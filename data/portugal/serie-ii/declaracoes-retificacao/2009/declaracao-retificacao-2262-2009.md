@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/2s/2009/09/176000000/3718537194.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -47,18 +47,18 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/declaracao-rectificacao/2262-2009-1516856
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2009-09-10T00:00:00Z'
+  retrieved_at: '2026-10-23T14:05:59Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 5479bfc3df2052b77a1df07f2897fc67c559809bbc975274cd432e90feb1cf81
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 0615ef1c98dad2519ec836c8fa2ea09bce1e68a3af14804162f9d15db6a415d7
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T14:05:59Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -70,13 +70,13 @@ relationships: []
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T14:05:59Z'
   warnings: []
   errors: []
 ---
@@ -135,99 +135,99 @@ Plano a aplicar aos alunos com 1.ªmatrícula em 2009-2010
 
 QUADRO 1.1a
 
-[([ver documento original](https://files.diariodarepublica.pt/2s/2009/09/176000000/3718537194.pdf))](https://files.diariodarepublica.pt/2s/2009/09/176000000/3718537194.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/2s/2009/09/176000000/3718537194.pdf)
 
 QUADRO 1.1b
 
-[([ver documento original](https://files.diariodarepublica.pt/2s/2009/09/176000000/3718537194.pdf))](https://files.diariodarepublica.pt/2s/2009/09/176000000/3718537194.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/2s/2009/09/176000000/3718537194.pdf)
 
 B1. Licenciatura em Geologia com Minor em Agronomia
 
 QUADRO 1.2 (B1a)
 
-[([ver documento original](https://files.diariodarepublica.pt/2s/2009/09/176000000/3718537194.pdf))](https://files.diariodarepublica.pt/2s/2009/09/176000000/3718537194.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/2s/2009/09/176000000/3718537194.pdf)
 
 QUADRO 1.2 (B1b)
 
-[([ver documento original](https://files.diariodarepublica.pt/2s/2009/09/176000000/3718537194.pdf))](https://files.diariodarepublica.pt/2s/2009/09/176000000/3718537194.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/2s/2009/09/176000000/3718537194.pdf)
 
 B2. Licenciatura em Geologia com Minor em Astronomia
 
 QUADRO 1.2 (B2a)
 
-[([ver documento original](https://files.diariodarepublica.pt/2s/2009/09/176000000/3718537194.pdf))](https://files.diariodarepublica.pt/2s/2009/09/176000000/3718537194.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/2s/2009/09/176000000/3718537194.pdf)
 
 QUADRO 1.2 (B2b)
 
-[([ver documento original](https://files.diariodarepublica.pt/2s/2009/09/176000000/3718537194.pdf))](https://files.diariodarepublica.pt/2s/2009/09/176000000/3718537194.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/2s/2009/09/176000000/3718537194.pdf)
 
 B3. Licenciatura em Geologia com Minor em Biologia
 
 QUADRO 1.2 (B3a)
 
-[([ver documento original](https://files.diariodarepublica.pt/2s/2009/09/176000000/3718537194.pdf))](https://files.diariodarepublica.pt/2s/2009/09/176000000/3718537194.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/2s/2009/09/176000000/3718537194.pdf)
 
 QUADRO 1.2 (B3b)
 
-[([ver documento original](https://files.diariodarepublica.pt/2s/2009/09/176000000/3718537194.pdf))](https://files.diariodarepublica.pt/2s/2009/09/176000000/3718537194.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/2s/2009/09/176000000/3718537194.pdf)
 
 B4. Licenciatura em Geologia com Minor em Estatística e Modelos
 
 QUADRO 1.2 (B4)
 
-[([ver documento original](https://files.diariodarepublica.pt/2s/2009/09/176000000/3718537194.pdf))](https://files.diariodarepublica.pt/2s/2009/09/176000000/3718537194.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/2s/2009/09/176000000/3718537194.pdf)
 
 B5. Licenciatura em Geologia com Minor em Física
 
 QUADRO 1.2 (B5a)
 
-[([ver documento original](https://files.diariodarepublica.pt/2s/2009/09/176000000/3718537194.pdf))](https://files.diariodarepublica.pt/2s/2009/09/176000000/3718537194.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/2s/2009/09/176000000/3718537194.pdf)
 
 QUADRO 1.2 (B5b)
 
-[([ver documento original](https://files.diariodarepublica.pt/2s/2009/09/176000000/3718537194.pdf))](https://files.diariodarepublica.pt/2s/2009/09/176000000/3718537194.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/2s/2009/09/176000000/3718537194.pdf)
 
 B6. Licenciatura em Geologia com Minor em Informação Geográfica
 
 QUADRO 1.2 (B6a)
 
-[([ver documento original](https://files.diariodarepublica.pt/2s/2009/09/176000000/3718537194.pdf))](https://files.diariodarepublica.pt/2s/2009/09/176000000/3718537194.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/2s/2009/09/176000000/3718537194.pdf)
 
 QUADRO 1.2 (B6b)
 
-[([ver documento original](https://files.diariodarepublica.pt/2s/2009/09/176000000/3718537194.pdf))](https://files.diariodarepublica.pt/2s/2009/09/176000000/3718537194.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/2s/2009/09/176000000/3718537194.pdf)
 
 B7. Licenciatura em Geologia com Minor em Informática
 
 QUADRO 1.2 (B7a)
 
-[([ver documento original](https://files.diariodarepublica.pt/2s/2009/09/176000000/3718537194.pdf))](https://files.diariodarepublica.pt/2s/2009/09/176000000/3718537194.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/2s/2009/09/176000000/3718537194.pdf)
 
 QUADRO 1.2 (B7b)
 
-[([ver documento original](https://files.diariodarepublica.pt/2s/2009/09/176000000/3718537194.pdf))](https://files.diariodarepublica.pt/2s/2009/09/176000000/3718537194.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/2s/2009/09/176000000/3718537194.pdf)
 
 B8. Licenciatura em Geologia com Minor em Matemática
 
 QUADRO 1.2 (B8)
 
-[([ver documento original](https://files.diariodarepublica.pt/2s/2009/09/176000000/3718537194.pdf))](https://files.diariodarepublica.pt/2s/2009/09/176000000/3718537194.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/2s/2009/09/176000000/3718537194.pdf)
 
 B9. Licenciatura em Geologia com Minor em Matemática Aplicada
 
 QUADRO 1.2 (B9)
 
-[([ver documento original](https://files.diariodarepublica.pt/2s/2009/09/176000000/3718537194.pdf))](https://files.diariodarepublica.pt/2s/2009/09/176000000/3718537194.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/2s/2009/09/176000000/3718537194.pdf)
 
 B10. Licenciatura em Geologia com Minor em Química
 
 QUADRO 1.2 (B10a)
 
-[([ver documento original](https://files.diariodarepublica.pt/2s/2009/09/176000000/3718537194.pdf))](https://files.diariodarepublica.pt/2s/2009/09/176000000/3718537194.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/2s/2009/09/176000000/3718537194.pdf)
 
 QUADRO 1.2 (B10b)
 
-[([ver documento original](https://files.diariodarepublica.pt/2s/2009/09/176000000/3718537194.pdf))](https://files.diariodarepublica.pt/2s/2009/09/176000000/3718537194.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/2s/2009/09/176000000/3718537194.pdf)
 
 10 - Observações:
 
@@ -247,37 +247,37 @@ Licenciatura com Formação Complementar na área
 
 QUADRO N.º 2
 
-[([ver documento original](https://files.diariodarepublica.pt/2s/2009/09/176000000/3718537194.pdf))](https://files.diariodarepublica.pt/2s/2009/09/176000000/3718537194.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/2s/2009/09/176000000/3718537194.pdf)
 
 2.º ano
 
 QUADRO N.º 3
 
-[([ver documento original](https://files.diariodarepublica.pt/2s/2009/09/176000000/3718537194.pdf))](https://files.diariodarepublica.pt/2s/2009/09/176000000/3718537194.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/2s/2009/09/176000000/3718537194.pdf)
 
 3.º ano
 
 QUADRO N.º 4
 
-[([ver documento original](https://files.diariodarepublica.pt/2s/2009/09/176000000/3718537194.pdf))](https://files.diariodarepublica.pt/2s/2009/09/176000000/3718537194.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/2s/2009/09/176000000/3718537194.pdf)
 
 Unidades curriculares optativas (2.º e 3.º anos)
 
 QUADRO N.º 5
 
-[([ver documento original](https://files.diariodarepublica.pt/2s/2009/09/176000000/3718537194.pdf))](https://files.diariodarepublica.pt/2s/2009/09/176000000/3718537194.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/2s/2009/09/176000000/3718537194.pdf)
 
 Minor em Agronomia
 
 QUADRO N.º 6
 
-[([ver documento original](https://files.diariodarepublica.pt/2s/2009/09/176000000/3718537194.pdf))](https://files.diariodarepublica.pt/2s/2009/09/176000000/3718537194.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/2s/2009/09/176000000/3718537194.pdf)
 
 Minor em Astronomia
 
 QUADRO N.º 7
 
-[([ver documento original](https://files.diariodarepublica.pt/2s/2009/09/176000000/3718537194.pdf))](https://files.diariodarepublica.pt/2s/2009/09/176000000/3718537194.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/2s/2009/09/176000000/3718537194.pdf)
 
 1 - Se a Formação Principal do aluno não tiver "Cálculo Infinitesimal II (M112)" ou disciplina equivalente, tal opção terá de ser escolhida.
 
@@ -293,75 +293,75 @@ Minor em Biologia
 
 QUADRO N.º 8
 
-[([ver documento original](https://files.diariodarepublica.pt/2s/2009/09/176000000/3718537194.pdf))](https://files.diariodarepublica.pt/2s/2009/09/176000000/3718537194.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/2s/2009/09/176000000/3718537194.pdf)
 
 Opções no Minor em Biologia
 
 QUADRO N.º 9
 
-[([ver documento original](https://files.diariodarepublica.pt/2s/2009/09/176000000/3718537194.pdf))](https://files.diariodarepublica.pt/2s/2009/09/176000000/3718537194.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/2s/2009/09/176000000/3718537194.pdf)
 
 Minor em Estatística e Modelos
 
 QUADRO N.º 10
 
-[([ver documento original](https://files.diariodarepublica.pt/2s/2009/09/176000000/3718537194.pdf))](https://files.diariodarepublica.pt/2s/2009/09/176000000/3718537194.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/2s/2009/09/176000000/3718537194.pdf)
 
 Opções no Minor em Estatística e Modelos
 
 QUADRO N.º 11
 
-[([ver documento original](https://files.diariodarepublica.pt/2s/2009/09/176000000/3718537194.pdf))](https://files.diariodarepublica.pt/2s/2009/09/176000000/3718537194.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/2s/2009/09/176000000/3718537194.pdf)
 
 Minor em Física
 
 QUADRO N.º 12
 
-[([ver documento original](https://files.diariodarepublica.pt/2s/2009/09/176000000/3718537194.pdf))](https://files.diariodarepublica.pt/2s/2009/09/176000000/3718537194.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/2s/2009/09/176000000/3718537194.pdf)
 
 Opção A
 
-[([ver documento original](https://files.diariodarepublica.pt/2s/2009/09/176000000/3718537194.pdf))](https://files.diariodarepublica.pt/2s/2009/09/176000000/3718537194.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/2s/2009/09/176000000/3718537194.pdf)
 
 Opção B: Alternativa 1
 
-[([ver documento original](https://files.diariodarepublica.pt/2s/2009/09/176000000/3718537194.pdf))](https://files.diariodarepublica.pt/2s/2009/09/176000000/3718537194.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/2s/2009/09/176000000/3718537194.pdf)
 
 Opção B: Alternativa 2
 
-[([ver documento original](https://files.diariodarepublica.pt/2s/2009/09/176000000/3718537194.pdf))](https://files.diariodarepublica.pt/2s/2009/09/176000000/3718537194.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/2s/2009/09/176000000/3718537194.pdf)
 
 Opção C
 
-[([ver documento original](https://files.diariodarepublica.pt/2s/2009/09/176000000/3718537194.pdf))](https://files.diariodarepublica.pt/2s/2009/09/176000000/3718537194.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/2s/2009/09/176000000/3718537194.pdf)
 
 Opção D
 
-[([ver documento original](https://files.diariodarepublica.pt/2s/2009/09/176000000/3718537194.pdf))](https://files.diariodarepublica.pt/2s/2009/09/176000000/3718537194.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/2s/2009/09/176000000/3718537194.pdf)
 
 Minor em Informação Geográfica
 
 QUADRO N.º 13
 
-[([ver documento original](https://files.diariodarepublica.pt/2s/2009/09/176000000/3718537194.pdf))](https://files.diariodarepublica.pt/2s/2009/09/176000000/3718537194.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/2s/2009/09/176000000/3718537194.pdf)
 
 Minor em Informática
 
 QUADRO N.º 14
 
-[([ver documento original](https://files.diariodarepublica.pt/2s/2009/09/176000000/3718537194.pdf))](https://files.diariodarepublica.pt/2s/2009/09/176000000/3718537194.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/2s/2009/09/176000000/3718537194.pdf)
 
 Lista de opções do Minor em Informática
 
 QUADRO N.º 15
 
-[([ver documento original](https://files.diariodarepublica.pt/2s/2009/09/176000000/3718537194.pdf))](https://files.diariodarepublica.pt/2s/2009/09/176000000/3718537194.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/2s/2009/09/176000000/3718537194.pdf)
 
 Minor em Matemática
 
 QUADRO N.º 16
 
-[([ver documento original](https://files.diariodarepublica.pt/2s/2009/09/176000000/3718537194.pdf))](https://files.diariodarepublica.pt/2s/2009/09/176000000/3718537194.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/2s/2009/09/176000000/3718537194.pdf)
 
 Opções no Minor em Matemática
 
@@ -369,17 +369,17 @@ Lista M1
 
 QUADRO N.º 17
 
-[([ver documento original](https://files.diariodarepublica.pt/2s/2009/09/176000000/3718537194.pdf))](https://files.diariodarepublica.pt/2s/2009/09/176000000/3718537194.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/2s/2009/09/176000000/3718537194.pdf)
 
 Lista M2
 
-[([ver documento original](https://files.diariodarepublica.pt/2s/2009/09/176000000/3718537194.pdf))](https://files.diariodarepublica.pt/2s/2009/09/176000000/3718537194.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/2s/2009/09/176000000/3718537194.pdf)
 
 Minor em Matemática Aplicada
 
 QUADRO N.º 18
 
-[([ver documento original](https://files.diariodarepublica.pt/2s/2009/09/176000000/3718537194.pdf))](https://files.diariodarepublica.pt/2s/2009/09/176000000/3718537194.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/2s/2009/09/176000000/3718537194.pdf)
 
 Opções no Minor em Matemática Aplicada
 
@@ -387,22 +387,24 @@ Lista MA1
 
 QUADRO N.º 19
 
-[([ver documento original](https://files.diariodarepublica.pt/2s/2009/09/176000000/3718537194.pdf))](https://files.diariodarepublica.pt/2s/2009/09/176000000/3718537194.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/2s/2009/09/176000000/3718537194.pdf)
 
 Lista MA2
 
-[([ver documento original](https://files.diariodarepublica.pt/2s/2009/09/176000000/3718537194.pdf))](https://files.diariodarepublica.pt/2s/2009/09/176000000/3718537194.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/2s/2009/09/176000000/3718537194.pdf)
 
 Minor em Química
 
 QUADRO N.º 20
 
-[([ver documento original](https://files.diariodarepublica.pt/2s/2009/09/176000000/3718537194.pdf))](https://files.diariodarepublica.pt/2s/2009/09/176000000/3718537194.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/2s/2009/09/176000000/3718537194.pdf)
 
 Opções no Minor em Química
 
 QUADRO N.º 21
 
-[([ver documento original](https://files.diariodarepublica.pt/2s/2009/09/176000000/3718537194.pdf))](https://files.diariodarepublica.pt/2s/2009/09/176000000/3718537194.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/2s/2009/09/176000000/3718537194.pdf)
 
 4 de Setembro de 2009. - O Reitor, José Carlos Diogo Marques dos Santos.
+
+202266691

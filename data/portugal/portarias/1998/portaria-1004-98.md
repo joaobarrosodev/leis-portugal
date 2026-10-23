@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/1004/1998/11/27/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/1004-1998-217335
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2000-04-28T00:00:00Z'
+  retrieved_at: '2026-10-23T14:06:24Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: c13f2ec5e189ede39d6a194b14400214787cbf0dc1fe968e1f52b15bca688e3c
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 6f13938095c2db5ba7c3f82bc916b26b245837c7528a24dc2f9902998415b1bd
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T14:06:24Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -65,32 +65,57 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Pesca
-- Recursos do Mar
-- Proteção do Ambiente
-- Produtos de Pesca
-- Embarcação de Pesca
-- Sardinha
 - Comércio
+- Embarcação de Pesca
+- Pesca
+- Produtos de Pesca
+- Proteção do Ambiente
+- Recursos do Mar
+- Sardinha
 relationships:
 - type: amended_by
   target: pt:dre:522227:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:522227:por
+  label: "Alterada a al. a) do n.º 2 (na redacção do presente diploma) e os n.ºs 3 e 6 (ambos na redacção das Port 376/98,\
+    \ de 01-Jul e 677/99, de 23-Ago) e revogado o n.º 11 todos da Port 281-B/97, de 30-Abr, pela PORT.236/2000.2000.04.28.MADRP\
+    \ DR.IS-B [99]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/236-2000-522227
+  date: '2000-04-28'
 - type: cites
   target: eli:http://data.dre.pt/eli/port/281-b/1997/04/30/p/dre
   label: null
   source: http://data.dre.pt/eli/port/281-b/1997/04/30/p/dre
+- type: cites
+  target: pt:dre:157985:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:420193:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:420460:por
+  label: null
+  source: null
+- type: republished_by
+  target: pt:dre:522227:por
+  label: "Republicado o texto da Port 281-B/97, de 30-Abr, na redacção do presente diploma e das Ports. 376/98, de 01-Jul,\
+    \ 147-B/99 de 2/Mar, 677/99 de 23/Ago, 935-B/99 de 21-Out, pela PORT.236/2000.2000.04.28.MADRP DR.IS-B [99]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/236-2000-522227
+  date: '2000-04-28'
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T14:06:24Z'
   warnings: []
   errors: []
 ---
@@ -123,6 +148,6 @@ Entre 1 de Novembro e 30 de Abril - das 0 horas de sábado até às 0 horas de s
 
 Ministério da Agricultura, do Desenvolvimento Rural e das Pescas.
 
-**Assinada em 11 de Novembro de 1998.**
+Assinada em 11 de Novembro de 1998.
 
 Pelo Ministro da Agricultura, do Desenvolvimento Rural e das Pescas, José Apolinário Nunes Portada, Secretário de Estado das Pescas.

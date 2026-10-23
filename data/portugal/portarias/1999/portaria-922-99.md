@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/922/1999/10/20/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/922-1999-667499
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2006-05-31T00:00:00Z'
+  retrieved_at: '2026-10-23T14:18:39Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: b87fa5ee3202fe211cceba4a3e7a3ccda8dac2e45a7ccc6b0de35909cd42603b
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 2d000124e1531d0add8aa492edad141fe34326da0705de4341e2ad4f96d4b13f
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T14:18:39Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,15 +66,15 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
+- Contribuições e Impostos
 - Direcção Geral dos Impostos
 - Documento de Cobrança
-- Impresso
 - Imposto de Camionagem
 - Imposto de Circulação
-- Contribuições e Impostos
-- Veículo
-- Transporte de Mercadorias
+- Impresso
 - Regulamento
+- Transporte de Mercadorias
+- Veículo
 relationships:
 - type: amended_by
   target: pt:dre:286952:por
@@ -96,16 +96,37 @@ relationships:
   target: eli:http://data.dre.pt/eli/port/682/1998/09/01/p/dre
   label: null
   source: http://data.dre.pt/eli/port/682/1998/09/01/p/dre
+- type: cites
+  target: pt:dre:165664:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:218496:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:250664:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:566643:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:286952:por
+  label: "Revogado o nº 2º pela PORT.499/2006.31.05.2006.MFAP, DR.IS-B [105] de 31.05.2006\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/499-2006-286952
+  date: '2006-05-31'
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T14:18:39Z'
   warnings: []
   errors: []
 ---
@@ -130,6 +151,6 @@ Manda o Governo, pelo Ministro das Finanças, nos termos do artigo 2.º do [Decr
 
 4.º Fica revogado o n.º 1.º da [Portaria n.º 682/98](https://diariodarepublica.pt/dr/detalhe/portaria/682-1998-566643), de 1 de Setembro.
 
-**O Ministro das Finanças, António Luciano Pacheco de Sousa Franco, em 21 de Setembro de 1999.**
+O Ministro das Finanças, António Luciano Pacheco de Sousa Franco, em 21 de Setembro de 1999.
 
 [(ver modelos no documento original)](https://files.diariodarepublica.pt/1s/1999/10/245b00/69997001.pdf)

@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/2s/2010/05/099000000/2806628066.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -46,18 +46,18 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/declaracao-rectificacao/1005-2010-2088041
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2010-05-21T00:00:00Z'
+  retrieved_at: '2026-10-23T14:15:02Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 45fdf1157953f16a41e0467e8b4fa2ffcbc19435b3e45ef6fcbc96d884ada568
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: ef109725ba3c2543d5b18d2c7630a3372ce6044622f8d3c360217266dc837e49
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T14:15:02Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -69,13 +69,13 @@ relationships: []
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T14:15:02Z'
   warnings: []
   errors: []
 ---
@@ -87,3 +87,5 @@ Declaração de rectificação n.º 1005/2010
 Por ter sido publicado com inexactidão o aviso n.º 26373/2007 (Diário da República, 2.ª série, n.º 251, de 31 de Dezembro de 2007), relativo à concessão da nacionalidade portuguesa, por naturalização, rectifica-se que onde se lê «Evgenia Vladimirovna Chvets» deve ler-se «Eugénia Chvets».
 
 17 de Maio de 2010. - Pelo Director Nacional, Maria Helena Bastos Martins.
+
+203269196

@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/412/1998/07/14/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/412-1998-423899
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2006-06-09T00:00:00Z'
+  retrieved_at: '2026-10-23T14:08:40Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 7b29f1fff33cc515086bbcb2b9f1821a95198b9828852e0ab1288df50bcb01ce
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 09b785fb49624151aa2876155529667c0d9c56b99627aed51915993500a18034
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T14:08:40Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -69,19 +69,32 @@ subjects:
 - Aproximação das Legislações
 - CE Países
 - Controlo Sanitário
-- Saúde Pública
 - Fiscalização
 - Importação
 - Instituto de Protecção da Produção Agro-Alimentar
 - Licenciamento
 - Política Agrícola Comum
 - Produto Animal
+- Saúde Pública
 - Troca Intracomunitária
 relationships:
 - type: amended_by
   target: pt:dre:346359:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:580776:por
+  label: "Alterados os artigos 3.º e 8.º e o anexo I e revogadas as alíneas e) e g) do n.º 1 do artigo 2.º e os capítulos\
+    \ 1, 3, 4, 8, 10 e 12 a 15 também do anexo I da Portaria n.º 492/95, de 23 de Maio DR.IS-B [119] na redacção que lhe foi\
+    \ conferida pelo presente diploma, pelo DEC LEI.32/2004.07.02.2004.MADRP, DR.IS-A [32] de 07.02.2004\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/32-2004-580776
+  date: '2004-02-07'
+- type: amended_by
+  target: pt:dre:346359:por
+  label: "Alterada a denominação do anexo I e revogado o anexo II da Port 492/95, de 23-Mai, na redacção do presente diploma,\
+    \ pelo DEC LEI.111/2006.09.06.2006.MADRP, DR.IS-A [112] de 09.06.2006\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/111-2006-346359
+  date: '2006-06-09'
 - type: cites
   target: celex:31986L0662
   label: null
@@ -136,14 +149,14 @@ relationships:
   source: http://data.europa.eu/eli/dec/
 article_structure:
   article_count: 0
-  section_count: 5
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  section_count: 0
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T14:08:40Z'
   warnings: []
   errors: []
 ---
@@ -190,7 +203,9 @@ b) Será determinada a natureza dos eventuais tratamentos ou as medidas a tomar 
 
 4 - Na pendência da elaboração das listas previstas nas alíneas a) e b), subalínea ii) do n.º 2, serão mantidos os controlos previstos no artigo 11.º do regulamento aprovado pela Portaria n.º 774/93 e o certificado nacional exigido para os produtos importados, de acordo com a legislação nacional vigente.
 
-## ANEXO I — CAPÍTULO 1
+ANEXO I
+
+CAPÍTULO 1
 
 Leite, produtos à base de leite e colostro não destinados ao consumo humano
 
@@ -220,7 +235,9 @@ d) Em caso de acondicionamento a granel, que os veículos ou contentores utiliza
 
 4) Além das condições previstas nos n.os 1), 2) e 3) supra, só são autorizadas as importações de leite, de produtos à base de leite e de colostro não destinados ao consumo humano provenientes de países terceiros ou de partes de países terceiros constantes das listas previstas no artigo 18.º do regulamento aprovado pela Portaria n.º 533/93, de 21 de Maio, e que satisfaçam as condições fixadas no artigo 20.º do mesmo regulamento. No caso de ser identificado um risco de introdução de uma doença exótica ou qualquer outro risco em matéria de saúde animal, podem ser estabelecidas, em conformidade com o procedimento comunitário a definir oportunamente, condições suplementares destinadas a proteger a saúde animal.
 
-### CAPÍTULO 7 — Sangue e produtos derivados de sangue de ungulados e de aves de capoeira (com excepção de soro de equídeos)
+CAPÍTULO 7
+
+Sangue e produtos derivados de sangue de ungulados e de aves de capoeira (com excepção de soro de equídeos)
 
 I - Sangue fresco e produtos derivados do sangue destinados ao consumo humano
 
@@ -294,7 +311,9 @@ iv) No caso de produtos derivados de sangue de bovino, os referidos produtos pre
 
 b) As condições para a importação de meios de diagnóstico in vitro e de reagentes de laboratório serão estabelecidos em procedimento comunitário a definir.
 
-### CAPÍTULO 14 — Chorume
+CAPÍTULO 14
+
+Chorume
 
 Na acepção do presente capítulo, entende-se por chorume qualquer excremento e ou urina de biungulados, de equídeos e ou de aves de capoeira, com ou sem as camas de palha, bem como o guano.
 
@@ -372,9 +391,13 @@ III - Guano
 
 O comércio e as importações de guano não ficam sujeitos a quaisquer condições de polícia sanitária.
 
-## ANEXO II — Condições específicas de saúde pública
+ANEXO II
 
-### CAPÍTULO 1 — Importações a partir de países terceiros de produtos à base de carne
+Condições específicas de saúde pública
+
+CAPÍTULO 1
+
+Importações a partir de países terceiros de produtos à base de carne
 
 Os produtos à base de carne obtidos a partir de carnes de aves de capoeira, de caça selvagem, de carnes de coelho e de caça de criação só podem ser importadas:
 
@@ -396,7 +419,9 @@ d) Se forem preparados, inspeccionados e manipulados de acordo com as exigência
 
 e) Se cada lote de produto à base de carne for acompanhado de um certificado sanitário elaborado de acordo com o procedimento comunitário previsto.
 
-### CAPÍTULO 2 — I - Comércio de ovos com a Finlândia e Suécia
+CAPÍTULO 2
+
+I - Comércio de ovos com a Finlândia e Suécia
 
 1 - Em relação às salmonelas e enquanto se aguarda a adopção das disposições comunitárias são aplicáveis as seguintes regras aos ovos destinados à Finlândia e à Suécia:
 
@@ -434,7 +459,9 @@ Higiene durante o abate;
 
 Pesquisa de resíduos.
 
-### CAPÍTULO 3 — I - Condições sanitárias específicas aplicáveis ao comércio e à importação de caracóis destinados ao consumo humano
+CAPÍTULO 3
+
+I - Condições sanitárias específicas aplicáveis ao comércio e à importação de caracóis destinados ao consumo humano
 
 A - Sem prejuízo das disposições comunitárias, nacionais ou internacionais, relativas à preservação da fauna selvagem, os caracóis a que se refere o presente capítulo são os gastrópodes terrestres das espécies Helix pomatia Linné, Helix aspersa Muller, Helix lucorum e espécies da família dos Achatinidae.
 
@@ -684,6 +711,6 @@ Nome (em maiúsculas) e assinatura do inspector oficial (ver nota 3) ...
 
 Ministérios da Economia e da Agricultura, do Desenvolvimento Rural e das Pescas.
 
-**Assinada em 24 de Junho de 1998.**
+Assinada em 24 de Junho de 1998.
 
 Pelo Ministro da Economia, Vítor Manuel Sampaio Caetano Ramalho, Secretário de Estado Adjunto do Ministro da Economia. - Pelo Ministro da Agricultura, do Desenvolvimento Rural e das Pescas, Luís Manuel Capoulas Santos, Secretário de Estado da Agricultura.

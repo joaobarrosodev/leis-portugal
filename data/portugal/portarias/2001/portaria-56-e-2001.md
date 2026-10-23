@@ -20,7 +20,7 @@ publication:
   reference: Diário da República n.º 24/2001, 2º Suplemento, Série I-B de 2001-01-29
   number: '24'
   series: I
-  supplement: 2º Suplemento
+  supplement: null
   pages: 472-(8) a 472-(10)
   pdf_url: https://files.diariodarepublica.pt/1s/2001/01/024b02/00080010.pdf
 entry_into_force_dates: []
@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/56-e/2001/01/29/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/56-e-2001-163806
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2003-02-15T00:00:00Z'
+  retrieved_at: '2026-10-23T14:33:03Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: dec6ee0a7a0846d86edf161b0939415a0a7ab248d1d9d9198bccf8311b3d6740
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: dcd5d3ed24d5139d2e8acdaa5d0bd37c98065ec3e87f596877d737719d3e9ae7
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T14:33:03Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,24 +67,30 @@ reuse:
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
 - Ajuda Comunitária
-- Aquisição de Equipamento
-- Financiamento
-- Direcção Geral das Pescas e Aquicultura
-- Pesca
 - Apoio ao Investimento
+- Aquisição de Equipamento
+- Direcção Geral das Pescas e Aquicultura
+- Financiamento
+- Ifadap
+- Intervenção Operacional Pescas
+- Pesca
 - QCA III
 - Regime de Apoio
 - Regime de Apoio à Modernização dos Equipamentos dos Portos de Pesca
-- Intervenção Operacional Pescas
 - Regulamento
 - Regulamento CE
-- Ifadap
 - Subsídio
 relationships:
 - type: amended_by
   target: pt:dre:197549:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:197549:por
+  label: "Altera a redacão aos arts. 6.º e 13.º do Regulamento anexo à Port 1071/2000 de 07-Nov, pela PORT.155/2003.2003.02.15.MADRP\
+    \ DR.IS-B [39]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/155-2003-197549
+  date: '2003-02-15'
 - type: cites
   target: celex:31999R2792
   label: null
@@ -94,15 +100,15 @@ relationships:
   label: null
   source: http://data.dre.pt/eli/port/1072/2000/11/07/p/dre
 article_structure:
-  article_count: 10
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T14:33:03Z'
   warnings: []
   errors: []
 ---
@@ -127,7 +133,9 @@ Objecto
 
 O presente Regulamento estabelece o regime de apoio à modernização dos equipamentos dos portos de pesca, nos termos do Regulamento (CE) n.º [2792/99](http://data.europa.eu/eli/reg/1999/2792/oj?locale=pt), do Conselho, de 17 de Dezembro, e do previsto no Decreto-Lei n.º 224/2000, de 9 de Setembro, que cria o MARE - Programa para o Desenvolvimento Sustentável do Sector da Pesca.
 
-###### Artigo 3.º — Tipos de projectos
+Artigo 3.º
+
+Tipos de projectos
 
 No âmbito do presente regime são enquadráveis os projectos que visem:
 
@@ -137,7 +145,9 @@ f) Construção ou adaptação de estruturas para preparação, acondicionamento
 
 ...
 
-###### Artigo 5.º — Condições gerais de acesso
+Artigo 5.º
+
+Condições gerais de acesso
 
 São condições gerais de acesso para candidatura ao presente regime:
 
@@ -145,7 +155,9 @@ a) Demonstrar capacidade técnica e de gestão que garanta a adequada concretiza
 
 ...
 
-###### Artigo 6.º — Condições específicas de acesso
+Artigo 6.º
+
+Condições específicas de acesso
 
 São condições específicas de acesso para candidatura ao presente regime:
 
@@ -155,7 +167,9 @@ c) Ter o investimento um valor global superior a (euro) 50000;
 
 ...
 
-###### Artigo 7.º — Critérios de selecção
+Artigo 7.º
+
+Critérios de selecção
 
 ...
 
@@ -163,13 +177,17 @@ c) Ter o investimento um valor global superior a (euro) 50000;
 
 ...
 
-###### Artigo 13.º — Natureza e montante dos apoios
+Artigo 13.º
+
+Natureza e montante dos apoios
 
 1 - A natureza e o montante dos apoios previstos no presente regime compreendem uma comparticipação, a fundo perdido, nos montantes de investimento elegível por parte do Instrumento Financeiro de Orientação das Pescas (IFOP) em 35% e do Estado Português em:
 
 ...
 
-###### Artigo 17.º — Obrigações dos promotores
+Artigo 17.º
+
+Obrigações dos promotores
 
 Sem prejuízo das obrigações previstas no artigo 8.º do Decreto-Lei n.º 224/2000, de 9 de Setembro, constituem obrigações dos promotores:
 
@@ -179,7 +197,9 @@ g) Constituir um seguro pelo montante mínimo correspondente ao valor dos apoios
 
 ...
 
-## ANEXO III — (a que se refere o artigo 9.º)
+ANEXO III
+
+(a que se refere o artigo 9.º)
 
 Apreciação económica e financeira (AE)
 
@@ -199,7 +219,9 @@ São condições específicas de acesso:
 
 e) No caso dos projectos previstos na alínea a) do artigo 3.º, as alterações em estabelecimentos com número de controlo veterinário que impliquem autorização, de acordo com a legislação em vigor, devem estar, à data da apresentação da candidatura, devidamente autorizadas.
 
-###### Artigo 7.º — Critérios de selecção
+Artigo 7.º
+
+Critérios de selecção
 
 ...
 
@@ -209,13 +231,17 @@ a) Projectos localizados na Região de Lisboa e Vale do Tejo;
 
 b) Projectos localizados nas restantes regiões do continente.
 
-###### Artigo 13.º — Natureza e montantes dos apoios
+Artigo 13.º
+
+Natureza e montantes dos apoios
 
 ...
 
 4 - O subsídio reembolsável assume a forma de empréstimo à taxa de juro zero, sendo amortizado no prazo máximo de cinco anos, nele se incluindo o período máximo de dois anos de carência.
 
-###### Artigo 17.º — Obrigações dos promotores
+Artigo 17.º
+
+Obrigações dos promotores
 
 Sem prejuízo das obrigações previstas no artigo 8.º do Decreto-Lei n.º 224/2000, de 9 de Setembro, constituem obrigações dos promotores:
 
@@ -223,7 +249,9 @@ Sem prejuízo das obrigações previstas no artigo 8.º do Decreto-Lei n.º 224/
 
 m) Nos investimentos com apoios reembolsáveis, enviar ao IFADAP, até 30 de Junho de cada ano e enquanto não for efectuado o reembolso integral do apoio atribuído sob a forma de subsídio reembolsável, cópia dos modelos fiscais e seus anexos, entregues à administração fiscal, relativos ao ano precedente.
 
-###### Artigo 19.º — Disposições transitórias
+Artigo 19.º
+
+Disposições transitórias
 
 ...
 
@@ -233,4 +261,4 @@ m) Nos investimentos com apoios reembolsáveis, enviar ao IFADAP, até 30 de Jun
 
 3.º O disposto no presente diploma aplica-se às candidaturas já reformuladas ou apresentadas ao abrigo da Portaria n.º 1072/2000, de 7 de Novembro.
 
-**O Ministro da Agricultura, do Desenvolvimento Rural e das Pescas, Luís Manuel Capoulas Santos, em 26 de Janeiro de 2001.**
+O Ministro da Agricultura, do Desenvolvimento Rural e das Pescas, Luís Manuel Capoulas Santos, em 26 de Janeiro de 2001.

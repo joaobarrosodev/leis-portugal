@@ -49,18 +49,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/1240/1997/12/18/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/1240-1997-420409
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2007-09-17T00:00:00Z'
+  retrieved_at: '2026-10-23T14:00:23Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 7291b1c009fea6e3340547df3a2aa2a59b63986b6e72f154a58cb75f95111c28
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: d007d8357074e7413697d2c7a32ee940aacf7169c06d07ae0795b126a8ad7135
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T14:00:23Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -75,6 +75,18 @@ relationships:
   target: pt:dre:640359:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:354571:por
+  label: "Alterada pela PORT.530/99.1999.07.22.MECO DR.IS-B [169]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/530-1999-354571
+  date: '1999-07-22'
+- type: amended_by
+  target: pt:dre:640359:por
+  label: "Transferida para a PERDICAMPO - Produção e Comercialização de Aves de Caça, Lda. a zona de caça atribuída pelo presente\
+    \ diploma, com a alteração constante da Port 530/99 de 22-Jul, pela PORT.1189/2007.17.09.2007.MADRP, DR.IS [179] de 17.09.2007,\
+    \ que renovou por doze anos a concessão da referida zona de caça e anexou vários prédios rústicos à mesma. \0 \0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/1189-2007-640359
+  date: '2007-09-17'
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/136/1996/08/14/p/dre
   label: null
@@ -87,16 +99,40 @@ relationships:
   target: eli:http://data.dre.pt/eli/port/615-l2/1991/07/08/p/dre
   label: null
   source: http://data.dre.pt/eli/port/615-l2/1991/07/08/p/dre
+- type: cites
+  target: pt:dre:205994:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:219134:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:354162:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:405765:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:619925:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:620697:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T14:00:23Z'
   warnings: []
   errors: []
 ---
@@ -137,8 +173,8 @@ Manda o Governo, pelos Ministros da Economia e da Agricultura, do Desenvolviment
 
 Ministérios da Economia e da Agricultura, do Desenvolvimento Rural e das Pescas.
 
-**Assinada em 14 de Novembro de 1997.**
+Assinada em 14 de Novembro de 1997.
 
-**O Ministro da Economia, Jaime Serrão Andrez, Secretário de Estado do Comércio e Turismo. - Pelo Ministro da Agricultura, do Desenvolvimento Rural e das Pescas, Luís Manuel Capoulas Santos, Secretário de Estado da Agricultura e do Desenvolvimento Rural.**
+O Ministro da Economia, Jaime Serrão Andrez, Secretário de Estado do Comércio e Turismo. - Pelo Ministro da Agricultura, do Desenvolvimento Rural e das Pescas, Luís Manuel Capoulas Santos, Secretário de Estado da Agricultura e do Desenvolvimento Rural.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1997/12/291b00/66916691.pdf))](https://files.diariodarepublica.pt/1s/1997/12/291b00/66916691.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1997/12/291b00/66916691.pdf)

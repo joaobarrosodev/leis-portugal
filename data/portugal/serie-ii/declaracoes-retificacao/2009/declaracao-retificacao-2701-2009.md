@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/2s/2009/11/214000000/4489844899.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -46,18 +46,18 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/declaracao-rectificacao/2701-2009-3677521
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2009-11-04T00:00:00Z'
+  retrieved_at: '2026-10-23T14:08:30Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: e7036f4c990d8dda5bd478b6a498ed6c2a3f20c9a4ecba3ac0adb4de0e65aa1d
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: a37d09c1bb7394e03cf17e68a3df9ab8e5adfa5b190d0dbc1d8f890033920538
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T14:08:30Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -69,13 +69,13 @@ relationships: []
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T14:08:30Z'
   warnings: []
   errors: []
 ---
@@ -87,3 +87,5 @@ Declaração de rectificação n.º 2701/2009
 Rectifica-se que no aviso n.º 18 567/2009, publicado no Diário da República, 2.ª série, n.º 204, de 21 de Outubro de 2009, relativo ao procedimento concursal comum de recrutamento, onde se lê «Recrutamento para 2 Assistentes Técnicos Administrativos» deve ler-se «Recrutamento para 1 Assistente Técnico Administrativo».
 
 28 de Outubro de 2009. - O Director, Carlos Arlindo Faria Miranda Monteiro.
+
+202511229

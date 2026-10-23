@@ -25,9 +25,7 @@ publication:
 entry_into_force_dates: []
 end_of_validity_date: null
 legal_status: in_force
-notes:
-- 'Fonte sem texto: o DRE lista este diploma como consolidado mas não tem texto consolidado em nenhuma data (verificado em
-  2026-10-22).'
+notes: []
 language: por
 version:
   kind: original
@@ -48,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/274/2000/05/22/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/274-2000-300004
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2000-05-31T00:00:00Z'
+  retrieved_at: '2026-10-23T14:22:36Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 52fa5c12c29a6117c26321711f6795f9facb695b18eaf89f524754b7b967ab14
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: c7c9df08354d14a50e45f48d76f509e4c9a7195882f513c5b9444af9a7f96781
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T14:22:36Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -69,7 +67,6 @@ reuse:
 subjects:
 - Abrantes
 - Comissão Instaladora
-- Ministério da Educação
 - Denominação de Instituição
 - Ensino Agrícola
 - Ensino Oficial
@@ -77,6 +74,7 @@ subjects:
 - Escola Profissional
 - Escola Profissional de Agricultura e Desenvolvimento Rural
 - Mandato
+- Ministério da Educação
 - Regime de Instalação
 relationships:
 - type: amended_by
@@ -119,16 +117,61 @@ relationships:
   target: eli:http://data.dre.pt/eli/port/970/1997/09/15/p/dre
   label: null
   source: http://data.dre.pt/eli/port/970/1997/09/15/p/dre
+- type: cites
+  target: pt:dre:155636:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:187309:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:208255:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:224851:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:534636:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:546844:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:587844:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:609609:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:649095:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:690648:por
+  label: null
+  source: null
+- type: corrected_by
+  target: pt:dre:522259:por
+  label: "Rectificada pela DECL-RECT.6-M/2000.2000.05.31.PCM, DR.IS-B [126]3ºSupl. de 31/Mai/2000\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/declaracao-rectificacao/6-m-2000-522259
+  date: '2000-05-31'
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T14:22:36Z'
   warnings: []
   errors: []
 ---

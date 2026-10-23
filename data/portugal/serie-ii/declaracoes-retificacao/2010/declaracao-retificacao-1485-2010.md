@@ -26,7 +26,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/2s/2010/07/143000000/4000640006.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -48,18 +48,18 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/declaracao-rectificacao/1485-2010-3521000
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2010-07-26T00:00:00Z'
+  retrieved_at: '2026-10-23T14:17:54Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: fdf099a848b7dfa869e22e3076d20634ebcccb7d083946f50835b56eeedd8613
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: a9cafc8a8e1e3744d3cc033a3307d362d9d5ddb1d335425dc9aa90d903c1d5ca
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T14:17:54Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -71,13 +71,13 @@ relationships: []
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T14:17:54Z'
   warnings: []
   errors: []
 ---
@@ -89,3 +89,5 @@ Declaração de rectificação n.º 1485/2010
 No despacho n.º 6237/2010, da Escola Secundária Padre Benjamim Salgado, publicado no Diário da República, 2.ª série, n.º 68, de 8 de Abril de 2010, relativo à homologação dos contratos administrativos de serviço docente do 3.º ciclo e secundário, celebrados para o ano lectivo de 2009-2010, onde se lê o grupo de docência «400» do docente Paulo Filipe Gonçalves Gomes da Silva»« deve ler-se «410».
 
 19 de Julho de 2010. - O Director, José Alfredo Rodrigues Mendes.
+
+203503244

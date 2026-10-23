@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/2s/2009/10/192000000/4017540175.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -46,18 +46,18 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/declaracao-rectificacao/2440-2009-1534785
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2009-10-02T00:00:00Z'
+  retrieved_at: '2026-10-23T14:06:59Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 98cc49372bd6cdd6c1da824c17024c194b306dcc65b2704da169e250294a8c2d
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 95cf044b22c0e02605bd91d73fe96c00dcfacdf8827f1faf795c2276ad6b30a6
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T14:06:59Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -69,13 +69,13 @@ relationships: []
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T14:06:59Z'
   warnings: []
   errors: []
 ---
@@ -90,7 +90,7 @@ Por ter sido publicado com inexactidão o quadro n.º 30, constante do despacho 
 
 QUADRO N.º 30
 
-[([ver documento original](https://files.diariodarepublica.pt/2s/2009/10/192000000/4017540175.pdf))](https://files.diariodarepublica.pt/2s/2009/10/192000000/4017540175.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/2s/2009/10/192000000/4017540175.pdf)
 
 deve ler-se:
 
@@ -98,6 +98,8 @@ deve ler-se:
 
 QUADRO N.º 30
 
-[([ver documento original](https://files.diariodarepublica.pt/2s/2009/10/192000000/4017540175.pdf))](https://files.diariodarepublica.pt/2s/2009/10/192000000/4017540175.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/2s/2009/10/192000000/4017540175.pdf)
 
 22 de Setembro de 2009. - A Directora, Margarida Cabral.
+
+202360918

@@ -19,7 +19,7 @@ publication:
   reference: Diário da República n.º 18/1999, 1º Suplemento, Série I-B de 1999-01-22
   number: '18'
   series: I
-  supplement: 1º Suplemento
+  supplement: null
   pages: 404-(2) a 404-(6)
   pdf_url: https://files.diariodarepublica.pt/1s/1999/01/018b01/00020006.pdf
 entry_into_force_dates: []
@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/52-a/1999/01/22/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/52-a-1999-158054
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2000-12-07T00:00:00Z'
+  retrieved_at: '2026-10-23T14:15:58Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: ab69c174990d0c45124e9fc075cd8a8633e737721160a65666df62143c51a65e
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: d0eb5aa8d1f214db4bacd483662819ac184b2924349ba51b28a1e465f2056996
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T14:15:58Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -65,36 +65,41 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Deficiente
-- Financiamento
-- Instituto do Emprego e Formação Profissional
-- Formação Profissional
-- Mulher
-- Ministro do Trabalho e da Solidariedade
-- Prodescoop
-- Instituto António Sérgio do Sector Cooperativo
-- Sector Cooperativo
-- Criação de Empresas
-- Definição de Competências
-- Cooperativa
 - Apoio ao Investimento
-- Jovem
+- Comissão de Coordenação do Prodescoop
+- Cooperativa
+- Criação de Emprego
+- Criação de Empresas
+- Deficiente
+- Definição de Competências
+- Emprego
+- Financiamento
+- Formação Profissional
 - Igualdade de Oportunidades
 - Inserção Profissional
-- Criação de Emprego
+- Instituto António Sérgio do Sector Cooperativo
+- Instituto do Emprego e Formação Profissional
+- Jovem
 - Mercado de Emprego
-- Posto de Trabalho
-- Comissão de Coordenação do Prodescoop
-- Emprego
-- Promoção de Emprego
+- Ministro do Trabalho e da Solidariedade
+- Mulher
 - Política de Emprego
+- Posto de Trabalho
+- Prodescoop
+- Promoção de Emprego
 - Reinserção Profissional
+- Sector Cooperativo
 - Subsídio
 relationships:
 - type: amended_by
   target: pt:dre:584461:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:308997:por
+  label: "Alterado o nº 4 do nº 16º pela PORT.432/99.1999.06.15.MTS,DR.IS-B [137]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/432-1999-308997
+  date: '1999-06-15'
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/189/1996/10/08/p/dre
   label: null
@@ -119,16 +124,53 @@ relationships:
   target: eli:http://data.dre.pt/eli/resolconsmin/59/1998/05/06/p/dre
   label: null
   source: http://data.dre.pt/eli/resolconsmin/59/1998/05/06/p/dre
+- type: cites
+  target: pt:dre:175357:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:219165:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:219731:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:232965:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:325295:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:462066:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:515398:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:516911:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:584461:por
+  label: "Revogada pela PORT.1160/2000.2000.12.07.MTS, DR.IS-B [282]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/1160-2000-584461
+  date: '2000-12-07'
 article_structure:
   article_count: 0
   section_count: 6
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T14:15:58Z'
   warnings: []
   errors: []
 ---
@@ -461,7 +503,7 @@ O PRODESCOOP entrará em vigor na data da sua publicação.
 
 Ministério do Trabalho e da Solidariedade.
 
-**Assinada em 18 de Janeiro de 1999.**
+Assinada em 18 de Janeiro de 1999.
 
 Pelo Ministro do Trabalho e da Solidariedade, Paulo José Fernandes Pedroso, Secretário de Estado do Emprego e Formação.
 

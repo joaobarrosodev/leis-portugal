@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/2s/2009/09/174000000/3687336873.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -47,18 +47,18 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/declaracao-rectificacao/2246-2009-2019381
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2009-09-08T00:00:00Z'
+  retrieved_at: '2026-10-23T14:05:53Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: c4a837712a4a6f91872b601312433865903bd400499fba3bbc3ced598d99ac11
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 0d1f8ea874ac93011c9ba93dd1fd911d100352d11ceb908c6aa4e7d58693860c
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T14:05:53Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -70,13 +70,13 @@ relationships: []
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T14:05:53Z'
   warnings: []
   errors: []
 ---
@@ -90,3 +90,5 @@ Por ter saído com inexactidão a declaração respeitante ao registo de estatut
 Assim, onde se lê "Sede - Av. Marechal Humberto Delgado, N.º 515 - Vila Nova de Famalicão - Porto" deve ler-se "Sede - Av. Marechal Humberto Delgado, N.º 515 - Vila Nova de Famalicão - Braga".
 
 2 de Setembro de 2009. - Pelo Director-Geral, a Coordenadora Técnica, Palmira Marques.
+
+302257498

@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/202/1997/03/24/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/202-1997-526584
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1997-03-24T00:00:00Z'
+  retrieved_at: '2026-10-23T14:01:17Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 9e752e1020200a803fc110ef6bf162dfb9a0fe41a7d0ca55f5f6d9fbda466228
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 61d6ee42e85dc4d47955847589595d02e355da5b38d6a722a929501bfa00aeba
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T14:01:17Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,27 +66,51 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Plano de Estudos
 - Curso de Estudos Superiores Especializados em Gestão Pedagógica e Administrativa
 - Ensino Superior Politécnico
 - Escola Superior de Educação
 - Instituto Politécnico
+- Plano de Estudos
 - Setúbal
 relationships:
 - type: cites
   target: eli:http://data.dre.pt/eli/port/233/1996/06/26/p/dre
   label: null
   source: http://data.dre.pt/eli/port/233/1996/06/26/p/dre
+- type: cites
+  target: pt:dre:222418:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:427401:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:453184:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:550453:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:556606:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:571247:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T14:01:17Z'
   warnings: []
   errors: []
 ---
@@ -125,10 +149,10 @@ As regras de transição entre o anterior plano de estudos e o plano de estudos 
 
 Ministério da Educação.
 
-**Assinada em 4 de Março de 1997.**
+Assinada em 4 de Março de 1997.
 
 Pelo Ministro da Educação, Alfredo Jorge Silva, Secretário de Estado do Ensino Superior.
 
 ## ANEXO I — Diploma de estudos superiores especializados em Gestão Pedagógica e Administrativa
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1997/03/070b00/13281329.pdf))](https://files.diariodarepublica.pt/1s/1997/03/070b00/13281329.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1997/03/070b00/13281329.pdf)

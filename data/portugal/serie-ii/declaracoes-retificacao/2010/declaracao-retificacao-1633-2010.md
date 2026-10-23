@@ -26,7 +26,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/2s/2010/08/158000000/4383943839.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -48,18 +48,18 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/declaracao-rectificacao/1633-2010-3265751
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2010-08-16T00:00:00Z'
+  retrieved_at: '2026-10-23T14:18:49Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 30000a828d6157e0060ef371c7b625c9d65f5f30c5068df52f7c9447d94ef540
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 0009335d93c9da8c701725cd9ef2b2d219ef9f7b1c521bcbab9f2133cfb7cae7
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T14:18:49Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,22 +67,26 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects: []
-relationships: []
+relationships:
+- type: cites
+  target: pt:dre:468663:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T14:18:49Z'
   warnings: []
   errors: []
 ---
 
-# Declaração de Rectificação n.º 1633/2010
+# Declaração de rectificação n.º 1633/2010
 
 Por ter saído com inexactidão o aviso n.º 14 621/2010, respeitante ao procedimento concursal para o preenchimento de cinco postos de trabalho na carreira e categoria de assistente técnico, do mapa de pessoal da Administração Regional de Saúde de Lisboa e Vale do Tejo, I. P., Agrupamento de Centros de Saúde Médio Tejo II - Zêzere, publicado no Diário da República, 2.ª série, n.º 142, de 23 de Julho de 2010, rectifica-se que onde se lê:
 
@@ -99,3 +103,5 @@ Para efeitos do disposto no n.º 2 do artigo 6.º e do artigo 50.º da [Lei n.º
 Face ao que antecede, o prazo de abertura do procedimento concursal a que respeita a presente declaração rectificativa começa a contar no dia seguinte ao da sua publicação.
 
 3 de Agosto de 2010. - O Presidente do Conselho Directivo, Rui Gentil de Portugal e Vasconcelos Fernandes.
+
+203585477

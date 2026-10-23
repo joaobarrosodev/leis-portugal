@@ -46,41 +46,46 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/declaracao-rectificacao/2334-2009-1895873
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2009-09-21T00:00:00Z'
+  retrieved_at: '2026-10-23T14:06:24Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 5b38a5b7ef3866e60ec226dfd3a30a5ef587c870568f1c568cdd08bbe0f6aad6
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: ebd104eb202690293313567a6664b86e77c762680a1bc4fa162fffc583f2b122
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T14:06:24Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Autoridade Nacional de Protecção Civil
+- Bombeiro
+- Proteção Civil
+- QREN
+- Veículo
 relationships: []
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T14:06:24Z'
   warnings: []
   errors: []
 ---
 
-# Declaração de Rectificação n.º 2334/2009
+# Declaração de rectificação n.º 2334/2009
 
 Para os devidos efeitos se declara que a tabela anexa ao despacho n.º 20 351/2009, de 1 de Setembro, publicado no Diário da República, 2.ª série, n.º 175, de 9 de Setembro de 2009, saiu com as seguintes incorrecções que assim se rectificam:
 
@@ -90,10 +95,12 @@ Para os devidos efeitos se declara que a tabela anexa ao despacho n.º 20 351/20
 
 3 - Na distribuição pertencente ao distrito de Setúbal, onde se lê:
 
-[([ver documento original](https://files.diariodarepublica.pt/2s/2009/09/183000000/3829138292.pdf))](https://files.diariodarepublica.pt/2s/2009/09/183000000/3829138292.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/2s/2009/09/183000000/3829138292.pdf)
 
 deve ler-se:
 
-[([ver documento original](https://files.diariodarepublica.pt/2s/2009/09/183000000/3829138292.pdf))](https://files.diariodarepublica.pt/2s/2009/09/183000000/3829138292.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/2s/2009/09/183000000/3829138292.pdf)
 
 11 de Setembro de 2009. - O Secretário de Estado da Protecção Civil, José Miguel Abreu de Figueiredo Medeiros.
+
+202304541

@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/2s/2009/09/185000000/3881038810.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -46,18 +46,18 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/declaracao-rectificacao/2361-2009-1871572
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2009-09-23T00:00:00Z'
+  retrieved_at: '2026-10-23T14:06:34Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: c90dbb125eab36b40702edc91680c91a1bd13ca27827df1e9d82c1497f53ad0e
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 577b495a3a708163d2b7e4ac90fa7ac6b4bf096e51d6426195f4d1a90d789dcc
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T14:06:34Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -69,13 +69,13 @@ relationships: []
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T14:06:34Z'
   warnings: []
   errors: []
 ---
@@ -87,3 +87,5 @@ Declaração de rectificação n.º 2361/2009
 Por ter saído com inexactidão a publicação do despacho n.º 20 902/2009 no Diário da República, 2.ª série, n.º 181, de 17 de Setembro de 2009, rectifica-se que onde se lê «Rita Assunção Melo Violante Melo» deve ler-se «Rita Assunção Melo Violante Coelho» e onde se lê «Carla Isabel Bento Jacinto Rodrigues» deve ler-se «Carla Isabel Bento Jacinto Santos Ramos».
 
 17 de Setembro de 2009. - A Directora, Isabel Maria Capela de Almeida Ferreira.
+
+202322053

@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1999/01/001b00/00020003.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/1/1999/01/02/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/1-1999-491918
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2000-07-17T00:00:00Z'
+  retrieved_at: '2026-10-23T14:12:26Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 011924783f25c3ae46e16e56846ab56eba01654a54d7fa3b63febf0f3327ed3f
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 05e027bc6c501582fb5317f160f8e2abdd0ba2c4909d9cf408c43aa97b2e651b
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T14:12:26Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -71,17 +71,23 @@ subjects:
 - Direcção Geral de Viação
 - Exame
 - Inspecção de Veículos
-- Transmissão da Propriedade
 - Licenciamento
-- Veículo
 - Prestação de Serviços
 - Taxa
+- Transmissão da Propriedade
+- Veículo
 - Vistoria
 relationships:
 - type: amended_by
   target: pt:dre:320301:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:445123:por
+  label: "Alterado o nº 3 do título I e o nº 3 do título IV da tabela de taxas anexa ao presente diploma, pela PORT.515-A/99.1999.07.19.MF\
+    \ DR.IS-B [166]SUPL\0L\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/515-a-1999-445123
+  date: '1999-07-19'
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/2/1998/01/03/p/dre
   label: null
@@ -94,16 +100,38 @@ relationships:
   target: eli:http://data.dre.pt/eli/port/278/1997/04/28/p/dre
   label: null
   source: http://data.dre.pt/eli/port/278/1997/04/28/p/dre
+- type: cites
+  target: pt:dre:223835:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:476893:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:517201:por
+  label: null
+  source: null
+- type: corrected_by
+  target: pt:dre:244345:por
+  label: "Rectificada pela DECL-RECT.3-G/99.1999.01.25.PCM, DR.IS-B [30]3ºSupl de 30/Jan/1999\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/declaracao-rectificacao/3-g-1999-244345
+  date: '1999-01-25'
+- type: repealed_by
+  target: pt:dre:320301:por
+  label: "Revogada pela PORT.405/2000.2000.07.17.MAI DR.IS-B [163]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/405-2000-320301
+  date: '2000-07-17'
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T14:12:26Z'
   warnings: []
   errors: []
 ---
@@ -126,7 +154,7 @@ Manda o Governo, pelos Ministros das Finanças e da Administração Interna, o s
 
 Ministérios das Finanças e da Administração Interna.
 
-**Assinada em 16 de Dezembro de 1998.**
+Assinada em 16 de Dezembro de 1998.
 
 Pelo Ministro das Finanças, João Carlos da Costa Ferreira da Silva, Secretário de Estado do Orçamento. - Pelo Ministro da Administração Interna, Armando António Martins Vara, Secretário de Estado Adjunto do Ministro da Administração Interna.
 

@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/307/1997/05/09/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/307-1997-384607
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1998-05-18T00:00:00Z'
+  retrieved_at: '2026-10-23T14:01:57Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 0015d638ee69cb45c07f2b9674d32f1bf9b5fdf204ec91bf924356ef5ca80492
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 0a3445d9e70410483bc8bff7555ffa244bc4656dcfddfe6a9e7d791ffa80d472
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T14:01:57Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,10 +67,10 @@ reuse:
 subjects:
 - FAFE
 - Felgueiras
-- Tribunal de Comarca
 - Montijo
 - Quadro de Pessoal
 - Secretaria Judicial
+- Tribunal de Comarca
 relationships:
 - type: amended_by
   target: pt:dre:521838:por
@@ -96,16 +96,40 @@ relationships:
   target: eli:http://data.dre.pt/eli/port/816/1994/09/16/p/dre
   label: null
   source: http://data.dre.pt/eli/port/816/1994/09/16/p/dre
+- type: cites
+  target: pt:dre:422859:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:571199:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:581269:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:586375:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:650730:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:668157:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
-  section_count: 4
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  section_count: 0
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T14:01:57Z'
   warnings: []
   errors: []
 ---
@@ -120,7 +144,7 @@ Manda o Governo, pelos Ministros das Finanças, da Justiça e Adjunto, que os qu
 
 Presidência do Conselho de Ministros e Ministérios das Finanças e da Justiça.
 
-**Assinada em 18 de Abril de 1997.**
+Assinada em 18 de Abril de 1997.
 
 Pelo Ministro das Finanças, Maria Manuela de Brito Arcanjo Marques da Costa, Secretária de Estado do Orçamento. - Pelo Ministro da Justiça, José Manuel de Matos Fernandes, Secretário de Estado Adjunto do Ministro da Justiça. - Pelo Ministro Adjunto, Fausto de Sousa Correia, Secretário de Estado da Administração Pública.
 
@@ -132,7 +156,7 @@ Fafe
 
 Tribunal de comarca
 
-#### Secção Central e três secções de processos
+Secção Central e três secções de processos
 
 Pessoal - Categorias:
 
@@ -148,7 +172,7 @@ Felgueiras
 
 Tribunal de comarca
 
-#### Secção Central e três secções de processos
+Secção Central e três secções de processos
 
 Pessoal - Categorias:
 
@@ -164,7 +188,7 @@ Montijo
 
 Tribunal de comarca
 
-#### Secção Central e três secções de processos
+Secção Central e três secções de processos
 
 Pessoal - Categorias:
 
@@ -178,7 +202,7 @@ Escriturário judicial - 8.
 
 Serviços do Ministério Público
 
-#### Secção Central e uma secção de processos
+Secção Central e uma secção de processos
 
 Pessoal - Categorias:
 

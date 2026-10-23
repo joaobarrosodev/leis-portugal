@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/2s/2009/12/239000000/5012750127.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -46,18 +46,18 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/declaracao-rectificacao/2987-2009-1023296
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2009-12-11T00:00:00Z'
+  retrieved_at: '2026-10-23T14:10:15Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 57b179b47c258a89196770ff8bcc03e83402854b2bbaca396270a1581985df1f
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 6bb06633eae869a86291132ff127402ad7505945817c42a7139169b0f09d5e6a
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T14:10:15Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -69,13 +69,13 @@ relationships: []
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T14:10:15Z'
   warnings: []
   errors: []
 ---
@@ -89,3 +89,5 @@ Para os devidos efeitos se torna público que o aviso n.º 19 447/2009, publicad
 No ponto 4, onde se lê «despacho proferido no passado dia 03 de Agosto, pelo Exmo. Senhor Presidente da Câmara Municipal» deve ler-se «despacho proferido no passado dia 2 de Setembro pelo Exmo. Senhor Eng. João Rebelo, vice-presidente da Câmara Municipal, em substituição do Exmo. Senhor Presidente».
 
 Paços do Município de Coimbra, 29 de Outubro de 2009. - (Por Subdelegação), A Directora Municipal de Administração e Finanças, (Isabel Azevedo, Dr.ª).
+
+302634325

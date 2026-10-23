@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2000/01/019b00/02420246.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/17/2000/01/24/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/17-2000-435382
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2011-02-21T00:00:00Z'
+  retrieved_at: '2026-10-23T14:21:56Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 673e5011f99aedbad66201cac962a8b70fed9b1e8ab76778d274547e2d14d2e5
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 1d3ae4ec75b54a4b2689c5ee5e57b2de1fbd70ffb9fc720ff61e4eb78d00a803
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T14:21:56Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -70,30 +70,37 @@ subjects:
 - Associação Industrial da Cristalaria
 - Autonomia Administrativa
 - Autonomia Financeira
-- Instituto do Emprego e Formação Profissional
-- Crisform
-- Formação Profissional
-- Gestão Financeira
 - Criação de Serviços
+- Crisform
 - Definição de Competências
+- Formação Profissional
 - Gestão Administrativa
+- Gestão Financeira
 - Indústria Vidreira
+- Instituto do Emprego e Formação Profissional
 - Orgânica
 relationships:
 - type: amended_by
   target: pt:dre:279864:por
   label: Última alteração registada na importação inicial
   source: null
+- type: repealed_by
+  target: pt:dre:279864:por
+  label: "Revogado e determinado que o Instituto do Emprego e Formação Profissional, I. P. (IEFP), suceda nas atribuições\
+    \ do CRISFORM - Centro de Formação Profissional para o Sector da Cristalaria, a partir da data da sua extinção, cujo protocolo\
+    \ de criação foi homologado pelo presente diploma, pela PORT.80/2011.21.02.2011.MTSSO, DR.IS [36] de 21.02.2011\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/80-2011-279864
+  date: '2011-02-21'
 article_structure:
   article_count: 0
   section_count: 8
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T14:21:56Z'
   warnings: []
   errors: []
 ---

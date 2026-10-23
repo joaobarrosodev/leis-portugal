@@ -26,7 +26,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1997/03/068b00/13101311.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -48,18 +48,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/194/1997/03/21/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/194-1997-517870
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1999-04-30T00:00:00Z'
+  retrieved_at: '2026-10-23T14:01:12Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: ceb6074b96a5c53f8b9ad9aa9a5fd3ef542e52378bb92819df79496a48d2fee2
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: a6890d83596b8f733edb32d9267c9e413cf672dd9d5b38dfdbd96bd3ac7dabe8
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T14:01:12Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,16 +67,22 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Seguro
+- Companhia de Seguros
 - Instituto de Seguros de Portugal
 - Política Económica
-- Companhia de Seguros
+- Seguro
 - Seguro de VIDA
 relationships:
 - type: amended_by
   target: pt:dre:332439:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:223995:por
+  label: "Alterados os nºs 3, 4, 5 e 8 da Port 1152-D/94, de 27-Dez, DR.IS-B [298]3ºSupl, na redacção dada pelo presente diploma,\
+    \ pela PORT.48/98.1998.02.04.MF, DR.IS-B [29]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/48-1998-223995
+  date: '1998-02-04'
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/102/1994/04/20/p/dre
   label: null
@@ -85,16 +91,29 @@ relationships:
   target: eli:http://data.dre.pt/eli/port/1152-d/1994/12/27/p/dre
   label: null
   source: http://data.dre.pt/eli/port/1152-d/1994/12/27/p/dre
+- type: cites
+  target: pt:dre:264701:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:303232:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:332439:por
+  label: "Revogada pela PORT.299/99.1999.04.30.MF DR.IS-B [101]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/299-1999-332439
+  date: '1999-04-30'
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T14:01:12Z'
   warnings: []
   errors: []
 ---
@@ -153,7 +172,7 @@ Limites na composição da carteira dos ramos 'Não vida'
 
 1 - ...
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1997/03/068b00/13101311.pdf))](https://files.diariodarepublica.pt/1s/1997/03/068b00/13101311.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1997/03/068b00/13101311.pdf)
 
 2 - ...
 
@@ -169,7 +188,7 @@ Limites na composição da carteira do ramo 'Vida'
 
 1 - ...
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1997/03/068b00/13101311.pdf))](https://files.diariodarepublica.pt/1s/1997/03/068b00/13101311.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1997/03/068b00/13101311.pdf)
 
 2 - ...
 
@@ -187,6 +206,6 @@ Disposições transitórias e finais
 
 Ministério das Finanças.
 
-**Assinada em 26 de Fevereiro de 1997.**
+Assinada em 26 de Fevereiro de 1997.
 
-**O Secretário de Estado do Tesouro e das Finanças, Fernando Teixeira dos Santos.**
+O Secretário de Estado do Tesouro e das Finanças, Fernando Teixeira dos Santos.

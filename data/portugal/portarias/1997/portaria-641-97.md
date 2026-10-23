@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/641/1997/08/08/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/641-1997-204223
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2006-05-30T00:00:00Z'
+  retrieved_at: '2026-10-23T14:04:03Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 63efcea5f82ad3b9760ca516f1d2eb6e5925ca43fc719b051759a2c5d19103f9
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 51cd071cda1a8853b4371f661b6aebaddf656e70d50eb24859f1ab967bfd7873
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T14:04:03Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -74,6 +74,19 @@ relationships:
   target: pt:dre:287641:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:263875:por
+  label: "Anexados vários prédios rústicos á zona de caça associativa criada pela presente portaria, pela PORT.298/2002.2002.03.19.MADRP,\
+    \ DR.IS-B [66]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/298-2002-263875
+  date: '2002-03-19'
+- type: amended_by
+  target: pt:dre:287641:por
+  label: "Renovada por 12 anos a concessão de zona de caça e anexados vários prédios rústicos à mesma zona de caça atribuída\
+    \ pela Port 483/94, de 02-Jul, com a redacção conferida no presente diploma, pela PORT.496/2006.30.05.2006.MADRP, DR.IS-B\
+    \ [104] de 30.05.2006\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/496-2006-287641
+  date: '2006-05-30'
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/251/1992/11/12/p/dre
   label: null
@@ -82,16 +95,32 @@ relationships:
   target: eli:http://data.dre.pt/eli/port/483/1994/07/02/p/dre
   label: null
   source: http://data.dre.pt/eli/port/483/1994/07/02/p/dre
+- type: cites
+  target: pt:dre:291451:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:417646:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:455890:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:584874:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T14:04:03Z'
   warnings: []
   errors: []
 ---
@@ -124,8 +153,8 @@ Manda o Governo, pelo Ministro da Agricultura, do Desenvolvimento Rural e das Pe
 
 Ministério da Agricultura, do Desenvolvimento Rural e das Pescas.
 
-**Assinada em 15 de Julho de 1997.**
+Assinada em 15 de Julho de 1997.
 
 Pelo Ministro da Agricultura, do Desenvolvimento Rural e das Pescas, Luís Manuel Capoulas Santos, Secretário de Estado da Agricultura e do Desenvolvimento Rural.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1997/08/182b00/41344134.pdf))](https://files.diariodarepublica.pt/1s/1997/08/182b00/41344134.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1997/08/182b00/41344134.pdf)

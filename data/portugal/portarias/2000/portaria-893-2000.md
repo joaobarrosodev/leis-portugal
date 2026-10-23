@@ -48,18 +48,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/893/2000/09/27/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/893-2000-561251
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2000-09-27T00:00:00Z'
+  retrieved_at: '2026-10-23T14:26:37Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: aea7269980548e237d5d5df5a9439b4b87312554e0b9c61f05b66c153f78e98c
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 11364d6213305a2287ea7152dbc76f84656af38a2e9e871eebcc220157bf1146
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T14:26:37Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -68,11 +68,11 @@ reuse:
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
 - Bacharelato
-- Escola Superior de Artes e Design
-- Plano de Estudos
 - Curso de Design
-- Licenciatura
 - Ensino Superior
+- Escola Superior de Artes e Design
+- Licenciatura
+- Plano de Estudos
 relationships:
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/16/1994/01/22/p/dre
@@ -110,16 +110,60 @@ relationships:
   target: eli:http://data.dre.pt/eli/port/680-a/1998/08/31/p/dre
   label: null
   source: http://data.dre.pt/eli/port/680-a/1998/08/31/p/dre
+- type: cites
+  target: pt:dre:147873:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:150335:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:273989:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:289611:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:300227:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:429596:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:512030:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:533820:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:547468:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:585417:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:618546:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T14:26:37Z'
   warnings: []
   errors: []
 ---
@@ -174,7 +218,7 @@ QUDRO N.º 1
 
 1.º ano
 
-[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2000/09/224b00/52365238.pdf)
+[[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2000/09/224b00/52365238.pdf)](https://files.diariodarepublica.pt/1s/2000/09/224b00/52365238.pdf)
 
 Opções de Comunicação, Interiores, Equipamento, Têxtil, Moda
 
@@ -192,4 +236,4 @@ Quadro n.º 4
 
 1.º ano
 
-[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2000/09/224b00/52365238.pdf)
+[[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2000/09/224b00/52365238.pdf)](https://files.diariodarepublica.pt/1s/2000/09/224b00/52365238.pdf)

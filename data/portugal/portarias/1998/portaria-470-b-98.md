@@ -20,7 +20,7 @@ publication:
   reference: Diário da República n.º 175/1998, 2º Suplemento, Série I-B de 1998-07-31
   number: '175'
   series: I
-  supplement: 2º Suplemento
+  supplement: null
   pages: 3674-(6) a 3674-(9)
   pdf_url: https://files.diariodarepublica.pt/1s/1998/07/175b02/00060009.pdf
 entry_into_force_dates: []
@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/470-b/1998/07/31/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/470-b-1998-336173
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1998-07-31T00:00:00Z'
+  retrieved_at: '2026-10-23T14:09:15Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 83229bc9f208156665cd8b4b7b29565f5e9e140dec1b85bff618c38373b04e02
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: add80be1cc5f269ed73dc8d5baf3fecf8cae7675c4bcbfe38ac997ef13d27b95
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T14:09:15Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -68,32 +68,41 @@ reuse:
 subjects:
 - Atribuição de Frequências
 - Caderno de Encargos
+- Comunicação por Satélite
+- Comunicações
 - Comunicações Nacionais
 - Concurso Público
 - Documentação Administrativa
-- Comunicação por Satélite
 - Instituto das Comunicações de Portugal
 - Licenciamento
 - Radiodifusão
-- Serviço Público
-- Comunicações
 - REDE T-dab
 - Regulamento
+- Serviço Público
 relationships:
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/381-a/1997/12/30/p/dre
   label: null
   source: http://data.dre.pt/eli/dec-lei/381-a/1997/12/30/p/dre
+- type: cites
+  target: pt:dre:581376:por
+  label: null
+  source: null
+- type: corrected_by
+  target: pt:dre:335767:por
+  label: "Rectificada pela DECL-RECT.11-Z/98.1998.07.31.PCM DR.IS-B [175]7ºSUPL\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/declaracao-rectificacao/11-z-1998-335767
+  date: '1998-07-31'
 article_structure:
   article_count: 22
-  section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  section_count: 1
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T14:09:15Z'
   warnings: []
   errors: []
 ---
@@ -120,9 +129,9 @@ Manda o Governo, pelo Ministro do Equipamento, do Planeamento e da Administraç�
 
 Ministério do Equipamento, do Planeamento e da Administração do Território.
 
-**Assinada em 29 de Julho de 1998**
+Assinada em 29 de Julho de 1998
 
-**O Ministro do Equipamento, do Planeamento e da Administração do Território, João Cardona Gomes Cravinho.**
+O Ministro do Equipamento, do Planeamento e da Administração do Território, João Cardona Gomes Cravinho.
 
 ## ANEXO
 
@@ -192,7 +201,9 @@ Os cadernos de encargos são adquiridos na sede do ICP, na Avenida de José Malh
 
 4 - Os operadores de redes públicas e os prestadores de serviços de telecomunicações de uso público estão obrigados, pelo presente Regulamento e para efeitos deste concurso, a prestar todos os esclarecimentos que o ICP lhes solicite, a fornecer no prazo que lhes for fixado, nomeadamente de modo a permitir o cumprimento do disposto no número anterior.
 
-###### Artigo 8.º — Livro de consulta
+###### Artigo 8.º
+
+## Livro de consulta
 
 1 - O ICP deve manter aberto um livro contendo todas as peças integrantes do processo do concurso, os pedidos de esclarecimento solicitados, bem como as respostas aos mesmos, para livre consulta, entre as 9 e as 16 horas, por qualquer concorrente.
 

@@ -48,18 +48,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/952/1999/10/29/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/952-1999-692179
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2004-08-20T00:00:00Z'
+  retrieved_at: '2026-10-23T14:18:54Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 41efa0d11b77c4ca9b328154faaa49324229f3c618d56cf832c128d6f44113a9
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 6be77eb102b8e599273be000ea298e2c488753efbd9163b12dc582c7f197cf4e
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T14:18:54Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -68,13 +68,13 @@ reuse:
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
 - Cartão de Identificação
+- Comércio
 - Fiscalização
-- Pagamento
 - Licenciamento
 - Mediação de Imóveis
 - Mercado Imobiliário
+- Pagamento
 - Taxa
-- Comércio
 relationships:
 - type: amended_by
   target: pt:dre:480290:por
@@ -84,16 +84,26 @@ relationships:
   target: eli:http://data.dre.pt/eli/dec-lei/77/1999/03/16/p/dre
   label: null
   source: http://data.dre.pt/eli/dec-lei/77/1999/03/16/p/dre
+- type: cites
+  target: pt:dre:144988:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:480290:por
+  label: "Revogada pelo Dec Lei 211/2004 de 20-Ago, DR.IS-A [196], sem prejuízo do disposto no art 58º e após a entrada em\
+    \ vigor das Portarias previstas no referido Dec Lei\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/211-2004-480290
+  date: '2004-08-20'
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T14:18:54Z'
   warnings: []
   errors: []
 ---
@@ -148,4 +158,4 @@ g) Emissão de certidões e declarações.
 
 10.º O presente diploma entra em vigor no dia imediato ao da sua publicação.
 
-**O Ministro do Equipamento, do Planeamento e da Administração do Território, João Cardona Gomes Cravinho, em 15 de Outubro de 1999.**
+O Ministro do Equipamento, do Planeamento e da Administração do Território, João Cardona Gomes Cravinho, em 15 de Outubro de 1999.

@@ -49,18 +49,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/200/1998/03/25/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/200-1998-197728
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2001-10-09T00:00:00Z'
+  retrieved_at: '2026-10-23T14:07:19Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 72d2b74498a0e73521b31e6d3b2f25e35c1d5de0c336da74eda8b56f0fb2e148
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 59551424c9820c0d1b92bbe84b31ebab4b316ae199901ebe4964f934203825fa
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T14:07:19Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -68,30 +68,36 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
+- Agricultura
+- Agrupamento de Produtores
 - Ajuda à Modernização
 - Ajuda Comunitária
 - Aquisição de Bens e Serviços
-- Agrupamento de Produtores
-- Financiamento
-- Formação Profissional
-- Desenvolvimento Rural
-- Controlo Sanitário
-- Gestão de Empresas
-- Investigação
 - Contratação de Pessoal
+- Controlo Sanitário
+- Desenvolvimento Rural
+- Equipamento Agrícola
 - Exploração Agrícola
 - Exploração Florestal
-- Regulamento
-- Equipamento Agrícola
+- Financiamento
+- Formação Profissional
+- Gestão de Empresas
+- Investigação
 - Programa de Apoio à Modernização Agrícola e Florestal
+- Regulamento
 - Regulamento de Aplicação da Medida de Investigação Experimentação e Demonstração Formação Organização Divulgação e Estudos
   Estratégicos
-- Agricultura
 relationships:
 - type: amended_by
   target: pt:dre:621316:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:621316:por
+  label: "Alterado o art. 28º do Regulamento aprovado pela Port 809-E/94 de 12-Set, com a redacção conferida pelo presente\
+    \ diploma, pela PORT.1172/2001.2001.10.09.MADRPDR.IS-B [234]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/1172-2001-621316
+  date: '2001-10-09'
 - type: cites
   target: celex:31996R2200
   label: null
@@ -104,16 +110,21 @@ relationships:
   target: eli:http://data.dre.pt/eli/port/809-e/1994/09/12/p/dre
   label: null
   source: http://data.dre.pt/eli/port/809-e/1994/09/12/p/dre
+- type: corrected_by
+  target: pt:dre:248871:por
+  label: "Rectificada pela DECL-RECT.10-J/98.1998.05.29.PCM, DR.IS-B [125]3ºSupl de 30/Mai/1998\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/declaracao-rectificacao/10-j-1998-248871
+  date: '1998-05-29'
 article_structure:
-  article_count: 9
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T14:07:19Z'
   warnings: []
   errors: []
 ---
@@ -140,33 +151,33 @@ Manda o Governo, pelo Ministro da Agricultura, do Desenvolvimento Rural e das Pe
 
 2 - Excepcionalmente, quando a sua natureza o justifique, podem ser aceites projectos com uma duração superior a três anos.
 
-###### Artigo 18.º
+Artigo 18.º
 
 1 - O processo de candidatura às ajudas previstas neste capítulo inicia-se com a apresentação, durante os meses de Janeiro, Junho e Novembro, junto da direcção regional de agricultura competente ou da Direcção-Geral do Desenvolvimento Rural (DGDR), consoante se trate de candidaturas de âmbito regional ou nacional, de um projecto, de acordo com modelo a distribuir por esses serviços.
 
 2 - Os projectos referidos no número anterior devem ser acompanhados de todos os elementos indicados nas respectivas instruções.
 
-###### Artigo 19.º
+Artigo 19.º
 
 1 - As candidaturas apresentadas são objecto de análise e deliberação pela unidade de gestão no prazo de 40 dias a contar do termo dos prazos de apresentação das candidaturas.
 
 2 - As candidaturas relativas à aquisição de equipamento são objecto de análise e deliberação, no prazo de 30 dias a contar do termo dos prazos de apresentação das candidaturas, nos termos do número anterior.
 
-###### Artigo 20.º
+Artigo 20.º
 
 Na selecção das candidaturas apresentadas é dada prioridade aos centros de formação profissional em funcionamento.
 
-###### Artigo 21.º
+Artigo 21.º
 
 1 - Salvo no caso referido no número seguinte, a atribuição das ajudas previstas neste capítulo é feita ao abrigo de contratos celebrados entre os beneficiários e o IFADAP, no prazo máximo de 30 dias a contar do termo dos prazos referidos no artigo 19.º
 
 2 - Quando se trate de projectos cuja execução seja da responsabilidade de organismos da administração central, são celebradas convenções de financiamento entre estes e o IFADAP, com vista ao estabelecimento dos procedimentos a adoptar na atribuição das ajudas.
 
-###### Artigo 22.º
+Artigo 22.º
 
 O pagamento das ajudas é efectuado pelo IFADAP nos termos das cláusulas contratuais ou da convenção de financiamento, consoante o caso, podendo haver lugar à concessão de adiantamentos.
 
-###### Artigo 26.º
+Artigo 26.º
 
 1 - ...
 
@@ -174,7 +185,7 @@ O pagamento das ajudas é efectuado pelo IFADAP nos termos das cláusulas contra
 
 3 - As OA que já tenham beneficiado de ajudas que incidam sobre o mesmo tipo de despesas que são abrangidas pela presente secção não poderão beneficiar das ajudas previstas neste artigo, excepto nos casos em que se verificar um alargamento substancial de tarefas.
 
-###### Artigo 30.º
+Artigo 30.º
 
 1 - ...
 
@@ -196,13 +207,13 @@ f) ...
 
 4 - As despesas referidas na alínea e) do n.º 1 só são elegíveis no caso das organizações que desenvolvam actividade no âmbito da comercialização e ou transformação de produtos agrícolas.
 
-###### Artigo 31.º
+Artigo 31.º
 
 1 - O processo de candidatura às ajudas previstas nesta secção inicia-se com a apresentação, até 31 de Agosto, junto da direcção regional de agricultura ou da DGDR, consoante se trate de candidaturas de entidades de âmbito regional ou nacional, do respectivo projecto, de acordo com modelo a distribuir por esses serviços.
 
 2 - ...
 
-###### Artigo 80.º
+Artigo 80.º
 
 Podem beneficiar das ajudas referidas no artigo anterior:
 
@@ -216,9 +227,9 @@ c) Organismos da administração central, no caso da alínea c).»
 
 Ministério da Agricultura, do Desenvolvimento Rural e das Pescas.
 
-**Assinada em 9 de Março de 1998.**
+Assinada em 9 de Março de 1998.
 
-**O Ministro da Agricultura, do Desenvolvimento Rural e das Pescas, Fernando Manuel Van-Zeller Gomes da Silva.**
+O Ministro da Agricultura, do Desenvolvimento Rural e das Pescas, Fernando Manuel Van-Zeller Gomes da Silva.
 
 ## ANEXO I — (a que se referem o n.º 1 do artigo 29.º e o n.º 2 do artigo 30.º)
 

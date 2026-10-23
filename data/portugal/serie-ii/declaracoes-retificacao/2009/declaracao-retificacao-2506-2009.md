@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/2s/2009/10/196000000/4093240932.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -46,18 +46,18 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/declaracao-rectificacao/2506-2009-2418016
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2009-10-09T00:00:00Z'
+  retrieved_at: '2026-10-23T14:07:24Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 8aafff232638e176f16206149218b153b29b1d157486dac64b1cbd8e3348b7dc
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 26bfd5b7368c415c595dffd3f998e559b69c7bb866e4d9caaab8c8b48b8be69b
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T14:07:24Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -69,13 +69,13 @@ relationships: []
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T14:07:24Z'
   warnings: []
   errors: []
 ---
@@ -93,3 +93,5 @@ No seu ponto 9.4, onde se lê «Entrevista profissional de selecção (40 %)» d
 No seu ponto 9.5, onde se lê «A classificação final será obtida numa escala de 0 a 20 valores através da fórmula seguinte: CF = 0,6 AC + 0,4 EPS» deve ler-se «A classificação final será obtida na escala de 0 a 20 valores através da fórmula seguinte: CF = 0,7 AC + 0,3 EPS».
 
 1 de Outubro de 2009. - A Directora, Gabriela Ventura.
+
+202393204

@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/2s/2009/09/179000000/3772037720.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -46,18 +46,18 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/declaracao-rectificacao/2301-2009-1322109
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2009-09-15T00:00:00Z'
+  retrieved_at: '2026-10-23T14:06:14Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 2969c8911f80e98264c1ee696d200ddf6f3c9cdee4589f59cd48a32f406ceafd
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 4bc49ff84a6ba682a117181f7b5b32eaf59038b8903239b3e6372b5b36450e2e
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T14:06:14Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -69,13 +69,13 @@ relationships: []
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T14:06:14Z'
   warnings: []
   errors: []
 ---
@@ -87,3 +87,5 @@ Declaração de rectificação n.º 2301/2009
 Para os devidos efeitos, torna-se público, que se procede à rectificação do aviso n.º 15468/2009, publicado no Diário da República, 2.ª série, n.º 170 de 2 de Setembro de 2009, referente ao Procedimento concursal comum para constituição de relação jurídica de emprego público por tempo indeterminado, para a carreira de assistente técnico e categoria de coordenador técnico, onde se lê: "10. Composição do júri, [...] Vogais efectivos: 1.º Dra. Mafalda Sofia da Costa Fernandes; técnica superior de Recursos Humanos, que substituirá o Presidente nas suas faltas e impedimentos. 2.º Sr. João Rui Oliveira António, Encarregado Operacional.", deverá ler-se "10. Composição do júri, [...] Vogais efectivos: 1.º Eng. Francisco Manuel Cesário Marques, Director Delegado, que substituirá o Presidente nas suas faltas e impedimentos. 2.º Dra. Mafalda Sofia da Costa Fernandes, técnica superior de Recursos Humanos."
 
 2 de Setembro de 2009. - O Presidente do Conselho de Administração, Luís Duarte Vicente.
+
+302264228

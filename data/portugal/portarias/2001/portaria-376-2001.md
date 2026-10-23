@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/376/2001/04/11/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/376-2001-355883
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2001-04-11T00:00:00Z'
+  retrieved_at: '2026-10-23T14:31:49Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: d91c794aa858d1c80faf1fcfe49ee004cf345bb8b2ed8de4d03bc3fdd38372ae
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: e24c633db1002fd217e818156610efb98253149ccd69e58cedd90ee2401cb085
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T14:31:49Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,20 +66,24 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Serviço Postal
 - CTT
 - SELO Postal
-relationships: []
+- Serviço Postal
+relationships:
+- type: cites
+  target: pt:dre:179355:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T14:31:49Z'
   warnings: []
   errors: []
 ---
@@ -108,4 +112,4 @@ Duas carteiras contendo, respectivamente, 10 selos de 53$00/(euro) 0,26 e 10 sel
 
 Caixas de 50 exemplares da taxa de 85$00/(euro) 0,42 e a taxa de 105$00/(euro) 0,52 e caixas de 100 exemplares da taxa de 53$00/(euro) 0,26.
 
-**O Ministro do Equipamento Social, Eduardo Luís Barreto Ferro Rodrigues, em 16 de Março de 2001.**
+O Ministro do Equipamento Social, Eduardo Luís Barreto Ferro Rodrigues, em 16 de Março de 2001.

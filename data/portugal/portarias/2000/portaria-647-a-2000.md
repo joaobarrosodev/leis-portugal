@@ -20,7 +20,7 @@ publication:
   reference: Diário da República n.º 193/2000, 2º Suplemento, Série I-B de 2000-08-22
   number: '193'
   series: I
-  supplement: 2º Suplemento
+  supplement: null
   pages: 4248-(276) a 4248-(278)
   pdf_url: https://files.diariodarepublica.pt/1s/2000/08/193b02/02760278.pdf
 entry_into_force_dates: []
@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/647-a/2000/08/22/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/647-a-2000-461583
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2000-08-22T00:00:00Z'
+  retrieved_at: '2026-10-23T14:24:58Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 843d2288315457c3b6e289f96752b440a6ba2ec26112e5beb3ff23af44f6ff27
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 14663e351456d54482dadec0564c53a6f450ca8b73e0a27c75a461d4d8e661ef
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T14:24:58Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,32 +66,36 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- REDE Escolar
 - Criação de Serviços
 - Direcção Regional de Educação de Lisboa
 - Direcção Regional de Educação do Alentejo
 - Direcção Regional de Educação do Algarve
 - Direcção Regional de Educação do Norte
+- Educação Pré-escolar
 - Educador de Infância
 - Estabelecimento de Ensino
 - Pessoal Docente
 - Quadro de Pessoal
-- Educação Pré-escolar
+- REDE Escolar
 relationships:
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/147/1997/06/11/p/dre
   label: null
   source: http://data.dre.pt/eli/dec-lei/147/1997/06/11/p/dre
+- type: cites
+  target: pt:dre:358959:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T14:24:58Z'
   warnings: []
   errors: []
 ---
@@ -114,7 +118,7 @@ Manda o Governo, pelos Ministros Adjunto, das Finanças, do Trabalho e da Solida
 
 Em 10 de Agosto de 2000.
 
-**O Ministro Adjunto, Fernando Manuel dos Santos Gomes. - Pelo Ministro das Finanças, Fernando Manuel dos Santos Vigário Pacheco, Secretário de Estado do Orçamento. - Pelo Ministro do Trabalho e da Solidariedade, José António Fonseca Vieira da Silva, Secretário de Estado da Segurança Social. - O Ministro da Educação, Guilherme d'Oliveira Martins. - Pelo Ministro da Reforma do Estado e da Administração Pública, Alexandre António Cantigas Rosa, Secretário de Estado da Administração Pública e da Modernização Administrativa.**
+O Ministro Adjunto, Fernando Manuel dos Santos Gomes. - Pelo Ministro das Finanças, Fernando Manuel dos Santos Vigário Pacheco, Secretário de Estado do Orçamento. - Pelo Ministro do Trabalho e da Solidariedade, José António Fonseca Vieira da Silva, Secretário de Estado da Segurança Social. - O Ministro da Educação, Guilherme d'Oliveira Martins. - Pelo Ministro da Reforma do Estado e da Administração Pública, Alexandre António Cantigas Rosa, Secretário de Estado da Administração Pública e da Modernização Administrativa.
 
 MAPA
 

@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1999/05/123b00/30503061.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/388/1999/05/27/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/388-1999-316922
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2004-07-26T00:00:00Z'
+  retrieved_at: '2026-10-23T14:15:03Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: bb5d7337c78a0f6de43e613b1e2584cc86da02a3991b075aaab669bf4f1638b8
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 4bb8102d5d5a1355e55f055bdb2370a67deadb71c70954fa6d132b0daf6c136b
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T14:15:03Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,45 +66,71 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Sipac
-- Contrato de Seguro
+- Agricultor
+- Agricultura
+- Apoio ao Investimento
 - Associação de Agricultores
-- Financiamento
 - Bonificação dos Prémios de Seguro
+- Catástrofe
 - Cereal
 - Citrinos
-- Oleaginosas
+- Companhia de Seguros
+- Contrato de Seguro
 - Cooperativa Agrícola
 - Definição de Competências
+- Financiamento
 - Floricultura
-- Catástrofe
-- Apoio ao Investimento
-- Ministro das Finanças
-- Seguro
+- Fruticultura
+- Fundo de Calamidades
 - Horticultura
+- Ifadap
 - Indemnização
 - Instituto de Seguros de Portugal
 - Leguminosas
 - Ministro da Agricultura do Desenvolvimento Rural e das Pescas
-- Tabaco
+- Ministro das Finanças
+- Oleaginosas
 - Prémio de Seguro
-- Agricultor
 - Regulamento
-- Fruticultura
-- Agricultura
-- Ifadap
 - Resseguro
-- Companhia de Seguros
+- Seguro
 - Seguro Agrícola
 - Seguro contra Danos
-- Fundo de Calamidades
-- Vinha
+- Sipac
 - Situação de Calamidade
+- Tabaco
+- Vinha
 relationships:
 - type: amended_by
   target: pt:dre:506985:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:406094:por
+  label: "Alterada a al a) do nº 2, o quadro resumo da al b) do nº 2 e os nºs 3, 5 e 8 da secção VI do cap. I do regulamento\
+    \ anexo ao presente diploma pela PORT.47/2000.2000.02.03.MF,DR.IS-B [28]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/47-2000-406094
+  date: '2000-02-03'
+- type: amended_by
+  target: pt:dre:494833:por
+  label: "Alterados os nºs 2, 3, 5 e 8 da secção VI do cap. I do Regulamento anexo pela PORT.207/2000.2000.04.06.MF,DR.IS-B\
+    \ [82]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/207-2000-494833
+  date: '2000-04-06'
+- type: amended_by
+  target: pt:dre:345141:por
+  label: "Alterado o nº 1 da Secção II do Cap. I, o nº 5 da Secção II do Cap. I e o nº 2 do Cap. III, todos do Regulamento\
+    \ publicado em anexo, pela PORT.282/2001.2001.03.29.MF, DR.IS-B [75]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/282-2001-345141
+  date: '2001-03-29'
+- type: amended_by
+  target: pt:dre:157647:por
+  label: "Alterados o nº 1 e o nº 4 da secção I do cap. I, a al. a) e as subals. i) e ii) da al. b) do nº 2 da secção II do\
+    \ cap. I, a al. b) do nº 4 da secção V do cap. I e o nº 2 da secção VI do cap. I, todos do Regulamento do SIPAC, aprovado\
+    \ em anexo ao presente diploma, o qual é revogado, com a redacção dada pelas Port 47/2000 de 03-Fev, 207/2000 de 06-Abr\
+    \ e 282/2001 de 29-Mar, pela PORT.293-A/2002.2002.03.18.MF DR.IS-B [65]Supl\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/293-a-2002-157647
+  date: '2002-03-18'
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/20/1996/03/19/p/dre
   label: null
@@ -117,16 +143,34 @@ relationships:
   target: eli:http://data.dre.pt/eli/port/430/1997/07/01/p/dre
   label: null
   source: http://data.dre.pt/eli/port/430/1997/07/01/p/dre
+- type: cites
+  target: pt:dre:160511:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:474478:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:535012:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:506985:por
+  label: "Revogada, com as alterações e republicação da Port 293-A/2002 de 18-Mar, pela PORT.907/2004.26.07.2004.MF, DR.IS-B\
+    \ [174] de 26.07.2004\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/907-2004-506985
+  date: '2004-07-26'
 article_structure:
   article_count: 0
   section_count: 10
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T14:15:03Z'
   warnings: []
   errors: []
 ---
@@ -149,7 +193,7 @@ Manda o Governo, pelos Ministros das Finanças e da Agricultura, do Desenvolvime
 
 3.º A presente portaria produz efeitos a partir de 1 de Janeiro de 1999.
 
-**Assinada em 10 de Maio de 1999.**
+Assinada em 10 de Maio de 1999.
 
 Pelo Ministro das Finanças, Fernando Teixeira dos Santos, Secretário de Estado do Tesouro e das Finanças. - O Ministro da Agricultura, do Desenvolvimento Rural e das Pescas, Luís Manuel Capoulas Santos.
 

@@ -48,18 +48,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/759/1999/08/27/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/759-1999-533791
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1999-08-27T00:00:00Z'
+  retrieved_at: '2026-10-23T14:17:32Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 110f3e7c826cc8ef4898063a7001d60e4c3958e3dea0aa5b1b68a23d194de2f2
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 276d01d2c4bd01e66dd66f92fa83755d103aaaef3a52145dae5df9b3f5890505
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T14:17:32Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -68,11 +68,11 @@ reuse:
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
 - Bacharelato
-- Plano de Estudos
 - Curso de Engenharia Electrotécnica
 - Ensino Superior Politécnico
 - Escola Superior de Tecnologia
 - Licenciatura
+- Plano de Estudos
 - Setúbal
 relationships:
 - type: cites
@@ -99,16 +99,60 @@ relationships:
   target: eli:http://data.dre.pt/eli/port/680-c/1998/08/31/p/dre
   label: null
   source: http://data.dre.pt/eli/port/680-c/1998/08/31/p/dre
+- type: cites
+  target: pt:dre:222418:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:273991:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:374216:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:429593:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:429596:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:453184:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:470779:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:556606:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:599150:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:653145:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:685433:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T14:17:32Z'
   warnings: []
   errors: []
 ---

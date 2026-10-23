@@ -48,18 +48,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/368/1999/05/19/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/368-1999-323957
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2002-04-19T00:00:00Z'
+  retrieved_at: '2026-10-23T14:14:57Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: b239c9d2fee5f76e81c18f794071c50eea536e3c7087ef432246b925034b380c
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 7c95887ebf30d5fea32dab73c1be35c312db453344815c937bada2688ac9c689
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T14:14:57Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,16 +67,21 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Plano de Estudos
 - Curso de Engenharia Agrária
 - Ensino Superior Politécnico
 - Escola Superior Agrária
+- Plano de Estudos
 - Ponte de LIMA
 relationships:
 - type: amended_by
   target: pt:dre:288382:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:288382:por
+  label: "Alterados os quadros 7, 8, 11 e 12 do anexo, pela PORT.420/2002.2002.04.19.ME DR.IS-B [92]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/420-2002-288382
+  date: '2002-04-19'
 - type: cites
   target: eli:http://data.dre.pt/eli/lei/115/1997/09/19/p/dre
   label: null
@@ -101,16 +106,64 @@ relationships:
   target: eli:http://data.dre.pt/eli/port/680-c/1998/08/31/p/dre
   label: null
   source: http://data.dre.pt/eli/port/680-c/1998/08/31/p/dre
+- type: cites
+  target: pt:dre:164040:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:222418:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:273991:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:429593:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:429596:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:453184:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:470779:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:556606:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:557865:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:575566:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:653145:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:676024:por
+  label: null
+  source: null
 article_structure:
   article_count: 1
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T14:14:57Z'
   warnings: []
   errors: []
 ---

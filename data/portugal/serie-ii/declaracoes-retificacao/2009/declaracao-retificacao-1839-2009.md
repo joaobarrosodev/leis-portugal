@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/2s/2009/08/148000000/3087030870.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -46,18 +46,18 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/declaracao-rectificacao/1839-2009-2657604
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2009-08-03T00:00:00Z'
+  retrieved_at: '2026-10-23T14:03:28Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 4682f9b78997814dd115c500f2e74e78d4efeaa158b9bf2a3e407c27b2d1a2d0
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 70240555ce8799742e7a5a53f12a181c678d1a032e7512ab7f1c542679ed826a
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T14:03:28Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -65,22 +65,30 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects: []
-relationships: []
+relationships:
+- type: cites
+  target: pt:dre:569685:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:586006:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T14:03:28Z'
   warnings: []
   errors: []
 ---
 
-# Declaração de Rectificação n.º 1839/2009
+# Declaração de rectificação n.º 1839/2009
 
 A publicação inserta no Diário da República, 2.ª série n.º 63 de 31 de Março de 2008, página 13830, saiu com uma incorrecção:
 
@@ -93,3 +101,5 @@ deve ler-se:
 João Luís de Almeida Gonçalves Carvalho, Auxiliar de Acção Médica, Lúcia Maria Gomes de Sousa, Carla Conceição Dias Torres e Cátia Margarida da Costa Pereira, Enfermeiras Nível 1, contratados em regime de contrato de trabalho a termo certo, por um período de quatro meses, eventualmente renovável, ao abrigo do n.º.3 do artigo 18-A do Estatuto do Serviço Nacional de Saúde, aprovado pelo [Decreto-Lei n.º 11/93](https://diariodarepublica.pt/dr/detalhe/decreto-lei/11-1993-586006), de 15 de Janeiro na redacção dada pelo [Decreto-Lei n.º 276-A/2007](https://diariodarepublica.pt/dr/detalhe/decreto-lei/276-a-2007-569685) de 31 de Julho, com efeitos a 1, 2, 5 e 14 de Novembro, respectivamente.
 
 21 de Julho de 2009. - O Presidente do Conselho de Administração, Fernando Almeida.
+
+302078503

@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/2s/2009/08/161000000/3405834058.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -46,18 +46,18 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/declaracao-rectificacao/2012-2009-3050614
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2009-08-20T00:00:00Z'
+  retrieved_at: '2026-10-23T14:04:31Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 9d4270cfdb84ebfb9342a081badd0c8193a8c89ba26a9ec117a315dac18bc645
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 888a2ce23eb4b942a06a7f2280470d898c5bd7205436b2250cede2a13a627bc8
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T14:04:31Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -65,23 +65,29 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects: []
-relationships: []
+relationships:
+- type: cites
+  target: pt:dre:1088627:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T14:04:31Z'
   warnings: []
   errors: []
 ---
 
-# Declaração de Rectificação n.º 2012/2009
+# Declaração de rectificação n.º 2012/2009
 
 Para os devidos efeitos se torna público que, no [Aviso n.º 14065/2009](https://diariodarepublica.pt/dr/detalhe/aviso/14065-2009-1088627), publicado na 2.ª série do Diário da República n.º 153 de 10 de Agosto corrente, e concretamente no que respeita ao conteúdo descrito no ponto 4.2 do referido aviso, onde se lê: "[...] sendo que para a Ref.ª 16/09 é exigido Curso Profissional de Biblioteca e Documentação, Nível III", deve ler-se: "[...] sendo que para a Ref.ª 15/09 é exigido Curso com equivalência profissional de Nível III na área da Animação Sócio-Cultural/Desporto e para a Ref.ª 16/09 Curso com equivalência profissional de Nível III na área de Biblioteca e Documentação".
 
 11 de Agosto de 2009. - O Vereador do Pelouro dos Recursos Humanos, Paulo Alves Machado.
+
+302192868

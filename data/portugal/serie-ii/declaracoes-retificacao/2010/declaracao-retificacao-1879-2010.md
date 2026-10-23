@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/2s/2010/09/179000000/4703947039.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -47,18 +47,18 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/declaracao-rectificacao/1879-2010-1316879
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2010-09-14T00:00:00Z'
+  retrieved_at: '2026-10-23T14:20:15Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 9f3db37da71fc2b5c851de41d48c743b0dd0046f80d1f59595ea1f6211a90b7a
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 4be0db50abefbfbc1f5632931eb8f805a8ef699fccaad8b4f720a9b975143f22
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T14:20:15Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -70,13 +70,13 @@ relationships: []
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T14:20:15Z'
   warnings: []
   errors: []
 ---
@@ -88,3 +88,5 @@ Declaração de rectificação n.º 1879/2010
 Por ter saído com inexactidão o aviso n.º 15 696/2010, respeitante ao procedimento concursal comum para recrutamento de trabalhador com vista à constituição de relação jurídica de emprego público, por tempo indeterminado, para o preenchimento de um posto de trabalho destinado a técnico de diagnóstico e terapêutica, no âmbito regional do mapa de pessoal da ARS Lisboa e Vale do Tejo, I. P., publicado no Diário da República, 2.ª série, n.º 152, de 6 de Agosto de 2010, rectifica-se que onde se lê «2.º Vogal efectivo: Maria João Silva Fernandes de Seia, Técnica de 1.ª classe, do ACES Grande Lisboa VII - Amadora» deve ler-se «2.º Vogal efectivo: Helena Paula Santos Natário, Técnica de 1.ª classe, do ACES Grande Lisboa III - Lisboa Central» e onde se lê «2.º Vogal suplente: Helena Paula Santos Natário, Técnica de 1.ª classe, do ACES Grande Lisboa III - Lisboa Central» deve ler-se «2.º Vogal suplente: Maria João Silva Fernandes de Seia, Técnica de 1.ª classe, do ACES Grande Lisboa VII - Amadora».
 
 9 de Agosto de 2010. - O Presidente do Conselho Directivo, Rui Gentil de Portugal e Vasconcelos Fernandes.
+
+203669239

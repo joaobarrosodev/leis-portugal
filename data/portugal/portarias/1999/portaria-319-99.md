@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/319/1999/05/12/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/319-1999-321933
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1999-05-12T00:00:00Z'
+  retrieved_at: '2026-10-23T14:14:37Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 1e5497d1d8c194a7473533027f0e00553c8bf75189db6a47d893a110b47ef9fa
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 33012fa956afa9d33eb86700f677334f3fd718c2b6721fac9b99e01fbe16e726
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T14:14:37Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -78,16 +78,36 @@ relationships:
   target: eli:http://data.dre.pt/eli/port/219-a/1991/03/18/p/dre
   label: null
   source: http://data.dre.pt/eli/port/219-a/1991/03/18/p/dre
+- type: cites
+  target: pt:dre:219134:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:354162:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:405765:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:619925:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:620697:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T14:14:37Z'
   warnings: []
   errors: []
 ---
@@ -116,7 +136,7 @@ Manda o Governo, pelos Ministros da Economia e da Agricultura, do Desenvolviment
 
 6.º Os prédios rústicos que integram esta zona de caça turística nos termos do disposto no artigo 72.º do [Decreto-Lei n.º 136/96](https://diariodarepublica.pt/dr/detalhe/decreto-lei/136-1996-405765), para efeitos de polícia e fiscalização da caça, ficam submetidos ao regime florestal, devendo a mesma ser fiscalizada por um guarda florestal auxiliar dotado de meio de transporte, com observância do disposto no n.º 7.º, n.os 2 e 3, da [Portaria n.º 219-A/91](https://diariodarepublica.pt/dr/detalhe/portaria/219-a-1991-620697).
 
-**Assinada em 2 de Outubro de 1998.**
+Assinada em 2 de Outubro de 1998.
 
 Pelo Ministro da Economia, Vítor José Cabrita Neto, Secretário de Estado do Turismo. - Pelo Ministro da Agricultura, do Desenvolvimento Rural e das Pescas, Luís Manuel Capoulas Santos, Secretário de Estado da Agricultura e do Desenvolvimento Rural.
 

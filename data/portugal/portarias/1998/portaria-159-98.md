@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/159/1998/03/14/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/159-1998-186284
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1998-06-22T00:00:00Z'
+  retrieved_at: '2026-10-23T14:07:04Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 0008a66bbf68698a371c4cd18298ca94a709d3311aeb3bb0687424f4d28ab434
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: de6dbd19115764b5d8ddafc0c7b6fa4513c5382d040254d9e1a6dd55f6f50825
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T14:07:04Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -65,35 +65,44 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
+- Administração Local
 - Autonomia Financeira
-- Finanças Locais
 - Dotação Orçamental
 - Execução do Orçamento
+- Finanças Locais
 - Freguesia
 - Gestão Orçamental
 - Orçamento Geral do Estado
 - Receita Pública
-- Administração Local
 - Transferência de Verbas
 relationships:
 - type: amended_by
   target: pt:dre:480100:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:480100:por
+  label: "Alterado o anexo do presente diploma pela PORT.351/98.1998.06.22.MEPAT, DR.IS-B [141]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/351-1998-480100
+  date: '1998-06-22'
 - type: cites
   target: eli:http://data.dre.pt/eli/lei/127-b/1997/12/20/p/dre
   label: null
   source: http://data.dre.pt/eli/lei/127-b/1997/12/20/p/dre
+- type: cites
+  target: pt:dre:659563:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T14:07:04Z'
   warnings: []
   errors: []
 ---
@@ -112,9 +121,9 @@ b) A relação das verbas, a que se refere o citado artigo 16.º, que cabem a ca
 
 Ministério do Equipamento, do Planeamento e da Administração do Território.
 
-**Assinada em 9 de Fevereiro de 1998.**
+Assinada em 9 de Fevereiro de 1998.
 
-**O Ministro do Equipamento, do Planeamento e da Administração do Território, João Cardona Gomes Cravinho.**
+O Ministro do Equipamento, do Planeamento e da Administração do Território, João Cardona Gomes Cravinho.
 
 ## ANEXO — Transferências para as freguesias - 1998
 

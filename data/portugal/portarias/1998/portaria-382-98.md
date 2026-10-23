@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/382/1998/07/02/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/382-1998-489055
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1998-07-02T00:00:00Z'
+  retrieved_at: '2026-10-23T14:08:30Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: cb1fa9b8a74a6abdcc5022f8014bfdec26bd09cd8a70b84656dfba17de9accfe
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 9c9b8d0495c71ec459484b9b78ab7cda6140a044b9296bc91ae22cf1877cea3e
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T14:08:30Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -65,18 +65,18 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
+- Agricultura
+- Exploração Agrícola
+- Exploração Florestal
 - Financiamento
 - Gabinete de Planeamento e Política Agro-alimentar
-- Instituto Nacional de Intervenção e Garantia Agrícola
-- QCA
-- Ministro da Agricultura do Desenvolvimento Rural e das Pescas
-- Exploração Agrícola
-- Organização de Produtores
-- Exploração Florestal
-- Regulamento CE
-- Programa de Apoio à Modernização Agrícola e Florestal
-- Agricultura
 - Ifadap
+- Instituto Nacional de Intervenção e Garantia Agrícola
+- Ministro da Agricultura do Desenvolvimento Rural e das Pescas
+- Organização de Produtores
+- Programa de Apoio à Modernização Agrícola e Florestal
+- QCA
+- Regulamento CE
 relationships:
 - type: cites
   target: celex:31996R2200
@@ -85,13 +85,13 @@ relationships:
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T14:08:30Z'
   warnings: []
   errors: []
 ---
@@ -128,6 +128,6 @@ Manda o Governo, pelo Ministro da Agricultura, do Desenvolvimento Rural e das Pe
 
 Ministério da Agricultura, do Desenvolvimento Rural e das Pescas.
 
-**Assinada em 5 de Junho de 1998.**
+Assinada em 5 de Junho de 1998.
 
-**O Ministro da Agricultura, do Desenvolvimento Rural e das Pescas, Fernando Manuel Van-Zeller Gomes da Silva.**
+O Ministro da Agricultura, do Desenvolvimento Rural e das Pescas, Fernando Manuel Van-Zeller Gomes da Silva.

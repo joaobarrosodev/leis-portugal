@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1997/03/064b00/12181227.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/184/1997/03/17/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/184-1997-517384
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2007-09-28T00:00:00Z'
+  retrieved_at: '2026-10-23T14:01:12Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 6506dbfc578a0608848f962a74ba71cfd69d09d95eb644c5bd678c6d75e665ce
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 777f4843fe093246fdd88c2a7c9bcd5e2cef12b9f29a476c514ab4cce2c72bd0
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T14:01:12Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,16 +66,22 @@ reuse:
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
 - Conservador
-- Serviços de Registo e Notariado
 - Emolumento do Notariado
-- Registos e Notariado
 - Impresso
 - Registo Civil
+- Registos e Notariado
+- Serviços de Registo e Notariado
 relationships:
 - type: amended_by
   target: pt:dre:642527:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:601979:por
+  label: "Alterados os modelos de averbamentos aos assentos de nascimento aprovados pela Port 973/95, de 11-Ago, com as alterações\
+    \ introduzidas pelo presente diploma, pela PORT.1257/2004.28.09.2004.MJ, DR.IS-B [229] de 28.09.2004\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/1257-2004-601979
+  date: '2004-09-28'
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/131/1995/06/06/p/dre
   label: null
@@ -92,16 +98,52 @@ relationships:
   target: eli:http://data.dre.pt/eli/port/973/1995/08/11/p/dre
   label: null
   source: http://data.dre.pt/eli/port/973/1995/08/11/p/dre
+- type: cites
+  target: pt:dre:152365:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:477668:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:484401:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:521238:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:571071:por
+  label: null
+  source: null
+- type: corrected_by
+  target: pt:dre:602495:por
+  label: "Rectificada pela DECL-RECT.6-Q/97.1997.03.31.PCM, DR.IS-B [75]2ºSupl de 1997.04.23\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/declaracao-rectificacao/6-q-1997-602495
+  date: '1997-03-31'
+- type: corrected_by
+  target: pt:dre:583796:por
+  label: "Rectificado o presente diploma, na redacção introduzida pela Decl-Rect 60/97 de 31-Mar, pela DECL-RECT.10-H/97.1997.05.28.PCM,\
+    \ DR.IS-B [125]2ºSupl de 1997.05.31\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/declaracao-rectificacao/10-h-1997-583796
+  date: '1997-05-28'
+- type: repealed_by
+  target: pt:dre:642527:por
+  label: "Revogada pelo DEC LEI.324/2007.28.09.2007.MJ, DR.IS [188] de 28.09.2007\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/324-2007-642527
+  date: '2007-09-28'
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T14:01:12Z'
   warnings: []
   errors: []
 ---
@@ -122,13 +164,13 @@ Manda o Governo, pelo Ministro da Justiça, ao abrigo do disposto no artigo 3.º
 
 «Art. 4.º Assento de óbito ou depósito do certificado médico de morte fetal ... Isento
 
-###### Art. 6.º - 1 - ... ...
+Art. 6.º - 1 - ... ...
 
 2 - Pelo assento de transcrição de qualquer acto lavrado nos termos do n.º 4 do artigo 6.º ... 2000$00
 
-###### Art. 8.º Pela menção ou averbamento de convenção antenupcial ou de alteração de regime de bens em assento de casamento ... 2000$00
+Art. 8.º Pela menção ou averbamento de convenção antenupcial ou de alteração de regime de bens em assento de casamento ... 2000$00
 
-###### Art. 9.º - 1 - ... ...
+Art. 9.º - 1 - ... ...
 
 2 - ... ...
 
@@ -144,11 +186,11 @@ e) ... ...
 
 3 - Por cada um dos certificados previstos nos artigos 146.º e 163.º ... 1500$00
 
-###### Art. 10.º - 1 - ... ...
+Art. 10.º - 1 - ... ...
 
 2 - Pelo processo de justificação administrativa requerido pelos interessados ... 2500$00
 
-###### Art. 15.º - 1 - ... ...
+Art. 15.º - 1 - ... ...
 
 2 - ... ...
 
@@ -164,7 +206,7 @@ e) ... ...
 
 2 - Emissão de novo boletim de qualquer dos actos referidos no número anterior ... 500$00
 
-###### Art. 19.º Por cada auto de redução a escrito de declaração, salvo se respeitante a assento isento ou a depósito de morte fetal, ou de requerimento verbal:
+Art. 19.º Por cada auto de redução a escrito de declaração, salvo se respeitante a assento isento ou a depósito de morte fetal, ou de requerimento verbal:
 
 a) ... ...
 
@@ -244,8 +286,8 @@ N.º ... Declarada a separação de pessoas e bens, por decisão de ... de ... d
 
 Ministério da Justiça.
 
-**Assinada em 20 de Fevereiro de 1997.**
+Assinada em 20 de Fevereiro de 1997.
 
-**O Ministro da Justiça, José Eduardo Vera Cruz Jardim.**
+O Ministro da Justiça, José Eduardo Vera Cruz Jardim.
 
-## ANEXO — [([ver documento original](https://files.diariodarepublica.pt/1s/1997/03/064b00/12181227.pdf))](https://files.diariodarepublica.pt/1s/1997/03/064b00/12181227.pdf)
+## ANEXO — [(ver documento original)](https://files.diariodarepublica.pt/1s/1997/03/064b00/12181227.pdf)

@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/445/1998/07/28/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/445-1998-429207
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1998-07-28T00:00:00Z'
+  retrieved_at: '2026-10-23T14:09:05Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: b88d07dfe054b3605706db02da6edbfbd6538d7974fe5f73c1b6b9f82bd78ba1
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 9fc04adad4b0e55d9c9b2706eacd4b0fc59c41822c931a985e161e093a8e2d82
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T14:09:05Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -68,8 +68,8 @@ reuse:
 subjects:
 - Financiamento
 - Pesca
-- QCA
 - Programa para o Desenvolvimento Económico do Sector das Pescas
+- QCA
 - Regime de Apoio ao Ajustamento do Esforço de Pesca
 - Regulamento
 relationships:
@@ -81,16 +81,24 @@ relationships:
   target: eli:http://data.dre.pt/eli/port/577/1994/07/12/p/dre
   label: null
   source: http://data.dre.pt/eli/port/577/1994/07/12/p/dre
+- type: cites
+  target: pt:dre:291604:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:294703:por
+  label: null
+  source: null
 article_structure:
-  article_count: 9
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T14:09:05Z'
   warnings: []
   errors: []
 ---
@@ -133,13 +141,17 @@ c) Tenha sido adquirida em regime de leasing, caso em que aquele prazo se conta 
 
 4 - Podem igualmente candidatar-se a este apoio a empresa locadora e o armador-locatário, desde que o façam conjuntamente.
 
-###### Artigo 3.º — Cessação temporária
+Artigo 3.º
+
+Cessação temporária
 
 ...
 
 2 - Podem apresentar candidaturas os proprietários ou locatários-armadores de embarcações de pesca que comprovem uma actividade de pesca regular até ao momento do facto que origina a imobilização e tenham a respectiva situação contributiva regularizada perante o Estado e a segurança social.
 
-###### Artigo 4.º — Reorientação da actividade
+Artigo 4.º
+
+Reorientação da actividade
 
 1 - O apoio à reorientação da actividade da pesca pressupõe a transferência definitiva da embarcação para um país terceiro ou o exercício temporário da actividade igualmente em país terceiro, através de uma das seguintes modalidades:
 
@@ -161,7 +173,9 @@ b) Tenha passado a integrar o capital de sociedade comercial ou cooperativa, com
 
 c) Tenha sido adquirida em regime de leasing, caso em que aquelo prazo se conta desde a outorga do contrato respectivo com a empresa locadora.
 
-###### Artigo 6.º — Montantes das ajudas a conceder
+Artigo 6.º
+
+Montantes das ajudas a conceder
 
 ...
 
@@ -169,7 +183,9 @@ c) Tenha sido adquirida em regime de leasing, caso em que aquelo prazo se conta 
 
 ...
 
-###### Artigo 7.º — Apresentação das candidaturas
+Artigo 7.º
+
+Apresentação das candidaturas
 
 1 - As candidaturas ao Regime de Apoio previsto no presente diploma são apresentadas na Direcção-Geral das Pescas e Aquicultura (DGPA), na sua sede ou respectiva direcção regional.
 
@@ -181,13 +197,17 @@ c) Tenha sido adquirida em regime de leasing, caso em que aquelo prazo se conta 
 
 5 - (Anterior n.º 4.)
 
-###### Artigo 9.º — Atribuição do apoio
+Artigo 9.º
+
+Atribuição do apoio
 
 ...
 
 3 - O pagamento do apoio só será efectuado após verificação de que o candidato tem a situação contributiva regularizada perante o Estado e a segurança social.
 
-###### Artigo 10.º — Obrigações dos beneficiários
+Artigo 10.º
+
+Obrigações dos beneficiários
 
 Para os efeitos dos artigos 5.º e 6.º do [Decreto-Lei n.º 189/94](https://diariodarepublica.pt/dr/detalhe/decreto-lei/189-1994-291604), de 5 de Julho, constarão do contrato de atribuição do apoio, nomeadamente, as seguintes obrigações:
 
@@ -199,7 +219,9 @@ d) Apresentar, no final de cada um dos três primeiros anos de actividade, relat
 
 e) Constituir um seguro para as embarcações envolvidas pelo montante mínimo correspondente ao valor das ajudas concedidas, no caso de sociedades mistas e de associações temporárias de empresa.
 
-###### Artigo 11.º — Diminuição de ajudas
+Artigo 11.º
+
+Diminuição de ajudas
 
 1 - As ajudas a conceder ao abrigo do presente Regulamento são diminuídas na proporção do tempo decorrido nos termos seguintes:
 
@@ -209,7 +231,9 @@ b) No caso de constituição de sociedades mistas, dos montantes concedidos para
 
 2 - Para efeitos do disposto na alínea b) do número anterior, entende-se como data de constituição a do cancelamento do registo da embarcação à frota de pesca nacional.
 
-###### Artigo 12.º — Pagamento
+Artigo 12.º
+
+Pagamento
 
 1 - O pagamento das ajudas a conceder às imobilizações definitivas no âmbito do presente regime é efectuado após a emissão do certificado de cancelamento do registo da embarcação e registo definitivo da embarcação no país terceiro, nos casos previstos na alínea b) do n.º 1 do artigo 2.º e na alínea a) do n.º 1 do artigo 4.º, sem prejuízo do disposto no número seguinte.
 
@@ -219,23 +243,27 @@ a) 80%, nos termos do n.º 1;
 
 b) 20%, com a aprovação pela DGPA do primeiro relatório de actividade.
 
-###### Artigo 13.º — Data limite para apresentação de candidaturas
+Artigo 13.º
+
+Data limite para apresentação de candidaturas
 
 A data limite para apresentação de candidaturas ao presente Regime é 30 de Junho de 1999.
 
-## ANEXO I — A cessação definitiva das actividades de pesca e sociedades mistas
+ANEXO I
+
+A cessação definitiva das actividades de pesca e sociedades mistas
 
 QUADRO N.º 1
 
 Prémios à cessação definitiva por demolição e à constituição de sociedades mistas para embarcações com comprimento entre perpendiculares até 24 m, inclusive.
 
-[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/1998/07/172b00/35983600.pdf)
+[[[[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/1998/07/172b00/35983600.pdf)](https://files.diariodarepublica.pt/1s/1998/07/172b00/35983600.pdf)](https://files.diariodarepublica.pt/1s/1998/07/172b00/35983600.pdf)](https://files.diariodarepublica.pt/1s/1998/07/172b00/35983600.pdf)
 
 QUADRO N.º 2
 
 Prémios à cessação definitiva por demolição e à constituição de sociedades mistas para embarcações com comprimento entre perpendiculares com mais de 24 m.
 
-[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/1998/07/172b00/35983600.pdf)
+[[[[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/1998/07/172b00/35983600.pdf)](https://files.diariodarepublica.pt/1s/1998/07/172b00/35983600.pdf)](https://files.diariodarepublica.pt/1s/1998/07/172b00/35983600.pdf)](https://files.diariodarepublica.pt/1s/1998/07/172b00/35983600.pdf)
 
 1 - a) Embarcações com menos de 15 anos serão acrescidas de 1,5% por cada ano aquém dos 15 anos.
 
@@ -249,13 +277,13 @@ QUADRO N.º 3
 
 Embarcações com comprimento entre perpendiculares até 24 m, inclusive
 
-[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/1998/07/172b00/35983600.pdf)
+[[[[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/1998/07/172b00/35983600.pdf)](https://files.diariodarepublica.pt/1s/1998/07/172b00/35983600.pdf)](https://files.diariodarepublica.pt/1s/1998/07/172b00/35983600.pdf)](https://files.diariodarepublica.pt/1s/1998/07/172b00/35983600.pdf)
 
 QUADRO N.º 4
 
 Embarcações com comprimento entre perpendiculares com mais de 24 m
 
-[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/1998/07/172b00/35983600.pdf)
+[[[[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/1998/07/172b00/35983600.pdf)](https://files.diariodarepublica.pt/1s/1998/07/172b00/35983600.pdf)](https://files.diariodarepublica.pt/1s/1998/07/172b00/35983600.pdf)](https://files.diariodarepublica.pt/1s/1998/07/172b00/35983600.pdf)
 
 2.º É revogado o artigo 8.º do Regulamento do Regime de Apoio ao Ajustamento do Esforço de Pesca, aprovado pela [Portaria n.º 577/94](https://diariodarepublica.pt/dr/detalhe/portaria/577-1994-294703), de 12 de Julho.
 
@@ -263,6 +291,6 @@ Embarcações com comprimento entre perpendiculares com mais de 24 m
 
 Ministério da Agricultura, do Desenvolvimento Rural e das Pescas.
 
-**Assinada em 7 de Julho de 1998.**
+Assinada em 7 de Julho de 1998.
 
 Pelo Ministro da Agricultura, do Desenvolvimento Rural e das Pescas, Marcelo de Sousa Vasconcelos, Secretário de Estado das Pescas.

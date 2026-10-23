@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1999/03/071b00/16841685.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/204/1999/03/25/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/204-1999-138098
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2001-07-27T00:00:00Z'
+  retrieved_at: '2026-10-23T14:13:57Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 6bf4c7776e2df2c213fd6ce9d851dce730c42963dad5090c8cd12c5e47439676
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 8c957b2923510b3e257745a8c7f6b6f96e7a0dfc3ac1f98a451f0c5f4ec6357c
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T14:13:57Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -65,10 +65,10 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Forças Armadas
-- Capelão
-- Quadro de Pessoal
 - Assistência Religiosa
+- Capelão
+- Forças Armadas
+- Quadro de Pessoal
 - Serviço de Assistência Religiosa das Forças Armadas
 relationships:
 - type: amended_by
@@ -83,16 +83,29 @@ relationships:
   target: eli:http://data.dre.pt/eli/dec-lei/93/1991/02/26/p/dre
   label: null
   source: http://data.dre.pt/eli/dec-lei/93/1991/02/26/p/dre
+- type: cites
+  target: pt:dre:484415:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:515444:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:372825:por
+  label: "Revogada pela PORT.852/2001.2001.07.27.MDN, DR.IS-B [173]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/852-2001-372825
+  date: '2001-07-27'
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T14:13:57Z'
   warnings: []
   errors: []
 ---
@@ -113,9 +126,9 @@ Manda o Governo, pelos Ministros da Defesa Nacional, das Finanças e Adjunto, qu
 
 Presidência do Conselho de Ministros e Ministérios da Defesa Nacional e das Finanças.
 
-**Assinada em 25 de Fevereiro de 1999.**
+Assinada em 25 de Fevereiro de 1999.
 
-**O Ministro da Defesa Nacional, José Veiga Simão. - Pelo Ministro das Finanças, João Carlos da Costa Ferreira da Silva, Secretário de Estado do Orçamento. - Pelo Ministro Adjunto, Fausto de Sousa Correia, Secretário de Estado da Administração Pública e da Modernização Administrativa.**
+O Ministro da Defesa Nacional, José Veiga Simão. - Pelo Ministro das Finanças, João Carlos da Costa Ferreira da Silva, Secretário de Estado do Orçamento. - Pelo Ministro Adjunto, Fausto de Sousa Correia, Secretário de Estado da Administração Pública e da Modernização Administrativa.
 
 ## ANEXO — Quadro de pessoal capelão do Serviço de Assistência Religiosa das Forças Armadas
 

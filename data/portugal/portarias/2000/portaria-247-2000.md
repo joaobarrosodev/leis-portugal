@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/247/2000/05/08/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/247-2000-276024
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2007-07-24T00:00:00Z'
+  retrieved_at: '2026-10-23T14:22:26Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 26ebc1fda1093f2ded428b7c2bfe30cec10f6d10ef35623f67c7092accff000b
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: ede92de25bef7a388b62d3c2a64cd4837bfbad13f9f92fb4448eddd82d450282
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T14:22:26Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,17 +67,23 @@ reuse:
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
 - Arquivo
-- Direção Geral da Saúde
-- Conservação de Documentos
 - Centro de Saúde
-- Prazo de Conservação
-- Ministério da Saúde
+- Conservação de Documentos
+- Direção Geral da Saúde
 - Estabelecimento Hospitalar
+- Ministério da Saúde
+- Prazo de Conservação
 relationships:
 - type: amended_by
   target: pt:dre:636749:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:56152684:por
+  label: Alterados os arts. 2.º, 4.º, 8.º, 9.º, 10.º e 12.º do Regulamento aprovado em anexo pelo(a) Portaria n.º 157/2014
+    - Diário da República n.º 158/2014, Série I de 2014-08-19
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/157-2014-56152684
+  date: '2014-08-19'
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/121/1992/07/02/p/dre
   label: null
@@ -86,16 +92,35 @@ relationships:
   target: eli:http://data.dre.pt/eli/dec-lei/16/1993/01/23/p/dre
   label: null
   source: http://data.dre.pt/eli/dec-lei/16/1993/01/23/p/dre
+- type: cites
+  target: pt:dre:291844:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:356515:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:584777:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:636749:por
+  label: "Revogado parcialmente o Regulamento aprovado pelo presente diploma, no respeitante à documentação relativa à transfusão\
+    \ de sangue, correspondente ao número de referência 84 do anexo i, pelo DEC LEI.267/2007.24.07.2007.MS, DR.IS [141] de\
+    \ 24.07.2007\007\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/267-2007-636749
+  date: '2007-07-24'
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T14:22:26Z'
   warnings: []
   errors: []
 ---
@@ -134,7 +159,7 @@ Manda o Governo, pelos Ministros da Saúde e da Cultura, o seguinte:
 
 2.º A presente portaria entra em vigor 30 dias após a sua publicação.
 
-**A Ministra da Saúde, Maria Manuela de Brito Arcanjo Marques da Costa, em 25 de Janeiro de 2000. - Pelo Ministro da Cultura, Catarina Marques de Almeida Vaz Pinto, Secretária de Estado da Cultura, em 22 de Fevereiro de 2000.**
+A Ministra da Saúde, Maria Manuela de Brito Arcanjo Marques da Costa, em 25 de Janeiro de 2000. - Pelo Ministro da Cultura, Catarina Marques de Almeida Vaz Pinto, Secretária de Estado da Cultura, em 22 de Fevereiro de 2000.
 
 REGULAMENTO ARQUIVÍSTICO PARA OS HOSPITAIS
 
@@ -260,6 +285,6 @@ Compete ao IAN/TT, na defesa do património arquivístico, a inspecção sobre a
 
 [(ver tabela no documento original)](https://files.diariodarepublica.pt/1s/2000/05/106b00/19371944.pdf)
 
-## ANEXO II — [(ver modelos no documento original)](https://files.diariodarepublica.pt/1s/2000/05/106b00/19371944.pdf)
+## ANEXO II — [[(ver modelos no documento original)](https://files.diariodarepublica.pt/1s/2000/05/106b00/19371944.pdf)](https://files.diariodarepublica.pt/1s/2000/05/106b00/19371944.pdf)
 
-## ANEXO III — [(ver modelos no documento original)](https://files.diariodarepublica.pt/1s/2000/05/106b00/19371944.pdf)
+## ANEXO III — [[(ver modelos no documento original)](https://files.diariodarepublica.pt/1s/2000/05/106b00/19371944.pdf)](https://files.diariodarepublica.pt/1s/2000/05/106b00/19371944.pdf)

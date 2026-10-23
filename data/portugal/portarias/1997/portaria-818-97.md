@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1997/09/205b00/46824694.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/818/1997/09/05/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/818-1997-643713
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2004-03-03T00:00:00Z'
+  retrieved_at: '2026-10-23T14:05:13Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 5b69488defeba779c34ad996cebcf4e6d0f46269251b7b5743dbcab8766163c5
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: dd446fc09d32549777762443f64b9d2ec7f8ebddcc5d4d7a2356f7d632814ad8
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T14:05:13Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -65,9 +65,9 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
+- Catálogo Europeu de Resíduos
 - Gestão de Resíduos
 - Resíduo
-- Catálogo Europeu de Resíduos
 relationships:
 - type: amended_by
   target: pt:dre:551652:por
@@ -89,16 +89,21 @@ relationships:
   target: celex:31994D0904
   label: null
   source: http://data.europa.eu/eli/dec/1994/904/oj
+- type: repealed_by
+  target: pt:dre:551652:por
+  label: "Revogada pela PORT.209/2004.03.03.2004.MECO, DR.IS-B [53] de 03.03.2004\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/209-2004-551652
+  date: '2004-03-03'
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T14:05:13Z'
   warnings: []
   errors: []
 ---
@@ -151,17 +156,17 @@ Uma ou mais substâncias conhecidas como carcinogénicas (categorias 1 ou 2) num
 
 Ministérios da Economia, da Agricultura, do Desenvolvimento Rural e das Pescas, da Saúde e do Ambiente.
 
-**Assinada em 3 de Abril de 1997.**
+Assinada em 3 de Abril de 1997.
 
-**O Ministro da Economia, Augusto Carlos Serra Ventura Mateus. - O Ministro da Agricultura, do Desenvolvimento Rural e das Pescas, Fernando Manuel Van-Zeller Gomes da Silva. - Pela Ministra da Saúde, José Eduardo Arcos Gomes dos Reis, Secretário de Estado da Saúde. - A Ministra do Ambiente, Elisa Maria da Costa Guimarães Ferreira.**
+O Ministro da Economia, Augusto Carlos Serra Ventura Mateus. - O Ministro da Agricultura, do Desenvolvimento Rural e das Pescas, Fernando Manuel Van-Zeller Gomes da Silva. - Pela Ministra da Saúde, José Eduardo Arcos Gomes dos Reis, Secretário de Estado da Saúde. - A Ministra do Ambiente, Elisa Maria da Costa Guimarães Ferreira.
 
 ## ANEXO I — Catálogo Europeu de Resíduos
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1997/09/205b00/46824694.pdf))](https://files.diariodarepublica.pt/1s/1997/09/205b00/46824694.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1997/09/205b00/46824694.pdf)
 
 ## ANEXO II — Lista de resíduos perigosos
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1997/09/205b00/46824694.pdf))](https://files.diariodarepublica.pt/1s/1997/09/205b00/46824694.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1997/09/205b00/46824694.pdf)
 
 ## ANEXO III — Características de perigo atribuíveis aos resíduos
 

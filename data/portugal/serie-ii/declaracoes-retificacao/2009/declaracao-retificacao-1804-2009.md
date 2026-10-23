@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/2s/2009/07/144000000/3002930039.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -46,18 +46,18 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/declaracao-rectificacao/1804-2009-922917
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2009-07-28T00:00:00Z'
+  retrieved_at: '2026-10-23T14:03:18Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 5c0ef32193921e5d394458d40285761f190c43d16c943cdcc8ad4f44eaef2735
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: d09ef8049814cd8a80f6d7c81f57b2c94ec77698eccd02bd995873d475af2177
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T14:03:18Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -65,22 +65,46 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects: []
-relationships: []
+relationships:
+- type: cites
+  target: pt:dre:197492:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:331257:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:522789:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:569886:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:570504:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:626594:por
+  label: null
+  source: null
 article_structure:
-  article_count: 69
-  section_count: 30
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  article_count: 71
+  section_count: 33
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T14:03:18Z'
   warnings: []
   errors: []
 ---
 
-# Declaração de Rectificação n.º 1804/2009
+# Declaração de rectificação n.º 1804/2009
 
 Por ter saído com inexactidão o edital n.º 725/2009 no Diário da República, 2.ª série, n.º 139 de 21 de Julho de 2009, torna-se público o texto integral do documento:
 
@@ -116,9 +140,13 @@ Sem prejuízo do respeito pelo princípio da proporcionalidade, optou-se pelo cr
 
 Projecto de regulamento de taxas tarifas e outras receitas municipais
 
-## Título I — Parte geral
+## Título I
 
-### CAPÍTULO I — Artigo 1.º
+## Parte geral
+
+### CAPÍTULO I
+
+###### Artigo 1.º
 
 Lei habilitante
 
@@ -258,9 +286,13 @@ Findo o prazo de pagamento voluntário das taxas e outras receitas municipais li
 
 À reclamação graciosa ou impugnação judicial da liquidação e cobrança de taxas, tarifas ou outras receitas municipais, aplicam-se as normas do regime geral das taxas das Autarquias Locais e, com as necessárias adaptações, da Lei Geral Tributária e do Código de Procedimento e de Processo tributário.
 
-## Título II — Parte especial
+## Título II
 
-### CAPÍTULO I — Artigo 19.º
+## Parte especial
+
+### CAPÍTULO I
+
+###### Artigo 19.º
 
 Iniciativa procedimental
 
@@ -1056,7 +1088,9 @@ d) Segundas vias de licença de condução - (euro) 5,00
 
 e) Averbamentos diversos - (euro) 5,00
 
-### CAPÍTULO VI — Secção I
+### CAPÍTULO VI
+
+#### Secção I
 
 Actividade de venda ambulante
 
@@ -1405,3 +1439,5 @@ d) com 0,25 m2 - (euro) 20,00 (euro) + IVA
 2 - Utilização Auditório - por dia - (euro) 150,00
 
 3 - Utilização da Sala Polivalente - por dia - (euro) 100,00
+
+202088831

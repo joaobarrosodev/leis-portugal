@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/949/1999/10/28/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/949-1999-692193
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1999-10-28T00:00:00Z'
+  retrieved_at: '2026-10-23T14:18:49Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: d8edce73d64fc4872dbadd74cce430366789a0c5cf7a6b16079d7da0c4afa667
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 6765e60cf477bb952e5ad9ab153f4c201981cdadfa52c48d0349f8e829632b91
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T14:18:49Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,38 +67,38 @@ reuse:
 subjects:
 - Adjudicação
 - Adjudicação por Concurso Público
-- Contrato de Seguro
+- Administração Pública
 - Aquisição de Bens e Serviços
-- Região Autónoma
+- Arrendamento Urbano não Habitacional
+- Autarquia Local
 - Autorização de Despesas
-- Garantia
+- Base de Dados
 - BEM Móvel
 - Caderno de Encargos
 - Concurso Internacional
-- Concurso Público
-- Arrendamento Urbano não Habitacional
-- Despesas Públicas
-- Empreitada de Obras Públicas
-- Administração Pública
-- Impresso
-- Secretaria Geral
-- Garantia Bancária
-- Ministério das Finanças
-- Seguro
-- Base de Dados
-- Instituto Público
-- Locação Financeira
 - Concurso Limitado por Prévia Qualificação
 - Concurso por Negociação
+- Concurso Público
 - Concurso sem Apresentação de Candidaturas
+- Contrato de Seguro
+- Despesas Públicas
 - Documento Eletrónico
+- Empreitada de Obras Públicas
+- Garantia
+- Garantia Bancária
+- Impresso
+- Instituto Público
+- Internet
+- Locação Financeira
+- Ministério das Finanças
 - Obras Públicas
 - Pessoa Colectiva de Direito Público
-- Internet
-- Sistema de Informação
 - Prestação de Serviços
 - Programa
-- Autarquia Local
+- Região Autónoma
+- Secretaria Geral
+- Seguro
+- Sistema de Informação
 relationships:
 - type: cites
   target: celex:31993L0036
@@ -118,14 +118,14 @@ relationships:
   source: http://data.europa.eu/eli/dir/2050/592/oj
 article_structure:
   article_count: 149
-  section_count: 34
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  section_count: 36
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T14:18:49Z'
   warnings: []
   errors: []
 ---
@@ -164,11 +164,11 @@ i) Minuta do contrato.
 
 2.º A Secretaria-Geral do Ministério das Finanças deve fazer constar do site do Ministério da Internet o suporte correspondente a esta portaria para consulta e cópia dos modelos por ela aprovados.
 
-**O Ministro das Finanças, António Luciano Pacheco de Sousa Franco, em 18 de Outubro de 1999.**
+O Ministro das Finanças, António Luciano Pacheco de Sousa Franco, em 18 de Outubro de 1999.
 
 ## ANEXO — CADERNO DE ENCARGOS
 
-# PARTE I — Cláusulas jurídicas
+## PARTE I — Cláusulas jurídicas
 
 ###### Artigo 1.º — Objecto
 
@@ -308,7 +308,7 @@ Para todas as questões emergentes do contrato será competente o Tribunal da Co
 
 2 - Em caso de dúvidas prevalece em primeiro lugar o texto do contrato, seguidamente o caderno de encargos e o programa de procedimento e em último lugar a proposta do adjudicatário (ver nota 44).
 
-# PARTE II — Cláusulas técnicas
+## PARTE II — Cláusulas técnicas
 
 ...
 

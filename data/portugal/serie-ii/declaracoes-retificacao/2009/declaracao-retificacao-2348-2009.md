@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/2s/2009/09/184000000/3861138611.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -46,18 +46,18 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/declaracao-rectificacao/2348-2009-1386017
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2009-09-22T00:00:00Z'
+  retrieved_at: '2026-10-23T14:06:29Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: b009e608799bb5b29a12205cb87ed90fd72fe5514cf7517d2ca34e91758f3414
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 01acb1ba86a50a9abe8a6f47b0c869a289a6856b1c90243f70e203a6eb6b470a
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T14:06:29Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -65,22 +65,30 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects: []
-relationships: []
+relationships:
+- type: cites
+  target: pt:dre:453975:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:468663:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T14:06:29Z'
   warnings: []
   errors: []
 ---
 
-# Declaração de Rectificação n.º 2348/2009
+# Declaração de rectificação n.º 2348/2009
 
 Por ter saído com inexactidão a publicação inserta no Diário da República, 2.ª série, n.º 180, de 16 de Setembro de 2009, Deliberação (extracto) N.º 2618/2009, rectifica-se que:
 
@@ -93,3 +101,5 @@ Deve ler-se:
 "Em 02/09/2009, o Conselho de Administração do Centro Hospitalar de Lisboa Central, E. P. E. deliberou, na sequência de concurso interno condicionado, celebrar contrato de trabalho em funções públicas, por tempo indeterminado, com o Dr. Flávio Manuel Reinas de Silva e Sá, como Assistente Graduado Sénior de Otorrinolaringologia, da carreira médica hospitalar, ao abrigo do disposto na [Lei n.º 12-A/2008](https://diariodarepublica.pt/dr/detalhe/lei/12-a-2008-468663) de 27 de Fevereiro e na [Lei n.º 59/2008](https://diariodarepublica.pt/dr/detalhe/lei/59-2008-453975), de 11 de Setembro."
 
 16 de Setembro de 2009. - A Directora da Área Administrativa de Recursos Humanos, Maria Teresa Alvim.
+
+202312885

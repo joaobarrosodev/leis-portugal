@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/2s/2009/07/134000000/2767227672.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -47,18 +47,18 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/declaracao-rectificacao/1692-2009-1568433
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2009-07-14T00:00:00Z'
+  retrieved_at: '2026-10-23T14:02:38Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 23b26c5c684fad8e1870588c38543be592f756df7c2fc4b3a3c63fec8321e06a
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 23fdcf99070169dafa8d1b7c0ea3c431916645bcad3726e5a6e50614b4056f0e
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T14:02:38Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -70,13 +70,13 @@ relationships: []
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T14:02:38Z'
   warnings: []
   errors: []
 ---
@@ -88,3 +88,5 @@ Declaração de rectificação n.º 1692/2009
 Por ter saído com inexactidão o texto do Despacho n.º 7650/2009, publicado no Diário da República, 2.ª Série, n.º 52, de 16 de Março de 2009, relativo à renovação de contrato administrativo de provimento do Mestre Manuel Luís Pinto Galvão Lucas - rectifica-se onde se lê escalão 1 do índice 185 deve ler-se escalão 2 do índice 195.
 
 7 de Julho de 2009. - O Presidente, José Manuel Torres Farinha.
+
+202012074

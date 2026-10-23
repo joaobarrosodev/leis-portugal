@@ -20,12 +20,12 @@ publication:
   reference: Diário da República n.º 168/2000, 1º Suplemento, Série I-B de 2000-07-22
   number: '168'
   series: I
-  supplement: 1º Suplemento
+  supplement: null
   pages: 3536-(13) a 3536-(16)
   pdf_url: https://files.diariodarepublica.pt/1s/2000/07/168b01/00130016.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/466-n/2000/07/22/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/466-n-2000-413644
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2013-04-15T00:00:00Z'
+  retrieved_at: '2026-10-23T14:23:47Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 3ecdcfbc82c2271be50bda67fa5655ff8847f05d4ac5bc2995bbaca872b8fbd3
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 10859792398cfb0c107f75868ea96e556607c055d6a0c686e906b2b1895d2e39
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T14:23:47Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -70,8 +70,8 @@ subjects:
 - Escola Superior de Música
 - Escola Superior de Música e das Artes do Espectáculo
 - Instituto Politécnico
-- Regulamento
 - Porto
+- Regulamento
 relationships:
 - type: amended_by
   target: pt:dre:260438:por
@@ -85,16 +85,33 @@ relationships:
   target: eli:http://data.dre.pt/eli/dec-lei/99/1999/03/30/p/dre
   label: null
   source: http://data.dre.pt/eli/dec-lei/99/1999/03/30/p/dre
+- type: cites
+  target: pt:dre:138571:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:173481:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:381171:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:260438:por
+  label: "Revogada, a partir de 16.04.2013, pela PORT.150/2013.15.04.2013.MECI, DR.IS [73] de 15.04.2013\03\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/150-2013-260438
+  date: '2013-04-15'
 article_structure:
   article_count: 23
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T14:23:47Z'
   warnings: []
   errors: []
 ---

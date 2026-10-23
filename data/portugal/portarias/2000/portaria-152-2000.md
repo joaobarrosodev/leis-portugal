@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/152/2000/03/15/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/152-2000-411353
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2006-11-10T00:00:00Z'
+  retrieved_at: '2026-10-23T14:21:42Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 604ef236a853ecfe3d19bb1d3811e747408a9497f923d6fa60c59a61c1afeacb
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 50dc9d2ff893d62e1bafa7a1dc356702419e3fc7873798d4e0ee8304bba131ff
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T14:21:42Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -74,6 +74,18 @@ relationships:
   target: pt:dre:546051:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:541629:por
+  label: "Anexados vários prédios rústicos à zona de caça pela PORT.1012/2006.19.09.2006.MADRP, DR.IS [181] de 19.09.2006\0\
+    \0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/1012-2006-541629
+  date: '2006-09-19'
+- type: amended_by
+  target: pt:dre:546051:por
+  label: "Renovada, por um periodo de 12 anos, a concessão da zona de caça, concessionada pelo presente diploma, e anexados\
+    \ vários prédios rústicos à citada zona de caça pela PORT.1206/2006.10.11.2006.MADRP, DR.IS [217] de 10.11.2006\06\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/1206-2006-546051
+  date: '2006-11-10'
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/136/1996/08/14/p/dre
   label: null
@@ -82,16 +94,36 @@ relationships:
   target: eli:http://data.dre.pt/eli/port/219-a/1991/03/18/p/dre
   label: null
   source: http://data.dre.pt/eli/port/219-a/1991/03/18/p/dre
+- type: cites
+  target: pt:dre:219134:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:354162:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:405765:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:619925:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:620697:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T14:21:42Z'
   warnings: []
   errors: []
 ---

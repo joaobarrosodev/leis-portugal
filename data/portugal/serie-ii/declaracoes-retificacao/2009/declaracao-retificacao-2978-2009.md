@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/2s/2009/12/237000000/4979449794.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -47,18 +47,18 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/declaracao-rectificacao/2978-2009-1885122
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2009-12-09T00:00:00Z'
+  retrieved_at: '2026-10-23T14:10:11Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: e8a6b529dbe5ca2c5a23919b588b2527da96da1c16b7d8230a7430d85bca5869
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 3e5dfa4e6a1e22adb60a273554432f5f7b32eff68a79f8ab97d38afb55d5104f
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T14:10:11Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -70,13 +70,13 @@ relationships: []
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T14:10:11Z'
   warnings: []
   errors: []
 ---
@@ -88,3 +88,5 @@ Declaração de rectificação n.º 2978/2009
 Nos termos do disposto no artigo 148.º do Código do Procedimento Administrativo, serve a presente para proceder à anulação da declaração de rectificação n.º 2678/2009, publicada no Diário da República, 2.ª série, n.º 211, de 30 de Outubro de 2009, relativa ao aviso n.º 18 407/2009, publicado no Diário da República, 2.ª série, n.º 202, de 19 de Outubro de 2009, no que concerne ao concurso com referência A).
 
 30 de Novembro de 2009. - O Presidente, Sérgio do Nascimento Alves Martins.
+
+302645211

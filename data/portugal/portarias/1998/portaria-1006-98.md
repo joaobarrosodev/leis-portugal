@@ -26,7 +26,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1998/11/277b00/66266634.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -48,18 +48,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/1006/1998/11/30/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/1006-1998-210187
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2007-08-13T00:00:00Z'
+  retrieved_at: '2026-10-23T14:06:24Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: c08d6871efc7db06d9a3a5a5fcf7901fbae1ec9f19a57ee0d1774ec5fe7b0c06
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 02d009b1e536e554ee59bdaa77d106145650984c710473f8432ad7f35a8686ea
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T14:06:24Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -70,20 +70,20 @@ subjects:
 - Alcoolismo
 - Analisador Quantitativo
 - Análises Clínicas
+- Aparelho de Medição
 - Código da Estrada
+- Condições de Higiene e Segurança no Trabalho
+- Condutor
+- Droga
 - Equipamento
 - Especificação Técnica
+- Exame Médico
 - Fiscalização
 - Fiscalização Rodoviária
 - Instituto de Medicina Legal
-- Aparelho de Medição
 - Laboratório
 - Meios Complementares de Diagnóstico
-- Exame Médico
 - Segurança Rodoviária
-- Condutor
-- Droga
-- Condições de Higiene e Segurança no Trabalho
 - Taxa de Alcoolemia
 relationships:
 - type: amended_by
@@ -102,16 +102,38 @@ relationships:
   target: eli:http://data.dre.pt/eli/decregul/24/1998/10/30/p/dre
   label: null
   source: http://data.dre.pt/eli/decregul/24/1998/10/30/p/dre
+- type: cites
+  target: pt:dre:223835:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:229115:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:250659:por
+  label: null
+  source: null
+- type: corrected_by
+  target: pt:dre:265574:por
+  label: "Rectificada DECL-RECT.22-X/98.1998.12.31.PCM DR.IS-B [301]8.ºSUPL\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/declaracao-rectificacao/22-x-1998-265574
+  date: '1998-12-31'
+- type: repealed_by
+  target: pt:dre:507612:por
+  label: "Revogada, a partir de 15.08.2007, pela PORT.902-B/2007.13.08.2007.MAI, DR.IS [155-Supl] de 13.08.2007\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/902-b-2007-507612
+  date: '2007-08-13'
 article_structure:
   article_count: 0
   section_count: 9
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T14:06:24Z'
   warnings: []
   errors: []
 ---
@@ -516,13 +538,13 @@ h) Sistema de controlo e garantia de qualidade intralaboratorial que assegure a 
 
 Ministérios da Administração Interna, da Justiça e da Saúde.
 
-**Assinada em 9 de Novembro de 1998.**
+Assinada em 9 de Novembro de 1998.
 
-**O Ministro da Administração Interna, Jorge Paulo Sacadura Almeida Coelho. - O Ministro da Justiça, José Eduardo Vera Cruz Jardim. - A Ministra da Saúde, Maria de Belém Roseira Martins Coelho Henriques de Pina.**
+O Ministro da Administração Interna, Jorge Paulo Sacadura Almeida Coelho. - O Ministro da Justiça, José Eduardo Vera Cruz Jardim. - A Ministra da Saúde, Maria de Belém Roseira Martins Coelho Henriques de Pina.
 
 ## ANEXO I — Análise toxicológica de quantificação da taxa de álcool no sangue
 
-[(ver anexo no documento original)](https://files.diariodarepublica.pt/1s/1998/11/277b00/66266634.pdf)
+[[[[[[[[(ver anexo no documento original)](https://files.diariodarepublica.pt/1s/1998/11/277b00/66266634.pdf)](https://files.diariodarepublica.pt/1s/1998/11/277b00/66266634.pdf)](https://files.diariodarepublica.pt/1s/1998/11/277b00/66266634.pdf)](https://files.diariodarepublica.pt/1s/1998/11/277b00/66266634.pdf)](https://files.diariodarepublica.pt/1s/1998/11/277b00/66266634.pdf)](https://files.diariodarepublica.pt/1s/1998/11/277b00/66266634.pdf)](https://files.diariodarepublica.pt/1s/1998/11/277b00/66266634.pdf)](https://files.diariodarepublica.pt/1s/1998/11/277b00/66266634.pdf)
 
 ## ANEXO II — Ministério da Saúde
 
@@ -530,7 +552,7 @@ Exame para determinação do estado de influenciado pelo álcool
 
 Relatório médico
 
-[(ver anexo no documento original)](https://files.diariodarepublica.pt/1s/1998/11/277b00/66266634.pdf)
+[[[[[[[[(ver anexo no documento original)](https://files.diariodarepublica.pt/1s/1998/11/277b00/66266634.pdf)](https://files.diariodarepublica.pt/1s/1998/11/277b00/66266634.pdf)](https://files.diariodarepublica.pt/1s/1998/11/277b00/66266634.pdf)](https://files.diariodarepublica.pt/1s/1998/11/277b00/66266634.pdf)](https://files.diariodarepublica.pt/1s/1998/11/277b00/66266634.pdf)](https://files.diariodarepublica.pt/1s/1998/11/277b00/66266634.pdf)](https://files.diariodarepublica.pt/1s/1998/11/277b00/66266634.pdf)](https://files.diariodarepublica.pt/1s/1998/11/277b00/66266634.pdf)
 
 ## ANEXO III — Guia orientador para submissão a avaliação clínica de pessoas sob influência de substâncias psicotrópicas
 
@@ -874,18 +896,18 @@ Exame para avaliação clínica de pessoas sob influência de substâncias psico
 
 (marijuana, cocaína, opiáceos e anfetaminas)
 
-[(ver anexo no documento original)](https://files.diariodarepublica.pt/1s/1998/11/277b00/66266634.pdf)
+[[[[[[[[(ver anexo no documento original)](https://files.diariodarepublica.pt/1s/1998/11/277b00/66266634.pdf)](https://files.diariodarepublica.pt/1s/1998/11/277b00/66266634.pdf)](https://files.diariodarepublica.pt/1s/1998/11/277b00/66266634.pdf)](https://files.diariodarepublica.pt/1s/1998/11/277b00/66266634.pdf)](https://files.diariodarepublica.pt/1s/1998/11/277b00/66266634.pdf)](https://files.diariodarepublica.pt/1s/1998/11/277b00/66266634.pdf)](https://files.diariodarepublica.pt/1s/1998/11/277b00/66266634.pdf)](https://files.diariodarepublica.pt/1s/1998/11/277b00/66266634.pdf)
 
-## ANEXO V — [(ver anexo no documento original)](https://files.diariodarepublica.pt/1s/1998/11/277b00/66266634.pdf)
+## ANEXO V — [[[[[[[[(ver anexo no documento original)](https://files.diariodarepublica.pt/1s/1998/11/277b00/66266634.pdf)](https://files.diariodarepublica.pt/1s/1998/11/277b00/66266634.pdf)](https://files.diariodarepublica.pt/1s/1998/11/277b00/66266634.pdf)](https://files.diariodarepublica.pt/1s/1998/11/277b00/66266634.pdf)](https://files.diariodarepublica.pt/1s/1998/11/277b00/66266634.pdf)](https://files.diariodarepublica.pt/1s/1998/11/277b00/66266634.pdf)](https://files.diariodarepublica.pt/1s/1998/11/277b00/66266634.pdf)](https://files.diariodarepublica.pt/1s/1998/11/277b00/66266634.pdf)
 
 ## ANEXO VI — Análise toxicológica de confirmação da presença de psicotrópicos
 
-[(ver anexo no documento original)](https://files.diariodarepublica.pt/1s/1998/11/277b00/66266634.pdf)
+[[[[[[[[(ver anexo no documento original)](https://files.diariodarepublica.pt/1s/1998/11/277b00/66266634.pdf)](https://files.diariodarepublica.pt/1s/1998/11/277b00/66266634.pdf)](https://files.diariodarepublica.pt/1s/1998/11/277b00/66266634.pdf)](https://files.diariodarepublica.pt/1s/1998/11/277b00/66266634.pdf)](https://files.diariodarepublica.pt/1s/1998/11/277b00/66266634.pdf)](https://files.diariodarepublica.pt/1s/1998/11/277b00/66266634.pdf)](https://files.diariodarepublica.pt/1s/1998/11/277b00/66266634.pdf)](https://files.diariodarepublica.pt/1s/1998/11/277b00/66266634.pdf)
 
 ## ANEXO VII — Protocolos analíticos para confirmação e quantificação
 
-[(ver anexo no documento original)](https://files.diariodarepublica.pt/1s/1998/11/277b00/66266634.pdf)
+[[[[[[[[(ver anexo no documento original)](https://files.diariodarepublica.pt/1s/1998/11/277b00/66266634.pdf)](https://files.diariodarepublica.pt/1s/1998/11/277b00/66266634.pdf)](https://files.diariodarepublica.pt/1s/1998/11/277b00/66266634.pdf)](https://files.diariodarepublica.pt/1s/1998/11/277b00/66266634.pdf)](https://files.diariodarepublica.pt/1s/1998/11/277b00/66266634.pdf)](https://files.diariodarepublica.pt/1s/1998/11/277b00/66266634.pdf)](https://files.diariodarepublica.pt/1s/1998/11/277b00/66266634.pdf)](https://files.diariodarepublica.pt/1s/1998/11/277b00/66266634.pdf)
 
-## ANEXO VIII — [(ver anexo no documento original)](https://files.diariodarepublica.pt/1s/1998/11/277b00/66266634.pdf)
+## ANEXO VIII — [[[[[[[[(ver anexo no documento original)](https://files.diariodarepublica.pt/1s/1998/11/277b00/66266634.pdf)](https://files.diariodarepublica.pt/1s/1998/11/277b00/66266634.pdf)](https://files.diariodarepublica.pt/1s/1998/11/277b00/66266634.pdf)](https://files.diariodarepublica.pt/1s/1998/11/277b00/66266634.pdf)](https://files.diariodarepublica.pt/1s/1998/11/277b00/66266634.pdf)](https://files.diariodarepublica.pt/1s/1998/11/277b00/66266634.pdf)](https://files.diariodarepublica.pt/1s/1998/11/277b00/66266634.pdf)](https://files.diariodarepublica.pt/1s/1998/11/277b00/66266634.pdf)
 
-## ANEXO IX — [(ver anexo no documento original)](https://files.diariodarepublica.pt/1s/1998/11/277b00/66266634.pdf)
+## ANEXO IX — [[[[[[[[(ver anexo no documento original)](https://files.diariodarepublica.pt/1s/1998/11/277b00/66266634.pdf)](https://files.diariodarepublica.pt/1s/1998/11/277b00/66266634.pdf)](https://files.diariodarepublica.pt/1s/1998/11/277b00/66266634.pdf)](https://files.diariodarepublica.pt/1s/1998/11/277b00/66266634.pdf)](https://files.diariodarepublica.pt/1s/1998/11/277b00/66266634.pdf)](https://files.diariodarepublica.pt/1s/1998/11/277b00/66266634.pdf)](https://files.diariodarepublica.pt/1s/1998/11/277b00/66266634.pdf)](https://files.diariodarepublica.pt/1s/1998/11/277b00/66266634.pdf)

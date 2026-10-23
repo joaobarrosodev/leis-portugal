@@ -49,18 +49,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/388/1998/07/06/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/388-1998-485956
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1998-07-06T00:00:00Z'
+  retrieved_at: '2026-10-23T14:08:30Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: e16630493e9cddc5eea4b53c542f57130d53543e460d3a3a88a1a18a7d5f2747
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 1eef04d4ddaafb3904ea3b9f8a378136585559a3c37fb59083cb63ad18fe3899
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T14:08:30Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -68,32 +68,68 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Formação Profissional
-- Marinha Mercante
-- Pessoal do MAR
+- Carreira Profissional
 - Definição de Competências
 - Diploma
 - Direcção Geral de Portos Navegação e Transportes Marítimos
-- Exame
-- Carreira Profissional
-- Inscrição Marítima
-- Qualificação Profissional
 - Estágio de Formação
+- Exame
+- Formação Profissional
+- Inscrição Marítima
+- Marinha Mercante
+- Pessoal do MAR
+- Qualificação Profissional
 relationships:
 - type: cites
   target: eli:http://data.dre.pt/eli/port/282/1995/04/07/p/dre
   label: null
   source: http://data.dre.pt/eli/port/282/1995/04/07/p/dre
+- type: cites
+  target: pt:dre:222220:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:222223:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:230537:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:285757:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:399450:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:399451:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:565790:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:615193:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:615194:por
+  label: null
+  source: null
 article_structure:
-  article_count: 15
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T14:08:30Z'
   warnings: []
   errors: []
 ---
@@ -136,7 +172,9 @@ d) ...
 
 2 - ...
 
-###### Artigo 34.º — Certificados nos termos e para os efeitos da Convenção STCW
+Artigo 34.º
+
+Certificados nos termos e para os efeitos da Convenção STCW
 
 Os certificados emitidos nos termos e para os efeitos da Convenção STCW, referidos na alínea a) do n.º 1 do artigo anterior, compreendem:
 
@@ -148,7 +186,9 @@ c) Certificados de qualificação;
 
 d) Outros certificados.
 
-###### Artigo 37.º — Certificados de qualificação
+Artigo 37.º
+
+Certificados de qualificação
 
 Os certificados de qualificação referidos na alínea c) do artigo 34.º compreendem:
 
@@ -170,7 +210,9 @@ h) Certificado de qualificação para ministrar os primeiros socorros a bordo da
 
 i) Certificado de qualificação para os responsáveis pelos cuidados de saúde a bordo das embarcações.
 
-###### Artigo 38.º — Outros certificados
+Artigo 38.º
+
+Outros certificados
 
 Os outros certificados referidos na alínea d) do artigo 34.º que podem ser emitidos nos termos e para os efeitos da Convenção STCW compreendem:
 
@@ -214,7 +256,9 @@ a) O certificado de aptidão física, válido; e
 
 b) A experiência ou a formação que inclua, pelo menos, as matérias exigidas para a emissão do certificado de segurança básica, indicadas no artigo 38.º-A.
 
-###### Artigo 37.º-B — Certificado de qualificação para o serviço de quartos de máquinas
+Artigo 37.º-B
+
+Certificado de qualificação para o serviço de quartos de máquinas
 
 1 - O certificado de qualificação para o serviço de quartos de máquinas será conferido ao marítimo que obtenha aprovação em exame.
 
@@ -242,7 +286,9 @@ d) Ter obtido aprovação num curso apropriado para motorista e ter efectuado, n
 
 9 - O disposto no n.º 7 não se aplica aos marítimos que iniciarem, após 1 de Agosto de 1998, os seus serviços de mar ou os seus cursos de formação.
 
-###### Artigo 37.º-C — Certificado de qualificação para o exercício de funções específicas nos navios-tanques (petroleiros, químicos e de gás liquefeito)
+Artigo 37.º-C
+
+Certificado de qualificação para o exercício de funções específicas nos navios-tanques (petroleiros, químicos e de gás liquefeito)
 
 1 - O certificado de qualificação para o exercício de funções específicas relacionadas com a carga ou o seu equipamento nos navios-tanques (petroleiros, químicos e de gás liquefeito) será conferido ao marítimo que comprove:
 
@@ -286,7 +332,7 @@ d) Terem efectuado, imediatamente antes de assumirem as funções para que os se
 
 9 - A partir de 1 de Fevereiro de 2002, os certificados emitidos nos termos do número anterior mantêm a sua validade se o respectivo titular comprovar possuir as restantes qualificações previstas na alínea b) do n.º 1.
 
-###### Artigo 37.º-D
+Artigo 37.º-D
 
 Certificado de qualificação para o exercício de funções de responsabilidade nos navios-tanques petroleiros, químicos ou de gás liquefeito.
 
@@ -316,7 +362,9 @@ b) Terem efectuado, pelo menos, 12 meses de serviços de mar, nos últimos cinco
 
 8 - À renovação dos certificados emitidos nos termos do número anterior aplica-se o disposto no n.º 7 do artigo 37.º-C.
 
-###### Artigo 37.º-E — Certificado de qualificação para a condução de embarcações de salvamento
+Artigo 37.º-E
+
+Certificado de qualificação para a condução de embarcações de salvamento
 
 1 - O certificado de qualificação para a condução de embarcações de salvamento será conferido ao marítimo que obtenha aprovação em exame.
 
@@ -346,7 +394,9 @@ b) Terem efectuado, pelo menos, 12 meses de serviços de mar nos últimos cinco 
 
 c) Possuírem as qualificações previstas na alínea b) do n.º 2.
 
-###### Artigo 37.º-F — Certificado de qualificação para a condução de embarcações de salvamento rápidas
+Artigo 37.º-F
+
+Certificado de qualificação para a condução de embarcações de salvamento rápidas
 
 1 - O certificado de qualificação para a condução de embarcações de salvamento rápidas será conferido ao marítimo que obtenha aprovação num curso apropriado.
 
@@ -356,7 +406,9 @@ c) Possuírem as qualificações previstas na alínea b) do n.º 2.
 
 4 - Não haverá lugar à emissão do certificado desde que o mesmo seja incluído, por referência, num outro certificado emitido nos termos e para efeitos da Convenção STCW.
 
-###### Artigo 37.º-G — Certificado de qualificação para o controlo das operações de combate a incêndios
+Artigo 37.º-G
+
+Certificado de qualificação para o controlo das operações de combate a incêndios
 
 1 - O certificado de qualificação para o controlo das operações de combate a incêndios será conferido ao marítimo que obtenha aprovação num curso apropriado.
 
@@ -366,7 +418,9 @@ c) Possuírem as qualificações previstas na alínea b) do n.º 2.
 
 4 - Não haverá lugar à emissão do certificado referido no n.º 1 sempre que o mesmo constitua uma das condições para a emissão de outro certificado nos termos e para os efeitos da Convenção STCW.
 
-###### Artigo 37.º-H — Certificado de qualificação para ministrar os primeiros socorros a bordo das embarcações
+Artigo 37.º-H
+
+Certificado de qualificação para ministrar os primeiros socorros a bordo das embarcações
 
 1 - O certificado de qualificação para ministrar os primeiros socorros a bordo das embarcações será conferido ao marítimo que obtenha aprovação num curso apropriado.
 
@@ -376,7 +430,9 @@ c) Possuírem as qualificações previstas na alínea b) do n.º 2.
 
 4 - Não haverá lugar à emissão do certificado referido no n.º 1 desde que o mesmo constitua uma das condições para a emissão de outro certificado nos termos e para os efeitos da Convenção STCW.
 
-###### Artigo 37.º-I — Certificado de qualificação para os responsáveis pelos cuidados de saúde a bordo das embarcações
+Artigo 37.º-I
+
+Certificado de qualificação para os responsáveis pelos cuidados de saúde a bordo das embarcações
 
 1 - O certificado de qualificação para os responsáveis pelos cuidados de saúde a bordo das embarcações será conferido ao marítimo que obtenha aprovação num curso apropriado.
 
@@ -388,7 +444,9 @@ c) Possuírem as qualificações previstas na alínea b) do n.º 2.
 
 5 - Até 1 de Fevereiro de 2002, os certificados em cuidados de saúde a bordo, nível III, poderão ser substituídos pelos certificados previstos no presente artigo, devendo os seus titulares fazer prova de ter efectuado, pelo menos, 12 meses de serviços de mar nos últimos cinco anos.
 
-###### Artigo 38.º-A — Certificado de segurança básica
+Artigo 38.º-A
+
+Certificado de segurança básica
 
 1 - O certificado de segurança básica será conferido ao marítimo que obtenha aprovação no exame respectivo.
 
@@ -402,7 +460,9 @@ c) Possuírem as qualificações previstas na alínea b) do n.º 2.
 
 6 - Não haverá lugar à emissão do certificado referido no n.º 1 sempre que o mesmo constitua uma das condições para a emissão de um outro certificado nos termos e para os efeitos da Convenção STCW.
 
-###### Artigo 38.º-B — Certificado de familiarização em navios ro-ro de passageiros
+Artigo 38.º-B
+
+Certificado de familiarização em navios ro-ro de passageiros
 
 1 - O certificado de familiarização em navios ro-ro de passageiros será conferido ao marítimo que obtenha aprovação num curso apropriado.
 
@@ -418,7 +478,9 @@ b) Possuir o certificado de segurança básica, ou equivalente, ou prova documen
 
 5 - Não haverá lugar à emissão do certificado referido no n.º 1 desde que o mesmo seja incluído, por referência, num outro certificado emitido nos termos e para os efeitos da Convenção STCW.
 
-###### Artigo 38.º-C — Certificado de segurança de passageiros, carga e integridade do casco em navios ro-ro de passageiros
+Artigo 38.º-C
+
+Certificado de segurança de passageiros, carga e integridade do casco em navios ro-ro de passageiros
 
 1 - O certificado de segurança de passageiros, carga e integridade do casco em navios ro-ro de passageiros será conferido ao marítimo que obtenha aprovação num curso apropriado.
 
@@ -444,7 +506,9 @@ b) Terem efectuado, pelo menos, três meses de serviços de mar, no período de 
 
 c) Terem obtido aprovação num curso de actualização apropriado.
 
-###### Artigo 38.º-D — Certificado de gestão de crises e comportamento humano
+Artigo 38.º-D
+
+Certificado de gestão de crises e comportamento humano
 
 1 - O certificado de gestão de crises e comportamento humano será conferido ao marítimo que obtenha aprovação num curso apropriado.
 
@@ -518,8 +582,8 @@ e) As referências à alínea b) do n.º 1 do artigo 18.º nos artigos 19.º, 20
 
 Ministérios da Defesa Nacional, do Equipamento, do Planeamento e da Administração do Território e da Agricultura, do Desenvolvimento Rural e das Pescas.
 
-**Assinada em 8 de Junho de 1998.**
+Assinada em 8 de Junho de 1998.
 
-**O Ministro da Defesa Nacional, José Veiga Simão. - O Ministro do Equipamento, do Planeamento e da Administração do Território, João Cardona Gomes Cravinho. - O Ministro da Agricultura, do Desenvolvimento Rural e das Pescas, Fernando Manuel Van-Zeller Gomes da Silva.**
+O Ministro da Defesa Nacional, José Veiga Simão. - O Ministro do Equipamento, do Planeamento e da Administração do Território, João Cardona Gomes Cravinho. - O Ministro da Agricultura, do Desenvolvimento Rural e das Pescas, Fernando Manuel Van-Zeller Gomes da Silva.
 
 ## ANEXO — [(ver modelos no documento original)](https://files.diariodarepublica.pt/1s/1998/07/153b00/30523062.pdf)

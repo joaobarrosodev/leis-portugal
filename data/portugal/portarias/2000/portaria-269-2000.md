@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/269/2000/05/18/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/269-2000-274389
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2000-05-18T00:00:00Z'
+  retrieved_at: '2026-10-23T14:22:31Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 495ad324593069def8f8d4624204a1362c2d7fabff9aa6e6d7a68e491c195074
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: d2f8bb01bc043f119511c00dd9aa25c507386029527ca771200bba679e2e6665
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T14:22:31Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -68,8 +68,8 @@ subjects:
 - Ensino Profissional
 - Escola Profissional
 - Escola Profissional de Agricultura e Desenvolvimento Rural
-- Grândola
 - Estabelecimento de Ensino
+- Grândola
 - Regime de Instalação
 relationships:
 - type: cites
@@ -100,16 +100,48 @@ relationships:
   target: eli:http://data.dre.pt/eli/port/846/1994/09/21/p/dre
   label: null
   source: http://data.dre.pt/eli/port/846/1994/09/21/p/dre
+- type: cites
+  target: pt:dre:155636:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:208255:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:224851:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:534636:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:546844:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:574538:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:587844:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:609609:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T14:22:31Z'
   warnings: []
   errors: []
 ---
@@ -184,4 +216,4 @@ A presente portaria entra em vigor no dia seguinte ao da sua publicação.
 
 Em 29 de Fevereiro de 2000.
 
-**O Ministro das Finanças, Joaquim Augusto Nunes Pina Moura. - O Ministro da Educação, Guilherme d'Oliveira Martins.**
+O Ministro das Finanças, Joaquim Augusto Nunes Pina Moura. - O Ministro da Educação, Guilherme d'Oliveira Martins.

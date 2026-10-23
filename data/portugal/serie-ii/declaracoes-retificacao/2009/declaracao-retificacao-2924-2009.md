@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/2s/2009/11/230000000/4852848528.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -46,18 +46,18 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/declaracao-rectificacao/2924-2009-2004626
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2009-11-26T00:00:00Z'
+  retrieved_at: '2026-10-23T14:09:55Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 9ff6c615fd0e26484e51f37736e95244a91a37deed3525de9c5be85d00c37b43
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 74c16514537977fee9c96bda56156c768e77f7b6556b5318e37a895945d79d1f
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T14:09:55Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -69,13 +69,13 @@ relationships: []
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T14:09:55Z'
   warnings: []
   errors: []
 ---
@@ -87,3 +87,5 @@ Declaração de rectificação n.º 2924/2009
 Para os devidos efeitos, torna-se público que por ter saído com inexactidão o aviso n.º 16917/2009, no Diário da República, 2.ª série, n.º 188, de 28 de Setembro de 2009, relativo ao loteamento em apreço, rectifica-se que onde se lê «em Vasconcelos - Ferreiros - Alvará n.º 06/2002» deve ler-se «em Cerdeirinhas - Carrazedo - Alvará n.º 05/1998».
 
 Data: 28 de Outubro de 2009. - Nome: José Lopes Gonçalves Barbosa, Cargo: Presidente da Câmara Municipal.
+
+302575803

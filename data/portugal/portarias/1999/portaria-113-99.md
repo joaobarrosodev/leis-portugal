@@ -48,18 +48,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/113/1999/02/08/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/113-1999-169240
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1999-12-29T00:00:00Z'
+  retrieved_at: '2026-10-23T14:13:22Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 4f931d978c13f7b4ff0028dd6431e8482c37420e2bbfdfe2e8b6d02d1a3da498
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 17fb8316cbfa7f36cb7ce1e9cedf31f4fa94d7f0b6484dcda8e135cd232b854d
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T14:13:22Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -68,11 +68,11 @@ reuse:
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
 - Batata
+- Canadá
 - Certificado de Origem
 - Comissão
 - Importação
 - Proteção Fitossanitária
-- Canadá
 relationships:
 - type: amended_by
   target: pt:dre:291900:por
@@ -90,16 +90,36 @@ relationships:
   target: eli:http://data.dre.pt/eli/port/686/1994/07/22/p/dre
   label: null
   source: http://data.dre.pt/eli/port/686/1994/07/22/p/dre
+- type: cites
+  target: pt:dre:297816:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:370201:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:486163:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:614656:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:640949:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T14:13:22Z'
   warnings: []
   errors: []
 ---
@@ -148,6 +168,6 @@ c) Só poderá ser comercializada noutros Estados membros após autorização of
 
 Ministério da Agricultura, do Desenvolvimento Rural e das Pescas.
 
-**Assinada em 25 de Janeiro de 1999.**
+Assinada em 25 de Janeiro de 1999.
 
 Pelo Ministro da Agricultura, do Desenvolvimento Rural e das Pescas, Luís Medeiros Vieira, Secretário de Estado da Modernização Agrícola e da Qualidade Alimentar.

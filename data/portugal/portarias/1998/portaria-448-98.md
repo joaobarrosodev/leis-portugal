@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/448/1998/07/29/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/448-1998-430389
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1998-07-29T00:00:00Z'
+  retrieved_at: '2026-10-23T14:09:05Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 904fbca82f474336dcf6a905d4e7cb714f757d66e8203a69b7c699ce664318d3
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: e7483547e575b964389e942f4fd5794d946fec7089ad1821d64a292f7741604b
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T14:09:05Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -76,16 +76,24 @@ relationships:
   target: eli:http://data.dre.pt/eli/port/73/1994/02/04/p/dre
   label: null
   source: http://data.dre.pt/eli/port/73/1994/02/04/p/dre
+- type: cites
+  target: pt:dre:165851:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:499259:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T14:09:05Z'
   warnings: []
   errors: []
 ---
@@ -106,7 +114,7 @@ Manda o Governo, pelos Ministros das Finanças, Adjunto e da Justiça, o seguint
 
 Presidência do Conselho de Ministros e Ministérios das Finanças e da Justiça.
 
-**Assinada em 2 de Julho de 1998.**
+Assinada em 2 de Julho de 1998.
 
 Pelo Ministro das Finanças, João Carlos da Costa Ferreira da Silva, Secretário de Estado do Orçamento. - Pelo Ministro Adjunto, Fausto de Sousa Correia, Secretário de Estado da Administração Pública e da Modernização Administrativa. - Pelo Ministro da Justiça, José Manuel de Matos Fernandes, Secretário de Estado Adjunto do Ministro da Justiça.
 

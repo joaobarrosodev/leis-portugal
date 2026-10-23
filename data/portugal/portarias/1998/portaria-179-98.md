@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/179/1998/03/18/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/179-1998-197479
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1998-03-18T00:00:00Z'
+  retrieved_at: '2026-10-23T14:07:14Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 42b691fa141aa82986e471a3d877be3e5c0d38dee12534aa9704ba56c6e1cebc
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: f2a9d71c9831440b66c495bb720acd51ca8912fd89bcf9104978a6e6c53a04bb
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T14:07:14Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -68,24 +68,28 @@ subjects:
 - Assessoria Técnica
 - Cofre Geral dos Tribunais
 - Encargo do Estado
-- Pessoal de Justiça
 - Gabinete de Gestão Financeira
 - Ministério da Justiça
-- Remuneração Acessória
+- Pessoal de Justiça
 - Remuneração
+- Remuneração Acessória
 - Senha de Presença
 - Tribunal Marítimo
-relationships: []
+relationships:
+- type: cites
+  target: pt:dre:220091:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T14:07:14Z'
   warnings: []
   errors: []
 ---
@@ -106,6 +110,6 @@ Manda o Governo, pelos Ministros das Finanças e da Justiça, em conformidade co
 
 Ministérios das Finanças e da Justiça.
 
-**Assinada em 12 de Fevereiro de 1998.**
+Assinada em 12 de Fevereiro de 1998.
 
 Pelo Ministro das Finanças, Maria Manuela de Brito Arcanjo Marques da Costa, Secretária de Estado do Orçamento. - Pelo Ministro da Justiça, José Manuel de Matos Fernandes, Secretário de Estado Adjunto do Ministro da Justiça.

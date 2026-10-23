@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/177/2000/03/23/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/177-2000-508271
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2000-03-23T00:00:00Z'
+  retrieved_at: '2026-10-23T14:21:56Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: b4ae72976b241f12e2fc135ed02694825b62bafeff454fc449fdaea6925b7807
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 8c258ce97a4fc5d7b473195b58d85ebaa98ea36dc66687c05f877b83f1bd8e0d
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T14:21:56Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,12 +67,12 @@ reuse:
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
 - Assistência Médica
+- Cuidados Médicos
+- Lista de Espera
 - Pessoal de Saúde
 - Programa para a Promoção do Acesso
-- Serviço Nacional de Saúde
 - Remuneração Acessória
-- Lista de Espera
-- Cuidados Médicos
+- Serviço Nacional de Saúde
 relationships:
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/11/1993/01/15/p/dre
@@ -86,16 +86,28 @@ relationships:
   target: eli:http://data.dre.pt/eli/port/787/1999/09/02/p/dre
   label: null
   source: http://data.dre.pt/eli/port/787/1999/09/02/p/dre
+- type: cites
+  target: pt:dre:353351:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:582651:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:586006:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T14:21:56Z'
   warnings: []
   errors: []
 ---
@@ -114,7 +126,7 @@ Ao abrigo do disposto no artigo 25.º do Estatuto do Serviço Nacional de Saúde
 
 Manda o Governo, pela Ministra da Saúde, que a verba a atribuir por acto médico-cirúrgico aos estabelecimentos de saúde abrangidos pelo Programa para a Promoção do Acesso e a fracção da mesma a afectar ao pagamento de suplementos remuneratórios sejam as constantes da tabela que constitui o anexo à presente portaria, da qual faz parte integrante.
 
-**A Ministra da Saúde, Maria Manuela de Brito Arcanjo Marques da Costa, em 13 de Janeiro de 2000.**
+A Ministra da Saúde, Maria Manuela de Brito Arcanjo Marques da Costa, em 13 de Janeiro de 2000.
 
 ## ANEXO — Tabela geral do Programa para a Promoção do Acesso
 

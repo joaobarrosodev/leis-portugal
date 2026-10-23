@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/2s/2009/10/211000000/4431744317.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -47,18 +47,18 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/declaracao-rectificacao/2665-2009-3276684
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2009-10-30T00:00:00Z'
+  retrieved_at: '2026-10-23T14:08:19Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: d6ae3df7133ac555a2f53fe8f2314d944710806818c4a070d338de22c6442198
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 09deee70be18ca4cd3e2d533cfe4862f752059bb437e2354301b25db60a159bc
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T14:08:19Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -70,13 +70,13 @@ relationships: []
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T14:08:19Z'
   warnings: []
   errors: []
 ---
@@ -90,3 +90,5 @@ Para os devidos efeitos, declara-se que o despacho (extracto) n.º 22 565/2009, 
 No seu n.º 3 da nota curricular, 3.º parágrafo, onde se lê «desde 18 de Janeiro de 1988 até 6 de Fevereiro de 2002;» deve ler-se «desde 18 de Janeiro de 1999 até 6 de Fevereiro de 2002;».
 
 13 de Outubro de 2009. - O Director Regional, Rui Salgueiro Ramos Moreira.
+
+202495824

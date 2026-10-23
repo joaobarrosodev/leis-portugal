@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/240/2000/05/03/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/240-2000-281595
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2000-05-03T00:00:00Z'
+  retrieved_at: '2026-10-23T14:22:21Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 75b3a8eb6f26113c16ccd684112eba9a8d73bdd42cdce43bec00658f0d9ffdb3
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: f1d94ed2caf0f2eb893fe2225ed09a8d58b77626076d57f3d0f11055fda77d02
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T14:22:21Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,26 +66,38 @@ reuse:
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
 - Advogado
-- Publicitação
 - Preço
 - Prestação de Serviços
 - Proteção do Consumidor
+- Publicitação
 - Remuneração
 relationships:
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/162/1999/05/13/p/dre
   label: null
   source: http://data.dre.pt/eli/dec-lei/162/1999/05/13/p/dre
+- type: cites
+  target: pt:dre:321723:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:332222:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:661945:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T14:22:21Z'
   warnings: []
   errors: []
 ---
@@ -112,4 +124,4 @@ Manda o Governo, pelos Ministros da Economia, da Justiça e Adjunto do Primeiro-
 
 Em 29 de Fevereiro de 2000.
 
-**O Ministro da Economia, Joaquim Augusto Nunes Pina Moura. - O Ministro da Justiça, António Luís Santos Costa. - O Ministro Adjunto do Primeiro-Ministro, Armando António Martins Vara.**
+O Ministro da Economia, Joaquim Augusto Nunes Pina Moura. - O Ministro da Justiça, António Luís Santos Costa. - O Ministro Adjunto do Primeiro-Ministro, Armando António Martins Vara.

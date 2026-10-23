@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/430/2001/04/26/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/430-2001-165022
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2001-05-30T00:00:00Z'
+  retrieved_at: '2026-10-23T14:32:11Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: a92d0768f7d7079f5edfb375ba2a10e757d7a4cbfbf2fa2357f371d250d2b6d3
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 714478fd9220a88b5963729c5b03673a99b2c3d1c141533c12785d33317be4b0
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T14:32:11Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -82,16 +82,33 @@ relationships:
   target: eli:http://data.dre.pt/eli/dec-lei/16/1993/01/23/p/dre
   label: null
   source: http://data.dre.pt/eli/dec-lei/16/1993/01/23/p/dre
+- type: cites
+  target: pt:dre:291844:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:356515:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:584777:por
+  label: null
+  source: null
+- type: corrected_by
+  target: pt:dre:587979:por
+  label: "Rectificada pela DECL-RECT.13-I/2001.2001.05.30.PCM, DR.IS-B[126]4ºSUPL de 31/Mai/2001\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/declaracao-rectificacao/13-i-2001-587979
+  date: '2001-05-30'
 article_structure:
   article_count: 11
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T14:32:11Z'
   warnings: []
   errors: []
 ---
@@ -120,7 +137,7 @@ O presente diploma entra em vigor no dia imediatamente a seguir ao da sua public
 
 Em 21 de Março de 2001.
 
-**O Ministro da Economia, Mário Cristina de Sousa. - O Ministro da Cultura, José Estêvão Cangarato Sasportes.**
+O Ministro da Economia, Mário Cristina de Sousa. - O Ministro da Cultura, José Estêvão Cangarato Sasportes.
 
 ## ANEXO — REGULAMENTO DO ARQUIVO DA DIRECÇÃO-GERAL DO TURISMO
 

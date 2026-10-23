@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/2s/2009/09/173000000/3680636808.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -47,18 +47,18 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/declaracao-rectificacao/2244-2009-1720721
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2009-09-07T00:00:00Z'
+  retrieved_at: '2026-10-23T14:05:53Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 49af88b5a58d73655458d5129c2ae33c7ec882078f3ba3997c0897f8ff8c35b3
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: ddcf9665551ea857b69dead028d37b7cb18d46103b8a8df363fa1e97c211223d
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T14:05:53Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,22 +66,42 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects: []
-relationships: []
+relationships:
+- type: cites
+  target: pt:dre:1296516:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:2037571:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:3001374:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:456200:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:671387:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T14:05:53Z'
   warnings: []
   errors: []
 ---
 
-# Declaração de Rectificação n.º 2244/2009
+# Declaração de rectificação n.º 2244/2009
 
 Para os devidos efeitos se declara que o [Despacho n.º 13361/2009](https://diariodarepublica.pt/dr/detalhe/despacho/13361-2009-3001374), publicado no Diário da República, 2.ª série, n.º 109, de 5 de Junho de 2009, páginas 22895 a 22897, saiu com inexactidões no Anexo, que correspondem a erros materiais, que se rectificam através da republicação integral do referido Despacho.
 
@@ -125,7 +145,7 @@ Formulário
 
 Licenciatura em Tradução e Escrita Criativa nas áreas de Desenvolvimento Técnico-Profissional em "Tradução e Interpretação" e em "Escrita Criativa"
 
-[([ver documento original](https://files.diariodarepublica.pt/2s/2009/09/173000000/3680636808.pdf))](https://files.diariodarepublica.pt/2s/2009/09/173000000/3680636808.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/2s/2009/09/173000000/3680636808.pdf)
 
 10 - Observações: N/A.
 
@@ -145,34 +165,36 @@ Comunicação e Artes/Tradução e Interpretação
 
 QUADRO N.º 1
 
-[([ver documento original](https://files.diariodarepublica.pt/2s/2009/09/173000000/3680636808.pdf))](https://files.diariodarepublica.pt/2s/2009/09/173000000/3680636808.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/2s/2009/09/173000000/3680636808.pdf)
 
 1.º Ano/2.º Semestre
 
 QUADRO N.º 2
 
-[([ver documento original](https://files.diariodarepublica.pt/2s/2009/09/173000000/3680636808.pdf))](https://files.diariodarepublica.pt/2s/2009/09/173000000/3680636808.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/2s/2009/09/173000000/3680636808.pdf)
 
 2.º Ano/1.º Semestre
 
 QUADRO N.º 3
 
-[([ver documento original](https://files.diariodarepublica.pt/2s/2009/09/173000000/3680636808.pdf))](https://files.diariodarepublica.pt/2s/2009/09/173000000/3680636808.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/2s/2009/09/173000000/3680636808.pdf)
 
 2.º Ano/2.º Semestre
 
 QUADRO N.º 4
 
-[([ver documento original](https://files.diariodarepublica.pt/2s/2009/09/173000000/3680636808.pdf))](https://files.diariodarepublica.pt/2s/2009/09/173000000/3680636808.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/2s/2009/09/173000000/3680636808.pdf)
 
 3.º Ano/1.º Semestre
 
 QUADRO N.º 5
 
-[([ver documento original](https://files.diariodarepublica.pt/2s/2009/09/173000000/3680636808.pdf))](https://files.diariodarepublica.pt/2s/2009/09/173000000/3680636808.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/2s/2009/09/173000000/3680636808.pdf)
 
 3.º Ano/2.º Semestre
 
 QUADRO N.º 6
 
-[([ver documento original](https://files.diariodarepublica.pt/2s/2009/09/173000000/3680636808.pdf))](https://files.diariodarepublica.pt/2s/2009/09/173000000/3680636808.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/2s/2009/09/173000000/3680636808.pdf)
+
+202250571

@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/63/1997/01/28/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/63-1997-571199
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2005-03-30T00:00:00Z'
+  retrieved_at: '2026-10-23T14:03:58Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: d6259cad395180473901622a2cf6e4451e525909c8e2b913edd265400fe3ea5c
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 85a93a23d07cf9162671d15ada8e189e1742daa7d12c02c44ee374148dcab9b9
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T14:03:58Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,14 +66,14 @@ reuse:
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
 - Covilhã
-- Tribunal de Comarca
 - Matosinhos
 - Montemor-o-Novo
-- Setúbal
 - Ponte de LIMA
 - Quadro de Pessoal
 - Secretaria Judicial
+- Setúbal
 - Sintra
+- Tribunal de Comarca
 - Viana do Castelo
 relationships:
 - type: amended_by
@@ -96,16 +96,36 @@ relationships:
   target: eli:http://data.dre.pt/eli/port/816/1994/09/16/p/dre
   label: null
   source: http://data.dre.pt/eli/port/816/1994/09/16/p/dre
+- type: cites
+  target: pt:dre:422859:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:581269:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:586375:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:650730:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:668157:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
-  section_count: 10
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  section_count: 0
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T14:03:58Z'
   warnings: []
   errors: []
 ---
@@ -130,7 +150,7 @@ Manda o Governo, pelos Ministros das Finanças, da Justiça e Adjunto, o seguint
 
 Presidência do Conselho de Ministros e Ministérios das Finanças e da Justiça.
 
-**Assinada em 8 de Janeiro de 1997.**
+Assinada em 8 de Janeiro de 1997.
 
 Pelo Ministro das Finanças, Maria Manuela de Brito Arcanjo Marques da Costa, Secretária de Estado do Orçamento. - Pelo Ministro da Justiça, José Manuel Matos Fernandes, Secretário de Estado Adjunto do Ministro da Justiça. - Pelo Ministro Adjunto, Fausto de Sousa Correia, Secretário de Estado da Administração Pública.
 
@@ -142,7 +162,7 @@ Covilhã
 
 Tribunal de círculo e de comarca
 
-#### Secção central e quatro secções de processos, sendo uma afecta ao tribunal de círculo:
+Secção central e quatro secções de processos, sendo uma afecta ao tribunal de círculo:
 
 Pessoal
 
@@ -164,7 +184,7 @@ Telefonista ... 1
 
 Serviços do Ministério Público
 
-#### Secção central e uma secção de processos:
+Secção central e uma secção de processos:
 
 Pessoal
 
@@ -180,7 +200,7 @@ Matosinhos
 
 Tribunal de círculo e de comarca
 
-#### Secção central e 11 secções de processos, sendo 1 afecta ao tribunal de círculo, 6 afectas aos juízos de competência especializada cível e 4 afectas aos juízos de competência especializada criminal:
+Secção central e 11 secções de processos, sendo 1 afecta ao tribunal de círculo, 6 afectas aos juízos de competência especializada cível e 4 afectas aos juízos de competência especializada criminal:
 
 Pessoal
 
@@ -196,7 +216,7 @@ Montemor-o-Novo
 
 Tribunal de comarca
 
-#### Secção central e duas secções de processos:
+Secção central e duas secções de processos:
 
 Pessoal
 
@@ -214,7 +234,7 @@ Ponte de Lima
 
 Tribunal de comarca
 
-#### Secção central e duas secções de processos:
+Secção central e duas secções de processos:
 
 Pessoal
 
@@ -232,7 +252,7 @@ Setúbal
 
 Tribunal de círculo e de comarca
 
-#### Secção central e nove secções de processos, sendo duas afectas ao tribunal de círculo, quatro afectas aos juízos de competência especializada cível e três afectas aos juízos de competência especializada criminal:
+Secção central e nove secções de processos, sendo duas afectas ao tribunal de círculo, quatro afectas aos juízos de competência especializada cível e três afectas aos juízos de competência especializada criminal:
 
 Pessoal
 
@@ -246,7 +266,7 @@ Escriturário judicial ... 28
 
 Serviços do Ministério Público
 
-#### Secção central e duas secções de processos:
+Secção central e duas secções de processos:
 
 Pessoal
 
@@ -264,7 +284,7 @@ Sintra
 
 Tribunal de comarca
 
-#### Secção central e nove secções de processos, sendo seis afectas aos juízos de competência especializada cível e três afectas aos juízos de competência especializada criminal:
+Secção central e nove secções de processos, sendo seis afectas aos juízos de competência especializada cível e três afectas aos juízos de competência especializada criminal:
 
 Pessoal
 
@@ -278,7 +298,7 @@ Escriturário judicial ... 30
 
 Serviços do Ministério Público
 
-#### Secção central e duas secções de processos:
+Secção central e duas secções de processos:
 
 Pessoal
 
@@ -296,7 +316,7 @@ Viana do Castelo
 
 Tribunal de comarca
 
-#### Secção central e cinco secções de processos, sendo três afectas aos juízos de competência especializada cível e duas afectas aos juízos de competência especializada criminal:
+Secção central e cinco secções de processos, sendo três afectas aos juízos de competência especializada cível e duas afectas aos juízos de competência especializada criminal:
 
 Pessoal
 

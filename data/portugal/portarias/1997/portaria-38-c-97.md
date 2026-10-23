@@ -20,7 +20,7 @@ publication:
   reference: Diário da República n.º 10/1997, 2º Suplemento, Série I-B de 1997-01-13
   number: '10'
   series: I
-  supplement: 2º Suplemento
+  supplement: null
   pages: 148-(6) a 148-(7)
   pdf_url: https://files.diariodarepublica.pt/1s/1997/01/010b02/00060007.pdf
 entry_into_force_dates: []
@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/38-c/1997/01/13/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/38-c-1997-586639
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2005-01-24T00:00:00Z'
+  retrieved_at: '2026-10-23T14:02:22Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 90fee8bb08e2e312848fce838331b54420ed039dcd34cc9a57a70d0874c71b92
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 9b7fc3cc6f01d96fb6135b9b28577ec1e5d96330b9b5d9a27e1e9f480c3e9041
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T14:02:22Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -74,6 +74,12 @@ relationships:
   target: pt:dre:623802:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:623802:por
+  label: "Renovada, por doze anos, a concessão de zona atribuida pelo presente diploma, pela PORT.62/2005.24.01.2005.MAPF,\
+    \ DR.IS-B [16] de 24.01.2005\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/62-2005-623802
+  date: '2005-01-24'
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/136/1996/08/14/p/dre
   label: null
@@ -86,16 +92,40 @@ relationships:
   target: eli:http://data.dre.pt/eli/port/667-g3/1993/07/14/p/dre
   label: null
   source: http://data.dre.pt/eli/port/667-g3/1993/07/14/p/dre
+- type: cites
+  target: pt:dre:219134:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:354162:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:402528:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:405765:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:619925:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:620697:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T14:02:22Z'
   warnings: []
   errors: []
 ---
@@ -140,8 +170,8 @@ Manda o Governo, pelos Ministros da Economia e da Agricultura, do Desenvolviment
 
 Ministérios da Economia e da Agricultura, do Desenvolvimento Rural e das Pescas.
 
-**Assinada em 6 de Janeiro de 1997.**
+Assinada em 6 de Janeiro de 1997.
 
 Pelo Ministro da Economia, Jaime Serrão Andrez, Secretário de Estado do Comércio e Turismo. - Pelo Ministro da Agricultura, do Desenvolvimento Rural e das Pescas, Luís Manuel Capoulas Santos, Secretário de Estado da Agricultura e do Desenvolvimento Rural.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1997/01/010b02/00060007.pdf))](https://files.diariodarepublica.pt/1s/1997/01/010b02/00060007.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1997/01/010b02/00060007.pdf)

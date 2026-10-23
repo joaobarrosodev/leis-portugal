@@ -20,7 +20,7 @@ publication:
   reference: Diário da República n.º 163/1999, 4º Suplemento, Série I-B de 1999-07-15
   number: '163'
   series: I
-  supplement: 4º Suplemento
+  supplement: null
   pages: 4426-(44) a 4426-(50)
   pdf_url: https://files.diariodarepublica.pt/1s/1999/07/163b04/00440050.pdf
 entry_into_force_dates: []
@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/505-i/1999/07/15/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/505-i-1999-449720
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1999-07-15T00:00:00Z'
+  retrieved_at: '2026-10-23T14:15:53Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 3813c035701ec69f15cc782110408e933ef5d18fbee5707ea2e2b150d1899608
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 69f4b0d36d9ca49296e5c884279bc41d8e2127d0a6161e39e6fe83f8fd440a0d
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T14:15:53Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,13 +67,13 @@ reuse:
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
 - Bacharelato
+- Concurso Institucional de Acesso
 - Ensino Cooperativo
 - Ensino Particular
-- Concurso Institucional de Acesso
 - Ensino Superior Politécnico
+- Estabelecimento de Ensino
 - Licenciatura
 - Numerus Clausus
-- Estabelecimento de Ensino
 relationships:
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/16/1994/01/22/p/dre
@@ -95,16 +95,36 @@ relationships:
   target: eli:http://data.dre.pt/eli/lei/37/1994/11/11/p/dre
   label: null
   source: http://data.dre.pt/eli/lei/37/1994/11/11/p/dre
+- type: cites
+  target: pt:dre:138571:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:150335:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:173481:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:512030:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:533820:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T14:15:53Z'
   warnings: []
   errors: []
 ---
@@ -161,8 +181,8 @@ L - grau de licenciado.
 
 I - Universidades
 
-[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/1999/07/163b04/00440050.pdf)
+[[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/1999/07/163b04/00440050.pdf)](https://files.diariodarepublica.pt/1s/1999/07/163b04/00440050.pdf)
 
 II - Escolas superiores
 
-[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/1999/07/163b04/00440050.pdf)
+[[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/1999/07/163b04/00440050.pdf)](https://files.diariodarepublica.pt/1s/1999/07/163b04/00440050.pdf)

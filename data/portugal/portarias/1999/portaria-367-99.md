@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/367/1999/05/19/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/367-1999-323953
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2006-03-17T00:00:00Z'
+  retrieved_at: '2026-10-23T14:14:57Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 6f7e250c001642268247107030f152687f9445e17698910d6725be857e3353af
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 55df9c05e5fd91dd13c88993e09e42195328706ba92cdf35619e1e64d441a796
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T14:14:57Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -65,15 +65,26 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
+- Ensino Superior
 - Mestrado
 - Museologia
 - Regulamento
-- Ensino Superior
 relationships:
 - type: amended_by
   target: pt:dre:667161:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:149052:por
+  label: "Alterado o plano de estudos do curso de especialização conducente à obtenção do grau de mestre na especialidade\
+    \ de Museologia, anexo ao presente diploma, pela PORT.955/2005.30.09.2005.MCTES, DR.IS-B [189] de 30.09.2005\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/955-2005-149052
+  date: '2005-09-30'
+- type: amended_by
+  target: pt:dre:667161:por
+  label: "Alterado o n.º 9.º pela PORT.269/2006.17.03.2006.MCTES, DR.IS-B [55] de 17.03.2006\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/269-2006-667161
+  date: '2006-03-17'
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/16/1994/01/22/p/dre
   label: null
@@ -98,16 +109,40 @@ relationships:
   target: eli:http://data.dre.pt/eli/port/1124/1991/10/29/p/dre
   label: null
   source: http://data.dre.pt/eli/port/1124/1991/10/29/p/dre
+- type: cites
+  target: pt:dre:150335:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:167074:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:225809:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:343937:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:512030:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:533820:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T14:14:57Z'
   warnings: []
   errors: []
 ---

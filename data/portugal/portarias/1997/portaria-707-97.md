@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/707/1997/08/22/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/707-1997-195825
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1997-08-22T00:00:00Z'
+  retrieved_at: '2026-10-23T14:04:28Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 1ef33df6e2842719dd027585c07c9dddd3335ce47a0da5b7332c18e65286c9a2
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: f0c8091f18fd825e3d418f4a5f2f703ff1c69d37b25bad37785e1a40cfbc5c0e
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T14:04:28Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -77,16 +77,24 @@ relationships:
   target: eli:http://data.dre.pt/eli/port/615-m5/1991/07/08/p/dre
   label: null
   source: http://data.dre.pt/eli/port/615-m5/1991/07/08/p/dre
+- type: cites
+  target: pt:dre:206001:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:405765:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T14:04:28Z'
   warnings: []
   errors: []
 ---
@@ -107,6 +115,6 @@ Manda o Governo, pelos Ministros da Economia e da Agricultura, do Desenvolviment
 
 Ministérios da Economia e da Agricultura, do Desenvolvimento Rural e das Pescas.
 
-**Assinada em 3 de Julho de 1997.**
+Assinada em 3 de Julho de 1997.
 
 Pelo Ministro da Economia, Jaime Serrão Andrez, Secretário de Estado do Comércio e Turismo. - Pelo Ministro da Agricultura, do Desenvolvimento Rural e das Pescas, Luís Manuel Capoulas Santos, Secretário de Estado da Agricultura e do Desenvolvimento Rural.

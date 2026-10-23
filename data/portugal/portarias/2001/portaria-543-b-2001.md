@@ -20,7 +20,7 @@ publication:
   reference: Diário da República n.º 125/2001, 2º Suplemento, Série I-B de 2001-05-30
   number: '125'
   series: I
-  supplement: 2º Suplemento
+  supplement: null
   pages: 3192-(22) a 3192-(23)
   pdf_url: https://files.diariodarepublica.pt/1s/2001/05/125b02/00220023.pdf
 entry_into_force_dates: []
@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/543-b/2001/05/30/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/543-b-2001-458867
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2010-05-04T00:00:00Z'
+  retrieved_at: '2026-10-23T14:32:56Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 8db2e9a8950be3860e3a22aceabad939ed8fd89f99150456a9a8cef78433fca0
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: a4b334d4e637661f85b2422f3e9377417e70f406d2fdaa4b8b0ff753a61fcc4a
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T14:32:56Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,20 +66,38 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Direcção Geral das Pescas e Aquicultura
-- Pesca
-- Licenciamento
-- Recursos do Mar
-- Peixe
-- Quota de Pesca
-- Embarcação de Pesca
-- Sardinha
 - Comércio
+- Direcção Geral das Pescas e Aquicultura
+- Embarcação de Pesca
+- Licenciamento
+- Peixe
+- Pesca
+- Quota de Pesca
+- Recursos do Mar
+- Sardinha
 relationships:
 - type: amended_by
   target: pt:dre:614341:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:673622:por
+  label: "Mantidas em vigor para o ano de 2002 as limitações constantes dos nºs 2º e 5º e revogado o nº 3º pela PORT.123-A/2002.2002.02.08.MADRP\
+    \ DR.IS-B [33]2º Supl\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/123-a-2002-673622
+  date: '2002-02-08'
+- type: amended_by
+  target: pt:dre:187913:por
+  label: "Mantidas em vigor para o ano de 2003 as limitações constantes dos nºs 2º e 5º pela PORT.184/2003.2003.02.21.MADRP,\
+    \ DR. IS-B (44)\0)\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/184-2003-187913
+  date: '2003-02-21'
+- type: amended_by
+  target: pt:dre:302511:por
+  label: "Alterados os n.os 7.º, 8.º e 11.º adita o n.º 13-A e mantidas em vigor para o ano 2004 as limitações constantes\
+    \ dos n.ºs 2.º e 5.º da citada portaria, pela PORT.1423-A/2003.31.12.2003.MADRP, DR.IS-B [301-3ºSupl] de 31.12.2003\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/1423-a-2003-302511
+  date: '2003-12-31'
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/383/1998/11/27/p/dre
   label: null
@@ -96,16 +114,46 @@ relationships:
   target: eli:http://data.dre.pt/eli/port/281-b/1997/04/30/p/dre
   label: null
   source: http://data.dre.pt/eli/port/281-b/1997/04/30/p/dre
+- type: cites
+  target: pt:dre:157985:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:217326:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:292958:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:420193:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:420460:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:522227:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:614341:por
+  label: "Revogado o presente diploma (na redacção da Port 123-A/2002, de 08-Fev e da Port 1423-A/2003, de 31-Dez), com excepção\
+    \ do seu art. 9.º, pela PORT.251/2010.04.05.2010.MADRP, DR.IS [86] de 04.05.2010\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/251-2010-614341
+  date: '2010-05-04'
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T14:32:56Z'
   warnings: []
   errors: []
 ---

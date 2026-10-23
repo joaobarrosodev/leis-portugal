@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/505/1999/07/15/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/505-1999-358285
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2004-01-12T00:00:00Z'
+  retrieved_at: '2026-10-23T14:15:53Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 9c5e5f7eeab69e1747a9dda7f44ce9ea4d071a1fd4fc07745b6778eddbae4ef9
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: eb69a28af20014deb7aea74016428d5886d03ba1aaea28a5aadc33f764ee7da2
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T14:15:53Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -69,6 +69,7 @@ subjects:
 - Abrantes
 - Bacharelato
 - Barreiro
+- Castelo Branco
 - Curso de Artes da Imagem
 - Curso de Ciências Empresariais
 - Curso de Comunicação Social
@@ -85,12 +86,24 @@ subjects:
 - Felgueiras
 - Licenciatura
 - Mirandela
-- Castelo Branco
 relationships:
 - type: amended_by
   target: pt:dre:240991:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:321371:por
+  label: "Aprovado o plano de estudos do curso bietápico, criado pelo presente diploma, pela PORT.492/2000.2000.07.24.ME DR.IS-B\
+    \ [169]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/492-2000-321371
+  date: '2000-07-24'
+- type: amended_by
+  target: pt:dre:240991:por
+  label: "Alterada a estrutura e o plano de estudos do curso bietápico de licenciatura em Planeamento e Gestão em Turismo\
+    \ da Escola Superior de Tecnologia e Gestão de Mirandela do Instituto Politécnico de Bragança constante do presente diploma,\
+    \ pela PORT.36/2004.12.01.2004.MCES, DR.IS-B [9] de 12.01.2004\04\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/36-2004-240991
+  date: '2004-01-12'
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/264/1999/07/14/p/dre
   label: null
@@ -99,16 +112,42 @@ relationships:
   target: eli:http://data.dre.pt/eli/port/413-a/1998/07/17/p/dre
   label: null
   source: http://data.dre.pt/eli/port/413-a/1998/07/17/p/dre
+- type: cites
+  target: pt:dre:357517:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:429596:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:453184:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:470779:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:556606:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:139763:por
+  label: "Revogada na parte em que autoriza o grau de bacharel,pela PORT.716/2002.2002.06.26.ME, DR.IS-B [145] findo o processo\
+    \ de transição fixado no seu nº 2 do art. 2º.\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/716-2002-139763
+  date: '2002-06-26'
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T14:15:53Z'
   warnings: []
   errors: []
 ---

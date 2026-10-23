@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1999/04/085b00/19581958.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/264/1999/04/12/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/264-1999-543371
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2006-04-06T00:00:00Z'
+  retrieved_at: '2026-10-23T14:14:17Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: f2ead7412a8cd6d1d5d3078b3fb424bce238d1be93d04424c4cc572e7160614f
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 05b0d34d0776c116582f598af3f54af3fc22961333d1a1096eff0e5ae004926e
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T14:14:17Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,22 +66,22 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Pessoal Dirigente
 - Criação de Serviços
 - Departamento Central de Investigação e Ação Penal
 - Estatuto
 - Formas de Provimento
-- Pessoal de Justiça
-- Recrutamento de Pessoal
 - Instalação de Serviços
 - Magistrado do Ministério Público
-- Orgânica
-- Procurador Geral Adjunto
-- Procurador da República
-- Quadro de Pessoal
 - Ministério Público
+- Orgânica
+- Pessoal de Justiça
+- Pessoal Dirigente
 - Polícia Criminal
+- Procurador da República
+- Procurador Geral Adjunto
 - Procuradoria Geral da República
+- Quadro de Pessoal
+- Recrutamento de Pessoal
 relationships:
 - type: amended_by
   target: pt:dre:673037:por
@@ -91,16 +91,30 @@ relationships:
   target: eli:http://data.dre.pt/eli/lei/60/1998/08/27/p/dre
   label: null
   source: http://data.dre.pt/eli/lei/60/1998/08/27/p/dre
+- type: cites
+  target: pt:dre:448680:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:666679:por
+  label: "Revogado o n.º 3, pela PORT.386-B/99.1999.05.25.MJ DR.IS-B [121]2ºSUPL\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/386-b-1999-666679
+  date: '1999-05-25'
+- type: repealed_by
+  target: pt:dre:673037:por
+  label: "Revogada pela PORT.328/2006.06.04.2006.MJ, DR.IS-B [69] de 06.04.2006\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/328-2006-673037
+  date: '2006-04-06'
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T14:14:17Z'
   warnings: []
   errors: []
 ---
@@ -123,4 +137,4 @@ Manda o Governo, pelo Ministro da Justiça, ouvido o Conselho Superior do Minist
 
 3.º O Departamento Central de Investigação e Acção Penal considera-se instalado no dia 1 de Junho de 1999.
 
-**O Ministro da Justiça, José Eduardo Vera Cruz Jardim, em 23 de Março de 1999.**
+O Ministro da Justiça, José Eduardo Vera Cruz Jardim, em 23 de Março de 1999.

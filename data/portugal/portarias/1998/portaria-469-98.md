@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/469/1998/07/30/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/469-1998-429832
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1998-07-30T00:00:00Z'
+  retrieved_at: '2026-10-23T14:09:10Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: f543308d129e5a8d42d57f447bfc13195ddd7bf82ec173c45fd54d8960175b8c
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: c42951bb318ea0be24991f24f4d6d313822ac9079993cd7d4a7e050036281183
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T14:09:10Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,11 +66,11 @@ reuse:
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
 - Arquitectura
-- Plano de Estudos
-- Lisboa
-- Licenciatura
-- Numerus Clausus
 - Ensino Superior
+- Licenciatura
+- Lisboa
+- Numerus Clausus
+- Plano de Estudos
 - Universidade Internacional
 relationships:
 - type: cites
@@ -81,16 +81,28 @@ relationships:
   target: eli:http://data.dre.pt/eli/lei/37/1994/11/11/p/dre
   label: null
   source: http://data.dre.pt/eli/lei/37/1994/11/11/p/dre
+- type: cites
+  target: pt:dre:187955:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:512030:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:533820:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T14:09:10Z'
   warnings: []
   errors: []
 ---
@@ -155,7 +167,7 @@ A autorização e o reconhecimento operados pelo presente diploma não prejudica
 
 Ministério da Educação.
 
-**Assinada em 6 de Julho de 1998.**
+Assinada em 6 de Julho de 1998.
 
 Pelo Ministro da Educação, Alfredo Jorge Silva, Secretário de Estado do Ensino Superior.
 

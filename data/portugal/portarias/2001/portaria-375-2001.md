@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/375/2001/04/11/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/375-2001-355886
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2001-04-11T00:00:00Z'
+  retrieved_at: '2026-10-23T14:31:48Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: dfefbfb3a775daa76a3c683189b066d794d79f8ad7710edf2b0dfb920c9b665b
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 7e17dddb28479b34e3e23366b52c9d5b3fd174dc140c6dcbb84802fb4b434b04
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T14:31:48Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,19 +67,39 @@ reuse:
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
 - Conselheiro Jurídico
-- Quadro de Pessoal
 - Missão Permanente de Portugal Junto dos Organismos Internacionais com Sede em Genebra
-relationships: []
+- Quadro de Pessoal
+relationships:
+- type: cites
+  target: pt:dre:152327:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:274646:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:443285:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:505986:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:506399:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T14:31:48Z'
   warnings: []
   errors: []
 ---
@@ -102,4 +122,4 @@ Manda o Governo, pelos Ministros dos Negócios Estrangeiros, das Finanças e da 
 
 Em 21 de Março de 2001.
 
-**O Ministro dos Negócios Estrangeiros, Jaime José Matos da Gama. - Pelo Ministro das Finanças, Fernando Manuel dos Santos Vigário Pacheco, Secretário de Estado Adjunto e do Orçamento. - Pelo Ministro da Reforma do Estado e da Administração Pública, Alexandre António Cantigas Rosa, Secretário de Estado da Administração Pública e da Modernização Administrativa.**
+O Ministro dos Negócios Estrangeiros, Jaime José Matos da Gama. - Pelo Ministro das Finanças, Fernando Manuel dos Santos Vigário Pacheco, Secretário de Estado Adjunto e do Orçamento. - Pelo Ministro da Reforma do Estado e da Administração Pública, Alexandre António Cantigas Rosa, Secretário de Estado da Administração Pública e da Modernização Administrativa.

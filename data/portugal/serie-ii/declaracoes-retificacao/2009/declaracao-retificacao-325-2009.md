@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/2s/2009/02/023000000/0502905029.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -46,18 +46,18 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/declaracao-rectificacao/325-2009-3184757
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2009-02-03T00:00:00Z'
+  retrieved_at: '2026-10-23T14:11:01Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 688f535321e631777bb97193552db2b028f30d2df034b51186e0be7542a808bb
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: bfbb37edd2b99af5de6112b9c7336bab8cd4dac19da7f19db258c2102dee4d32
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T14:11:01Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -69,13 +69,13 @@ relationships: []
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T14:11:01Z'
   warnings: []
   errors: []
 ---
@@ -87,3 +87,5 @@ Declaração de rectificação n.º 325/2009
 No Diário da República, 2 série, n.º 4, de 7 de Janeiro de 2009, foi publicado com inexactidão a reclassificação profissional, do funcionário, Vítor Manuel de Oliveira Gomes, assim onde se lê: «O funcionário deverá tomar posse, no prazo de 20 dias a contar da data da publicação deste aviso no Diário da República.» deve ler-se: «Esta nomeação produz efeitos a partir de 31 de Dezembro de 2008, para a qual foi reconhecida a urgente conveniência de serviço».
 
 15 de Janeiro de 2009. - A Presidente da Câmara, Ana Cristina Ribeiro.
+
+301266681

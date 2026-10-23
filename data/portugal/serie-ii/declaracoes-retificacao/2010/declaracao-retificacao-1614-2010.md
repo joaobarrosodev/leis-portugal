@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/2s/2010/08/156000000/4357643577.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -46,18 +46,18 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/declaracao-rectificacao/1614-2010-2213696
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2010-08-12T00:00:00Z'
+  retrieved_at: '2026-10-23T14:18:39Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 4ee13aec01a598283d7385ea4b5293ceee5a1f1776393e79ef85a1e8a94da370
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: c8b0dabfa95233aba148a18dbb3bdc5e9cc6ebacf723818ff1b8bd8ede200dcd
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T14:18:39Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -69,13 +69,13 @@ relationships: []
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T14:18:39Z'
   warnings: []
   errors: []
 ---
@@ -87,3 +87,5 @@ Declaração de rectificação n.º 1614/2010
 Por ter sido publicado com inexactidão, rectifica-se o aviso n.º 11779/2010, inserto no Diário da República, 2.ª série, n.º 113, de 14 de Junho de 2010. Assim, rectifica-se que onde se lê «54.º n.º 1 alínea b)» deve ler-se «54.º, n.º 1, alíneas b) e d)», no artigo 52.º, n.º 3, onde se lê «e) Revogado» deve ler-se «b) (Revogado.)», no artigo 54.º, n.º 1, onde se lê «d)» deve ler-se «d) (Revogado.)».
 
 30 de Julho de 2010. - O Presidente da Câmara, Paulo Fonseca.
+
+203577839

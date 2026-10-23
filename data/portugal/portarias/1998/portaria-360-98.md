@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/360/1998/06/26/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/360-1998-479401
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1998-06-26T00:00:00Z'
+  retrieved_at: '2026-10-23T14:08:24Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 64c1b676c24fd5a4769d831bff0211d52db2b50b03e203b9cc59c0755beacfc3
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: fed80837bcc7ec983be79ad483bbaa27f7803031edb3dda0ba43ab9228abd10c
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T14:08:24Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -69,17 +69,21 @@ subjects:
 - Conservação de Documentos
 - Direcção Geral de Viação
 - Prazo de Conservação
-relationships: []
+relationships:
+- type: cites
+  target: pt:dre:356515:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T14:08:24Z'
   warnings: []
   errors: []
 ---
@@ -206,7 +210,7 @@ O disposto na presente portaria entra em vigor 30 dias após a sua publicação.
 
 Ministérios da Administração Interna e da Cultura.
 
-**Assinada em 27 de Abril de 1998.**
+Assinada em 27 de Abril de 1998.
 
 Pelo Ministro da Administração Interna, Armando António Martins Vara, Secretário de Estado Adjunto do Ministro da Administração Interna. - O Ministro da Cultura, Manuel Maria Ferreira Carrilho.
 
@@ -216,8 +220,8 @@ Pelo Ministro da Administração Interna, Armando António Martins Vara, Secret�
 
 ## ANEXO II — Auto de entrega
 
-[(ver modelo no documento original)](https://files.diariodarepublica.pt/1s/1998/06/145b00/28562860.pdf)
+[[(ver modelo no documento original)](https://files.diariodarepublica.pt/1s/1998/06/145b00/28562860.pdf)](https://files.diariodarepublica.pt/1s/1998/06/145b00/28562860.pdf)
 
 ## ANEXO III — Auto de eleminação
 
-[(ver modelo no documento original)](https://files.diariodarepublica.pt/1s/1998/06/145b00/28562860.pdf)
+[[(ver modelo no documento original)](https://files.diariodarepublica.pt/1s/1998/06/145b00/28562860.pdf)](https://files.diariodarepublica.pt/1s/1998/06/145b00/28562860.pdf)

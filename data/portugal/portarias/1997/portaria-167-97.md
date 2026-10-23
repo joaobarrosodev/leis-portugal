@@ -26,7 +26,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1997/03/056b00/10321033.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -48,18 +48,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/167/1997/03/07/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/167-1997-515395
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1999-01-12T00:00:00Z'
+  retrieved_at: '2026-10-23T14:01:02Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 9786112d339a28613ee1c4a18f6d6cbf62d5c3fe33aa64ad1485b4db5dbf47db
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 2e27441ec4892d9866efc27bf6fe8d5509adcf4e575a5ad791713f741b8ac539
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T14:01:02Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -68,13 +68,13 @@ reuse:
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
 - CE Países
-- Doença Vegetal
 - Controlo Sanitário
+- Doença Vegetal
 - Importação
-- Zona de Proteção
-- Proteção Fitossanitária
 - Produção Vegetal
+- Proteção Fitossanitária
 - Vegetais
+- Zona de Proteção
 relationships:
 - type: amended_by
   target: pt:dre:486163:por
@@ -92,16 +92,21 @@ relationships:
   target: eli:http://data.dre.pt/eli/port/344/1994/06/01/p/dre
   label: null
   source: http://data.dre.pt/eli/port/344/1994/06/01/p/dre
+- type: repealed_by
+  target: pt:dre:486163:por
+  label: "Revogada pelo DEC LEI.14/99.1999.01.12.MADRP DR.IS-A [9]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/14-1999-486163
+  date: '1999-01-12'
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T14:01:02Z'
   warnings: []
   errors: []
 ---
@@ -128,7 +133,7 @@ Manda o Governo, pelo Ministro da Agricultura, do Desenvolvimento Rural e das Pe
 
 2.º Na parte A, secção I, do anexo IV da Portaria n.º 344/94, de 1 de Junho, a seguir ao n.º 52, são inseridos dois novos números, 53 e 54, com as seguintes respectivas redacções:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1997/03/056b00/10321033.pdf))](https://files.diariodarepublica.pt/1s/1997/03/056b00/10321033.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1997/03/056b00/10321033.pdf)
 
 3.º Na parte B, secção I, n.º 1, do anexo V da Portaria n.º 344/94, de 1 de Junho, a seguir ao termo «Uruguai», é aditada a seguinte frase «dos géneros Triticum, Secale e Triticosecale, originárias do Afeganistão, Índia, Iraque, México, Nepal, Paquistão e EUA,».
 
@@ -138,6 +143,6 @@ Manda o Governo, pelo Ministro da Agricultura, do Desenvolvimento Rural e das Pe
 
 Ministério da Agricultura, do Desenvolvimento Rural e das Pescas.
 
-**Assinada em 17 de Fevereiro de 1997.**
+Assinada em 17 de Fevereiro de 1997.
 
 Pelo Ministro da Agricultura, do Desenvolvimento Rural e das Pescas, Manuel Maria Cardoso Leal, Secretário de Estado da Produção Agro-Alimentar.

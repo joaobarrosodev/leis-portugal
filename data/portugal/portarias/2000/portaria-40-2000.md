@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/40/2000/01/28/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/40-2000-405710
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2006-05-30T00:00:00Z'
+  retrieved_at: '2026-10-23T14:23:22Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 59ec1e6863e0c5d5299e25a4621567136153cf030bd370cb7f2d6b3eacd88653
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 4a9e8d9f287e8263aa075be0a9447b3329e2da9e6a6fdcfd0a00cd36e67583e8
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T14:23:22Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,14 +66,26 @@ reuse:
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
 - CAÇA
-- Fundão
 - Castelo Branco
+- Fundão
 - ZONA de CAÇA
 relationships:
 - type: amended_by
   target: pt:dre:287635:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:169067:por
+  label: "Anexados vários prédios rústicos à zona de caça concessionada pela Port 346/94, de 01-Jun alterada pelo presente\
+    \ diploma, pela PORT.45/2006.12.01.2006.MADRP, DR.IS-B [9] de 12.01.2006\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/45-2006-169067
+  date: '2006-01-12'
+- type: amended_by
+  target: pt:dre:287635:por
+  label: "Renovada, por um periodo de 12 anos, a concessão da zona de caça concessionada pela Port 346/94 de 01-Jun, alterada\
+    \ pelo presente diploma, pela PORT.492/2006.30.05.2006.MADRP, DR.IS-B [104] de 30.05.2006\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/492-2006-287635
+  date: '2006-05-30'
 - type: cites
   target: eli:http://data.dre.pt/eli/port/107/1999/02/08/p/dre
   label: null
@@ -86,16 +98,28 @@ relationships:
   target: eli:http://data.dre.pt/eli/port/834/1997/09/06/p/dre
   label: null
   source: http://data.dre.pt/eli/port/834/1997/09/06/p/dre
+- type: cites
+  target: pt:dre:169231:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:301597:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:642886:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T14:23:22Z'
   warnings: []
   errors: []
 ---

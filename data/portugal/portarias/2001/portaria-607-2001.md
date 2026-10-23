@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2001/06/140b00/35563559.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/607/2001/06/19/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/607-2001-358935
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2011-07-27T00:00:00Z'
+  retrieved_at: '2026-10-23T14:33:22Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 6090cc705b2d4fea72ebc66809153db10fc896257271642570854ef76e3edb8c
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 4122e866923fd8648f5effa25f427d9dbee51bdd64ea1ee27704c10e45828aa7
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T14:33:22Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,23 +66,28 @@ reuse:
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
 - Acção de Formação
-- Certificado de Aptidão Profissional
+- Avaliação de Conhecimentos
 - Canteiro
-- Produto Mineiro
-- Formação Profissional
 - Certificação Profissional
-- Terras e Pedras
+- Certificado de Aptidão Profissional
+- Descrição de Funções
+- Formação Profissional
 - Homologação
 - Instituto Geológico e Mineiro
 - Norma
-- Descrição de Funções
+- Produto Mineiro
 - Qualificação Profissional
-- Avaliação de Conhecimentos
+- Terras e Pedras
 relationships:
 - type: amended_by
   target: pt:dre:669541:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:301000:por
+  label: "Alteradas as als. b) e c) do nº 2 do nº 2 e nº 11.º pela PORT.344/2002.2002.04.02.MECO DR.IS-B [77]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/344-2002-301000
+  date: '2002-04-02'
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/95/1992/05/23/p/dre
   label: null
@@ -91,16 +96,35 @@ relationships:
   target: eli:http://data.dre.pt/eli/decregul/68/1994/11/26/p/dre
   label: null
   source: http://data.dre.pt/eli/decregul/68/1994/11/26/p/dre
+- type: cites
+  target: pt:dre:523412:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:547021:por
+  label: null
+  source: null
+- type: corrected_by
+  target: pt:dre:320347:por
+  label: "Rectificada pela DECL-RECT.13-X/2001.2001.06.29.PCM, DR.IS-B[150}3ºSUPL de 30/Jun/2001\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/declaracao-rectificacao/13-x-2001-320347
+  date: '2001-06-29'
+- type: repealed_by
+  target: pt:dre:669541:por
+  label: "Revogada a presente portaria, com produção de efeitos a 30.10.2011, rectificada pela Decl Rect 13-X/2001, de 30-Jun,\
+    \ e na redacção da Port 344/2002, de 02-Abr, pelo DEC LEI.92/2011.27.07.2011.MTSSO, DR.IS [143] de 27.07.2011\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/92-2011-669541
+  date: '2011-07-27'
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T14:33:22Z'
   warnings: []
   errors: []
 ---
@@ -395,4 +419,4 @@ A presente portaria entra em vigor decorridos 30 dias após a data da sua public
 
 Em 22 de Fevereiro de 2001.
 
-**O Ministro da Economia, Mário Cristina de Sousa. - Pelo Ministro do Trabalho e da Solidariedade, Paulo José Fernandes Pedroso, Secretário de Estado Adjunto do Ministro do Trabalho e da Solidariedade.**
+O Ministro da Economia, Mário Cristina de Sousa. - Pelo Ministro do Trabalho e da Solidariedade, Paulo José Fernandes Pedroso, Secretário de Estado Adjunto do Ministro do Trabalho e da Solidariedade.

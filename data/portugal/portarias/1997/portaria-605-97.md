@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/605/1997/08/07/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/605-1997-204445
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2008-12-22T00:00:00Z'
+  retrieved_at: '2026-10-23T14:03:48Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: a2fb6c3f39897ada0a872a61a350ca1b6649bfdedd52f4ab79f042bc145283c6
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 0a6b9f380c0b10449f631d8d398c7371778f9d3387424d830702cd341f3443fb
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T14:03:48Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -74,6 +74,26 @@ relationships:
   target: pt:dre:443942:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:378921:por
+  label: "Determinada a suspensão do exercício da caça, e de actividades de carácter venatório na zona de caça associativa\
+    \ de São João das Lampas, concessionada pela Port. 615-D4/91, de 8-Jul, DR.IS-B [154] 2º Supl, na redacção da presente\
+    \ Portaria, pela PORT.935/2001, DR.IS-B [175] de 2001/JUL/30\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/935-2001-378921
+  date: '2001-07-30'
+- type: amended_by
+  target: pt:dre:249274:por
+  label: "Renovada a concessão da zona de caça associativa concessionada pela Port 615-D4/91, de 08-Jul, na redacção do presente\
+    \ diploma, pela PORT.382-D/2002.2002.04.09.MADRP, DR.IS-B [83]Supl\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/382-d-2002-249274
+  date: '2002-04-09'
+- type: amended_by
+  target: pt:dre:443942:por
+  label: "Anexados vários prédios rústicos e alterada a denominação da zona de caça concessionada pela Port 615-D4/91, de\
+    \ 08-Jul, alterada pelo presente diploma, pela Port 382-D/2002, de 09-Abr e pela Port 504/2005, de 08-Jun, pela PORT.1500/2008.22.12.2008.MAOTDR,\
+    \ DR.IS [246] de 22.12.2008\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/1500-2008-443942
+  date: '2008-12-22'
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/251/1992/11/12/p/dre
   label: null
@@ -82,16 +102,32 @@ relationships:
   target: eli:http://data.dre.pt/eli/port/615-d4/1991/07/08/p/dre
   label: null
   source: http://data.dre.pt/eli/port/615-d4/1991/07/08/p/dre
+- type: cites
+  target: pt:dre:205825:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:417646:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:455890:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:584874:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T14:03:48Z'
   warnings: []
   errors: []
 ---
@@ -124,8 +160,8 @@ Manda o Governo, pelo Ministro da Agricultura, do Desenvolvimento Rural e das Pe
 
 Ministério da Agricultura, do Desenvolvimento Rural e das Pescas.
 
-**Assinada em 15 de Julho de 1997.**
+Assinada em 15 de Julho de 1997.
 
 Pelo Ministro da Agricultura, do Desenvolvimento Rural e das Pescas, Luís Manuel Capoulas Santos, Secretário de Estado da Agricultura e do Desenvolvimento Rural.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1997/08/181b00/40844084.pdf))](https://files.diariodarepublica.pt/1s/1997/08/181b00/40844084.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1997/08/181b00/40844084.pdf)

@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1998/08/187b00/39753980.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/525/1998/08/14/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/525-1998-437801
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2001-05-31T00:00:00Z'
+  retrieved_at: '2026-10-23T14:09:35Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 8c026d29be379717901c3e2c54d215e0887d669aa3c65c453150921004175704
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: b51cc18ecd7908a851c1aea5d99b8df4ab74b6480fc6e2294ad089561ec8813d
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T14:09:35Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -74,6 +74,11 @@ relationships:
   target: pt:dre:332248:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:145649:por
+  label: "Alterado o anexo nº 2 pela PORT.183/99.1999.03.19.MS, DR.IS-B [66]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/183-1999-145649
+  date: '1999-03-19'
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/255/1998/08/11/p/dre
   label: null
@@ -82,16 +87,29 @@ relationships:
   target: eli:http://data.dre.pt/eli/dec-lei/322/1991/08/26/p/dre
   label: null
   source: http://data.dre.pt/eli/dec-lei/322/1991/08/26/p/dre
+- type: cites
+  target: pt:dre:403119:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:438070:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:332248:por
+  label: "Revogada pela PORT.554/2001.2001.05.31.MS, DR.IS-B [126] de 2001/MAI/31\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/554-2001-332248
+  date: '2001-05-31'
 article_structure:
   article_count: 23
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T14:09:35Z'
   warnings: []
   errors: []
 ---
@@ -110,9 +128,9 @@ Manda o Governo, pelos Ministros da Saúde e do Trabalho e da Solidariedade, o s
 
 Ministérios da Saúde e do Trabalho e da Solidariedade.
 
-**Assinada em 24 de Julho de 1998.**
+Assinada em 24 de Julho de 1998.
 
-**A Ministra da Saúde, Maria de Belém Roseira Martins Coelho Henriques de Pina. - O Ministro do Trabalho e da Solidariedade, Eduardo Luís Barreto Ferro Rodrigues.**
+A Ministra da Saúde, Maria de Belém Roseira Martins Coelho Henriques de Pina. - O Ministro do Trabalho e da Solidariedade, Eduardo Luís Barreto Ferro Rodrigues.
 
 ## ANEXO — Regulamento Geral dos Concursos do Totogolo
 

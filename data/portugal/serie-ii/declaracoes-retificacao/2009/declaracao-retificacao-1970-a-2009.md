@@ -20,12 +20,12 @@ publication:
   reference: Diário da República n.º 158/2009, 1º Suplemento, Série II de 2009-08-17
   number: '158'
   series: II
-  supplement: 1º Suplemento
+  supplement: null
   pages: 33578-(2) a 33578-(2)
   pdf_url: https://files.diariodarepublica.pt/2s/2009/08/158000001/0000200002.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -47,18 +47,18 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/declaracao-rectificacao/1970-a-2009-771510
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2009-08-17T00:00:00Z'
+  retrieved_at: '2026-10-23T14:04:13Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 7468f5524144f3f7b00ecef47ad656f0b5214a721f38cfadcb69848154d8f97c
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: ddc50893a0e03453fe3f413a04cf9bd11ab455901852e4f07098c77aeb5afe41
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T14:04:13Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -70,13 +70,13 @@ relationships: []
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T14:04:13Z'
   warnings: []
   errors: []
 ---
@@ -90,3 +90,5 @@ Por ter saído com inexactidão na Bolsa de Emprego Público [BEP], na oferta de
 Em relação à composição do júri, onde se lê «Vogal - Eng.º Acácio Costa Baptista, director de Serviços de Acesso ao Ensino Superior», deve ler-se «Vogal - Professor João Gabriel Monteiro Carvalho Silva, presidente do Conselho Directivo da Faculdade de Ciências e Tecnologia da Universidade de Coimbra», e onde se lê «Vogal - Eng.ª Maria Virgínia Ferreira Coelho Pereira Serra de Magalhães Côrrea, directora do Gabinete de Promoção do Programa Quadro», deve ler-se «Vogal - Eng.ª Maria Virgínia Ferreira Coelho Pereira Serra de Magalhães Côrrea, directora do Ex-Gabinete de Relações Internacionais da Ciência, Inovação e Ensino Superior», ficando salvaguardadas todas as candidaturas que entretanto deram entrada.
 
 11 de Agosto de 2009. - O Director-Geral, António Ângelo Morão Dias.
+
+202197339

@@ -19,12 +19,12 @@ publication:
   reference: Diário da República n.º 9/1999, 1º Suplemento, Série I-B de 1999-01-12
   number: '9'
   series: I
-  supplement: 1º Suplemento
+  supplement: null
   pages: 196-(2) a 196-(3)
   pdf_url: https://files.diariodarepublica.pt/1s/1999/01/009b01/00020003.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/17-a/1999/01/12/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/17-a-1999-213796
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2010-12-03T00:00:00Z'
+  retrieved_at: '2026-10-23T14:13:42Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: a7e11ecaf7cc995f98a127943151176b2a14c026557da1126b71289ff63487e3
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 5007801fec9fa4a6c7e73401c8d916ab03c6d06ae3a6c19eaaabf95b1f0e07e5
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T14:13:42Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -73,16 +73,55 @@ relationships:
   target: pt:dre:306641:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:431465:por
+  label: "Alterada a al m) do nº 2 do art. 4º, o nº 5 do art. 8º-A, o art. 11º-A e o travessão 12 do anexo I da Port 561/90\
+    \ de 19-Jul, na redacção do presente diploma, pela PORT.38-B/2001.2001.01.17.MADRP,DR.IS-B [14]2º Supl\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/38-b-2001-431465
+  date: '2001-01-17'
+- type: amended_by
+  target: pt:dre:607078:por
+  label: "Alterados os arts. 8.º, 8.º-A, 11.º-A, 12.º-A e 13.º, aditada uma al. n) ao n.º 2 do art. 4.º e um travessão 13\
+    \ ao anexo I e revogados os n.ºs 3, 4 e 5 do art. 8.º-A, todos do Regulamento, aprovado pela Port 561/90, de 19-Jul, alterada\
+    \ pelo presente diploma e pela Port 38-B/2001, de 17-Jan, pela PORT.80/2004.21.01.2004.MADRP, DR.IS-B [17] de 21.01.2004\0\
+    \0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/80-2004-607078
+  date: '2004-01-21'
+- type: amended_by
+  target: pt:dre:306641:por
+  label: "Alterados os arts.4.º e 8.º-A bem como os n.ºs 10 e 12 do anexo i do Regulamento da Pesca no Rio Lima, aprovado\
+    \ pela Port 561/90, de 19-Jul, na redacção do presente diploma, republicado pela PORT.1220/2010.03.12.2010.MADRP, DR.IS\
+    \ [234] de 03.12.2010\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/1220-2010-306641
+  date: '2010-12-03'
+- type: amended_by
+  target: pt:dre:105750648:por
+  label: Alterado o n.º 10 do anexo I do Regulamento da Pesca no Rio Lima, aprovado pela Port 561/90, de 19-jul, na redação
+    do presente diploma, pelo(a) Portaria n.º 23/2017 - Diário da República n.º 9/2017, Série I de 2017-01-12
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/23-2017-105750648
+  date: '2017-01-12'
+- type: cites
+  target: pt:dre:420460:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:572897:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:610965:por
+  label: null
+  source: null
 article_structure:
-  article_count: 3
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T14:13:42Z'
   warnings: []
   errors: []
 ---
@@ -141,7 +180,9 @@ l) ...
 
 m) Berbigoeiro (para a captura de berbigão).
 
-## ANEXO I — Descrição e características das artes autorizadas
+ANEXO I
+
+Descrição e características das artes autorizadas
 
 (a que se refere o n.º 3 do artigo 4.º)
 
@@ -183,19 +224,25 @@ Pesca de lampreia com tresmalho
 
 6 - Para efeitos estatísticos e de acompanhamento da actividade, os proprietários das embarcações licenciadas para tresmalho na captura de lampreia deverão remeter à DGPA o mapa de registo de capturas devidamente preenchido, cujo modelo constitui anexo à presente portaria e dela faz parte integrante.
 
-###### Artigo 8.º-B — Condicionamento específico
+Artigo 8.º-B
+
+Condicionamento específico
 
 1 - Não é permitido o licenciamento simultâneo de uma embarcação para o tresmalho de lampreia e o uso de estacada.
 
 2 - Os tripulantes das embarcações licenciadas para tresmalho de lampreia não poderão fazer parte de um grupo de estacada, nem os inscritos marítimos pertencentes a um dos grupos de estacada poderão ser tripulantes das embarcações licenciadas para o tresmalho de lampreia.
 
-###### Artigo 10.º-A — Turnos de pesca com tresmalho de lampreia
+Artigo 10.º-A
+
+Turnos de pesca com tresmalho de lampreia
 
 1 - O exercício da pesca com tresmalho de deriva para a captura de lampreia, quando o número o justifique, terá lugar por meio de turnos.
 
 2 - Os turnos de pesca de lampreia deverão ser constituídos, na medida do possível, por igual número de tripulantes e de embarcações, num máximo de 36 inscritos marítimos.
 
-###### Artigo 11.º-A — Funcionamento dos turnos de tresmalho de lampreia
+Artigo 11.º-A
+
+Funcionamento dos turnos de tresmalho de lampreia
 
 O exercício da pesca com tresmalho para a captura de lampreia, no sistema de turnos, fica sujeito, para além das condições previstas nas alíneas a) e c) do n.º 2 do artigo 11.º, aos seguintes condicionalismos:
 
@@ -207,7 +254,7 @@ c) Durante o período diurno é autorizada em simultâneo a actuação de dois t
 
 d) Os períodos em que os turnos actuam são rotativos, seguindo o esquema a acordar com o capitão do porto aquando da constituição dos turnos.
 
-## ANEXO I
+ANEXO I
 
 12 - Berbigoeiro
 
@@ -231,7 +278,7 @@ Malhagem mínima do saco - 3,5 cm.»
 
 Ministério da Agricultura, do Desenvolvimento Rural e das Pescas.
 
-**Assinada em 12 de Janeiro de 1999.**
+Assinada em 12 de Janeiro de 1999.
 
 Pelo Ministro da Agricultura, do Desenvolvimento Rural e das Pescas, José Apolinário Nunes Portada, Secretário de Estado das Pescas.
 

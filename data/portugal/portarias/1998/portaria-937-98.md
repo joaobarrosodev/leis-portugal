@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1998/10/250b00/56355637.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/937/1998/10/29/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/937-1998-228789
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2006-01-03T00:00:00Z'
+  retrieved_at: '2026-10-23T14:12:02Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: abda60da7b5c1a80f5a035e8a38c563c6bdfa600d57e61e70a1478e8f8ddca7f
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: f18a3694d26880adcf3ebef3b597b5e16d53d3a37f2079797a1a62db9442c756
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T14:12:02Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -91,16 +91,37 @@ relationships:
   target: eli:http://data.dre.pt/eli/port/247/1998/04/21/p/dre
   label: null
   source: http://data.dre.pt/eli/port/247/1998/04/21/p/dre
+- type: cites
+  target: pt:dre:175796:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:222631:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:288258:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:484843:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:203010:por
+  label: "Revogada pelo DEC LEI.3/2006.03.01.2006.MJ, DR.IS-A [2] de 03.01.2006\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/3-2006-203010
+  date: '2006-01-03'
 article_structure:
   article_count: 18
   section_count: 6
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T14:12:02Z'
   warnings: []
   errors: []
 ---
@@ -127,7 +148,7 @@ Manda o Governo, pelo Ministro da Justiça, o seguinte:
 
 Ministério da Justiça.
 
-**Assinada em 8 de Outubro de 1998.**
+Assinada em 8 de Outubro de 1998.
 
 Pelo Ministro da Justiça, José Luís Lopes da Mota, Secretário de Estado da Justiça.
 

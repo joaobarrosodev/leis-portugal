@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1999/01/016b00/03460351.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/33/1999/01/20/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/33-1999-197152
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2006-07-04T00:00:00Z'
+  retrieved_at: '2026-10-23T14:14:42Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 5f2ea70915e81a257388e28468be0cde5c1b0b525f335a398ceb4975f6f5742c
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 1f8a11f5b28ba0b9bfd33d951ea178290dd5d919d63dc61b4d3c2b6f0876c0c3
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T14:14:42Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,11 +66,11 @@ reuse:
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
 - Arquivo
-- Ministério da Educação
 - Conservação de Documentos
-- Secretaria Geral
 - Microfilmagem
+- Ministério da Educação
 - Prazo de Conservação
+- Secretaria Geral
 relationships:
 - type: amended_by
   target: pt:dre:538042:por
@@ -88,16 +88,37 @@ relationships:
   target: eli:http://data.dre.pt/eli/dec-lei/16/1993/01/23/p/dre
   label: null
   source: http://data.dre.pt/eli/dec-lei/16/1993/01/23/p/dre
+- type: cites
+  target: pt:dre:291844:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:356515:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:401911:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:584777:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:538042:por
+  label: "Revogada pela PORT.684/2006.04.07.2006.MEC, DR.IS [127] de 04.07.2006\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/684-2006-538042
+  date: '2006-07-04'
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T14:14:42Z'
   warnings: []
   errors: []
 ---
@@ -122,7 +143,7 @@ Manda o Governo, pelos Ministros da Educação e da Cultura, que seja aprovado o
 
 Ministérios da Educação e da Cultura.
 
-**Assinada em 14 de Dezembro de 1998.**
+Assinada em 14 de Dezembro de 1998.
 
 Pelo Ministro da Educação, Guilherme d'Oliveira Martins, Secretário de Estado da Administração Educativa. - O Ministro da Cultura, Manuel Maria Ferreira Carrilho.
 
@@ -298,13 +319,13 @@ O Representante de ... (ver nota 10) ... (ver nota 11).
 
 (nota 11) Assinatura do responsável da entidade destinatária.
 
-## ANEXO N.º 2 — [(ver modelo no documento original)](https://files.diariodarepublica.pt/1s/1999/01/016b00/03460351.pdf)
+## ANEXO N.º 2 — [[(ver modelo no documento original)](https://files.diariodarepublica.pt/1s/1999/01/016b00/03460351.pdf)](https://files.diariodarepublica.pt/1s/1999/01/016b00/03460351.pdf)
 
 ## ANEXO N.º 3 — Auto de eliminação
 
 Aos ... dias do mês de ... de ..., no(a) ..., em ..., na presença dos abaixo assinados, procedeu-se à venda/inutilização por ..., de acordo com o(s) artigo(s) ... da Portaria n.º .../... e disposições da tabela de selecção, dos documentos a seguir identificados:
 
-[(ver modelo no documento original)](https://files.diariodarepublica.pt/1s/1999/01/016b00/03460351.pdf)
+[[(ver modelo no documento original)](https://files.diariodarepublica.pt/1s/1999/01/016b00/03460351.pdf)](https://files.diariodarepublica.pt/1s/1999/01/016b00/03460351.pdf)
 
 O Responsável pelo Arquivo, ...
 

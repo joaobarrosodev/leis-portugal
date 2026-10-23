@@ -48,18 +48,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/53/1999/01/26/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/53-1999-181381
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2006-09-19T00:00:00Z'
+  retrieved_at: '2026-10-23T14:16:03Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 16010be3b67dbd178f1dcb884ff8c4b381e1ea32598050c89eb37f0721bd839e
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 2683a8581582687c3e349963441c6756ee735636661770deac07b1989ff90e11
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T14:16:03Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -75,6 +75,12 @@ relationships:
   target: pt:dre:541630:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:541630:por
+  label: "Anexados vários prédios rústicos á zona de caça atribuída pela Port 722-B/92, de 15-Jul, com a redacção constante\
+    \ do presente diploma, pela PORT.1013/2006.19.09.2006.MADRP, DR.IS [181] de 19.09.2006\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/1013-2006-541630
+  date: '2006-09-19'
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/136/1996/08/14/p/dre
   label: null
@@ -91,16 +97,32 @@ relationships:
   target: eli:http://data.dre.pt/eli/port/932/1997/09/12/p/dre
   label: null
   source: http://data.dre.pt/eli/port/932/1997/09/12/p/dre
+- type: cites
+  target: pt:dre:405765:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:566674:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:617369:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:650332:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T14:16:03Z'
   warnings: []
   errors: []
 ---
@@ -129,6 +151,6 @@ Manda o Governo, pelo Ministro da Agricultura, do Desenvolvimento Rural e das Pe
 
 Ministério da Agricultura, do Desenvolvimento Rural e das Pescas.
 
-**Assinada em 7 de Janeiro de 1999.**
+Assinada em 7 de Janeiro de 1999.
 
 Pelo Ministro da Agricultura, do Desenvolvimento Rural e das Pescas, Victor Manuel Coelho Barros, Secretário de Estado do Desenvolvimento Rural.

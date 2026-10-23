@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/459/1997/07/11/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/459-1997-155245
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1997-07-11T00:00:00Z'
+  retrieved_at: '2026-10-23T14:02:58Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 13f46b8a7c47e52a5c929e3c6fc17eae89019f401b40858c7e1ba8c3d339fa0b
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 3b751faf238e717b96f507f69ac5c212b0982bc8726e9dea371555926c640d52
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T14:02:58Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -70,17 +70,25 @@ subjects:
 - Financiamento
 - Fundo de Aposentação
 - Instituto Nacional de Pilotagem dos Portos
-relationships: []
+relationships:
+- type: cites
+  target: pt:dre:429270:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:609829:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T14:02:58Z'
   warnings: []
   errors: []
 ---
@@ -99,6 +107,6 @@ Manda o Governo, pelo Ministro do Equipamento, do Planeamento e da Administraç�
 
 Ministério do Equipamento, do Planeamento e da Administração do Território.
 
-**Assinada em 16 de Junho de 1997.**
+Assinada em 16 de Junho de 1997.
 
-**O Ministro do Equipamento, do Planeamento e da Administração do Território, João Cardona Gomes Cravinho.**
+O Ministro do Equipamento, do Planeamento e da Administração do Território, João Cardona Gomes Cravinho.

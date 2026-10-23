@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/2s/2009/10/191000000/3997639977.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -47,18 +47,18 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/declaracao-rectificacao/2428-2009-2807768
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2009-10-01T00:00:00Z'
+  retrieved_at: '2026-10-23T14:06:59Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 7f6bab6a2a013f593bd134d81f09fe1a28e49dd53707ca1430aa41c715425713
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: d1a5d1d11c9cf90dcb183afe659596ca16139351af98d57067589598a27b26e2
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T14:06:59Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,22 +66,34 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects: []
-relationships: []
+relationships:
+- type: cites
+  target: pt:dre:1871864:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:468663:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:534996:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T14:06:59Z'
   warnings: []
   errors: []
 ---
 
-# Declaração de Rectificação n.º 2428/2009
+# Declaração de rectificação n.º 2428/2009
 
 Para os devidos efeitos, declara-se que o aviso n.º 16635/2009, publicado no Diário da República, 2.ª série, n.º 185, de 23 de Setembro de 2009, a pp. 38 845 e 38 846, saiu com inexactidões, pelo que se procede à republicação na íntegra:
 
@@ -174,3 +186,5 @@ b) As publicações de âmbito internacional.
 'Em cumprimento da alínea h) do artigo 9.º da Constituição, a Administração Pública, enquanto entidade empregadora, promove activamente uma política de igualdade de oportunidades entre homens e mulheres no acesso ao emprego e na progressão profissional, providenciando escrupulosamente no sentido de evitar toda e qualquer forma de discriminação.'»
 
 24 de Setembro de 2009. - O Presidente do Júri, Jorge Vala.
+
+202355134

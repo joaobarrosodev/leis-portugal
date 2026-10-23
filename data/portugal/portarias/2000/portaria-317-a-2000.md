@@ -19,7 +19,7 @@ publication:
   reference: Diário da República n.º 126/2000, 1º Suplemento, Série I-B de 2000-05-31
   number: '126'
   series: I
-  supplement: 1º Suplemento
+  supplement: null
   pages: 2534-(2) a 2534-(7)
   pdf_url: https://files.diariodarepublica.pt/1s/2000/05/126b01/00020007.pdf
 entry_into_force_dates: []
@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/317-a/2000/05/31/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/317-a-2000-522224
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2002-07-25T00:00:00Z'
+  retrieved_at: '2026-10-23T14:22:51Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 54df6bb9ae2303137b2f0e8abf3c14ad5aa92003b16f4c0d66156a3df51ce71b
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: d7de59422e6680644da38112f41f6b4a106c366cc7145f034321ad94daa46673
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T14:22:51Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,23 +66,54 @@ reuse:
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
 - Ajuda Comunitária
-- Financiamento
-- Empresa
+- Apoio ao Investimento
 - CAE
 - Contrato de Concessão
 - Definição de Competências
-- Apoio ao Investimento
-- Gestor
-- Instituto de Financiamento e Apoio ao Turismo
 - Desenvolvimento Económico
+- Empresa
+- Financiamento
+- Gestor
+- IAPMEI
+- Instituto de Financiamento e Apoio ao Turismo
 - Política Económica
 - Sipie
-- IAPMEI
 relationships:
 - type: amended_by
   target: pt:dre:682828:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:1945608:por
+  label: "Mantida em vigor, para as candidaturas apresentadas ao abrigo do Despacho nº 9917-A/2003 de 19-Mar, a regulamentação\
+    \ prevista neste diploma, com a redacção dada pelas Port 164/2001 de 07-Mar, 669/2001 de 04-Jul e 879-A/2002 de 25-Jul,\
+    \ pela PORT.317-A/2000.31.05.2000.PCM, DR.IS-B [126-Supl] de 31.05.2000\00\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/sem-diploma/2000-1945608
+  date: '2000-05-31'
+- type: amended_by
+  target: pt:dre:468665:por
+  label: "Mantida em vigor, para as candidaturas apresentadas ao abrigo do Despacho nº 9917-A/2003(2ªSérie) de 19-Mai, a regulamentação\
+    \ prevista neste diploma, com a redacção dada pelas Port 164/2001 de 07-Mar, 669/2001 de 04-Jul e 879-A/2002 de 25-Jul,\
+    \ pela port.1254/2003.03.11.2003.MF, DR.IS-B [254] de 03.11.2003\003\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/1254-2003-468665
+  date: '2000-05-31'
+- type: amended_by
+  target: pt:dre:400992:por
+  label: "Alterados o nº 3 do nº 2º do anexo A e o anexo B pela PORT.164/2001.2001.03.07.MF,DR.IS-B [56]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/164-2001-400992
+  date: '2001-03-07'
+- type: amended_by
+  target: pt:dre:347767:por
+  label: "Alterado o nº 2, 4, 5, 6, 9, 11 e aditado o Anexo C, pela PORT.669/2001.2001.07.04.MF, DR.IS-B [153] \0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/669-2001-347767
+  date: '2001-07-04'
+- type: amended_by
+  target: pt:dre:682828:por
+  label: "Alteradas a al e) do nº 1 do nº 4º, a al a) do nº 1 do nº 6º, os nºs 1 e 2 do nº 9º, o nº 10, o nº 1 do nº 15º,\
+    \ o anexo A, o anexo C e aditado o anexo D à Port 317-A/2000 de 31-Mai DR.IS-B [126]Supl (na redacção que lhe foi dada\
+    \ pelas Port.s 164/2001, de 07-Mar e 669/2001, de 04-Jul) pela Port 879-A/2002.2002.07.25.PCM, DR.IS-B [170]Supl\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/879-a-2002-682828
+  date: '2002-07-25'
 - type: cites
   target: eli:http://data.europa.eu/eli/reco/1996/280/oj
   label: null
@@ -90,13 +121,13 @@ relationships:
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T14:22:51Z'
   warnings: []
   errors: []
 ---
@@ -417,7 +448,7 @@ Disposições transitórias
 
 Em 31 de Maio de 2000.
 
-**O Ministro das Finanças, Joaquim Augusto Nunes Pina Moura. - O Ministro da Economia, Joaquim Augusto Nunes Pina Moura. - O Ministro Adjunto do Primeiro-Ministro, Armando António Martins Vara.**
+O Ministro das Finanças, Joaquim Augusto Nunes Pina Moura. - O Ministro da Economia, Joaquim Augusto Nunes Pina Moura. - O Ministro Adjunto do Primeiro-Ministro, Armando António Martins Vara.
 
 ## ANEXO A — Metodologia para a determinação da valia económica
 
@@ -469,7 +500,7 @@ Mediante proposta do gestor, poderão ainda ser considerados como prioritários 
 
 A pontuação deste subcritério será função do peso relativo dos investimentos prioritários sobre o total das despesas elegíveis nos seguintes termos:
 
-[(ver tabela no documento original)](https://files.diariodarepublica.pt/1s/2000/05/126b01/00020007.pdf)
+[[[[(ver tabela no documento original)](https://files.diariodarepublica.pt/1s/2000/05/126b01/00020007.pdf)](https://files.diariodarepublica.pt/1s/2000/05/126b01/00020007.pdf)](https://files.diariodarepublica.pt/1s/2000/05/126b01/00020007.pdf)](https://files.diariodarepublica.pt/1s/2000/05/126b01/00020007.pdf)
 
 3 - O subcritério A(índice 2) - localização prioritária avalia o projecto tendo em conta a sua localização nas zonas I, II e III identificadas no anexo B, sendo a pontuação obtida de acordo com o seguinte:
 
@@ -509,7 +540,7 @@ Critério B - criação de postos de trabalho
 
 A pontuação do critério B - criação de postos de trabalho será atribuída nos seguintes termos:
 
-[(ver tabela no documento original)](https://files.diariodarepublica.pt/1s/2000/05/126b01/00020007.pdf)
+[[[[(ver tabela no documento original)](https://files.diariodarepublica.pt/1s/2000/05/126b01/00020007.pdf)](https://files.diariodarepublica.pt/1s/2000/05/126b01/00020007.pdf)](https://files.diariodarepublica.pt/1s/2000/05/126b01/00020007.pdf)](https://files.diariodarepublica.pt/1s/2000/05/126b01/00020007.pdf)
 
 Entende-se por criação líquida de postos de trabalho a diferença entre os postos de trabalho existentes antes da candidatura e os postos de trabalho verificados após a conclusão do projecto e mantidos, pelo menos, durante mais dois anos.
 
@@ -521,10 +552,10 @@ Critério C - contributo para a consolidação financeira
 
 A pontuação do critério C - contributo para a consolidação financeira será determinada pela percentagem de novos capitais próprios relativamente ao investimento elegível, nos seguintes termos:
 
-[(ver tabela no documento original)](https://files.diariodarepublica.pt/1s/2000/05/126b01/00020007.pdf)
+[[[[(ver tabela no documento original)](https://files.diariodarepublica.pt/1s/2000/05/126b01/00020007.pdf)](https://files.diariodarepublica.pt/1s/2000/05/126b01/00020007.pdf)](https://files.diariodarepublica.pt/1s/2000/05/126b01/00020007.pdf)](https://files.diariodarepublica.pt/1s/2000/05/126b01/00020007.pdf)
 
 Poderão ser considerados nos novos capitais próprios os capitais próprios que ultrapassem 40% do activo total líquido (dados pré-projecto).
 
 ## ANEXO B — Zonas de modulação regional
 
-[(ver tabela no documento original)](https://files.diariodarepublica.pt/1s/2000/05/126b01/00020007.pdf)
+[[[[(ver tabela no documento original)](https://files.diariodarepublica.pt/1s/2000/05/126b01/00020007.pdf)](https://files.diariodarepublica.pt/1s/2000/05/126b01/00020007.pdf)](https://files.diariodarepublica.pt/1s/2000/05/126b01/00020007.pdf)](https://files.diariodarepublica.pt/1s/2000/05/126b01/00020007.pdf)

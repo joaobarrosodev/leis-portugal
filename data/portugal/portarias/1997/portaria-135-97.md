@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1997/02/047b00/08540855.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/135/1997/02/25/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/135-1997-505777
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2000-03-24T00:00:00Z'
+  retrieved_at: '2026-10-23T14:00:43Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 58bb13e63347d64af5ff8e1aed51ed2556b056a2359ba5719624ee78cb7f37f3
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 03a3418860eb3c6467a7fe79c16896d9ebe63276a932419d0cbe47f32b515413
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T14:00:43Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,11 +67,11 @@ reuse:
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
 - Acreditação
-- Empresa
-- Controlo de Qualidade
-- Simbolo de Identificação
 - Certificado de Qualidade
+- Controlo de Qualidade
+- Empresa
 - Instituto Português da Qualidade
+- Simbolo de Identificação
 relationships:
 - type: amended_by
   target: pt:dre:508464:por
@@ -81,16 +81,37 @@ relationships:
   target: eli:http://data.dre.pt/eli/dec-lei/234/1993/07/02/p/dre
   label: null
   source: http://data.dre.pt/eli/dec-lei/234/1993/07/02/p/dre
+- type: cites
+  target: pt:dre:1049096:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:311467:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:313792:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:373863:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:508464:por
+  label: "Revogada pela PORT.178/2000.2000.03.24.ME DR.IS-B [71]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/178-2000-508464
+  date: '2000-03-24'
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T14:00:43Z'
   warnings: []
   errors: []
 ---
@@ -151,9 +172,9 @@ c) Anulação da certificação.
 
 Ministério da Economia.
 
-**Assinada em 30 de Janeiro de 1997.**
+Assinada em 30 de Janeiro de 1997.
 
-**O Ministro da Economia, Augusto Carlos Serra Ventura Mateus.**
+O Ministro da Economia, Augusto Carlos Serra Ventura Mateus.
 
 ## ANEXO
 
@@ -161,7 +182,7 @@ Forma e condições de aplicação do símbolo «Empresa Certificada»
 
 1 - A forma e proporções do símbolo «Empresa Certificada» são as constantes da figura 1, sendo o IPQ responsável pela construção gráfica necessária. Neste símbolo, as referências numérica (ano/número de emissão) e da norma indicada são variáveis e XXXXXX é substituída pela designação simplificada do organismo de certificação qualificado.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1997/02/047b00/08540855.pdf))](https://files.diariodarepublica.pt/1s/1997/02/047b00/08540855.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1997/02/047b00/08540855.pdf)
 
 2 - Nas reduções ou ampliações do símbolo «Empresa Certificada» devem ser considerados todos os elementos constantes da figura 1, não sendo permitido qualquer arranjo gráfico sem autorização expressa do IPQ.
 
@@ -171,4 +192,4 @@ Forma e condições de aplicação do símbolo «Empresa Certificada»
 
 5 - Em casos tipificados em despacho do presidente do IPQ, o símbolo «Empresa Certificada» pode ser utilizado conforme a figura 2.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1997/02/047b00/08540855.pdf))](https://files.diariodarepublica.pt/1s/1997/02/047b00/08540855.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1997/02/047b00/08540855.pdf)

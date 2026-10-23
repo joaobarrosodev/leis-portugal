@@ -46,45 +46,65 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/declaracao-rectificacao/304-2009-3184451
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2009-02-03T00:00:00Z'
+  retrieved_at: '2026-10-23T14:10:35Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: a053e5b77e90df45831d9ee1c35851b09b47a1a0e6c143ff3f52016e34b62241
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 1d322ef53da68f92bd4a0ca39afac5d6af059c0f1f5f3a2d15e6c96dd30ec3c7
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T14:10:35Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Comércio
+- Gás Natural
+- Sistema Nacional de Gás Natural
+- Venda em Hasta Pública
 relationships:
 - type: cites
   target: celex:32003L0055
   label: null
   source: null
+- type: cites
+  target: pt:dre:1021854:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:1846630:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:303200:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:945002:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T14:10:35Z'
   warnings: []
   errors: []
 ---
 
-# Declaração de Rectificação n.º 304/2009
+# Declaração de rectificação n.º 304/2009
 
 Por ter sido publicado com desconformidades no Diário da República 2.ª série, n.º 239 de 11 de Dezembro de 2008, o [Despacho n.º 31629/2008](https://diariodarepublica.pt/dr/detalhe/despacho/31629-2008-1021854), procede-se à rectificação do mesmo:
 
@@ -122,7 +142,9 @@ Ao abrigo do disposto no n.º 4 do artigo 60.º do Regulamento de Relações Com
 
 2 de Dezembro de 2008. - O Conselho de Administração: Vítor Santos - Maria Margarida de Lucena Corrêa de Aguiar - José Braz.
 
-## ANEXO — Termos e condições de realização do leilão de gás natural para ano gás 2009-2010
+ANEXO
+
+Termos e condições de realização do leilão de gás natural para ano gás 2009-2010
 
 I - Parte I - Leilão
 

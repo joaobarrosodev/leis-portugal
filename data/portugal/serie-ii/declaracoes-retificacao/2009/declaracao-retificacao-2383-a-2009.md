@@ -19,12 +19,12 @@ publication:
   reference: Diário da República n.º 187/2009, 1º Suplemento, Série II de 2009-09-25
   number: '187'
   series: II
-  supplement: 1º Suplemento
+  supplement: null
   pages: 39322-(2) a 39322-(2)
   pdf_url: https://files.diariodarepublica.pt/2s/2009/09/187000001/0000200002.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -46,18 +46,18 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/declaracao-rectificacao/2383-a-2009-1507109
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2009-09-25T00:00:00Z'
+  retrieved_at: '2026-10-23T14:06:44Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 6560c560bf24ab540c13965b206263cef68b70d75f5739e267b15304f32967ba
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 13e37bc269f32189c84e04c594ddd8081f653fffb2fc6608be57c43fa255b48f
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T14:06:44Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -69,13 +69,13 @@ relationships: []
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T14:06:44Z'
   warnings: []
   errors: []
 ---
@@ -87,3 +87,5 @@ Declaração de rectificação n.º 2383-A/2009
 Por ter sido publicado com inexactidão o aviso n.º 16 576/2009 no Diário da República, 2.ª série, n.º 185, de 23 de Setembro de 2009, rectifica-se que onde se lê «Prazo de concurso: cinco dias úteis» deve ler-se «Prazo do concurso: 10 dias úteis».
 
 24 de Setembro de 2009. - O Director, António José Leite Bragança da Cunha.
+
+202355101

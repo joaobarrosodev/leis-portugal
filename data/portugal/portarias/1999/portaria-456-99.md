@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/456/1999/06/23/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/456-1999-389814
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1999-06-23T00:00:00Z'
+  retrieved_at: '2026-10-23T14:15:33Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 4c73b9752666f3c0c1812a74d2edddd84c205d92c95113a2fa6e91989a70958e
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: aba02e266f2ee09a5e5d4ffc235c897ce80a2654db3701617d7ac5a5c3e8bead
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T14:15:33Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,24 +67,36 @@ reuse:
 subjects:
 - Arquivo
 - Conservação de Documentos
-- Microfilmagem
 - Governo Civil
+- Microfilmagem
 - Prazo de Conservação
 relationships:
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/121/1992/07/02/p/dre
   label: null
   source: http://data.dre.pt/eli/dec-lei/121/1992/07/02/p/dre
+- type: cites
+  target: pt:dre:291844:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:356515:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:376817:por
+  label: null
+  source: null
 article_structure:
   article_count: 1
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T14:15:33Z'
   warnings: []
   errors: []
 ---
@@ -241,7 +253,7 @@ Esta portaria entra em vigor após a sua publicação.
 
 Em 1 de Junho de 1999.
 
-**O Ministro da Administração Interna, Jorge Paulo Sacadura Almeida Coelho. - O Ministro da Cultura, Manuel Maria Ferreira Carrilho.**
+O Ministro da Administração Interna, Jorge Paulo Sacadura Almeida Coelho. - O Ministro da Cultura, Manuel Maria Ferreira Carrilho.
 
 ## ANEXO I — Tabela de selecção
 

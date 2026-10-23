@@ -46,36 +46,41 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/declaracao-rectificacao/1212-2010-1734914
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2010-06-22T00:00:00Z'
+  retrieved_at: '2026-10-23T14:16:18Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 9af0a3b04f46b07b087d7979063d3947d9273e3cb79ea2975842cc1395ee3795
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 5d71277292d6c362ef2386b5e0f5b81ccd33c85aca810c6b9ee2e53a83cfff3b
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T14:16:18Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Concurso Nacional de Acesso
+- Ensino Superior
+- Estabelecimento de Ensino
+- Habilitações Literárias
+- Prova de Ingresso
 relationships: []
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T14:16:18Z'
   warnings: []
   errors: []
 ---
@@ -88,42 +93,44 @@ Por ter saído com inexactidão a deliberação n.º 994/2010, publicada no Diá
 
 Onde se lê, a p. 31 157:
 
-[([ver documento original](https://files.diariodarepublica.pt/2s/2010/06/119000000/3401534016.pdf))](https://files.diariodarepublica.pt/2s/2010/06/119000000/3401534016.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/2s/2010/06/119000000/3401534016.pdf)
 
 deve ler-se:
 
-[([ver documento original](https://files.diariodarepublica.pt/2s/2010/06/119000000/3401534016.pdf))](https://files.diariodarepublica.pt/2s/2010/06/119000000/3401534016.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/2s/2010/06/119000000/3401534016.pdf)
 
 Onde se lê, a p. 31 159:
 
-[([ver documento original](https://files.diariodarepublica.pt/2s/2010/06/119000000/3401534016.pdf))](https://files.diariodarepublica.pt/2s/2010/06/119000000/3401534016.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/2s/2010/06/119000000/3401534016.pdf)
 
 deve ler-se:
 
-[([ver documento original](https://files.diariodarepublica.pt/2s/2010/06/119000000/3401534016.pdf))](https://files.diariodarepublica.pt/2s/2010/06/119000000/3401534016.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/2s/2010/06/119000000/3401534016.pdf)
 
 Onde se lê, a p. 31 167:
 
-[([ver documento original](https://files.diariodarepublica.pt/2s/2010/06/119000000/3401534016.pdf))](https://files.diariodarepublica.pt/2s/2010/06/119000000/3401534016.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/2s/2010/06/119000000/3401534016.pdf)
 
 deve ler-se:
 
-[([ver documento original](https://files.diariodarepublica.pt/2s/2010/06/119000000/3401534016.pdf))](https://files.diariodarepublica.pt/2s/2010/06/119000000/3401534016.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/2s/2010/06/119000000/3401534016.pdf)
 
 Onde se lê, a p. 31 169:
 
-[([ver documento original](https://files.diariodarepublica.pt/2s/2010/06/119000000/3401534016.pdf))](https://files.diariodarepublica.pt/2s/2010/06/119000000/3401534016.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/2s/2010/06/119000000/3401534016.pdf)
 
 deve ler-se:
 
-[([ver documento original](https://files.diariodarepublica.pt/2s/2010/06/119000000/3401534016.pdf))](https://files.diariodarepublica.pt/2s/2010/06/119000000/3401534016.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/2s/2010/06/119000000/3401534016.pdf)
 
 Onde se lê, a p. 31 171:
 
-[([ver documento original](https://files.diariodarepublica.pt/2s/2010/06/119000000/3401534016.pdf))](https://files.diariodarepublica.pt/2s/2010/06/119000000/3401534016.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/2s/2010/06/119000000/3401534016.pdf)
 
 deve ler-se:
 
-[([ver documento original](https://files.diariodarepublica.pt/2s/2010/06/119000000/3401534016.pdf))](https://files.diariodarepublica.pt/2s/2010/06/119000000/3401534016.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/2s/2010/06/119000000/3401534016.pdf)
 
 16 de Junho de 2010. - O Presidente da Comissão Nacional de Acesso ao Ensino Superior, Virgílio Meira Soares.
+
+203378732

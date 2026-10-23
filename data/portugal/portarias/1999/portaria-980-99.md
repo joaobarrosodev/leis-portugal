@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/980/1999/10/30/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/980-1999-692036
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1999-10-30T00:00:00Z'
+  retrieved_at: '2026-10-23T14:19:00Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: c91a2da58971c416d640636639f05205f7b502ae348ab5903377e0c56ef0051b
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: ed2f5e21133bb2fdebb1bbd888756d7a72f68d990b4caca8c24d434e77ac55bf
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T14:19:00Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -69,9 +69,9 @@ subjects:
 - Ensino Superior Politécnico
 - Escola Superior de Educação
 - Escola Superior de Tecnologia
-- Universidade do Algarve
 - Faro
 - Licenciatura
+- Universidade do Algarve
 relationships:
 - type: cites
   target: eli:http://data.dre.pt/eli/lei/115/1997/09/19/p/dre
@@ -85,16 +85,36 @@ relationships:
   target: eli:http://data.dre.pt/eli/port/533-a/1999/07/22/p/dre
   label: null
   source: http://data.dre.pt/eli/port/533-a/1999/07/22/p/dre
+- type: cites
+  target: pt:dre:147873:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:222418:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:429596:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:453184:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:653145:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T14:19:00Z'
   warnings: []
   errors: []
 ---

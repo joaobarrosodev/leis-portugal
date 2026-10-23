@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1997/02/048b00/08650865.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/138/1997/02/26/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/138-1997-505413
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1999-01-12T00:00:00Z'
+  retrieved_at: '2026-10-23T14:00:43Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 5c497736e80d59a36a761bf59803137ce003f220a540e16ee8b1c2e69a27ed18
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: f7ed3dee779c09a484eea3e3c173da733bd941f66fbd41040bcf555dfcad6c25
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T14:00:43Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,15 +67,15 @@ reuse:
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
 - CE Países
-- Doença Vegetal
 - Controlo Sanitário
-- Fiscalização
-- Zona de Proteção
-- Política Agrícola Comum
+- Doença Vegetal
 - Exportação
-- Proteção Fitossanitária
+- Fiscalização
+- Política Agrícola Comum
 - Produção Vegetal
+- Proteção Fitossanitária
 - Vegetais
+- Zona de Proteção
 relationships:
 - type: amended_by
   target: pt:dre:486163:por
@@ -93,16 +93,21 @@ relationships:
   target: eli:http://data.dre.pt/eli/port/344/1994/06/01/p/dre
   label: null
   source: http://data.dre.pt/eli/port/344/1994/06/01/p/dre
+- type: repealed_by
+  target: pt:dre:486163:por
+  label: "Revogada pelo DEC LEI.14/99.1999.01.12.MADRP DR.IS-A [9]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/14-1999-486163
+  date: '1999-01-12'
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T14:00:43Z'
   warnings: []
   errors: []
 ---
@@ -123,6 +128,6 @@ Assim, ao abrigo do disposto no n.º 1 do artigo 2.º do Decreto-Lei n.º 154/94
 
 Ministério da Agricultura, do Desenvolvimento Rural e das Pescas.
 
-**Assinada em 6 de Fevereiro de 1997.**
+Assinada em 6 de Fevereiro de 1997.
 
 Pelo Ministro da Agricultura, do Desenvolvimento Rural e das Pescas, Manuel Maria Cardoso Leal, Secretário de Estado da Produção Agro-Alimentar.

@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/163/1998/03/16/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/163-1998-186562
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2000-03-21T00:00:00Z'
+  retrieved_at: '2026-10-23T14:07:09Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 0fd9a1d2d63a3b1a1c28dc4e86dfc4c6bcf3c79a3e9de74315c8290fd5a0e916
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 6553fe132d5381878deb1d3de67387e7b2c621ef5de1962788f20d83deebfb37
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T14:07:09Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -76,16 +76,20 @@ relationships:
   target: eli:http://data.dre.pt/eli/dec-lei/189/1991/05/17/p/dre
   label: null
   source: http://data.dre.pt/eli/dec-lei/189/1991/05/17/p/dre
+- type: cites
+  target: pt:dre:639490:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T14:07:09Z'
   warnings: []
   errors: []
 ---
@@ -138,6 +142,6 @@ j) Um representante das associações de pais.
 
 Ministério da Justiça.
 
-**Assinada em 17 de Fevereiro de 1998.**
+Assinada em 17 de Fevereiro de 1998.
 
-**O Ministro da Justiça, José Eduardo Vera Cruz Jardim.**
+O Ministro da Justiça, José Eduardo Vera Cruz Jardim.

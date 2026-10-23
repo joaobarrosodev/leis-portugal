@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/535/2000/08/02/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/535-2000-314604
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2000-08-02T00:00:00Z'
+  retrieved_at: '2026-10-23T14:24:18Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: e8cb538b13e4d64b84b2ef992bbc2b16794f6151cabc2304b2b19d9b8938ec9a
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 363695e914b2bb718fa4703fc57f234dbf7bf55fdba451b5fe1a868de28344ef
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T14:24:18Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -69,17 +69,21 @@ subjects:
 - Importação
 - Prémio de Seguro
 - Seguro Obrigatório de Responsabilidade Civil
-relationships: []
+relationships:
+- type: cites
+  target: pt:dre:549405:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T14:24:18Z'
   warnings: []
   errors: []
 ---
@@ -98,4 +102,4 @@ a) 7400000000$00, para a concessionária do serviço público da importação de
 
 b) 1500000000$00, para as concessionárias da exploração das redes da distribuição regional de gás natural e dos seus gases de substituição.
 
-**O Ministro da Economia, Joaquim Augusto Nunes Pina Moura, em 11 de Julho de 2000.**
+O Ministro da Economia, Joaquim Augusto Nunes Pina Moura, em 11 de Julho de 2000.

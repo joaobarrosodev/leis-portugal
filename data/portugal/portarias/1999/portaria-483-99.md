@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/483/1999/07/03/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/483-1999-373390
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2001-10-26T00:00:00Z'
+  retrieved_at: '2026-10-23T14:15:43Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 8291d4ad6873bf2c3612b6028f293f5cbbc188ba51eed33665c01b183476ab38
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 25d903816814e753e1b55ed36c48ffd19ceeafc8a59f12534fd7e7dc88b4cc84
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T14:15:43Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -74,6 +74,18 @@ relationships:
   target: pt:dre:583391:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:583389:por
+  label: "Extinta a concessão de caça social das Antas criada pela Port 434/90, de 12-Jun DR.IS [135], na redacção dada pelo\
+    \ presente diploma, pela PORT.1237/2001.2001.10.26.MADRP DR.IS-B [249]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/1237-2001-583389
+  date: '2001-10-26'
+- type: amended_by
+  target: pt:dre:583391:por
+  label: "Extinta a concessão de caça social das Antas criada pela Port 434/90, de 12-Jun DR.IS [135] na redacção dada pelo\
+    \ presente diploma, pela PORT.1239/2001.2001.10.26.MADRP DR.IS-B [249]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/1239-2001-583391
+  date: '2001-10-26'
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/136/1996/08/14/p/dre
   label: null
@@ -90,16 +102,40 @@ relationships:
   target: eli:http://data.dre.pt/eli/port/893/1998/10/10/p/dre
   label: null
   source: http://data.dre.pt/eli/port/893/1998/10/10/p/dre
+- type: cites
+  target: pt:dre:219134:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:235558:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:405765:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:435391:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:435397:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:574970:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T14:15:43Z'
   warnings: []
   errors: []
 ---

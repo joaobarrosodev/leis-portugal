@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/510/1997/07/22/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/510-1997-149618
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1997-07-22T00:00:00Z'
+  retrieved_at: '2026-10-23T14:03:13Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: e1fd10a1fb074ea6893d1c82221fd158f70d77f1948a0e6d5a4f8304809b523e
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 923b9e0a2978acb5784fb4c9542c7ce37010880d1249e334d741b83210e8299c
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T14:03:13Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,25 +66,29 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Pessoal Dirigente
-- Sistema Retributivo
-- Remuneração Acessória
 - Instituto Nacional de Pilotagem dos Portos
 - Pessoal Administrativo
+- Pessoal Dirigente
 - Pessoal Técnico de Pilotagem
 - Remuneração
+- Remuneração Acessória
+- Sistema Retributivo
 - Subsídio de Chefia
-relationships: []
+relationships:
+- type: cites
+  target: pt:dre:429270:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T14:03:13Z'
   warnings: []
   errors: []
 ---
@@ -105,11 +109,11 @@ Manda o Governo, pelo Ministro do Equipamento, do Planeamento e da Administraç�
 
 1.º A estruturação da grelha salarial das carreiras do pessoal técnico de pilotagem é fixada como segue:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1997/07/167b00/36753676.pdf))](https://files.diariodarepublica.pt/1s/1997/07/167b00/36753676.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1997/07/167b00/36753676.pdf)
 
 2.º Os subsídios atribuídos aos chefes de departamento e seus substitutos legais passam a ter as seguintes percentagens, calculadas sobre os escalões correspondentes às respectivas remunerações de base:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1997/07/167b00/36753676.pdf))](https://files.diariodarepublica.pt/1s/1997/07/167b00/36753676.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1997/07/167b00/36753676.pdf)
 
 3.º O índice de topo de carreira do pessoal administrativo passa a ser o 16 e o índice 100 da carreira do pessoal técnico de pilotagem passa a ser igual ao índice 100 do regime geral da função pública.
 
@@ -117,6 +121,6 @@ Manda o Governo, pelo Ministro do Equipamento, do Planeamento e da Administraç�
 
 Ministério do Equipamento, do Planeamento e da Administração do Território.
 
-**Assinada em 30 de Junho de 1997.**
+Assinada em 30 de Junho de 1997.
 
-**O Ministro do Equipamento, do Planeamento e da Administração do Território, João Cardona Gomes Cravinho.**
+O Ministro do Equipamento, do Planeamento e da Administração do Território, João Cardona Gomes Cravinho.

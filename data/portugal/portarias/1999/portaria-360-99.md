@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/360/1999/05/19/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/360-1999-323960
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2009-10-15T00:00:00Z'
+  retrieved_at: '2026-10-23T14:14:53Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 9c629a57889a3d374e980b1a641b9ca2f64e0fddd913e79b5b216dd6c06d0de1
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: f411a23dd4e9fd81cf0df7c7e11a30ebef551f018f4dd27b8267cbcd22a6ee05
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T14:14:53Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,30 +67,39 @@ reuse:
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
 - Cartão de Identificação
-- Jornalista
+- Comissão da Carteira Profissional do Jornalista
 - Comunicação Social
 - Comunidades Portuguesas
 - Jornalismo
-- Comissão da Carteira Profissional do Jornalista
+- Jornalista
 relationships:
 - type: amended_by
   target: pt:dre:483085:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:483085:por
+  label: "Alterados os nºs 5º, 6º e 7º, pela PORT.1259/2009.15.10.2009.PCM, DR.IS [200] de 15.10.2009\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/1259-2009-483085
+  date: '2009-10-15'
 - type: cites
   target: eli:http://data.dre.pt/eli/lei/1/1999/01/13/p/dre
   label: null
   source: http://data.dre.pt/eli/lei/1/1999/01/13/p/dre
+- type: cites
+  target: pt:dre:196219:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T14:14:53Z'
   warnings: []
   errors: []
 ---
@@ -127,9 +136,9 @@ c) Documento comprovativo de que exerce actividade jornalística em órgão de c
 
 8.º A cessação do exercício da actividade jornalística em órgão de comunicação social destinado às comunidades portuguesas no estrangeiro e aí sediado implica a caducidade do título de identificação, devendo o titular proceder a sua devolução à CCPJ.
 
-**Assinada em 13 de Abril de 1999.**
+Assinada em 13 de Abril de 1999.
 
-**O Secretário de Estado da Comunicação Social, Alberto Arons Braga de Carvalho. - O Secretário de Estado das Comunidades Portuguesas, José Manuel Lello Ribeiro de Almeida.**
+O Secretário de Estado da Comunicação Social, Alberto Arons Braga de Carvalho. - O Secretário de Estado das Comunidades Portuguesas, José Manuel Lello Ribeiro de Almeida.
 
 ## ANEXO I — Cartão de colaborador das comunidades
 

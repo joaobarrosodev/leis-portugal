@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/530/1999/07/22/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/530-1999-354571
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2007-09-17T00:00:00Z'
+  retrieved_at: '2026-10-23T14:16:03Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 5f16d22fbe6158fecca763561dce2cd7ce0ddfed1ab555af653a2c3f632de3a7
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 84ad0c43eefa85c55f1bd5e5ca438b7d480c5a4f545aa079e392037769105b48
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T14:16:03Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -74,6 +74,14 @@ relationships:
   target: pt:dre:640359:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:640359:por
+  label: "Transferida para a PERDICAMPO - Produção e Comercialização de Aves de Caça, Lda. a zona de caça atribuída pela Port\
+    \ 1240/97 de 18-Dez, com a alteração constante do presente diploma, pela PORT.1189/2007.17.09.2007.MADRP, DR.IS [179]\
+    \ de 17.09.2007, que renovou por doze anos a concessão da referida zona de caça e anexou vários prédios rústicos à mesma.\
+    \ \0 \0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/1189-2007-640359
+  date: '2007-09-17'
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/136/1996/08/14/p/dre
   label: null
@@ -82,16 +90,28 @@ relationships:
   target: eli:http://data.dre.pt/eli/port/1240/1997/12/18/p/dre
   label: null
   source: http://data.dre.pt/eli/port/1240/1997/12/18/p/dre
+- type: cites
+  target: pt:dre:219134:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:405765:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:420409:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T14:16:03Z'
   warnings: []
   errors: []
 ---

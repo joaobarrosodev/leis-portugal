@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/887/1999/10/11/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/887-1999-673583
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2001-05-10T00:00:00Z'
+  retrieved_at: '2026-10-23T14:18:24Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: c2a7980543ab4e551851b37040ecf970ef7e5209488469bb2f96d8a628488be2
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 2defc7d3df961eae1f8cf9fef504563130eebd38d23fd80b0a762378e36f87c9
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T14:18:24Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -68,31 +68,45 @@ reuse:
 subjects:
 - Administração Regional de Saúde de Lisboa e VALE do TEJO
 - Benavente
-- Criação de Lugares
 - Centro de Saúde
+- Criação de Lugares
+- Ministério da Saúde
 - Pessoal Auxiliar
 - Pessoal Religioso
 - Quadro de Pessoal
-- Ministério da Saúde
 relationships:
 - type: amended_by
   target: pt:dre:313818:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:313818:por
+  label: "Alterado o quadro de pessoal, aprovado pela Port 772-B/96, de 31-Dez, alterado pelo presente diploma, pela PORT.471/2001.2001.05.10.MF,\
+    \ DR.IS-B [108]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/471-2001-313818
+  date: '2001-05-10'
 - type: cites
   target: eli:http://data.dre.pt/eli/port/772-b/1996/12/31/p/dre
   label: null
   source: http://data.dre.pt/eli/port/772-b/1996/12/31/p/dre
+- type: cites
+  target: pt:dre:505986:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:622997:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T14:18:24Z'
   warnings: []
   errors: []
 ---

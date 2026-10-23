@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2000/07/170b00/35913591.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/512/2000/07/25/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/512-2000-311584
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2000-08-31T00:00:00Z'
+  retrieved_at: '2026-10-23T14:24:07Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 3853d677a5a1350e0fed924d2a1e18503e959d6be2d3b81b54c138c4a31c7290
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 8a4fc04c182c4c4cc95dcc8527186d23e932a0bb8f803e6ceaa9e5e8d0170fe9
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T14:24:07Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -65,8 +65,8 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Castanheira de PÊRA
 - CAÇA
+- Castanheira de PÊRA
 - Figueiró dos Vinhos
 - Serra da Lousa
 - ZONA de CAÇA
@@ -83,16 +83,29 @@ relationships:
   target: eli:http://data.dre.pt/eli/port/640-n/1994/07/15/p/dre
   label: null
   source: http://data.dre.pt/eli/port/640-n/1994/07/15/p/dre
+- type: cites
+  target: pt:dre:276402:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:405765:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:581065:por
+  label: "Revogada pela PORT.694/2000.2000.08.31.MADRP DR.IS-B [201]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/694-2000-581065
+  date: '2000-08-31'
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T14:24:07Z'
   warnings: []
   errors: []
 ---

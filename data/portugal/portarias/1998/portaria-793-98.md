@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/793/1998/09/22/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/793-1998-241659
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2007-08-10T00:00:00Z'
+  retrieved_at: '2026-10-23T14:11:11Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 6b2c17e91c63725232f144dd820cac05cb781030c4b4ca6b1601bf6c963c9376
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 7a542743fa97d5358786f68fa29de663655f410da8d9eed506c5ddbf372af337
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T14:11:11Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -74,6 +74,25 @@ relationships:
   target: pt:dre:637434:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:531776:por
+  label: "Anexados vários prédios rústicos à zona de caça associativa criada pela Port 874/95, de 14-Jul, DR.IS-B [161], na\
+    \ redacção do presente diploma, e da Port e 820/99, de 25-Set, pela PORT.1014/2000.2000.10.25.MADRP DR.IS-B [247]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/1014-2000-531776
+  date: '2000-10-25'
+- type: amended_by
+  target: pt:dre:689410:por
+  label: "Anexados vários prédios rústicos à zona de caça associativa criada pela Port 874/95 de 14-Jul, com a redacção do\
+    \ presente diploma, pela PORT.1267-D/2004.01.10.2004.MAPF, DR.IS-B [232-Supl] de 01.10.2004\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/1267-d-2004-689410
+  date: '2004-10-01'
+- type: amended_by
+  target: pt:dre:637434:por
+  label: "Anexados vários prédios rústicos e renovada por um período de 12 anos, com efeitos a partir de 15 de Julho de 2007,\
+    \ a concessão da zona de caça criada pela Portaria 874/95, de 14 de Julho, na redacção do presente diploma, pela PORT.890/2007.10.08.2007.MAOTDR,\
+    \ DR.IS [154] de 10.08.2007\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/890-2007-637434
+  date: '2007-08-10'
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/136/1996/08/14/p/dre
   label: null
@@ -82,16 +101,28 @@ relationships:
   target: eli:http://data.dre.pt/eli/port/874/1995/07/14/p/dre
   label: null
   source: http://data.dre.pt/eli/port/874/1995/07/14/p/dre
+- type: cites
+  target: pt:dre:219134:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:405765:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:460226:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T14:11:11Z'
   warnings: []
   errors: []
 ---
@@ -112,7 +143,7 @@ Manda o Governo, pelo Ministro da Agricultura, do Desenvolvimento Rural e das Pe
 
 Ministério da Agricultura, do Desenvolvimento Rural e das Pescas.
 
-**Assinada em 1 de Setembro de 1998.**
+Assinada em 1 de Setembro de 1998.
 
 Pelo Ministro da Agricultura, do Desenvolvimento Rural e das Pescas, Luís Manuel Capoulas Santos, Secretário de Estado da Agricultura e do Desenvolvimento Rural.
 

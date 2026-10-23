@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/864/2000/09/26/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/864-2000-560416
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2010-08-16T00:00:00Z'
+  retrieved_at: '2026-10-23T14:26:26Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 7dcc9d67a1d8bd06aa4ec6cc6de3a83e19b4720ea3cadea4387347735fd21fa2
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 3533457869226ca69f8ff6f79620d5d7da646d16bce5f72959e20ceecab312b1
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T14:26:26Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -74,6 +74,24 @@ relationships:
   target: pt:dre:343149:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:618171:por
+  label: "Anexados vários prédios rústicos à zona de caça associativa criada pela Port 606/95, de 19-Jun, alterada pelo presente\
+    \ diploma, pela PORT.1117/2004.08.09.2004.MAPF, DR.IS-B [212] de 08.09.2004\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/1117-2004-618171
+  date: '2004-09-08'
+- type: amended_by
+  target: pt:dre:594147:por
+  label: "Anexados vários prédios rústicos à zona de caça concessionada pela Port 606/95 de 19-Jun, alterada pelo presente\
+    \ diploma, pela PORT.1090/2005.21.10.2005.MADRP, DR.IS-B [203] de 21.10.2005\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/1090-2005-594147
+  date: '2005-10-21'
+- type: amended_by
+  target: pt:dre:343149:por
+  label: "Renovada por seis anos a concessão da zona de caça atribuída pela Port 606/95, de 19-Jun, alterada pelo presente\
+    \ diploma, pela PORT.698/2010.16.08.2010.MADRP, DR.IS [158] de 16.08.2010\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/698-2010-343149
+  date: '2010-08-16'
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/136/1996/08/14/p/dre
   label: null
@@ -82,16 +100,28 @@ relationships:
   target: eli:http://data.dre.pt/eli/port/589/2000/08/11/p/dre
   label: null
   source: http://data.dre.pt/eli/port/589/2000/08/11/p/dre
+- type: cites
+  target: pt:dre:219134:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:340261:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:405765:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T14:26:26Z'
   warnings: []
   errors: []
 ---

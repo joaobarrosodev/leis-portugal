@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/788/2000/09/19/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/788-2000-570306
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2006-11-27T00:00:00Z'
+  retrieved_at: '2026-10-23T14:25:54Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: e4a35249dbb35f5c216051a1e33890a0d62c6e00c28584871da0d6e899a2d084
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 6be3a375b7d9cf96f4c83385b536d5b86c40a4a9052154953d0c0f5e4a652a79
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T14:25:54Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -74,6 +74,19 @@ relationships:
   target: pt:dre:544987:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:617146:por
+  label: "Anexados vários prédios rústicos à zona de caca turística, pela PORT.1194/2004.16.09.2004.MAPF, DR.IS-B [219] de\
+    \ 16.09.2004\04\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/1194-2004-617146
+  date: '2004-09-16'
+- type: amended_by
+  target: pt:dre:544987:por
+  label: "Transferida para Manuela da Graça Teles Lopes Guerra a concessão da zona de caça atribuída no presente diploma,\
+    \ com as alterações constantes da Port 1194/2004, de 16-Set, pela PORT.1341/2006.27.11.2006.MADRP, DR.IS [228] de 27.11.2006\0\
+    \0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/1341-2006-544987
+  date: '2006-11-27'
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/136/1996/08/14/p/dre
   label: null
@@ -82,16 +95,36 @@ relationships:
   target: eli:http://data.dre.pt/eli/port/219-a/1991/03/18/p/dre
   label: null
   source: http://data.dre.pt/eli/port/219-a/1991/03/18/p/dre
+- type: cites
+  target: pt:dre:219134:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:354162:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:405765:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:619925:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:620697:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T14:25:54Z'
   warnings: []
   errors: []
 ---

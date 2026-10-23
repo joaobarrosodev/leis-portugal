@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/559/1999/07/27/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/559-1999-352952
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2003-07-30T00:00:00Z'
+  retrieved_at: '2026-10-23T14:16:13Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 62a469308e5726f3482d20e9944690d6e7d854af4f40c0f966b4ee53e2072be0
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 245c5d58e745940fb2f10ba53973a344f123b0309a0666a79f1cd08e5adf9c9e
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T14:16:13Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -65,9 +65,9 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Ministério da Agricultura Desenvolvimento Rural e Pescas
-- Direcção Geral das Florestas
 - Descrição de Funções
+- Direcção Geral das Florestas
+- Ministério da Agricultura Desenvolvimento Rural e Pescas
 - Pessoal Técnico Profissional
 - Quadro de Pessoal
 relationships:
@@ -75,20 +75,78 @@ relationships:
   target: pt:dre:2025288:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:3612963:por
+  label: "Alterado o quadro de pessoal pela PORT.288/2000(2ªSÉRIE).2000.02.08.MADRP DR.IIS [41]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/288-2000-3612963
+  date: '2000-02-08'
+- type: amended_by
+  target: pt:dre:2111810:por
+  label: "Alterado o quadro de pela PORT.658/2000(2ªSÉRIE).2000.03.30.MADRP\0P\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/658-2000-2111810
+  date: '2000-03-30'
+- type: amended_by
+  target: pt:dre:2111811:por
+  label: "Alterado o quadro de pessoal pela PORT.659/2000(2ªSÉRIE).2000.03.30.MADRP, DR.IIS [87] de 15/Abr/2000\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/659-2000-2111811
+  date: '2000-03-30'
+- type: amended_by
+  target: pt:dre:2638229:por
+  label: "Alterado o quadro de pessoal pela PORT.75/2001(2ªSÉRIE).2000.12.22.MADRP, DR.IIS [18] de 22/Jan/2001\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/75-2001-2638229
+  date: '2000-12-22'
+- type: amended_by
+  target: pt:dre:1945608:por
+  label: "Alterado o quadro de pessoal pela PORT.1469//2001(2ªSÉRIE).2001.08.07.MREAP, DR.IIS [207] de 06/09/2001\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/sem-diploma/2000-1945608
+  date: '2001-08-07'
+- type: amended_by
+  target: pt:dre:786252:por
+  label: "Alterado o quadro de pessoal pela PORT.1469/2001(2ªSÉRIE).2001.08.07.MADRP, DR.IIS [207] de 06/Set/2001\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/1469-2001-786252
+  date: '2001-08-07'
+- type: amended_by
+  target: pt:dre:2527560:por
+  label: "Alterado o quadro de pessoal pela PORT.377/2002(2ªSÉRIE).2002.02.08.MADRP DR.IIS [49] DE 27/FEV/2002\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/377-2002-2527560
+  date: '2002-02-08'
+- type: amended_by
+  target: pt:dre:1229097:por
+  label: "Alterada pela PORT.517/2002(2ªSÉRIE).2002.03.06.MADRP DR.IIS [69] DE 22/MAR/2002\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/517-2002-1229097
+  date: '2002-03-06'
+- type: amended_by
+  target: pt:dre:1212802:por
+  label: "ALTERADO O QUADRO DE PESSOAL PELA PORT.1573/2002(2ªSÉRIE).2002.09.27.MF, MADRP, DR.IIS [248] DE 26/OUT/2002\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/1573-2002-1212802
+  date: '2002-09-27'
+- type: amended_by
+  target: pt:dre:2025288:por
+  label: "Alterado o quadro de pessoal pela PORT.991/2003(2ªSÉRIE).2003.07.07.MF e MADRP, DR.IIS [174] de 30/Jul/2003. \0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/991-2003-2025288
+  date: '2003-07-30'
 - type: cites
   target: eli:http://data.dre.pt/eli/decregul/11/1997/04/30/p/dre
   label: null
   source: http://data.dre.pt/eli/decregul/11/1997/04/30/p/dre
+- type: cites
+  target: pt:dre:380349:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:619144:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T14:16:13Z'
   warnings: []
   errors: []
 ---
@@ -113,13 +171,13 @@ Pelo Ministro das Finanças, João Carlos da Costa Ferreira da Silva, Secretári
 
 MAPA I
 
-[(ver mapa no documento original)](https://files.diariodarepublica.pt/1s/1999/07/173b00/47154719.pdf)
+[[(ver mapa no documento original)](https://files.diariodarepublica.pt/1s/1999/07/173b00/47154719.pdf)](https://files.diariodarepublica.pt/1s/1999/07/173b00/47154719.pdf)
 
 MAPA II
 
 Carreiras e categorias a extinguir, nos termos do n.º 2 do artigo 2.º do [Decreto Regulamentar n.º 24/89](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/24-1989-619144), de 11 de Agosto
 
-[(ver mapa no documento original)](https://files.diariodarepublica.pt/1s/1999/07/173b00/47154719.pdf)
+[[(ver mapa no documento original)](https://files.diariodarepublica.pt/1s/1999/07/173b00/47154719.pdf)](https://files.diariodarepublica.pt/1s/1999/07/173b00/47154719.pdf)
 
 MAPA III
 

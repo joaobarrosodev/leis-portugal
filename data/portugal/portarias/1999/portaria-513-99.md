@@ -48,18 +48,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/513/1999/07/19/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/513-1999-355365
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1999-07-19T00:00:00Z'
+  retrieved_at: '2026-10-23T14:15:58Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: b169e13a6bc161e7b12069d5aafbd350bee9e35ffaec17575c62c0cd4ff340ea
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 374c7d834d79f1af55f8bdd79f33f476c7e57ecfce4379c3fbc6f43dc339fd3e
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T14:15:58Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -68,13 +68,13 @@ reuse:
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
 - Bacharelato
-- Plano de Estudos
+- Castelo Branco
 - Curso de Ensino Básico-1º Ciclo
+- Ensino Básico
 - Escola Superior de Educação
 - Instituto Politécnico
 - Licenciatura
-- Castelo Branco
-- Ensino Básico
+- Plano de Estudos
 relationships:
 - type: cites
   target: eli:http://data.dre.pt/eli/lei/115/1997/09/19/p/dre
@@ -88,16 +88,48 @@ relationships:
   target: eli:http://data.dre.pt/eli/port/680-c/1998/08/31/p/dre
   label: null
   source: http://data.dre.pt/eli/port/680-c/1998/08/31/p/dre
+- type: cites
+  target: pt:dre:222418:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:222426:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:273991:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:429593:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:453184:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:470779:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:556606:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:653145:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T14:15:58Z'
   warnings: []
   errors: []
 ---

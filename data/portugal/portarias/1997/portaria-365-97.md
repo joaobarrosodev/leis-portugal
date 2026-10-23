@@ -48,18 +48,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/365/1997/06/02/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/365-1997-351704
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1997-06-30T00:00:00Z'
+  retrieved_at: '2026-10-23T14:02:17Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 11b88801e26de1a9e9a5e8071f7022b4bdfbda8328262931484339f7f4be4ebf
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 0ded69ce5b7da1ed4f19e4d3457ca8a559d508e976af55e142b315af07168f01
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T14:02:17Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -82,16 +82,33 @@ relationships:
   target: eli:http://data.dre.pt/eli/port/1075/1991/10/23/p/dre
   label: null
   source: http://data.dre.pt/eli/port/1075/1991/10/23/p/dre
+- type: cites
+  target: pt:dre:344444:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:469585:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:557440:por
+  label: null
+  source: null
+- type: corrected_by
+  target: pt:dre:403285:por
+  label: "Rectificado o num 2 pela Decl-Rect.11-E/97.1997.06.30.PCM, DR.IS-B [148]-6ºSupli\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/declaracao-rectificacao/11-e-1997-403285
+  date: '1997-06-30'
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T14:02:17Z'
   warnings: []
   errors: []
 ---
@@ -116,20 +133,20 @@ Manda o Governo, pela Ministra da Saúde, ao abrigo do n.º 5 do artigo 28.º do
 
 Certificado de atribuição de medalhas a dadores de sangue
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1997/06/126b00/26692669.pdf))](https://files.diariodarepublica.pt/1s/1997/06/126b00/26692669.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1997/06/126b00/26692669.pdf)
 
 Ministério da Saúde
 
-**O Ministro da Saúde concede a... a medalha... de dador benévolo de sangue, nos termos do [Decreto-Lei n.º 294/90](https://diariodarepublica.pt/dr/detalhe/decreto-lei/294-1990-557440), de 21 de Setembro.**
+O Ministro da Saúde concede a... a medalha... de dador benévolo de sangue, nos termos do [Decreto-Lei n.º 294/90](https://diariodarepublica.pt/dr/detalhe/decreto-lei/294-1990-557440), de 21 de Setembro.
 
 ... de ... de ...
 
-**O Ministro da Saúde, ...**
+O Ministro da Saúde, ...
 
 O modelo de certificado de atribuição de medalhas a dadores tem as dimensões de 240 mm/355 mm, com esquadria inferior a negro, e em relevo, no medalhão central, o cunho da medalha do dador.»
 
 Ministério da Saúde.
 
-**Assinada em 30 de Abril de 1997.**
+Assinada em 30 de Abril de 1997.
 
-**A Ministra da Saúde, Maria de Belém Roseira Martins Coelho Henriques de Pina.**
+A Ministra da Saúde, Maria de Belém Roseira Martins Coelho Henriques de Pina.

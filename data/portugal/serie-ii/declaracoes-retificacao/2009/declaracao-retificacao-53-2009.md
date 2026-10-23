@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/2s/2009/01/007000000/0110201102.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -47,18 +47,18 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/declaracao-rectificacao/53-2009-790590
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2009-01-12T00:00:00Z'
+  retrieved_at: '2026-10-23T14:12:11Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 638dd09919a78ce672946b85816468448f82d2f7ab9fd93fb81463a928ade6bd
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 474711f41c862e0f1559126243c8b2b500e58eae630e318fb3b855e32f2e9aaa
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T14:12:11Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -70,13 +70,13 @@ relationships: []
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T14:12:11Z'
   warnings: []
   errors: []
 ---
@@ -92,3 +92,5 @@ Tendo sido publicado o aviso supra-referido e verificando-se inexactidão no seu
 Onde se lê "faz-se público que por despacho do Sr. Presidente do Conselho de Administração de 11 de Dezembro de 2008, foi deferido o posicionamento de José Carlos Sotto Mayor Gancho na categoria de Especialista de Informática do grau 3, nível - escalão 1" deve ler-se "faz-se público que por despacho do Sr. Presidente do Conselho de Administração de 11 de Dezembro de 2008, foi deferido o posicionamento de José Carlos Sotto Mayor Gancho na categoria de Especialista de Informática do grau 2, nível 2 - escalão 3".
 
 29 de Dezembro de 2008. - O Presidente do Conselho de Administração, Nuno Vitorino.
+
+301171076

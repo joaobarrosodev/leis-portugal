@@ -26,7 +26,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1998/10/245b00/55195524.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -48,18 +48,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/928/1998/10/23/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/928-1998-239978
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2005-06-29T00:00:00Z'
+  retrieved_at: '2026-10-23T14:12:01Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 0fcd5766b67723816c3b731acda2aed274be9c3fed49a5aef372d2249da2b88f
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 846ecded1b3a26a24ac00e242e065140f4cc5e3c2289984a2ed044b380e2c085
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T14:12:01Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,13 +67,13 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- ÓLEO Vegetal
+- Comércio
 - Controlo de Qualidade
+- Embalagem
 - Especificação Técnica
 - Etiquetagem
-- Embalagem
+- ÓLEO Vegetal
 - Proteção do Consumidor
-- Comércio
 relationships:
 - type: amended_by
   target: pt:dre:233719:por
@@ -87,16 +87,21 @@ relationships:
   target: eli:/application/external/tratado
   label: null
   source: /application/external/tratado
+- type: repealed_by
+  target: pt:dre:233719:por
+  label: "Revogada pelo DEC LEI.106/2005.29.06.2005.MADRP, DR.IS-A [123] de 29.06.2005\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/106-2005-233719
+  date: '2005-06-29'
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T14:12:01Z'
   warnings: []
   errors: []
 ---
@@ -497,9 +502,9 @@ O presente diploma entra imediatamente em vigor, sem prejuízo da comercializaç
 
 Presidência do Conselho de Ministros e Ministérios da Economia, da Agricultura, do Desenvolvimento Rural e das Pescas e da Saúde
 
-**Assinada em 3 de Julho de 1998.**
+Assinada em 3 de Julho de 1998.
 
-**O Ministro da Economia, Joaquim Augusto Nunes de Pina Moura. - Pelo Ministro da Agricultura, do Desenvolvimento Rural e das Pescas, Manuel Maria Cardoso Leal, Secretário de Estado da Produção Agro-Alimentar. - A Ministra da Saúde, Maria de Belém Roseira Martins Coelho Henriques de Pina. - O Ministro Adjunto do Primeiro-Ministro, José Sócrates Carvalho Pinto de Sousa.**
+O Ministro da Economia, Joaquim Augusto Nunes de Pina Moura. - Pelo Ministro da Agricultura, do Desenvolvimento Rural e das Pescas, Manuel Maria Cardoso Leal, Secretário de Estado da Produção Agro-Alimentar. - A Ministra da Saúde, Maria de Belém Roseira Martins Coelho Henriques de Pina. - O Ministro Adjunto do Primeiro-Ministro, José Sócrates Carvalho Pinto de Sousa.
 
 ## ANEXO I — Características gerais de qualidade
 
@@ -529,10 +534,10 @@ Composição em ácidos gordos
 
 (expressa em percentagem dos ácidos gordos totais)
 
-[(ver tabela no documento original)](https://files.diariodarepublica.pt/1s/1998/10/245b00/55195524.pdf)
+[[(ver tabela no documento original)](https://files.diariodarepublica.pt/1s/1998/10/245b00/55195524.pdf)](https://files.diariodarepublica.pt/1s/1998/10/245b00/55195524.pdf)
 
 TABELA N.º 2
 
 Características físicas e químicas
 
-[(ver tabela no documento original)](https://files.diariodarepublica.pt/1s/1998/10/245b00/55195524.pdf)
+[[(ver tabela no documento original)](https://files.diariodarepublica.pt/1s/1998/10/245b00/55195524.pdf)](https://files.diariodarepublica.pt/1s/1998/10/245b00/55195524.pdf)

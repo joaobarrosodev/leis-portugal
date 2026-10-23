@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/314/2000/05/31/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/314-2000-292886
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2010-01-07T00:00:00Z'
+  retrieved_at: '2026-10-23T14:22:46Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 9d09211f9be4832413247b2533dfe37c818033b25f27d7d123916639c7107f3a
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 6192397c3126660342cab312c5d065b932a684b69ef7fdf5fd28102c2506fadb
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T14:22:46Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -75,6 +75,26 @@ relationships:
   target: pt:dre:460193:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:378916:por
+  label: "Determina a suspensão do exercício da caça e de actividades de carácter venatório na zona de caça associativa das\
+    \ Gralheiras, concessionada pela Port 723/95, de 7-Jul, DR.IS-B [155], na redacção da presente Portaria, pela PORT.931/2001.2001.07.30.MADRP,\
+    \ DR.IS-B [175] de 2001/JUL/30\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/931-2001-378916
+  date: '2001-07-30'
+- type: amended_by
+  target: pt:dre:621350:por
+  label: "Renovada a concessão de zona de caça associativa atribuida pelo presente diploma,pela PORT.1181/2001.2001.10.12.MADRP,\
+    \ DR.IS-B [237]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/1181-2001-621350
+  date: '2001-10-12'
+- type: amended_by
+  target: pt:dre:460193:por
+  label: "Renovada, por um período de seis anos, a concessão da zona de caça associativa das Gralheiras e outras, atribuída\
+    \ pela Port 723/95, de 07-Jul, alterada pelo presente diploma, pela PORT.14/2010.07.01.2010.MADRP, DR.IS [4] de 07.01.2010\0\
+    \0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/14-2010-460193
+  date: '2010-01-07'
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/130/1996/08/13/p/dre
   label: null
@@ -83,16 +103,28 @@ relationships:
   target: eli:http://data.dre.pt/eli/port/723/1995/07/07/p/dre
   label: null
   source: http://data.dre.pt/eli/port/723/1995/07/07/p/dre
+- type: cites
+  target: pt:dre:219134:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:405475:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:464181:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T14:22:46Z'
   warnings: []
   errors: []
 ---

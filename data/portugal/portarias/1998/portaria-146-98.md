@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/146/1998/03/09/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/146-1998-219345
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2019-11-06T00:00:00Z'
+  retrieved_at: '2026-10-23T14:06:59Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: b844e80714bf638136169a8d1bb50a2d70da8b30b547fb27d4dc56bc017ce836
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: c161a7933f685d94b20ed36ca36dd2458fa8e9619bcc71bd5cfd8400e2017c1a
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T14:06:59Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,12 +66,12 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Médico
 - Carreira Médica
 - Carreira Médica Hospitalar
-- Formação Profissional
 - Ensino Médico
+- Formação Profissional
 - Internato Complementar
+- Médico
 - Programa
 - Qualificação Profissional
 - Regulamento
@@ -80,6 +80,24 @@ relationships:
   target: pt:dre:125902777:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:544438:por
+  label: "Atualizado o programa de formação da área profissional de especialização de Dermatovenereologia, pela PORT.22/2012.24.01.2012.MS,\
+    \ DR.IS [17] de 24.01.2012\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/22-2012-544438
+  date: '2012-01-24'
+- type: amended_by
+  target: pt:dre:191087:por
+  label: "Atualizado o programa de formação da área de especialização de Neurologia, pela PORT.376/2012.19.11.2012.MS, DR.IS\
+    \ [223] de 19.11.2012\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/376-2012-191087
+  date: '2012-11-19'
+- type: amended_by
+  target: pt:dre:125902777:por
+  label: Atualizado o programa formativo da área de especialização de Neurologia, aprovado pelo presente diploma, alterado
+    pela Port 376/2012 de 19-nov, pelo(a) Portaria n.º 393/2019 - Diário da República n.º 213/2019, Série I de 2019-11-06
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/393-2019-125902777
+  date: '2019-11-06'
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/128/1992/07/04/p/dre
   label: null
@@ -88,16 +106,24 @@ relationships:
   target: eli:http://data.dre.pt/eli/port/695/1995/06/30/p/dre
   label: null
   source: http://data.dre.pt/eli/port/695/1995/06/30/p/dre
+- type: cites
+  target: pt:dre:288258:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:476721:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T14:06:59Z'
   warnings: []
   errors: []
 ---
@@ -122,9 +148,9 @@ Manda o Governo, pela Ministra da Saúde, o seguinte:
 
 Ministério da Saúde.
 
-**Assinada em 12 de Janeiro de 1998.**
+Assinada em 12 de Janeiro de 1998.
 
-**A Ministra da Saúde, Maria de Belém Roseira Martins Coelho Henriques de Pina.**
+A Ministra da Saúde, Maria de Belém Roseira Martins Coelho Henriques de Pina.
 
 PROGRAMA DE FORMAÇÃO DO INTERNATO COMPLEMENTAR DE NEUROLOGIA
 

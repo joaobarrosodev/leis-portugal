@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/32/1998/01/19/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/32-1998-239456
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2002-10-22T00:00:00Z'
+  retrieved_at: '2026-10-23T14:08:05Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: b7586a8903ae8eecc099f573bd3299cfdd9a05f23d7c382483b00dddad1ab423
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 3786162e947b1e2e5311e4591e24fc45b694e2f49e4f9fcab024bcb8930bd8d8
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T14:08:05Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -65,9 +65,9 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
+- Hospital Geral de Santo António
 - Médico
 - Quadro de Pessoal
-- Hospital Geral de Santo António
 relationships:
 - type: amended_by
   target: pt:dre:432183:por
@@ -81,16 +81,28 @@ relationships:
   target: eli:http://data.dre.pt/eli/port/1082/1995/09/04/p/dre
   label: null
   source: http://data.dre.pt/eli/port/1082/1995/09/04/p/dre
+- type: cites
+  target: pt:dre:505986:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:546255:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:546272:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T14:08:05Z'
   warnings: []
   errors: []
 ---
@@ -113,7 +125,7 @@ Manda o Governo, pelos Ministros das Finanças, da Saúde e Adjunto, o seguinte:
 
 Presidência do Conselho de Ministros e Ministérios das Finanças e da Saúde.
 
-**Assinada em 21 de Novembro de 1997.**
+Assinada em 21 de Novembro de 1997.
 
 Pelo Ministro das Finanças, Maria Manuela de Brito Arcanjo Marques da Costa, Secretária de Estado do Orçamento. - Pela Ministra da Saúde, José Eduardo Arcos Gomes dos Reis, Secretário de Estado da Saúde. - Pelo Ministro Adjunto, Fausto de Sousa Correia, Secretário de Estado da Administração Pública.
 

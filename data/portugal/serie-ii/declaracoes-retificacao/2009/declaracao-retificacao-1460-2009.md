@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/2s/2009/06/111000000/2311923119.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -47,18 +47,18 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/declaracao-rectificacao/1460-2009-1181177
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2009-06-09T00:00:00Z'
+  retrieved_at: '2026-10-23T14:01:17Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 540bfcbddb2d5b975ba2be6b8567bbe3dc2218dffe1da6cfc9011a644f21a60d
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 1a325b4c0a5ede0b58ce3d6537a5b32cd775718b9096c5d4e77c83da5c461b7e
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T14:01:17Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -70,13 +70,13 @@ relationships: []
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T14:01:17Z'
   warnings: []
   errors: []
 ---
@@ -88,3 +88,5 @@ Declaração de rectificação n.º 1460/2009
 No Diário da República, 2.ª série - n.º 88 de 7 de Maio de 2009, foi publicado com inexatidão o despacho n.º 11278/2009, relativo ao despacho de aprovação de modelo da empresa Soltrafego, onde faltou mencionar o título do despacho «Despacho de aprovação de modelo n.º 301.22.09.3.14»
 
 28 de Maio de 2009. - O Presidente do Conselho Directivo, J. Marques dos Santos.
+
+301877568

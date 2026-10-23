@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/951/2000/10/04/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/951-2000-544810
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2001-10-17T00:00:00Z'
+  retrieved_at: '2026-10-23T14:27:01Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 3b263771d0baf3205249fc8968e7356b0a1992b5dee05e673b0ab0c3d34481d2
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: d48343c2416d76b76c77555ebbe3e4f0e6900f67fcad618099be2fd43b499104
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T14:27:01Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,19 +67,25 @@ reuse:
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
 - Bacharelato
-- Plano de Estudos
+- Bragança
 - Curso de Engenharia do Ambiente e do Território
+- Ensino Superior
 - Ensino Superior Politécnico
 - Escola Superior Agrária
 - Instituto Politécnico
 - Licenciatura
-- Ensino Superior
-- Bragança
+- Plano de Estudos
 relationships:
 - type: amended_by
   target: pt:dre:626247:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:348548:por
+  label: "Desdobrados em vários ramos o 2º ciclo de alguns cursos bietápicos criados pela Port 495/99 de 12-Jul e cujo plano\
+    \ de estudos foi aprovado pelo presente diploma, pela PORT.694/2001.2001.07.10.ME,DR.IS-B [158]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/694-2001-348548
+  date: '2001-07-10'
 - type: cites
   target: eli:http://data.dre.pt/eli/lei/115/1997/09/19/p/dre
   label: null
@@ -100,16 +106,48 @@ relationships:
   target: eli:http://data.dre.pt/eli/port/533-a/1999/07/22/p/dre
   label: null
   source: http://data.dre.pt/eli/port/533-a/1999/07/22/p/dre
+- type: cites
+  target: pt:dre:147873:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:222418:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:368775:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:413795:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:429596:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:453184:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:556606:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:653145:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T14:27:01Z'
   warnings: []
   errors: []
 ---

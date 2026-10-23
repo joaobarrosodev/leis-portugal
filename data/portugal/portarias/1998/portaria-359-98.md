@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1998/06/145b00/28562856.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/359/1998/06/26/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/359-1998-479400
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2013-04-19T00:00:00Z'
+  retrieved_at: '2026-10-23T14:08:24Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: b32fcc3acc31333727cb085b79d433d8bce9a9f3c3f183802c8872bda7046a26
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 36aefbf53b1f725ee6db014f123244e4aa18c04a8a3674b776c84cee424a404c
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T14:08:24Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,19 +67,26 @@ reuse:
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
 - Centro de ÁREA Educativa
-- Pessoal Dirigente
 - Criação de Serviços
 - Direcção Regional de Educação do Norte
-- Gestão Escolar
-- Estabelecimento de Ensino
 - Ensino Básico
-- Remuneração
+- Estabelecimento de Ensino
+- Gestão Escolar
+- Pessoal Dirigente
 - Porto
+- Remuneração
 relationships:
 - type: amended_by
   target: pt:dre:146690:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:146690:por
+  label: "Extintos os quadros de zona pedagógica estabelecidos pela Port 79-B/94 de 04-fev e revogado a partir de 20.04.2013\
+    \ aquele diploma, com as alterações constantes do presente, pela PORT.156-B/2013.19.04.2013.MF, DR.IS [77-Supl] de 19.04.2013\
+    \ \0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/156-b-2013-146690
+  date: '2013-04-19'
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/141/1993/04/26/p/dre
   label: null
@@ -92,16 +99,28 @@ relationships:
   target: eli:http://data.dre.pt/eli/port/79-b/1994/02/04/p/dre
   label: null
   source: http://data.dre.pt/eli/port/79-b/1994/02/04/p/dre
+- type: cites
+  target: pt:dre:463593:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:501598:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:665341:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T14:08:24Z'
   warnings: []
   errors: []
 ---
@@ -128,7 +147,7 @@ Manda o Governo, pelos Ministros das Finanças e da Educação, o seguinte:
 
 Ministérios das Finanças e da Educação.
 
-**Assinada em 20 de Maio de 1998.**
+Assinada em 20 de Maio de 1998.
 
 Pelo Ministro das Finanças, João Carlos da Costa Ferreira da Silva, Secretário de Estado do Orçamento. - O Ministro da Educação, Eduardo Carrega Marçal Grilo.
 

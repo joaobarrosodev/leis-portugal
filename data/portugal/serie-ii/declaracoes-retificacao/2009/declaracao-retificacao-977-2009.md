@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/2s/2009/04/065000000/1292312923.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -46,18 +46,18 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/declaracao-rectificacao/977-2009-1152560
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2009-04-02T00:00:00Z'
+  retrieved_at: '2026-10-23T14:14:52Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: e5d723671bb1903a480615062f945ea8cb44f7bf44627d995837eef422bf499a
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 080aa9c8b45b55fc1b233728ad52bc84faa9816427560b0a982f422542cddf8f
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T14:14:52Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -69,13 +69,13 @@ relationships: []
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T14:14:52Z'
   warnings: []
   errors: []
 ---
@@ -95,3 +95,5 @@ Por ter saído com inexactidão no Diário da República n.º 237 - 2.ª série 
 "...Diogo Gouveia Pinto Antunes Cabrita, ssistente de Cirurgia Geral do quadro de pessoal do Centro Hospitalar de Coimbra, E.P.E., autorizada a licença sem vencimento por um ano, com efeitos a 24 de Novembro de 2008".
 
 20 de Março de 2009. - O Director do Serviço de Gestão de Recursos Humanos, Jorge Teixeira.
+
+201569565

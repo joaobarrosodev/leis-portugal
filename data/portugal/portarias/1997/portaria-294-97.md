@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/294/1997/05/02/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/294-1997-382192
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2006-11-23T00:00:00Z'
+  retrieved_at: '2026-10-23T14:01:52Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: c1c701f768c76f6fe28173df482ee25179d54eeccf5df7793da2751b0963d239
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 8b8a00d2194692f7d9a31f5353536f2a0e4339abc13c11429439ed2e31f6c3c6
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T14:01:52Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -65,28 +65,75 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
+- Ensino Profissional
 - Formação Profissional
 - Plano de Estudos
-- Ensino Profissional
 relationships:
 - type: amended_by
   target: pt:dre:545023:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:147625:por
+  label: "Extinto o curso profissional de Técnico de Construção Civil (especificações), criado pelo presente diploma e revogado\
+    \ parcialmente na parte referente ao citado curso, pela PORT.888/2005.26.09.2005.ME, DR.IS-B [185] de 26.09.2005, sem\
+    \ prejuízo do disposto no nº 9º\0º\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/888-2005-147625
+  date: '2005-09-26'
+- type: amended_by
+  target: pt:dre:147627:por
+  label: "Extinto o curso profissional de Técnico de Instalações Eléctricas, criado pelo presente diploma, revogado parcialmente\
+    \ no que àquele curso de refere, pela PORT.890/2005.26.09.2005.ME, DR.IS-B [185] de 26.09.2005, sem prejuízo do disposto\
+    \ no nº. 8\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/890-2005-147627
+  date: '2005-09-26'
+- type: amended_by
+  target: pt:dre:147652:por
+  label: "Extinto o curso profissional de Técnico de Electrotecnia, criado pelo presente diploma e revogado parcialmente na\
+    \ parte referente ao citado curso, pela PORT.917/2005.26.09.2005.ME, DR.IS-B [185] de 26.09.2005, sem prejuízo do disposto\
+    \ no n.º 8.º\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/917-2005-147652
+  date: '2005-09-26'
+- type: amended_by
+  target: pt:dre:147658:por
+  label: "Extinto o curso profissional de Técnico de Gestão (especificações), criado pelo presente diploma e revogado parcialmente\
+    \ na parte referente ao citado curso, pela PORT.899/2005.26.09.2005.ME, DR.IS-B [185] de 26.09.2005, sem prejuízo do disposto\
+    \ no n.º 9.º\0º\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/899-2005-147658
+  date: '2005-09-26'
+- type: amended_by
+  target: pt:dre:545023:por
+  label: "Extintos, nos termos do nº 6º, os cursos profissionais de técnico de transportes (planos A e B) criados pelo presente\
+    \ diploma e revogado (o presente diploma) no que àqueles cursos se refere, pela PORT.1307/2006.23.11.2006.ME, DR.IS [226]\
+    \ de 23.11.2006\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/1307-2006-545023
+  date: '2006-11-23'
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/70/1993/03/10/p/dre
   label: null
   source: http://data.dre.pt/eli/dec-lei/70/1993/03/10/p/dre
+- type: cites
+  target: pt:dre:222418:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:609609:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:628044:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T14:01:52Z'
   warnings: []
   errors: []
 ---
@@ -153,21 +200,21 @@ c) Recursos Humanos.
 
 Ministérios da Educação e para a Qualificação e o Emprego.
 
-**Assinada em 8 de Abril de 1997.**
+Assinada em 8 de Abril de 1997.
 
-**O Ministro da Educação, Eduardo Carrega Marçal Grilo. - A Ministra para a Qualificação e o Emprego, Maria João Fernandes Rodrigues.**
+O Ministro da Educação, Eduardo Carrega Marçal Grilo. - A Ministra para a Qualificação e o Emprego, Maria João Fernandes Rodrigues.
 
 Curso de Ofícios do Espectáculo
 
 Plano curricular
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1997/05/101b00/20362039.pdf))](https://files.diariodarepublica.pt/1s/1997/05/101b00/20362039.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1997/05/101b00/20362039.pdf)
 
 Curso de Técnico de Construção Civil (especificações) (ver nota a)
 
 Plano curricular
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1997/05/101b00/20362039.pdf))](https://files.diariodarepublica.pt/1s/1997/05/101b00/20362039.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1997/05/101b00/20362039.pdf)
 
 (nota a) Quatro especificações: Desenhador, Condutor de Obra, Medidor-Orçamentista e Topógrafo.
 
@@ -175,7 +222,7 @@ Curso de Técnico de Gestão (especificações) (ver nota a)
 
 Plano curricular
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1997/05/101b00/20362039.pdf))](https://files.diariodarepublica.pt/1s/1997/05/101b00/20362039.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1997/05/101b00/20362039.pdf)
 
 (nota a) Pequenas e Médias Empresas e Cooperativas, Planeamento e Racionalização da Produção, Recursos Humanos.
 
@@ -183,22 +230,22 @@ Curso de Técnico de Transportes
 
 Plano curricular
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1997/05/101b00/20362039.pdf))](https://files.diariodarepublica.pt/1s/1997/05/101b00/20362039.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1997/05/101b00/20362039.pdf)
 
 Curso de Técnico de Transportes
 
 Plano curricular
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1997/05/101b00/20362039.pdf))](https://files.diariodarepublica.pt/1s/1997/05/101b00/20362039.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1997/05/101b00/20362039.pdf)
 
 Curso de Técnico de Instalações Eléctricas
 
 Plano curricular
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1997/05/101b00/20362039.pdf))](https://files.diariodarepublica.pt/1s/1997/05/101b00/20362039.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1997/05/101b00/20362039.pdf)
 
 Curso de Técnico de Electrotecnia
 
 Plano curricular
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1997/05/101b00/20362039.pdf))](https://files.diariodarepublica.pt/1s/1997/05/101b00/20362039.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1997/05/101b00/20362039.pdf)

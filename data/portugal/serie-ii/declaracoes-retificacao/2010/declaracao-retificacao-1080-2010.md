@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/2s/2010/06/108000000/3105731057.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -46,18 +46,18 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/declaracao-rectificacao/1080-2010-2356954
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2010-06-04T00:00:00Z'
+  retrieved_at: '2026-10-23T14:15:28Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 03ad012acd9d76014a3a6a4c7c7a270ae379a7fa4c752f53011cca9531427695
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 3015d5ec476af938540f571d14737518e7acfb900bc237bfbbe723f07d62d7df
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T14:15:28Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -69,13 +69,13 @@ relationships: []
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T14:15:28Z'
   warnings: []
   errors: []
 ---
@@ -87,3 +87,5 @@ Declaração de rectificação n.º 1080/2010
 Para os devidos efeitos, rectifica-se que, no anúncio n.º 3365/2010, publicado no Diário da República, 2.ª série, n.º 72, de 14 de Abril de 2010, desta autarquia, onde se lê «Ref. A) 1 posto de trabalho na categoria de técnico superior (direito); Ref. B) 1 posto de trabalho na categoria de técnico superior (electromecânico); Ref. C) 5 postos de trabalho na categoria de assistente operacional (sapador florestal); Ref. D) 1 posto de trabalho na categoria de encarregado operacional» deve ler-se «Ref. A) 1 posto de trabalho na categoria de técnico superior (direito); Ref. B) 1 posto de trabalho na categoria de técnico superior (electromecânico); Ref. C) 5 postos de trabalho na categoria de assistente operacional (sapador florestal».
 
 14 de Abril de 2010. - O Vereador com Competências Delegadas, Paulo Caetano Abrantes Jorge.
+
+303321626

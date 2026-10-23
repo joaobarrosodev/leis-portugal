@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/2s/2009/12/250000000/5246952471.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -47,18 +47,18 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/declaracao-rectificacao/3094-2009-3474319
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2009-12-29T00:00:00Z'
+  retrieved_at: '2026-10-23T14:10:51Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: ac6492d6c6241c1d09f0b033026fa6461b4f4981b4ca18b26bac5618638f89bd
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: a715a1f1ae871806e9c87839ea140cbbd3272b62c247f38acda91b8d251f4187
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T14:10:51Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,22 +66,30 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects: []
-relationships: []
+relationships:
+- type: cites
+  target: pt:dre:456200:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:671387:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T14:10:51Z'
   warnings: []
   errors: []
 ---
 
-# Declaração de Rectificação n.º 3094/2009
+# Declaração de rectificação n.º 3094/2009
 
 Por ter sido publicado com inexactidão o despacho n.º 19906/2009, publicado no Diário da República, 2.ª série, n.º 169, de 1 de Setembro, que autoriza o funcionamento do ciclo de estudos conducente ao grau de mestre na especialidade de Enfermagem de Saúde Infantil e Pediatria na Escola Superior de Enfermagem de Coimbra, republica-se a estrutura e plano de estudos, nos termos do anexo à presente declaração de rectificação.
 
@@ -105,7 +113,7 @@ Por ter sido publicado com inexactidão o despacho n.º 19906/2009, publicado no
 
 8 - Áreas científicas e créditos que devem ser reunidos para a obtenção do grau ou diploma:
 
-[([ver documento original](https://files.diariodarepublica.pt/2s/2009/12/250000000/5246952471.pdf))](https://files.diariodarepublica.pt/2s/2009/12/250000000/5246952471.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/2s/2009/12/250000000/5246952471.pdf)
 
 9 - Plano de estudos:
 
@@ -119,19 +127,19 @@ Grau: mestre
 
 1.º ano/1.º semestre
 
-[([ver documento original](https://files.diariodarepublica.pt/2s/2009/12/250000000/5246952471.pdf))](https://files.diariodarepublica.pt/2s/2009/12/250000000/5246952471.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/2s/2009/12/250000000/5246952471.pdf)
 
 1.º ano/2.º semestre
 
-[([ver documento original](https://files.diariodarepublica.pt/2s/2009/12/250000000/5246952471.pdf))](https://files.diariodarepublica.pt/2s/2009/12/250000000/5246952471.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/2s/2009/12/250000000/5246952471.pdf)
 
 2.º ano/3.º semestre
 
-[([ver documento original](https://files.diariodarepublica.pt/2s/2009/12/250000000/5246952471.pdf))](https://files.diariodarepublica.pt/2s/2009/12/250000000/5246952471.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/2s/2009/12/250000000/5246952471.pdf)
 
 2.º ano/4.º semestre
 
-[([ver documento original](https://files.diariodarepublica.pt/2s/2009/12/250000000/5246952471.pdf))](https://files.diariodarepublica.pt/2s/2009/12/250000000/5246952471.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/2s/2009/12/250000000/5246952471.pdf)
 
 Notas
 
@@ -146,3 +154,5 @@ Os três primeiros semestres do curso correspondem ao desenvolvimento das compet
 3.º semestre - 13 semanas de teoria e estágios integrados e 7 semanas para projecto de investigação com avaliação.
 
 4.º semestre - 18 semanas para elaboração, apresentação e discussão da dissertação.
+
+202705898

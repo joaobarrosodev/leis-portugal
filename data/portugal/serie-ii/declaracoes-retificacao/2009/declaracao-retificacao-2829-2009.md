@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/2s/2009/11/222000000/4640046404.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -47,18 +47,18 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/declaracao-rectificacao/2829-2009-2791337
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2009-11-16T00:00:00Z'
+  retrieved_at: '2026-10-23T14:09:20Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 1c735219ce718647dd0c35c3c0f58707063d7c75c74263d7d24009c23527e785
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: a1eab35252298187f2ae06271d8dfde4ba0756a8de55d1f7eb207376d3d6020f
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T14:09:20Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -70,13 +70,13 @@ relationships: []
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T14:09:20Z'
   warnings: []
   errors: []
 ---
@@ -93,4 +93,6 @@ Por ter saído com inexactidão o anexo ao aviso n.º 13 000-C/2009, publicado n
 
 Postos de trabalho a preencher
 
-[([ver documento original](https://files.diariodarepublica.pt/2s/2009/11/222000000/4640046404.pdf))](https://files.diariodarepublica.pt/2s/2009/11/222000000/4640046404.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/2s/2009/11/222000000/4640046404.pdf)
+
+202149354

@@ -26,7 +26,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/2s/2010/09/179000000/4703947041.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -48,18 +48,18 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/declaracao-rectificacao/1880-2010-1316880
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2010-09-14T00:00:00Z'
+  retrieved_at: '2026-10-23T14:20:15Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 7cff32c13f81ccd5cd3cd42730ce1fe991544004923354c8f971b2e10d644aad
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 6182fee438d88964416471f320582563aaef85647efdf989c0509e94e1698825
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T14:20:15Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -71,13 +71,13 @@ relationships: []
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T14:20:15Z'
   warnings: []
   errors: []
 ---
@@ -96,4 +96,6 @@ Face ao que antecede, o prazo de abertura do procedimento concursal a que respei
 
 ## ANEXO 1 — Grelha de avaliação curricular
 
-[([ver documento original](https://files.diariodarepublica.pt/2s/2010/09/179000000/4703947041.pdf))](https://files.diariodarepublica.pt/2s/2010/09/179000000/4703947041.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/2s/2010/09/179000000/4703947041.pdf)
+
+203672105

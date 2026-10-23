@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/907/1997/09/11/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/907-1997-650094
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2002-09-20T00:00:00Z'
+  retrieved_at: '2026-10-23T14:05:44Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: a3671f21c6706fb919b3faba50d15f9d0ca5f0dcee88ad3cca9c513044f9ac22
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 367a87022d1f356e7161030c8b2fae33a7bb285fb25eb9354e744d5979e2cc21
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T14:05:44Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -73,6 +73,12 @@ relationships:
   target: pt:dre:634945:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:634945:por
+  label: "Renovada, por um período de 12 anos a concessão da zona de caça criada pela Port 634/92, de 03-Jul, alterada pela\
+    \ Port 799/94, de 09-Set e pelo presente diploma, pela PORT.1283/2002.2002.09.20.MADRP, DR.IS-B [218] \0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/1283-2002-634945
+  date: '2002-09-20'
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/251/1992/11/12/p/dre
   label: null
@@ -85,16 +91,36 @@ relationships:
   target: eli:http://data.dre.pt/eli/port/799/1994/09/09/p/dre
   label: null
   source: http://data.dre.pt/eli/port/799/1994/09/09/p/dre
+- type: cites
+  target: pt:dre:288188:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:417646:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:455890:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:584874:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:656801:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T14:05:44Z'
   warnings: []
   errors: []
 ---
@@ -127,8 +153,8 @@ Manda o Governo, pelo Ministro da Agricultura, do Desenvolvimento Rural e das Pe
 
 Ministério da Agricultura, do Desenvolvimento Rural e das Pescas.
 
-**Assinada em 8 de Agosto de 1997.**
+Assinada em 8 de Agosto de 1997.
 
 Pelo Ministro da Agricultura, do Desenvolvimento Rural e das Pescas, Luís Manuel Capoulas Santos, Secretário de Estado da Agricultura e do Desenvolvimento Rural.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1997/09/210b00/48424842.pdf))](https://files.diariodarepublica.pt/1s/1997/09/210b00/48424842.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1997/09/210b00/48424842.pdf)

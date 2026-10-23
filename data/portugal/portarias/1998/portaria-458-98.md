@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/458/1998/07/30/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/458-1998-429826
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2003-04-04T00:00:00Z'
+  retrieved_at: '2026-10-23T14:09:10Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 8520b4a06f5e7d18c5d0d8de5dac9cf7207e4b6b11be93639d9c87d5446b57ef
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 3152325728db0e7e0cc5093da38c2319b1f9aff4774c4557e4399f775b25254e
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T14:09:10Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -65,9 +65,9 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Pessoal Dirigente
 - Direcção Geral de Informática e Apoio aos Serviços Tributários e Aduaneiros
 - Pessoal de Informática
+- Pessoal Dirigente
 - Pessoal Técnico Superior
 - Quadro de Pessoal
 relationships:
@@ -75,20 +75,39 @@ relationships:
   target: pt:dre:2292317:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:2292315:por
+  label: "Alterado o quadro de pessoal por PORT.434/2003(2ªSÉRIE).2003.03.06.SEAF-MF, DR.IIS [80] de 4/Abr/2003\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/434-2003-2292315
+  date: '2003-04-04'
+- type: amended_by
+  target: pt:dre:2292316:por
+  label: "Alterado o quadro de pessoal por PORT.435/2003(2ªSÉRIE).2003.03.06.SEAF-MF, DR.IIS [80] de 4/Abr/2003.\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/435-2003-2292316
+  date: '2003-04-04'
+- type: amended_by
+  target: pt:dre:2292317:por
+  label: "Alterado o quadro de pessoal por PORT.436/2003(2ªSÉRIE).2003.03.06.SEAF-MF, DR.IIS [80] de 4/Abr/2003.\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/436-2003-2292317
+  date: '2003-04-04'
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/51/1998/03/11/p/dre
   label: null
   source: http://data.dre.pt/eli/dec-lei/51/1998/03/11/p/dre
+- type: cites
+  target: pt:dre:218950:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T14:09:10Z'
   warnings: []
   errors: []
 ---
@@ -107,9 +126,9 @@ Manda o Governo, pelos Ministros das Finanças e Adjunto, ao abrigo do disposto 
 
 Presidência do Conselho de Ministros e Ministério das Finanças.
 
-**Assinada em 15 de Julho de 1998.**
+Assinada em 15 de Julho de 1998.
 
-**O Ministro das Finanças, António Luciano Pacheco de Sousa Franco. - Pelo Ministro Adjunto, Fausto de Sousa Corrreia, Secretário de Estado da Administração Pública e Modernização Administrativa.**
+O Ministro das Finanças, António Luciano Pacheco de Sousa Franco. - Pelo Ministro Adjunto, Fausto de Sousa Corrreia, Secretário de Estado da Administração Pública e Modernização Administrativa.
 
 MAPA
 

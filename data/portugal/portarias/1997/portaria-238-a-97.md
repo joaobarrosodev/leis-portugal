@@ -20,12 +20,12 @@ publication:
   reference: Diário da República n.º 79/1997, 2º Suplemento, Série I-B de 1997-04-04
   number: '79'
   series: I
-  supplement: 2º Suplemento
+  supplement: null
   pages: 1548-(10) a 1548-(11)
   pdf_url: https://files.diariodarepublica.pt/1s/1997/04/079b02/00100011.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/238-a/1997/04/04/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/238-a-1997-479665
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2002-03-02T00:00:00Z'
+  retrieved_at: '2026-10-23T14:01:27Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 2f1d66387859445ad0125b568e268baaaf1e72bf4009b718a57565a8ebd9988d
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 1d0d70737fb7ee98a9d8fc90e812eb45f1cbbcb8e315753002b034ca2c946973
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T14:01:27Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,32 +66,92 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Pilotagem
-- Pessoal do MAR
 - Licença de Pilotagem
+- Navegação Marítima
+- Pessoal do MAR
+- Pilotagem
+- Portos
 - Regulamento do Serviço de Pilotagem dos Portos e Barras
 - Serviço de Pilotagem dos Portos e Barras
-- Portos
-- Navegação Marítima
 relationships:
 - type: amended_by
   target: pt:dre:251980:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:352148:por
+  label: "Prorrogado por mais 90 dias os feitos do presente diploma pela Port.359/97.1997.05.31.MDN, DR.IS-B [125] \0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/359-1997-352148
+  date: '1997-05-31'
+- type: amended_by
+  target: pt:dre:194604:por
+  label: "Prorrogado, por mais 90 dias os efeitos do presente diploma, pela PORT.745/97.1997.08.28.MDN, DR.IS-B [198]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/745-1997-194604
+  date: '1997-08-28'
+- type: amended_by
+  target: pt:dre:239993:por
+  label: "Prorrogados os efeitos, por mais 90 dias, do presente diploma pela PORT 27/98.1998.01.14.MDN e MEPAT,DR.IS-B [11]\0\
+    \0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/27-1998-239993
+  date: '1998-01-14'
+- type: amended_by
+  target: pt:dre:373799:por
+  label: "Prorrogado por mais 90 dias os efeitos do presente diploma pela PORT.297-B/98.1998.05.14.MDN, DR.IS-B [111]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/297-b-1998-373799
+  date: '1998-05-14'
+- type: amended_by
+  target: pt:dre:423889:por
+  label: "Alterada a al. b) do nº 1 do nº 2 e a al. b) do nº 1 do nº 4 pela PORT.409/98.1998.07.14.MDN, DR.IS-B [160]e\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/409-1998-423889
+  date: '1998-07-14'
+- type: amended_by
+  target: pt:dre:244892:por
+  label: "Prorrogado por mais 90 dias os efeitos do presente diploma, pela PORT.836/98.1998.09.30.MDN, DR.IS-B [226]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/836-1998-244892
+  date: '1998-09-30'
+- type: amended_by
+  target: pt:dre:490454:por
+  label: "Alterada a al. b) do n.º 1 do n.º 2, na redacção dada pela Port 409/98, de 14-Jul; prorrogado por mais 90 dias os\
+    \ efeitos da citada Port, pela PORT.16/99.1999.01.09.MDN DR.IS-B [7]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/16-1999-490454
+  date: '1999-01-09'
+- type: amended_by
+  target: pt:dre:334164:por
+  label: "Prorrogados, por mais 90 dias, os efeitos do presente diploma pela PORT.306/99.1999.05.05.MDN,DR.IS-B [104]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/306-1999-334164
+  date: '1999-05-05'
 - type: cites
   target: eli:http://data.dre.pt/eli/port/930-a/1991/09/10/p/dre
   label: null
   source: http://data.dre.pt/eli/port/930-a/1991/09/10/p/dre
+- type: cites
+  target: pt:dre:272845:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:610762:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:610768:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:251980:por
+  label: "Revogada com as alterações introduzidas pelas Port 409/98 de 14-Jun e 16/99 de 09-Jan, pelo DEC LEI.48/2002.2002.03.02.MES\
+    \ DR.IS-A [52]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/48-2002-251980
+  date: '2002-03-02'
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T14:01:27Z'
   warnings: []
   errors: []
 ---
@@ -150,6 +210,6 @@ c) Possuam os conhecimentos de língua portuguesa necessários à condução e m
 
 Ministérios da Defesa Nacional e do Equipamento, do Planeamento e da Administração do Território.
 
-**Assinada em 4 de Abril de 1997.**
+Assinada em 4 de Abril de 1997.
 
-**O Ministro da Defesa Nacional, António Manuel de Carvalho Ferreira Vitorino. - O Ministro do Equipamento, do Planeamento e da Administração do Território, João Cardona Gomes Cravinho.**
+O Ministro da Defesa Nacional, António Manuel de Carvalho Ferreira Vitorino. - O Ministro do Equipamento, do Planeamento e da Administração do Território, João Cardona Gomes Cravinho.

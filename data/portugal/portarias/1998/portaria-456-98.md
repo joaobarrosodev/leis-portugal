@@ -48,18 +48,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/456/1998/07/29/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/456-1998-430394
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1998-07-29T00:00:00Z'
+  retrieved_at: '2026-10-23T14:09:05Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: e3334f48cc19ece3286dbe44e9f1582de9e43bda35315f85275ad75e0cb0416f
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: e00ef7fff3a6e05e7cc065afe25b1de50661d9c41efdd6bbcefa0264241a1005
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T14:09:05Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,24 +67,24 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Financiamento
 - Centro de Emprego
-- Formação Profissional
-- Prémio de Colocação
+- Criação de Emprego
+- Desemprego
 - Desemprego de Longa Duração
 - Desenvolvimento Regional
-- FAFE
-- Indústria Têxtil
-- Guimarães
-- Iniciativa Local de Emprego
-- Criação de Emprego
-- VALE do AVE
-- Desemprego
 - Estágio de Formação
+- FAFE
+- Financiamento
+- Formação Profissional
+- Guimarães
+- Indústria Têxtil
+- Iniciativa Local de Emprego
 - Política de Emprego
+- Prémio de Colocação
 - Reconversão Profissional
 - Reestruturação de Empresas
 - Santo Tirso
+- VALE do AVE
 - VILA NOVA de Famalicão
 relationships:
 - type: cites
@@ -127,16 +127,60 @@ relationships:
   target: eli:http://data.dre.pt/eli/resolconsmin/6/1997/01/15/p/dre
   label: null
   source: http://data.dre.pt/eli/resolconsmin/6/1997/01/15/p/dre
+- type: cites
+  target: pt:dre:173696:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:197304:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:228837:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:230359:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:289057:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:303621:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:426906:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:532670:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:570304:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:570977:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:680634:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 5
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T14:09:05Z'
   warnings: []
   errors: []
 ---
@@ -391,6 +435,6 @@ As medidas previstas na presente portaria produzem efeitos a partir de 1 de Julh
 
 Ministério do Trabalho e da Solidariedade.
 
-**Assinada em 30 de Junho de 1998.**
+Assinada em 30 de Junho de 1998.
 
 Pelo Ministro do Trabalho e da Solidariedade, Paulo José Fernandes Pedroso, Secretário de Estado do Emprego e Formação.

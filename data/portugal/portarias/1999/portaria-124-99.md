@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/124/1999/02/17/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/124-1999-158595
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2008-07-29T00:00:00Z'
+  retrieved_at: '2026-10-23T14:13:27Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 3de9d8513252db6fa2fae23fcd0aca2bec0708e3d78361bd37edad0378755981
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 3f545497514ce9acacfd7f40cc866fe2d739eba4faddf77e62dbfcc145bf470c
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T14:13:27Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,26 +67,26 @@ reuse:
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
 - Análise Laboratorial
+- Controlo de Qualidade
+- Definição de Competências
+- Direção Geral de Veterinária
+- Doença Animal
+- Droga
+- Experimentação nos Animais
 - Financiamento
+- Fiscalização
+- Indústria Farmacêutica
+- Infarmed
+- Investigação Científica e Tecnológica
+- Medicamento Veterinário
 - Medicina
 - Médico
-- Indústria Farmacêutica
-- Doença Animal
-- Investigação Científica e Tecnológica
-- Infarmed
-- Proteção dos Animais
-- Controlo de Qualidade
-- Direção Geral de Veterinária
-- Definição de Competências
-- Saúde Pública
-- Experimentação nos Animais
-- Fiscalização
-- Droga
+- Produto Animal
 - Produto Veterinário
 - Proteção do Consumidor
+- Proteção dos Animais
+- Saúde Pública
 - Segredo Profissional
-- Medicamento Veterinário
-- Produto Animal
 - Veterinário
 relationships:
 - type: amended_by
@@ -101,16 +101,30 @@ relationships:
   target: eli:http://data.dre.pt/eli/port/1005/1992/10/23/p/dre
   label: null
   source: http://data.dre.pt/eli/port/1005/1992/10/23/p/dre
+- type: cites
+  target: pt:dre:144639:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:220371:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:454810:por
+  label: "Revogado pelo DEC LEI.148/2008.29.07.2008.MADRP, DR.IS [145] de 29.07.2008, a partir da entrada em vigor das correspondentes\
+    \ normas regulamentares previstas neste último diploma\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/148-2008-454810
+  date: '2008-07-29'
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T14:13:27Z'
   warnings: []
   errors: []
 ---
@@ -265,6 +279,6 @@ g) Apresentar o relatório final à DGV, que dará conhecimento do seu teor ao I
 
 Ministérios da Agricultura, do Desenvolvimento Rural e das Pescas e da Saúde.
 
-**Assinada em 29 de Janeiro de 1999.**
+Assinada em 29 de Janeiro de 1999.
 
 Pelo Ministro da Agricultura, do Desenvolvimento Rural e das Pescas, Luís Medeiros Vieira, Secretário de Estado da Modernização Agrícola e da Qualidade Alimentar. - A Ministra da Saúde, Maria de Belém Roseira Martins Coelho Henriques de Pina.

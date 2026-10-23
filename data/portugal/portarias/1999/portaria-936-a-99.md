@@ -20,12 +20,12 @@ publication:
   reference: Diário da República n.º 247/1999, 2º Suplemento, Série I-B de 1999-10-22
   number: '247'
   series: I
-  supplement: 2º Suplemento
+  supplement: null
   pages: 7082-(10) a 7082-(13)
   pdf_url: https://files.diariodarepublica.pt/1s/1999/10/247b02/00100013.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/936-a/1999/10/22/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/936-a-1999-451591
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2007-11-02T00:00:00Z'
+  retrieved_at: '2026-10-23T14:18:44Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: ebe2e9ff703b7b399f62c098c8c68a690aa6fb3a72b5e71c3b33c17e6f82ab7c
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 282377748123fbf4278ba18a03d22064c030eaafec6c4a6e7f0899e7867f6886
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T14:18:44Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,11 +66,11 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
+- Administração Regional de Saúde
 - Alvará
-- Infarmed
 - Concurso Público
 - Definição de Competências
-- Administração Regional de Saúde
+- Infarmed
 - Instalação de Serviços
 - Posto de Medicamentos
 - Posto Farmacêutico Móvel
@@ -80,6 +80,23 @@ relationships:
   target: pt:dre:629419:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:432188:por
+  label: "Alterados os nºs 2º, 12º e 16º pela PORT.1379/2002.2002.10.22.MS,DR.IS-B [244]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/1379-2002-432188
+  date: '2002-10-22'
+- type: amended_by
+  target: pt:dre:486284:por
+  label: "Alterados os nºs. 4.º, 5.º e 16º (este último na redacção da Port 1379/2002, de 22-Out), todos do presente diploma,\
+    \ pela PORT.168-B/2004.18.02.2004.MS, DR.IS-B [41-2ºSupl] de 18.02.2004\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/168-b-2004-486284
+  date: '2004-02-18'
+- type: amended_by
+  target: pt:dre:525202:por
+  label: "Alterados os n.&#186;s 4&#186;, 5.&#186; e 16.&#186; da presente portaria, com a redac&#231;&#227;o conferida pela\
+    \ Port 168-B/2004, de 18-Fev, pela PORT.865/2004.19.07.2004.MS, DR.IS-B [168] de 19.07.2004\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/865-2004-525202
+  date: '2004-07-19'
 - type: cites
   target: eli:http://data.dre.pt/eli/port/325/1997/05/13/p/dre
   label: null
@@ -88,16 +105,42 @@ relationships:
   target: eli:http://data.dre.pt/eli/port/513/1992/06/22/p/dre
   label: null
   source: http://data.dre.pt/eli/port/513/1992/06/22/p/dre
+- type: cites
+  target: pt:dre:238264:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:265130:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:303261:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:395151:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:495726:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:629419:por
+  label: "Revogado, a partir de 07.11.2007, o presente diploma, com as alterações constantes das Port 1379/2002 de 22-Out,\
+    \ 168-B/2004 de 18-Fev e 865/2004 de 19-Jul, pela PORT.1430/2007.02.11.2007.MS, DR.IS [211] de 02.11.2007\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/1430-2007-629419
+  date: '2007-11-02'
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T14:18:44Z'
   warnings: []
   errors: []
 ---

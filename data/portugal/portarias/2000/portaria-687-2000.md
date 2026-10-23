@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2000/08/201b00/44594473.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/687/2000/08/31/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/687-2000-581071
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2004-03-11T00:00:00Z'
+  retrieved_at: '2026-10-23T14:25:15Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 03407a9301f200a85672e6ffbc05c12d88d3b98ef3a4900ce1c3aa908d0aa603
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: b7d7ded5b585c9e68046f2a21890df3635d297c9573360edd12a5e1428d5374a
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T14:25:15Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -65,35 +65,65 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- ICEP
 - Ajuda Comunitária
-- Financiamento
-- Empresa
 - Definição de Competências
-- Instituto de Financiamento e Apoio ao Turismo
 - Desenvolvimento Económico
+- Empresa
+- Financiamento
+- IAPMEI
+- ICEP
+- Instituto de Financiamento e Apoio ao Turismo
 - Política Económica
 - Regulamento
-- IAPMEI
 relationships:
 - type: amended_by
   target: pt:dre:533221:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:400992:por
+  label: "Alteradas a al a) do nº 1 do nº 4º do anexo C, a al b) do nº 6 do nº 4º do anexo C e o anexo D pela PORT.164/2001.2001.03.07.MF,DR.IS-B\
+    \ [56]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/164-2001-400992
+  date: '2001-03-07'
+- type: amended_by
+  target: pt:dre:352705:por
+  label: "Alterados os nºs 2 e 3 do art. 23º do anexo pela PORT.243/2001.2001.03.22.MF,DR.IS-B [69]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/243-2001-352705
+  date: '2001-03-22'
+- type: amended_by
+  target: pt:dre:353918:por
+  label: "Alterados os arts. 10º, 10º-A, 12º, 18º, 19º, 21º, 22º, 22º-A e anexos A, B e C do Regulamento, com a redacção dada\
+    \ pelas Port 164/2001 de 07-Mar e 243/2001 de 22-Mar, pela PORT.865-A/2002.2002.07.22.PCM DR.IS-B [167]Supl\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/865-a-2002-353918
+  date: '2002-07-22'
+- type: amended_by
+  target: pt:dre:214717:por
+  label: "Alterado o anexo C do Regulamento de Execução do SIME, aprovado pelo presente diploma, alterado pelas Port 164/2001\
+    \ de 07-Mar, 243/2001 de 22-Mar e 865-A/2002 de 22-Jul, pela PORT.218/2003.2003.03.12.PCM DR.IS-B [60]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/218-2003-214717
+  date: '2003-03-12'
 - type: cites
   target: eli:http://data.europa.eu/eli/reco/1996/280/oj
   label: null
   source: http://data.europa.eu/eli/reco/1996/280/oj
+- type: repealed_by
+  target: pt:dre:533221:por
+  label: "Revogado o presente diploma, alterado pelas Portarias n.os 164/2001, de 7 de Março, e 243/2001, de 22 de Março,\
+    \ 865-A/2002, de 22 de Julho, e 218/2003, de 12 de Março, pela PORT.262/2004.11.03.2004.MF, DR.IS-B [60] de 11.03.2004\0\
+    \0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/262-2004-533221
+  date: '2004-03-11'
 article_structure:
   article_count: 24
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T14:25:15Z'
   warnings: []
   errors: []
 ---
@@ -112,7 +142,7 @@ Manda o Governo, pelos Ministros das Finanças, da Economia, Adjunto do Primeiro
 
 Em 18 de Agosto de 2000.
 
-**O Ministro das Finanças, Joaquim Augusto Nunes Pina Moura. - O Ministro da Economia, Joaquim Augusto Nunes Pina Moura. - Pelo Ministro do Ambiente e do Ordenamento do Território, Rui Nobre Gonçalves, Secretário de Estado do Ambiente. - O Ministro Adjunto do Primeiro-Ministro, Armando António Martins Vara.**
+O Ministro das Finanças, Joaquim Augusto Nunes Pina Moura. - O Ministro da Economia, Joaquim Augusto Nunes Pina Moura. - Pelo Ministro do Ambiente e do Ordenamento do Território, Rui Nobre Gonçalves, Secretário de Estado do Ambiente. - O Ministro Adjunto do Primeiro-Ministro, Armando António Martins Vara.
 
 ## ANEXO — Regulamento de Execução do Sistema de Incentivos à Modernização Empresarial (SIME)
 
@@ -900,7 +930,7 @@ d) Não tenha beneficiado em outro projecto apoiado no âmbito do POE, no perío
 
 4 - Poderá ser atribuído um prémio de realização na forma de incentivo não reembolsável, em função do grau de cumprimento dos objectivos do projecto, conforme o disposto no n.º 10.º deste anexo, cujo valor, a deduzir ao incentivo reembolsável, será apurado pela aplicação das percentagens máximas a seguir referidas sobre o incentivo reembolsável atribuído:
 
-[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2000/08/201b00/44594473.pdf)
+[[[[[[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2000/08/201b00/44594473.pdf)](https://files.diariodarepublica.pt/1s/2000/08/201b00/44594473.pdf)](https://files.diariodarepublica.pt/1s/2000/08/201b00/44594473.pdf)](https://files.diariodarepublica.pt/1s/2000/08/201b00/44594473.pdf)](https://files.diariodarepublica.pt/1s/2000/08/201b00/44594473.pdf)](https://files.diariodarepublica.pt/1s/2000/08/201b00/44594473.pdf)
 
 5 - Poderá ainda ser atribuído um adicional do prémio de realização na forma de incentivo não reembolsável, até 20% do total das despesas elegíveis do grupo I, em função do «grau de integração do projecto», avaliado através da intervenção em factores qualitativos de competitividade empresarial. A graduação do adicional do prémio de realização terá em consideração a necessidade da observância dos limites por regiões expressos na alínea b) do número seguinte.
 
@@ -920,7 +950,7 @@ a) M1 - majoração «desconcentração territorial», a atribuir aos projectos 
 
 b) M2 - majoração «tipo de empresa», a atribuir a projectos promovidos por PME, nos termos do quadro seguinte:
 
-[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2000/08/201b00/44594473.pdf)
+[[[[[[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2000/08/201b00/44594473.pdf)](https://files.diariodarepublica.pt/1s/2000/08/201b00/44594473.pdf)](https://files.diariodarepublica.pt/1s/2000/08/201b00/44594473.pdf)](https://files.diariodarepublica.pt/1s/2000/08/201b00/44594473.pdf)](https://files.diariodarepublica.pt/1s/2000/08/201b00/44594473.pdf)](https://files.diariodarepublica.pt/1s/2000/08/201b00/44594473.pdf)
 
 2 - As despesas do subagrupamento II.1 - inovação e tecnologia, do grupo II, poderão beneficiar das seguintes majorações específicas:
 
@@ -938,11 +968,11 @@ b) M5 - majoração «tipo de formandos», de 10%, atribuível a projectos ou ac
 
 a) As taxas de incentivo do subagrupamento II.1 - inovação e tecnologia, expressas em «ESB - equivalente de subvenção bruta», não podem ultrapassar os limites indicados no quadro seguinte:
 
-[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2000/08/201b00/44594473.pdf)
+[[[[[[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2000/08/201b00/44594473.pdf)](https://files.diariodarepublica.pt/1s/2000/08/201b00/44594473.pdf)](https://files.diariodarepublica.pt/1s/2000/08/201b00/44594473.pdf)](https://files.diariodarepublica.pt/1s/2000/08/201b00/44594473.pdf)](https://files.diariodarepublica.pt/1s/2000/08/201b00/44594473.pdf)](https://files.diariodarepublica.pt/1s/2000/08/201b00/44594473.pdf)
 
 b) As taxas de incentivo, subagrupamento II.2 - formação profissional, expressas em «ESB - equivalente de subvenção bruta», não podem ultrapassar os limites indicados no quadro seguinte:
 
-[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2000/08/201b00/44594473.pdf)
+[[[[[[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2000/08/201b00/44594473.pdf)](https://files.diariodarepublica.pt/1s/2000/08/201b00/44594473.pdf)](https://files.diariodarepublica.pt/1s/2000/08/201b00/44594473.pdf)](https://files.diariodarepublica.pt/1s/2000/08/201b00/44594473.pdf)](https://files.diariodarepublica.pt/1s/2000/08/201b00/44594473.pdf)](https://files.diariodarepublica.pt/1s/2000/08/201b00/44594473.pdf)
 
 Como categorias de trabalhadores desfavorecidos consideram-se, nomeadamente, os trabalhadores com baixo nível de qualificação, pessoas portadoras de deficiência, trabalhadores idosos, mulheres que reintegram o mercado de trabalho;
 
@@ -1042,10 +1072,10 @@ b) Estabelecimento ou estabelecimentos que venham a registar-se até ao encerram
 
 ## ANEXO D — Zonas de modulação regional
 
-[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2000/08/201b00/44594473.pdf)
+[[[[[[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2000/08/201b00/44594473.pdf)](https://files.diariodarepublica.pt/1s/2000/08/201b00/44594473.pdf)](https://files.diariodarepublica.pt/1s/2000/08/201b00/44594473.pdf)](https://files.diariodarepublica.pt/1s/2000/08/201b00/44594473.pdf)](https://files.diariodarepublica.pt/1s/2000/08/201b00/44594473.pdf)](https://files.diariodarepublica.pt/1s/2000/08/201b00/44594473.pdf)
 
 ## ANEXO E — Taxas máximas de incentivo - Grupo I (*)
 
-[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2000/08/201b00/44594473.pdf)
+[[[[[[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2000/08/201b00/44594473.pdf)](https://files.diariodarepublica.pt/1s/2000/08/201b00/44594473.pdf)](https://files.diariodarepublica.pt/1s/2000/08/201b00/44594473.pdf)](https://files.diariodarepublica.pt/1s/2000/08/201b00/44594473.pdf)](https://files.diariodarepublica.pt/1s/2000/08/201b00/44594473.pdf)](https://files.diariodarepublica.pt/1s/2000/08/201b00/44594473.pdf)
 
 (nota *) Expressas em equivalente de subvenção bruta.

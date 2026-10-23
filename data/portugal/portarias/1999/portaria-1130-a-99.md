@@ -20,12 +20,12 @@ publication:
   reference: Diário da República n.º 303/1999, 1º Suplemento, Série I-B de 1999-12-31
   number: '303'
   series: I
-  supplement: 1º Suplemento
+  supplement: null
   pages: 9362-(2) a 9362-(5)
   pdf_url: https://files.diariodarepublica.pt/1s/1999/12/303b01/00020005.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/1130-a/1999/12/31/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/1130-a-1999-548448
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2013-01-22T00:00:00Z'
+  retrieved_at: '2026-10-23T14:13:22Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 1b8221f7ff3b131472de35376a90eaf9f091fb2867eb5e6269a633f1e5aa1c54
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: cd39b1d22b8ef45481f322a5cf4ae41e06f3b79d6ab59e6dc2b53602a3a639e7
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T14:13:22Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,10 +66,10 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Formação Profissional
-- Condutor
-- Qualificação Profissional
 - Avaliação de Conhecimentos
+- Condutor
+- Formação Profissional
+- Qualificação Profissional
 - Transporte de Passageiros
 - Transporte Público
 - Veículo de Aluguer
@@ -78,6 +78,13 @@ relationships:
   target: pt:dre:257176:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:591330:por
+  label: "Alterada a redacção dada aos arts. 4.º e 5.º da Port 788/98, de 21-Set e revogado o art. 12.º do mesmo diploma,na\
+    \ redacção do presente,pela PORT.121/2004.03.02.2004.MSST, DR.IS-B [28] de 03.02.2004, que procede à respectiva republicação\0\
+    \0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/121-2004-591330
+  date: '2004-02-03'
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/263/1998/08/19/p/dre
   label: null
@@ -94,16 +101,44 @@ relationships:
   target: eli:http://data.dre.pt/eli/port/788/1998/09/21/p/dre
   label: null
   source: http://data.dre.pt/eli/port/788/1998/09/21/p/dre
+- type: cites
+  target: pt:dre:150325:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:241634:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:444693:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:547021:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:438046:por
+  label: "Revogado o n.º 3 da Port 788/98, de 21-Set, alterada pelo presente diploma, pelo DEC LEI.298/2003.21.11.2003.MOPTH,\
+    \ DR.IS-A [270] de 21.11.2003\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/298-2003-438046
+  date: '2003-11-21'
+- type: repealed_by
+  target: pt:dre:257176:por
+  label: "Revogada a Port. 788/98, de 21-set, na redação da presente portaria, pela LEI.6/2013.22.01.2013.AR, DR.IS [15] de\
+    \ 22.01.2013\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/lei/6-2013-257176
+  date: '2013-01-22'
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T14:13:22Z'
   warnings: []
   errors: []
 ---

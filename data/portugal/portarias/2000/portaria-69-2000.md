@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/69/2000/02/17/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/69-2000-414595
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2000-02-17T00:00:00Z'
+  retrieved_at: '2026-10-23T14:25:18Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 3f841543d24be67bf82c76f5cc47e935580237efa75871c8a557baa7ad2af83d
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: a1b1b240d82cceebdb3e695eeaaac12d0cd26c94ae1752396f7a1c4466c80d92
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T14:25:18Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,20 +67,28 @@ reuse:
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
 - Água Mineral
-- Recursos Hídricos
 - Melgaço
+- Recursos Hídricos
 - Zona de Proteção
-relationships: []
+relationships:
+- type: cites
+  target: pt:dre:333159:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:333160:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T14:25:18Z'
   warnings: []
   errors: []
 ---
@@ -101,20 +109,20 @@ Manda o Governo, pelos Ministros da Economia e do Ambiente e do Ordenamento do T
 
 Zona imediata: definida pelo polígono ABCD, cujos vértices têm as seguintes coordenadas:
 
-[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2000/02/040b00/05900591.pdf)
+[[[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2000/02/040b00/05900591.pdf)](https://files.diariodarepublica.pt/1s/2000/02/040b00/05900591.pdf)](https://files.diariodarepublica.pt/1s/2000/02/040b00/05900591.pdf)
 
 Zona intermédia: delimitada pelo polígono EFGHIJL, cujos vértices têm as seguintes coordenadas:
 
-[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2000/02/040b00/05900591.pdf)
+[[[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2000/02/040b00/05900591.pdf)](https://files.diariodarepublica.pt/1s/2000/02/040b00/05900591.pdf)](https://files.diariodarepublica.pt/1s/2000/02/040b00/05900591.pdf)
 
 Entre os vértices E e L a poligonal segue a margem sul do rio Minho.
 
 Zona alargada: delimitada pelo polígono MNOPQRSTUV, cujos vértices têm as seguintes coordenadas:
 
-[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2000/02/040b00/05900591.pdf)
+[[[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2000/02/040b00/05900591.pdf)](https://files.diariodarepublica.pt/1s/2000/02/040b00/05900591.pdf)](https://files.diariodarepublica.pt/1s/2000/02/040b00/05900591.pdf)
 
 Entre os vértices M e V a poligonal segue a margem sul do rio Minho.
 
 Em 2 de Fevereiro de 2000.
 
-**O Ministro da Economia, Joaquim Augusto Nunes Pina Moura. - O Ministro do Ambiente e do Ordenamento do Território, José Sócrates carvalho Pinto de Sousa.**
+O Ministro da Economia, Joaquim Augusto Nunes Pina Moura. - O Ministro do Ambiente e do Ordenamento do Território, José Sócrates carvalho Pinto de Sousa.

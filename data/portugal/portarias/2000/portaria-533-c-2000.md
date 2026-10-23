@@ -20,12 +20,12 @@ publication:
   reference: Diário da República n.º 176/2000, 2º Suplemento, Série I-B de 2000-08-01
   number: '176'
   series: I
-  supplement: 2º Suplemento
+  supplement: null
   pages: 3696-(12) a 3696-(21)
   pdf_url: https://files.diariodarepublica.pt/1s/2000/08/176b02/00120021.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/533-c/2000/08/01/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/533-c-2000-636248
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2004-07-28T00:00:00Z'
+  retrieved_at: '2026-10-23T14:24:18Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 8d12872609c695460c32235e9d9c9ddcb8896cdcee6fdb77d8fd4a9cee7a9166
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 71f316250420c3d51a0c1d57f194951b19ae5d6285438f0ac48048c73e47b7ff
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T14:24:18Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -68,36 +68,84 @@ reuse:
 subjects:
 - Ajuda Comunitária
 - Azeite
-- Vinho
+- Comércio
+- Ifadap
 - Leite
+- Produto Agrícola
 - Produto Hortícola
-- QCA III
+- Programa AGRO
 - Projecto Agrícola
+- QCA III
 - Regulamento
 - Regulamento de Aplicação da Medida Nº 2-transformação e Comercialização de Produtos Agrícolas
-- Programa AGRO
-- Ifadap
-- Comércio
-- Produto Agrícola
+- Vinho
 relationships:
 - type: amended_by
   target: pt:dre:501810:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:1945608:por
+  label: "Rectificada pela DECL-RECT.11-H/2000.2000.09.29.PCM, DR.IS-B [277]2ºSupl de 30/Set/2000\00\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/sem-diploma/2000-1945608
+  date: '2000-09-29'
+- type: amended_by
+  target: pt:dre:616457:por
+  label: "Prorrogado até 31 de Dezembro de 2000 o prazo pela PORT.1099/2000.2000.11.17.MADRP, DR.IS-B [266]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/1099-2000-616457
+  date: '2000-11-17'
+- type: amended_by
+  target: pt:dre:331018:por
+  label: "Alterados os arts. 2º, 5º, 6º, 8º, 11º, 14º, e os Anexos I, II, IV e V do Regulamento, pela PORT.563/2001.2001.06.02.MADRP,\
+    \ DR.IS-B [128] de 02.06.2001\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/563-2001-331018
+  date: '2001-06-02'
+- type: amended_by
+  target: pt:dre:651875:por
+  label: "Alterada a alínea c) do n.º 3 do artigo 8.º do Regulamento, com a redacção dada pela Portaria n.º 563/2001, de 2\
+    \ de Junho, pela PORT.672/2003.2003.07.30.MADRP, DR.IS-B [174]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/672-2003-651875
+  date: '2003-07-30'
+- type: amended_by
+  target: pt:dre:217553:por
+  label: "Suspensas as candidaturas aos apoios estabelecidos neste diploma, pela PORT.331/2004.31.03.2004.MADRP, DR.IS-B [77]\
+    \ de 31.03.2004\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/331-2004-217553
+  date: '2004-03-31'
+- type: amended_by
+  target: pt:dre:218765:por
+  label: "Alterado o n.º 4 do art. 7.º, o art. 19.º e o n.º 8 do anexo II do regulamento aprovado pelo presente diploma, com\
+    \ a redacção dada pela Port 563/2001, de 02-Jun, pela Port.364/2004.08.04.2004.MADRP, DR.IS-B [84] de 08.04.2004\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/364-2004-218765
+  date: '2004-04-08'
+- type: amended_by
+  target: pt:dre:251625:por
+  label: "Exceptuadas as candidaturas dos investimentos relativos às novas plantações de olival e à produção de carne de bovinos\
+    \ em regime extensivo (previstas nos regimes de apoio constante do presente diploma) ao regime de suspensão previsto na\
+    \ Port 331/2004 de 31-Mar, pela PORT.562/2004.26.05.2004.MADRP, DR.IS-B [123] de 26.05.2004\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/562-2004-251625
+  date: '2004-05-26'
 - type: cites
   target: celex:31999R1257
   label: null
   source: http://data.europa.eu/eli/reg/1999/1257/oj
+- type: repealed_by
+  target: pt:dre:501810:por
+  label: "Revogado o presente diploma, ressalvados os efeitos j&#225; produzidos e sem preju&#237;zo da sua aplica&#231;&#227;o\
+    \ &#224;s candidaturas apresentadas durante a sua vig&#234;ncia, pela PORT.949/2004.28.07.2004.MADRP, DR.IS-B [176] de\
+    \ 28.07.2004\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/949-2004-501810
+  date: '2004-07-28'
 article_structure:
   article_count: 20
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T14:24:18Z'
   warnings: []
   errors: []
 ---
@@ -114,7 +162,7 @@ Assim, ao abrigo do disposto no n.º 2 do artigo 22.º do Decreto-Lei n.º 163-A
 
 Manda o Governo, pelo Ministro da Agricultura, do Desenvolvimento Rural e das Pescas, que seja aprovado o Regulamento de Aplicação da Medida n.º 2: Transformação e Comercialização de Produtos Agrícolas, do Programa Operacional Agricultura e Desenvolvimento Rural, abreviadamente designado «Programa Agro», em anexo ao presente diploma e do qual faz parte integrante.
 
-**O Ministro da Agricultura, do Desenvolvimento Rural e das Pescas, Luís Manuel Capoulas Santos, em 1 de Agosto de 2000.**
+O Ministro da Agricultura, do Desenvolvimento Rural e das Pescas, Luís Manuel Capoulas Santos, em 1 de Agosto de 2000.
 
 REGULAMENTO DE APLICAÇÃO DA MEDIDA N.º 2: TRANSFORMAÇÃO E COMERCIALIZAÇÃO DE PRODUTOS AGRÍCOLAS
 

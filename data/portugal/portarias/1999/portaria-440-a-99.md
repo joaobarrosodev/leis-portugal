@@ -19,7 +19,7 @@ publication:
   reference: Diário da República n.º 139/1999, 1º Suplemento, Série I-B de 1999-06-17
   number: '139'
   series: I
-  supplement: 1º Suplemento
+  supplement: null
   pages: 3480-(2) a 3480-(4)
   pdf_url: https://files.diariodarepublica.pt/1s/1999/06/139b01/00020004.pdf
 entry_into_force_dates: []
@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/440-a/1999/06/17/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/440-a-1999-316755
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2003-03-11T00:00:00Z'
+  retrieved_at: '2026-10-23T14:15:28Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 7f3da56655b4acf43ba5b93d69ec835c2c5e4f6b3ffce4477f05bea4befa81df
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: cbfe1e1ee78e647cf5cc22335c9f6855b699097c04eca39525d02687d10f7ab3
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T14:15:28Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -65,28 +65,67 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Secretaria Geral
 - Ministério das Finanças
 - Quadro de Pessoal
+- Secretaria Geral
 relationships:
 - type: amended_by
   target: pt:dre:3371664:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:1444713:por
+  label: "ALTERADO O QUADRO DE PESSOAL PELA DECL.198/2001(2ªSÉRIE).2001.05.25.SG-MF, DR.IIS [142] de 21/Jun/2001.\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/declaracao/198-2001-1444713
+  date: '2001-06-21'
+- type: amended_by
+  target: pt:dre:1354880:por
+  label: "ALTERADO O QUADRO DE PESSOAL PELA DECL.59/2002(2ªSÉRIE).2002.02.15.SG-MF, DR.II [50] DE 28/FEV/2002\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/declaracao/59-2002-1354880
+  date: '2002-02-15'
+- type: amended_by
+  target: pt:dre:3207132:por
+  label: "Alterado o quadro de pessoal por PORT.1066/2002(2ªSÉRIE).2002.06.21.MF, DR.IIS [170] de 25/Jul/2002.\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/1066-2002-3207132
+  date: '2002-07-25'
+- type: amended_by
+  target: pt:dre:2320837:por
+  label: "ALTERADO O QUADRO DE PESSOAL PELA PORT.1362/2002(2ªSÉRIE).2002.08.09.SEAP-MF, DR.IIS [205] DE 5/SET/2002\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/1362-2002-2320837
+  date: '2002-08-09'
+- type: amended_by
+  target: pt:dre:1498353:por
+  label: "ALTERADO O QUDRO DE PESSOAL PELA DECL.270/2002(2ªSÉRIE).2002.08.14.SG-MF, DR.IIS [200] DE 30/AGO/2002\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/declaracao/270-2002-1498353
+  date: '2002-08-14'
+- type: amended_by
+  target: pt:dre:2129363:por
+  label: "ALTERADO O QUADRO DE PESSOAL POR DECL.87/2003(2ªSÉRIE).2003.02.18.SG-MF, DR.IIS [53] DE 4/MAR/2003\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/declaracao/87-2003-2129363
+  date: '2003-02-18'
+- type: amended_by
+  target: pt:dre:3371664:por
+  label: "PORT.316/2003(2ªSÉRIE).2003.02.03.MF, DR.IIS [59] de 11/Mar/2003.\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/316-2003-3371664
+  date: '2003-03-11'
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/353/1998/11/12/p/dre
   label: null
   source: http://data.dre.pt/eli/dec-lei/353/1998/11/12/p/dre
+- type: cites
+  target: pt:dre:233928:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T14:15:28Z'
   warnings: []
   errors: []
 ---
@@ -105,7 +144,7 @@ Manda o Governo, pelos Ministros das Finanças e Adjunto, ao abrigo do disposto 
 
 Em 14 de Junho de 1999.
 
-**O Ministro das Finanças, António Luciano Pacheco de Sousa Franco. - Pelo Ministro Adjunto, Fausto de Sousa Correia, Secretário de Estado da Administração Pública e da Modernização Administrativa.**
+O Ministro das Finanças, António Luciano Pacheco de Sousa Franco. - Pelo Ministro Adjunto, Fausto de Sousa Correia, Secretário de Estado da Administração Pública e da Modernização Administrativa.
 
 MAPA
 

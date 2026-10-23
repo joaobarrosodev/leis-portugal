@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/231/1998/04/11/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/231-1998-167403
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1998-04-11T00:00:00Z'
+  retrieved_at: '2026-10-23T14:07:36Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 3a2e2b7b7c74e60e1b10d365bc91832d42e857fef444f276b88978ed1ce48eb0
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: f47edb67abe4a9a73af73f979151944de43d9a8fa4c4ede0a36e51b06dec1381
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T14:07:36Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,21 +67,25 @@ reuse:
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
 - Associação Nacional das Indústrias da Madeira
-- Instituto do Emprego e Formação Profissional
 - Centro de Formação Profissional
 - Centro de Formação Profissional das Indústrias da Madeira e Mobiliário
 - Formação Profissional
-relationships: []
+- Instituto do Emprego e Formação Profissional
+relationships:
+- type: cites
+  target: pt:dre:498749:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T14:07:36Z'
   warnings: []
   errors: []
 ---
@@ -108,6 +112,6 @@ O Centro tem a sua sede em Lordelo, Paredes, e pode criar as delegações que se
 
 Ministério do Trabalho e da Solidariedade.
 
-**Assinada em 19 de Março de 1998.**
+Assinada em 19 de Março de 1998.
 
-**O Secretário de Estado do Emprego e Formação, Paulo José Fernandes Pedroso.**
+O Secretário de Estado do Emprego e Formação, Paulo José Fernandes Pedroso.

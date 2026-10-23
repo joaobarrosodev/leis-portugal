@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/435/2000/07/17/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/435-2000-320284
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2002-11-07T00:00:00Z'
+  retrieved_at: '2026-10-23T14:23:32Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 34e3e5cc9c537a9fed3a7e008bd5850b32ae682196f7c04e222952c8bd8e1191
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: e2f54d6dedc7833de6d2d691b2d9241def41ec0cf8073c4e7ad693298e4b96f1
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T14:23:32Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,19 +67,24 @@ reuse:
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
 - ANO Complementar de Formação em Enfermagem
-- Plano de Estudos
+- Bragança
 - Curso de Enfermagem
 - Ensino Superior Politécnico
 - Escola Superior de Enfermagem
 - Formação Complementar
 - Licenciatura
 - Pessoal de Enfermagem
-- Bragança
+- Plano de Estudos
 relationships:
 - type: amended_by
   target: pt:dre:425133:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:425133:por
+  label: "Alterado o plano de estudos constante do anexo II pela PORT.1445/2002.2002.11.07.MCES DR.IS-B [257]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/1445-2002-425133
+  date: '2002-11-07'
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/353/1999/09/03/p/dre
   label: null
@@ -96,16 +101,32 @@ relationships:
   target: eli:http://data.dre.pt/eli/port/799-g/1999/09/18/p/dre
   label: null
   source: http://data.dre.pt/eli/port/799-g/1999/09/18/p/dre
+- type: cites
+  target: pt:dre:581591:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:581593:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:581594:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:582195:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T14:23:32Z'
   warnings: []
   errors: []
 ---

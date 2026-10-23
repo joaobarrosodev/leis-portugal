@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/556/1998/08/20/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/556-1998-444465
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2009-06-25T00:00:00Z'
+  retrieved_at: '2026-10-23T14:09:45Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 6ad5d0f398d79e5cf95f6153827f61e5f8255246de72a9e352a1201613cf3fec
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 579d6e058399bb079bd1796626a3c50a09fbe68e96c10a75f34efab234b2335b
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T14:09:45Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -74,6 +74,24 @@ relationships:
   target: pt:dre:491959:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:310830:por
+  label: "Anexados vários prédios rústicos à zona de caça associativa, criada pela Port 615-V2/91, de 08-Jul, na redacção\
+    \ da Port 473/97, de 11-Jul e do presente diploma, pela PORT.425/99.1999.06.09.MADRP, DR.IS-B [133]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/425-1999-310830
+  date: '1999-06-09'
+- type: amended_by
+  target: pt:dre:629436:por
+  label: "Anexados vários prédios rústicos à zona de caça atribuída pela Port 615-V2/91 de 08-Jul, alterada pelo presente\
+    \ diploma, pela PORT.1433/2007.05.11.2007.MADRP, DR.IS [212] de 05.11.2007\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/1433-2007-629436
+  date: '2007-11-05'
+- type: amended_by
+  target: pt:dre:491959:por
+  label: "Renovada, por um período de seis anos, a concessão da zona de caça associativa da Barroca atribuída pela Port 615-V2/91,\
+    \ de 08-Jul, alterada pelo presente diploma, pela PORT.689/2009.25.06.2009.MADRP, DR.IS [121] de 25.06.2009\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/689-2009-491959
+  date: '2009-06-25'
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/136/1996/08/14/p/dre
   label: null
@@ -86,16 +104,32 @@ relationships:
   target: eli:http://data.dre.pt/eli/port/615-v2/1991/07/08/p/dre
   label: null
   source: http://data.dre.pt/eli/port/615-v2/1991/07/08/p/dre
+- type: cites
+  target: pt:dre:155248:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:205979:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:219134:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:405765:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T14:09:45Z'
   warnings: []
   errors: []
 ---
@@ -118,7 +152,7 @@ Manda o Governo, pelo Ministro da Agricultura, do Desenvolvimento Rural e das Pe
 
 Ministério da Agricultura, do Desenvolvimento Rural e das Pescas.
 
-**Assinada em 31 de Julho de 1998.**
+Assinada em 31 de Julho de 1998.
 
 Pelo Ministro da Agricultura, do Desenvolvimento Rural e das Pescas, Luís Manuel Capoulas Santos, Secretário de Estado da Agricultura e do Desenvolvimento Rural.
 

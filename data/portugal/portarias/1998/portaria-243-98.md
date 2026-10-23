@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/243/1998/04/16/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/243-1998-173111
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2006-03-17T00:00:00Z'
+  retrieved_at: '2026-10-23T14:07:39Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 4956667712745c915994b6c2438b02ccc820c89d95a9997c51d0719b3404de27
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 5f4ce8b1465284a215845381b9ff331eb07bb5f8c17441e4b23ba7f8981244de
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T14:07:39Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -65,16 +65,21 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Plano de Estudos
 - Ensino Superior Politécnico
-- Lisboa
 - Instituto Superior de Matemática e Gestão
+- Lisboa
 - Mestrado em Sexologia
+- Plano de Estudos
 relationships:
 - type: amended_by
   target: pt:dre:667161:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:667161:por
+  label: "Alterado o n.º 9.º pela PORT.269/2006.17.03.2006.MCTES, DR.IS-B [55] de 17.03.2006\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/269-2006-667161
+  date: '2006-03-17'
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/16/1994/01/22/p/dre
   label: null
@@ -91,16 +96,40 @@ relationships:
   target: eli:http://data.dre.pt/eli/port/878/1993/09/15/p/dre
   label: null
   source: http://data.dre.pt/eli/port/878/1993/09/15/p/dre
+- type: cites
+  target: pt:dre:225809:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:512030:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:533820:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:547459:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:618546:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:659968:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T14:07:39Z'
   warnings: []
   errors: []
 ---
@@ -197,7 +226,7 @@ A autorização e o reconhecimento operados pelo presente diploma não prejudica
 
 Ministério da Educação.
 
-**Assinada em 24 de Março de 1998.**
+Assinada em 24 de Março de 1998.
 
 Pelo Ministro da Educação, Alfredo Jorge Silva, Secretário de Estado do Ensino Superior.
 

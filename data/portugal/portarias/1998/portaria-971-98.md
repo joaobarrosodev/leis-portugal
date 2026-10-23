@@ -26,7 +26,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1998/11/265b00/62056206.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -48,18 +48,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/971/1998/11/16/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/971-1998-229770
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2004-06-28T00:00:00Z'
+  retrieved_at: '2026-10-23T14:12:16Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 283922ee500288b3a7c3847b26b2d1f4a70a61e5a435a01567d5b0f2a794bbf5
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: b3db4d625cb810e3b25d550ea12cdd70bade001780b24482eeebc5cf2b8d1fbc
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T14:12:16Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -68,19 +68,31 @@ reuse:
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
 - Cartão de Identificação
-- Ministério da Administração Interna
-- Serviços de Segurança
 - Empresa de Segurança
-- Segurança Pública
-- Prestação de Serviços
-- Pessoal de Vigilância
-- Segurança Privada
 - Fardamento
+- Ministério da Administração Interna
+- Pessoal de Vigilância
+- Prestação de Serviços
+- Segurança Privada
+- Segurança Pública
+- Serviços de Segurança
 relationships:
 - type: amended_by
   target: pt:dre:518215:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:684195:por
+  label: "Alterado o nº 1º pela PORT.485/2003.2003.06.17.MAI DR.IS-B [138]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/485-2003-684195
+  date: '2003-06-17'
+- type: amended_by
+  target: pt:dre:569761:por
+  label: "Determinada a manutenção em vigor da presente portaria, alterado pela Port 485/2003, de 17-Jun, publicado ao abrigo\
+    \ do Dec Lei 231/98, de 22-Jul, pelo DEC LEI.35/2004.21.02.2004.MAI, DR.IS-A [44] de 21.02.2004 na parte em que não for\
+    \ materialmente incompatível, até ser substituída\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/35-2004-569761
+  date: '2004-02-21'
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/231/1998/07/22/p/dre
   label: null
@@ -89,16 +101,33 @@ relationships:
   target: eli:http://data.dre.pt/eli/port/1259/1993/12/11/p/dre
   label: null
   source: http://data.dre.pt/eli/port/1259/1993/12/11/p/dre
+- type: cites
+  target: pt:dre:178361:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:425289:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:550207:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:518215:por
+  label: "Revogada pela PORT.734/2004.28.06.2004.MAI, DR.IS-B [150] de 28.06.2004\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/734-2004-518215
+  date: '2004-06-28'
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T14:12:16Z'
   warnings: []
   errors: []
 ---
@@ -137,11 +166,11 @@ Manda o Governo, pelo Ministro da Administração Interna, ao abrigo do disposto
 
 Ministério da Administração Interna.
 
-**Assinada em 8 de Outubro de 1998.**
+Assinada em 8 de Outubro de 1998.
 
-**O Ministro da Administração Interna, Jorge Paulo Sacadura Almeida Coelho.**
+O Ministro da Administração Interna, Jorge Paulo Sacadura Almeida Coelho.
 
-## ANEXO N.º 1 — [(ver anexo no documento original)](https://files.diariodarepublica.pt/1s/1998/11/265b00/62056206.pdf)
+## ANEXO N.º 1 — [[(ver anexo no documento original)](https://files.diariodarepublica.pt/1s/1998/11/265b00/62056206.pdf)](https://files.diariodarepublica.pt/1s/1998/11/265b00/62056206.pdf)
 
 Dimensões do cartão: 5,4 cm x 8,5 cm.
 
@@ -149,7 +178,7 @@ Observações:
 
 Fundo: cor azul.
 
-## ANEXO N.º 2 — [(ver anexo no documento original)](https://files.diariodarepublica.pt/1s/1998/11/265b00/62056206.pdf)
+## ANEXO N.º 2 — [[(ver anexo no documento original)](https://files.diariodarepublica.pt/1s/1998/11/265b00/62056206.pdf)](https://files.diariodarepublica.pt/1s/1998/11/265b00/62056206.pdf)
 
 Dimensões do cartão: 5,4 cm x 8,5 cm.
 

@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/970/1997/09/15/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/970-1997-649095
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2004-07-21T00:00:00Z'
+  retrieved_at: '2026-10-23T14:06:08Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: f758440bd76b5fbf2d6b64cd054ecc725cf0af25e5bd197204d9a8e752871924
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 4b00fdf6bd7308b3542ad5381646e1563fb5373c8db73f5a40ceb61501bdfedc
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T14:06:08Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,29 +66,63 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Formação Profissional
-- Plano de Estudos
 - Ensino Profissional
 - Escola Profissional
+- Formação Profissional
+- Plano de Estudos
 relationships:
 - type: amended_by
   target: pt:dre:505657:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:505657:por
+  label: "Extinto o curso T&#233;cnico de Indrustrias Agro-Alimentares, (a funcionar em escolas profissionais criadas ao abrigo\
+    \ da Lei 46/80, de 14-Out e do Dec Lei 70/93, de 10-Mar), e o respectivo plano de estudos, criados no presente diploma,\
+    \ pela PORT.891/2004.21.07.2004.ME, DR.IS-B [170] de 21.07.2004, nos termos do seu art. 7.&#186; e revogadas no presente\
+    \ diploma as partes que &#224;quele curso respeitam pela supracitada portaria\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/891-2004-505657
+  date: '2004-07-21'
+- type: amended_by
+  target: pt:dre:505674:por
+  label: "Extinto o curso profissional de técnico de Gestão Cinegética e respectivo plano de Estudos (este último vigorando\
+    \ ainda nos nos termos do art. 7.º) e revogado nas partes que aquele curso respeita, o referido diploma de criação, criados\
+    \ pelo presente diploma, pela PORT.883/2004.21.07.2004.ME, DR.IS-B [170] de 21.07.2004\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/883-2004-505674
+  date: '2004-07-21'
+- type: amended_by
+  target: pt:dre:505775:por
+  label: "Extinto o curso profissional de técnico de gestão e recuperação de espaços verdes e respectivo plano de Estudos\
+    \ (este último vigorando ainda nos termos do art. 7.º) e revogado nas partes que aquele curso respeita, o referido diploma\
+    \ de criação, criados pelo presente diploma, pela PORT.884/2004.21.07.2004.ME, DR.IS-B [170] de 21.07.2004\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/884-2004-505775
+  date: '2004-07-21'
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/70/1993/03/10/p/dre
   label: null
   source: http://data.dre.pt/eli/dec-lei/70/1993/03/10/p/dre
+- type: cites
+  target: pt:dre:222418:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:609609:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:628044:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T14:06:08Z'
   warnings: []
   errors: []
 ---
@@ -125,20 +159,20 @@ c) Técnico de Gestão e Recuperação de Espaços Verdes.
 
 Ministérios da Agricultura, do Desenvolvimento Rural e das Pescas, da Educação e para a Qualificação e o Emprego.
 
-**Assinada em 25 de Agosto de 1997.**
+Assinada em 25 de Agosto de 1997.
 
-**O Ministro da Agricultura, do Desenvolvimento Rural e das Pescas, Fernando Manuel Van-Zeller Gomes da Silva. - O Ministro da Educação, Eduardo Carrega Marçal Grilo. - Pela Ministra para a Qualificação e o Emprego, António de Lemos Monteiro Fernandes, Secretário de Estado do Trabalho.**
+O Ministro da Agricultura, do Desenvolvimento Rural e das Pescas, Fernando Manuel Van-Zeller Gomes da Silva. - O Ministro da Educação, Eduardo Carrega Marçal Grilo. - Pela Ministra para a Qualificação e o Emprego, António de Lemos Monteiro Fernandes, Secretário de Estado do Trabalho.
 
 ## ANEXO — Plano curricular
 
 Curso: Técnico de Indústrias Agro-Alimentares
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1997/09/213b00/49504951.pdf))](https://files.diariodarepublica.pt/1s/1997/09/213b00/49504951.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1997/09/213b00/49504951.pdf)
 
 Curso: Técnico de Gestão Cinegética
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1997/09/213b00/49504951.pdf))](https://files.diariodarepublica.pt/1s/1997/09/213b00/49504951.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1997/09/213b00/49504951.pdf)
 
 Curso: Técnico de Gestão e Recuperação de Espaços Verdes
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1997/09/213b00/49504951.pdf))](https://files.diariodarepublica.pt/1s/1997/09/213b00/49504951.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1997/09/213b00/49504951.pdf)

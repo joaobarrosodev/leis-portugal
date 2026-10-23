@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/2s/2009/11/216000000/4546345463.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -47,18 +47,18 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/declaracao-rectificacao/2747-2009-1489230
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2009-11-06T00:00:00Z'
+  retrieved_at: '2026-10-23T14:08:55Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 875f792cbd1016b087cb389a0d0799ff745af196ed0064940f8df753533e76eb
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 90041b45f54e0dffd5768bdf3dc966d14b5e3440b66800322b767184f2a1f46b
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T14:08:55Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -70,13 +70,13 @@ relationships: []
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T14:08:55Z'
   warnings: []
   errors: []
 ---
@@ -88,3 +88,5 @@ Declaração de rectificação n.º 2747/2009
 Por ter sido publicado com inexactidão no Diário da República, 2.ª série, n.º 147, de 31 de Julho de 2009, o despacho n.º 17722/2009, rectifica-se que onde se lê «período experimental de 3 anos com efeitos a partir de 01.09.2009 a 31.08.2012,» deve ler-se «com período experimental de três anos em comissão de serviço, com efeitos a partir de 1 de Setembro de 2009 a 31 de Agosto de 2012» precedido de concurso, com Maria Manuela Migueis Nunes Duarte Rosa, na categoria de professora-adjunta, para a Escola Superior de Educação de Lisboa do Instituto Politécnico de Lisboa, auferindo o vencimento correspondente ao índice 185, escalão 1, de acordo com o sistema remuneratório em vigor.
 
 20 de Outubro de 2009. - O Administrador, António José Carvalho Marques.
+
+202526344

@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/2s/2009/08/154000000/3208232082.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -46,18 +46,18 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/declaracao-rectificacao/1913-2009-3188737
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2009-08-11T00:00:00Z'
+  retrieved_at: '2026-10-23T14:03:53Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 8184fc005bb1d88aff6b7e8ec8b51babc7079c0d7fc022af27b4aa43ce8a724f
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: ab74cf5fae806c7a92e7214ee1808db996c6f78222ccf703bf4b62d41690e4ff
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T14:03:53Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -65,25 +65,39 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects: []
-relationships: []
+relationships:
+- type: cites
+  target: pt:dre:1247575:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:1433367:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:890888:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T14:03:53Z'
   warnings: []
   errors: []
 ---
 
-# Declaração de Rectificação n.º 1913/2009
+# Declaração de rectificação n.º 1913/2009
 
 Por ter sido publicado com inexactidão no Diário da República, n.º 147, 2.ª série, de 31 de Julho de 2009, p. 30679, o [Aviso n.º 13575/2009](https://diariodarepublica.pt/dr/detalhe/aviso/13575-2009-1433367), referente à lista de candidatos excluídos ao procedimento concursal comum para preenchimento de 14 postos de trabalho na carreira de Assistente Técnico do mapa de pessoal do Instituto da Segurança Social, I. P. - Centro Nacional de Pensões, rectifica -se:
 
 Onde se lê "«[Aviso n.º 11997/2009](https://diariodarepublica.pt/dr/detalhe/aviso/11997-2009-890888) - Referência DRH/AT/4/2009»" deve ler -se "«[Aviso n.º 10997/2009](https://diariodarepublica.pt/dr/detalhe/aviso/10997-2009-1247575) - Referência DRH/AT/4/2009»"
 
 4 de Agosto de 2009. - A Directora da Unidade de Gestão Administrativa de Recursos Humanos, Lurdes Lourenço.
+
+202155631

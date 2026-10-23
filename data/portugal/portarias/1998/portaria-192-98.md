@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/192/1998/03/23/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/192-1998-196951
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1998-03-23T00:00:00Z'
+  retrieved_at: '2026-10-23T14:07:19Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: d7728a3abd84f95fcb021f61115d12e0e6c9216a3674db5e934d8ab27cf376db
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 14adfaa385a13da369566b54e7c56490780beefa81e566f80a032af6b61fccbe
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T14:07:19Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,13 +66,13 @@ reuse:
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
 - Ajuda à Modernização
-- Financiamento
-- Emparcelamento
 - Aproveitamento Hidroagrícola
+- Emparcelamento
 - Exploração Agrícola
 - Exploração Florestal
-- Regulamento
+- Financiamento
 - Programa de Apoio à Modernização Agrícola e Florestal
+- Regulamento
 - Regulamento de Aplicação da Medida de Infra-estruturas
 relationships:
 - type: cites
@@ -83,16 +83,24 @@ relationships:
   target: eli:http://data.dre.pt/eli/port/809-a/1994/09/12/p/dre
   label: null
   source: http://data.dre.pt/eli/port/809-a/1994/09/12/p/dre
+- type: cites
+  target: pt:dre:269400:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:617285:por
+  label: null
+  source: null
 article_structure:
-  article_count: 5
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T14:07:19Z'
   warnings: []
   errors: []
 ---
@@ -119,7 +127,7 @@ a) Projectos de ordenamento fundiário: agricultores e titulares de prédios rú
 
 b) Planos de estruturação agrária: autarquias locais ou associações de agricultores, com a concordância expressa da autarquia local.
 
-###### Artigo 47.º
+Artigo 47.º
 
 O valor da ajuda previsto no n.º 2 do artigo anterior pode incidir, nomeadamente, sobre despesas com:
 
@@ -161,17 +169,17 @@ iii) Tratamento informático da informação;
 
 iv) Apoio técnico, acompanhamento, fiscalização e avaliação.
 
-###### Artigo 48.º
+Artigo 48.º
 
 1 - O processo de candidatura às ajudas previstas neste capítulo inicia-se com a apresentação, de Janeiro a Dezembro, junto do Instituto de Hidráulica, Engenharia Rural e Ambiente (IHERA) ou das direcções regionais de agricultura, de uma ficha de candidatura, de acordo com modelo a distribuir por esses serviços.
 
 2 - ...
 
-###### Artigo 49.º
+Artigo 49.º
 
 As candidaturas apresentadas são objecto de análise e deliberação pela unidade de gestão, no prazo máximo de 90 dias a contar da data de recepção das candidaturas.
 
-###### Artigo 50.º
+Artigo 50.º
 
 A deliberação sobre as candidaturas apresentadas faz-se tendo em conta os seguintes critérios prioritários:
 
@@ -193,7 +201,7 @@ ii) Potencial de desenvolvimento sócio-económico;
 
 iii) Complementaridade com outras acções.
 
-###### Artigo 51.º
+Artigo 51.º
 
 1 - Salvo nos casos previstos no número seguinte, a atribuição das ajudas previstas neste capítulo é feita ao abrigo de contratos celebrados entre os beneficiários e o IFADAP, no prazo de 30 dias a contar da data da deliberação.
 
@@ -207,6 +215,6 @@ O IHERA pode beneficiar das ajudas previstas na secção I do capítulo V para a
 
 Ministério da Agricultura, do Desenvolvimento Rural e das Pescas.
 
-**Assinada em 9 de Março de 1998.**
+Assinada em 9 de Março de 1998.
 
-**O Ministro da Agricultura, do Desenvolvimento Rural e das Pescas, Fernando Manuel Van-Zeller Gomes da Silva.**
+O Ministro da Agricultura, do Desenvolvimento Rural e das Pescas, Fernando Manuel Van-Zeller Gomes da Silva.

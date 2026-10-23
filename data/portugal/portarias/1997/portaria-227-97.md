@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/227/1997/04/02/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/227-1997-527041
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2001-02-07T00:00:00Z'
+  retrieved_at: '2026-10-23T14:01:27Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 0b51f57c4008c415ed322cb0324426147938ea74d368498260f6274f8550ab4d
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: d3e4cdef3268f9a6a7c7cf10a76cffad2486f86f43da3144dc4a4e95da4eba4e
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T14:01:27Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,26 +66,49 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Plano de Estudos
+- Bragança
 - Curso de Estudos Superiores Especializados em Gestão de Projectos e do Espaço Rural
 - Escola Superior Agrária
 - Instituto Politécnico
-- Bragança
+- Plano de Estudos
 relationships:
 - type: amended_by
   target: pt:dre:319892:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:687027:por
+  label: "Alterada a al a) do nº 4 pela PORT.1154/97.1997.11.12.ME DR.IS-B [262]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/1154-1997-687027
+  date: '1997-11-12'
+- type: cites
+  target: pt:dre:222418:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:453184:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:556606:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:319892:por
+  label: "Revogada, com a redacção da Port 1154/97 de 12-Nov, pela PORT.73/2001.2001.02.07.ME DR.IS-B [32], nos termos do\
+    \ respectivo nº 2º\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/73-2001-319892
+  date: '2001-02-07'
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T14:01:27Z'
   warnings: []
   errors: []
 ---
@@ -324,7 +347,7 @@ O curso entra em funcionamento no ano lectivo que for determinado por despacho d
 
 Ministério da Educação.
 
-**Assinada em 10 de Março de 1997.**
+Assinada em 10 de Março de 1997.
 
 Pelo Ministro da Educação, Alfredo Jorge Silva, Secretário de Estado do Ensino Superior.
 
@@ -336,4 +359,4 @@ Curso: Gestão de Projectos e do Espaço Rural
 
 Diploma de estudos superiores especializados
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1997/04/077b00/14811484.pdf))](https://files.diariodarepublica.pt/1s/1997/04/077b00/14811484.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1997/04/077b00/14811484.pdf)

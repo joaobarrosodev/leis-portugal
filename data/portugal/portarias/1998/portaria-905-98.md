@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1998/10/241b00/54085409.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/905/1998/10/19/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/905-1998-240046
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2001-03-28T00:00:00Z'
+  retrieved_at: '2026-10-23T14:11:51Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: d377bcd53a317b05379b1c5f700ef197f6b9884cf1405577d3a296e5f64f5a6e
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 1d12e33d0ec0094cae3b18dd2764079c23f505a1ce3f6f29b48812231d72ba4a
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T14:11:51Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -97,16 +97,42 @@ relationships:
   target: eli:http://data.dre.pt/eli/dec-lei/55/1998/03/16/p/dre
   label: null
   source: http://data.dre.pt/eli/dec-lei/55/1998/03/16/p/dre
+- type: cites
+  target: pt:dre:186543:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:455465:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:469861:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:534795:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:631866:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:344965:por
+  label: Revogados, a partir de 29.03.2001, os normativos reguladores da cobrança de taxas constantes do presente diploma
+    pelo(a) Decreto-Lei n.º 98/2001 - Diário da República n.º 74/2001, Série I-A de 2001-03-28 nos termos do art. 6.º deste
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/98-2001-344965
+  date: '2001-03-28'
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T14:11:51Z'
   warnings: []
   errors: []
 ---
@@ -149,8 +175,8 @@ TSF é o valor da remuneração horária normal de um técnico da função públ
 
 Ministérios da Defesa Nacional, das Finanças, do Equipamento, do Planeamento e da Administração do Território e do Ambiente.
 
-**Assinada em 22 de Setembro de 1998.**
+Assinada em 22 de Setembro de 1998.
 
-**O Ministro da Defesa Nacional, José Veiga Simão. - Pelo Ministro das Finanças, João Carlos da Costa Ferreira da Silva, Secretário de Estado do Orçamento. - Pelo Ministro do Equipamento, do Planeamento e da Administração do Território, José Manuel da Costa Monteiro Consiglieri Pedroso, Secretário de Estado Adjunto do Ministro do Equipamento, do Planeamento e da Administração do Território. - A Ministra do Ambiente, Elisa Maria da Costa Guimarães Ferreira.**
+O Ministro da Defesa Nacional, José Veiga Simão. - Pelo Ministro das Finanças, João Carlos da Costa Ferreira da Silva, Secretário de Estado do Orçamento. - Pelo Ministro do Equipamento, do Planeamento e da Administração do Território, José Manuel da Costa Monteiro Consiglieri Pedroso, Secretário de Estado Adjunto do Ministro do Equipamento, do Planeamento e da Administração do Território. - A Ministra do Ambiente, Elisa Maria da Costa Guimarães Ferreira.
 
 ## ANEXO — [(ver anexo no documento original)](https://files.diariodarepublica.pt/1s/1998/10/241b00/54085409.pdf)

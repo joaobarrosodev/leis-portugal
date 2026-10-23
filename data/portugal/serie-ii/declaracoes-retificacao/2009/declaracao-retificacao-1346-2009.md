@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/2s/2009/05/101000000/2105721057.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -46,18 +46,18 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/declaracao-rectificacao/1346-2009-2719794
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2009-05-26T00:00:00Z'
+  retrieved_at: '2026-10-23T14:00:24Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: cc5382c8506d1cc0ee6d22657eeb3c371e4f40130118f90bcd44ba02ab58fce5
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 5afda3937e29b9914eecab3928decb04fb4b9ca0d11f93e6af163d49bfbb4f9f
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T14:00:24Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -69,13 +69,13 @@ relationships: []
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T14:00:24Z'
   warnings: []
   errors: []
 ---
@@ -87,3 +87,5 @@ Declaração de rectificação n.º 1346/2009
 Procede-se à rectificação do aviso n.º 9522/2009, publicado no Diário da República, 2.ª série, de 13 de Maio, respeitante à renovação da comissão de serviço do Chefe de Divisão Municipal, Rogério Lopes Margalho Oliveira Pereira. Assim, onde se lê "por meu despacho de 21 de Abril de 2006, deve ler-se "por meu despacho de 02 de Março de 2009"; onde se lê "..produzindo efeitos a partir de 28 de Maio de 2006", deve ler-se "produzindo efeitos a partir de 28 de Maio de 2009" e onde se lê "28 de Abril de 2006", deve ler-se "28 de Abril de 2009.
 
 13 de Maio de 2009. - O Presidente da Câmara, Daniel Campelo.
+
+301804942

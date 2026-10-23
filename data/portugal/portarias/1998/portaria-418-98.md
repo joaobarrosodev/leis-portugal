@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1998/07/166b00/34923494.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/418/1998/07/21/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/418-1998-424107
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2003-07-31T00:00:00Z'
+  retrieved_at: '2026-10-23T14:08:50Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: cf68e2804320e24a8ab6204b8bfa626cee1e5cbb3507ae6fd59a67dad66d9484
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: ab254e77cf8e87d0db40f3617192ace097e6f84f90251c2b6b010986f4d78866
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T14:08:50Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,15 +67,15 @@ reuse:
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
 - Código da Propriedade Industrial
-- Denominação de Origem
 - Convenção
-- Marca
+- Denominação de Origem
+- Invenção
 - Macau
-- Patente
-- Propriedade Industrial
+- Marca
 - Marca Registada
 - Munique
-- Invenção
+- Patente
+- Propriedade Industrial
 - Taxa
 - TAXA de Prestação de Serviços
 - Tratado de Cooperação em Matéria de Patentes
@@ -88,16 +88,25 @@ relationships:
   target: eli:http://data.dre.pt/eli/port/409/1996/08/23/p/dre
   label: null
   source: http://data.dre.pt/eli/port/409/1996/08/23/p/dre
+- type: cites
+  target: pt:dre:406477:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:652287:por
+  label: "Revogada pela PORT.699/2003.2003.07.31.MF DR.IS-B [175]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/699-2003-652287
+  date: '2003-07-31'
 article_structure:
   article_count: 0
   section_count: 1
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T14:08:50Z'
   warnings: []
   errors: []
 ---
@@ -500,6 +509,6 @@ Outros por página A4 - 110$00.
 
 Ministérios das Finanças e da Economia.
 
-**Assinada em 9 de Junho de 1998.**
+Assinada em 9 de Junho de 1998.
 
-**O Ministro das Finanças, António Luciano Pacheco de Sousa Franco. - O Ministro da Economia, Joaquim Augusto Nunes de Pina Moura.**
+O Ministro das Finanças, António Luciano Pacheco de Sousa Franco. - O Ministro da Economia, Joaquim Augusto Nunes de Pina Moura.

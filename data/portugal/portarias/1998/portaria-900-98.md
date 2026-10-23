@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1998/10/237b00/53255326.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/900/1998/10/14/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/900-1998-234910
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2008-07-29T00:00:00Z'
+  retrieved_at: '2026-10-23T14:11:51Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 95ecbe8fef93cc1e68dfe101f7e9b4b7766aca0e8c2f37367d6653bbb6a2334d
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 333ce38a2430704ffa1b923a81c355b67c307c21713153fc1be27b238251a905
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T14:11:51Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -65,15 +65,15 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
+- Comércio
+- Definição de Competências
+- Direção Geral de Veterinária
 - Doença Animal
 - Infarmed
-- Direção Geral de Veterinária
-- Definição de Competências
 - Licenciamento
+- Limite Máximo de Resíduos
 - Medicina Veterinária
 - Produto Veterinário
-- Limite Máximo de Resíduos
-- Comércio
 relationships:
 - type: amended_by
   target: pt:dre:454810:por
@@ -83,16 +83,26 @@ relationships:
   target: celex:31990R2377
   label: null
   source: http://data.europa.eu/eli/reg/1990/2377/oj
+- type: corrected_by
+  target: pt:dre:235751:por
+  label: "Rectificada pela DECL-RECT.19-F/98.1998.10.19.PCM,DR.IS-B [252]3ºSUPL\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/declaracao-rectificacao/19-f-1998-235751
+  date: '1998-10-19'
+- type: repealed_by
+  target: pt:dre:454810:por
+  label: "Revogada, a partir de 27.09.2008, pelo DEC LEI.148/2008.29.07.2008.MADRP, DR.IS [145] de 29.07.2008\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/148-2008-454810
+  date: '2008-07-29'
 article_structure:
   article_count: 0
-  section_count: 7
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  section_count: 11
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T14:11:51Z'
   warnings: []
   errors: []
 ---
@@ -117,7 +127,7 @@ Manda o Governo, pelos Ministros da Agricultura, do Desenvolvimento Rural e das 
 
 Ministérios da Agricultura, do Desenvolvimento Rural e das Pescas e da Saúde.
 
-**Assinada em 24 de Setembro de 1998.**
+Assinada em 24 de Setembro de 1998.
 
 Pelo Ministro da Agricultura, do Desenvolvimento Rural e das Pescas, Luís Manuel Capoulas Santos, Secretário de Estado da Agricultura e do Desenvolvimento Rural. - A Ministra da Saúde, Maria de Belém Roseira Martins Coelho Henriques de Pina.
 
@@ -125,7 +135,7 @@ Pelo Ministro da Agricultura, do Desenvolvimento Rural e das Pescas, Luís Manue
 
 Procedimentos relativos à instrução do processo de autorização de introdução no mercado de medicamentos veterinários.
 
-# PARTE I — Resumo do processo
+## PARTE I — Resumo do processo
 
 I.A. Informações administrativas. - Nos termos em vigor na União Europeia e divulgados pelo INFARMED e pela DGV nas instruções aos requerentes (formato CE) (ver nota i).
 
@@ -145,7 +155,7 @@ I.C. Relatórios de peritos:
 
 3) Sobre a documentação clínica.
 
-# PARTE II
+## PARTE II
 
 Documentação químico-farmacêutica (ensaios analíticos, tóxico-farmacológicos e clínicos), em conformidade com o anexo I à Portaria n.º .../98, de ...
 
@@ -169,7 +179,7 @@ II.I. Normas específicas para pré-misturas medicamentosas.
 
 II.Q. Outras informações.
 
-# PARTE III
+## PARTE III
 
 Documentação toxicológica e farmacológica, em conformidade com a secção 2 do anexo I à Portaria n.º .../98, de ...
 
@@ -207,7 +217,7 @@ Se a substância activa já foi avaliada de acordo com o estabelecido no Regulam
 
 Se não foi estabelecido um limite máximo de resíduos (LMR) pela Comunidade para a substância activa em avaliação e o medicamento se destinar a ser aplicado em animais que fazem parte da cadeia alimentar humana, esta deve ser primeiro avaliada e só depois de incluída no respectivo anexo ao Regulamento n.º 2377/90 pode submeter o pedido de autorização de introdução no mercado.
 
-# PARTE IV
+## PARTE IV
 
 Documentação clínica, de acordo com a secção 3 do anexo I à Portaria n.º .../98, de ...
 

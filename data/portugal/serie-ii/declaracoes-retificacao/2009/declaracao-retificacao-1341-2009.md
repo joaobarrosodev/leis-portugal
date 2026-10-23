@@ -26,7 +26,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/2s/2009/05/101000000/2095820958.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -48,18 +48,18 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/declaracao-rectificacao/1341-2009-2719226
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2009-05-26T00:00:00Z'
+  retrieved_at: '2026-10-23T14:00:24Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 2ee7a59ef860e3bb989f4cc109d6a6e7a484eeccba23076484b3896b1df53294
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 36a10e2ccca4b1b40527b4866942fdd6d033e2212af1864153f2df615ac01fad
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T14:00:24Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,22 +67,46 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects: []
-relationships: []
+relationships:
+- type: cites
+  target: pt:dre:1961061:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:243747:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:245335:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:520873:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:590719:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:603476:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T14:00:24Z'
   warnings: []
   errors: []
 ---
 
-# Declaração de Rectificação n.º 1341/2009
+# Declaração de rectificação n.º 1341/2009
 
 Para os devidos efeitos se declara que o despacho n.º 9721/2009, publicado na página 14272 do Diário da República, 2.ª série, n.º 69, de 08 de Abril de 2009, saiu com inexactidão, pelo que é o mesmo republicado, com as devidas alterações:
 
@@ -107,3 +131,5 @@ Determina ainda, ao abrigo do artigo 137.º do CPA, a ratificação de todos os 
 O presente despacho produz efeitos a partir da data da sua assinatura."
 
 12 de Maio de 2009. - A Directora, Fernanda Piedade Martins Chilrito Mendes Bernardo.
+
+201813099

@@ -20,7 +20,7 @@ publication:
   reference: Diário da República n.º 273/1998, 1º Suplemento, Série I-B de 1998-11-25
   number: '273'
   series: I
-  supplement: 1º Suplemento
+  supplement: null
   pages: 6554-(2) a 6554-(2)
   pdf_url: https://files.diariodarepublica.pt/1s/1998/11/273b01/00020002.pdf
 entry_into_force_dates: []
@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/997-a/1998/11/25/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/997-a-1998-277363
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1998-11-25T00:00:00Z'
+  retrieved_at: '2026-10-23T14:12:26Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 52fa85bd03e11d778666c45f59aeb69127fe801101f2c40ba9d13d0b495f71bd
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: e7369d7649891011df641a3786afcd9b7a37a7c39447bba564b394257ad3497b
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T14:12:26Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,13 +66,13 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Imposto sobre Produtos Petrolíferos
 - Combustível
-- Gasolina
+- Comércio
 - Contribuições e Impostos
+- Gasolina
+- Imposto sobre Produtos Petrolíferos
 - Preço
 - Taxa
-- Comércio
 relationships:
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/124/1994/05/18/p/dre
@@ -82,16 +82,24 @@ relationships:
   target: eli:http://data.dre.pt/eli/port/53-a/1998/02/04/p/dre
   label: null
   source: http://data.dre.pt/eli/port/53-a/1998/02/04/p/dre
+- type: cites
+  target: pt:dre:262357:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:406336:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T14:12:26Z'
   warnings: []
   errors: []
 ---
@@ -114,6 +122,6 @@ Manda o Governo, pelos Ministros das Finanças e da Economia, em cumprimento do 
 
 Ministérios das Finanças e da Economia.
 
-**Assinada em 23 de Novembro de 1998.**
+Assinada em 23 de Novembro de 1998.
 
 Pelo Ministro das Finanças, João Carlos da Costa Ferreira da Silva, Secretário de Estado do Orçamento. - Pelo Ministro da Economia, Vítor Manuel Sampaio Caetano Ramalho, Secretário de Estado Adjunto do Ministro da Economia.

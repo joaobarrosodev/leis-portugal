@@ -48,18 +48,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/493/2000/07/24/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/493-2000-321344
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2000-07-24T00:00:00Z'
+  retrieved_at: '2026-10-23T14:23:57Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 3e8f6cdc81dd884c46681c5f3f3425062bbec207bb254ab69e6c0822256629b9
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: e8e66ca3f4b045173e32eaeb2cfcc71ddf584b0d94c6188a20b9d112e5143e9f
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T14:23:57Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -70,8 +70,8 @@ subjects:
 - Bacharelato
 - Curso de Marketing e Publicidade
 - Ensino Superior Politécnico
-- Instituto Superior de Ciências Empresariais e do Turismo
 - Instituto Politécnico
+- Instituto Superior de Ciências Empresariais e do Turismo
 - Licenciatura
 relationships:
 - type: cites
@@ -114,16 +114,64 @@ relationships:
   target: eli:http://data.dre.pt/eli/port/854/19
   label: null
   source: http://data.dre.pt/eli/port/854/19
+- type: cites
+  target: pt:dre:147873:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:150335:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:273989:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:289611:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:300227:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:429596:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:512030:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:533820:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:554844:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:616604:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:618546:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:661077:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T14:23:57Z'
   warnings: []
   errors: []
 ---

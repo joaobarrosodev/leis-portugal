@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/238/1999/04/06/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/238-1999-548576
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1999-04-06T00:00:00Z'
+  retrieved_at: '2026-10-23T14:14:07Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 6a8e8067c1bc18f43f4b4643f5c4e5a79e31aa5655d62c991eb8eeea519e51c1
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: f40df419fe2fd0095c8ec61673db39a78400015ce0b49df1837f89d2779d83fb
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T14:14:07Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -69,17 +69,21 @@ subjects:
 - Arrendamento Rural
 - Exploração Agrícola
 - Prédio Rústico
-relationships: []
+relationships:
+- type: cites
+  target: pt:dre:354121:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T14:14:07Z'
   warnings: []
   errors: []
 ---
@@ -118,7 +122,7 @@ b) Seareiro/campanheiro - agricultor autónomo, titular de uma exploração do t
 
 5.º Findo o período contratual, o seareiro/campanheiro é obrigado a restituir os prédios ou parcelas objecto do contrato no estado em que as recebeu, ressalvadas as deteriorações inerentes a uma prudente utilização, sob pena de pagamento de indemnização, nos termos da lei geral.
 
-**O Ministro da Agricultura, do Desenvolvimento Rural e das Pescas, Luís Manuel Capoulas Santos, em 18 de Março de 1999.**
+O Ministro da Agricultura, do Desenvolvimento Rural e das Pescas, Luís Manuel Capoulas Santos, em 18 de Março de 1999.
 
 ## ANEXO — Tabela a que se refere o n.º 3.º
 

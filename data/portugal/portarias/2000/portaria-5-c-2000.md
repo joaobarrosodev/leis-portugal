@@ -20,7 +20,7 @@ publication:
   reference: Diário da República n.º 3/2000, 2º Suplemento, Série I-B de 2000-01-05
   number: '3'
   series: I
-  supplement: 2º Suplemento
+  supplement: null
   pages: 42-(4) a 42-(6)
   pdf_url: https://files.diariodarepublica.pt/1s/2000/01/003b02/00040006.pdf
 entry_into_force_dates: []
@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/5-c/2000/01/05/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/5-c-2000-570521
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2000-07-12T00:00:00Z'
+  retrieved_at: '2026-10-23T14:24:02Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: aeaebfdc49efb298f82ca4787c57be9a2fef49cb81b878ccf071346cf27e7c06
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 9ae2bc79212352b08595244299dac66bec560005f73d5e4a2cb737e646c0e464
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T14:24:02Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,23 +66,28 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
+- Armador
+- Cessação de Actividade
+- Comunidade Europeia
+- Embarcação de Pesca
 - Financiamento
+- Marrocos
+- Pesca
 - Pescador
 - Pessoal do MAR
-- Comunidade Europeia
-- Cessação de Actividade
-- Pesca
-- Marrocos
 - Prémio de Imobilização
-- Armador
 - Regime de Apoio
 - Regulamento
-- Embarcação de Pesca
 relationships:
 - type: amended_by
   target: pt:dre:150281:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:150281:por
+  label: "Prorrogado o período de vigência pela PORT.393-B/2000.2000.07.12.MADRP, DR.IS-B [159]2ºSUPL\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/393-b-2000-150281
+  date: '2000-07-12'
 - type: cites
   target: celex:31998R2468
   label: null
@@ -90,13 +95,13 @@ relationships:
 article_structure:
   article_count: 8
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T14:24:02Z'
   warnings: []
   errors: []
 ---
@@ -209,13 +214,13 @@ O pagamento dos apoios previstos neste Regulamento é feito pelo IFADAP.
 
 Cálculo do prémio de imobilização temporária para embarcações com comprimento entre perpendiculares (cpp) até 24 m
 
-[(ver tabela no documento original)](https://files.diariodarepublica.pt/1s/2000/01/003b02/00040006.pdf)
+[[(ver tabela no documento original)](https://files.diariodarepublica.pt/1s/2000/01/003b02/00040006.pdf)](https://files.diariodarepublica.pt/1s/2000/01/003b02/00040006.pdf)
 
 TABELA 2
 
 Cálculo do prémio de imobilização temporária para embarcações com comprimento entre perpendiculares (cpp) maior que 24 m
 
-[(ver tabela no documento original)](https://files.diariodarepublica.pt/1s/2000/01/003b02/00040006.pdf)
+[[(ver tabela no documento original)](https://files.diariodarepublica.pt/1s/2000/01/003b02/00040006.pdf)](https://files.diariodarepublica.pt/1s/2000/01/003b02/00040006.pdf)
 
 ## ANEXO II — Minuta de requerimento
 

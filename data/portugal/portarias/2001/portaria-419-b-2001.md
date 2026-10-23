@@ -19,12 +19,12 @@ publication:
   reference: Diário da República n.º 91/2001, 1º Suplemento, Série I-B de 2001-04-18
   number: '91'
   series: I
-  supplement: 1º Suplemento
+  supplement: null
   pages: 2294-(2) a 2294-(4)
   pdf_url: https://files.diariodarepublica.pt/1s/2001/04/091b01/00020004.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/419-b/2001/04/18/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/419-b-2001-468398
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2013-11-29T00:00:00Z'
+  retrieved_at: '2026-10-23T14:32:07Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: af28b9500de1f91210ecfae970427909c8e7e23e9a9322e0e5817475b0719e2e
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 21742a6dd7cf1a86ebb4825312b8efbe8569b0c1b9b155777545abbb62b23d57
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T14:32:07Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -65,15 +65,48 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Pesca
 - Licenciamento
-- Regulamento
+- Pesca
 - Pesca por ARTE de Arrasto
+- Regulamento
 relationships:
 - type: amended_by
   target: pt:dre:484165:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:445525:por
+  label: "Prorrogado até 31 de Dezembro de 2005 o prazo previsto no n.º 3 do artigo 8.º e n.º 2 do artigo 30.º do Regulamento\
+    \ da Pesca por Arte de Arrasto, aprovado pela Portaria n.º 1102-E/2000, de 22 de Novembro, na redacção dada pelo presente\
+    \ diploma, pela PORT.1300/2003.20.11.2003.MADRP, DR.IS-B [269] de 20.11.2003\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/1300-2003-445525
+  date: '2003-11-20'
+- type: amended_by
+  target: pt:dre:302512:por
+  label: "Alterados os arts. 8.º, 17.º e 30.º do Regulamento da Pesca por Arte de Arrasto aprovado pela Port 1102-E/2000,\
+    \ de 22-Nov, na redacção do presente diploma, pela PORT.1423-B/2003.31.12.2003.MADRP, DR.IS-B [301]3ºSupl de 31.12.2003\0\
+    3\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/1423-b-2003-302512
+  date: '2003-12-31'
+- type: amended_by
+  target: pt:dre:538633:por
+  label: "Alterados os arts 8.º, 17.º e 23.º do Regulamento, aprovado pela Port 1102-E/2000, de 22-Nov, na redacção do presente\
+    \ diploma, pela Port.769/2006.07.08.2006.MADRP, DR.IS [151] de 07.08.2006 e republicado o Regulamento com as alterações\
+    \ que lhe foram introduzidas\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/769-2006-538633
+  date: '2006-08-07'
+- type: amended_by
+  target: pt:dre:541607:por
+  label: "Alterados os arts. 8º, 23º e o anexo do Regulamento da Pesca por Arte de Arrasto, aprovado pela Port 1102-/2000\
+    \ de 22-Nov, na redacção do presente diploma, pela PORT.1067/2006.28.09.2006.MADRP, DR.IS [188] de 28.09.2006\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/1067-2006-541607
+  date: '2006-09-28'
+- type: amended_by
+  target: pt:dre:484165:por
+  label: "Alterado o art. 17º do Regulamento da Pesca por Arte de Arrasto, aprovado pela Port. 1102-E/2000, de 22-nov, na\
+    \ redação do presente diploma pela PORT.349/2013.29.11.2013.MAGM, DR.IS [232] de 29.11.2013\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/349-2013-484165
+  date: '2013-11-29'
 - type: cites
   target: eli:http://data.dre.pt/eli/decregul/7/2000/05/30/p/dre
   label: null
@@ -82,16 +115,28 @@ relationships:
   target: eli:http://data.dre.pt/eli/port/1102-e/2000/11/22/p/dre
   label: null
   source: http://data.dre.pt/eli/port/1102-e/2000/11/22/p/dre
+- type: cites
+  target: pt:dre:284922:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:292958:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:420460:por
+  label: null
+  source: null
 article_structure:
-  article_count: 8
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T14:32:07Z'
   warnings: []
   errors: []
 ---
@@ -126,7 +171,9 @@ b) Do arrasto de vara e das embarcações que utilizem redes camaroeiras e do pi
 
 3 - Às embarcações com arqueação inferior a 36 GT que, à data de entrada em vigor do presente Regulamento, se encontram registadas na Capitania de Cascais e licenciadas para arrasto de peixe, não se aplica o disposto no número anterior até 31 de Dezembro de 2003, podendo operar por fora da linha de base recta entre os cabos Raso e Espichel, mas nunca a menos de 6 milhas de distância à linha de costa.
 
-###### Artigo 17.º — Características da ganchorra rebocada por embarcação
+Artigo 17.º
+
+Características da ganchorra rebocada por embarcação
 
 ...
 
@@ -134,7 +181,9 @@ b) Do arrasto de vara e das embarcações que utilizem redes camaroeiras e do pi
 
 ...
 
-###### Artigo 21.º — Interdição do exercício da pesca
+Artigo 21.º
+
+Interdição do exercício da pesca
 
 1 - O período de interdição para captura de todas as espécies de moluscos bivalves e para todas as zonas de operação é fixado, por motivos biológicos, entre 1 de Maio e 15 de Junho de cada ano.
 
@@ -142,11 +191,15 @@ b) Do arrasto de vara e das embarcações que utilizem redes camaroeiras e do pi
 
 3 - No período previsto no n.º 1 é permitido capturar até 5 kg diários de conquilha, por pescador devidamente licenciado para a utilização de ganchorra de mão.
 
-###### Artigo 23.º — Espécies alvo
+Artigo 23.º
+
+Espécies alvo
 
 A pesca com arte de arrasto de vara só pode ser exercida quando dirigida à captura de camarões-negros (Crangon spp.), camarões das espécies Pandalus spp. e Palaemon spp. e pilado (Polybius henslowii).
 
-###### Artigo 24.º — Caracterização da arte
+Artigo 24.º
+
+Caracterização da arte
 
 A rede de arrasto de vara obedece às seguintes características:
 
@@ -156,7 +209,9 @@ b) Altura máxima do patim ou da abertura, na vertical, da boca da rede - 0,65 m
 
 c) (Revogado.)
 
-###### Artigo 26.º — Área de actuação
+Artigo 26.º
+
+Área de actuação
 
 1 - Sem prejuízo do disposto no número seguinte, a pesca com redes de arrasto de vara só pode ser exercida nas áreas de jurisdição das capitanias dos portos de Caminha à Figueira da Foz e até à distância de 1,5 milhas da costa.
 
@@ -164,17 +219,23 @@ c) (Revogado.)
 
 3 - (Anterior n.º 2.)
 
-###### Artigo 27.º — Período hábil de pesca
+Artigo 27.º
+
+Período hábil de pesca
 
 1 - A pesca com rede de arrasto de vara com classe de malhagem de 20 mm a 31 mm só pode ser exercida de 1 de Outubro a 31 de Março.
 
 2 - A pesca com rede de arrasto de vara com classe de malhagem 32 mm a 54 mm só pode ser exercida de 1 de Julho a 31 de Maio.
 
-###### Artigo 28.º — Licenciamento
+Artigo 28.º
+
+Licenciamento
 
 Só podem ser licenciadas para a pesca com arrasto de vara, com uma das classes de malhagem referidas no anexo (20 mm a 31 mm ou 32 mm a 54 mm), embarcações de pesca que não disponham cumulativamente de licença para armadilhas destinadas à captura de camarão-branco-legítimo ou rede de levantar 'sombreira'.
 
-###### Artigo 30.º — Disposições transitórias
+Artigo 30.º
+
+Disposições transitórias
 
 1 - As embarcações que, à data da entrada em vigor do presente diploma, utilizem redes de arrasto de vara ou redes camaroeiras e do pilado, com portas, com características distintas das referidas no artigo 24.º deverão, até ao final do ano 2001, realizar as necessárias adaptações de modo a darem cumprimento àquele, com excepção das embarcações referidas no número seguinte.
 
@@ -182,8 +243,10 @@ Só podem ser licenciadas para a pesca com arrasto de vara, com uma das classes 
 
 3 - As embarcações referidas nos números anteriores deverão cumprir o disposto nos artigos 25.º a 29.º
 
-## ANEXO — Classes de malhagens, espécies alvo e percentagens de captura exigidas
+ANEXO
+
+Classes de malhagens, espécies alvo e percentagens de captura exigidas
 
 [(ver tabela no documento original)](https://files.diariodarepublica.pt/1s/2001/04/091b01/00020004.pdf)
 
-**O Ministro da Agricultura, do Desenvolvimento Rural e das Pescas, Luís Manuel Capoulas Santos, em 18 de Abril de 2001.**
+O Ministro da Agricultura, do Desenvolvimento Rural e das Pescas, Luís Manuel Capoulas Santos, em 18 de Abril de 2001.

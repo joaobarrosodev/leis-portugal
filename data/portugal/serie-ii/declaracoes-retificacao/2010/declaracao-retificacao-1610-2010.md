@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/2s/2010/08/156000000/4344143441.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -46,18 +46,18 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/declaracao-rectificacao/1610-2010-2213380
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2010-08-12T00:00:00Z'
+  retrieved_at: '2026-10-23T14:18:39Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 637288fa3562fcf155c6c8c3d5a86a775c28a21a1b6330c5a71872ccd416aca3
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 09a8e476773f06c29b881763df6d74bca659f36b655b3f9e206c364fae3f57ea
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T14:18:39Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -69,13 +69,13 @@ relationships: []
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T14:18:39Z'
   warnings: []
   errors: []
 ---
@@ -87,3 +87,5 @@ Declaração de rectificação n.º 1610/2010
 Por ter havido inexactidões no aviso n.º 15431/2010, publicado no Diário da República, 2.ª série, n.º 150, de 4 de Agosto de 2010, a p. 41559, referente ao procedimento concursal para preenchimento de 19 postos de trabalho, rectifica-se que, nas referências n.os 1 e 7, onde se lê «Divisão de Recursos Humanos, Expediente e Arquivo» deve ler-se «Divisão de Recursos Humanos, Formação e Expediente» e, na referência n.º 3, na coluna do número de postos de trabalho, onde se lê «2» deve ler-se «1».
 
 4 de Agosto de 2010. - A Directora de Serviços, Isabel Cordeiro Ferreira.
+
+203577896

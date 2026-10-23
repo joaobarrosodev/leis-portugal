@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/912/1997/09/11/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/912-1997-650101
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2010-12-16T00:00:00Z'
+  retrieved_at: '2026-10-23T14:05:48Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: f8ff6676c25aa9d777e851f474c719c479c815c3d98bc089e6644a42bf104f93
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: bff70c5533428770e3f4ffcf496caece9599c911d7f695416d5ddc54f88a77a9
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T14:05:48Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -74,6 +74,13 @@ relationships:
   target: pt:dre:306941:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:306941:por
+  label: "Dada nova redacção ao nº 1º da Port 889/2002 de 27-Jul, na renovação que efectuou à concessão da zona da caça atribuída\
+    \ pela Port 658/92 de 08-Jul, alterado pelo presente diploma, e desanexado um prédio rústico da referida zona de caça\
+    \ pela PORT.1280/2010.16.12.2010.MADRP, DR.IS [242] de 16.12.2010\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/1280-2010-306941
+  date: '2010-12-16'
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/251/1992/11/12/p/dre
   label: null
@@ -86,16 +93,36 @@ relationships:
   target: eli:http://data.dre.pt/eli/port/658/1992/07/08/p/dre
   label: null
   source: http://data.dre.pt/eli/port/658/1992/07/08/p/dre
+- type: cites
+  target: pt:dre:288023:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:417646:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:455890:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:534402:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:584874:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T14:05:48Z'
   warnings: []
   errors: []
 ---
@@ -128,8 +155,8 @@ Manda o Governo, pelo Ministro da Agricultura, do Desenvolvimento Rural e das Pe
 
 Ministério da Agricultura, do Desenvolvimento Rural e das Pescas.
 
-**Assinada em 8 de Agosto de 1997.**
+Assinada em 8 de Agosto de 1997.
 
 Pelo Ministro da Agricultura, do Desenvolvimento Rural e das Pescas, Luís Manuel Capoulas Santos, Secretário de Estado da Agricultura e do Desenvolvimento Rural.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1997/09/210b00/48454846.pdf))](https://files.diariodarepublica.pt/1s/1997/09/210b00/48454846.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1997/09/210b00/48454846.pdf)

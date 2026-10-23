@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1997/07/163b00/35373542.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/493/1997/07/17/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/493-1997-148226
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1997-10-31T00:00:00Z'
+  retrieved_at: '2026-10-23T14:03:08Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 9d090da8eea468a8b6ca09bceecfcd2ab71e093fa1cb5d462f62b2ca4465347f
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 35d12a0817302ba5771a64cfc5dc46015978b9395b373bd74611f6a5491b4bee
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T14:03:08Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -65,31 +65,59 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Ordenamento do Território
 - Odemira
-- Política de Solos
+- Ordenamento do Território
 - Plano de Pormenor
 - Plano de Urbanização
+- Política de Solos
 - Regulamento
 relationships:
 - type: amended_by
   target: pt:dre:162674:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:120712890:por
+  label: Tornada pública a aprovação por unanimidade da «proposta de revogação do Plano de Pormenor da Algoceira» do Municipio
+    de Odemira, ratificado pela presente Portaria, pelo(a) Aviso n.º 3827/2019 - Diário da República n.º 49/2019, Série II
+    de 2019-03-11
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/aviso/3827-2019-120712890
+  date: '2019-03-11'
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/211/1992/10/08/p/dre
   label: null
   source: http://data.dre.pt/eli/dec-lei/211/1992/10/08/p/dre
+- type: cites
+  target: pt:dre:228186:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:283514:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:332412:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:631400:por
+  label: null
+  source: null
+- type: corrected_by
+  target: pt:dre:162674:por
+  label: "Rectificada pela DECL-RECT.17-L/97.1997.10.31.PCM DR.IS-B [253]4ºSupl\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/declaracao-rectificacao/17-l-1997-162674
+  date: '1997-10-31'
 article_structure:
   article_count: 26
   section_count: 6
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T14:03:08Z'
   warnings: []
   errors: []
 ---
@@ -112,9 +140,9 @@ Manda o Governo, pelo Secretário de Estado da Administração Local e Ordenamen
 
 Ministério do Equipamento, do Planeamento e da Administração do Território.
 
-**Assinada em 16 de Junho de 1997.**
+Assinada em 16 de Junho de 1997.
 
-**O Secretário de Estado da Administração Local e Ordenamento do Território, José Augusto de Carvalho.**
+O Secretário de Estado da Administração Local e Ordenamento do Território, José Augusto de Carvalho.
 
 REGULAMENTO DO PLANO DE PORMENOR DE ALGOCEIRA
 
@@ -308,4 +336,4 @@ Número de habitantes por hectare = número máximo de fogos x três habitantes/
 
 Dados urbanísticos por lote
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1997/07/163b00/35373542.pdf))](https://files.diariodarepublica.pt/1s/1997/07/163b00/35373542.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1997/07/163b00/35373542.pdf)

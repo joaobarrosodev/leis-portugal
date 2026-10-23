@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/1254/1997/12/19/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/1254-1997-420673
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2007-09-07T00:00:00Z'
+  retrieved_at: '2026-10-23T14:00:28Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 07a406e7e846f05d5097a36036912ce2b8960d5e17584b9b3fb7daf58475e167
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: c0a89098a0ae405bcf683afe2c31f8aeb0bb32d83d91ef875e111ceb13d8715d
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T14:00:28Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -73,6 +73,18 @@ relationships:
   target: pt:dre:640305:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:328804:por
+  label: "Anexados vários prédios rústicos à zona de caça, pela PORT.849-I/2001.2001.07.25.MECO DR.IS-B [171]2º Supl\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/849-i-2001-328804
+  date: '2001-07-25'
+- type: amended_by
+  target: pt:dre:640305:por
+  label: "Desanexado o prédio rústico denominado «Carvalhal», da zona de caça turística da Herdade da Favaqueira, concessionada\
+    \ pelo presente diploma, alterado pela Port 849-I/2001 de 25-Jul, pela PORT.1118/2007.07.09.2007.MADRP, DR.IS [173] de\
+    \ 07.09.2007\07\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/1118-2007-640305
+  date: '2007-09-07'
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/136/1996/08/14/p/dre
   label: null
@@ -81,16 +93,40 @@ relationships:
   target: eli:http://data.dre.pt/eli/port/219-a/1991/03/18/p/dre
   label: null
   source: http://data.dre.pt/eli/port/219-a/1991/03/18/p/dre
+- type: cites
+  target: pt:dre:219134:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:354162:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:405765:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:619922:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:619925:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:620697:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T14:00:28Z'
   warnings: []
   errors: []
 ---
@@ -127,8 +163,8 @@ Manda o Governo, pelos Ministros da Economia e da Agricultura, do Desenvolviment
 
 Ministérios da Economia e da Agricultura, do Desenvolvimento Rural e das Pescas.
 
-**Assinada em 21 de Novembro de 1997.**
+Assinada em 21 de Novembro de 1997.
 
 Pelo Ministro da Economia, Jaime Serrão Andrez, Secretário de Estado do Comércio e Turismo. - Pelo Ministro da Agricultura, do Desenvolvimento Rural e das Pescas, Luís Manuel Capoulas Santos, Secretário de Estado da Agricultura e do Desenvolvimento Rural.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1997/12/292b00/67066706.pdf))](https://files.diariodarepublica.pt/1s/1997/12/292b00/67066706.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1997/12/292b00/67066706.pdf)

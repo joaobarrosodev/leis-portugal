@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/2s/2010/01/018000000/0412904129.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -46,18 +46,18 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/declaracao-rectificacao/166-2010-2628583
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2010-01-27T00:00:00Z'
+  retrieved_at: '2026-10-23T14:18:59Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: d6ab47b9f7e4ae5d9063bafe76edce159f5e0e722f1a975e8483be1a2d515292
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 549972848d34017a426c086da2d146ffe0d9077f3e1608eb00af65a997533894
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T14:18:59Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -69,13 +69,13 @@ relationships: []
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T14:18:59Z'
   warnings: []
   errors: []
 ---
@@ -105,3 +105,5 @@ Para um lugar de técnico superior de 1.ª classe, da carreira de engenharia civ
 os quais se integram entre a 3.ª e a 4.ª posição remuneratória e entre o nível 19 e 23 da tabela remuneratória única da Administração Pública, a que corresponde a remuneração mensal de (euro) 1 579,11, respectivamente, com efeitos a partir de 1 de Fevereiro de 2009».
 
 5 de Maio de 2009. - O Presidente da Câmara, José Alberto de Freitas Gonçalves.
+
+302758078

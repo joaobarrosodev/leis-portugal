@@ -48,18 +48,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/88/1997/02/05/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/88-1997-563874
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1997-03-31T00:00:00Z'
+  retrieved_at: '2026-10-23T14:05:33Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 6a47fd351f03d3689711a1b737147bfdcd5e83c1b42c78c1658c958cde904f19
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 6f163378627d6f2962d4215cb0b5a3b5a24ff82a0fc4c8e5e7bae68cf9f6b87c
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T14:05:33Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,11 +67,11 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
+- Benefícios Fiscais
 - Crédito Fiscal por Investimento
 - Investimento
 - Microempresa
 - Região Desfavorecida
-- Benefícios Fiscais
 relationships:
 - type: amended_by
   target: pt:dre:602494:por
@@ -81,16 +81,25 @@ relationships:
   target: eli:http://data.dre.pt/eli/dec-lei/200/1996/10/18/p/dre
   label: null
   source: http://data.dre.pt/eli/dec-lei/200/1996/10/18/p/dre
+- type: cites
+  target: pt:dre:226203:por
+  label: null
+  source: null
+- type: corrected_by
+  target: pt:dre:602494:por
+  label: "Rectificada pela DECL-RECT.6-P/97.1997.03.31.PCM, DR.IS-B [75]2ºSupl de 1997.03.31\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/declaracao-rectificacao/6-p-1997-602494
+  date: '1997-03-31'
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T14:05:33Z'
   warnings: []
   errors: []
 ---
@@ -107,8 +116,8 @@ Manda o Governo, pelos Ministros das Finanças, do Equipamento, do Planeamento e
 
 Ministérios das Finanças, do Equipamento, do Planeamento e da Administração do Território, da Economia e para a Qualificação e o Emprego.
 
-**Assinada em 27 de Dezembro de 1996.**
+Assinada em 27 de Dezembro de 1996.
 
 Pelo Ministro das Finanças, António Carlos dos Santos, Secretário de Estado dos Assuntos Fiscais. - Pelo Ministro do Equipamento, do Planeamento e da Administração do Território, Adriano Lopes Gomes Pimpão, Secretário de Estado do Desenvolvimento Regional. - O Ministro da Economia, Augusto Carlos Serra Ventura Mateus. - A Ministra para a Qualificação e o Emprego, Maria João Fernandes Rodrigues.
 
-## ANEXO — [([ver documento original](https://files.diariodarepublica.pt/1s/1997/02/030b00/06280629.pdf))](https://files.diariodarepublica.pt/1s/1997/02/030b00/06280629.pdf)
+## ANEXO — [(ver documento original)](https://files.diariodarepublica.pt/1s/1997/02/030b00/06280629.pdf)

@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/354/1997/05/26/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/354-1997-347499
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2003-01-29T00:00:00Z'
+  retrieved_at: '2026-10-23T14:02:12Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: c7e1d703a5c60c8e7cb42880693c3171fd67f10fe5e38ecf81f2a676e0e8b2ac
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: f8d23471caa2bc011b3bc87825bc8013782c51e82d6fedacee88deeab6017fdc
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T14:02:12Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -65,25 +65,41 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Instituto do Emprego e Formação Profissional
 - Centro de Formação Profissional para o Sector Alimentar
 - Formação Profissional
 - Indústria Alimentar
+- Instituto do Emprego e Formação Profissional
 relationships:
 - type: amended_by
   target: pt:dre:167071:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:434405:por
+  label: "Alterado o nº 1 e o protocolo homologado pela Port 446/87 de 27-Mai DR.IS [121], na redacção do presente diploma,\
+    \ pela PORT.669/99.1999.08.18.MTS DR.IS-B [192]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/669-1999-434405
+  date: '1999-08-18'
+- type: amended_by
+  target: pt:dre:105347306:por
+  label: Homologadas as alterações ao Protocolo que criou o CFPSA, publicado em anexo à Port. 446/87, de 27-mai, na redação
+    do presente diploma pelo(a) Portaria n.º 309/2016 - Diário da República n.º 236/2016, Série I de 2016-12-12
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/309-2016-105347306
+  date: '2016-12-12'
+- type: cites
+  target: pt:dre:421808:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T14:02:12Z'
   warnings: []
   errors: []
 ---
@@ -118,6 +134,6 @@ O Sindicato dos Trabalhadores de Escritório, Comércio, Serviços e Novas Tecno
 
 Ministério para a Qualificação e o Emprego.
 
-**Assinada em 29 de Abril de 1997.**
+Assinada em 29 de Abril de 1997.
 
-**A Ministra para a Qualificação e o Emprego, Maria João Fernandes Rodrigues.**
+A Ministra para a Qualificação e o Emprego, Maria João Fernandes Rodrigues.

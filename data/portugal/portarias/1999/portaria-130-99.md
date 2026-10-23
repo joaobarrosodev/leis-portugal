@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/130/1999/02/22/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/130-1999-165459
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2007-09-28T00:00:00Z'
+  retrieved_at: '2026-10-23T14:13:27Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: bbd64a87e101d4286b624ed8c624e8769f5d006bdd6914d6e69db63e98ad72f5
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 427d9633c068ac96acdb2d612f3d68a5b1d09daceae0201f4628caaff4c0a01a
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T14:13:27Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -73,6 +73,24 @@ relationships:
   target: pt:dre:642513:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:223459:por
+  label: "Anexados vários prédios rústicos à zona de caça criada pelo presente diploma, pela PORT.396/2004.19.04.2004.MECO,\
+    \ DR.IS-B [92] de 19.04.2004\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/396-2004-223459
+  date: '2004-04-19'
+- type: amended_by
+  target: pt:dre:348920:por
+  label: "Renovada, por um período de 12 anos, a concessão da zona de caça concessionada pelo presente diploma, alterado pela\
+    \ Port 396/2004, 19-Abr, pela PORT.1498/2004.28.12.2004.MAPF, DR.IS-B [302] de 28.12.2004\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/1498-2004-348920
+  date: '2004-12-28'
+- type: amended_by
+  target: pt:dre:642513:por
+  label: "Anexados vários prédios rústicos à zona de caça concessionada pelo presente diploma, alterado pelas Ports 396/2004,\
+    \ de 19-Abr e 1498/2004, de 28-Dez, pela PORT.1294/2007.28.09.2007.MADRP, DR.IS [188] de 28.09.2007\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/1294-2007-642513
+  date: '2007-09-28'
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/136/1996/08/14/p/dre
   label: null
@@ -81,16 +99,36 @@ relationships:
   target: eli:http://data.dre.pt/eli/port/219-a/1991/03/18/p/dre
   label: null
   source: http://data.dre.pt/eli/port/219-a/1991/03/18/p/dre
+- type: cites
+  target: pt:dre:219134:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:354162:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:405765:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:619925:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:620697:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T14:13:27Z'
   warnings: []
   errors: []
 ---
@@ -121,7 +159,7 @@ Manda o Governo, pelos Ministros da Economia e da Agricultura, do Desenvolviment
 
 Ministérios da Economia e da Agricultura, do Desenvolvimento Rural e das Pescas.
 
-**Assinada em 3 de Fevereiro de 1999.**
+Assinada em 3 de Fevereiro de 1999.
 
 Pelo Ministro da Economia, Vítor José Cabrita Neto, Secretário de Estado do Turismo. - Pelo Ministro da Agricultura, do Desenvolvimento Rural e das Pescas, Victor Manuel Coelho Barros, Secretário de Estado do Desenvolvimento Rural.
 

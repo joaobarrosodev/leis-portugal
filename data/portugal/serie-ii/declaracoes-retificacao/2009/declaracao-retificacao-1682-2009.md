@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/2s/2009/07/133000000/2738927389.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -47,18 +47,18 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/declaracao-rectificacao/1682-2009-3261195
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2009-07-13T00:00:00Z'
+  retrieved_at: '2026-10-23T14:02:33Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 9464a5247d977e3bdb0f864377099935bd7bc18f3ee26ff7ccabd12ee4a5eb2b
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: f299ded353b7b28014dc03a17aca14e99a98831811353cd7f407e8cbdc50a7fe
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T14:02:33Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -70,13 +70,13 @@ relationships: []
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T14:02:33Z'
   warnings: []
   errors: []
 ---
@@ -88,3 +88,5 @@ Declaração de rectificação n.º 1682/2009
 Por ter saído com inexactidão no Diário da República n.º 123, 2.ª Série, de 29 de Junho de 2009, o aviso n.º 11473/2009 para abertura do concurso interno geral de acesso para chefe de serviço hospitalar de imuno-hemoterapia de mapa de pessoal do Centro de Histocompatibilidade do Sul, se rectifica que onde se lê «2.º vogal suplente: Dr.ª Maria Paula Queiroz de Seixas Neto» deve ler-se «2.º vogal suplente: Dr.ª Maria Paula Queiroz de Seiça Neto».
 
 3 de Julho de 2009. - O Director, Helder Fernando Branco Trindade.
+
+202004006

@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/452/1999/06/22/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/452-1999-391605
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1999-06-22T00:00:00Z'
+  retrieved_at: '2026-10-23T14:15:33Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: e9d4a62631514777a9ee4c50c17272aa8f25150d44dd5c6172fb6001018aa9bf
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 9e5cb3b6187870fd4e29650ea069981dedea52c31b82c75dc1dd03e8c14221ae
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T14:15:33Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -68,25 +68,33 @@ reuse:
 subjects:
 - Ajudas de Custo
 - Deslocação ao Estrangeiro
-- Marinha
-- Missão Oficial
 - Forças Armadas
+- Marinha
 - Militar
+- Missão Oficial
 relationships:
 - type: cites
   target: eli:http://data.dre.pt/eli/port/147/1999/02/27/p/dre
   label: null
   source: http://data.dre.pt/eli/port/147/1999/02/27/p/dre
+- type: cites
+  target: pt:dre:165192:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:381570:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T14:15:33Z'
   warnings: []
   errors: []
 ---
@@ -125,4 +133,4 @@ Praças - 17844$00.
 
 Em 24 de Maio de 1999.
 
-**O Primeiro-Ministro, António Manuel de Oliveira Guterres. - O Ministro da Defesa Nacional, José Veiga Simão. - Pelo Ministro das Finanças, João Carlos da Costa Ferreira da Silva, Secretário de Estado do Orçamento. - O Ministro Adjunto, Jorge Paulo Sacadura Almeida Coelho.**
+O Primeiro-Ministro, António Manuel de Oliveira Guterres. - O Ministro da Defesa Nacional, José Veiga Simão. - Pelo Ministro das Finanças, João Carlos da Costa Ferreira da Silva, Secretário de Estado do Orçamento. - O Ministro Adjunto, Jorge Paulo Sacadura Almeida Coelho.

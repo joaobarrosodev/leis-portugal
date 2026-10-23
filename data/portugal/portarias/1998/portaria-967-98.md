@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/967/1998/11/12/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/967-1998-233944
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2008-01-11T00:00:00Z'
+  retrieved_at: '2026-10-23T14:12:16Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 5d2f84ab13132095e8b2c15f1937ae9b5448a05be5c3f2f23f4479d528ce22eb
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 541b3727e09d1b089cffe58c2a43ad5c9c663520bbf7412e8a995b43757cc264
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T14:12:16Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,37 +66,47 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Produto Alimentar
-- Região Autónoma
-- Organização Interprofissional
-- Investigação Científica e Tecnológica
 - Conselho Nacional de Agricultura do Desenvolvimento Rural e das Pescas
 - Definição de Competências
 - Direito Privado
 - Gabinete de Planeamento e Política Agro-alimentar
+- Investigação Científica e Tecnológica
 - Mercado Agrícola
+- Organização Interprofissional
 - Pessoa Coletiva
 - Política Agrícola
 - Produto Agrícola
+- Produto Alimentar
+- Região Autónoma
 relationships:
 - type: amended_by
   target: pt:dre:386608:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:386608:por
+  label: "Alterados os n.ºs 2º, 4º e 8º do presente diploma, pela PORT.35/2008.11.01.2008.MADRP, DR.IS [8] de 11.01.2008\0\
+    \0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/35-2008-386608
+  date: '2008-01-11'
 - type: cites
   target: eli:http://data.dre.pt/eli/lei/123/1997/11/13/p/dre
   label: null
   source: http://data.dre.pt/eli/lei/123/1997/11/13/p/dre
+- type: cites
+  target: pt:dre:687460:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T14:12:16Z'
   warnings: []
   errors: []
 ---
@@ -167,6 +177,6 @@ b) Acordo escrito e assinado pelos representantes das organizações interprofis
 
 Ministério da Agricultura, do Desenvolvimento Rural e das Pescas.
 
-**Assinada em 28 de Setembro de 1998.**
+Assinada em 28 de Setembro de 1998.
 
-**O Ministro da Agricultura, do Desenvolvimento Rural e das Pescas, Fernando Manuel Van-Zeller Gomes da Silva.**
+O Ministro da Agricultura, do Desenvolvimento Rural e das Pescas, Fernando Manuel Van-Zeller Gomes da Silva.

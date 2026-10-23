@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/2s/2010/07/146000000/4082940829.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -46,18 +46,18 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/declaracao-rectificacao/1517-2010-761703
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2010-07-29T00:00:00Z'
+  retrieved_at: '2026-10-23T14:18:09Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 967225c06c73b086e7e36839eddb326d1bd65cbe41c786628da7b63d3725cf6d
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: b3e4a2e940487ff07b105fba5c3f068839b25a39fdd835d0c2d8f897010aec2b
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T14:18:09Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -69,13 +69,13 @@ relationships: []
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T14:18:09Z'
   warnings: []
   errors: []
 ---
@@ -89,3 +89,5 @@ Rectificação do aviso n.º 12911/2010, publicado no Diário da República, 2.�
 Rectifica-se que, no aviso, onde se lê «Procedimento concursal com vista a celebração de contrato de trabalho em funções públicas por tempo indeterminado com quatro Técnicos superiores na área de Segurança Alimentar» deve ler-se «Procedimento concursal com vista a celebração de contrato de trabalho em funções públicas por tempo indeterminado com dois técnicos superiores na área de segurança alimentar».
 
 17 de Julho de 2010. - Pelo Presidente da Câmara, a Directora do Departamento de Gestão de Recursos Humanos, Célia Matos.
+
+303500036

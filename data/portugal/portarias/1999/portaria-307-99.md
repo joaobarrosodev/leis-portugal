@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/307/1999/05/06/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/307-1999-333494
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1999-05-06T00:00:00Z'
+  retrieved_at: '2026-10-23T14:14:32Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 74981c6df28f3b4c3d5611322880801ec231279d6df3e55b71f864a03d3253ae
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: f96d021cc3f9b21988c9282adddaf6fafc48f4e359d4e34b789461c2975d44d5
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T14:14:32Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -65,17 +65,17 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Lisboa
-- Pessoal de Justiça
-- Tribunal de Comarca
 - Coimbra
-- Quadro de Pessoal
+- Lisboa
 - Ministério Público
+- Pessoal de Justiça
+- Quadro de Pessoal
 - Secretaria Judicial
 - Supremo Tribunal Administrativo
 - Tribunal Administrativo
 - Tribunal da Relação
 - Tribunal de Círculo
+- Tribunal de Comarca
 relationships:
 - type: cites
   target: eli:http://data.dre.pt/eli/port/1177/1993/11/10/p/dre
@@ -117,16 +117,60 @@ relationships:
   target: eli:http://data.dre.pt/eli/port/835/1998/09/30/p/dre
   label: null
   source: http://data.dre.pt/eli/port/835/1998/09/30/p/dre
+- type: cites
+  target: pt:dre:244891:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:384605:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:395149:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:422859:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:478061:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:521838:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:571199:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:581269:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:586375:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:650730:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:668157:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
-  section_count: 4
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  section_count: 0
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T14:14:32Z'
   warnings: []
   errors: []
 ---
@@ -139,7 +183,7 @@ Ao abrigo do disposto no n.º 1 do artigo 2.º do [Decreto-Lei n.º 376/87](http
 
 Manda o Governo, pelos Ministros das Finanças, Adjunto e da Justiça, que os quadros de pessoal das secretarias judiciais e das secretarias dos tribunais administrativos indicados no mapa anexo, aprovados pela [Portaria n.º 1177/93](https://diariodarepublica.pt/dr/detalhe/portaria/1177-1993-581269), de 10 de Novembro, rectificada pela declaração publicada no Diário da República, 1.ª série, n.º 25, de 31 de Janeiro de 1994, e alterada pelas Portarias n.os [816/94](https://diariodarepublica.pt/dr/detalhe/portaria/816-1994-586375), de 16 de Setembro, [1258/95](https://diariodarepublica.pt/dr/detalhe/portaria/1258-1995-668157), de 24 de Outubro, [245/96](https://diariodarepublica.pt/dr/detalhe/portaria/245-1996-422859), de 8 de Julho, [63/97](https://diariodarepublica.pt/dr/detalhe/portaria/63-1997-571199), de 28 de Janeiro, [306/97](https://diariodarepublica.pt/dr/detalhe/portaria/306-1997-384605), de 9 de Maio, [311/97](https://diariodarepublica.pt/dr/detalhe/portaria/311-1997-395149), de 13 de Maio, [299/98](https://diariodarepublica.pt/dr/detalhe/portaria/299-1998-521838), de 18 de Maio, [372/98](https://diariodarepublica.pt/dr/detalhe/portaria/372-1998-478061), de 1 de Julho, e [835/98](https://diariodarepublica.pt/dr/detalhe/portaria/835-1998-244891), de 30 de Setembro, passem a ter a composição constante do mesmo, o qual faz parte integrante da presente portaria.
 
-**Assinada em 20 de Abril de 1999.**
+Assinada em 20 de Abril de 1999.
 
 Pelo Ministro das Finanças, João Carlos da Costa Ferreia da Silva, Secretário de Estado do Orçamento. - Pelo Ministro Adjunto, Fausto de Sousa Correio, Secretário de Estado da Administração Pública e da Modernização Administrativa. - Pelo Ministro da Justiça, José Manuel de Matos Fernandes, Secretário de Estado Adjunto do Ministro da Justiça.
 
@@ -217,7 +261,7 @@ Coimbra
 
 Tribunal de comarca
 
-#### Secção central com nove secções de processos, sendo cinco afectas aos juízos de competência especializada cível e quatro afectas aos juízos de competência especializada criminal:
+Secção central com nove secções de processos, sendo cinco afectas aos juízos de competência especializada cível e quatro afectas aos juízos de competência especializada criminal:
 
 Pessoal:
 
@@ -233,7 +277,7 @@ Auxiliar administrativo (ver nota a) ... 1
 
 Serviços do Ministério Público
 
-#### Secção central e duas secções de processos:
+Secção central e duas secções de processos:
 
 Pessoal:
 
@@ -253,7 +297,7 @@ Tribunais administrativos
 
 Supremo Tribunal Administrativo
 
-#### Secção de expediente e contabilidade, cinco secções de processos e serviços de apoio:
+Secção de expediente e contabilidade, cinco secções de processos e serviços de apoio:
 
 Pessoal:
 
@@ -315,7 +359,7 @@ Técnico de justiça auxiliar ... 3
 
 Tribunal Administrativo do Círculo de Lisboa
 
-#### Secção central, duas secções de processos e serviços de apoio:
+Secção central, duas secções de processos e serviços de apoio:
 
 Pessoal:
 

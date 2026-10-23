@@ -26,7 +26,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/2s/2010/07/131000000/3699536995.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -48,18 +48,18 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/declaracao-rectificacao/1327-2010-2925892
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2010-07-08T00:00:00Z'
+  retrieved_at: '2026-10-23T14:16:58Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: e9c537b1afb9479f2a952429efcf1cbe072ee164b3c623de33cfc4794d2e8488
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 6431e604f4502184ba5306d45cb9e9195f00a920622fa35dec3994052b4a1ed0
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T14:16:58Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,22 +67,26 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects: []
-relationships: []
+relationships:
+- type: cites
+  target: pt:dre:243732:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T14:16:58Z'
   warnings: []
   errors: []
 ---
 
-# Declaração de Rectificação n.º 1327/2010
+# Declaração de rectificação n.º 1327/2010
 
 Por ter saído com inexactidão no aviso n.º 13 142/2010, publicado no Diário da República, 2.ª série, n.º 126, de 1 de Julho de 2010, o n.º 8, rectifica-se que onde se lê:
 
@@ -93,3 +97,5 @@ deve ler-se:
 «8 - A posição remuneratória na qual se enquadra a categoria do assistente técnico a contratar situa-se entre a 6.ª e a 7.ª e os níveis remuneratórios entre o 11 e o 12 da tabela remuneratória única, aprovada pela [Portaria n.º 1553-C/2008](https://diariodarepublica.pt/dr/detalhe/portaria/1553-c-2008-243732), de 31 de Dezembro, sendo as remunerações base mínima e máxima a auferir no ano de 2010, respectivamente de (euro) 995,51 e de (euro) 1047.»
 
 2 de Julho de 2010. - A Directora, Fernanda da Piedade Martins Chilrito Mendes Bernardo.
+
+203443961

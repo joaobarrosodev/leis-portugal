@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/2s/2010/05/102000000/2909629096.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -46,18 +46,18 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/declaracao-rectificacao/1034-2010-2829679
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2010-05-26T00:00:00Z'
+  retrieved_at: '2026-10-23T14:15:13Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 5f40546fb96f2a376b4f5c69427a9909950b381b9f960d94f8bfa3678ae556c8
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 92a95464676c13785cbf5d21bb33df2c482305e2ade9f8b864bd6284e638d17e
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T14:15:13Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -65,29 +65,43 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects: []
-relationships: []
+relationships:
+- type: cites
+  target: pt:dre:453975:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:544667:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:604625:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T14:15:13Z'
   warnings: []
   errors: []
 ---
 
-# Declaração de Rectificação n.º 1034/2010
+# Declaração de rectificação n.º 1034/2010
 
 Por ter saído com inexactidão no Diário da República, n.º 88, de 6 de Maio de 2010, e no despacho n.º 8015/2010, relativo à homologação dos contratos a termo Certo referentes ao ano lectivo de 2009-2010, celebrados nos termos da [Lei n.º 59/2008](https://diariodarepublica.pt/dr/detalhe/lei/59-2008-453975), de 11 de Setembro, decorrente de procedimento concursal previsto no [Decreto-Lei n.º 20/2006](https://diariodarepublica.pt/dr/detalhe/decreto-lei/20-2006-544667), de 31 de Janeiro, com a redacção do [Decreto-Lei n.º 51/2009](https://diariodarepublica.pt/dr/detalhe/decreto-lei/51-2009-604625), de 27 de Fevereiro, rectifica-se que onde se lê:
 
-[([ver documento original](https://files.diariodarepublica.pt/2s/2010/05/102000000/2909629096.pdf))](https://files.diariodarepublica.pt/2s/2010/05/102000000/2909629096.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/2s/2010/05/102000000/2909629096.pdf)
 
 deve ler-se:
 
-[([ver documento original](https://files.diariodarepublica.pt/2s/2010/05/102000000/2909629096.pdf))](https://files.diariodarepublica.pt/2s/2010/05/102000000/2909629096.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/2s/2010/05/102000000/2909629096.pdf)
 
 14 de Maio de 2010. - A Directora, Maria João Vaz da Ribeira Alves.
+
+303262561

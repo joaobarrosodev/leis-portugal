@@ -20,7 +20,7 @@ publication:
   reference: Diário da República n.º 248/2001, 2º Suplemento, Série I-B de 2001-10-25
   number: '248'
   series: I
-  supplement: 2º Suplemento
+  supplement: null
   pages: 6856-(4) a 6856-(4)
   pdf_url: https://files.diariodarepublica.pt/1s/2001/10/248b02/00040004.pdf
 entry_into_force_dates: []
@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/1232-a/2001/10/25/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/1232-a-2001-299607
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2007-08-09T00:00:00Z'
+  retrieved_at: '2026-10-23T14:28:52Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 2e4952fdc39c358d0bd51014474c3a8ab384877d11d79254cb2bf99400616221
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: c85d8ec4a11b92375aac26f0c72e3f037eb3ac4a064bb5e1416cdbc45982180d
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T14:28:52Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,13 +67,13 @@ reuse:
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
 - Ajuda Comunitária
-- Financiamento
 - Desenvolvimento Rural
-- Modernização Industrial
-- Regulamento de Aplicação da Medida Dez-serviços Agro-rurais Especializados
-- Modernização do Sector Agrícola
-- Programa AGRO
+- Financiamento
 - Ifadap
+- Modernização do Sector Agrícola
+- Modernização Industrial
+- Programa AGRO
+- Regulamento de Aplicação da Medida Dez-serviços Agro-rurais Especializados
 relationships:
 - type: amended_by
   target: pt:dre:637457:por
@@ -87,16 +87,24 @@ relationships:
   target: eli:http://data.dre.pt/eli/port/1161/2000/12/07/p/dre
   label: null
   source: http://data.dre.pt/eli/port/1161/2000/12/07/p/dre
+- type: cites
+  target: pt:dre:220892:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:584462:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T14:28:52Z'
   warnings: []
   errors: []
 ---
@@ -129,4 +137,4 @@ e) Organizações de entidades gestoras ou concessionárias de zonas de caça, d
 
 f) Centros tecnológicos.»
 
-**O Ministro da Agricultura, do Desenvolvimento Rural e das Pescas, Luís Manuel Capoulas Santos, em 15 de Outubro de 2001.**
+O Ministro da Agricultura, do Desenvolvimento Rural e das Pescas, Luís Manuel Capoulas Santos, em 15 de Outubro de 2001.

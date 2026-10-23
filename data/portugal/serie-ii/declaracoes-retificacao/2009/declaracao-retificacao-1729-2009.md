@@ -26,7 +26,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/2s/2009/07/138000000/2834828348.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -48,18 +48,18 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/declaracao-rectificacao/1729-2009-3083732
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2009-07-20T00:00:00Z'
+  retrieved_at: '2026-10-23T14:02:48Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 92d41d0c180f3ce079faf1c153b1f1b8f5cb4062eed49c00068cbe0cb4e8a62d
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: cecc5412199710ddcbe22d7db82997e2b76194b71533309bea7379d662348781
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T14:02:48Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -71,13 +71,13 @@ relationships: []
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T14:02:48Z'
   warnings: []
   errors: []
 ---
@@ -89,3 +89,5 @@ Declaração de rectificação n.º 1729/2009
 Por ter sido publicada com inexactidão a deliberação (extracto) n.º 1706/2009, no Diário da República, 2.ª série, n.º 116, de 18 de Junho de 2009, a p. 24161, referente ao concurso interno condicionado da Técnica de Diagnostico e Terapêutica, Leonor Silva Campos, do mapa de pessoal do Centro Hospitalar de Setúbal, E. P. E., rectifica-se onde se lê «de técnico especialista de Cardiopneumologia da Carreira Técnica de Diagnostico e Terapêutica», deve ler-se «de técnico principal de Cardiopneumologia da Carreira Técnica de Diagnostico e Terapêutica».
 
 15 de Julho de 2009. - O Presidente do Conselho de Administração, Alfredo Lacerda Cabral.
+
+202036975

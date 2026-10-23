@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/186/1998/03/19/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/186-1998-197335
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2000-03-31T00:00:00Z'
+  retrieved_at: '2026-10-23T14:07:14Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 9fdee02c6fde59a4e11da8450b5c30262040ce3384ea938214ceeb25dce2758d
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 900cdd782ae2a375906d844bc61b0f6648938c326f5ce53a915acc048bb40c8d
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T14:07:14Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,12 +67,12 @@ reuse:
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
 - Ordenamento do Território
-- Plano Director Municipal
-- Urbanização
-- Política de Solos
 - Plano de Urbanização
+- Plano Director Municipal
 - Plano Geral de Urbanização
+- Política de Solos
 - Regulamento
+- Urbanização
 relationships:
 - type: amended_by
   target: pt:dre:506053:por
@@ -110,16 +110,60 @@ relationships:
   target: eli:http://data.dre.pt/eli/port/581/1994/07/13/p/dre
   label: null
   source: http://data.dre.pt/eli/port/581/1994/07/13/p/dre
+- type: cites
+  target: pt:dre:164053:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:228186:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:235289:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:289214:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:300254:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:321486:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:329816:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:332412:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:475547:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:613898:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:618126:por
+  label: null
+  source: null
 article_structure:
   article_count: 32
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T14:07:14Z'
   warnings: []
   errors: []
 ---
@@ -150,9 +194,9 @@ Manda o Governo, pelo Secretário de Estado da Administração Local e Ordenamen
 
 Ministério do Equipamento, do Planeamento e da Administração do Território.
 
-**Assinada em 9 de Fevereiro de 1998.**
+Assinada em 9 de Fevereiro de 1998.
 
-**O Secretário de Estado da Administração Local e Ordenamento do Território, José Augusto de Carvalho.**
+O Secretário de Estado da Administração Local e Ordenamento do Território, José Augusto de Carvalho.
 
 REGULAMENTO DO PLANO GERAL DE URBANIZAÇÃO DA MINA DE SÃO DOMINGOS E POMARÃO
 
@@ -248,7 +292,7 @@ ZEU 1
 
 Índices urbanísticos
 
-[(ver tabela no documento original)](https://files.diariodarepublica.pt/1s/1998/03/066b00/12151221.pdf)
+[[[[[[[[[[[[[[(ver tabela no documento original)](https://files.diariodarepublica.pt/1s/1998/03/066b00/12151221.pdf)](https://files.diariodarepublica.pt/1s/1998/03/066b00/12151221.pdf)](https://files.diariodarepublica.pt/1s/1998/03/066b00/12151221.pdf)](https://files.diariodarepublica.pt/1s/1998/03/066b00/12151221.pdf)](https://files.diariodarepublica.pt/1s/1998/03/066b00/12151221.pdf)](https://files.diariodarepublica.pt/1s/1998/03/066b00/12151221.pdf)](https://files.diariodarepublica.pt/1s/1998/03/066b00/12151221.pdf)](https://files.diariodarepublica.pt/1s/1998/03/066b00/12151221.pdf)](https://files.diariodarepublica.pt/1s/1998/03/066b00/12151221.pdf)](https://files.diariodarepublica.pt/1s/1998/03/066b00/12151221.pdf)](https://files.diariodarepublica.pt/1s/1998/03/066b00/12151221.pdf)](https://files.diariodarepublica.pt/1s/1998/03/066b00/12151221.pdf)](https://files.diariodarepublica.pt/1s/1998/03/066b00/12151221.pdf)](https://files.diariodarepublica.pt/1s/1998/03/066b00/12151221.pdf)
 
 ZEU 2
 
@@ -256,7 +300,7 @@ A construção de novas edificações em banda ou de novos volumes subsidiários
 
 Índices urbanísticos
 
-[(ver tabela no documento original)](https://files.diariodarepublica.pt/1s/1998/03/066b00/12151221.pdf)
+[[[[[[[[[[[[[[(ver tabela no documento original)](https://files.diariodarepublica.pt/1s/1998/03/066b00/12151221.pdf)](https://files.diariodarepublica.pt/1s/1998/03/066b00/12151221.pdf)](https://files.diariodarepublica.pt/1s/1998/03/066b00/12151221.pdf)](https://files.diariodarepublica.pt/1s/1998/03/066b00/12151221.pdf)](https://files.diariodarepublica.pt/1s/1998/03/066b00/12151221.pdf)](https://files.diariodarepublica.pt/1s/1998/03/066b00/12151221.pdf)](https://files.diariodarepublica.pt/1s/1998/03/066b00/12151221.pdf)](https://files.diariodarepublica.pt/1s/1998/03/066b00/12151221.pdf)](https://files.diariodarepublica.pt/1s/1998/03/066b00/12151221.pdf)](https://files.diariodarepublica.pt/1s/1998/03/066b00/12151221.pdf)](https://files.diariodarepublica.pt/1s/1998/03/066b00/12151221.pdf)](https://files.diariodarepublica.pt/1s/1998/03/066b00/12151221.pdf)](https://files.diariodarepublica.pt/1s/1998/03/066b00/12151221.pdf)](https://files.diariodarepublica.pt/1s/1998/03/066b00/12151221.pdf)
 
 ###### Artigo 13.º — Zonas de comércio e serviços
 
@@ -266,7 +310,7 @@ Até à aprovação do plano de pormenor a elaborar para esta zona, não serão 
 
 Índices urbanísticos
 
-[(ver tabela no documento original)](https://files.diariodarepublica.pt/1s/1998/03/066b00/12151221.pdf)
+[[[[[[[[[[[[[[(ver tabela no documento original)](https://files.diariodarepublica.pt/1s/1998/03/066b00/12151221.pdf)](https://files.diariodarepublica.pt/1s/1998/03/066b00/12151221.pdf)](https://files.diariodarepublica.pt/1s/1998/03/066b00/12151221.pdf)](https://files.diariodarepublica.pt/1s/1998/03/066b00/12151221.pdf)](https://files.diariodarepublica.pt/1s/1998/03/066b00/12151221.pdf)](https://files.diariodarepublica.pt/1s/1998/03/066b00/12151221.pdf)](https://files.diariodarepublica.pt/1s/1998/03/066b00/12151221.pdf)](https://files.diariodarepublica.pt/1s/1998/03/066b00/12151221.pdf)](https://files.diariodarepublica.pt/1s/1998/03/066b00/12151221.pdf)](https://files.diariodarepublica.pt/1s/1998/03/066b00/12151221.pdf)](https://files.diariodarepublica.pt/1s/1998/03/066b00/12151221.pdf)](https://files.diariodarepublica.pt/1s/1998/03/066b00/12151221.pdf)](https://files.diariodarepublica.pt/1s/1998/03/066b00/12151221.pdf)](https://files.diariodarepublica.pt/1s/1998/03/066b00/12151221.pdf)
 
 ZCS 2
 
@@ -274,11 +318,11 @@ Os novos edifícios a construir nesta zona devem manter os alinhamentos definido
 
 Índices urbanísticos
 
-[(ver tabela no documento original)](https://files.diariodarepublica.pt/1s/1998/03/066b00/12151221.pdf)
+[[[[[[[[[[[[[[(ver tabela no documento original)](https://files.diariodarepublica.pt/1s/1998/03/066b00/12151221.pdf)](https://files.diariodarepublica.pt/1s/1998/03/066b00/12151221.pdf)](https://files.diariodarepublica.pt/1s/1998/03/066b00/12151221.pdf)](https://files.diariodarepublica.pt/1s/1998/03/066b00/12151221.pdf)](https://files.diariodarepublica.pt/1s/1998/03/066b00/12151221.pdf)](https://files.diariodarepublica.pt/1s/1998/03/066b00/12151221.pdf)](https://files.diariodarepublica.pt/1s/1998/03/066b00/12151221.pdf)](https://files.diariodarepublica.pt/1s/1998/03/066b00/12151221.pdf)](https://files.diariodarepublica.pt/1s/1998/03/066b00/12151221.pdf)](https://files.diariodarepublica.pt/1s/1998/03/066b00/12151221.pdf)](https://files.diariodarepublica.pt/1s/1998/03/066b00/12151221.pdf)](https://files.diariodarepublica.pt/1s/1998/03/066b00/12151221.pdf)](https://files.diariodarepublica.pt/1s/1998/03/066b00/12151221.pdf)](https://files.diariodarepublica.pt/1s/1998/03/066b00/12151221.pdf)
 
 Equipamentos públicos a instalar
 
-[(ver tabela no documento original)](https://files.diariodarepublica.pt/1s/1998/03/066b00/12151221.pdf)
+[[[[[[[[[[[[[[(ver tabela no documento original)](https://files.diariodarepublica.pt/1s/1998/03/066b00/12151221.pdf)](https://files.diariodarepublica.pt/1s/1998/03/066b00/12151221.pdf)](https://files.diariodarepublica.pt/1s/1998/03/066b00/12151221.pdf)](https://files.diariodarepublica.pt/1s/1998/03/066b00/12151221.pdf)](https://files.diariodarepublica.pt/1s/1998/03/066b00/12151221.pdf)](https://files.diariodarepublica.pt/1s/1998/03/066b00/12151221.pdf)](https://files.diariodarepublica.pt/1s/1998/03/066b00/12151221.pdf)](https://files.diariodarepublica.pt/1s/1998/03/066b00/12151221.pdf)](https://files.diariodarepublica.pt/1s/1998/03/066b00/12151221.pdf)](https://files.diariodarepublica.pt/1s/1998/03/066b00/12151221.pdf)](https://files.diariodarepublica.pt/1s/1998/03/066b00/12151221.pdf)](https://files.diariodarepublica.pt/1s/1998/03/066b00/12151221.pdf)](https://files.diariodarepublica.pt/1s/1998/03/066b00/12151221.pdf)](https://files.diariodarepublica.pt/1s/1998/03/066b00/12151221.pdf)
 
 ZCS 3
 
@@ -286,7 +330,7 @@ Só serão permitidas novas construções após aprovação do plano de pormenor
 
 Índices urbanísticos
 
-[(ver tabela no documento original)](https://files.diariodarepublica.pt/1s/1998/03/066b00/12151221.pdf)
+[[[[[[[[[[[[[[(ver tabela no documento original)](https://files.diariodarepublica.pt/1s/1998/03/066b00/12151221.pdf)](https://files.diariodarepublica.pt/1s/1998/03/066b00/12151221.pdf)](https://files.diariodarepublica.pt/1s/1998/03/066b00/12151221.pdf)](https://files.diariodarepublica.pt/1s/1998/03/066b00/12151221.pdf)](https://files.diariodarepublica.pt/1s/1998/03/066b00/12151221.pdf)](https://files.diariodarepublica.pt/1s/1998/03/066b00/12151221.pdf)](https://files.diariodarepublica.pt/1s/1998/03/066b00/12151221.pdf)](https://files.diariodarepublica.pt/1s/1998/03/066b00/12151221.pdf)](https://files.diariodarepublica.pt/1s/1998/03/066b00/12151221.pdf)](https://files.diariodarepublica.pt/1s/1998/03/066b00/12151221.pdf)](https://files.diariodarepublica.pt/1s/1998/03/066b00/12151221.pdf)](https://files.diariodarepublica.pt/1s/1998/03/066b00/12151221.pdf)](https://files.diariodarepublica.pt/1s/1998/03/066b00/12151221.pdf)](https://files.diariodarepublica.pt/1s/1998/03/066b00/12151221.pdf)
 
 ###### Artigo 14.º — Zonas verdes ajardinadas
 
@@ -298,7 +342,7 @@ ZVA 1
 
 Índices urbanísticos
 
-[(ver tabela no documento original)](https://files.diariodarepublica.pt/1s/1998/03/066b00/12151221.pdf)
+[[[[[[[[[[[[[[(ver tabela no documento original)](https://files.diariodarepublica.pt/1s/1998/03/066b00/12151221.pdf)](https://files.diariodarepublica.pt/1s/1998/03/066b00/12151221.pdf)](https://files.diariodarepublica.pt/1s/1998/03/066b00/12151221.pdf)](https://files.diariodarepublica.pt/1s/1998/03/066b00/12151221.pdf)](https://files.diariodarepublica.pt/1s/1998/03/066b00/12151221.pdf)](https://files.diariodarepublica.pt/1s/1998/03/066b00/12151221.pdf)](https://files.diariodarepublica.pt/1s/1998/03/066b00/12151221.pdf)](https://files.diariodarepublica.pt/1s/1998/03/066b00/12151221.pdf)](https://files.diariodarepublica.pt/1s/1998/03/066b00/12151221.pdf)](https://files.diariodarepublica.pt/1s/1998/03/066b00/12151221.pdf)](https://files.diariodarepublica.pt/1s/1998/03/066b00/12151221.pdf)](https://files.diariodarepublica.pt/1s/1998/03/066b00/12151221.pdf)](https://files.diariodarepublica.pt/1s/1998/03/066b00/12151221.pdf)](https://files.diariodarepublica.pt/1s/1998/03/066b00/12151221.pdf)
 
 ZVA 2
 
@@ -320,7 +364,7 @@ d) Edifício da GNR, que deverá ser deslocada para novas instalações, a recon
 
 Índices urbanísticos
 
-[(ver tabela no documento original)](https://files.diariodarepublica.pt/1s/1998/03/066b00/12151221.pdf)
+[[[[[[[[[[[[[[(ver tabela no documento original)](https://files.diariodarepublica.pt/1s/1998/03/066b00/12151221.pdf)](https://files.diariodarepublica.pt/1s/1998/03/066b00/12151221.pdf)](https://files.diariodarepublica.pt/1s/1998/03/066b00/12151221.pdf)](https://files.diariodarepublica.pt/1s/1998/03/066b00/12151221.pdf)](https://files.diariodarepublica.pt/1s/1998/03/066b00/12151221.pdf)](https://files.diariodarepublica.pt/1s/1998/03/066b00/12151221.pdf)](https://files.diariodarepublica.pt/1s/1998/03/066b00/12151221.pdf)](https://files.diariodarepublica.pt/1s/1998/03/066b00/12151221.pdf)](https://files.diariodarepublica.pt/1s/1998/03/066b00/12151221.pdf)](https://files.diariodarepublica.pt/1s/1998/03/066b00/12151221.pdf)](https://files.diariodarepublica.pt/1s/1998/03/066b00/12151221.pdf)](https://files.diariodarepublica.pt/1s/1998/03/066b00/12151221.pdf)](https://files.diariodarepublica.pt/1s/1998/03/066b00/12151221.pdf)](https://files.diariodarepublica.pt/1s/1998/03/066b00/12151221.pdf)
 
 1 - Os edifícios que actualmente funcionam como habitação deverão manter a sua função residencial.
 
@@ -364,7 +408,7 @@ Zona a reabilitar, mantendo-se integralmente a sua arquitectura e estrutura urba
 
 Índices urbanísticos
 
-[(ver tabela no documento original)](https://files.diariodarepublica.pt/1s/1998/03/066b00/12151221.pdf)
+[[[[[[[[[[[[[[(ver tabela no documento original)](https://files.diariodarepublica.pt/1s/1998/03/066b00/12151221.pdf)](https://files.diariodarepublica.pt/1s/1998/03/066b00/12151221.pdf)](https://files.diariodarepublica.pt/1s/1998/03/066b00/12151221.pdf)](https://files.diariodarepublica.pt/1s/1998/03/066b00/12151221.pdf)](https://files.diariodarepublica.pt/1s/1998/03/066b00/12151221.pdf)](https://files.diariodarepublica.pt/1s/1998/03/066b00/12151221.pdf)](https://files.diariodarepublica.pt/1s/1998/03/066b00/12151221.pdf)](https://files.diariodarepublica.pt/1s/1998/03/066b00/12151221.pdf)](https://files.diariodarepublica.pt/1s/1998/03/066b00/12151221.pdf)](https://files.diariodarepublica.pt/1s/1998/03/066b00/12151221.pdf)](https://files.diariodarepublica.pt/1s/1998/03/066b00/12151221.pdf)](https://files.diariodarepublica.pt/1s/1998/03/066b00/12151221.pdf)](https://files.diariodarepublica.pt/1s/1998/03/066b00/12151221.pdf)](https://files.diariodarepublica.pt/1s/1998/03/066b00/12151221.pdf)
 
 ###### Artigo 22.º — Zonas de comércio/serviços
 
@@ -380,7 +424,7 @@ ZCS 2
 
 Índices urbanísticos
 
-[(ver tabela no documento original)](https://files.diariodarepublica.pt/1s/1998/03/066b00/12151221.pdf)
+[[[[[[[[[[[[[[(ver tabela no documento original)](https://files.diariodarepublica.pt/1s/1998/03/066b00/12151221.pdf)](https://files.diariodarepublica.pt/1s/1998/03/066b00/12151221.pdf)](https://files.diariodarepublica.pt/1s/1998/03/066b00/12151221.pdf)](https://files.diariodarepublica.pt/1s/1998/03/066b00/12151221.pdf)](https://files.diariodarepublica.pt/1s/1998/03/066b00/12151221.pdf)](https://files.diariodarepublica.pt/1s/1998/03/066b00/12151221.pdf)](https://files.diariodarepublica.pt/1s/1998/03/066b00/12151221.pdf)](https://files.diariodarepublica.pt/1s/1998/03/066b00/12151221.pdf)](https://files.diariodarepublica.pt/1s/1998/03/066b00/12151221.pdf)](https://files.diariodarepublica.pt/1s/1998/03/066b00/12151221.pdf)](https://files.diariodarepublica.pt/1s/1998/03/066b00/12151221.pdf)](https://files.diariodarepublica.pt/1s/1998/03/066b00/12151221.pdf)](https://files.diariodarepublica.pt/1s/1998/03/066b00/12151221.pdf)](https://files.diariodarepublica.pt/1s/1998/03/066b00/12151221.pdf)
 
 ZCS 3
 
@@ -394,7 +438,7 @@ ZCS 3
 
 Índices urbanísticos
 
-[(ver tabela no documento original)](https://files.diariodarepublica.pt/1s/1998/03/066b00/12151221.pdf)
+[[[[[[[[[[[[[[(ver tabela no documento original)](https://files.diariodarepublica.pt/1s/1998/03/066b00/12151221.pdf)](https://files.diariodarepublica.pt/1s/1998/03/066b00/12151221.pdf)](https://files.diariodarepublica.pt/1s/1998/03/066b00/12151221.pdf)](https://files.diariodarepublica.pt/1s/1998/03/066b00/12151221.pdf)](https://files.diariodarepublica.pt/1s/1998/03/066b00/12151221.pdf)](https://files.diariodarepublica.pt/1s/1998/03/066b00/12151221.pdf)](https://files.diariodarepublica.pt/1s/1998/03/066b00/12151221.pdf)](https://files.diariodarepublica.pt/1s/1998/03/066b00/12151221.pdf)](https://files.diariodarepublica.pt/1s/1998/03/066b00/12151221.pdf)](https://files.diariodarepublica.pt/1s/1998/03/066b00/12151221.pdf)](https://files.diariodarepublica.pt/1s/1998/03/066b00/12151221.pdf)](https://files.diariodarepublica.pt/1s/1998/03/066b00/12151221.pdf)](https://files.diariodarepublica.pt/1s/1998/03/066b00/12151221.pdf)](https://files.diariodarepublica.pt/1s/1998/03/066b00/12151221.pdf)
 
 ###### Artigo 23.º — Zona de expansão urbana
 
@@ -402,7 +446,7 @@ Esta zona será motivo de um plano de pormenor, que definirá uma unidade arquit
 
 Índices urbanísticos
 
-[(ver tabela no documento original)](https://files.diariodarepublica.pt/1s/1998/03/066b00/12151221.pdf)
+[[[[[[[[[[[[[[(ver tabela no documento original)](https://files.diariodarepublica.pt/1s/1998/03/066b00/12151221.pdf)](https://files.diariodarepublica.pt/1s/1998/03/066b00/12151221.pdf)](https://files.diariodarepublica.pt/1s/1998/03/066b00/12151221.pdf)](https://files.diariodarepublica.pt/1s/1998/03/066b00/12151221.pdf)](https://files.diariodarepublica.pt/1s/1998/03/066b00/12151221.pdf)](https://files.diariodarepublica.pt/1s/1998/03/066b00/12151221.pdf)](https://files.diariodarepublica.pt/1s/1998/03/066b00/12151221.pdf)](https://files.diariodarepublica.pt/1s/1998/03/066b00/12151221.pdf)](https://files.diariodarepublica.pt/1s/1998/03/066b00/12151221.pdf)](https://files.diariodarepublica.pt/1s/1998/03/066b00/12151221.pdf)](https://files.diariodarepublica.pt/1s/1998/03/066b00/12151221.pdf)](https://files.diariodarepublica.pt/1s/1998/03/066b00/12151221.pdf)](https://files.diariodarepublica.pt/1s/1998/03/066b00/12151221.pdf)](https://files.diariodarepublica.pt/1s/1998/03/066b00/12151221.pdf)
 
 ###### Artigo 24.º — Zona portuária
 
@@ -416,7 +460,7 @@ ZP 1
 
 Índices urbanísticos
 
-[(ver tabela no documento original)](https://files.diariodarepublica.pt/1s/1998/03/066b00/12151221.pdf)
+[[[[[[[[[[[[[[(ver tabela no documento original)](https://files.diariodarepublica.pt/1s/1998/03/066b00/12151221.pdf)](https://files.diariodarepublica.pt/1s/1998/03/066b00/12151221.pdf)](https://files.diariodarepublica.pt/1s/1998/03/066b00/12151221.pdf)](https://files.diariodarepublica.pt/1s/1998/03/066b00/12151221.pdf)](https://files.diariodarepublica.pt/1s/1998/03/066b00/12151221.pdf)](https://files.diariodarepublica.pt/1s/1998/03/066b00/12151221.pdf)](https://files.diariodarepublica.pt/1s/1998/03/066b00/12151221.pdf)](https://files.diariodarepublica.pt/1s/1998/03/066b00/12151221.pdf)](https://files.diariodarepublica.pt/1s/1998/03/066b00/12151221.pdf)](https://files.diariodarepublica.pt/1s/1998/03/066b00/12151221.pdf)](https://files.diariodarepublica.pt/1s/1998/03/066b00/12151221.pdf)](https://files.diariodarepublica.pt/1s/1998/03/066b00/12151221.pdf)](https://files.diariodarepublica.pt/1s/1998/03/066b00/12151221.pdf)](https://files.diariodarepublica.pt/1s/1998/03/066b00/12151221.pdf)
 
 ZP 2
 
@@ -448,7 +492,7 @@ ZH
 
 Índices urbanísticos
 
-[(ver tabela no documento original)](https://files.diariodarepublica.pt/1s/1998/03/066b00/12151221.pdf)
+[[[[[[[[[[[[[[(ver tabela no documento original)](https://files.diariodarepublica.pt/1s/1998/03/066b00/12151221.pdf)](https://files.diariodarepublica.pt/1s/1998/03/066b00/12151221.pdf)](https://files.diariodarepublica.pt/1s/1998/03/066b00/12151221.pdf)](https://files.diariodarepublica.pt/1s/1998/03/066b00/12151221.pdf)](https://files.diariodarepublica.pt/1s/1998/03/066b00/12151221.pdf)](https://files.diariodarepublica.pt/1s/1998/03/066b00/12151221.pdf)](https://files.diariodarepublica.pt/1s/1998/03/066b00/12151221.pdf)](https://files.diariodarepublica.pt/1s/1998/03/066b00/12151221.pdf)](https://files.diariodarepublica.pt/1s/1998/03/066b00/12151221.pdf)](https://files.diariodarepublica.pt/1s/1998/03/066b00/12151221.pdf)](https://files.diariodarepublica.pt/1s/1998/03/066b00/12151221.pdf)](https://files.diariodarepublica.pt/1s/1998/03/066b00/12151221.pdf)](https://files.diariodarepublica.pt/1s/1998/03/066b00/12151221.pdf)](https://files.diariodarepublica.pt/1s/1998/03/066b00/12151221.pdf)
 
 ###### Artigo 26.º — Zona de lazer
 

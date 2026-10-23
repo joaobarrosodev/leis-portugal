@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/2s/2010/05/098000000/2797327981.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -46,18 +46,18 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/declaracao-rectificacao/1001-2010-2058560
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2010-05-20T00:00:00Z'
+  retrieved_at: '2026-10-23T14:15:02Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: f6249087cbf24030608c8cd39ad53f1d6d5345571f9bf83fdedc62ab57323343
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 9263b8643c5fbf9e3ca67c24160bb45de5de7070645a4c3d9825079aa2dec447
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T14:15:02Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -65,22 +65,30 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects: []
-relationships: []
+relationships:
+- type: cites
+  target: pt:dre:559019:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:602059:por
+  label: null
+  source: null
 article_structure:
   article_count: 61
   section_count: 17
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T14:15:02Z'
   warnings: []
   errors: []
 ---
 
-# Declaração de Rectificação n.º 1001/2010
+# Declaração de rectificação n.º 1001/2010
 
 Celso Manuel Gomes Ferreira, presidente da Câmara Municipal de Paredes, torna público que o Plano de Urbanização de Recarei/Sobreira, publicado pelo aviso n.º 5931/2010, de 22 de Março, no Diário da República, 2.ª série, n.º 56, contém lapsos gramaticais, ortográficos e incongruências.
 
@@ -522,7 +530,7 @@ Número máximo de pisos acima do solo - dois.
 
 4 - A ocupação das parcelas e dos lotes com construção e áreas cobertas de carácter industrial far-se-á de acordo com as seguintes regras:
 
-[([ver documento original](https://files.diariodarepublica.pt/2s/2010/05/098000000/2797327981.pdf))](https://files.diariodarepublica.pt/2s/2010/05/098000000/2797327981.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/2s/2010/05/098000000/2797327981.pdf)
 
 5 - A ocupação das parcelas e dos lotes com construção e áreas cobertas de carácter industrial deverá ainda observar o disposto nos artigos 24.º e 25.º do presente Regulamento.
 
@@ -564,7 +572,7 @@ No espaço entre fachadas e as bermas das vias não é permitido fazer depósito
 
 6 - A ocupação das parcelas e dos lotes com construção e áreas cobertas far-se-á de acordo com as seguintes regras:
 
-[([ver documento original](https://files.diariodarepublica.pt/2s/2010/05/098000000/2797327981.pdf))](https://files.diariodarepublica.pt/2s/2010/05/098000000/2797327981.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/2s/2010/05/098000000/2797327981.pdf)
 
 ### CAPÍTULO III — Servidões administrativas e restrições de utilidade pública e outros condicionalismos de salvaguarda e protecção
 
@@ -706,7 +714,7 @@ As operações de loteamento a realizar na área do Plano integrarão áreas de 
 
 1 - A rede viária deve garantir as características mínimas estabelecidas na legislação aplicável e respeitar os parâmetros de dimensionamento estabelecidos no quadro seguinte:
 
-[([ver documento original](https://files.diariodarepublica.pt/2s/2010/05/098000000/2797327981.pdf))](https://files.diariodarepublica.pt/2s/2010/05/098000000/2797327981.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/2s/2010/05/098000000/2797327981.pdf)
 
 2 - Para efeitos de projecto das áreas de estacionamento contíguas à via, deve considerar-se:
 
@@ -730,7 +738,7 @@ d) Estacionamento pesado perpendicular à via - 15 m x 4 m.
 
 1 - No licenciamento de novas construções é obrigatório prever lugares de estacionamento dimensionados segundo os seguintes parâmetros:
 
-[([ver documento original](https://files.diariodarepublica.pt/2s/2010/05/098000000/2797327981.pdf))](https://files.diariodarepublica.pt/2s/2010/05/098000000/2797327981.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/2s/2010/05/098000000/2797327981.pdf)
 
 2 - O dimensionamento do número de lugares de estacionamento necessários ao uso habitacional deve ser determinado em função da tipologia dos fogos e, na ausência desta indicação, deve ser considerado o valor da área média do fogo.
 
@@ -868,4 +876,6 @@ Todos os projectos de arquitectura e de operações de loteamento, sem prejuízo
 
 O presente Plano entre em vigor no dia seguinte ao da sua publicação no Diário da República.
 
-[([ver documento original](https://files.diariodarepublica.pt/2s/2010/05/098000000/2797327981.pdf))](https://files.diariodarepublica.pt/2s/2010/05/098000000/2797327981.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/2s/2010/05/098000000/2797327981.pdf)
+
+203262334

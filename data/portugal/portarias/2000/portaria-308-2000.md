@@ -48,18 +48,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/308/2000/05/30/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/308-2000-292955
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2008-07-08T00:00:00Z'
+  retrieved_at: '2026-10-23T14:22:46Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: d8dc8e7e32a3651ba3f88c658424e90a9209e00d4a55b9bf8d0cfe373ef76c1e
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: c1833d51dbf89152287a6112f5e7f0c35b78a8889556e598669a952266d145c1
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T14:22:46Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -75,6 +75,25 @@ relationships:
   target: pt:dre:456503:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:626397:por
+  label: "Anexado um prédio rústico à zona de caça associativa atribuída pela Port 254-FN/96, de 15-Jul, renovada pelo presente\
+    \ diploma, pela PORT.1186/2002.2002.08.30.MADRP\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/1186-2002-626397
+  date: '2002-08-30'
+- type: amended_by
+  target: pt:dre:519427:por
+  label: "Excluídos vários prédios rústicos da zona de caça associativa da Herdade da Casa Branca, concessionada pela Port\
+    \ 254-FN/96 de 15-Jul, renovada pelo presente diploma, pela PORT.464/2007.18.04.2007.MADRP, DR.IS [76] de 18.04.2007\0\
+    \0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/464-2007-519427
+  date: '2007-04-18'
+- type: amended_by
+  target: pt:dre:456503:por
+  label: "Renovada a concessão da zona de caça associativa da Herdade da Casa Branca, atribuída pela Port 254-FN/96, de 15-Jul,\
+    \ renovada pelo presente diploma, pela PORT.594/2008.08.07.2008.MADRP, DR.IS [130] de 08.07.2008\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/594-2008-456503
+  date: '2008-07-08'
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/136/1996/08/14/p/dre
   label: null
@@ -83,16 +102,24 @@ relationships:
   target: eli:http://data.dre.pt/eli/port/254-fn/1996/07/15/p/dre
   label: null
   source: http://data.dre.pt/eli/port/254-fn/1996/07/15/p/dre
+- type: cites
+  target: pt:dre:157232:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:405765:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T14:22:46Z'
   warnings: []
   errors: []
 ---

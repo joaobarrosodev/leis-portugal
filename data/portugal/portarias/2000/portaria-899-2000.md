@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/899/2000/09/28/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/899-2000-554390
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2010-07-01T00:00:00Z'
+  retrieved_at: '2026-10-23T14:26:40Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: a9364470b9fb91a86ea8cdab92c20eb0153bd0f4a18dd5f0663e264e96a12919
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 67dc7162862ae70dd96403e4029dc1a263879d816652a402c7e7f53cee470b5c
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T14:26:40Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -74,6 +74,36 @@ relationships:
   target: pt:dre:335180:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:617299:por
+  label: "Renovada, por um período de seis anos, a concessão da zona de caça turística, concessionada pela Port 808/98, de\
+    \ 24-Set, na redacção do presente diploma, pela PORT.1174/2004.14.09.2004.MAPF, DR.IS-B [217] de 14.09.2004\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/1174-2004-617299
+  date: '2004-09-14'
+- type: amended_by
+  target: pt:dre:240258:por
+  label: "Anexado um prédio rústico à zona de caça concessionada pela Port 808/98 de 24-Set, alterada pelo presente diploma,\
+    \ pela PORT.627/2005 de 01-Ago, DR.IS-B [146]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/627-2005-240258
+  date: '2005-08-01'
+- type: amended_by
+  target: pt:dre:538404:por
+  label: "Anexados vários prédios rústicos à zona de caça atribuída pela Port 808/98 de 24-Set, com a redacção do presente\
+    \ diploma, pela PORT.65/2006.17.01.2006.MADRP, DR.IS-B [12] de 17.01.2006\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/65-2006-538404
+  date: '2006-01-17'
+- type: amended_by
+  target: pt:dre:640098:por
+  label: "Desanexados vários prédios rústicos à zona de caça concessionada pela Portaria 808/98 de 24 de Setembro, alterada\
+    \ pelo presente diploma, pela PORT.1081/2007.05.09.2007.MADRP, DR.IS [171] de 05.09.2007\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/1081-2007-640098
+  date: '2007-09-05'
+- type: amended_by
+  target: pt:dre:335180:por
+  label: "Renovada, por um período de seis anos, a zona de caça concessionada Port 808/98, de 24-Set, alterada pela presente\
+    \ portaria, pela PORT.458/2010.01.07.2010.MADRP, DR.IS [126] de 01.07.2010\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/458-2010-335180
+  date: '2010-07-01'
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/136/1996/08/14/p/dre
   label: null
@@ -82,16 +112,28 @@ relationships:
   target: eli:http://data.dre.pt/eli/port/808/1998/09/24/p/dre
   label: null
   source: http://data.dre.pt/eli/port/808/1998/09/24/p/dre
+- type: cites
+  target: pt:dre:219134:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:246111:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:405765:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T14:26:40Z'
   warnings: []
   errors: []
 ---

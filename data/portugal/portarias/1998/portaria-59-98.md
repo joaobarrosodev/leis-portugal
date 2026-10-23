@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/59/1998/02/12/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/59-1998-231963
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2006-07-27T00:00:00Z'
+  retrieved_at: '2026-10-23T14:10:00Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 0e71029ebc62ab7b215769765012cabbe5295fc9e38bc063ab91e464662b3c6b
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 334374afd31d83d548d33a071bb17eb69285df9e0ceeb36ec44f62be7ff681be
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T14:10:00Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,16 +66,63 @@ reuse:
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
 - Estatuto do Pessoal
-- Secretaria Geral
+- Gestão de Recursos Humanos
 - Presidência do Conselho de Ministros
 - Quadro de Pessoal
 - Regime de Pessoal
-- Gestão de Recursos Humanos
+- Secretaria Geral
 relationships:
 - type: amended_by
   target: pt:dre:540628:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:165453:por
+  label: "Alterado o quadro de pessoal, pela PORT.127/99.1999.02.22.PCM, DR.IS-B [44]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/127-1999-165453
+  date: '1999-02-22'
+- type: amended_by
+  target: pt:dre:559023:por
+  label: "Alterado o quadro de pessoal pela PORT.814/99.1999.09.22.PCM DR.IS-B [222]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/814-1999-559023
+  date: '1999-09-22'
+- type: amended_by
+  target: pt:dre:3181441:por
+  label: "Alterado o quadro de pessoal pelo DC.81/2000.2000.01.11.PCM DR.IIS [23] DE 28/JAN/2000\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/despacho-conjunto/81-2000-3181441
+  date: '2000-01-11'
+- type: amended_by
+  target: pt:dre:508260:por
+  label: "Alterado o quadro de pessoal pelo DEC LEI.46/2000.2000.03.23.PCM DR.IS-A [70]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/46-2000-508260
+  date: '2000-03-23'
+- type: amended_by
+  target: pt:dre:3002777:por
+  label: "Alterado o quadro de pessoal pela PORT.757/2000(2ªSÉRIE).2000.04.06.PCM, DR.IIS [109] de 11/Mai/2000\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/757-2000-3002777
+  date: '2000-04-06'
+- type: amended_by
+  target: pt:dre:2065002:por
+  label: "Alterado o quadro de pessoal, com a redacção da Port 814/99 de 22-Set, pela PORT.783/2001(2ªSÉRIE).2001.04.05.PCM\
+    \ DR.IIS [98] de 27/Abr/2001\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/783-2001-2065002
+  date: '2001-04-05'
+- type: amended_by
+  target: pt:dre:2851677:por
+  label: "Alterado o quadro de pessoal pelo DC.897/2001.2001.08.30.PCM DR.IIS [225] de 27/Set/2001\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/despacho-conjunto/897-2001-2851677
+  date: '2001-08-30'
+- type: amended_by
+  target: pt:dre:2251399:por
+  label: "ALTERADO O QUADRO DE PESSOAL PELO DC.705/2002.2002.08.29.PCM, MF, DR.IIS [210] DE 11/SET/2002\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/despacho-conjunto/705-2002-2251399
+  date: '2002-08-29'
+- type: amended_by
+  target: pt:dre:540628:por
+  label: "Alterado o quadro de pessoal aprovado pelo presente diploma, pela PORT.851/2006.27.07.2006.PCM, DR.IS [162] de 23.08.2006\0\
+    \0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/851-2006-540628
+  date: '2006-07-27'
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/147/1993/05/03/p/dre
   label: null
@@ -88,16 +135,33 @@ relationships:
   target: eli:http://data.dre.pt/eli/port/1283/1993/12/21/p/dre
   label: null
   source: http://data.dre.pt/eli/port/1283/1993/12/21/p/dre
+- type: cites
+  target: pt:dre:300009:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:540217:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:641999:por
+  label: null
+  source: null
+- type: corrected_by
+  target: pt:dre:588188:por
+  label: "Rectificada pela DECL-RECT.6-D/98.1998.03.05.PCM DR.IS-B [50]3ºSupl de 28/Fev/1998\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/declaracao-rectificacao/6-d-1998-588188
+  date: '1998-03-05'
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T14:10:00Z'
   warnings: []
   errors: []
 ---
@@ -124,7 +188,7 @@ Manda o Governo, pelo Primeiro-Ministro e pelos Ministros das Finanças e Adjunt
 
 Presidência do Conselho de Ministros e Ministério das Finanças.
 
-**Assinada em 21 de Janeiro de 1998.**
+Assinada em 21 de Janeiro de 1998.
 
 Pelo Primeiro-Ministro, Vitalino José Ferreira Prova Canas, Secretário de Estado da Presidência do Conselho de Ministros. - Pelo Ministro das Finanças, Maria Manuela de Brito Arcanjo Marques da Costa, Secretária de Estado do Orçamento. - Pelo Ministro Adjunto, Fausto de Sousa Correia, Secretário de Estado da Administração Pública.
 

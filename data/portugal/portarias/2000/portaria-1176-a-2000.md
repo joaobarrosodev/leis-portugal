@@ -20,7 +20,7 @@ publication:
   reference: Diário da República n.º 287/2000, 1º Suplemento, Série I-B de 2000-12-14
   number: '287'
   series: I
-  supplement: 1º Suplemento
+  supplement: null
   pages: 7250-(2) a 7250-(3)
   pdf_url: https://files.diariodarepublica.pt/1s/2000/12/287b01/00020003.pdf
 entry_into_force_dates: []
@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/1176-a/2000/12/14/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/1176-a-2000-347964
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2000-12-14T00:00:00Z'
+  retrieved_at: '2026-10-23T14:20:15Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: c6bbf006549ee850dee86ad8e1d4d3f1c57e27e573db8dd41014848019f230f7
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 85c0eca10d0a57439c4d48c6b971817e43552eb90905f02437a78fe9e820a17b
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T14:20:15Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -68,8 +68,8 @@ reuse:
 subjects:
 - Aquisição de Bens e Serviços
 - Definição de Competências
-- Serviço Nacional de Saúde
 - Instituto de Gestão Informática e Financeira da Saúde
+- Serviço Nacional de Saúde
 relationships:
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/197/1999/06/08/p/dre
@@ -87,16 +87,32 @@ relationships:
   target: eli:http://data.dre.pt/eli/port/415/1998/07/20/p/dre
   label: null
   source: http://data.dre.pt/eli/port/415/1998/07/20/p/dre
+- type: cites
+  target: pt:dre:173688:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:311259:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:424336:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:633151:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T14:20:15Z'
   warnings: []
   errors: []
 ---
@@ -147,4 +163,4 @@ Manda o Governo, pelos Ministros das Finanças e da Saúde, o seguinte:
 
 Em 12 de Dezembro de 2000.
 
-**O Ministro das Finanças, Joaquim Augusto Nunes Pina Moura. - A Ministra da Saúde, Maria Manuela de Brito Arcanjo Marques da Costa.**
+O Ministro das Finanças, Joaquim Augusto Nunes Pina Moura. - A Ministra da Saúde, Maria Manuela de Brito Arcanjo Marques da Costa.

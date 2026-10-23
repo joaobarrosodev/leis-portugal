@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1998/04/093b00/17601772.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/246/1998/04/21/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/246-1998-175797
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2018-03-28T00:00:00Z'
+  retrieved_at: '2026-10-23T14:07:39Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: ec1bb78f26ba28094f0d6f6287530b6ab449522a667cead93a989b1081beeec0
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: e6a1f7a055d6c6174e4d567880b4beaf4aa9b65dbaf5cec54dfbdf95ec009116
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T14:07:39Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,8 +66,8 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Construção Civil
 - Barragem
+- Construção Civil
 - Normas de Construção
 - Regulamento
 relationships:
@@ -75,16 +75,26 @@ relationships:
   target: pt:dre:114937037:por
   label: Última alteração registada na importação inicial
   source: null
+- type: cites
+  target: pt:dre:313845:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:114937037:por
+  label: Revogado, a partir de 27.04.2018, o presente diploma, pelo(a) Decreto-Lei n.º 21/2018 - Diário da República n.º 62/2018,
+    Série I de 2018-03-28
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/21-2018-114937037
+  date: '2018-03-28'
 article_structure:
   article_count: 63
-  section_count: 11
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  section_count: 12
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T14:07:39Z'
   warnings: []
   errors: []
 ---
@@ -103,9 +113,9 @@ Manda o Governo, pelos Ministros da Defesa Nacional, da Administração Interna,
 
 Ministérios da Defesa Nacional, da Administração Interna, do Equipamento, do Planeamento e da Administração do Território, da Economia, da Agricultura, do Desenvolvimento Rural e das Pescas e do Ambiente.
 
-**Assinada em 30 de Março de 1998.**
+Assinada em 30 de Março de 1998.
 
-**O Ministro da Defesa Nacional, José Veiga Simão. - O Ministro da Administração Interna, Jorge Paulo Sacadura Almeida Coelho. - O Ministro do Equipamento, do Planeamento e da Administração do Território, João Cardona Gomes Cravinho. - O Ministro da Economia, Joaquim Augusto Nunes de Pina Moura. - O Ministro da Agricultura, do Desenvolvimento Rural e das Pescas, Fernando Manuel Van-Zeller Gomes da Silva. - A Ministra do Ambiente, Elisa Maria da Costa Guimarães Ferreira.**
+O Ministro da Defesa Nacional, José Veiga Simão. - O Ministro da Administração Interna, Jorge Paulo Sacadura Almeida Coelho. - O Ministro do Equipamento, do Planeamento e da Administração do Território, João Cardona Gomes Cravinho. - O Ministro da Economia, Joaquim Augusto Nunes de Pina Moura. - O Ministro da Agricultura, do Desenvolvimento Rural e das Pescas, Fernando Manuel Van-Zeller Gomes da Silva. - A Ministra do Ambiente, Elisa Maria da Costa Guimarães Ferreira.
 
 ## ANEXO — NORMAS DE CONSTRUÇÃO DE BARRAGENS
 
@@ -151,7 +161,9 @@ d) Enviar mensalmente aos responsáveis pelo controlo de segurança um relato su
 
 e) Tomar conhecimento de todos os documentos relativos ao controlo de segurança entrados e saídos do estaleiro.
 
-###### Artigo 4.º — Livro técnico da obra
+###### Artigo 4.º
+
+## Livro técnico da obra
 
 1 - O livro técnico da obra é paginado e selado pela Autoridade e nele são registadas as ocorrências com interesse do ponto de vista da segurança e é mantido actualizado pelo director técnico da obra.
 

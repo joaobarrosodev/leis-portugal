@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/563/2001/06/02/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/563-2001-331018
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2004-04-08T00:00:00Z'
+  retrieved_at: '2026-10-23T14:33:06Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: ef9c41132939396bdbb283ceacd8c25ee928a97b63ba5e30956e16e74c5773ac
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: b42c5cdad29688311346c1107166c4f87f0270bf927c21f17f997bbfa09d1775
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T14:33:06Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -68,20 +68,33 @@ reuse:
 subjects:
 - Ajuda Comunitária
 - Azeite
-- Vinho
+- Comércio
 - Leite
+- Produto Agrícola
 - Produto Hortícola
+- Programa AGRO
 - QCA III
 - Regulamento
 - Regulamento de Aplicação da Medida Nº 2-transformação e Comercialização de Produtos Agrícolas
-- Programa AGRO
-- Comércio
-- Produto Agrícola
+- Vinho
 relationships:
 - type: amended_by
   target: pt:dre:218765:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:651875:por
+  label: "Alterada a alínea c) do n.º 3 do artigo 8.º do Regulamento aprovado pela Portaria n.º 533-C/2000, de 1 de Agosto,\
+    \ com a redacção dada pelo presente diploma, pela PORT.672/2003.2003.07.30.MADRP, DR.IS-B [174]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/672-2003-651875
+  date: '2003-07-30'
+- type: amended_by
+  target: pt:dre:218765:por
+  label: "Alterado o n.º 4 do art. 7.º, o art. 19.º e o n.º 8 do anexo II do regulamento aprovado pela Port 533-C/2000, de\
+    \ 01-Ago DR.IS-B [176]2ºSupl, com a redacção dada pelo presente diploma, pela Port.364/2004.08.04.2004.MADRP, DR.IS-B\
+    \ [84] de 08.04.2004\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/364-2004-218765
+  date: '2004-04-08'
 - type: cites
   target: celex:31996R2200
   label: null
@@ -91,15 +104,15 @@ relationships:
   label: null
   source: http://data.dre.pt/eli/port/533-c/2000/08/01/p/dre
 article_structure:
-  article_count: 5
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T14:33:06Z'
   warnings: []
   errors: []
 ---
@@ -132,7 +145,9 @@ ii) Produtos animais: mercados de gado, de animais de capoeira e de ovos, leite 
 
 b) Transformação dos produtos referidos na alínea anterior cujo produto final se enquadre nas actividades que constam do anexo I a este Regulamento, bem como a sua comercialização.
 
-###### Artigo 5.º — [...]
+Artigo 5.º
+
+[...]
 
 1 - ...
 
@@ -142,7 +157,9 @@ b) Transformação dos produtos referidos na alínea anterior cujo produto final
 
 4 - ...
 
-###### Artigo 6.º — [...]
+Artigo 6.º
+
+[...]
 
 1 - ...
 
@@ -178,7 +195,9 @@ l) ...
 
 5 - ...
 
-###### Artigo 8.º — [...]
+Artigo 8.º
+
+[...]
 
 1 - ...
 
@@ -204,7 +223,9 @@ c) Tipo 3: incentivo não reembolsável e ou incentivo reembolsável à taxa de 
 
 6 - ...
 
-###### Artigo 11.º — [...]
+Artigo 11.º
+
+[...]
 
 1 - ...
 
@@ -212,7 +233,9 @@ c) Tipo 3: incentivo não reembolsável e ou incentivo reembolsável à taxa de 
 
 3 - As entidades receptoras dos projectos susceptíveis de enquadramento no tipo 3 deverão remeter ao IFADAP, no prazo de 15 dias a contar da recepção, dois exemplares dos processos de candidatura.
 
-###### Artigo 14.º — [...]
+Artigo 14.º
+
+[...]
 
 1 - ...
 
@@ -232,7 +255,7 @@ c) Tipo 3: incentivo não reembolsável e ou incentivo reembolsável à taxa de 
 
 2.º Os anexos I, II, IV e V ao Regulamento aprovado pela Portaria n.º 533-C/2000, de 1 de Agosto, passam a ter a redacção constante do anexo a este diploma, do qual fazem parte integrante.
 
-**O Ministro da Agricultura, do Desenvolvimento Rural e das Pescas, Luís Manuel Capoulas Santos, em 17 de Maio de 2001.**
+O Ministro da Agricultura, do Desenvolvimento Rural e das Pescas, Luís Manuel Capoulas Santos, em 17 de Maio de 2001.
 
 ## ANEXO — (a que se refere o n.º 2.º)
 

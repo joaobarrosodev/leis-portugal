@@ -20,12 +20,12 @@ publication:
   reference: Diário da República n.º 94/1999, 2º Suplemento, Série I-B de 1999-04-22
   number: '94'
   series: I
-  supplement: 2º Suplemento
+  supplement: null
   pages: 2160-(10) a 2160-(14)
   pdf_url: https://files.diariodarepublica.pt/1s/1999/04/094b02/00100014.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/281-a/1999/04/22/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/281-a-1999-589355
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2008-04-23T00:00:00Z'
+  retrieved_at: '2026-10-23T14:14:22Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 28731b3d2b91b6f770e1365cd4e6ac7dea631ce47acc49483b9dafb572659385
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 05b4160f987c77d14026d7e6f4839ff66c59ec47f3a51a050af3fd553ad5f7a2
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T14:14:22Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,13 +66,13 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
+- Crédito
 - Crédito à Habitação
 - Crédito Bonificado
+- Habitação
 - Jovem
 - JURO Bonificado
-- Crédito
 - Política de Crédito
-- Habitação
 relationships:
 - type: amended_by
   target: pt:dre:249541:por
@@ -90,16 +90,34 @@ relationships:
   target: eli:http://data.dre.pt/eli/port/963/1998/11/11/p/dre
   label: null
   source: http://data.dre.pt/eli/port/963/1998/11/11/p/dre
+- type: cites
+  target: pt:dre:234304:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:234318:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:265086:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:585054:por
+  label: "Revogada, a partir da data da sua entrada em vigor, a Port 963/98, de 11-Nov, na redacção do presente diploma, pela\
+    \ PORT.1177/2000.15.12.2000.MES, DR.IS-B [288] de 15.12.2000\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/1177-2000-585054
+  date: '2000-12-15'
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T14:14:22Z'
   warnings: []
   errors: []
 ---
@@ -146,15 +164,15 @@ g) Sem prejuízo do disposto na alínea a), os valores máximos fixados na tabel
 
 5.º A [Portaria n.º 963/98](https://diariodarepublica.pt/dr/detalhe/portaria/963-1998-234304), de 11 de Novembro, com as alterações introduzidas pelo presente diploma, é republicada em anexo.
 
-**Assinada em 21 de Abril de 1999.**
+Assinada em 21 de Abril de 1999.
 
-**O Ministro das Finanças, António Luciano Pacheco de Sousa Franco. - O Ministro do Equipamento, do Planeamento e da Administração do Território, João Cardona Gomes Gravinho.**
+O Ministro das Finanças, António Luciano Pacheco de Sousa Franco. - O Ministro do Equipamento, do Planeamento e da Administração do Território, João Cardona Gomes Gravinho.
 
 TABELA III
 
 Declaração de composição de agregado familiar e rendimentos
 
-[(ver tabela no documento original)](https://files.diariodarepublica.pt/1s/1999/04/094b02/00100014.pdf)
+[[[(ver tabela no documento original)](https://files.diariodarepublica.pt/1s/1999/04/094b02/00100014.pdf)](https://files.diariodarepublica.pt/1s/1999/04/094b02/00100014.pdf)](https://files.diariodarepublica.pt/1s/1999/04/094b02/00100014.pdf)
 
 TABELA IV
 
@@ -346,13 +364,13 @@ TABELA I
 
 Valores máximos previstos no n.º 1.º desta portaria
 
-[(ver tabela no documento original)](https://files.diariodarepublica.pt/1s/1999/04/094b02/00100014.pdf)
+[[[(ver tabela no documento original)](https://files.diariodarepublica.pt/1s/1999/04/094b02/00100014.pdf)](https://files.diariodarepublica.pt/1s/1999/04/094b02/00100014.pdf)](https://files.diariodarepublica.pt/1s/1999/04/094b02/00100014.pdf)
 
 TABELA II
 
 Regime de bonificação e condições de acesso a que se referem os n.os 3.º e 9.º
 
-[(ver tabela no documento original)](https://files.diariodarepublica.pt/1s/1999/04/094b02/00100014.pdf)
+[[[(ver tabela no documento original)](https://files.diariodarepublica.pt/1s/1999/04/094b02/00100014.pdf)](https://files.diariodarepublica.pt/1s/1999/04/094b02/00100014.pdf)](https://files.diariodarepublica.pt/1s/1999/04/094b02/00100014.pdf)
 
 TABELA III
 

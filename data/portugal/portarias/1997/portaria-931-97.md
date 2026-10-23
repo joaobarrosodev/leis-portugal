@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/931/1997/09/12/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/931-1997-650331
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2006-06-07T00:00:00Z'
+  retrieved_at: '2026-10-23T14:05:53Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: f5971c2b743cb7b4fc96f7148b8eae225d4347c2f60dcd2504f3c2ca6918d208
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 8c0a0678577575742dc76b6822a33525d728d5252e1495a0b514ccea664e59fc
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T14:05:53Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -73,20 +73,40 @@ relationships:
   target: pt:dre:345541:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:386239:por
+  label: "Mantida em vigor pela LEI.4/2001.23.02.2001.AR, DR.IS-A [46] de 23.02.2001, até à publicação da regulamentação a\
+    \ que se refere o art. 21.º\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/lei/4-2001-386239
+  date: '2001-02-23'
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/130/1997/05/27/p/dre
   label: null
   source: http://data.dre.pt/eli/dec-lei/130/1997/05/27/p/dre
+- type: cites
+  target: pt:dre:347689:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:354957:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:345541:por
+  label: "Revogada, a partir da entrada em vigor do Regulamento de taxas da ERC, pelo DEC LEI.103/2006.07.06.2006.PCM, DR.IS-A\
+    \ [110] de 07.06.2006\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/103-2006-345541
+  date: '2006-06-07'
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T14:05:53Z'
   warnings: []
   errors: []
 ---
@@ -103,9 +123,9 @@ Manda o Governo, pelo Ministro das Finanças e pelos Secretários de Estado da C
 
 Presidência do Conselho de Ministros e Ministérios das Finanças e do Equipamento, do Planeamento e da Administração do Território.
 
-**Assinada em 18 de Julho de 1997.**
+Assinada em 18 de Julho de 1997.
 
-**O Secretário de Estado do Tesouro e das Finanças, Fernando Teixeira dos Santos. - O Secretário de Estado da Comunicação Social, Alberto Arons Braga de Carvalho. - A Secretária de Estado da Habitação e Comunicações, Leonor Coutinho Pereira dos Santos.**
+O Secretário de Estado do Tesouro e das Finanças, Fernando Teixeira dos Santos. - O Secretário de Estado da Comunicação Social, Alberto Arons Braga de Carvalho. - A Secretária de Estado da Habitação e Comunicações, Leonor Coutinho Pereira dos Santos.
 
 ## ANEXO — Taxas de alvarás de radiodifusão sonora
 

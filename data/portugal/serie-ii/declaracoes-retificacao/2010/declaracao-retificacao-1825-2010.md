@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/2s/2010/09/173000000/4615046151.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -46,18 +46,18 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/declaracao-rectificacao/1825-2010-1725652
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2010-09-06T00:00:00Z'
+  retrieved_at: '2026-10-23T14:19:54Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: c1e90b46b1e3c68ae5d73584c7695a3f26a2ec5caf88718cc7e36956fc31200f
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 7f4792485d5a074861c8c8ee28c6a68a6adf97beee371e80aee512a0e244fa98
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T14:19:54Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -70,21 +70,133 @@ relationships:
   target: celex:32008R0213
   label: null
   source: null
+- type: cites
+  target: pt:dre:1180947:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:1350165:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:1350378:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:1747478:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:227271:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:243732:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:245336:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:248178:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:249529:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:260915:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:292110:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:453538:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:453975:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:454014:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:454506:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:468663:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:489738:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:569757:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:575334:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:601976:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:609990:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:624401:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:640339:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:649162:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:656107:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:689576:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:692654:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:757302:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T14:19:54Z'
   warnings: []
   errors: []
 ---
 
-# Declaração de Rectificação n.º 1825/2010
+# Declaração de rectificação n.º 1825/2010
 
 Por ter saído com inexactidão o aviso n.º 15 550/2010, publicado no Diário da República, 2.ª série, n.º 151, de 5 de Agosto de 2010, referente à abertura do procedimento concursal comum para constituição de relação jurídica de emprego público por tempo indeterminado tendo em vista o preenchimento de um posto de trabalho da carreira/categoria de assistente técnico (m/f) para a área funcional de serviço administrativo do Gabinete do Administrador - ref.ª GA -01/10 (1), rectifica-se que onde se lê:
 
@@ -227,3 +339,5 @@ Regulamento (CE) n.º 213/2008, de 15 de Março;
 Regulamento Orgânico dos SASUM (disponível em www.sas.uminho. pt).»
 
 5 de Agosto de 2010. - O Administrador para a Acção Social, Carlos Duarte Oliveira e Silva.
+
+203644428

@@ -22,7 +22,7 @@ publication:
   reference: Diário da República n.º 185/1999, 1º Suplemento, Série I-B de 1999-08-10
   number: '185'
   series: I
-  supplement: 1º Suplemento
+  supplement: null
   pages: 5220-(3) a 5220-(6)
   pdf_url: https://files.diariodarepublica.pt/1s/1999/08/185b01/00030006.pdf
 entry_into_force_dates: []
@@ -49,18 +49,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/630-b/1999/08/10/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/630-b-1999-240466
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1999-11-12T00:00:00Z'
+  retrieved_at: '2026-10-23T14:16:43Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: b82dcc91385f5bc3b6931a83ee0f0bfc63aed3b0b13d9d23b488fb898ec7b58d
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 7ac224a22d9727dcfe31d45f07695a4610c5c895d8eaf5fc34d9f0cdcf3ab81a
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T14:16:43Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -70,6 +70,9 @@ reuse:
 subjects:
 - Aveiro
 - Barcelos
+- Bragança
+- Castelo Branco
+- Coimbra
 - Elvas
 - Ensino Oficial
 - Ensino Superior Politécnico
@@ -84,7 +87,7 @@ subjects:
 - Escola Superior de Tecnologia
 - Escola Superior de Tecnologia e Gestão
 - Escola Superior de Tecnologia Gestão ARTE e Design
-- Lisboa
+- Guarda
 - Idanha-a-nova
 - Instituto Politécnico
 - Instituto Politécnico do Cávado e do AVE
@@ -92,25 +95,27 @@ subjects:
 - Instituto Superior de Engenharia
 - Leiria
 - Licenciatura
+- Lisboa
 - Numerus Clausus
-- Setúbal
-- Castelo Branco
-- VILA do Conde
-- Coimbra
 - Portalegre
+- Porto
 - Póvoa de Varzim
 - Santarém
-- Bragança
+- Setúbal
 - Tomar
-- Porto
-- Guarda
 - Viana do Castelo
+- VILA do Conde
 - Viseu
 relationships:
 - type: amended_by
   target: pt:dre:682832:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:682832:por
+  label: "Alterado o anexo pela PORT.1006/99.1999.11.12.ME,DR.IS-B [264]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/1006-1999-682832
+  date: '1999-11-12'
 - type: cites
   target: eli:http://data.dre.pt/eli/lei/115/1997/09/19/p/dre
   label: null
@@ -123,16 +128,36 @@ relationships:
   target: eli:http://data.dre.pt/eli/port/533-a/1999/07/22/p/dre
   label: null
   source: http://data.dre.pt/eli/port/533-a/1999/07/22/p/dre
+- type: cites
+  target: pt:dre:147873:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:222418:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:429596:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:453184:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:653145:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T14:16:43Z'
   warnings: []
   errors: []
 ---

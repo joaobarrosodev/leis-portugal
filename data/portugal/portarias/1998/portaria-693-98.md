@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/693/1998/09/03/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/693-1998-566825
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2023-11-29T00:00:00Z'
+  retrieved_at: '2026-10-23T14:10:36Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 98668d2da1cd27848e5bd766106afbce1e8efd51d14d04a96eca4119551a069b
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: e66501e6223979b5258786f89366a32a3e6137f8d2ea8bbf84bbc527036489fe
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T14:10:36Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -77,20 +77,95 @@ relationships:
   target: pt:dre:224870952:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:546868:por
+  label: "Aditado um novo par curso/estabelecimento de ensino às habilitações para a docência constantes do anexo II ao presente\
+    \ diploma, pela PORT.431/2005.18.04.2005.ME, DR.IS-B [75] de 18.04.2005\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/431-2005-546868
+  date: '2005-04-18'
+- type: amended_by
+  target: pt:dre:549466:por
+  label: "Aditado um novo par curso/estabelecimento de ensino às habilitações constantes do anexo II do presente diploma,\
+    \ pela PORT.435/2005.21.04.2005.ME, DR.IS-B [78] de 21.04.2005\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/435-2005-549466
+  date: '2005-04-21'
+- type: amended_by
+  target: pt:dre:549467:por
+  label: "Aditado um novo par curso/estabelecimento de ensino às habilitações constantes do anexo II do presente diploma,\
+    \ pela PORT.436/2005.21.04.2005.ME, DR.IS-B [78] de 21.04.2005\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/436-2005-549467
+  date: '2005-04-21'
+- type: amended_by
+  target: pt:dre:532423:por
+  label: "Aditada nova habilitação para a docência às habilitações constantes do anexo II ao presente diploma, pela PORT.451/2005.29.04.2005.ME,\
+    \ DR.IS-B [83] de 29.04.2005\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/451-2005-532423
+  date: '2005-04-29'
+- type: amended_by
+  target: pt:dre:532424:por
+  label: "Aditada nova habilitação para a docência às habilitações constantes do anexo II ao presente diploma, pela PORT.452/2005.29.04.2005.ME,\
+    \ DR.IS-B [83] de 29.04.2005\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/452-2005-532424
+  date: '2005-04-29'
+- type: amended_by
+  target: pt:dre:534388:por
+  label: "Aditada, nova habilitação para a docência, às habilitações constantes do anexo II do presente diploma, nos termos\
+    \ do art. 1.º da PORT.463/2005.03.05.2005.ME, DR.IS-B [85] \0 \0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/463-2005-534388
+  date: '2005-05-03'
+- type: amended_by
+  target: pt:dre:533829:por
+  label: "Aditada nova habilitação para a docência às habilitações constantes do anexo II ao presente diploma, pela PORT.469/2005.05.05.2005.ME,\
+    \ DR.IS-B [87] de 05.05.2005\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/469-2005-533829
+  date: '2005-05-05'
+- type: amended_by
+  target: pt:dre:636751:por
+  label: "Aditados novos cursos ao elenco de habilitações para a docência constantes do anexo II do presente diploma pela\
+    \ PORT.803/2007.24.07.2007.ME, DR.IS [141] de 24.07.2007\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/803-2007-636751
+  date: '2007-07-24'
+- type: amended_by
+  target: pt:dre:456559:por
+  label: "Aditados novos cursos ao elenco de habilitações para a docência constantes do anexo II pela PORT.617/2008.11.07.2008.ME,\
+    \ DR.IS [133] de 11.07.2008\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/617-2008-456559
+  date: '2008-07-11'
 - type: cites
   target: eli:http://data.dre.pt/eli/despnorm/15/1997/03/31/p/dre
   label: null
   source: http://data.dre.pt/eli/despnorm/15/1997/03/31/p/dre
+- type: cites
+  target: pt:dre:452686:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:458182:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:527666:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:657414:por
+  label: null
+  source: null
+- type: corrected_by
+  target: pt:dre:452004:por
+  label: "Rectificada pela DECL-RECT.10-E/99.1999.03.25.PCM,DR.IS-B [76]5ºSUPL\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/declaracao-rectificacao/10-e-1999-452004
+  date: '1999-03-25'
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T14:10:36Z'
   warnings: []
   errors: []
 ---
@@ -129,7 +204,7 @@ Manda o Governo, pelo Ministro da Educação, o seguinte:
 
 Ministério da Educação.
 
-**Assinada em 6 de Agosto de 1998.**
+Assinada em 6 de Agosto de 1998.
 
 Pelo Ministro da Educação, Guilherme d'Oliveira Martins, Secretário de Estado da Administração Educativa.
 

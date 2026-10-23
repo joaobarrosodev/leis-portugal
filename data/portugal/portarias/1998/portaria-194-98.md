@@ -48,18 +48,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/194/1998/03/24/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/194-1998-199639
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1998-03-24T00:00:00Z'
+  retrieved_at: '2026-10-23T14:07:19Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: bd738bab0cbc8d5194c02f1fcbdecde8bd6bab8aee5d6f13ce9d9442583a987d
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: ae7c452febd71b5a5d378f18137d5846a0764dc4990a1e2f26de6a3a90a035fd
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T14:07:19Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,22 +67,26 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Formação Profissional
+- Carreira Profissional
 - Comissão de Coordenação da Região do Algarve
 - Equivalência de Habilitações Literárias
-- Carreira Profissional
+- Formação Profissional
 - Pessoal Técnico Profissional
-relationships: []
+relationships:
+- type: cites
+  target: pt:dre:183426:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T14:07:19Z'
   warnings: []
   errors: []
 ---
@@ -95,6 +99,6 @@ Manda o Governo, pelos Secretários de Estado da Administração Pública e da A
 
 Presidência do Conselho de Ministros e Ministério do Equipamento, do Planeamento e da Administração do Território.
 
-**Assinada em 26 de Fevereiro de 1998.**
+Assinada em 26 de Fevereiro de 1998.
 
-**O Secretário de Estado da Administração Pública, Fausto de Sousa Correia. - O Secretário de Estado da Administração Local e Ordenamento do Território, José Augusto de Carvalho.**
+O Secretário de Estado da Administração Pública, Fausto de Sousa Correia. - O Secretário de Estado da Administração Local e Ordenamento do Território, José Augusto de Carvalho.

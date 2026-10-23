@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/662/2000/08/29/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/662-2000-328397
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2007-08-27T00:00:00Z'
+  retrieved_at: '2026-10-23T14:25:07Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 0ddbc6bad3bf92e82d7c2fe0ce57fedf042c6424b382deac166aaf7a60317ebd
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 40857af23c879ab953b2bbe0aa90d6b000994ff2698ee7ec26739226a3edf53d
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T14:25:07Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -74,6 +74,24 @@ relationships:
   target: pt:dre:640936:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:603934:por
+  label: "Anexados vários prédios rústicos à zona de caça associativa criada pela presente portaria, pela PORT.55/2004.16.01.2004.MADRP,\
+    \ DR.IS-B [13] de 16.01.2004\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/55-2004-603934
+  date: '2004-01-16'
+- type: amended_by
+  target: pt:dre:481507:por
+  label: "Anexados vários prédios rústicos à zona de caça concessionada pelo presente diploma, posteriormente alterado pela\
+    \ Port 55/2004 de 16-Jan, pela PORT.1186/2005.24.11.2005.MADRP, DR.IS-B [226] de 24.11.2005\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/1186-2005-481507
+  date: '2005-11-24'
+- type: amended_by
+  target: pt:dre:640936:por
+  label: "Desanexados vários prédios rústicos da zona de caça concessionada pelo presente diploma, alterado pelas Ports 55/2004\
+    \ de 16-Jan e 1186/2005 de 24-Nov, pela PORT.981/2007.27.08.2007.MADRP, DR.IS [164] de 27.08.2007\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/981-2007-640936
+  date: '2007-08-27'
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/136/1996/08/14/p/dre
   label: null
@@ -82,16 +100,36 @@ relationships:
   target: eli:http://data.dre.pt/eli/port/219-a/1991/03/18/p/dre
   label: null
   source: http://data.dre.pt/eli/port/219-a/1991/03/18/p/dre
+- type: cites
+  target: pt:dre:219134:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:354162:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:405765:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:619925:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:620697:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T14:25:07Z'
   warnings: []
   errors: []
 ---

@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/2s/2010/06/108000000/3099330996.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -46,18 +46,18 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/declaracao-rectificacao/1079-2010-2356942
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2010-06-04T00:00:00Z'
+  retrieved_at: '2026-10-23T14:15:28Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 2b4e8cbe86e6a04a8aa7a6f8dc506b8c4f3384ff4cbfae34ecd965bad2a591ce
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 7ef0e2ed52330fa13c1bafdab9dfbc8e332492732d62ceda6ec45d7fb9888135
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T14:15:28Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -69,13 +69,13 @@ relationships: []
 article_structure:
   article_count: 0
   section_count: 10
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T14:15:28Z'
   warnings: []
   errors: []
 ---
@@ -98,7 +98,7 @@ Município de Montemor-o-Novo
 
 2.2 - Serviço de ligação
 
-[([ver documento original](https://files.diariodarepublica.pt/2s/2010/06/108000000/3099330996.pdf))](https://files.diariodarepublica.pt/2s/2010/06/108000000/3099330996.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/2s/2010/06/108000000/3099330996.pdf)
 
 12.2 - Acresce, por dia, o montante determinado pela fórmula:
 
@@ -148,17 +148,17 @@ F(índice 06) = 0,75
 
 3.1.2 - Acresce uma parcela variável cujo cálculo obedece à seguinte fórmula:
 
-[([ver documento original](https://files.diariodarepublica.pt/2s/2010/06/108000000/3099330996.pdf))](https://files.diariodarepublica.pt/2s/2010/06/108000000/3099330996.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/2s/2010/06/108000000/3099330996.pdf)
 
 7.2 - O cálculo da parcela variável obedece à seguinte fórmula:
 
-[([ver documento original](https://files.diariodarepublica.pt/2s/2010/06/108000000/3099330996.pdf))](https://files.diariodarepublica.pt/2s/2010/06/108000000/3099330996.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/2s/2010/06/108000000/3099330996.pdf)
 
 ### Capítulo VIII — Emissão de alvará de licença ou admissão de comunicação prévia de obras de edificação
 
 1.3 - Acresce uma parcela variável (PV) cujo cálculo obedece à seguinte fórmula:
 
-[([ver documento original](https://files.diariodarepublica.pt/2s/2010/06/108000000/3099330996.pdf))](https://files.diariodarepublica.pt/2s/2010/06/108000000/3099330996.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/2s/2010/06/108000000/3099330996.pdf)
 
 ### Capítulo IX
 
@@ -166,15 +166,15 @@ Taxa pela realização, reforço e manutenção de infraestruturas gerais nas co
 
 1 - Nas construções de habitação, comércio e serviços e indústria a taxa obedece à seguinte fórmula:
 
-[([ver documento original](https://files.diariodarepublica.pt/2s/2010/06/108000000/3099330996.pdf))](https://files.diariodarepublica.pt/2s/2010/06/108000000/3099330996.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/2s/2010/06/108000000/3099330996.pdf)
 
 2 - Nas construções de estabelecimentos de restauração e bebidas e nas superfícies comerciais:
 
-[([ver documento original](https://files.diariodarepublica.pt/2s/2010/06/108000000/3099330996.pdf))](https://files.diariodarepublica.pt/2s/2010/06/108000000/3099330996.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/2s/2010/06/108000000/3099330996.pdf)
 
 3 - Nas construções de estabelecimentos de hotelaria e similares:
 
-[([ver documento original](https://files.diariodarepublica.pt/2s/2010/06/108000000/3099330996.pdf))](https://files.diariodarepublica.pt/2s/2010/06/108000000/3099330996.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/2s/2010/06/108000000/3099330996.pdf)
 
 ### Capítulo XI — Instalações de armazenamento de produtos do petróleo
 
@@ -188,48 +188,50 @@ Taxa pela realização, reforço e manutenção de infraestruturas gerais nas co
 
 1.3 - Acresce uma parcela variável (PV) cujo cálculo obedece à seguinte fórmula:
 
-[([ver documento original](https://files.diariodarepublica.pt/2s/2010/06/108000000/3099330996.pdf))](https://files.diariodarepublica.pt/2s/2010/06/108000000/3099330996.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/2s/2010/06/108000000/3099330996.pdf)
 
 2.2 - Acresce uma parcela variável (PV) cujo cálculo obedece à seguinte fórmula:
 
-[([ver documento original](https://files.diariodarepublica.pt/2s/2010/06/108000000/3099330996.pdf))](https://files.diariodarepublica.pt/2s/2010/06/108000000/3099330996.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/2s/2010/06/108000000/3099330996.pdf)
 
 3.2 - Acresce uma parcela variável (PV) cujo cálculo obedece à seguinte fórmula:
 
-[([ver documento original](https://files.diariodarepublica.pt/2s/2010/06/108000000/3099330996.pdf))](https://files.diariodarepublica.pt/2s/2010/06/108000000/3099330996.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/2s/2010/06/108000000/3099330996.pdf)
 
 ### Capítulo XIII — Ocupação do domínio público municipal por motivo de obras
 
 1.2 - Acresce uma parcela variável calculada em função da seguinte fórmula:
 
-[([ver documento original](https://files.diariodarepublica.pt/2s/2010/06/108000000/3099330996.pdf))](https://files.diariodarepublica.pt/2s/2010/06/108000000/3099330996.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/2s/2010/06/108000000/3099330996.pdf)
 
 ### Capítulo XIV — Outras taxas
 
 5.1 - A taxa devida pela realização, reforço e manutenção de infraestruturas urbanísticas (TMU) é calculada de acordo com a seguinte fórmula:
 
-[([ver documento original](https://files.diariodarepublica.pt/2s/2010/06/108000000/3099330996.pdf))](https://files.diariodarepublica.pt/2s/2010/06/108000000/3099330996.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/2s/2010/06/108000000/3099330996.pdf)
 
 8.1 - Aos valores das taxas fixadas acrescem, sempre que se verifiquem, custos inerentes a peritos de outras entidades
 
 8.2.2 - Acresce uma parcela variável calculada nos termos da seguinte fórmula:
 
-[([ver documento original](https://files.diariodarepublica.pt/2s/2010/06/108000000/3099330996.pdf))](https://files.diariodarepublica.pt/2s/2010/06/108000000/3099330996.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/2s/2010/06/108000000/3099330996.pdf)
 
 8.3.2 - Acresce uma parcela variável calculada nos termos da seguinte fórmula:
 
-[([ver documento original](https://files.diariodarepublica.pt/2s/2010/06/108000000/3099330996.pdf))](https://files.diariodarepublica.pt/2s/2010/06/108000000/3099330996.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/2s/2010/06/108000000/3099330996.pdf)
 
 8.4.2 - Acresce uma parcela variável calculada nos termos da seguinte fórmula:
 
-[([ver documento original](https://files.diariodarepublica.pt/2s/2010/06/108000000/3099330996.pdf))](https://files.diariodarepublica.pt/2s/2010/06/108000000/3099330996.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/2s/2010/06/108000000/3099330996.pdf)
 
 8.5.2 - Acresce uma parcela variável calculada nos termos da seguinte fórmula:
 
-[([ver documento original](https://files.diariodarepublica.pt/2s/2010/06/108000000/3099330996.pdf))](https://files.diariodarepublica.pt/2s/2010/06/108000000/3099330996.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/2s/2010/06/108000000/3099330996.pdf)
 
 10.1.2 - Acresce uma parcela variável cujo cálculo obedece à seguinte fórmula:
 
-[([ver documento original](https://files.diariodarepublica.pt/2s/2010/06/108000000/3099330996.pdf))](https://files.diariodarepublica.pt/2s/2010/06/108000000/3099330996.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/2s/2010/06/108000000/3099330996.pdf)
 
 14.4 - Fotocópias autenticadas de peças desenhadas ou escritas, por folha, até formato A3.
+
+203312019

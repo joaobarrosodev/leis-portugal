@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/1280/1997/12/31/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/1280-1997-321680
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1997-12-31T00:00:00Z'
+  retrieved_at: '2026-10-23T14:00:38Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 8087e5606daace31cd0764a1fd741f15795ba80f7ef0a2ba8b5058e6f53c098d
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: bc7bb7f983e078d3dcf90bf08a3030b301e2aa4ff5ac92b6875dba9324fa59e6
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T14:00:38Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -68,13 +68,13 @@ reuse:
 subjects:
 - Adjudicação sem Concurso Público
 - Ajuda Comunitária
-- Luta contra a Pobreza
-- Financiamento
 - Concurso Público
 - Empreitada de Obras Públicas
 - Equipamento Social
-- IPSS
+- Financiamento
 - Inserção Social
+- IPSS
+- Luta contra a Pobreza
 - Subprograma Integrar
 relationships:
 - type: cites
@@ -85,16 +85,36 @@ relationships:
   target: eli:http://data.dre.pt/eli/port/328/1996/08/02/p/dre
   label: null
   source: http://data.dre.pt/eli/port/328/1996/08/02/p/dre
+- type: cites
+  target: pt:dre:287461:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:302536:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:311401:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:407753:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:570492:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T14:00:38Z'
   warnings: []
   errors: []
 ---
@@ -143,6 +163,6 @@ d) Ajuste directo, sem consulta obrigatória, quando tal valor seja inferior a 1
 
 Ministérios do Equipamento, do Planeamento e da Administração do Território e da Solidariedade e Segurança Social.
 
-**Assinada em 18 de Novembro de 1997.**
+Assinada em 18 de Novembro de 1997.
 
-**O Ministro do Equipamento, do Planeamento e da Administração do Território, João Cardona Gomes Cravinho. - O Ministro da Solidariedade e Segurança Social, Eduardo Luís Barreto Ferro Rodrigues.**
+O Ministro do Equipamento, do Planeamento e da Administração do Território, João Cardona Gomes Cravinho. - O Ministro da Solidariedade e Segurança Social, Eduardo Luís Barreto Ferro Rodrigues.

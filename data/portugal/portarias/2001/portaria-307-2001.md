@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/307/2001/03/30/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/307-2001-346530
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2008-04-16T00:00:00Z'
+  retrieved_at: '2026-10-23T14:31:23Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 88582cd3be73f2b5ca28a5cfeb5344a4889fde0b4dd85506897fd7f8628a8eb0
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: a00097a64499377c30fbb4ffbc15fcd0f7056474a13d21de1b1e72ad71fe2ac3
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T14:31:23Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -74,6 +74,18 @@ relationships:
   target: pt:dre:249802:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:483908:por
+  label: "Anexados vários prédios rústicos à zona de caça pela PORT.1122/2003.01.10.2003.MADRP, DR.IS-B [227] de 01.10.2003\0\
+    \0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/1122-2003-483908
+  date: '2001-03-30'
+- type: amended_by
+  target: pt:dre:249802:por
+  label: "Anexados vários prédios rústicos à zona de caça atribuída pelo presente diploma, alterada pela Port 1122/2003, de\
+    \ 01-Out, pela PORT.292/2008.16.04.2008.MADRP, DR.IS [75] de 16.04.2008\08\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/292-2008-249802
+  date: '2008-04-16'
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/136/1996/08/14/p/dre
   label: null
@@ -86,16 +98,37 @@ relationships:
   target: eli:http://data.dre.pt/eli/port/1103/2000/11/23/p/dre
   label: null
   source: http://data.dre.pt/eli/port/1103/2000/11/23/p/dre
+- type: cites
+  target: pt:dre:219134:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:405765:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:534644:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:594974:por
+  label: null
+  source: null
+- type: corrected_by
+  target: pt:dre:617275:por
+  label: "Rectificada pela DECL-RECT.10-D/2001.2001.04.30.PCM DR.IS-B [100]4º Supl\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/declaracao-rectificacao/10-d-2001-617275
+  date: '2001-04-30'
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T14:31:23Z'
   warnings: []
   errors: []
 ---

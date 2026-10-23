@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/2s/2009/09/187000000/3930639306.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -46,18 +46,18 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/declaracao-rectificacao/2383-2009-1587799
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2009-09-25T00:00:00Z'
+  retrieved_at: '2026-10-23T14:06:39Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 208fb9e659bcfe1e2df73cea05e2bd1c428d1b9f8749291562d45a153156987e
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 7fceea3ec71b700ec8698f78e431f6619ec5b96eda27225cc120a93382e378e9
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T14:06:39Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -65,25 +65,31 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects: []
-relationships: []
+relationships:
+- type: cites
+  target: pt:dre:624401:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T14:06:39Z'
   warnings: []
   errors: []
 ---
 
-# Declaração de Rectificação n.º 2383/2009
+# Declaração de rectificação n.º 2383/2009
 
 Procedimento concursal para provimento de dois assistentes operacionais (nadador-salvador) a termo resolutivo certo a tempo inteiro
 
 No seguimento do procedimento concursal publicado no Diário da República, 2.ª série, n.º 153, de 10 de Agosto de 2009,na Bolsa de Emprego Público (BEP), número OE200908/0371, no Jornal de Notícias, n.º 73, de 13 de Agosto, e com a declaração de rectificação ao aviso de abertura n.º 14 158/2009, de 10 de Agosto, e para os efeitos consignados no artigo 32.º da [Portaria n.º 83-A/2009](https://diariodarepublica.pt/dr/detalhe/portaria/83-a-2009-624401), de 22 de Janeiro, rectifica-se que onde se lê «6 - Horário de trabalho: o período normal de trabalho será de 35 horas semanais. De segunda a domingo, com dias de descanso a gozar rotativamente e no horário compreendido entre as 9.00 horas e as 18.00 horas» deve ler-se «O período normal de trabalho será de 35 horas semanais.»
 
 14 de Setembro de 2009. - A Vereadora da Área de Recursos Humanos, Ana Margarida Ferreira da Silva.
+
+302332284

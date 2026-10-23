@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/830/2000/09/22/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/830-2000-558066
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2002-12-21T00:00:00Z'
+  retrieved_at: '2026-10-23T14:26:15Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: fc24c831f4c1fd46185823888063a5c21cf0edd5b300071a2545f58c652f97c1
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 85a7afb81c6ed59a3af83a9e0436442609f8f89a9788b7a342eb2849f7ae2ecc
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T14:26:15Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,16 +67,26 @@ reuse:
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
 - ANO Complementar de Formação em Enfermagem
-- Plano de Estudos
 - Curso de Enfermagem
 - Escola Superior de Enfermagem do DR Lopes DIAS
 - Formação Complementar
 - Licenciatura
+- Plano de Estudos
 relationships:
 - type: amended_by
   target: pt:dre:771602:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:1206203:por
+  label: "ALTERADO O QUADRO DE PESSOAL POR PORT.291/2003(2ªSÉRIE).2002.11.15.MF, DR.IIS [54] DE 5/MAR/2003\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/291-2003-1206203
+  date: '2002-11-15'
+- type: amended_by
+  target: pt:dre:771602:por
+  label: "Alterado o quadro de pessoal por PORT.1866/2002(2ªSÉRIE).2002.12.06.SEO-MF, DR.IIS [295] de 21/Dez/2002. \0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/1866-2002-771602
+  date: '2002-12-21'
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/353/1999/09/03/p/dre
   label: null
@@ -93,16 +103,32 @@ relationships:
   target: eli:http://data.dre.pt/eli/port/799-g/1999/09/18/p/dre
   label: null
   source: http://data.dre.pt/eli/port/799-g/1999/09/18/p/dre
+- type: cites
+  target: pt:dre:320283:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:581591:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:581594:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:582195:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T14:26:15Z'
   warnings: []
   errors: []
 ---

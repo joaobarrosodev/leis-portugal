@@ -48,18 +48,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/533/1999/07/22/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/533-1999-354679
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2003-10-08T00:00:00Z'
+  retrieved_at: '2026-10-23T14:16:04Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 4a6cc1a70506b0eff54f10728b00b450d31671ba261d7372b6399b96c2784d99
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: f548b9097b00abd3750839d4d250505050d8e8e29571832d5f438bf30ff4b15b
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T14:16:04Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -68,17 +68,27 @@ reuse:
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
 - Bacharelato
-- Plano de Estudos
 - Curso de Contabilidade e Gestão
 - Ensino Superior Politécnico
 - Escola Superior de Gestão
 - Idanha-a-nova
 - Licenciatura
+- Plano de Estudos
 relationships:
 - type: amended_by
   target: pt:dre:482468:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:531666:por
+  label: "Alterados os n.ºs 7, 8 e 9, pela PORT.1024/2000.2000.10.25.ME DR.IS-B [247]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/1024-2000-531666
+  date: '2000-10-25'
+- type: amended_by
+  target: pt:dre:524586:por
+  label: "Aditados os quadros nºs 13, 14 e 15 pela PORT.979/2001.2001.08.14.ME DR.IS-B [188]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/979-2001-524586
+  date: '2001-08-14'
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/153/1997/06/20/p/dre
   label: null
@@ -107,16 +117,66 @@ relationships:
   target: eli:http://data.dre.pt/eli/port/877/1991/08/24/p/dre
   label: null
   source: http://data.dre.pt/eli/port/877/1991/08/24/p/dre
+- type: cites
+  target: pt:dre:164634:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:222418:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:226425:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:273991:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:403275:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:429593:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:429596:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:453184:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:470779:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:556606:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:653145:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:482468:por
+  label: "Revogado, findo o processo de transição e nos termos do n.º 1 do art. 2.º, pela PORT.1182/2003.08.10.2003.MCES,\
+    \ DR.IS-B [233] de 08.10.2003 \0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/1182-2003-482468
+  date: '2003-10-08'
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T14:16:04Z'
   warnings: []
   errors: []
 ---

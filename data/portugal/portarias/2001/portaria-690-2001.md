@@ -49,18 +49,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/690/2001/07/10/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/690-2001-348550
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2001-07-10T00:00:00Z'
+  retrieved_at: '2026-10-23T14:33:53Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 0e7d0144bd8aa65ffa59318d530a76847d7cbfa30f66455fd5910013e1c80eae
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: f218a69fcbe8067b3a2c537a2713f16f71ae31c85050b3e6e5c9581b621efe7a
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T14:33:53Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -68,13 +68,21 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Instalação de GÁS
 - Combustível
 - Fiscalização
+- Instalação de GÁS
+- Normalização
 - Normas de Segurança
 - Segurança dos Edifícios
-- Normalização
 relationships:
+- type: amends
+  target: pt:numero:portaria:362/2000
+  label: "Altera o artigo 4.º dos Procedimentos Relativos às Inspecções e à Manutenção das Redes e Ramais de Distribuição\
+    \ e Instalações de Gás, e os certificados de inspecção, (anexo I e II) do Estatuto das Entidades Inspectoras de Redes\
+    \ e Ramais de Distribuição e Instalações de Gás, ambos aprovados pela Portaria n.º 362/2000, de 20 de Junho, DR.IS-B [141],\
+    \ constituindo respectivamente os Anexos I e II da citada Portaria\0\0"
+  source: null
+  date: '2000-06-20'
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/125/1997/05/23/p/dre
   label: null
@@ -95,16 +103,40 @@ relationships:
   target: eli:http://data.dre.pt/eli/port/386/1994/06/16/p/dre
   label: null
   source: http://data.dre.pt/eli/port/386/1994/06/16/p/dre
+- type: cites
+  target: pt:dre:303609:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:303810:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:400399:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:479399:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:575770:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:632393:por
+  label: null
+  source: null
 article_structure:
-  article_count: 16
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T14:33:53Z'
   warnings: []
   errors: []
 ---
@@ -173,7 +205,9 @@ c) Acompanhar a tubagem de gás até 1,1 m.
 
 3 - ...
 
-###### Artigo 2.º — [...]
+Artigo 2.º
+
+[...]
 
 ...
 
@@ -327,7 +361,9 @@ c) Acompanhar a tubagem de gás até 1,1 m.
 
 'Válvula de ramal' ...
 
-###### Artigo 6.º — [...]
+Artigo 6.º
+
+[...]
 
 1 - ...
 
@@ -335,7 +371,9 @@ c) Acompanhar a tubagem de gás até 1,1 m.
 
 3 - Os componentes a utilizar nas instalações de gás podem ser acompanhados de um certificado, segundo a norma NP EN-10 204 ou outra tecnicamente equivalente, e satisfazer as normas técnicas aplicáveis.
 
-###### Artigo 7.º — [...]
+Artigo 7.º
+
+[...]
 
 1 - ...
 
@@ -355,7 +393,9 @@ c) As costuras dos tubos sejam examinadas a 100% por um método de ensaio não d
 
 6 - ...
 
-###### Artigo 13.º — [...]
+Artigo 13.º
+
+[...]
 
 1 - ...
 
@@ -393,7 +433,9 @@ b) ...
 
 12 - ...
 
-###### Artigo 15.º — [...]
+Artigo 15.º
+
+[...]
 
 1 - Sempre que uma tubagem enterrada penetre num edifício, através das suas paredes ou fundações no subsolo, o espaço anelar entre a tubagem e a parede deve ser obturado de modo estanque.
 
@@ -411,7 +453,9 @@ e) ...
 
 3 - ...
 
-###### Artigo 16.º — [...]
+Artigo 16.º
+
+[...]
 
 1 - ...
 
@@ -435,7 +479,9 @@ c) ...
 
 8 - As tubagens de gás quando colocadas em parques de estacionamento, colectivos e cobertos, devem ficar protegidas de eventuais impactes acidentais resultantes de manobras inadvertidas de veículos, através da colocação de protecções metálicas adequadamente resistentes que impeçam o contacto de veículos com as mesmas.
 
-###### Artigo 18.º — [...]
+Artigo 18.º
+
+[...]
 
 1 - ...
 
@@ -451,7 +497,9 @@ c) ...
 
 7 - A caixa referida no n.º 2 pode alojar também o redutor para serviço do edifício, quando aquele exista.
 
-###### Artigo 19.º — [...]
+Artigo 19.º
+
+[...]
 
 1 - ...
 
@@ -467,7 +515,9 @@ b) ...
 
 5 - ...
 
-###### Artigo 20.º — [...]
+Artigo 20.º
+
+[...]
 
 1 - ...
 
@@ -497,7 +547,9 @@ d) ...
 
 10 - ...
 
-###### Artigo 26.º — [...]
+Artigo 26.º
+
+[...]
 
 1 - ...
 
@@ -515,7 +567,9 @@ b) Se esses sistemas se encontrarem no exterior do edifício, deverão ser coloc
 
 6 - ...
 
-###### Artigo 27.º — [...]
+Artigo 27.º
+
+[...]
 
 1 - Os contadores de gás e os respectivos redutores de segurança devem ser instalados em caixa fechada, seca e ventilada, situada de preferência no exterior do fogo, em local de acessibilidade de grau 1.
 
@@ -525,7 +579,9 @@ b) Se esses sistemas se encontrarem no exterior do edifício, deverão ser coloc
 
 4 - Os contadores devem ser montados de forma a não serem transmitidos esforços às respectivas ligações à tubagem.
 
-###### Artigo 29.º — [...]
+Artigo 29.º
+
+[...]
 
 1 - ...
 
@@ -541,7 +597,9 @@ c) Possuírem portas da mesma classe de material, com fecho, abrindo para fora.
 
 4 - No caso de utilização de alvéolo técnico, as tubagens a jusante dos contadores devem ficar protegidas por canaletes nas zonas sujeitas a eventuais agressões mecânicas, satisfazendo o disposto nos n.os 11 e 12 do artigo 13.º
 
-###### Artigo 32.º — [...]
+Artigo 32.º
+
+[...]
 
 1 - ...
 
@@ -555,13 +613,17 @@ c) Possuírem portas da mesma classe de material, com fecho, abrindo para fora.
 
 6 - Na parte superior do canalete a secção livre de evacuação será protegida por forma a impedir a entrada de matérias estranhas e a acção de agentes atmosféricos.
 
-###### Artigo 40.º — [...]
+Artigo 40.º
+
+[...]
 
 1 - Só é permitida a montagem de aparelhos a gás desde que a potência global por fogo não ultrapasse 70 kW.
 
 2 - ...
 
-###### Artigo 41.º — [...]
+Artigo 41.º
+
+[...]
 
 1 - As colunas montantes podem ser interiores, desde que colocadas e localizadas de modo a não porem em causa o cumprimento dos requisitos de segurança do Regulamento de Segurança e Prevenção de Incêndios em Edifícios, aplicáveis a edifícios de grande altura.
 
@@ -571,7 +633,9 @@ c) Possuírem portas da mesma classe de material, com fecho, abrindo para fora.
 
 4 - ...
 
-###### Artigo 48.º — [...]
+Artigo 48.º
+
+[...]
 
 1 - ...
 
@@ -607,7 +671,9 @@ c) ...
 
 9 - ...
 
-## ANEXO — [...]
+ANEXO
+
+[...]
 
 EN-437 - Gases de ensaio. Pressões de ensaio. Categorias de aparelhos.
 
@@ -645,19 +711,21 @@ NP-1639 - Redes de distribuição de gases de combustíveis. Tubos de chumbo. Ca
 
 6 - ...
 
-## ANEXO I — Certificado de inspecção
+ANEXO I
+
+Certificado de inspecção
 
 (redes e ramais)
 
 Número/ano
 
-Inicial [([ver documento original](https://files.diariodarepublica.pt/1s/2001/07/158b00/41514155.pdf))](https://files.diariodarepublica.pt/1s/2001/07/158b00/41514155.pdf)
+Inicial [(ver documento original)](https://files.diariodarepublica.pt/1s/2001/07/158b00/41514155.pdf)
 
-Periódica [([ver documento original](https://files.diariodarepublica.pt/1s/2001/07/158b00/41514155.pdf))](https://files.diariodarepublica.pt/1s/2001/07/158b00/41514155.pdf)
+Periódica [(ver documento original)](https://files.diariodarepublica.pt/1s/2001/07/158b00/41514155.pdf)
 
-Extraordinária [([ver documento original](https://files.diariodarepublica.pt/1s/2001/07/158b00/41514155.pdf))](https://files.diariodarepublica.pt/1s/2001/07/158b00/41514155.pdf)
+Extraordinária [(ver documento original)](https://files.diariodarepublica.pt/1s/2001/07/158b00/41514155.pdf)
 
-Outras [([ver documento original](https://files.diariodarepublica.pt/1s/2001/07/158b00/41514155.pdf))](https://files.diariodarepublica.pt/1s/2001/07/158b00/41514155.pdf)
+Outras [(ver documento original)](https://files.diariodarepublica.pt/1s/2001/07/158b00/41514155.pdf)
 
 A entidade inspectora ... (ver nota 1), com sede em..., reconhecida pela Direcção-Geral da Energia ao abrigo do despacho n.º ..., declara haver inspeccionado em ... a seguinte instalação:
 
@@ -683,19 +751,21 @@ Certifica que a rede/ramal de distribuição de gás cumpre as normas técnicas 
 
 (nota 5) As assinaturas são as do técnico de gás e do director técnico da entidade inspectora.
 
-## ANEXO II — Certificado de inspecção
+ANEXO II
+
+Certificado de inspecção
 
 (instalações de gás)
 
 Número/ano
 
-Inicial [([ver documento original](https://files.diariodarepublica.pt/1s/2001/07/158b00/41514155.pdf))](https://files.diariodarepublica.pt/1s/2001/07/158b00/41514155.pdf)
+Inicial [(ver documento original)](https://files.diariodarepublica.pt/1s/2001/07/158b00/41514155.pdf)
 
-Periódica [([ver documento original](https://files.diariodarepublica.pt/1s/2001/07/158b00/41514155.pdf))](https://files.diariodarepublica.pt/1s/2001/07/158b00/41514155.pdf)
+Periódica [(ver documento original)](https://files.diariodarepublica.pt/1s/2001/07/158b00/41514155.pdf)
 
-Extraordinária [([ver documento original](https://files.diariodarepublica.pt/1s/2001/07/158b00/41514155.pdf))](https://files.diariodarepublica.pt/1s/2001/07/158b00/41514155.pdf)
+Extraordinária [(ver documento original)](https://files.diariodarepublica.pt/1s/2001/07/158b00/41514155.pdf)
 
-Outras [([ver documento original](https://files.diariodarepublica.pt/1s/2001/07/158b00/41514155.pdf))](https://files.diariodarepublica.pt/1s/2001/07/158b00/41514155.pdf)
+Outras [(ver documento original)](https://files.diariodarepublica.pt/1s/2001/07/158b00/41514155.pdf)
 
 A entidade inspectora ... (ver nota 1), com sede em..., reconhecida pela Direcção-Geral da Energia ao abrigo do despacho n.º ..., declara haver inspeccionado em ... as partes visíveis da instalação de gás/a montagem dos aparelhos de gás/as condições de ventilação e exaustão dos produtos de combustão(ver nota 2) situada em ... (ver nota 3) a solicitação de ...(ver nota 4).
 
@@ -719,4 +789,4 @@ Certifica que as partes visíveis da instalação de gás/a montagem dos aparelh
 
 (nota 6) As assinaturas são as do técnico de gás e a do director técnico da entidade inspectora.»
 
-**O Ministro da Economia, Mário Cristina de Sousa, em 27 de Junho de 2001.**
+O Ministro da Economia, Mário Cristina de Sousa, em 27 de Junho de 2001.

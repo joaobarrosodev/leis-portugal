@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/944/1997/09/12/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/944-1997-650316
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2004-10-28T00:00:00Z'
+  retrieved_at: '2026-10-23T14:05:58Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: d0e564a5bd68e81a0cb76a922f4fcd71ec4444b2be37d88463c73772ac8e2c9a
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 1b0d0c8786ef46b79c694fcd78fa86b77d9a7646c9a2d9b4f94f3973783251b3
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T14:05:58Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -74,6 +74,19 @@ relationships:
   target: pt:dre:566007:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:507777:por
+  label: "Suspenso o exercício da caça e de actividades de carácter venatório na zona de caça associativa concessionada pela\
+    \ Port 702/92, de 09-Jul, alterada pelo presente diploma, pela PORT.905/2004.23.07.2004.MADRP, DR.IS-B [172] de 23.07.2004\0\
+    \0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/905-2004-507777
+  date: '2004-07-23'
+- type: amended_by
+  target: pt:dre:566007:por
+  label: "Renovada, por um período de doze anos, a concessão da zona de caça associativa atribuída na Port 702/92, de 09-Jul,\
+    \ na redacção do presente diploma, pela Port 1372/2004, de 28-Out, DR.IS-B [254]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/1372-2004-566007
+  date: '2004-10-28'
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/251/1992/11/12/p/dre
   label: null
@@ -86,16 +99,36 @@ relationships:
   target: eli:http://data.dre.pt/eli/port/939/1994/10/24/p/dre
   label: null
   source: http://data.dre.pt/eli/port/939/1994/10/24/p/dre
+- type: cites
+  target: pt:dre:288587:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:417646:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:455890:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:584874:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:626259:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T14:05:58Z'
   warnings: []
   errors: []
 ---
@@ -128,8 +161,8 @@ Manda o Governo, pelo Ministro da Agricultura, do Desenvolvimento Rural e das Pe
 
 Ministério da Agricultura, do Desenvolvimento Rural e das Pescas.
 
-**Assinada em 8 de Agosto de 1997.**
+Assinada em 8 de Agosto de 1997.
 
 Pelo Ministro da Agricultura, do Desenvolvimento Rural e das Pescas, Luís Manuel Capoulas Santos, Secretário de Estado da Agricultura e do Desenvolvimento Rural.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1997/09/211b00/48884889.pdf))](https://files.diariodarepublica.pt/1s/1997/09/211b00/48884889.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1997/09/211b00/48884889.pdf)

@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/154/2001/03/03/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/154-2001-372992
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2001-09-07T00:00:00Z'
+  retrieved_at: '2026-10-23T14:30:25Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: e72e6e6a35674ebf45c48c7d7ffb0a101044333cb6e607fb65c94ecf8b7791bc
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: edf4d9af3382b5c983eddd695998a81703187ed9c13e46c2c13c220a5317e3e0
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T14:30:25Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,20 +66,25 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Plano de Estudos
+- Coimbra
 - Curso de Complemento de Formação Científica e Pedagógica
-- Formação de Professores
 - Educador de Infância
 - Ensino Superior Politécnico
 - Escola Superior de Educação
+- Formação de Professores
 - Instituto Politécnico
 - Licenciatura
-- Coimbra
+- Plano de Estudos
 relationships:
 - type: amended_by
   target: pt:dre:629581:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:629581:por
+  label: "Alterados os quadros nºs 1 e 2 anexos à presente portaria pela PORT.1089/2001.2001.09.07.ME DR.IS-B [208]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/1089-2001-629581
+  date: '2001-09-07'
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/255/1998/08/11/p/dre
   label: null
@@ -96,16 +101,44 @@ relationships:
   target: eli:http://data.dre.pt/eli/port/760-a/1998/09/14/p/dre
   label: null
   source: http://data.dre.pt/eli/port/760-a/1998/09/14/p/dre
+- type: cites
+  target: pt:dre:222418:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:302098:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:438070:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:453184:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:556606:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:651148:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:653145:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T14:30:25Z'
   warnings: []
   errors: []
 ---
@@ -154,10 +187,10 @@ QUADRO N.º 1
 
 1.º ano
 
-[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2001/03/053b00/11861188.pdf)
+[[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2001/03/053b00/11861188.pdf)](https://files.diariodarepublica.pt/1s/2001/03/053b00/11861188.pdf)
 
 QUADRO N.º 2
 
 2.º ano
 
-[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2001/03/053b00/11861188.pdf)
+[[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2001/03/053b00/11861188.pdf)](https://files.diariodarepublica.pt/1s/2001/03/053b00/11861188.pdf)

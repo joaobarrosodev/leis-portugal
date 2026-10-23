@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/542/1997/07/23/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/542-1997-149435
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2002-12-19T00:00:00Z'
+  retrieved_at: '2026-10-23T14:03:28Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 94209995f800472db5de1031e50280395d783576f6c105058884ddd41d83cd68
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 692ecfc8517df4204ea55854a700e99594cd3def55c90b4b05175fac09062ab4
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T14:03:28Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,27 +67,55 @@ reuse:
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
 - Bacharelato
-- Plano de Estudos
 - Curso de Tradução e Interpretação de Língua Gestual Portuguesa
 - Ensino Superior Politécnico
 - Escola Superior de Educação
 - Instituto Politécnico
+- Plano de Estudos
 - Setúbal
 relationships:
 - type: amended_by
   target: pt:dre:405719:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:239256:por
+  label: "Alterado o quadro nº 3 do anexo à presente portaria pela PORT.19/2001.10.01.2001.ME, DR.IS-B [8] de 10.01.2001\0\
+    \0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/19-2001-239256
+  date: '2001-01-10'
+- type: cites
+  target: pt:dre:222418:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:453184:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:470779:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:556606:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:405719:por
+  label: "Revogada findo o processo de transição fixado no art. 3.º, pela PORT.1520/2002.2002.12.19.MCES DR.IS-B [293], cessando\
+    \ a ministração do curso de bacharelato nos termos da mesma disposição\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/1520-2002-405719
+  date: '2002-12-19'
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T14:03:28Z'
   warnings: []
   errors: []
 ---
@@ -158,7 +186,7 @@ O curso entra em funcionamento progressivamente, um ano curricular em cada ano l
 
 Ministério da Educação.
 
-**Assinada em 25 de Junho de 1997.**
+Assinada em 25 de Junho de 1997.
 
 Pelo Ministro da Educação, Alfredo Jorge Silva, Secretário de Estado do Ensino Superior.
 
@@ -170,4 +198,4 @@ Curso: Tradução e Interpretação de Língua Gestual Portuguesa
 
 Grau: bacharel
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1997/07/168b00/37093710.pdf))](https://files.diariodarepublica.pt/1s/1997/07/168b00/37093710.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1997/07/168b00/37093710.pdf)

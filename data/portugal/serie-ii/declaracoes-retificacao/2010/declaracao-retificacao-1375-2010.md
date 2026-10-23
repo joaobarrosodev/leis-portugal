@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/2s/2010/07/134000000/3781637820.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -47,18 +47,18 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/declaracao-rectificacao/1375-2010-1570545
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2010-07-13T00:00:00Z'
+  retrieved_at: '2026-10-23T14:17:13Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: d88360ee17991d5a4bceb2d245e2450accb82b8bcdacfdd15745e1f575edffba
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: eee0bcf318a7a28ef1cd60c16b0a4480cf48b350b3fffaecc0c476c0a7d31a58
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T14:17:13Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,22 +66,42 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects: []
-relationships: []
+relationships:
+- type: cites
+  target: pt:dre:167074:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:245336:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:572672:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:606304:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:671387:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T14:17:13Z'
   warnings: []
   errors: []
 ---
 
-# Declaração de Rectificação n.º 1375/2010
+# Declaração de rectificação n.º 1375/2010
 
 Para os devidos efeitos se declara que o despacho n.º 15 849/2009, publicado no Diário da República, 2.ª série, n.º 132, de 10 de Julho de 2009, pp. 27 331 a 27 334, saiu com inexactidões no anexo, que correspondem a erros materiais, que se rectificam através da republicação integral do referido despacho.
 
@@ -133,7 +153,7 @@ Mestrado integrado em Ciências Farmacêuticas
 
 QUADRO N.º 1
 
-[([ver documento original](https://files.diariodarepublica.pt/2s/2010/07/134000000/3781637820.pdf))](https://files.diariodarepublica.pt/2s/2010/07/134000000/3781637820.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/2s/2010/07/134000000/3781637820.pdf)
 
 10 - Observações: o aluno disporá de algumas disciplinas facultativas (exemplos: Bases de Informática, Inglês Técnico) nas quais se poderá inscrever caso apresente dificuldades de formação nas respectivas áreas.
 
@@ -153,37 +173,37 @@ Licenciatura (1.º ciclo - Estudos Básicos em Ciências Farmacêuticas)
 
 QUADRO N.º 1
 
-[([ver documento original](https://files.diariodarepublica.pt/2s/2010/07/134000000/3781637820.pdf))](https://files.diariodarepublica.pt/2s/2010/07/134000000/3781637820.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/2s/2010/07/134000000/3781637820.pdf)
 
 1.º ano/2.º semestre
 
 QUADRO N.º 2
 
-[([ver documento original](https://files.diariodarepublica.pt/2s/2010/07/134000000/3781637820.pdf))](https://files.diariodarepublica.pt/2s/2010/07/134000000/3781637820.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/2s/2010/07/134000000/3781637820.pdf)
 
 2.º ano/1.º semestre
 
 QUADRO N.º 3
 
-[([ver documento original](https://files.diariodarepublica.pt/2s/2010/07/134000000/3781637820.pdf))](https://files.diariodarepublica.pt/2s/2010/07/134000000/3781637820.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/2s/2010/07/134000000/3781637820.pdf)
 
 2.º ano/2.º semestre
 
 QUADRO N.º 4
 
-[([ver documento original](https://files.diariodarepublica.pt/2s/2010/07/134000000/3781637820.pdf))](https://files.diariodarepublica.pt/2s/2010/07/134000000/3781637820.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/2s/2010/07/134000000/3781637820.pdf)
 
 3.º ano/1.º semestre
 
 QUADRO N.º 5
 
-[([ver documento original](https://files.diariodarepublica.pt/2s/2010/07/134000000/3781637820.pdf))](https://files.diariodarepublica.pt/2s/2010/07/134000000/3781637820.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/2s/2010/07/134000000/3781637820.pdf)
 
 3.º ano/2.º semestre
 
 QUADRO N.º 6
 
-[([ver documento original](https://files.diariodarepublica.pt/2s/2010/07/134000000/3781637820.pdf))](https://files.diariodarepublica.pt/2s/2010/07/134000000/3781637820.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/2s/2010/07/134000000/3781637820.pdf)
 
 Mestrado (2.º ciclo - Mestrado integrado em Ciências Farmacêuticas)
 
@@ -191,40 +211,42 @@ Mestrado (2.º ciclo - Mestrado integrado em Ciências Farmacêuticas)
 
 QUADRO N.º 7
 
-[([ver documento original](https://files.diariodarepublica.pt/2s/2010/07/134000000/3781637820.pdf))](https://files.diariodarepublica.pt/2s/2010/07/134000000/3781637820.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/2s/2010/07/134000000/3781637820.pdf)
 
 1.º ano/2.º trimestre
 
 QUADRO N.º 8
 
-[([ver documento original](https://files.diariodarepublica.pt/2s/2010/07/134000000/3781637820.pdf))](https://files.diariodarepublica.pt/2s/2010/07/134000000/3781637820.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/2s/2010/07/134000000/3781637820.pdf)
 
 1.º ano/3.º trimestre
 
 QUADRO N.º 9
 
-[([ver documento original](https://files.diariodarepublica.pt/2s/2010/07/134000000/3781637820.pdf))](https://files.diariodarepublica.pt/2s/2010/07/134000000/3781637820.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/2s/2010/07/134000000/3781637820.pdf)
 
 1.º ano/4.º trimestre
 
 QUADRO N.º 10
 
-[([ver documento original](https://files.diariodarepublica.pt/2s/2010/07/134000000/3781637820.pdf))](https://files.diariodarepublica.pt/2s/2010/07/134000000/3781637820.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/2s/2010/07/134000000/3781637820.pdf)
 
 2.º ano/1.º trimestre
 
 QUADRO N.º 11
 
-[([ver documento original](https://files.diariodarepublica.pt/2s/2010/07/134000000/3781637820.pdf))](https://files.diariodarepublica.pt/2s/2010/07/134000000/3781637820.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/2s/2010/07/134000000/3781637820.pdf)
 
 2.º ano/2.º trimestre
 
 QUADRO N.º 12
 
-[([ver documento original](https://files.diariodarepublica.pt/2s/2010/07/134000000/3781637820.pdf))](https://files.diariodarepublica.pt/2s/2010/07/134000000/3781637820.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/2s/2010/07/134000000/3781637820.pdf)
 
 2.º ano/2.º semestre
 
 QUADRO N.º 13
 
-[([ver documento original](https://files.diariodarepublica.pt/2s/2010/07/134000000/3781637820.pdf))](https://files.diariodarepublica.pt/2s/2010/07/134000000/3781637820.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/2s/2010/07/134000000/3781637820.pdf)
+
+203457918

@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/850/1999/10/04/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/850-1999-672607
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1999-10-04T00:00:00Z'
+  retrieved_at: '2026-10-23T14:18:14Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: cddb1e6e73b59a38dbecd832b70cbd452d0ade5394d91f389528620bd3544b9e
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: dafd13fa15655b74ac2610efe570e2f9d111a0b0da8364e76558bb07fa73e1cc
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T14:18:14Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,24 +67,38 @@ reuse:
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
 - Cartão de Identificação
-- Pessoal de Justiça
-- Oficial de Justiça
 - Ministério da Justiça
+- Oficial de Justiça
+- Pessoal de Justiça
 relationships:
+- type: amended_by
+  target: pt:dre:106861727:por
+  label: Regovada, na parte relativa ao cartão de livre-trânsito para uso dos oficiais de justiça, pelo(a) Portaria n.º 135/2017
+    - Diário da República n.º 72/2017, Série I de 2017-04-11
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/135-2017-106861727
+  date: '2017-04-11'
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/343/1999/08/26/p/dre
   label: null
   source: http://data.dre.pt/eli/dec-lei/343/1999/08/26/p/dre
+- type: cites
+  target: pt:dre:428653:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:613707:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T14:18:14Z'
   warnings: []
   errors: []
 ---

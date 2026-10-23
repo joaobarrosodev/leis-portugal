@@ -48,18 +48,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/1034/1999/11/24/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/1034-1999-642971
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2015-06-30T00:00:00Z'
+  retrieved_at: '2026-10-23T14:12:41Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 26f2830bbb62fc774f4336e92252ffbfe87ea45e89085e739bd0f29d95bccc39
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 83e7b0af9c9c9828f2ea19225067d8abd7ec8895a0202612fbc76b71b868b1bb
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T14:12:41Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -69,14 +69,20 @@ reuse:
 subjects:
 - Artesanato
 - Certificado de Qualidade
-- Qualidade do Produto
 - Indústria de Ourivesaria e Relojoaria
 - Joalharia e Ourivesaria
+- Qualidade do Produto
 relationships:
 - type: amended_by
   target: pt:dre:67641480:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:67641480:por
+  label: Mantida em vigor a Port 605/96 de 25-out, alterada pela presente, pelo(a) Decreto-Lei n.º 121/2015 - Diário da República
+    n.º 125/2015, Série I de 2015-06-30, até à entrada em vigor da portaria prevista no n.º 2 do art. 3.º daquele decreto-lei.
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/121-2015-67641480
+  date: '2015-06-30'
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/204/1996/10/25/p/dre
   label: null
@@ -89,16 +95,28 @@ relationships:
   target: eli:http://data.dre.pt/eli/port/605/1996/10/25/p/dre
   label: null
   source: http://data.dre.pt/eli/port/605/1996/10/25/p/dre
+- type: cites
+  target: pt:dre:186542:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:226421:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:226426:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T14:12:41Z'
   warnings: []
   errors: []
 ---
@@ -183,4 +201,4 @@ a) Conceito de chapas cobertas. - Peças em chapa de ouro, prata ou platina, sob
 
 b) Operações manuais. - As chapas cobertas devem ser feitas à mão, com excepção da laminagem e da trefilagem.»
 
-**O Ministro da Economia, Joaquim Augusto Nunes de Pina Moura, em 25 de Outubro de 1999.**
+O Ministro da Economia, Joaquim Augusto Nunes de Pina Moura, em 25 de Outubro de 1999.

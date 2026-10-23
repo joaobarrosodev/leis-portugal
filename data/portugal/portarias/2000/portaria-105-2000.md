@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/105/2000/02/24/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/105-2000-413234
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2000-02-24T00:00:00Z'
+  retrieved_at: '2026-10-23T14:19:30Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 239346470e8afe705cb8acb2df9e101f6942640dfcd5db616a917cee1bec9373
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 4c9af90f53350ad4e59f066d38c8e9312b73ef907a753bde6a3730b2824e6fe8
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T14:19:30Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -76,16 +76,28 @@ relationships:
   target: eli:http://data.dre.pt/eli/dec-lei/50/1995/03/16/p/dre
   label: null
   source: http://data.dre.pt/eli/dec-lei/50/1995/03/16/p/dre
+- type: cites
+  target: pt:dre:157050:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:185918:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:462214:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T14:19:30Z'
   warnings: []
   errors: []
 ---
@@ -100,7 +112,7 @@ Manda o Governo, pelo Ministro da Justiça, ao abrigo do disposto nos artigos 5.
 
 2.º O quadro de pessoal é o seguinte:
 
-[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2000/02/046b00/06600660.pdf)
+[[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2000/02/046b00/06600660.pdf)](https://files.diariodarepublica.pt/1s/2000/02/046b00/06600660.pdf)
 
 3.º O registo comercial fica anexado à 1.ª Conservatória do Registo Predial de Viseu.
 
@@ -116,7 +128,7 @@ Freguesias de Abraveses, Barreiros, Bodiosa, Calde, Campo, Cavernães, Cepões, 
 
 5.º Com a entrada em funcionamento da 2.ª Conservatória do Registo Predial de Viseu, a 1.ª Conservatória dos Registos Predial e Comercial do mesmo concelho passa a ter o seguinte quadro de pessoal:
 
-[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2000/02/046b00/06600660.pdf)
+[[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2000/02/046b00/06600660.pdf)](https://files.diariodarepublica.pt/1s/2000/02/046b00/06600660.pdf)
 
 6.º A data da entrada em funcionamento da nova conservatória é fixada por despacho do director-geral dos Registos e do Notariado.
 

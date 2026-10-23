@@ -19,7 +19,7 @@ publication:
   reference: Diário da República n.º 253/2001, 2º Suplemento, Série I-B de 2001-10-31
   number: '253'
   series: I
-  supplement: 2º Suplemento
+  supplement: null
   pages: 6990-(6) a 6990-(6)
   pdf_url: https://files.diariodarepublica.pt/1s/2001/10/253b02/00060006.pdf
 entry_into_force_dates: []
@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/1261-a/2001/10/31/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/1261-a-2001-483588
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2001-10-31T00:00:00Z'
+  retrieved_at: '2026-10-23T14:29:02Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: a00019c82213bdccd8c2c505a8a3a11ab3199bd2936706069d6b536a6041346f
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: b0dcbae9d7526f354491dccba926ba317eeac9522c72d3be306b6808def6b80e
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T14:29:02Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -65,10 +65,10 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Imposto sobre Produtos Petrolíferos
 - Coeficiente de Correcção
 - Combustível
 - Gasolina
+- Imposto sobre Produtos Petrolíferos
 - Preço
 - Preço de Venda
 - Preço Máximo
@@ -81,16 +81,24 @@ relationships:
   target: eli:http://data.dre.pt/eli/port/224-a/1996/06/24/p/dre
   label: null
   source: http://data.dre.pt/eli/port/224-a/1996/06/24/p/dre
+- type: cites
+  target: pt:dre:220149:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:229517:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T14:29:02Z'
   warnings: []
   errors: []
 ---
@@ -119,4 +127,4 @@ c) 39$90 ou (euro) 0,199 por litro para a gasolina sem chumbo IO 95.»
 
 Em 26 de Outubro de 2001.
 
-**O Secretário de Estado dos Assuntos Fiscais, Rogério Manuel Romão Carreiro Fernandes Ferreira. - O Secretário de Estado Adjunto do Ministro da Economia, Eduardo Guimarães de Oliveira Fernandes.**
+O Secretário de Estado dos Assuntos Fiscais, Rogério Manuel Romão Carreiro Fernandes Ferreira. - O Secretário de Estado Adjunto do Ministro da Economia, Eduardo Guimarães de Oliveira Fernandes.

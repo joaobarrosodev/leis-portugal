@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/2s/2010/01/014000000/0297302974.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -47,18 +47,18 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/declaracao-rectificacao/106-2010-2449396
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2010-01-21T00:00:00Z'
+  retrieved_at: '2026-10-23T14:15:23Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 0c880f6f7242e89ae64041469591e916964abcf1186941677e33159aceb5f404
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: c5bb786b0eb0939791bdf6ec74c5d0bb323535bf2ab3708bcede6a3236f6bb1f
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T14:15:23Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -70,13 +70,13 @@ relationships: []
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T14:15:23Z'
   warnings: []
   errors: []
 ---
@@ -91,12 +91,14 @@ Assim, onde se lê:
 
 Lista de pessoal para efeitos de reestruturação do centro de experimentação do Centro Alentejo
 
-[([ver documento original](https://files.diariodarepublica.pt/2s/2010/01/014000000/0297302974.pdf))](https://files.diariodarepublica.pt/2s/2010/01/014000000/0297302974.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/2s/2010/01/014000000/0297302974.pdf)
 
 deve ler-se:
 
 Lista nominativa dos trabalhadores da Direcção Regional de Agricultura e Pescas do Alentejo colocados em situação de mobilidade especial
 
-[([ver documento original](https://files.diariodarepublica.pt/2s/2010/01/014000000/0297302974.pdf))](https://files.diariodarepublica.pt/2s/2010/01/014000000/0297302974.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/2s/2010/01/014000000/0297302974.pdf)
 
 8 de Janeiro de 2010. - O Director Regional, João Filipe Chaveiro Libório.
+
+202799283

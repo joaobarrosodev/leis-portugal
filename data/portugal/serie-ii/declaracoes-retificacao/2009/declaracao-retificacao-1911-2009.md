@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/2s/2009/08/153000000/3197731977.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -46,18 +46,18 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/declaracao-rectificacao/1911-2009-1087768
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2009-08-10T00:00:00Z'
+  retrieved_at: '2026-10-23T14:03:53Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 94fe4d753548be15490994054ee3df5cf3267783e373529bba261b98c349604e
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 1232f0c2a24363042b8a1f00a10311f15fb0c463aba871e9f0455d9ce58cb42a
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T14:03:53Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -69,13 +69,13 @@ relationships: []
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T14:03:53Z'
   warnings: []
   errors: []
 ---
@@ -87,3 +87,5 @@ Declaração de rectificação n.º 1911/2009
 Para os devidos efeitos se rectifica o aviso desta Câmara Municipal, n.º 12989, publicado no Diário da República, 2.ª Série, n.º 140, de 22/07/2009, no ponto 17 do referido aviso onde se lê: "Referências R,S e T - Carta de condução.", deverá ler-se: "Referências R,S e T - Carta de condução adequada" e no ponto 10 onde se lê: "Os previstos no ponto 4 do presente aviso", deverá ler-se: "Os previstos no ponto 5 do presente aviso".
 
 24 de Julho de 2009. - A Vereadora do Pelouro de Recursos Humanos, Maria Guilhermina Pinhal Ruivo.
+
+302102835

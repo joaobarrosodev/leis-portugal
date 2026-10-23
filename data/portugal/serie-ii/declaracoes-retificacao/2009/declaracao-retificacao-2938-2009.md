@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/2s/2009/11/232000000/4882248822.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -47,18 +47,18 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/declaracao-rectificacao/2938-2009-1577662
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2009-11-30T00:00:00Z'
+  retrieved_at: '2026-10-23T14:10:00Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 1901d085fa2db1bfa51269b0b12890686e8807b6b667dd7dde70da71d2d8224a
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 9746959f77d9ebe3951ebb2e63a04081ee7b8375f0978c22107a42040dae0562
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T14:10:00Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -70,13 +70,13 @@ relationships: []
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T14:10:00Z'
   warnings: []
   errors: []
 ---
@@ -87,10 +87,12 @@ Declaração de rectificação n.º 2938/2009
 
 Por ter sido publicada com inexactidão a subdelegação de competências a que se reporta o despacho n.º 23 154/2009, publicado no Diário da República, 2.ª série, n.º 204, de 21 de Outubro de 2009, rectifica-se que onde se lê:
 
-## ANEXO — [([ver documento original](https://files.diariodarepublica.pt/2s/2009/11/232000000/4882248822.pdf))](https://files.diariodarepublica.pt/2s/2009/11/232000000/4882248822.pdf)
+## ANEXO — [(ver documento original)](https://files.diariodarepublica.pt/2s/2009/11/232000000/4882248822.pdf)
 
 deve ler-se:
 
-[([ver documento original](https://files.diariodarepublica.pt/2s/2009/11/232000000/4882248822.pdf))](https://files.diariodarepublica.pt/2s/2009/11/232000000/4882248822.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/2s/2009/11/232000000/4882248822.pdf)
 
 Aveiro, 2009/11/11. - O Administrador Judiciário, José Júlio dos Santos Almeida.
+
+202620603

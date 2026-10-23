@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/309/1997/05/12/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/309-1997-385262
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1997-05-12T00:00:00Z'
+  retrieved_at: '2026-10-23T14:01:57Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: c0aba90d74828305ec0b7d235e931c37fc9add389086afbdc92b46cd63da5f92
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: a0ea2b5f34ce8db8b871919659eac59cfa052023e52417615bc7418612e7d185
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T14:01:57Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -80,16 +80,24 @@ relationships:
   target: eli:http://data.dre.pt/eli/port/244/1996/07/05/p/dre
   label: null
   source: http://data.dre.pt/eli/port/244/1996/07/05/p/dre
+- type: cites
+  target: pt:dre:424679:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:653127:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T14:01:57Z'
   warnings: []
   errors: []
 ---
@@ -118,7 +126,7 @@ Manda o Governo, pelos Ministros das Finanças e da Solidariedade e Segurança S
 
 Ministérios das Finanças e da Solidariedade e Segurança Social.
 
-**Assinada em 14 de Fevereiro de 1997.**
+Assinada em 14 de Fevereiro de 1997.
 
 Pelo Ministro das Finanças, Maria Manuela de Brito Arcanjo Marques da Costa, Secretária de Estado do Orçamento. - Pelo Ministro da Solidariedade e Segurança Social, Fernando Lopes Ribeiro Mendes, Secretário de Estado da Segurança Social.
 
@@ -126,4 +134,4 @@ Tabela aplicável em 1997
 
 (artigo 35.º do [Decreto-Lei n.º 329/93](https://diariodarepublica.pt/dr/detalhe/decreto-lei/329-1993-653127), de 25 de Setembro)
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1997/05/109b00/22922292.pdf))](https://files.diariodarepublica.pt/1s/1997/05/109b00/22922292.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1997/05/109b00/22922292.pdf)

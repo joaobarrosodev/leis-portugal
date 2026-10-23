@@ -20,7 +20,7 @@ publication:
   reference: Diário da República n.º 275/1998, 1º Suplemento, Série I-B de 1998-11-27
   number: '275'
   series: I
-  supplement: 1º Suplemento
+  supplement: null
   pages: 6618-(2) a 6618-(3)
   pdf_url: https://files.diariodarepublica.pt/1s/1998/11/275b01/00020003.pdf
 entry_into_force_dates: []
@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/1004-a/1998/11/27/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/1004-a-1998-677044
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1998-11-27T00:00:00Z'
+  retrieved_at: '2026-10-23T14:06:24Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 2bde461428af65c0b0bbe743f8abc9df76e89a58039a3a3f4847c7150feb9136
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: de2063fea20590cff5a20d496af9091a8c1f71a7c095888cb7b3d47dc6bc5b21
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T14:06:24Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -69,10 +69,10 @@ subjects:
 - Bilhetes do Tesouro
 - Obrigações
 - Obrigações de Caixa
+- Obrigações do Tesouro
 - Obrigações do Tesouro OT
 - Obrigações do Tesouro-OTRV
 - Taxa
-- Obrigações do Tesouro
 relationships:
 - type: cites
   target: celex:31998R0974
@@ -81,13 +81,13 @@ relationships:
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T14:06:24Z'
   warnings: []
   errors: []
 ---
@@ -154,10 +154,10 @@ Fungibilidade e admissão à cotação das euro-obrigações redenominadas
 
 Ministério das Finanças.
 
-**Assinada em 26 de Novembro de 1998.**
+Assinada em 26 de Novembro de 1998.
 
-**O Ministro das Finanças, António Luciano Pacheco de Sousa Franco.**
+O Ministro das Finanças, António Luciano Pacheco de Sousa Franco.
 
-## ANEXO I — [(ver tabela no documento original)](https://files.diariodarepublica.pt/1s/1998/11/275b01/00020003.pdf)
+## ANEXO I — [[(ver tabela no documento original)](https://files.diariodarepublica.pt/1s/1998/11/275b01/00020003.pdf)](https://files.diariodarepublica.pt/1s/1998/11/275b01/00020003.pdf)
 
-## ANEXO II — [(ver tabela no documento original)](https://files.diariodarepublica.pt/1s/1998/11/275b01/00020003.pdf)
+## ANEXO II — [[(ver tabela no documento original)](https://files.diariodarepublica.pt/1s/1998/11/275b01/00020003.pdf)](https://files.diariodarepublica.pt/1s/1998/11/275b01/00020003.pdf)

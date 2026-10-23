@@ -19,12 +19,12 @@ publication:
   reference: Diário da República n.º 18/2001, 1º Suplemento, Série I-B de 2001-01-22
   number: '18'
   series: I
-  supplement: 1º Suplemento
+  supplement: null
   pages: 336-(2) a 336-(11)
   pdf_url: https://files.diariodarepublica.pt/1s/2001/01/018b01/00020011.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/45-a/2001/01/22/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/45-a-2001-166273
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2002-01-11T00:00:00Z'
+  retrieved_at: '2026-10-23T14:32:19Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 4ede59b5cb7bd7e652f40c95f59cc244c7585ef3391fa6b256ba5c15820140f4
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: f01b1dcf6e810eaca2f23b01b20c17c0019d37c461be4a9726cc59c0a95f4747
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T14:32:19Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -72,6 +72,11 @@ relationships:
   target: pt:dre:583005:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:583005:por
+  label: "Aprovados novos modelos de impressos, pela PORT.43/2002.11.01.2002.MF, DR.IS-B [9] de 11.01.2002\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/43-2002-583005
+  date: '2002-01-11'
 - type: cites
   target: eli:http://data.dre.pt/eli/lei/3-b/2000/04/04/p/dre
   label: null
@@ -84,16 +89,32 @@ relationships:
   target: eli:http://data.dre.pt/eli/port/35/2000/01/28/p/dre
   label: null
   source: http://data.dre.pt/eli/port/35/2000/01/28/p/dre
+- type: cites
+  target: pt:dre:196774:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:405717:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:518992:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:679669:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T14:32:19Z'
   warnings: []
   errors: []
 ---
@@ -146,6 +167,6 @@ h) Anexo J (rendimentos obtidos no estrangeiro) e respectivas instruções de pr
 
 5.º Os impressos deverão ser apresentados em duplicado, destinando-se um dos exemplares a ser devolvido ao apresentante no momento da recepção, depois de devidamente autenticado.
 
-**O Ministro das Finanças, Joaquim Augusto Nunes Pina Moura, em 15 de Janeiro de 2001.**
+O Ministro das Finanças, Joaquim Augusto Nunes Pina Moura, em 15 de Janeiro de 2001.
 
 [(ver modelos no documento original)](https://files.diariodarepublica.pt/1s/2001/01/018b01/00020011.pdf)

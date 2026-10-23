@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/60/1997/01/25/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/60-1997-571887
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1998-01-16T00:00:00Z'
+  retrieved_at: '2026-10-23T14:03:48Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 3d0b53eb254b0f6b304ee814ae8e21e7869474ea2f377e36bfe637af5ae70a31
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 345ed6cf4b33441d27eba8a751bd85643605c3d7f1a3b33981e7785925135350
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T14:03:48Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -65,22 +65,23 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- CASA Civil
 - Administração Central
-- Função Pública
+- Administração Local
+- Administração Pública
+- Administração Regional
 - ADSE
 - Ajudas de Custo
-- Cargos Políticos
-- CASA Militar
-- Pessoal Dirigente
-- Administração Pública
 - Caixa Geral de Aposentações
+- Cargos Políticos
+- CASA Civil
+- CASA Militar
+- Função Pública
+- Funcionário Público
 - Gabinete do Ministro da República para a Região Autónoma da Madeira
 - Gabinete do Ministro da República para a Região Autónoma dos Açores
 - Gabinete do Presidente da República
-- Presidente da República
 - Gabinete Governamental
-- Primeiro-ministro
+- Gratificação
 - Membros do Governo
 - Pensão de Aposentação
 - Pensão de Invalidez
@@ -88,11 +89,10 @@ subjects:
 - Pensão de Reforma
 - Pensionista
 - Pessoal de Gabinete
-- Administração Local
-- Gratificação
+- Pessoal Dirigente
+- Presidente da República
+- Primeiro-ministro
 - Remuneração
-- Funcionário Público
-- Administração Regional
 - Subsídio de Férias
 - Subsídio de Refeição
 - Subsídio de Viagem e Marcha
@@ -101,6 +101,12 @@ relationships:
   target: pt:dre:424351:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:424351:por
+  label: "Actualizado o montante dos subsídios fixados pelo presente diploma pela PORT.29-A/98.1998.01.16.PCM, DR.IS-B [13]2ºSupl\
+    \ \0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/29-a-1998-424351
+  date: '1998-01-16'
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/286/1993/08/20/p/dre
   label: null
@@ -113,16 +119,52 @@ relationships:
   target: eli:http://data.dre.pt/eli/port/101-a/1996/04/04/p/dre
   label: null
   source: http://data.dre.pt/eli/port/101-a/1996/04/04/p/dre
+- type: cites
+  target: pt:dre:200862:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:222836:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:282875:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:291808:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:324490:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:375267:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:466655:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:510013:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:694235:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T14:03:48Z'
   warnings: []
   errors: []
 ---
@@ -255,6 +297,6 @@ c) As pensões de preço de sangue e outras, com excepção das resultantes de c
 
 Presidência do Conselho de Ministros e Ministério das Finanças.
 
-**Assinada em 10 de Janeiro de 1997.**
+Assinada em 10 de Janeiro de 1997.
 
 Pelo Ministro das Finanças, Maria Manuela de Brito Arcanjo Marques da Costa, Secretária de Estado do Orçamento. - Pelo Ministro Adjunto, Fausto de Sousa Correia, Secretário de Estado da Administração Pública).

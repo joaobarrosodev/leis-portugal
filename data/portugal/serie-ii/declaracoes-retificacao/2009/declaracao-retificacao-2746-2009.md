@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/2s/2009/11/216000000/4546345463.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -47,18 +47,18 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/declaracao-rectificacao/2746-2009-1489229
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2009-11-06T00:00:00Z'
+  retrieved_at: '2026-10-23T14:08:55Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 8fa5abfc34b4295717cfb5410161e1695e3088c961728ded4fe81748fd03e9d0
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 6720d7373cb05d486d78931ebf65e0db218f61ed8c613c186a452dfafeb9fb56
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T14:08:55Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -70,13 +70,13 @@ relationships: []
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T14:08:55Z'
   warnings: []
   errors: []
 ---
@@ -88,3 +88,5 @@ Declaração de rectificação n.º 2746/2009
 Por ter sido publicado com inexactidão no Diário da República, 2.ª série, n.º 124, de 30 de Junho de 2009, o aviso n.º 14 698/2009, rectifica-se que onde se lê «contratos de trabalho em funções públicas por tempo indeterminado com período experimental de três anos (1 de Fevereiro de 2009 a 31 de Janeiro de 2012), precedidos de concurso, com Mário Alberto Ferreira Matos e Maria do Céu Gomes Mendes Lopes Leitão» deve ler-se «contratos de trabalho em funções públicas por tempo determinado com efeitos a 1 de Fevereiro de 2009 e até 31 de Janeiro de 2012, precedidos de concurso, com Mário Alberto Ferreira Matos e Maria do Céu Gomes Mendes Lopes Leitão».
 
 16 de Outubro de 2009. - O Administrador, António José Carvalho Marques.
+
+202525989

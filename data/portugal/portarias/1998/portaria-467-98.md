@@ -48,18 +48,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/467/1998/07/30/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/467-1998-429830
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2008-09-24T00:00:00Z'
+  retrieved_at: '2026-10-23T14:09:10Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 4328eb05b635effa312f98723e195e2c1618861c7210c1dff11445afed5bb28d
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 694d5c16ff628356ecd6abda8510ac960d7f3f8b9bb1bba0464154a52b337ccc
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T14:09:10Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,17 +67,31 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Produto Químico
 - Aproximação das Legislações
 - Controlo de Qualidade
 - Fiscalização
 - Higiene Corporal
+- Produto Químico
 - Proteção do Consumidor
 relationships:
 - type: amended_by
   target: pt:dre:452215:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:246139:por
+  label: "Mantidos em vigor, os métodos de análise constantes da Port 503/94 de 06-Jul, na redacção do presente diploma, pelo\
+    \ DEC LEI.142/2005.24.08.2005.MS, DR.IS-A [162] de 24.08.2005, até à publicação do diploma que aprova os métodos de análise\
+    \ referidos na al. a) do nº 1 do art. 6º\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/142-2005-246139
+  date: '2005-08-24'
+- type: amended_by
+  target: pt:dre:452215:por
+  label: "Determinada a manutenção em vigor dos métodos de análise constantes da Port 503/94, de 06-Jul, na redacção conferida\
+    \ pelo presente diploma, pelo DEC LEI.189/2008.24.09.2008.MS, DR.IS [185] de 24.09.2008, até à publicação do decreto-lei\
+    \ que aprova os métodos de análise referidos na al. a) do n.º 1 do art. 6.º \0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/189-2008-452215
+  date: '2008-09-24'
 - type: cites
   target: celex:31996L0045
   label: null
@@ -85,13 +99,13 @@ relationships:
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T14:09:10Z'
   warnings: []
   errors: []
 ---
@@ -110,9 +124,9 @@ Manda o Governo, pelos Ministros da Economia e da Saúde, que sejam estabelecido
 
 Ministérios da Economia e da Saúde.
 
-**Assinada em 16 de Junho de 1998.**
+Assinada em 16 de Junho de 1998.
 
-**O Ministro da Economia, Joaquim Augusto Nunes de Pina Moura. - A Ministra da Saúde, Maria de Belém Roseira Martins Coelho Henriques de Pina.**
+O Ministro da Economia, Joaquim Augusto Nunes de Pina Moura. - A Ministra da Saúde, Maria de Belém Roseira Martins Coelho Henriques de Pina.
 
 ## ANEXO — Métodos de análise necessários ao controlo da composição dos produtos cosméticos e de higiene corporal
 
@@ -234,7 +248,7 @@ Caso se constate a presença de parabenos, deve seguir-se o procedimento HPLC (c
 
 7.3 - Os valores de R(índice f) apresentados no quadro seguinte servem de indicação aos valores que podem ser obtidos:
 
-[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/1998/07/174b00/36513655.pdf)
+[[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/1998/07/174b00/36513655.pdf)](https://files.diariodarepublica.pt/1s/1998/07/174b00/36513655.pdf)
 
 7.4 - Não se obtém qualquer separação com ácido 4-hidroxibenzóico e metilparabeno, nem com benzilparabeno e etilparabeno. A identificação destes compostos deve ser confirmada com o método HPLC descrito na parte B, comparando os tempos de retenção obtidos com a amostra com os tempos de retenção dos padrões.
 
@@ -362,13 +376,13 @@ Verificar se se obteve uma resposta linear para as soluções padrão utilizadas
 
 A separação dos picos deve ser, no mínimo, de 0,90 entre qualquer par de picos. (Relativamente à definição de separação dos picos, v. a figura 1.)
 
-[(ver figura no documento original)](https://files.diariodarepublica.pt/1s/1998/07/174b00/36513655.pdf)
+[[(ver figura no documento original)](https://files.diariodarepublica.pt/1s/1998/07/174b00/36513655.pdf)](https://files.diariodarepublica.pt/1s/1998/07/174b00/36513655.pdf)
 
 Se não se obtiver a separação exigida, deve usar-se uma coluna mais eficiente ou ajustar-se a composição da fase móvel até se preencher o requisito;
 
 O factor de assimetria A(índice s) de todos os picos obtidos deve oscilar entre 0,9 e 1,5. (Relativamente à definição do factor de assimetria dos picos, v. a figura 2.) Para registar o cromatograma para a determinação do factor de assimetria, recomenda-se uma velocidade de desenrolamento do papel de, pelo menos, 2 cm/minuto.
 
-[(ver figura no documento original)](https://files.diariodarepublica.pt/1s/1998/07/174b00/36513655.pdf)
+[[(ver figura no documento original)](https://files.diariodarepublica.pt/1s/1998/07/174b00/36513655.pdf)](https://files.diariodarepublica.pt/1s/1998/07/174b00/36513655.pdf)
 
 Obter-se-á uma linha de base estável.
 
@@ -406,4 +420,4 @@ Por este motivo, este parâmetro deve ser cuidadosamente controlado durante a an
 
 Foram analisadas três amostras. O quadro abaixo apresenta, para cada uma das três amostras, uma lista das médias em % m/m (m), as repetibilidades (R) e as reprodutibilidades (R) das substâncias a analisar que continham:
 
-[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/1998/07/174b00/36513655.pdf)
+[[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/1998/07/174b00/36513655.pdf)](https://files.diariodarepublica.pt/1s/1998/07/174b00/36513655.pdf)

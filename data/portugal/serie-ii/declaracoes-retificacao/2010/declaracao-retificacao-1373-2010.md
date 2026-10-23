@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/2s/2010/07/134000000/3781337815.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -47,18 +47,18 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/declaracao-rectificacao/1373-2010-1570543
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2010-07-13T00:00:00Z'
+  retrieved_at: '2026-10-23T14:17:13Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 8c7993f715905dc4281a6c0dc07debbfc505343bbd2da0318b6c9235cc1dd22f
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 0d73e6b309c8417e9b09721eaba88c4893352aab1a9a3abee05254a0b4035207
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T14:17:13Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,22 +66,38 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects: []
-relationships: []
+relationships:
+- type: cites
+  target: pt:dre:167074:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:606304:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:671387:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:812692:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T14:17:13Z'
   warnings: []
   errors: []
 ---
 
-# Declaração de Rectificação n.º 1373/2010
+# Declaração de rectificação n.º 1373/2010
 
 Para os devidos efeitos se declara que o despacho n.º 11 863/2009, publicado no Diário da República, 2.ª série, n.º 94, de 15 de Maio de 2009, de p. 19 298 a p. 19 300, saiu com inexactidões no anexo, que correspondem a erros materiais, que se rectificam através da republicação integral do referido despacho.
 
@@ -127,7 +143,7 @@ Diploma de 1.º ciclo de estudos em Direito
 
 QUADRO N.º 1
 
-[([ver documento original](https://files.diariodarepublica.pt/2s/2010/07/134000000/3781337815.pdf))](https://files.diariodarepublica.pt/2s/2010/07/134000000/3781337815.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/2s/2010/07/134000000/3781337815.pdf)
 
 Nota. - O n.º 9. é repetido tantas vezes quantas as necessárias para a descrição dos diferentes percursos alternativos (opções, ramos, etc.), caso existam, colocando em título a denominação do percurso.
 
@@ -149,22 +165,24 @@ Direito
 
 QUADRO N.º 1
 
-[([ver documento original](https://files.diariodarepublica.pt/2s/2010/07/134000000/3781337815.pdf))](https://files.diariodarepublica.pt/2s/2010/07/134000000/3781337815.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/2s/2010/07/134000000/3781337815.pdf)
 
 2.º ano
 
 QUADRO N.º 2
 
-[([ver documento original](https://files.diariodarepublica.pt/2s/2010/07/134000000/3781337815.pdf))](https://files.diariodarepublica.pt/2s/2010/07/134000000/3781337815.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/2s/2010/07/134000000/3781337815.pdf)
 
 3.º ano
 
 QUADRO N.º 3
 
-[([ver documento original](https://files.diariodarepublica.pt/2s/2010/07/134000000/3781337815.pdf))](https://files.diariodarepublica.pt/2s/2010/07/134000000/3781337815.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/2s/2010/07/134000000/3781337815.pdf)
 
 4.º ano
 
 QUADRO N.º 4
 
-[([ver documento original](https://files.diariodarepublica.pt/2s/2010/07/134000000/3781337815.pdf))](https://files.diariodarepublica.pt/2s/2010/07/134000000/3781337815.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/2s/2010/07/134000000/3781337815.pdf)
+
+203457018

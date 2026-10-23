@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/2s/2010/01/017000000/0367303673.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -46,18 +46,18 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/declaracao-rectificacao/146-2010-1859657
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2010-01-26T00:00:00Z'
+  retrieved_at: '2026-10-23T14:17:49Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: a40c4d4241ac21fa76381d4da1cebbf8c861a5428c3ce516426742b98f0ae4ea
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 2e74a38dd32503a8821b2c4577f77778454386b1ffe0a922f7e9ac2b206f9ea1
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T14:17:49Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -69,13 +69,13 @@ relationships: []
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T14:17:49Z'
   warnings: []
   errors: []
 ---
@@ -87,3 +87,5 @@ Declaração de rectificação n.º 146/2010
 Por ter saído com inexactidão o despacho n.º 22 552/2009, publicado no Diário da República, 2.ª série, n.º 198 de 13 de Outubro de 2009, a p 41 344, rectifica-se que onde se lê «Na directora de serviços do Ordenamento do Território, da Comissão de Coordenação e Desenvolvimento Regional do Centro, Dr.ª Ana Maria Martins de Sousa, a minha competência para a prática dos seguintes actos respeitantes ao funcionamento daquela unidade orgânica:» deve ler-se «Na directora de serviços do Ambiente, Dr.ª Ana Maria Martins de Sousa, a minha competência para a prática dos seguintes actos respeitantes ao funcionamento daquela unidade orgânica:».
 
 28 de Dezembro de 2009. - O Vice-Presidente, Henrique Manuel Moura Maia.
+
+202811172

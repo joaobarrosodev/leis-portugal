@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/2s/2009/02/025000000/0537305374.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -47,18 +47,18 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/declaracao-rectificacao/374-2009-932025
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2009-02-05T00:00:00Z'
+  retrieved_at: '2026-10-23T14:11:21Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 0374a84157f79a501dfdb9525c0e7ee79136bdb1809c098a0ffb121bfc22780d
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: b10260697a710f7590ec779298a444e666fc60b61714b915ddc192759acc73c4
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T14:11:21Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,22 +66,30 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects: []
-relationships: []
+relationships:
+- type: cites
+  target: pt:dre:577708:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:634930:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T14:11:21Z'
   warnings: []
   errors: []
 ---
 
-# Declaração de Rectificação n.º 374/2009
+# Declaração de rectificação n.º 374/2009
 
 Para os devidos efeitos, se rectifica o aviso publicado com o n.º 29728/2008, na II serie do Diário da República, n.º 242 de 16 de Dezembro de 2008, onde se lê:"que foram nomeados definitivamente mediante processo de reclassificação profissional, os seguintes funcionários: Hugo Miguel Esteves Fernandes, Auxiliar de Serviços Gerais, escalão 1 índice 128, em Leitor Cobrador de Consumos, escalão 1 índice 175, Maria Trindade Marques Churro Pires, Assistente Administrativa Especialista, escalão 2 indicie 280 em Tesoureira do Grupo de Pessoal Administrativa, Carreira e Categoria de Tesoureiro, escalão 6 índice 290 e Nuno Miguel Magalhães de Jesus, Leitor Cobrador de Consumos, escalão para as seguintes categorias respectivamente alínea a) delegadas em matéria de recursos humanos.", deve ler-se:"
 
@@ -94,3 +102,5 @@ Maria Trindade Marques Churro Pires, Assistente Administrativa Especialista, pos
 Nuno Miguel Magalhães de Jesus, Leitor Cobrador de Consumos, posicionado no escalão 1, índice 175, para Fiscal de Obras, Escalão 3, índice 175."
 
 30 de Janeiro de 2009. - O Presidente da Câmara, João José de Carvalho Taveira Pinto.
+
+301320448

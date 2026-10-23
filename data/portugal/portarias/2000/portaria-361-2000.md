@@ -48,18 +48,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/361/2000/06/20/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/361-2000-303615
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2000-06-20T00:00:00Z'
+  retrieved_at: '2026-10-23T14:23:06Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 0ca4575213ec3a02d651b6b5db6a1ce13987f7b16048f7f804bc7384b3919714
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 151dd5b12679e7478a06c4b0d9e54ec5804ad713fadb08a3d3d65085c811971f
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T14:23:06Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -71,8 +71,8 @@ subjects:
 - Câmara de Comércio e Indústria Árabe-Portuguesa
 - Câmara do Comércio e Indústria
 - Certificado de Origem
-- Lisboa e Vale do Tejo
 - Comércio
+- Lisboa e Vale do Tejo
 relationships:
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/244/1992/10/29/p/dre
@@ -82,16 +82,32 @@ relationships:
   target: eli:http://data.dre.pt/eli/dec-lei/81/2000/05/10/p/dre
   label: null
   source: http://data.dre.pt/eli/dec-lei/81/2000/05/10/p/dre
+- type: cites
+  target: pt:dre:217704:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:275463:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:611345:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:646918:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T14:23:06Z'
   warnings: []
   errors: []
 ---
@@ -116,4 +132,4 @@ Manda o Governo, pelo Ministro da Economia:
 
 2.º Autorizar o emissão de certificados de origem pela Câmara de Comércio Árabe-Portuguesa relativamente aos produtos portugueses a exportar para os países árabes cujos interesses representa.
 
-**O Ministro da Economia, Joaquim Augusto Nunes Pina Moura, em 17 de Maio de 2000.**
+O Ministro da Economia, Joaquim Augusto Nunes Pina Moura, em 17 de Maio de 2000.

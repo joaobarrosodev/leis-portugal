@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/2s/2010/07/134000000/3774937749.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -47,18 +47,18 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/declaracao-rectificacao/1367-2010-1570497
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2010-07-13T00:00:00Z'
+  retrieved_at: '2026-10-23T14:17:08Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 1b3c621dd01e07534c1d10ec7915ac2d6db2a1a54b748c6c79d8b4be21193838
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 2f90c12167e0a3f12374c0c4a1abd2f1ab93ab564650bc0b653a6f911a0d16eb
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T14:17:08Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -70,13 +70,13 @@ relationships: []
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T14:17:08Z'
   warnings: []
   errors: []
 ---
@@ -90,3 +90,5 @@ Procedimento concursal comum para a contratação por tempo indeterminado de um 
 O aviso n.º 11 752/2010, publicado no Diário da República, 2.ª série, n.º 113, de 14 de Junho de 2010, relativo ao procedimento concursal comum para a contratação por tempo indeterminado de um assistente técnico, saiu com uma incorrecção, pelo que, no n.º 12.2 do referido aviso, a referência ao Código do Procedimento Administrativo deve ser considerada sem efeito, não fazendo parte do programa da prova.
 
 17 de Junho de 2010. - O Presidente da Câmara, Carlos Beato.
+
+303436988

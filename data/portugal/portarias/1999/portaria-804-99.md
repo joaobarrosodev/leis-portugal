@@ -48,18 +48,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/804/1999/09/20/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/804-1999-560779
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1999-09-20T00:00:00Z'
+  retrieved_at: '2026-10-23T14:17:54Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: e693e6124bf1cbb52fd6d4be8d04feb56f3d28894e1fcb23883ed955b1d8530a
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 5430dad854fb5ae7d532c64e79604822f175d404109b19372bed0e66d42b6f32
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T14:17:54Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -69,13 +69,13 @@ reuse:
 subjects:
 - Aeroporto
 - Assistência em Escala
-- Transporte Aéreo
 - Gestão
+- Gestão de Recursos Humanos
 - Licenciamento
 - Orgânica
-- Serviço Público
 - Prestação de Serviços
-- Gestão de Recursos Humanos
+- Serviço Público
+- Transporte Aéreo
 relationships:
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/275/1999/07/23/p/dre
@@ -85,16 +85,24 @@ relationships:
   target: eli:http://data.dre.pt/eli/dec-lei/67/1998/03/18/p/dre
   label: null
   source: http://data.dre.pt/eli/dec-lei/67/1998/03/18/p/dre
+- type: cites
+  target: pt:dre:197365:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:352525:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T14:17:54Z'
   warnings: []
   errors: []
 ---
@@ -115,7 +123,7 @@ Manda o Governo, pelo Ministro do Equipamento, do Planeamento e da Administraç�
 
 2.º Os requisitos de licenciamento relativos à aptidão técnica de cada serviço de assistência em escala referido no artigo 6.º do [Decreto-Lei n.º 275/99](https://diariodarepublica.pt/dr/detalhe/decreto-lei/275-1999-352525), de 23 de Julho, são os estipulados no anexo à presente portaria, que dela faz parte integrante.
 
-**O Ministro do Equipamento, do Planeamento e da Administração do Território, João Cardona Gomes Cravinho, em 3 de Setembro de 1999.**
+O Ministro do Equipamento, do Planeamento e da Administração do Território, João Cardona Gomes Cravinho, em 3 de Setembro de 1999.
 
 ## ANEXO
 

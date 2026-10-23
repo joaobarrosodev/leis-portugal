@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/517/1997/07/22/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/517-1997-149621
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1997-08-27T00:00:00Z'
+  retrieved_at: '2026-10-23T14:03:18Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 25bb3aa18ba2db819be6ead71f283ab31b90cecc30a5fc9ddfd3677ec6f3fc92
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: cfc6bb005bf3b40cc38d6886e06665e6613ae0fd068ebe531f1faff58f9178d1
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T14:03:18Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -65,27 +65,37 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Calendário Venatório
 - CAÇA
+- Calendário Venatório
 relationships:
 - type: amended_by
   target: pt:dre:400177:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:400177:por
+  label: "Alterados os períodos venatórios da codorniz e da lebre, fixados pelo presente diploma, pela PORT.742-A/97.1997.08.27.MADRP\
+    \ DR.IS-B [197]Supl de 27/Ago/1997\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/742-a-1997-400177
+  date: '1997-08-27'
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/136/1996/08/14/p/dre
   label: null
   source: http://data.dre.pt/eli/dec-lei/136/1996/08/14/p/dre
+- type: cites
+  target: pt:dre:405765:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T14:03:18Z'
   warnings: []
   errors: []
 ---
@@ -102,7 +112,7 @@ Manda o Governo, pelo Ministro da Agricultura, do Desenvolvimento Rural e das Pe
 
 2.º A caça às espécies constantes do n.º 1.º rege-se pelas disposições seguintes:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1997/07/167b00/36803681.pdf))](https://files.diariodarepublica.pt/1s/1997/07/167b00/36803681.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1997/07/167b00/36803681.pdf)
 
 3.º As espécies cinegéticas, os períodos venatórios e os limites diários de abate constantes dos números anteriores são aplicáveis aos terrenos dos regimes cinegéticos geral e especial, exceptuando o período de caça ao javali e os limites diários de abate fixados para a perdiz-vermelha, faisão e lebre, que não são aplicáveis ao regime cinegético especial, obedecendo ao estipulado no n.º 3 do artigo 36.º do [Decreto-Lei n.º 136/96](https://diariodarepublica.pt/dr/detalhe/decreto-lei/136-1996-405765), de 14 de Agosto, e ao plano anual de exploração aprovado para cada zona de caça.
 
@@ -110,6 +120,6 @@ Manda o Governo, pelo Ministro da Agricultura, do Desenvolvimento Rural e das Pe
 
 Ministério da Agricultura, do Desenvolvimento Rural e das Pescas.
 
-**Assinada em 20 de Junho de 1997.**
+Assinada em 20 de Junho de 1997.
 
 Pelo Ministro da Agricultura, do Desenvolvimento Rural e das Pescas, Luís Manuel Capoulas Santos, Secretário de Estado da Agricultura e do Desenvolvimento Rural.

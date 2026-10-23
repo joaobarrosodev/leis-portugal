@@ -26,7 +26,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/2s/2010/07/139000000/3892338924.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -48,18 +48,18 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/declaracao-rectificacao/1440-2010-3219683
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2010-07-20T00:00:00Z'
+  retrieved_at: '2026-10-23T14:17:39Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 23712358037ebb2c791163ba4f1f3aebbdd434e33f77f74656d02c1d83f03a6a
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 817764d5813db583ea3abcac34bfae91dc72d7d380257f44b97882bca98b9ff5
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T14:17:39Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,22 +67,26 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects: []
-relationships: []
+relationships:
+- type: cites
+  target: pt:dre:671387:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T14:17:39Z'
   warnings: []
   errors: []
 ---
 
-# Declaração de Rectificação n.º 1440/2010
+# Declaração de rectificação n.º 1440/2010
 
 Por ter sido publicado com inexactidão o plano de estudos do 2.º ciclo em Ciências da Comunicação, das Faculdade de Letras, Belas-Artes, Economia e Engenharia, constante do Diário da República, 2.ª série, n.º 146, de 30 de Julho de 2008, de p. 34174 a p. 34177, procede-se, pela presente declaração da entidade emitente, à sua rectificação.
 
@@ -102,7 +106,7 @@ QUADRO N.º 6
 
 1.º ano/1.º semestre
 
-[([ver documento original](https://files.diariodarepublica.pt/2s/2010/07/139000000/3892338924.pdf))](https://files.diariodarepublica.pt/2s/2010/07/139000000/3892338924.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/2s/2010/07/139000000/3892338924.pdf)
 
 deve ler-se:
 
@@ -112,6 +116,8 @@ QUADRO N.º 6
 
 1.º ano/1.º semestre
 
-[([ver documento original](https://files.diariodarepublica.pt/2s/2010/07/139000000/3892338924.pdf))](https://files.diariodarepublica.pt/2s/2010/07/139000000/3892338924.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/2s/2010/07/139000000/3892338924.pdf)
 
 12 de Julho de 2010. - O Reitor, José Carlos Diogo Marques dos Santos.
+
+203477114

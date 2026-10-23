@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1998/11/277b00/66266626.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/1005/1998/11/30/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/1005-1998-210186
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2007-08-13T00:00:00Z'
+  retrieved_at: '2026-10-23T14:06:24Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: e00de9225ee46c63619fa344b7cfa44dd7f3d745358f99139b6c2c0434b732b2
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 2cafbd0b246005b83fa2ca0955beb3b86d3a2a9fc5b1703fcf6b8a0fc324f537
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T14:06:24Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,22 +66,22 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
+- Álcool
 - Alcoolismo
 - Análises Clínicas
 - Código da Estrada
-- Álcool
-- Fiscalização
-- Fiscalização Rodoviária
-- Veículo
-- Meios Complementares de Diagnóstico
-- Exame Médico
-- Segurança Rodoviária
 - Condutor
 - Droga
+- Exame Médico
+- Fiscalização
+- Fiscalização Rodoviária
+- Meios Complementares de Diagnóstico
 - Preço
 - Prestação de Serviços
+- Segurança Rodoviária
 - Taxa
 - TAXA de Prestação de Serviços
+- Veículo
 relationships:
 - type: amended_by
   target: pt:dre:507611:por
@@ -95,16 +95,34 @@ relationships:
   target: eli:http://data.dre.pt/eli/dec-lei/2/1998/01/03/p/dre
   label: null
   source: http://data.dre.pt/eli/dec-lei/2/1998/01/03/p/dre
+- type: cites
+  target: pt:dre:223835:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:250659:por
+  label: null
+  source: null
+- type: corrected_by
+  target: pt:dre:265573:por
+  label: "Rectificada pela DECL-RECT.22-V/98.1998.12.31.PCM DR.IS-B [301]8.ºSUPL\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/declaracao-rectificacao/22-v-1998-265573
+  date: '1998-12-31'
+- type: repealed_by
+  target: pt:dre:507611:por
+  label: "Revogada a partir de 15.08.2007,pela PORT.902-A/2007.13.08.2007.MAI, DR.IS [155-Supl] de 13.08.2007\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/902-a-2007-507611
+  date: '2007-08-13'
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T14:06:24Z'
   warnings: []
   errors: []
 ---
@@ -185,6 +203,6 @@ Bloqueamento do veículo ... 0,15
 
 Ministérios da Administração Interna, da Justiça e da Saúde.
 
-**Assinada em 9 de Novembro de 1998.**
+Assinada em 9 de Novembro de 1998.
 
-**O Ministro da Administração Interna, Jorge Paulo Sacadura Almeida Coelho. - O Ministro da Justiça, José Eduardo Vera Cruz Jardim. - A Ministra da Saúde, Maria de Belém Roseira Martins Coelho Henriques de Pina.**
+O Ministro da Administração Interna, Jorge Paulo Sacadura Almeida Coelho. - O Ministro da Justiça, José Eduardo Vera Cruz Jardim. - A Ministra da Saúde, Maria de Belém Roseira Martins Coelho Henriques de Pina.

@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/396/1998/07/11/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/396-1998-484822
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1998-07-11T00:00:00Z'
+  retrieved_at: '2026-10-23T14:08:35Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: dea19d18c70c1eb5e0d700c0d63089cfd8560c041ec8a1fcfa18d212b2ceac78
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 5a88fe3010b9e2e0ac4ed90eb0e7ccf0474a778ffcb8f91291ed4db30d8d40b0
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T14:08:35Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -68,32 +68,36 @@ subjects:
 - Abrantes
 - Águeda
 - Aveiro
+- Coimbra
 - Fundão
-- Tribunal do Trabalho
+- Guarda
 - Instalação de Serviços
-- Tribunal de Comarca
 - Lamego
 - Penafiel
 - PESO da Régua
 - Ponta Delgada
-- Coimbra
 - são JOÃO da Madeira
 - Tomar
 - Torres Vedras
+- Tribunal de Comarca
 - Tribunal de Família e de Menores
-- Guarda
+- Tribunal do Trabalho
 - VILA NOVA de GAIA
-relationships: []
+relationships:
+- type: cites
+  target: pt:dre:560020:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T14:08:35Z'
   warnings: []
   errors: []
 ---
@@ -134,6 +138,6 @@ Tribunal de Família e de Menores de Aveiro;
 
 Ministério da Justiça.
 
-**Assinada em 19 de Junho de 1998.**
+Assinada em 19 de Junho de 1998.
 
 Pelo Ministro da Justiça, José Manuel de Matos Fernandes, Secretário de Estado Adjunto do Ministro da Justiça.

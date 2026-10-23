@@ -48,18 +48,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/156/2000/03/17/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/156-2000-514665
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2008-11-12T00:00:00Z'
+  retrieved_at: '2026-10-23T14:21:48Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: eaabd812747b8a3d5023bc044494bb6463e2bf206c54f4f63ac0ba188918b359
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: f2c75e66d3d959de119c20039ef7123669d7828dae75859d7e3d59de07ed45d1
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T14:21:48Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -75,6 +75,30 @@ relationships:
   target: pt:dre:439869:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:566845:por
+  label: "Desanexado o prédio rústico denominado \"Herdade dos Províncios\" da zona de caça associativa criada pela Port 254-X/96,\
+    \ de 15-Jul, DR-IS-B [162] Supl., na redacção da presente Portaria, pela PORT.1311/2001.2001.11.23.MADRP\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/1311-2001-566845
+  date: '2001-11-23'
+- type: amended_by
+  target: pt:dre:632065:por
+  label: "Renovada, por seis anos, a concessão da zona de caça associativa criada pela Port 254-X/96, de 15-Jul e alterada\
+    \ pelo preente diploma e pela Port 1311/2001 de 23-Nov pela PORT.1254/2002.2002.09.10.MADRP, DR.IS-B [209]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/1254-2002-632065
+  date: '2002-09-10'
+- type: amended_by
+  target: pt:dre:359515:por
+  label: "Excluída uma área de 73 ha, da zona de caça concessionada pela Port 254-X/96 de 15-Jul, alterada pelo presente diploma,\
+    \ pela PORT.608/2006.23.06.2006.MADRP, DR.IS-B [120] de 23.06.2006\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/608-2006-359515
+  date: '2006-06-23'
+- type: amended_by
+  target: pt:dre:439869:por
+  label: "Renovada, por seis anos, a concessão da zona de caça associativa criada pela Port 254-X/96, de 15-Jul, alterada\
+    \ pelo presente diploma, pela PORT.1308/2008.12.11.2008.MAOTDR, DR.IS [220] de 12.11.2008\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/1308-2008-439869
+  date: '2008-11-12'
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/136/1996/08/14/p/dre
   label: null
@@ -83,16 +107,28 @@ relationships:
   target: eli:http://data.dre.pt/eli/port/254-x/1996/07/15/p/dre
   label: null
   source: http://data.dre.pt/eli/port/254-x/1996/07/15/p/dre
+- type: cites
+  target: pt:dre:157474:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:219134:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:405765:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T14:21:48Z'
   warnings: []
   errors: []
 ---

@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/2s/2009/10/204000000/4259442594.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -47,18 +47,18 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/declaracao-rectificacao/2586-2009-1217802
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2009-10-21T00:00:00Z'
+  retrieved_at: '2026-10-23T14:07:54Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 09d7c22a7f1d689bd97ba3aa229a0936277ec1c50c76c569eab2c210ba2d906b
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: ab7f688cb8403ffd01c031b200c67722819e064294ff64b10de73c5ff3aa3841
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T14:07:54Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -70,13 +70,13 @@ relationships: []
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T14:07:54Z'
   warnings: []
   errors: []
 ---
@@ -88,3 +88,5 @@ Declaração de rectificação n.º 2586/2009
 Rectifica-se o aviso n.º 16502/2209. Assim, onde se lê «Procedimento concursal comum de recrutamento para ocupação de 3 (três) postos de trabalho em regime de contrato de trabalho em funções públicas» deve ler-se «Procedimento concursal comum de recrutamento para ocupação de quatro postos de trabalho em regime de contrato de trabalho em funções públicas» e no n.º 1 onde se lê «para preenchimento de 3 (três) postos de trabalho da carreira» deve ler-se «para preenchimento de quatro postos de trabalho da carreira».
 
 13 de Outubro de 2009. - O Director, António David Afonso Gonçalves.
+
+202433923

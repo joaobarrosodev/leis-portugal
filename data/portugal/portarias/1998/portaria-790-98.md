@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1998/09/219b00/49134913.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/790/1998/09/22/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/790-1998-241656
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2014-03-18T00:00:00Z'
+  retrieved_at: '2026-10-23T14:11:11Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: eec5af63027c06d4465b0b99c36c84c81aab44d5ad805a8561f2a8d8861a2371
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 6a738aed79a7eee4bae44660377c809f165e6ac784cd7dedc18c5df917b59908
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T14:11:11Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,17 +66,22 @@ reuse:
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
 - Carta de Condução
-- Exame de Condução
-- Formação Profissional
 - Ensino de Condução
 - Escola de Condução
-- Veículo
+- Exame de Condução
+- Formação Profissional
 - Programa
+- Veículo
 relationships:
 - type: amended_by
   target: pt:dre:571931:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:313576:por
+  label: "Alterado o nº 3 pela PORT.528/2000.2000.07.28.MAI DR.IS-B [173]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/528-2000-313576
+  date: '2000-07-28'
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/86/1998/04/03/p/dre
   label: null
@@ -89,16 +94,34 @@ relationships:
   target: eli:http://data.dre.pt/eli/port/520/1998/08/14/p/dre
   label: null
   source: http://data.dre.pt/eli/port/520/1998/08/14/p/dre
+- type: cites
+  target: pt:dre:167382:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:209017:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:437796:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:571931:por
+  label: "Revogada a partir de 16.06.2014, na redação da Port. 528/2000, de 28-jul, pela LEI.14/2014.18.03.2014.AR, DR.IS\
+    \ [54] de 18.03.2014\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/lei/14-2014-571931
+  date: '2014-03-18'
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T14:11:11Z'
   warnings: []
   errors: []
 ---
@@ -127,6 +150,6 @@ Manda o Governo, pelo Ministro da Administração Interna, o seguinte:
 
 Ministério da Administração Interna.
 
-**Assinada em 31 de Agosto de 1998.**
+Assinada em 31 de Agosto de 1998.
 
 Pelo Ministro da Administração Interna, Armando António Martins Vara, Secretário de Estado Adjunto do Ministro da Administração Interna.

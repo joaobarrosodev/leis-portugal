@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/275/1997/04/24/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/275-1997-476956
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1998-07-03T00:00:00Z'
+  retrieved_at: '2026-10-23T14:01:42Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: f9043c3cfb138a62b157a0bdb80513e3c3ac72a3ca9ca2c91081cb688f667c3e
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 2961b20ccd3150bf7d37ea509894730b34c33682aa7fc56a596b672483fa8cf0
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T14:01:42Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,17 +66,24 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Formação Profissional
-- Plano de Estudos
 - Direcção Geral de Espectáculos
-- Pessoal de Inspecção
 - Estágio de Formação
+- Formação Profissional
+- Pessoal de Inspecção
+- Plano de Estudos
 - Regulamento de Estágio
 relationships:
 - type: amended_by
   target: pt:dre:486931:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:486931:por
+  label: "Alterado o nº 5 do art. 1º, revogado o art. 12º e substituido por Inspecção Geral das Actividades Culturais as referências\
+    \ feitas à Direcção Geral dos Espectáculos, tudo do Regulamento publicado em anexo ao presente diploma, pela PORT.385/98.1998.07.03.PCM,\
+    \ DR.IS-B [151] \0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/385-1998-486931
+  date: '1998-07-03'
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/222/1995/09/08/p/dre
   label: null
@@ -85,16 +92,24 @@ relationships:
   target: eli:http://data.dre.pt/eli/dec-lei/42/1996/05/07/p/dre
   label: null
   source: http://data.dre.pt/eli/dec-lei/42/1996/05/07/p/dre
+- type: cites
+  target: pt:dre:469652:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:551193:por
+  label: null
+  source: null
 article_structure:
   article_count: 12
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T14:01:42Z'
   warnings: []
   errors: []
 ---
@@ -111,9 +126,9 @@ Manda o Governo, pelos Ministros da Cultura e Adjunto, que seja aprovado o regul
 
 Presidência do Conselho de Ministros e Ministério da Cultura.
 
-**Assinada em 3 de Abril de 1997.**
+Assinada em 3 de Abril de 1997.
 
-**O Ministro da Cultura, Manuel Maria Ferreira Carrilho. - Pelo Ministro Adjunto, Fausto de Sousa Correia, Secretário de Estado da Administração Pública.**
+O Ministro da Cultura, Manuel Maria Ferreira Carrilho. - Pelo Ministro Adjunto, Fausto de Sousa Correia, Secretário de Estado da Administração Pública.
 
 ## ANEXO
 
@@ -273,4 +288,4 @@ Em tudo o que não for contrariado pelo presente regulamento, aplica-se ao está
 
 Curso de formação do estágio para ingresso na carreira de subinspector de espectáculos e direitos de autor da DGESP
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1997/04/096b00/18551857.pdf))](https://files.diariodarepublica.pt/1s/1997/04/096b00/18551857.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1997/04/096b00/18551857.pdf)

@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/2s/2009/10/209000000/4389443894.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -47,18 +47,18 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/declaracao-rectificacao/2641-2009-2753929
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2009-10-28T00:00:00Z'
+  retrieved_at: '2026-10-23T14:08:10Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 94588cc4b524902fd37d2d8b03792870a03096bba4a95053f6e3dfb24bb650d7
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: e514a591f771a64df62181d657fe18ad84a98ce08185afe83fd33001f1f5e1d5
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T14:08:10Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -70,13 +70,13 @@ relationships: []
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T14:08:10Z'
   warnings: []
   errors: []
 ---
@@ -88,3 +88,5 @@ Declaração de rectificação n.º 2641/2009
 Para os devidos efeitos, se torna público que, relativamente ao conteúdo do aviso n.º 18 626/2009, publicado no Diário da República, 2.ª série, n.º 204, de 21 de Outubro de 2009, deve ser publicado o título do referido aviso que por lapso desses Serviços não foi publicado «Procedimento concursal comum, para um posto de trabalho na modalidade de contrato de trabalho em funções públicas por tempo indeterminado, para a categoria de assistente operacional, a que se refere o aviso n.º 9391, publicado no Diário da República, 2.ª série, n.º 91, de 12 de Maio de 2009».
 
 12 de Outubro de 2009. - O Presidente da Câmara, António Baptista Ribeiro.
+
+302478506

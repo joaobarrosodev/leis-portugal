@@ -48,18 +48,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/566/1997/07/29/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/566-1997-144835
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2001-09-03T00:00:00Z'
+  retrieved_at: '2026-10-23T14:03:33Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 4f5af63f790fa421c3d3b46b17556e919fc2e5fc03827748ac7f152d25e1172d
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: f42bcc7eda687aadce22214c888beeafd5f96bce8777489e7b71a79286904a40
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T14:03:33Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,25 +67,65 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Covilhã
-- Indústria Têxtil
-- Gouveia
-- Manteigas
-- Reestruturação Industrial
 - Castelo Branco
+- Covilhã
+- Desemprego
+- Gouveia
+- Guarda
+- Indústria Têxtil
+- Manteigas
 - Prestações da Segurança Social
 - Prestações de Desemprego
-- Desemprego
 - Proteção no Desemprego
+- Reestruturação Industrial
 - Segurança Social
 - Seia
 - Subsídio de Desemprego
-- Guarda
 relationships:
 - type: amended_by
   target: pt:dre:630839:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:230171:por
+  label: "Mantido em vigor até 30 de Junho de 1998 o disposto no presente diploma, pela PORT.56/98.1998.02.05.MTS DR.IS-B\
+    \ [30]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/56-1998-230171
+  date: '1998-02-05'
+- type: amended_by
+  target: pt:dre:429825:por
+  label: "Mantido em vigor até 31 de Dezembro de 1998, o disposto no presente diploma, pela PORT.470/98.1998.07.30.MTS DR.IS-B\
+    \ [174]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/470-1998-429825
+  date: '1998-07-30'
+- type: amended_by
+  target: pt:dre:180598:por
+  label: "Mantido em vigor até 30 de Junho de 1999 o disposto no presente diploma, pela PORT.70/99.1999.01.28.MTS, DR.IS-B\
+    \ [23]2\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/70-1999-180598
+  date: '1999-01-28'
+- type: amended_by
+  target: pt:dre:423072:por
+  label: "Mantido em vigor até 31-Dez de 1999, o disposto pelo presente diploma, pela PORT.639/99.1999.08.11.MTS DR.IS-B [186]\0\
+    \0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/639-1999-423072
+  date: '1999-08-11'
+- type: amended_by
+  target: pt:dre:406103:por
+  label: "Mantida em vigor, até 31 de Junho de 2000, pela PORT.48/2000.2000.02.04.MTS DR.IS-B [29]\0]\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/48-2000-406103
+  date: '2000-02-04'
+- type: amended_by
+  target: pt:dre:621355:por
+  label: "Prorrogado o prazo previsto pela PORT.1053/2000.2000.10.30.MTS DR.IS-B [251]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/1053-2000-621355
+  date: '2000-10-30'
+- type: amended_by
+  target: pt:dre:630839:por
+  label: "Mantido em vigor até 30/Jun/2001 o disposto no presente diploma, pela PORT.1056/2001.2001.09.03.MTS, DR.IS-B[204]\0\
+    \0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/1056-2001-630839
+  date: '2001-09-03'
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/291/1991/08/10/p/dre
   label: null
@@ -98,16 +138,36 @@ relationships:
   target: eli:http://data.dre.pt/eli/dec-lei/57/1996/05/22/p/dre
   label: null
   source: http://data.dre.pt/eli/dec-lei/57/1996/05/22/p/dre
+- type: cites
+  target: pt:dre:228837:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:456868:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:541979:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:632907:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:680634:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 3
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T14:03:33Z'
   warnings: []
   errors: []
 ---
@@ -210,6 +270,6 @@ As medidas previstas na presente portaria produzem efeitos desde 1 de Agosto e v
 
 Ministérios das Finanças, do Equipamento, do Planeamento e da Administração do Território, da Economia e da Solidariedade e Segurança Social.
 
-**Assinada em 11 de Julho de 1997.**
+Assinada em 11 de Julho de 1997.
 
 Pelo Ministro das Finanças, Maria Manuela de Brito Arcanjo Marques da Costa, Secretária de Estado do Orçamento. - Pelo Ministro do Equipamento, do Planeamento e da Administração do Território, Adriano Lopes Gomes Pimpão, Secretário de Estado do Desenvolvimento Regional. - O Ministro da Economia, Augusto Carlos Serra Ventura Mateus. - Pelo Ministro da Solidariedade e Segurança Social, Fernando Lopes Ribeiro Mendes, Secretário de Estado da Segurança Social.

@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/2s/2009/12/233000000/4900549005.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -47,18 +47,18 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/declaracao-rectificacao/2950-2009-1130295
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2009-12-02T00:00:00Z'
+  retrieved_at: '2026-10-23T14:10:05Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: ef7a707990e1b4fe7dc5f13ca65817380a981146b43b4d09fa3acfee08b06539
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: f3e1d4d4f5412d869360e2aca9d1dac78a5f7c8f4018c687510e486a6398fa2f
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T14:10:05Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -70,13 +70,13 @@ relationships: []
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T14:10:05Z'
   warnings: []
   errors: []
 ---
@@ -100,3 +100,5 @@ Verificando-se que na lista unitária de ordenação final do procedimento refer
 Aguarda-se ainda parecer da Direcção-Geral da Inovação e Desenvolvimento Curricular (DGIDC), relativamente ao currículo de Tércio Santos Madeira, sobre os quais será publicado oportunamente o respectivo resultado.
 
 Paços do Município de Peniche, 21 de Outubro de 2009. - O Presidente da Câmara, António José Sousa Correia Santos.
+
+302620303

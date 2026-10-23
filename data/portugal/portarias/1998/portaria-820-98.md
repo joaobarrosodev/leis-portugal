@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/820/1998/09/26/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/820-1998-245566
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2009-09-18T00:00:00Z'
+  retrieved_at: '2026-10-23T14:11:21Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: f5aee86b8f1de537b988874d6b89a22e57abb60d9cfb875eebdd3cfedecc8f68
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 2a85de284997051a74266303485ccfe5f6a0bd0d735db507202d43bed8f7ef3b
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T14:11:21Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -74,6 +74,13 @@ relationships:
   target: pt:dre:490273:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:490273:por
+  label: "Extinta, na parte respeitante aos prédios que, de acordo com o número 2.º, passam a integrar a zona de caça associativa\
+    \ dos Valezinhos, a zona de caça turística do Cabeço Alto, concessionada pela Port 640-P/94 de 15-Jul, alterada pelo presente\
+    \ diploma, pela PORT.1072/2009.18.09.2009.MADRP, DR.IS [182] de 18.09.2009\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/1072-2009-490273
+  date: '2009-09-18'
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/136/1996/08/14/p/dre
   label: null
@@ -82,16 +89,28 @@ relationships:
   target: eli:http://data.dre.pt/eli/port/640-p/1994/07/15/p/dre
   label: null
   source: http://data.dre.pt/eli/port/640-p/1994/07/15/p/dre
+- type: cites
+  target: pt:dre:219134:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:276420:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:405765:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T14:11:21Z'
   warnings: []
   errors: []
 ---
@@ -116,7 +135,7 @@ Manda o Governo, pelos Ministros da Economia e da Agricultura, do Desenvolviment
 
 Ministérios da Economia e da Agricultura, do Desenvolvimento Rural e das Pescas.
 
-**Assinada em 31 de Agosto de 1998.**
+Assinada em 31 de Agosto de 1998.
 
 Pelo Ministro da Economia, Vítor José Cabrita Neto, Secretário de Estado do Turismo. - Pelo Ministro da Agricultura, do Desenvolvimento Rural e das Pescas, Luís Manuel Capoulas Santos, Secretário de Estado da Agricultura e do Desenvolvimento Rural.
 

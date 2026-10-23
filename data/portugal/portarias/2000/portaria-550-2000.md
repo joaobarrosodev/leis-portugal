@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/550/2000/08/04/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/550-2000-314650
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2010-09-09T00:00:00Z'
+  retrieved_at: '2026-10-23T14:24:27Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 5f3ca59d87dd4309dc64ecac5dfd6735d8b0a2beb058919634d931e8c8bd8074
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 488bdf746b235aaf22107749ccb669bb46bfefd9af14470dcb19b5740b741d7e
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T14:24:27Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -74,6 +74,25 @@ relationships:
   target: pt:dre:344222:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:517616:por
+  label: "Suspenso o exercício da caça e actividades de carácter venatório na zona de caça atribuída pela Port 251/94 de 22-Abr,\
+    \ com a redacção do presente diploma, pela PORT.752/2004.30.06.2004.MADRP, DR.IS-B [152] de 30.06.2004\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/752-2004-517616
+  date: '2004-06-30'
+- type: amended_by
+  target: pt:dre:534428:por
+  label: "Renovada, por um período de seis anos, a concessão da zona de caça concessionada pela Port 251/94, de 22-Abr, na\
+    \ redacção do presente diploma, pela PORT.1435/2004.25.11.2004.MAPF, DR.IS-B [277] de 25.11.2004\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/1435-2004-534428
+  date: '2004-11-25'
+- type: amended_by
+  target: pt:dre:344222:por
+  label: "Renovada, por um período de seis anos, a concessão da zona de caça associativa da Herdade dos Machados criada pela\
+    \ Port.251/94, de 22-Abr, na redacção da presente portaria, pela PORT.878/2010.09.09.2010.MADRP, DR.IS [176] de 09.09.2010\0\
+    \0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/878-2010-344222
+  date: '2010-09-09'
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/136/1996/08/14/p/dre
   label: null
@@ -86,16 +105,32 @@ relationships:
   target: eli:http://data.dre.pt/eli/port/567/1992/06/26/p/dre
   label: null
   source: http://data.dre.pt/eli/port/567/1992/06/26/p/dre
+- type: cites
+  target: pt:dre:219134:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:265152:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:302922:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:405765:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T14:24:27Z'
   warnings: []
   errors: []
 ---

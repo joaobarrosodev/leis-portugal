@@ -27,7 +27,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2001/03/058b00/12921293.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -49,18 +49,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/176/2001/03/09/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/176-2001-401751
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2002-04-03T00:00:00Z'
+  retrieved_at: '2026-10-23T14:30:36Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 44c355c4b60ac05d0ab3f1c5c4d58ef901ff26ada9db1a184cbe39107f401c32
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: a5fd64d786bd867c41dc929b10b60abeee685d82b8c604395c511882563ce2fc
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T14:30:36Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -68,20 +68,20 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Deficiente
-- Função Pública
-- ADSE
-- Educação Especial
-- Comparticipação Familiar
 - Administração Pública
+- ADSE
+- Comparticipação Familiar
+- Criança Deficiente
+- Deficiente
+- Educação Especial
+- Função Pública
 - Jovem
-- Proteção ao Deficiente
 - Prestações Familiares
+- Proteção ao Deficiente
 - Proteção Social
 - Regime Contributivo da Segurança Social
 - Regime não Contributivo da Segurança Social
 - Segurança Social
-- Criança Deficiente
 - Subsídio
 - Subsídio de Educação Especial
 relationships:
@@ -97,16 +97,33 @@ relationships:
   target: eli:http://data.dre.pt/eli/port/104/2000/02/24/p/dre
   label: null
   source: http://data.dre.pt/eli/port/104/2000/02/24/p/dre
+- type: cites
+  target: pt:dre:158179:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:389038:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:413233:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:301067:por
+  label: "Revogada pela PORT.353/2002.2002.04.03.MF R.IS-B [78]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/353-2002-301067
+  date: '2002-04-03'
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T14:30:36Z'
   warnings: []
   errors: []
 ---
@@ -143,7 +160,7 @@ Determinação do valor da comparticipação das famílias
 
 1 - É aprovada a tabela para a determinação do valor da comparticipação das famílias prevista no n.º 1 do artigo 9.º do [Decreto Regulamentar n.º 14/81](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/14-1981-389038), de 7 de Abril:
 
-[(ver tabela no documento original)](https://files.diariodarepublica.pt/1s/2001/03/058b00/12921293.pdf)
+[[(ver tabela no documento original)](https://files.diariodarepublica.pt/1s/2001/03/058b00/12921293.pdf)](https://files.diariodarepublica.pt/1s/2001/03/058b00/12921293.pdf)
 
 2 - Nas modalidades de internato e de semi-internato, a comparticipação não pode ser inferior, respectivamente, ao valor do subsídio familiar a crianças e jovens, percebido por um só filho de idade superior a 12 meses, correspondente ao 3.º escalão, deduzido dos montantes de eventuais majorações ou bonificações específicas que lhes acresçam, e a metade desse valor.
 
@@ -153,7 +170,7 @@ Determinação da poupança familiar
 
 É aprovada a tabela das despesas anuais fixas a considerar para o cálculo da poupança familiar e determinação da comparticipação das famílias, de harmonia com o disposto no n.º 2 do artigo 9.º e no artigo 10.º do [Decreto Regulamentar n.º 14/81](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/14-1981-389038), de 7 de Abril:
 
-[(ver tabela no documento original)](https://files.diariodarepublica.pt/1s/2001/03/058b00/12921293.pdf)
+[[(ver tabela no documento original)](https://files.diariodarepublica.pt/1s/2001/03/058b00/12921293.pdf)](https://files.diariodarepublica.pt/1s/2001/03/058b00/12921293.pdf)
 
 4.º
 

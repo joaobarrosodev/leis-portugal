@@ -46,36 +46,44 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/declaracao-rectificacao/1670-2010-830806
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2010-08-18T00:00:00Z'
+  retrieved_at: '2026-10-23T14:18:59Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: b0f3ecb5f70625259f1b72d8e35dfe9f8db8f997150744eebd7850742408fd2f
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 7fc2290dba207574df22d45bbf69a34dc08cdfedac2b94357871c1a0ee1c4321
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T14:18:59Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Especificação Técnica
+- Fundo de Investimento
+- Fundo de Pensões
+- Pensões
+- Plano de Benefícios de Saúde
+- Publicitação
+- Relatório e Contas
+- Sociedade Gestora de Fundos de Pensões
 relationships: []
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T14:18:59Z'
   warnings: []
   errors: []
 ---
@@ -86,6 +94,8 @@ Declaração de rectificação n.º 1670/2010
 
 Por terem sido publicados com inexactidões no Diário da República, 2.ª série, n.º 120, de 23 de Junho de 2010, os quadros A) e C) do anexo à norma regulamentar n.º 7/2010-R, de 4 de Junho, que estabelece os princípios aplicáveis ao relato financeiro dos fundos de pensões, procede-se à respectiva rectificação nos termos dos quadros anexos.
 
-[([ver documento original](https://files.diariodarepublica.pt/2s/2010/08/160000000/4419044192.pdf))](https://files.diariodarepublica.pt/2s/2010/08/160000000/4419044192.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/2s/2010/08/160000000/4419044192.pdf)
 
 1 de Julho de 2010. - O Conselho Directivo: Fernando Nogueira, presidente - Rodrigo Lucena, vogal.
+
+203597554

@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/2s/2009/08/160000000/3383433834.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -46,18 +46,18 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/declaracao-rectificacao/1989-2009-806626
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2009-08-19T00:00:00Z'
+  retrieved_at: '2026-10-23T14:04:18Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 63de1fe9b2006f16d142a420510197e62abefbc235e97566793e813e7436f14a
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: c66a1c08bf3b01889cdc1356738c4a1437a5cf943e60ef4c615356a275ce70ac
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T14:04:18Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -65,22 +65,26 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects: []
-relationships: []
+relationships:
+- type: cites
+  target: pt:dre:1740192:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T14:04:18Z'
   warnings: []
   errors: []
 ---
 
-# Declaração de Rectificação n.º 1989/2009
+# Declaração de rectificação n.º 1989/2009
 
 Por ter sido publicado com inexactidão, no Diário da República, 2.ª série n.º 145 de 29 de Julho de 2009, na página 30216, o [Despacho n.º 17521/2009](https://diariodarepublica.pt/dr/detalhe/despacho/17521-2009-1740192), rectifica-se:
 
@@ -93,3 +97,5 @@ deve ler-se:
 "i) Garantir a aplicação do sistema e regulamentos de avaliação de docentes da Faculdade de Medicina Veterinária, no quadro legal aplicável;".
 
 30 de Julho de 2009. - O Reitor, Fernando Râmoa Ribeiro.
+
+202191303

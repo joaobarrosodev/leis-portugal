@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/862/1997/09/10/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/862-1997-644497
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2004-09-01T00:00:00Z'
+  retrieved_at: '2026-10-23T14:05:28Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: fbc4dc09a11af4efb01857822c3051e19f714fb0df47745bd4cbbf139cb0e429
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 5780e4e4d1fe83e3065531d712ca38298963825df911c84ee05546d7c8168438
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T14:05:28Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,14 +66,20 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Castro Marim
 - CAÇA
+- Castro Marim
 - ZONA de CAÇA
 relationships:
 - type: amended_by
   target: pt:dre:622592:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:622592:por
+  label: "Anexados vários prédios rústicos à zona de caça associativa atribuída pela Port 640-V2/94 de 15-Jul, com a redacção\
+    \ do presente diploma, pela PORT.1090/2004.01.09.2004.MAPF, DR.IS-B [206] de 01.09.2004\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/1090-2004-622592
+  date: '2004-09-01'
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/251/1992/11/12/p/dre
   label: null
@@ -82,16 +88,32 @@ relationships:
   target: eli:http://data.dre.pt/eli/port/640-v2/1994/07/15/p/dre
   label: null
   source: http://data.dre.pt/eli/port/640-v2/1994/07/15/p/dre
+- type: cites
+  target: pt:dre:276262:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:417646:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:455890:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:584874:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T14:05:28Z'
   warnings: []
   errors: []
 ---
@@ -124,8 +146,8 @@ Manda o Governo, pelo Ministro da Agricultura, do Desenvolvimento Rural e das Pe
 
 Ministério da Agricultura, do Desenvolvimento Rural e das Pescas.
 
-**Assinada em 8 de Agosto de 1997.**
+Assinada em 8 de Agosto de 1997.
 
 Pelo Ministro da Agricultura, do Desenvolvimento Rural e das Pescas, Luís Manuel Capoulas Santos, Secretário de Estado da Agricultura e do Desenvolvimento Rural.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1997/09/209b00/48014801.pdf))](https://files.diariodarepublica.pt/1s/1997/09/209b00/48014801.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1997/09/209b00/48014801.pdf)

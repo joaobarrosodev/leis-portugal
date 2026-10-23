@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/163/1999/03/10/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/163-1999-158268
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1999-03-10T00:00:00Z'
+  retrieved_at: '2026-10-23T14:13:38Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: d14e5514c713b0e2f1910d4d3e771edd72348205707e2c679e6cf64b1ccd28a1
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: a420537aa84fb76b3dfadbcb7c93123a8a8387267fbbaac9ee97f31eda5ccbe8
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T14:13:38Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -94,16 +94,36 @@ relationships:
   target: eli:http://data.dre.pt/eli/port/744-a/1993/08/18/p/dre
   label: null
   source: http://data.dre.pt/eli/port/744-a/1993/08/18/p/dre
+- type: cites
+  target: pt:dre:172965:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:220946:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:220948:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:533376:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:620774:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T14:13:38Z'
   warnings: []
   errors: []
 ---
@@ -156,6 +176,6 @@ Manda o Governo, pelo Ministro das Finanças, o seguinte:
 
 Ministério das Finanças.
 
-**Assinada em 17 de Fevereiro de 1999.**
+Assinada em 17 de Fevereiro de 1999.
 
-**O Ministro das Finanças, António Luciano Pacheco de Sousa Franco.**
+O Ministro das Finanças, António Luciano Pacheco de Sousa Franco.

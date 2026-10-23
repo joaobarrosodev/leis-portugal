@@ -47,36 +47,41 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/declaracao-rectificacao/1526-2010-1434895
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2010-07-30T00:00:00Z'
+  retrieved_at: '2026-10-23T14:18:09Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 59aab79378e0f0bd7c6a8f3ca2b8f764f146c25d85cdb245c45a423ecc239e87
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 1ad5f503f1255e519c716a786596e049bd13c33959dc2bac8e4cdb3068b3b31a
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T14:18:09Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Combustível
+- Entidade Gestora de Reservas Estratégicas de Produtos Petrolíferos
+- Petróleo
+- Produto Petrolífero
+- Reservas de Combustível
 relationships: []
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T14:18:09Z'
   warnings: []
   errors: []
 ---
@@ -88,3 +93,5 @@ Declaração de rectificação n.º 1526/2010
 Por ter sido publicado com inexactidão no Diário da República, 2.ª série, n.º 138, de 19 de Julho de 2010, o despacho n.º 11654/2010, rectifica-se que no n.º 2, onde se lê «As prestações definidas no número anterior são devidas no mês de Maio até 31 de Dezembro de 2010» deve ler-se «As prestações definidas no número anterior vigoram até à aprovação do orçamento e plano de actividades da EGREP, E. P. E., para o ano de 2011».
 
 22 de Julho de 2010. - O Secretário de Estado da Energia e da Inovação, José Carlos das Dores Zorrinho.
+
+203524118

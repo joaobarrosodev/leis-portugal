@@ -47,36 +47,39 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/declaracao-rectificacao/1744-2009-2542378
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2009-07-22T00:00:00Z'
+  retrieved_at: '2026-10-23T14:02:58Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 4b9d75b9825f71f8fd9f6b46920808b85882a01396a220f7a3f3c9d166d5a6d3
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 71e6bd01d47c3f113a80ca37e5d920156bbe1e3b902487d0660dde38c075f58a
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T14:02:58Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Árvore
+- Guarda
+- Interesse Público
 relationships: []
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T14:02:58Z'
   warnings: []
   errors: []
 ---
@@ -99,14 +102,16 @@ deverá ler-se:
 
 Um bosquete de Sequoiadendron giganteum (Lind.) Buchholz, árvores vulgarmente conhecidas por sequóias-gigantes (KNJ3/043).
 
-[([ver documento original](https://files.diariodarepublica.pt/2s/2009/07/140000000/2875928759.pdf))](https://files.diariodarepublica.pt/2s/2009/07/140000000/2875928759.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/2s/2009/07/140000000/2875928759.pdf)
 
 Uma alameda constituída por exemplares de Aesculus hippocastanum L. e de Aesculus x carnea Hayne, árvores vulgarmente conhecidas por castanheiros-da-índia-de-flores-rosa (KNJ3/044).
 
-[([ver documento original](https://files.diariodarepublica.pt/2s/2009/07/140000000/2875928759.pdf))](https://files.diariodarepublica.pt/2s/2009/07/140000000/2875928759.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/2s/2009/07/140000000/2875928759.pdf)
 
 Um maciço de Pseudotsuga menziesii (Mirbel) Franco, árvores vulgarmente conhecidas por pseudotsugas. Existem nesta mancha outras espécies de interesse dendrológico» (KNJ2/017).
 
-[([ver documento original](https://files.diariodarepublica.pt/2s/2009/07/140000000/2875928759.pdf))](https://files.diariodarepublica.pt/2s/2009/07/140000000/2875928759.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/2s/2009/07/140000000/2875928759.pdf)
 
 20 de Maio de 2009. - O Presidente, António José Rego.
+
+202056609

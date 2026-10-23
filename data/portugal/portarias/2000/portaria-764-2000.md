@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/764/2000/09/13/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/764-2000-572111
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2010-06-28T00:00:00Z'
+  retrieved_at: '2026-10-23T14:25:44Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: de5478f1b9e7cf96d8a47a2f0d8cf67bb3ea3ca50c265b5da50e13c9054ee3a3
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: ce6b7e82ad42709061f33f5d1f41e9bdb3229101b0feccb02f6955436ac3af1a
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T14:25:44Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -74,6 +74,13 @@ relationships:
   target: pt:dre:334901:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:334901:por
+  label: "Renovada, a partir de 16.11.2009, pelo período de seis anos a concessão da zona de caça atribuída pela Port 615-M1/91\
+    \ de 08-Jul, com as alterações constantes do presente diploma, e anexados, a partir da mesma data, vários prédios rústicos\
+    \ à referida zona da caça pela PORT.398/2010.28.06.2010.MADRP, DR.IS [123] de 28.06.2010\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/398-2010-334901
+  date: '2010-06-28'
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/136/1996/08/14/p/dre
   label: null
@@ -82,16 +89,28 @@ relationships:
   target: eli:http://data.dre.pt/eli/port/1165/1997/11/14/p/dre
   label: null
   source: http://data.dre.pt/eli/port/1165/1997/11/14/p/dre
+- type: cites
+  target: pt:dre:219134:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:405765:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:686205:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T14:25:44Z'
   warnings: []
   errors: []
 ---

@@ -49,18 +49,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/422/2001/04/19/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/422-2001-164455
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2011-06-20T00:00:00Z'
+  retrieved_at: '2026-10-23T14:32:08Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: dae9498ce3be74b94069f80ad98761a697d690e401845da6d12d59478f2718e4
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: f0439fa93d13b16164d4c0d21ccf41276cd621b530484c8eb4a0f1a644255d31
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T14:32:08Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -72,11 +72,11 @@ subjects:
 - Direção Geral de Veterinária
 - Fiscalização
 - Gado Suíno
+- Normalização
+- Pecuária
 - Política Agrícola Comum
 - Registo de Animais
-- Pecuária
 - Troca Intracomunitária
-- Normalização
 relationships:
 - type: amended_by
   target: pt:dre:670027:por
@@ -98,16 +98,21 @@ relationships:
   target: celex:31989D0507
   label: null
   source: http://data.europa.eu/eli/dec/1989/507/oj
+- type: repealed_by
+  target: pt:dre:670027:por
+  label: "Revogada, a 25.06.2011, pelo DEC LEI.79/2011.20.06.2011.MADRP, DR.IS [117] de 20.06.2011\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/79-2011-670027
+  date: '2011-06-20'
 article_structure:
   article_count: 0
   section_count: 4
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T14:32:08Z'
   warnings: []
   errors: []
 ---
@@ -364,7 +369,7 @@ Modelos de certificados dos suínos reprodutores de raça pura, bem como dos res
 
 1.12 - Ascendência:
 
-[(ver modelo no documento original)](https://files.diariodarepublica.pt/1s/2001/04/092b00/23062313.pdf)
+[[[[[[[[[(ver modelo no documento original)](https://files.diariodarepublica.pt/1s/2001/04/092b00/23062313.pdf)](https://files.diariodarepublica.pt/1s/2001/04/092b00/23062313.pdf)](https://files.diariodarepublica.pt/1s/2001/04/092b00/23062313.pdf)](https://files.diariodarepublica.pt/1s/2001/04/092b00/23062313.pdf)](https://files.diariodarepublica.pt/1s/2001/04/092b00/23062313.pdf)](https://files.diariodarepublica.pt/1s/2001/04/092b00/23062313.pdf)](https://files.diariodarepublica.pt/1s/2001/04/092b00/23062313.pdf)](https://files.diariodarepublica.pt/1s/2001/04/092b00/23062313.pdf)](https://files.diariodarepublica.pt/1s/2001/04/092b00/23062313.pdf)
 
 2 - O certificado deve incluir os resultados dos controlos das performances e os resultados actualizados com indicação da sua origem, da apreciação do valor genético do animal em causa e dos respectivos pais e avós.
 
@@ -490,46 +495,46 @@ MODELO I
 
 Modelo de certificado para suínos reprodutores de raça pura
 
-[(ver modelo no documento original)](https://files.diariodarepublica.pt/1s/2001/04/092b00/23062313.pdf)
+[[[[[[[[[(ver modelo no documento original)](https://files.diariodarepublica.pt/1s/2001/04/092b00/23062313.pdf)](https://files.diariodarepublica.pt/1s/2001/04/092b00/23062313.pdf)](https://files.diariodarepublica.pt/1s/2001/04/092b00/23062313.pdf)](https://files.diariodarepublica.pt/1s/2001/04/092b00/23062313.pdf)](https://files.diariodarepublica.pt/1s/2001/04/092b00/23062313.pdf)](https://files.diariodarepublica.pt/1s/2001/04/092b00/23062313.pdf)](https://files.diariodarepublica.pt/1s/2001/04/092b00/23062313.pdf)](https://files.diariodarepublica.pt/1s/2001/04/092b00/23062313.pdf)](https://files.diariodarepublica.pt/1s/2001/04/092b00/23062313.pdf)
 
 MODELO II
 
 Modelo de certificados para sémen de suínos reprodutores de raça pura
 
-[(ver modelo no documento original)](https://files.diariodarepublica.pt/1s/2001/04/092b00/23062313.pdf)
+[[[[[[[[[(ver modelo no documento original)](https://files.diariodarepublica.pt/1s/2001/04/092b00/23062313.pdf)](https://files.diariodarepublica.pt/1s/2001/04/092b00/23062313.pdf)](https://files.diariodarepublica.pt/1s/2001/04/092b00/23062313.pdf)](https://files.diariodarepublica.pt/1s/2001/04/092b00/23062313.pdf)](https://files.diariodarepublica.pt/1s/2001/04/092b00/23062313.pdf)](https://files.diariodarepublica.pt/1s/2001/04/092b00/23062313.pdf)](https://files.diariodarepublica.pt/1s/2001/04/092b00/23062313.pdf)](https://files.diariodarepublica.pt/1s/2001/04/092b00/23062313.pdf)](https://files.diariodarepublica.pt/1s/2001/04/092b00/23062313.pdf)
 
 MODELO III
 
 Modelo de certificado para óvulos de suínos reprodutores de raça pura
 
-[(ver modelo no documento original)](https://files.diariodarepublica.pt/1s/2001/04/092b00/23062313.pdf)
+[[[[[[[[[(ver modelo no documento original)](https://files.diariodarepublica.pt/1s/2001/04/092b00/23062313.pdf)](https://files.diariodarepublica.pt/1s/2001/04/092b00/23062313.pdf)](https://files.diariodarepublica.pt/1s/2001/04/092b00/23062313.pdf)](https://files.diariodarepublica.pt/1s/2001/04/092b00/23062313.pdf)](https://files.diariodarepublica.pt/1s/2001/04/092b00/23062313.pdf)](https://files.diariodarepublica.pt/1s/2001/04/092b00/23062313.pdf)](https://files.diariodarepublica.pt/1s/2001/04/092b00/23062313.pdf)](https://files.diariodarepublica.pt/1s/2001/04/092b00/23062313.pdf)](https://files.diariodarepublica.pt/1s/2001/04/092b00/23062313.pdf)
 
 MODELO IV
 
 Modelo de certificados para embriões de suínos reprodutores de raça pura
 
-[(ver modelo no documento original)](https://files.diariodarepublica.pt/1s/2001/04/092b00/23062313.pdf)
+[[[[[[[[[(ver modelo no documento original)](https://files.diariodarepublica.pt/1s/2001/04/092b00/23062313.pdf)](https://files.diariodarepublica.pt/1s/2001/04/092b00/23062313.pdf)](https://files.diariodarepublica.pt/1s/2001/04/092b00/23062313.pdf)](https://files.diariodarepublica.pt/1s/2001/04/092b00/23062313.pdf)](https://files.diariodarepublica.pt/1s/2001/04/092b00/23062313.pdf)](https://files.diariodarepublica.pt/1s/2001/04/092b00/23062313.pdf)](https://files.diariodarepublica.pt/1s/2001/04/092b00/23062313.pdf)](https://files.diariodarepublica.pt/1s/2001/04/092b00/23062313.pdf)](https://files.diariodarepublica.pt/1s/2001/04/092b00/23062313.pdf)
 
 MODELO I-A
 
 Modelo de certificado para suínos reprodutores híbridos
 
-[(ver modelo no documento original)](https://files.diariodarepublica.pt/1s/2001/04/092b00/23062313.pdf)
+[[[[[[[[[(ver modelo no documento original)](https://files.diariodarepublica.pt/1s/2001/04/092b00/23062313.pdf)](https://files.diariodarepublica.pt/1s/2001/04/092b00/23062313.pdf)](https://files.diariodarepublica.pt/1s/2001/04/092b00/23062313.pdf)](https://files.diariodarepublica.pt/1s/2001/04/092b00/23062313.pdf)](https://files.diariodarepublica.pt/1s/2001/04/092b00/23062313.pdf)](https://files.diariodarepublica.pt/1s/2001/04/092b00/23062313.pdf)](https://files.diariodarepublica.pt/1s/2001/04/092b00/23062313.pdf)](https://files.diariodarepublica.pt/1s/2001/04/092b00/23062313.pdf)](https://files.diariodarepublica.pt/1s/2001/04/092b00/23062313.pdf)
 
 MODELO II-A
 
 Modelo de certificado para sémen de suínos reprodutores híbridos
 
-[(ver modelo no documento original)](https://files.diariodarepublica.pt/1s/2001/04/092b00/23062313.pdf)
+[[[[[[[[[(ver modelo no documento original)](https://files.diariodarepublica.pt/1s/2001/04/092b00/23062313.pdf)](https://files.diariodarepublica.pt/1s/2001/04/092b00/23062313.pdf)](https://files.diariodarepublica.pt/1s/2001/04/092b00/23062313.pdf)](https://files.diariodarepublica.pt/1s/2001/04/092b00/23062313.pdf)](https://files.diariodarepublica.pt/1s/2001/04/092b00/23062313.pdf)](https://files.diariodarepublica.pt/1s/2001/04/092b00/23062313.pdf)](https://files.diariodarepublica.pt/1s/2001/04/092b00/23062313.pdf)](https://files.diariodarepublica.pt/1s/2001/04/092b00/23062313.pdf)](https://files.diariodarepublica.pt/1s/2001/04/092b00/23062313.pdf)
 
 MODELO III-A
 
 Modelo de certificado para óvulos de suínos reprodutores híbridos
 
-[(ver modelo no documento original)](https://files.diariodarepublica.pt/1s/2001/04/092b00/23062313.pdf)
+[[[[[[[[[(ver modelo no documento original)](https://files.diariodarepublica.pt/1s/2001/04/092b00/23062313.pdf)](https://files.diariodarepublica.pt/1s/2001/04/092b00/23062313.pdf)](https://files.diariodarepublica.pt/1s/2001/04/092b00/23062313.pdf)](https://files.diariodarepublica.pt/1s/2001/04/092b00/23062313.pdf)](https://files.diariodarepublica.pt/1s/2001/04/092b00/23062313.pdf)](https://files.diariodarepublica.pt/1s/2001/04/092b00/23062313.pdf)](https://files.diariodarepublica.pt/1s/2001/04/092b00/23062313.pdf)](https://files.diariodarepublica.pt/1s/2001/04/092b00/23062313.pdf)](https://files.diariodarepublica.pt/1s/2001/04/092b00/23062313.pdf)
 
 MODELO IV-A
 
 Modelo de certificado para embriões de suínos reprodutores híbridos
 
-[(ver modelo no documento original)](https://files.diariodarepublica.pt/1s/2001/04/092b00/23062313.pdf)
+[[[[[[[[[(ver modelo no documento original)](https://files.diariodarepublica.pt/1s/2001/04/092b00/23062313.pdf)](https://files.diariodarepublica.pt/1s/2001/04/092b00/23062313.pdf)](https://files.diariodarepublica.pt/1s/2001/04/092b00/23062313.pdf)](https://files.diariodarepublica.pt/1s/2001/04/092b00/23062313.pdf)](https://files.diariodarepublica.pt/1s/2001/04/092b00/23062313.pdf)](https://files.diariodarepublica.pt/1s/2001/04/092b00/23062313.pdf)](https://files.diariodarepublica.pt/1s/2001/04/092b00/23062313.pdf)](https://files.diariodarepublica.pt/1s/2001/04/092b00/23062313.pdf)](https://files.diariodarepublica.pt/1s/2001/04/092b00/23062313.pdf)

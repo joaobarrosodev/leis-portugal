@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/2s/2009/11/230000000/4851748517.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -47,18 +47,18 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/declaracao-rectificacao/2923-2009-2004613
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2009-11-26T00:00:00Z'
+  retrieved_at: '2026-10-23T14:09:55Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 904f07f75d7c9186a4c40588efa7f3fc3dde815b498e41e0a270f8b28570ee0a
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: a3d655e7220fcb3910c4f717fcd8464decac7e4ccdf5a4b4f4ba6de7a9dfaf97
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T14:09:55Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,22 +66,26 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects: []
-relationships: []
+relationships:
+- type: cites
+  target: pt:dre:456200:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T14:09:55Z'
   warnings: []
   errors: []
 ---
 
-# Declaração de Rectificação n.º 2923/2009
+# Declaração de rectificação n.º 2923/2009
 
 Por ter sido publicado com imprecisão o despacho n.º 7068/2009, publicado no Diário da República, 2.ª série, n.º 46, de 6 de Março de 2009, referente ao curso de 1.º ciclo em História e Arqueologia da Universidade de Évora, rectifica-se que onde se lê:
 
@@ -100,3 +104,5 @@ deve ler-se:
 2 - A referida designação tem efeito a partir do ano lectivo de 2009-2010, inclusive, tendo sido, em conformidade com o artigo 75.º do [Decreto-Lei n.º 107/2008](https://diariodarepublica.pt/dr/detalhe/decreto-lei/107-2008-456200), de 25 de Junho, comunicada à Direcção-Geral do Ensino Superior em 19 de Janeiro de 2009»
 
 10 de Novembro de 2009. - A Vice-Reitora, Ana Maria Costa Freitas.
+
+202611223

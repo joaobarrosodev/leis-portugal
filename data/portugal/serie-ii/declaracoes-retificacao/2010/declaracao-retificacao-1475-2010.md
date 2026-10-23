@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/2s/2010/07/142000000/3979139791.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -46,18 +46,18 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/declaracao-rectificacao/1475-2010-1439112
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2010-07-23T00:00:00Z'
+  retrieved_at: '2026-10-23T14:17:54Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: cb0ecc5714b98db0e4d692c043edb7f6a88e0dc35af1b06d7e553e2c2e0ded27
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: caca98652b58c436b34aef5cc0727a2749823daf759907b5e72f85a6dba8fd7e
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T14:17:54Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -69,13 +69,13 @@ relationships: []
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T14:17:54Z'
   warnings: []
   errors: []
 ---
@@ -87,3 +87,5 @@ Declaração de rectificação n.º 1475/2010
 Por ter sido publicado com inexactidão o despacho n.º 6016/2010, publicado no Diário da República, 2.ª série, n.º 66, de 6 de Abril de 2010, rectifica-se que onde se lê «Despacho n.º 23 106/06, publicado no Diário da República, 2.ª série, n.º 218, de 13 de Novembro de 2006, e Rectificação n.º 1826/06, publicada no Diário da República, 2.ª série, n.º 231, de 30 de Novembro de 2006» deve ler-se «despacho n.º 15524/2008, publicado no Diário da República, 2.ª série, n.º 107, de 4 de Junho de 2008».
 
 26 de Maio de 2010. - A Directora, Violantina da Felicidade Valente Martins Hilário.
+
+203501632

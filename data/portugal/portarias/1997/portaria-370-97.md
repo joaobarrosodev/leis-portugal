@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/370/1997/06/06/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/370-1997-361891
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2000-07-14T00:00:00Z'
+  retrieved_at: '2026-10-23T14:02:18Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 5e5cb91281c6ce78a07c30ce47c3c0c440705633a99691233727647733815fa3
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 229ff6bad17b498c85b70b75b7ed2cca402c232162686ec6278e1bada3a4c673
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T14:02:18Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,31 +66,41 @@ reuse:
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
 - Ajuda Humanitária
-- Remuneração Acessória
+- Forças Armadas
+- Militar
 - Missão de PAZ
 - Missão Militar
 - Missão no Estrangeiro
-- Forças Armadas
-- Militar
+- Remuneração Acessória
 relationships:
 - type: amended_by
   target: pt:dre:319967:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:319967:por
+  label: "Actualizado o suplemento de missão para os anos de 1998 e de 1999 pela PORT.394/2000.2000.07.14.MDN DR.IS-B [161]\0\
+    \0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/394-2000-319967
+  date: '2000-07-14'
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/233/1996/12/07/p/dre
   label: null
   source: http://data.dre.pt/eli/dec-lei/233/1996/12/07/p/dre
+- type: cites
+  target: pt:dre:187081:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T14:02:18Z'
   warnings: []
   errors: []
 ---
@@ -119,9 +129,9 @@ Manda o Governo, pelos Ministros da Defesa Nacional e das Finanças, o seguinte:
 
 Ministérios da Defesa Nacional e das Finanças.
 
-**Assinada em 15 de Maio de 1997.**
+Assinada em 15 de Maio de 1997.
 
-**O Ministro da Defesa Nacional, António Manuel de Carvalho Ferreira Vitorino. - Pelo Ministro das Finanças, Maria Manuela de Brito Arcanjo Marques da Costa, Secretária de Estado do Orçamento.**
+O Ministro da Defesa Nacional, António Manuel de Carvalho Ferreira Vitorino. - Pelo Ministro das Finanças, Maria Manuela de Brito Arcanjo Marques da Costa, Secretária de Estado do Orçamento.
 
 TABELA A QUE SE REFERE O N.º 1.º
 

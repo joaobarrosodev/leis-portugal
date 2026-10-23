@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/780/1999/09/01/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/780-1999-581599
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1999-09-01T00:00:00Z'
+  retrieved_at: '2026-10-23T14:17:44Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 339151d4330fbbb1e537beaec98a8ec78ab9cd5519a43d3040909d2b58b0af60
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: f5cb16a1d9fc401336f0e8a31e89336b63c8e9c353dbff1ddb8825ba8e9df614
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T14:17:44Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -65,13 +65,28 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Ordenamento do Território
 - Covilhã
-- Política de Solos
+- Ordenamento do Território
 - Plano de Pormenor
+- Política de Solos
 - Regulamento
 - Zona Industrial
 relationships:
+- type: amended_by
+  target: pt:dre:3215474:por
+  label: Tornada pública a revogação das disposições constantes do Plano de Pormenor da Zona Industrial do Canhoso publicado
+    pela presente Portaria, pelo(a) Aviso n.º 11712/2012 - Diário da República n.º 170/2012, Série II de 2012-09-03 nos termos
+    do art. 41.º do seu Regulamento
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/aviso/11712-2012-3215474
+  date: '2012-09-03'
+- type: amended_by
+  target: pt:dre:126151701:por
+  label: Tornada pública, a aprovação, pelo prazo de 2 anos, prorrogável por mais um, a suspensão parcial do Plano de Pormenor
+    da Zona Industrial do Canhoso (PPZIC) e o estabelecimento de medidas preventivas, para a mesma área, no âmbito da alteração
+    do mesmo plano de pormenor, publicado pela presente portaria, pelo(a) Aviso n.º 18129/2019 - Diário da República n.º 219/2019,
+    Série II de 2019-11-14
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/aviso/18129-2019-126151701
+  date: '2019-11-14'
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-
   label: null
@@ -112,16 +127,80 @@ relationships:
   target: eli:http://data.dre.pt/eli/port/623/1996/10/31/p/dre
   label: null
   source: http://data.dre.pt/eli/port/623/1996/10/31/p/dre
+- type: cites
+  target: pt:dre:164053:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:179551:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:223464:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:257595:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:329816:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:329987:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:332410:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:332412:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:419647:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:430457:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:448167:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:475542:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:485448:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:546986:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:566071:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:644295:por
+  label: null
+  source: null
 article_structure:
   article_count: 60
   section_count: 9
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T14:17:44Z'
   warnings: []
   errors: []
 ---
@@ -144,7 +223,7 @@ Ao abrigo do disposto no n.º 4 do artigo 3.º e na alínea c) do n.º 1 do arti
 
 Manda o Governo, pelo Secretário de Estado da Administração Local e Ordenamento do Território, que seja ratificado o Plano de Pormenor da Zona Industrial do Canhoso, no município da Covilhã, cujo Regulamento, quadro resumo e planta de implantação se publicam em anexo à presente portaria, dela fazendo parte integrante.
 
-**O Secretário de Estado da Administração Local e Ordenamento do Território, José Augusto Clemente de Carvalho, em 12 de Agosto de 1999.**
+O Secretário de Estado da Administração Local e Ordenamento do Território, José Augusto Clemente de Carvalho, em 12 de Agosto de 1999.
 
 REGULAMENTO DO PLANO DE PORMENOR DA ZONA INDUSTRIAL DO CANHOSO
 

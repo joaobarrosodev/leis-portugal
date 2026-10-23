@@ -26,7 +26,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/2s/2010/08/158000000/4383943839.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -48,18 +48,18 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/declaracao-rectificacao/1629-2010-3265747
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2010-08-16T00:00:00Z'
+  retrieved_at: '2026-10-23T14:18:45Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: d9366408f07ff990149bd5464c9291a175867753769aad6d6e1898e3725bae77
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 78afb9784e1176d545c8bdd2f637246f9dec241be20743a4c7b80971fe3afa6d
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T14:18:45Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -71,13 +71,13 @@ relationships: []
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T14:18:45Z'
   warnings: []
   errors: []
 ---
@@ -89,3 +89,5 @@ Declaração de rectificação n.º 1629/2010
 Por ter saído com inexactidão o aviso n.º 14507/2010, respeitante ao procedimento concursal para o preenchimento de três postos de trabalho na carreira e categoria de técnico superior, do mapa de pessoal da Administração Regional de Saúde de Lisboa e Vale do Tejo, I. P., Serviços de Âmbito Regional, publicado no Diário da República, 2.ª série, n.º 141, de 22 de Julho de 2010, onde se lê «Presidente - Helena G. Gaspar F. Fernandes, técnica superior, dos Serviços de Âmbito Regional da ARSLVT, I. P.» deve ler -se «Presidente - Helena G. Gaspar F. Fernandes, coordenadora de unidade, equiparada a chefe de divisão, dos Serviços de Âmbito Regional da ARSLVT, I. P.».
 
 3 de Agosto de 2010. - O Presidente do Conselho Directivo, Rui Gentil de Portugal e Vasconcelos Fernandes.
+
+203585144

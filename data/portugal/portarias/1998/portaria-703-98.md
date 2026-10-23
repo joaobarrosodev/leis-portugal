@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/703/1998/09/04/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/703-1998-567693
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2005-10-13T00:00:00Z'
+  retrieved_at: '2026-10-23T14:10:40Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 75ad7707df362c3d6779a5992042a4debde3c4717dd10be5f6abcd43815067a0
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 7f3cf59e60bff9f2ad8fbbd81bc9582a0b0277caa4fc8abee3a0d9fe787f007a
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T14:10:40Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,18 +66,30 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Plano de Estudos
 - Curso de Arquitectura
 - Ensino Particular
+- Ensino Superior
 - Licenciatura
 - Numerus Clausus
-- Ensino Superior
+- Plano de Estudos
 - Universidade Autónoma de Lisboa LUÍS de Camões
 relationships:
 - type: amended_by
   target: pt:dre:156858:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:615869:por
+  label: "Alterado o plano de estudos do curso de licenciatura em Arquitectura, cujo funcionamento foi autorizado pelo presente\
+    \ diploma, pela PORT.1094/2000.2000.11.16.ME DR.IS-B [265]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/1094-2000-615869
+  date: '2000-11-16'
+- type: amended_by
+  target: pt:dre:156858:por
+  label: "Alterado o plano de estudos constante do anexo deste diploma, com a redacção conferida pela Port 1094/2000 de 16-Nov,\
+    \ pela PORT.1045/2005.13.10.2005.MCTES, DR.IS-B [197] de 13.10.2005\005\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/1045-2005-156858
+  date: '2005-10-13'
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/16/1994/01/22/p/dre
   label: null
@@ -94,16 +106,36 @@ relationships:
   target: eli:http://data.dre.pt/eli/lei/37/1994/11/11/p/dre
   label: null
   source: http://data.dre.pt/eli/lei/37/1994/11/11/p/dre
+- type: cites
+  target: pt:dre:187955:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:314396:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:512030:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:526782:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:533820:por
+  label: null
+  source: null
 article_structure:
   article_count: 1
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T14:10:40Z'
   warnings: []
   errors: []
 ---
@@ -172,7 +204,7 @@ O número de vagas para a candidatura à matrícula e inscrição no ano lectivo
 
 Ministério da Educação.
 
-**Assinada em 7 de Agosto de 1998.**
+Assinada em 7 de Agosto de 1998.
 
 Pelo Ministro da Educação, Alfredo Jorge Silva, Secretário de Estado do Ensino Superior.
 

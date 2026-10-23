@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/121/1999/02/15/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/121-1999-171510
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2002-05-10T00:00:00Z'
+  retrieved_at: '2026-10-23T14:13:22Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: f01f3f0f455e71cce7b789c10c98c63032b29b244f8eaf9ebaf58965052945d7
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: fd9243c26805f78841af97b0a9ba585a837d3c0a36aa3ecab0ad690607dd0f33
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T14:13:22Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -68,21 +68,33 @@ reuse:
 subjects:
 - Alvará
 - ÁREA Geográfica
-- Radiocomunicações
+- Comunicações
 - Definição de Competências
+- Equipamento de Transmissão
 - Instituto das Comunicações de Portugal
 - Licenciamento
+- Radiocomunicações
 - Radiodifusão
-- Serviço Público
-- Comunicações
 - Segurança das Instalações
-- Equipamento de Transmissão
+- Serviço Público
 - Vistoria
 relationships:
 - type: amended_by
   target: pt:dre:368664:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:386239:por
+  label: "Mantida em vigor pela LEI.4/2001.2001.02.23.AR, DR.IS-A [46], salvo quanto ás disposições contrárias ao estabelecido\
+    \ na referida Lei\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/lei/4-2001-386239
+  date: '2001-02-23'
+- type: amended_by
+  target: pt:dre:368664:por
+  label: "Mantida em vigor pelo DEC LEI.126/2002.2002.05.10.MES, DR.IS-A [108], até à publicação do aviso a que se refere\
+    \ o art. 3º do mesmo diploma. \0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/126-2002-368664
+  date: '2002-05-10'
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/130/1997/05/27/p/dre
   label: null
@@ -95,16 +107,44 @@ relationships:
   target: eli:http://data.dre.pt/eli/lei/91/1997/08/01/p/dre
   label: null
   source: http://data.dre.pt/eli/lei/91/1997/08/01/p/dre
+- type: cites
+  target: pt:dre:141831:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:242189:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:347689:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:355960:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:377928:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:502185:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:582407:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T14:13:22Z'
   warnings: []
   errors: []
 ---
@@ -375,9 +415,9 @@ c) Os períodos de interrupção anormal do funcionamento dos equipamentos da es
 
 Ministério do Equipamento, do Planeamento e da Administração do Território.
 
-**Assinada em 18 de Janeiro de 1999.**
+Assinada em 18 de Janeiro de 1999.
 
-**O Ministro do Equipamento, do Planeamento e da Administração do Território, João Cardona Gomes Cravinho.**
+O Ministro do Equipamento, do Planeamento e da Administração do Território, João Cardona Gomes Cravinho.
 
 ## ANEXO I — Ficha de identificação do projecto de estação emissora de radiodifusão
 
@@ -541,7 +581,7 @@ Quando duas estações funcionam em canais adjacentes com larguras de faixa ou c
 
 1.2.2.1 - Os valores do campo utilizável, expressos em decibéis (uV/m), são os indicados no quadro a seguir:
 
-[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/1999/02/038b00/07880796.pdf)
+[[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/1999/02/038b00/07880796.pdf)](https://files.diariodarepublica.pt/1s/1999/02/038b00/07880796.pdf)
 
 2 - Ondas métricas:
 
@@ -549,7 +589,7 @@ Quando duas estações funcionam em canais adjacentes com larguras de faixa ou c
 
 2.1.1 - Relações de protecção para a radiodifusão na faixa de frequências 87,5 MHz-108 MHz:
 
-[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/1999/02/038b00/07880796.pdf)
+[[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/1999/02/038b00/07880796.pdf)](https://files.diariodarepublica.pt/1s/1999/02/038b00/07880796.pdf)
 
 As relações de protecção relativas às interferências troposféricas garantem uma recepção satisfatória durante 99% do tempo.
 

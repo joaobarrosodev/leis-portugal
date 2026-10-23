@@ -19,12 +19,12 @@ publication:
   reference: Diário da República n.º 292/2000, 4º Suplemento, Série I-B de 2000-12-20
   number: '292'
   series: I
-  supplement: 4º Suplemento
+  supplement: null
   pages: 7408-(52) a 7408-(52)
   pdf_url: https://files.diariodarepublica.pt/1s/2000/12/292b04/00520052.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/1200-b/2000/12/20/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/1200-b-2000-667907
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2008-02-01T00:00:00Z'
+  retrieved_at: '2026-10-23T14:20:30Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: f4c794e0d34ae0b7e42c726181dbe754c901f77acf17bb719fa16dae381dbf64
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: ac213313166f57dbd0f1372acf107dcaa349185629ed90a5cdf641e19afe9fb1
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T14:20:30Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -65,19 +65,35 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Educação
-- Criação de Serviços
 - Ação Social
+- Centro Educativo
+- Criação de Serviços
+- Educação
+- Inserção Social
 - Medida Tutelar Educativa
 - Medidas Preventivas
 - Menoridade
-- Inserção Social
-- Centro Educativo
 relationships:
 - type: amended_by
   target: pt:dre:248226:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:248223:por
+  label: "Transferidos para o Instituto da Segurança Social, I. P. (ISS, I. P.), os Centros Educativos de São José, em Viseu,\
+    \ de São Fiel, em Louriçal do Campo, Castelo Branco, e Dr. Alberto do Souto, em Aveiro, criados pelo presente diploma,\
+    \ pela Port 101/2008, de 01-Fev DR. IS [23] \0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/101-2008-248223
+  date: '2008-02-01'
+- type: amended_by
+  target: pt:dre:248226:por
+  label: "Extintos, com efeitos a partir de 01.01.2008, o Centro Educativo de Corpus Christi, em Vila Nova de Gaia, Centro\
+    \ Educativo de São José, em Viseu, Centro Educativo de São Fiel, em Louriçal do Campo, Castelo Branco, Centro Educativo\
+    \ Dr. Alberto do Souto, em Aveiro, Centro Educativo de São Bernardino, em Atouguia da Baleia, Peniche e Centro Educativo\
+    \ de Vila Fernando, em Vila Fernando, Elvas criados pelo presente diploma, ora revogado pela PORT.102/2008.01.02.2008.MJ,\
+    \ DR.IS [23] de 01.02.2008\08\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/102-2008-248226
+  date: '2008-02-01'
 - type: cites
   target: eli:http://data.dre.pt/eli/lei/166/1999/09/14/p/dre
   label: null
@@ -86,16 +102,24 @@ relationships:
   target: eli:http://data.dre.pt/eli/resolconsmin/108/2000/08/19/p/dre
   label: null
   source: http://data.dre.pt/eli/resolconsmin/108/2000/08/19/p/dre
+- type: cites
+  target: pt:dre:324374:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:570567:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T14:20:30Z'
   warnings: []
   errors: []
 ---

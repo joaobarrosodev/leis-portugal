@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/168/1998/03/16/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/168-1998-186561
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2010-06-16T00:00:00Z'
+  retrieved_at: '2026-10-23T14:07:09Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 449ca56034a73fde6dfdd64d226a287d6c62db927cdfb6abf0ef126d3437720e
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 8a017552c0c11e37de91614ff8b69b7f1a7dd08c5176ffd429c6474b4b4a4203
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T14:07:09Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -73,6 +73,44 @@ relationships:
   target: pt:dre:335687:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:355156:por
+  label: "Anexados vários prédios rústicos pela PORT.370/2001.2001.04.10.MADRP, DR.IS-B [85]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/370-2001-355156
+  date: '2001-04-10'
+- type: amended_by
+  target: pt:dre:187701:por
+  label: "Anexados vários prédios rústicos à zona de caça associativa pela PORT.861/2002.2002.07.19.MADRP, DR.IS-B [165]\0\
+    \0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/861-2002-187701
+  date: '2002-07-19'
+- type: amended_by
+  target: pt:dre:209623:por
+  label: "Suspenso o exercício da caça e das actividades de carácter venatório na zona de caça associativa concessionada pelo\
+    \ presente diploma, alterado pelas Portarias n.os 370/2001, de 10 de Abril, e 861/2002, de 19 de Julho, pela PORT.309/2004.23.03.2004.MADRP,\
+    \ DR.IS-B [70] de 23.03.2004\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/309-2004-209623
+  date: '2004-03-23'
+- type: amended_by
+  target: pt:dre:271265:por
+  label: "Renovada por seis anos a concessão da zona de caça associativa atribuída pelo presente diploma, com a redacção das\
+    \ Port 370/2001 de 10-Abr e 861/2002 de 19-Jul, pela PORT.700/2004.24.06.2004.MADRP, DR.IS-B [147] de 24.06.2004\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/700-2004-271265
+  date: '2004-06-24'
+- type: amended_by
+  target: pt:dre:248018:por
+  label: "Anexados vários prédios rústicos à zona de caça associativa concessionada pelo presente diploma, alterado pela Port\
+    \ 370/2001, de 10-Abr, pela Port 861/2002, de 19-Jul e pela Port 700/2004, de 24-Jun, pela PORT.148/2008.14.02.2008.MADRP,\
+    \ DR.IS [32] de 14.02.2008\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/148-2008-248018
+  date: '2008-02-14'
+- type: amended_by
+  target: pt:dre:335687:por
+  label: "Renovado, por um período de seis anos, a concessão da zona de caça associativa concessionada pelo presente diploma,\
+    \ renovada pelas Port 370/2001 de 10-Abr, 861/2002 de 19-Jul e 700/2004 de 24-Jun, pela PORT.327/2010.16.06.2010.MADRP,\
+    \ DR.IS [115] de 16.06.2010\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/327-2010-335687
+  date: '2010-06-16'
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/136/1996/08/14/p/dre
   label: null
@@ -81,16 +119,36 @@ relationships:
   target: eli:http://data.dre.pt/eli/port/219-a/1991/03/18/p/dre
   label: null
   source: http://data.dre.pt/eli/port/219-a/1991/03/18/p/dre
+- type: cites
+  target: pt:dre:219134:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:354162:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:405765:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:619925:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:620697:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T14:07:09Z'
   warnings: []
   errors: []
 ---
@@ -125,7 +183,7 @@ Manda o Governo, pelo Ministro da Agricultura, do Desenvolvimento Rural e das Pe
 
 Ministério da Agricultura, do Desenvolvimento Rural e das Pescas.
 
-**Assinada em 19 de Fevereiro de 1998.**
+Assinada em 19 de Fevereiro de 1998.
 
 Pelo Ministro da Agricultura, do Desenvolvimento Rural e das Pescas, Luís Manuel Capoulas Santos, Secretário de Estado da Agricultura e do Desenvolvimento Rural.
 

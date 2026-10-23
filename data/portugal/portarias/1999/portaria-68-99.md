@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/68/1999/01/28/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/68-1999-180602
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2003-02-05T00:00:00Z'
+  retrieved_at: '2026-10-23T14:17:03Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: c5fffd6627bfddbdfed867d40348fd04218ab05bb80435749701751ea91f8900
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 682cac71cca62b974a2c28092d03e4c26011f9f814dca48441387e8df8b14598
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T14:17:03Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,8 +66,8 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Doença Animal
 - Controlo Sanitário
+- Doença Animal
 - Exploração Pecuária
 - Regulamento
 - Regulamento de Constituição Funcionamento e Organização dos Produtores Pecuários para Defesa Sanitária dos Ruminantes
@@ -89,16 +89,42 @@ relationships:
   target: eli:http://data.dre.pt/eli/port/769/1992/08/07/p/dre
   label: null
   source: http://data.dre.pt/eli/port/769/1992/08/07/p/dre
+- type: cites
+  target: pt:dre:283887:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:356732:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:643502:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:667171:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:674035:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:200418:por
+  label: "Revogada a Port 1088/97 de 30-Out, com a redacção dada pela presente, pela PORT.122/2003.2003.02.05.MADRP DR.IS-B\
+    \ [30]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/122-2003-200418
+  date: '2003-02-05'
 article_structure:
-  article_count: 24
+  article_count: 19
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T14:17:03Z'
   warnings: []
   errors: []
 ---
@@ -129,7 +155,7 @@ Manda o Governo, pelo Ministro da Agricultura, do Desenvolvimento Rural e das Pe
 
 2 - No caso de o criador não se encontrar integrado numa OPP nem ser reconhecido como PI suportará os custos das acções sanitárias a executar pelo médico veterinário por si escolhido, ao qual competem, análoga e adaptadamente, todas as obrigações previstas nas alíneas a) a e) do artigo 10.º e nas alíneas b) a f) e i) do artigo 15.º, sendo da competência da direcção regional de agricultura respectiva a obrigação prevista na alínea h) da mesma norma.
 
-###### Artigo 3.º
+Artigo 3.º
 
 1 - ...
 
@@ -139,7 +165,7 @@ Manda o Governo, pelo Ministro da Agricultura, do Desenvolvimento Rural e das Pe
 
 4 - (Anterior n.º 3.)
 
-###### Artigo 6.º
+Artigo 6.º
 
 1 - ...
 
@@ -155,7 +181,7 @@ d) [Anterior alínea c).]
 
 3 - ...
 
-###### Artigo 7.º
+Artigo 7.º
 
 1 - ...
 
@@ -191,7 +217,7 @@ g) Identificação dos médicos veterinários executores acreditados.
 
 5 - Por razões de natureza sanitária e mediante proposta da direcção regional de agricultura competente, a Direcção-Geral de Veterinária poderá determinar que o número máximo de animais sob responsabilidade sanitária de cada médico veterinário acreditado seja alterado.
 
-###### Artigo 8.º
+Artigo 8.º
 
 1 - ...
 
@@ -209,7 +235,7 @@ c) Tratando-se de criador não integrado numa OPP, não reconhecido como PI ou q
 
 5 - (Anterior n.º 3.)
 
-###### Artigo 18.º
+Artigo 18.º
 
 ...
 
@@ -235,7 +261,7 @@ h) Pela prestação de serviços efectuada aos produtores não integrados em OPP
 
 Ministério da Agricultura, do Desenvolvimento Rural e das Pescas.
 
-**Assinada em 16 de Dezembro de 1998.**
+Assinada em 16 de Dezembro de 1998.
 
 Pelo Ministro da Agricultura, do Desenvolvimento Rural e das Pescas, Luís Medeiros Vieira, Secretário de Estado da Modernização Agrícola e da Qualidade Alimentar.
 

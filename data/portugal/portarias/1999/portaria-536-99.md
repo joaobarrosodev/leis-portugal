@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/536/1999/07/23/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/536-1999-352570
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2003-07-30T00:00:00Z'
+  retrieved_at: '2026-10-23T14:16:08Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 9bbfc4e06fd2bc37958f076497686ff6a9df76114419233ba556b45f415e8ca3
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: e0a44843c3d95f378839be3e4d8f00f9ee0361eda69b7a0f0304215cc83cd9bc
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T14:16:08Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -65,28 +65,57 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Ministério da Agricultura Desenvolvimento Rural e Pescas
 - Direção Geral de Veterinária
+- Ministério da Agricultura Desenvolvimento Rural e Pescas
 - Quadro de Pessoal
 relationships:
 - type: amended_by
   target: pt:dre:2025282:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:3304359:por
+  label: "Alterado o quadro de pessoal pela PORT.1535/2001(2ªSÉRIE).2001.05.17.MADRP DR.IIS [215] de 15/Set/2001\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/1535-2001-3304359
+  date: '2001-05-17'
+- type: amended_by
+  target: pt:dre:583820:por
+  label: "Substituído o quadro de pessoal pela PORT.1220/2001.2001.10.24.MF DR.IS-B [247]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/1220-2001-583820
+  date: '2001-10-24'
+- type: amended_by
+  target: pt:dre:786578:por
+  label: "ALTERADO O QUADRO DE PESSOAL PELA PORT.1369/2002(2ªSÉRIE).2002.08.14.MF, MADRP, DR.IIS [207] DE 7/SET/2002\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/1369-2002-786578
+  date: '2002-08-14'
+- type: amended_by
+  target: pt:dre:2221268:por
+  label: "ALTERADO O QUADRO DE PESSOAL POR PORT.366/2003(2ªSÉRIE).2003.03.10.MF, MADRP, DR.IIS [74] DE 28/MAR/2003\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/366-2003-2221268
+  date: '2003-03-10'
+- type: amended_by
+  target: pt:dre:2025282:por
+  label: "Alterado o quadro de pessoal pela PORT.985/2003(2ªSÉRIE).2003.07.07.MF e MADRP, DR.IIS [174] de 30/Jul/2003. \0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/985-2003-2025282
+  date: '2003-07-30'
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/106/1997/05/02/p/dre
   label: null
   source: http://data.dre.pt/eli/dec-lei/106/1997/05/02/p/dre
+- type: cites
+  target: pt:dre:381752:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T14:16:08Z'
   warnings: []
   errors: []
 ---
@@ -111,13 +140,13 @@ Pelo Ministro das Finanças, João Carlos da Costa Ferreira da Silva, Secretári
 
 ## ANEXO I — MAPA I
 
-[(ver mapa no documento original)](https://files.diariodarepublica.pt/1s/1999/07/170b00/46174621.pdf)
+[[(ver mapa no documento original)](https://files.diariodarepublica.pt/1s/1999/07/170b00/46174621.pdf)](https://files.diariodarepublica.pt/1s/1999/07/170b00/46174621.pdf)
 
 MAPA II
 
 Carreiras e categorias a extinguir
 
-[(ver mapa no documento original)](https://files.diariodarepublica.pt/1s/1999/07/170b00/46174621.pdf)
+[[(ver mapa no documento original)](https://files.diariodarepublica.pt/1s/1999/07/170b00/46174621.pdf)](https://files.diariodarepublica.pt/1s/1999/07/170b00/46174621.pdf)
 
 ## ANEXO II — Conteúdo funcional da carreira técnico-profissional
 

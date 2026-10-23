@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/2s/2010/08/158000000/4393943939.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -47,18 +47,18 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/declaracao-rectificacao/1643-2010-3266175
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2010-08-16T00:00:00Z'
+  retrieved_at: '2026-10-23T14:18:50Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: cd060a60d4e60e612a5df9547cd6783b924955b75b262d69840d6d25c642693f
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 0635a0ef6ea4ab0b395823e8c0289acf45dfdd492fc9e97bf2d5742fce7792f2
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T14:18:50Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -70,13 +70,13 @@ relationships: []
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T14:18:50Z'
   warnings: []
   errors: []
 ---
@@ -91,10 +91,12 @@ Por não ter sido publicado como anexo ao referido regulamento, procede-se agora
 
 Calendário da 1.ª fase dos concursos aos regimes de mudança de curso, transferência e reingresso para o ano 2010
 
-[([ver documento original](https://files.diariodarepublica.pt/2s/2010/08/158000000/4393943939.pdf))](https://files.diariodarepublica.pt/2s/2010/08/158000000/4393943939.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/2s/2010/08/158000000/4393943939.pdf)
 
 Calendário da 2.ª fase (1) dos concursos aos regimes de mudança de curso, transferência e reingresso para o ano 2010
 
-[([ver documento original](https://files.diariodarepublica.pt/2s/2010/08/158000000/4393943939.pdf))](https://files.diariodarepublica.pt/2s/2010/08/158000000/4393943939.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/2s/2010/08/158000000/4393943939.pdf)
 
 9 de Agosto de 2010. - O Presidente, Vito José de Jesus Carioca.
+
+203584334

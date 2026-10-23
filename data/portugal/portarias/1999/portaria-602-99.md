@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/602/1999/08/04/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/602-1999-426750
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1999-08-31T00:00:00Z'
+  retrieved_at: '2026-10-23T14:16:33Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 52134692fb1ac5aec9c14966ed0b7b0d7cff70007364ac90f32c2df676a9c2bb
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 2ae772e9d84e5b3aca826c62f7858bea2ad16f0ea785d2ddcc19f7e2059bfca7
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T14:16:33Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,6 +67,8 @@ reuse:
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
 - Academia da Força Aérea
+- Academia Militar
+- Concurso Local de Acesso
 - Curso de Ciências Militares
 - Curso de Ciências Militares Navais
 - Curso de Contabilidade e Administração
@@ -76,12 +78,10 @@ subjects:
 - Curso de Farmácia
 - Curso de Fisioterapia
 - Curso de Radiologia
-- Concurso Local de Acesso
+- Ensino Superior
 - Escola do Serviço de Saúde Militar
-- Academia Militar
 - Instituto Militar dos Pupilos do Exército
 - Numerus Clausus
-- Ensino Superior
 relationships:
 - type: amended_by
   target: pt:dre:431634:por
@@ -95,16 +95,29 @@ relationships:
   target: eli:http://data.dre.pt/eli/dec-lei/99/1999/03/30/p/dre
   label: null
   source: http://data.dre.pt/eli/dec-lei/99/1999/03/30/p/dre
+- type: cites
+  target: pt:dre:138571:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:173481:por
+  label: null
+  source: null
+- type: corrected_by
+  target: pt:dre:431634:por
+  label: "Rectificada pela DECL-RECT.13-I/99.1999.08.31.PCM, DR.IS-B [203]3ºSUPL\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/declaracao-rectificacao/13-i-1999-431634
+  date: '1999-08-31'
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T14:16:33Z'
   warnings: []
   errors: []
 ---
@@ -123,7 +136,7 @@ Manda o Governo, pelos Ministros da Defesa Nacional e da Educação, o seguinte:
 
 Em 7 de Julho de 1999.
 
-**O Ministro da Defesa Nacional, Jaime José Matos da Gama. - Pelo Ministro da Educação, Alfredo Jorge Silva, Secretário de Estado do Ensino Superior.**
+O Ministro da Defesa Nacional, Jaime José Matos da Gama. - Pelo Ministro da Educação, Alfredo Jorge Silva, Secretário de Estado do Ensino Superior.
 
 ## ANEXO — Vagas
 

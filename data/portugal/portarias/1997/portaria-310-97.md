@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1997/05/109b00/22922294.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/310/1997/05/12/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/310-1997-385259
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1998-06-23T00:00:00Z'
+  retrieved_at: '2026-10-23T14:01:57Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 20611068dff92883441ca69aeab57ea83876487d2e0166fe087df45a6d2efc07
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 6566759504763e2efbbc586baddf7049825ea673109d2acb532179ca3f0faf51
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T14:01:57Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,10 +67,10 @@ reuse:
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
 - Aeroporto
-- Transporte Aéreo
 - ANA
 - Taxa
 - Taxa Aeroportuária
+- Transporte Aéreo
 relationships:
 - type: amended_by
   target: pt:dre:480317:por
@@ -80,16 +80,29 @@ relationships:
   target: eli:http://data.dre.pt/eli/port/202/1996/06/05/p/dre
   label: null
   source: http://data.dre.pt/eli/port/202/1996/06/05/p/dre
+- type: cites
+  target: pt:dre:333343:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:437437:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:480317:por
+  label: "Revogada pela PORT.352/98.1998.06.23.MEPAT DR.IS-B [142]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/352-1998-480317
+  date: '1998-06-23'
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T14:01:57Z'
   warnings: []
   errors: []
 ---
@@ -118,12 +131,12 @@ Manda o Governo, pelo Ministro do Equipamento, do Planeamento e da Administraç�
 
 1.º A tabela das taxas aeronáuticas a aplicar nos aeroportos sob responsabilidade da empresa pública Aeroportos e Navegação Aérea - ANA, E. P., às quais acrescerá o IVA, é discriminada nos números seguintes:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1997/05/109b00/22922294.pdf))](https://files.diariodarepublica.pt/1s/1997/05/109b00/22922294.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1997/05/109b00/22922294.pdf)
 
 2.º É revogada a [Portaria n.º 202/96](https://diariodarepublica.pt/dr/detalhe/portaria/202-1996-437437), de 5 de Junho.
 
 Ministério do Equipamento, do Planeamento e da Administração do Território.
 
-**Assinada em 28 de Abril de 1997.**
+Assinada em 28 de Abril de 1997.
 
-**O Ministro do Equipamento, do Planeamento e da Administração do Território, João Cardona Gomes Cravinho.**
+O Ministro do Equipamento, do Planeamento e da Administração do Território, João Cardona Gomes Cravinho.

@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/283/1997/05/02/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/283-1997-382188
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2001-03-08T00:00:00Z'
+  retrieved_at: '2026-10-23T14:01:47Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 025ffe2cc07af142481a0d51d73166b4c051bb5722b4b0c32258a5886e6ff5eb
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 6467b50a903a9bd9f3472f93273e18e2e6717a754a46b99c58519c3d9c922b06
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T14:01:47Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -73,6 +73,11 @@ relationships:
   target: pt:dre:626208:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:626208:por
+  label: "Alterado o quadro de pessoal pela PORT.175-A/2001.2001.03.08.MAI, DR.IS-B [57]Supl\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/175-a-2001-626208
+  date: '2001-03-08'
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/154/1996/08/31/p/dre
   label: null
@@ -81,16 +86,24 @@ relationships:
   target: eli:http://data.dre.pt/eli/dec-lei/227/1995/09/11/p/dre
   label: null
   source: http://data.dre.pt/eli/dec-lei/227/1995/09/11/p/dre
+- type: cites
+  target: pt:dre:241400:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:561468:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T14:01:47Z'
   warnings: []
   errors: []
 ---
@@ -109,7 +122,7 @@ Manda o Governo, pelos Ministros das Finanças, da Administração Interna e Adj
 
 Presidência do Conselho de Ministros e Ministérios das Finanças e da Administração Interna.
 
-**Assinada em 31 de Março de 1997.**
+Assinada em 31 de Março de 1997.
 
 Pelo Ministro das Finanças, Maria Manuela de Brito Arcanjo Marques da Costa, Secretária de Estado do Orçamento. - O Ministro da Administração Interna, Alberto Bernardes Costa. - Pelo Ministro Adjunto, Fausto de Sousa Correia, Secretário de Estado da Administração Pública.
 
@@ -117,11 +130,11 @@ MAPA I
 
 Pessoal de inspecção
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1997/05/101b00/20172018.pdf))](https://files.diariodarepublica.pt/1s/1997/05/101b00/20172018.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1997/05/101b00/20172018.pdf)
 
 MAPA II
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1997/05/101b00/20172018.pdf))](https://files.diariodarepublica.pt/1s/1997/05/101b00/20172018.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1997/05/101b00/20172018.pdf)
 
 MAPA III
 

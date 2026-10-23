@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/457/1997/07/11/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/457-1997-155250
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1997-07-11T00:00:00Z'
+  retrieved_at: '2026-10-23T14:02:53Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: ce5e7f8135b18a3a01e48101b9aabc6e6b35c1841b545b36f2836c729a0c4f23
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: ca9c93a9435cd6cc5dce5a3f9817e23d96374610b9bd757143a5ad34b5417f1b
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T14:02:53Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,11 +67,11 @@ reuse:
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
 - Admissão de Pessoal
-- Marinha
-- Pessoal Civil
-- Incapacidade Física
-- Militar
 - Doença
+- Incapacidade Física
+- Marinha
+- Militar
+- Pessoal Civil
 relationships:
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/250/1992/11/11/p/dre
@@ -81,16 +81,24 @@ relationships:
   target: eli:http://data.dre.pt/eli/port/543/1993/05/26/p/dre
   label: null
   source: http://data.dre.pt/eli/port/543/1993/05/26/p/dre
+- type: cites
+  target: pt:dre:283150:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:585202:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T14:02:53Z'
   warnings: []
   errors: []
 ---
@@ -109,12 +117,12 @@ Manda o Governo, pelo Ministro da Defesa Nacional, ao abrigo do artigo 1.º do [
 
 «ANEXO A
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1997/07/158b00/34053405.pdf))](https://files.diariodarepublica.pt/1s/1997/07/158b00/34053405.pdf)»
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1997/07/158b00/34053405.pdf)»
 
 2.º A presente portaria produz efeitos a partir de 1 de Março de 1997.
 
 Ministério da Defesa Nacional.
 
-**Assinada em 9 de Junho de 1997.**
+Assinada em 9 de Junho de 1997.
 
 Pelo Ministro da Defesa Nacional, José Júlio Pereira Gomes, Secretário de Estado da Defesa Nacional.

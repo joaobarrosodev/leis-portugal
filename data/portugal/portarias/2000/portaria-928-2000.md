@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/928/2000/10/02/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/928-2000-552835
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2009-03-18T00:00:00Z'
+  retrieved_at: '2026-10-23T14:26:51Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: b1f446598fa7ead3baa3e54045f636f77ccce3cab18af16040af42007958b981
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 60e1ef9a5029045a004ae2364ce3830bf333736f8e396e314fd95025ef10b837
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T14:26:51Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,21 +66,33 @@ reuse:
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
 - Ajuda Comunitária
-- Recursos Hídricos
+- Aproveitamento Hidroagrícola
 - Barragem
 - Expropriação
-- Aproveitamento Hidroagrícola
+- Ifadap
 - Obras Públicas
 - Política Agrícola
-- Regulamento
 - Programa AGRO
-- Ifadap
+- Recursos Hídricos
+- Regulamento
 - Unidade de Gestão
 relationships:
 - type: amended_by
   target: pt:dre:605350:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:265524:por
+  label: "Alterado o art. 3º, pela PORT.243/2002.2002.03.12.MADRP, DR.IS-B [60]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/243-2002-265524
+  date: '2002-03-12'
+- type: amended_by
+  target: pt:dre:605350:por
+  label: "Alterado o art. 3º do Regulamento de Aplicação da Medida n.º 4, «Gestão e Infra-Estruturas Hidro-Agrícolas», do\
+    \ Programa Agro, com a redacção que lhe foi conferida pela Port 243/2002 de 12-Mar, pela PORT.281/2009.18.03.2009.MADRP,\
+    \ DR.IS [54] de 18.03.2009\009\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/281-2009-605350
+  date: '2009-03-18'
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/163-a/2000/07/27/p/dre
   label: null
@@ -89,16 +101,28 @@ relationships:
   target: eli:http://data.dre.pt/eli/dec-lei/54-a/2000/04/07/p/dre
   label: null
   source: http://data.dre.pt/eli/dec-lei/54-a/2000/04/07/p/dre
+- type: cites
+  target: pt:dre:220892:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:249799:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:394557:por
+  label: null
+  source: null
 article_structure:
   article_count: 14
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T14:26:51Z'
   warnings: []
   errors: []
 ---
@@ -117,7 +141,7 @@ Assim, ao abrigo do disposto no n.º 1 do artigo 21.º do [Decreto-Lei n.º 163-
 
 Manda o Governo, pelo Ministro da Agricultura, do Desenvolvimento Rural e das Pescas, que seja aprovado o Regulamento de Aplicação da Medida 4 - Gestão e Infra-Estruturas Hidro-Agrícolas do Programa Operacional Agricultura e Desenvolvimento Rural, abreviadamente designado por Programa AGRO, em anexo ao presente diploma e do qual faz parte integrante.
 
-**O Ministro da Agricultura, do Desenvolvimento Rural e das Pescas, Luís Manuel Capoulas Santos, em 11 de Setembro de 2000.**
+O Ministro da Agricultura, do Desenvolvimento Rural e das Pescas, Luís Manuel Capoulas Santos, em 11 de Setembro de 2000.
 
 ## ANEXO — REGULAMENTO DE APLICAÇÃO DA MEDIDA 4 - GESTÃO E INFRA-ESTRUTURAS HIDRO-AGRÍCOLAS
 

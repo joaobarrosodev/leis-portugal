@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1998/07/170b00/35523556.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/425/1998/07/25/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/425-1998-428627
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1998-07-25T00:00:00Z'
+  retrieved_at: '2026-10-23T14:08:50Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 0a23404c45f4f14eb02e129a3f3e54ab55be2e647b081727bde273278a6d8b08
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 088195f12bd9ef346a2692584f7e1528aa7d794a6e10bb29d0afbe14f0d6e0d1
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T14:08:50Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,27 +66,32 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Etiquetagem
-- Indústria da Panificação
-- Farinha
 - Aditivo Alimentar
-- Proteção do Consumidor
 - Comércio
+- Etiquetagem
+- Farinha
+- Indústria da Panificação
+- Proteção do Consumidor
 relationships:
 - type: cites
   target: eli:/application/external/tratado
   label: null
   source: /application/external/tratado
+- type: repealed_by
+  target: pt:dre:66603017:por
+  label: Revogada pelo(a) Portaria n.º 52/2015 - Diário da República n.º 40/2015, Série I de 2015-02-26
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/52-2015-66603017
+  date: '2015-02-26'
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T14:08:50Z'
   warnings: []
   errors: []
 ---
@@ -373,6 +378,6 @@ O presente diploma entra imediatamente em vigor, sem prejuízo do fabrico e come
 
 Presidência do Conselho de Ministros e Ministérios da Economia, da Agricultura, do Desenvolvimento Rural e das Pescas e da Saúde.
 
-**Assinada em 26 de Junho de 1998.**
+Assinada em 26 de Junho de 1998.
 
-**O Ministro da Economia, Joaquim Augusto Nunes de Pina Moura. - Pelo Ministro da Agricultura, do Desenvolvimento Rural e das Pescas, Manuel Maria Cardoso Leal, Secretário de Estado da Produção Agro-Alimentar. - A Ministra da Saúde, Maria de Belém Roseira Martins Coelho Henriques de Pina. - O Ministro Adjunto do Primeiro-Ministro, José Sócrates Carvalho Pinto de Sousa.**
+O Ministro da Economia, Joaquim Augusto Nunes de Pina Moura. - Pelo Ministro da Agricultura, do Desenvolvimento Rural e das Pescas, Manuel Maria Cardoso Leal, Secretário de Estado da Produção Agro-Alimentar. - A Ministra da Saúde, Maria de Belém Roseira Martins Coelho Henriques de Pina. - O Ministro Adjunto do Primeiro-Ministro, José Sócrates Carvalho Pinto de Sousa.

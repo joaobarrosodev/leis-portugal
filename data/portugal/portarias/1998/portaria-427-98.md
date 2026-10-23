@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/427/1998/07/25/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/427-1998-428621
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1998-07-25T00:00:00Z'
+  retrieved_at: '2026-10-23T14:08:50Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 66d36aaa2809ac261c4e2d1c66d6db0cbaea253c4c9f849f292e18305693d15b
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: b6a44b2a4da331b210283931fcbec5c785db161205d416b6f6fbdf30c848b954
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T14:08:50Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,15 +66,15 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
+- Comércio
+- Desenvolvimento Económico
 - Financiamento
 - Pesca
-- QCA
-- Desenvolvimento Económico
 - Produtos de Pesca
 - Programa para o Desenvolvimento Económico do Sector das Pescas
+- QCA
 - Regime de Apoio à Promoção dos Produtos da Pesca
 - Regulamento
-- Comércio
 relationships:
 - type: cites
   target: celex:31992R2081
@@ -85,15 +85,15 @@ relationships:
   label: null
   source: http://data.dre.pt/eli/port/574/1994/07/12/p/dre
 article_structure:
-  article_count: 5
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T14:08:50Z'
   warnings: []
   errors: []
 ---
@@ -124,7 +124,9 @@ b) Visem a promoção de marcas comerciais, ou façam referência a um país ou 
 
 c) [Anterior alínea d).]
 
-###### Artigo 4.º — Critérios de prioridade
+Artigo 4.º
+
+Critérios de prioridade
 
 Para efeitos de concessão de apoio aos projectos de promoção dos produtos da pesca, será dada prioridade às candidaturas que satisfaçam uma, ou mais, das seguintes condições:
 
@@ -134,7 +136,9 @@ c) Estimulem o consumo responsável de produtos da pesca, bem como de espécies 
 
 ...
 
-###### Artigo 8.º — Apresentação das candidaturas
+Artigo 8.º
+
+Apresentação das candidaturas
 
 1 - As candidaturas ao regime de apoio previsto no presente diploma são apresentadas na Direcção-Geral das Pescas e Aquicultura, na sua sede ou na respectiva direcção regional.
 
@@ -146,13 +150,17 @@ c) Estimulem o consumo responsável de produtos da pesca, bem como de espécies 
 
 5 - (Anterior n.º 4.)
 
-###### Artigo 10.º — Atribuição do apoio
+Artigo 10.º
+
+Atribuição do apoio
 
 ...
 
 3 - O pagamento do apoio só será efectuado após verificação de que o candidato tem a situação contributiva regularizada perante o Estado e a segurança social.
 
-###### Artigo 11.º — Obrigações dos beneficiários
+Artigo 11.º
+
+Obrigações dos beneficiários
 
 Para efeitos dos artigos 5.º e 6.º do Decreto-Lei n.º 189/94, de 5 de Julho, constarão do contrato de atribuição do apoio, nomeadamente, as seguintes obrigações dos beneficiários:
 
@@ -160,7 +168,9 @@ a) Iniciar a execução dos projectos no prazo máximo de 90 dias a contar da ou
 
 ...
 
-###### Artigo 12.º — Data limite para apresentação de candidaturas
+Artigo 12.º
+
+Data limite para apresentação de candidaturas
 
 A data limite para apresentação de candidaturas ao presente Regime é 30 de Junho de 1999.»
 
@@ -170,6 +180,6 @@ A data limite para apresentação de candidaturas ao presente Regime é 30 de Ju
 
 Ministério da Agricultura, do Desenvolvimento Rural e das Pescas.
 
-**Assinada em 7 de Julho de 1998.**
+Assinada em 7 de Julho de 1998.
 
 Pelo Ministro da Agricultura, do Desenvolvimento Rural e das Pescas, Marcelo de Sousa Vasconcelos, Secretário de Estado das Pescas.

@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2000/06/147b00/27512770.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/381/2000/06/28/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/381-2000-303179
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2017-06-09T00:00:00Z'
+  retrieved_at: '2026-10-23T14:23:12Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 76cc62bb16fd88b7e92e418b78d07c90898d076c4d1ad8704db4815d61729581
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 24d2c0716a730dcbe508b411e3fc9522bd7d31cb3498f17c8a684ee6f7ce56d6
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T14:23:12Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,16 +66,21 @@ reuse:
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
 - Certificado de Conformidade
+- Comércio
 - Equipamento Marítimo
 - Fiscalização
 - Normas de Segurança
 - Segurança Marítima
-- Comércio
 relationships:
 - type: amended_by
   target: pt:dre:107495710:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:167386:por
+  label: "Substituído o anexo A pela PORT.115/2003.2003.01.31.MECO DR.IS-B [26]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/115-2003-167386
+  date: '2003-01-31'
 - type: cites
   target: celex:31996L0098
   label: null
@@ -84,16 +89,21 @@ relationships:
   target: eli:http://data.dre.pt/eli/dec-lei/167/1999/05/18/p/dre
   label: null
   source: http://data.dre.pt/eli/dec-lei/167/1999/05/18/p/dre
+- type: repealed_by
+  target: pt:dre:107495710:por
+  label: Revogada pelo(a) Decreto-Lei n.º 63/2017 - Diário da República n.º 112/2017, Série I de 2017-06-09
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/63-2017-107495710
+  date: '2017-06-09'
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T14:23:12Z'
   warnings: []
   errors: []
 ---
@@ -158,7 +168,7 @@ Para além das normas de ensaio especificamente mencionadas, várias disposiçõ
 
 1 - Meios de salvação
 
-[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2000/06/147b00/27512770.pdf)
+[[[[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2000/06/147b00/27512770.pdf)](https://files.diariodarepublica.pt/1s/2000/06/147b00/27512770.pdf)](https://files.diariodarepublica.pt/1s/2000/06/147b00/27512770.pdf)](https://files.diariodarepublica.pt/1s/2000/06/147b00/27512770.pdf)
 
 (nota 1) Este anexo transpõe o anexo A.1 da Directiva n.º [96/98/CE](http://data.europa.eu/eli/dir/1996/98/oj?locale=pt).
 
@@ -166,11 +176,11 @@ Para além das normas de ensaio especificamente mencionadas, várias disposiçõ
 
 2 - Prevenção da poluição marinha
 
-[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2000/06/147b00/27512770.pdf)
+[[[[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2000/06/147b00/27512770.pdf)](https://files.diariodarepublica.pt/1s/2000/06/147b00/27512770.pdf)](https://files.diariodarepublica.pt/1s/2000/06/147b00/27512770.pdf)](https://files.diariodarepublica.pt/1s/2000/06/147b00/27512770.pdf)
 
 3 - Prevenção de incêndios
 
-[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2000/06/147b00/27512770.pdf)
+[[[[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2000/06/147b00/27512770.pdf)](https://files.diariodarepublica.pt/1s/2000/06/147b00/27512770.pdf)](https://files.diariodarepublica.pt/1s/2000/06/147b00/27512770.pdf)](https://files.diariodarepublica.pt/1s/2000/06/147b00/27512770.pdf)
 
 4 - Equipamento de navegação
 
@@ -178,7 +188,7 @@ Para além das normas de ensaio especificamente mencionadas, várias disposiçõ
 
 5 - Equipamento de radiocomunicações
 
-[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2000/06/147b00/27512770.pdf)
+[[[[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2000/06/147b00/27512770.pdf)](https://files.diariodarepublica.pt/1s/2000/06/147b00/27512770.pdf)](https://files.diariodarepublica.pt/1s/2000/06/147b00/27512770.pdf)](https://files.diariodarepublica.pt/1s/2000/06/147b00/27512770.pdf)
 
 ## ANEXO B — (a que se referem os n.os 2.º e 3.º)
 
@@ -518,7 +528,7 @@ O requerimento deve incluir:
 
 (nota 1) Um tipo pode abranger várias versões do produto desde que as diferenças entre as versões não afectem o nível de segurança e os outros requisitos referentes ao comportamento do produto.
 
-## APÊNDICE AO ANEXO B
+APÊNDICE AO ANEXO B
 
 Documentação técnica a fornecer pelo fabricante ao organismo notificado
 

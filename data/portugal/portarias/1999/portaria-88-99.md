@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/88/1999/02/03/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/88-1999-184951
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2010-08-20T00:00:00Z'
+  retrieved_at: '2026-10-23T14:18:24Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 40333bfac8d261f050991e56c8bafcf95024a04f491f236c3c534061ee0bf252
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: ac2cfdcfe35c785bf3c1bb5f1770842b2330488dc53ceb677a2ed1d71e8f540c
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T14:18:24Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -73,6 +73,32 @@ relationships:
   target: pt:dre:343458:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:646485:por
+  label: "Anexados vários prédios rústicos à zona de caça pela PORT.1173-B/2003.02.10.2003.MECO, DR.IS-B [228-SUPL] de 02.10.2003\0\
+    \0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/1173-b-2003-646485
+  date: '1999-02-03'
+- type: amended_by
+  target: pt:dre:548664:por
+  label: "Renovada, por um período de seis anos, a concessão da zona de caça turística atribuída no presente diploma, na redacção\
+    \ da Port 1173-B/2003, de 02-Out, pela PORT.1389/2004.10.11.2004.MAPF, DR.IS-B [264] de 10.11.2004\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/1389-2004-548664
+  date: '2004-11-10'
+- type: amended_by
+  target: pt:dre:518230:por
+  label: "Transferida a concessão da zona de caça atribuída pelo presente diploma, na redacção da Port 1173-B/2003, de 02-Out\
+    \ e renovada pela Port 1389/2004 de 10-Nov, para a Sociedade de Gestão de caça do Monte Beato, pela PORT.144/2007.30.01.2007.MADRP,\
+    \ DR.IS [21] de 30.01.2007\07\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/144-2007-518230
+  date: '2007-01-30'
+- type: amended_by
+  target: pt:dre:343458:por
+  label: "Renovada por seis anos a concessão da zona de caça atribuída pelo presente diploma, alterada pela Port 1173-B/2003,\
+    \ de 02-Out, pela Port 1389/2004, de 10-Nov e pela Port 144/2007, de 30-Jan, pela PORT.774/2010.20.08.2010.MADRP, DR.IS\
+    \ [162] de 20.08.2010\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/774-2010-343458
+  date: '2010-08-20'
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/136/1996/08/14/p/dre
   label: null
@@ -81,16 +107,36 @@ relationships:
   target: eli:http://data.dre.pt/eli/port/219-a/1991/03/18/p/dre
   label: null
   source: http://data.dre.pt/eli/port/219-a/1991/03/18/p/dre
+- type: cites
+  target: pt:dre:219134:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:354162:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:405765:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:619925:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:620697:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T14:18:24Z'
   warnings: []
   errors: []
 ---
@@ -121,7 +167,7 @@ Manda o Governo, pelos Ministros da Economia e da Agricultura, do Desenvolviment
 
 Ministérios da Economia e da Agricultura, do Desenvolvimento Rural e das Pescas.
 
-**Assinada em 13 de Janeiro de 1999.**
+Assinada em 13 de Janeiro de 1999.
 
 Pelo Ministro da Economia, Vítor José Cabrita Neto, Secretário de Estado do Turismo. - Pelo Ministro da Agricultura, do Desenvolvimento Rural e das Pescas, Victor Manuel Coelho Barros, Secretário de Estado do Desenvolvimento Rural.
 

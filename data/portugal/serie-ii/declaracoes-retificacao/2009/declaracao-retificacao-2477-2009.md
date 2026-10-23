@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/2s/2009/10/194000000/4067440680.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -47,18 +47,18 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/declaracao-rectificacao/2477-2009-2562226
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2009-10-07T00:00:00Z'
+  retrieved_at: '2026-10-23T14:07:14Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 71d37dec5bc69c5cc7404222540bac6b5f47e80309a9db1d40a4ae750210813b
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 89e6d5fbf6578971d94b1de3a65e6cd0538d9dab9f659ab3efc91efe9322fe80
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T14:07:14Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -70,13 +70,13 @@ relationships: []
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T14:07:14Z'
   warnings: []
   errors: []
 ---
@@ -115,7 +115,7 @@ Licenciatura em Artes Decorativas
 
 Ramo: Design de Interiores
 
-[([ver documento original](https://files.diariodarepublica.pt/2s/2009/10/194000000/4067440680.pdf))](https://files.diariodarepublica.pt/2s/2009/10/194000000/4067440680.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/2s/2009/10/194000000/4067440680.pdf)
 
 QUADRO N.º 2
 
@@ -123,7 +123,7 @@ Licenciatura em Artes Decorativas
 
 Ramo: Património em Artes Decorativas Portuguesas
 
-[([ver documento original](https://files.diariodarepublica.pt/2s/2009/10/194000000/4067440680.pdf))](https://files.diariodarepublica.pt/2s/2009/10/194000000/4067440680.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/2s/2009/10/194000000/4067440680.pdf)
 
 QUADRO N.º 3
 
@@ -131,7 +131,7 @@ Licenciatura em Artes Decorativas
 
 Ramo: Design de Mobiliário
 
-[([ver documento original](https://files.diariodarepublica.pt/2s/2009/10/194000000/4067440680.pdf))](https://files.diariodarepublica.pt/2s/2009/10/194000000/4067440680.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/2s/2009/10/194000000/4067440680.pdf)
 
 10 - Observações.
 
@@ -151,37 +151,37 @@ Ramo: Design de Interiores
 
 QUADRO N.º 4
 
-[([ver documento original](https://files.diariodarepublica.pt/2s/2009/10/194000000/4067440680.pdf))](https://files.diariodarepublica.pt/2s/2009/10/194000000/4067440680.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/2s/2009/10/194000000/4067440680.pdf)
 
 2.º semestre
 
 QUADRO N.º 5
 
-[([ver documento original](https://files.diariodarepublica.pt/2s/2009/10/194000000/4067440680.pdf))](https://files.diariodarepublica.pt/2s/2009/10/194000000/4067440680.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/2s/2009/10/194000000/4067440680.pdf)
 
 2.º ano - 1.º semestre
 
 QUADRO N.º 6
 
-[([ver documento original](https://files.diariodarepublica.pt/2s/2009/10/194000000/4067440680.pdf))](https://files.diariodarepublica.pt/2s/2009/10/194000000/4067440680.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/2s/2009/10/194000000/4067440680.pdf)
 
 2.º semestre
 
 QUADRO N.º 7
 
-[([ver documento original](https://files.diariodarepublica.pt/2s/2009/10/194000000/4067440680.pdf))](https://files.diariodarepublica.pt/2s/2009/10/194000000/4067440680.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/2s/2009/10/194000000/4067440680.pdf)
 
 3.º ano - 1.º semestre
 
 QUADRO N.º 8
 
-[([ver documento original](https://files.diariodarepublica.pt/2s/2009/10/194000000/4067440680.pdf))](https://files.diariodarepublica.pt/2s/2009/10/194000000/4067440680.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/2s/2009/10/194000000/4067440680.pdf)
 
 2.º semestre
 
 QUADRO N.º 9
 
-[([ver documento original](https://files.diariodarepublica.pt/2s/2009/10/194000000/4067440680.pdf))](https://files.diariodarepublica.pt/2s/2009/10/194000000/4067440680.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/2s/2009/10/194000000/4067440680.pdf)
 
 Área científica predominante: Ciências Sociais e Humanas
 
@@ -191,37 +191,37 @@ Ramo: Património em Artes Decorativas Portuguesas
 
 QUADRO N.º 10
 
-[([ver documento original](https://files.diariodarepublica.pt/2s/2009/10/194000000/4067440680.pdf))](https://files.diariodarepublica.pt/2s/2009/10/194000000/4067440680.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/2s/2009/10/194000000/4067440680.pdf)
 
 2.º semestre
 
 QUADRO N.º 11
 
-[([ver documento original](https://files.diariodarepublica.pt/2s/2009/10/194000000/4067440680.pdf))](https://files.diariodarepublica.pt/2s/2009/10/194000000/4067440680.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/2s/2009/10/194000000/4067440680.pdf)
 
 2.º ano - 1.º semestre
 
 QUADRO N.º 12
 
-[([ver documento original](https://files.diariodarepublica.pt/2s/2009/10/194000000/4067440680.pdf))](https://files.diariodarepublica.pt/2s/2009/10/194000000/4067440680.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/2s/2009/10/194000000/4067440680.pdf)
 
 2.º semestre
 
 QUADRO N.º 13
 
-[([ver documento original](https://files.diariodarepublica.pt/2s/2009/10/194000000/4067440680.pdf))](https://files.diariodarepublica.pt/2s/2009/10/194000000/4067440680.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/2s/2009/10/194000000/4067440680.pdf)
 
 3.º ano - 1.º semestre
 
 QUADRO N.º 14
 
-[([ver documento original](https://files.diariodarepublica.pt/2s/2009/10/194000000/4067440680.pdf))](https://files.diariodarepublica.pt/2s/2009/10/194000000/4067440680.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/2s/2009/10/194000000/4067440680.pdf)
 
 2.º semestre
 
 QUADRO N.º 15
 
-[([ver documento original](https://files.diariodarepublica.pt/2s/2009/10/194000000/4067440680.pdf))](https://files.diariodarepublica.pt/2s/2009/10/194000000/4067440680.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/2s/2009/10/194000000/4067440680.pdf)
 
 Ramo: Design de Mobiliário
 
@@ -229,34 +229,36 @@ Ramo: Design de Mobiliário
 
 QUADRO N.º 16
 
-[([ver documento original](https://files.diariodarepublica.pt/2s/2009/10/194000000/4067440680.pdf))](https://files.diariodarepublica.pt/2s/2009/10/194000000/4067440680.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/2s/2009/10/194000000/4067440680.pdf)
 
 2.º semestre
 
 QUADRO N.º 17
 
-[([ver documento original](https://files.diariodarepublica.pt/2s/2009/10/194000000/4067440680.pdf))](https://files.diariodarepublica.pt/2s/2009/10/194000000/4067440680.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/2s/2009/10/194000000/4067440680.pdf)
 
 2.º ano - 1.º semestre
 
 QUADRO N.º 18
 
-[([ver documento original](https://files.diariodarepublica.pt/2s/2009/10/194000000/4067440680.pdf))](https://files.diariodarepublica.pt/2s/2009/10/194000000/4067440680.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/2s/2009/10/194000000/4067440680.pdf)
 
 2.º semestre
 
 QUADRO N.º 19
 
-[([ver documento original](https://files.diariodarepublica.pt/2s/2009/10/194000000/4067440680.pdf))](https://files.diariodarepublica.pt/2s/2009/10/194000000/4067440680.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/2s/2009/10/194000000/4067440680.pdf)
 
 3.º ano - 1.º semestre
 
 QUADRO N.º 20
 
-[([ver documento original](https://files.diariodarepublica.pt/2s/2009/10/194000000/4067440680.pdf))](https://files.diariodarepublica.pt/2s/2009/10/194000000/4067440680.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/2s/2009/10/194000000/4067440680.pdf)
 
 2.º semestre
 
 QUADRO N.º 21
 
-[([ver documento original](https://files.diariodarepublica.pt/2s/2009/10/194000000/4067440680.pdf))](https://files.diariodarepublica.pt/2s/2009/10/194000000/4067440680.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/2s/2009/10/194000000/4067440680.pdf)
+
+202371091

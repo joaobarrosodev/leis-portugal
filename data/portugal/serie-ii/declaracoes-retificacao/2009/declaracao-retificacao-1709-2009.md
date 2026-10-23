@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/2s/2009/07/136000000/2815928159.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -46,18 +46,18 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/declaracao-rectificacao/1709-2009-866101
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2009-07-16T00:00:00Z'
+  retrieved_at: '2026-10-23T14:02:43Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: cf0cb23af41a7e45213e089ed951cfa1faaabf14b36e720dab35a9c3402a1cbb
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 99adc70cd7643df3f92f3fb046adac022723c2c2191dc32584f45f502bb14ab4
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T14:02:43Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -69,13 +69,13 @@ relationships: []
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T14:02:43Z'
   warnings: []
   errors: []
 ---
@@ -87,3 +87,5 @@ Declaração de rectificação n.º 1709/2009
 Por ter saído com inexactidão no DR, 2.ª série, n.º 130, de 8 de Julho de 2009, a pág. 26745, o despacho n.º 15510/2009, rectifica-se o mesmo, e assim onde se lê «Licenciado Carlos Alberto dos Santos Monteiro - procurador-geral-adjunto na Secção de Contencioso Administrativo do Tribunal Central Administrativo Sul» deve ler-se «Licenciado Carlos Alberto de Fátima Rebordão Teixeira - procurador da República no Porto, área de jurisdição cível».
 
 9 de Julho de 2009. - O Secretário, Carlos José de Sousa Mendes.
+
+202030031

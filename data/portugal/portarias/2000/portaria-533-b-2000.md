@@ -20,12 +20,12 @@ publication:
   reference: Diário da República n.º 176/2000, 2º Suplemento, Série I-B de 2000-08-01
   number: '176'
   series: I
-  supplement: 2º Suplemento
+  supplement: null
   pages: 3696-(6) a 3696-(12)
   pdf_url: https://files.diariodarepublica.pt/1s/2000/08/176b02/00060012.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/533-b/2000/08/01/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/533-b-2000-636247
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2004-07-15T00:00:00Z'
+  retrieved_at: '2026-10-23T14:24:17Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: d0e0f18325ac3fbfcfe00013d6e3a5a51bdeb1c986103c971cd8c72c1b658aae
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 8b7d6172d17ca0d55b32a99425222a83c5a8dea93e2b5caba3a62b0539d775c0
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T14:24:17Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,23 +66,23 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Atividade Agrícola
 - Ajuda Comunitária
+- Atividade Agrícola
 - Desenvolvimento Rural
-- Leite
-- Floricultura
-- Projeto de Investimento
-- Horticultura
-- Jovem Agricultor
-- Olivicultura
 - Exploração Agrícola
-- QCA III
+- Floricultura
+- Horticultura
+- Ifadap
+- Jovem Agricultor
+- Leite
+- Modernização do Sector Agrícola
+- Olivicultura
+- Programa AGRO
 - Projecto Agrícola
+- Projeto de Investimento
+- QCA III
 - Reembolso
 - Regulamento
-- Modernização do Sector Agrícola
-- Programa AGRO
-- Ifadap
 - Viabilidade Económica
 - Vinha
 relationships:
@@ -90,6 +90,57 @@ relationships:
   target: pt:dre:527201:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:616457:por
+  label: "Prorrogado até 31 de Dezembro de 2000 o prazo previsto no Regulamento pela PORT.1099/2000.2000.11.17.MADRP, DR.IS-B\
+    \ [266]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/1099-2000-616457
+  date: '2000-11-17'
+- type: amended_by
+  target: pt:dre:322117:por
+  label: "Alterado os art.s 3º, 5º, 14º, 17º e os anexos I e II do regulamento pela PORT.569/2001.2001.06.05.MADRP, DR.IS-B\
+    \ [130] de 5/Jun/2001\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/569-2001-322117
+  date: '2001-06-05'
+- type: amended_by
+  target: pt:dre:536020:por
+  label: "Alterados os art.s 3º, 10º e 17º do Regulamento pela PORT.1458/2001.2001.12.28.MADRP\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/1458-2001-536020
+  date: '2001-12-28'
+- type: amended_by
+  target: pt:dre:265503:por
+  label: "Alterado o nº 11 do Anexo I do Regulamento, na redacção dada pela Port 1458/2001, de 28-Dez, pela PORT.244/2002.2002.03.12.MADRP,\
+    \ DR.IS-B [60]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/244-2002-265503
+  date: '2002-03-12'
+- type: amended_by
+  target: pt:dre:438052:por
+  label: "Alterado o anexo II e revogados o nº 3 do art. 5º e a al. h) do nº 1 do art. 10º do Regulamento, pela PORT.1494/2002.2002.12.06.MADRP\
+    \ DR.IS-B [282]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/1494-2002-438052
+  date: '2002-12-06'
+- type: amended_by
+  target: pt:dre:223665:por
+  label: "Alterados os art. 3º e 17º (na redacção das Port 569/2001 de 05-Jun e 1458/2001 de 28-Dez) o art. 10º (na redacção\
+    \ das Port. 569/2001 de 05-Jun e 1494/2002 de 06-Dez, o nº 15º do Cap. A do anexo I (na redacção da Port. 569/2001 de\
+    \ 05-Jun) e o anexo II (na redacção das Port. 569/2001 de 05-Jun e 1494/2002 de 06-Dez), os art.s 7º, 8º, 12º, 14º, 19º\
+    \ 20º e 23º, e aditados o art. 19-A e o anexo IV ao regulamento constante do presente diploma pela PORT.294/2003.2003.04.08.MADRP,\
+    \ DR.IS-B [83]\0]\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/294-2003-223665
+  date: '2003-04-08'
+- type: amended_by
+  target: pt:dre:217553:por
+  label: "Suspensas as candidaturas aos apoios estabelecidos neste diploma, com excepção das relativas à primeira instalação\
+    \ de jovens agricultores, pela PORT.331/2004.31.03.2004.MADRP, DR.IS-B [77] de 31.03.2004\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/331-2004-217553
+  date: '2004-03-31'
+- type: amended_by
+  target: pt:dre:251625:por
+  label: "Exceptuadas as candidaturas à presente medida de apoio, com a redacção da Port 294/2003 de 08-Abr, dos investimentos\
+    \ relativos às novas plantações de olival e à produção de carne de bovinos em regime extensivo, ao regime de suspensão\
+    \ constante da Port 331/2004 de 31-Mar, pela PORT.562/2004.26.05.2004.MADRP, DR.IS-B [123] de 26.05.2004\04\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/562-2004-251625
+  date: '2004-05-26'
 - type: cites
   target: celex:31975L0268
   label: null
@@ -102,16 +153,27 @@ relationships:
   target: celex:31999R1257
   label: null
   source: http://data.europa.eu/eli/reg/1999/1257/oj
+- type: corrected_by
+  target: pt:dre:569897:por
+  label: "Rectificada pela DECL-RECT.11-J/2000.2000.09.29.PCM DR.IS-B [227]2ºSUPL DE 30/SET/2000\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/declaracao-rectificacao/11-j-2000-569897
+  date: '2000-09-29'
+- type: repealed_by
+  target: pt:dre:527201:por
+  label: "Revogada, ressalvando-se os efeitos j&#225; produzidos e sem preju&#237;zo da aplica&#231;&#227;o &#224;s candidaturas\
+    \ apresentadas durante a respectiva vig&#234;ncia, pela PORT.811/2004.15.07.2004.MADRP, DR.IS-B [165] de 15.07.2004\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/811-2004-527201
+  date: '2004-07-15'
 article_structure:
   article_count: 25
   section_count: 5
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T14:24:17Z'
   warnings: []
   errors: []
 ---
@@ -130,7 +192,7 @@ Assim, ao abrigo do disposto no n.º 2 do artigo 22.º do Decreto-Lei n.º 163-A
 
 Manda o Governo, pelo Ministro da Agricultura, do Desenvolvimento Rural e das Pescas, que seja aprovado o Regulamento de Aplicação da Medida n.º 1: Modernização, Reconversão e Diversificação das Explorações Agrícolas, do Programa Operacional Agricultura e Desenvolvimento Rural, abreviadamente designado «Programa Agro», em anexo ao presente diploma e do qual faz parte integrante.
 
-**O Ministro da Agricultura, do Desenvolvimento Rural e das Pescas, Luís Manuel Capoulas Santos, em 1 de Agosto de 2000.**
+O Ministro da Agricultura, do Desenvolvimento Rural e das Pescas, Luís Manuel Capoulas Santos, em 1 de Agosto de 2000.
 
 REGULAMENTO DE APLICAÇÃO DA MEDIDA N.º 1: MODERNIZAÇÃO, RECONVERSÃO E DIVERSIFICAÇÃO DAS EXPLORAÇÕES AGRÍCOLAS
 

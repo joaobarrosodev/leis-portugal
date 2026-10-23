@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/2s/2009/10/193000000/4037840378.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -46,18 +46,18 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/declaracao-rectificacao/2453-2009-1079870
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2009-10-06T00:00:00Z'
+  retrieved_at: '2026-10-23T14:07:04Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: a342887a38d7cef6881f51a304eb4aabbe29c5858e49abbc68945ba232407237
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 29c0be7bbcdaf1384262a40c42728b667184a541f4c1b980f7695cfa404db190
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T14:07:04Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -69,13 +69,13 @@ relationships: []
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T14:07:04Z'
   warnings: []
   errors: []
 ---
@@ -87,3 +87,5 @@ Declaração de rectificação n.º 2453/2009
 Por ter saído com inexactidão o aviso n.º 16588/2009, publicado no Diário da República, 2.ª série, n.º 185, de 23 de Setembro de 2009, procede-se à presente rectificação, assim onde se lê «9.1.2 - Experiência Profissional (EP) - tempo de serviço no exercício das funções inerentes à carreira e categoria conforme descritas no ponto 6 do presente Aviso», deve ler-se «9.1.2 - Experiência profissional (EP) - tempo de serviço no exercício das funções inerentes à carreira e categoria conforme descritas no n.º 3 do presente aviso» e onde se lê «9.1.3 - Experiência Profissional no Agrupamento (EPA) - tempo de serviço no exercício das funções inerentes à carreira e categoria conforme descritas no ponto 6 do presente aviso», deve ler-se «9.1.3 - Experiência profissional no agrupamento (EPA) - tempo de serviço no exercício das funções inerentes à carreira e categoria conforme descritas no n.º 3 do presente aviso».
 
 25 de Setembro de 2009. - O Director, Fernando António Rodrigues Espinha.
+
+202367358

@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/392/1999/05/29/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/392-1999-316715
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1999-05-29T00:00:00Z'
+  retrieved_at: '2026-10-23T14:15:07Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 3e3f2b6fc8731d3e12bf1248e1a5c77bcd8a77a381215c2336c170cd9134892f
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 78779bbfc36a6e8cee7c60e55cb64f1d27f72c62058115df4de86619ba640f0e
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T14:15:07Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,12 +66,12 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Kosovo
-- NATO
 - Força Aérea
+- Forças Armadas
+- Kosovo
 - Missão Militar
 - Missão no Estrangeiro
-- Forças Armadas
+- NATO
 relationships:
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/233/1996/12/07/p/dre
@@ -81,16 +81,28 @@ relationships:
   target: eli:http://data.dre.pt/eli/port/946/1998/10/31/p/dre
   label: null
   source: http://data.dre.pt/eli/port/946/1998/10/31/p/dre
+- type: cites
+  target: pt:dre:187081:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:222776:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:379327:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T14:15:07Z'
   warnings: []
   errors: []
 ---
@@ -111,4 +123,4 @@ Manda o Governo, pelo Ministro da Defesa Nacional, que o n.º 2.º da [Portaria 
 
 «A participação portuguesa é constituída por três aeronaves F-16, ficando mais uma pronta em território nacional, e um efectivo de 59 elementos da Força Aérea, que poderá vir a ser aumentado até um máximo de 65 elementos.»
 
-**O Ministro da Defesa Nacional, José Veiga Simão, em 14 de Maio de 1999.**
+O Ministro da Defesa Nacional, José Veiga Simão, em 14 de Maio de 1999.

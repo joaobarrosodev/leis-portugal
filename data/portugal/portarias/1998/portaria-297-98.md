@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/297/1998/05/13/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/297-1998-522848
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1998-05-13T00:00:00Z'
+  retrieved_at: '2026-10-23T14:07:55Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 51904088d41af06cfe67c154220ba47939f1ece1f3f0b39da529bac1dab8b73c
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: c6cec4ca6084c8a0f38b899bfee36cc3365cd6ae81357d0724d4827d5b2b30c7
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T14:07:55Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -65,27 +65,31 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Médico
 - Código de Nomenclatura e Valor Relativo aos Actos Médicos
-- Serviço de Saúde
-- Política de Saúde
+- Cuidados Médicos
 - Fixação de Preços
+- Médico
 - Ordem dos Médicos
+- Política de Saúde
 - Preço
 - Prestação de Serviços
-- Cuidados Médicos
 - Proteção do Consumidor
-relationships: []
+- Serviço de Saúde
+relationships:
+- type: cites
+  target: pt:dre:332222:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T14:07:55Z'
   warnings: []
   errors: []
 ---
@@ -114,6 +118,6 @@ Manda o Governo, pelos Ministros da Economia e Adjunto do Primeiro-Ministro, o s
 
 Presidência do Conselho de Ministros e Ministério da Economia.
 
-**Assinada em 13 de Abril de 1998.**
+Assinada em 13 de Abril de 1998.
 
-**O Ministro da Economia, Joaquim Augusto Nunes de Pina Moura. - O Ministro Adjunto do Primeiro-Ministro, José Sócrates Carvalho Pinto de Sousa.**
+O Ministro da Economia, Joaquim Augusto Nunes de Pina Moura. - O Ministro Adjunto do Primeiro-Ministro, José Sócrates Carvalho Pinto de Sousa.

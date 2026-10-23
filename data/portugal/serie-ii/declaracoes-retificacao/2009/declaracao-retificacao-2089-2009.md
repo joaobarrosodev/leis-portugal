@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/2s/2009/08/165000000/3473834742.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -47,18 +47,18 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/declaracao-rectificacao/2089-2009-2806906
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2009-08-26T00:00:00Z'
+  retrieved_at: '2026-10-23T14:04:58Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: ff166d99951cfacaf05b7dc3e864927955c748f3b7f62c1f3b02381ce0aa0471
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 781228745eedb44c33802d15f304e585156aa52db73ebd1aa3fcd2691ca915fd
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T14:04:58Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,22 +66,46 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects: []
-relationships: []
+relationships:
+- type: cites
+  target: pt:dre:245336:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:456200:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:602073:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:640339:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:656107:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:671387:por
+  label: null
+  source: null
 article_structure:
   article_count: 27
   section_count: 5
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T14:04:58Z'
   warnings: []
   errors: []
 ---
 
-# Declaração de Rectificação n.º 2089/2009
+# Declaração de rectificação n.º 2089/2009
 
 Por ter sido publicado com inexactidão no Diário da República n.º 159 (2.ª série), de 18 de Agosto de 2009, de novo se publica:
 
@@ -357,7 +381,7 @@ b) Com avaliação, 4 % do valor da taxa de propina fixada para o respectivo cic
 
 10 - Tabela de prescrições:
 
-[([ver documento original](https://files.diariodarepublica.pt/2s/2009/08/165000000/3473834742.pdf))](https://files.diariodarepublica.pt/2s/2009/08/165000000/3473834742.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/2s/2009/08/165000000/3473834742.pdf)
 
 11 - Os estudantes que prescreverem num dado ano têm direito a requerer o reingresso um ano após a sua prescrição.
 
@@ -387,7 +411,7 @@ b) Com avaliação, 4 % do valor da taxa de propina fixada para o respectivo cic
 
 8 - Tabela de prescrições:
 
-[([ver documento original](https://files.diariodarepublica.pt/2s/2009/08/165000000/3473834742.pdf))](https://files.diariodarepublica.pt/2s/2009/08/165000000/3473834742.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/2s/2009/08/165000000/3473834742.pdf)
 
 9 - Os estudantes do 2.º ciclo que pretendam reingressar após prescrição estão sujeitos a novo processo de candidatura o qual só poderá ocorrer após um ano lectivo de interrupção.
 
@@ -405,7 +429,7 @@ As dúvidas de interpretação e os casos omissos serão resolvidas por despacho
 
 ###### Artigo 25.º — Delegação de competências
 
-**O presidente do instituto poderá delegar nos vice-presidentes ou nos órgãos de gestão das escolas as competências que lhe são conferidas pelo presente regulamento.**
+O presidente do instituto poderá delegar nos vice-presidentes ou nos órgãos de gestão das escolas as competências que lhe são conferidas pelo presente regulamento.
 
 ###### Artigo 26.º — Disposição revogatória
 
@@ -416,3 +440,5 @@ As dúvidas de interpretação e os casos omissos serão resolvidas por despacho
 O presente regulamento foi aprovado por despacho do Presidente do IPVC de sete de Agosto de dois mil e nove, decorrido o período de discussão pública, nos termos do disposto no n.º 3 do artigo 110.º do Regime Jurídico das Instituições de Ensino Superior, entrando imediatamente em vigor.
 
 19 de Agosto de 2009. - O Presidente, Rui Alberto Martins Teixeira.
+
+202214315

@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1997/02/047b00/08530854.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/134/1997/02/25/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/134-1997-505779
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2000-03-24T00:00:00Z'
+  retrieved_at: '2026-10-23T14:00:43Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 4d0618c3889d980fad5a1fa505c38571a6a1e1cceb1a8afed52da18c487dc66b
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 87d076ac1a16aeb8479f3a2fc6b08f6bb8ad4d6cb84b49c8fdcdc5cd9bf03fae
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T14:00:43Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,8 +67,8 @@ reuse:
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
 - Acreditação
-- Controlo de Qualidade
 - Certificado de Qualidade
+- Controlo de Qualidade
 - Instituto Português da Qualidade
 - Sistema Nacional de Gestão da Qualidade
 relationships:
@@ -80,16 +80,29 @@ relationships:
   target: eli:http://data.dre.pt/eli/dec-lei/234/1993/07/02/p/dre
   label: null
   source: http://data.dre.pt/eli/dec-lei/234/1993/07/02/p/dre
+- type: cites
+  target: pt:dre:313788:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:373863:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:508464:por
+  label: "Revogada pela PORT.178/2000.2000.03.24.ME DR.IS-B [71]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/178-2000-508464
+  date: '2000-03-24'
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T14:00:43Z'
   warnings: []
   errors: []
 ---
@@ -144,7 +157,7 @@ c) Anulação da acreditação.
 
 Ministério da Economia.
 
-**Assinada em 20 de Janeiro de 1997.**
+Assinada em 20 de Janeiro de 1997.
 
 Ministro da Economia, Augusto Carlos Serra Ventura Mateus.
 
@@ -156,7 +169,7 @@ Forma e condições gráficas de aplicação do símbolo «Acreditação»
 
 2 - A forma e proporções do símbolo «Acreditação» são as constantes da figura 1:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1997/02/047b00/08530854.pdf))](https://files.diariodarepublica.pt/1s/1997/02/047b00/08530854.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1997/02/047b00/08530854.pdf)
 
 em que XXXX representa o tipo de entidade acreditada, YYY a norma ou documento de referência aplicável ao domínio da acreditação e N.00/Z.000 o número do certificado respectivo (sendo Z a letra correspondente ao domínio).
 

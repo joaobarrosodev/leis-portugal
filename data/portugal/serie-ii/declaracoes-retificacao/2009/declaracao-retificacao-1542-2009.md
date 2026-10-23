@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/2s/2009/06/118000000/2444924449.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -46,18 +46,18 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/declaracao-rectificacao/1542-2009-3534525
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2009-06-22T00:00:00Z'
+  retrieved_at: '2026-10-23T14:01:47Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 3bb60237179cf6c4aed03ccb109d219f204a8765389a9c2966b17db25bc63edd
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 00d576cdf4c76687790d803d51606c6790f74895a5d8788d5f33f68e0a26bf49
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T14:01:47Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -69,13 +69,13 @@ relationships: []
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T14:01:47Z'
   warnings: []
   errors: []
 ---
@@ -89,3 +89,5 @@ Para os devidos efeitos, rectifica-se o aviso n.º 9838/2009, publicado na 2.ª 
 Faz-se público que no título do aviso e na introdução, onde se lê «[...] de dois postos de trabalho de assistente operacional» deve ler-se «[...] de um posto de trabalho de assistente operacional», bem como no ponto 3 onde se lê «(dois postos)» deve ler-se «(um posto)».
 
 26 de Maio de 2009. - O Vereador dos Recursos Humanos, Alexandre de Oliveira Fonseca.
+
+301867523

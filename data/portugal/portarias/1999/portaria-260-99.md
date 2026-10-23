@@ -48,18 +48,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/260/1999/04/10/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/260-1999-542781
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2010-12-15T00:00:00Z'
+  retrieved_at: '2026-10-23T14:14:17Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 639caef0d345314021eceafb116616e73d2193b4b2daccd8dec3bc1f2bcc2c58
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 6498122377df754fbff0c34dd750669ba7cf1a2ff2c1b9b6a6d127bb3c5b8073
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T14:14:17Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -75,6 +75,25 @@ relationships:
   target: pt:dre:306959:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:481967:por
+  label: "Englobados vários prédios rústicos na zona de caça associativa de Aldeia da Ribeira criada pela Port 639/92, de\
+    \ 07-Jul, renovada pelo presente diploma, pela PORT.1423/2009.17.12.2009.MADRP, DR.IS [243] de 17.12.2009\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/1423-2009-481967
+  date: '2009-12-17'
+- type: amended_by
+  target: pt:dre:481933:por
+  label: "Englobados vários prédios rústicos na zona de caça criada pela Port 639/92, de 07-Jul, renovada a concessão pelo\
+    \ presente diploma, pela PORT.1433/2009.21.12.2009.MADRP, DR.IS [245] de 21.12.2009 (A Decl-Rect 1/2010 de 04-Fev declara\
+    \ sem efeito a Portaria 1433/2009 de 21-Dez)\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/1433-2009-481933
+  date: '2009-12-21'
+- type: amended_by
+  target: pt:dre:306959:por
+  label: "Renovada a concessão da zona de caça associativa de Aldeia da Ribeira criada pela Port 639/92, de 07-Jul, renovada\
+    \ pelo presente diploma, pela PORT.1270/2010.15.12.2010.MADRP, DR.IS [241] de 15.12.2010\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/1270-2010-306959
+  date: '2010-12-15'
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/136/1996/08/14/p/dre
   label: null
@@ -87,16 +106,28 @@ relationships:
   target: eli:http://data.dre.pt/eli/port/668/1998/08/31/p/dre
   label: null
   source: http://data.dre.pt/eli/port/668/1998/08/31/p/dre
+- type: cites
+  target: pt:dre:287850:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:405765:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:566778:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T14:14:17Z'
   warnings: []
   errors: []
 ---

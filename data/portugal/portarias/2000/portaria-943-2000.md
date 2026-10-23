@@ -48,18 +48,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/943/2000/10/03/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/943-2000-552513
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2003-07-16T00:00:00Z'
+  retrieved_at: '2026-10-23T14:26:56Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: a5a4e32185d09563d41b0bfada78d3f4c15e1ee3ce72d8f32181e8f57e3a63ff
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 319fa536f9e2802b596683376d8a11f02a3df0e12b9091c820bf9e811f4d03ac
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T14:26:56Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -75,6 +75,12 @@ relationships:
   target: pt:dre:671227:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:671227:por
+  label: "Renovada por doze anos a concessão de zona de caça atribuída pela Port 879/99 de 09-Set, com a redacção da presente,\
+    \ pela PORT.561/2003.2003.07.16.MECO DR.IS-B [162]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/561-2003-671227
+  date: '2003-07-16'
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/136/1996/08/14/p/dre
   label: null
@@ -95,16 +101,40 @@ relationships:
   target: eli:http://data.dre.pt/eli/port/896-r/1995/07/15/p/dre
   label: null
   source: http://data.dre.pt/eli/port/896-r/1995/07/15/p/dre
+- type: cites
+  target: pt:dre:158589:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:186553:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:211190:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:219134:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:405765:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:673612:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T14:26:56Z'
   warnings: []
   errors: []
 ---

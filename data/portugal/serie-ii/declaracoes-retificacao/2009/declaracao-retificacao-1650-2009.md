@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/2s/2009/07/130000000/2679126791.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -46,18 +46,18 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/declaracao-rectificacao/1650-2009-3091065
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2009-07-08T00:00:00Z'
+  retrieved_at: '2026-10-23T14:02:23Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: c535f337ea4bec524027a8ae78e728fdf9ed4baf6bede1999fbc8ef155407755
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 6338cf84aa1fba130304061fe66e58f9ef8e41a849a9a8978383394e05a55b48
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T14:02:23Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -69,13 +69,13 @@ relationships: []
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T14:02:23Z'
   warnings: []
   errors: []
 ---
@@ -87,3 +87,5 @@ Declaração de rectificação n.º 1650/2009
 Por ter sido publicitado, com inexactidão através do deliberação n.º 1783/2009, publicado no Diário da República, 2.ª série n.º 120, de 24 de Junho de 2009 da delegação de competências do Conselho de Administração do HGO, EPE., rectifica-se que onde se lê «A presente deliberação produz efeitos a partir de ...de Maio de 2009, ficando por ela ratificados todos os actos que, no âmbito dos poderes delegados, tenham sido praticados pelos referidos membros do CA.» deve ler-se «A presente deliberação produz efeitos a partir de 19 de Janeiro de 2009, ficando por ela ratificados todos os actos que, no âmbito dos poderes delegados, tenham sido praticados pelos referidos membros do CA.».
 
 1 de Julho de 2009. - O Presidente do Conselho de Administração, Nélson Madeira Baltazar.
+
+201981336

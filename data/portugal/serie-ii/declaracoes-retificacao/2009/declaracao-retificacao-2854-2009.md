@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/2s/2009/11/223000000/4670146701.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -46,18 +46,18 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/declaracao-rectificacao/2854-2009-3160637
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2009-11-17T00:00:00Z'
+  retrieved_at: '2026-10-23T14:09:30Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: c21ff3235c4d069e09482e503cf1fe3ad863254e795023af1e98178be7ee0329
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 27bd31bcbcd9cab75e33a27cc7086f5dd350bc1ee9f631abc541230b5ecfa83c
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T14:09:30Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -69,13 +69,13 @@ relationships: []
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T14:09:30Z'
   warnings: []
   errors: []
 ---
@@ -87,3 +87,5 @@ Declaração de rectificação n.º 2854/2009
 Para os devidos efeitos, torna-se público que, relativamente ao aviso n.º 19 975/2009, publicado no Diário da República, 2.ª série, n.º 215, de 5 de Novembro de 2009, rectifica-se que onde se lê «entre a posição remuneratória 7 e 8, e nível intermédio 38-39, ao qual corresponde o vencimento mensal de (euro) 2387,21» deve ler-se «posição 8 e nível remuneratório 39, ao qual corresponde o vencimento mensal de (euro) 2437,29».
 
 9 de Novembro de 2009. - O Presidente da Câmara, Carlos Manuel da Cruz Lourenço.
+
+302561806

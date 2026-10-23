@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/436/1998/07/27/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/436-1998-429428
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1998-07-27T00:00:00Z'
+  retrieved_at: '2026-10-23T14:08:58Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 40e268ef74cae35674f5c048505453c36d2196bf7fa592067515b42a779afc1a
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 43551d3c386e8bee34c7d21d192b34145d2289dfa09e66d610fb8f6fd0f4174b
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T14:08:58Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,12 +67,12 @@ reuse:
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
 - Ajuda Comunitária
+- Aquicultura
 - Financiamento
+- Programa para o Desenvolvimento Económico do Sector das Pescas
 - Projeto de Investimento
 - QCA
 - Recursos do Mar
-- Aquicultura
-- Programa para o Desenvolvimento Económico do Sector das Pescas
 - Regime de Apoio ao Desenvolvimento da Aquicultura
 - Regulamento
 relationships:
@@ -84,16 +84,24 @@ relationships:
   target: eli:http://data.dre.pt/eli/port/578/1994/07/12/p/dre
   label: null
   source: http://data.dre.pt/eli/port/578/1994/07/12/p/dre
+- type: cites
+  target: pt:dre:291604:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:294710:por
+  label: null
+  source: null
 article_structure:
-  article_count: 9
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T14:08:58Z'
   warnings: []
   errors: []
 ---
@@ -120,7 +128,9 @@ Condições de acesso
 
 ...
 
-###### Artigo 3.º — Projectos não admissíveis
+Artigo 3.º
+
+Projectos não admissíveis
 
 São excluídos os projectos que:
 
@@ -128,13 +138,17 @@ a) Não se enquadrem nos objectivos previstos no artigo 1.º;
 
 ...
 
-###### Artigo 4.º — Critérios de prioridade
+Artigo 4.º
+
+Critérios de prioridade
 
 Para efeitos de concessão de apoio aos projectos de desenvolvimento da aquicultura, será dada prioridade às candidaturas que satisfaçam uma ou mais das seguintes condições:
 
 ...
 
-###### Artigo 5.º — Despesas elegíveis
+Artigo 5.º
+
+Despesas elegíveis
 
 1 - Para efeitos de concessão de apoio, são elegíveis as seguintes despesas:
 
@@ -142,7 +156,9 @@ Para efeitos de concessão de apoio aos projectos de desenvolvimento da aquicult
 
 f) Encargos gerais e despesas imprevistas de investimento até ao montante máximo de 12% do investimento elegível orçamentado.
 
-###### Artigo 6.º — Despesas não elegíveis
+Artigo 6.º
+
+Despesas não elegíveis
 
 Não são elegíveis para efeitos de concessão de apoio as seguintes despesas:
 
@@ -152,7 +168,9 @@ d) Despesas de funcionamento;
 
 ...
 
-###### Artigo 7.º — Montante dos apoios
+Artigo 7.º
+
+Montante dos apoios
 
 1 - ...
 
@@ -160,7 +178,9 @@ d) Despesas de funcionamento;
 
 3 - (Anterior n.º 2.)
 
-###### Artigo 8.º — Apresentação das candidaturas
+Artigo 8.º
+
+Apresentação das candidaturas
 
 1 - As candidaturas ao regime de apoio previsto no presente diploma são apresentadas na Direcção-Geral das Pescas e Aquicultura, na sua sede ou respectiva direcção regional.
 
@@ -172,13 +192,17 @@ d) Despesas de funcionamento;
 
 5 - (Anterior n.º 4.)
 
-###### Artigo 10.º — Atribuição do apoio
+Artigo 10.º
+
+Atribuição do apoio
 
 ...
 
 3 - O pagamento do apoio só será efectuado após verificação de que o candidato tem a situação contributiva regularizada perante o Estado e a segurança social.
 
-###### Artigo 11.º — Obrigações dos beneficiários
+Artigo 11.º
+
+Obrigações dos beneficiários
 
 Para efeitos dos artigos 5.º e 6.º do [Decreto-Lei n.º 189/94](https://diariodarepublica.pt/dr/detalhe/decreto-lei/189-1994-291604), de 5 de Julho, constarão do contrato de atribuição do apoio, nomeadamente, as seguintes obrigações dos beneficiários:
 
@@ -188,7 +212,9 @@ a) Iniciar a execução dos projectos no prazo máximo de 180 dias a contar da d
 
 d) Constituir seguro pelo montante mínimo correspondente ao valor das ajudas concedidas, sempre que esteja em causa a construção ou aquisição de edifícios ou instalações.
 
-###### Artigo 13.º — Data limite para apresentação de candidaturas
+Artigo 13.º
+
+Data limite para apresentação de candidaturas
 
 A data limite para apresentação de candidaturas ao presente Regime é 30 de Junho de 1999.»
 
@@ -198,6 +224,6 @@ A data limite para apresentação de candidaturas ao presente Regime é 30 de Ju
 
 Ministério da Agricultura, do Desenvolvimento Rural e das Pescas.
 
-**Assinada em 7 de Julho de 1998.**
+Assinada em 7 de Julho de 1998.
 
 Pelo Ministro da Agricultura, do Desenvolvimento Rural e das Pescas, Marcelo de Sousa Vasconcelos, Secretário de Estado das Pescas.

@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/770/1998/09/15/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/770-1998-241239
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2010-01-14T00:00:00Z'
+  retrieved_at: '2026-10-23T14:11:02Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: eb28325d320d9587d7988e299b448250c8c08426f278a02859c836171a2b0d0e
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 1c50bbebf527eb36450a858d41aea02e9e1a9e6fa24027e920f6975a0844a8d5
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T14:11:02Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -73,6 +73,18 @@ relationships:
   target: pt:dre:459891:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:209620:por
+  label: "Renovada, por um período de seis anos, a concessão da zona de caça associativa concessionada pelo presente diploma,\
+    \ pela PORT.308/2004.23.03.2004.MADRP, DR.IS-B [70] de 23.03.2004\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/308-2004-209620
+  date: '2004-03-23'
+- type: amended_by
+  target: pt:dre:459891:por
+  label: "Renovada pelo período de seis anos, a partir de 17.09.2010, a concessão da zona de caça atribuída neste diploma\
+    \ e renovada pela Port 308/2004 de 23-Mar, pela PORT.40/2010.14.01.2010.MADRP, DR.IS [9] de 14.01.2010\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/40-2010-459891
+  date: '2010-01-14'
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/136/1996/08/14/p/dre
   label: null
@@ -81,16 +93,36 @@ relationships:
   target: eli:http://data.dre.pt/eli/port/219-a/1991/03/18/p/dre
   label: null
   source: http://data.dre.pt/eli/port/219-a/1991/03/18/p/dre
+- type: cites
+  target: pt:dre:219134:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:354162:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:405765:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:619925:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:620697:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T14:11:02Z'
   warnings: []
   errors: []
 ---
@@ -117,7 +149,7 @@ Manda o Governo, pelo Ministro da Agricultura, do Desenvolvimento Rural e das Pe
 
 Ministério da Agricultura, do Desenvolvimento Rural e das Pescas.
 
-**Assinada em 20 de Agosto de 1998.**
+Assinada em 20 de Agosto de 1998.
 
 Pelo Ministro da Agricultura, do Desenvolvimento Rural e das Pescas, Luís Manuel Capoulas Santos, Secretário de Estado da Agricultura e do Desenvolvimento Rural.
 

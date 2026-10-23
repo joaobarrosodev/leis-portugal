@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/2s/2009/10/200000000/4174041740.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -47,18 +47,18 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/declaracao-rectificacao/2553-2009-1463789
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2009-10-15T00:00:00Z'
+  retrieved_at: '2026-10-23T14:07:39Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 486a728f0b82511f0b41458a96bafcad8cf16a30981761a38f0c963489746a60
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 68f99e90c231142a420303227cf811cb684b6bfdaf6135f3621fde4fb0ec4b22
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T14:07:39Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -70,13 +70,13 @@ relationships: []
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T14:07:39Z'
   warnings: []
   errors: []
 ---
@@ -88,3 +88,5 @@ Declaração de rectificação n.º 2553/2009
 No segundo parágrafo do anúncio n.º 7052/2009, com a referência 202298305, publicado no Diário da República, 2.ª série, n.º 183, de 21 de Setembro de 2009, a p. 38 291, rectifica-se que onde se lê «Os Boletins de Inscrição devem ser entregues na Divisão de Equipamentos Sociais do IASFA, de 01 de Setembro de 2009 a 02 de Novembro de 2009» deve ler-se «Os Boletins de Inscrição devem ser entregues na Divisão de Equipamentos Sociais do IASFA, 21 de Setembro de 2009 a 02 de Novembro de 2009».
 
 9 de Outubro de 2009. - O Presidente do Conselho de Direcção, Francisco António Fialho da Rosa, tenente-general.
+
+202414742

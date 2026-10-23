@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/2s/2010/01/016000000/0355503555.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -46,18 +46,18 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/declaracao-rectificacao/141-2010-3180912
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2010-01-25T00:00:00Z'
+  retrieved_at: '2026-10-23T14:17:29Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: d4b2df45603e224505f40f80ba7ad805901258a44ba5cc1cafb815927878d4be
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: f431b06111d339edd721b3112dc953ee9b4bd655c088e15a3554df96751e33c9
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T14:17:29Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -69,13 +69,13 @@ relationships: []
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T14:17:29Z'
   warnings: []
   errors: []
 ---
@@ -93,3 +93,5 @@ deve ler-se:
 «Joaquina Carvalhais Vaz Gordo Policarpo, Maria Ilda Gordo Figueira e Zita Meireles Matias Carvalho de Vasconcelos, auxiliares de acção médica, nomeadas definitivamente, precedendo concurso, auxiliares de acção médica principal, da carreira de pessoal dos serviços gerais do mapa de pessoal do Centro Hospitalar Lisboa Norte, E. P. E., ficando exoneradas da anterior situação e transitando para a carreira e categoria de assistente operacional com a remuneração correspondente ao nível 3, sub-nível 105, com efeitos à data da aceitação da nomeação.»
 
 19 de Janeiro de 2010. - O Director do Serviço de Recursos Humanos, Jorge Alves.
+
+202810638

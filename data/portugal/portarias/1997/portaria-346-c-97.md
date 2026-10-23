@@ -21,7 +21,7 @@ publication:
   reference: Diário da República n.º 118/1997, 1º Suplemento, Série I-B de 1997-05-22
   number: '118'
   series: I
-  supplement: 1º Suplemento
+  supplement: null
   pages: 2554-(2) a 2554-(2)
   pdf_url: https://files.diariodarepublica.pt/1s/1997/05/118b01/00020002.pdf
 entry_into_force_dates: []
@@ -48,18 +48,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/346-c/1997/05/22/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/346-c-1997-492460
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2009-10-02T00:00:00Z'
+  retrieved_at: '2026-10-23T14:02:08Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 67a34dfa8426eaddb190a154233515b2bdc4f667b26d509ca8db541201707c80
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 476a7a4c72a79f37c1120d5ef9d656c0c94679c6461c690dbd6a91a1f28e3a57
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T14:02:08Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -68,13 +68,32 @@ reuse:
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
 - CAÇA
-- Mealhada
 - Coimbra
+- Mealhada
 relationships:
 - type: amended_by
   target: pt:dre:491178:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:176021:por
+  label: "Suspensa a exploração cinegética na zona de caça constituída pela Port 1238/90 de 29-Dez, cuja concessão foi renovada\
+    \ pelo presente diploma, pela PORT.250/98.1998.04.23.MADRP, DR.IS-B [95]\0]\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/250-1998-176021
+  date: '1998-04-23'
+- type: amended_by
+  target: pt:dre:222817:por
+  label: "Integrados novos prédios rústicos à zona de caça atribuída pela Port 1238/90 de 29-Dez, renovada pelo presente diploma\
+    \ ao qual é substituída a planta anexa, pela PORT.432/2004.26.04.2004.MADRP, DR.IS-B [98] de 26.04.2004\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/432-2004-222817
+  date: '2004-04-26'
+- type: amended_by
+  target: pt:dre:491178:por
+  label: "Extinta, a zona de caça associativa do Norte de Coimbra, concessionada pela Port 1238/90 de 29-Dez, renovada pelo\
+    \ presente diploma, pela PORT.1151/2009.02.10.2009.MADRP, DR.IS [192] de 02.10.2009, na parte respeitante aos prédios\
+    \ que de acordo com o seu artigo 2.º passam a integrar a zona de caça que agora criou\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/1151-2009-491178
+  date: '2009-10-02'
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/136/1996/08/14/p/dre
   label: null
@@ -83,16 +102,28 @@ relationships:
   target: eli:http://data.dre.pt/eli/port/450/1996/09/07/p/dre
   label: null
   source: http://data.dre.pt/eli/port/450/1996/09/07/p/dre
+- type: cites
+  target: pt:dre:241464:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:405765:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:564186:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T14:02:08Z'
   warnings: []
   errors: []
 ---
@@ -121,6 +152,6 @@ Manda o Governo, pelo Ministro da Agricultura, do Desenvolvimento Rural e das Pe
 
 Ministério da Agricultura, do Desenvolvimento Rural e das Pescas.
 
-**Assinada em 14 de Maio de 1997.**
+Assinada em 14 de Maio de 1997.
 
 Pelo Ministro da Agricultura, do Desenvolvimento Rural e das Pescas, Luís Manuel Capoulas Santos, Secretário de Estado da Agricultura e do Desenvolvimento Rural.

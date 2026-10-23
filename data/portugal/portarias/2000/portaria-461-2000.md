@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/461/2000/07/21/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/461-2000-321301
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2001-12-15T00:00:00Z'
+  retrieved_at: '2026-10-23T14:23:42Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 48583f9381af97363ba7a940b0811582add87bda9f5213e0c450e113f5a9dfa7
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: adf7f4e9d04112721328b75dba79ffb84019aa6ded988d2515d45f63445d19d5
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T14:23:42Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,20 +67,25 @@ reuse:
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
 - Ajuda Comunitária
-- Financiamento
-- Vinho
+- Apoio ao Investimento
 - Definição de Competências
 - Direcção Regional de Agricultura
-- Apoio ao Investimento
+- Financiamento
 - Instituto da Vinha e do Vinho
 - Política Agrícola Comum
 - Regulamento CE
 - Vinha
+- Vinho
 relationships:
 - type: amended_by
   target: pt:dre:578087:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:578087:por
+  label: "Alterado o nº 17º pela PORT.1428/2001.2001.12.15.MADRP DR.IS-B [289]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/1428-2001-578087
+  date: '2001-12-15'
 - type: cites
   target: celex:31999R1493
   label: null
@@ -92,13 +97,13 @@ relationships:
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T14:23:42Z'
   warnings: []
   errors: []
 ---
@@ -165,11 +170,11 @@ b) Se, por repartição da área disponível pela totalidade das candidaturas, a
 
 i) A candidaturas de viticultores que tenham um património vitícola, por região, inferior às seguintes áreas:
 
-[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2000/07/167b00/34923493.pdf)
+[[[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2000/07/167b00/34923493.pdf)](https://files.diariodarepublica.pt/1s/2000/07/167b00/34923493.pdf)](https://files.diariodarepublica.pt/1s/2000/07/167b00/34923493.pdf)
 
 ii) A candidaturas de viticultores que tenham um património vitícola, por região, com áreas compreendidas nos seguintes escalões:
 
-[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2000/07/167b00/34923493.pdf)
+[[[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2000/07/167b00/34923493.pdf)](https://files.diariodarepublica.pt/1s/2000/07/167b00/34923493.pdf)](https://files.diariodarepublica.pt/1s/2000/07/167b00/34923493.pdf)
 
 iii) A candidaturas de viticultores que tenham um património vitícola superior aos limites máximos referidos na subalínea anterior;
 
@@ -205,4 +210,4 @@ Pelo Ministro da Agricultura, do Desenvolvimento Rural e das Pescas, Luís Medei
 
 ## ANEXO — (a que se refere o n.º 6.º)
 
-[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2000/07/167b00/34923493.pdf)
+[[[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2000/07/167b00/34923493.pdf)](https://files.diariodarepublica.pt/1s/2000/07/167b00/34923493.pdf)](https://files.diariodarepublica.pt/1s/2000/07/167b00/34923493.pdf)

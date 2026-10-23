@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/2s/2010/06/123000000/3523535235.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -47,18 +47,18 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/declaracao-rectificacao/1255-2010-3284588
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2010-06-28T00:00:00Z'
+  retrieved_at: '2026-10-23T14:16:29Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 8130e0c9d73aeeff9038a6c737f68b25985bad0960fe89b66dc1f25fb1fe6860
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 3d4fc4549dedf2ffeb65204ade5bd69de9ec34b8d2e46d6c560f4a5688bbc35b
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T14:16:29Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -70,13 +70,13 @@ relationships: []
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T14:16:29Z'
   warnings: []
   errors: []
 ---
@@ -90,3 +90,5 @@ Passagem à situação de reforma
 Por ter saído com inexactidão a portaria n.º 384/2010, publicada no Diário da República, 2.ª série, n.º 109, de 7 de Junho de 2010, a p. 31102, rectifica-se que onde se lê «desde 07 de Janeiro de 2010» deve ler-se «desde 10 de Janeiro de 2010».
 
 21 de Junho de 2010. - Por delegação do Director de Administração dos Recursos Humanos, após delegação do Comandante do Pessoal do Exército, após delegação do Chefe do Estado-Maior do Exército, o Chefe da Repartição de Reserva, Reforma e Disponibilidade, Jorge Ferreira de Brito, COR INF.
+
+203400811

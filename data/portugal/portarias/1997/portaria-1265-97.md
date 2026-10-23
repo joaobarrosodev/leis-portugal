@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/1265/1997/12/22/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/1265-1997-419817
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2001-01-18T00:00:00Z'
+  retrieved_at: '2026-10-23T14:00:33Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: b9b16e8986b6bc5e397dadcb3c18dc4f0491640b302770a4fee9b9cd71e1888e
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 67d9dca31a785d61f0502d1085fc3d2ffee5a6978a5ac01b904e0a3f5cf148f9
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T14:00:33Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,20 +67,27 @@ reuse:
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
 - Bacharelato
-- Plano de Estudos
 - Curso de Prótese Dentária
 - Ensino Cooperativo
 - Ensino Superior Politécnico
 - Escola Superior de Saúde do Alcoitão
 - Escola Superior de Saúde do VALE do Sousa
+- Estabelecimento de Ensino
 - Numerus Clausus
 - Paredes
-- Estabelecimento de Ensino
+- Plano de Estudos
 relationships:
 - type: amended_by
   target: pt:dre:338993:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:338993:por
+  label: "Determinada, findo o processo de transição fixado nos termos do art. 10º do Regulamento Geral dos Cursos Bietápicos\
+    \ de Licenciatura em Tecnologias de Gestão, a caducidade da autorização de funcionamento do curso de bacharelato em Prótese\
+    \ Dentária, cujo funcionamento foi autorizado pelo presente diploma, pela PORT.41/2001.2001.01.18.ME, DR.IS-B [15]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/41-2001-338993
+  date: '2001-01-18'
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/16/1994/01/22/p/dre
   label: null
@@ -101,16 +108,36 @@ relationships:
   target: eli:http://data.dre.pt/eli/lei/37/1994/11/11/p/dre
   label: null
   source: http://data.dre.pt/eli/lei/37/1994/11/11/p/dre
+- type: cites
+  target: pt:dre:314396:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:512030:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:526782:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:533820:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:675650:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T14:00:33Z'
   warnings: []
   errors: []
 ---
@@ -179,7 +206,7 @@ As vagas para a candidatura à matrícula e inscrição no curso no ano lectivo 
 
 Ministério da Educação.
 
-**Assinada em 18 de Novembro de 1997.**
+Assinada em 18 de Novembro de 1997.
 
 Pelo Ministro da Educação, Alfredo Jorge Silva, Secretário de Estado do Ensino Superior.
 
@@ -189,4 +216,4 @@ Curso de Prótese Dentária
 
 Grau de bacharel
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1997/12/294b00/67436745.pdf))](https://files.diariodarepublica.pt/1s/1997/12/294b00/67436745.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1997/12/294b00/67436745.pdf)

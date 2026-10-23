@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/244/2000/05/03/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/244-2000-281591
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2004-08-23T00:00:00Z'
+  retrieved_at: '2026-10-23T14:22:22Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 506c8e84533ba232d77d50c38420535d6a57f8f1d44856589d5a33498cde7302
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: f58338db050a0b804aede3c676bb31dc0351642e07a4a5f00ab29b01279d4121
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T14:22:22Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,15 +67,15 @@ reuse:
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
 - Certificado de Origem
-- Vinho
-- Indicação Geográfica
+- Certificado de Qualidade
 - Controlo de Qualidade
 - Controlo Técnico
-- Região Demarcada
+- Indicação Geográfica
 - Licores
-- Certificado de Qualidade
-- Vinho Regional Estremadura
+- Região Demarcada
 - Vinha
+- Vinho
+- Vinho Regional Estremadura
 relationships:
 - type: amended_by
   target: pt:dre:479875:por
@@ -85,16 +85,26 @@ relationships:
   target: eli:http://data.dre.pt/eli/dec-lei/117/1999/04/14/p/dre
   label: null
   source: http://data.dre.pt/eli/dec-lei/117/1999/04/14/p/dre
+- type: cites
+  target: pt:dre:544615:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:479875:por
+  label: "Revogada pelo Dec Lei 212/2004 de 23-Ago, DR.IS-A [198], mantido contudo transitoriamente em vigor até à publicação\
+    \ da legislação prevista nos arts 5º a 11º do referido diploma\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/212-2004-479875
+  date: '2004-08-23'
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T14:22:22Z'
   warnings: []
   errors: []
 ---

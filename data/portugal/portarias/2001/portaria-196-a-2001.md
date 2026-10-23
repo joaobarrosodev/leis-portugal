@@ -20,7 +20,7 @@ publication:
   reference: Diário da República n.º 59/2001, 2º Suplemento, Série I-B de 2001-03-10
   number: '59'
   series: I
-  supplement: 2º Suplemento
+  supplement: null
   pages: 1382-(6) a 1382-(13)
   pdf_url: https://files.diariodarepublica.pt/1s/2001/03/059b02/00060013.pdf
 entry_into_force_dates: []
@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/196-a/2001/03/10/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/196-a-2001-644358
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2015-01-26T00:00:00Z'
+  retrieved_at: '2026-10-23T14:30:45Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 8266700427157da4b097e50806f7595088f3aa817da95ec3ce188bbcc0bce827
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: b47e6d7e3589c5c08187a54345a83ad75e62091c11ac79e1e6a8914287b084b8
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T14:30:45Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -68,22 +68,41 @@ reuse:
 subjects:
 - Acesso ao Emprego
 - Agência de Emprego
-- Financiamento
-- Instituto do Emprego e Formação Profissional
-- FEDER
-- Projeto de Investimento
-- Iniciativa Local de Emprego
-- FSE
 - Criação de Emprego
-- Mercado de Emprego
 - Emprego
-- QCA III
+- FEDER
+- Financiamento
+- FSE
+- Iniciativa Local de Emprego
+- Instituto do Emprego e Formação Profissional
+- Mercado de Emprego
 - Política de Emprego
+- Projeto de Investimento
+- QCA III
 relationships:
 - type: amended_by
   target: pt:dre:66325237:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:265528:por
+  label: "Aditada a al. d) ao nº 3 do cap. I, os nºs 17-A e 17-B, o nº 3 ao nº 23 e o nº 2 ao nº 26, alterada a epigrafe da\
+    \ secção IV, a secção IV \"outros apoios\" passa a secção V e os valores expressos em escudos previstos no nº 4 do nº\
+    \ 11 e na al. f) do nº 1 do nº 13º são corrigidos para Euros pela PORT.255/2002.2002.03.12.MTS, DR.IS-B [60]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/255-2002-265528
+  date: '2002-03-12'
+- type: amended_by
+  target: pt:dre:518030:por
+  label: "Alterado o nº 2 do art. 24º do presente diploma, pela PORT.183/2007.09.02.2007.MTSSO, DR.IS [29] de 09.02.2007\0\
+    \0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/183-2007-518030
+  date: '2007-02-09'
+- type: amended_by
+  target: pt:dre:489507:por
+  label: "Alterados o art. 23º e 24º (este com a redacção constante da Port 183/2007 de 09-Fev) e revogadas as secções I,\
+    \ III e IV do cap. II deste diploma pela PORT.985/2009.04.09.2009.MTSSO, DR.IS [172] de 04.09.2009\09\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/985-2009-489507
+  date: '2009-09-04'
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/109/2000/06/30/p/dre
   label: null
@@ -120,16 +139,68 @@ relationships:
   target: eli:http://data.dre.pt/eli/port/476/1994/07/01/p/dre
   label: null
   source: http://data.dre.pt/eli/port/476/1994/07/01/p/dre
+- type: cites
+  target: pt:dre:173696:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:232965:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:275862:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:291635:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:302964:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:325295:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:401886:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:514445:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:534598:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:571651:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:280186:por
+  label: "Revogado, a partir de 29.01.2011, o presente diploma, alterado pelas Port 225/2002 de 12-Mar, 183/2007 de 09-Fev\
+    \ e 985/2009 de 04-Set, pela PORT.58/2011.28.01.2011.MTSSO, DR.IS [20] de 28.01.2011\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/58-2011-280186
+  date: '2011-01-28'
+- type: repealed_by
+  target: pt:dre:66325237:por
+  label: Revogada a partir de 31.01.2015 a Port 414/96, de 24-ago, na redação do presente diploma, pelo(a) Decreto-Lei n.º
+    13/2015 - Diário da República n.º 17/2015, Série I de 2015-01-26
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/13-2015-66325237
+  date: '2015-01-26'
 article_structure:
   article_count: 0
   section_count: 9
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T14:30:45Z'
   warnings: []
   errors: []
 ---
@@ -664,4 +735,4 @@ Vigência
 
 O presente diploma produz efeitos no dia imediato ao da sua publicação.
 
-**O Ministro do Trabalho e da Solidariedade, Paulo José Fernandes Pedroso, em 10 de Março de 2001.**
+O Ministro do Trabalho e da Solidariedade, Paulo José Fernandes Pedroso, em 10 de Março de 2001.

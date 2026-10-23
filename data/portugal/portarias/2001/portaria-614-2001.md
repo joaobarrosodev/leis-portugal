@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/614/2001/06/23/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/614-2001-361478
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2006-04-11T00:00:00Z'
+  retrieved_at: '2026-10-23T14:33:26Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: a5676ae630217cbfefe82c0cce2cffca24231a346d1bc602fa7a6249618fd697
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: ab7d747f93ee5d0b76682110890aa26b94286a0a5767fa4187f487aca4fee247
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T14:33:26Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -73,6 +73,12 @@ relationships:
   target: pt:dre:651679:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:651679:por
+  label: "Anexado um prédio rústico à zona de caça concessionada pelo presente diploma, pela PORT.349/2006.11.04.2006.MAOTDR,\
+    \ DR.IS-B [72] de 11.04.2006\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/349-2006-651679
+  date: '2006-04-11'
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/136/1996/08/14/p/dre
   label: null
@@ -85,16 +91,32 @@ relationships:
   target: eli:http://data.dre.pt/eli/port/1103/2000/11/23/p/dre
   label: null
   source: http://data.dre.pt/eli/port/1103/2000/11/23/p/dre
+- type: cites
+  target: pt:dre:219134:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:405765:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:534644:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:594974:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T14:33:26Z'
   warnings: []
   errors: []
 ---

@@ -20,7 +20,7 @@ publication:
   reference: Diário da República n.º 175/2000, 2º Suplemento, Série I-B de 2000-07-31
   number: '175'
   series: I
-  supplement: 2º Suplemento
+  supplement: null
   pages: 3680-(11) a 3680-(13)
   pdf_url: https://files.diariodarepublica.pt/1s/2000/07/175b02/00110013.pdf
 entry_into_force_dates: []
@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/532-d/2000/07/31/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/532-d-2000-316740
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2000-10-20T00:00:00Z'
+  retrieved_at: '2026-10-23T14:24:13Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: eed9699a9d175d9193b28de51b94c373f4e9132ea07b3a10108b7e0830116a90
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 6f449d12f999d6819a231dd8f562c71ed9e179c73b7dc7747afa760c2e0b9722
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T14:24:13Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,28 +67,37 @@ reuse:
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
 - Curso de Complemento de Formação Científica e Pedagógica
-- Formação de Professores
 - Educador de Infância
 - Ensino Básico
+- Formação de Professores
 relationships:
 - type: amended_by
   target: pt:dre:533819:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:533819:por
+  label: "Alterada pela PORT.1011/2000.2000.10.20.ME,DR.IS-B [243]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/1011-2000-533819
+  date: '2000-10-20'
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/255/1998/08/11/p/dre
   label: null
   source: http://data.dre.pt/eli/dec-lei/255/1998/08/11/p/dre
+- type: cites
+  target: pt:dre:438070:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T14:24:13Z'
   warnings: []
   errors: []
 ---
@@ -135,22 +144,22 @@ Pelo Ministro da Educação, José Joaquim Dinis Reis, Secretário de Estado do 
 
 Vagas para o ano lectivo de 2000-2001
 
-[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2000/07/175b02/00110013.pdf)
+[[[[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2000/07/175b02/00110013.pdf)](https://files.diariodarepublica.pt/1s/2000/07/175b02/00110013.pdf)](https://files.diariodarepublica.pt/1s/2000/07/175b02/00110013.pdf)](https://files.diariodarepublica.pt/1s/2000/07/175b02/00110013.pdf)
 
 ## ANEXO II — Cursos de complemento de formação científica e pedagógica para professores do 1.º ciclo do ensino básico
 
 Vagas para o ano lectivo de 2000-2001
 
-[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2000/07/175b02/00110013.pdf)
+[[[[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2000/07/175b02/00110013.pdf)](https://files.diariodarepublica.pt/1s/2000/07/175b02/00110013.pdf)](https://files.diariodarepublica.pt/1s/2000/07/175b02/00110013.pdf)](https://files.diariodarepublica.pt/1s/2000/07/175b02/00110013.pdf)
 
 ## ANEXO III — Cursos de complemento de formação científica e pedagógica para professores do 2.º ciclo do ensino básico
 
 Vagas para o ano lectivo de 2000-2001
 
-[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2000/07/175b02/00110013.pdf)
+[[[[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2000/07/175b02/00110013.pdf)](https://files.diariodarepublica.pt/1s/2000/07/175b02/00110013.pdf)](https://files.diariodarepublica.pt/1s/2000/07/175b02/00110013.pdf)](https://files.diariodarepublica.pt/1s/2000/07/175b02/00110013.pdf)
 
 ## ANEXO IV — Cursos de complemento de formação para o exercício de outras funções educativas
 
 Vagas para o ano lectivo de 2000-2001
 
-[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2000/07/175b02/00110013.pdf)
+[[[[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2000/07/175b02/00110013.pdf)](https://files.diariodarepublica.pt/1s/2000/07/175b02/00110013.pdf)](https://files.diariodarepublica.pt/1s/2000/07/175b02/00110013.pdf)](https://files.diariodarepublica.pt/1s/2000/07/175b02/00110013.pdf)

@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/635/1999/08/11/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/635-1999-423070
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2004-11-10T00:00:00Z'
+  retrieved_at: '2026-10-23T14:16:48Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: dd5f25b079340ad0b0222cad0ddf8d5a76df15674a3bf6e547aba64779fc3807
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 9fef52de40781daeec94d7b6d2be1f1fede68e6f930962b27f9ad792549445e0
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T14:16:48Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,17 +66,28 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Plano de Estudos
 - Curso de Ciências Farmacêuticas
 - Ensino Superior Politécnico
-- Lisboa
 - Licenciatura
+- Lisboa
 - Numerus Clausus
+- Plano de Estudos
 relationships:
 - type: amended_by
   target: pt:dre:548666:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:584855:por
+  label: "Alterado o plano de estudos do curso, pela PORT.17/2002.2002.01.04.ME, DR.IS-B [3]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/17-2002-584855
+  date: '2002-01-04'
+- type: amended_by
+  target: pt:dre:548666:por
+  label: "Alterado o n.º 2.º, na redacção da Port 17/2002, de 04-Jan, pela PORT.1391/2004.10.11.2004.MCIES, DR.IS-B [264]\
+    \ de 10.11.2004\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/1391-2004-548666
+  date: '2004-11-10'
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/16/1994/01/22/p/dre
   label: null
@@ -101,16 +112,40 @@ relationships:
   target: eli:http://data.dre.pt/eli/lei/37/1994/11/11/p/dre
   label: null
   source: http://data.dre.pt/eli/lei/37/1994/11/11/p/dre
+- type: cites
+  target: pt:dre:138571:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:150335:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:167074:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:173481:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:512030:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:533820:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T14:16:48Z'
   warnings: []
   errors: []
 ---

@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/2s/2009/05/100000000/2088820888.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -47,18 +47,18 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/declaracao-rectificacao/1337-2009-1177327
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2009-05-25T00:00:00Z'
+  retrieved_at: '2026-10-23T14:00:19Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: a41e77cc90dd29482623613b2fe1ce9eaf4112971e34c53f3189a61fa99597dc
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 529c066093e6636f832cbd9b92d3127a1bf8db59e62033ba5a9cc4c1253a9e0c
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T14:00:19Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,22 +66,30 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects: []
-relationships: []
+relationships:
+- type: cites
+  target: pt:dre:2438947:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:521257:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T14:00:19Z'
   warnings: []
   errors: []
 ---
 
-# Declaração de Rectificação n.º 1337/2009
+# Declaração de rectificação n.º 1337/2009
 
 Ao abrigo da alínea h) do n.º 1 e do n.º 2 do artigo 4.º do [Decreto-Lei n.º 162/2007](https://diariodarepublica.pt/dr/detalhe/decreto-lei/162-2007-521257), de 3 de Maio, declara-se que o [Anúncio n.º 1879/2009](https://diariodarepublica.pt/dr/detalhe/anuncio/1879-2009-2438947) da Câmara Municipal de Loures, publicado no Diário da República 2.ª série - N.º 44 - 4 de Março de 2009, saiu com as seguintes inexactidões nos Termos de Referência, que mediante declaração da entidade emitente, assim se rectificam:
 
@@ -124,3 +132,5 @@ Assim, serão contempladas no modelo de execução do plano e no sistema de pere
 Na minuta de contrato de planeamento podem desde já prever-se tais medidas compensatórias, a traduzir pela realização de obras de infra-estruturas necessárias e integradas na execução do plano ainda que fora da sua área de intervenção."
 
 14 de Maio de 2009. - O Vereador do Urbanismo, João Pedro Domingues.
+
+201808774

@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2001/01/025b00/05360537.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/61/2001/01/30/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/61-2001-315149
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2005-02-02T00:00:00Z'
+  retrieved_at: '2026-10-23T14:33:22Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 4a504206f2a7d6fb69216c512f36e1e9dfadeb75d4745ec311a9979cb9817f30
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 02c048aa99f4dd7c45c6eacb918973b6c8b3be9df6ebb0f3fd0db532b61d793f
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T14:33:22Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,14 +66,14 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Produto Alimentar
 - Controlo de Qualidade
 - Controlo Sanitário
 - Etiquetagem
-- Protecção Integrada das Culturas
-- Regulamento
 - Indústria Transformadora
 - Produto Agrícola
+- Produto Alimentar
+- Protecção Integrada das Culturas
+- Regulamento
 relationships:
 - type: amended_by
   target: pt:dre:619753:por
@@ -83,16 +83,21 @@ relationships:
   target: celex:31991R2092
   label: null
   source: http://data.europa.eu/eli/reg/1991/2092/oj
+- type: repealed_by
+  target: pt:dre:619753:por
+  label: "Revogada pela PORT.131/2005.02.02.2005.MAPF, DR.IS-B [23] de 02.02.2005\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/131-2005-619753
+  date: '2005-02-02'
 article_structure:
   article_count: 4
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T14:33:22Z'
   warnings: []
   errors: []
 ---

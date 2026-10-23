@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/670/2001/07/04/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/670-2001-347759
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2011-04-05T00:00:00Z'
+  retrieved_at: '2026-10-23T14:33:46Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: d80396c82bb946cbbbdf497050a3106fa040dd24356a286caab1b6f71f826bab
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 315d794081e4cb208fa656c7179bd65da0a0fe4f84d7bfb1ae75bc18a46d4029
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T14:33:46Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,14 +67,14 @@ reuse:
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
 - Armazenagem
-- Serviço Nacional de Protecção Civil
-- Sistema Português da Qualidade
-- Controlo de Qualidade
 - Avaliação de Impacte Ambiental
+- Controlo de Qualidade
 - Norma
 - Normas de Construção
 - Plano de Emergência
 - Regulamento
+- Serviço Nacional de Protecção Civil
+- Sistema Português da Qualidade
 - Terminal de Carga
 relationships:
 - type: amended_by
@@ -89,16 +89,33 @@ relationships:
   target: eli:http://data.dre.pt/eli/dec-lei/7/2000/02/03/p/dre
   label: null
   source: http://data.dre.pt/eli/dec-lei/7/2000/02/03/p/dre
+- type: cites
+  target: pt:dre:373863:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:406096:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:575770:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:278066:por
+  label: "Revogada a 10.04.2011 pela PORT.137/2011.05.04.2011.MEID, DR.IS [67] de 05.04.2011\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/137-2011-278066
+  date: '2011-04-05'
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T14:33:46Z'
   warnings: []
   errors: []
 ---
@@ -139,4 +156,4 @@ e) Análise quantitativa de riscos associados à actividade exercida.
 
 4.º Sem prejuízo do estabelecido nos n.os 1.º e 2.º, não é impedida a utilização dos produtos, dos materiais, componentes e equipamentos abrangidos, desde que acompanhados de certificados emitidos, com base em especificações e procedimentos que assegurem uma qualidade equivalente à visada por este diploma, por organismos reconhecidos segundo critérios equivalentes aos previstos na norma de série NP EN 45 000, aplicáveis no âmbito do Sistema Português da Qualidade (SPQ), a que se refere o [Decreto-Lei n.º 234/93](https://diariodarepublica.pt/dr/detalhe/decreto-lei/234-1993-373863), de 2 de Julho.
 
-**O Ministro da Economia, Mário Cristina de Sousa, em 4 de Junho de 2001.**
+O Ministro da Economia, Mário Cristina de Sousa, em 4 de Junho de 2001.

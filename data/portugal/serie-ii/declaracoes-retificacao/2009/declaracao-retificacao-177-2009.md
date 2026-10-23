@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/2s/2009/01/016000000/0345803458.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -47,18 +47,18 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/declaracao-rectificacao/177-2009-3192017
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2009-01-23T00:00:00Z'
+  retrieved_at: '2026-10-23T14:03:03Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: f278b1dc4bee32b6b874ed98e1641bee3bea9613db867bd9cf59c2e3a3284039
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: dcf132fd989bee47d10210e5485a92f605dc6ed0d1ba9b06ea229261992be2ec
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T14:03:03Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,22 +66,26 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects: []
-relationships: []
+relationships:
+- type: cites
+  target: pt:dre:2373488:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T14:03:03Z'
   warnings: []
   errors: []
 ---
 
-# Declaração de Rectificação n.º 177/2009
+# Declaração de rectificação n.º 177/2009
 
 Por ter sido publicado com inexactidão no Diário da República, n.º 9, 2.ª série de 14 de Janeiro de 2009, o [Despacho (extracto) n.º 1841/2009](https://diariodarepublica.pt/dr/detalhe/despacho-extracto/1841-2009-2373488), se rectifica onde se lê "..Susana Maria Jerónimo Oliveira Henriques, assistente administrativo especialista do quadro da Faculdade de Medicina da Universidade de Lisboa - reclassificada, nos termos da alínea e) artigo 4.º n.º 2 alínea d) do artigo 4.º, artigo 6.º, artigo 7.º e n.º 1 do artigo 10.º do Decreto-Lei 497/99, de 19 de Novembro, na categoria de estagiária..." deve ler-se "Susana Maria Jerónimo Oliveira Henriques, estagiária da carreira técnica superior, nomeada definitivamente técnica superior de 2.ª Classe, do quadro de pessoal não docente da Faculdade de Medicina da Universidade de Lisboa, com efeitos reportados a 24 de Setembro de 2008." (Isento de fiscalização prévia do Tribunal de Contas.)
 

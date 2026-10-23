@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/178/1999/03/13/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/178-1999-144851
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2009-05-06T00:00:00Z'
+  retrieved_at: '2026-10-23T14:13:47Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 5c567b1d7662c6dea91824e5e54578dc99127d699be11e7aa4d2848ca4618220
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: d4366e28a4a79e131b947431093623ef99cfb4bbea5cc4cd9610342ee2014342
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T14:13:47Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -74,6 +74,36 @@ relationships:
   target: pt:dre:608064:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:293324:por
+  label: "anexados vários prédios rústicos à zona de caça associativa pela PORT.299/2000.2000.05.29.MADRP, DR.IS-B [124] de\
+    \ 29/Mai/2000\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/299-2000-293324
+  date: '2000-05-29'
+- type: amended_by
+  target: pt:dre:303462:por
+  label: "Anexados vários prédios rústicos à zona de caça associativa pela PORT.369/2000.2000.06.23.MADRP DR.IS-B [143]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/369-2000-303462
+  date: '2000-06-23'
+- type: amended_by
+  target: pt:dre:507236:por
+  label: "Anexados dois prédios rústicos à zona de caça associativa criada pelo presente diploma, alterada pela Port 299/2000,\
+    \ de 29-Mai, pela PORT.930/2004.27.07.2004.MADRP, DR.IS-B [175] de 27.07.2004\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/930-2004-507236
+  date: '2004-07-27'
+- type: amended_by
+  target: pt:dre:359504:por
+  label: "Excluída uma área de 5 ha da zona de caça concessionada pelo presente diploma, alterada pelas Ports. 299/2000 de\
+    \ 29-Mai, 369/2000 de 23-Jun, 930/2004 de 27-Jul, pela PORT.605/2006.23.06.2006.MADRP, DR.IS-B [120] de 23.06.2006\06\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/605-2006-359504
+  date: '2006-06-23'
+- type: amended_by
+  target: pt:dre:608064:por
+  label: "Renovada, por um período de 12 anos, a concessão da zona de caça associativa de Ciladas de S. Romão, concessionada\
+    \ pelo presente diploma, alterada pelas Ports 299/2000 de 29-Mai, 369/2000 de 23-Jun, 930/2004 de 27-Jul e 605/2006 de\
+    \ 23-Jun, pela PORT.471/2009.06.05.2009.MADRP, DR.IS [87] de 06.05.2009\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/471-2009-608064
+  date: '2009-05-06'
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/136/1996/08/14/p/dre
   label: null
@@ -82,16 +112,36 @@ relationships:
   target: eli:http://data.dre.pt/eli/port/219-a/1991/03/18/p/dre
   label: null
   source: http://data.dre.pt/eli/port/219-a/1991/03/18/p/dre
+- type: cites
+  target: pt:dre:219134:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:354162:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:405765:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:619925:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:620697:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T14:13:47Z'
   warnings: []
   errors: []
 ---
@@ -118,7 +168,7 @@ Manda o Governo, pelo Ministro da Agricultura, do Desenvolvimento Rural e das Pe
 
 Ministério da Agricultura, do Desenvolvimento Rural e das Pescas.
 
-**Assinada em 18 de Fevereiro de 1999.**
+Assinada em 18 de Fevereiro de 1999.
 
 Pelo Ministro da Agricultura, do Desenvolvimento Rural e das Pescas, Victor Manuel Coelho Barros, Secretário de Estado do Desenvolvimento Rural.
 

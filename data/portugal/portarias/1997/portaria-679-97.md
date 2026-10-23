@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/679/1997/08/12/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/679-1997-202472
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1999-04-10T00:00:00Z'
+  retrieved_at: '2026-10-23T14:04:13Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: c1ffbae3896a6b32829a9dacbc93ee6f91e5a3bd13fd706eab59c5711ddd457e
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 699140b6f01374a1cb7501eb69683a3746f1426c2d1fca8a20a0d90df994d9fa
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T14:04:13Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,28 +67,60 @@ reuse:
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
 - Bacharelato
-- Plano de Estudos
 - Curso de Educadores de Infância
 - Curso de Professores do Ensino Primário
 - Curso de Professores do Primeiro Ciclo do Ensino Básico
 - Escola Superior de Educação
 - Instituto Politécnico
+- Plano de Estudos
 - Santarém
 relationships:
 - type: amended_by
   target: pt:dre:542779:por
   label: Última alteração registada na importação inicial
   source: null
+- type: cites
+  target: pt:dre:221558:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:453184:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:470779:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:496110:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:549416:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:542253:por
+  label: "Revogada, na parte que se refere ao bacharelato em 1º Ciclo do Ensino Básico da Escola Superior de Educação de Santarém,\
+    \ pela PORT.256/99.1999.04.09.ME, DR.IS-B [83]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/256-1999-542253
+  date: '1999-04-09'
+- type: repealed_by
+  target: pt:dre:542779:por
+  label: "Revogada, na parte que se refere ao bacharelato em Educação Pré-Escolar da Escola Superior de Educação de Santarém,\
+    \ pelo presente diploma, pela PORT.261/99.1999.04.10.ME DR.IS-B [84]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/261-1999-542779
+  date: '1999-04-10'
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T14:04:13Z'
   warnings: []
   errors: []
 ---
@@ -129,7 +161,7 @@ As regras de transição entre os anteriores planos de estudos e os planos de es
 
 Ministério da Educação.
 
-**Assinada em 21 de Julho de 1997.**
+Assinada em 21 de Julho de 1997.
 
 Pelo Ministro da Educação, Alfredo Jorge Silva, Secretário de Estado do Ensino Superior.
 
@@ -143,7 +175,7 @@ Curso: Educadores de Infância
 
 Grau: bacharel
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1997/08/185b00/42054207.pdf))](https://files.diariodarepublica.pt/1s/1997/08/185b00/42054207.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1997/08/185b00/42054207.pdf)
 
 ## ANEXO II — ([Portaria n.º 547/86](https://diariodarepublica.pt/dr/detalhe/portaria/547-1986-221558), de 24 de Setembro - alteração)
 
@@ -155,4 +187,4 @@ Curso: Professores do 1.º Ciclo do Ensino Básico
 
 Grau: bacharel
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1997/08/185b00/42054207.pdf))](https://files.diariodarepublica.pt/1s/1997/08/185b00/42054207.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1997/08/185b00/42054207.pdf)

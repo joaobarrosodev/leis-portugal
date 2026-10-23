@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/2s/2009/09/187000000/3926439264.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -46,18 +46,18 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/declaracao-rectificacao/2378-2009-1587565
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2009-09-25T00:00:00Z'
+  retrieved_at: '2026-10-23T14:06:39Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: d45bb1f0f6c7615a06d4a6b158c8e75af02fe694f1d6a6483460a41cd48d77e9
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 66acf5829213876b904c75101fb5b5a528e9bbc6891c47ce9c670f312ccf4de5
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T14:06:39Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -69,13 +69,13 @@ relationships: []
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T14:06:39Z'
   warnings: []
   errors: []
 ---
@@ -87,3 +87,5 @@ Declaração de rectificação n.º 2378/2009
 Por ter saído com inexactidão o despacho (extracto) n.º 20 595/2009, relativo à equiparação a bolseiro de vários docentes, publicado no Diário da República, 2.ª série, n.º 177, de 11 de Setembro de 2009, a p. 37 392, rectifica-se que onde se lê «concedida equiparação a bolseiro fora do País ao Doutor Filipe Almeida Monteiro» deve ler-se «concedida equiparação a bolseiro no País ao Doutor Filipe Almeida Monteiro» e onde se lê «Doutora Fani Lourença Moreira Neto, professora auxiliar convidada» deve ler-se «Doutora Fani Lourença Moreira Neto, professora auxiliar».
 
 15 de Setembro de 2009. - O Secretário, Manuel Sobral Torres.
+
+202329506

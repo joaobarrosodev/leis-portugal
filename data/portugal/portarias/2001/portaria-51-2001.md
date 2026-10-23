@@ -48,18 +48,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/51/2001/01/29/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/51-2001-315110
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2005-03-30T00:00:00Z'
+  retrieved_at: '2026-10-23T14:32:42Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: d1717e24be0c43185cfbf0177f09c92d6620bdb6a9f54991096e2ea80b0b9bb8
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: b10f431111cc066a1923d185d2e340962c037fefd7b98c3e9375e6488f28e55a
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T14:32:42Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -68,21 +68,26 @@ reuse:
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
 - Ajuda Comunitária
+- Exploração Florestal
 - Financiamento
 - Gestão Financeira
+- Ifadap
 - Interesse Público
 - Investimento
-- Exploração Florestal
+- Medida Agris
+- Programa AGRO
 - QCA III
 - Regulamento
-- Programa AGRO
-- Medida Agris
-- Ifadap
 relationships:
 - type: amended_by
   target: pt:dre:564831:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:650304:por
+  label: "Alterados os arts. 1º, 6º 10º e 17º, pela PORT.1103-B/2001.2001.09.15.MPLA, DR.IS-B [215]2ºSupl\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/1103-b-2001-650304
+  date: '2001-09-15'
 - type: cites
   target: celex:31992R2158
   label: null
@@ -94,13 +99,13 @@ relationships:
 article_structure:
   article_count: 17
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T14:32:42Z'
   warnings: []
   errors: []
 ---
@@ -121,7 +126,7 @@ Manda o Governo, pelos Ministros do Planeamento e da Agricultura, do Desenvolvim
 
 Em 29 de Dezembro de 2000.
 
-**A Ministra do Planeamento, Elisa Maria da Costa Guimarães Ferreira. - O Ministro da Agricultura, do Desenvolvimento Rural e das Pescas, Luís Manuel Capoulas Santos.**
+A Ministra do Planeamento, Elisa Maria da Costa Guimarães Ferreira. - O Ministro da Agricultura, do Desenvolvimento Rural e das Pescas, Luís Manuel Capoulas Santos.
 
 REGULAMENTO DE APLICAÇÃO DA SUBACÇÃO 3.5, «VALORIZAÇÃO E CONSERVAÇÃO DOS ESPAÇOS FLORESTAIS DE INTERESSE PÚBLICO»
 

@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/366/1998/06/29/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/366-1998-477822
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2000-01-08T00:00:00Z'
+  retrieved_at: '2026-10-23T14:08:25Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: ff78daa99268d5c3d6d2adb1e754c6d845eba7ab2800b7c2ab70c5d22bcc879f
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: e30c8daa31c6ae0af91321bedb30d86fd17304cba54b659872b69f967f844946
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T14:08:25Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,15 +67,26 @@ reuse:
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
 - Colocação de Professores
+- Ensino Básico
 - Habilitações Literárias
 - Pessoal Docente
-- Ensino Básico
 - Quadro de Pessoal
 relationships:
 - type: amended_by
   target: pt:dre:509590:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:667093:por
+  label: "Alterada pela PORT.918/99.1999.10.16.ME,DR.IS-B [242]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/918-1999-667093
+  date: '1999-10-16'
+- type: amended_by
+  target: pt:dre:509590:por
+  label: "Substituídos os quadros de zona pedagógica respeitantes às Direcções Regionais de Educação do Norte e do Centro\
+    \ pela PORT.10/2000.2000.01.08.ME,DR.IS-B [6]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/10-2000-509590
+  date: '2000-01-08'
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/210/1997/08/13/p/dre
   label: null
@@ -84,16 +95,28 @@ relationships:
   target: eli:http://data.dre.pt/eli/dec-lei/384/1993/11/18/p/dre
   label: null
   source: http://data.dre.pt/eli/dec-lei/384/1993/11/18/p/dre
+- type: cites
+  target: pt:dre:202779:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:506397:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:676429:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T14:08:25Z'
   warnings: []
   errors: []
 ---
@@ -118,7 +141,7 @@ Manda o Governo, pelos Ministros das Finanças, Adjunto e da Educação, o segui
 
 Presidência do Conselho de Ministros e Ministérios das Finanças e da Educação.
 
-**Assinada em 21 de Maio de 1998.**
+Assinada em 21 de Maio de 1998.
 
 Pelo Ministro das Finanças, João Carlos da Costa Ferreira da Silva, Secretário de Estado do Orçamento. - Pelo Ministro Adjunto, Fausto de Sousa Correia, Secretário de Estado da Administração Pública e da Modernização Administrativa. - Pelo Ministro da Educação, Guilherme d'Oliveira Martins, Secretário de Estado da Administração Educativa.
 

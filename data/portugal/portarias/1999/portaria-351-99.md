@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/351/1999/05/17/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/351-1999-323316
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1999-05-17T00:00:00Z'
+  retrieved_at: '2026-10-23T14:14:52Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: a0785f6da8a61f1621122c5c76bfadee6c4c04a24697b6867175e092d218728d
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 66d99141414f46ddf6deb03bf085fe2c68bd9bb107cc1e22f0d2315e94d1cd4e
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T14:14:52Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,12 +66,12 @@ reuse:
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
 - Braga
-- Serviços de Registo e Notariado
 - Conservatória do Registo Comercial
 - Conservatória do Registo Predial
-- Registos e Notariado
 - Lisboa
 - Quadro de Pessoal
+- Registos e Notariado
+- Serviços de Registo e Notariado
 - Sintra
 - VILA NOVA de GAIA
 relationships:
@@ -79,16 +79,20 @@ relationships:
   target: eli:http://data.dre.pt/eli/dec-lei/50/1995/03/16/p/dre
   label: null
   source: http://data.dre.pt/eli/dec-lei/50/1995/03/16/p/dre
+- type: cites
+  target: pt:dre:185918:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T14:14:52Z'
   warnings: []
   errors: []
 ---
@@ -99,7 +103,7 @@ de 17 de Maio
 
 Manda o Governo, pelo Ministro da Justiça, ao abrigo do disposto no artigo 2.º do [Decreto-Lei n.º 50/95](https://diariodarepublica.pt/dr/detalhe/decreto-lei/50-1995-185918), de 16 de Março, que sejam alterados os quadros de pessoal de vários serviços externos da Direcção-Geral dos Registos e do Notariado, ficando constituídos pela forma constante do quadro anexo, que faz parte integrante desta portaria.
 
-**O Ministro da Justiça, José Eduardo Vera Cruz Jardim, em 26 de Abril de 1999.**
+O Ministro da Justiça, José Eduardo Vera Cruz Jardim, em 26 de Abril de 1999.
 
 MAPA ANEXO
 

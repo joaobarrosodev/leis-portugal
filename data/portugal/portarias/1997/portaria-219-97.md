@@ -48,18 +48,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/219/1997/04/01/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/219-1997-527428
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1997-04-01T00:00:00Z'
+  retrieved_at: '2026-10-23T14:01:22Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: aa3b74d5fc72c1e3ef82c33a3a57f3294adafc9ff966662d3eae98db729fd47a
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 8651c33b6b6578ba78828884071d6823ede5427ef7e3e29ec20e642291e2730b
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T14:01:22Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -68,14 +68,14 @@ reuse:
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
 - Bacharelato
-- Plano de Estudos
 - Curso de Canto
 - Curso de Composição
 - Curso de Formação Musical
 - Curso de Instrumento
 - Escola Superior de Música
-- Lisboa
 - Instituto Politécnico
+- Lisboa
+- Plano de Estudos
 relationships:
 - type: cites
   target: eli:http://data.dre.pt/eli/port/336/1996/08/03/p/dre
@@ -89,16 +89,48 @@ relationships:
   target: eli:http://data.dre.pt/eli/port/700/1993/07/29/p/dre
   label: null
   source: http://data.dre.pt/eli/port/700/1993/07/29/p/dre
+- type: cites
+  target: pt:dre:222418:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:345286:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:408169:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:453184:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:470779:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:506625:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:556606:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:564233:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T14:01:22Z'
   warnings: []
   errors: []
 ---
@@ -205,8 +237,8 @@ As alterações e aditamentos aprovados pela presente portaria aplicam-se a part
 
 Ministério da Educação.
 
-**Assinada em 28 de Fevereiro de 1997.**
+Assinada em 28 de Fevereiro de 1997.
 
 Pelo Ministro da Educação, Alfredo Jorge Silva, Secretário de Estado do Ensino Superior.
 
-## ANEXO I ao ANEXO XXIII — [([ver documento original](https://files.diariodarepublica.pt/1s/1997/04/076b00/14411465.pdf))](https://files.diariodarepublica.pt/1s/1997/04/076b00/14411465.pdf)
+## ANEXO I ao ANEXO XXIII — [(ver documento original)](https://files.diariodarepublica.pt/1s/1997/04/076b00/14411465.pdf)

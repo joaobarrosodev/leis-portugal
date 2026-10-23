@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/291/2001/03/29/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/291-2001-345140
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2007-04-05T00:00:00Z'
+  retrieved_at: '2026-10-23T14:31:19Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: bdb575311a9ea6d0cc90e3481b143ea3a2a266098d2d8e790e9af708da401038
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 3c4aefb6afe630ad5b6b6689995dd41e3c24d643d98fa1cb24e879f8830ce63e
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T14:31:19Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -75,6 +75,22 @@ relationships:
   target: pt:dre:520220:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:330848:por
+  label: "Substituida a planta anexa ao presente diploma pela PORT.556/2001.2001.06.01.MADRP DR.IS-B [127]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/556-2001-330848
+  date: '2001-06-01'
+- type: amended_by
+  target: pt:dre:405327:por
+  label: "Substituida a planta anexa pela PORT.1537/2002.2002.12.24.MADRP \0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/1537-2002-405327
+  date: '2002-12-26'
+- type: amended_by
+  target: pt:dre:520220:por
+  label: "Anexados vários prédios rústicos à zona de caça atribuída pelo presente diploma, com as alterações constantes das\
+    \ Port 556/2001 de 01-Jun e 1537/2002 de 26-Dez, pela PORT.399/2007.05.04.2007.MADRP, DR.IS [68] de 05.04.2007\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/399-2007-520220
+  date: '2007-04-05'
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/136/1996/08/14/p/dre
   label: null
@@ -87,16 +103,32 @@ relationships:
   target: eli:http://data.dre.pt/eli/port/1103/2000/11/23/p/dre
   label: null
   source: http://data.dre.pt/eli/port/1103/2000/11/23/p/dre
+- type: cites
+  target: pt:dre:219134:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:405765:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:534644:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:594974:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T14:31:19Z'
   warnings: []
   errors: []
 ---

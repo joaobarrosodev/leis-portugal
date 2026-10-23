@@ -51,18 +51,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/684/2001/07/05/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/684-2001-347928
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2001-07-05T00:00:00Z'
+  retrieved_at: '2026-10-23T14:33:51Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 2901c1fac96673f48e9bd174edf112964efbcd1673e7b0e00144e9ca7842f753
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: c6548d23e7d6306f6a196992981859c7027d0066ed9dbf22a9bd6192e426beb0
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T14:33:51Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -71,18 +71,18 @@ reuse:
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
 - Acesso à Informação
-- Inspeção Geral de Finanças
+- Comissão CE
 - Comissão Coordenadora
 - Comissão de Gestão
-- Gestão Financeira
 - Controlo Financeiro
 - Controlo Orçamental
 - Definição de Competências
 - Fiscalização
-- Comissão CE
+- Gestão Financeira
+- Inspeção Geral de Finanças
 - Ministro da Justiça
-- Ministro dos Negócios Estrangeiros
 - Ministro das Finanças
+- Ministro dos Negócios Estrangeiros
 - Programa Comunitário
 - QCA III
 - Regulamento CE
@@ -103,13 +103,13 @@ relationships:
 article_structure:
   article_count: 0
   section_count: 8
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T14:33:51Z'
   warnings: []
   errors: []
 ---
@@ -324,7 +324,7 @@ A presente portaria entra em vigor no dia seguinte ao da sua publicação.
 
 Em 18 de Junho de 2001.
 
-**O Ministro de Estado, Jaime José Matos da Gama. - O Ministro da Presidência, Guilherme d'Oliveira Martins. - O Ministro dos Negócios Estrangeiros, Jaime José Matos da Gama. - O Ministro da Defesa Nacional, Júlio de Lemos de Castro Caldas. - O Ministro da Administração Interna, Henrique Nuno Pires Severiano Teixeira. - O Ministro das Finanças, Joaquim Augusto Nunes Pina Moura. - Pelo Ministro do Equipamento Social, José António Fonseca Vieira da Silva, Secretário de Estado das Obras Públicas. - O Ministro da Justiça, António Luís Santos Costa. - O Ministro da Economia, Mário Cristina de Sousa. - A Ministra do Planeamento, Elisa Maria da Costa Guimarães Ferreira. - O Ministro da Agricultura, do Desenvolvimento Rural e das Pescas, Luís Manuel Capoulas Santos. - O Ministro da Educação, Augusto Ernesto Santos Silva. - A Ministra da Saúde, Maria Manuela de Brito Arcanjo Marques da Costa. - O Ministro do Trabalho e da Solidariedade, Paulo José Fernandes Pedroso. - O Ministro do Ambiente e do Ordenamento do Território, José Sócrates Carvalho Pinto de Sousa. - Pelo Ministro da Cultura, João Alexandre do Nascimento Baptista, Secretário de Estado da Cultura. - O Ministro da Ciência e da Tecnologia, José Mariano Rebelo Pires Gago. - O Ministro da Reforma do Estado e da Administração Pública, Alberto de Sousa Martins. - O Ministro da Juventude e do Desporto, José Manuel Lello Ribeiro de Almeida.**
+O Ministro de Estado, Jaime José Matos da Gama. - O Ministro da Presidência, Guilherme d'Oliveira Martins. - O Ministro dos Negócios Estrangeiros, Jaime José Matos da Gama. - O Ministro da Defesa Nacional, Júlio de Lemos de Castro Caldas. - O Ministro da Administração Interna, Henrique Nuno Pires Severiano Teixeira. - O Ministro das Finanças, Joaquim Augusto Nunes Pina Moura. - Pelo Ministro do Equipamento Social, José António Fonseca Vieira da Silva, Secretário de Estado das Obras Públicas. - O Ministro da Justiça, António Luís Santos Costa. - O Ministro da Economia, Mário Cristina de Sousa. - A Ministra do Planeamento, Elisa Maria da Costa Guimarães Ferreira. - O Ministro da Agricultura, do Desenvolvimento Rural e das Pescas, Luís Manuel Capoulas Santos. - O Ministro da Educação, Augusto Ernesto Santos Silva. - A Ministra da Saúde, Maria Manuela de Brito Arcanjo Marques da Costa. - O Ministro do Trabalho e da Solidariedade, Paulo José Fernandes Pedroso. - O Ministro do Ambiente e do Ordenamento do Território, José Sócrates Carvalho Pinto de Sousa. - Pelo Ministro da Cultura, João Alexandre do Nascimento Baptista, Secretário de Estado da Cultura. - O Ministro da Ciência e da Tecnologia, José Mariano Rebelo Pires Gago. - O Ministro da Reforma do Estado e da Administração Pública, Alberto de Sousa Martins. - O Ministro da Juventude e do Desporto, José Manuel Lello Ribeiro de Almeida.
 
 ## ANEXO — (a que se refere o artigo 3.º)
 

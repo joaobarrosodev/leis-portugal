@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/118/2001/02/23/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/118-2001-386217
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2001-07-17T00:00:00Z'
+  retrieved_at: '2026-10-23T14:28:26Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 6ec646cf7e5bfc3ba9601e0fa05e5d3abd0ce4d7556aec1d63badc631f38342d
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 9befe1ab5de921af7c0d54d7f7c993e8a07a036266ea09f4834366a817ad2179
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T14:28:26Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -75,20 +75,29 @@ relationships:
   target: pt:dre:394328:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:394328:por
+  label: "Alterada a al b) do nº 2º e a al. d) do nº 3º pela PORT.731/2001.2001.07.17.PCM DR.IS-B [164]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/731-2001-394328
+  date: '2001-07-17'
 - type: cites
   target: eli:http://data.dre.pt/eli/lei/10/2000/06/21/p/dre
   label: null
   source: http://data.dre.pt/eli/lei/10/2000/06/21/p/dre
+- type: cites
+  target: pt:dre:303580:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T14:28:26Z'
   warnings: []
   errors: []
 ---
@@ -139,4 +148,4 @@ e) Descrição pormenorizada das técnicas de recolha e tratamento de dados a ut
 
 Em 6 de Fevereiro de 2001.
 
-**O Secretário de Estado da Comunicação Social, Alberto Arons Braga de Carvalho. - O Secretário de Estado da Administração Interna, Rui Carlos Pereira.**
+O Secretário de Estado da Comunicação Social, Alberto Arons Braga de Carvalho. - O Secretário de Estado da Administração Interna, Rui Carlos Pereira.

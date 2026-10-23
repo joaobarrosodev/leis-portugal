@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1998/09/218b00/48724873.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/786/1998/09/21/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/786-1998-241637
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2009-10-07T00:00:00Z'
+  retrieved_at: '2026-10-23T14:11:11Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: d2d6d56ad10a7c710278769f3213cb294257ce0478d57d7f729337bafc465dc7
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: ece6b3e90da510255692a27e5ecee65fac1eb6dd96ac408965331e804241d516
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T14:11:11Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,12 +66,12 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Função Pública
 - Aposentação
-- CEE
-- Igualdade de Tratamento
 - Caixa Geral de Aposentações
+- CEE
+- Função Pública
 - Funcionário Europeu
+- Igualdade de Tratamento
 - Juros
 - Pensão de Aposentação
 - Pensão de Reforma
@@ -86,16 +86,25 @@ relationships:
   target: eli:http://data.dre.pt/eli/dec-lei/181/1997/07/24/p/dre
   label: null
   source: http://data.dre.pt/eli/dec-lei/181/1997/07/24/p/dre
+- type: cites
+  target: pt:dre:148994:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:491428:por
+  label: "Revogada, a partir de 01.12.2009, pelo DEC LEI.285/2009.07.10.2009.MTSSO, DR.IS [194] de 07.10.2009\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/285-2009-491428
+  date: '2009-10-07'
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T14:11:11Z'
   warnings: []
   errors: []
 ---
@@ -172,6 +181,6 @@ b) Caixa Geral de Aposentações, quando se trate do regime da protecção socia
 
 Presidência do Conselho de Ministros e Ministérios das Finanças e do Trabalho e da Solidariedade.
 
-**Assinada em 18 de Agosto de 1998.**
+Assinada em 18 de Agosto de 1998.
 
 Pelo Ministro das Finanças, João Carlos da Costa Ferreira da Silva, Secretário de Estado do Orçamento. - Pelo Ministro Adjunto, Fausto de Sousa Correira, Secretário de Estado da Administração Pública e da Modernização Administrativa. - O Ministro do Trabalho e da Solidariedade, Eduardo Luís Barreto Ferro Rodrigues.

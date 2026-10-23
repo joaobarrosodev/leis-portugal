@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1998/08/198b00/44634464.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/622/1998/08/28/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/622-1998-448303
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2001-07-11T00:00:00Z'
+  retrieved_at: '2026-10-23T14:10:10Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 8c55aea619aa232605e308617b4ab11b696c184ad07639897d9236531b2489aa
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 0b4c16dc40587cce282de55f8ff98b3c6fcc737d4ad15db14188a49b2d9f5795
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T14:10:10Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,21 +67,21 @@ reuse:
 subjects:
 - ÁGUA de REGA
 - Aveiro
-- Recursos Hídricos
 - Direcção Regional de Agricultura da Beira Litoral
 - Direcção Regional do Ambiente do Centro
-- Saúde Pública
+- Exploração Agrícola
+- Fertilizante
 - Horticultura
 - Licenciamento
-- Exploração Agrícola
 - Pampilhosa
-- Proteção do Ambiente
-- Fertilizante
-- Zona de Proteção
-- Programa de Acção
+- Poluição
 - Poluição da água
 - Produção Agrícola
-- Poluição
+- Programa de Acção
+- Proteção do Ambiente
+- Recursos Hídricos
+- Saúde Pública
+- Zona de Proteção
 relationships:
 - type: amended_by
   target: pt:dre:399189:por
@@ -91,16 +91,21 @@ relationships:
   target: celex:31991L0676
   label: null
   source: http://data.europa.eu/eli/dir/1991/676/oj
+- type: repealed_by
+  target: pt:dre:399189:por
+  label: "Revogada pela PORT.705/2001.2001.07.11.MADRP, DR.IS-B [159]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/705-2001-399189
+  date: '2001-07-11'
 article_structure:
   article_count: 8
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T14:10:10Z'
   warnings: []
   errors: []
 ---
@@ -119,9 +124,9 @@ Manda o Governo, pelo Ministro da Agricultura, do Desenvolvimento Rural e das Pe
 
 Ministério da Agricultura, do Desenvolvimento Rural e das Pescas.
 
-**Assinada em 30 de Julho de 1998.**
+Assinada em 30 de Julho de 1998.
 
-**O Ministro da Agricultura, do Desenvolvimento Rural e das Pescas, Fernando Manuel Van-Zeller Gomes da Silva.**
+O Ministro da Agricultura, do Desenvolvimento Rural e das Pescas, Fernando Manuel Van-Zeller Gomes da Silva.
 
 Programa de acção para a zona vulnerável n.º 2
 

@@ -19,12 +19,12 @@ publication:
   reference: Diário da República n.º 213/1997, 1º Suplemento, Série I-B de 1997-09-15
   number: '213'
   series: I
-  supplement: 1º Suplemento
+  supplement: null
   pages: 4956-(2) a 4956-(2)
   pdf_url: https://files.diariodarepublica.pt/1s/1997/09/213b01/00020002.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/972-a/1997/09/15/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/972-a-1997-276205
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1997-09-29T00:00:00Z'
+  retrieved_at: '2026-10-23T14:06:08Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 8ff46b837d8f4dc151cf6577726ddadf580d2908ab64654fb3160dddaf2a15a0
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: f50858281e25268b9fd33d09194319002619b7c4e2b2b854645b74d291dd6f7e
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T14:06:08Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -65,14 +65,14 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Imposto sobre Produtos Petrolíferos
-- Petróleo
-- Produto Petrolífero
 - Combustível
+- Contribuições e Impostos
 - Fuelóleo
 - Gasóleo
 - Gasolina
-- Contribuições e Impostos
+- Imposto sobre Produtos Petrolíferos
+- Petróleo
+- Produto Petrolífero
 - Taxa
 relationships:
 - type: amended_by
@@ -87,16 +87,30 @@ relationships:
   target: eli:http://data.dre.pt/eli/port/799-a/1997/09/01/p/dre
   label: null
   source: http://data.dre.pt/eli/port/799-a/1997/09/01/p/dre
+- type: cites
+  target: pt:dre:262357:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:345162:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:626010:por
+  label: "Revogada pela Port 1031-A/97.1997.09.29.MF, DR.IS-B [225]Supl, com efeitos a partir da data da entrada em vigor\
+    \ da referida portaria\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/1031-a-1997-626010
+  date: '1997-09-29'
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T14:06:08Z'
   warnings: []
   errors: []
 ---
@@ -137,6 +151,6 @@ Manda o Governo, pelos Ministros das Finanças e da Economia, em cumprimento do 
 
 Ministérios das Finanças e da Economia.
 
-**Assinada em 11 de Setembro de 1997.**
+Assinada em 11 de Setembro de 1997.
 
-**O Ministro das Finanças, António Luciano Pacheco de Sousa Franco. - O Ministro da Economia, Augusto Carlos Serra Ventura Mateus.**
+O Ministro das Finanças, António Luciano Pacheco de Sousa Franco. - O Ministro da Economia, Augusto Carlos Serra Ventura Mateus.

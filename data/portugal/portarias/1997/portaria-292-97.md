@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1997/05/101b00/20322033.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/292/1997/05/02/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/292-1997-382199
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2015-10-12T00:00:00Z'
+  retrieved_at: '2026-10-23T14:01:47Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 4ce33366fd3fedbf0519d3796bf9d9a86d71703c40ecea5922f69e0ad8e2803d
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 20e85e29da01348fc808ecef29088a35805c6fcb58f80ec47655d376b047c943
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T14:01:47Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,13 +66,18 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Vinho
 - Vinha
+- Vinho
 relationships:
 - type: amended_by
   target: pt:dre:70509976:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:903415:por
+  label: "ALTERADO O QUADRO DE PESSOAL PELA PORT.1442/2002(2ºSÉRIE).2002.08.21.MF, MS, DR.IIS [227] DE 1/OUT/2002\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/1442-2002-903415
+  date: '2002-08-21'
 - type: cites
   target: celex:31986R2392
   label: null
@@ -89,16 +94,22 @@ relationships:
   target: celex:31995R1549
   label: null
   source: http://data.europa.eu/eli/reg/1995/1549/oj
+- type: repealed_by
+  target: pt:dre:70509976:por
+  label: Revogada, com efeitos a 15.09.2015, pelo(a) Portaria n.º 348/2015 - Diário da República n.º 199/2015, Série I de
+    2015-10-12
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/348-2015-70509976
+  date: '2015-10-12'
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T14:01:47Z'
   warnings: []
   errors: []
 ---
@@ -141,6 +152,6 @@ e) Do ficheiro vitivinícola, criado pelos Regulamentos (CEE) n.º [2392/86](htt
 
 Ministério da Agricultura, do Desenvolvimento Rural e das Pescas.
 
-**Assinada em 10 de Abril de 1997.**
+Assinada em 10 de Abril de 1997.
 
 Pelo Ministro da Agricultura, do Desenvolvimento Rural e das Pescas, Manuel Maria Cardoso Leal, Secretário de Estado da Produção Agro-Alimentar.

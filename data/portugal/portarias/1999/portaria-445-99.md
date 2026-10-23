@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/445/1999/06/18/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/445-1999-388026
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2004-09-29T00:00:00Z'
+  retrieved_at: '2026-10-23T14:15:28Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 77f697cae50aa0029316f90c23e3b4f380bdca0f50b56733a88293147ceb97cc
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 24f3b9fc08ecafc5868caaea42051d02d20160b2a4b29d6a3de63b4d144746f8
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T14:15:28Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -74,6 +74,19 @@ relationships:
   target: pt:dre:616050:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:271244:por
+  label: "Suspenso o exercício da caça e actividades de carácter venatório na zona de caça atribuída pela Port 599/92 de 27-Jun,\
+    \ com a redacção do presente diploma, pela PORT.715/2004.24.06.2004.MADRP, DR.IS-B [147] de 24.06.2004\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/715-2004-271244
+  date: '2004-06-24'
+- type: amended_by
+  target: pt:dre:616050:por
+  label: "Anexados vários prédios rústicos e renovada, por um período de 12 anos, a concessão da zona de caça turística concessionada\
+    \ pela Port 599/92, de 27-Jun, alterada pelo presente diploma, pela PORT.1264-DF/2004.29.09.2004.MAPF, DR.IS-B [230-Supl]\
+    \ de 29.09.2004\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/1264-df-2004-616050
+  date: '2004-09-29'
 - type: cites
   target: eli:http://data.dre.pt/eli/port/1023/1998/12/11/p/dre
   label: null
@@ -82,16 +95,24 @@ relationships:
   target: eli:http://data.dre.pt/eli/port/599/1992/06/27/p/dre
   label: null
   source: http://data.dre.pt/eli/port/599/1992/06/27/p/dre
+- type: cites
+  target: pt:dre:221350:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:303088:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T14:15:28Z'
   warnings: []
   errors: []
 ---

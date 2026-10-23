@@ -46,41 +46,50 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/declaracao-rectificacao/2902-2009-1528351
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2009-11-24T00:00:00Z'
+  retrieved_at: '2026-10-23T14:09:45Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 62e6b685748c0416285a0ecc4e5696f134f42d31c553f240bb1c4e2a6074e7eb
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 7b4cd7b17593af22ff4ebdf4f6e3954ddc35e524ff3e5bd7e2648f78a3d7a553
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T14:09:45Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
-relationships: []
+subjects:
+- Gabinete Governamental
+- Governo Xviii
+- Ministro de Estado e dos Negócios Estrangeiros
+- Nomeação
+- Secretário Pessoal
+relationships:
+- type: cites
+  target: pt:dre:375192:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T14:09:45Z'
   warnings: []
   errors: []
 ---
 
-# Declaração de Rectificação n.º 2902/2009
+# Declaração de rectificação n.º 2902/2009
 
 Para os devidos efeitos se rectifica o despacho n.º 24578/2009, publicado no Diário da República, 2.ª série, n.º 217, de 9 de Novembro de 2009, a p. 45564, col. 2.ª, pelo que onde se lê:
 
@@ -91,3 +100,5 @@ deve ler-se:
 «1 - Ao abrigo do disposto nos artigos 2.º, 4.º e 5.º do [Decreto-Lei n.º 262/88](https://diariodarepublica.pt/dr/detalhe/decreto-lei/262-1988-375192), de 23 de Julho, nomeio Paula Maria Aleixo Silva Faustino, assistente técnica do quadro de pessoal do Serviço de Estrangeiros e Fronteiras, para exercer funções de minha secretária pessoal, em regime de comissão de serviço, através de acordo de cedência de interesse público.»
 
 18 de Novembro de 2009. - O Ministro de Estado e dos Negócios Estrangeiros, Luís Filipe Marques Amado.
+
+202600694

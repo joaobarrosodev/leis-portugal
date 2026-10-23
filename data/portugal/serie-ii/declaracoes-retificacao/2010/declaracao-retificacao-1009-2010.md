@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/2s/2010/05/099000000/2817728178.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -47,18 +47,18 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/declaracao-rectificacao/1009-2010-2088640
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2010-05-21T00:00:00Z'
+  retrieved_at: '2026-10-23T14:15:02Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 69544aa76c1501e773f5fec0c4e3106be09940b163f212fd97e6887ce48a3ac6
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: bb656edb3d998aec94ecd562743f2f78dcaae7c4aad235b18f793b9abaf28de1
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T14:15:02Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,22 +66,30 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects: []
-relationships: []
+relationships:
+- type: cites
+  target: pt:dre:197492:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:522789:por
+  label: null
+  source: null
 article_structure:
   article_count: 2
   section_count: 3
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T14:15:02Z'
   warnings: []
   errors: []
 ---
 
-# Declaração de Rectificação n.º 1009/2010
+# Declaração de rectificação n.º 1009/2010
 
 Tendo-se verificado que na publicação da tabela de taxas e licenças do município de Almeirim, no Diário da República, 2.ª série, n.º 91, de 11 de Maio de 2010, edital n.º 462/2010, alguns dos preços da tabela do artigo 1.º (n.os 19.3.1, 19.3.2 e 19.3.3) e do quadro i do artigo 3.º (n.os 2 e 3) não constaram, vimos pelo presente solicitar a republicação das referidas tabelas.
 
@@ -95,7 +103,7 @@ Tabela de taxas
 
 ###### Artigo 1.º — Prestação de serviços administrativos
 
-[([ver documento original](https://files.diariodarepublica.pt/2s/2010/05/099000000/2817728178.pdf))](https://files.diariodarepublica.pt/2s/2010/05/099000000/2817728178.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/2s/2010/05/099000000/2817728178.pdf)
 
 ### CAPÍTULO II — Urbanização e Edificação
 
@@ -109,4 +117,6 @@ QUADRO I
 
 Início do procedimento e apreciação
 
-[([ver documento original](https://files.diariodarepublica.pt/2s/2010/05/099000000/2817728178.pdf))](https://files.diariodarepublica.pt/2s/2010/05/099000000/2817728178.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/2s/2010/05/099000000/2817728178.pdf)
+
+203266733

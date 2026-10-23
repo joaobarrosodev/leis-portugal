@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/940/1998/10/29/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/940-1998-228785
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1998-10-29T00:00:00Z'
+  retrieved_at: '2026-10-23T14:12:06Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 04944c21b64a99e798641f93b686f3f9f50b09e796954c76f0b8df5e0cef385e
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 6b5bf2470cf2df59610f43e6298b95608b5ca0f2771fdabe355345ada5606035
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T14:12:06Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,11 +66,11 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Gestão Hospitalar
 - Estabelecimento Hospitalar
-- Regulamento Interno
+- Gestão Hospitalar
 - Hospital Geral de Santo António
 - Porto
+- Regulamento Interno
 relationships:
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei
@@ -112,16 +112,116 @@ relationships:
   target: eli:http://data.dre.pt/eli/resolconsmin/30/1992/08/18/p/dre
   label: null
   source: http://data.dre.pt/eli/resolconsmin/30/1992/08/18/p/dre
+- type: cites
+  target: pt:dre:138480:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:198901:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:221359:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:282102:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:288258:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:316728:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:331852:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:332425:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:344424:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:405373:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:476721:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:484654:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:506396:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:513633:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:517785:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:546255:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:571600:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:575143:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:612811:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:618767:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:633151:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:662876:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:668162:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:674025:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:674062:por
+  label: null
+  source: null
 article_structure:
   article_count: 60
   section_count: 20
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T14:12:06Z'
   warnings: []
   errors: []
 ---
@@ -148,9 +248,9 @@ Manda o Governo, pela Ministra da Saúde, o seguinte:
 
 Ministério da Saúde.
 
-**Assinada em 8 de Outubro de 1998.**
+Assinada em 8 de Outubro de 1998.
 
-**A Ministra da Saúde, Maria de Belém Roseira Martins Coelho Henriques de Pina.**
+A Ministra da Saúde, Maria de Belém Roseira Martins Coelho Henriques de Pina.
 
 REGULAMENTO INTERNO DO HOSPITAL GERAL DE SANTO ANTÓNIO
 

@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/301/1998/05/19/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/301-1998-524412
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2002-12-19T00:00:00Z'
+  retrieved_at: '2026-10-23T14:07:59Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: b708d46331b71e657b822ebfc3448ccc2b8cdcb403319e3fa1ae8cdea9d7f5e7
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 036e758d77ba015572da29ee7b375c0d0ab43b881cd2a78df17e06c695ec267c
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T14:07:59Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -73,6 +73,34 @@ relationships:
   target: pt:dre:767591:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:3240901:por
+  label: "Alterado o quadro de pessoal aprovado pelo presente diploma, pela PORT.363/99(2ªSÉRIE).1999.03.08.PCM, DR.IIS [80]\
+    \ de 06/Abr/1999\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/363-1999-3240901
+  date: '1999-03-08'
+- type: amended_by
+  target: pt:dre:3125296:por
+  label: "Alterado o quadro de pessoal pela PORT.766/2002(2ªSÉRIE).2002.04.02.MC, DR.IIS [112] de 15/Mai/2002\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/766-2002-3125296
+  date: '2002-04-02'
+- type: amended_by
+  target: pt:dre:363309:por
+  label: "Alterados, relativamente à carreira técnica superior, os quadros de pessoal dos serviços centrais e das direcções\
+    \ regionais de Évora e do Porto do Instituto Português do Património Arquitectónico constantes dos mapas I e II e VII,\
+    \ respectivamente, pela PORT.523/2002.2002.05.02.MF DR.IS-B [101]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/523-2002-363309
+  date: '2002-05-02'
+- type: amended_by
+  target: pt:dre:1045316:por
+  label: "ALTERADO O QUADRO DE PESSOAL PELA PORT.1585/2002(2ªSÉRIE).2002.10.04.MF, MC, DR.IIS [252] DE 31/OUT/2002\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/1585-2002-1045316
+  date: '2002-10-04'
+- type: amended_by
+  target: pt:dre:767591:por
+  label: "Alterado o quadro de pessoal por PORT.1852/2002(2ªSÉRIE).2002.11.29.MF e MC, DR.IIS [293] de 19/Dez/2002. \0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/1852-2002-767591
+  date: '2002-12-19'
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/120/1997/05/16/p/dre
   label: null
@@ -81,16 +109,24 @@ relationships:
   target: eli:http://data.dre.pt/eli/dec-lei/42/1996/05/07/p/dre
   label: null
   source: http://data.dre.pt/eli/dec-lei/42/1996/05/07/p/dre
+- type: cites
+  target: pt:dre:396754:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:469652:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T14:07:59Z'
   warnings: []
   errors: []
 ---
@@ -107,7 +143,7 @@ Manda o Governo, pelos Ministros das Finanças, da Cultura e Adjunto, que sejam 
 
 Presidência do Conselho de Ministros e Ministérios das Finanças e da Cultura.
 
-**Assinada em 23 de Abril de 1998.**
+Assinada em 23 de Abril de 1998.
 
 Pelo Ministro das Finanças, João Carlos da Costa Ferreira da Silva, Secretário de Estado do Orçamento. - Pelo Ministro Adjunto, Fausto de Sousa Correia, Secretário de Estado da Administração Pública e da Modernização Administrativa. - O Ministro da Cultura, Manuel Maria Ferreira Carrilho.
 

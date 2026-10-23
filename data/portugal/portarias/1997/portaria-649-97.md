@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/649/1997/08/11/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/649-1997-203465
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1997-08-11T00:00:00Z'
+  retrieved_at: '2026-10-23T14:04:03Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 5fe1c0a7f52a6ba41c80259593beb5ccc3b9bcdfaf730c178fd8b151f3ec50ed
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 06d5248be62b91e61b05d3c8ba40f042ffdb71a98dbe18be3a53ee7b45077f50
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T14:04:03Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,24 +67,44 @@ reuse:
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
 - Bacharelato
-- Plano de Estudos
 - Curso de Enfermagem
 - Escola Superior de Enfermagem de Bissaya Barreto
+- Plano de Estudos
 relationships:
 - type: cites
   target: eli:http://data.dre.pt/eli/port/1209/1995/10/04/p/dre
   label: null
   source: http://data.dre.pt/eli/port/1209/1995/10/04/p/dre
+- type: cites
+  target: pt:dre:331989:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:333169:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:361157:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:453184:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:664120:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T14:04:03Z'
   warnings: []
   errors: []
 ---
@@ -105,7 +125,7 @@ Manda o Governo, pelos Ministros da Educação e da Saúde, que o anexo à [Port
 
 Ministérios da Educação e da Saúde.
 
-**Assinada em 23 de Junho de 1997.**
+Assinada em 23 de Junho de 1997.
 
 Pelo Ministro da Educação, Alfredo Jorge Silva, Secretário de Estado do Ensino Superior. - A Ministra da Saúde, Maria de Belém Roseira Martins Coelho Henriques de Pina.
 
@@ -115,4 +135,4 @@ Curso: Enfermagem
 
 Grau: bacharel
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1997/08/184b00/41654166.pdf))](https://files.diariodarepublica.pt/1s/1997/08/184b00/41654166.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1997/08/184b00/41654166.pdf)

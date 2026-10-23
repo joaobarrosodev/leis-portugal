@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/176/1999/03/13/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/176-1999-144855
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2010-09-15T00:00:00Z'
+  retrieved_at: '2026-10-23T14:13:42Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 4e730580276890dbd06e8c92f6d86132bb0046ed5dec080960b6ea1a2b933fc2
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 8f0892d01969a93ffd675eb9bed0a6727440d34dc48344eb1a0c5237af0e7575
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T14:13:42Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -75,6 +75,18 @@ relationships:
   target: pt:dre:341806:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:642058:por
+  label: "Anexados, vários prédios rústicos à zona de caça concessionada pela Portaria 588/98 de 22 de Agosto, alterada pelo\
+    \ presente diploma, pela PORT.1258/2007.26.09.2007.MADRP, DR.IS [186] de 26.09.2007\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/1258-2007-642058
+  date: '2007-09-26'
+- type: amended_by
+  target: pt:dre:341806:por
+  label: "Renovada por doze anos a concessão da zona de caça atribuída pela Port 588/98, de 22-Ago, na redacção do presente\
+    \ diploma, pela PORT.900/2010.15.09.2010.MADRP, DR.IS [180] de 15.09.2010\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/900-2010-341806
+  date: '2010-09-15'
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/136/1996/08/14/p/dre
   label: null
@@ -83,16 +95,24 @@ relationships:
   target: eli:http://data.dre.pt/eli/port/588/1998/08/22/p/dre
   label: null
   source: http://data.dre.pt/eli/port/588/1998/08/22/p/dre
+- type: cites
+  target: pt:dre:405765:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:445330:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T14:13:42Z'
   warnings: []
   errors: []
 ---
@@ -115,7 +135,7 @@ Manda o Governo, pelo Ministro da Agricultura, do Desenvolvimento Rural e das Pe
 
 Ministério da Agricultura, do Desenvolvimento Rural e das Pescas.
 
-**Assinada em 18 de Fevereiro de 1999.**
+Assinada em 18 de Fevereiro de 1999.
 
 Pelo Ministro da Agricultura, do Desenvolvimento Rural e das Pescas, Victor Manuel Coelho Barros, Secretário de Estado do Desenvolvimento Rural.
 

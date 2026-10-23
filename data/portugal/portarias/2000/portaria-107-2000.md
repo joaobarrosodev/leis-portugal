@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2000/02/047b00/06650666.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/107/2000/02/25/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/107-2000-413397
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2000-02-25T00:00:00Z'
+  retrieved_at: '2026-10-23T14:19:35Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 95d3810f89b077c846503663566b08698b6bd23ba6491bfc21b7f7a8c50c796d
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: e525042dad11c9b62b0ecff9085a8acccda169dd4fc73c00d4987a0a51bba4be
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T14:19:35Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,22 +67,35 @@ reuse:
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
 - Água Mineral
-- Recursos Hídricos
-- Recursos Geológicos
-- Zona de Proteção
-- Recursos Naturais
 - Águas Subterrâneas
-relationships: []
+- Recursos Geológicos
+- Recursos Hídricos
+- Recursos Naturais
+- Zona de Proteção
+relationships:
+- type: cites
+  target: pt:dre:333159:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:333160:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:74226537:por
+  label: Revogada, a partir de 26.04.2016, pelo(a) Portaria n.º 100/2016 - Diário da República n.º 78/2016, Série I de 2016-04-21
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/100-2016-74226537
+  date: '2016-04-21'
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T14:19:35Z'
   warnings: []
   errors: []
 ---
@@ -103,18 +116,18 @@ Manda o Governo, pelos Ministros da Economia e do Ambiente e do Ordenamento do T
 
 Zona imediata: definida pelo polígono LMNO, cujos vértices têm as seguintes coordenadas:
 
-[(ver tabela no documento original)](https://files.diariodarepublica.pt/1s/2000/02/047b00/06650666.pdf)
+[[[(ver tabela no documento original)](https://files.diariodarepublica.pt/1s/2000/02/047b00/06650666.pdf)](https://files.diariodarepublica.pt/1s/2000/02/047b00/06650666.pdf)](https://files.diariodarepublica.pt/1s/2000/02/047b00/06650666.pdf)
 
 Zona intermédia: definida pelo polígono CDHI, cujos vértices têm as seguintes coordenadas:
 
-[(ver tabela no documento original)](https://files.diariodarepublica.pt/1s/2000/02/047b00/06650666.pdf)
+[[[(ver tabela no documento original)](https://files.diariodarepublica.pt/1s/2000/02/047b00/06650666.pdf)](https://files.diariodarepublica.pt/1s/2000/02/047b00/06650666.pdf)](https://files.diariodarepublica.pt/1s/2000/02/047b00/06650666.pdf)
 
 Zona alargada: definida pelo polígono ABCDEFGHIJ, cujos vértices têm as seguintes coordenadas:
 
-[(ver tabela no documento original)](https://files.diariodarepublica.pt/1s/2000/02/047b00/06650666.pdf)
+[[[(ver tabela no documento original)](https://files.diariodarepublica.pt/1s/2000/02/047b00/06650666.pdf)](https://files.diariodarepublica.pt/1s/2000/02/047b00/06650666.pdf)](https://files.diariodarepublica.pt/1s/2000/02/047b00/06650666.pdf)
 
 Em 4 de Fevereiro de 2000.
 
-**O Ministro da Economia, Joaquim Augusto Nunes Pina Moura. - O Ministro do Ambiente e do Ordenamento do Território, José Sócrates Carvalho Pinto de Sousa.**
+O Ministro da Economia, Joaquim Augusto Nunes Pina Moura. - O Ministro do Ambiente e do Ordenamento do Território, José Sócrates Carvalho Pinto de Sousa.
 
 [(ver planta no documento original)](https://files.diariodarepublica.pt/1s/2000/02/047b00/06650666.pdf)

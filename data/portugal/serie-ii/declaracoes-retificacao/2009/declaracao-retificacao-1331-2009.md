@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/2s/2009/05/100000000/2085920860.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -47,18 +47,18 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/declaracao-rectificacao/1331-2009-1177048
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2009-05-25T00:00:00Z'
+  retrieved_at: '2026-10-23T14:00:19Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 84a0cd4b0669a54c14700c633c32ba29b201f6bc4cc9c062df07e0a5bbd0b9ca
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: c2029476e3d9d622df4eeb416da0ee534e80c41792dab4cc587a777576089af5
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T14:00:19Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,22 +66,26 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects: []
-relationships: []
+relationships:
+- type: cites
+  target: pt:dre:1613975:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T14:00:19Z'
   warnings: []
   errors: []
 ---
 
-# Declaração de Rectificação n.º 1331/2009
+# Declaração de rectificação n.º 1331/2009
 
 Por ter saído com inexactidão a publicação do curso de Mestrado em História da Arte referente à [Deliberação n.º 1775/2008](https://diariodarepublica.pt/dr/detalhe/deliberacao/1775-2008-1613975) (2.ª série) publicado no D.R. n.º 125 de 01.07.2008, rectifica-se que:
 
@@ -100,3 +104,5 @@ Estrutura curricular e plano de estudos
 A estrutura curricular e o plano de estudos do curso são os constantes do formulário em anexo à presente deliberação, e foi elaborado nos termos das normas técnicas constantes do Despacho n.º 10543/2005, de 11 de Maio, da Direcção-Geral do Ensino Superior."
 
 19 de Maio de 2009. - A Directora dos Serviços Académicos, Julieta Mateus.
+
+201814905

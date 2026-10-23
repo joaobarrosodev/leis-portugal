@@ -48,18 +48,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/814/1997/09/04/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/814-1997-643373
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1997-09-04T00:00:00Z'
+  retrieved_at: '2026-10-23T14:05:13Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 4270d4709d6e75b6950447e9d9e1db300c9ea40c8d97bf80871e41e88586c981
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: a9a37377ff837d2b7a1109fdb768693a819926e7b38412febc6b8944f6015fe1
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T14:05:13Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -68,24 +68,56 @@ reuse:
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
 - Bacharelato
+- Bragança
 - Curso de Especialização
 - Diploma
 - Ensino Superior Politécnico
 - Escola Superior de Educação
 - Instituto Politécnico
 - Licenciatura
-- Bragança
-relationships: []
+relationships:
+- type: cites
+  target: pt:dre:222418:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:228234:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:498083:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:547192:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:564474:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:571225:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:571419:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:620318:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T14:05:13Z'
   warnings: []
   errors: []
 ---
@@ -116,7 +148,7 @@ Carta de curso do grau de licenciado
 
 Ministério da Educação.
 
-**Assinada em 14 de Agosto de 1997.**
+Assinada em 14 de Agosto de 1997.
 
 Pelo Ministro da Educação, Guilherme d'Oliveira Martins, Secretário de Estado da Administração Educativa.
 
@@ -134,7 +166,7 @@ Faço saber que ... (ver nota c), filho de ... (ver nota d), natural de ... (ver
 
 Instituto Politécnico de Bragança, ... (ver nota l).
 
-**O Presidente, ... (ver nota m).**
+O Presidente, ... (ver nota m).
 
 O Administrador, ... (ver nota n).
 
@@ -178,7 +210,7 @@ Faço saber que ... (ver nota c), filho de ... (ver nota d), natural de ... (ver
 
 Instituto Politécnico de Bragança, ... (ver nota j).
 
-**O Presidente, ... (ver nota l).**
+O Presidente, ... (ver nota l).
 
 O Administrador, ... (ver nota m).
 
@@ -220,7 +252,7 @@ Faço saber que ... (ver nota c), filho de ... (ver nota d), natural de ... (ver
 
 Instituto Politécnico de Bragança, ... (ver nota j).
 
-**O Presidente, ... (ver nota l).**
+O Presidente, ... (ver nota l).
 
 O Administrador, ... (ver nota m).
 
@@ -260,7 +292,7 @@ Faço saber que ... (ver nota c), filho de ... (ver nota d), natural de ... (ver
 
 Instituto Politécnico de Bragança, ... (ver nota l)
 
-**O Presidente, ... (ver nota n).**
+O Presidente, ... (ver nota n).
 
 O Administrador, ... (ver nota n).
 
@@ -304,7 +336,7 @@ Faço saber que ...(ver nota c), filho de ... (ver nota d), natural de ... (ver 
 
 Instituto Politécnico de Bragança, ... (ver nota m).
 
-**O Presidente, ... (ver nota n).**
+O Presidente, ... (ver nota n).
 
 O Administrador, ... (ver nota o).
 

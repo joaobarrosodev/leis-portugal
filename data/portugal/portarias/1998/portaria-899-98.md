@@ -26,7 +26,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1998/10/237b00/53255325.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -48,18 +48,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/899/1998/10/14/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/899-1998-234912
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1998-10-14T00:00:00Z'
+  retrieved_at: '2026-10-23T14:11:51Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 741b4c7f6f5a91e08fed3ccebfe3ebe26935f9e5b3696a7646f288210a398506
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: abe99a1f10b1786368e456d7f31deff894b503c6db15ead9c5e1350c7f5ca4a4
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T14:11:51Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,21 +67,21 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Produção Animal
 - Aproximação das Legislações
 - Carne
 - Carne de Caprino
 - Carne de Cavalo
+- Carne de Ovino
 - Carne de Suíno
 - Carne de Vaca
 - CEE
+- Comércio
 - Controlo Sanitário
-- Saúde Pública
-- Carne de Ovino
 - Instituto de Protecção da Produção Agro-Alimentar
 - Política Agrícola Comum
+- Produção Animal
 - Regulamento
-- Comércio
+- Saúde Pública
 - Troca Intracomunitária
 relationships:
 - type: cites
@@ -103,13 +103,13 @@ relationships:
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T14:11:51Z'
   warnings: []
   errors: []
 ---
@@ -128,6 +128,6 @@ Manda o Governo, pelos Ministros Adjunto, da Economia, da Agricultura, do Desenv
 
 Presidência do Conselho de Ministros e Ministérios da Economia, da Agricultura, do Desenvolvimento Rural e das Pescas e da Saúde.
 
-**Assinada em 24 de Setembro de 1998.**
+Assinada em 24 de Setembro de 1998.
 
 Pelo Ministro Adjunto, Fausto de Sousa Correia, Secretário de Estado da Administração Pública e da Modernização Administrativa. - Pelo Ministro da Economia, Vítor Manuel Sampaio Caetano Ramalho, Secretário de Estado Adjunto do Ministro da Economia. - Pelo Ministro da Agricultura, do Desenvolvimento Rural e das Pescas, Luís Manuel Capoulas Santos, Secretário de Estado da Agricultura e do Desenvolvimento Rural. - A Ministra da Saúde, Maria de Belém Roseira Martins Coelho Henriques de Pina.

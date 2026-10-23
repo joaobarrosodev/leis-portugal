@@ -20,7 +20,7 @@ publication:
   reference: Diário da República n.º 17/1998, 1º Suplemento, Série I-B de 1998-01-21
   number: '17'
   series: I
-  supplement: 1º Suplemento
+  supplement: null
   pages: 214-(2) a 214-(2)
   pdf_url: https://files.diariodarepublica.pt/1s/1998/01/017b01/00020002.pdf
 entry_into_force_dates: []
@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/33-a/1998/01/21/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/33-a-1998-248060
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1998-01-21T00:00:00Z'
+  retrieved_at: '2026-10-23T14:08:09Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: d6605b27750471543f4b74d274e179483bba963f3a58f91f5b7493056143bb13
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 987c1d9a029e0d358a735775d261e98a4e4c54be30304cbeb7ad9e1ee96f429a
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T14:08:09Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,14 +66,14 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Imposto sobre Produtos Petrolíferos
-- Petróleo
-- Produto Petrolífero
 - Combustível
+- Contribuições e Impostos
 - Fuelóleo
 - Gasóleo
 - Gasolina
-- Contribuições e Impostos
+- Imposto sobre Produtos Petrolíferos
+- Petróleo
+- Produto Petrolífero
 - Taxa
 relationships:
 - type: cites
@@ -84,16 +84,24 @@ relationships:
   target: eli:http://data.dre.pt/eli/port/1031-a/1997/09/29/p/dre
   label: null
   source: http://data.dre.pt/eli/port/1031-a/1997/09/29/p/dre
+- type: cites
+  target: pt:dre:262357:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:626010:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T14:08:09Z'
   warnings: []
   errors: []
 ---
@@ -116,6 +124,6 @@ Manda o Governo, pelos Ministros das Finanças e da Economia, em cumprimento do 
 
 Ministérios das Finanças e da Economia.
 
-**Assinada em 21 de Janeiro de 1998.**
+Assinada em 21 de Janeiro de 1998.
 
-**O Ministro das Finanças, António Luciano Pacheco de Sousa Franco. - O Ministro da Economia, Joaquim Augusto Nunes de Pina Moura.**
+O Ministro das Finanças, António Luciano Pacheco de Sousa Franco. - O Ministro da Economia, Joaquim Augusto Nunes de Pina Moura.

@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/429/1998/07/25/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/429-1998-428625
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2006-06-09T00:00:00Z'
+  retrieved_at: '2026-10-23T14:08:51Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 6ce2fab848dce571d3aae050ec868fc270da716b2ab2cb24c4f1bbf020f43668
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: e6bc33b6477e6320609495a062191588fc2518ffc7b5f3ced048782402297973
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T14:08:51Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,13 +66,13 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Financiamento
-- Equipamento de Pesca
-- Pesca
-- QCA
-- Porto de Pesca
 - Desenvolvimento Económico
+- Equipamento de Pesca
+- Financiamento
+- Pesca
+- Porto de Pesca
 - Programa para o Desenvolvimento Económico do Sector das Pescas
+- QCA
 - Regime de Apoio à Modernização dos Equipamentos dos Portos de Pesca
 - Regulamento
 relationships:
@@ -80,6 +80,13 @@ relationships:
   target: pt:dre:346359:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:346359:por
+  label: "Alterada o art. 4.º do corpo da Portaria e a denominação do anexo I (na redacção do Dec Lei 32/2004, de 07-Fev,\
+    \ e da Port 412/89, de 14-Jul) e revogado o anexo II (na redacção da Port 412/9, de 14-Jul) do presente diploma, pelo\
+    \ DEC LEI.111/2006.09.06.2006.MADRP, DR.IS-A [112] de 09.06.2006\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/111-2006-346359
+  date: '2006-06-09'
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/189/1994/07/05/p/dre
   label: null
@@ -88,16 +95,24 @@ relationships:
   target: eli:http://data.dre.pt/eli/port/580/1994/07/12/p/dre
   label: null
   source: http://data.dre.pt/eli/port/580/1994/07/12/p/dre
+- type: cites
+  target: pt:dre:291604:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:294711:por
+  label: null
+  source: null
 article_structure:
-  article_count: 7
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T14:08:51Z'
   warnings: []
   errors: []
 ---
@@ -128,13 +143,17 @@ a) Não se enquadrem nos objectivos previstos no artigo 1.º;
 
 d) (Revogada.)
 
-###### Artigo 4.º — Critérios de prioridade
+Artigo 4.º
+
+Critérios de prioridade
 
 Para efeitos de concessão de apoio aos projectos de modernização dos equipamentos dos portos de pesca, será dada prioridade às candidaturas que satisfaçam uma ou mais das seguintes condições:
 
 ...
 
-###### Artigo 5.º — Despesas elegíveis
+Artigo 5.º
+
+Despesas elegíveis
 
 Para efeitos de concessão de apoio, são elegíveis as seguintes despesas:
 
@@ -142,7 +161,9 @@ Para efeitos de concessão de apoio, são elegíveis as seguintes despesas:
 
 d) Encargos gerais e despesas imprevistas de investimento até montante máximo de 12% do investimento elegível orçamentado.
 
-###### Artigo 6.º — Despesas não elegíveis
+Artigo 6.º
+
+Despesas não elegíveis
 
 Não são elegíveis para efeitos de concessão de apoio as seguintes despesas:
 
@@ -150,7 +171,9 @@ Não são elegíveis para efeitos de concessão de apoio as seguintes despesas:
 
 h) Os trabalhos iniciados antes da apresentação da candidatura.
 
-###### Artigo 8.º — Apresentação das candidaturas
+Artigo 8.º
+
+Apresentação das candidaturas
 
 1 - As candidaturas ao regime de apoio previsto no presente diploma são apresentadas na Direcção-Geral das Pescas e Aquicultura, na sua sede ou na respectiva direcção regional.
 
@@ -162,13 +185,17 @@ h) Os trabalhos iniciados antes da apresentação da candidatura.
 
 5 - (Anterior n.º 4.)
 
-###### Artigo 10.º — Atribuição de apoio
+Artigo 10.º
+
+Atribuição de apoio
 
 ...
 
 3 - O pagamento do apoio só será efectuado após verificação de que o candidato tem a situação contributiva regularizada perante o Estado e a segurança social.
 
-###### Artigo 11.º — Obrigações dos beneficiários
+Artigo 11.º
+
+Obrigações dos beneficiários
 
 Para os efeitos dos artigos 5.º e 6.º do [Decreto-Lei n.º 189/94](https://diariodarepublica.pt/dr/detalhe/decreto-lei/189-1994-291604), de 5 de Julho, constarão do contrato de atribuição de apoio, nomeadamente, as seguintes obrigações dos beneficiários:
 
@@ -178,7 +205,9 @@ a) Iniciar a execução dos projectos no prazo máximo de 180 dias a contar da d
 
 d) Constituir seguro pelo montante mínimo correspondente ao valor das ajudas concedidas, sempre que esteja em causa a construção ou aquisição de edifícios ou instalações.
 
-###### Artigo 12.º — Data limite para apresentação de candidaturas
+Artigo 12.º
+
+Data limite para apresentação de candidaturas
 
 A data limite para apresentação de candidaturas ao presente Regime é 30 de Junho de 1999.»
 
@@ -188,6 +217,6 @@ A data limite para apresentação de candidaturas ao presente Regime é 30 de Ju
 
 Ministério da Agricultura, do Desenvolvimento Rural e das Pescas.
 
-**Assinada em 7 de Julho de 1998.**
+Assinada em 7 de Julho de 1998.
 
 Pelo Ministro da Agricultura, do Desenvolvimento Rural e das Pescas, Marcelo de Sousa Vasconcelos, Secretário de Estado das Pescas.

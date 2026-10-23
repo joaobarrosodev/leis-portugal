@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/2s/2009/12/236000000/4945649456.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -47,18 +47,18 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/declaracao-rectificacao/2969-2009-1019625
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2009-12-07T00:00:00Z'
+  retrieved_at: '2026-10-23T14:10:10Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 5309303395a962ca56466b4289975023d1af09d535f687878ec402b721cd6189
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: d48a1d775cc1ba6a28941151489bde06dbfd6efdeb98d6e1e64d875b0c0ec434
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T14:10:10Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -70,13 +70,13 @@ relationships: []
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T14:10:10Z'
   warnings: []
   errors: []
 ---
@@ -94,3 +94,5 @@ deve ler-se:
 «Para os devidos efeitos torna-se público que, por deliberação de 29 de Setembro de 2009 do conselho directivo do Instituto Superior de Engenharia de Coimbra, no uso de poderes delegados para o efeito, se encontra aberto, pelo prazo de 10 dias úteis, a contar da publicação do presente aviso no Diário da República, procedimento concursal comum, por urgente conveniência de serviço, para constituição de relação jurídica de emprego público, na modalidade de contrato de trabalho em funções públicas a termo resolutivo certo, pelo período de 12 meses, tendo em vista o preenchimento dos postos de trabalho infra-identificados.»
 
 17 de Novembro de 2009. - O Presidente do Conselho Directivo, Jorge Fernandes Rodrigues Bernardino.
+
+202633159

@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/49/2000/02/04/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/49-2000-406105
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2009-04-20T00:00:00Z'
+  retrieved_at: '2026-10-23T14:23:57Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 503dd4ff6e4c71b8302f3d08b39cd4d4a78f9dc4fb833a12bd8bd0081523c3bd
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 9e4841e2c6c07456bb306e0d3809f12292097cbe3f3be4587d11b9e0ddf611dc
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T14:23:57Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,9 +67,9 @@ reuse:
 subjects:
 - Criação de Lugares
 - Direcção Geral dos Registos e do Notariado
-- Registos e Notariado
 - Extinção de Lugares
 - Quadro de Pessoal
+- Registos e Notariado
 relationships:
 - type: amended_by
   target: pt:dre:603770:por
@@ -83,16 +83,24 @@ relationships:
   target: eli:http://data.dre.pt/eli/dec-lei/50/1995/03/16/p/dre
   label: null
   source: http://data.dre.pt/eli/dec-lei/50/1995/03/16/p/dre
+- type: cites
+  target: pt:dre:185918:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:534653:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T14:23:57Z'
   warnings: []
   errors: []
 ---

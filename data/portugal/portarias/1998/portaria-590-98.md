@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/590/1998/08/22/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/590-1998-445327
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2010-11-05T00:00:00Z'
+  retrieved_at: '2026-10-23T14:10:00Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 8617e11273c0c28e5a0c7bda6ed2f01b8aa9be5dfb920aea67e2a3feac7560a6
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 8aaa25b1b3e5bc1f59073a67d7c0df87ceee1eb866078e823897e432a34bb7cb
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T14:10:00Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -74,6 +74,25 @@ relationships:
   target: pt:dre:309061:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:620767:por
+  label: "Suspenso o exercício de caça e de actividades de carácter venatório da zona de caça associativa concessionada pelo\
+    \ presente diploma, pela PORT.1133/2004.09.09.2004.MAPF, DR.IS-B [213] de 09.09.2004\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/1133-2004-620767
+  date: '2004-09-09'
+- type: amended_by
+  target: pt:dre:589323:por
+  label: "Renovada, por um período de seis anos, a concessão da zona de caça associativa atribuída pelo presente diploma,\
+    \ pela Port 1284/2004 de 11-Out, DR.IS-B [239]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/1284-2004-589323
+  date: '2004-10-11'
+- type: amended_by
+  target: pt:dre:309061:por
+  label: "Renovada pelo período de seis anos, com efeitos a partir de 24.08.2010, a concessão da zona de caça atribuída pelo\
+    \ presente diploma, posteriormente renovada pela Port 1284/2004 de 11-Out, e anexados, com efeitos a partir de 06.11.2010,\
+    \ vários prédios rústicos à mesma zona de caça pela PORT.1160/2010.05.11.2010.MADRP, DR.IS [215] de 05.11.2010\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/1160-2010-309061
+  date: '2010-11-05'
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/136/1996/08/14/p/dre
   label: null
@@ -82,16 +101,36 @@ relationships:
   target: eli:http://data.dre.pt/eli/port/219-a/1991/03/18/p/dre
   label: null
   source: http://data.dre.pt/eli/port/219-a/1991/03/18/p/dre
+- type: cites
+  target: pt:dre:219134:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:354162:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:405765:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:619925:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:620697:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T14:10:00Z'
   warnings: []
   errors: []
 ---
@@ -126,7 +165,7 @@ Manda o Governo, pelos Ministros da Agricultura, do Desenvolvimento Rural e das 
 
 Ministérios da Agricultura, do Desenvolvimento Rural e das Pescas e do Ambiente.
 
-**Assinada em 23 de Julho de 1998.**
+Assinada em 23 de Julho de 1998.
 
 Pelo Ministro da Agricultura, do Desenvolvimento Rural e das Pescas, Luís Manuel Capoulas Santos, Secretário de Estado da Agricultura e do Desenvolvimento Rural. - A Ministra do Ambiente, Elisa Maria da Costa Guimarães Ferreira.
 

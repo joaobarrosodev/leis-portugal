@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2001/03/069b00/16121613.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/249/2001/03/22/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/249-2001-352709
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2007-08-31T00:00:00Z'
+  retrieved_at: '2026-10-23T14:31:04Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 5929ce7c87a485981c387a77eba9db3e39d68eb5a9627b5c0d4c0cb6bd19e627
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: b181ff992c03e6a8ff6b3ab17728c833b5d3e4385083b2e68aa550e7753f439e
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T14:31:04Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,24 +66,41 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Infarmed
 - Denominação de Instituição
+- Infarmed
 - Licenciamento
 relationships:
 - type: amended_by
   target: pt:dre:641148:por
   label: Última alteração registada na importação inicial
   source: null
+- type: cites
+  target: pt:dre:238264:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:265130:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:575475:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:641148:por
+  label: "Revogada, a partir de 30.10.2007, pelo DEC LEI.307/2007.31.08.2007.MS, DR.IS [168] de 31.08.2007\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/307-2007-641148
+  date: '2007-08-31'
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T14:31:04Z'
   warnings: []
   errors: []
 ---
@@ -112,4 +129,4 @@ Considerando o disposto no n.º 1 da base I e no n.º 1 da base II da [Lei n.º 
 
 O nome «Farmácia», simples ou composto, só pode ser utilizado para denominar estabelecimentos cuja instalação e funcionamento se encontrem autorizados pelo INFARMED, nos termos previstos na [Lei n.º 2125](https://diariodarepublica.pt/dr/detalhe/lei/2125-1965-238264), de 20 de Março de 1965, sendo a designação e o exercício dessa actividade efectuados ao abrigo do disposto no [Decreto-Lei n.º 48547](https://diariodarepublica.pt/dr/detalhe/decreto-lei/48547-1968-265130), de 27 de Agosto de 1968, com a redacção dada pelo [Decreto-Lei n.º 214/90](https://diariodarepublica.pt/dr/detalhe/decreto-lei/214-1990-575475), de 28 de Junho.
 
-**O Secretário de Estado da Saúde, José Miguel Marques Boquinhas, em 24 de Fevereiro de 2001.**
+O Secretário de Estado da Saúde, José Miguel Marques Boquinhas, em 24 de Fevereiro de 2001.

@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/2s/2009/11/226000000/4759147591.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -47,18 +47,18 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/declaracao-rectificacao/2893-2009-1281284
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2009-11-20T00:00:00Z'
+  retrieved_at: '2026-10-23T14:09:45Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 968797c301d1036307a3beff306416b129d42b88b9543524a47f0ee0e846af21
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 50fec576330e5a413235085a36d10c5c9bcfba406b646785d479d38502c7d993
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T14:09:45Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -70,13 +70,13 @@ relationships: []
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T14:09:45Z'
   warnings: []
   errors: []
 ---
@@ -88,3 +88,5 @@ Declaração de rectificação n.º 2893/2009
 Nos termos da lei, rectifica-se o aviso n.º 18 311/2009, publicado no Diário da República, 2:ª série, n.º 201, de 16 de Outubro de 2009, no que concerne à composição do júri para o procedimento concursal de assistente operacional, em virtude de, nos termos legais, se ter procedido à sua alteração e passando a ser constituído da seguinte forma, assim, onde se lê «Presidente: Adelaide Maria Sampaio Mariz, Vogal do Executivo; Vogais efectivos: Maria Cândida Pinto Paiva Alves Sousa, Vogal do Executivo, a qual substituirá o presidente do júri nas suas faltas e impedimentos e Irma Isabel Andrade de Sousa, técnica superior de Psicologia; Vogais suplentes: Maria Margarida Moreira Dias Loureiro, técnica superior de Serviço Social e Maria Augusta Mesquita Mendes, Coordenadora Técnica» deve ler-se «Presidente: Maria Augusta Mesquita Mendes, coordenadora técnica; Vogais efectivos: Susana Cláudia Cruz Alfredo, vogal do executivo a qual substituirá o presidente do júri nas suas faltas e impedimentos e Irma Isabel Andrade de Sousa, técnica superior de psicologia; Vogais suplentes: Maria Margarida Moreira Dias Loureiro, técnica superior de serviço social e André Manuel de Sá e Rocha Pinho, vogal do executivo».
 
 13 de Novembro de 2009. - O Presidente, Sérgio do Nascimento Alves Martins.
+
+302586414

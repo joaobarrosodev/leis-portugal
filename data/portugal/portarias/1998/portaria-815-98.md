@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/815/1998/09/26/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/815-1998-245555
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1999-01-08T00:00:00Z'
+  retrieved_at: '2026-10-23T14:11:21Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: c7a218b56adf3ef3d38c64a22f94d22bfa14da1bdaf2f1d0d0382b8d66d7689c
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: bf3efea96ade4e702f02bc8681f514375606dc1409536c907c60334d203fc3db
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T14:11:21Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,20 +66,25 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Sipac
-- Financiamento
-- Catástrofe
-- JURO Bonificado
 - Agricultor
 - Agricultura
-- Ifadap
+- Catástrofe
+- Financiamento
 - Fundo de Calamidades
+- Ifadap
+- JURO Bonificado
+- Sipac
 - Situação de Calamidade
 relationships:
 - type: amended_by
   target: pt:dre:484853:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:484853:por
+  label: "Alterado o nº 2º e acrescentado um nº 3º pela PORT.15-A/99.1999.01.08.MF DR.IS-B [6]Supl\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/15-a-1999-484853
+  date: '1999-01-08'
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/20/1996/03/19/p/dre
   label: null
@@ -88,16 +93,28 @@ relationships:
   target: eli:http://data.dre.pt/eli/port/430/1997/07/01/p/dre
   label: null
   source: http://data.dre.pt/eli/port/430/1997/07/01/p/dre
+- type: cites
+  target: pt:dre:160511:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:535012:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:549393:por
+  label: null
+  source: null
 article_structure:
   article_count: 7
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T14:11:21Z'
   warnings: []
   errors: []
 ---
@@ -108,7 +125,7 @@ de 26 de Setembro
 
 Durante o ano agrícola de 1997-1998 ocorreram fenómenos climatéricos vários em diversas zonas do País, afectando com gravidade algumas culturas.
 
-# Parte significativa dos prejuízos não são passíveis, dada a sua origem, de cobertura pelo seguro de colheitas, pelo que é previsível uma quebra no rendimento dos agricultores afectados, gerando dificuldades acrescidas no financiamento das culturas da próxima campanha.
+Parte significativa dos prejuízos não são passíveis, dada a sua origem, de cobertura pelo seguro de colheitas, pelo que é previsível uma quebra no rendimento dos agricultores afectados, gerando dificuldades acrescidas no financiamento das culturas da próxima campanha.
 
 Atendendo ao carácter imprevisto e excepcional dos fenómenos climatéricos e à necessidade de criar condições para o relançamento das actividades, o Governo considera estarem reunidas as condições para declarar a situação de calamidade agrícola de origem climatérica, nos termos e para os efeitos previstos no artigo 6.º do [Decreto-Lei n.º 20/96](https://diariodarepublica.pt/dr/detalhe/decreto-lei/20-1996-535012), de 19 de Março, que institui o Sistema Integrado de Protecção contra as Aleatoriedades Climáticas, e na sequência desta declaração definir os termos de intervenção do fundo de calamidades ali previsto.
 
@@ -122,9 +139,9 @@ Manda o Governo, pelos Ministros das Finanças e da Agricultura, do Desenvolvime
 
 Ministérios das Finanças e da Agricultura, do Desenvolvimento Rural e das Pescas.
 
-**Assinada em 3 de Setembro de 1998.**
+Assinada em 3 de Setembro de 1998.
 
-**O Ministro das Finanças, António Luciano Pacheco de Sousa Franco. - O Ministro da Agricultura, do Desenvolvimento Rural e das Pescas, Fernando Manuel Van-Zeller Gomes da Silva.**
+O Ministro das Finanças, António Luciano Pacheco de Sousa Franco. - O Ministro da Agricultura, do Desenvolvimento Rural e das Pescas, Fernando Manuel Van-Zeller Gomes da Silva.
 
 ## ANEXO I — (a que se refere o n.º 1.º)
 

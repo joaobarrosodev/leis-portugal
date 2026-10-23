@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/2s/2009/02/027000000/0565205652.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -47,18 +47,18 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/declaracao-rectificacao/396-2009-2459074
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2009-02-09T00:00:00Z'
+  retrieved_at: '2026-10-23T14:11:26Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 87b6bc6a7e9f7c9d479efd18d7e9a235f8ee9f09549036eb5f8c5fe913207d19
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 645446946ba17a4983d03c5aceb85daae91b6e4e800697dbe0f689db98a1cc6e
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T14:11:26Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -70,13 +70,13 @@ relationships: []
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T14:11:26Z'
   warnings: []
   errors: []
 ---
@@ -102,3 +102,5 @@ Insolvente: Teleretail - Importação e Exportação, Lda., NIF - 506496163, End
 Por ter saído com inexactidão o anúncio 408/09 publicado no Diário da República n.º 12 de 19/01/2009 onde, foi designado o dia onde se lê "6/03/2009, pelas 14 horas", deve ler-se "16-03-2009, pelas 15:00 horas," para a realização da reunião de assembleia de credores.
 
 3 de Fevereiro de 2009. - A Juíza de Direito, Maria de Fátima dos Reis Silva. - O Oficial de Justiça, Carla Stattmiller.
+
+301336438

@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/973/1997/09/17/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/973-1997-649479
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1997-09-17T00:00:00Z'
+  retrieved_at: '2026-10-23T14:06:09Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: f332254c38d460d28cc5e5a694cd848f3f58be3ec2c7a8b7515ab2417e2d0db2
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 18d2d93d4b4f5608ed4338d4988b6a1ff1d753d27623f5b67831264896822711
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T14:06:09Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,9 +67,9 @@ reuse:
 subjects:
 - Arcos de Valdevez
 - Ordenamento do Território
-- Política de Solos
 - Plano de Pormenor
 - Plano de Urbanização
+- Política de Solos
 - Protecção do Património
 - Regulamento
 relationships:
@@ -81,16 +81,44 @@ relationships:
   target: eli:http://data.dre.pt/eli/dec-lei/445/1991/11/20/p/dre
   label: null
   source: http://data.dre.pt/eli/dec-lei/445/1991/11/20/p/dre
+- type: cites
+  target: pt:dre:164053:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:182874:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:321486:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:332412:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:332912:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:334636:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:372201:por
+  label: null
+  source: null
 article_structure:
   article_count: 37
   section_count: 8
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T14:06:09Z'
   warnings: []
   errors: []
 ---
@@ -115,9 +143,9 @@ Manda o Governo, pelo Secretário de Estado da Administração Local e Ordenamen
 
 Ministério do Equipamento, do Planeamento e da Administração do Território.
 
-**Assinada em 1 de Agosto de 1997.**
+Assinada em 1 de Agosto de 1997.
 
-**O Secretário de Estado da Administração Local e Ordenamento do Território, José Augusto de Carvalho.**
+O Secretário de Estado da Administração Local e Ordenamento do Território, José Augusto de Carvalho.
 
 REGULAMENTO DO PLANO DE PORMENOR DE RENOVAÇÃO URBANA DO CENTRO HISTÓRICO DE ARCOS DE VALDEVEZ
 
@@ -815,4 +843,4 @@ Na área do CH é óbvio o alto risco que representam, para o conjunto edificado
 
 6.3 - Todos os edifícios que guardem ou armazenem produtos facilmente inflamáveis (classe M4) terão de ter, em sítio bem visível, no local de acesso, um cofre com a inscrição «Serviço de incêndios», onde serão depositados os elementos necessários ao conhecimento do edifício e dos seus locais de maior risco, com planta dos vários pavimentos indicando a localização das bocas-de-água instaladas e informação completa sobre o sistema de abastecimento da rede de incêndios.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1997/09/215b00/49925002.pdf))](https://files.diariodarepublica.pt/1s/1997/09/215b00/49925002.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1997/09/215b00/49925002.pdf)

@@ -20,7 +20,7 @@ publication:
   reference: Diário da República n.º 176/2000, 2º Suplemento, Série I-B de 2000-08-01
   number: '176'
   series: I
-  supplement: 2º Suplemento
+  supplement: null
   pages: 3696-(21) a 3696-(28)
   pdf_url: https://files.diariodarepublica.pt/1s/2000/08/176b02/00210028.pdf
 entry_into_force_dates: []
@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/533-d/2000/08/01/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/533-d-2000-636249
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2001-05-03T00:00:00Z'
+  retrieved_at: '2026-10-23T14:24:17Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 1cb1f37e558eb7c5902cd5d79228edcd20f501ff317475e05d78ac5b8403745d
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 77adf089fa017f1c0f75abd8a987eef2582707393db5264ef283d0c512387141
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T14:24:17Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,37 +67,54 @@ reuse:
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
 - Ajuda Comunitária
-- Silvicultura
-- Cortiça
 - Arborização
-- Ordenamento Florestal
-- Exploração Florestal
-- Regulamento de Aplicação das Acções 3.1 e 3.2-apoio à Silvicultura e Restabelecimento do Potencial de Produção Silvícola
-- QCA III
-- Projecto Agrícola
-- Regulamento
-- Programa AGRO
-- Ifadap
 - Comércio
+- Cortiça
+- Exploração Florestal
+- Ifadap
+- Ordenamento Florestal
+- Programa AGRO
+- Projecto Agrícola
+- QCA III
+- Regulamento
+- Regulamento de Aplicação das Acções 3.1 e 3.2-apoio à Silvicultura e Restabelecimento do Potencial de Produção Silvícola
+- Silvicultura
 relationships:
 - type: amended_by
   target: pt:dre:531186:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:616457:por
+  label: "Prorrogado até 31 de Dezembro de 2000 o prazo no regulamento pela PORT.1099/2000.2000.11.17.MADRP, DR.IS-B [266]\0\
+    \0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/1099-2000-616457
+  date: '2000-11-17'
 - type: cites
   target: celex:31999R1257
   label: null
   source: http://data.europa.eu/eli/reg/1999/1257/oj
+- type: corrected_by
+  target: pt:dre:569896:por
+  label: "Rectificada pela DECL-RECT.11-I/2000.2000.09.29.PCM DR.IS-B [227]2ºSUPL DE 30/SET/2000\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/declaracao-rectificacao/11-i-2000-569896
+  date: '2000-09-29'
+- type: repealed_by
+  target: pt:dre:531186:por
+  label: "Revogada pela PORT.448-A/2001.2001.05.03.MADRP DR.IS-B [102]Supl, sem prejuízo do disposto no respectivo nº 3º\0\
+    \0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/448-a-2001-531186
+  date: '2001-05-03'
 article_structure:
   article_count: 20
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T14:24:17Z'
   warnings: []
   errors: []
 ---
@@ -118,7 +135,7 @@ Assim, ao abrigo do disposto no n.º 2 do artigo 22.º do Decreto-Lei n.º 163-A
 
 Manda o Governo, pelo Ministro da Agricultura, do Desenvolvimento Rural e das Pescas, que seja aprovado o Regulamento de Aplicação das Acções 3.1 e 3.2: Apoio à Silvicultura e Restabelecimento do Potencial de Produção Silvícola da Medida n.º 3 do Programa Operacional Agricultura e Desenvolvimento Rural, abreviadamente designado «Programa Agro», em anexo ao presente diploma e do qual faz parte integrante.
 
-**O Ministro da Agricultura, do Desenvolvimento Rural e das Pescas, Luís Manuel Capoulas Santos, em 1 de Agosto de 2000.**
+O Ministro da Agricultura, do Desenvolvimento Rural e das Pescas, Luís Manuel Capoulas Santos, em 1 de Agosto de 2000.
 
 REGULAMENTO DE APLICAÇÃO DAS ACÇÕES 3.1 E 3.2: APOIO À SILVICULTURA E RESTABELECIMENTO DO POTENCIAL DE PRODUÇÃO SILVÍCOLA.
 
@@ -408,13 +425,13 @@ g) Utilizar o livro de obra para acompanhamento e validação da execução dos 
 
 Densidades mínimas dos povoamentos
 
-[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2000/08/176b02/00210028.pdf)
+[[[[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2000/08/176b02/00210028.pdf)](https://files.diariodarepublica.pt/1s/2000/08/176b02/00210028.pdf)](https://files.diariodarepublica.pt/1s/2000/08/176b02/00210028.pdf)](https://files.diariodarepublica.pt/1s/2000/08/176b02/00210028.pdf)
 
 ## ANEXO II — (a que se refere o n.º 2 do artigo 4.º)
 
 Espécies elegíveis
 
-[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2000/08/176b02/00210028.pdf)
+[[[[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2000/08/176b02/00210028.pdf)](https://files.diariodarepublica.pt/1s/2000/08/176b02/00210028.pdf)](https://files.diariodarepublica.pt/1s/2000/08/176b02/00210028.pdf)](https://files.diariodarepublica.pt/1s/2000/08/176b02/00210028.pdf)
 
 1 - Em projectos com menos de 5 ha são elegíveis todas as espécies adaptadas ecologicamente à estação respectiva.
 
@@ -426,7 +443,7 @@ Espécies elegíveis
 
 Espécies de crescimento rápido/áreas máximas contínuas
 
-[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2000/08/176b02/00210028.pdf)
+[[[[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2000/08/176b02/00210028.pdf)](https://files.diariodarepublica.pt/1s/2000/08/176b02/00210028.pdf)](https://files.diariodarepublica.pt/1s/2000/08/176b02/00210028.pdf)](https://files.diariodarepublica.pt/1s/2000/08/176b02/00210028.pdf)
 
 ## ANEXO IV — (a que se refere o n.º 1 do artigo 8.º)
 
@@ -560,7 +577,7 @@ c) Despesas com a constituição de garantias, quando exigidas no quadro da aná
 
 Densidades mínimas de estabelecimento do povoamento
 
-[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2000/08/176b02/00210028.pdf)
+[[[[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2000/08/176b02/00210028.pdf)](https://files.diariodarepublica.pt/1s/2000/08/176b02/00210028.pdf)](https://files.diariodarepublica.pt/1s/2000/08/176b02/00210028.pdf)](https://files.diariodarepublica.pt/1s/2000/08/176b02/00210028.pdf)
 
 ## ANEXO VI — [a que se refere a alínea c) do artigo 16.º]
 

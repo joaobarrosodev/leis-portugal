@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/2s/2009/02/040000000/0772107721.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -46,18 +46,18 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/declaracao-rectificacao/600-2009-1804135
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2009-02-26T00:00:00Z'
+  retrieved_at: '2026-10-23T14:12:36Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 98b781a6421b1fc388059f9bcd3b45cc662552c1a37dca1b2c6c950fc3b417f3
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 91b3e7997b36bc3c878d1a35fbcf81566c6f73d74fa610cc8de99ee28d4636df
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T14:12:36Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -69,13 +69,13 @@ relationships: []
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T14:12:36Z'
   warnings: []
   errors: []
 ---
@@ -86,10 +86,10 @@ Declaração de rectificação n.º 600/2009
 
 Por ter sido publicado com inexactidão a declaração de rectificação n.º 265/2009, publicado no Diário da República, 2.ª série, n.º 21 de 30 de Janeiro de 2009 referente à nomeação de professores titulares do quadro deste agrupamento com efeitos a 1 de Setembro de 2007, rectifica-se onde se lê:
 
-[([ver documento original](https://files.diariodarepublica.pt/2s/2009/02/040000000/0772107721.pdf))](https://files.diariodarepublica.pt/2s/2009/02/040000000/0772107721.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/2s/2009/02/040000000/0772107721.pdf)
 
 Deve ler-se:
 
-[([ver documento original](https://files.diariodarepublica.pt/2s/2009/02/040000000/0772107721.pdf))](https://files.diariodarepublica.pt/2s/2009/02/040000000/0772107721.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/2s/2009/02/040000000/0772107721.pdf)
 
 10 de Fevereiro de 2009. - O Presidente do Conselho Executivo, José Rafael Pinto de Barros.

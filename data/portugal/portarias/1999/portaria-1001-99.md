@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1999/11/262b00/79017902.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/1001/1999/11/10/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/1001-1999-683041
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2010-02-18T00:00:00Z'
+  retrieved_at: '2026-10-23T14:12:26Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: d771bb8cf83722a74ce7fa2410b598bde3df586c00716a6a82793b6e970f37e2
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 161322863f9788e9c294a0ae6c16a5b91b330fad8efd10e5b2bd995897245f47
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T14:12:26Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,45 +67,76 @@ reuse:
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
 - Adido Militar
-- Reino Unido
+- Angola
 - Bélgica
-- EUA
 - Bulgária
+- Canadá
 - Congo-brazzaville
-- Moçambique
+- Congo-kinshasa
 - Criação de Lugares
-- Tanzânia
 - Dinamarca
 - Egipto
-- RFA
+- EUA
 - Extinção de Lugares
+- França
 - Hungria
 - Israel
-- Angola
+- Luxemburgo
+- Moçambique
+- Países Baixos
 - Quadro de Pessoal
+- Reino Unido
 - Representação Diplomática
 - República Checa
-- Congo-kinshasa
-- Países Baixos
+- RFA
 - Rússia
-- Canadá
-- França
-- Luxemburgo
+- Tanzânia
 relationships:
 - type: amended_by
   target: pt:dre:2142273:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:593536:por
+  label: "Aditado os lugares de adido de defesa e de amanuense em Jacarta ao anexo aprovado pelo presente diploma, pela PORT.1108/2000.2000.11.27.MNE\
+    \ DR.IS-B [274]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/1108-2000-593536
+  date: '2000-11-27'
+- type: amended_by
+  target: pt:dre:517596:por
+  label: "Aditado ao anexo deste diploma o quadro da Missão Militar em Díli, pela PORT.743/2004.30.06.2004.MF, DR.IS-B [152]\
+    \ de 30.06.2004\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/743-2004-517596
+  date: '2004-06-30'
+- type: amended_by
+  target: pt:dre:2142273:por
+  label: "Aditado o cargo de adido de defesa em Argel e o respectivo gabinete de apoio ao anexo e revogado o nº11 do presente\
+    \ diploma, pela PORT.117/2010.18.02.2010.MNE, DR.IIS [34] de 18.02.2010\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/117-2010-2142273
+  date: '2010-02-18'
+- type: cites
+  target: pt:dre:332407:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:389378:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:70510001:por
+  label: Revogada pelo(a) Portaria n.º 780/2015 - Diário da República n.º 200/2015, Série II de 2015-10-13
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/780-2015-70510001
+  date: '2015-10-13'
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T14:12:26Z'
   warnings: []
   errors: []
 ---
@@ -160,6 +191,6 @@ Manda o Governo, através dos Ministros dos Negócios Estrangeiros, da Defesa Na
 
 13.º É revogada a [Portaria n.º 167/90](https://diariodarepublica.pt/dr/detalhe/portaria/167-1990-332407), de 2 de Março, passando o elenco dos adidos e dos respectivos gabinetes a ser o que consta do quadro anexo ao presente diploma e do qual faz parte integrante.
 
-**O Ministro dos Negócios Estrangeiros, Jaime José Matos da Gama, em 19 de Outubro de 1999. - O Ministro da Defesa Nacional, Jaime José Matos da Gama, em 19 de Outubro de 1999. - Pelo Ministro das Finanças, João Carlos da Costa Ferreira da Silva, Secretário de Estado do Orçamento, em 18 de Outubro de 1999.**
+O Ministro dos Negócios Estrangeiros, Jaime José Matos da Gama, em 19 de Outubro de 1999. - O Ministro da Defesa Nacional, Jaime José Matos da Gama, em 19 de Outubro de 1999. - Pelo Ministro das Finanças, João Carlos da Costa Ferreira da Silva, Secretário de Estado do Orçamento, em 18 de Outubro de 1999.
 
 ## ANEXO — [(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/1999/11/262b00/79017902.pdf)

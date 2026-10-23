@@ -46,41 +46,83 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/declaracao-rectificacao/912-2009-3697555
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2009-03-27T00:00:00Z'
+  retrieved_at: '2026-10-23T14:14:32Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 41431af4a5f5c2a7116ca8cb6df5ff55146f6dc035e616210bdad29c6f2a9ead
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: e9de5429c4629dd56b9dfd88669d4f78090e2a6d8465974aac9ea60bfff3b71e
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T14:14:32Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
-relationships: []
+subjects:
+- Beja
+- Bragança
+- Coimbra
+- Delegação de Competências
+- Escola Náutica Infante Dom Henrique
+- Escola Superior de Enfermagem
+- Escola Superior de Hotelaria e Turismo do Estoril
+- Governo XVII
+- Guarda
+- Instituto Politécnico
+- Instituto Politécnico do Cávado e do AVE
+- Leiria
+- Lisboa
+- Ministro da Ciência Tecnologia e Ensino Superior
+- Portalegre
+- Porto
+- Presidente
+- Santarém
+- Setúbal
+- Tomar
+- Viana do Castelo
+- Viseu
+relationships:
+- type: cites
+  target: pt:dre:227271:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:248178:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:311259:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:468663:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:640339:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T14:14:32Z'
   warnings: []
   errors: []
 ---
 
-# Declaração de Rectificação n.º 912/2009
+# Declaração de rectificação n.º 912/2009
 
 Por ter sido publicado com inexactidão no Diário da República, 2.ª série, n.º 55, de 19 de Março, os despachos n.º s 7937/2009 e 7938/2009, rectifica-se que onde se lê «do artigo 151.º da [Lei n.º 62/2007](https://diariodarepublica.pt/dr/detalhe/lei/62-2007-640339), de 10 de Setembro - Regime Jurídico das Instituições de Ensino Superior (RJIES) - , da [Lei n.º 66-B/2007](https://diariodarepublica.pt/dr/detalhe/lei/66-b-2007-227271), de 28 de Dezembro - Estabelece o Sistema Integrado de Gestão e Avaliação do Desempenho na Administração Pública - , da [Lei n.º 12-A/2008](https://diariodarepublica.pt/dr/detalhe/lei/12-a-2008-468663), de 27 de Fevereiro, que estabelece os Regimes de Vinculação, de Carreiras e Remunerações dos Trabalhadores que exercem Funções Públicas e, ainda, do artigo 109.º do [Decreto-Lei n.º 18/2008](https://diariodarepublica.pt/dr/detalhe/decreto-lei/18-2008-248178), de 29 de Janeiro - Aprova o Código dos Contratos Públicos (CCP)» deve ler-se «do artigo 151.º da [Lei n.º 62/2007](https://diariodarepublica.pt/dr/detalhe/lei/62-2007-640339), de 10 de Setembro (Regime Jurídico das Instituições de Ensino Superior), da alínea c) do n.º 1 do artigo 17.º do [Decreto-Lei n.º 197/99](https://diariodarepublica.pt/dr/detalhe/decreto-lei/197-1999-311259), de 8 de Junho e da alínea c) do n.º 3 do mesmo artigo, por força do disposto na alínea f) do n.º 1 do artigo 14.º do [Decreto-Lei n.º 18/2008](https://diariodarepublica.pt/dr/detalhe/decreto-lei/18-2008-248178), de 29 de Janeiro (Aprova o Código dos Contratos Públicos), e, ainda, dos artigos 109.º e 110.º deste Código».
 

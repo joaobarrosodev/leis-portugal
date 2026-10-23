@@ -48,18 +48,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/164/1999/03/10/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/164-1999-158269
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1999-03-10T00:00:00Z'
+  retrieved_at: '2026-10-23T14:13:42Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 003b39c8ebc5eb8fda70c40b3942d80b831c566e3660e3cf6d5224e21aa42a2a
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 7365568fac1999ada88160ea4b933cae9c221ab25b54726cbe9a412d58cb2a3c
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T14:13:42Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,28 +67,52 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Proteção dos Animais
+- Espécie Protegida
 - Pesca Desportiva
 - Pesca Fluvial
-- Espécie Protegida
-- RIO Mondego
+- Proteção dos Animais
 - Regulamento
+- RIO Mondego
 - ZONA de Pesca
 relationships:
 - type: cites
   target: eli:http://data.dre.pt/eli/port/643/1996/11/08/p/dre
   label: null
   source: http://data.dre.pt/eli/port/643/1996/11/08/p/dre
+- type: cites
+  target: pt:dre:140162:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:156660:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:177380:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:283168:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:283532:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:432642:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T14:13:42Z'
   warnings: []
   errors: []
 ---
@@ -123,7 +147,7 @@ Manda o Governo, pelo Ministro da Agricultura, do Desenvolvimento Rural e das Pe
 
 Ministério da Agricultura, do Desenvolvimento Rural e das Pescas.
 
-**Assinada em 18 de Fevereiro de 1999.**
+Assinada em 18 de Fevereiro de 1999.
 
 Pelo Ministro da Agricultura, do Desenvolvimento Rural e das Pescas, Victor Manuel Coelho Barros, Secretário de Estado do Desenvolvimento Rural.
 

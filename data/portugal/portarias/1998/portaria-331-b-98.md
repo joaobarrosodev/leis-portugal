@@ -21,12 +21,12 @@ publication:
   reference: Diário da República n.º 126/1998, 1º Suplemento, Série I-B de 1998-06-01
   number: '126'
   series: I
-  supplement: 1º Suplemento
+  supplement: null
   pages: 2524-(3) a 2524-(5)
   pdf_url: https://files.diariodarepublica.pt/1s/1998/06/126b01/00030005.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -48,18 +48,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/331-b/1998/06/01/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/331-b-1998-293132
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2019-08-30T00:00:00Z'
+  retrieved_at: '2026-10-23T14:08:10Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 8afa2fe8f966f9e06e30cd18b57aa3a647d472adeb9b562d5cf1804512d2dc74
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 9b4db3972e17c815bbc682c9438a86ef598c7063d7c4fc0b0ec22b5a9691ee42
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T14:08:10Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,20 +67,32 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Transporte Terrestre
 - Comunidade Europeia
 - Direcção Geral de Viação
 - Feriado
 - Fiscalização
-- Veículo
 - Segurança Rodoviária
 - Transporte de Mercadorias
 - Transporte de Mercadorias Perigosas
+- Transporte Terrestre
+- Veículo
 relationships:
 - type: amended_by
   target: pt:dre:124324705:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:452881:por
+  label: "Alterada a redacção da al. a) do nº 1 e aditado um nº 1-A ao presente diploma, pela PORT.578-A/99.1999.07.28.MAI\
+    \ DR.IS-B [174]2ºSUPLi\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/578-a-1999-452881
+  date: '1999-07-28'
+- type: amended_by
+  target: pt:dre:683667:por
+  label: "Alterados os nºs 1º, 2º, 7º e 11º e revogados os nºs 4º, 5º e 6º do presente diploma, com a redacção dada pela Port\
+    \ 578-A/99 de 28-Jul, pela PORT.131/2006.16.02.2006.MAI, DR.IS-B [34] de 16.02.2006\06\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/131-2006-683667
+  date: '2006-02-16'
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/114/1994/05/03/p/dre
   label: null
@@ -97,16 +109,42 @@ relationships:
   target: eli:http://data.dre.pt/eli/port/1196-c/1997/11/24/p/dre
   label: null
   source: http://data.dre.pt/eli/port/1196-c/1997/11/24/p/dre
+- type: cites
+  target: pt:dre:223835:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:250659:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:420003:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:457066:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:500406:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:124324705:por
+  label: Revogado, a partir de 28.12.2019, o presente diploma, na redação das Ports 578-A/99 de 28-jul e 131/2006 de 16-dez
+    pelo(a) Portaria n.º 281/2019 - Diário da República n.º 166/2019, Série I de 2019-08-30
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/281-2019-124324705
+  date: '2019-08-30'
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T14:08:10Z'
   warnings: []
   errors: []
 ---
@@ -271,6 +309,6 @@ c) Indicação do(s) dia(s), hora(s) e via(s) previsto(s) para a circulação.
 
 Ministério da Administração Interna.
 
-**Assinada em 19 de Maio de 1998.**
+Assinada em 19 de Maio de 1998.
 
 Pelo Ministro da Administração Interna, Armando António Martins Vara, Secretário de Estado Adjunto do Ministro da Administração Interna.

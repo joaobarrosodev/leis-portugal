@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/148/1998/03/12/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/148-1998-186886
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2006-07-13T00:00:00Z'
+  retrieved_at: '2026-10-23T14:06:59Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: e1f8fcadaaeeed21481db035ffbcb2da6bc5ad9dea351bfa6d57bf19388723f2
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 465cec12f4045fb28a21afb5bee6c80c53c29304f29372576471bba1eb7f779e
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T14:06:59Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -74,6 +74,12 @@ relationships:
   target: pt:dre:537444:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:537444:por
+  label: "Renovada, por um período de 12 anos, a concessão da zona de caça efectuada pela Portaria 456/94, de 30 de Junho,\
+    \ alterada pelo presente diploma, pela PORT.707/2006.13.07.2006.MADRP, DR.IS [134] de 13.07.2006\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/707-2006-537444
+  date: '2006-07-13'
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/136/1996/08/14/p/dre
   label: null
@@ -82,16 +88,28 @@ relationships:
   target: eli:http://data.dre.pt/eli/port/456/1994/06/30/p/dre
   label: null
   source: http://data.dre.pt/eli/port/456/1994/06/30/p/dre
+- type: cites
+  target: pt:dre:219134:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:289808:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:405765:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T14:06:59Z'
   warnings: []
   errors: []
 ---
@@ -116,7 +134,7 @@ Manda o Governo, pelos Ministros da Economia e da Agricultura, do Desenvolviment
 
 Ministérios da Economia e da Agricultura, do Desenvolvimento Rural e das Pescas.
 
-**Assinada em 19 de Fevereiro de 1998.**
+Assinada em 19 de Fevereiro de 1998.
 
 Pelo Ministro da Economia, Vítor José Cabrita Neto, Secretário de Estado do Turismo. - Pelo Ministro da Agricultura, do Desenvolvimento Rural e das Pescas, Luís Manuel Capoulas Santos, Secretário de Estado da Agricultura e do Desenvolvimento Rural.
 

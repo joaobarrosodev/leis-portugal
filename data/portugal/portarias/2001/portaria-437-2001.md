@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/437/2001/04/28/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/437-2001-165185
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2019-06-03T00:00:00Z'
+  retrieved_at: '2026-10-23T14:32:13Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 5b1aac4c3d8cd9d9ee816589254084abec612bf412d85c976e6a6c3b6bb7ebbd
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: a322b875a1ba1025623e2694e086f0ed1700250333ad01caac8f2f49716bb48f
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T14:32:13Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,10 +66,10 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Distribuição de Energia Elétrica
-- Energia Elétrica
-- EDP
 - Autarquia Local
+- Distribuição de Energia Elétrica
+- EDP
+- Energia Elétrica
 relationships:
 - type: amended_by
   target: pt:dre:122476954:por
@@ -83,16 +83,39 @@ relationships:
   target: eli:http://data.dre.pt/eli/port/90-b/1992/02/10/p/dre
   label: null
   source: http://data.dre.pt/eli/port/90-b/1992/02/10/p/dre
+- type: cites
+  target: pt:dre:150970:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:621690:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:657775:por
+  label: null
+  source: null
+- type: corrected_by
+  target: pt:dre:617174:por
+  label: "Rectificada pela DECL-RECT.10-C/2001.2001.04.30.PCM DR.IS-B [100]4º Supl\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/declaracao-rectificacao/10-c-2001-617174
+  date: '2001-04-30'
+- type: repealed_by
+  target: pt:dre:440570:por
+  label: "Revogada a partir de 28.11.2008 pelo DEC LEI.230/2008.27.11.2008.MEI, DR.IS [231] de 27.11.2008, sem prejuízo do\
+    \ disposto no nº 3 do nº 3º, no nº 4º e no anexo I daquele diploma. \0 \0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/230-2008-440570
+  date: '2008-11-27'
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T14:32:13Z'
   warnings: []
   errors: []
 ---
@@ -147,7 +170,7 @@ Em 2004 e seguintes - 7,5%.
 
 14.º Tendo em conta os valores globais indicados nos dois números anteriores, os valores de percentagem a aplicar nas várias classes de densidade são os que constam do quadro seguinte:
 
-[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2001/04/099b00/24212423.pdf)
+[[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2001/04/099b00/24212423.pdf)](https://files.diariodarepublica.pt/1s/2001/04/099b00/24212423.pdf)
 
 15.º Os novos valores das rendas resultantes da presente portaria só serão devidos pelos contratos celebrados a partir da data da sua publicação ou pela renovação dos contratos actualmente em vigor, segundo o novo contrato tipo, nos termos e pelo prazo previstos no n.º 1 do artigo 3.º do [Decreto-Lei n.º 344-B/82](https://diariodarepublica.pt/dr/detalhe/decreto-lei/344-b-1982-621690), de 1 de Setembro, com a redacção que lhe foi dada pelo [Decreto-Lei n.º 17/92](https://diariodarepublica.pt/dr/detalhe/decreto-lei/17-1992-150970), de 5 de Fevereiro.
 
@@ -157,7 +180,7 @@ Em 2004 e seguintes - 7,5%.
 
 Em 29 de Março de 2001.
 
-**O Ministro da Economia, Mário Cristina de Sousa. - Pelo Ministro do Ambiente e do Ordenamento do Território, José Augusto Clemente de Carvalho, Secretário de Estado da Administração Local.**
+O Ministro da Economia, Mário Cristina de Sousa. - Pelo Ministro do Ambiente e do Ordenamento do Território, José Augusto Clemente de Carvalho, Secretário de Estado da Administração Local.
 
 ## ANEXO I — Definição dos tipos correntes de focos luminosos a utilizar no Município
 
@@ -167,7 +190,7 @@ A - Zonas rurais (redes aéreas e subterrâneas):
 
 A.1 - Iluminância e uniformidades globais recomendadas:
 
-[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2001/04/099b00/24212423.pdf)
+[[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2001/04/099b00/24212423.pdf)](https://files.diariodarepublica.pt/1s/2001/04/099b00/24212423.pdf)
 
 A.2 - Lâmpadas:
 

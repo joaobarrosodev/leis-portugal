@@ -20,7 +20,7 @@ publication:
   reference: Diário da República n.º 274/2000, 1º Suplemento, Série I-B de 2000-11-27
   number: '274'
   series: I
-  supplement: 1º Suplemento
+  supplement: null
   pages: 6730-(2) a 6730-(4)
   pdf_url: https://files.diariodarepublica.pt/1s/2000/11/274b01/00020004.pdf
 entry_into_force_dates: []
@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/1109-a/2000/11/27/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/1109-a-2000-554462
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2006-05-22T00:00:00Z'
+  retrieved_at: '2026-10-23T14:19:50Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 2303bb6d3cde7184d5df4a6602d614793690d2ec54e918c8f22b07db32471cb2
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: d505aaf607a8f7b56217d9771e93497bd6e1c9ede82f53d1f292eb2476d0d1fd
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T14:19:50Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,21 +67,53 @@ reuse:
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
 - Ajuda Comunitária
-- Financiamento
-- Gestão Financeira
 - Contrato de Concessão
 - Direção Geral de Veterinária
+- Financiamento
+- Gestão Financeira
+- Ifadap
+- Medida Agris
 - Ministro da Agricultura do Desenvolvimento Rural e das Pescas
+- Programa AGRO
 - QCA III
 - Regulamento
-- Programa AGRO
-- Medida Agris
-- Ifadap
 relationships:
 - type: amended_by
   target: pt:dre:632903:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:315519:por
+  label: "Alterado o art. 12º do Regulamento pela PORT.69/2001.2001.02.02.MPLA,DR.IS-B [28]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/69-2001-315519
+  date: '2001-02-02'
+- type: amended_by
+  target: pt:dre:583007:por
+  label: "Alterado o art. 9º do Regulamento pela PORT.45/2002.2002.01.11.MADRP DR.IS-B [9]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/45-2002-583007
+  date: '2002-01-11'
+- type: amended_by
+  target: pt:dre:514999:por
+  label: "Alterados os art.s 1.º, 3.º e 8.º, aditado o art. 10.º-A e revogado o art. 4.º, todos do Regulamento do Regime de\
+    \ Ajudas à Preservação e Melhoramento Genético das Raças Autóctones, Raças Exóticas e Raça Bovina Frísia, aprovado pelo\
+    \ presente diploma, pela PORT.978/2004.03.08.2004.MADRP, DR.IS-B [181] de 03.08.2004\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/978-2004-514999
+  date: '2004-08-03'
+- type: amended_by
+  target: pt:dre:661557:por
+  label: "Alterados os arts. 3º (este com a redacção conferida pela Port 978/2004 de 03-Ago) e 5º e os anexos I e II, e revogado\
+    \ o art. 12º (este com a redacção conferida pela Port 69/2001 de 02-Fev), todos do Regulamento do Regime de Ajudas à Preservação\
+    \ e Melhoramento Genético das Raças Autóctones, Raças Exóticas e Raça Bovina Frísia pela PORT.391/2006.24.04.2006.MAOTDR,\
+    \ DR.IS-B [80] de 24.04.2006, que o republicou em anexo, com todas as alterações.\0s.\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/391-2006-661557
+  date: '2006-04-24'
+- type: amended_by
+  target: pt:dre:632903:por
+  label: "Aditado o art. 4º-A ao Regulamento do Regime de Ajudas à Preservação e Melhoramento Genético das Raças Autóctones,\
+    \ Raças Exóticas e Raça Bovina Frísia aprovado pelo presente diploma, republicado pela Port 391/2006 de 24-Abr, pela PORT.467/2006.22.05.2006.MAOTDR,\
+    \ DR.IS-B [98] de 22.05.2006\06\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/467-2006-632903
+  date: '2006-05-22'
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/163-a/2000/07/27/p/dre
   label: null
@@ -90,16 +122,29 @@ relationships:
   target: eli:http://data.dre.pt/eli/dec-lei/54-a/2000/04/07/p/dre
   label: null
   source: http://data.dre.pt/eli/dec-lei/54-a/2000/04/07/p/dre
+- type: cites
+  target: pt:dre:220892:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:249799:por
+  label: null
+  source: null
+- type: corrected_by
+  target: pt:dre:188551:por
+  label: "Rectificada pela DECL-RECT.16-AD/2000.2000.12.29.PCM,DR.IS-B [300]6º Supl de 30/Dez/2000\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/declaracao-rectificacao/16-ad-2000-188551
+  date: '2000-12-29'
 article_structure:
   article_count: 12
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T14:19:50Z'
   warnings: []
   errors: []
 ---
@@ -128,7 +173,7 @@ Manda o Governo, pelos Ministros do Planeamento e da Agricultura, do Desenvolvim
 
 Em 15 de Novembro de 2000.
 
-**A Ministra do Planeamento, Elisa Maria da Costa Guimarães Ferreira. - O Ministro da Agricultura, do Desenvolvimento Rural e das Pescas, Luís Manuel Capoulas Santos.**
+A Ministra do Planeamento, Elisa Maria da Costa Guimarães Ferreira. - O Ministro da Agricultura, do Desenvolvimento Rural e das Pescas, Luís Manuel Capoulas Santos.
 
 ## ANEXO
 
@@ -244,7 +289,7 @@ c) Consideram-se elegíveis para efeitos de contratação e pagamento pelo IFADA
 
 Acções elegíveis - Nível de ajuda
 
-[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2000/11/274b01/00020004.pdf)
+[[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2000/11/274b01/00020004.pdf)](https://files.diariodarepublica.pt/1s/2000/11/274b01/00020004.pdf)
 
 (nota a) Raças exóticas elegíveis:
 
@@ -256,4 +301,4 @@ Suínos: as admissíveis no Livro Genealógico Português de Suínos ou Registo 
 
 ## ANEXO II — Raça bovina Frísia
 
-[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2000/11/274b01/00020004.pdf)
+[[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2000/11/274b01/00020004.pdf)](https://files.diariodarepublica.pt/1s/2000/11/274b01/00020004.pdf)

@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/293/1997/05/02/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/293-1997-382191
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2007-03-05T00:00:00Z'
+  retrieved_at: '2026-10-23T14:01:48Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 6099bdf0422ba5afced94bdcc5e39f85b3cd4082192abdcefa7aca8200a11256
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 47f651fc093d5df583e6621e2ae556467ad55ef8614c4aa3bd7857375548e3d2
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T14:01:48Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,28 +66,73 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
+- Ensino Profissional
 - Formação Profissional
 - Plano de Estudos
-- Ensino Profissional
 relationships:
 - type: amended_by
   target: pt:dre:519022:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:147616:por
+  label: "Extinto a partir de 27.09.2005 o curso profissional de Técnico de Automação Industrial, criado pelo presente diploma,\
+    \ que é revogado no que àquele curso se refere pela PORT.903/2005.26.09.2005.ME, DR.IS-B [185] de 26.09.2005, sem prejuízo\
+    \ do disposto no nº 9º da citada portaria\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/903-2005-147616
+  date: '2005-09-26'
+- type: amended_by
+  target: pt:dre:519010:por
+  label: "Extinto o curso profissional de artes e animação circenses, criado pelo presente diploma, que é revogado no que\
+    \ áquele curso se refere, pela PORT.231/2007.05.03.2007.ME, DR.IS [45] de 05.03.2007, sem prejuízo do disposto no nº 6\
+    \ do presente.\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/231-2007-519010
+  date: '2007-03-05'
+- type: amended_by
+  target: pt:dre:519021:por
+  label: "Extinto o curso profissional de teatro/luminotecnia, criado pelo presente diploma, que é revogado no que áquele\
+    \ curso se refere, pela PORT.228/2007.05.03.2007.ME, DR.IS [45] de 05.03.2007, sem prejuízo do disposto no nº 6 do citado\
+    \ diploma .\0.\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/228-2007-519021
+  date: '2007-03-05'
+- type: amended_by
+  target: pt:dre:519022:por
+  label: "Extinto o curso profissional de teatro/interpretação criado pelo presente diploma, que é revogado no que àquele\
+    \ curso de refere pela PORT.232/2007.05.03.2007.ME, DR.IS [45] de 05.03.2007, sem prejuízo do disposto no nº 6º do citado\
+    \ diploma\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/232-2007-519022
+  date: '2007-03-05'
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/70/1993/03/10/p/dre
   label: null
   source: http://data.dre.pt/eli/dec-lei/70/1993/03/10/p/dre
+- type: cites
+  target: pt:dre:222418:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:609609:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:628044:por
+  label: null
+  source: null
+- type: corrected_by
+  target: pt:dre:402102:por
+  label: "Rectificada pela DECL-RECT.14-Q/97.1997.08.21.PCM, DR.IS-B [200]Supl\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/declaracao-rectificacao/14-q-1997-402102
+  date: '1997-08-21'
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T14:01:48Z'
   warnings: []
   errors: []
 ---
@@ -134,36 +179,36 @@ b) Interpretação.
 
 Ministérios da Educação e para a Qualificação e o Emprego.
 
-**Assinada em 8 de Abril de 1997.**
+Assinada em 8 de Abril de 1997.
 
-**O Ministro da Educação, Eduardo Carrega Marçal Grilo. - A Ministra para a Qualificação e o Emprego, Maria João Fernandes Rodrigues.**
+O Ministro da Educação, Eduardo Carrega Marçal Grilo. - A Ministra para a Qualificação e o Emprego, Maria João Fernandes Rodrigues.
 
 Curso de Artes e Animação Circense
 
 Plano curricular
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1997/05/101b00/20332036.pdf))](https://files.diariodarepublica.pt/1s/1997/05/101b00/20332036.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1997/05/101b00/20332036.pdf)
 
 Curso de Teatro/Luminotecnia
 
 Plano curricular
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1997/05/101b00/20332036.pdf))](https://files.diariodarepublica.pt/1s/1997/05/101b00/20332036.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1997/05/101b00/20332036.pdf)
 
 Curso de Teatro/Interpretação
 
 Plano curricular
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1997/05/101b00/20332036.pdf))](https://files.diariodarepublica.pt/1s/1997/05/101b00/20332036.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1997/05/101b00/20332036.pdf)
 
 Curso de Técnico de Automação Industrial
 
 Plano curricular
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1997/05/101b00/20332036.pdf))](https://files.diariodarepublica.pt/1s/1997/05/101b00/20332036.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1997/05/101b00/20332036.pdf)
 
 Curso de Operador de Electricidade
 
 Plano curricular
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1997/05/101b00/20332036.pdf))](https://files.diariodarepublica.pt/1s/1997/05/101b00/20332036.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1997/05/101b00/20332036.pdf)

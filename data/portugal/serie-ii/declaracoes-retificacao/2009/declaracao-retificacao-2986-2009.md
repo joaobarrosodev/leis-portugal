@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/2s/2009/12/239000000/5011250112.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -47,18 +47,18 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/declaracao-rectificacao/2986-2009-1023056
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2009-12-11T00:00:00Z'
+  retrieved_at: '2026-10-23T14:10:15Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: ea63d0f73d0b14441c00e9dadb5ad1d8181cb09b560d75b8e7d1ba0831db3a09
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 86a18d2c74f63d8d6ab798827ff9f9a0ed9390fe3332b1f6beba9950cd592a01
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T14:10:15Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -70,13 +70,13 @@ relationships: []
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T14:10:15Z'
   warnings: []
   errors: []
 ---
@@ -88,3 +88,5 @@ Declaração de rectificação n.º 2986/2009
 Para os devidos efeitos se rectifica que, no despacho (extracto) n.º 23944/2009, publicado no Diário da República, 2.ª série, n.º 211, de 30 de Outubro de 2009, a p. 44374, e relativo à licenciada Maria Elisabeth Correia Branco de Jesus Ribeiro, onde se lê «Autorizada a renovação da comissão de serviço, por mais três anos, como Directora de Serviços do Serviço de Relações Internacionais» deve ler-se «Autorizada a renovação da comissão de serviço, por mais três anos, como directora de serviços do Serviço de Cooperação com Países Lusófonos e Latino-Americanos».
 
 3 de Dezembro de 2009. - O Reitor, José Carlos Diogo Marques dos Santos.
+
+202655572

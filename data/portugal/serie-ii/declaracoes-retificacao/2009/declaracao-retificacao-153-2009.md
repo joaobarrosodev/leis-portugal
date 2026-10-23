@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/2s/2009/01/014000000/0316303163.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -46,18 +46,18 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/declaracao-rectificacao/153-2009-2467830
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2009-01-21T00:00:00Z'
+  retrieved_at: '2026-10-23T14:01:42Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: d115be364ccb4488b600fe8c934efc2a26dad01e407963ac11f22f1547c794a9
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: cd6c06c4eb88f91648c3045926e4f94d383eb8fd24410ace4466451cfd05f63f
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T14:01:42Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -69,13 +69,13 @@ relationships: []
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T14:01:42Z'
   warnings: []
   errors: []
 ---
@@ -87,3 +87,5 @@ Declaração de rectificação n.º 153/2009
 Para os devidos efeitos se torna público que por ter saído com incorrecção o aviso n.º 1243/2009, publicado no Diário da República, 2.ª série (parte H), n.º 8, de 13 de Janeiro de 2009, rectifica-se que onde se lê «Câmara Municipal de Sines» deve ler-se «Câmara Municipal de Silves» e onde se lê «concurso interno de acesso geral para provimento de dois lugares de Operário principal da carreira de Serralheiro Civil do grupo de pessoal Operário Qualificado do quadro de pessoal da Câmara Municipal de Silves» deve ler-se «concurso interno de acesso geral para provimento de três lugares de técnico profissional especialista da carreira de fiscal municipal do grupo de pessoal técnico profissional do quadro de pessoal da Câmara Municipal de Silves».
 
 13 de Janeiro de 2009. - A Presidente da Câmara, Maria Isabel Fernandes da Silva Soares.
+
+301232247

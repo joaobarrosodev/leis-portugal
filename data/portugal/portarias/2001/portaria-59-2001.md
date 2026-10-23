@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2001/01/025b00/05330535.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/59/2001/01/30/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/59-2001-315143
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2002-09-04T00:00:00Z'
+  retrieved_at: '2026-10-23T14:33:16Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 63c8f79bc846c8637283c9a7c869113589a0b71256ff5f7a02995cdde2047dbe
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: a65993e9800dbe498680e03d21dac7f33085e8be741b879efcbdba881f2bf366
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T14:33:16Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,16 +66,16 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Financiamento
 - Electrificação Rural
-- Projeto de Investimento
 - Exploração Agrícola
-- Política Agrícola Comum
 - Exploração Florestal
+- Financiamento
+- Medida Agris
+- Política Agrícola Comum
+- Programa AGRO
+- Projeto de Investimento
 - QCA III
 - Regulamento
-- Programa AGRO
-- Medida Agris
 - Regulamento de Aplicação da Subacção Nº6.2-electrificação
 - Subsídio não Reembolsável
 relationships:
@@ -91,16 +91,21 @@ relationships:
   target: celex:32000R1685
   label: null
   source: http://data.europa.eu/eli/reg/2000/1685/oj
+- type: repealed_by
+  target: pt:dre:626819:por
+  label: "Revogada pela PORT.1215/2002.2002.09.04.MF DR.IS-B [204]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/1215-2002-626819
+  date: '2002-09-04'
 article_structure:
   article_count: 18
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T14:33:16Z'
   warnings: []
   errors: []
 ---
@@ -121,7 +126,7 @@ Manda o Governo, pelos Ministros do Planeamento e da Agricultura, do Desenvolvim
 
 Em 11 de Janeiro de 2001.
 
-**A Ministra do Planeamento, Elisa Maria da Costa Guimarães Ferreira. - O Ministro da Agricultura, do Desenvolvimento Rural e das Pescas, Luís Manuel Capoulas Santos.**
+A Ministra do Planeamento, Elisa Maria da Costa Guimarães Ferreira. - O Ministro da Agricultura, do Desenvolvimento Rural e das Pescas, Luís Manuel Capoulas Santos.
 
 ## ANEXO
 

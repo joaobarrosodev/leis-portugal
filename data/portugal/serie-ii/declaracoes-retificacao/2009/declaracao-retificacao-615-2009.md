@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/2s/2009/02/040000000/0784207842.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -46,18 +46,18 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/declaracao-rectificacao/615-2009-1804983
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2009-02-26T00:00:00Z'
+  retrieved_at: '2026-10-23T14:12:41Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: fcced69d04fa331422ed709c165dbaffcb1f9577b7aa11922ffa9c0ac2d3c7ce
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: df17bb32140453a1c7eec54baeb0108833e7ac0759d8154bb01c94e24a757685
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T14:12:41Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -69,13 +69,13 @@ relationships: []
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T14:12:41Z'
   warnings: []
   errors: []
 ---
@@ -87,3 +87,5 @@ Declaração de rectificação n.º 615/2009
 Para os devidos efeitos, se torna público que no aviso em que se publica a contratação de um nadador salvador - José Miguel Barros Neves Marques, publicado no Diário da República no Diário da República, 2.ª série, n.º 25, de 5 de Fevereiro de 2009 aviso(extracto) n.º 3157/2009, onde se lê "por período de um ano, com efeitos a partir de 10 de Dezembro de 2008" deve ler-se "por período de um ano, com efeitos a partir de 26 de Janeiro de 2009".
 
 12 de Fevereiro de 2009. - O Presidente da Câmara, Manuel Moreira.
+
+301396387

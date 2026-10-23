@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/2s/2010/06/123000000/3540235402.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -46,18 +46,18 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/declaracao-rectificacao/1262-2010-3285253
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2010-06-28T00:00:00Z'
+  retrieved_at: '2026-10-23T14:16:33Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 412b92d90af13aac1199d1781cf548834c45a48e1926911b17499ff5982b4815
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 6131f5102d58b9df56f20f46047b3318eb54cfe42fedb1b352fc3f27cf9f0c85
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T14:16:33Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -69,13 +69,13 @@ relationships: []
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T14:16:33Z'
   warnings: []
   errors: []
 ---
@@ -87,3 +87,5 @@ Declaração de rectificação n.º 1262/2010
 O aviso n.º 11 789/2010, inserto no Diário da República, 2.ª série, n.º 113, de 14 de Junho de 2010, foi publicado com inexactidões, constantes dos pontos a seguir indicados, pelo que se procede à sua rectificação. Assim, onde se lê «Referência n.º 04/PCC/2010 - 5 postos de trabalho para técnico superior (arquitecto);» deve ler-se «Referência n.º 04/PCC/2010 - 4 postos de trabalho para técnico superior (arquitecto);» e onde se lê «Referência n.º 21/PCC/2010 - 1 posto de trabalho para técnico superior (veterinário);» deve ler-se «Referência n.º 21/PCC/2010 - 1 posto de trabalho para técnico superior (médico veterinário);».
 
 21 de Junho de 2010. - A Vereadora do Pelouro dos Recursos Humanos, Modernização Administrativa e Acção Social, Corália de Almeida Loureiro.
+
+303393417

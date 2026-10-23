@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/38/2000/01/28/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/38-2000-405709
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2009-09-14T00:00:00Z'
+  retrieved_at: '2026-10-23T14:23:12Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: da76ebe67088d7bb9009b934421be6b1623c03c691b6311fc249bad487c85526
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 445114907751b2312d1345886518fd2db5d9bbfbcc7d8f539cd829c4a2edd291
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T14:23:12Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -73,20 +73,42 @@ relationships:
   target: pt:dre:489760:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:364360:por
+  label: "Anexados vários prédios rústicos à zona de caça turística criada pela Port 687/99, de 24-Ago, e corrigida pelo presente\
+    \ diploma, pela PORT.513/2002.2002.04.30.MECO DR.IS-B [100]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/513-2002-364360
+  date: '2002-04-30'
+- type: amended_by
+  target: pt:dre:518272:por
+  label: "Anexados vários prédios rústicos à zona de caça atribuída pela Port 687/99 de 24-Ago, com as alterações introduzidas\
+    \ pelo presente diploma, pela PORT.161/2007.02.02.2007.MADRP, DR.IS [24] de 02.02.2007\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/161-2007-518272
+  date: '2007-02-02'
+- type: amended_by
+  target: pt:dre:489760:por
+  label: "Renovada, por um período de 10 anos, a concessão da zona de caça atribuída pela Port 687/99, de 24-Ago, na redacção\
+    \ do presente diploma, pela PORT.1045/2009.14.09.2009.MADRP, DR.IS [178] de 14.09.2009\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/1045-2009-489760
+  date: '2009-09-14'
 - type: cites
   target: eli:http://data.dre.pt/eli/port/687/1999/08/24/p/dre
   label: null
   source: http://data.dre.pt/eli/port/687/1999/08/24/p/dre
+- type: cites
+  target: pt:dre:433780:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T14:23:12Z'
   warnings: []
   errors: []
 ---
@@ -105,6 +127,6 @@ Manda o Governo, pelos Ministros da Economia e da Agricultura, do Desenvolviment
 
 Em 13 de Dezembro de 1999.
 
-**O Ministro da Economia, Vítor José Cabrita Neto, Secretário de Estado do Turismo. - Pelo Ministro da Agricultura, do Desenvolvimento Rural e das Pescas, Victor Manuel Coelho Barros, Secretário de Estado do Desenvolvimento Rural.**
+O Ministro da Economia, Vítor José Cabrita Neto, Secretário de Estado do Turismo. - Pelo Ministro da Agricultura, do Desenvolvimento Rural e das Pescas, Victor Manuel Coelho Barros, Secretário de Estado do Desenvolvimento Rural.
 
 [(ver planta no documento original)](https://files.diariodarepublica.pt/1s/2000/01/023b00/03920393.pdf)

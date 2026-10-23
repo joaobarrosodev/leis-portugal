@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1998/03/072b00/13481348.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/204/1998/03/26/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/204-1998-197959
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1998-03-26T00:00:00Z'
+  retrieved_at: '2026-10-23T14:07:19Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: da8093a3e6851a256f5632162d003de964663c654337b852494e8d03bda32780
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 10cbee81985b47d698aca4f687cde8c0a00260a27b75455c151c052011f02175
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T14:07:19Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -69,17 +69,30 @@ subjects:
 - Água Mineral
 - Recursos Hídricos
 - Zona de Proteção
-relationships: []
+relationships:
+- type: cites
+  target: pt:dre:333159:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:333160:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:74240287:por
+  label: Revogada pelo(a) Portaria n.º 105/2016 - Diário da República n.º 79/2016, Série I de 2016-04-22
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/105-2016-74240287
+  date: '2016-04-22'
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T14:07:19Z'
   warnings: []
   errors: []
 ---
@@ -100,18 +113,18 @@ Manda o Governo, pelos Ministros do Equipamento, do Planeamento e da Administra�
 
 Zona imediata: definida por dois círculos de 60 m de raio em torno das duas captações, Fonte Campilho 1 (FC1) e Fonte Campilho 2 (FC2), cujas coordenadas são as seguintes:
 
-[(ver tabela no documento original)](https://files.diariodarepublica.pt/1s/1998/03/072b00/13481348.pdf)
+[[[(ver tabela no documento original)](https://files.diariodarepublica.pt/1s/1998/03/072b00/13481348.pdf)](https://files.diariodarepublica.pt/1s/1998/03/072b00/13481348.pdf)](https://files.diariodarepublica.pt/1s/1998/03/072b00/13481348.pdf)
 
 Zona intermédia: delimitada por um polígono CDEFGH, cujos vértices têm as seguintes coordenadas:
 
-[(ver tabela no documento original)](https://files.diariodarepublica.pt/1s/1998/03/072b00/13481348.pdf)
+[[[(ver tabela no documento original)](https://files.diariodarepublica.pt/1s/1998/03/072b00/13481348.pdf)](https://files.diariodarepublica.pt/1s/1998/03/072b00/13481348.pdf)](https://files.diariodarepublica.pt/1s/1998/03/072b00/13481348.pdf)
 
 Zona alargada: delimitada por um polígono KLMCDIJ, cujos vértices têm as seguintes coordenadas:
 
-[(ver tabela no documento original)](https://files.diariodarepublica.pt/1s/1998/03/072b00/13481348.pdf)
+[[[(ver tabela no documento original)](https://files.diariodarepublica.pt/1s/1998/03/072b00/13481348.pdf)](https://files.diariodarepublica.pt/1s/1998/03/072b00/13481348.pdf)](https://files.diariodarepublica.pt/1s/1998/03/072b00/13481348.pdf)
 
 Ministérios do Equipamento, do Planeamento e da Administração do Território, da Economia e do Ambiente.
 
-**Assinada em 24 de Novembro de 1997.**
+Assinada em 24 de Novembro de 1997.
 
-**O Ministro do Equipamento, do Planeamento e da Administração do Território, João Cardona Gomes Cravinho. - O Ministro da Economia, Joaquim Augusto Nunes de Pina Moura. - A Ministra do Ambiente, Elisa Maria da Costa Guimarães Ferreira.**
+O Ministro do Equipamento, do Planeamento e da Administração do Território, João Cardona Gomes Cravinho. - O Ministro da Economia, Joaquim Augusto Nunes de Pina Moura. - A Ministra do Ambiente, Elisa Maria da Costa Guimarães Ferreira.

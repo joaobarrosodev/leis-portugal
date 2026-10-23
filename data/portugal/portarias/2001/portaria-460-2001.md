@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/460/2001/05/08/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/460-2001-316163
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2007-11-30T00:00:00Z'
+  retrieved_at: '2026-10-23T14:32:23Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: e8b196c569a29d42bc49fd08f6c65a4b3b0d5b8c317e606896f772ec76afe6a4
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: f6ff37375c9629dbc44077f1738a675e465340bd80f21c0cd0440d770f3509f0
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T14:32:23Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -80,16 +80,20 @@ relationships:
   target: eli:http://data.dre.pt/eli/dec-lei/124/1997/05/23/p/dre
   label: null
   source: http://data.dre.pt/eli/dec-lei/124/1997/05/23/p/dre
+- type: cites
+  target: pt:dre:400398:por
+  label: null
+  source: null
 article_structure:
   article_count: 49
   section_count: 12
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T14:32:23Z'
   warnings: []
   errors: []
 ---
@@ -104,7 +108,7 @@ Considerando que o artigo 2.º do citado diploma remeteu para portaria do Minist
 
 Manda o Governo, pelo Ministro da Economia, que seja aprovado o Regulamento de Segurança das Instalações de Armazenagem de Gases de Petróleo Liquefeitos (GPL) com Capacidade até 200 m3 por Recipiente, que constitui o anexo desta portaria e dela fica a fazer parte integrante.
 
-**O Ministro da Economia, Mário Cristina de Sousa, em 4 de Abril de 2001.**
+O Ministro da Economia, Mário Cristina de Sousa, em 4 de Abril de 2001.
 
 ## ANEXO
 
@@ -540,22 +544,22 @@ QUADRO I
 
 Distâncias mínimas de segurança dos recipientes (em metros)
 
-[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2001/05/106b00/26672675.pdf)
+[[[[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2001/05/106b00/26672675.pdf)](https://files.diariodarepublica.pt/1s/2001/05/106b00/26672675.pdf)](https://files.diariodarepublica.pt/1s/2001/05/106b00/26672675.pdf)](https://files.diariodarepublica.pt/1s/2001/05/106b00/26672675.pdf)
 
 QUADRO II
 
 Distâncias de segurança dos vaporizadores (em metros)
 
-[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2001/05/106b00/26672675.pdf)
+[[[[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2001/05/106b00/26672675.pdf)](https://files.diariodarepublica.pt/1s/2001/05/106b00/26672675.pdf)](https://files.diariodarepublica.pt/1s/2001/05/106b00/26672675.pdf)](https://files.diariodarepublica.pt/1s/2001/05/106b00/26672675.pdf)
 
 QUADRO III
 
 Distâncias de segurança em relação a recipientes contendo produtos inflamáveis, comburentes ou tóxicos (em metros)
 
-[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2001/05/106b00/26672675.pdf)
+[[[[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2001/05/106b00/26672675.pdf)](https://files.diariodarepublica.pt/1s/2001/05/106b00/26672675.pdf)](https://files.diariodarepublica.pt/1s/2001/05/106b00/26672675.pdf)](https://files.diariodarepublica.pt/1s/2001/05/106b00/26672675.pdf)
 
 QUADRO IV
 
 Verificação periódica dos acessórios dos reservatórios
 
-[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2001/05/106b00/26672675.pdf)
+[[[[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2001/05/106b00/26672675.pdf)](https://files.diariodarepublica.pt/1s/2001/05/106b00/26672675.pdf)](https://files.diariodarepublica.pt/1s/2001/05/106b00/26672675.pdf)](https://files.diariodarepublica.pt/1s/2001/05/106b00/26672675.pdf)

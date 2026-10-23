@@ -21,7 +21,7 @@ publication:
   reference: Diário da República n.º 173/1998, 1º Suplemento, Série I-B de 1998-07-29
   number: '173'
   series: I
-  supplement: 1º Suplemento
+  supplement: null
   pages: 3628-(2) a 3628-(7)
   pdf_url: https://files.diariodarepublica.pt/1s/1998/07/173b01/00020007.pdf
 entry_into_force_dates: []
@@ -48,18 +48,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/457-a/1998/07/29/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/457-a-1998-300227
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2005-08-29T00:00:00Z'
+  retrieved_at: '2026-10-23T14:09:06Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: cd517cad1bd51e7f6ae8d22c914a13370fe2e2f219e41eb8d25a74a38423cba8
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 88c72f90d7b2020c48ff6efb1c70f2d459e0f8eac9d61d217434f057336413e8
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T14:09:06Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -73,7 +73,6 @@ subjects:
 - Aveiro
 - Bacharelato
 - CEP
-- Escola Superior de Artes e Design
 - Curso de Assessoria de Administração
 - Curso de Assessoria de Direcção
 - Curso de Ciências Empresariais
@@ -99,7 +98,6 @@ subjects:
 - Curso de Gestão de Instituições Financeiras
 - Curso de Gestão de Marketing
 - Curso de Gestão de Recursos Humanos
-- Instituto Superior da MAIA
 - Curso de Gestão e Contabilidade
 - Curso de Gestão Financeira e Fiscal
 - Curso de Gestão Internacional
@@ -122,7 +120,9 @@ subjects:
 - Curso Superior de Direcção de Orquestra
 - Ensino Cooperativo
 - Ensino Particular
+- Ensino Superior
 - Escola Superior de Artes Decorativas
+- Escola Superior de Artes e Design
 - Escola Superior de Ciência e Tecnologia
 - Escola Superior de Desenvolvimento Social e Comunitário
 - Escola Superior de Educação
@@ -133,20 +133,20 @@ subjects:
 - Escola Superior de Educação JEAN Piaget
 - Escola Superior de Educação JEAN Piaget-nordeste
 - Escola Superior de Educadores de Infância Maria Ulrich
-- Instituto Superior de Ciências Empresariais e do Turismo
 - FAFE
-- Lisboa
-- Instituto Superior de entre Douro e Vouga
 - Instituto de Electromecânica e Energia
 - Instituto de Estudos Superiores Financeiros e Fiscais
-- Instituto Superior de Gestão Bancária
 - Instituto Politécnico Autónomo
 - Instituto Português de Administração de Marketing
 - Instituto Português de Estudos Superiores
+- Instituto Superior da MAIA
 - Instituto Superior de Assistentes e Intérpretes
 - Instituto Superior de Ciências da Informação e da Administração
 - Instituto Superior de Ciências Educativas
+- Instituto Superior de Ciências Empresariais e do Turismo
 - Instituto Superior de Educação e Ciências
+- Instituto Superior de entre Douro e Vouga
+- Instituto Superior de Gestão Bancária
 - Instituto Superior de Paços de Brandão
 - Instituto Superior de Psicologia Aplicada
 - Instituto Superior de Tecnologias Avançadas
@@ -154,15 +154,114 @@ subjects:
 - Instituto Superior Politécnico Internacional
 - ISAG
 - Licenciatura
-- Ensino Superior
-- Torres Novas
-- Porto
+- Lisboa
 - Maiêutica-Cooperativa de Ensino Superior
+- Porto
+- Torres Novas
 relationships:
 - type: amended_by
   target: pt:dre:245310:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:273989:por
+  label: "Aditado o par Escola Superior de Jornalismo/Curso de Comunicação Social ao anexo do presente diploma, pela PORT.680-A/98.1998.08.31.ME,\
+    \ DR.IS-B [200]Supl\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/680-a-1998-273989
+  date: '1998-08-31'
+- type: amended_by
+  target: pt:dre:197532:por
+  label: "Alterado o curso bietápico de licenciatura em Gestão Financeira e Fiscal pela PORT.892/2002.2002.07.27.MCES DR.IS-B\
+    \ [172]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/892-2002-197532
+  date: '2002-07-27'
+- type: amended_by
+  target: pt:dre:480900:por
+  label: "Alterada a duracção do 2º ciclo do curso bietápico de licenciatura em Gestão Internacional, pela PORT.11/2003.2003.01.04.MCES,\
+    \ DR.IS-B [3], na redacção da Port 680-A/98, de 31-Ago\0o\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/11-2003-480900
+  date: '2003-01-04'
+- type: amended_by
+  target: pt:dre:218757:por
+  label: "Caducada, findo o processo de transição fixado nos termos do n.º 2 do art. 10.º a autorização de funcionamento do\
+    \ curso bietápico de licenciatura em Contabilidade autorizado pelo presente diploma, alterado pela Port 680-A/98, de 31-Ago,\
+    \ pela Port.366/2004.08.04.2004.MCES, DR.IS-B [84] de 08.04.2004\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/366-2004-218757
+  date: '2004-04-08'
+- type: amended_by
+  target: pt:dre:218762:por
+  label: "Caducada, findo o processo de transição fixado nos termos do n.º 2 do art. 10.º a autorização de funcionamento do\
+    \ curso bietápico de licenciatura em Gestão de Recursos Humanos,, autorizado pelo presente diploma, alterado pela Port\
+    \ 680-A/98, de 31-Ago, pela Port.368/2004.08.04.2004.MCES, DR.IS-B [84] de 08.04.2004\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/368-2004-218762
+  date: '2004-04-08'
+- type: amended_by
+  target: pt:dre:219310:por
+  label: "Caducada, findo o processo de transição fixado nos termos do n.º 2 do art. 11.º a autorização de funcionamento do\
+    \ curso bietápico de licenciatura em Relações Públicas, autorizado pelo presente diploma, alterado pela Port 680-A/98,\
+    \ de 31-Ago, pela PORT.372/2004.12.04.2004.MCES, DR.IS-B [86] de 12.04.2004\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/372-2004-219310
+  date: '2004-04-12'
+- type: amended_by
+  target: pt:dre:219313:por
+  label: "Caducada, findo o processo de transição fixado nos termos do n.º 2 do art. 11.º a autorização de funcionamento do\
+    \ curso bietápico de licenciatura em Informática de Gestão, autorizado pelo presente diploma, alterado pela Port 680-A/98,\
+    \ de 31-Ago, pela PORT.371/2004.12.04.2004.MCES, DR.IS-B [86] de 12.04.2004\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/371-2004-219313
+  date: '2004-04-12'
+- type: amended_by
+  target: pt:dre:272606:por
+  label: "Alterada a estrutura do curso bietápico de licenciatura em Gestão de Empresas autorizada pelo presente diploma,\
+    \ na redacção da Port 680-A/98 de 31-Ago, pela PORT.681/2004.19.06.2004.MCES, DR.IS-B [143] de 19.06.2004\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/681-2004-272606
+  date: '2004-06-19'
+- type: amended_by
+  target: pt:dre:506983:por
+  label: "Feita cessar a ministra&#231;&#227;o do curso biet&#225;pico de licenciatura em Gest&#227;o de Empresas do Insituto\
+    \ Superior da Maia, autorizado pelo presente diploma, pela PORT.926/2004.26.07.2004.MCES, DR.IS-B [174] de 26.07.2004,\
+    \ nos termos do seu art 11&#186;\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/926-2004-506983
+  date: '2004-07-26'
+- type: amended_by
+  target: pt:dre:606718:por
+  label: "Alterado o plano de estudos do curso bietápico de licenciatura em Design da Escola Superior de Tecnologias e Artes\
+    \ de Lisboa, autorizado no presente diploma, alterado na Portaria n.º 680-A/98, de 31 de Agosto, pela PORT.1220/2004.20.09.2004.MCIES,\
+    \ DR.IS-B [222] de 20.09.2004, nos termos do seu anexo II \0 \0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/1220-2004-606718
+  date: '2004-09-20'
+- type: amended_by
+  target: pt:dre:623803:por
+  label: "Alterado o 2.º ciclo do curso bietápico de licenciatura em Tradução e Interpretação autorizado pela presente portaria,\
+    \ alterada pela Port 680-A/98, de 31-Ago, pela PORT.64/2005.24.01.2005.MCIES, DR.IS-B [16] de 24.01.2005\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/64-2005-623803
+  date: '2005-01-24'
+- type: amended_by
+  target: pt:dre:623804:por
+  label: "Alterado o 2.º ciclo do curso bietápico de licenciatura em Turismo autorizado pela presente portaria, alterada pela\
+    \ Port 680-A/98, de 31-Ago, pela PORT.63/2005.24.01.2005.MCIES, DR.IS-B [16] de 24.01.2005\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/63-2005-623804
+  date: '2005-01-24'
+- type: amended_by
+  target: pt:dre:564459:por
+  label: "Alterado para Gestão e Sistemas da Informação a denominação do curso bietápico de licenciatura em Organização e\
+    \ Sistemas de Informação, ministrado pelo Instituto Superior de Gestão Bancária, autorizado pelo presente diploma, pela\
+    \ PORT.338/2005.31.03.2005.MCIES, DR.IS-B [63] de 31.03.2005\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/338-2005-564459
+  date: '2005-03-31'
+- type: amended_by
+  target: pt:dre:549472:por
+  label: "Alterada da denominação do curso bietápico de licenciatura em Ciências Empresariais ministrado pelo Instituto Superior\
+    \ de Ciências Empresariais e do Turismo, cujo funcionamento foi autorizado pelo presente diploma, pela PORT.438/2005.21.04.2005.MCIES,\
+    \ DR.IS-B [78] de 21.04.2005\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/438-2005-549472
+  date: '2005-04-21'
+- type: amended_by
+  target: pt:dre:245310:por
+  label: "Alterada a designação do curso bietápico de licenciatura em Gestão Internacional do IESFF do Porto - passa a designar-se\
+    \ curso bietápico de licenciatura em Gestão e Negócios Internacionais - autorizado pelo presente diploma, com a redacção\
+    \ conferida pela Port 11/2003 de 04-Jan, pela PORT.750/2005.29.08.2005.MCTES, DR.IS-B [165] de 29.08.2005\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/750-2005-245310
+  date: '2005-08-29'
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/16/1994/01/22/p/dre
   label: null
@@ -183,16 +282,40 @@ relationships:
   target: eli:http://data.dre.pt/eli/port/413-a/1998/07/17/p/dre
   label: null
   source: http://data.dre.pt/eli/port/413-a/1998/07/17/p/dre
+- type: cites
+  target: pt:dre:222418:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:289611:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:429596:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:512030:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:533820:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:653145:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T14:09:06Z'
   warnings: []
   errors: []
 ---
@@ -287,7 +410,7 @@ Esta portaria entra em vigor no dia imediato ao da sua publicação.
 
 Ministério da Educação.
 
-**Assinada em 29 de Julho de 1998.**
+Assinada em 29 de Julho de 1998.
 
 Pelo Ministro da Educação, Alfredo Jorge Silva, Secretário de Estado do Ensino Superior.
 

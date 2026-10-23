@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/235/1999/04/06/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/235-1999-548472
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2002-10-22T00:00:00Z'
+  retrieved_at: '2026-10-23T14:14:07Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 279fca55c83d9c38f034d692532359da122195a51ea3e76623f9e7e6102ddadf
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 36f72b237275b911ba973ba76ff92f83f02439ef8a61ba7ebc070c3d1a278d49
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T14:14:07Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -65,26 +65,34 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Pessoal de Saúde
+- Estabelecimento Hospitalar
 - Hospitais da Universidade de Coimbra
+- Pessoal de Saúde
 - Pessoal Técnico Superior
 - Quadro de Pessoal
-- Estabelecimento Hospitalar
 relationships:
 - type: amended_by
   target: pt:dre:432183:por
   label: Última alteração registada na importação inicial
   source: null
+- type: cites
+  target: pt:dre:275830:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:505986:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T14:14:07Z'
   warnings: []
   errors: []
 ---
@@ -101,7 +109,7 @@ Ao abrigo do disposto no n.º 2 do artigo 1.º do [Decreto-Lei n.º 59/76](https
 
 Manda o Governo, pelos Ministros das Finanças, Adjunto e da Saúde, que o quadro de pessoal dos Hospitais da Universidade de Coimbra, aprovado pela [Portaria n.º 720-B/86](https://diariodarepublica.pt/dr/detalhe/portaria/720-b-1986-275830), de 28 de Novembro, com as alterações que lhe foram introduzidas posteriormente, seja alterado de acordo com o mapa anexo à presente portaria, da qual faz parte integrante.
 
-**Assinada em 22 de Fevereiro de 1999.**
+Assinada em 22 de Fevereiro de 1999.
 
 Pelo Ministro das Finanças, João Carlos da Costa Ferreira da Silva, Secretário de Estado do Orçamento. - Pelo Ministro Adjunto, Fausto de Sousa Correia, Secretário de Estado da Administração Pública e da Modernização Administrativa. - A Ministra da Saúde, Maria de Belém Roseira Martins Coelho Henriques de Pina.
 

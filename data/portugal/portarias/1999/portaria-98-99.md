@@ -48,18 +48,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/98/1999/02/04/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/98-1999-185336
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2009-10-07T00:00:00Z'
+  retrieved_at: '2026-10-23T14:19:00Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 47da26c2eca032685494b28177683c012411321d9ac2f9417def74a2aa5fa83e
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: f6d1466b584c0a782429e1666b8fb4ad6264d949d1923196943b0ab6a6b5d72f
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T14:19:00Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -75,6 +75,18 @@ relationships:
   target: pt:dre:491416:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:604402:por
+  label: "Anexados vários prédios rústicos à zona de caça associativa criada pela Port 722-H11/92, de 15-Jul, renovada pelo\
+    \ presente diploma, pela PORT.1238/2004.23.09.2004.MAPF, DR.IS-B [225] de 23.09.2004\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/1238-2004-604402
+  date: '2004-09-23'
+- type: amended_by
+  target: pt:dre:491416:por
+  label: "Renovada, com efeitos a partir de 01.06.2009, a concessão da zona de caça atribuída pela Port 722-H11/92 de 15-Jul,\
+    \ com a renovação efectuada neste diploma, pela PORT.1190/2009.07.10.2009.MADRP, DR.IS [194] de 07.10.2009\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/1190-2009-491416
+  date: '2009-10-07'
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/136/1996/08/14/p/dre
   label: null
@@ -87,16 +99,28 @@ relationships:
   target: eli:http://data.dre.pt/eli/port/722-h11/1992/07/15/p/dre
   label: null
   source: http://data.dre.pt/eli/port/722-h11/1992/07/15/p/dre
+- type: cites
+  target: pt:dre:405765:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:446351:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:617556:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T14:19:00Z'
   warnings: []
   errors: []
 ---
@@ -127,6 +151,6 @@ Manda o Governo, pelo Ministro da Agricultura, do Desenvolvimento Rural e das Pe
 
 Ministério da Agricultura, do Desenvolvimento Rural e das Pescas.
 
-**Assinada em 25 de Janeiro de 1999.**
+Assinada em 25 de Janeiro de 1999.
 
 Pelo Ministro da Agricultura, do Desenvolvimento Rural e das Pescas, Victor Manuel Coelho Barros, Secretário de Estado do Desenvolvimento Rural.

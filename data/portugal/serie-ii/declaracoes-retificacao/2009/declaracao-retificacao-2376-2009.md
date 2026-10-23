@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/2s/2009/09/187000000/3910039101.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -46,18 +46,18 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/declaracao-rectificacao/2376-2009-1587210
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2009-09-25T00:00:00Z'
+  retrieved_at: '2026-10-23T14:06:39Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 61ac8f7d99990d298bd54a6817cfe40a1d1b3d100ec2ff0aedb8e16d2141d724
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: e3f3bd548cf9c5e7146b93d54babfb46d3bfa5f27bf1c968b24264dba2247456
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T14:06:39Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -69,13 +69,13 @@ relationships: []
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T14:06:39Z'
   warnings: []
   errors: []
 ---
@@ -89,3 +89,5 @@ Passagem à situação de reserva
 Por ter saído com inexactidão o despacho n.º 19601/2009, publicado no Diário da República, 2.ª série, n.º 165, de 26 de Agosto de 2009, a p. 34680, rectifica-se que onde se lê «TCOR ART NIM 02586675, Carlos Manuel Terron da Silva Videira» deve ler-se «COR ART NIM 02586675, Carlos Manuel Terron da Silva Videira».
 
 7 de Setembro de 2009. - Por subdelegação do Chefe do Estado-Maior do Exército, o Director de Administração de Recursos Humanos, Rui Manuel da Silva Rodrigues, major-general.
+
+202333864

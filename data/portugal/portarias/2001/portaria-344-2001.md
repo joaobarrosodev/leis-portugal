@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/344/2001/04/06/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/344-2001-362330
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2026-02-12T00:00:00Z'
+  retrieved_at: '2026-10-23T14:31:37Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 36fa83d9d1848d6ea4558639edea72c25ea5fabeea32f47d30b88b1fa7266949
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 0ca75773009f22687d15aaeccba54079f12360a2d62ac4c5cf44d5c099fc8ec8
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T14:31:37Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -65,14 +65,14 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Subsídio de Alimentação
-- Diuturnidades
 - Administração de Portos
 - Carreira Profissional
-- Remuneração Acessória
+- Diuturnidades
 - Instituto Portuário
 - Pessoal Técnico de Pilotagem
 - Remuneração
+- Remuneração Acessória
+- Subsídio de Alimentação
 - Subsídio de Chefia
 - Trabalhador Portuário
 - Trabalho Portuário
@@ -81,6 +81,49 @@ relationships:
   target: pt:dre:1047287415:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:265482:por
+  label: "Actualizados os montantes da tabela de remunerações e diuturnidades do pessoal técnico de pilotagem a que se refere\
+    \ o nº 1 do presentediploma, pela PORT.217/2002.2002.03.12.MES, DR.IS-B [60]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/217-2002-265482
+  date: '2002-03-12'
+- type: amended_by
+  target: pt:dre:617164:por
+  label: "Actualizados os montantes da tabela de remunerações base e diuturnidades do pessoal técnico de pilotagem, alterados\
+    \ o nº 2 do nº 6º e o nº 2 do nº 7º da Port 633/99 de 11-Ago, alterada pelo presente diploma, pela PORT.1186/2004.15.09.2004.MOPTH,\
+    \ DR.IS-B [218] de 15.09.2004\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/1186-2004-617164
+  date: '2004-09-15'
+- type: amended_by
+  target: pt:dre:583409:por
+  label: "Actualizados os montantes da tabela de remunerações base e diuturnidades do pessoal técnico de pilotagem constantes\
+    \ da Port 633/99 de 11-Ago, com as alterações introduzidas pelo presente diploma, pela PORT.1139/2005.07.11.2005.MOPTC,\
+    \ DR.IS-B [213] de 07.11.2005\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/1139-2005-583409
+  date: '2005-11-07'
+- type: amended_by
+  target: pt:dre:538609:por
+  label: "Actualizados em 1,5%, com arredondamento, os montantes da tabela de remunerações base, incluindo diuturnidades,\
+    \ do pessoal técnico de pilotagem, aprovado pelo n.º 2 do n.º 1.º da Portaria n.º 633/99, de 11 de Agosto, na redacção\
+    \ do presente diploma, pela Port.779/2006.09.08.2006.MOPTC, DR.IS [153] de 09.08.2006\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/779-2006-538609
+  date: '2006-08-09'
+- type: amended_by
+  target: pt:dre:249849:por
+  label: "Actualizados em 2,1%, com arredondamento, os montantes da tabela de remunerações base, incluindo diuturnidades,\
+    \ do pessoal técnico de pilotagem, aprovado pelo n.º 2 do n.º 1.º da Portaria n.º 633/99, de 11 de Agosto, com as alterações\
+    \ introduzidas pelos n.os 2.º, 3.º e 4.º da presente portaria e resultantes da actualização prevista no n.º 1.º da Portaria\
+    \ n.º 850/2007, de 7 de Agosto, pela PORT.271/2008.09.04.2008.MOPTC, DR.IS [70] de 09.04.2008\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/271-2008-249849
+  date: '2008-04-09'
+- type: amended_by
+  target: pt:dre:494549:por
+  label: "Actualizados em 2,5 %, com arredondamento, os montantes da tabela de remunerações base, incluindo diuturnidades,\
+    \ do pessoal técnico de pilotagem, aprovada pelo n.º 2 do n.º 1.º da Port 633/99, de 11- Ago, com as alterações introduzidas\
+    \ pelos n.os 2.º, 3.º e 4.º da presente portaria, e resultantes da actualização prevista no n.º 1.º da Port 850/2007,\
+    \ de 07-Ago, pela PORT.652/2009.16.06.2009.MOPTC, DR.IS [114] de 16.06.2009\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/652-2009-494549
+  date: '2009-06-16'
 - type: cites
   target: eli:http://data.dre.pt/eli/
   label: null
@@ -121,16 +164,66 @@ relationships:
   target: eli:http://data.dre.pt/eli/dec-lei/421/1999/10/21/p/dre
   label: null
   source: http://data.dre.pt/eli/dec-lei/421/1999/10/21/p/dre
+- type: cites
+  target: pt:dre:223011:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:223015:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:223017:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:223019:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:223022:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:303466:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:392034:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:392036:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:392037:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:423068:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:667362:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:617164:por
+  label: "Revogado, com efeitos a partir de 1 de Janeiro de 2005, o disposto no nº 5 do presente diploma, pela PORT.1186/2004.15.09.2004.MOPTH,\
+    \ DR.IS-B [218] de 15.09.2004\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/1186-2004-617164
+  date: '2004-09-15'
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T14:31:37Z'
   warnings: []
   errors: []
 ---
@@ -175,12 +268,12 @@ Manda o Governo, pelo Ministro do Equipamento Social, o seguinte:
 
 11.º O regime previsto nos n.os 5.º, 6.º, 7.º e 9.º da presente portaria produz efeitos a partir de 1 de Julho de 2001.
 
-**O Ministro do Equipamento Social, Eduardo Luís Barreto Ferro Rodrigues, em 20 de Março de 2001.**
+O Ministro do Equipamento Social, Eduardo Luís Barreto Ferro Rodrigues, em 20 de Março de 2001.
 
 ## ANEXO I — Mapa de pessoal
 
-[(ver mapa no documento original)](https://files.diariodarepublica.pt/1s/2001/04/082b00/20602060.pdf)
+[[(ver mapa no documento original)](https://files.diariodarepublica.pt/1s/2001/04/082b00/20602060.pdf)](https://files.diariodarepublica.pt/1s/2001/04/082b00/20602060.pdf)
 
 ## ANEXO II — Ingresso e acesso na carreira
 
-[(ver mapa no documento original)](https://files.diariodarepublica.pt/1s/2001/04/082b00/20602060.pdf)
+[[(ver mapa no documento original)](https://files.diariodarepublica.pt/1s/2001/04/082b00/20602060.pdf)](https://files.diariodarepublica.pt/1s/2001/04/082b00/20602060.pdf)

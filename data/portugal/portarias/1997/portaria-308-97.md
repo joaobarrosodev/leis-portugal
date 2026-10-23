@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1997/05/107b00/22472248.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/308/1997/05/09/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/308-1997-384606
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2007-01-02T00:00:00Z'
+  retrieved_at: '2026-10-23T14:01:57Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 183b4e662d90663883d0e0110e28e6d872c32e7ab4121d5302b23ca2d62868a8
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 572c209a6e4b2599d8ab61d2c422e6d882645e7ded27e923151a641d295b44a2
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T14:01:57Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,27 +66,41 @@ reuse:
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
 - Bebida
-- Metrologia
 - Controlo de Qualidade
 - Embalagem
+- Metrologia
+- Normalização
 - Regulamento
 - Regulamento do Controlo Metrológico dos Recipientes para a Comercialização de Bebidas
-- Normalização
 relationships:
 - type: amended_by
   target: pt:dre:262286:por
   label: Última alteração registada na importação inicial
   source: null
+- type: cites
+  target: pt:dre:555638:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:557469:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:262286:por
+  label: "Revogada pela PORT.3/2007.02.01.2007.MEI, DR.IS [1] de 02.01.2007, com a entrada em vigor do regulamento aprovado\
+    \ naquele diploma (07.01.2007).\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/3-2007-262286
+  date: '2007-01-02'
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T14:01:57Z'
   warnings: []
   errors: []
 ---
@@ -105,9 +119,9 @@ Manda o Governo, pelo Ministro da Economia, que seja aprovado o Regulamento do C
 
 Ministério da Economia.
 
-**Assinada em 7 de Abril de 1997.**
+Assinada em 7 de Abril de 1997.
 
-**O Ministro da Economia, Augusto Carlos Serra Ventura Mateus.**
+O Ministro da Economia, Augusto Carlos Serra Ventura Mateus.
 
 REGULAMENTO DO CONTROLO METROLÓGICO DOS RECIPIENTES PARA COMERCIALIZAÇÃO DE BEBIDAS
 
@@ -169,7 +183,7 @@ Além disso, para os recipientes que comportam uma marca que delimita a meia cap
 
 QUADRO I
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1997/05/107b00/22472248.pdf))](https://files.diariodarepublica.pt/1s/1997/05/107b00/22472248.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1997/05/107b00/22472248.pdf)
 
 7.3.1.1 - No fabricante, o efectivo da amostra poderá ser escolhido em função da produção horária da máquina de fabrico dos recipientes.
 
@@ -177,23 +191,23 @@ QUADRO I
 
 QUADRO II
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1997/05/107b00/22472248.pdf))](https://files.diariodarepublica.pt/1s/1997/05/107b00/22472248.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1997/05/107b00/22472248.pdf)
 
 7.3.3 - Os diferentes valores de f, para a determinação do desvio padrão máximo, serão função dos efectivos da amostra e são os que se indicam no quadro III.
 
 QUADRO III
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1997/05/107b00/22472248.pdf))](https://files.diariodarepublica.pt/1s/1997/05/107b00/22472248.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1997/05/107b00/22472248.pdf)
 
 8 - Condições de aceitação dos lotes:
 
 8.1 - Os critérios de aceitabilidade serão dados pelas expressões seguintes:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1997/05/107b00/22472248.pdf))](https://files.diariodarepublica.pt/1s/1997/05/107b00/22472248.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1997/05/107b00/22472248.pdf)
 
 8.2 - Os lotes serão aceites quando forem verificadas as condições seguintes:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1997/05/107b00/22472248.pdf))](https://files.diariodarepublica.pt/1s/1997/05/107b00/22472248.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1997/05/107b00/22472248.pdf)
 
 Caso contrário, os lotes serão rejeitados.
 

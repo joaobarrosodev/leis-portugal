@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/726/1997/08/22/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/726-1997-195834
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2008-01-17T00:00:00Z'
+  retrieved_at: '2026-10-23T14:04:33Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 87f069aa628d6fbde166756418f2d342547853cb4489476767057799cc06ebb8
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: d5bf745e92a08f2f5f8e154d91bd6b9deab7141ddcbde2ff5301aea91ac3b0d9
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T14:04:33Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -74,6 +74,18 @@ relationships:
   target: pt:dre:248486:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:666738:por
+  label: "Renovada por um período de 12 anos a concessão da zona de caça associativa, atribuída pela Port 632/91, de 12-Jul\
+    \ DR.IS-B [158], alterada pelo presente diploma, pela PORT.539/2003.2003.07.09.MADRP DR.IS-B [156]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/539-2003-666738
+  date: '2003-07-09'
+- type: amended_by
+  target: pt:dre:248486:por
+  label: "Desanexados vários prédios rústicos, da zona de caça concessionada pela Port 632/91, de 12-Jul, alterada pelo presente\
+    \ diploma e pela Port 539/2003, de 09-Jul, pela PORT.52/2008.17.01.2008.MADRP, DR.IS [12] de 17.01.2008\08\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/52-2008-248486
+  date: '2008-01-17'
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/251/1992/11/12/p/dre
   label: null
@@ -82,16 +94,32 @@ relationships:
   target: eli:http://data.dre.pt/eli/port/632/1991/07/12/p/dre
   label: null
   source: http://data.dre.pt/eli/port/632/1991/07/12/p/dre
+- type: cites
+  target: pt:dre:417646:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:455890:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:584874:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:673176:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T14:04:33Z'
   warnings: []
   errors: []
 ---
@@ -124,8 +152,8 @@ Manda o Governo, pelo Ministro da Agricultura, do Desenvolvimento Rural e das Pe
 
 Ministério da Agricultura, do Desenvolvimento Rural e das Pescas.
 
-**Assinada em 4 de Agosto de 1997.**
+Assinada em 4 de Agosto de 1997.
 
 Pelo Ministro da Agricultura, do Desenvolvimento Rural e das Pescas, Luís Manuel Capoulas Santos, Secretário de Estado da Agricultura e do Desenvolvimento Rural.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1997/08/193b00/43764376.pdf))](https://files.diariodarepublica.pt/1s/1997/08/193b00/43764376.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1997/08/193b00/43764376.pdf)

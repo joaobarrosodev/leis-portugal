@@ -20,7 +20,7 @@ publication:
   reference: Diário da República n.º 163/1999, 2º Suplemento, Série I-B de 1999-07-15
   number: '163'
   series: I
-  supplement: 2º Suplemento
+  supplement: null
   pages: 4426-(19) a 4426-(20)
   pdf_url: https://files.diariodarepublica.pt/1s/1999/07/163b02/00190020.pdf
 entry_into_force_dates: []
@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/505-d/1999/07/15/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/505-d-1999-449743
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2005-06-20T00:00:00Z'
+  retrieved_at: '2026-10-23T14:15:53Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 07e21cbf1d00fc7357363f97bf870a8d47831ff4f37888547cee3d4aea4da83e
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 69db185e83985ef6adc78542ce9d2bc1b6b7c1447d0b3eb95342b1811c945daf
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T14:15:53Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,6 +67,7 @@ reuse:
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
 - Bacharelato
+- Coimbra
 - Curso de Cardiopneumologia
 - Curso de Farmácia
 - Curso de Fisioterapia
@@ -78,27 +79,44 @@ subjects:
 - Curso de Saúde Ambiental
 - Curso de Terapêutica da FALA
 - Curso de Terapêutica Ocupacional
-- Escola Superior de Tecnologia da Saúde
-- Lisboa
-- Licenciatura
-- Coimbra
 - Ensino Superior
+- Escola Superior de Tecnologia da Saúde
+- Licenciatura
+- Lisboa
 - Porto
 relationships:
 - type: amended_by
   target: pt:dre:226817:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:391432:por
+  label: "Aprovado o plano de estudos dos cursos, a ministrar em Coimbra pela PORT.214/2001.2001.03.15.ME, DR.IS-B [63] de\
+    \ 15/Mar/2001\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/214-2001-391432
+  date: '2001-03-15'
+- type: cites
+  target: pt:dre:453184:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:470779:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:556606:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T14:15:53Z'
   warnings: []
   errors: []
 ---

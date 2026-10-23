@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/52/2000/02/09/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/52-2000-402098
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2000-02-09T00:00:00Z'
+  retrieved_at: '2026-10-23T14:24:07Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: a87b097ae55e28d3639b351ef4a45cdfbbd1a3722525f1f3e793c3ba57cb4b51
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 11f71575ffe1c099a4f69a9b4662a97471d1b029609713c5ead697eb670d7bbb
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T14:24:07Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -65,22 +65,30 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
+- Ensino Superior
 - Faculdade de Ciências do Desporto e de Educação Física
 - Pessoal Docente
 - Quadro de Pessoal
-- Ensino Superior
 - Universidade de Coimbra
-relationships: []
+relationships:
+- type: cites
+  target: pt:dre:355494:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:505986:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T14:24:07Z'
   warnings: []
   errors: []
 ---
@@ -95,7 +103,7 @@ Assim, ao abrigo do disposto no n.º 6 do artigo 15.º da [Lei n.º 108/88](http
 
 Manda o Governo, pelos Ministros das Finanças, da Educação e da Reforma do Estado e da Administração Pública, que seja aprovado o quadro de pessoal docente da Faculdade de Ciências do Desporto e Educação Física da Universidade de Coimbra, constante do mapa anexo à presente portaria, de que faz parte integrante.
 
-**O Ministro das Finanças, Joaquim Augusto Nunes Pina Moura, em 13 de Janeiro de 2000. - Pelo Ministro da Educação, José Joaquim Dinis Reis, Secretário de Estado do Ensino Superior, em 15 de Dezembro de 1999. - Pelo Ministro da Reforma do Estado e da Administração Pública, Alexandre António Cantigas Rosa, Secretário de Estado da Administração Pública e da Modernização Administrativa, em 30 de Novembro de 1999.**
+O Ministro das Finanças, Joaquim Augusto Nunes Pina Moura, em 13 de Janeiro de 2000. - Pelo Ministro da Educação, José Joaquim Dinis Reis, Secretário de Estado do Ensino Superior, em 15 de Dezembro de 1999. - Pelo Ministro da Reforma do Estado e da Administração Pública, Alexandre António Cantigas Rosa, Secretário de Estado da Administração Pública e da Modernização Administrativa, em 30 de Novembro de 1999.
 
 MAPA ANEXO
 

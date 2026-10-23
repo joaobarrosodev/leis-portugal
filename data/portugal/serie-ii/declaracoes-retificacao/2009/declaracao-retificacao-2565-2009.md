@@ -27,7 +27,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/2s/2009/10/201000000/4200642009.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -49,18 +49,18 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/declaracao-rectificacao/2565-2009-2778660
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2009-10-16T00:00:00Z'
+  retrieved_at: '2026-10-23T14:07:44Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 74b7ae2139a0387fde899899b9431aa51744939317bd5f7677e8764c71118fad
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: c5af721f92e83676275c9d5aff323bed111079af56ebd527d59be9ab49c43453
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T14:07:44Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -72,13 +72,13 @@ relationships: []
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T14:07:44Z'
   warnings: []
   errors: []
 ---
@@ -127,19 +127,19 @@ No despacho n.º 3869/2009, publicado no Diário da República, 2.ª série, n.�
 
 QUADRO N.º 1
 
-[([ver documento original](https://files.diariodarepublica.pt/2s/2009/10/201000000/4200642009.pdf))](https://files.diariodarepublica.pt/2s/2009/10/201000000/4200642009.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/2s/2009/10/201000000/4200642009.pdf)
 
 6.2 - Área de especialização em Dramaturgia e Realização:
 
 QUADRO N.º 2
 
-[([ver documento original](https://files.diariodarepublica.pt/2s/2009/10/201000000/4200642009.pdf))](https://files.diariodarepublica.pt/2s/2009/10/201000000/4200642009.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/2s/2009/10/201000000/4200642009.pdf)
 
 6.3 - Área de especialização em Tecnologias de Pós-Produção:
 
 QUADRO N.º 3
 
-[([ver documento original](https://files.diariodarepublica.pt/2s/2009/10/201000000/4200642009.pdf))](https://files.diariodarepublica.pt/2s/2009/10/201000000/4200642009.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/2s/2009/10/201000000/4200642009.pdf)
 
 7 - Plano de estudos:
 
@@ -157,25 +157,25 @@ Especialidade: Desenvolvimento de Projecto Cinematográfico
 
 QUADRO N.º 4
 
-[([ver documento original](https://files.diariodarepublica.pt/2s/2009/10/201000000/4200642009.pdf))](https://files.diariodarepublica.pt/2s/2009/10/201000000/4200642009.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/2s/2009/10/201000000/4200642009.pdf)
 
 2.º semestre
 
 QUADRO N.º 5
 
-[([ver documento original](https://files.diariodarepublica.pt/2s/2009/10/201000000/4200642009.pdf))](https://files.diariodarepublica.pt/2s/2009/10/201000000/4200642009.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/2s/2009/10/201000000/4200642009.pdf)
 
 3.º semestre
 
 QUADRO N.º 6
 
-[([ver documento original](https://files.diariodarepublica.pt/2s/2009/10/201000000/4200642009.pdf))](https://files.diariodarepublica.pt/2s/2009/10/201000000/4200642009.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/2s/2009/10/201000000/4200642009.pdf)
 
 4.º semestre
 
 QUADRO N.º 7
 
-[([ver documento original](https://files.diariodarepublica.pt/2s/2009/10/201000000/4200642009.pdf))](https://files.diariodarepublica.pt/2s/2009/10/201000000/4200642009.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/2s/2009/10/201000000/4200642009.pdf)
 
 Área de especialização: Dramaturgia e Realização
 
@@ -183,25 +183,25 @@ QUADRO N.º 7
 
 QUADRO N.º 8
 
-[([ver documento original](https://files.diariodarepublica.pt/2s/2009/10/201000000/4200642009.pdf))](https://files.diariodarepublica.pt/2s/2009/10/201000000/4200642009.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/2s/2009/10/201000000/4200642009.pdf)
 
 2.º semestre
 
 QUADRO N.º 9
 
-[([ver documento original](https://files.diariodarepublica.pt/2s/2009/10/201000000/4200642009.pdf))](https://files.diariodarepublica.pt/2s/2009/10/201000000/4200642009.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/2s/2009/10/201000000/4200642009.pdf)
 
 3.º semestre
 
 QUADRO N.º 10
 
-[([ver documento original](https://files.diariodarepublica.pt/2s/2009/10/201000000/4200642009.pdf))](https://files.diariodarepublica.pt/2s/2009/10/201000000/4200642009.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/2s/2009/10/201000000/4200642009.pdf)
 
 4.º semestre
 
 QUADRO N.º 11
 
-[([ver documento original](https://files.diariodarepublica.pt/2s/2009/10/201000000/4200642009.pdf))](https://files.diariodarepublica.pt/2s/2009/10/201000000/4200642009.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/2s/2009/10/201000000/4200642009.pdf)
 
 Área de especialização: Tecnologias de Pós-Produção
 
@@ -209,22 +209,24 @@ QUADRO N.º 11
 
 QUADRO N.º 12
 
-[([ver documento original](https://files.diariodarepublica.pt/2s/2009/10/201000000/4200642009.pdf))](https://files.diariodarepublica.pt/2s/2009/10/201000000/4200642009.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/2s/2009/10/201000000/4200642009.pdf)
 
 2.º semestre
 
 QUADRO N.º 13
 
-[([ver documento original](https://files.diariodarepublica.pt/2s/2009/10/201000000/4200642009.pdf))](https://files.diariodarepublica.pt/2s/2009/10/201000000/4200642009.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/2s/2009/10/201000000/4200642009.pdf)
 
 3.º semestre
 
 QUADRO N.º 14
 
-[([ver documento original](https://files.diariodarepublica.pt/2s/2009/10/201000000/4200642009.pdf))](https://files.diariodarepublica.pt/2s/2009/10/201000000/4200642009.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/2s/2009/10/201000000/4200642009.pdf)
 
 4.º semestre
 
 QUADRO N.º 15
 
-[([ver documento original](https://files.diariodarepublica.pt/2s/2009/10/201000000/4200642009.pdf))](https://files.diariodarepublica.pt/2s/2009/10/201000000/4200642009.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/2s/2009/10/201000000/4200642009.pdf)
+
+202423385

@@ -47,41 +47,62 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/declaracao-rectificacao/167-2009-3191414
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2009-01-23T00:00:00Z'
+  retrieved_at: '2026-10-23T14:02:28Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 6c4a732626dc090890eacd2bab0ba93b4a3b70a8c549bf6c60386c9bb986f5e7
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: e69c18b1b724684aec22da07faa1cdf1ceb087669de0741501b339528728d86d
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T14:02:28Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
-relationships: []
+subjects:
+- Contrato de Trabalho a Termo
+- Equipa de Missão
+- Estrutura de Apoio Técnico
+- Fundo de Coesão
+- Integração de Trabalhadores
+- Intervenção Operacional da Cultura
+- Intervenção Operacional de Acessibilidades e Transportes
+- Intervenção Operacional do Ambiente
+- Lista Nominativa
+- Programa Operacional Tematico Valorização do Território
+- Programa Saúde XXI
+- QCA III
+- QREN
+relationships:
+- type: cites
+  target: pt:dre:249865:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:640354:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T14:02:28Z'
   warnings: []
   errors: []
 ---
 
-# Declaração de Rectificação n.º 167/2009
+# Declaração de rectificação n.º 167/2009
 
 Ao abrigo da alínea d) do n.º 2 do artigo 6.º do [Decreto-Lei n.º 312/2007](https://diariodarepublica.pt/dr/detalhe/decreto-lei/312-2007-640354), de 17 de Setembro, alterado pelo [Decreto-Lei n.º 74/2008](https://diariodarepublica.pt/dr/detalhe/decreto-lei/74-2008-249865), de 22 de Abril, declara-se que o despacho n.º 32 299/2008, publicado no Diário da República, 2.ª série, n.º 244, de 18 de Dezembro de 2008, saiu com as seguintes inexactidões que, mediante declaração da entidade emitente, assim se rectifica:
 

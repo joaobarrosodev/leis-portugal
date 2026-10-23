@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/2s/2010/07/129000000/3663436640.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -46,18 +46,18 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/declaracao-rectificacao/1310-2010-881761
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2010-07-06T00:00:00Z'
+  retrieved_at: '2026-10-23T14:16:48Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 9e90d21dc507bb8b8c169e0b5e562195a1b3fbe724061627dd7fce618069c07f
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: ddc9009caa41892cfd317153c221aa54c74e060f04d70fd7a88f3a0229432651
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T14:16:48Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -65,22 +65,42 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects: []
-relationships: []
+relationships:
+- type: cites
+  target: pt:dre:439091:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:447916:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:538619:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:581061:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:602685:por
+  label: null
+  source: null
 article_structure:
-  article_count: 47
-  section_count: 2
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  article_count: 0
+  section_count: 0
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T14:16:48Z'
   warnings: []
   errors: []
 ---
 
-# Declaração de Rectificação n.º 1310/2010
+# Declaração de rectificação n.º 1310/2010
 
 Litério Augusto Marques, presidente da Câmara Municipal de Anadia:
 
@@ -108,15 +128,15 @@ Si - área bruta de construção (metros quadrados) afecta a cada tipo de utiliz
 
 Ki - coeficiente que traduz a influência do uso e tipologia e que toma os seguintes valores:
 
-[([ver documento original](https://files.diariodarepublica.pt/2s/2010/07/129000000/3663436640.pdf))](https://files.diariodarepublica.pt/2s/2010/07/129000000/3663436640.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/2s/2010/07/129000000/3663436640.pdf)
 
 Ii - coeficiente que traduz o nível de infra-estruturação do local, nomeadamente a existência e o funcionamento das seguintes infra-estruturas públicas, e toma os seguintes valores:
 
-[([ver documento original](https://files.diariodarepublica.pt/2s/2010/07/129000000/3663436640.pdf))](https://files.diariodarepublica.pt/2s/2010/07/129000000/3663436640.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/2s/2010/07/129000000/3663436640.pdf)
 
 Li - coeficiente que traduz a influência da localização em áreas geográficas diferenciadas, de acordo com os valores constantes do quadro seguinte:
 
-[([ver documento original](https://files.diariodarepublica.pt/2s/2010/07/129000000/3663436640.pdf))](https://files.diariodarepublica.pt/2s/2010/07/129000000/3663436640.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/2s/2010/07/129000000/3663436640.pdf)
 
 PPi - valor total em euros do investimento previsto no plano plurianual de investimentos, na rubrica relativa ao saneamento, abastecimento de água, resíduos sólidos, protecção do meio ambiente e conservação da natureza, iluminação pública e construção e requalificação da rede viária.
 
@@ -150,9 +170,13 @@ Verificaram-se ainda erros na tabela de taxas anexa ao Regulamento, que depois d
 
 Tabela de taxas
 
-### CAPÍTULO I — Urbanização e edificação
+CAPÍTULO I
 
-###### Artigo 1.º — Apreciação dos pedidos
+Urbanização e edificação
+
+Artigo 1.º
+
+Apreciação dos pedidos
 
 1 - Apreciação do pedido de informação prévia:
 
@@ -206,7 +230,9 @@ iv) Muros, telheiros e anexos - 20 (euro).
 
 7 - Apreciação de informação nos termos do artigo 110.º do regime jurídico da urbanização e da edificação - 50 (euro).
 
-###### Artigo 2.º — Emissão do alvará de licença ou admissão de comunicação prévia de loteamento e ou de obras de urbanização e respectivas alterações
+Artigo 2.º
+
+Emissão do alvará de licença ou admissão de comunicação prévia de loteamento e ou de obras de urbanização e respectivas alterações
 
 1 - Emissão do alvará ou admissão de comunicação prévia - 50 (euro);
 
@@ -218,7 +244,9 @@ ii) Por lote - 5 (euro);
 
 iii) Por fogo ou unidade de ocupação - 5 (euro).
 
-###### Artigo 3.º — Emissão do alvará de licença ou admissão de comunicação prévia de trabalhos de remodelação dos terrenos
+Artigo 3.º
+
+Emissão do alvará de licença ou admissão de comunicação prévia de trabalhos de remodelação dos terrenos
 
 1 - Por emissão do alvará ou admissão de comunicação prévia - 26,50 (euro);
 
@@ -226,7 +254,9 @@ a) Por metro quadrado ou fracção - 0,20 (euro);
 
 b) Por mês ou fracção do prazo de execução - 10,60 (euro).
 
-###### Artigo 4.º — Obras diversas
+Artigo 4.º
+
+Obras diversas
 
 1 - Prazo de execução - por cada mês ou fracção - 2,60 (euro).
 
@@ -256,7 +286,9 @@ c) Superior a 5000 m2 - 0,10 (euro).
 
 11 - Demolição de edifícios, por piso - 7 (euro).
 
-###### Artigo 5.º — Emissão de alvarás de autorização de utilização e de alteração de uso
+Artigo 5.º
+
+Emissão de alvarás de autorização de utilização e de alteração de uso
 
 1 - Emissão do alvará de autorização de utilização e suas alterações, por fogo ou unidade de utilização:
 
@@ -292,7 +324,9 @@ h) Comércio/prestação de serviços constantes da Portaria n.º 791/2007, de 2
 
 5 - Emissão de alvará de autorização de utilização ou suas alterações de estabelecimentos para fins não previstos nos números anteriores - 75,60 (euro).
 
-###### Artigo 6.º — Classificação dos empreendimentos turísticos
+Artigo 6.º
+
+Classificação dos empreendimentos turísticos
 
 1 - Pela auditoria de classificação aos estabelecimentos para fins turísticos:
 
@@ -306,19 +340,25 @@ ii) Agro-turismo - 110 (euro).
 
 2 - Parques de campismo e caravanismo - 250 (euro).
 
-###### Artigo 7.º — Estabelecimentos de alojamento local
+Artigo 7.º
+
+Estabelecimentos de alojamento local
 
 1 - Pedido de registo dos estabelecimentos de alojamento local - 10 (euro).
 
 2 - Vistoria para verificação dos requisitos de funcionamento dos estabelecimentos de alojamento local - 50 (euro).
 
-###### Artigo 8.º — Depósito da ficha técnica da habitação
+Artigo 8.º
+
+Depósito da ficha técnica da habitação
 
 1 - Depósito da ficha técnica da habitação - 19 (euro).
 
 2 - Emissão da segunda via da ficha técnica da habitação - 28 (euro).
 
-###### Artigo 9.º — Licença especial de ruído motivado pela execução de obras
+Artigo 9.º
+
+Licença especial de ruído motivado pela execução de obras
 
 1 - Por dia útil ou fracção - 6 (euro).
 
@@ -326,17 +366,23 @@ ii) Agro-turismo - 110 (euro).
 
 3 - Vistoria técnica para verificação dos níveis do ruído - 316 (euro).
 
-###### Artigo 10.º — Instalação de redes e estações de radiocomunicações
+Artigo 10.º
+
+Instalação de redes e estações de radiocomunicações
 
 1 - Instalação de equipamento e antenas de retransmissão de telefones móveis ou similares, excepto de rádio amador, por unidade - 5260 (euro).
 
 2 - Instalação de equipamentos e antenas de rádio amador, por unidade - 80 (euro).
 
-###### Artigo 11.º — Instalação de parques eólicos
+Artigo 11.º
+
+Instalação de parques eólicos
 
 Por cada aerogerador - 530 (euro).
 
-###### Artigo 12.º — Exploração de estabelecimentos industriais do tipo 3 e o exercício de actividade produtiva similar ou local
+Artigo 12.º
+
+Exploração de estabelecimentos industriais do tipo 3 e o exercício de actividade produtiva similar ou local
 
 1 - Recepção do registo e verificação da sua conformidade - 53 (euro).
 
@@ -354,7 +400,7 @@ Por cada aerogerador - 530 (euro).
 
 8 - Apreciação de pedidos de regularização de estabelecimento industrial - 100 (euro).
 
-###### Artigo 13.º
+Artigo 13.º
 
 Processos de licenciamento e instalações de armazenamento de produtos de petróleo e postos de abastecimento de combustíveis previstas no artigo 22.º do [Decreto-Lei n.º 267/2002](https://diariodarepublica.pt/dr/detalhe/decreto-lei/267-2002-447916), de 26 de Novembro.
 
@@ -368,7 +414,9 @@ Processos de licenciamento e instalações de armazenamento de produtos de petr�
 
 5 - Averbamentos - 10 (euro).
 
-###### Artigo 14.º — Exploração de recursos geológicos - pedreiras
+Artigo 14.º
+
+Exploração de recursos geológicos - pedreiras
 
 1 - Pedido de atribuição de licença de exploração - 250 (euro).
 
@@ -386,7 +434,9 @@ Processos de licenciamento e instalações de armazenamento de produtos de petr�
 
 8 - Mudança de responsável técnico - 50 (euro).
 
-###### Artigo 15.º — Vistorias
+Artigo 15.º
+
+Vistorias
 
 1 - Vistoria a edificações, para efeito de emissão de alvará de utilização e suas alterações - taxa geral e fixa - 50 (euro).
 
@@ -418,7 +468,9 @@ e) Empreendimentos turísticos - 10 (euro).
 
 7 - Vistoria a outros estabelecimentos, cuja utilização não esteja prevista nos números anteriores - 100 (euro).
 
-###### Artigo 16.º — Operações de destaque
+Artigo 16.º
+
+Operações de destaque
 
 1 - Destaque de parcela:
 
@@ -428,7 +480,9 @@ b) Pela emissão da certidão - 15 (euro);
 
 c) Pelo pedido de rectificação ou renovação de certidão - 60 (euro).
 
-###### Artigo 17.º — Conversão da edificação ao regime jurídico da propriedade horizontal
+Artigo 17.º
+
+Conversão da edificação ao regime jurídico da propriedade horizontal
 
 1 - Pela apreciação do pedido - 90 (euro).
 
@@ -440,7 +494,9 @@ b) Edificações erigidas em parcela cadastral; em parcela ou em parcela resulta
 
 3 - Pelo pedido de rectificação - 90 (euro).
 
-###### Artigo 18.º — Recepção de obras de urbanização
+Artigo 18.º
+
+Recepção de obras de urbanização
 
 1 - Por pedido e pela realização de vistoria para a recepção provisória ou definitiva de loteamentos e ou de obras de urbanização - taxa geral e fixa - 70 (euro).
 
@@ -448,7 +504,9 @@ b) Edificações erigidas em parcela cadastral; em parcela ou em parcela resulta
 
 3 - Por pedido e apreciação de reforço, redução ou cancelamento de caução - 19 (euro).
 
-###### Artigo 19.º — Fornecimento de plantas topográficas (formato digital)
+Artigo 19.º
+
+Fornecimento de plantas topográficas (formato digital)
 
 1 - Formato A4 (210 mm x 297 mm), por exemplar - 1,45 (euro).
 
@@ -458,7 +516,9 @@ b) Edificações erigidas em parcela cadastral; em parcela ou em parcela resulta
 
 4 - Formatos superiores, por exemplar e metro quadrado - 21,10 (euro).
 
-###### Artigo 20.º — Assuntos administrativos
+Artigo 20.º
+
+Assuntos administrativos
 
 1 - Por cada pedido de reapreciação apresentado após a decisão final - 30 (euro).
 
@@ -476,13 +536,17 @@ a) Certidões de localização - 5,30 (euro).
 
 7 - Por apresentação a arquivo da declaração prévia nos termos do Decreto-Lei n.º 259/07, de 17 de Julho - 20 (euro).
 
-### CAPÍTULO II — Taxas de serviços diversos
+CAPÍTULO II
+
+Taxas de serviços diversos
 
 SUBCAPÍTULO I
 
 Taxas de serviços diversos
 
-###### Artigo 21.º — Prestação de serviços e concessão de documentos
+Artigo 21.º
+
+Prestação de serviços e concessão de documentos
 
 1 - Alvarás não especialmente contemplados na presente tabela - cada - 20 (euro).
 
@@ -534,7 +598,9 @@ SUBCAPÍTULO II
 
 Licenciamento de actividade de alteração do coberto vegetal e relevo natural do solo
 
-###### Artigo 22.º — Licenciamento de actividade de alteração do coberto vegetal e relevo natural do solo
+Artigo 22.º
+
+Licenciamento de actividade de alteração do coberto vegetal e relevo natural do solo
 
 1 - Para plantação de árvores de crescimento rápido e cumulativamente:
 
@@ -554,11 +620,15 @@ SUBCAPÍTULO III
 
 Higiene e salubridade
 
-###### Artigo 23.º — Vistorias
+Artigo 23.º
+
+Vistorias
 
 1 - Vistorias a viaturas de transporte de animais vivos - 50 (euro).
 
-###### Artigo 24.º — Alvarás de licenciamento sanitário
+Artigo 24.º
+
+Alvarás de licenciamento sanitário
 
 1 - 2.ª via de alvará de licenciamento sanitário - 64,50 (euro).
 
@@ -570,7 +640,9 @@ SUBCAPÍTULO IV
 
 Licenciamento acidental de recintos para espectáculos
 
-###### Artigo 25.º — Emissão de alvarás de licença de funcionamento de recintos itinerantes ou improvisados e de licença acidental de recinto para espectáculos de natureza artística
+Artigo 25.º
+
+Emissão de alvarás de licença de funcionamento de recintos itinerantes ou improvisados e de licença acidental de recinto para espectáculos de natureza artística
 
 1 - Licença de funcionamento de recintos itinerantes ou improvisados - 21 (euro):
 
@@ -584,7 +656,9 @@ SUBCAPÍTULO V
 
 Cemitérios
 
-###### Artigo 26.º — Serviços diversos
+Artigo 26.º
+
+Serviços diversos
 
 1 - Inumação em covais:
 
@@ -598,13 +672,17 @@ b) Sepulturas perpétuas - cada - 52 (euro).
 
 4 - Trasladação - 50 (euro)
 
-###### Artigo 27.º — Concessão de terrenos
+Artigo 27.º
+
+Concessão de terrenos
 
 1 - Para sepultura perpétua - 750 (euro).
 
 2 - Para jazigo (9 m2) - 5000 (euro).
 
-###### Artigo 28.º — Averbamentos
+Artigo 28.º
+
+Averbamentos
 
 Averbamentos em alvarás de concessão de terrenos em nome de novo proprietário:
 
@@ -620,7 +698,9 @@ a) Em alvarás de jazigo - 300 (euro);
 
 b) Em alvarás de sepulturas perpétuas - 100 (euro).
 
-###### Artigo 29.º — Ocupação de ossários municipais
+Artigo 29.º
+
+Ocupação de ossários municipais
 
 1 - Por cada período de um ano ou fracção - 19,50 (euro).
 
@@ -630,7 +710,9 @@ SUBCAPÍTULO VI
 
 Publicidade e propaganda comercial
 
-###### Artigo 30.º — Mensagens publicitárias de natureza comercial
+Artigo 30.º
+
+Mensagens publicitárias de natureza comercial
 
 1 - Taxa geral e fixa pela apreciação e emissão de título - 10 (euro).
 
@@ -672,11 +754,15 @@ SUBCAPÍTULO VII
 
 Ocupação do domínio público
 
-###### Artigo 31.º — Taxa geral e fixa
+Artigo 31.º
+
+Taxa geral e fixa
 
 Taxa geral e fixa pela apreciação e emissão de título - 10 (euro).
 
-###### Artigo 32.º — Ocupação do espaço aéreo da via pública
+Artigo 32.º
+
+Ocupação do espaço aéreo da via pública
 
 1 - Alpendres fixos ou articulados não integrados nos edifícios - por metro linear de frente ou fracção e por ano:
 
@@ -702,7 +788,9 @@ a) Por metro quadrado de varandas, sacadas ou outras construções semelhantes e
 
 b) Por metro quadrado de corpos salientes fechados e por pavimento - 140,20 (euro).
 
-###### Artigo 33.º — Construções ou instalações especiais no solo ou subsolo
+Artigo 33.º
+
+Construções ou instalações especiais no solo ou subsolo
 
 1 - Construções ou instalação provisória por motivo de festejos ou outras celebrações ou para exercício do comércio e indústria:
 
@@ -720,7 +808,9 @@ a) Por metro quadrado ou fracção da superfície da via ou espaço publico ocup
 
 b) Com encerramento de via, por dia ou fracção - 104,50 (euro).
 
-###### Artigo 34.º — Ocupações diversas
+Artigo 34.º
+
+Ocupações diversas
 
 1 - Vedações e outros dispositivos sobre os quais haja anúncios ou reclamos - por metro quadrado de superfície e de dispositivo utilizado na publicidade e por mês ou fracção - 6,50 (euro).
 
@@ -746,7 +836,9 @@ c) Com veículo automóvel ou atrelado por metro quadrado e por mês - 6,50 (eur
 
 9 - Vendedores de jornais, com banca, estrado ou semelhante amovível - metro quadrado/ano - 6,50 (euro).
 
-###### Artigo 35.º — Bombas de carburantes líquidos
+Artigo 35.º
+
+Bombas de carburantes líquidos
 
 1 - Instaladas inteiramente na via pública, por cada uma e por ano - 193,50 (euro).
 
@@ -756,11 +848,15 @@ c) Com veículo automóvel ou atrelado por metro quadrado e por mês - 6,50 (eur
 
 4 - Instaladas inteiramente em propriedade particular mas abastecendo na via pública, por cada uma e por ano - 129 (euro).
 
-###### Artigo 36.º — Bombas ou aparelhos de ar ou água
+Artigo 36.º
+
+Bombas ou aparelhos de ar ou água
 
 Instaladas ou abastecendo inteiramente na via pública, por cada e por ano ou fracção - 50 (euro).
 
-###### Artigo 37.º — Taxa municipal de direitos de passagem (TMDP) Artigo 106.º da [Lei n.º 5/2004](https://diariodarepublica.pt/dr/detalhe/lei/5-2004-581061) de 10 de Fevereiro
+Artigo 37.º
+
+Taxa municipal de direitos de passagem (TMDP) Artigo 106.º da [Lei n.º 5/2004](https://diariodarepublica.pt/dr/detalhe/lei/5-2004-581061) de 10 de Fevereiro
 
 A taxa municipal de direitos de passagem (TMDP) é determinada com base na aplicação de 0,25 % sobre cada factura emitida pelas empresas que oferecem redes e serviços de comunicações electrónicas acessíveis ao público, em local fixo, para todos os clientes finais do município de Anadia.
 
@@ -768,7 +864,9 @@ SUBCAPÍTULO VIII
 
 Mercados e feiras
 
-###### Artigo 38.º — Emissão de cartões de exercício de actividade
+Artigo 38.º
+
+Emissão de cartões de exercício de actividade
 
 1 - Vendedor ambulante:
 
@@ -782,7 +880,9 @@ ii) Fora do prazo regulamentar - 64,50 (euro);
 
 c) Segunda via de cartão - 13 (euro).
 
-###### Artigo 39.º — Ocupação do espaço nos mercados e feiras
+Artigo 39.º
+
+Ocupação do espaço nos mercados e feiras
 
 1 - Lojas interiores, por metro quadrado ou fracção e por mês - 3,30 (euro).
 
@@ -808,7 +908,9 @@ SUBCAPÍTULO IX
 
 Remoção e recolha de veículos
 
-###### Artigo 40.º — Remoção e recolha de veículos
+Artigo 40.º
+
+Remoção e recolha de veículos
 
 1 - Ciclomotores, motociclos e outros veículos a motor não previstos nas alíneas seguintes - por cada um:
 
@@ -838,7 +940,9 @@ SUBCAPÍTULO X
 
 Licenciamento de actividades diversas
 
-###### Artigo 41.º — Licenciamento de actividades diversas
+Artigo 41.º
+
+Licenciamento de actividades diversas
 
 1 - Pela emissão de licença anual no exercício da actividade de guarda-nocturno - 23,40 (euro).
 
@@ -880,7 +984,9 @@ a) Com fins lucrativos e por dia - 35,10 (euro);
 
 b) Sem fins lucrativos e por dia - 5,90 (euro).
 
-###### Artigo 42.º — Horários de funcionamento
+Artigo 42.º
+
+Horários de funcionamento
 
 1 - Emissão do horário - 10 (euro).
 
@@ -890,7 +996,9 @@ b) Sem fins lucrativos e por dia - 5,90 (euro).
 
 4 - Prolongamento de horário (por dia) - 7,50 (euro).
 
-###### Artigo 43.º — Ruído
+Artigo 43.º
+
+Ruído
 
 1 - Licença especial de ruído:
 
@@ -900,7 +1008,9 @@ SUBCAPÍTULO XI
 
 Ascensores, escadas mecânicas, tapetes rolantes e monta-cargas
 
-###### Artigo 44.º — Inspecções
+Artigo 44.º
+
+Inspecções
 
 1 - Inspecções periódicas às instalações - 117 (euro).
 
@@ -912,7 +1022,9 @@ SUBCAPÍTULO XII
 
 Emissão do certificado de registo dos cidadãos da união europeia, cuja estada no território nacional se prolongue por período superior a três meses
 
-###### Artigo 45.º — Certificado de registo dos cidadãos da União Europeia
+Artigo 45.º
+
+Certificado de registo dos cidadãos da União Europeia
 
 1 - Pela emissão:
 
@@ -926,7 +1038,9 @@ SUBCAPÍTULO XIII
 
 Funcionamento da comissão arbitral municipal em conformidade com o [Decreto-Lei n.º 161/2006](https://diariodarepublica.pt/dr/detalhe/decreto-lei/161-2006-538619), de 8 de Agosto
 
-###### Artigo 46.º — Comissão arbitral municipal
+Artigo 46.º
+
+Comissão arbitral municipal
 
 1 - Determinação do coeficiente de conservação - 102 (euro).
 
@@ -938,7 +1052,9 @@ SUBCAPÍTULO XIV
 
 Licenças de condução
 
-###### Artigo 47.º — Licenças
+Artigo 47.º
+
+Licenças
 
 1 - Emissão de licenças de condução - 13 (euro).
 
@@ -947,3 +1063,5 @@ Licenças de condução
 3 - Segundas vias de licenças de condução - 10 (euro).»
 
 29 de Junho de 2010. - O Presidente da Câmara, Litério Augusto Marques.
+
+203428628

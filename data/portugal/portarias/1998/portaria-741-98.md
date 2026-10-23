@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/741/1998/09/10/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/741-1998-243764
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2007-06-08T00:00:00Z'
+  retrieved_at: '2026-10-23T14:10:51Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: de0081cc32cb74938d5b529b5f3934e2c73f9c77e7d3632657044dbf02c41a24
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 9c61693005c6628170fd6414cfce8f795841d81b2a80bc77acc332f5ed930987
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T14:10:51Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,14 +67,39 @@ reuse:
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
 - Alcoutim
-- Castro Marim
 - CAÇA
+- Castro Marim
 - ZONA de CAÇA
 relationships:
 - type: amended_by
   target: pt:dre:639091:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:428852:por
+  label: "Anexados vários prédios rústicos à zona de caça associativa criada pela Port 534/94, de 08-Jul, na redacção da Port\
+    \ 841/97, de 06-Set e do presente diploma, pela PORT.731/99.1999.08.25.MADRP R.IS-B [198]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/731-1999-428852
+  date: '1999-08-25'
+- type: amended_by
+  target: pt:dre:538629:por
+  label: "Transferida para o Clube de Caçadores da Foz de Odeleite a zona de caça associativa de Telhada, renovada a concessão\
+    \ por um período de 12 anos e anexados vários prédios rústicos à referida zona de caça atribuída pela Port 534/99, de\
+    \ 08-Jul, na redacção do presente diploma, pela PORT.765/2006.07.08.2006.MAOTDR, DR.IS [151] de 07.08.2006\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/765-2006-538629
+  date: '2006-08-07'
+- type: amended_by
+  target: pt:dre:544872:por
+  label: "Anexados vários prédios rústicos à zona de caça atribuída pela Port 534/94 de 08-Jul, com a redacção constante do\
+    \ presente diploma, pela PORT.1255/2006.28.09.2006.MAOTDR, DR.IS [223] de 20.11.2006\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/1255-2006-544872
+  date: '2006-09-28'
+- type: amended_by
+  target: pt:dre:639091:por
+  label: "Desanexados vários prédios rústicos da zona de caça concessionada pela Port 534/94 de 08-Jul, alterada pelo presente\
+    \ diploma, pela PORT.701/2007.08.06.2007.MAOTDR, DR.IS [110] de 08.06.2007\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/701-2007-639091
+  date: '2007-06-08'
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/136/1996/08/14/p/dre
   label: null
@@ -87,16 +112,32 @@ relationships:
   target: eli:http://data.dre.pt/eli/port/841/1997/09/06/p/dre
   label: null
   source: http://data.dre.pt/eli/port/841/1997/09/06/p/dre
+- type: cites
+  target: pt:dre:219134:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:290662:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:405765:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:642888:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T14:10:51Z'
   warnings: []
   errors: []
 ---
@@ -117,7 +158,7 @@ Manda o Governo, pelo Ministro da Agricultura, do Desenvolvimento Rural e das Pe
 
 Ministério da Agricultura, do Desenvolvimento Rural e das Pescas.
 
-**Assinada em 20 de Agosto de 1998.**
+Assinada em 20 de Agosto de 1998.
 
 Pelo Ministro da Agricultura, do Desenvolvimento Rural e das Pescas, Luís Manuel Capoulas Santos, Secretário de Estado da Agricultura e do Desenvolvimento Rural.
 

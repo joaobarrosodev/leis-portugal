@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/21/1998/01/10/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/21-1998-223191
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1998-01-10T00:00:00Z'
+  retrieved_at: '2026-10-23T14:07:24Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: e09073c807f7f40cac66ee1837e202e5721801b01fef48931f30fc6b8a07a984
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 87ce055ac65c5d325b410aa30521dffde54c8bd002ad3256ecb752cf3e1a0001
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T14:07:24Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -78,16 +78,36 @@ relationships:
   target: eli:http://data.dre.pt/eli/port/1135/1992/12/11/p/dre
   label: null
   source: http://data.dre.pt/eli/port/1135/1992/12/11/p/dre
+- type: cites
+  target: pt:dre:505986:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:564625:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:616603:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:658883:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:674062:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T14:07:24Z'
   warnings: []
   errors: []
 ---
@@ -112,6 +132,6 @@ Manda o Governo, pelos Ministros das Finanças, da Educação e Adjunto, o segui
 
 Presidência do Conselho de Ministros e Ministérios das Finanças e da Educação.
 
-**Assinada em 17 de Dezembro de 1997.**
+Assinada em 17 de Dezembro de 1997.
 
 Pelo Ministro das Finanças, Maria Manuela de Brito Arcanjo Marques da Costa, Secretária de Estado do Orçamento. - Pelo Ministro da Educação, Guilherme d'Oliveira Martins, Secretário de Estado da Administração Educativa. - Pelo Ministro Adjunto, Fausto de Sousa Correia, Secretário de Estado da Administração Pública.

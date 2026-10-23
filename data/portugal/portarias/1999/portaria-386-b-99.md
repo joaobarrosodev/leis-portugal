@@ -20,7 +20,7 @@ publication:
   reference: Diário da República n.º 121/1999, 2º Suplemento, Série I-B de 1999-05-25
   number: '121'
   series: I
-  supplement: 2º Suplemento
+  supplement: null
   pages: 2930-(6) a 2930-(6)
   pdf_url: https://files.diariodarepublica.pt/1s/1999/05/121b02/00060006.pdf
 entry_into_force_dates: []
@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/386-b/1999/05/25/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/386-b-1999-666679
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1999-05-25T00:00:00Z'
+  retrieved_at: '2026-10-23T14:15:02Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: cc29005f4699fcef4a661d7951b57c9e2d6cec91597c5009da07f27590b5f357
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: ea9a887f50f1443dd9ccb6d592afb88cf06effc97f710b0784be6ac0fd2f1eac
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T14:15:02Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -83,16 +83,28 @@ relationships:
   target: eli:http://data.dre.pt/eli/port/264/1999/04/12/p/dre
   label: null
   source: http://data.dre.pt/eli/port/264/1999/04/12/p/dre
+- type: cites
+  target: pt:dre:196220:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:448680:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:543371:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T14:15:02Z'
   warnings: []
   errors: []
 ---
@@ -117,4 +129,4 @@ Manda o Governo, pelo Ministro da Justiça, ao abrigo do disposto no artigo 4.º
 
 2.º É revogado o n.º 3.º da [Portaria n.º 264/99](https://diariodarepublica.pt/dr/detalhe/portaria/264-1999-543371), de 12 de Abril.
 
-**O Ministro da Justiça, José Eduardo Vera Cruz Jardim, em 24 de Maio de 1999.**
+O Ministro da Justiça, José Eduardo Vera Cruz Jardim, em 24 de Maio de 1999.

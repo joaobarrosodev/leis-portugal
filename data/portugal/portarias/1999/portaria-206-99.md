@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/206/1999/03/25/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/206-1999-138099
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1999-03-25T00:00:00Z'
+  retrieved_at: '2026-10-23T14:13:57Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 3080b81160b90e42b163dad6cfb3dbb757f14408e2f421fe9ab8c911909fd10e
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 8ea485eea034fbe8e9bb499491e48272bc1bff2334eac330c70142f51761a921
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T14:13:57Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,12 +67,12 @@ reuse:
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
 - Desporto Escolar
-- Ministério da Educação
-- Instituto Nacional do Desporto
-- Transmissão da Propriedade
 - Direcção Regional de Educação
 - Estabelecimento de Ensino
+- Instituto Nacional do Desporto
+- Ministério da Educação
 - Transferência Patrimonial
+- Transmissão da Propriedade
 relationships:
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/164/1996/09/05/p/dre
@@ -86,16 +86,28 @@ relationships:
   target: eli:http://data.dre.pt/eli/port/999/1998/11/27/p/dre
   label: null
   source: http://data.dre.pt/eli/port/999/1998/11/27/p/dre
+- type: cites
+  target: pt:dre:217338:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:241672:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:455465:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T14:13:57Z'
   warnings: []
   errors: []
 ---
@@ -122,7 +134,7 @@ Manda o Governo, pelos Ministros da Educação e Adjunto do Primeiro-Ministro, o
 
 Presidência do Conselho de Ministros e Ministério da Educação.
 
-**Assinada em 5 de Março de 1999.**
+Assinada em 5 de Março de 1999.
 
 Pelo Ministro da Educação, Guilherme d'Oliveira Martins, Secretário de Estado da Administração Educativa. - Pelo Ministro Adjunto do Primeiro-Ministro, Júlio Francisco Miranda Calha, Secretário de Estado do Desporto.
 

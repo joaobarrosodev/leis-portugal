@@ -48,18 +48,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/13/2000/01/14/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/13-2000-437659
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2000-12-22T00:00:00Z'
+  retrieved_at: '2026-10-23T14:21:35Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: d936e5b8b0e8fb3722044ec361a27000438c24062c69adcb3410c91d5f833d5d
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: e725d39a194042882121adfdc543e4435aeafb8e0c9cbdd74c25d06575975b55
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T14:21:35Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -68,18 +68,23 @@ reuse:
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
 - Bacharelato
-- Plano de Estudos
 - Curso de Engenharia Electrotécnica
 - Curso de Estudos Superiores Especializados em Engenharia Electrotécnica-Automação e Electrónica Industrial
 - Ensino Superior Politécnico
-- Lisboa
 - Instituto Superior de Engenharia
 - Licenciatura
+- Lisboa
+- Plano de Estudos
 relationships:
 - type: amended_by
   target: pt:dre:660497:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:660497:por
+  label: "Alterados os quadros nºs. 7, 8 e 9 do regime nocturno, pela PORT.1206/2000.2000.12.22.ME DR.IS-B [294]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/1206-2000-660497
+  date: '2000-12-22'
 - type: cites
   target: eli:http://data.dre.pt/eli/lei/115/1997/09/19/p/dre
   label: null
@@ -116,16 +121,76 @@ relationships:
   target: eli:http://data.dre.pt/eli/port/925/1995/07/21/p/dre
   label: null
   source: http://data.dre.pt/eli/port/925/1995/07/21/p/dre
+- type: cites
+  target: pt:dre:147873:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:172497:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:222418:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:273991:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:356280:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:371059:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:429593:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:429596:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:453184:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:488319:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:556606:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:557607:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:566820:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:616377:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:653145:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T14:21:35Z'
   warnings: []
   errors: []
 ---
@@ -176,7 +241,7 @@ Instituto Superior de Engenharia
 
 Curso de Engenharia Electrotécnica - Automação Industrial e Sistemas de Potência
 
-[(ver quadros no documento original)](https://files.diariodarepublica.pt/1s/2000/01/011b00/01340139.pdf)
+[[(ver quadros no documento original)](https://files.diariodarepublica.pt/1s/2000/01/011b00/01340139.pdf)](https://files.diariodarepublica.pt/1s/2000/01/011b00/01340139.pdf)
 
 ## ANEXO II — Instituto Politécnico de Lisboa
 
@@ -184,4 +249,4 @@ Instituto Superior de Engenharia
 
 Curso de Engenharia Electrotécnica - Automação Industrial e Sistemas de Potência
 
-[(ver quadros no documento original)](https://files.diariodarepublica.pt/1s/2000/01/011b00/01340139.pdf)
+[[(ver quadros no documento original)](https://files.diariodarepublica.pt/1s/2000/01/011b00/01340139.pdf)](https://files.diariodarepublica.pt/1s/2000/01/011b00/01340139.pdf)

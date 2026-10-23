@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/2s/2010/07/135000000/3797237990.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -47,18 +47,18 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/declaracao-rectificacao/1392-2010-2785788
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2010-07-14T00:00:00Z'
+  retrieved_at: '2026-10-23T14:17:21Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 1a6a231de5768096e0d16cc616c593932e6c2b52a1c3f81f0ad83875f19a851f
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 5ff6b1f9fc9c9a47c2f0639d1c07d0141aa9bd381ef3ee4cab8c40ac5cf1f799
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T14:17:21Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,22 +66,74 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects: []
-relationships: []
+relationships:
+- type: cites
+  target: pt:dre:197492:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:285300:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:308715:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:352712:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:405693:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:429401:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:447916:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:448163:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:481937:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:522789:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:569886:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:570504:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:655682:por
+  label: null
+  source: null
 article_structure:
   article_count: 108
   section_count: 45
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T14:17:21Z'
   warnings: []
   errors: []
 ---
 
-# Declaração de Rectificação n.º 1392/2010
+# Declaração de rectificação n.º 1392/2010
 
 Raul Miguel de Castro, presidente da Câmara Municipal de Leiria, vem, nos termos do disposto nos n.os 1 e 2 do artigo 91.º da [Lei n.º 169/99](https://diariodarepublica.pt/dr/detalhe/lei/169-1999-569886), de 18 de Setembro, na redacção dada pela [Lei n.º 5-A/2002](https://diariodarepublica.pt/dr/detalhe/lei/5-a-2002-570504), de 11 de Janeiro, tornar público que a Assembleia Municipal de Leiria, em sessão ordinária de 9 de Junho de 2010, aprovou, mediante proposta da Câmara Municipal, as seguintes rectificações ao Regulamento e Tabela de Taxas do Município de Leiria:
 
@@ -623,7 +675,7 @@ O presente Regulamento entra em vigor no dia útil seguinte ao da sua publicaç�
 
 ###### Artigo 1.º — Prestação de serviços e concessão de documentos
 
-[([ver documento original](https://files.diariodarepublica.pt/2s/2010/07/135000000/3797237990.pdf))](https://files.diariodarepublica.pt/2s/2010/07/135000000/3797237990.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/2s/2010/07/135000000/3797237990.pdf)
 
 ### CAPÍTULO II — Operações urbanísticas
 
@@ -649,7 +701,7 @@ A2 - área de construção referente a edifícios de habitação unifamiliar;
 
 L - coeficiente variável em função da localização da operação urbanística, de acordo com a seguinte tabela e com a definição de espaços constante do Plano Director Municipal de Leiria:
 
-[([ver documento original](https://files.diariodarepublica.pt/2s/2010/07/135000000/3797237990.pdf))](https://files.diariodarepublica.pt/2s/2010/07/135000000/3797237990.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/2s/2010/07/135000000/3797237990.pdf)
 
 1.2 - Isenções parciais:
 
@@ -675,7 +727,7 @@ T - valor da taxa;
 
 L - coeficiente variável em função da localização da operação urbanística:
 
-[([ver documento original](https://files.diariodarepublica.pt/2s/2010/07/135000000/3797237990.pdf))](https://files.diariodarepublica.pt/2s/2010/07/135000000/3797237990.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/2s/2010/07/135000000/3797237990.pdf)
 
 V - valor da obra a realizar.
 
@@ -699,7 +751,7 @@ A2 - área de construção referente a edifícios de habitação unifamiliar;
 
 L - coeficiente variável em função da localização da operação urbanística, de acordo com a seguinte tabela e com a definição de espaços constante do Plano Director Municipal de Leiria:
 
-[([ver documento original](https://files.diariodarepublica.pt/2s/2010/07/135000000/3797237990.pdf))](https://files.diariodarepublica.pt/2s/2010/07/135000000/3797237990.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/2s/2010/07/135000000/3797237990.pdf)
 
 3.2 - Para o cálculo do valor de A não é contabilizada a área de construção já existente e devidamente licenciada ou autorizada.
 
@@ -721,59 +773,59 @@ c) 50 %, quando se trate de operações urbanísticas a realizar em espaços ind
 
 ###### Artigo 3.º — Informação prévia
 
-[([ver documento original](https://files.diariodarepublica.pt/2s/2010/07/135000000/3797237990.pdf))](https://files.diariodarepublica.pt/2s/2010/07/135000000/3797237990.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/2s/2010/07/135000000/3797237990.pdf)
 
 ###### Artigo 4.º — Autorização, comunicação prévia ou licenciamento
 
-[([ver documento original](https://files.diariodarepublica.pt/2s/2010/07/135000000/3797237990.pdf))](https://files.diariodarepublica.pt/2s/2010/07/135000000/3797237990.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/2s/2010/07/135000000/3797237990.pdf)
 
 ###### Artigo 5.º — Parecer prévio da Câmara Municipal de Leiria
 
-[([ver documento original](https://files.diariodarepublica.pt/2s/2010/07/135000000/3797237990.pdf))](https://files.diariodarepublica.pt/2s/2010/07/135000000/3797237990.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/2s/2010/07/135000000/3797237990.pdf)
 
 ###### Artigo 6.º — Alteração, comunicação prévia à licença ou à autorização
 
-[([ver documento original](https://files.diariodarepublica.pt/2s/2010/07/135000000/3797237990.pdf))](https://files.diariodarepublica.pt/2s/2010/07/135000000/3797237990.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/2s/2010/07/135000000/3797237990.pdf)
 
 ###### Artigo 7.º — Licença parcial para construção da estrutura
 
-[([ver documento original](https://files.diariodarepublica.pt/2s/2010/07/135000000/3797237990.pdf))](https://files.diariodarepublica.pt/2s/2010/07/135000000/3797237990.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/2s/2010/07/135000000/3797237990.pdf)
 
 Permissão para a execução de trabalhos de demolição ou de escavação e contenção periférica:
 
-[([ver documento original](https://files.diariodarepublica.pt/2s/2010/07/135000000/3797237990.pdf))](https://files.diariodarepublica.pt/2s/2010/07/135000000/3797237990.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/2s/2010/07/135000000/3797237990.pdf)
 
 ###### Artigo 8.º — Licença especial para a conclusão de obras inacabadas
 
-[([ver documento original](https://files.diariodarepublica.pt/2s/2010/07/135000000/3797237990.pdf))](https://files.diariodarepublica.pt/2s/2010/07/135000000/3797237990.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/2s/2010/07/135000000/3797237990.pdf)
 
 ###### Artigo 9.º — Licença de ocupação do espaço público
 
-[([ver documento original](https://files.diariodarepublica.pt/2s/2010/07/135000000/3797237990.pdf))](https://files.diariodarepublica.pt/2s/2010/07/135000000/3797237990.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/2s/2010/07/135000000/3797237990.pdf)
 
 ###### Artigo 10.º — Prorrogação de prazo
 
-[([ver documento original](https://files.diariodarepublica.pt/2s/2010/07/135000000/3797237990.pdf))](https://files.diariodarepublica.pt/2s/2010/07/135000000/3797237990.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/2s/2010/07/135000000/3797237990.pdf)
 
 ###### Artigo 11.º — Certificação para constituição de propriedade horizontal
 
-[([ver documento original](https://files.diariodarepublica.pt/2s/2010/07/135000000/3797237990.pdf))](https://files.diariodarepublica.pt/2s/2010/07/135000000/3797237990.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/2s/2010/07/135000000/3797237990.pdf)
 
 ###### Artigo 12.º — Certidão para efeitos de destaque
 
-[([ver documento original](https://files.diariodarepublica.pt/2s/2010/07/135000000/3797237990.pdf))](https://files.diariodarepublica.pt/2s/2010/07/135000000/3797237990.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/2s/2010/07/135000000/3797237990.pdf)
 
 ###### Artigo 13.º — Averbamento da substituição de intervenientes na operação urbanística
 
-[([ver documento original](https://files.diariodarepublica.pt/2s/2010/07/135000000/3797237990.pdf))](https://files.diariodarepublica.pt/2s/2010/07/135000000/3797237990.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/2s/2010/07/135000000/3797237990.pdf)
 
 ###### Artigo 14.º — Informação genérica (ao abrigo do artigo 110.º do [Decreto-Lei n.º 555/99](https://diariodarepublica.pt/dr/detalhe/decreto-lei/555-1999-655682), de 16 de Dezembro, com a redacção dada pela Lei n.º 60/07, de 4 de Setembro)
 
-[([ver documento original](https://files.diariodarepublica.pt/2s/2010/07/135000000/3797237990.pdf))](https://files.diariodarepublica.pt/2s/2010/07/135000000/3797237990.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/2s/2010/07/135000000/3797237990.pdf)
 
 ###### Artigo 15.º — Outros requerimentos
 
-[([ver documento original](https://files.diariodarepublica.pt/2s/2010/07/135000000/3797237990.pdf))](https://files.diariodarepublica.pt/2s/2010/07/135000000/3797237990.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/2s/2010/07/135000000/3797237990.pdf)
 
 #### SECÇÃO II
 
@@ -781,25 +833,25 @@ Emissão de alvará de licença ou de autorização ou admissão de comunicaçã
 
 ###### Artigo 16.º — Licença, autorização ou admissão de comunicação prévia
 
-[([ver documento original](https://files.diariodarepublica.pt/2s/2010/07/135000000/3797237990.pdf))](https://files.diariodarepublica.pt/2s/2010/07/135000000/3797237990.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/2s/2010/07/135000000/3797237990.pdf)
 
 #### SECÇÃO III — Emissão de alvará de licença ou de autorização ou admissão de comunicação prévia de loteamento e respectivos aditamentos
 
 ###### Artigo 17.º — Licença, autorização ou admissão de comunicação prévia
 
-[([ver documento original](https://files.diariodarepublica.pt/2s/2010/07/135000000/3797237990.pdf))](https://files.diariodarepublica.pt/2s/2010/07/135000000/3797237990.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/2s/2010/07/135000000/3797237990.pdf)
 
 #### SECÇÃO IV — Emissão de alvará de licença ou admissão de comunicação prévia de obras de urbanização e respectivos aditamentos
 
 ###### Artigo 18.º — Licença ou comunicação prévia
 
-[([ver documento original](https://files.diariodarepublica.pt/2s/2010/07/135000000/3797237990.pdf))](https://files.diariodarepublica.pt/2s/2010/07/135000000/3797237990.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/2s/2010/07/135000000/3797237990.pdf)
 
 #### SECÇÃO V — Emissão de alvará de licença ou de autorização ou admissão de comunicação prévia de trabalhos de remodelação de terrenos e respectivos aditamentos
 
 ###### Artigo 19.º — Licença, autorização ou comunicação prévia
 
-[([ver documento original](https://files.diariodarepublica.pt/2s/2010/07/135000000/3797237990.pdf))](https://files.diariodarepublica.pt/2s/2010/07/135000000/3797237990.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/2s/2010/07/135000000/3797237990.pdf)
 
 #### SECÇÃO VI
 
@@ -807,189 +859,189 @@ Emissão de alvará de licença ou de autorização ou admissão de comunicaçã
 
 ###### Artigo 20.º — Licença, autorização ou comunicação prévia
 
-[([ver documento original](https://files.diariodarepublica.pt/2s/2010/07/135000000/3797237990.pdf))](https://files.diariodarepublica.pt/2s/2010/07/135000000/3797237990.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/2s/2010/07/135000000/3797237990.pdf)
 
 #### SECÇÃO VII — Emissão de alvará de permissão de execução de trabalhos de demolição ou de escavação e contenção periférica
 
 ###### Artigo 21.º — Licença ou autorização
 
-[([ver documento original](https://files.diariodarepublica.pt/2s/2010/07/135000000/3797237990.pdf))](https://files.diariodarepublica.pt/2s/2010/07/135000000/3797237990.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/2s/2010/07/135000000/3797237990.pdf)
 
 #### SECÇÃO VIII — Emissão de alvará de licença parcial para construção da estrutura
 
 ###### Artigo 22.º — Licença
 
-[([ver documento original](https://files.diariodarepublica.pt/2s/2010/07/135000000/3797237990.pdf))](https://files.diariodarepublica.pt/2s/2010/07/135000000/3797237990.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/2s/2010/07/135000000/3797237990.pdf)
 
 #### SECÇÃO IX — Emissão de alvará de licença especial para conclusão de obras inacabadas ou admissão de comunicação prévia
 
 ###### Artigo 23.º — Licença ou de comunicação prévia
 
-[([ver documento original](https://files.diariodarepublica.pt/2s/2010/07/135000000/3797237990.pdf))](https://files.diariodarepublica.pt/2s/2010/07/135000000/3797237990.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/2s/2010/07/135000000/3797237990.pdf)
 
 #### SECÇÃO X — Ocupação do espaço público
 
 ###### Artigo 24.º — Emissão de alvará de ocupação de espaço público (incluindo espaço aéreo sobre a via pública e outras)
 
-[([ver documento original](https://files.diariodarepublica.pt/2s/2010/07/135000000/3797237990.pdf))](https://files.diariodarepublica.pt/2s/2010/07/135000000/3797237990.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/2s/2010/07/135000000/3797237990.pdf)
 
 ###### Artigo 25.º — Prorrogação do prazo da licença de ocupação de espaço público
 
-[([ver documento original](https://files.diariodarepublica.pt/2s/2010/07/135000000/3797237990.pdf))](https://files.diariodarepublica.pt/2s/2010/07/135000000/3797237990.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/2s/2010/07/135000000/3797237990.pdf)
 
 #### SECÇÃO XI — Emissão de alvará de autorização de utilização
 
 ###### Artigo 26.º — Autorização
 
-[([ver documento original](https://files.diariodarepublica.pt/2s/2010/07/135000000/3797237990.pdf))](https://files.diariodarepublica.pt/2s/2010/07/135000000/3797237990.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/2s/2010/07/135000000/3797237990.pdf)
 
 #### SECÇÃO XII — Prorrogação de prazo
 
 ###### Artigo 27.º — Prorrogação do prazo para a conclusão de obras nos termos do disposto nos artigos 53.º e 58.º do RJUE
 
-[([ver documento original](https://files.diariodarepublica.pt/2s/2010/07/135000000/3797237990.pdf))](https://files.diariodarepublica.pt/2s/2010/07/135000000/3797237990.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/2s/2010/07/135000000/3797237990.pdf)
 
 #### SECÇÃO XIII — Vistorias
 
 ###### Artigo 28.º — Realização de vistorias
 
-[([ver documento original](https://files.diariodarepublica.pt/2s/2010/07/135000000/3797237990.pdf))](https://files.diariodarepublica.pt/2s/2010/07/135000000/3797237990.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/2s/2010/07/135000000/3797237990.pdf)
 
 #### SECÇÃO XIV — Operação de destaque
 
 ###### Artigo 29.º — Emissão de certidão para efeitos de destaque de parcela
 
-[([ver documento original](https://files.diariodarepublica.pt/2s/2010/07/135000000/3797237990.pdf))](https://files.diariodarepublica.pt/2s/2010/07/135000000/3797237990.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/2s/2010/07/135000000/3797237990.pdf)
 
 #### SECÇÃO XV — Constituição de propriedade horizontal
 
 ###### Artigo 30.º — Certificação para constituição de propriedade horizontal
 
-[([ver documento original](https://files.diariodarepublica.pt/2s/2010/07/135000000/3797237990.pdf))](https://files.diariodarepublica.pt/2s/2010/07/135000000/3797237990.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/2s/2010/07/135000000/3797237990.pdf)
 
 #### SECÇÃO XVI — Prestação de serviços de natureza administrativa
 
 ###### Artigo 31.º — Taxas devidas pela prestação de serviços de natureza administrativa
 
-[([ver documento original](https://files.diariodarepublica.pt/2s/2010/07/135000000/3797237990.pdf))](https://files.diariodarepublica.pt/2s/2010/07/135000000/3797237990.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/2s/2010/07/135000000/3797237990.pdf)
 
 ### CAPÍTULO III — Cemitérios
 
 ###### Artigo 32.º — Inumação em covais
 
-[([ver documento original](https://files.diariodarepublica.pt/2s/2010/07/135000000/3797237990.pdf))](https://files.diariodarepublica.pt/2s/2010/07/135000000/3797237990.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/2s/2010/07/135000000/3797237990.pdf)
 
 ###### Artigo 33.º — Inumação em jazigos
 
-[([ver documento original](https://files.diariodarepublica.pt/2s/2010/07/135000000/3797237990.pdf))](https://files.diariodarepublica.pt/2s/2010/07/135000000/3797237990.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/2s/2010/07/135000000/3797237990.pdf)
 
 ###### Artigo 34.º — Ocupação de ossários municipais
 
-[([ver documento original](https://files.diariodarepublica.pt/2s/2010/07/135000000/3797237990.pdf))](https://files.diariodarepublica.pt/2s/2010/07/135000000/3797237990.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/2s/2010/07/135000000/3797237990.pdf)
 
 ###### Artigo 35.º — Depósito transitório de caixões
 
-[([ver documento original](https://files.diariodarepublica.pt/2s/2010/07/135000000/3797237990.pdf))](https://files.diariodarepublica.pt/2s/2010/07/135000000/3797237990.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/2s/2010/07/135000000/3797237990.pdf)
 
 ###### Artigo 36.º — Exumação
 
-[([ver documento original](https://files.diariodarepublica.pt/2s/2010/07/135000000/3797237990.pdf))](https://files.diariodarepublica.pt/2s/2010/07/135000000/3797237990.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/2s/2010/07/135000000/3797237990.pdf)
 
 ###### Artigo 37.º — Limpeza de ossadas e trasladação dentro do cemitério após exumação
 
-[([ver documento original](https://files.diariodarepublica.pt/2s/2010/07/135000000/3797237990.pdf))](https://files.diariodarepublica.pt/2s/2010/07/135000000/3797237990.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/2s/2010/07/135000000/3797237990.pdf)
 
 ###### Artigo 38.º — Concessão de terrenos
 
-[([ver documento original](https://files.diariodarepublica.pt/2s/2010/07/135000000/3797237990.pdf))](https://files.diariodarepublica.pt/2s/2010/07/135000000/3797237990.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/2s/2010/07/135000000/3797237990.pdf)
 
 ###### Artigo 39.º — Utilização de capela
 
-[([ver documento original](https://files.diariodarepublica.pt/2s/2010/07/135000000/3797237990.pdf))](https://files.diariodarepublica.pt/2s/2010/07/135000000/3797237990.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/2s/2010/07/135000000/3797237990.pdf)
 
 ###### Artigo 40.º — Trasladação
 
-[([ver documento original](https://files.diariodarepublica.pt/2s/2010/07/135000000/3797237990.pdf))](https://files.diariodarepublica.pt/2s/2010/07/135000000/3797237990.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/2s/2010/07/135000000/3797237990.pdf)
 
 ###### Artigo 41.º — Averbamento em alvarás de concessão de terrenos em nome do novo proprietário
 
-[([ver documento original](https://files.diariodarepublica.pt/2s/2010/07/135000000/3797237990.pdf))](https://files.diariodarepublica.pt/2s/2010/07/135000000/3797237990.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/2s/2010/07/135000000/3797237990.pdf)
 
 ###### Artigo 42.º — Serviços diversos
 
-[([ver documento original](https://files.diariodarepublica.pt/2s/2010/07/135000000/3797237990.pdf))](https://files.diariodarepublica.pt/2s/2010/07/135000000/3797237990.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/2s/2010/07/135000000/3797237990.pdf)
 
 ###### Artigo 43.º — Obras em jazigos e sepulturas
 
-[([ver documento original](https://files.diariodarepublica.pt/2s/2010/07/135000000/3797237990.pdf))](https://files.diariodarepublica.pt/2s/2010/07/135000000/3797237990.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/2s/2010/07/135000000/3797237990.pdf)
 
 ### CAPÍTULO IV — Castelo de Leiria, outros monumentos, museus e outros equipamentos culturais
 
 ###### Artigo 44.º — Visitas
 
-[([ver documento original](https://files.diariodarepublica.pt/2s/2010/07/135000000/3797237990.pdf))](https://files.diariodarepublica.pt/2s/2010/07/135000000/3797237990.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/2s/2010/07/135000000/3797237990.pdf)
 
 ### CAPÍTULO V — Diversos
 
 ###### Artigo 45.º — Banhos
 
-[([ver documento original](https://files.diariodarepublica.pt/2s/2010/07/135000000/3797237990.pdf))](https://files.diariodarepublica.pt/2s/2010/07/135000000/3797237990.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/2s/2010/07/135000000/3797237990.pdf)
 
 ### CAPÍTULO VI — Ocupação do domínio público
 
 ###### Artigo 46.º — Ocupação do espaço aéreo da via pública
 
-[([ver documento original](https://files.diariodarepublica.pt/2s/2010/07/135000000/3797237990.pdf))](https://files.diariodarepublica.pt/2s/2010/07/135000000/3797237990.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/2s/2010/07/135000000/3797237990.pdf)
 
 ###### Artigo 47.º — Construções ou instalações especiais no solo ou subsolo
 
-[([ver documento original](https://files.diariodarepublica.pt/2s/2010/07/135000000/3797237990.pdf))](https://files.diariodarepublica.pt/2s/2010/07/135000000/3797237990.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/2s/2010/07/135000000/3797237990.pdf)
 
 ###### Artigo 48.º — Ocupações diversas
 
-[([ver documento original](https://files.diariodarepublica.pt/2s/2010/07/135000000/3797237990.pdf))](https://files.diariodarepublica.pt/2s/2010/07/135000000/3797237990.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/2s/2010/07/135000000/3797237990.pdf)
 
 ### CAPÍTULO VII — Instalações abastecedoras de carburantes de ar ou de água
 
 ###### Artigo 49.º — Bombas ou aparelhos abastecedores de carburantes instalados ou abastecendo na via pública
 
-[([ver documento original](https://files.diariodarepublica.pt/2s/2010/07/135000000/3797237990.pdf))](https://files.diariodarepublica.pt/2s/2010/07/135000000/3797237990.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/2s/2010/07/135000000/3797237990.pdf)
 
 ###### Artigo 50.º — Bombas, aparelhos ou tomadas abastecedoras de ar ou de água instalados ou abastecendo na via pública
 
-[([ver documento original](https://files.diariodarepublica.pt/2s/2010/07/135000000/3797237990.pdf))](https://files.diariodarepublica.pt/2s/2010/07/135000000/3797237990.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/2s/2010/07/135000000/3797237990.pdf)
 
 ### CAPÍTULO VIII — Condução de veículos
 
 ###### Artigo 51.º — Licença de condução (por uma só vez incluindo o impresso)
 
-[([ver documento original](https://files.diariodarepublica.pt/2s/2010/07/135000000/3797237990.pdf))](https://files.diariodarepublica.pt/2s/2010/07/135000000/3797237990.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/2s/2010/07/135000000/3797237990.pdf)
 
 ### CAPÍTULO IX — Publicidade
 
 ###### Artigo 52.º — Bandeiras, painéis, bandeirolas, toldos, alpendres, cartazes, chapas, placas, letras soltas e símbolos
 
-[([ver documento original](https://files.diariodarepublica.pt/2s/2010/07/135000000/3797237990.pdf))](https://files.diariodarepublica.pt/2s/2010/07/135000000/3797237990.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/2s/2010/07/135000000/3797237990.pdf)
 
 ###### Artigo 53.º — Anúncios ou reclamos luminosos, iluminados e electrónicos
 
-[([ver documento original](https://files.diariodarepublica.pt/2s/2010/07/135000000/3797237990.pdf))](https://files.diariodarepublica.pt/2s/2010/07/135000000/3797237990.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/2s/2010/07/135000000/3797237990.pdf)
 
 ###### Artigo 54.º — Veículos automóveis, transportes públicos, táxis e outros meios de locomoção terrestres ou aéreos
 
-[([ver documento original](https://files.diariodarepublica.pt/2s/2010/07/135000000/3797237990.pdf))](https://files.diariodarepublica.pt/2s/2010/07/135000000/3797237990.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/2s/2010/07/135000000/3797237990.pdf)
 
 ###### Artigo 55.º — Publicidade sonora
 
-[([ver documento original](https://files.diariodarepublica.pt/2s/2010/07/135000000/3797237990.pdf))](https://files.diariodarepublica.pt/2s/2010/07/135000000/3797237990.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/2s/2010/07/135000000/3797237990.pdf)
 
 ###### Artigo 56.º — Balões suspensos por aeróstato
 
-[([ver documento original](https://files.diariodarepublica.pt/2s/2010/07/135000000/3797237990.pdf))](https://files.diariodarepublica.pt/2s/2010/07/135000000/3797237990.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/2s/2010/07/135000000/3797237990.pdf)
 
 ###### Artigo 57.º — Outros suportes publicitários
 
-[([ver documento original](https://files.diariodarepublica.pt/2s/2010/07/135000000/3797237990.pdf))](https://files.diariodarepublica.pt/2s/2010/07/135000000/3797237990.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/2s/2010/07/135000000/3797237990.pdf)
 
 ### CAPÍTULO X — Mercados e feiras
 
@@ -997,27 +1049,27 @@ Emissão de alvará de licença ou de autorização ou admissão de comunicaçã
 
 ###### Artigo 58.º — Ocupação e utilização
 
-[([ver documento original](https://files.diariodarepublica.pt/2s/2010/07/135000000/3797237990.pdf))](https://files.diariodarepublica.pt/2s/2010/07/135000000/3797237990.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/2s/2010/07/135000000/3797237990.pdf)
 
 #### SECÇÃO II — Mercado de Venda por Grosso do Falcão
 
 ###### Artigo 59.º — Ocupação de lugares de terrado
 
-[([ver documento original](https://files.diariodarepublica.pt/2s/2010/07/135000000/3797237990.pdf))](https://files.diariodarepublica.pt/2s/2010/07/135000000/3797237990.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/2s/2010/07/135000000/3797237990.pdf)
 
 ###### Artigo 60.º — Emissão e renovação de cartões
 
-[([ver documento original](https://files.diariodarepublica.pt/2s/2010/07/135000000/3797237990.pdf))](https://files.diariodarepublica.pt/2s/2010/07/135000000/3797237990.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/2s/2010/07/135000000/3797237990.pdf)
 
 #### SECÇÃO III — Feiras
 
 ###### Artigo 61.º — Autorização para a realização de feiras
 
-[([ver documento original](https://files.diariodarepublica.pt/2s/2010/07/135000000/3797237990.pdf))](https://files.diariodarepublica.pt/2s/2010/07/135000000/3797237990.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/2s/2010/07/135000000/3797237990.pdf)
 
 ###### Artigo 62.º — Atribuição de espaço de venda em feiras
 
-[([ver documento original](https://files.diariodarepublica.pt/2s/2010/07/135000000/3797237990.pdf))](https://files.diariodarepublica.pt/2s/2010/07/135000000/3797237990.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/2s/2010/07/135000000/3797237990.pdf)
 
 ### CAPÍTULO XI — Controlo metrológico
 
@@ -1029,43 +1081,43 @@ Fixadas em legislação especial.
 
 ###### Artigo 64.º — Bombeiros municipais
 
-[([ver documento original](https://files.diariodarepublica.pt/2s/2010/07/135000000/3797237990.pdf))](https://files.diariodarepublica.pt/2s/2010/07/135000000/3797237990.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/2s/2010/07/135000000/3797237990.pdf)
 
 ###### Artigo 65.º — Taxas diversas
 
-[([ver documento original](https://files.diariodarepublica.pt/2s/2010/07/135000000/3797237990.pdf))](https://files.diariodarepublica.pt/2s/2010/07/135000000/3797237990.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/2s/2010/07/135000000/3797237990.pdf)
 
 ### CAPÍTULO XIII — Parques e zonas de estacionamento
 
 ###### Artigo 66.º — Zonas de estacionamento de duração limitada
 
-[([ver documento original](https://files.diariodarepublica.pt/2s/2010/07/135000000/3797237990.pdf))](https://files.diariodarepublica.pt/2s/2010/07/135000000/3797237990.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/2s/2010/07/135000000/3797237990.pdf)
 
 ###### Artigo 67.º — Parque de estacionamento no mercado de Santana - Centro cultural
 
-[([ver documento original](https://files.diariodarepublica.pt/2s/2010/07/135000000/3797237990.pdf))](https://files.diariodarepublica.pt/2s/2010/07/135000000/3797237990.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/2s/2010/07/135000000/3797237990.pdf)
 
 ###### Artigo 68.º — Parque de estacionamento na Fonte Quente
 
-[([ver documento original](https://files.diariodarepublica.pt/2s/2010/07/135000000/3797237990.pdf))](https://files.diariodarepublica.pt/2s/2010/07/135000000/3797237990.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/2s/2010/07/135000000/3797237990.pdf)
 
 ### CAPÍTULO XIV — Licenciamento de veículos afectos ao transporte em táxi
 
 ###### Artigo 69.º — Taxas devidas pelo licenciamento de veículos afectos ao transporte em táxi
 
-[([ver documento original](https://files.diariodarepublica.pt/2s/2010/07/135000000/3797237990.pdf))](https://files.diariodarepublica.pt/2s/2010/07/135000000/3797237990.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/2s/2010/07/135000000/3797237990.pdf)
 
 ### CAPÍTULO XV — Inspecção de ascensores
 
 ###### Artigo 70.º — Taxas devidas pela inspecção de ascensores
 
-[([ver documento original](https://files.diariodarepublica.pt/2s/2010/07/135000000/3797237990.pdf))](https://files.diariodarepublica.pt/2s/2010/07/135000000/3797237990.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/2s/2010/07/135000000/3797237990.pdf)
 
 ### CAPÍTULO XVI — Licenciamento de estabelecimentos industriais
 
 ###### Artigo 71.º — Taxas devidas pelo licenciamento de estabelecimentos industriais
 
-[([ver documento original](https://files.diariodarepublica.pt/2s/2010/07/135000000/3797237990.pdf))](https://files.diariodarepublica.pt/2s/2010/07/135000000/3797237990.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/2s/2010/07/135000000/3797237990.pdf)
 
 ### CAPÍTULO XVII
 
@@ -1073,10 +1125,12 @@ Licenciamento e fiscalização de instalações de armazenamento de produtos de 
 
 ###### Artigo 72.º — Taxas devidas pelo licenciamento e fiscalização de instalações de armazenamento de produtos de petróleo e instalações de postos de abastecimento de combustíveis
 
-[([ver documento original](https://files.diariodarepublica.pt/2s/2010/07/135000000/3797237990.pdf))](https://files.diariodarepublica.pt/2s/2010/07/135000000/3797237990.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/2s/2010/07/135000000/3797237990.pdf)
 
 ### CAPÍTULO XVIII — Licenciamento das actividades diversas previstas nos Decretos-Leis n.os [264/2002](https://diariodarepublica.pt/dr/detalhe/decreto-lei/264-2002-448163), de 25 de Novembro, e [310/2002](https://diariodarepublica.pt/dr/detalhe/decreto-lei/310-2002-405693), de 18 de Dezembro
 
 ###### Artigo 73.º — Licenciamento de actividades diversas
 
-[([ver documento original](https://files.diariodarepublica.pt/2s/2010/07/135000000/3797237990.pdf))](https://files.diariodarepublica.pt/2s/2010/07/135000000/3797237990.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/2s/2010/07/135000000/3797237990.pdf)
+
+203452206

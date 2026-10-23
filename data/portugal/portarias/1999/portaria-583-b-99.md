@@ -19,7 +19,7 @@ publication:
   reference: Diário da República n.º 177/1999, 1º Suplemento, Série I-B de 1999-07-31
   number: '177'
   series: I
-  supplement: 1º Suplemento
+  supplement: null
   pages: 4966-(13) a 4966-(23)
   pdf_url: https://files.diariodarepublica.pt/1s/1999/07/177b01/00130023.pdf
 entry_into_force_dates: []
@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/583-b/1999/07/31/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/583-b-1999-249058
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2000-11-09T00:00:00Z'
+  retrieved_at: '2026-10-23T14:16:23Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 4d30cbf5d6b78a7ac2263710f465ddb6e768b23a0d57cb01164bd11f371b10da
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 12e72d6a4bc4faeadecdf31684bc4a883c1e65a31728cb4a4a26aaa84f930e0d
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T14:16:23Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -74,20 +74,36 @@ relationships:
   target: pt:dre:621964:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:661156:por
+  label: "Alterados os arts. 9º, 10º, 13º, 19º, nº 1 do art. 26º e art. 27º do Regulamento pela PORT.1103/99.1999.12.23.MES\
+    \ DR.IS-B [297]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/1103-1999-661156
+  date: '1999-12-23'
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/200/1998/07/10/p/dre
   label: null
   source: http://data.dre.pt/eli/dec-lei/200/1998/07/10/p/dre
+- type: cites
+  target: pt:dre:485049:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:621964:por
+  label: "Revogada pelo DEC LEI.273/2000.2000.11.09.MES DR.IS-A [259], a partir da entrada em vigor das regulamentações referidas\
+    \ nos seus n.ºs 1 dos arts. 2.º e 3.º\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/273-2000-621964
+  date: '2000-11-09'
 article_structure:
   article_count: 33
   section_count: 10
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T14:16:23Z'
   warnings: []
   errors: []
 ---
@@ -108,7 +124,7 @@ Manda o Governo, pelo Ministro do Equipamento, do Planeamento e da Administraç�
 
 2.º O presente Regulamento entra em vigor no dia 1 de Janeiro de 2000.
 
-**O Ministro do Equipamento, do Planeamento e da Administração do Território, João Cardona Gomes Cravinho, em 19 de Julho de 1999.**
+O Ministro do Equipamento, do Planeamento e da Administração do Território, João Cardona Gomes Cravinho, em 19 de Julho de 1999.
 
 REGULAMENTO DE TARIFAS DO INSTITUTO PORTUÁRIO DO CENTRO
 
@@ -214,7 +230,7 @@ c) Navios em que os períodos operacionais sejam precedidos ou intercalados com 
 
 1 - A TUP/navio a cobrar aos navios e embarcações não avençados é calculada em função da arqueação bruta (GT) e da relação entre a quantidade de carga descarregada e carregada, em toneladas métricas, e a referida arqueacção, onde (K) é o valor do factor de referência da relação (R), por tipo de navio, de acordo com o quadro seguinte:
 
-[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/1999/07/177b01/00130023.pdf)
+[[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/1999/07/177b01/00130023.pdf)](https://files.diariodarepublica.pt/1s/1999/07/177b01/00130023.pdf)
 
 2 - Quando a relação (R) for igual ou superior ao valor de referência (K), indicado por tipo de navio no n.º 1, serão cobradas as taxas unitárias máximas (U1), expressas em escudos, por unidade de GT.
 
@@ -226,7 +242,7 @@ Redução = (U1 - U2) * (1 - R/K) * GT
 
 5 - O valor das taxas unitárias máximas (U1) e das mínimas (U2), representadas por (UT) nos navios-tanques, por (UC) nos navios porta-contentores, por (UR) nos navios ro-ro e por (UZ) nas restantes embarcações e navios, é fixado de acordo com o quadro seguinte:
 
-[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/1999/07/177b01/00130023.pdf)
+[[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/1999/07/177b01/00130023.pdf)](https://files.diariodarepublica.pt/1s/1999/07/177b01/00130023.pdf)
 
 6 - Quando, durante a sua permanência em porto, um navio mude de sujeito passivo das taxas aplicáveis sem interrupção das operações programadas, o valor da TUP/navio correspondente ao movimento total de mercadorias é rateado pelos intervenientes, na proporção da tonelagem movimentada em cada situação.
 
@@ -234,7 +250,7 @@ Redução = (U1 - U2) * (1 - R/K) * GT
 
 8 - Quando não forem cumpridos os rendimentos considerados aceitáveis pela autoridade portuária para a realização das operações, por motivos que não lhe sejam imputáveis, esta estabelecerá o momento em que se esgotará o tempo de permanência em porto (TPN) previsto no número anterior, comunicando antecipadamente o facto ao sujeito passivo das taxas, sendo que, nestes casos, a TUP calculada será agravada de acordo com a tabela seguinte, em função do tempo adicional necessário à conclusão das operações:
 
-[(ver tabela no documento original)](https://files.diariodarepublica.pt/1s/1999/07/177b01/00130023.pdf)
+[[[[[[[[[[[[[[[[[[(ver tabela no documento original)](https://files.diariodarepublica.pt/1s/1999/07/177b01/00130023.pdf)](https://files.diariodarepublica.pt/1s/1999/07/177b01/00130023.pdf)](https://files.diariodarepublica.pt/1s/1999/07/177b01/00130023.pdf)](https://files.diariodarepublica.pt/1s/1999/07/177b01/00130023.pdf)](https://files.diariodarepublica.pt/1s/1999/07/177b01/00130023.pdf)](https://files.diariodarepublica.pt/1s/1999/07/177b01/00130023.pdf)](https://files.diariodarepublica.pt/1s/1999/07/177b01/00130023.pdf)](https://files.diariodarepublica.pt/1s/1999/07/177b01/00130023.pdf)](https://files.diariodarepublica.pt/1s/1999/07/177b01/00130023.pdf)](https://files.diariodarepublica.pt/1s/1999/07/177b01/00130023.pdf)](https://files.diariodarepublica.pt/1s/1999/07/177b01/00130023.pdf)](https://files.diariodarepublica.pt/1s/1999/07/177b01/00130023.pdf)](https://files.diariodarepublica.pt/1s/1999/07/177b01/00130023.pdf)](https://files.diariodarepublica.pt/1s/1999/07/177b01/00130023.pdf)](https://files.diariodarepublica.pt/1s/1999/07/177b01/00130023.pdf)](https://files.diariodarepublica.pt/1s/1999/07/177b01/00130023.pdf)](https://files.diariodarepublica.pt/1s/1999/07/177b01/00130023.pdf)](https://files.diariodarepublica.pt/1s/1999/07/177b01/00130023.pdf)
 
 Durante o período em dias resultante da diferença entre TU4 e TU3 será ainda devida TES, cumulativamente com a TUP agravada.
 
@@ -250,7 +266,7 @@ FVi - factor específico do período de avençamento, de acordo com o n.º 11 de
 
 11 - A tabela de períodos de avençamento e de factores específicos, para efeitos dos números anteriores, é a seguinte:
 
-[(ver tabela no documento original)](https://files.diariodarepublica.pt/1s/1999/07/177b01/00130023.pdf)
+[[[[[[[[[[[[[[[[[[(ver tabela no documento original)](https://files.diariodarepublica.pt/1s/1999/07/177b01/00130023.pdf)](https://files.diariodarepublica.pt/1s/1999/07/177b01/00130023.pdf)](https://files.diariodarepublica.pt/1s/1999/07/177b01/00130023.pdf)](https://files.diariodarepublica.pt/1s/1999/07/177b01/00130023.pdf)](https://files.diariodarepublica.pt/1s/1999/07/177b01/00130023.pdf)](https://files.diariodarepublica.pt/1s/1999/07/177b01/00130023.pdf)](https://files.diariodarepublica.pt/1s/1999/07/177b01/00130023.pdf)](https://files.diariodarepublica.pt/1s/1999/07/177b01/00130023.pdf)](https://files.diariodarepublica.pt/1s/1999/07/177b01/00130023.pdf)](https://files.diariodarepublica.pt/1s/1999/07/177b01/00130023.pdf)](https://files.diariodarepublica.pt/1s/1999/07/177b01/00130023.pdf)](https://files.diariodarepublica.pt/1s/1999/07/177b01/00130023.pdf)](https://files.diariodarepublica.pt/1s/1999/07/177b01/00130023.pdf)](https://files.diariodarepublica.pt/1s/1999/07/177b01/00130023.pdf)](https://files.diariodarepublica.pt/1s/1999/07/177b01/00130023.pdf)](https://files.diariodarepublica.pt/1s/1999/07/177b01/00130023.pdf)](https://files.diariodarepublica.pt/1s/1999/07/177b01/00130023.pdf)](https://files.diariodarepublica.pt/1s/1999/07/177b01/00130023.pdf)
 
 12 - As embarcações a que se referem os n.os 9 e 10, quando fundeadas ou acostadas em locais que lhes sejam especificamente destinados, ficarão sujeitas às normas e tarifas específicas desses locais, caso as mesmas se encontrem fixadas.
 
@@ -264,7 +280,7 @@ TAi - número de dias indivisíveis de acostagem, no período de referência; e
 
 FAi - factor específico desse período, de acordo com a seguinte tabela:
 
-[(ver tabela no documento original)](https://files.diariodarepublica.pt/1s/1999/07/177b01/00130023.pdf)
+[[[[[[[[[[[[[[[[[[(ver tabela no documento original)](https://files.diariodarepublica.pt/1s/1999/07/177b01/00130023.pdf)](https://files.diariodarepublica.pt/1s/1999/07/177b01/00130023.pdf)](https://files.diariodarepublica.pt/1s/1999/07/177b01/00130023.pdf)](https://files.diariodarepublica.pt/1s/1999/07/177b01/00130023.pdf)](https://files.diariodarepublica.pt/1s/1999/07/177b01/00130023.pdf)](https://files.diariodarepublica.pt/1s/1999/07/177b01/00130023.pdf)](https://files.diariodarepublica.pt/1s/1999/07/177b01/00130023.pdf)](https://files.diariodarepublica.pt/1s/1999/07/177b01/00130023.pdf)](https://files.diariodarepublica.pt/1s/1999/07/177b01/00130023.pdf)](https://files.diariodarepublica.pt/1s/1999/07/177b01/00130023.pdf)](https://files.diariodarepublica.pt/1s/1999/07/177b01/00130023.pdf)](https://files.diariodarepublica.pt/1s/1999/07/177b01/00130023.pdf)](https://files.diariodarepublica.pt/1s/1999/07/177b01/00130023.pdf)](https://files.diariodarepublica.pt/1s/1999/07/177b01/00130023.pdf)](https://files.diariodarepublica.pt/1s/1999/07/177b01/00130023.pdf)](https://files.diariodarepublica.pt/1s/1999/07/177b01/00130023.pdf)](https://files.diariodarepublica.pt/1s/1999/07/177b01/00130023.pdf)](https://files.diariodarepublica.pt/1s/1999/07/177b01/00130023.pdf)
 
 2 - A taxa a cobrar às embarcações e navios armados para viagem, quando fundeados, será igual a UF1 x GT x TFi x FFi, onde:
 
@@ -274,11 +290,11 @@ TFi - número de dias indivisíveis de uso de fundeadouro, no período de refer�
 
 FFi - factor específico desse período, de acordo com a seguinte tabela:
 
-[(ver tabela no documento original)](https://files.diariodarepublica.pt/1s/1999/07/177b01/00130023.pdf)
+[[[[[[[[[[[[[[[[[[(ver tabela no documento original)](https://files.diariodarepublica.pt/1s/1999/07/177b01/00130023.pdf)](https://files.diariodarepublica.pt/1s/1999/07/177b01/00130023.pdf)](https://files.diariodarepublica.pt/1s/1999/07/177b01/00130023.pdf)](https://files.diariodarepublica.pt/1s/1999/07/177b01/00130023.pdf)](https://files.diariodarepublica.pt/1s/1999/07/177b01/00130023.pdf)](https://files.diariodarepublica.pt/1s/1999/07/177b01/00130023.pdf)](https://files.diariodarepublica.pt/1s/1999/07/177b01/00130023.pdf)](https://files.diariodarepublica.pt/1s/1999/07/177b01/00130023.pdf)](https://files.diariodarepublica.pt/1s/1999/07/177b01/00130023.pdf)](https://files.diariodarepublica.pt/1s/1999/07/177b01/00130023.pdf)](https://files.diariodarepublica.pt/1s/1999/07/177b01/00130023.pdf)](https://files.diariodarepublica.pt/1s/1999/07/177b01/00130023.pdf)](https://files.diariodarepublica.pt/1s/1999/07/177b01/00130023.pdf)](https://files.diariodarepublica.pt/1s/1999/07/177b01/00130023.pdf)](https://files.diariodarepublica.pt/1s/1999/07/177b01/00130023.pdf)](https://files.diariodarepublica.pt/1s/1999/07/177b01/00130023.pdf)](https://files.diariodarepublica.pt/1s/1999/07/177b01/00130023.pdf)](https://files.diariodarepublica.pt/1s/1999/07/177b01/00130023.pdf)
 
-3 - A taxa a cobrar às embarcações e navios não armados para viagem, quando fundeados, será igual a [(ver fórmula no documento original)](https://files.diariodarepublica.pt/1s/1999/07/177b01/00130023.pdf)
+3 - A taxa a cobrar às embarcações e navios não armados para viagem, quando fundeados, será igual a [[(ver fórmula no documento original)](https://files.diariodarepublica.pt/1s/1999/07/177b01/00130023.pdf)](https://files.diariodarepublica.pt/1s/1999/07/177b01/00130023.pdf)
 
-[(ver tabela no documento original)](https://files.diariodarepublica.pt/1s/1999/07/177b01/00130023.pdf)
+[[[[[[[[[[[[[[[[[[(ver tabela no documento original)](https://files.diariodarepublica.pt/1s/1999/07/177b01/00130023.pdf)](https://files.diariodarepublica.pt/1s/1999/07/177b01/00130023.pdf)](https://files.diariodarepublica.pt/1s/1999/07/177b01/00130023.pdf)](https://files.diariodarepublica.pt/1s/1999/07/177b01/00130023.pdf)](https://files.diariodarepublica.pt/1s/1999/07/177b01/00130023.pdf)](https://files.diariodarepublica.pt/1s/1999/07/177b01/00130023.pdf)](https://files.diariodarepublica.pt/1s/1999/07/177b01/00130023.pdf)](https://files.diariodarepublica.pt/1s/1999/07/177b01/00130023.pdf)](https://files.diariodarepublica.pt/1s/1999/07/177b01/00130023.pdf)](https://files.diariodarepublica.pt/1s/1999/07/177b01/00130023.pdf)](https://files.diariodarepublica.pt/1s/1999/07/177b01/00130023.pdf)](https://files.diariodarepublica.pt/1s/1999/07/177b01/00130023.pdf)](https://files.diariodarepublica.pt/1s/1999/07/177b01/00130023.pdf)](https://files.diariodarepublica.pt/1s/1999/07/177b01/00130023.pdf)](https://files.diariodarepublica.pt/1s/1999/07/177b01/00130023.pdf)](https://files.diariodarepublica.pt/1s/1999/07/177b01/00130023.pdf)](https://files.diariodarepublica.pt/1s/1999/07/177b01/00130023.pdf)](https://files.diariodarepublica.pt/1s/1999/07/177b01/00130023.pdf)
 
 4 - A taxa a cobrar às embarcações ou navios em reparação em cais especializados ou estaleiros será igual a UE2 x GT x TE, onde:
 
@@ -316,7 +332,7 @@ REF18 = 7,5%, se o navio tiver feito 18 ou mais escalas.
 
 As cargas que utilizem o porto estão sujeitas às taxas unitárias seguintes, fixadas por categorias de carga de acordo com a classificação NST/R:
 
-[(ver tabela no documento original)](https://files.diariodarepublica.pt/1s/1999/07/177b01/00130023.pdf)
+[[[[[[[[[[[[[[[[[[(ver tabela no documento original)](https://files.diariodarepublica.pt/1s/1999/07/177b01/00130023.pdf)](https://files.diariodarepublica.pt/1s/1999/07/177b01/00130023.pdf)](https://files.diariodarepublica.pt/1s/1999/07/177b01/00130023.pdf)](https://files.diariodarepublica.pt/1s/1999/07/177b01/00130023.pdf)](https://files.diariodarepublica.pt/1s/1999/07/177b01/00130023.pdf)](https://files.diariodarepublica.pt/1s/1999/07/177b01/00130023.pdf)](https://files.diariodarepublica.pt/1s/1999/07/177b01/00130023.pdf)](https://files.diariodarepublica.pt/1s/1999/07/177b01/00130023.pdf)](https://files.diariodarepublica.pt/1s/1999/07/177b01/00130023.pdf)](https://files.diariodarepublica.pt/1s/1999/07/177b01/00130023.pdf)](https://files.diariodarepublica.pt/1s/1999/07/177b01/00130023.pdf)](https://files.diariodarepublica.pt/1s/1999/07/177b01/00130023.pdf)](https://files.diariodarepublica.pt/1s/1999/07/177b01/00130023.pdf)](https://files.diariodarepublica.pt/1s/1999/07/177b01/00130023.pdf)](https://files.diariodarepublica.pt/1s/1999/07/177b01/00130023.pdf)](https://files.diariodarepublica.pt/1s/1999/07/177b01/00130023.pdf)](https://files.diariodarepublica.pt/1s/1999/07/177b01/00130023.pdf)](https://files.diariodarepublica.pt/1s/1999/07/177b01/00130023.pdf)
 
 ### CAPÍTULO III — Pilotagem
 
@@ -324,13 +340,13 @@ As cargas que utilizem o porto estão sujeitas às taxas unitárias seguintes, f
 
 1 - A tarifa de pilotagem (PJ) inclui seis pacotes (J) e é calculada por manobra pela fórmula:
 
-[(ver fórmula no documento original)](https://files.diariodarepublica.pt/1s/1999/07/177b01/00130023.pdf)
+[[(ver fórmula no documento original)](https://files.diariodarepublica.pt/1s/1999/07/177b01/00130023.pdf)](https://files.diariodarepublica.pt/1s/1999/07/177b01/00130023.pdf)
 
-[(ver tabela no documento original)](https://files.diariodarepublica.pt/1s/1999/07/177b01/00130023.pdf)
+[[[[[[[[[[[[[[[[[[(ver tabela no documento original)](https://files.diariodarepublica.pt/1s/1999/07/177b01/00130023.pdf)](https://files.diariodarepublica.pt/1s/1999/07/177b01/00130023.pdf)](https://files.diariodarepublica.pt/1s/1999/07/177b01/00130023.pdf)](https://files.diariodarepublica.pt/1s/1999/07/177b01/00130023.pdf)](https://files.diariodarepublica.pt/1s/1999/07/177b01/00130023.pdf)](https://files.diariodarepublica.pt/1s/1999/07/177b01/00130023.pdf)](https://files.diariodarepublica.pt/1s/1999/07/177b01/00130023.pdf)](https://files.diariodarepublica.pt/1s/1999/07/177b01/00130023.pdf)](https://files.diariodarepublica.pt/1s/1999/07/177b01/00130023.pdf)](https://files.diariodarepublica.pt/1s/1999/07/177b01/00130023.pdf)](https://files.diariodarepublica.pt/1s/1999/07/177b01/00130023.pdf)](https://files.diariodarepublica.pt/1s/1999/07/177b01/00130023.pdf)](https://files.diariodarepublica.pt/1s/1999/07/177b01/00130023.pdf)](https://files.diariodarepublica.pt/1s/1999/07/177b01/00130023.pdf)](https://files.diariodarepublica.pt/1s/1999/07/177b01/00130023.pdf)](https://files.diariodarepublica.pt/1s/1999/07/177b01/00130023.pdf)](https://files.diariodarepublica.pt/1s/1999/07/177b01/00130023.pdf)](https://files.diariodarepublica.pt/1s/1999/07/177b01/00130023.pdf)
 
 2 - Para cada serviço de pilotagem é estabelecido o tempo máximo de duração previsível, em condições normais de tempo e mar, que a seguir se indica:
 
-[(ver tabela no documento original)](https://files.diariodarepublica.pt/1s/1999/07/177b01/00130023.pdf)
+[[[[[[[[[[[[[[[[[[(ver tabela no documento original)](https://files.diariodarepublica.pt/1s/1999/07/177b01/00130023.pdf)](https://files.diariodarepublica.pt/1s/1999/07/177b01/00130023.pdf)](https://files.diariodarepublica.pt/1s/1999/07/177b01/00130023.pdf)](https://files.diariodarepublica.pt/1s/1999/07/177b01/00130023.pdf)](https://files.diariodarepublica.pt/1s/1999/07/177b01/00130023.pdf)](https://files.diariodarepublica.pt/1s/1999/07/177b01/00130023.pdf)](https://files.diariodarepublica.pt/1s/1999/07/177b01/00130023.pdf)](https://files.diariodarepublica.pt/1s/1999/07/177b01/00130023.pdf)](https://files.diariodarepublica.pt/1s/1999/07/177b01/00130023.pdf)](https://files.diariodarepublica.pt/1s/1999/07/177b01/00130023.pdf)](https://files.diariodarepublica.pt/1s/1999/07/177b01/00130023.pdf)](https://files.diariodarepublica.pt/1s/1999/07/177b01/00130023.pdf)](https://files.diariodarepublica.pt/1s/1999/07/177b01/00130023.pdf)](https://files.diariodarepublica.pt/1s/1999/07/177b01/00130023.pdf)](https://files.diariodarepublica.pt/1s/1999/07/177b01/00130023.pdf)](https://files.diariodarepublica.pt/1s/1999/07/177b01/00130023.pdf)](https://files.diariodarepublica.pt/1s/1999/07/177b01/00130023.pdf)](https://files.diariodarepublica.pt/1s/1999/07/177b01/00130023.pdf)
 
 ###### Artigo 14.º — Reduções
 
@@ -376,7 +392,7 @@ c) Se o navio pilotado manobrar só com recurso à força de tracção de reboca
 
 1 - A tarifa de reboque (RJi) é estabelecida por classes de GT dos navios, sendo as respectivas taxas fixadas por operação e por rebocador, de acordo com a tabela seguinte:
 
-[(ver tabela no documento original)](https://files.diariodarepublica.pt/1s/1999/07/177b01/00130023.pdf)
+[[[[[[[[[[[[[[[[[[(ver tabela no documento original)](https://files.diariodarepublica.pt/1s/1999/07/177b01/00130023.pdf)](https://files.diariodarepublica.pt/1s/1999/07/177b01/00130023.pdf)](https://files.diariodarepublica.pt/1s/1999/07/177b01/00130023.pdf)](https://files.diariodarepublica.pt/1s/1999/07/177b01/00130023.pdf)](https://files.diariodarepublica.pt/1s/1999/07/177b01/00130023.pdf)](https://files.diariodarepublica.pt/1s/1999/07/177b01/00130023.pdf)](https://files.diariodarepublica.pt/1s/1999/07/177b01/00130023.pdf)](https://files.diariodarepublica.pt/1s/1999/07/177b01/00130023.pdf)](https://files.diariodarepublica.pt/1s/1999/07/177b01/00130023.pdf)](https://files.diariodarepublica.pt/1s/1999/07/177b01/00130023.pdf)](https://files.diariodarepublica.pt/1s/1999/07/177b01/00130023.pdf)](https://files.diariodarepublica.pt/1s/1999/07/177b01/00130023.pdf)](https://files.diariodarepublica.pt/1s/1999/07/177b01/00130023.pdf)](https://files.diariodarepublica.pt/1s/1999/07/177b01/00130023.pdf)](https://files.diariodarepublica.pt/1s/1999/07/177b01/00130023.pdf)](https://files.diariodarepublica.pt/1s/1999/07/177b01/00130023.pdf)](https://files.diariodarepublica.pt/1s/1999/07/177b01/00130023.pdf)](https://files.diariodarepublica.pt/1s/1999/07/177b01/00130023.pdf)
 
 2 - As taxas aplicáveis beneficiarão da redução RRA = 25%, caso os rebocadores se atrasem mais de (Tasr = 30 minutos) em relação à hora para que o serviço foi requisitado.
 
@@ -400,7 +416,7 @@ c) Se o navio pilotado manobrar só com recurso à força de tracção de reboca
 
 1 - A tarifa de amarração e desamarração (AJi) inclui dois pacotes (J) e é estabelecida por classe de GT do navio (i), sendo as respectivas taxas fixadas por operação, de acordo com a seguinte tabela, considerando a taxa de referência A0 = 4200$00:
 
-[(ver tabela no documento original)](https://files.diariodarepublica.pt/1s/1999/07/177b01/00130023.pdf)
+[[[[[[[[[[[[[[[[[[(ver tabela no documento original)](https://files.diariodarepublica.pt/1s/1999/07/177b01/00130023.pdf)](https://files.diariodarepublica.pt/1s/1999/07/177b01/00130023.pdf)](https://files.diariodarepublica.pt/1s/1999/07/177b01/00130023.pdf)](https://files.diariodarepublica.pt/1s/1999/07/177b01/00130023.pdf)](https://files.diariodarepublica.pt/1s/1999/07/177b01/00130023.pdf)](https://files.diariodarepublica.pt/1s/1999/07/177b01/00130023.pdf)](https://files.diariodarepublica.pt/1s/1999/07/177b01/00130023.pdf)](https://files.diariodarepublica.pt/1s/1999/07/177b01/00130023.pdf)](https://files.diariodarepublica.pt/1s/1999/07/177b01/00130023.pdf)](https://files.diariodarepublica.pt/1s/1999/07/177b01/00130023.pdf)](https://files.diariodarepublica.pt/1s/1999/07/177b01/00130023.pdf)](https://files.diariodarepublica.pt/1s/1999/07/177b01/00130023.pdf)](https://files.diariodarepublica.pt/1s/1999/07/177b01/00130023.pdf)](https://files.diariodarepublica.pt/1s/1999/07/177b01/00130023.pdf)](https://files.diariodarepublica.pt/1s/1999/07/177b01/00130023.pdf)](https://files.diariodarepublica.pt/1s/1999/07/177b01/00130023.pdf)](https://files.diariodarepublica.pt/1s/1999/07/177b01/00130023.pdf)](https://files.diariodarepublica.pt/1s/1999/07/177b01/00130023.pdf)
 
 2 - As taxas aplicáveis beneficiarão da redução RAA = 25%, caso as equipas de amarração e desamarração se atrasem mais de (Tasa = 30 minutos) em relação à hora para que o serviço foi requisitado.
 
@@ -446,11 +462,11 @@ c) Se o navio pilotado manobrar só com recurso à força de tracção de reboca
 
 1 - Pela armazenagem de cargas a descoberto ou a coberto, em terraplenos ou armazéns, excepto contentores, unidades ro-ro e as cargas previstas no artigo seguinte, são devidas, por metro quadrado e dia indivisível, as taxas seguintes:
 
-[(ver tabela no documento original)](https://files.diariodarepublica.pt/1s/1999/07/177b01/00130023.pdf)
+[[[[[[[[[[[[[[[[[[(ver tabela no documento original)](https://files.diariodarepublica.pt/1s/1999/07/177b01/00130023.pdf)](https://files.diariodarepublica.pt/1s/1999/07/177b01/00130023.pdf)](https://files.diariodarepublica.pt/1s/1999/07/177b01/00130023.pdf)](https://files.diariodarepublica.pt/1s/1999/07/177b01/00130023.pdf)](https://files.diariodarepublica.pt/1s/1999/07/177b01/00130023.pdf)](https://files.diariodarepublica.pt/1s/1999/07/177b01/00130023.pdf)](https://files.diariodarepublica.pt/1s/1999/07/177b01/00130023.pdf)](https://files.diariodarepublica.pt/1s/1999/07/177b01/00130023.pdf)](https://files.diariodarepublica.pt/1s/1999/07/177b01/00130023.pdf)](https://files.diariodarepublica.pt/1s/1999/07/177b01/00130023.pdf)](https://files.diariodarepublica.pt/1s/1999/07/177b01/00130023.pdf)](https://files.diariodarepublica.pt/1s/1999/07/177b01/00130023.pdf)](https://files.diariodarepublica.pt/1s/1999/07/177b01/00130023.pdf)](https://files.diariodarepublica.pt/1s/1999/07/177b01/00130023.pdf)](https://files.diariodarepublica.pt/1s/1999/07/177b01/00130023.pdf)](https://files.diariodarepublica.pt/1s/1999/07/177b01/00130023.pdf)](https://files.diariodarepublica.pt/1s/1999/07/177b01/00130023.pdf)](https://files.diariodarepublica.pt/1s/1999/07/177b01/00130023.pdf)
 
 2 - Pela armazenagem de contentores e unidades ro-ro em terraplenos e terminais são devidas, por unidade e dia indivisível, as taxas seguintes:
 
-[(ver tabela no documento original)](https://files.diariodarepublica.pt/1s/1999/07/177b01/00130023.pdf)
+[[[[[[[[[[[[[[[[[[(ver tabela no documento original)](https://files.diariodarepublica.pt/1s/1999/07/177b01/00130023.pdf)](https://files.diariodarepublica.pt/1s/1999/07/177b01/00130023.pdf)](https://files.diariodarepublica.pt/1s/1999/07/177b01/00130023.pdf)](https://files.diariodarepublica.pt/1s/1999/07/177b01/00130023.pdf)](https://files.diariodarepublica.pt/1s/1999/07/177b01/00130023.pdf)](https://files.diariodarepublica.pt/1s/1999/07/177b01/00130023.pdf)](https://files.diariodarepublica.pt/1s/1999/07/177b01/00130023.pdf)](https://files.diariodarepublica.pt/1s/1999/07/177b01/00130023.pdf)](https://files.diariodarepublica.pt/1s/1999/07/177b01/00130023.pdf)](https://files.diariodarepublica.pt/1s/1999/07/177b01/00130023.pdf)](https://files.diariodarepublica.pt/1s/1999/07/177b01/00130023.pdf)](https://files.diariodarepublica.pt/1s/1999/07/177b01/00130023.pdf)](https://files.diariodarepublica.pt/1s/1999/07/177b01/00130023.pdf)](https://files.diariodarepublica.pt/1s/1999/07/177b01/00130023.pdf)](https://files.diariodarepublica.pt/1s/1999/07/177b01/00130023.pdf)](https://files.diariodarepublica.pt/1s/1999/07/177b01/00130023.pdf)](https://files.diariodarepublica.pt/1s/1999/07/177b01/00130023.pdf)](https://files.diariodarepublica.pt/1s/1999/07/177b01/00130023.pdf)
 
 3 - Pela armazenagem de contentores e unidades ro-ro em áreas cobertas nos terraplenos (telheiros ou abrigos) são devidas taxas duplas das estabelecidas no n.º 2, sem qualquer isenção, considerando-se o primeiro período de tarifação extensivo aos dias de isenção previstos para a armazenagem a descoberto.
 
@@ -476,7 +492,7 @@ c) Se o navio pilotado manobrar só com recurso à força de tracção de reboca
 
 1 - Pelo uso de equipamentos de combate à poluição e a incêndios e de conservação do ambiente são devidas, por unidade e período de tempo indivisível, segundo o tipo, as taxas constantes da tabela seguinte:
 
-[(ver tabela no documento original)](https://files.diariodarepublica.pt/1s/1999/07/177b01/00130023.pdf)
+[[[[[[[[[[[[[[[[[[(ver tabela no documento original)](https://files.diariodarepublica.pt/1s/1999/07/177b01/00130023.pdf)](https://files.diariodarepublica.pt/1s/1999/07/177b01/00130023.pdf)](https://files.diariodarepublica.pt/1s/1999/07/177b01/00130023.pdf)](https://files.diariodarepublica.pt/1s/1999/07/177b01/00130023.pdf)](https://files.diariodarepublica.pt/1s/1999/07/177b01/00130023.pdf)](https://files.diariodarepublica.pt/1s/1999/07/177b01/00130023.pdf)](https://files.diariodarepublica.pt/1s/1999/07/177b01/00130023.pdf)](https://files.diariodarepublica.pt/1s/1999/07/177b01/00130023.pdf)](https://files.diariodarepublica.pt/1s/1999/07/177b01/00130023.pdf)](https://files.diariodarepublica.pt/1s/1999/07/177b01/00130023.pdf)](https://files.diariodarepublica.pt/1s/1999/07/177b01/00130023.pdf)](https://files.diariodarepublica.pt/1s/1999/07/177b01/00130023.pdf)](https://files.diariodarepublica.pt/1s/1999/07/177b01/00130023.pdf)](https://files.diariodarepublica.pt/1s/1999/07/177b01/00130023.pdf)](https://files.diariodarepublica.pt/1s/1999/07/177b01/00130023.pdf)](https://files.diariodarepublica.pt/1s/1999/07/177b01/00130023.pdf)](https://files.diariodarepublica.pt/1s/1999/07/177b01/00130023.pdf)](https://files.diariodarepublica.pt/1s/1999/07/177b01/00130023.pdf)
 
 2 - As taxas estabelecidas no número anterior não contemplam o fornecimento do pessoal e meios necessários à colocação do equipamento em serviço, à sua operação e levantamento, nem os custos referentes à limpeza do material após utilização, os quais serão debitados de acordo com as tarifas de uso de equipamento e de fornecimento de pessoal, ou pelo valor facturado por prestador de serviços, acrescido de 20%.
 
@@ -486,7 +502,7 @@ c) Se o navio pilotado manobrar só com recurso à força de tracção de reboca
 
 1 - Pelo uso de equipamentos de manobra e transporte marítimo são devidas, por unidade e período de tempo indivisível, segundo o tipo, as taxas constantes da tabela seguinte:
 
-[(ver tabela no documento original)](https://files.diariodarepublica.pt/1s/1999/07/177b01/00130023.pdf)
+[[[[[[[[[[[[[[[[[[(ver tabela no documento original)](https://files.diariodarepublica.pt/1s/1999/07/177b01/00130023.pdf)](https://files.diariodarepublica.pt/1s/1999/07/177b01/00130023.pdf)](https://files.diariodarepublica.pt/1s/1999/07/177b01/00130023.pdf)](https://files.diariodarepublica.pt/1s/1999/07/177b01/00130023.pdf)](https://files.diariodarepublica.pt/1s/1999/07/177b01/00130023.pdf)](https://files.diariodarepublica.pt/1s/1999/07/177b01/00130023.pdf)](https://files.diariodarepublica.pt/1s/1999/07/177b01/00130023.pdf)](https://files.diariodarepublica.pt/1s/1999/07/177b01/00130023.pdf)](https://files.diariodarepublica.pt/1s/1999/07/177b01/00130023.pdf)](https://files.diariodarepublica.pt/1s/1999/07/177b01/00130023.pdf)](https://files.diariodarepublica.pt/1s/1999/07/177b01/00130023.pdf)](https://files.diariodarepublica.pt/1s/1999/07/177b01/00130023.pdf)](https://files.diariodarepublica.pt/1s/1999/07/177b01/00130023.pdf)](https://files.diariodarepublica.pt/1s/1999/07/177b01/00130023.pdf)](https://files.diariodarepublica.pt/1s/1999/07/177b01/00130023.pdf)](https://files.diariodarepublica.pt/1s/1999/07/177b01/00130023.pdf)](https://files.diariodarepublica.pt/1s/1999/07/177b01/00130023.pdf)](https://files.diariodarepublica.pt/1s/1999/07/177b01/00130023.pdf)
 
 2 - Para efeitos de aplicação das taxas referidas no presente artigo, a contagem de tempo faz-se de acordo com as seguintes regras:
 
@@ -508,7 +524,7 @@ b) Tcem = 4 horas, em caso de desistência.
 
 1 - Pelo uso de equipamento de manobra e transporte terrestre são devidas, por unidade e período de tempo indivisível, segundo o tipo, as taxas constantes da tabela seguinte:
 
-[(ver tabela no documento original)](https://files.diariodarepublica.pt/1s/1999/07/177b01/00130023.pdf)
+[[[[[[[[[[[[[[[[[[(ver tabela no documento original)](https://files.diariodarepublica.pt/1s/1999/07/177b01/00130023.pdf)](https://files.diariodarepublica.pt/1s/1999/07/177b01/00130023.pdf)](https://files.diariodarepublica.pt/1s/1999/07/177b01/00130023.pdf)](https://files.diariodarepublica.pt/1s/1999/07/177b01/00130023.pdf)](https://files.diariodarepublica.pt/1s/1999/07/177b01/00130023.pdf)](https://files.diariodarepublica.pt/1s/1999/07/177b01/00130023.pdf)](https://files.diariodarepublica.pt/1s/1999/07/177b01/00130023.pdf)](https://files.diariodarepublica.pt/1s/1999/07/177b01/00130023.pdf)](https://files.diariodarepublica.pt/1s/1999/07/177b01/00130023.pdf)](https://files.diariodarepublica.pt/1s/1999/07/177b01/00130023.pdf)](https://files.diariodarepublica.pt/1s/1999/07/177b01/00130023.pdf)](https://files.diariodarepublica.pt/1s/1999/07/177b01/00130023.pdf)](https://files.diariodarepublica.pt/1s/1999/07/177b01/00130023.pdf)](https://files.diariodarepublica.pt/1s/1999/07/177b01/00130023.pdf)](https://files.diariodarepublica.pt/1s/1999/07/177b01/00130023.pdf)](https://files.diariodarepublica.pt/1s/1999/07/177b01/00130023.pdf)](https://files.diariodarepublica.pt/1s/1999/07/177b01/00130023.pdf)](https://files.diariodarepublica.pt/1s/1999/07/177b01/00130023.pdf)
 
 2 - O equipamento requisitado e não utilizado será considerado à ordem até ao cancelamento do pedido ou ao início da respectiva utilização, sendo nestes casos as taxas aplicáveis sujeitas à redução ROT = 40%.
 
@@ -534,13 +550,13 @@ Desembarque do contentor do navio, directamente para o cais ou veículo de trans
 
 Carga do cais para o veículo de transporte.
 
-[(ver tabela no documento original)](https://files.diariodarepublica.pt/1s/1999/07/177b01/00130023.pdf)
+[[[[[[[[[[[[[[[[[[(ver tabela no documento original)](https://files.diariodarepublica.pt/1s/1999/07/177b01/00130023.pdf)](https://files.diariodarepublica.pt/1s/1999/07/177b01/00130023.pdf)](https://files.diariodarepublica.pt/1s/1999/07/177b01/00130023.pdf)](https://files.diariodarepublica.pt/1s/1999/07/177b01/00130023.pdf)](https://files.diariodarepublica.pt/1s/1999/07/177b01/00130023.pdf)](https://files.diariodarepublica.pt/1s/1999/07/177b01/00130023.pdf)](https://files.diariodarepublica.pt/1s/1999/07/177b01/00130023.pdf)](https://files.diariodarepublica.pt/1s/1999/07/177b01/00130023.pdf)](https://files.diariodarepublica.pt/1s/1999/07/177b01/00130023.pdf)](https://files.diariodarepublica.pt/1s/1999/07/177b01/00130023.pdf)](https://files.diariodarepublica.pt/1s/1999/07/177b01/00130023.pdf)](https://files.diariodarepublica.pt/1s/1999/07/177b01/00130023.pdf)](https://files.diariodarepublica.pt/1s/1999/07/177b01/00130023.pdf)](https://files.diariodarepublica.pt/1s/1999/07/177b01/00130023.pdf)](https://files.diariodarepublica.pt/1s/1999/07/177b01/00130023.pdf)](https://files.diariodarepublica.pt/1s/1999/07/177b01/00130023.pdf)](https://files.diariodarepublica.pt/1s/1999/07/177b01/00130023.pdf)](https://files.diariodarepublica.pt/1s/1999/07/177b01/00130023.pdf)
 
 3 - Aos contentores desembarcados para posterior embarque para outros portos (baldeação) e que durante a estadia não saiam do porto nem tenham manipulação da sua carga será aplicada uma taxa correspondente à soma das taxas devidas pelo desembarque e pelo embarque desses contentores, com a redução REH3 = 20%.
 
 4 - Sempre que a movimentação vertical ou horizontal de contentores implique a execução de operações não englobadas nos pacotes definidos no número anterior são devidas taxas aplicáveis de acordo com a seguinte tabela, por unidade movimentada, considerando a taxa de referência EH estabelecida no número anterior:
 
-[(ver tabela no documento original)](https://files.diariodarepublica.pt/1s/1999/07/177b01/00130023.pdf)
+[[[[[[[[[[[[[[[[[[(ver tabela no documento original)](https://files.diariodarepublica.pt/1s/1999/07/177b01/00130023.pdf)](https://files.diariodarepublica.pt/1s/1999/07/177b01/00130023.pdf)](https://files.diariodarepublica.pt/1s/1999/07/177b01/00130023.pdf)](https://files.diariodarepublica.pt/1s/1999/07/177b01/00130023.pdf)](https://files.diariodarepublica.pt/1s/1999/07/177b01/00130023.pdf)](https://files.diariodarepublica.pt/1s/1999/07/177b01/00130023.pdf)](https://files.diariodarepublica.pt/1s/1999/07/177b01/00130023.pdf)](https://files.diariodarepublica.pt/1s/1999/07/177b01/00130023.pdf)](https://files.diariodarepublica.pt/1s/1999/07/177b01/00130023.pdf)](https://files.diariodarepublica.pt/1s/1999/07/177b01/00130023.pdf)](https://files.diariodarepublica.pt/1s/1999/07/177b01/00130023.pdf)](https://files.diariodarepublica.pt/1s/1999/07/177b01/00130023.pdf)](https://files.diariodarepublica.pt/1s/1999/07/177b01/00130023.pdf)](https://files.diariodarepublica.pt/1s/1999/07/177b01/00130023.pdf)](https://files.diariodarepublica.pt/1s/1999/07/177b01/00130023.pdf)](https://files.diariodarepublica.pt/1s/1999/07/177b01/00130023.pdf)](https://files.diariodarepublica.pt/1s/1999/07/177b01/00130023.pdf)](https://files.diariodarepublica.pt/1s/1999/07/177b01/00130023.pdf)
 
 5 - Poderá, por motivos justificados, a autoridade portuária autorizar a descarga ou carga de contentores com meios de bordo dos navios ou outros externos ao porto, sendo nestes casos praticada a redução REH1 = 30% sobre as taxas estabelecidas no n.º 2.
 
@@ -574,7 +590,7 @@ A tarifa de fornecimentos é devida pelo fornecimento de recursos humanos e de b
 
 Pelo fornecimento de pessoal, incluindo a sua deslocação da base ao local da prestação de serviço, a prestação do mesmo e o regresso à base, são devidas as seguintes taxas, expressas em escudos por homem e por hora, segundo a qualificação profissional:
 
-[(ver tabela no documento original)](https://files.diariodarepublica.pt/1s/1999/07/177b01/00130023.pdf)
+[[[[[[[[[[[[[[[[[[(ver tabela no documento original)](https://files.diariodarepublica.pt/1s/1999/07/177b01/00130023.pdf)](https://files.diariodarepublica.pt/1s/1999/07/177b01/00130023.pdf)](https://files.diariodarepublica.pt/1s/1999/07/177b01/00130023.pdf)](https://files.diariodarepublica.pt/1s/1999/07/177b01/00130023.pdf)](https://files.diariodarepublica.pt/1s/1999/07/177b01/00130023.pdf)](https://files.diariodarepublica.pt/1s/1999/07/177b01/00130023.pdf)](https://files.diariodarepublica.pt/1s/1999/07/177b01/00130023.pdf)](https://files.diariodarepublica.pt/1s/1999/07/177b01/00130023.pdf)](https://files.diariodarepublica.pt/1s/1999/07/177b01/00130023.pdf)](https://files.diariodarepublica.pt/1s/1999/07/177b01/00130023.pdf)](https://files.diariodarepublica.pt/1s/1999/07/177b01/00130023.pdf)](https://files.diariodarepublica.pt/1s/1999/07/177b01/00130023.pdf)](https://files.diariodarepublica.pt/1s/1999/07/177b01/00130023.pdf)](https://files.diariodarepublica.pt/1s/1999/07/177b01/00130023.pdf)](https://files.diariodarepublica.pt/1s/1999/07/177b01/00130023.pdf)](https://files.diariodarepublica.pt/1s/1999/07/177b01/00130023.pdf)](https://files.diariodarepublica.pt/1s/1999/07/177b01/00130023.pdf)](https://files.diariodarepublica.pt/1s/1999/07/177b01/00130023.pdf)
 
 ###### Artigo 31.º — Fornecimento de energia eléctrica e água
 

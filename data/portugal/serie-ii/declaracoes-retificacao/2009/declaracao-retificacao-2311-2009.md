@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/2s/2009/09/180000000/3793237932.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -46,18 +46,18 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/declaracao-rectificacao/2311-2009-1350143
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2009-09-16T00:00:00Z'
+  retrieved_at: '2026-10-23T14:06:19Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 1c434aa2b085aef3e1ee807aa5de75d399a15dd74a3fd3fa5c8d37359d44b4bb
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 0f8f8cef667002e7a419c3ebb0784944bad83cedd4f5b02f5e45f1f17cc9a2d7
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T14:06:19Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -69,13 +69,13 @@ relationships: []
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T14:06:19Z'
   warnings: []
   errors: []
 ---
@@ -87,3 +87,5 @@ Declaração de rectificação n.º 2311/2009
 Por ter sido publicado com inexactidão no Diário da República, 2.ª série, n.º 135, de 15 de Julho de 2009, a p. 28 039, o aviso n.º 12 557/2009, relativo à abertura de procedimento concursal, rectifica-se que onde se lê, no n.º 13, «Presidente do Júri: Ângelo Medeiros Furtado, Chefe de Divisão Administrativa e Financeira da Câmara Municipal de Povoação» deve ler-se «Presidente do Júri: Dr. José Manuel dos Santos Gaudêncio, Mestre em Gestão de Empresas» e onde se lê «Vogais efectivos: Dr.ª Maria Gorete Velho Cabral de Medeiros Costa, técnica superior do Gabinete Jurídico da Câmara Municipal, que substituirá o Presidente do Júri nas suas faltas e impedimentos e Dr. ...» deve ler-se «Vogais efectivos: Dr.ª Maria Gorete Velho Cabral de Medeiros Costa, técnica superior do Gabinete Jurídico da Câmara Municipal, que substituirá o Presidente do Júri nas suas faltas e impedimentos e Dr.ª Maria da Estrela Aguiar, Chefe de Divisão Administrativa e Financeira da Câmara Municipal de Lagoa».
 
 10 de Setembro de 2009. - O Presidente da Câmara, Francisco da Silva Álvares.
+
+302290561

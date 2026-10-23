@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/2s/2009/10/206000000/4320443204.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -47,18 +47,18 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/declaracao-rectificacao/2610-2009-3228317
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2009-10-23T00:00:00Z'
+  retrieved_at: '2026-10-23T14:07:59Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 72cba64448dc8e28d62e219731727463ab17a68d5a95e3220bb58d10501cfcd0
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 25cf54b571fc0646fa68712c743e1dbfba1b09b900308acddc526a6b1ff87182
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T14:07:59Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -70,13 +70,13 @@ relationships: []
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T14:07:59Z'
   warnings: []
   errors: []
 ---
@@ -98,3 +98,5 @@ Publicidade de sentença e citação de credores e outros interessados nos autos
 No Tribunal Judicial de Vila Nova de Gaia, 5.º Juízo Cível de Vila Nova de Gaia, no dia 30 de Junho de 2009, às 13 horas e 10 minutos, foi proferida sentença de declaração de insolvência dos devedores Joaquim Armando Pais Relvas, com o número de identificação fiscal 183066146 e Maria Isabel Rodrigues Pereira da Silva, com o número de identificação fiscal 175132496, casados entre si e residentes na Rua das Alminhas, 86, 2.º , direito, frente, Serzedo, 4410-093 Vila Nova de Gaia, com domicílio na morada indicada.
 
 31 de Julho de 2009. - A Juíza de Direito, Susana Aguilar. - O Oficial de Justiça, Conceição Anselmo.
+
+302162613

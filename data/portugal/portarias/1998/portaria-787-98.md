@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1998/09/218b00/48734880.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/787/1998/09/21/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/787-1998-241633
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2011-03-16T00:00:00Z'
+  retrieved_at: '2026-10-23T14:11:11Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: ab16d45dc0534699e3c42633c94c05b813b9240a26dd9461ff320ee80556def4
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 8c6dba45385b6baac8e4e3c276b272a93e87db321ff98d74f94f7fc2740b0eff
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T14:11:11Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,9 +66,9 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Serviço de Estrangeiros e Fronteiras
-- Regulamento
 - Fardamento
+- Regulamento
+- Serviço de Estrangeiros e Fronteiras
 relationships:
 - type: amended_by
   target: pt:dre:278208:por
@@ -78,16 +78,34 @@ relationships:
   target: eli:http://data.dre.pt/eli/port/710-a/1991/07/15/p/dre
   label: null
   source: http://data.dre.pt/eli/port/710-a/1991/07/15/p/dre
+- type: cites
+  target: pt:dre:186746:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:627065:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:278208:por
+  label: "Revogada, a partir de 17.03.2011, pela PORT.110/2011.16.03.2011.MAI, DR.IS [53] de 16.03.2011, que fixa, todavia,\
+    \ sem prejuízo da entrada em vigor daquele diploma (17.03.2011), um período de transição de três anos, a contar daquela\
+    \ data, findo o qual não será permitido o uso de artigos não previstos no regulamento por ele aprovado, sem prejuízo daqueles\
+    \ que venham a ser criados posteriormente por despacho do director nacional do SEF, conforme previsto no mesmo; podendo\
+    \ aquele período, na medida e nos casos estritamente necessários, ser alterado por despacho do director nacional do SEF,\
+    \ havendo necessidade de flexibilizar a gestão de alguns artigos de fardamento específicos.\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/110-2011-278208
+  date: '2011-03-16'
 article_structure:
   article_count: 9
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T14:11:11Z'
   warnings: []
   errors: []
 ---
@@ -146,9 +164,9 @@ h) Quando em comissão de serviço, requisitado ou destacado noutro organismo da
 
 Ministério da Administração Interna.
 
-**Assinada em 24 de Agosto de 1998.**
+Assinada em 24 de Agosto de 1998.
 
-**O Secretário de Estado Adjunto do Ministro da Administração Interna, Armando António Martins Vara.**
+O Secretário de Estado Adjunto do Ministro da Administração Interna, Armando António Martins Vara.
 
 REGULAMENTO DE FARDAMENTO DO PESSOAL DA CARREIRA DE INVESTIGAÇÃO E FISCALIZAÇÃO DO SEF
 
@@ -312,10 +330,10 @@ b) Alfinete de gravata em metal dourado (figura 28).
 
 MAPA I
 
-[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/1998/09/218b00/48734880.pdf)
+[[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/1998/09/218b00/48734880.pdf)](https://files.diariodarepublica.pt/1s/1998/09/218b00/48734880.pdf)
 
 MAPA II
 
-[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/1998/09/218b00/48734880.pdf)
+[[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/1998/09/218b00/48734880.pdf)](https://files.diariodarepublica.pt/1s/1998/09/218b00/48734880.pdf)
 
 [(ver figuras no documento original)](https://files.diariodarepublica.pt/1s/1998/09/218b00/48734880.pdf)

@@ -47,41 +47,49 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/declaracao-rectificacao/2302-2009-1349780
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2009-09-16T00:00:00Z'
+  retrieved_at: '2026-10-23T14:06:14Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: bed9999e4027ee5d15da01da5c1d4c55a057702877fb106a550d3da3f8312607
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 906d986756cfa1f404cde2d5ae417fb93d20b2d5e6c4884013faf082acd907f1
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T14:06:14Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
-relationships: []
+subjects:
+- Comissão de Acompanhamento
+- Concurso Público
+- Parceria Público-Privada
+- RAVE
+relationships:
+- type: cites
+  target: pt:dre:2824918:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T14:06:14Z'
   warnings: []
   errors: []
 ---
 
-# Declaração de Rectificação n.º 2302/2009
+# Declaração de rectificação n.º 2302/2009
 
 Ao abrigo do disposto no artigo 9.º do Regulamento de Publicação de Actos no Diário da República, aprovado pelo Despacho normativo n.º 35-A/2008, de 28 de Julho de 2008, publicado no Diário da República, 2.ª série, n.º 145, de 29 de Julho de 2008, alterado e republicado pelo Despacho normativo n.º 13/2009, de 19 de Março de 2009, publicado no Diário da República, 2.ª série, n.º 64, de 1 de Abril de 2009, declara-se que o [Despacho n.º 20339/2009](https://diariodarepublica.pt/dr/detalhe/despacho/20339-2009-2824918), de 28 de Agosto de 2009, publicado no Diário da República, 2.ª série, n.º 175, de 9 de Setembro de 2009, foi publicado com um sumário errado, que assim se rectifica:
 
@@ -94,3 +102,5 @@ Deve ler-se:
 «Constituição da comissão de acompanhamento referente ao processo de preparação do lançamento do concurso para a parceria público-privada para a concessão dos sistemas de sinalização e telecomunicações da rede ferroviária de alta velocidade»
 
 9 de Setembro de 2009. - O Secretário-Geral, Santos Cardoso.
+
+202284421

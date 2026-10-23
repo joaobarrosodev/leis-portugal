@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/1233/1997/12/16/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/1233-1997-403532
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1997-12-16T00:00:00Z'
+  retrieved_at: '2026-10-23T14:00:23Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: ddbcf0a785c8a403f3ecab4298dd6b9693012fe9215c7516eb153bc5b6b65c74
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: d3cf81ecf544f7a9815b3a6091392726faf8216f243a1b973bb2bb555ccb36f2
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T14:00:23Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -68,23 +68,27 @@ subjects:
 - Acesso ao Direito
 - Ajuda Judicial
 - Atendimento Personalizado
-- Ordem dos Advogados
+- Dados Pessoais
 - Gabinete de Consulta Jurídica
 - Ministério da Justiça
+- Ordem dos Advogados
 - Regulamento
-- Dados Pessoais
 - Sintra
-relationships: []
+relationships:
+- type: cites
+  target: pt:dre:670072:por
+  label: null
+  source: null
 article_structure:
   article_count: 15
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T14:00:23Z'
   warnings: []
   errors: []
 ---
@@ -99,9 +103,9 @@ Manda o Governo, pelo Ministro da Justiça, que seja aprovado o Regulamento do G
 
 Ministério da Justiça.
 
-**Assinada em 28 de Novembro de 1997.**
+Assinada em 28 de Novembro de 1997.
 
-**O Ministro da Justiça, José Eduardo Vera Cruz Jardim.**
+O Ministro da Justiça, José Eduardo Vera Cruz Jardim.
 
 ## ANEXO — Regulamento do Gabinete de Consulta Jurídica de Sintra
 

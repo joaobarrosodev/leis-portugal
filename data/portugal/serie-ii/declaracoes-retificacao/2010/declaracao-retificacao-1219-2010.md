@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/2s/2010/06/119000000/3422534233.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -46,18 +46,18 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/declaracao-rectificacao/1219-2010-1735225
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2010-06-22T00:00:00Z'
+  retrieved_at: '2026-10-23T14:16:18Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: b680306672233bd9c567c82e06092503da1df32a6e8f6dc24e1c9c5d862c8521
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 9b17c52e5c1a19ad7527e084ee587ffdf4572ca491513426d74eb585b6268c66
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T14:16:18Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -68,14 +68,14 @@ subjects: []
 relationships: []
 article_structure:
   article_count: 0
-  section_count: 1
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  section_count: 0
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T14:16:18Z'
   warnings: []
   errors: []
 ---
@@ -112,7 +112,7 @@ deve ler-se:
 
 «Tabela de taxas e outras receitas do município de Ribeira Brava
 
-### Capítulo I
+Capítulo I
 
 Prestação de serviços de administração geral»
 
@@ -572,7 +572,7 @@ QUADRO X
 
 Obras de reconstrução, ampliação e alteração. Concessão de licença ou admissão de comunicação previa
 
-[([ver documento original](https://files.diariodarepublica.pt/2s/2010/06/119000000/3422534233.pdf))](https://files.diariodarepublica.pt/2s/2010/06/119000000/3422534233.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/2s/2010/06/119000000/3422534233.pdf)
 
 deve ler-se:
 
@@ -580,7 +580,7 @@ QUADRO X
 
 Obras de reconstrução, ampliação e alteração. Concessão de licença ou admissão de comunicação prévia
 
-[([ver documento original](https://files.diariodarepublica.pt/2s/2010/06/119000000/3422534233.pdf))](https://files.diariodarepublica.pt/2s/2010/06/119000000/3422534233.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/2s/2010/06/119000000/3422534233.pdf)
 
 No capítulo viii, «Urbanismo e edificação», no seu quadro XV, «Ocupação da via pública e outros bens do domínio público ou privado do município por motivo de obras. Concessão de licença», rectifica-se que onde se lê:
 
@@ -588,7 +588,7 @@ QUADRO XV
 
 Ocupação da via pública e outros bens do domínio público ou privado do município por motivo de obras. Concessão de licença
 
-[([ver documento original](https://files.diariodarepublica.pt/2s/2010/06/119000000/3422534233.pdf))](https://files.diariodarepublica.pt/2s/2010/06/119000000/3422534233.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/2s/2010/06/119000000/3422534233.pdf)
 
 deve ler-se:
 
@@ -596,7 +596,7 @@ QUADRO XV
 
 Ocupação da via pública e outros bens do domínio público ou privado do município por motivo de obras. Concessão de licença
 
-[([ver documento original](https://files.diariodarepublica.pt/2s/2010/06/119000000/3422534233.pdf))](https://files.diariodarepublica.pt/2s/2010/06/119000000/3422534233.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/2s/2010/06/119000000/3422534233.pdf)
 
 No capítulo viii, «Urbanismo e edificação» no seu quadro XIX, «Vistorias», rectifica-se que onde se lê:
 
@@ -604,7 +604,7 @@ QUADRO XIX
 
 Vistorias
 
-[([ver documento original](https://files.diariodarepublica.pt/2s/2010/06/119000000/3422534233.pdf))](https://files.diariodarepublica.pt/2s/2010/06/119000000/3422534233.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/2s/2010/06/119000000/3422534233.pdf)
 
 deve ler-se:
 
@@ -612,7 +612,7 @@ QUADRO XIX
 
 Vistorias
 
-[([ver documento original](https://files.diariodarepublica.pt/2s/2010/06/119000000/3422534233.pdf))](https://files.diariodarepublica.pt/2s/2010/06/119000000/3422534233.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/2s/2010/06/119000000/3422534233.pdf)
 
 No capítulo viii, «Urbanismo e edificação» no seu quadro XXI, «Assuntos administrativos referentes aos procedimentos regulados no presente Regulamento», rectifica-se que onde se lê:
 
@@ -620,7 +620,7 @@ QUADRO XXI
 
 Assuntos administrativos referentes aos procedimentos regulados no presente Regulamento
 
-[([ver documento original](https://files.diariodarepublica.pt/2s/2010/06/119000000/3422534233.pdf))](https://files.diariodarepublica.pt/2s/2010/06/119000000/3422534233.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/2s/2010/06/119000000/3422534233.pdf)
 
 deve ler-se:
 
@@ -628,7 +628,7 @@ QUADRO XXI
 
 Assuntos administrativos referentes aos procedimentos regulados no capítulo viii da presente Tabela de Taxas e Outras Receitas do Município de Ribeira Brava
 
-[([ver documento original](https://files.diariodarepublica.pt/2s/2010/06/119000000/3422534233.pdf))](https://files.diariodarepublica.pt/2s/2010/06/119000000/3422534233.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/2s/2010/06/119000000/3422534233.pdf)
 
 No capítulo viii, «Urbanismo e edificação», no seu quadro XXI, «Assuntos administrativos referentes aos procedimentos regulados no presente Regulamento», rectifica-se que onde se lê:
 
@@ -636,7 +636,7 @@ QUADRO XXI
 
 Assuntos administrativos referentes aos procedimentos regulados no presente Regulamento
 
-[([ver documento original](https://files.diariodarepublica.pt/2s/2010/06/119000000/3422534233.pdf))](https://files.diariodarepublica.pt/2s/2010/06/119000000/3422534233.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/2s/2010/06/119000000/3422534233.pdf)
 
 deve ler-se:
 
@@ -644,7 +644,7 @@ QUADRO XXII
 
 Arruamentos
 
-[([ver documento original](https://files.diariodarepublica.pt/2s/2010/06/119000000/3422534233.pdf))](https://files.diariodarepublica.pt/2s/2010/06/119000000/3422534233.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/2s/2010/06/119000000/3422534233.pdf)
 
 No capítulo viii, «Urbanismo e edificação», no seu quadro XXII, «Arruamentos», rectifica-se que onde se lê:
 
@@ -652,12 +652,16 @@ QUADRO XXII
 
 Arruamentos
 
-[([ver documento original](https://files.diariodarepublica.pt/2s/2010/06/119000000/3422534233.pdf))](https://files.diariodarepublica.pt/2s/2010/06/119000000/3422534233.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/2s/2010/06/119000000/3422534233.pdf)
 
 deve ler-se:
 
-## ANEXO I — Taxa devida pela emissão de alvará de licença ou admissão de comunicação prévia
+ANEXO I
 
-[([ver documento original](https://files.diariodarepublica.pt/2s/2010/06/119000000/3422534233.pdf))](https://files.diariodarepublica.pt/2s/2010/06/119000000/3422534233.pdf)
+Taxa devida pela emissão de alvará de licença ou admissão de comunicação prévia
+
+[(ver documento original)](https://files.diariodarepublica.pt/2s/2010/06/119000000/3422534233.pdf)
 
 16 de Junho de 2010. - O Presidente de Câmara, José Ismael Fernandes.
+
+203382296

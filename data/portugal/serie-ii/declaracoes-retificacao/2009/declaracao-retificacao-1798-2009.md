@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/2s/2009/07/144000000/2986129861.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -46,18 +46,18 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/declaracao-rectificacao/1798-2009-922056
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2009-07-28T00:00:00Z'
+  retrieved_at: '2026-10-23T14:03:13Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 6d2c6af2e1ce6d5c10ebfe317cd4453c1efe4a764fc78db1519e49f0f84c943c
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: b6177f8b7d4029a59dcdb9adc9ec84d577933f23185475cdebc00fbb31bb2d16
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T14:03:13Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -65,23 +65,29 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects: []
-relationships: []
+relationships:
+- type: cites
+  target: pt:dre:2542122:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T14:03:13Z'
   warnings: []
   errors: []
 ---
 
-# Declaração de Rectificação n.º 1798/2009
+# Declaração de rectificação n.º 1798/2009
 
 Por ter saído com inexactidão o [Despacho (extracto) n.º 16761/2009](https://diariodarepublica.pt/dr/detalhe/despacho-extracto/16761-2009-2542122) publicado no D.R. n.º 140, 2.ª série, de 22/07/2009, à pag. 28739, relativo aos contratos de trabalho em funções públicas por tempo indeterminado, para a categoria de técnico verificador de 2.ª classe, rectifica-se que onde se lê "do Subdirector-Geral das Alfândegas e dos Impostos Especiais sobre o Consumo, Licenciado João Martins" deve ler-se "do Subdirector-Geral das Alfândegas e dos Impostos Especiais sobre o Consumo, Licenciado José Manuel da Costa Martins".
 
 22 de Julho de 2009. - O Director de Serviços de Gestão de Recursos Humanos, Vasco Manuel de Carvalho Costa Ramos.
+
+202088183

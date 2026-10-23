@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/106/2000/02/25/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/106-2000-413398
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2000-02-25T00:00:00Z'
+  retrieved_at: '2026-10-23T14:19:30Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 059b5b230639622caad9e0c120ed0b03c362a564dcce013a0d99a0d248128ec6
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: a11902493efd88033fc28f175ef1d2e239e64622fc9135a11387e1d259af2028
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T14:19:30Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,16 +67,16 @@ reuse:
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
 - Alienação de Fogos
-- CASA do Estado
 - Alienação de Solos
+- CASA do Estado
 - Concurso Público
 - Custo da Construção
+- Habitação
 - Habitação Social
 - Instituto de Gestão e Alienação do Património Habitacional do Estado
 - Instituto de Gestão Financeira da Segurança Social
 - Património do Estado
 - Preço de Venda
-- Habitação
 relationships:
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/288/1993/08/20/p/dre
@@ -86,16 +86,32 @@ relationships:
   target: eli:http://data.dre.pt/eli/port/427/1999/06/15/p/dre
   label: null
   source: http://data.dre.pt/eli/port/427/1999/06/15/p/dre
+- type: cites
+  target: pt:dre:192247:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:285300:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:308999:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:324488:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T14:19:30Z'
   warnings: []
   errors: []
 ---
@@ -176,7 +192,7 @@ Vt = determinável nos termos da alínea b) do n.º 2 do artigo 5.º do [Decreto
 
 Em 8 de Fevereiro de 2000.
 
-**O Ministro do Equipamento Social, Jorge Paulo Sacadura Almeida Coelho. - O Ministro do Trabalho e da Solidariedade, Eduardo Luís Barreto Ferro Rodrigues.**
+O Ministro do Equipamento Social, Jorge Paulo Sacadura Almeida Coelho. - O Ministro do Trabalho e da Solidariedade, Eduardo Luís Barreto Ferro Rodrigues.
 
 QUADRO ANEXO
 

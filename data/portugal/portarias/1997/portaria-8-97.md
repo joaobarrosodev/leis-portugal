@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/8/1997/01/02/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/8-1997-300849
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2003-01-16T00:00:00Z'
+  retrieved_at: '2026-10-23T14:05:08Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: d468a54cd95896c9086ea61fac0d9c90384c5d4233ce304f6b153f0bb56e47fe
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 97aabd893a3ef8ca5e2f54b8b07eca2c62b7a186183e62c8af056aa74b06e0e8
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T14:05:08Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,11 +67,11 @@ reuse:
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
 - Bacharelato
-- Plano de Estudos
 - Curso de Engenharia Eléctrica Industrial
 - Ensino Superior Politécnico
 - Escola Superior de Tecnologia
 - Instituto Politécnico
+- Plano de Estudos
 - Santarém
 - Tomar
 relationships:
@@ -83,16 +83,42 @@ relationships:
   target: eli:http://data.dre.pt/eli/port/1059/1994/12/02/p/dre
   label: null
   source: http://data.dre.pt/eli/port/1059/1994/12/02/p/dre
+- type: cites
+  target: pt:dre:222418:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:453184:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:470779:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:549204:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:556606:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:176495:por
+  label: "Revogada a Port 1059/94 de 02-Dez, com a redacção do presente diploma, pela PORT.56/2003.2003.01.16.MCES DR.IS-B\
+    \ [13], nos termos do disposto no respectivo nº 2º\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/56-2003-176495
+  date: '2003-01-16'
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T14:05:08Z'
   warnings: []
   errors: []
 ---
@@ -129,7 +155,7 @@ As regras de transição entre o anterior plano de estudos e o plano de estudos 
 
 Ministério da Educação.
 
-**Assinada em 4 de Dezembro de 1996.**
+Assinada em 4 de Dezembro de 1996.
 
 Pelo Ministro da Educação, Alfredo Jorge Silva, Secretário de Estado do Ensino Superior.
 
@@ -141,4 +167,4 @@ Escola Superior de Tecnologia e Gestão de Tomar
 
 Curso: Engenharia Eléctrica Industrial
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1997/01/001b00/00130015.pdf))](https://files.diariodarepublica.pt/1s/1997/01/001b00/00130015.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1997/01/001b00/00130015.pdf)

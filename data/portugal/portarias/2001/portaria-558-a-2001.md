@@ -21,7 +21,7 @@ publication:
   reference: Diário da República n.º 127/2001, 1º Suplemento, Série I-B de 2001-06-01
   number: '127'
   series: I
-  supplement: 1º Suplemento
+  supplement: null
   pages: 3286-(2) a 3286-(5)
   pdf_url: https://files.diariodarepublica.pt/1s/2001/06/127b01/00020005.pdf
 entry_into_force_dates: []
@@ -48,18 +48,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/558-a/2001/06/01/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/558-a-2001-664893
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2003-05-10T00:00:00Z'
+  retrieved_at: '2026-10-23T14:33:01Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 280c3515a092fdbba62ce7d75ec3a028ff16efc8fc7acae3bf4926fdca2d2cef
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 5eba27a9ee00291aa9e36843068b7285df27b69cd92c054a84b625d568aaed1c
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T14:33:01Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -68,22 +68,28 @@ reuse:
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
 - Ajuda Comunitária
-- Financiamento
 - Desenvolvimento Rural
+- Financiamento
 - Gestão Financeira
+- Ifadap
 - Modernização Tecnológica
-- Regulamento de Aplicação das Componentes NºS 1 2 e 3 da Acção Nº 8.2-redução do Risco e dos Impactes Ambientais na Aplicação
-  de Produtos Fitofarmacêuticos
-- Regulamento
-- Programa AGRO
 - Pesticida
 - Produto Fitofarmacêutico
-- Ifadap
+- Programa AGRO
+- Regulamento
+- Regulamento de Aplicação das Componentes NºS 1 2 e 3 da Acção Nº 8.2-redução do Risco e dos Impactes Ambientais na Aplicação
+  de Produtos Fitofarmacêuticos
 relationships:
 - type: amended_by
   target: pt:dre:580993:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:580993:por
+  label: "Alterados os art. 5º, 11º, 13º, 17º, 19º, 25º e 30º da Port. 1107/2000, de 25-Nov, na redacção da PORT.379/2003.2003.05.10.MADRP,\
+    \ DR.IS -B [108]\0]\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/379-2003-580993
+  date: '2003-05-10'
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/163-a/2000/07/27/p/dre
   label: null
@@ -104,16 +110,44 @@ relationships:
   target: eli:http://data.dre.pt/eli/port/946/1999/10/27/p/dre
   label: null
   source: http://data.dre.pt/eli/port/946/1999/10/27/p/dre
+- type: cites
+  target: pt:dre:219080:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:220892:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:241213:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:462443:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:569891:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:594076:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:692212:por
+  label: null
+  source: null
 article_structure:
-  article_count: 16
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T14:33:01Z'
   warnings: []
   errors: []
 ---
@@ -138,11 +172,15 @@ Projectos apoiados
 
 3 - ...
 
-###### Artigo 5.º — Beneficiários e condições de acesso
+Artigo 5.º
+
+Beneficiários e condições de acesso
 
 Podem beneficiar das ajudas previstas nesta componente os operadores económicos que estejam habilitados com formação de nível superior na área agrícola, ou que, relativamente a cada estabelecimento de comercialização de produtos fitofarmacêuticos, tenham ao seu serviço um técnico com igual habilitação académica.
 
-###### Artigo 7.º — Despesas elegíveis
+Artigo 7.º
+
+Despesas elegíveis
 
 1 - ...
 
@@ -154,7 +192,9 @@ c) ...
 
 2 - ...
 
-###### Artigo 8.º — Obrigações
+Artigo 8.º
+
+Obrigações
 
 1 - Constituem, nomeadamente, obrigações dos beneficiários:
 
@@ -172,7 +212,9 @@ a) Exerçam actividade no âmbito da distribuição e comercialização de produ
 
 b) Cumpram os requisitos estabelecidos na [Portaria n.º 432/96](https://diariodarepublica.pt/dr/detalhe/portaria/432-1996-241213), de 2 de Setembro, com a redacção dada pela [Portaria n.º 946/99](https://diariodarepublica.pt/dr/detalhe/portaria/946-1999-692212), de 27 de Outubro.
 
-###### Artigo 10.º — Projectos apoiados
+Artigo 10.º
+
+Projectos apoiados
 
 1 - ...
 
@@ -180,7 +222,9 @@ b) Cumpram os requisitos estabelecidos na [Portaria n.º 432/96](https://diariod
 
 3 - (Anterior n.º 2.)
 
-###### Artigo 11.º — Beneficiários e condições de acesso
+Artigo 11.º
+
+Beneficiários e condições de acesso
 
 1 - ...
 
@@ -194,7 +238,9 @@ a) Ter ao seu serviço um técnico com licenciatura no ramo de química ou outra
 
 b) Ter capacidade financeira e técnica para a execução do projecto.
 
-###### Artigo 13.º — Despesas elegíveis
+Artigo 13.º
+
+Despesas elegíveis
 
 1 - ...
 
@@ -212,7 +258,9 @@ a) ...
 
 b) ...
 
-###### Artigo 14.º — Obrigações
+Artigo 14.º
+
+Obrigações
 
 Constituem, nomeadamente, obrigações dos beneficiários:
 
@@ -224,7 +272,9 @@ c) ...
 
 d) Assegurar a frequência pelo técnico ao seu serviço, no ano seguinte ao da celebração do contrato de atribuição de ajudas, de um curso ou estágio de formação profissional na área de monitorização de resíduos, obtido em instituições de ensino superior, institutos de investigação ou laboratórios congéneres nacionais ou estrangeiros.
 
-###### Artigo 17.º — Beneficiários e condições de acesso
+Artigo 17.º
+
+Beneficiários e condições de acesso
 
 1 - ...
 
@@ -234,7 +284,9 @@ b) ...
 
 2 - Para acesso às ajudas, os beneficiários devem reunir as condições estabelecidas no n.º 2 do artigo 11.º e dispor de um laboratório com as características técnicas adequadas a garantir a segurança do pessoal e instalações e a qualidade dos resultados.
 
-###### Artigo 19.º — Despesas elegíveis
+Artigo 19.º
+
+Despesas elegíveis
 
 1 - Os valores das ajudas incidem sobre despesas com:
 
@@ -252,7 +304,9 @@ a) ...
 
 b) ...
 
-###### Artigo 20.º — Obrigações
+Artigo 20.º
+
+Obrigações
 
 Constituem, nomeadamente, obrigações dos beneficiários:
 
@@ -266,11 +320,15 @@ d) ...
 
 e) Assegurar a frequência pelo técnico ao seu serviço, no ano seguinte ao da celebração do contrato de atribuição de ajudas, de um curso ou estágio de formação profissional na área de monitorização de resíduos, obtido em instituições de ensino superior, institutos de investigação ou laboratórios congéneres nacionais ou estrangeiros.
 
-###### Artigo 22.º — Projectos apoiados
+Artigo 22.º
+
+Projectos apoiados
 
 Podem ser concedidas ajudas a projectos de investimento que visem modernizar a capacidade do Serviço Nacional de Avisos Agrícolas, adoptar novos métodos de previsão ou alargar o seu âmbito de incidência.
 
-###### Artigo 23.º — Beneficiários e condições de acesso
+Artigo 23.º
+
+Beneficiários e condições de acesso
 
 1 - ...
 
@@ -282,7 +340,9 @@ b) Organizações de agricultores, quando se trate do alargamento do serviço de
 
 3 - Os beneficiários devem, ainda, dispor de, pelo menos, uma viatura afecta ao Serviço Nacional de Avisos Agrícolas.
 
-###### Artigo 25.º — Despesas elegíveis
+Artigo 25.º
+
+Despesas elegíveis
 
 1 - ...
 
@@ -304,7 +364,9 @@ a) ...
 
 b) ...
 
-###### Artigo 26.º — Obrigações
+Artigo 26.º
+
+Obrigações
 
 1 - Constituem, nomeadamente, obrigações dos beneficiários:
 
@@ -322,7 +384,9 @@ a) Exerçam a actividade como técnico do Serviço Nacional de Avisos Agrícolas
 
 b) Cumpram os requisitos estabelecidos na [Portaria n.º 432/96](https://diariodarepublica.pt/dr/detalhe/portaria/432-1996-241213), de 2 de Setembro, com a redacção dada pela [Portaria n.º 946/99](https://diariodarepublica.pt/dr/detalhe/portaria/946-1999-692212), de 27 de Outubro.
 
-###### Artigo 27.º — Apresentação e prazo das candidaturas
+Artigo 27.º
+
+Apresentação e prazo das candidaturas
 
 1 - As candidaturas são apresentadas entre 1 de Março e 30 de Abril e entre 1 de Outubro e 30 de Novembro.
 
@@ -330,7 +394,9 @@ b) Cumpram os requisitos estabelecidos na [Portaria n.º 432/96](https://diariod
 
 3 - As candidaturas são formalizadas através da apresentação de formulário próprio, junto da DGPC, ou da estrutura de apoio técnico do Programa AGRO quando se trate de candidatura daquela Direcção-Geral, devendo ser acompanhado de todos os documentos indicados nas respectivas instruções.
 
-###### Artigo 30.º — Decisão das candidaturas
+Artigo 30.º
+
+Decisão das candidaturas
 
 1 - ...
 
@@ -370,4 +436,4 @@ c) Componente 3 - pela ordem a seguir indicada:
 
 2.ª prioridade - organizações de agricultores.»
 
-**O Ministro da Agricultura, do Desenvolvimento Rural e das Pescas, Luís Manuel Capoulas Santos, em 31 de Maio de 2001.**
+O Ministro da Agricultura, do Desenvolvimento Rural e das Pescas, Luís Manuel Capoulas Santos, em 31 de Maio de 2001.

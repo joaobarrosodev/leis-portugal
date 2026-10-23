@@ -20,12 +20,12 @@ publication:
   reference: Diário da República n.º 278/2001, 2º Suplemento, Série I-B de 2001-11-30
   number: '278'
   series: I
-  supplement: 2º Suplemento
+  supplement: null
   pages: 7666-(4) a 7666-(8)
   pdf_url: https://files.diariodarepublica.pt/1s/2001/11/278b02/00040008.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/1323-b/2001/11/30/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/1323-b-2001-456820
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2002-12-17T00:00:00Z'
+  retrieved_at: '2026-10-23T14:29:25Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: cb999de1d2de30745afb057920e1100491a583dcb7e612842e669a80d08cf9df
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 9bba370478bff5d25873e21fee41d5826cb971dacdc6dddcf1d4285ec19d6119
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T14:29:25Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -68,9 +68,9 @@ reuse:
 subjects:
 - Actualização de Pensões
 - Complemento Social de Pensão
+- Doença Profissional
 - Pensão de Invalidez
 - Pensão de Velhice
-- Doença Profissional
 - Pensão Social
 - Pensão Unificada
 - Pensões
@@ -83,6 +83,11 @@ relationships:
   target: pt:dre:405904:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:405904:por
+  label: "Substituida a tabela anexa e revogado o presente diploma, pela PORT.1514/2002.2002.12.17.MSST, DR.IS-B [291]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/1514-2002-405904
+  date: '2002-12-17'
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/141/1991/04/10/p/dre
   label: null
@@ -123,16 +128,76 @@ relationships:
   target: eli:http://data.dre.pt/eli/port/359/1999/05/18/p/dre
   label: null
   source: http://data.dre.pt/eli/port/359/1999/05/18/p/dre
+- type: cites
+  target: pt:dre:163242:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:323082:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:336156:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:372671:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:372855:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:376024:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:451634:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:489988:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:515221:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:616263:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:653127:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:678456:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:686801:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:691622:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:692186:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 7
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T14:29:25Z'
   warnings: []
   errors: []
 ---
@@ -213,7 +278,7 @@ Valor mínimo de pensão dos pensionistas de invalidez e de velhice
 
 2 - Aos pensionistas de invalidez e de velhice do regime geral com carreira contributiva relevante para a taxa de formação da pensão igual ou superior a 15 anos é garantido montante de pensão igual ao que resulta da aplicação das percentagens referidas nos n.os 2.º e 3.º da [Portaria n.º 359/99](https://diariodarepublica.pt/dr/detalhe/portaria/359-1999-323082), de 18 de Maio, sobre o salário mínimo nacional líquido a vigorar no ano de 2002, sendo o montante da pensão o constante da tabela seguinte:
 
-[(ver tabela no documento original)](https://files.diariodarepublica.pt/1s/2001/11/278b02/00040008.pdf)
+[[(ver tabela no documento original)](https://files.diariodarepublica.pt/1s/2001/11/278b02/00040008.pdf)](https://files.diariodarepublica.pt/1s/2001/11/278b02/00040008.pdf)
 
 3 - Os valores mínimos fixados nos n.os 1 e 2:
 
@@ -405,4 +470,4 @@ TABELA ANEXA
 
 Actualização de pensões para efeitos de cúmulo
 
-[(ver tabela no documento original)](https://files.diariodarepublica.pt/1s/2001/11/278b02/00040008.pdf)
+[[(ver tabela no documento original)](https://files.diariodarepublica.pt/1s/2001/11/278b02/00040008.pdf)](https://files.diariodarepublica.pt/1s/2001/11/278b02/00040008.pdf)

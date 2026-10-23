@@ -21,7 +21,7 @@ publication:
   reference: Diário da República n.º 163/1998, 4º Suplemento, Série I-B de 1998-07-17
   number: '163'
   series: I
-  supplement: 4º Suplemento
+  supplement: null
   pages: 3470-(45) a 3470-(47)
   pdf_url: https://files.diariodarepublica.pt/1s/1998/07/163b04/00450047.pdf
 entry_into_force_dates: []
@@ -48,18 +48,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/413-j/1998/07/17/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/413-j-1998-429618
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2000-07-24T00:00:00Z'
+  retrieved_at: '2026-10-23T14:08:45Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: c11e3710561728f9cfa37d13b92e27339cd27c65cf074bf98ee637c6a341bd29
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: c89b553c563650ce309a335e8b7c581525bdb8593bd50f3e9c91e1f8bcd6f1b9
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T14:08:45Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -68,11 +68,11 @@ reuse:
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
 - Bacharelato
-- Plano de Estudos
 - Curso de Desporto Variante de Treino Desportivo de ALTO Rendimento
 - Ensino Superior Politécnico
 - Escola Superior de Desporto
 - Instituto Politécnico
+- Plano de Estudos
 - RIO Maior
 - Santarém
 relationships:
@@ -84,16 +84,42 @@ relationships:
   target: eli:http://data.dre.pt/eli/lei/115/1997/09/19/p/dre
   label: null
   source: http://data.dre.pt/eli/lei/115/1997/09/19/p/dre
+- type: cites
+  target: pt:dre:222418:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:453184:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:470779:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:556606:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:653145:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:321354:por
+  label: "Revogada (Findo o Processo de Transição fixado nos termos do art. 31.º do Regulamento aprovado pelo 413-A/98 de\
+    \ 17-Jul) pela PORT.495/2000.2000.07.24.ME DR.IS-B [169]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/495-2000-321354
+  date: '2000-07-24'
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T14:08:45Z'
   warnings: []
   errors: []
 ---
@@ -172,7 +198,7 @@ O curso entra em funcionamento progressivamente, um ano curricular em cada ano l
 
 Ministério da Educação.
 
-**Assinada em 15 de Julho de 1998.**
+Assinada em 15 de Julho de 1998.
 
 Pelo Ministro da Educação, Alfredo Jorge Silva, Secretário de Estado do Ensino Superior.
 

@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/997/2000/10/17/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/997-2000-532473
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2004-05-15T00:00:00Z'
+  retrieved_at: '2026-10-23T14:27:18Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 5909153a7ad06b6d141e1f40dc6e2b8c50f975d8c13b506e903aefe80177a789
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 891129d7dd26e5b049b42c22e503e4d24a9260c0e98db80809ddb61b85a4e402
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T14:27:18Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,19 +67,26 @@ reuse:
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
 - Bacharelato
-- Plano de Estudos
 - Curso de Engenharia das Telecomunicações e Computadores
 - Ensino Particular
 - Ensino Superior Politécnico
 - Escola Superior de Ciência e Tecnologia
 - Instituto Superior Politécnico GAYA
 - Numerus Clausus
+- Plano de Estudos
 - VILA NOVA de GAIA
 relationships:
 - type: amended_by
   target: pt:dre:269450:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:269450:por
+  label: "Determinada a cessação, nos termos do art. 10.º, da ministração do curso de bacharelato em Engenharia das Telecomunicações\
+    \ e Computadores, aprovado pela presente portaria, bem como da caducidade da autorização de funcionamento do mesmo, pela\
+    \ PORT.511/2004.15.05.2004.MCES, DR.IS-B [115] de 17.05.2004\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/511-2004-269450
+  date: '2004-05-15'
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/296-a/1998/09/25/p/dre
   label: null
@@ -88,16 +95,32 @@ relationships:
   target: eli:http://data.dre.pt/eli/dec-lei/99/1999/03/30/p/dre
   label: null
   source: http://data.dre.pt/eli/dec-lei/99/1999/03/30/p/dre
+- type: cites
+  target: pt:dre:138571:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:173481:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:565457:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:618546:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T14:27:18Z'
   warnings: []
   errors: []
 ---

@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/94/1998/02/21/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/94-1998-210197
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2003-08-21T00:00:00Z'
+  retrieved_at: '2026-10-23T14:12:06Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: b3d64afbe4f8b97fa6a58fbbc3fd6271beb390619ebebba8e0bd3540ee9d8af3
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 9daf85f7082fc2dfff57867c21e4fecc89fd6e8e9d63b110aac6e9110ca5ee79
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T14:12:06Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,14 +67,26 @@ reuse:
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
 - Bacharelato
-- Plano de Estudos
 - Curso de Gestão de Empresas Turísticas e Hoteleiras
 - Instituto Superior de Matemática e Gestão
+- Plano de Estudos
 relationships:
 - type: amended_by
   target: pt:dre:656174:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:348309:por
+  label: "Alterado o Plano de Estudos do curso de Gestão de Empresas Turísticas e Hoteleiras, na redacção dada a Port 138/90\
+    \ de 19-Fev, pela PORT.254/2001.2001.03.24.ME, DR.IS-B [71]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/254-2001-348309
+  date: '2001-03-24'
+- type: amended_by
+  target: pt:dre:656174:por
+  label: "Alterado o plano de estudos do curso de bacharelato em Gestão de Empresas Turísticas e Hoteleiras, aprovado pela\
+    \ Port 138/90, com a redacção deste diploma, pela PORT.883/2003.2003.08.21.MCES DR.IS-B [192]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/883-2003-656174
+  date: '2003-08-21'
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/16/1994/01/22/p/dre
   label: null
@@ -83,16 +95,36 @@ relationships:
   target: eli:http://data.dre.pt/eli/lei/37/1994/11/11/p/dre
   label: null
   source: http://data.dre.pt/eli/lei/37/1994/11/11/p/dre
+- type: cites
+  target: pt:dre:332886:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:512030:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:533820:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:547459:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:618546:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T14:12:06Z'
   warnings: []
   errors: []
 ---
@@ -131,7 +163,7 @@ A transição entre o anterior e o novo plano de estudos processa-se nos termos 
 
 Ministério da Educação.
 
-**Assinada em 2 de Fevereiro de 1998.**
+Assinada em 2 de Fevereiro de 1998.
 
 Pelo Ministro da Educação, Alfredo Jorge Silva, Secretário de Estado do Ensino Superior.
 

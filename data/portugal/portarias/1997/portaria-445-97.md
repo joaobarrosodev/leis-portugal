@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/445/1997/07/07/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/445-1997-156626
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1997-07-07T00:00:00Z'
+  retrieved_at: '2026-10-23T14:02:53Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 8395ef1765c7f582f04419b902bb3d0db42263a5584ca2b04de956c3c0d48196
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: ca5db9fcfcd240dcb6594ed4926bddbcecb5cadcefc2b2c7bcd783821bcfb68e
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T14:02:53Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,11 +66,17 @@ reuse:
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
 - Ordenamento do Território
-- Política de Solos
 - Plano de Pormenor
 - Plano de Urbanização
+- Política de Solos
 - Regulamento
 relationships:
+- type: amended_by
+  target: pt:dre:2949696:por
+  label: "Alterada a planta de implantação do Plano de Pormenor da Urbanização da Caridade, pela DECL.376/99(2ªSÉRIE).1999.10.25.DGOTDU-MEPAT\
+    \ DR.IIS [268] de 17/Nov/1999\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/declaracao/376-1999-2949696
+  date: '1999-10-25'
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/211/1992/10/08/p/dre
   label: null
@@ -79,16 +85,44 @@ relationships:
   target: eli:http://data.dre.pt/eli/port/496/1993/05/10/p/dre
   label: null
   source: http://data.dre.pt/eli/port/496/1993/05/10/p/dre
+- type: cites
+  target: pt:dre:155001:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:228186:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:274416:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:332412:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:446712:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:463641:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:596516:por
+  label: null
+  source: null
 article_structure:
-  article_count: 46
-  section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  article_count: 47
+  section_count: 1
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T14:02:53Z'
   warnings: []
   errors: []
 ---
@@ -115,9 +149,9 @@ Manda o Governo, pelo Secretário de Estado da Administração Local e Ordenamen
 
 Ministério do Equipamento, do Planeamento e da Administração do Território.
 
-**Assinada em 3 de Junho de 1997.**
+Assinada em 3 de Junho de 1997.
 
-**O Secretário de Estado da Administração Local e Ordenamento do Território, José Augusto de Carvalho.**
+O Secretário de Estado da Administração Local e Ordenamento do Território, José Augusto de Carvalho.
 
 REGULAMENTO DO PLANO DE PORMENOR DA URBANIZAÇÃO DA CARIDADE
 
@@ -351,7 +385,7 @@ A supervisão, fiscalização e orientação da edificação urbana em conformid
 
 III - Disposições gerais
 
-# Parte 1 - Plano de Pormenor da Urbanização da Caridade
+Parte 1 - Plano de Pormenor da Urbanização da Caridade
 
 ###### Artigo 11.º
 
@@ -381,7 +415,7 @@ Os arruamentos particulares de utilização pública que se mantenham no domíni
 
 A Câmara Municipal de Ourém integrará, por cedência, negociação amigável ou expropriação, no domínio municipal, à medida das disponibilidades de administração e das necessidades de transformação, os terrenos que por motivo de vinculação do uso regulamentado pelo PPU da Caridade não se destinem a edificação, alterem o seu uso e sofram uma evidente depreciação no seu valor, avaliado em função das actividades nele desenvolvidas.
 
-# Parte 2 - Parcelamento da propriedade
+Parte 2 - Parcelamento da propriedade
 
 ###### Artigo 17.º
 
@@ -409,7 +443,9 @@ As operações de loteamento urbano podem não ser autorizadas pela Câmara Muni
 
 A Câmara Municipal de Ourém providenciará no sentido de manter actualizado o registo cadastral, designadamente das suas propriedades e dos parcelamentos licenciados, com a implantação dos respectivos marcos do terreno.
 
-# Parte 3 - Edificação — Artigo 22.º
+## Parte 3 - Edificação
+
+###### Artigo 22.º
 
 1 - A edificação não pode contrariar as disposições do PPU da Caridade e parcelamentos aprovados, tem de conformar-se com as disposições neles contidas e observar a legislação e regulamentação da edificação aplicável, designadamente o Regulamento Municipal de Edificação, quer no que se refere à organização dos processos de licenciamento quer no que se refere às prescrições técnicas a observar: o Regulamento Geral das Edificações Urbanas (RGEU) e o Regulamento Geral sobre o Ruído, capítulo II, artigos 4.º e 5.º
 
@@ -489,7 +525,7 @@ As edificações observarão necessariamente a morfologia urbana proposta no PPU
 
 2 - As alterações referidas no n.º 1 deste artigo só serão de admitir pelos motivos referidos no n.º 2 do artigo 19.º
 
-# Parte 4 - Espaços públicos
+Parte 4 - Espaços públicos
 
 ###### Artigo 38.º
 
@@ -553,7 +589,7 @@ Para arruamentos de 9 m de faixa - >= 10 m.
 
 Compete à Câmara Municipal de Ourém a manutenção, limpeza e conservação das zonas verdes públicas, podendo as associações de moradores ou autarquias locais colaborar, de acordo com os programas comuns definidos.
 
-# Parte 5 - Servidões e protecções
+Parte 5 - Servidões e protecções
 
 ###### Artigo 43.º
 
@@ -617,4 +653,4 @@ IV - Disposições finais
 
 O presente Regulamento do PPU da Caridade, vila de Ourém, entra em vigor no dia seguinte ao da sua publicação no Diário da República.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1997/07/154b00/33323338.pdf))](https://files.diariodarepublica.pt/1s/1997/07/154b00/33323338.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1997/07/154b00/33323338.pdf)

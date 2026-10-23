@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/725/2001/07/14/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/725-2001-395567
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2009-04-02T00:00:00Z'
+  retrieved_at: '2026-10-23T14:34:06Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: dac50a628c9eb08ac8e98790b3a975ab89acc12b50d5fc64042c22717a7e047e
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: c0d341c2a31beb8d28cbf4c5fb5515efb65aca92cce60958aee7a3141adfe4e5
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T14:34:06Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -74,6 +74,18 @@ relationships:
   target: pt:dre:603241:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:469004:por
+  label: "Anexados vários prédios rústicos à zona de caça concessionada pela Port 561/99 de 27-Jul, alterada pelo presente\
+    \ diploma, pela PORT.1322/2005.28.12.2005.MAOTDR, DR.IS-B [248] de 28.12.2005\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/1322-2005-469004
+  date: '2005-12-28'
+- type: amended_by
+  target: pt:dre:603241:por
+  label: "Anexados vários prédios rústicos à zona de caça concessionada pela Port 561/99, de 27-Jul, alterada pelo presente\
+    \ diploma, pela PORT.337/2009.02.04.2009.MADRP, DR.IS [65] de 02.04.2009\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/337-2009-603241
+  date: '2009-04-02'
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/227-b/2000/09/15/p/dre
   label: null
@@ -90,16 +102,32 @@ relationships:
   target: eli:http://data.dre.pt/eli/port/561/1999/07/27/p/dre
   label: null
   source: http://data.dre.pt/eli/port/561/1999/07/27/p/dre
+- type: cites
+  target: pt:dre:316162:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:352947:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:534644:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:558207:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T14:34:06Z'
   warnings: []
   errors: []
 ---

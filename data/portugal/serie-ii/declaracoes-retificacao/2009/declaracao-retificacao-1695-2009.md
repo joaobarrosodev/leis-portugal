@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/2s/2009/07/135000000/2784027840.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -47,18 +47,18 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/declaracao-rectificacao/1695-2009-2785860
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2009-07-15T00:00:00Z'
+  retrieved_at: '2026-10-23T14:02:38Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: a519eb583cb82a6f00b1a1dd7ada0d12fbf2ae118d89725b5c4c5f7140393f6a
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: e85b40804ec9663d1d451d524b2c73f336aa2662a2fd3cebbcf73415b797f7c5
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T14:02:38Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,23 +66,29 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects: []
-relationships: []
+relationships:
+- type: cites
+  target: pt:dre:1614582:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T14:02:38Z'
   warnings: []
   errors: []
 ---
 
-# Declaração de Rectificação n.º 1695/2009
+# Declaração de rectificação n.º 1695/2009
 
 Por ter saído com inexactidão no Diário da República 2.ª Série n.º 125, de 01 de Julho de 2009, a p. 25571 o [Aviso n.º 11586/2009](https://diariodarepublica.pt/dr/detalhe/aviso/11586-2009-1614582), rectifica-se: Que: no primeiro parágrafo, onde se lê "D - 3 Técnicos Superiores" deve ler-se "D - 4 Técnicos Superiores" devendo ser eliminado "E - 1 Técnico Superior - Licenciatura em Relações Públicas e Comunicação"; Que no segundo parágrafo, onde se lê "determinado" deve ler-se "indeterminado"; Que, no ponto 1., alínea b), onde se lê "postos" deve ler-se "posto"; Que na alínea d), do mesmo número, onde se lê "três" deve ler-se "quatro", devendo ser eliminada a respectiva alínea e); Que no ponto 6., deve ser eliminada a alínea e); Que no ponto 9., onde se lê "Do requerimento deverão constar, obrigatoriamente, os seguintes elementos:" deve ler-se "O requerimento deve ser elaborado de acordo com o formulário aprovado por Despacho n.º 11321/2009, de 17 de Março, do Ministro de Estado e das Finanças, publicado no Diário da República 2.ª série n.º 89, de 08 de Maio de 2009", devendo ainda ser eliminadas todas as alíneas do referido número; Que no ponto 15., alínea C) onde se lê "CF = (0,30 * PC) + (0,25 * AP) + (0,45 * EPS)" deve ler-se "CF = (0,45 * PC) + (0,25 * AP) + (0,30 * EPS)"; Que no ponto 17., onde se lê "n.º 2 do artigo 53.º" deve ler-se "n.º 1 do artigo 53.º"; Que no ponto 21., alínea g) onde se lê "e 290/2000, de 14 de Novembro" deve ler-se "290/2000, de 14 de Novembro e 171/2002, de 25 de Julho" E que, no ponto 22., onde se lê "Maria Helena Grilo, Técnica Superiora" deve ler-se "Maria Helena Alves Grilo da Rocha, Técnica Superior"
 
 3 de Julho de 2009. - O Director-Geral, Alberto Rodrigues Coelho.
+
+202018514

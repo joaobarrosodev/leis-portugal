@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/2s/2009/07/129000000/2654326549.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -46,18 +46,18 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/declaracao-rectificacao/1640-2009-890668
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2009-07-07T00:00:00Z'
+  retrieved_at: '2026-10-23T14:02:18Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: a0add333cb63d9346f08d5e8c07eb2287edb40deeda9358e8b125b90991ede3b
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: f2a4ad9fb25d6fd7b086b5f73e5e9caa827121eda97964672ba780e7321a2ed0
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T14:02:18Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -65,22 +65,26 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects: []
-relationships: []
+relationships:
+- type: cites
+  target: pt:dre:2245777:por
+  label: null
+  source: null
 article_structure:
   article_count: 18
   section_count: 2
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T14:02:18Z'
   warnings: []
   errors: []
 ---
 
-# Declaração de Rectificação n.º 1640/2009
+# Declaração de rectificação n.º 1640/2009
 
 Para os devidos e legais efeitos se torna público que o [Regulamento n.º 197/2009](https://diariodarepublica.pt/dr/detalhe/regulamento/197-2009-2245777) desta Câmara Municipal, publicado na 2.ª série do Diário da República, n.º 95, de 18 de Maio de 2009 saiu incompleto faltando os anexos, pelo que agora se publicam, passando a fazer parte integrante do Regulamento de Distribuição de Água e Drenagem de Águas Residuais do Município de Gondomar.
 
@@ -90,45 +94,45 @@ Para os devidos e legais efeitos se torna público que o [Regulamento n.º 197/2
 
 Disponibilidade - Água
 
-[([ver documento original](https://files.diariodarepublica.pt/2s/2009/07/129000000/2654326549.pdf))](https://files.diariodarepublica.pt/2s/2009/07/129000000/2654326549.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/2s/2009/07/129000000/2654326549.pdf)
 
 Disponibilidade - Saneamento
 
-[([ver documento original](https://files.diariodarepublica.pt/2s/2009/07/129000000/2654326549.pdf))](https://files.diariodarepublica.pt/2s/2009/07/129000000/2654326549.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/2s/2009/07/129000000/2654326549.pdf)
 
 Tarifa volumétrica - Abastecimento de água
 
-[([ver documento original](https://files.diariodarepublica.pt/2s/2009/07/129000000/2654326549.pdf))](https://files.diariodarepublica.pt/2s/2009/07/129000000/2654326549.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/2s/2009/07/129000000/2654326549.pdf)
 
 Tarifa volumétrica - Saneamento
 
-[([ver documento original](https://files.diariodarepublica.pt/2s/2009/07/129000000/2654326549.pdf))](https://files.diariodarepublica.pt/2s/2009/07/129000000/2654326549.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/2s/2009/07/129000000/2654326549.pdf)
 
 Prestação serviços - Água
 
-[([ver documento original](https://files.diariodarepublica.pt/2s/2009/07/129000000/2654326549.pdf))](https://files.diariodarepublica.pt/2s/2009/07/129000000/2654326549.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/2s/2009/07/129000000/2654326549.pdf)
 
 Prestação serviços - Saneamento
 
-[([ver documento original](https://files.diariodarepublica.pt/2s/2009/07/129000000/2654326549.pdf))](https://files.diariodarepublica.pt/2s/2009/07/129000000/2654326549.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/2s/2009/07/129000000/2654326549.pdf)
 
 Prestação serviços - Outros
 
-[([ver documento original](https://files.diariodarepublica.pt/2s/2009/07/129000000/2654326549.pdf))](https://files.diariodarepublica.pt/2s/2009/07/129000000/2654326549.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/2s/2009/07/129000000/2654326549.pdf)
 
 Ramais - Água
 
-[([ver documento original](https://files.diariodarepublica.pt/2s/2009/07/129000000/2654326549.pdf))](https://files.diariodarepublica.pt/2s/2009/07/129000000/2654326549.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/2s/2009/07/129000000/2654326549.pdf)
 
 Ramais - Saneamento
 
-[([ver documento original](https://files.diariodarepublica.pt/2s/2009/07/129000000/2654326549.pdf))](https://files.diariodarepublica.pt/2s/2009/07/129000000/2654326549.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/2s/2009/07/129000000/2654326549.pdf)
 
 Câmara de ligação - Saneamento
 
-[([ver documento original](https://files.diariodarepublica.pt/2s/2009/07/129000000/2654326549.pdf))](https://files.diariodarepublica.pt/2s/2009/07/129000000/2654326549.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/2s/2009/07/129000000/2654326549.pdf)
 
-## ANEXO II — [([ver documento original](https://files.diariodarepublica.pt/2s/2009/07/129000000/2654326549.pdf))](https://files.diariodarepublica.pt/2s/2009/07/129000000/2654326549.pdf)
+## ANEXO II — [(ver documento original)](https://files.diariodarepublica.pt/2s/2009/07/129000000/2654326549.pdf)
 
 ## ANEXO III — Normas de Descargas Industriais
 
@@ -336,20 +340,22 @@ As infracções das disposições constantes destas Normas constitui contra-orde
 
 A aplicação das sanções administrativas não isenta o infractor da responsabilidade civil e criminal emergente dos factos praticados.
 
-## Apêndice 1
+Apêndice 1
 
 Valores Máximos Admissíveis de Parâmetros Característicos de Águas Residuais Industriais
 
-[([ver documento original](https://files.diariodarepublica.pt/2s/2009/07/129000000/2654326549.pdf))](https://files.diariodarepublica.pt/2s/2009/07/129000000/2654326549.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/2s/2009/07/129000000/2654326549.pdf)
 
-## Apêndice 2
+Apêndice 2
 
 Modelo de Requerimento de Ligação ao Sistema de Drenagem de Águas Residuais de Gondomar
 
-[([ver documento original](https://files.diariodarepublica.pt/2s/2009/07/129000000/2654326549.pdf))](https://files.diariodarepublica.pt/2s/2009/07/129000000/2654326549.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/2s/2009/07/129000000/2654326549.pdf)
 
-## Apêndice 3
+Apêndice 3
 
 Termos de Autorização de Ligação ao Sistema de Drenagem de Gondomar
 
-[([ver documento original](https://files.diariodarepublica.pt/2s/2009/07/129000000/2654326549.pdf))](https://files.diariodarepublica.pt/2s/2009/07/129000000/2654326549.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/2s/2009/07/129000000/2654326549.pdf)
+
+201978364

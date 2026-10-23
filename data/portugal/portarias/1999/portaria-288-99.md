@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1999/04/098b00/22582261.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/288/1999/04/27/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/288-1999-531410
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2007-05-29T00:00:00Z'
+  retrieved_at: '2026-10-23T14:14:27Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 682a6087b6244f74e555df991167106f15f0b78fb52329142f4cfee86cb71933
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 7069f56ebed6eb9ff9416c0dac25567793c17b2ae51c26aed2240ec874503018
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T14:14:27Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,41 +67,90 @@ reuse:
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
 - Clínica Geral
-- Direção Geral da Saúde
+- Conselho Consultivo
+- Contratação de Pessoal
 - Criação de Serviços
 - Definição de Competências
+- Direção Geral da Saúde
 - Diretor
 - Dotação Orçamental
-- Serviço Nacional de Saúde
+- Gestão de Recursos Humanos
 - Instalação de Serviços
 - Instituto da Qualidade em Saúde
-- Conselho Consultivo
 - Instituto de Clínica Geral
 - Internato Complementar
-- Contratação de Pessoal
-- Quadro de Pessoal
 - Ministério da Saúde
+- Quadro de Pessoal
 - Regulamento
-- Gestão de Recursos Humanos
+- Serviço Nacional de Saúde
 relationships:
 - type: amended_by
   target: pt:dre:638532:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:545638:por
+  label: "Extinto, sendo objecto de fusão, o Instituto da Qualidade em Saúde, criado pelo presente diploma, sendo as respectivas\
+    \ atribuições relativas à qualidade clínica integradas na Direcção-Geral de Saúde, e as restantes atribuições integradas\
+    \ na Administração Central do Sistema de Saúde, I.P., criada pelo presente diploma, pelo DEC LEI.212/2006.27.10.2006.MS,\
+    \ DR.IS [208] de 27.10.2006\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/212-2006-545638
+  date: '2006-10-27'
+- type: amended_by
+  target: pt:dre:638530:por
+  label: "Determinada que a Direcção-Geral da Saúde, suceda, nos termos do artigo 10.º, nas atribuições relativas à qualidade\
+    \ clínica do Instituto da Qualidade em Saúde, cuja orgânica foi aprovada pelo presente diploma, pelo DR.66/2007.29.05.2007.MS,\
+    \ DR.IS [103] de 29.05.2007\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-regulamentar/66-2007-638530
+  date: '2007-05-29'
+- type: amended_by
+  target: pt:dre:638532:por
+  label: "Determinada a sucessão da ACSS, I.P., nas atribuições do Instituto da Qualidade em Saúde, com excepção das relativas\
+    \ à qualidade clínica, e revogado o presente diploma, a partir de 01.06.2007 pelo DEC LEI.219/2007.29.05.2007\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/219-2007-638532
+  date: '2007-05-29'
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/275-a/1993/08/09/p/dre
   label: null
   source: http://data.dre.pt/eli/dec-lei/275-a/1993/08/09/p/dre
+- type: cites
+  target: pt:dre:220140:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:391993:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:397295:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:450986:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:548210:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:564827:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:686384:por
+  label: null
+  source: null
 article_structure:
   article_count: 22
   section_count: 7
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T14:14:27Z'
   warnings: []
   errors: []
 ---

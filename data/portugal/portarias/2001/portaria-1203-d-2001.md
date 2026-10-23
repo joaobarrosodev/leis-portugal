@@ -20,12 +20,12 @@ publication:
   reference: Diário da República n.º 242/2001, 1º Suplemento, Série I-B de 2001-10-18
   number: '242'
   series: I
-  supplement: 1º Suplemento
+  supplement: null
   pages: 6632-(3) a 6632-(3)
   pdf_url: https://files.diariodarepublica.pt/1s/2001/10/242b01/00030003.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/1203-d/2001/10/18/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/1203-d-2001-254450
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2001-11-14T00:00:00Z'
+  retrieved_at: '2026-10-23T14:28:37Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: f235d21d2352a949b71d02d15ab45c1a1531a034730f6bf141fc969aefa99732
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 214101f1d9cbbe879d9c66422bdb185adac5b9084d942d62ec9df1472a2e7db6
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T14:28:37Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -81,16 +81,29 @@ relationships:
   target: eli:http://data.dre.pt/eli/port/195/1991/03/09/p/dre
   label: null
   source: http://data.dre.pt/eli/port/195/1991/03/09/p/dre
+- type: cites
+  target: pt:dre:457435:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:534644:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:690977:por
+  label: "Revogada pela PORT.1279-B/2001.2001.11.14.MECO, DR.IS-B [264]Supl \0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/1279-b-2001-690977
+  date: '2001-11-14'
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T14:28:37Z'
   warnings: []
   errors: []
 ---

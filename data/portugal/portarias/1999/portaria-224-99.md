@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/224/1999/04/01/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/224-1999-138798
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2003-05-19T00:00:00Z'
+  retrieved_at: '2026-10-23T14:14:02Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 547bc2ccb5e754d5661c4dcd9ec57bdface6b819833758e2451e08362b2d7328
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 087c3eb228b9c935386a459e495819c9790983a2d90886f7bd469911175bf956
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T14:14:02Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -65,28 +65,72 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Ministério da Agricultura Desenvolvimento Rural e Pescas
 - Instituto de Hidráulica Engenharia Rural e Ambiente
+- Ministério da Agricultura Desenvolvimento Rural e Pescas
 - Quadro de Pessoal
 relationships:
 - type: amended_by
   target: pt:dre:3088086:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:1506083:por
+  label: "Alterado o quadro de pessoal pela PORT.1835/2001(2ªSÉRIE).2001.10.22.MADRP DR.IIS [261] DE 10/NOV/2001\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/1835-2001-1506083
+  date: '2001-10-22'
+- type: amended_by
+  target: pt:dre:3014268:por
+  label: "ALTERADO O QUADRO DE PESSOAL PELA PORT.1329/2002(2ªSÉRIE).2002.08.09.MF, MADRP, DR.IIS [199] DE 29/AGO/2002\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/1329-2002-3014268
+  date: '2002-08-09'
+- type: amended_by
+  target: pt:dre:2867939:por
+  label: "Alterado o quadro de pessoal pela PORT.1682/2002(2ªSÉRIE).2002.10.24.MF e MADRP, DR.IIS [266] de 18/Nov/2002.\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/1682-2002-2867939
+  date: '2002-10-24'
+- type: amended_by
+  target: pt:dre:2311588:por
+  label: "ALTERADO O QUADRO DE PESSOAL POR PORT.294/2003(2ªSÉRIE).2003.02.21.MF, MADRP, DR.IIS [55] DE 6/MAR/2003\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/294-2003-2311588
+  date: '2003-02-21'
+- type: amended_by
+  target: pt:dre:2221267:por
+  label: "ALTERADO O QUADRO DE PESSOAL POR PORT.365/2003(2ªSÉRIE).2003.03.10.MF, MADRP, DR.IIS [74] DE 28/MAR/2003\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/365-2003-2221267
+  date: '2003-03-10'
+- type: amended_by
+  target: pt:dre:3088086:por
+  label: "ALTERADO O QUADRO DE PESSOAL POR PORT.734/2003(2ªSÉRIE).2003.05.19.MF, MADRP, DR.IIS [130] DE 5/JUN/2003\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/734-2003-3088086
+  date: '2003-05-19'
+- type: amended_by
+  target: pt:dre:2699926:por
+  label: "Alterado o quadro de pessoal constante do presente diploma, pelo DC.352/2005.01.04.2005.MADRP, DR.IIS [101] de 25.05.2005\0\
+    \0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/despacho-conjunto/352-2005-2699926
+  date: '2005-04-01'
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/136/1997/05/31/p/dre
   label: null
   source: http://data.dre.pt/eli/dec-lei/136/1997/05/31/p/dre
+- type: cites
+  target: pt:dre:352172:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:619144:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T14:14:02Z'
   warnings: []
   errors: []
 ---
@@ -105,7 +149,7 @@ Manda o Governo, pelos Ministros das Finanças, Adjunto e da Agricultura, do Des
 
 2.º O conteúdo funcional da carreira de técnico auxiliar é o constante do mapa III anexo ao presente diploma, de que faz parte integrante.
 
-**Assinada em 23 de Fevereiro de 1999.**
+Assinada em 23 de Fevereiro de 1999.
 
 Pelo Ministro das Finanças, João Carlos da Costa Ferreira da Silva, Secretário de Estado do Orçamento. - Pelo Ministro Adjunto, Fausto de Sousa Correia, Secretário de Estado da Administração Pública e da Modernização Administrativa. - O Ministro da Agricultura, do Desenvolvimento Rural e das Pescas, Luís Manuel Capoulas Santos.
 
@@ -113,13 +157,13 @@ Pelo Ministro das Finanças, João Carlos da Costa Ferreira da Silva, Secretári
 
 Quadro de pessoal
 
-[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/1999/04/077b00/18051809.pdf)
+[[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/1999/04/077b00/18051809.pdf)](https://files.diariodarepublica.pt/1s/1999/04/077b00/18051809.pdf)
 
 MAPA II
 
 Carreiras e categorias a extinguir nos termos do n.º 2 do artigo 2.º do [Decreto Regulamentar n.º 24/89](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/24-1989-619144), de 11 de Agosto
 
-[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/1999/04/077b00/18051809.pdf)
+[[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/1999/04/077b00/18051809.pdf)](https://files.diariodarepublica.pt/1s/1999/04/077b00/18051809.pdf)
 
 MAPA III
 

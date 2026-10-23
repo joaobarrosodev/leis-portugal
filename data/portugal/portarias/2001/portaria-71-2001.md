@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/71/2001/02/07/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/71-2001-319886
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2001-02-07T00:00:00Z'
+  retrieved_at: '2026-10-23T14:34:00Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 9a5a3ad971bbac996a63adab1fa2fc7777d2d3643042df4eea9b7e3834c233bd
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 728a59423016394d6781bc73feb2b31dd696d13552d8e1269683983b44310e9e
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T14:34:00Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -65,21 +65,33 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
+- Arrendamento Urbano para Habitação
 - Habitação
 - Renda Limite
 - Subsídio de Renda de CASA
-- Arrendamento Urbano para Habitação
-relationships: []
+relationships:
+- type: cites
+  target: pt:dre:177451:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:196194:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:667147:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T14:34:00Z'
   warnings: []
   errors: []
 ---
@@ -102,50 +114,50 @@ Manda o Governo, pelos Ministros do Equipamento Social e do Trabalho e da Solida
 
 Em 24 de Janeiro de 2001.
 
-**O Ministro do Equipamento Social, Jorge Paulo Sacadura Almeida Coelho. - O Ministro do Trabalho e da Solidariedade, Eduardo Luís Barreto Ferro Rodrigues.**
+O Ministro do Equipamento Social, Jorge Paulo Sacadura Almeida Coelho. - O Ministro do Trabalho e da Solidariedade, Eduardo Luís Barreto Ferro Rodrigues.
 
 ## ANEXO I — Tabela de subsídio de renda para 2001
 
 Dimensão do agregado familiar: 1 pessoa
 
-[(ver tabela no documento original)](https://files.diariodarepublica.pt/1s/2001/02/032b00/06250629.pdf)
+[[[[[[[[[[[(ver tabela no documento original)](https://files.diariodarepublica.pt/1s/2001/02/032b00/06250629.pdf)](https://files.diariodarepublica.pt/1s/2001/02/032b00/06250629.pdf)](https://files.diariodarepublica.pt/1s/2001/02/032b00/06250629.pdf)](https://files.diariodarepublica.pt/1s/2001/02/032b00/06250629.pdf)](https://files.diariodarepublica.pt/1s/2001/02/032b00/06250629.pdf)](https://files.diariodarepublica.pt/1s/2001/02/032b00/06250629.pdf)](https://files.diariodarepublica.pt/1s/2001/02/032b00/06250629.pdf)](https://files.diariodarepublica.pt/1s/2001/02/032b00/06250629.pdf)](https://files.diariodarepublica.pt/1s/2001/02/032b00/06250629.pdf)](https://files.diariodarepublica.pt/1s/2001/02/032b00/06250629.pdf)](https://files.diariodarepublica.pt/1s/2001/02/032b00/06250629.pdf)
 
 Dimensão do agregado familiar: 2 pessoas
 
-[(ver tabela no documento original)](https://files.diariodarepublica.pt/1s/2001/02/032b00/06250629.pdf)
+[[[[[[[[[[[(ver tabela no documento original)](https://files.diariodarepublica.pt/1s/2001/02/032b00/06250629.pdf)](https://files.diariodarepublica.pt/1s/2001/02/032b00/06250629.pdf)](https://files.diariodarepublica.pt/1s/2001/02/032b00/06250629.pdf)](https://files.diariodarepublica.pt/1s/2001/02/032b00/06250629.pdf)](https://files.diariodarepublica.pt/1s/2001/02/032b00/06250629.pdf)](https://files.diariodarepublica.pt/1s/2001/02/032b00/06250629.pdf)](https://files.diariodarepublica.pt/1s/2001/02/032b00/06250629.pdf)](https://files.diariodarepublica.pt/1s/2001/02/032b00/06250629.pdf)](https://files.diariodarepublica.pt/1s/2001/02/032b00/06250629.pdf)](https://files.diariodarepublica.pt/1s/2001/02/032b00/06250629.pdf)](https://files.diariodarepublica.pt/1s/2001/02/032b00/06250629.pdf)
 
 Dimensão do agregado familiar: 3 pessoas
 
-[(ver tabela no documento original)](https://files.diariodarepublica.pt/1s/2001/02/032b00/06250629.pdf)
+[[[[[[[[[[[(ver tabela no documento original)](https://files.diariodarepublica.pt/1s/2001/02/032b00/06250629.pdf)](https://files.diariodarepublica.pt/1s/2001/02/032b00/06250629.pdf)](https://files.diariodarepublica.pt/1s/2001/02/032b00/06250629.pdf)](https://files.diariodarepublica.pt/1s/2001/02/032b00/06250629.pdf)](https://files.diariodarepublica.pt/1s/2001/02/032b00/06250629.pdf)](https://files.diariodarepublica.pt/1s/2001/02/032b00/06250629.pdf)](https://files.diariodarepublica.pt/1s/2001/02/032b00/06250629.pdf)](https://files.diariodarepublica.pt/1s/2001/02/032b00/06250629.pdf)](https://files.diariodarepublica.pt/1s/2001/02/032b00/06250629.pdf)](https://files.diariodarepublica.pt/1s/2001/02/032b00/06250629.pdf)](https://files.diariodarepublica.pt/1s/2001/02/032b00/06250629.pdf)
 
 Dimensão do agregado familiar: 4 pessoas
 
-[(ver tabela no documento original)](https://files.diariodarepublica.pt/1s/2001/02/032b00/06250629.pdf)
+[[[[[[[[[[[(ver tabela no documento original)](https://files.diariodarepublica.pt/1s/2001/02/032b00/06250629.pdf)](https://files.diariodarepublica.pt/1s/2001/02/032b00/06250629.pdf)](https://files.diariodarepublica.pt/1s/2001/02/032b00/06250629.pdf)](https://files.diariodarepublica.pt/1s/2001/02/032b00/06250629.pdf)](https://files.diariodarepublica.pt/1s/2001/02/032b00/06250629.pdf)](https://files.diariodarepublica.pt/1s/2001/02/032b00/06250629.pdf)](https://files.diariodarepublica.pt/1s/2001/02/032b00/06250629.pdf)](https://files.diariodarepublica.pt/1s/2001/02/032b00/06250629.pdf)](https://files.diariodarepublica.pt/1s/2001/02/032b00/06250629.pdf)](https://files.diariodarepublica.pt/1s/2001/02/032b00/06250629.pdf)](https://files.diariodarepublica.pt/1s/2001/02/032b00/06250629.pdf)
 
 Dimensão do agregado familiar: 5 pessoas
 
-[(ver tabela no documento original)](https://files.diariodarepublica.pt/1s/2001/02/032b00/06250629.pdf)
+[[[[[[[[[[[(ver tabela no documento original)](https://files.diariodarepublica.pt/1s/2001/02/032b00/06250629.pdf)](https://files.diariodarepublica.pt/1s/2001/02/032b00/06250629.pdf)](https://files.diariodarepublica.pt/1s/2001/02/032b00/06250629.pdf)](https://files.diariodarepublica.pt/1s/2001/02/032b00/06250629.pdf)](https://files.diariodarepublica.pt/1s/2001/02/032b00/06250629.pdf)](https://files.diariodarepublica.pt/1s/2001/02/032b00/06250629.pdf)](https://files.diariodarepublica.pt/1s/2001/02/032b00/06250629.pdf)](https://files.diariodarepublica.pt/1s/2001/02/032b00/06250629.pdf)](https://files.diariodarepublica.pt/1s/2001/02/032b00/06250629.pdf)](https://files.diariodarepublica.pt/1s/2001/02/032b00/06250629.pdf)](https://files.diariodarepublica.pt/1s/2001/02/032b00/06250629.pdf)
 
 Dimensão do agregado familiar: 6 pessoas
 
-[(ver tabela no documento original)](https://files.diariodarepublica.pt/1s/2001/02/032b00/06250629.pdf)
+[[[[[[[[[[[(ver tabela no documento original)](https://files.diariodarepublica.pt/1s/2001/02/032b00/06250629.pdf)](https://files.diariodarepublica.pt/1s/2001/02/032b00/06250629.pdf)](https://files.diariodarepublica.pt/1s/2001/02/032b00/06250629.pdf)](https://files.diariodarepublica.pt/1s/2001/02/032b00/06250629.pdf)](https://files.diariodarepublica.pt/1s/2001/02/032b00/06250629.pdf)](https://files.diariodarepublica.pt/1s/2001/02/032b00/06250629.pdf)](https://files.diariodarepublica.pt/1s/2001/02/032b00/06250629.pdf)](https://files.diariodarepublica.pt/1s/2001/02/032b00/06250629.pdf)](https://files.diariodarepublica.pt/1s/2001/02/032b00/06250629.pdf)](https://files.diariodarepublica.pt/1s/2001/02/032b00/06250629.pdf)](https://files.diariodarepublica.pt/1s/2001/02/032b00/06250629.pdf)
 
 Dimensão do agregado familiar: 7 pessoas
 
-[(ver tabela no documento original)](https://files.diariodarepublica.pt/1s/2001/02/032b00/06250629.pdf)
+[[[[[[[[[[[(ver tabela no documento original)](https://files.diariodarepublica.pt/1s/2001/02/032b00/06250629.pdf)](https://files.diariodarepublica.pt/1s/2001/02/032b00/06250629.pdf)](https://files.diariodarepublica.pt/1s/2001/02/032b00/06250629.pdf)](https://files.diariodarepublica.pt/1s/2001/02/032b00/06250629.pdf)](https://files.diariodarepublica.pt/1s/2001/02/032b00/06250629.pdf)](https://files.diariodarepublica.pt/1s/2001/02/032b00/06250629.pdf)](https://files.diariodarepublica.pt/1s/2001/02/032b00/06250629.pdf)](https://files.diariodarepublica.pt/1s/2001/02/032b00/06250629.pdf)](https://files.diariodarepublica.pt/1s/2001/02/032b00/06250629.pdf)](https://files.diariodarepublica.pt/1s/2001/02/032b00/06250629.pdf)](https://files.diariodarepublica.pt/1s/2001/02/032b00/06250629.pdf)
 
 Dimensão do agregado familiar: 8 pessoas
 
-[(ver tabela no documento original)](https://files.diariodarepublica.pt/1s/2001/02/032b00/06250629.pdf)
+[[[[[[[[[[[(ver tabela no documento original)](https://files.diariodarepublica.pt/1s/2001/02/032b00/06250629.pdf)](https://files.diariodarepublica.pt/1s/2001/02/032b00/06250629.pdf)](https://files.diariodarepublica.pt/1s/2001/02/032b00/06250629.pdf)](https://files.diariodarepublica.pt/1s/2001/02/032b00/06250629.pdf)](https://files.diariodarepublica.pt/1s/2001/02/032b00/06250629.pdf)](https://files.diariodarepublica.pt/1s/2001/02/032b00/06250629.pdf)](https://files.diariodarepublica.pt/1s/2001/02/032b00/06250629.pdf)](https://files.diariodarepublica.pt/1s/2001/02/032b00/06250629.pdf)](https://files.diariodarepublica.pt/1s/2001/02/032b00/06250629.pdf)](https://files.diariodarepublica.pt/1s/2001/02/032b00/06250629.pdf)](https://files.diariodarepublica.pt/1s/2001/02/032b00/06250629.pdf)
 
 Dimensão do agregado familiar: 9 pessoas
 
-[(ver tabela no documento original)](https://files.diariodarepublica.pt/1s/2001/02/032b00/06250629.pdf)
+[[[[[[[[[[[(ver tabela no documento original)](https://files.diariodarepublica.pt/1s/2001/02/032b00/06250629.pdf)](https://files.diariodarepublica.pt/1s/2001/02/032b00/06250629.pdf)](https://files.diariodarepublica.pt/1s/2001/02/032b00/06250629.pdf)](https://files.diariodarepublica.pt/1s/2001/02/032b00/06250629.pdf)](https://files.diariodarepublica.pt/1s/2001/02/032b00/06250629.pdf)](https://files.diariodarepublica.pt/1s/2001/02/032b00/06250629.pdf)](https://files.diariodarepublica.pt/1s/2001/02/032b00/06250629.pdf)](https://files.diariodarepublica.pt/1s/2001/02/032b00/06250629.pdf)](https://files.diariodarepublica.pt/1s/2001/02/032b00/06250629.pdf)](https://files.diariodarepublica.pt/1s/2001/02/032b00/06250629.pdf)](https://files.diariodarepublica.pt/1s/2001/02/032b00/06250629.pdf)
 
 Dimensão do agregado familiar: 10 ou mais pessoas
 
-[(ver tabela no documento original)](https://files.diariodarepublica.pt/1s/2001/02/032b00/06250629.pdf)
+[[[[[[[[[[[(ver tabela no documento original)](https://files.diariodarepublica.pt/1s/2001/02/032b00/06250629.pdf)](https://files.diariodarepublica.pt/1s/2001/02/032b00/06250629.pdf)](https://files.diariodarepublica.pt/1s/2001/02/032b00/06250629.pdf)](https://files.diariodarepublica.pt/1s/2001/02/032b00/06250629.pdf)](https://files.diariodarepublica.pt/1s/2001/02/032b00/06250629.pdf)](https://files.diariodarepublica.pt/1s/2001/02/032b00/06250629.pdf)](https://files.diariodarepublica.pt/1s/2001/02/032b00/06250629.pdf)](https://files.diariodarepublica.pt/1s/2001/02/032b00/06250629.pdf)](https://files.diariodarepublica.pt/1s/2001/02/032b00/06250629.pdf)](https://files.diariodarepublica.pt/1s/2001/02/032b00/06250629.pdf)](https://files.diariodarepublica.pt/1s/2001/02/032b00/06250629.pdf)
 
 ## ANEXO II — Tabela de rendas limite para 2001
 
-[(ver tabela no documento original)](https://files.diariodarepublica.pt/1s/2001/02/032b00/06250629.pdf)
+[[[[[[[[[[[(ver tabela no documento original)](https://files.diariodarepublica.pt/1s/2001/02/032b00/06250629.pdf)](https://files.diariodarepublica.pt/1s/2001/02/032b00/06250629.pdf)](https://files.diariodarepublica.pt/1s/2001/02/032b00/06250629.pdf)](https://files.diariodarepublica.pt/1s/2001/02/032b00/06250629.pdf)](https://files.diariodarepublica.pt/1s/2001/02/032b00/06250629.pdf)](https://files.diariodarepublica.pt/1s/2001/02/032b00/06250629.pdf)](https://files.diariodarepublica.pt/1s/2001/02/032b00/06250629.pdf)](https://files.diariodarepublica.pt/1s/2001/02/032b00/06250629.pdf)](https://files.diariodarepublica.pt/1s/2001/02/032b00/06250629.pdf)](https://files.diariodarepublica.pt/1s/2001/02/032b00/06250629.pdf)](https://files.diariodarepublica.pt/1s/2001/02/032b00/06250629.pdf)

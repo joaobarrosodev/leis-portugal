@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/1125/1999/12/29/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/1125-1999-291896
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1999-12-29T00:00:00Z'
+  retrieved_at: '2026-10-23T14:13:15Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: b407456efeaea1f88dcc545e546f7573c64282cc35204173c51a4bf11e50a3d1
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: ef0a5bd6e4066d59bb4026e6a0a375e8954f5f317bc7f187f5d70934f77bc9aa
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T14:13:15Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,11 +67,11 @@ reuse:
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
 - Bacharelato
-- Plano de Estudos
 - Ensino Superior Politécnico
 - Escola Superior de Dança
-- Lisboa
 - Licenciatura
+- Lisboa
+- Plano de Estudos
 relationships:
 - type: cites
   target: eli:http://data.dre.pt/eli/lei/115/1997/09/19/p/dre
@@ -105,16 +105,68 @@ relationships:
   target: eli:http://data.dre.pt/eli/port/812/1991/08/12/p/dre
   label: null
   source: http://data.dre.pt/eli/port/812/1991/08/12/p/dre
+- type: cites
+  target: pt:dre:147873:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:186298:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:220966:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:222418:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:273991:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:420592:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:429593:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:429596:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:453184:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:556606:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:557411:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:653145:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:675241:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T14:13:15Z'
   warnings: []
   errors: []
 ---

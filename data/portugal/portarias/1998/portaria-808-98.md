@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/808/1998/09/24/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/808-1998-246111
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2010-07-01T00:00:00Z'
+  retrieved_at: '2026-10-23T14:11:16Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 59e0e10fbf248232d9fb3e5487a5420fb1993dae8d6c4163d1e37d75cd061670
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 4bd994d87176245f6f86779abf026fa9eff2249c26098a03d5d7a0010c8eeab7
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T14:11:16Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -74,6 +74,50 @@ relationships:
   target: pt:dre:335180:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:554390:por
+  label: "Anexados vários prédios rústicos à zona de caça turística pela PORT.899/2000.2000.09.28.MECO, DR.IS-B [225]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/899-2000-554390
+  date: '2000-09-28'
+- type: amended_by
+  target: pt:dre:148632:por
+  label: "Anexados vários prédios rústicos à zona de caça turística pela PORT.688/2002.2002.06.20.MECO, DR.IS-B [140]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/688-2002-148632
+  date: '2002-06-20'
+- type: amended_by
+  target: pt:dre:617299:por
+  label: "Renovada, por um período de seis anos, a concessão da zona de caça turística, concessionada pelo presente diploma,\
+    \ alterado pelas Ports. 899/2000, de 28-Set e 688/2002, de 20-Jun, pela PORT.1174/2004.14.09.2004.MAPF, DR.IS-B [217]\
+    \ de 14.09.2004\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/1174-2004-617299
+  date: '2004-09-14'
+- type: amended_by
+  target: pt:dre:240258:por
+  label: "Anexado um prédio rústico à zona de caça concessionada pelo presente diploma, alterado pelas Ports 899/2000 de 28-Set\
+    \ e 688/2002 de 20-Jun e renovada pela Port 1174/2004 de 14-Set, pela PORT.627/2005 de 01-Ago, DR.IS-B [146]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/627-2005-240258
+  date: '2005-08-01'
+- type: amended_by
+  target: pt:dre:538404:por
+  label: "Anexados vários prédios rústicos à zona de caça atribuída pelo presente diploma, com as alterações posteriormente\
+    \ introduzidas pelas Port 899/2000 de 28-Set, 688/2002 de 20-Jun, 1174/2004 de 14-Set e 627/2005 de 01-Ago, pela PORT.65/2006.17.01.2006.MADRP,\
+    \ DR.IS-B [12] de 17.01.2006\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/65-2006-538404
+  date: '2006-01-17'
+- type: amended_by
+  target: pt:dre:640098:por
+  label: "Desanexados vários prédios rústicos à zona de caça concessionada pelo presente diploma, alterada pelas Portarias\
+    \ 899/2000 de 28 de Setembro, 688/2002 de 20 de Junho, 627/2005 de 01 de Agosto e 65/2006 de 17 de Janeiro e renovada\
+    \ pela Portaria 1174/2004 de 14 de Setembro, pela PORT.1081/2007.05.09.2007.MADRP, DR.IS [171] de 05.09.2007\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/1081-2007-640098
+  date: '2007-09-05'
+- type: amended_by
+  target: pt:dre:335180:por
+  label: "Renovada a zona de caça, por um período de seis anos, alterada pelas Port 899/2000, de 28-Set, e Port 688/2002,\
+    \ de 20-Jun, renovada pela Port 1174/2004, de 14-Set, alterada pelas Port 627/2005, de 01-Ago, Port 65/2006, de 17-Jan,\
+    \ e Port 1081/2007, de 05-Set, pela PORT.458/2010.01.07.2010.MADRP, DR.IS [126] de 01.07.2010\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/458-2010-335180
+  date: '2010-07-01'
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/136/1996/08/14/p/dre
   label: null
@@ -82,16 +126,36 @@ relationships:
   target: eli:http://data.dre.pt/eli/port/219-a/1991/03/18/p/dre
   label: null
   source: http://data.dre.pt/eli/port/219-a/1991/03/18/p/dre
+- type: cites
+  target: pt:dre:219134:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:354162:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:405765:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:619925:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:620697:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T14:11:16Z'
   warnings: []
   errors: []
 ---
@@ -120,7 +184,7 @@ Manda o Governo, pelos Ministros da Economia e da Agricultura, do Desenvolviment
 
 Ministérios da Economia e da Agricultura, do Desenvolvimento Rural e das Pescas.
 
-**Assinada em 31 de Agosto de 1998.**
+Assinada em 31 de Agosto de 1998.
 
 Pelo Ministro da Economia, Vítor José Cabrita Neto, Secretário de Estado do Turismo. - Pelo Ministro da Agricultura, do Desenvolvimento Rural e das Pescas, Luís Manuel Capoulas Santos, Secretário de Estado da Agricultura e do Desenvolvimento Rural.
 

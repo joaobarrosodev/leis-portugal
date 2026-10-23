@@ -48,18 +48,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/794/1999/09/13/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/794-1999-571395
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2008-05-27T00:00:00Z'
+  retrieved_at: '2026-10-23T14:17:49Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: edea84adeb9a6dbf358fbfadb0d31f8bf88f0a09394b70a63e7dd59f6475c104
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 2a80d8a668b384a2038f0b7599686da32585494ad302271d9351dedd473eb3a9
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T14:17:49Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -75,6 +75,18 @@ relationships:
   target: pt:dre:449179:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:148414:por
+  label: "Renovada por doze anos a concessão de zona de caça atribuída pela Port 667-D1/93 de 14-Jul e posteriormente renovada\
+    \ pela Port 794/99 de 13-Set, pela PORT.862/2005.21.09.2005.MADRP, DR.IS-B [182] de 21.09.2005\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/862-2005-148414
+  date: '2005-09-21'
+- type: amended_by
+  target: pt:dre:449179:por
+  label: "Anexados vários prédios rústicos à zona de caça concessionada pela Port 667-D1/93, de 14-Jul, renovada pelo presente\
+    \ diploma, pela PORT.380/2008.27.05.2008.MADRP, DR.IS [101] de 27.05.2008\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/380-2008-449179
+  date: '2008-05-27'
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/136/1996/08/14/p/dre
   label: null
@@ -87,16 +99,28 @@ relationships:
   target: eli:http://data.dre.pt/eli/port/667-d1/1993/07/14/p/dre
   label: null
   source: http://data.dre.pt/eli/port/667-d1/1993/07/14/p/dre
+- type: cites
+  target: pt:dre:352364:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:402514:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:405765:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T14:17:49Z'
   warnings: []
   errors: []
 ---

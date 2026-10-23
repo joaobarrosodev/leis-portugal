@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/98/1998/02/23/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/98-1998-210473
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2002-01-30T00:00:00Z'
+  retrieved_at: '2026-10-23T14:12:21Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: e56ebe1fc356154a3e4d4321df5c1705a93fe2adbacdbf069ac43864eee2c491
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: f396de61bdac7425405df88b4f6a8916c582392a8345be6a82ae97b8643cf94c
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T14:12:21Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,34 +66,49 @@ reuse:
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
 - Aguardente
-- SELO de Garantia
-- Controlo de Qualidade
+- Cápsula-selo
+- Comércio
 - Contribuições e Impostos
+- Controlo de Qualidade
 - Instituto do Vinho do Porto
 - Região Demarcada do Douro
-- Cápsula-selo
+- SELO de Garantia
 - Taxa
-- Comércio
 - Vinho do Porto
 relationships:
 - type: amended_by
   target: pt:dre:276209:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:229113:por
+  label: "Alterado o n.º 4 pela PORT.943/98.1998.10.30.MADRP DR.IS-B [251]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/943-1998-229113
+  date: '1998-10-30'
+- type: amended_by
+  target: pt:dre:276209:por
+  label: "Alterados os nºs 1º, 2º, 3º e 4º, o último (nº4) na redacção da Port 943/98, de 30-Out pela PORT.95/2002.2002.01.30.MADRP,\
+    \ DR.IS-B [25]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/95-2002-276209
+  date: '2002-01-30'
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/173/1997/07/16/p/dre
   label: null
   source: http://data.dre.pt/eli/dec-lei/173/1997/07/16/p/dre
+- type: cites
+  target: pt:dre:150763:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T14:12:21Z'
   warnings: []
   errors: []
 ---
@@ -122,6 +137,6 @@ Manda o Governo, pelo Ministro da Agricultura, do Desenvolvimento Rural e das Pe
 
 Ministério da Agricultura, do Desenvolvimento Rural e das Pescas.
 
-**Assinada em 29 de Janeiro de 1998.**
+Assinada em 29 de Janeiro de 1998.
 
 Pelo Ministro da Agricultura, do Desenvolvimento Rural e das Pescas, Manuel Maria Cardoso Leal, Secretário de Estado da Produção Agro-Alimentar.

@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/889/1999/10/11/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/889-1999-673585
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1999-10-11T00:00:00Z'
+  retrieved_at: '2026-10-23T14:18:24Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 76ce5dc9d924814a1b94a45da751c7f76af99c2f3a842c14665bc74cd8aa0181
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 62e9ed0578b85ab5b19a48ab0ce0aaaaaddb9440d51a3aaab59cdb5c58cbf38b
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T14:18:24Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -80,16 +80,24 @@ relationships:
   target: eli:http://data.dre.pt/eli/dec-lei/325/1993/09/25/p/dre
   label: null
   source: http://data.dre.pt/eli/dec-lei/325/1993/09/25/p/dre
+- type: cites
+  target: pt:dre:424691:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:653128:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T14:18:24Z'
   warnings: []
   errors: []
 ---
@@ -110,7 +118,7 @@ Manda o Governo, pelo Ministro das Finanças, ao abrigo do n.º 2 do artigo 23.�
 
 2.º A presente portaria entra imediatamente em vigor.
 
-**O Ministro das Finanças, António Luciano Pacheco de Sousa Franco, em 22 de Setembro de 1999.**
+O Ministro das Finanças, António Luciano Pacheco de Sousa Franco, em 22 de Setembro de 1999.
 
 ## ANEXO — I - Serviço fiscalizador. Competência
 

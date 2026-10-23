@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/551/1997/07/25/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/551-1997-144610
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2018-11-13T00:00:00Z'
+  retrieved_at: '2026-10-23T14:03:28Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 6b2110cca5431dac607b21abb3b8a9ec49ddeb705c4829fbfc24c58cba6b56e8
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 1bdafc41d0e47818bc48a91155a6295ae98121ca74f6ba45e1aa8be78c9b1c36
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T14:03:28Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -74,6 +74,12 @@ relationships:
   target: pt:dre:116950304:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:252202:por
+  label: "Determinada a manutenção em vigor do presente diploma, pelo DEC LEI.124/2004.25.05.2004.MOPTH, DR.IS-A [122] de\
+    \ 25.05.2004, nos termos do disposto nos seus n.ºs 1 e 3 do artigo 3.º\0º\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/124-2004-252202
+  date: '2004-05-25'
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/329/1995/12/09/p/dre
   label: null
@@ -82,16 +88,30 @@ relationships:
   target: eli:http://data.dre.pt/eli/dec-lei/38/1996/05/06/p/dre
   label: null
   source: http://data.dre.pt/eli/dec-lei/38/1996/05/06/p/dre
+- type: cites
+  target: pt:dre:469195:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:631866:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:116950304:por
+  label: Revogado, a partir de 01.01.2019, o presente diploma, mantido em vigor pelo Dec Lei 124/2004 de 25-mai, pelo(a) Decreto-Lei
+    n.º 93/2018 - Diário da República n.º 218/2018, Série I de 2018-11-13 nos termos do n.º 4 do art. 62.º deste
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/93-2018-116950304
+  date: '2018-11-13'
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T14:03:28Z'
   warnings: []
   errors: []
 ---
@@ -142,8 +162,8 @@ c) Autorização prevista na alínea b) do número anterior.
 
 Ministérios da Defesa Nacional, do Equipamento, do Planeamento e da Administração do Território e do Ambiente.
 
-**Assinada em 1 de Julho de 1997.**
+Assinada em 1 de Julho de 1997.
 
-**O Ministro da Defesa Nacional, António Manuel de Carvalho Ferreira Vitorino. - O Ministro do Equipamento, do Planeamento e da Administração do Território, João Cardona Gomes Cravinho. - A Ministra do Ambiente, Elisa Maria da Costa Guimarães Ferreira.**
+O Ministro da Defesa Nacional, António Manuel de Carvalho Ferreira Vitorino. - O Ministro do Equipamento, do Planeamento e da Administração do Território, João Cardona Gomes Cravinho. - A Ministra do Ambiente, Elisa Maria da Costa Guimarães Ferreira.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1997/07/170b00/37783779.pdf))](https://files.diariodarepublica.pt/1s/1997/07/170b00/37783779.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1997/07/170b00/37783779.pdf)

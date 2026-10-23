@@ -20,7 +20,7 @@ publication:
   reference: Diário da República n.º 201/2000, 1º Suplemento, Série I-B de 2000-08-31
   number: '201'
   series: I
-  supplement: 1º Suplemento
+  supplement: null
   pages: 4486-(2) a 4486-(13)
   pdf_url: https://files.diariodarepublica.pt/1s/2000/08/201b01/00020013.pdf
 entry_into_force_dates: []
@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/705-a/2000/08/31/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/705-a-2000-586390
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2007-03-30T00:00:00Z'
+  retrieved_at: '2026-10-23T14:25:23Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 5ae9d4812b111a936a40d7bb0f456dfb8e5ff70145df2d2b53efced87a957ea4
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 0722eb797c03569adb7a45ca6e8f815f2eb4d7a7e7e6554ca6eee10679c2e8e7
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T14:25:23Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,18 +66,57 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Direcção Regional de Contencioso e Controlo Aduaneiro
 - Direcção Geral das Alfândegas e dos Impostos Especiais sobre o Consumo
+- Direcção Regional de Contencioso e Controlo Aduaneiro
 - Lisboa
 - Orgânica
 - Política Aduaneira
-- Regulamento
 - Porto
+- Regulamento
 relationships:
 - type: amended_by
   target: pt:dre:520391:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:338600:por
+  label: Extinto o Posto Aduaneiro de Santa Cruz das Flores e rectificado o Mapa Anexo I a que se refere o art. 20.º do Regulamento
+    anexo ao presente diploma, pela PORT.31/2001.2001.01.17.MF DR.IS-B [14]
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/31-2001-338600
+  date: '2001-01-17'
+- type: amended_by
+  target: pt:dre:365310:por
+  label: "Alterado o anexo I pela PORT.599/2001.2001.06.11.MF, DR.IS-B [135] de 2001/JUN/11\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/599-2001-365310
+  date: '2001-06-11'
+- type: amended_by
+  target: pt:dre:145599:por
+  label: "Alterado o mapa constante do anexo I a que se refere o art. 20º do regulamento aprovado pela presente portaria,\
+    \ pela PORT.677/2002.2002.06.19.MF, DR.IS-B [139]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/677-2002-145599
+  date: '2002-06-19'
+- type: amended_by
+  target: pt:dre:142714:por
+  label: "Alterado o art. 3º e aditado o art. 5º-A ao Regulamento Orgânico e de Funcionamento da DGAIEC pela PORT.772/2002.2002.07.02.MF\
+    \ DR.IS-B [150]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/772-2002-142714
+  date: '2002-07-02'
+- type: amended_by
+  target: pt:dre:187506:por
+  label: "Alterado o art. 3.º na redacção da Port 772/2002, de 02-Jul e alterados os arts. 2.º, 6.º, 9.º, 11.º, 12.º, 13.º,\
+    \ 14.º e aditados os arts. 19.º-A e 19.º-B todos do presente diploma, pela PORT.191/2003.2003.02.22.MF DR.IS-B [45]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/191-2003-187506
+  date: '2003-02-22'
+- type: amended_by
+  target: pt:dre:626048:por
+  label: "Alterados os arts 2º a 24º e 26º a 29º (na redacção das Port 772/2002 de 02-Jul e 191/2003 de 22-Fev), aditado o\
+    \ art 11º-A, determinado que a subsecção II da secção II do capítulo I passe a constar imediatamente a seguir ao art 10º,\
+    \ substituído o mapa do anexo I (na redacção das Port 31/2001 de 17-Jan, 599/2001 de 11-Jun e 677/2002 de 19-Jun), revogados\
+    \ os arts 19º-A e 19º-B (aditados pela Port 191/2003 de 22-Fev), bem como o mapa do anexo II, todos do Regulamento Orgânico\
+    \ e de Funcionamento da Direcção-Geral das Alfândegas e dos Impostos Especiais sobre o Consumo, aprovado pelo presente\
+    \ diploma, republicado na íntegra no anexo III, pela PORT.1067/2004.26.08.2004.MF, DR.IS-B [201] de 26.08.2004\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/1067-2004-626048
+  date: '2004-08-26'
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/360/1999/09/16/p/dre
   label: null
@@ -86,16 +125,31 @@ relationships:
   target: eli:http://data.dre.pt/eli/dec-lei/51/1998/03/11/p/dre
   label: null
   source: http://data.dre.pt/eli/dec-lei/51/1998/03/11/p/dre
+- type: cites
+  target: pt:dre:218950:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:570293:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:520391:por
+  label: "Revogado o presente diploma, na redacção da Portaria 772/2002, de 02 de Julho, da Portaria 191/2003, de 22 de Fevereiro,\
+    \ e da Portaria 1067/2004, de 22 de Agosto com excepcção do disposto no seu artigo 29.º pela PORT.349/2007.30.03.2007.MFAP,\
+    \ DR.IS [64] de 30.03.2007\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/349-2007-520391
+  date: '2007-03-30'
 article_structure:
   article_count: 29
   section_count: 8
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T14:25:23Z'
   warnings: []
   errors: []
 ---
@@ -124,7 +178,7 @@ Manda o Governo, pelo Ministro das Finanças, ao abrigo do disposto no n.º 1 do
 
 2.º A presente portaria entra em vigor em 1 de Setembro de 2000.
 
-**O Ministro das Finanças, Joaquim Augusto Nunes Pina Moura, em 31 de Agosto de 2000.**
+O Ministro das Finanças, Joaquim Augusto Nunes Pina Moura, em 31 de Agosto de 2000.
 
 ## ANEXO
 
@@ -770,10 +824,10 @@ MAPA ANEXO I
 
 (a que se refere o artigo 20.º do presente regulamento)
 
-[(ver mapa no documento original)](https://files.diariodarepublica.pt/1s/2000/08/201b01/00020013.pdf)
+[[(ver mapa no documento original)](https://files.diariodarepublica.pt/1s/2000/08/201b01/00020013.pdf)](https://files.diariodarepublica.pt/1s/2000/08/201b01/00020013.pdf)
 
 MAPA ANEXO II
 
 (a que se refere o artigo 21.º do presente regulamento)
 
-[(ver mapa no documento original)](https://files.diariodarepublica.pt/1s/2000/08/201b01/00020013.pdf)
+[[(ver mapa no documento original)](https://files.diariodarepublica.pt/1s/2000/08/201b01/00020013.pdf)](https://files.diariodarepublica.pt/1s/2000/08/201b01/00020013.pdf)

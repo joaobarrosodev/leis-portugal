@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/2s/2009/10/211000000/4438044380.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -47,18 +47,18 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/declaracao-rectificacao/2675-2009-3277291
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2009-10-30T00:00:00Z'
+  retrieved_at: '2026-10-23T14:08:24Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: b9ba5b4ed104bd6d080ad98a4a0d702276bbcc055ada1acd24d052e39a642be0
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 6c1aadba1e8646519cc59b510b50984bcc3b772d5bb46ad2b80e30dcbc1f94be
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T14:08:24Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -70,13 +70,13 @@ relationships: []
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T14:08:24Z'
   warnings: []
   errors: []
 ---
@@ -88,3 +88,5 @@ Declaração de rectificação n.º 2675/2009
 Na 2.ª série do Diário da República n.º 169, de 1 de Setembro de 2009, foi publicado o aviso de abertura do procedimento concursal comum para a ocupação de postos de trabalho, em contrato de trabalho em funções públicas por tempo indeterminado, na carreira/categoria de assistente operacional (cantoneiro de limpeza) - referência AI, cuja p. 35 477 passamos a rectificar, pelo que onde se lê «1 - Por meu Despacho [...] AI - Assistente Operacional (Cantoneiro de Limpeza), 50 postos de trabalho;» deve ler-se «1 - Por meu Despacho [...] AI - Assistente Operacional (Cantoneiro de Limpeza), 30 postos de trabalho;».
 
 21 de Outubro de 2009. - O Vereador dos Serviços Municipais de Recursos Humanos, Organização, Informática, Actividades Económicas e Serviços Urbanos e Serviço de Saúde Ocupacional, Carlos Manuel Coelho Revés.
+
+302487027

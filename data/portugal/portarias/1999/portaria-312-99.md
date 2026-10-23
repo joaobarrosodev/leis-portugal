@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/312/1999/05/12/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/312-1999-321936
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2002-04-05T00:00:00Z'
+  retrieved_at: '2026-10-23T14:14:37Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 7e81e6471e0fc37cca4c8f4c39456422dc9a239bb22210f04373d4fe4d42aa4e
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 2b6f2f3ba42bc09a755be9ca512563a2bb343f2c5ffa26e82d00e5fb08723846
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T14:14:37Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -72,20 +72,59 @@ relationships:
   target: pt:dre:302945:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:3422445:por
+  label: "Alterado o quadro de pessoal, pela PORT.1421/2000(2ªSÉRIE).2000.08.31.MADRP DR.IIS [218] DE 31/SET/2000\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/1421-2000-3422445
+  date: '2000-08-31'
+- type: amended_by
+  target: pt:dre:2409008:por
+  label: "Alterado o quadro de pessoal (aprovado pelo presente diploma), pela PORT.1530/2000(2ªSÉRIE).2000.09.12.MADRP, DR.IIS\
+    \ [231] de 06/Out/2000\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/1530-2000-2409008
+  date: '2000-09-12'
+- type: amended_by
+  target: pt:dre:386813:por
+  label: "Alterado o quadro de pessoal pela PORT.111/2001.2001.02.22.MF, DR.IS-B [45] de 22/Fev/2001\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/111-2001-386813
+  date: '2001-02-22'
+- type: amended_by
+  target: pt:dre:2509075:por
+  label: "Alterado o quadro de pessoal pela PORT.813/2001(2ªSÉRIE).2001.04.23.MADRP, DR.IIS [106] de 08/Mai/2001\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/813-2001-2509075
+  date: '2001-04-23'
+- type: amended_by
+  target: pt:dre:786251:por
+  label: "Alterado o quadro de pessoal pela PORT.1468/2001(2ªSÉRIE).2001.08.07.MADRP, DR.IIS [207] de 06/Set/2001\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/1468-2001-786251
+  date: '2001-08-07'
+- type: amended_by
+  target: pt:dre:302945:por
+  label: "Alterado o quadro de pessoal pelo DR.25/2002.2002.04.05.MADRP DR.IS-B [80]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-regulamentar/25-2002-302945
+  date: '2002-04-05'
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/98/1997/04/26/p/dre
   label: null
   source: http://data.dre.pt/eli/dec-lei/98/1997/04/26/p/dre
+- type: cites
+  target: pt:dre:476878:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:619144:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T14:14:37Z'
   warnings: []
   errors: []
 ---
@@ -104,19 +143,19 @@ Manda o Governo, pelos Ministros das Finanças, Adjunto e da Agricultura, do Des
 
 2.º O conteúdo funcional da carreira de técnico auxiliar é o constante do mapa III anexo ao presente diploma, que dele faz parte integrante.
 
-**Assinada em 15 de Abril de 1999.**
+Assinada em 15 de Abril de 1999.
 
 Pelo Ministro das Finanças, João Carlos da Costa Ferreira da Silva, Secretário de Estado do Orçamento. - Pelo Ministro Adjunto, Fausto de Sousa Correia, Secretário de Estado da Administração Pública e da Modernização Administrativa. - O Ministro da Agricultura, do Desenvolvimento Rural e das Pescas, Luís Manuel Capoulas Santos.
 
 ## ANEXO — MAPA I
 
-[(ver mapa no documento original)](https://files.diariodarepublica.pt/1s/1999/05/110b00/24802483.pdf)
+[[(ver mapa no documento original)](https://files.diariodarepublica.pt/1s/1999/05/110b00/24802483.pdf)](https://files.diariodarepublica.pt/1s/1999/05/110b00/24802483.pdf)
 
 MAPA II
 
 Carreiras a extinguir quando vagarem, nos termos do n.º 2 do artigo 2.º do [Decreto Regulamentar n.º 24/89](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/24-1989-619144), de 11 de Agosto
 
-[(ver mapa no documento original)](https://files.diariodarepublica.pt/1s/1999/05/110b00/24802483.pdf)
+[[(ver mapa no documento original)](https://files.diariodarepublica.pt/1s/1999/05/110b00/24802483.pdf)](https://files.diariodarepublica.pt/1s/1999/05/110b00/24802483.pdf)
 
 MAPA III
 

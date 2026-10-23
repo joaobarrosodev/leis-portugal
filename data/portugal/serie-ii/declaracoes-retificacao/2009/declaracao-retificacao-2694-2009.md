@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/2s/2009/11/213000000/4477644776.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -46,18 +46,18 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/declaracao-rectificacao/2694-2009-2765371
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2009-11-03T00:00:00Z'
+  retrieved_at: '2026-10-23T14:08:30Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: a93d8c556f8f5a7a7062af533a3a229fbd71462f0d1d3ccd2e13901634d9cd82
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: a6d83b18df27450733f3e51efc0d10913acc664b0a24d5526faa31f9087be22a
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T14:08:30Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -69,13 +69,13 @@ relationships: []
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T14:08:30Z'
   warnings: []
   errors: []
 ---
@@ -87,3 +87,5 @@ Declaração de rectificação n.º 2694/2009
 Para os devidos efeitos, rectifica-se o aviso n.º 17 756/2009, publicado no Diário da República, 2.ª série n.º 196, de 9 de Outubro de 2009, desta autarquia, no n.º 2, ref.ª A, onde se lê «em uma subunidade orgânica, Ludoteca, integrada no Departamento de Cultura, Educação, Desporto, Turismo e Acção Social» deve ler-se «em uma subunidade orgânica, Acção Social, integrada no Departamento de Cultura, Educação, Desporto, Turismo e Acção Social».
 
 9 de Outubro de 2009. - O Vereador, com competências delegadas, Carlos Filipe Camelo Miranda de Figueiredo.
+
+302470487

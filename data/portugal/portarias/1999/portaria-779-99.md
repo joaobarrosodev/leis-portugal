@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/779/1999/08/31/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/779-1999-581870
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1999-08-31T00:00:00Z'
+  retrieved_at: '2026-10-23T14:17:44Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: f8959c0b7c2f59bd9d78c0c9433eab629938fc62114b0b50ff30f58677d5e31d
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: bfbdad38091c5809ed00dc40b4b894616cd1ae4800073c0b7ff4cf29f26f5423
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T14:17:44Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,11 +67,17 @@ reuse:
 subjects:
 - Albufeira.cidade
 - Ordenamento do Território
-- Política de Solos
 - Plano de Pormenor
-- Regulamento
+- Política de Solos
 - Portos
+- Regulamento
 relationships:
+- type: amended_by
+  target: pt:dre:1306692:por
+  label: "Tornado público o registo do Plano de pormenor ratificado pelo presente diploma, pela DECL.300/99(2ªSÉRIE).1999.09.09.DGOTDU-MEPAT\
+    \ DR.IIS [222] DE 22/SET/1999\09\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/declaracao/300-1999-1306692
+  date: '1999-09-09'
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/155/1997/06/24/p/dre
   label: null
@@ -88,16 +94,36 @@ relationships:
   target: eli:http://data.dre.pt/eli/resolconsmin/43/1995/05/04/p/dre
   label: null
   source: http://data.dre.pt/eli/resolconsmin/43/1995/05/04/p/dre
+- type: cites
+  target: pt:dre:164053:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:228186:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:308715:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:332412:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:512980:por
+  label: null
+  source: null
 article_structure:
   article_count: 34
-  section_count: 7
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  section_count: 8
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T14:17:44Z'
   warnings: []
   errors: []
 ---
@@ -120,7 +146,7 @@ Ao abrigo do disposto no n.º 4 do artigo 3.º e na alínea c) do n.º 1 do arti
 
 Manda o Governo, pelo Secretário de Estado da Administração Local e Ordenamento do Território, que seja ratificado o plano de pormenor do porto de recreio de Albufeira, no município de Albufeira, cujos Regulamento e planta de implantação se publicam em anexo à presente portaria, dela fazendo parte integrante.
 
-**O Secretário de Estado da Administração Local e Ordenamento do Território, José Augusto de Carvalho, em 6 de Agosto de 1999.**
+O Secretário de Estado da Administração Local e Ordenamento do Território, José Augusto de Carvalho, em 6 de Agosto de 1999.
 
 ### CAPÍTULO I — Disposições gerais
 
@@ -384,7 +410,9 @@ c) A transformação de uso de unidade construtiva esteja inserida em projecto d
 
 2 - Limitações à conversão de usos: a Câmara Municipal de Albufeira poderá não aceitar propostas de conversão de usos, se entender que podem prejudicar o adequado equilíbrio das funções urbanas da zona.
 
-###### Artigo 21.º — Divisão de terrenos
+###### Artigo 21.º
+
+##### Divisão de terrenos
 
 O plano estabelece o parcelamento do terreno para efeitos de registo predial e inscrição matricial. Este parcelamento pode sofrer ajustamentos e acertos de estremas nas confrontações com as zonas envolventes deste plano, desde que se justifique para corrigir deformações devidas à geometria do cadastro rústico e que devem resultar do desenho urbano que vier a ser desenvolvido para essas envolventes.
 

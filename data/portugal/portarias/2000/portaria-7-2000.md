@@ -26,7 +26,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2000/01/005b00/00600064.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -48,18 +48,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/7/2000/01/07/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/7-2000-509196
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2001-05-24T00:00:00Z'
+  retrieved_at: '2026-10-23T14:25:19Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 5dba990543f18ae15b066b0566ee715a3ca2853432d799e03c08f94e9fc82364
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 26154f9aabbda2021dd4996f4b2ca28b9b3b3c67bceefffd33d69e05529ae99f
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T14:25:19Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -79,16 +79,30 @@ relationships:
   target: eli:http://data.dre.pt/eli/dec-lei/14/1999/01/12/p/dre
   label: null
   source: http://data.dre.pt/eli/dec-lei/14/1999/01/12/p/dre
+- type: cites
+  target: pt:dre:486163:por
+  label: null
+  source: null
+- type: corrected_by
+  target: pt:dre:483619:por
+  label: "Rectificada pela DECL-RECT.4-O/2000.2000.01.31.PCM DR.IS-B [25]2ºSupl de 31/Jan/2000\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/declaracao-rectificacao/4-o-2000-483619
+  date: '2000-01-31'
+- type: repealed_by
+  target: pt:dre:332956:por
+  label: "Revogada pela PORT.518/2001.2001.05.24.MADRP, DR.IS-B [120]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/518-2001-332956
+  date: '2001-05-24'
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T14:25:19Z'
   warnings: []
   errors: []
 ---
@@ -377,12 +391,12 @@ b) O controlo das medidas referidas na alínea anterior compete às DRA através
 
 13.º A matéria omissa na presente portaria rege-se pelo disposto no [Decreto-Lei n.º 14/99](https://diariodarepublica.pt/dr/detalhe/decreto-lei/14-1999-486163), de 12 de Janeiro, e legislação complementar.
 
-**O Ministro da Agricultura, do Desenvolvimento Rural e das Pescas, Luís Manuel Capoulas Santos, em 29 de Novembro de 1999.**
+O Ministro da Agricultura, do Desenvolvimento Rural e das Pescas, Luís Manuel Capoulas Santos, em 29 de Novembro de 1999.
 
 ## ANEXO I — Exigências para produtos de coníferas hospedeiras da zona afectada
 
-[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2000/01/005b00/00600064.pdf)
+[[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2000/01/005b00/00600064.pdf)](https://files.diariodarepublica.pt/1s/2000/01/005b00/00600064.pdf)
 
 ## ANEXO II — Zona afectada pelo Bursaphelenchus xylophilus (nemátodo da madeira do pinheiro) em Portugal
 
-[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2000/01/005b00/00600064.pdf)
+[[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2000/01/005b00/00600064.pdf)](https://files.diariodarepublica.pt/1s/2000/01/005b00/00600064.pdf)

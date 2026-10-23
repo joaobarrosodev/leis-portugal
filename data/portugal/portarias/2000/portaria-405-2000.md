@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/405/2000/07/17/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/405-2000-320301
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2003-08-26T00:00:00Z'
+  retrieved_at: '2026-10-23T14:23:22Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: c008d1492494395dc4049d38a834c8f6ba80dc71a1c4c117939d9a651bdfa2d1
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: fd2c4facd8b013f9b3e4b0c0b1becaa1249ef0caebc176d2d642aa57a02b590c
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T14:23:22Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,17 +67,17 @@ reuse:
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
 - Alvará
-- Exame de Condução
 - Direcção Geral de Viação
 - Escola de Condução
+- Exame de Condução
 - Homologação
 - Inspecção de Veículos
 - Instrutor de Condução
-- Transmissão da Propriedade
 - Licenciamento
-- Veículo
 - Prestação de Serviços
 - Taxa
+- Transmissão da Propriedade
+- Veículo
 - Vistoria
 relationships:
 - type: amended_by
@@ -96,16 +96,33 @@ relationships:
   target: eli:http://data.dre.pt/eli/port/515-a/1999/07/19/p/dre
   label: null
   source: http://data.dre.pt/eli/port/515-a/1999/07/19/p/dre
+- type: cites
+  target: pt:dre:445123:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:491918:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:683040:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:632724:por
+  label: "Revogada pela PORT.890/2003.2003.08.26.MF DR.IS-B [196]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/890-2003-632724
+  date: '2003-08-26'
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T14:23:22Z'
   warnings: []
   errors: []
 ---

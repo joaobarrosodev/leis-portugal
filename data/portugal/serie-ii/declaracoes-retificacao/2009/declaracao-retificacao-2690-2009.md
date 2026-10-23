@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/2s/2009/11/212000000/4457344573.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -46,18 +46,18 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/declaracao-rectificacao/2690-2009-2599796
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2009-11-02T00:00:00Z'
+  retrieved_at: '2026-10-23T14:08:29Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: bbf0133fd672d3bd712db7598d45583640fdbaaaca2bc8b666c04a04879a4f0c
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 4ea8a0dee537644afc41bd2ccd66ad3d6124c9b438378ac27e54db0cb17d694d
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T14:08:29Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -69,13 +69,13 @@ relationships: []
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T14:08:29Z'
   warnings: []
   errors: []
 ---
@@ -87,3 +87,5 @@ Declaração de rectificação n.º 2690/2009
 Por ter saído com inexactidão o aviso n.º 16773/2009, inserto no Diário da República, 2.ª série, n.º 186, de 24 de Setembro de 2009, rectifica-se o mesmo. Assim, no n.º 2.1, rectifica-se que onde se lê «2.1 - Funcionários detentores de licenciatura dotados de competência técnica e aptidão para o exercício de funções de direcção, coordenação e controle que reúnam quatro anos de experiência profissional em funções, cargos, carreiras ou categorias para cujo exercício ou provimento seja exigida uma licenciatura.» deve ler-se «2.1 - Funcionários detentores de licenciatura dotados de competência técnica e aptidão para o exercício de funções de direcção, coordenação e controlo que reúnam seis anos de experiência profissional em funções, cargos, carreiras ou categorias para cujo exercício ou provimento seja exigida uma licenciatura.»
 
 7 de Outubro de 2009. - O Director do Departamento de Recursos Humanos e Organização, por subdelegação, Agostinho Gomes.
+
+302431225

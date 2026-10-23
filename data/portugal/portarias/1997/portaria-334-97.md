@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/334/1997/05/15/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/334-1997-396890
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2003-12-06T00:00:00Z'
+  retrieved_at: '2026-10-23T14:02:03Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 89bd03150e6f3174674c0aef832a1d7fb42470b22e8946d8910d5ed076afcbfd
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: a34dfdc1d5d98e7f05ac87ca3e58438cf607fcd1d86800fb9cffbd62e1427a07
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T14:02:03Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,27 +67,48 @@ reuse:
 subjects:
 - Centro Hospitalar de Coimbra
 - Coimbra
-- Quadro de Pessoal
 - Estabelecimento Hospitalar
+- Quadro de Pessoal
 relationships:
 - type: amended_by
   target: pt:dre:430187:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:621359:por
+  label: "Alterado o quadro de pessoal aprovado pela Port 1035/95, de 25-Ago, alterada pelo presente diploma e pela Port 129/98,\
+    \ de 04-Mar, pela PORT.1049/2000.2000.10.30.MF DR.IS-B [251]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/1049-2000-621359
+  date: '2000-10-30'
+- type: amended_by
+  target: pt:dre:430187:por
+  label: "Alterado o quadro de pessoal, aprovado pela Port 1035/95, de 25-Ago, posteriormente alterado pelo presente diploma\
+    \ e pelas Ports 425/96, de 30-Ago, 539/96, de 02-Out, 204/97, de 25-Mar, 129/98, de 04-Mar, 1049/2000, de 30-Out e 1374/2002,\
+    \ de 22-Out, pela PORT.1345/2003.06.12.2003.MF, DR.IS-B [282] de 06.12.2003\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/1345-2003-430187
+  date: '2003-12-06'
 - type: cites
   target: eli:http://data.dre.pt/eli/port/1035/1995/08/25/p/dre
   label: null
   source: http://data.dre.pt/eli/port/1035/1995/08/25/p/dre
+- type: cites
+  target: pt:dre:432211:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:505986:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T14:02:03Z'
   warnings: []
   errors: []
 ---
@@ -104,10 +125,10 @@ Ao abrigo do disposto no n.º 2 do artigo 1.º do [Decreto-Lei n.º 59/76](https
 
 Presidência do Conselho de Ministros e Ministérios das Finanças e da Saúde.
 
-**Assinada em 18 de Abril de 1997.**
+Assinada em 18 de Abril de 1997.
 
 Pelo Ministro das Finanças, Maria Manuela de Brito Arcanjo Marques da Costa, Secretária de Estado do Orçamento. - A Ministra da Saúde, Maria de Belém Roseira Martins Coelho Henriques de Pina. - Pelo Ministro Adjunto, Fausto de Sousa Correia, Secretário de Estado da Administração Pública.
 
 ## ANEXO — Quadro de pessoal do Centro Hospitalar de Coimbra
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1997/05/112b00/24102410.pdf))](https://files.diariodarepublica.pt/1s/1997/05/112b00/24102410.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1997/05/112b00/24102410.pdf)

@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/26/2000/01/26/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/26-2000-405897
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2000-01-26T00:00:00Z'
+  retrieved_at: '2026-10-23T14:22:31Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 0ab218f0d7fc17a26ce6ff8db80b606831f20cef21c4c4e653644155a0e3b46b
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 2193e48b395924be0b4f420edb389d822a82be2c074846ab83b6bab3df4a3b7e
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T14:22:31Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -69,35 +69,35 @@ subjects:
 - Acção de Formação
 - Apoio à Criação do Próprio Emprego
 - Apoio Técnico
-- Financiamento
-- Empresa
 - Castanheira de PÊRA
-- Instituto do Emprego e Formação Profissional
-- Formação Profissional
 - Clube de Emprego
+- Criação de Emprego
 - Criação de Empresas
 - Definição de Competências
 - Desempregado
+- Desemprego
 - Desemprego de Longa Duração
+- Emprego
+- Empresa
+- Estágio de Formação
+- Financiamento
+- Formação Profissional
 - Indústria Têxtil
 - Informação Profissional
 - Iniciativa Local de Emprego
 - Inserção Profissional
-- Criação de Emprego
+- Instituto do Emprego e Formação Profissional
 - Mercado de Emprego
 - Mercado Social de Emprego
 - Orçamento
 - Orientação Profissional
+- Política de Emprego
 - Posto de Trabalho
 - Prestações de Desemprego
-- Desemprego
 - Programa de Formação-emprego
-- Emprego
 - Programa Escolas-oficinas
-- Estágio de Formação
 - Programa Ocupacional
 - Promoção de Emprego
-- Política de Emprego
 - Proteção no Desemprego
 - Reconversão Profissional
 - Reinserção Profissional
@@ -121,16 +121,28 @@ relationships:
   target: eli:http://data.dre.pt/eli/port/766/1999/08/30/p/dre
   label: null
   source: http://data.dre.pt/eli/port/766/1999/08/30/p/dre
+- type: cites
+  target: pt:dre:532844:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:534598:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:680634:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T14:22:31Z'
   warnings: []
   errors: []
 ---
@@ -163,4 +175,4 @@ A presente portaria produz efeitos desde 1 de Janeiro de 2000.
 
 Em 23 de Dezembro de 1999.
 
-**O Secretário de Estado do Trabalho e Formação, Paulo José Fernandes Pedroso. - O Secretário de Estado da Segurança Social, José António Fonseca Vieira da Silva.**
+O Secretário de Estado do Trabalho e Formação, Paulo José Fernandes Pedroso. - O Secretário de Estado da Segurança Social, José António Fonseca Vieira da Silva.

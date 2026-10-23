@@ -20,7 +20,7 @@ publication:
   reference: Diário da República n.º 82/2001, 1º Suplemento, Série I-B de 2001-04-06
   number: '82'
   series: I
-  supplement: 1º Suplemento
+  supplement: null
   pages: 2066-(2) a 2066-(7)
   pdf_url: https://files.diariodarepublica.pt/1s/2001/04/082b01/00020007.pdf
 entry_into_force_dates: []
@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/346-a/2001/04/06/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/346-a-2001-596359
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2001-04-06T00:00:00Z'
+  retrieved_at: '2026-10-23T14:31:38Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 8e54574cc251d2c0f6b9794b4278adf859b3336821369ce5cf6813f891646210
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: db0aec1411acb5e29962d0d56f1dbf0b41013c2d9d85804d3bb562a80f99b127
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T14:31:38Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,15 +66,15 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Garantia
 - Caderno de Encargos
 - Concurso Público
 - Contrato de Adesão
+- Garantia
 - Instituto das Comunicações de Portugal
-- Televisão Digital Terrestre
 - Licenciamento
 - Regulamento
 - Televisão
+- Televisão Digital Terrestre
 relationships:
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/237/1998/08/05/p/dre
@@ -96,16 +96,36 @@ relationships:
   target: eli:http://data.dre.pt/eli/lei/31-a/1998/07/14/p/dre
   label: null
   source: http://data.dre.pt/eli/lei/31-a/1998/07/14/p/dre
+- type: cites
+  target: pt:dre:241799:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:431467:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:574717:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:581376:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:601991:por
+  label: null
+  source: null
 article_structure:
   article_count: 28
-  section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  section_count: 1
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T14:31:38Z'
   warnings: []
   errors: []
 ---
@@ -150,7 +170,7 @@ Manda o Governo, pelo Ministro do Equipamento Social, nos termos e para os efeit
 
 4.º A presente portaria entra em vigor no dia seguinte ao da sua publicação.
 
-**O Ministro do Equipamento Social, Eduardo Luís Barreto Ferro Rodrigues, em 30 de Março de 2001.**
+O Ministro do Equipamento Social, Eduardo Luís Barreto Ferro Rodrigues, em 30 de Março de 2001.
 
 ## ANEXO
 
@@ -226,7 +246,9 @@ O caderno de encargos pode ser adquirido no serviço de atendimento ao público 
 
 Na situação prevista no artigo anterior, havendo utilização dos serviços de correio, o concorrente é o único responsável pelos atrasos que se verifiquem, não podendo apresentar qualquer reclamação no caso de a entrega do pedido de esclarecimento se verificar já depois de esgotado o prazo aplicável.
 
-###### Artigo 9.º — Livro de consulta
+###### Artigo 9.º
+
+## Livro de consulta
 
 1 - O ICP deve manter aberto um livro contendo todas as peças integrantes do processo do concurso e os pedidos de esclarecimento solicitados, bem como as respostas aos mesmos, para livre consulta, no serviço de atendimento ao público da sede do ICP, todos os dias úteis, entre as 9 e as 16 horas, por qualquer concorrente.
 

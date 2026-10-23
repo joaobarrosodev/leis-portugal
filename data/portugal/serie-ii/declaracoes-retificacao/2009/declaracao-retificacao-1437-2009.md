@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/2s/2009/06/108000000/2265422654.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -46,18 +46,18 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/declaracao-rectificacao/1437-2009-2356088
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2009-06-04T00:00:00Z'
+  retrieved_at: '2026-10-23T14:01:07Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: faee7e56c472acefad44ea6c0c9996df3ac8f78bf28f3ac81d4b6c4cc01d217f
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 6c752fdaa802c90a2f04a64d8433fe5d4ca25870243c179b8fa094fbcbcea526
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T14:01:07Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -69,13 +69,13 @@ relationships: []
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T14:01:07Z'
   warnings: []
   errors: []
 ---
@@ -89,3 +89,5 @@ Por ter saído com inexactidão o aviso publicado no Diário da República, 2.ª
 Assim, onde se lê «Procedimento concursal comum para a ocupação de três postos de trabalho na categoria de assistente operacional, no Serviço Municipal de Protecção Civil, em regime de contrato de trabalho em funções públicas a termo resolutivo certo, pelo período de quatro meses» deve ler-se «Procedimento concursal comum para a ocupação de quatro postos de trabalho na categoria de assistente operacional, no Serviço Municipal de Protecção Civil, em regime de contrato de trabalho em funções públicas a termo resolutivo certo, pelo período de quatro meses».
 
 18 de Maio de 2009. - A Vereadora do Pelouro de Recursos Humanos, Maria da Conceição Cabrita.
+
+301833779

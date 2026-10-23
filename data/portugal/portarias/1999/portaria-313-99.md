@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/313/1999/05/12/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/313-1999-321941
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1999-05-12T00:00:00Z'
+  retrieved_at: '2026-10-23T14:14:37Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: de0f8a9900a4b6fb6b188b0fa177bc96a8a637371df0378f720b104a6fd1eb2a
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: df2b540a18d55eade08a1d961d9641c35f5c753abae47c1c9a3a3083dd14c2ec
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T14:14:37Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,17 +66,33 @@ reuse:
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
 - Quadro de Pessoal
-relationships: []
+relationships:
+- type: cites
+  target: pt:dre:274640:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:382273:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:460871:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:505986:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
-  section_count: 9
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  section_count: 1
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T14:14:37Z'
   warnings: []
   errors: []
 ---
@@ -99,7 +115,7 @@ Manda o Governo, pelos Ministros das Finanças, Adjunto e da Saúde, o seguinte:
 
 3.º O conteúdo funcional correspondente à carreira de secretária de serviços de saúde, do grupo de pessoal técnico-profissional, é o constante do anexo II à presente portaria.
 
-**Assinada em 24 de Abril de 1999.**
+Assinada em 24 de Abril de 1999.
 
 Pelo Ministro das Finanças, João Carlos da Costa Ferreira da Silva, Secretário de Estado do Orçamento. - Pelo Ministro Adjunto, Fausto de Sousa Correia, Secretário de Estado da Administração Pública e da Modernização Administrativa. - A Ministra da Saúde, Maria de Belém Roseira Martins Coelho Henriques de Pina.
 
@@ -113,33 +129,33 @@ Unidades orgânicas de natureza técnica:
 
 Direcção de Serviços Farmacêuticos;
 
-##### Divisão de Instalações e Equipamentos.
+Divisão de Instalações e Equipamentos.
 
 Unidades orgânicas de natureza administrativa:
 
 Repartição de Admissão de Doentes:
 
-#### Secção de Admissão de Doentes;
+Secção de Admissão de Doentes;
 
-#### Secção de Arquivo Clínico, Secretariado e Estatística;
+Secção de Arquivo Clínico, Secretariado e Estatística;
 
 Repartição de Pessoal:
 
 #### Secção de Pessoal;
 
-#### Secção de Expediente e Arquivo;
+Secção de Expediente e Arquivo;
 
 Repartição de Contabilidade:
 
-#### Secção de Contabilidade Geral;
+Secção de Contabilidade Geral;
 
-#### Secção de Contabilidade Analítica;
+Secção de Contabilidade Analítica;
 
 Repartição de Aprovisionamento:
 
-#### Secção de Gestão de Stocks;
+Secção de Gestão de Stocks;
 
-#### Secção de Aquisições e Armazéns.
+Secção de Aquisições e Armazéns.
 
 ## ANEXO II — Conteúdo funcional da carreira de pessoal técnico-profissional de nível 4
 

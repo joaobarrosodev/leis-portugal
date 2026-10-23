@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/665/2001/06/30/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/665-2001-347164
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2001-06-30T00:00:00Z'
+  retrieved_at: '2026-10-23T14:33:44Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 8d7c4cd5615963c78fee0894af8102e595d0a306864651332b8591ab2e104af0
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: c059375a6e0d6c296790a1c97727f867aef1ed017b8310858512984baa077cc0
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T14:33:44Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -76,16 +76,20 @@ relationships:
   target: eli:http://data.dre.pt/eli/dec-lei/40-a/1998/02/27/p/dre
   label: null
   source: http://data.dre.pt/eli/dec-lei/40-a/1998/02/27/p/dre
+- type: cites
+  target: pt:dre:399178:por
+  label: null
+  source: null
 article_structure:
   article_count: 12
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T14:33:44Z'
   warnings: []
   errors: []
 ---
@@ -98,7 +102,7 @@ Ao abrigo do n.º 8 do artigo 18.º do [Decreto-Lei n.º 40-A/98](https://diario
 
 Manda o Governo, pelo Ministro dos Negócios Estrangeiros, que seja aprovado o Regulamento do Concurso de Acesso à Categoria de Conselheiro de Embaixada.
 
-**O Ministro dos Negócios Estrangeiros, Jaime José Matos da Gama, em 1 de Junho de 2001.**
+O Ministro dos Negócios Estrangeiros, Jaime José Matos da Gama, em 1 de Junho de 2001.
 
 REGULAMENTO DO CONCURSO DE ACESSO À CATEGORIA DE CONSELHEIRO DE EMBAIXADA
 

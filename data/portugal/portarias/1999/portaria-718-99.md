@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/718/1999/08/24/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/718-1999-433674
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2010-08-09T00:00:00Z'
+  retrieved_at: '2026-10-23T14:17:18Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 0021089a7888f547b36418db1bf5dfe575eb5e94773f75e3c4a3e1ddbc9b2be9
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: b225e1de39a17c41f6b4392896f5a8af6fc39de72932c051f2fb04337b614975
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T14:17:18Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -74,6 +74,29 @@ relationships:
   target: pt:dre:333477:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:320544:por
+  label: "Alterado o 1º parágrafo do preâmbulo da PORT.447/2000.2000.07.18.MADRP DR.IS-B [164].\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/447-2000-320544
+  date: '2000-07-18'
+- type: amended_by
+  target: pt:dre:386873:por
+  label: "Anexado um prédio rústico à zona de caça atribuída pela Port 817/95 de 13-Jul, alterada pelo presente diploma, pela\
+    \ PORT.14/2008.07.01.2008.MADRP, DR.IS [4] de 07.01.2008\08\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/14-2008-386873
+  date: '2008-01-07'
+- type: amended_by
+  target: pt:dre:491199:por
+  label: "Extinta a zona de caça atribuída pela Port 817/95 de 13-Jul, com as alterações constantes deste diploma, pela PORT.1158/2009.02.10.2009.MADRP,\
+    \ DR.IS [192] de 02.10.2009\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/1158-2009-491199
+  date: '2009-10-02'
+- type: amended_by
+  target: pt:dre:333477:por
+  label: "Extinta (na parte ainda não extinta), a zona de caça atribuída pela Portaria n.º 817/95, de 13 de Julho, na redacção\
+    \ do presente diploma, pela PORT.643/2010.09.08.2010.MADRP, DR.IS [153] de 09.08.2010\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/643-2010-333477
+  date: '2010-08-09'
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/136/1996/08/14/p/dre
   label: null
@@ -82,16 +105,28 @@ relationships:
   target: eli:http://data.dre.pt/eli/port/817/1995/07/13/p/dre
   label: null
   source: http://data.dre.pt/eli/port/817/1995/07/13/p/dre
+- type: cites
+  target: pt:dre:219134:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:405765:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:461271:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T14:17:18Z'
   warnings: []
   errors: []
 ---

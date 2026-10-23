@@ -20,7 +20,7 @@ publication:
   reference: Diário da República n.º 303/1999, 4º Suplemento, Série I-B de 1999-12-31
   number: '303'
   series: I
-  supplement: 4º Suplemento
+  supplement: null
   pages: 9362-(14) a 9362-(59)
   pdf_url: https://files.diariodarepublica.pt/1s/1999/12/303b04/00140059.pdf
 entry_into_force_dates: []
@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/1130-b/1999/12/31/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/1130-b-1999-548253
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2009-03-19T00:00:00Z'
+  retrieved_at: '2026-10-23T14:13:22Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 01c87eec7843b9f42d3d609a06982328f5244a2c83279fd7aa70ba23df913fc7
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: f690e087a14acc10c1b3eb9d3c3065886a0fe17140b13ddf6329e535523a899d
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T14:13:22Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,19 +66,25 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Ordenamento do Território
-- ZONA de Intervenção
 - Exposição Internacional de Lisboa de 1998
+- Ordenamento do Território
 - Parque EXPO 98
-- Política de Solos
 - Plano de Pormenor
 - Plano de Urbanização
+- Política de Solos
 - Regulamento
+- ZONA de Intervenção
 relationships:
 - type: amended_by
   target: pt:dre:2308473:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:108195835:por
+  label: Aprovada a alteração do Plano de Pormenor 3-Zona Sul-Avenida Marechal Gomes da Costa, revisto pela presente portaria,
+    pelo(a) Aviso n.º 11018/2017 - Diário da República n.º 184/2017, Série II de 2017-09-22
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/aviso/11018-2017-108195835
+  date: '2017-09-22'
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/334/1995/12/28/p/dre
   label: null
@@ -119,16 +125,188 @@ relationships:
   target: eli:http://data.dre.pt/eli/port/640/1994/07/15/p/dre
   label: null
   source: http://data.dre.pt/eli/port/640/1994/07/15/p/dre
+- type: cites
+  target: pt:dre:138128:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:158575:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:217128:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:217699:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:223811:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:226005:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:259056:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:264553:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:265171:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:265742:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:275640:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:275862:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:298836:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:304547:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:308715:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:327116:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:329816:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:329987:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:333172:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:352526:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:365924:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:397953:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:407290:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:409292:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:419647:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:430457:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:508976:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:509198:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:515806:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:546986:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:549405:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:559019:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:566071:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:631400:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:634909:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:638760:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:638904:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:638906:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:645280:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:662721:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:664336:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:669800:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:689023:por
+  label: null
+  source: null
 article_structure:
-  article_count: 125
-  section_count: 77
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  article_count: 141
+  section_count: 82
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T14:13:22Z'
   warnings: []
   errors: []
 ---
@@ -153,7 +331,7 @@ Assim, ao abrigo dos n.os 1 e 6 do artigo 2.º do [Decreto-Lei n.º 354/93](http
 
 Manda o Governo, pelo Ministro do Ambiente e do Ordenamento do Território, que sejam aprovadas as revisões do Plano de Urbanização da Zona de Intervenção da EXPO 98 e dos Planos de Pormenor da Zona de Intervenção da EXPO 98, Zona Sul, PP3, Zona Norte, PP4, Zona Central, PP1, e Zona do Recinto da EXPO 98, PP2, cujos Regulamentos, planta de zonamento, planta das UOPG, planta dos PUR e PER, planta das condicionantes e plantas de implantação se publicam em anexo à presente portaria, dela fazendo parte integrante.
 
-**O Ministro do Ambiente e do Ordenamento do Território, José Sócrates Carvalho Pinto de Sousa, em 30 de Dezembro de 1999.**
+O Ministro do Ambiente e do Ordenamento do Território, José Sócrates Carvalho Pinto de Sousa, em 30 de Dezembro de 1999.
 
 REGULAMENTO DO PLANO DE URBANIZAÇÃO DA ZONA DE INTERVENÇÃO DA EXPO 98
 
@@ -457,7 +635,7 @@ a) São estabelecidos os seguintes parâmetros urbanísticos e usos compatíveis
 
 Espaço urbano privado de uso misto
 
-[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/1999/12/303b04/00140059.pdf)
+[[[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/1999/12/303b04/00140059.pdf)](https://files.diariodarepublica.pt/1s/1999/12/303b04/00140059.pdf)](https://files.diariodarepublica.pt/1s/1999/12/303b04/00140059.pdf)
 
 b) Em caso de conversão dos usos estabelecidos nos planos de pormenor para outros usos compatíveis, o valor global da área bruta de construção para toda a área deste Plano e afecto a habitação, serviços, comércio e restauração não pode exceder, respectivamente, 0,60, 0,40, e 0,10 do somatório dos valores globais das áreas brutas de construção afectas a esses usos na área deste Plano e conforme quadro de síntese das UOPG - planos de pormenor, em anexo.
 
@@ -711,7 +889,9 @@ PR - porto de recreio.
 
 3 - Em função da singularidade urbanística da frente ribeirinha, aí se incluindo o porto de recreio, o Parque do Tejo e a área em que decorreu a Exposição Mundial de Lisboa de 1998, e do conceito de animação e valorização dos equipamentos e espaços de utilização pública aí localizados, o espaço territorial dos já referidos porto de recreio, Parque do Tejo e zona de protecção condicionada referida no artigo 11.º, n.º 4.1.1), que constitui a área emblemática do Parque das Nações, é objecto de uma gestão urbana diferenciada, que poderá ser objecto de protocolo, tendo por objectivo a consolidação e valorização dos objectivos estabelecidos para o Parque das Nações.
 
-###### Artigo 10.º — Divisão de terrenos, licenciamento e execução de projectos e obras
+###### Artigo 10.º
+
+##### Divisão de terrenos, licenciamento e execução de projectos e obras
 
 1 - Divisão de terrenos, licenciamento e execução de projectos e obras. - A Parque EXPO 98, S. A., poderá, através de protocolo com as Câmaras Municipais de Lisboa e de Loures, estabelecer as normas de procedimento para a aprovação de projectos e obras.
 
@@ -1045,7 +1225,7 @@ a.3) Rede rodoviária local -, que inclui as demais vias, as quais constituem vi
 
 Características da rede rodoviária
 
-[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/1999/12/303b04/00140059.pdf)
+[[[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/1999/12/303b04/00140059.pdf)](https://files.diariodarepublica.pt/1s/1999/12/303b04/00140059.pdf)](https://files.diariodarepublica.pt/1s/1999/12/303b04/00140059.pdf)
 
 b) A configuração da rede rodoviária, incluindo a implantação e o dimensionamento das vias e cruzamentos, poderá ser reajustada em função dos estudos de engenharia de tráfego e de arruamentos, sem alterar o conceito da rede estabelecida.
 
@@ -1243,17 +1423,19 @@ c) Aprovação dos planos de pormenor referidos na alínea a.1) do n.º 1 do art
 
 Estacionamento - Parâmetros de dimensionamento (artigo 12.º, n.º 2, do Regulamento do Plano)
 
-[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/1999/12/303b04/00140059.pdf)
+[[[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/1999/12/303b04/00140059.pdf)](https://files.diariodarepublica.pt/1s/1999/12/303b04/00140059.pdf)](https://files.diariodarepublica.pt/1s/1999/12/303b04/00140059.pdf)
 
 Quadro de síntese das UOPG - planos de pormenor [artigo 5.º, n.º 2, alíneas b) e b.1), do Regulamento do Plano]
 
-[(ver anexo no documento original)](https://files.diariodarepublica.pt/1s/1999/12/303b04/00140059.pdf)
+[[[[[(ver anexo no documento original)](https://files.diariodarepublica.pt/1s/1999/12/303b04/00140059.pdf)](https://files.diariodarepublica.pt/1s/1999/12/303b04/00140059.pdf)](https://files.diariodarepublica.pt/1s/1999/12/303b04/00140059.pdf)](https://files.diariodarepublica.pt/1s/1999/12/303b04/00140059.pdf)](https://files.diariodarepublica.pt/1s/1999/12/303b04/00140059.pdf)
 
 REGULAMENTO DO PLANO DE PORMENOR 3 - ZONA SUL AVENIDA DO MARECHAL GOMES DA COSTA
 
 ## TÍTULO I — Disposições de natureza administrativa
 
-### CAPÍTULO ÚNICO — Artigo 1.º
+### CAPÍTULO ÚNICO
+
+###### Artigo 1.º
 
 Âmbito e regime
 
@@ -1343,7 +1525,9 @@ As disposições do Regulamento são vinculativas para todas as entidades públi
 
 ## TÍTULO II — Condições gerais da concepção do espaço e uso do solo
 
-### CAPÍTULO ÚNICO — Artigo 5.º
+### CAPÍTULO ÚNICO
+
+###### Artigo 5.º
 
 Generalidades
 
@@ -1387,7 +1571,9 @@ O uso de parcela afecta a habitação, serviço, comércio/restauração, locali
 
 ### CAPÍTULO I — Generalidades
 
-###### Artigo 10.º — Divisão de terrenos
+###### Artigo 10.º
+
+##### Divisão de terrenos
 
 1 - A divisão de terrenos rege-se pelo disposto no n.º 6 do artigo 2.º do [Decreto-Lei n.º 354/93](https://diariodarepublica.pt/dr/detalhe/decreto-lei/354-1993-669800), de 9 de Outubro.
 
@@ -1491,7 +1677,9 @@ a) Quando o processo de licenciamento de arquitectura corresponda a um lote, o a
 
 ## TÍTULO IV — Condições especiais relativas às obras de urbanização
 
-### CAPÍTULO ÚNICO — Artigo 14.º
+### CAPÍTULO ÚNICO
+
+###### Artigo 14.º
 
 Caracterização das obras de urbanização e projectos das obras de urbanização
 
@@ -1665,7 +1853,9 @@ A sinalização a adoptar nos edifícios é a estabelecida no Regulamento de Ocu
 
 ## TÍTULO VI — Condições especiais relativas aos espaços exteriores
 
-### CAPÍTULO ÚNICO — Artigo 25.º
+### CAPÍTULO ÚNICO
+
+###### Artigo 25.º
 
 Espaços exteriores de utilização pública
 
@@ -1745,13 +1935,15 @@ O Plano, incluindo todos os seus elementos, pode ser consultado pelos interessad
 
 Quadro de síntese das parcelas do PP3
 
-[(ver anexo no documento original)](https://files.diariodarepublica.pt/1s/1999/12/303b04/00140059.pdf)
+[[[[[(ver anexo no documento original)](https://files.diariodarepublica.pt/1s/1999/12/303b04/00140059.pdf)](https://files.diariodarepublica.pt/1s/1999/12/303b04/00140059.pdf)](https://files.diariodarepublica.pt/1s/1999/12/303b04/00140059.pdf)](https://files.diariodarepublica.pt/1s/1999/12/303b04/00140059.pdf)](https://files.diariodarepublica.pt/1s/1999/12/303b04/00140059.pdf)
 
 REGULAMENTO DO PLANO DE PORMENOR 4 ZONA NORTE, BEIROLAS
 
 ## TÍTULO I — Disposições de natureza administrativa
 
-### CAPÍTULO ÚNICO — Artigo 1.º
+### CAPÍTULO ÚNICO
+
+###### Artigo 1.º
 
 Âmbito e regime
 
@@ -1823,7 +2015,9 @@ As disposições do Regulamento são vinculativas para todas as entidades públi
 
 ## TÍTULO II — Condições gerais da concepção do espaço e uso do solo
 
-### CAPÍTULO ÚNICO — Artigo 5.º
+### CAPÍTULO ÚNICO
+
+###### Artigo 5.º
 
 Generalidades
 
@@ -1867,7 +2061,9 @@ O uso de parcela afecta a habitação, indústria, serviço, comércio/restaura�
 
 ### CAPÍTULO I — Generalidades
 
-###### Artigo 10.º — Divisão de terrenos
+###### Artigo 10.º
+
+##### Divisão de terrenos
 
 1 - A divisão de terrenos rege-se pelo disposto no n.º 6 do artigo 2.º do [Decreto-Lei n.º 354/93](https://diariodarepublica.pt/dr/detalhe/decreto-lei/354-1993-669800), de 9 de Outubro.
 
@@ -1971,7 +2167,9 @@ a) Quando o processo de licenciamento de arquitectura corresponda a um lote, o a
 
 ## TÍTULO IV — Condições especiais relativas às obras de urbanização
 
-### CAPÍTULO ÚNICO — Artigo 14.º
+### CAPÍTULO ÚNICO
+
+###### Artigo 14.º
 
 Caracterização das obras de urbanização e projectos das obras de urbanização
 
@@ -2145,7 +2343,9 @@ A sinalização a adoptar nos edifícios é a estabelecida no Regulamento de Ocu
 
 ## TÍTULO VI — Condições especiais relativas aos espaços exteriores
 
-### CAPÍTULO ÚNICO — Artigo 25.º
+### CAPÍTULO ÚNICO
+
+###### Artigo 25.º
 
 Espaços exteriores de utilização pública
 
@@ -2225,13 +2425,15 @@ O Plano, incluindo todos os seus elementos, pode ser consultado pelos interessad
 
 Quadro de síntese das parcelas do PP4
 
-[(ver anexo no documento original)](https://files.diariodarepublica.pt/1s/1999/12/303b04/00140059.pdf)
+[[[[[(ver anexo no documento original)](https://files.diariodarepublica.pt/1s/1999/12/303b04/00140059.pdf)](https://files.diariodarepublica.pt/1s/1999/12/303b04/00140059.pdf)](https://files.diariodarepublica.pt/1s/1999/12/303b04/00140059.pdf)](https://files.diariodarepublica.pt/1s/1999/12/303b04/00140059.pdf)](https://files.diariodarepublica.pt/1s/1999/12/303b04/00140059.pdf)
 
 REGULAMENTO DO PLANO DE PORMENOR 1 ZONA CENTRAL, PLATAFORMA PANORÂMICA
 
 ## TÍTULO I — Disposições de natureza administrativa
 
-### CAPÍTULO ÚNICO — Artigo 1.º
+### CAPÍTULO ÚNICO
+
+###### Artigo 1.º
 
 Âmbito e regime
 
@@ -2309,7 +2511,9 @@ As disposições do Regulamento são vinculativas para todas as entidades públi
 
 ## TÍTULO II — Condições gerais da concepção do espaço e uso do solo
 
-### CAPÍTULO ÚNICO — Artigo 5.º
+### CAPÍTULO ÚNICO
+
+###### Artigo 5.º
 
 Generalidades
 
@@ -2355,7 +2559,9 @@ O uso de parcela afecta a habitação, serviço, comércio/restauração, locali
 
 ### CAPÍTULO I — Generalidades
 
-###### Artigo 10.º — Divisão de terrenos
+###### Artigo 10.º
+
+##### Divisão de terrenos
 
 1 - A divisão de terrenos rege-se pelo disposto no n.º 6 do artigo 2.º do [Decreto-Lei n.º 354/93](https://diariodarepublica.pt/dr/detalhe/decreto-lei/354-1993-669800), de 9 de Outubro.
 
@@ -2461,7 +2667,9 @@ a) Quando o processo de licenciamento de arquitectura corresponda a um lote, o a
 
 ## TÍTULO IV — Condições especiais relativas às obras de urbanização
 
-### CAPÍTULO ÚNICO — Artigo 14.º
+### CAPÍTULO ÚNICO
+
+###### Artigo 14.º
 
 Caracterização das obras de urbanização e projectos das obras de urbanização
 
@@ -2643,7 +2851,9 @@ A sinalização a adoptar nos edifícios é a estabelecida no Regulamento de Ocu
 
 ## TÍTULO VI — Condições especiais relativas aos espaços exteriores
 
-### CAPÍTULO ÚNICO — Artigo 26.º
+### CAPÍTULO ÚNICO
+
+###### Artigo 26.º
 
 Espaços exteriores de utilização pública
 
@@ -2721,13 +2931,15 @@ O Plano, incluindo todos os seus elementos, pode ser consultado pelos interessad
 
 Quadro de síntese das parcelas do PP1
 
-[(ver anexo no documento original)](https://files.diariodarepublica.pt/1s/1999/12/303b04/00140059.pdf)
+[[[[[(ver anexo no documento original)](https://files.diariodarepublica.pt/1s/1999/12/303b04/00140059.pdf)](https://files.diariodarepublica.pt/1s/1999/12/303b04/00140059.pdf)](https://files.diariodarepublica.pt/1s/1999/12/303b04/00140059.pdf)](https://files.diariodarepublica.pt/1s/1999/12/303b04/00140059.pdf)](https://files.diariodarepublica.pt/1s/1999/12/303b04/00140059.pdf)
 
 REGULAMENTO DO PLANO DE PORMENOR 2 ZONA DO RECINTO DA EXPO 98
 
 ## TÍTULO I — Disposições de natureza administrativa
 
-### CAPÍTULO ÚNICO — Artigo 1.º
+### CAPÍTULO ÚNICO
+
+###### Artigo 1.º
 
 Âmbito e regime
 
@@ -2797,7 +3009,9 @@ As disposições do Regulamento são vinculativas para todas as entidades públi
 
 ## TÍTULO II — Condições gerais da concepção do espaço e uso do solo
 
-### CAPÍTULO ÚNICO — Artigo 5.º
+### CAPÍTULO ÚNICO
+
+###### Artigo 5.º
 
 Generalidades
 
@@ -2843,7 +3057,9 @@ a) Na parcela 2.15, a qual resulta da junção das anteriores parcelas 2.15 a 2.
 
 ### CAPÍTULO I — Generalidades
 
-###### Artigo 10.º — Divisão de terrenos
+###### Artigo 10.º
+
+##### Divisão de terrenos
 
 1 - A divisão de terrenos rege-se pelo disposto no n.º 6 do artigo 2.º do [Decreto-Lei n.º 354/93](https://diariodarepublica.pt/dr/detalhe/decreto-lei/354-1993-669800), de 9 de Outubro.
 
@@ -2947,7 +3163,9 @@ a) Quando o processo de licenciamento de arquitectura corresponda a um lote, o a
 
 ## TÍTULO IV — Condições especiais relativas às obras de urbanização
 
-### CAPÍTULO ÚNICO — Artigo 14.º
+### CAPÍTULO ÚNICO
+
+###### Artigo 14.º
 
 Caracterização das obras de urbanização e projectos das obras de urbanização
 
@@ -3085,7 +3303,9 @@ A sinalização a adoptar nos edifícios é a estabelecida no Regulamento de Ocu
 
 ## TÍTULO VI — Condições especiais relativas aos espaços exteriores
 
-### CAPÍTULO ÚNICO — Artigo 24.º
+### CAPÍTULO ÚNICO
+
+###### Artigo 24.º
 
 Espaços exteriores de utilização pública
 
@@ -3165,4 +3385,4 @@ O Plano, incluindo todos os seus elementos, pode ser consultado pelos interessad
 
 Quadro de síntese das parcelas do PP2
 
-[(ver anexo no documento original)](https://files.diariodarepublica.pt/1s/1999/12/303b04/00140059.pdf)
+[[[[[(ver anexo no documento original)](https://files.diariodarepublica.pt/1s/1999/12/303b04/00140059.pdf)](https://files.diariodarepublica.pt/1s/1999/12/303b04/00140059.pdf)](https://files.diariodarepublica.pt/1s/1999/12/303b04/00140059.pdf)](https://files.diariodarepublica.pt/1s/1999/12/303b04/00140059.pdf)](https://files.diariodarepublica.pt/1s/1999/12/303b04/00140059.pdf)

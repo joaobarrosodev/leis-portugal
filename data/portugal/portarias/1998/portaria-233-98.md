@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/233/1998/04/14/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/233-1998-167192
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1998-04-14T00:00:00Z'
+  retrieved_at: '2026-10-23T14:07:34Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 755b202b4bf0541fdbbb03d8c8c74447d3ee529897ffe8bbf6c5fb3f98d9aced
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 8af7d8734f6e2f1023b26861d9bd2d354afc5934c8194c0b9734f7142b8ac70f
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T14:07:34Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,13 +66,13 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Administração dos Portos do Douro e Leixões
 - Administração de Portos
+- Administração dos Portos do Douro e Leixões
 - Porto de Leixões
 - Porto do Douro
+- Portos
 - Regulamento
 - Regulamento de Tarifas da Administração dos Portos do Douro e Leixões
-- Portos
 - Tarifa Portuária
 relationships:
 - type: cites
@@ -87,16 +87,32 @@ relationships:
   target: eli:http://data.dre.pt/eli/port/187/1994/03/31/p/dre
   label: null
   source: http://data.dre.pt/eli/port/187/1994/03/31/p/dre
+- type: cites
+  target: pt:dre:173716:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:517223:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:517464:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:599755:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T14:07:34Z'
   warnings: []
   errors: []
 ---
@@ -125,11 +141,11 @@ c) Taxa de porto - os valores a cobrar por tonelada indivisível ou por unidade 
 
 Valor em escudos por tonelada de mercadoria
 
-[(ver tabela no documento original)](https://files.diariodarepublica.pt/1s/1998/04/087b00/16111612.pdf)
+[[(ver tabela no documento original)](https://files.diariodarepublica.pt/1s/1998/04/087b00/16111612.pdf)](https://files.diariodarepublica.pt/1s/1998/04/087b00/16111612.pdf)
 
 Valor em escudos por unidade de carga
 
-[(ver tabela no documento original)](https://files.diariodarepublica.pt/1s/1998/04/087b00/16111612.pdf)
+[[(ver tabela no documento original)](https://files.diariodarepublica.pt/1s/1998/04/087b00/16111612.pdf)](https://files.diariodarepublica.pt/1s/1998/04/087b00/16111612.pdf)
 
 d) Os veículos de passageiros, transportados em navios roll-on/roll-off, no sistema ferry, desde que acompanhados pelos seus usufrutuários ou por estes levantados do porto (ou entregues no porto), ficam sujeitos ao pagamento da importância de 1000$00 por unidade;
 
@@ -145,6 +161,6 @@ f) Bagagem que não acompanhe os respectivos passageiros - 100$00 por tonelada.
 
 Ministério do Equipamento, do Planeamento e da Administração do Território.
 
-**Assinada em 20 de Março de 1998.**
+Assinada em 20 de Março de 1998.
 
-**O Ministro do Equipamento, do Planeamento e da Administração do Território, João Cardona Gomes Cravinho.**
+O Ministro do Equipamento, do Planeamento e da Administração do Território, João Cardona Gomes Cravinho.

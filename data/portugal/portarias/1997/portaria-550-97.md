@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/550/1997/07/25/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/550-1997-144609
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2000-03-21T00:00:00Z'
+  retrieved_at: '2026-10-23T14:03:28Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: eb47ac26db7733ac73b336e1df4cbee6cc9b8a3d0cf9f99ffc028defeedb9ab3
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: a5baa8fce92c6ca2656f9e19a95c604de16aa1a62bf1abd60f5eed56a1a1f13a
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T14:03:28Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,8 +66,8 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Ministério para a Qualificação e o Emprego
 - Instituto de Desenvolvimento e Inspecção das Condições de Trabalho
+- Ministério para a Qualificação e o Emprego
 - Pessoal de Inspecção
 - Pessoal Técnico
 - Quadro de Pessoal
@@ -76,6 +76,12 @@ relationships:
   target: pt:dre:515273:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:515273:por
+  label: "Alterado o quadro de pessoal aprovado pela Port 596-B/93 de 21-Jun, na redacção do presente diploma, pelo DR.3/2000.2000.03.21.MTS\
+    \ DR.IS-B [68]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-regulamentar/3-2000-515273
+  date: '2000-03-21'
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/219/1993/06/16/p/dre
   label: null
@@ -84,16 +90,24 @@ relationships:
   target: eli:http://data.dre.pt/eli/port/596-b/1993/06/21/p/dre
   label: null
   source: http://data.dre.pt/eli/port/596-b/1993/06/21/p/dre
+- type: cites
+  target: pt:dre:265699:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:423417:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T14:03:28Z'
   warnings: []
   errors: []
 ---
@@ -118,8 +132,8 @@ Manda o Governo, ao abrigo do artigo 28.º do [Decreto-Lei n.º 219/93](https://
 
 Presidência do Conselho de Ministros e Ministérios das Finanças e para a Qualificação e o Emprego.
 
-**Assinada em 26 de Junho de 1997.**
+Assinada em 26 de Junho de 1997.
 
 Pelo Ministro das Finanças, Maria Manuela de Brito Arcanjo Marques da Costa, Secretária de Estado do Orçamento. - Pela Ministra para a Qualificação e o Emprego, António de Lemos Monteiro Fernandes, Secretário de Estado do Trabalho. - Pelo Ministro Adjunto, Fausto de Sousa Correia, Secretário de Estado da Administração Pública.
 
-## ANEXO — [([ver documento original](https://files.diariodarepublica.pt/1s/1997/07/170b00/37773778.pdf))](https://files.diariodarepublica.pt/1s/1997/07/170b00/37773778.pdf)
+## ANEXO — [(ver documento original)](https://files.diariodarepublica.pt/1s/1997/07/170b00/37773778.pdf)

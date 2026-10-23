@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/1008/1998/12/04/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/1008-1998-222064
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1998-12-04T00:00:00Z'
+  retrieved_at: '2026-10-23T14:06:24Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: d226cc8b3b2e1ca1ebad632dd8a28b8f5b502115e949db36b9c5c770137ca575
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 0632432d55a228c9a46b3e824d6380adf47a50d8eafed629db59308f68a7975d
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T14:06:24Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -82,16 +82,32 @@ relationships:
   target: eli:http://data.dre.pt/eli/port/1173/1993/11/10/p/dre
   label: null
   source: http://data.dre.pt/eli/port/1173/1993/11/10/p/dre
+- type: cites
+  target: pt:dre:548210:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:604437:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:648134:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:686219:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T14:06:24Z'
   warnings: []
   errors: []
 ---
@@ -112,6 +128,6 @@ Manda o Governo, pelos Ministros das Finanças, Adjunto e Adjunto do Primeiro-Mi
 
 Presidência do Conselho de Ministros e Ministério das Finanças.
 
-**Assinada em 16 de Novembro de 1998.**
+Assinada em 16 de Novembro de 1998.
 
 Pelo Ministro das Finanças, João Carlos da Costa Ferreira da Silva, Secretário de Estado do Orçamento. - Pelo Ministro Adjunto, Fausto de Sousa Correia, Secretário de Estado da Administração Pública e da Modernização Administrativa. - O Ministro Adjunto do Primeiro-Ministro, José Sócrates Carvalho Pinto de Sousa.

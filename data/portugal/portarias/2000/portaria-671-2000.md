@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/671/2000/08/29/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/671-2000-328400
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2011-11-09T00:00:00Z'
+  retrieved_at: '2026-10-23T14:25:09Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: a12806f03496c19b738243ffe1bd04b7241ea26611ded2bbb0266781d4b31cd6
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 310d43245d661b199540975cb233df3968d94c0af4b72abcf8def9826091f234
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T14:25:09Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -74,6 +74,18 @@ relationships:
   target: pt:dre:3311652:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:393588:por
+  label: "Anexados vários prédios rústicos à zona de caça criada pela Port 758/98, de 14-Set, na redacção dada pela Port 712/99,\
+    \ de 24-Ago e do presente diploma, pela PORT.767/2001.2001.07.21.MADRP, DR.IS-B [168]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/767-2001-393588
+  date: '2001-07-21'
+- type: amended_by
+  target: pt:dre:333833:por
+  label: "Renovada, por um período de 12 anos, a concessão da zona de caça atribuída pela Port 758/98, de 14-Set, alterada\
+    \ pela presente portaria, pela PORT.599/2010.03.08.2010.MADRP, DR.IS [149] de 03.08.2010\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/599-2010-333833
+  date: '2010-08-03'
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/136/1996/08/14/p/dre
   label: null
@@ -86,16 +98,32 @@ relationships:
   target: eli:http://data.dre.pt/eli/port/758/1998/09/14/p/dre
   label: null
   source: http://data.dre.pt/eli/port/758/1998/09/14/p/dre
+- type: cites
+  target: pt:dre:219134:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:241208:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:405765:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:433784:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T14:25:09Z'
   warnings: []
   errors: []
 ---

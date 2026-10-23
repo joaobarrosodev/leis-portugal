@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/573/1998/08/21/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/573-1998-444473
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2004-09-29T00:00:00Z'
+  retrieved_at: '2026-10-23T14:09:50Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 6a3c68d194dd4ecfd95a4f51d0ea108f971442859328919108f815a84694aa68
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: e47f4690f2700e15d9415a07816e35fcff0f030686ed807ed62d96e5b6d4057d
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T14:09:50Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -74,6 +74,19 @@ relationships:
   target: pt:dre:616016:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:515217:por
+  label: "Suspenso o exercício da caça e de actividades de carácter venatório na zona de caça associativa concessionada pela\
+    \ Port 679/95, de 28-Jun, alterada pelo presente diploma, pela PORT.991/2004.05.08.2004.MADRP, DR.IS-B [183] de 05.08.2004\0\
+    \0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/991-2004-515217
+  date: '2004-08-05'
+- type: amended_by
+  target: pt:dre:616016:por
+  label: "Renovada, por um período de 12 anos, a concessão da zona de caça associativa concessionada pela Port 679/95, de\
+    \ 28-Jun, alterada pelo presente diploma, pela PORT.1264-BI/2004.29.09.2004.MAPF, DR.IS-B [230-Supl] de 29.09.2004\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/1264-bi-2004-616016
+  date: '2004-09-29'
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/136/1996/08/14/p/dre
   label: null
@@ -82,16 +95,28 @@ relationships:
   target: eli:http://data.dre.pt/eli/port/679/1995/06/28/p/dre
   label: null
   source: http://data.dre.pt/eli/port/679/1995/06/28/p/dre
+- type: cites
+  target: pt:dre:219134:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:405765:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:475769:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T14:09:50Z'
   warnings: []
   errors: []
 ---
@@ -112,6 +137,6 @@ Manda o Governo, pelo Ministro da Agricultura do Desenvolvimento Rural e das Pes
 
 Ministério da Agricultura, do Desenvolvimento Rural e das Pescas.
 
-**Assinada em 31 de Julho de 1998.**
+Assinada em 31 de Julho de 1998.
 
 Pelo Ministro da Agricultura, do Desenvolvimento Rural e das Pescas, Luís Manuel Capoulas Santos, Secretário de Estado da Agricultura e do Desenvolvimento Rural.

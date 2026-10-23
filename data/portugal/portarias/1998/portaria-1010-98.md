@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1998/12/280b00/66976697.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/1010/1998/12/04/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/1010-1998-222057
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1999-10-27T00:00:00Z'
+  retrieved_at: '2026-10-23T14:06:24Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 4db3fb1d347ab6d4b9219016731c242148cc41a979272e80b45183cf21bdbdc0
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 0fc5ef9e9da22fcca7ac76cb46bff59ba3ae99ffbf4faa7d24c43bc009f8eba8
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T14:06:24Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,14 +67,14 @@ reuse:
 subjects:
 - Cartório Privativo do Protesto de Letras
 - Conservador
-- Serviços de Registo e Notariado
 - Emolumento do Notariado
-- Registos e Notariado
 - Letras e Livranças
 - Notário
 - Oficial dos Registos e do Notariado
 - Pessoal Administrativo
 - Registo Civil
+- Registos e Notariado
+- Serviços de Registo e Notariado
 relationships:
 - type: amended_by
   target: pt:dre:692208:por
@@ -84,16 +84,46 @@ relationships:
   target: eli:http://data.dre.pt/eli/port/474/1998/08/04/p/dre
   label: null
   source: http://data.dre.pt/eli/port/474/1998/08/04/p/dre
+- type: cites
+  target: pt:dre:157050:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:333164:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:431209:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:573699:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:573703:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:692206:por
+  label: "Revogada pela PORT.940/99.1999.10.27.MJ, DR.IS-B [251]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/940-1999-692206
+  date: '1999-10-27'
+- type: repealed_by
+  target: pt:dre:692208:por
+  label: "Revogada pela PORT.942/99.1999.10.27.MJ, DR.IS-B [251]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/942-1999-692208
+  date: '1999-10-27'
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T14:06:24Z'
   warnings: []
   errors: []
 ---
@@ -118,6 +148,6 @@ Manda o Governo, pelo Ministro da Justiça, ao abrigo do disposto nos n.os 2 e 6
 
 Ministério da Justiça.
 
-**Assinada em 13 de Novembro de 1998.**
+Assinada em 13 de Novembro de 1998.
 
-**O Ministro da Justiça, José Eduardo Vera Cruz Jardim.**
+O Ministro da Justiça, José Eduardo Vera Cruz Jardim.

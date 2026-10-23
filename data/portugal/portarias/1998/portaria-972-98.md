@@ -26,7 +26,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1998/11/265b00/62066207.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -48,18 +48,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/972/1998/11/16/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/972-1998-229771
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2013-08-20T00:00:00Z'
+  retrieved_at: '2026-10-23T14:12:16Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: fd5ca29a6ef82dcfa3177891cc3afbe0dc74fc00735c0afe5c42500bf8ad5af2
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 700fedfd87d5316d4345eb8d29934fd75f6215df4d840916a7fae558697a6e9c
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T14:12:16Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,17 +67,24 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Cartão de Identificação
-- Serviços de Segurança
-- Empresa de Segurança
 - CÃO
-- Prestação de Serviços
+- Cartão de Identificação
+- Empresa de Segurança
 - Pessoal de Vigilância
+- Prestação de Serviços
+- Serviços de Segurança
 relationships:
 - type: amended_by
   target: pt:dre:499243:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:569761:por
+  label: "Determinada a manutenção em vigor da presente portaria, publicado ao abrigo do Dec Lei 231/98, de 22-Jul, pelo DEC\
+    \ LEI.35/2004.21.02.2004.MAI, DR.IS-A [44] de 21.02.2004 na parte em que não for materialmente incompatível, até ser substituída\0\
+    \0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/35-2004-569761
+  date: '2004-02-21'
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/231/1998/07/22/p/dre
   label: null
@@ -86,16 +93,33 @@ relationships:
   target: eli:http://data.dre.pt/eli/lei/23/1997/07/02/p/dre
   label: null
   source: http://data.dre.pt/eli/lei/23/1997/07/02/p/dre
+- type: cites
+  target: pt:dre:157636:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:179824:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:425289:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:499243:por
+  label: "Revogada, a partir de 01.09.2013, pela PORT.273/2013.20.08.2013.MAI, DR.IS [159] de 20.08.2013\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/273-2013-499243
+  date: '2013-08-20'
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T14:12:16Z'
   warnings: []
   errors: []
 ---
@@ -160,6 +184,6 @@ c) Registo diário dos locais de serviço e número de horas de utilização.
 
 Ministério da Administração Interna.
 
-**Assinada em 8 de Outubro de 1998.**
+Assinada em 8 de Outubro de 1998.
 
-**O Ministro da Administração Interna, Jorge Paulo Sacadura Almeida Coelho.**
+O Ministro da Administração Interna, Jorge Paulo Sacadura Almeida Coelho.

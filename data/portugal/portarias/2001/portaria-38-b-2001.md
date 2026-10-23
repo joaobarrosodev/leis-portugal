@@ -19,12 +19,12 @@ publication:
   reference: Diário da República n.º 14/2001, 2º Suplemento, Série I-B de 2001-01-17
   number: '14'
   series: I
-  supplement: 2º Suplemento
+  supplement: null
   pages: 254-(4) a 254-(5)
   pdf_url: https://files.diariodarepublica.pt/1s/2001/01/014b02/00040005.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/38-b/2001/01/17/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/38-b-2001-431465
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2010-12-03T00:00:00Z'
+  retrieved_at: '2026-10-23T14:31:51Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: a75da98d57ee2eaf258d7dcc32d77170011f63eee25867a509883a1e7d9d30fa
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: a76fe507baed17cde014da8cef477acfeb4434173d74eddbb705e8901c63e2ad
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T14:31:51Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -73,6 +73,20 @@ relationships:
   target: pt:dre:306641:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:607078:por
+  label: "Alterados os arts. 8.º, 8.º-A, 11.º-A, 12.º-A e 13.º, aditada uma al. n) ao n.º 2 do art. 4.º e um travessão 13\
+    \ ao anexo I e revogados os n.ºs 3, 4 e 5 do art. 8.º-A, todos do Regulamento, aprovado pela Port 561/90, de 19-Jul, alterada\
+    \ pela Port 17-A/99, de 12-Jan e pelo presente diploma, pela PORT.80/2004.21.01.2004.MADRP, DR.IS-B [17] de 21.01.2004\0\
+    4\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/80-2004-607078
+  date: '2004-01-21'
+- type: amended_by
+  target: pt:dre:306641:por
+  label: "Alterados os arts.4.º e 8.º-A do Regulamento da Pesca no Rio Lima, aprovado pela Port 561/90, de 19-Jul, na redacção\
+    \ do presente diploma, republicado pela PORT.1220/2010.03.12.2010.MADRP, DR.IS [234] de 03.12.2010\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/1220-2010-306641
+  date: '2010-12-03'
 - type: cites
   target: eli:http://data.dre.pt/eli/decregul/7/2000/05/30/p/dre
   label: null
@@ -81,16 +95,32 @@ relationships:
   target: eli:http://data.dre.pt/eli/port/17-a/1999/01/12/p/dre
   label: null
   source: http://data.dre.pt/eli/port/17-a/1999/01/12/p/dre
+- type: cites
+  target: pt:dre:213796:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:292958:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:420460:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:572897:por
+  label: null
+  source: null
 article_structure:
-  article_count: 3
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T14:31:51Z'
   warnings: []
   errors: []
 ---
@@ -129,7 +159,9 @@ Artes de pesca autorizadas
 
 m) Berbigoeiro (para a captura de berbigão e outros bivalves).
 
-###### Artigo 8.º-A — Pesca de lampreia com tresmalho
+Artigo 8.º-A
+
+Pesca de lampreia com tresmalho
 
 1 - ...
 
@@ -145,7 +177,9 @@ a) Actividade de pesca com tresmalho de lampreia, devidamente comprovado atravé
 
 b) Armadores titulares de licença de tresmalho de lampreia que, no ano anterior, tenham efectuado a entrega voluntária de, pelo menos, quatro lampreias, vivas e em condições de serem utilizadas para efeitos de repovoamento, nos termos a determinar por edital da Capitania do Porto de Viana do Castelo, nos quais serão determinadas as datas em que os exemplares deverão ser entregues, o local onde ficarão armazenados e a entidade responsável pelo repovoamento.
 
-###### Artigo 11.º-A — Funcionamento dos turnos de tresmalho de lampreia
+Artigo 11.º-A
+
+Funcionamento dos turnos de tresmalho de lampreia
 
 O exercício da pesca com tresmalho para a captura de lampreia, no sistema de turnos, fica sujeito aos seguintes condicionalismos:
 
@@ -163,7 +197,9 @@ f) Os períodos em que os turnos actuam são rotativos, seguindo o esquema a aco
 
 g) Quando as condições atmosféricas, ou quaisquer outras circunstâncias, não permitam o exercício da pesca com tresmalho de deriva de lampreia, o turno a que competir pescar nesse dia perde a vez.
 
-## ANEXO I — Descrição e características das artes autorizadas
+ANEXO I
+
+Descrição e características das artes autorizadas
 
 ...
 
@@ -219,7 +255,9 @@ a) É fixado o limite máximo diário de captura, por espécie, de:
 
 b) Sem prejuízo do disposto na alínea anterior, é fixada, para cada embarcação, uma captura máxima diária de 100 kg de bivalves.
 
-###### Artigo 13.º — Períodos de defeso
+Artigo 13.º
+
+Períodos de defeso
 
 1 - ...
 

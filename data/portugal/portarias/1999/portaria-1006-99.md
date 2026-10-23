@@ -50,18 +50,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/1006/1999/11/12/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/1006-1999-682832
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1999-11-12T00:00:00Z'
+  retrieved_at: '2026-10-23T14:12:31Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 6037861c5398253e92358a7fddf970701e013774acae4c6c9d6dbd5f80c0649e
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 8310321787e4bd66a3cd1549ccefc87bb9cd10a62bf712be3f50abc6148ebb02
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T14:12:31Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -71,6 +71,9 @@ reuse:
 subjects:
 - Aveiro
 - Barcelos
+- Bragança
+- Castelo Branco
+- Coimbra
 - Elvas
 - Ensino Oficial
 - Ensino Superior Politécnico
@@ -85,7 +88,7 @@ subjects:
 - Escola Superior de Tecnologia
 - Escola Superior de Tecnologia e Gestão
 - Escola Superior de Tecnologia Gestão ARTE e Design
-- Lisboa
+- Guarda
 - Idanha-a-nova
 - Instituto Politécnico
 - Instituto Politécnico do Cávado e do AVE
@@ -93,19 +96,16 @@ subjects:
 - Instituto Superior de Engenharia
 - Leiria
 - Licenciatura
+- Lisboa
 - Numerus Clausus
-- Setúbal
-- Castelo Branco
-- VILA do Conde
-- Coimbra
 - Portalegre
+- Porto
 - Póvoa de Varzim
 - Santarém
-- Bragança
+- Setúbal
 - Tomar
-- Porto
-- Guarda
 - Viana do Castelo
+- VILA do Conde
 - Viseu
 relationships:
 - type: cites
@@ -124,16 +124,40 @@ relationships:
   target: eli:http://data.dre.pt/eli/port/630-b/1999/08/10/p/dre
   label: null
   source: http://data.dre.pt/eli/port/630-b/1999/08/10/p/dre
+- type: cites
+  target: pt:dre:147873:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:222418:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:240466:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:429596:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:453184:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:653145:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T14:12:31Z'
   warnings: []
   errors: []
 ---

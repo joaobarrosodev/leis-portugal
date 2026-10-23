@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/226/2001/03/19/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/226-2001-388616
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2001-03-19T00:00:00Z'
+  retrieved_at: '2026-10-23T14:30:56Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 074c9e3b4ae9ea9d70ed92344bb10717d9f6554fd28e10fa501e36b4e5526a1c
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 39ac48b615221a638f33d5ce7ea11111d928a5964d5919e062ac897e9e1cd384
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T14:30:56Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,22 +66,22 @@ reuse:
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
 - Cobrança de Impostos
-- Pagamento
 - Contribuições e Impostos
-- Veículo
-- Prazo
 - Imposto sobre Veículos
+- Pagamento
+- Prazo
+- Veículo
 relationships: []
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T14:30:56Z'
   warnings: []
   errors: []
 ---
@@ -102,4 +102,4 @@ a) Tratando-se de veículos novos, nos oito dias imediatos à data da aquisiçã
 
 b) Tratando-se de veículos de matrícula nacional saídos do País em data em que ainda não estava à cobrança o imposto, nos oito dias seguintes àquele em que regressem ao País, desde que a entrada seja devidamente comprovada.
 
-**O Ministro das Finanças, Joaquim Augusto Nunes Pina Moura, em 1 de Março de 2001.**
+O Ministro das Finanças, Joaquim Augusto Nunes Pina Moura, em 1 de Março de 2001.

@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/542/1999/07/23/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/542-1999-352561
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1999-07-23T00:00:00Z'
+  retrieved_at: '2026-10-23T14:16:08Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 8460f37b674f546ea3d05cef2946557d5b4fe10025e330084c2d3af87deadbeb
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 566389504ac7679eb8b87e3c52dca2a560f3807586d66f87618eba1d473e37ef
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T14:16:08Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,22 +67,30 @@ reuse:
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
 - Cartório Notarial
+- Conservatória do Registo Civil
 - Conservatória do Registo Comercial
 - Conservatória do Registo Predial
 - Criação de Serviços
-- Conservatória do Registo Civil
 - Trofa
-relationships: []
+relationships:
+- type: cites
+  target: pt:dre:157050:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:462214:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T14:16:08Z'
   warnings: []
   errors: []
 ---
@@ -107,4 +115,4 @@ c) A Conservatória do Registo Civil, de 3.ª classe.
 
 3.º A data de entrada em funcionamento dos novos serviços é fixada por despacho do director-geral dos Registos e do Notariado.
 
-**O Ministro da Justiça, José Eduardo Vera Cruz Jardim, em 6 de Julho de 1999.**
+O Ministro da Justiça, José Eduardo Vera Cruz Jardim, em 6 de Julho de 1999.

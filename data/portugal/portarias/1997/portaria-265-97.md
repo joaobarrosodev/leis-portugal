@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/265/1997/04/17/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/265-1997-469649
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1997-04-17T00:00:00Z'
+  retrieved_at: '2026-10-23T14:01:37Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: a44a74131856e780ba0255c2180e1f439db12c28ec4763393534bd54ffadea5b
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 27aa1ebe852bc3cf471467ad6bd60caa37e289dc391b2a4ff36122d5ef11a172
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T14:01:37Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,25 +67,33 @@ reuse:
 subjects:
 - Almodôvar
 - Ordenamento do Território
-- Política de Solos
 - Plano de Pormenor
 - Plano de Urbanização
+- Política de Solos
 - Regulamento
 relationships:
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/211/1992/10/08/p/dre
   label: null
   source: http://data.dre.pt/eli/dec-lei/211/1992/10/08/p/dre
+- type: cites
+  target: pt:dre:228186:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:332412:por
+  label: null
+  source: null
 article_structure:
   article_count: 14
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T14:01:37Z'
   warnings: []
   errors: []
 ---
@@ -108,9 +116,9 @@ Manda o Governo, pelo Secretário de Estado da Administração Local e Ordenamen
 
 Ministério do Equipamento, do Planeamento e da Administração do Território.
 
-**Assinada em 19 de Março de 1997.**
+Assinada em 19 de Março de 1997.
 
-**O Secretário de Estado da Administração Local e Ordenamento do Território, José Augusto de Carvalho.**
+O Secretário de Estado da Administração Local e Ordenamento do Território, José Augusto de Carvalho.
 
 REGULAMENTO DO PLANO DE PORMENOR DO CERRO DAS EIRAS - GOMES AIRES
 
@@ -170,4 +178,4 @@ Não serão admitidos socos nem emolduramentos nem desperdícios de mármore.
 
 Em tudo o mais omisso neste Regulamento serão observados os regulamentos e normas em vigor.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1997/04/090b00/17211722.pdf))](https://files.diariodarepublica.pt/1s/1997/04/090b00/17211722.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1997/04/090b00/17211722.pdf)

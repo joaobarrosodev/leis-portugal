@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/393/1999/05/29/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/393-1999-316720
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1999-05-29T00:00:00Z'
+  retrieved_at: '2026-10-23T14:15:08Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 4eb65e97b8c0faddb5d33e7572eadc86e4950c57f7850c96e94f6ff44b2c0d98
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 1ae19c061ec2c2a17bc483c3886c72aeaa257dd6bfda332836bf89ddd25823ca
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T14:15:08Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -69,17 +69,25 @@ subjects:
 - Desvalorização da Moeda
 - Moeda
 - Taxa
-relationships: []
+relationships:
+- type: cites
+  target: pt:dre:518992:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:519003:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T14:15:08Z'
   warnings: []
   errors: []
 ---
@@ -92,4 +100,4 @@ Manda o Governo, plo Secretário de Estado dos Assuntos Fiscais, nos termos do a
 
 [(ver tabela no documento original)](https://files.diariodarepublica.pt/1s/1999/05/125b00/30723072.pdf)
 
-**O Secretário de Estado dos Assuntos Fiscais, António Carlos dos Santos, em 10 de Maio de 1999.**
+O Secretário de Estado dos Assuntos Fiscais, António Carlos dos Santos, em 10 de Maio de 1999.

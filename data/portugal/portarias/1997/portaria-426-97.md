@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1997/06/148b00/31723173.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/426/1997/06/30/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/426-1997-161885
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2000-05-09T00:00:00Z'
+  retrieved_at: '2026-10-23T14:02:43Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: ba1f9f75ee58fe5554c8eb1f6f17f12e7450ebf1d0ec59c0ada8c61239222ceb
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: beb0ab730972d10bda014f2b69cb3251861858e614123d6385a112019ce0d550
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T14:02:43Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,9 +66,9 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Leite
 - Instituto Nacional de Garantia Agrícola
 - Jovem Agricultor
+- Leite
 - Produção Leiteira
 - Quota de Produção
 relationships:
@@ -76,6 +76,12 @@ relationships:
   target: pt:dre:275870:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:566222:por
+  label: "Alterado o nº 1 do nº 14º da Port 115/96 de 12-Abr, na redacção do presente diploma, pela PORT.116-C/2000.2000.03.01.MADRP\
+    \ DR.IS-B [51]3º Supl\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/116-c-2000-566222
+  date: '2000-03-01'
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/108/1991/03/15/p/dre
   label: null
@@ -88,16 +94,33 @@ relationships:
   target: eli:http://data.dre.pt/eli/port/980/1995/08/16/p/dre
   label: null
   source: http://data.dre.pt/eli/port/980/1995/08/16/p/dre
+- type: cites
+  target: pt:dre:475536:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:477870:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:566244:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:275870:por
+  label: "Revogada pelo DEC LEI.80/2000.2000.05.09.MADRP, DR.IS-A [107]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/80-2000-275870
+  date: '2000-05-09'
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T14:02:43Z'
   warnings: []
   errors: []
 ---
@@ -194,6 +217,6 @@ e) ...»
 
 Ministério da Agricultura, do Desenvolvimento Rural e das Pescas.
 
-**Assinada em 2 de Junho de 1997.**
+Assinada em 2 de Junho de 1997.
 
 Pelo Ministro da Agricultura, do Desenvolvimento Rural e das Pescas, Manuel Maria Cardoso Leal, Secretário de Estado da Produção Agro-Alimentar.

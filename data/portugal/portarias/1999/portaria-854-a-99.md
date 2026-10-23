@@ -19,7 +19,7 @@ publication:
   reference: Diário da República n.º 232/1999, 1º Suplemento, Série I-B de 1999-10-04
   number: '232'
   series: I
-  supplement: 1º Suplemento
+  supplement: null
   pages: 6768-(2) a 6768-(4)
   pdf_url: https://files.diariodarepublica.pt/1s/1999/10/232b01/00020004.pdf
 entry_into_force_dates: []
@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/854-a/1999/10/04/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/854-a-1999-281835
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2022-05-31T00:00:00Z'
+  retrieved_at: '2026-10-23T14:18:14Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: b582c15e67452118abf8c5a4eec511a0d5ea86fae602fb367b0778e4a0276b34
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: ed20f1a24601479084ea39d309fd949ad77e2b7bc2536e3fe973f4f7b728265e
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T14:18:14Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -69,38 +69,53 @@ subjects:
 - Conselho Coordenador dos Institutos Superiores Politécnicos
 - Conselho de Reitores das Universidades Portuguesas
 - Definição de Competências
+- Direção Geral do Ensino Superior
+- Ensino
 - Ensino Cooperativo
 - Ensino Oficial
 - Ensino Particular
+- Ensino Superior
+- Estabelecimento de Ensino
 - Estudante
 - Exame AD HOC
 - Habilitações Literárias
-- Direção Geral do Ensino Superior
-- Ensino
-- Estabelecimento de Ensino
 - Reclamação
 - Regulamento
-- Ensino Superior
 - Regulamento dos Concursos Especiais para Acesso ao Ensino Superior
 relationships:
 - type: amended_by
   target: pt:dre:184181415:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:631210:por
+  label: "Alterado o art. 4º e aditado o art. 3º-A, pela PORT.1081/2001.2001.09.05.ME, DR.IS-B [206]\0]\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/1081-2001-631210
+  date: '2001-09-05'
+- type: amended_by
+  target: pt:dre:303183:por
+  label: "Aditados um nº 3 ao art. 3º-A e os arts. 3º-B e 11º-A ao Regulamento dos Concursos de Acesso ao Ensino Superior,\
+    \ com a redacção conferida pela Port 1081/2001 de 05-Set, pela PORT.393/2002.2002.04.12.ME DR.IS-B [86]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/393-2002-303183
+  date: '2002-04-12'
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/393-b/1999/10/02/p/dre
   label: null
   source: http://data.dre.pt/eli/dec-lei/393-b/1999/10/02/p/dre
+- type: cites
+  target: pt:dre:159115:por
+  label: null
+  source: null
 article_structure:
   article_count: 16
   section_count: 3
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T14:18:14Z'
   warnings: []
   errors: []
 ---

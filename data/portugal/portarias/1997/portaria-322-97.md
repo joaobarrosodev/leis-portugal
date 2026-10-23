@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/322/1997/05/13/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/322-1997-395143
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1997-05-13T00:00:00Z'
+  retrieved_at: '2026-10-23T14:02:02Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 6fb681d48c87652e6dcae46cc4af572171cc639348de81855e8f37f9895d1069
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 593e3e9380455d48dd990b4fa39f4e7c3a4db92d6cac483743f5ce6a4be91c52
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T14:02:02Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,9 +66,9 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Plano de Estudos
 - Curso Superior de Biotecnologia
 - Instituto Superior de Humanidades e Tecnologias
+- Plano de Estudos
 - Torres Vedras
 relationships:
 - type: cites
@@ -83,16 +83,32 @@ relationships:
   target: eli:http://data.dre.pt/eli/port/1193/1993/11/13/p/dre
   label: null
   source: http://data.dre.pt/eli/port/1193/1993/11/13/p/dre
+- type: cites
+  target: pt:dre:512030:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:533820:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:618546:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:692003:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T14:02:02Z'
   warnings: []
   errors: []
 ---
@@ -165,7 +181,7 @@ A autorização e o reconhecimento operados pelo presente diploma não prejudica
 
 Ministério da Educação.
 
-**Assinada em 9 de Abril de 1997.**
+Assinada em 9 de Abril de 1997.
 
 Pelo Ministro da Educação, Alfredo Jorge Silva, Secretário de Estado do Ensino Superior.
 
@@ -173,4 +189,4 @@ Pelo Ministro da Educação, Alfredo Jorge Silva, Secretário de Estado do Ensin
 
 Grau de bacharelato
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1997/05/110b00/23162318.pdf))](https://files.diariodarepublica.pt/1s/1997/05/110b00/23162318.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1997/05/110b00/23162318.pdf)

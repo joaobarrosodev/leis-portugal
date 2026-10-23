@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/277/2000/05/22/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/277-2000-300001
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2000-05-22T00:00:00Z'
+  retrieved_at: '2026-10-23T14:22:36Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 7c0287e48c777d8ce0168b3ac2bda5c4a723bb1d5f4004e69416600b438caeed
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: b765024460a9fb22a8dfb57b983afd6de6cbe62c3e17091ccefa512fcc810d1e
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T14:22:36Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,7 +66,6 @@ reuse:
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
 - Comissão Instaladora
-- Ministério da Educação
 - Denominação de Instituição
 - Ensino Agrícola
 - Ensino Oficial
@@ -74,6 +73,7 @@ subjects:
 - Escola Profissional
 - Escola Profissional de Agricultura e Desenvolvimento Rural
 - Mandato
+- Ministério da Educação
 - Regime de Instalação
 - Vagos
 relationships:
@@ -109,16 +109,52 @@ relationships:
   target: eli:http://data.dre.pt/eli/port/846/1994/09/21/p/dre
   label: null
   source: http://data.dre.pt/eli/port/846/1994/09/21/p/dre
+- type: cites
+  target: pt:dre:155636:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:208255:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:224851:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:382192:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:476315:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:534636:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:546844:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:587844:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:609609:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T14:22:36Z'
   warnings: []
   errors: []
 ---

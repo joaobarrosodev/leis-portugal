@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/656/2000/08/28/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/656-2000-329843
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2000-08-28T00:00:00Z'
+  retrieved_at: '2026-10-23T14:25:03Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 14d40aefa5ebe3b970262c7bafd0e871061538b6cbb4c36a4873a4202f040953
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 49b0bf7f31c6e32c4be657f6c45e6c7dc16083770343e19d1ff5db8e4c5e1aad
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T14:25:03Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,31 +66,39 @@ reuse:
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
 - Cédula Profissional
-- Marinha Mercante
-- Pessoal do MAR
+- Condutor
+- Descrição de Funções
 - Equivalência de Categorias
 - Escola de Pesca e de Marinha do Comércio
 - Exame
-- Instituto Marítimo-portuário
 - Inscrição Marítima
+- Instituto Marítimo-portuário
+- Marinha Mercante
 - Ministro do Equipamento Social
-- Condutor
-- Descrição de Funções
+- Pessoal do MAR
 relationships:
 - type: cites
   target: eli:http://data.dre.pt/eli/port/161/1998/03/16/p/dre
   label: null
   source: http://data.dre.pt/eli/port/161/1998/03/16/p/dre
+- type: cites
+  target: pt:dre:186559:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:615193:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T14:25:03Z'
   warnings: []
   errors: []
 ---
@@ -145,4 +153,4 @@ b) À categoria de ajudante de motorista, os marítimos que, nos últimos cinco 
 
 Em 1 de Agosto de 2000.
 
-**O Ministro do Equipamento Social, Jorge Paulo Sacadura Almeida Coelho. - O Ministro da Defesa Nacional, Júlio de Lemos de Castro Caldas. - O Ministro da Agricultura, do Desenvolvimento Rural e das Pescas, Luís Manuel Capoulas Santos.**
+O Ministro do Equipamento Social, Jorge Paulo Sacadura Almeida Coelho. - O Ministro da Defesa Nacional, Júlio de Lemos de Castro Caldas. - O Ministro da Agricultura, do Desenvolvimento Rural e das Pescas, Luís Manuel Capoulas Santos.

@@ -20,7 +20,7 @@ publication:
   reference: Diário da República n.º 30/1998, 1º Suplemento, Série I-B de 1998-02-05
   number: '30'
   series: I
-  supplement: 1º Suplemento
+  supplement: null
   pages: 506-(2) a 506-(3)
   pdf_url: https://files.diariodarepublica.pt/1s/1998/02/030b01/00020003.pdf
 entry_into_force_dates: []
@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/56-a/1998/02/05/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/56-a-1998-518792
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2006-01-24T00:00:00Z'
+  retrieved_at: '2026-10-23T14:09:45Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 4a24cb813eb5604ea8e70aa5ee5d8001aa3c0f708532cb1e7fc6ed7799bed01b
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: c5561150e18af80d55c0e8c1c3637c55caca93377f4a5a77392d16d29ce2d2e2
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T14:09:45Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,8 +66,8 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Informática
 - Habilitações Literárias
+- Informática
 - Pessoal Docente
 - Qualificação Profissional
 relationships:
@@ -75,6 +75,19 @@ relationships:
   target: pt:dre:540190:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:587422:por
+  label: "Aditadas outras habilitações às constantes do anexo I da Port 92/97 de 02-Fev, com a redacção conferida pelo presente\
+    \ diploma, pela PORT.16-A/2000.2000.01.18.MPORT.16-A/2000.2000.01.18.ME DR.IS-B [14]Supl\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/16-a-2000-587422
+  date: '2000-01-18'
+- type: amended_by
+  target: pt:dre:540190:por
+  label: "Aditadas, as habilitações próprias reconhecidas para a docência, ao elenco de cursos reconhecidos como habilitações\
+    \ próprias para os 2.º e 3.º ciclos do ensino básico e ensino secundário, constante do DN 32/84 de 09-Fev, bem como ao\
+    \ elenco constante do presente diploma, pela PORT.88/2006.24.01.2006.ME, DR.IS-B [17] de 24.01.2006\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/88-2006-540190
+  date: '2006-01-24'
 - type: cites
   target: eli:http://data.dre.pt/eli/despnorm/7/1997/02/07/p/dre
   label: null
@@ -87,16 +100,32 @@ relationships:
   target: eli:http://data.dre.pt/eli/port/92/1997/02/06/p/dre
   label: null
   source: http://data.dre.pt/eli/port/92/1997/02/06/p/dre
+- type: cites
+  target: pt:dre:558268:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:559026:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:618310:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:672132:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T14:09:45Z'
   warnings: []
   errors: []
 ---
@@ -117,9 +146,9 @@ Manda o Governo, pelo Ministro da Educação, que ao elenco das habilitações c
 
 Ministério da Educação.
 
-**Assinada em 5 de Fevereiro de 1998.**
+Assinada em 5 de Fevereiro de 1998.
 
-**O Ministro da Educação, Eduardo Carrega Marçal Grilo.**
+O Ministro da Educação, Eduardo Carrega Marçal Grilo.
 
 ## ANEXO I — Habilitações próprias para a docência do grupo de Informática no ensino secundário
 

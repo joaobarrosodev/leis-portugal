@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/93/1999/02/03/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/93-1999-184954
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2005-08-18T00:00:00Z'
+  retrieved_at: '2026-10-23T14:18:40Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: ab395c0a7781523021cc4571e8f273d8ff120257d724fd57e9f91b1a80eba050
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: ba8b1b3785b75705f2bc77b667ec7840d9022bc91f96696372a12f5c40b98133
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T14:18:40Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -74,6 +74,12 @@ relationships:
   target: pt:dre:243174:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:243174:por
+  label: "Renovada, por um período de doze anos, a concessão da zona de caça atribuída pela Port 667-M5/93, de 14-Jul, alterada\
+    \ pela presente portaria, pela PORT.687/2005.18.08.2005.MADRP, DR.IS-B [158] de 18.08.2005\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/687-2005-243174
+  date: '2005-08-18'
 - type: cites
   target: eli:http://data.dre.pt/eli/port/667-m5/1993/07/14/p/dre
   label: null
@@ -82,16 +88,24 @@ relationships:
   target: eli:http://data.dre.pt/eli/port/831/1997/09/06/p/dre
   label: null
   source: http://data.dre.pt/eli/port/831/1997/09/06/p/dre
+- type: cites
+  target: pt:dre:402139:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:642883:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T14:18:40Z'
   warnings: []
   errors: []
 ---
@@ -114,7 +128,7 @@ Manda o Governo, pelo Ministro da Agricultura, do Desenvolvimento Rural e das Pe
 
 Ministério da Agricultura, do Desenvolvimento Rural e das Pescas.
 
-**Assinada em 13 de Janeiro de 1999.**
+Assinada em 13 de Janeiro de 1999.
 
 Pelo Ministro da Agricultura, do Desenvolvimento Rural e das Pescas, Victor Manuel Coelho Barros, Secretário de Estado do Desenvolvimento Rural.
 

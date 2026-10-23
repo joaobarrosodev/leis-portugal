@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/2s/2009/11/228000000/4794847948.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -47,18 +47,18 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/declaracao-rectificacao/2906-2009-1528630
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2009-11-24T00:00:00Z'
+  retrieved_at: '2026-10-23T14:09:50Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 35e3078250ba86c3abf851d6f3d274500426d00f7dac24c39828007efdfbd0e6
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 75d1b0ec9cbe10accf4d93e72bf4f26225b7ea5cbc189ad26390eb58f50f315f
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T14:09:50Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -70,13 +70,13 @@ relationships: []
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T14:09:50Z'
   warnings: []
   errors: []
 ---
@@ -88,3 +88,5 @@ Declaração de rectificação n.º 2906/2009
 Por ter sido saído com inexactidão o aviso n.º 20 652, publicado no Diário da República, 2.ª série, n.º 222, de 16 de Novembro 2009, rectifica-se que onde se lê «Abertura de Procedimento Concursal Comum para preenchimento de 70 postos de trabalho na carreira de Técnico Superior» deve ler-se «Abertura de Procedimento Concursal Comum para preenchimento de 70 postos de trabalho na carreira de Técnico Superior - Ref.ªA9 - Rede de Centros de Emprego da Delegação Regional do Norte» e onde se lê «20 de Novembro de 2009» deve ler-se «10 de Novembro de 2009».
 
 17 de Novembro de 2009. - A Directora, Sara Maria Murta Ribeiro.
+
+202597544

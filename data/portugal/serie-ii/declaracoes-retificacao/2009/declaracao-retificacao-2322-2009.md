@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/2s/2009/09/181000000/3806838068.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -47,18 +47,18 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/declaracao-rectificacao/2322-2009-1312624
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2009-09-17T00:00:00Z'
+  retrieved_at: '2026-10-23T14:06:19Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: d309fc628a3f037c82f54276e34284ecefca00af171b1071a2c1a16c03dc6eeb
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: da0a78e6f563d75691605664b9d1c8988d0ac633e693b1b622ba48477befc246
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T14:06:19Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -70,13 +70,13 @@ relationships: []
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T14:06:19Z'
   warnings: []
   errors: []
 ---
@@ -96,3 +96,5 @@ Deverá ler-se 1.º - João Manuel Lopes Nunes - 19,23 valores; 2.º - Alberto M
 Eliminados por terem obtido classificação inferior a 9,50 valores os seguintes candidatos: Óscar Filipe Capela Madail de Oliveira, João Pedro Vaz Santos, Paulo Jorge Bastos Oliveira, André dos Santos Magro Ribeiro Janicas, Franco Manuel Rebelo Barros, Cátia Alexandra Correia Duarte, Miguel António Rodrigues Costa e Filipe Alexandre Dias Duarte.
 
 3 de Setembro de 2009. - O Vice-Presidente da Câmara, em substituição do Vereador dos Recursos Humanos, por impedimento legal do mesmo, Abílio José Ferreira da Silveira.
+
+302262949

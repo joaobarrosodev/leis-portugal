@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/282/1998/05/06/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/282-1998-516928
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1998-05-06T00:00:00Z'
+  retrieved_at: '2026-10-23T14:07:50Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: c3ab7d4a37479bce47e7e6861fa1d7a6edc6c10d4a728f245b3ed4df301affd0
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 34d3c1f7255cd30773de0465b07417bb3a640889af6e7387a9b177d4e2f74d1a
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T14:07:50Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -65,22 +65,30 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Formação Profissional
-- Pessoal do MAR
 - Ensino Náutico
 - Escola Náutica Infante Dom Henrique
+- Formação Profissional
 - Navegação Marítima
-relationships: []
+- Pessoal do MAR
+relationships:
+- type: cites
+  target: pt:dre:565790:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:615193:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T14:07:50Z'
   warnings: []
   errors: []
 ---
@@ -121,9 +129,9 @@ b) Comprovem o embarque, durante, pelo menos, dois anos nos últimos cinco, em n
 
 Ministério do Equipamento, do Planeamento e da Administração do Território.
 
-**Assinada em 15 de Abril de 1998.**
+Assinada em 15 de Abril de 1998.
 
-**O Ministro do Equipamento, do Planeamento e da Administração do Território, João Cardona Gomes Cravinho.**
+O Ministro do Equipamento, do Planeamento e da Administração do Território, João Cardona Gomes Cravinho.
 
 ## ANEXO I — Modelo de certificado do curso de ARPA em Simulador, a que se refere o n.º 7.º
 

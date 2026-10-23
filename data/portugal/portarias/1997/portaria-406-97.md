@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/406/1997/06/23/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/406-1997-164380
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1997-06-23T00:00:00Z'
+  retrieved_at: '2026-10-23T14:02:33Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: b7ba8c83e3ccdd9d237dc9338201fc82190a74e072dff88f25f9d44a3b50f202
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: efb3b62bf650d8d7504b7549508d1d3d0094cacfc2c1c1f004b3a122f8b45538
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T14:02:33Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -65,11 +65,11 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Ordenamento do Território
-- Política de Solos
-- Plano de Pormenor
-- Regulamento
 - Cascais
+- Ordenamento do Território
+- Plano de Pormenor
+- Política de Solos
+- Regulamento
 relationships:
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/211/1992/10/08/p/dre
@@ -91,16 +91,48 @@ relationships:
   target: eli:http://data.dre.pt/eli/dec-lei/79/1995/04/20/p/dre
   label: null
   source: http://data.dre.pt/eli/dec-lei/79/1995/04/20/p/dre
+- type: cites
+  target: pt:dre:223811:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:226005:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:228186:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:321486:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:332412:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:333172:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:555832:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:618126:por
+  label: null
+  source: null
 article_structure:
   article_count: 17
   section_count: 7
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T14:02:33Z'
   warnings: []
   errors: []
 ---
@@ -125,9 +157,9 @@ Manda o Governo, pelo Secretário de Estado da Administração Local e Ordenamen
 
 Ministério do Equipamento, do Planeamento e da Administração do Território.
 
-**Assinada em 13 de Maio de 1997.**
+Assinada em 13 de Maio de 1997.
 
-**O Secretário de Estado da Administração Local e Ordenamento do Território, José Augusto de Carvalho.**
+O Secretário de Estado da Administração Local e Ordenamento do Território, José Augusto de Carvalho.
 
 REGULAMENTO DO PLANO DE PORMENOR DA AVENIDA DA VENEZUELA, NO MUNICÍPIO DE CASCAIS
 
@@ -307,4 +339,4 @@ Exterior ... 20
 
 Total ... 158
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1997/06/142b00/30513053.pdf))](https://files.diariodarepublica.pt/1s/1997/06/142b00/30513053.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1997/06/142b00/30513053.pdf)

@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/2s/2009/12/244000000/5124251242.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -47,18 +47,18 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/declaracao-rectificacao/3028-2009-2348785
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2009-12-18T00:00:00Z'
+  retrieved_at: '2026-10-23T14:10:30Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: a4476821f8403de28d801bfb4b44377e1c6a7cb9c03123f3e9572a10edc7bad5
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: de0fbd251059062db39eeb0124b5a8c406c77dfe6c2dfa378172935d6463d14a
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T14:10:30Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,22 +66,26 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects: []
-relationships: []
+relationships:
+- type: cites
+  target: pt:dre:578678:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T14:10:30Z'
   warnings: []
   errors: []
 ---
 
-# Declaração de Rectificação n.º 3028/2009
+# Declaração de rectificação n.º 3028/2009
 
 Por ter saído com inexactidão a publicação inserta no Diário da República., 2.ª série, n.º 202, de 19 de Outubro de 2009, o despacho (extracto) n.º 23 006/2009, referente ao júri do concurso de provas públicas para um lugar de professor-coordenador, para a área científica de Tecnologias da Saúde, grupo disciplinar de Farmácia, republica-se o mesmo:
 
@@ -102,3 +106,5 @@ Agostinho Luís da Silva Cruz, professor-coordenador da Escola Superior de Tecno
 Rui Santos Cruz, professor-coordenador da Escola Superior de Tecnologia da Saúde de Coimbra.
 
 11 de Dezembro de 2009. - A Directora de Serviços de Recursos Humanos, Mariana Farrusco.
+
+202681119

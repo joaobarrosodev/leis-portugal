@@ -19,7 +19,7 @@ publication:
   reference: Diário da República n.º 95/2001, 2º Suplemento, Série I-B de 2001-04-23
   number: '95'
   series: I
-  supplement: 2º Suplemento
+  supplement: null
   pages: 2334-(10) a 2334-(11)
   pdf_url: https://files.diariodarepublica.pt/1s/2001/04/095b02/00100011.pdf
 entry_into_force_dates: []
@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/428-a/2001/04/23/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/428-a-2001-214709
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2001-04-23T00:00:00Z'
+  retrieved_at: '2026-10-23T14:32:11Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 0b3d8656f61bd6ed26dc92cc5abc80be3f061980f1744d50f72fc251a5b01b1b
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: f1487d90a1a1731ae2b3cf4aa9aa345d63f02812fd16bd4e515e86a3ae3a86cd
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T14:32:11Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -65,31 +65,39 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Tempo de Serviço
+- Carreira Profissional
+- Comissão
 - Comissão para a Dissuasão da Toxicodependência
 - Estatuto
-- Sistema Retributivo
-- Comissão
-- Carreira Profissional
 - Incompatibilidades
 - Proteção Social
 - Remuneração
 - Segurança Social
+- Sistema Retributivo
+- Tempo de Serviço
 relationships:
 - type: cites
   target: eli:http://data.dre.pt/eli/lei/30/2000/11/29/p/dre
   label: null
   source: http://data.dre.pt/eli/lei/30/2000/11/29/p/dre
+- type: cites
+  target: pt:dre:291808:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:599720:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T14:32:11Z'
   warnings: []
   errors: []
 ---

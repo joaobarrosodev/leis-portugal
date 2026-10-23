@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/958/2000/10/06/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/958-2000-545382
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2000-10-06T00:00:00Z'
+  retrieved_at: '2026-10-23T14:27:02Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 529c4ec81e693338b9c7a7511afe116688c4cf303bb135525040e21370518a5f
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 53b2c529a7e13b7f52aa52b2ecb52fb94c1434c99c87ac862f817737a89d97a8
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T14:27:02Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,11 +66,11 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Pessoal de Saúde
 - Bacharelato
 - Ciências da Saúde
 - Diploma
 - Equivalência de Habilitações Literárias
+- Pessoal de Saúde
 relationships:
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/281/1997/10/15/p/dre
@@ -84,16 +84,36 @@ relationships:
   target: eli:http://data.dre.pt/eli/lei/23/1998/05/26/p/dre
   label: null
   source: http://data.dre.pt/eli/lei/23/1998/05/26/p/dre
+- type: cites
+  target: pt:dre:171919:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:221561:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:459419:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:541444:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:667766:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T14:27:02Z'
   warnings: []
   errors: []
 ---
@@ -308,10 +328,10 @@ III - Notas finais
 
 Resumo da informação constante dos documentos entregues, a preencher pelo requerente
 
-[(ver modelo no documento original)](https://files.diariodarepublica.pt/1s/2000/10/231b00/55415545.pdf)
+[[(ver modelo no documento original)](https://files.diariodarepublica.pt/1s/2000/10/231b00/55415545.pdf)](https://files.diariodarepublica.pt/1s/2000/10/231b00/55415545.pdf)
 
 ## ANEXO B — Reconhecimento da titularidade do diploma de estudos superiores especializados ([Decreto-Lei n.º 281/97](https://diariodarepublica.pt/dr/detalhe/decreto-lei/281-1997-667766), de 15 de Outubro)
 
 Resumo da informação constante dos documentos entregues, a preencher pelo requerente
 
-[(ver modelo no documento original)](https://files.diariodarepublica.pt/1s/2000/10/231b00/55415545.pdf)
+[[(ver modelo no documento original)](https://files.diariodarepublica.pt/1s/2000/10/231b00/55415545.pdf)](https://files.diariodarepublica.pt/1s/2000/10/231b00/55415545.pdf)

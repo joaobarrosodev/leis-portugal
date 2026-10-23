@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/2s/2010/06/108000000/3098330984.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -47,18 +47,18 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/declaracao-rectificacao/1078-2010-2356935
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2010-06-04T00:00:00Z'
+  retrieved_at: '2026-10-23T14:15:28Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: d200f31dd585b529458183378b397a362c52580863ae7249c3c8f15af8f439bc
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 4e8b8844b0132c882a7830c41e85edd2612b594355020c465309080dfcbfafdb
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T14:15:28Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,22 +66,26 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects: []
-relationships: []
+relationships:
+- type: cites
+  target: pt:dre:547220:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T14:15:28Z'
   warnings: []
   errors: []
 ---
 
-# Declaração de Rectificação n.º 1078/2010
+# Declaração de rectificação n.º 1078/2010
 
 Regulamento do Plano de Pormenor dos Paus, na freguesia de Guifões
 
@@ -94,3 +98,5 @@ Guilherme Manuel Lopes Pinto torna público que no aviso n.º 600/2010, publicad
 Caso o edificado não cumpra as condições do artigo 10.º, poderão vir a ser exigidas as demolições necessárias à conformação com a lei aplicável, em sede do processo de legalização das edificações ilegais existentes, nos lotes 1, 2, 3, 4, 5, 7, 8, 9, 10, 12, 14, 18, 19, 20, 21, 22, 23, 24, 25, 26, 27, 28, 30, 31, 37, 38, 39, 45, 46, 49, 50, 53, 54, 55, 56, 57, 58, 61, 62, 63, 65, 67, 68, 69, 70 e 72, devendo esta condição ser sujeita a registo predial como ónus da não indemnização pelas demolições a efectuar, nos termos do n.º 5 do artigo 7.º da [Lei n.º 91/95](https://diariodarepublica.pt/dr/detalhe/lei/91-1995-547220), de 2 de Setembro, com redacção actualizada.»
 
 26 de Maio de 2010. - O Presidente da Câmara, Guilherme Manuel Lopes Pinto.
+
+203310237

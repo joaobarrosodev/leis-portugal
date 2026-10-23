@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/364/2000/06/23/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/364-2000-303459
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2002-03-12T00:00:00Z'
+  retrieved_at: '2026-10-23T14:23:06Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 4430a0a8b0963701bc166a3588a569fce47cdb3e875c79cb8a5e58076a329da2
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 85f199fcb00c58c3e70c6f740929265e0178c6e263b7b2424d7daae17ab4af51
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T14:23:06Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,12 +66,12 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Subsídio de Alimentação
+- Administração de Portos
 - Ajudas de Custo
 - Diuturnidades
-- Administração de Portos
 - Instituto Portuário
 - Remuneração
+- Subsídio de Alimentação
 - Tabela Salarial
 - Trabalhador Portuário
 relationships:
@@ -79,6 +79,18 @@ relationships:
   target: pt:dre:265506:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:362329:por
+  label: "Alterados os montantes das tabelas salariais previstas nos nºs 1º e 2º pela PORT.345/2001.2001.04.06.MES DR.IS-B\
+    \ [82]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/345-2001-362329
+  date: '2001-04-06'
+- type: amended_by
+  target: pt:dre:265506:por
+  label: "Alterada a al c) do nº 55ºo nº 4 do art.34º e o nº 4 do art. 52º da Port 1098/99 de 21-Dez, alterada pelo presente\
+    \ diploma, pela PORT.218/2002.2002.03.12.MES, DR.IS-B [60]\0]\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/218-2002-265506
+  date: '2002-03-12'
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/421/1999/10/21/p/dre
   label: null
@@ -87,16 +99,24 @@ relationships:
   target: eli:http://data.dre.pt/eli/port/1098/1999/12/21/p/dre
   label: null
   source: http://data.dre.pt/eli/port/1098/1999/12/21/p/dre
+- type: cites
+  target: pt:dre:661753:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:667362:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T14:23:06Z'
   warnings: []
   errors: []
 ---
@@ -141,4 +161,4 @@ d) Os trabalhadores que, por qualquer motivo, prestem trabalho nos dias de desca
 
 5.º As alterações introduzidas pelo n.º 3.º da presente portaria produzem efeitos a 1 de Junho de 2000.
 
-**O Ministro do Equipamento Social, Jorge Paulo Sacadura Almeida Coelho, em 30 de Maio de 2000.**
+O Ministro do Equipamento Social, Jorge Paulo Sacadura Almeida Coelho, em 30 de Maio de 2000.

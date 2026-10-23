@@ -21,7 +21,7 @@ publication:
   reference: Diário da República n.º 138/1998, 1º Suplemento, Série I-B de 1998-06-18
   number: '138'
   series: I
-  supplement: 1º Suplemento
+  supplement: null
   pages: 2762-(2) a 2762-(6)
   pdf_url: https://files.diariodarepublica.pt/1s/1998/06/138b01/00020006.pdf
 entry_into_force_dates: []
@@ -48,18 +48,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/348-a/1998/06/18/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/348-a-1998-534620
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2015-01-26T00:00:00Z'
+  retrieved_at: '2026-10-23T14:08:19Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: ae3ccac9aaf3f78122d6fb962fc00dc58aa097a831827d2dec1c05851b049ab3
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 511d674a13f8551271d8cbce920234ee0a0683b5c71bda4ee42666a9b84fdd04
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T14:08:19Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,20 +67,20 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Deficiente
 - Apoio Técnico
-- Financiamento
 - Centro de Emprego
-- Instituto do Emprego e Formação Profissional
 - Comissão para o Mercado Social de Emprego
+- Deficiente
 - Desempregado
-- Empresa de Inserção
-- Jovem
-- Mercado Social de Emprego
 - Economia Social
 - Emprego
-- Promoção de Emprego
+- Empresa de Inserção
+- Financiamento
+- Instituto do Emprego e Formação Profissional
+- Jovem
+- Mercado Social de Emprego
 - Política de Emprego
+- Promoção de Emprego
 relationships:
 - type: amended_by
   target: pt:dre:66325237:por
@@ -90,16 +90,38 @@ relationships:
   target: eli:http://data.dre.pt/eli/resolconsmin/104/1996/07/09/p/dre
   label: null
   source: http://data.dre.pt/eli/resolconsmin/104/1996/07/09/p/dre
+- type: cites
+  target: pt:dre:182655:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:325295:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:422852:por
+  label: null
+  source: null
+- type: corrected_by
+  target: pt:dre:477165:por
+  label: "Rectificada pela DECL-RECT.11-I/98.1998.06.30.PCM DR.IS-B [148]3ºSupl\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/declaracao-rectificacao/11-i-1998-477165
+  date: '1998-06-30'
+- type: repealed_by
+  target: pt:dre:66325237:por
+  label: Revogada a partir de 31.01.2015 pelo(a) Decreto-Lei n.º 13/2015 - Diário da República n.º 17/2015, Série I de 2015-01-26
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/13-2015-66325237
+  date: '2015-01-26'
 article_structure:
   article_count: 0
   section_count: 5
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T14:08:19Z'
   warnings: []
   errors: []
 ---
@@ -400,6 +422,6 @@ A Comissão para o Mercado Social de Emprego elabora relatórios anuais de avali
 
 Ministério do Trabalho e da Solidariedade.
 
-**Assinada em 5 de Junho de 1998.**
+Assinada em 5 de Junho de 1998.
 
 Pelo Ministro do Trabalho e da Solidariedade, Rui António Ferreira da Cunha, Secretário de Estado da Inserção Social.

@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/1278/1997/12/29/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/1278-1997-420793
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1997-12-29T00:00:00Z'
+  retrieved_at: '2026-10-23T14:00:38Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 9f1f0af9816a8ed014657b360ac303f6b4c9a97ef76c59f3ddeddcfa0da73a0f
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 012ddefdc43913536120234beb77a1d5df4e385c27c1313ef9ea68408e3d8fc5
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T14:00:38Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -69,21 +69,32 @@ subjects:
 - Apoio Técnico
 - Associação Industrial da Região do Oeste
 - Associação Portuguesa de Cerâmica
-- Instituto do Emprego e Formação Profissional
 - Centro de Formação Profissional
 - Centro de Formação Profissional para o Sector da Indústria de Cerâmica
 - Formação Profissional
-relationships: []
+- Instituto do Emprego e Formação Profissional
+relationships:
+- type: amended_by
+  target: pt:dre:107002719:por
+  label: Homologadas as alterações introduzidas ao texto introdutório do Protocolo que criou o Centro de Formação Profissional
+    para o Sector da Indústria de Cerâmica (CENCAL), publicado em anexo à Port 750/87 de 01-set, com a redação dada pelo presente
+    diploma, pelo(a) Portaria n.º 158/2017 - Diário da República n.º 91/2017, Série I de 2017-05-11
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/158-2017-107002719
+  date: '2017-05-11'
+- type: cites
+  target: pt:dre:494851:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T14:00:38Z'
   warnings: []
   errors: []
 ---
@@ -110,6 +121,6 @@ A Associação Industrial da Região Oeste (AIRO), como segundo outorgante.
 
 Ministério para a Qualificação e o Emprego.
 
-**Assinada em 22 de Novembro de 1997.**
+Assinada em 22 de Novembro de 1997.
 
-**A Ministra para a Qualificação e o Emprego, Maria João Fernandes Rodrigues.**
+A Ministra para a Qualificação e o Emprego, Maria João Fernandes Rodrigues.

@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1998/04/093b00/17731789.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/247/1998/04/21/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/247-1998-175796
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2007-08-30T00:00:00Z'
+  retrieved_at: '2026-10-23T14:07:39Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 48c75d90dad09950b2089c394e9d325094e863e98efa0dd3a32f0c7bc574461b
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 629ef8d30dee1f8cd594622af0905b65bc7275651483675b8e5e5872cea42be3
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T14:07:39Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -65,10 +65,10 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Médico
 - Formação Profissional
 - Internato Complementar
 - Medicina Legal
+- Médico
 - Regulamento
 - Regulamento do Internato Complementar de Medicina Legal
 relationships:
@@ -92,16 +92,43 @@ relationships:
   target: eli:http://data.dre.pt/eli/port/695/1995/06/30/p/dre
   label: null
   source: http://data.dre.pt/eli/port/695/1995/06/30/p/dre
+- type: cites
+  target: pt:dre:184074:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:222631:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:288258:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:476721:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:203010:por
+  label: "Revogado o presente diploma, sem prejuízo do disposto do n.º 3 do art. 3.º do DEC LEI.3/2006.03.01.2006.MJ, DR.IS-A\
+    \ [2] de 03.01.2006\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/3-2006-203010
+  date: '2006-01-03'
+- type: repealed_by
+  target: pt:dre:641109:por
+  label: "Revogada pela PORT.1002/2007.30.08.2007.MFAP, DR.IS [167] de 30.08.2007\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/1002-2007-641109
+  date: '2007-08-30'
 article_structure:
   article_count: 65
   section_count: 30
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T14:07:39Z'
   warnings: []
   errors: []
 ---
@@ -130,7 +157,7 @@ Manda o Governo, pelo Ministro da Justiça, ao abrigo do disposto no artigo 74.�
 
 Ministério da Justiça.
 
-**Assinada em 27 de Março de 1998.**
+Assinada em 27 de Março de 1998.
 
 Pelo Ministro da Justiça, José Luís Lopes da Mota, Secretário de Estado da Justiça.
 

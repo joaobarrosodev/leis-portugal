@@ -48,36 +48,42 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/declaracao-rectificacao/2116-2009-1782756
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2009-08-31T00:00:00Z'
+  retrieved_at: '2026-10-23T14:05:08Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: d5f5c685d9cbaf7c21d0c7c147dd666f38306b429d08a5dae01c9844fd81595e
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: cc5aaf16ce6dfb942e4c6a61fe7421e33b07e079b2bad6fc6a2abaf64f650c64
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T14:05:08Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Abastecimento de Água
+- Expropriação
+- Penafiel
+- Porto
+- Servidão Administrativa
+- Utilidade Pública
 relationships: []
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T14:05:08Z'
   warnings: []
   errors: []
 ---
@@ -89,3 +95,5 @@ Declaração de rectificação n.º 2116/2009
 Para os devidos efeitos, procede-se à rectificação do despacho n.º 18 432/2009, publicado no Diário da República, 2.ª série, n.º 153, de 10 de Agosto de 2009, pelo se rectifica que onde se lê «com os fundamentos constantes da informação n.º 197/DSO.DEJ/2009, de 3 de Julho» deve ler-se «com os fundamentos constantes da informação n.º 223/DSO.DEJ/2009, de 3 de Julho».
 
 20 de Agosto de 2009. - O Secretário de Estado do Ordenamento do Território e das Cidades, João Manuel Machado Ferrão.
+
+202226693

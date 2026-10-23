@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/19/2000/01/25/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/19-2000-405733
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2000-01-25T00:00:00Z'
+  retrieved_at: '2026-10-23T14:22:01Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 9d499458cb07c3deb6fcb620c53b83a6211ce054411acdfdd12086d4390a8e84
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 2bd0f6b4f724cba91984698f0cf53545caf34e28652e91bfbc8b5350b21c4f18
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T14:22:01Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,24 +67,28 @@ reuse:
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
 - Cartão de Identificação
-- Instituto Nacional de Aviação Civil
 - Fiscalização
+- Instituto Nacional de Aviação Civil
 - Pessoal de Inspecção
 relationships:
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/133/1998/05/15/p/dre
   label: null
   source: http://data.dre.pt/eli/dec-lei/133/1998/05/15/p/dre
+- type: cites
+  target: pt:dre:522380:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T14:22:01Z'
   warnings: []
   errors: []
 ---
@@ -117,7 +121,7 @@ Manda o Governo, pelo Ministro do Equipamento Social, o seguinte:
 
 7.º Em caso de extravio, destruição ou deterioração, será emitida uma 2.ª via, de que se fará referência expressa no cartão, mantendo, no entanto, o mesmo número.
 
-**O Ministro do Equipamento Social, Jorge Paulo Sacadura Almeida Coelho, em 30 de Dezembro de 1999.**
+O Ministro do Equipamento Social, Jorge Paulo Sacadura Almeida Coelho, em 30 de Dezembro de 1999.
 
 ## ANEXO — Modelo do cartão de identidade a que se refere a presente portaria
 

@@ -25,9 +25,7 @@ publication:
 entry_into_force_dates: []
 end_of_validity_date: null
 legal_status: in_force
-notes:
-- 'Fonte sem texto: o DRE lista este diploma como consolidado mas não tem texto consolidado em nenhuma data (verificado em
-  2026-10-22).'
+notes: []
 language: por
 version:
   kind: original
@@ -48,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/108/2001/02/22/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/108-2001-386816
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2001-02-28T00:00:00Z'
+  retrieved_at: '2026-10-23T14:27:47Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 9dc3165eb7665bab5c86c5a60a323f52766e6bf2286f2149512b8eb21934cee6
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 8954bef0f2c80f1f4700aa4482bfda31cd2d89c728b32c0e53da4a29a8bab0cd
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T14:27:47Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,14 +65,14 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Pessoal Dirigente
-- IPDT
 - Criação de Serviços
 - Definição de Competências
 - Grupo de Trabalho
-- Regulamento da Orgânica Complementar do Instituto Português da Droga e da Toxicodependência
+- IPDT
 - Orgânica
+- Pessoal Dirigente
 - Regulamento
+- Regulamento da Orgânica Complementar do Instituto Português da Droga e da Toxicodependência
 relationships:
 - type: amended_by
   target: pt:dre:563583:por
@@ -88,16 +86,29 @@ relationships:
   target: eli:http://data.dre.pt/eli/lei/49/1999/06/22/p/dre
   label: null
   source: http://data.dre.pt/eli/lei/49/1999/06/22/p/dre
+- type: cites
+  target: pt:dre:274382:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:391578:por
+  label: null
+  source: null
+- type: corrected_by
+  target: pt:dre:563583:por
+  label: "Rectificada pela DECL-RECT.4-G/2001.2001.02.28.PCM,DR.IS-B [50]3º Supl\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/declaracao-rectificacao/4-g-2001-563583
+  date: '2001-02-28'
 article_structure:
   article_count: 7
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T14:27:47Z'
   warnings: []
   errors: []
 ---
@@ -108,7 +119,7 @@ de 22 de Fevereiro
 
 Ao abrigo do disposto no n.º 3 do artigo 27.º do [Decreto-Lei n.º 90/2000](https://diariodarepublica.pt/dr/detalhe/decreto-lei/90-2000-274382), de 18 de Maio, manda o Governo, pelo Secretário de Estado da Presidência do Conselho de Ministros, que seja homologado o Regulamento da Orgânica Complementar do Instituto Português da Droga e da Toxicodependência (IPDT), que se publica em anexo à presente portaria e que dela faz parte integrante.
 
-**O Secretário de Estado da Presidência do Conselho de Ministros, Vitalino José Ferreira Prova Canas, em 6 de Fevereiro de 2001.**
+O Secretário de Estado da Presidência do Conselho de Ministros, Vitalino José Ferreira Prova Canas, em 6 de Fevereiro de 2001.
 
 ## ANEXO — REGULAMENTO DA ORGÂNICA COMPLEMENTAR DO INSTITUTO PORTUGUÊS DA DROGA E DA TOXICODEPENDÊNCIA
 

@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/2s/2009/06/108000000/2265422668.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -46,18 +46,18 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/declaracao-rectificacao/1438-2009-2356089
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2009-06-04T00:00:00Z'
+  retrieved_at: '2026-10-23T14:01:07Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 25b309780588951df469982b3ac3556d2c1341e131b139b121c4194c520acef4
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 71f8fe270f8619c6d16493ef3ed1431976a1a3334afc18873179a4b82de9d61b
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T14:01:07Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -65,22 +65,50 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects: []
-relationships: []
+relationships:
+- type: cites
+  target: pt:dre:2043420:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:221697:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:234096:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:507807:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:548464:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:559019:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:609988:por
+  label: null
+  source: null
 article_structure:
   article_count: 95
-  section_count: 24
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  section_count: 23
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T14:01:07Z'
   warnings: []
   errors: []
 ---
 
-# Declaração de Rectificação n.º 1438/2009
+# Declaração de rectificação n.º 1438/2009
 
 Luís Filipe Soromenho Gomes, Presidente da Câmara Municipal de Vila Real de Santo António, informa que por ter saído com inexactidão o Aviso n.º 43, referente ao [Regulamento n.º 103/2008](https://diariodarepublica.pt/dr/detalhe/regulamento/103-2008-2043420), publicado no Diário da República, 2.ª série, de 29 de Fevereiro de 2008, relativamente ao Plano Director Municipal de Vila Real de Santo António, tornou-se necessário proceder à sua respectiva rectificação.
 
@@ -1466,7 +1494,7 @@ h) Interdita a construção de anexos com excepção de garagens.
 
 3 - Os condicionamentos às edificações nos lotes são os estabelecidos no artigo 62.º
 
-#### SECÇAO V
+SECÇAO V
 
 [Revogada]
 
@@ -1757,3 +1785,5 @@ c) Capacidade de alojamento a determinar com base em pressupostos territoriais, 
 Os NDE do Tipo III devem ser objecto de contratualização entre a administração central, através da CCDR Algarve e do Turismo de Portugal, bem como, se necessário, de outras entidades sectoriais competentes em razão da matéria, a administração local e os promotores interessados, constando as bases e condições respectivas, designadamente as respeitantes à obrigação de construção de infra-estruturas e equipamentos necessários, do próprio texto do despacho de reconhecimento de interesse público.
 
 28 de Maio de 2009. - O Presidente da Câmara Municipal, Luís Filipe Soromenho Gomes.
+
+201852221

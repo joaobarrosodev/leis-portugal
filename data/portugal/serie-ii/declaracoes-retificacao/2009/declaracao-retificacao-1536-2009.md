@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/2s/2009/06/117000000/2424124242.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -46,18 +46,18 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/declaracao-rectificacao/1536-2009-3632404
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2009-06-19T00:00:00Z'
+  retrieved_at: '2026-10-23T14:01:43Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 3bfe92392bd49aef076f228f51635f87848327db83570f61427ce8149308b6a7
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 4dcbddabcbb0c1b493be2a797d6d6e058347cabbd500c46f3895c4f1df0048eb
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T14:01:43Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -65,25 +65,35 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects: []
-relationships: []
+relationships:
+- type: cites
+  target: pt:dre:1191235:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:603476:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T14:01:43Z'
   warnings: []
   errors: []
 ---
 
-# Declaração de Rectificação n.º 1536/2009
+# Declaração de rectificação n.º 1536/2009
 
 Por ter saído com inexactidão no [Despacho n.º 13690/2009](https://diariodarepublica.pt/dr/detalhe/despacho/13690-2009-1191235) publicado no Diário da República, 2.ª Série, n.º 113, de 15 de Junho de 2009, onde se lê:
 
 «Por despacho de 27 de Maio de 2009 e ao abrigo do disposto nos artigos 35.º e 36.º do Código de Procedimento Administrativo, e do artigo 6.º da [Lei n.º 2/2004](https://diariodarepublica.pt/dr/detalhe/lei/2-2004-603476), de 15 de Janeiro [...]» deverá ler-se «Por despacho do Director Regional de Florestas do Norte de 27 de Maio de 2009 e ao abrigo do disposto nos artigos 35.º e 36.º do Código de Procedimento Administrativo, e do artigo 6.º da [Lei n.º 2/2004](https://diariodarepublica.pt/dr/detalhe/lei/2-2004-603476), de 15 de Janeiro [...]».
 
 15 de Junho de 2009. - O Vice-Presidente, Luís Duarte.
+
+201906168

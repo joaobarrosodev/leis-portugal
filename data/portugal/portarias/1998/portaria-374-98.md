@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/374/1998/07/01/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/374-1998-478062
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1998-07-01T00:00:00Z'
+  retrieved_at: '2026-10-23T14:08:25Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: d2affeeb4efb6e665ac2daff9868ce83d017a379a1c9d446fee42b4d8e81db86
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 28167b103c1835572d6ba3a93f4f96c7e88edda242b24b6b4335896694f98bb0
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T14:08:25Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,8 +66,8 @@ reuse:
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
 - Consulado Geral
-- Macau
 - Gabinete Instalador do Consulado Geral de Portugal em Macau
+- Macau
 - Pessoal Assalariado
 - Quadro de Pessoal
 relationships:
@@ -75,16 +75,24 @@ relationships:
   target: eli:http://data.dre.pt/eli/dec-lei/296-a/1995/11/17/p/dre
   label: null
   source: http://data.dre.pt/eli/dec-lei/296-a/1995/11/17/p/dre
+- type: cites
+  target: pt:dre:455465:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:690465:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T14:08:25Z'
   warnings: []
   errors: []
 ---
@@ -99,6 +107,6 @@ Manda o Governo, pelos Ministros dos Negócios Estrangeiros e das Finanças, nos
 
 Ministérios dos Negócios Estrangeiros e das Finanças.
 
-**Assinada em 26 de Maio de 1998.**
+Assinada em 26 de Maio de 1998.
 
-**O Ministro dos Negócios Estrangeiros, Jaime José Matos da Gama. - Pelo Ministro das Finanças, João Carlos da Costa Ferreira da Silva, Secretário de Estado do Orçamento.**
+O Ministro dos Negócios Estrangeiros, Jaime José Matos da Gama. - Pelo Ministro das Finanças, João Carlos da Costa Ferreira da Silva, Secretário de Estado do Orçamento.

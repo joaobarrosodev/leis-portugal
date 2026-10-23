@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/2s/2009/11/219000000/4591445914.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -46,18 +46,18 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/declaracao-rectificacao/2776-2009-3018772
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2009-11-11T00:00:00Z'
+  retrieved_at: '2026-10-23T14:09:05Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: f28154dfc0fe1b5f91d31eabbc0dc404304abfcf2cc4dfe4a9d6d840be64c932
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 0e23622b1276eef1a207260c256215cc2de09f41f6863350c3b1cbc80c247928
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T14:09:05Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -65,23 +65,33 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects: []
-relationships: []
+relationships:
+- type: cites
+  target: pt:dre:301017:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:380135:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T14:09:05Z'
   warnings: []
   errors: []
 ---
 
-# Declaração de Rectificação n.º 2776/2009
+# Declaração de rectificação n.º 2776/2009
 
 Por terem sido publicados com inexactidão dados relativos à classificação profissional atribuída ao docente Luís Miguel Malva de Jesus Rêpas, nos termos do disposto no n.º 3 do artigo 14.º do [Decreto-Lei n.º 287/88](https://diariodarepublica.pt/dr/detalhe/decreto-lei/287-1988-380135), de 19 de Agosto, com a redacção dada pelo [Decreto-Lei n.º 127/2000](https://diariodarepublica.pt/dr/detalhe/decreto-lei/127-2000-301017), de 6 de Julho, publicada no Diário da República, 2.ª série, n.º 216, de 6 de Novembro de 2008, rectifica-se que onde se lê «Grupo de recrutamento: 400» deve ler-se «Grupo de recrutamento: 200».
 
 4 de Novembro de 2009. - O Director-Geral, Jorge Sarmento Morais.
+
+202549624

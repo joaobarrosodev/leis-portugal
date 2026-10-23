@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/2s/2009/10/194000000/4061840618.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -47,18 +47,18 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/declaracao-rectificacao/2471-2009-2561934
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2009-10-07T00:00:00Z'
+  retrieved_at: '2026-10-23T14:07:14Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 84435e948130e2a9648f6af201c8d34cfb69e6112d4e04f23731f0cfa631d16f
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 3784ecf7cfa8c9b4b665000269f753ce17a593d2ca7e8dc654437fba32dde82b
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T14:07:14Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -70,13 +70,13 @@ relationships: []
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T14:07:14Z'
   warnings: []
   errors: []
 ---
@@ -88,3 +88,5 @@ Declaração de rectificação n.º 2471/2009
 Por ter sido publicado com inexactidão no Diário da República, 2.ª série, n.º 21, 30 de Janeiro de 2009, a p. 4633, edital n.º 122/2009, o concurso de professor associado do Departamento de Ciências da Terra da FCTUC, rectifica-se que onde se lê «Presidente: O Reitor» deve ler-se «Presidente: Presidente do conselho científico da Faculdade de Ciências e Tecnologia da Universidade de Coimbra, Prof. Doutor João Gabriel Monteiro Carvalho e Silva, por despacho de delegação de competências, publicado no Diário da República, 2.ª série, n.º 118, de 21 de Junho de 2007».
 
 30 de Setembro de 2009. - O Reitor, Fernando Seabra Santos.
+
+202375733

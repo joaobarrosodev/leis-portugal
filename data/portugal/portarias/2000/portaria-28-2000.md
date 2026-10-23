@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/28/2000/01/27/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/28-2000-405691
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2000-01-27T00:00:00Z'
+  retrieved_at: '2026-10-23T14:22:36Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 177a5ff498b62a9fa43d476f61e7e63a5dc0f175a3121e31646624469ded6eb7
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 68dd3c95dd626dc7a67b2371681c019889db29d3acbecd794aaf6bf78aa778ba
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T14:22:36Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -68,11 +68,11 @@ reuse:
 subjects:
 - Código do Imposto do SELO
 - Direcção Geral dos Impostos
-- Impresso
 - Imposto do SELO
+- Impresso
 - Letras e Livranças
-- Títulos de Crédito
 - Tabela Geral do Imposto do SELO
+- Títulos de Crédito
 relationships:
 - type: cites
   target: eli:http://data.dre.pt/eli/lei/150/1999/09/11/p/dre
@@ -82,16 +82,32 @@ relationships:
   target: eli:http://data.dre.pt/eli/port/1042/1998/12/19/p/dre
   label: null
   source: http://data.dre.pt/eli/port/1042/1998/12/19/p/dre
+- type: cites
+  target: pt:dre:187077:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:571194:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:575886:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:611519:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T14:22:36Z'
   warnings: []
   errors: []
 ---
@@ -230,7 +246,7 @@ A designação, em letra reduzida, sem o respectivo logótipo, da entidade fabri
 
 10 - São revogadas, a partir da data da entrada em vigor do Código do Imposto do Selo, as Portarias n.os [709/81](https://diariodarepublica.pt/dr/detalhe/portaria/709-1981-575886), de 20 de Agosto, e [1042/98](https://diariodarepublica.pt/dr/detalhe/portaria/1042-1998-187077), de 19 de Dezembro.
 
-**O Secretário de Estado dos Assuntos Fiscais, Manuel Pedro da Cruz Baganha, em 30 de Dezembro de 1999.**
+O Secretário de Estado dos Assuntos Fiscais, Manuel Pedro da Cruz Baganha, em 30 de Dezembro de 1999.
 
 Do ANEXO I ao ANEXO VII
 

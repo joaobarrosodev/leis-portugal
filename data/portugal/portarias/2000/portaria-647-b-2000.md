@@ -19,7 +19,7 @@ publication:
   reference: Diário da República n.º 193/2000, 2º Suplemento, Série I-B de 2000-08-22
   number: '193'
   series: I
-  supplement: 2º Suplemento
+  supplement: null
   pages: 4248-(278) a 4248-(319)
   pdf_url: https://files.diariodarepublica.pt/1s/2000/08/193b02/02780319.pdf
 entry_into_force_dates: []
@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/647-b/2000/08/22/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/647-b-2000-461584
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2000-08-22T00:00:00Z'
+  retrieved_at: '2026-10-23T14:24:59Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 42885cf75a3ef6be35839809e2242c23911e793cb5f2b8d1a0395d86a68beb16
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 2af987525bf3e65e0d098d65044e37b373c0549dbf63b7783755028af228a739
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T14:24:59Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -65,29 +65,53 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- REDE Escolar
 - Criação de Serviços
 - Educador de Infância
-- Extinção de Serviços
-- Estabelecimento de Ensino
-- Pessoal Docente
 - Ensino Básico
+- Estabelecimento de Ensino
+- Extinção de Serviços
+- Pessoal Docente
 - Quadro de Pessoal
+- REDE Escolar
 relationships:
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/1/1998/01/02/p/dre
   label: null
   source: http://data.dre.pt/eli/dec-lei/1/1998/01/02/p/dre
+- type: cites
+  target: pt:dre:157046:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:222418:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:224179:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:411815:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:506397:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:549814:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T14:24:59Z'
   warnings: []
   errors: []
 ---

@@ -22,12 +22,12 @@ publication:
   reference: Diário da República n.º 183/1997, 1º Suplemento, Série I-B de 1997-08-09
   number: '183'
   series: I
-  supplement: 1º Suplemento
+  supplement: null
   pages: 4152-(2) a 4152-(3)
   pdf_url: https://files.diariodarepublica.pt/1s/1997/08/183b01/00020003.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -49,18 +49,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/643-a/1997/08/09/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/643-a-1997-566784
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1997-08-18T00:00:00Z'
+  retrieved_at: '2026-10-23T14:04:03Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 394644cfcf97733ea9c7e064b26c5b51dd4677fcd4b37015e8e560223620481a
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 38a22a8e7693ea4b45df12071ab1d4791379430dab60b85fc04185d43ddd63a5
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T14:04:03Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -77,16 +77,25 @@ relationships:
   target: pt:dre:320083:por
   label: Última alteração registada na importação inicial
   source: null
+- type: cites
+  target: pt:dre:466053:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:320083:por
+  label: "Revogada pela PORT.693-B/97.1997.08.18.MF, MEPAT, MECO E MQE DR.IS-B [189]SUPL\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/693-b-1997-320083
+  date: '1997-08-18'
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T14:04:03Z'
   warnings: []
   errors: []
 ---
@@ -117,6 +126,6 @@ Manda o Governo, pelos Ministros das Finanças, do Equipamento, do Planeamento e
 
 Ministérios das Finanças, do Equipamento, do Planeamento e da Administração do Território, da Economia e para a Qualificação e o Emprego.
 
-**Assinada em 9 de Agosto de 1997.**
+Assinada em 9 de Agosto de 1997.
 
-**O Ministro das Finanças, António Luciano Pacheco de Sousa Franco. - O Ministro do Equipamento, do Planeamento e da Administração do Território, João Cardona Gomes Cravinho. - Pelo Ministro da Economia, Fernando José Guimarães Freire de Sousa, Secretário de Estado para a Competitividade e Internacionalização. - Pela Ministra para a Qualificação e o Emprego, António de Lemos Monteiro Fernandes, Secretário de Estado do Trabalho.**
+O Ministro das Finanças, António Luciano Pacheco de Sousa Franco. - O Ministro do Equipamento, do Planeamento e da Administração do Território, João Cardona Gomes Cravinho. - Pelo Ministro da Economia, Fernando José Guimarães Freire de Sousa, Secretário de Estado para a Competitividade e Internacionalização. - Pela Ministra para a Qualificação e o Emprego, António de Lemos Monteiro Fernandes, Secretário de Estado do Trabalho.

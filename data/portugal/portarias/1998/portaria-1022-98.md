@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/1022/1998/12/11/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/1022-1998-221349
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1998-12-11T00:00:00Z'
+  retrieved_at: '2026-10-23T14:06:29Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 0d915c180e196ba96a98c902f0737555a5de670126ef67d7e709101ad6e424cb
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 584f78e985c0cf3028f21deb7f0927e10c70da519aa734ff0ee82d4615d8e460
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T14:06:29Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,10 +67,10 @@ reuse:
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
 - Carreira de Inspecção Superior
+- Estágio de Formação
 - Formação Profissional
 - Inspecção Geral das Actividades Económicas
 - Pessoal de Inspecção
-- Estágio de Formação
 - Regulamento de Estágio
 relationships:
 - type: cites
@@ -81,16 +81,24 @@ relationships:
   target: eli:http://data.dre.pt/eli/port/232/1998/04/14/p/dre
   label: null
   source: http://data.dre.pt/eli/port/232/1998/04/14/p/dre
+- type: cites
+  target: pt:dre:167182:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:473971:por
+  label: null
+  source: null
 article_structure:
   article_count: 15
   section_count: 4
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T14:06:29Z'
   warnings: []
   errors: []
 ---
@@ -115,7 +123,7 @@ Manda o Governo, pelos Ministros Adjunto e da Economia, o seguinte:
 
 Presidência do Conselho de Ministros e Ministério da Economia.
 
-**Assinada em 17 de Novembro de 1998.**
+Assinada em 17 de Novembro de 1998.
 
 Pelo Ministro Adjunto, Fausto de Sousa Correia, Secretário de Estado da Administração Pública e da Modernização Administrativa. - Pelo Ministro da Economia, Osvaldo Sarmento e Castro, Secretário de Estado do Comércio.
 

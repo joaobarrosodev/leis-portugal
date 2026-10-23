@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/509/1997/07/22/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/509-1997-149624
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2002-10-22T00:00:00Z'
+  retrieved_at: '2026-10-23T14:03:13Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 8e8b195bed147384bbb6ada21d9f2585a391ef1be2e175427d8a2e73d33ad4cb
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: ae47aeece1904596398283d4d5031c75bd36c971e310ae917327cdff606edb2f
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T14:03:13Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -65,10 +65,10 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Médico
 - Carreira Médica Hospitalar
 - Hospital de São Pedro Pescador
 - Hospital Distrital
+- Médico
 - Pessoal Técnico Superior
 - Póvoa de Varzim
 - Quadro de Pessoal
@@ -81,16 +81,24 @@ relationships:
   target: eli:http://data.dre.pt/eli/port/924/1995/07/21/p/dre
   label: null
   source: http://data.dre.pt/eli/port/924/1995/07/21/p/dre
+- type: cites
+  target: pt:dre:488318:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:505986:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T14:03:13Z'
   warnings: []
   errors: []
 ---
@@ -111,10 +119,10 @@ Manda o Governo, pelos Ministros das Finanças, da Saúde e Adjunto, que o quadr
 
 Presidência do Conselho de Ministros e Ministérios das Finanças e da Saúde.
 
-**Assinada em 20 de Junho de 1997.**
+Assinada em 20 de Junho de 1997.
 
 Pelo Ministro das Finanças, Maria Manuela de Brito Arcanjo Marques da Costa, Secretária de Estado do Orçamento. - A Ministra da Saúde, Maria de Belém Roseira Martins Coelho Henriques de Pina. - Pelo Ministro Adjunto, Fausto de Sousa Correia, Secretário de Estado da Administração Pública.
 
 Quadro de pessoal do Hospital de São Pedro Pescador
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1997/07/167b00/36753675.pdf))](https://files.diariodarepublica.pt/1s/1997/07/167b00/36753675.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1997/07/167b00/36753675.pdf)

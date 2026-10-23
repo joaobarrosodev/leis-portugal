@@ -19,12 +19,12 @@ publication:
   reference: Diário da República n.º 100/1997, 1º Suplemento, Série I-B de 1997-04-30
   number: '100'
   series: I
-  supplement: 1º Suplemento
+  supplement: null
   pages: 1994-(2) a 1994-(3)
   pdf_url: https://files.diariodarepublica.pt/1s/1997/04/100b01/00020003.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/281-b/1997/04/30/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/281-b-1997-157985
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2001-05-30T00:00:00Z'
+  retrieved_at: '2026-10-23T14:01:47Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: ce274cb895bbf6fca9d74363061b4a738fcfc82a3c9e531df39bab5b2bc00f95
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 3071b241bce129a9e02e9a0b5be041c4bcb95ee15eaa48d555b7faa5ae14b094
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T14:01:47Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -65,26 +65,73 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
+- Comércio
+- Peixe
 - Pesca
 - Recursos do Mar
-- Peixe
 - Sardinha
-- Comércio
 relationships:
 - type: amended_by
   target: pt:dre:458867:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:478064:por
+  label: "Alterado o nº 3 e aditados os nºs 5 a 13 pela PORT.376/98.1998.07.01.MADRP, DR.IS-B [149]\09]\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/376-1998-478064
+  date: '1998-07-01'
+- type: amended_by
+  target: pt:dre:217335:por
+  label: "Alterado o nº 2º pela PORT.1004/98.1998.11.27.MADRP DR.IS-B [275]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/1004-1998-217335
+  date: '1998-11-27'
+- type: amended_by
+  target: pt:dre:408301:por
+  label: "Alterada a redacção do nº 1 pela PORT.147-B/99.1999.03.02.MADRP DR.IS-B [51]SUPL\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/147-b-1999-408301
+  date: '1999-03-02'
+- type: amended_by
+  target: pt:dre:433408:por
+  label: "Alterados os nºs 3º, 6º, 7º e 8º, na redacção dada pela Port 376/98 de 01-JUl, e aditado o nº 8º-A pela PORT.677/99.1999.08.23.MADRP,DR.IS-B\
+    \ [196]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/677-1999-433408
+  date: '1999-08-23'
+- type: amended_by
+  target: pt:dre:522227:por
+  label: "Alterada a al.a) do nº 2 (na redacção da Port 1004/98, 27-Nov) e os nºs 3º e 6º (ambos na redacção das Ports 376/98,\
+    \ de 1-Jul e 677/99,de 23-Ago), e revogado o nº 11 todos do presente diploma pela PORT.236/2000.2000.04.28.MADRP, DR.IS-B\
+    \ [94]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/236-2000-522227
+  date: '2000-04-28'
+- type: cites
+  target: pt:dre:420193:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:420460:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:458867:por
+  label: "Revogada pela PORT.543-B/2001.2001.05.30.MADRP, DR.IS-B [125] 2ºSUPL\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/543-b-2001-458867
+  date: '2001-05-30'
+- type: republished_by
+  target: pt:dre:522227:por
+  label: "Republicado o texto do presente diploma, na redacção das Ports. 376/98, de 01-Jul, 1004/98 de 27/Nov, 147-B/99 de\
+    \ 2/Mar, 677/99 de 23/Ago, 935-B/99 de 21-Out, pela PORT.236/2000.2000.04.28.MADRP DR.IS-B [99]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/236-2000-522227
+  date: '2000-04-28'
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T14:01:47Z'
   warnings: []
   errors: []
 ---
@@ -127,6 +174,6 @@ Entre 1 de Novembro e 30 de Abril, das 0 horas de sábado até às 0 horas de se
 
 Ministério da Agricultura, do Desenvolvimento Rural e das Pescas.
 
-**Assinada em 30 de Abril de 1997.**
+Assinada em 30 de Abril de 1997.
 
 Pelo Ministro da Agricultura, do Desenvolvimento Rural e das Pescas, Marcelo de Sousa Vasconcelos, Secretário de Estado das Pescas.

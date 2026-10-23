@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/2s/2010/09/177000000/4682746827.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -47,18 +47,18 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/declaracao-rectificacao/1856-2010-980214
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2010-09-10T00:00:00Z'
+  retrieved_at: '2026-10-23T14:20:05Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 50e1247af67b5a06055dd8902325693c509fb2f7a5641ea9f894c18b752b8fd0
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: fb6fb6a29fbc4b8229700096afa59f78581fd1e52407fce4a6acf06fe2b6d367
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T14:20:05Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,22 +66,34 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects: []
-relationships: []
+relationships:
+- type: cites
+  target: pt:dre:243732:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:454506:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:468663:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T14:20:05Z'
   warnings: []
   errors: []
 ---
 
-# Declaração de Rectificação n.º 1856/2010
+# Declaração de rectificação n.º 1856/2010
 
 Torna-se público que o aviso n.º 16987/2010, publicado no Diário da República, 2.º série, n.º 166, de 26 de Agosto de 2010, foi publicado com lapso nas alíneas B) e D), pelo que vimos pelo presente proceder à sua rectificação.
 
@@ -116,3 +128,5 @@ D) - Caracterização do posto de trabalho - funções da extinta categoria de a
 O vencimento ilíquido mensal é de (euro) 475 ([Decreto Regulamentar n.º 14/2008](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/14-2008-454506), de 31 de Julho, e [Portaria n.º 1553-C/2008](https://diariodarepublica.pt/dr/detalhe/portaria/1553-c-2008-243732), de 31 de Dezembro), sendo objecto de negociação após termo deste procedimento, conforme o estipulado no artigo 55.º da [Lei n.º 12-A/2008](https://diariodarepublica.pt/dr/detalhe/lei/12-a-2008-468663), de 27 de Fevereiro.»
 
 23 de Agosto de 2010. - O Vice-Presidente da Câmara, Pedro Dinis Silva Mendes.
+
+303641625

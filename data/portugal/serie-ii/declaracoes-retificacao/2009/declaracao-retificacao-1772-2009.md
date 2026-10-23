@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/2s/2009/07/142000000/2939529395.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -46,18 +46,18 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/declaracao-rectificacao/1772-2009-1441333
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2009-07-24T00:00:00Z'
+  retrieved_at: '2026-10-23T14:03:03Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 31a761ff9158bd27eeea36c30cdccd13fc5f973ea72d1cf8e448a9579d2fa6f3
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 59f53d201a230c413a05cc08ae5d813e46d0de60b725ed7ca683aa72f1f9511f
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T14:03:03Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -65,22 +65,26 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects: []
-relationships: []
+relationships:
+- type: cites
+  target: pt:dre:2067116:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T14:03:03Z'
   warnings: []
   errors: []
 ---
 
-# Declaração de Rectificação n.º 1772/2009
+# Declaração de rectificação n.º 1772/2009
 
 Por ter sido alterada a respectiva composição do júri, rectifica-se o [Aviso n.º 9889/2009](https://diariodarepublica.pt/dr/detalhe/aviso/9889-2009-2067116), publicado no Diário da República, 2.ª série, n.º 98, de 21 de Maio de 2009.
 
@@ -97,3 +101,5 @@ deverá ler-se:
 Licenciado João Manuel dos Santos Vieira, técnico superior"
 
 15 de Julho de 2009. - O Presidente do Conselho Directivo, António Crisóstomo Teixeira.
+
+202072922

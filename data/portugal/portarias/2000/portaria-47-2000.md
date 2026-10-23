@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2000/02/028b00/04520453.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/47/2000/02/03/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/47-2000-406094
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2002-03-18T00:00:00Z'
+  retrieved_at: '2026-10-23T14:23:51Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 7ecd65bd3e4f6026af4378e52dc073c9cd98026104d1c0644a022c091d77ec55
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: a456de534fb18d003877f388efb658a44b7239798b5f1b43453f3f8455b82a64
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T14:23:51Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,19 +66,27 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Sipac
+- Agricultura
 - Bonificação dos Prémios de Seguro
 - Catástrofe
-- Prémio de Seguro
-- Agricultura
-- Seguro Agrícola
-- Fundo de Calamidades
 - Clima
+- Fundo de Calamidades
+- Prémio de Seguro
+- Seguro Agrícola
+- Sipac
 relationships:
 - type: amended_by
   target: pt:dre:157647:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:157647:por
+  label: "Alterados o nº 1 e o nº 4 da secção I do cap. I, a al. a) e as subals. i) e ii) da al. b) do nº 2 da secção II do\
+    \ cap. I, a al. b) do nº 4 da secção V do cap. I e o nº 2 da secção VI do cap. I, todos do Regulamento do SIPAC, aprovado\
+    \ em anexo à Port 388/99 de 27-Mai, a qual é revogada com a redacção do presente diploma, pela PORT.293-A/2002.2002.03.18.MF\
+    \ DR.IS-B [65]Supl\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/293-a-2002-157647
+  date: '2002-03-18'
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/20/1996/03/19/p/dre
   label: null
@@ -87,16 +95,29 @@ relationships:
   target: eli:http://data.dre.pt/eli/port/388/1999/05/27/p/dre
   label: null
   source: http://data.dre.pt/eli/port/388/1999/05/27/p/dre
+- type: cites
+  target: pt:dre:316922:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:535012:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:494833:por
+  label: "Revogada pela PORT.207/2000.2000.04.06.MF,DR.IS-B [82]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/207-2000-494833
+  date: '2000-04-06'
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T14:23:51Z'
   warnings: []
   errors: []
 ---
@@ -137,4 +158,4 @@ a) Será concedida uma bonificação de 25% do prémio dos contratos de seguro q
 
 Em 19 de Janeiro de 2000.
 
-**O Ministro das Finanças, Joaquim Augusto Nunes Pina Moura. - O Ministro da Agricultura, do Desenvolvimento Rural e das Pescas, Luís Manuel Capoulas Santos.**
+O Ministro das Finanças, Joaquim Augusto Nunes Pina Moura. - O Ministro da Agricultura, do Desenvolvimento Rural e das Pescas, Luís Manuel Capoulas Santos.

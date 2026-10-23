@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1998/11/261b00/61466148.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/963/1998/11/11/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/963-1998-234304
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2008-04-23T00:00:00Z'
+  retrieved_at: '2026-10-23T14:12:11Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 61bd34bf72d475f07485dc62a3005050529e4c4ed506c6ba20b6aab9d3ca6b1b
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 1627169eb84105d5fda3a3cf622b1dec35b608ffe1ea33428c6a5f560d963aba
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T14:12:11Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,14 +67,20 @@ reuse:
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
 - Crédito à Habitação
+- Habitação
 - Jovem
 - JURO Bonificado
-- Habitação
 relationships:
 - type: amended_by
   target: pt:dre:249541:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:589355:por
+  label: "Alterado o nº 1º e o modelo de declaração constante da tabela III e aditada a tabela IV pela PORT.281-A/99.1999.04.22.MF,DR.IS-B\
+    \ [94]2ºSUPL\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/281-a-1999-589355
+  date: '1999-04-22'
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/349/1998/11/11/p/dre
   label: null
@@ -91,16 +97,47 @@ relationships:
   target: eli:http://data.dre.pt/eli/port/828/1992/08/25/p/dre
   label: null
   source: http://data.dre.pt/eli/port/828/1992/08/25/p/dre
+- type: cites
+  target: pt:dre:234318:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:260585:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:300253:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:573521:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:667904:por
+  label: null
+  source: null
+- type: corrected_by
+  target: pt:dre:265572:por
+  label: "Rectificada pela DECL-RECT.22-U/98.1998.12.31.PCM DR.IS-B [301]8.ºSUPL\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/declaracao-rectificacao/22-u-1998-265572
+  date: '1998-12-31'
+- type: repealed_by
+  target: pt:dre:585054:por
+  label: "Revogado o presente diploma, na redacção da Port 281-A/99, de 22-Abr, pela PORT.1177/2000.15.12.2000.MES, DR.IS-B\
+    \ [288] de 15.12.2000, a partir da data da sua entrada em vigor.\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/1177-2000-585054
+  date: '2000-12-15'
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T14:12:11Z'
   warnings: []
   errors: []
 ---
@@ -141,7 +178,7 @@ c) Prestações constantes com bonificação decrescente.
 
 5.º - a) O sistema de amortização em prestações progressivas com capitalização parcial de juros e respectivos modelos de cálculo é o seguinte:
 
-[(ver fórmulas no documento original)](https://files.diariodarepublica.pt/1s/1998/11/261b00/61466148.pdf)
+[[(ver fórmulas no documento original)](https://files.diariodarepublica.pt/1s/1998/11/261b00/61466148.pdf)](https://files.diariodarepublica.pt/1s/1998/11/261b00/61466148.pdf)
 
 b) A percentagem z é fixada em 58%, à excepção do último ano do contrato, em que será igual a 100%.
 
@@ -165,7 +202,7 @@ c) No sistema de amortização por prestações constantes com bonificação con
 
 7.º - a) No sistema de amortização de prestações constantes com bonificação decrescente o modelo financeiro subjacente é o seguinte:
 
-[(ver fórmulas no documento original)](https://files.diariodarepublica.pt/1s/1998/11/261b00/61466148.pdf)
+[[(ver fórmulas no documento original)](https://files.diariodarepublica.pt/1s/1998/11/261b00/61466148.pdf)](https://files.diariodarepublica.pt/1s/1998/11/261b00/61466148.pdf)
 
 b) No sistema de amortização de prestações constantes com bonificação decrescente, sempre que no decurso de uma anuidade ocorra uma amortização extraordinária e uma alteração da taxa de referência para o cálculo de bonificações ou da taxa de juro, o recálculo das bonificações é apurado a partir do início do período subsequente ao da alteração daquelas variáveis, tendo em conta o saldo em dívida àquela data.
 
@@ -201,24 +238,24 @@ b) O estabelecido no n.º 1.º da presente portaria não se aplica às novas ope
 
 Ministérios das Finanças e do Equipamento, do Planeamento e da Administração do Território.
 
-**Assinada em 14 de Outubro de 1998.**
+Assinada em 14 de Outubro de 1998.
 
-**O Ministro das Finanças, António Luciano Pacheco de Sousa Franco. - O Ministro do Equipamento, do Planeamento e da Administração do Território, João Cardona Gomes Cravinho.**
+O Ministro das Finanças, António Luciano Pacheco de Sousa Franco. - O Ministro do Equipamento, do Planeamento e da Administração do Território, João Cardona Gomes Cravinho.
 
 TABELA I
 
 Valores máximos previstos no n.º 1.º
 
-[(ver tabela no documento original)](https://files.diariodarepublica.pt/1s/1998/11/261b00/61466148.pdf)
+[[[(ver tabela no documento original)](https://files.diariodarepublica.pt/1s/1998/11/261b00/61466148.pdf)](https://files.diariodarepublica.pt/1s/1998/11/261b00/61466148.pdf)](https://files.diariodarepublica.pt/1s/1998/11/261b00/61466148.pdf)
 
 TABELA II
 
 Regime de bonificação e condições de acesso a que se referem os n.os 3.º e 9.º
 
-[(ver tabela no documento original)](https://files.diariodarepublica.pt/1s/1998/11/261b00/61466148.pdf)
+[[[(ver tabela no documento original)](https://files.diariodarepublica.pt/1s/1998/11/261b00/61466148.pdf)](https://files.diariodarepublica.pt/1s/1998/11/261b00/61466148.pdf)](https://files.diariodarepublica.pt/1s/1998/11/261b00/61466148.pdf)
 
 TABELA III
 
 Rendimentos anuais brutos corrigidos dos agregados familiares consoante a sua dimnsão, a que se refere o n.º 10.º
 
-[(ver tabela no documento original)](https://files.diariodarepublica.pt/1s/1998/11/261b00/61466148.pdf)
+[[[(ver tabela no documento original)](https://files.diariodarepublica.pt/1s/1998/11/261b00/61466148.pdf)](https://files.diariodarepublica.pt/1s/1998/11/261b00/61466148.pdf)](https://files.diariodarepublica.pt/1s/1998/11/261b00/61466148.pdf)

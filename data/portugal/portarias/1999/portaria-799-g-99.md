@@ -20,7 +20,7 @@ publication:
   reference: Diário da República n.º 219/1999, 1º Suplemento, Série I-B de 1999-09-18
   number: '219'
   series: I
-  supplement: 1º Suplemento
+  supplement: null
   pages: 6510-(8) a 6510-(8)
   pdf_url: https://files.diariodarepublica.pt/1s/1999/09/219b01/00080008.pdf
 entry_into_force_dates: []
@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/799-g/1999/09/18/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/799-g-1999-581594
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2005-06-28T00:00:00Z'
+  retrieved_at: '2026-10-23T14:17:54Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 0c56dba16b4271ff1ba8d4d0d24a00744011943f75fd48ec0fcc647b217b947f
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 590b129a2642b591b7ae8dac25419b2240e494052b45d4572cdd32aaaf6f311e
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T14:17:54Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,7 +67,10 @@ reuse:
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
 - Angra do Heroísmo
+- Beja
+- Bragança
 - Curso de Enfermagem
+- Ensino Superior
 - Escola Superior de Enfermagem Cidade do Porto
 - Escola Superior de Enfermagem de Artur Ravara
 - Escola Superior de Enfermagem de Bissaya Barreto
@@ -79,38 +82,46 @@ subjects:
 - Escola Superior de Enfermagem de são JOÃO de DEUS
 - Escola Superior de Enfermagem do DR Lopes DIAS
 - Faro
-- Lisboa
+- Guarda
 - Leiria
 - Licenciatura
-- Beja
-- Vila Real
+- Lisboa
 - Ponta Delgada
 - Portalegre
-- Ensino Superior
 - Santarém
-- Bragança
-- Guarda
 - Viana do Castelo
+- Vila Real
 - Viseu
 relationships:
 - type: amended_by
   target: pt:dre:234159:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:234159:por
+  label: "Alterado o plano de estudos do curso de licenciatura em Enfermagem da Escola Superior de Saúde de Beja (Instituto\
+    \ Politécnico de Beja) criado pelo presente diploma e aprovado pela Port 441/2000 de 17-Jul, pela PORT.561/2005.28.06.2005.MCTES,\
+    \ DR.IS-B [122] de 28.06.2005\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/561-2005-234159
+  date: '2005-06-28'
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/353/1999/09/03/p/dre
   label: null
   source: http://data.dre.pt/eli/dec-lei/353/1999/09/03/p/dre
+- type: cites
+  target: pt:dre:582195:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T14:17:54Z'
   warnings: []
   errors: []
 ---

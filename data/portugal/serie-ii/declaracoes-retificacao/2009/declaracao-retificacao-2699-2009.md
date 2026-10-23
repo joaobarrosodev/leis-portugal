@@ -26,7 +26,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/2s/2009/11/214000000/4487244873.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -48,18 +48,18 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/declaracao-rectificacao/2699-2009-3677477
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2009-11-04T00:00:00Z'
+  retrieved_at: '2026-10-23T14:08:30Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 36391c9f607b91fca19daa70585ce5fdc3c0343cd2e0f1d96f24f572163f046c
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 9ec65b3a5bc2c2f5997ef57c23ee874fa83aa580b37d530a24a5b0dfbe187d07
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T14:08:30Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,23 +67,33 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects: []
-relationships: []
+relationships:
+- type: cites
+  target: pt:dre:247991:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:545575:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T14:08:30Z'
   warnings: []
   errors: []
 ---
 
-# Declaração de Rectificação n.º 2699/2009
+# Declaração de rectificação n.º 2699/2009
 
 Nos termos do artigo 148.º do Código do Procedimento Administrativo, rectifico o despacho n.º 22 977/2009, de 19 de Outubro, pelo que onde se lê «Nos termos das disposições conjugadas do n.º 4 do artigo 11.º e n.º 12 do artigo 32.º, ambos da [Lei n.º 53/2006](https://diariodarepublica.pt/dr/detalhe/lei/53-2006-545575), de 7 de Dezembro, na redacção conferida pela [Lei n.º 11/2008](https://diariodarepublica.pt/dr/detalhe/lei/11-2008-247991), de 20 de Fevereiro, autorizo e aprovo a seguinte lista nominativa do pessoal a colocar em mobilidade especial, por opção voluntária» deve ler-se «Em conformidade com as disposições constantes do despacho n.º 6303-B/2009, de 25 de Fevereiro, emitido nos termos do n.º 5 do artigo 11.º da [Lei n.º 53/2006](https://diariodarepublica.pt/dr/detalhe/lei/53-2006-545575), de 7 de Dezembro, autorizo e aprovo a seguinte lista nominativa do pessoal a colocar em mobilidade especial, por opção voluntária».
 
 27 de Outubro de 2009. - O Presidente, António Guerreiro de Brito.
+
+202513198

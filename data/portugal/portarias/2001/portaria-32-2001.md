@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/32/2001/01/17/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/32-2001-338594
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2001-01-17T00:00:00Z'
+  retrieved_at: '2026-10-23T14:31:28Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 4aa5562eabc64210c994c34aeb5c13f45f5b1e3ad9989e0a890c43eaebbd96a9
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 4f0402b36567f1b7e2ba01d19fe8de79a126c25db7071f01885f08a893ae497f
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T14:31:28Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,27 +66,31 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Função Pública
 - Estatuto
+- Função Pública
+- Gestão de Recursos Humanos
 - Instituto de Gestão de Fundos de Capitalização da Segurança Social
 - Instituto Público
 - Quadro de Pessoal
-- Gestão de Recursos Humanos
 relationships:
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/449-a/1999/11/04/p/dre
   label: null
   source: http://data.dre.pt/eli/dec-lei/449-a/1999/11/04/p/dre
+- type: cites
+  target: pt:dre:692274:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T14:31:28Z'
   warnings: []
   errors: []
 ---

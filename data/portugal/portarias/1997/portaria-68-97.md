@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/68/1997/01/29/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/68-1997-571414
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1997-04-20T00:00:00Z'
+  retrieved_at: '2026-10-23T14:04:13Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 94c28ff18b40d4a67d71640649ec58468ee1a7bcd9869710e57082009c8a4051
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: d97e3836b5ed36f38bc6c88f58fc5deaeb4b60eff119efa78b9dfeda665ed931
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T14:04:13Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -76,16 +76,33 @@ relationships:
   target: pt:dre:157989:por
   label: Última alteração registada na importação inicial
   source: null
+- type: cites
+  target: pt:dre:157050:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:332205:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:462214:por
+  label: null
+  source: null
+- type: corrected_by
+  target: pt:dre:157989:por
+  label: "Rectificada pela DECL-RECT.8-C/97.20.04.1997.PCM, DR.IS-B [100] de 20.04.1997\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/declaracao-rectificacao/8-c-1997-157989
+  date: '1997-04-20'
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T14:04:13Z'
   warnings: []
   errors: []
 ---
@@ -100,7 +117,7 @@ Manda o Governo, pelo Ministro da Justiça, ao abrigo do disposto nos artigos 5.
 
 2.º Os quadros de oficiais das repartições referidas no artigo anterior passam a ser os seguintes:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1997/01/024b00/04860486.pdf))](https://files.diariodarepublica.pt/1s/1997/01/024b00/04860486.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1997/01/024b00/04860486.pdf)
 
 3.º As datas de entrada em funcionamento dos novos serviços serão fixadas por despacho do director-geral dos Registos e do Notariado.
 
@@ -108,6 +125,6 @@ Manda o Governo, pelo Ministro da Justiça, ao abrigo do disposto nos artigos 5.
 
 Ministério da Justiça.
 
-**Assinada em 26 de Dezembro de 1996.**
+Assinada em 26 de Dezembro de 1996.
 
-**O Ministro da Justiça, José Eduardo Vera Cruz Jardim.**
+O Ministro da Justiça, José Eduardo Vera Cruz Jardim.

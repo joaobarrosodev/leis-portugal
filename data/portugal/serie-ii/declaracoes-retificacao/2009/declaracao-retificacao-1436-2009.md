@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/2s/2009/06/108000000/2263822638.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -47,18 +47,18 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/declaracao-rectificacao/1436-2009-2356075
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2009-06-04T00:00:00Z'
+  retrieved_at: '2026-10-23T14:01:07Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 312a246040c7472db9f10240e88437938a0266101bab6e30d13bad38c729c3fe
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 75d675ac8783227ed9f8be3aad660290534fd9bb69df9afd632ff5c44954bbad
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T14:01:07Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -70,13 +70,13 @@ relationships: []
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T14:01:07Z'
   warnings: []
   errors: []
 ---
@@ -90,3 +90,5 @@ Para os devidos efeitos, rectifica-se o aviso publicado no Diário da República
 Assim, onde se lê «Emitir pareceres no âmbito do planeamento e ordenamento do território, elaborar e gerir os PMOT, efectuar outros planos, estudos ou projectos com incidência territorial no âmbito do planeamento, ordenamento do território e ambiente necessários à gestão, sustentável do território, desenvolver funções de investigação, estudo, concepção e aplicação de métodos e processos científico-técnicos», deve ler-se «Emitir pareceres no âmbito do planeamento e ordenamento do território, desenvolver funções de investigação, estudo, concepção e aplicação de métodos e processos científico-técnicos. Fiscalização Técnica das Obras Particulares.».
 
 25 de Maio de 2009. - O Presidente da Câmara, Manuel Coelho Carvalho.
+
+301847305

@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1998/08/198b00/44644466.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/623/1998/08/28/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/623-1998-448304
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2010-05-19T00:00:00Z'
+  retrieved_at: '2026-10-23T14:10:11Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 43b7f9f7156540d6946ba51f0c0b20a7d8f5303969c1885b045631e93358f184
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 0939f0b134e1aceec9abeafb65fa5a528506b597a6b54cf32220acea8b8edcab
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T14:10:11Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -65,21 +65,31 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Vinho
-- Denominação de Origem
-- Controlo de Qualidade
-- Marca
-- Região Demarcada
-- Beja
-- Portalegre
 - Alentejo
+- Beja
+- Controlo de Qualidade
+- Denominação de Origem
 - Évora
+- Marca
+- Portalegre
+- Região Demarcada
 - Vinha
+- Vinho
 relationships:
 - type: amended_by
   target: pt:dre:614874:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:531466:por
+  label: "Alterado o Anexo II pela PORT.294/99.1999.04.28.MADRP DR.IS-B [99]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/294-1999-531466
+  date: '1999-04-28'
+- type: amended_by
+  target: pt:dre:164452:por
+  label: "Substituído o Anexo II, pela PORT.424/2001.2001.04.19.MADRP, DR.IS-B [92]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/424-2001-164452
+  date: '2001-04-19'
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/309/1991/08/17/p/dre
   label: null
@@ -88,16 +98,41 @@ relationships:
   target: eli:http://data.dre.pt/eli/port/672/1992/07/09/p/dre
   label: null
   source: http://data.dre.pt/eli/port/672/1992/07/09/p/dre
+- type: cites
+  target: pt:dre:288596:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:674426:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:357359:por
+  label: "Revogado o nº 4 e o Anexo II, pela PORT.394/2001.2001.04.16.MADRP, DR.IS-B [89]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/394-2001-357359
+  date: '2001-04-16'
+- type: repealed_by
+  target: pt:dre:479875:por
+  label: "Revogada, na redacção da Port 294/99 de 28-Abr, pelo Dec Lei 212/2004 de 23-Ago, DR.IS-A [198], mantido contudo\
+    \ transitoriamente em vigor até à publicação da legislação prevista nos arts 5º a 11º do referido diploma\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/212-2004-479875
+  date: '2004-08-23'
+- type: repealed_by
+  target: pt:dre:614874:por
+  label: "Revogado o presente diploma, na redacção da Port 294/99, de 28-Abr, pela PORT.276/2010.19.05.2010.MADRP, DR.IS [97]\
+    \ de 19.05.2010, nos termos do seu artigo 13º\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/276-2010-614874
+  date: '2010-05-19'
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T14:10:11Z'
   warnings: []
   errors: []
 ---
@@ -186,7 +221,7 @@ Regossolos psamíticos.
 
 Ministério da Agricultura, do Desenvolvimento Rural e das Pescas.
 
-**Assinada em 7 de Agosto de 1998.**
+Assinada em 7 de Agosto de 1998.
 
 Pelo Ministro da Agricultura, do Desenvolvimento Rural e das Pescas, Manuel Maria Cardoso Leal, Secretário de Estado da Produção Agro-Alimentar.
 

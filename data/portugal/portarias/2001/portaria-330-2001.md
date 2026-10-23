@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2001/04/078b00/19151923.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/330/2001/04/02/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/330-2001-345912
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2017-12-11T00:00:00Z'
+  retrieved_at: '2026-10-23T14:31:33Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 4d3e5389141a396ec989b7d2890d5e39833277ba8a55cf6e0e704b38ed5669d9
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 72f37fab365ed866abee8358a635ee678b9d895f0389aa10e5ccbb941f22da56
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T14:31:33Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,28 +67,49 @@ reuse:
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
 - Avaliação de Impacte Ambiental
-- Proteção do Ambiente
 - Gestão do Ambiente
 - Política do Ambiente
+- Proteção do Ambiente
 relationships:
 - type: amended_by
   target: pt:dre:114337013:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:513863:por
+  label: "Mantida em vigor pelo DEC LEI.151-B/2013.31.10.2013.MAGM, DR.IS [211-2ºSupl] de 31.10.2013, até à entrada em vigor\
+    \ das portarias previstas no mesmo diploma\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/151-b-2013-513863
+  date: '2013-10-31'
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/69/2000/05/03/p/dre
   label: null
   source: http://data.dre.pt/eli/dec-lei/69/2000/05/03/p/dre
+- type: cites
+  target: pt:dre:281589:por
+  label: null
+  source: null
+- type: corrected_by
+  target: pt:dre:587978:por
+  label: "Rectificada pela DECL-RECT.13-H/2001.2001.05.29.PCM, DR.IS-B [126]4ºSupl de 31/Mai/2001\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/declaracao-rectificacao/13-h-2001-587978
+  date: '2001-05-29'
+- type: repealed_by
+  target: pt:dre:70907843:por
+  label: Revogada, com efeitos a 06.10.2015, pelo(a) Portaria n.º 395/2015 - Diário da República n.º 216/2015, Série I de
+    2015-11-04
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/395-2015-70907843
+  date: '2015-11-04'
 article_structure:
   article_count: 0
-  section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  section_count: 1
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T14:31:33Z'
   warnings: []
   errors: []
 ---
@@ -195,7 +216,7 @@ Acesso do público aos instrumentos de decisão do procedimento de AIA
 
 A página na Internet do IPAMB deve permitir a consulta de todas as declarações de impacte ambiental (DIA) emitidas, bem como das deliberações relativas a propostas de definição do âmbito (PDA) e relatórios de conformidade ambiental de projectos de execução (RECAPE), pelo que os respectivos ficheiros devem ser remetidos ao IPAMB pelas respectivas entidades emitentes.
 
-**O Ministro do Ambiente e do Ordenamento do Território, José Sócrates Carvalho Pinto de Sousa, em 28 de Fevereiro de 2001.**
+O Ministro do Ambiente e do Ordenamento do Território, José Sócrates Carvalho Pinto de Sousa, em 28 de Fevereiro de 2001.
 
 ## ANEXO I — Normas técnicas para a estrutura da proposta de definição do âmbito do EIA
 
@@ -553,7 +574,9 @@ c) Proposta de revisão dos programas de monitorização e da periodicidade dos 
 
 VI - Anexos.
 
-## ANEXO VI — Parte 1
+## ANEXO VI
+
+## Parte 1
 
 Modelo da declaração que acompanha a proposta de definição do âmbito do EIA, prevista no n.º 2 do artigo 11.º do [Decreto-Lei n.º 69/2000](https://diariodarepublica.pt/dr/detalhe/decreto-lei/69-2000-281589), de 3 de Maio.
 

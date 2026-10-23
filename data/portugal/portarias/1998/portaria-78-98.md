@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1998/02/042b00/06800681.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/78/1998/02/19/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/78-1998-209838
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1998-10-21T00:00:00Z'
+  retrieved_at: '2026-10-23T14:11:06Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 3e7b1d41b1d6402d48abcd6deb1d5023f69e6e436576d342426d20d88eb9f6ef
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 43e9fb996ee64246b17476cfa51cec6a24fea213013f86c345b588254c90c2aa
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T14:11:06Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,12 +67,12 @@ reuse:
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
 - Árvore
+- Comércio
 - Exploração Florestal
+- Política Florestal
 - Produção Vegetal
 - Regulamento
 - Regulamento da Admissão de Material de BASE e da Comercialização de Material de Reprodução de Sobreiro
-- Política Florestal
-- Comércio
 relationships:
 - type: amended_by
   target: pt:dre:240014:por
@@ -90,16 +90,33 @@ relationships:
   target: eli:http://data.dre.pt/eli/port/975/1995/08/11/p/dre
   label: null
   source: http://data.dre.pt/eli/port/975/1995/08/11/p/dre
+- type: cites
+  target: pt:dre:217697:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:275633:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:477667:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:240014:por
+  label: "Revogada pela PORT.918/98.1998.10.21.MECO, DR.IS-B [243]G\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/918-1998-240014
+  date: '1998-10-21'
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T14:11:06Z'
   warnings: []
   errors: []
 ---
@@ -162,6 +179,6 @@ Ausência de indícios de enrolamento.»
 
 Ministérios da Economia e da Agricultura, do Desenvolvimento Rural e das Pescas.
 
-**Assinada em 30 de Janeiro de 1998.**
+Assinada em 30 de Janeiro de 1998.
 
-**O Ministro da Economia, Joaquim Augusto Nunes de Pina Moura. - O Ministro da Agricultura, do Desenvolvimento Rural e das Pescas, Fernando Manuel Van-Zeller Gomes da Silva.**
+O Ministro da Economia, Joaquim Augusto Nunes de Pina Moura. - O Ministro da Agricultura, do Desenvolvimento Rural e das Pescas, Fernando Manuel Van-Zeller Gomes da Silva.

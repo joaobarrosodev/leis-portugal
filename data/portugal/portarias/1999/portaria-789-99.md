@@ -48,18 +48,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/789/1999/09/06/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/789-1999-580620
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2000-07-28T00:00:00Z'
+  retrieved_at: '2026-10-23T14:17:49Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 9a2ec4a7fadb83322bb7570a3bb5ebe26486f5994df62f0cf88eb600d64811c1
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 9e823d304b91bf64e92374ebfd9dc9e8561e8cdb2ed21dd43cb5701bc81173fa
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T14:17:49Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -68,26 +68,32 @@ reuse:
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
 - Campanha Vinícola
-- Vinho
+- Comissão Vitivinícola Regional
 - Definição de Competências
-- Região Demarcada
 - Direcção Geral de Protecção das Culturas
 - Direcção Regional de Agricultura
 - Instituto da Vinha e do Vinho
 - Prazo
 - Produção
-- Comissão Vitivinícola Regional
+- Região Demarcada
 - Região Demarcada do Douro
 - Região Demarcada dos Vinhos Verdes
 - Regulamento
 - Regulamento CE
 - Vinha
+- Vinho
 - ZONA Vitivinícola
 relationships:
 - type: amended_by
   target: pt:dre:313579:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:313579:por
+  label: "Determinada a não aplicação do n.º 3.º e 5.º bem como a data a que se refere o n.º 7 do presente diploma, pela PORT.532/2000.2000.07.28.MADRP\
+    \ DR.IS-B [173]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/532-2000-313579
+  date: '2000-07-28'
 - type: cites
   target: celex:31990R3302
   label: null
@@ -95,13 +101,13 @@ relationships:
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T14:17:49Z'
   warnings: []
   errors: []
 ---

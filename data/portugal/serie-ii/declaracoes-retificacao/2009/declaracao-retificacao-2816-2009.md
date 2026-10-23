@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/2s/2009/11/221000000/4623446234.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -46,18 +46,18 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/declaracao-rectificacao/2816-2009-3068688
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2009-11-13T00:00:00Z'
+  retrieved_at: '2026-10-23T14:09:15Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: d06c00c4e3ee4be9e8b5e95a7023aa1698829621fb2e0aa05dc619eb133f87e9
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: d0aaaa495e59da275ad9b8b5d5296a4564578387f189a04fbce9b555c5fb12d8
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T14:09:15Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -65,22 +65,30 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects: []
-relationships: []
+relationships:
+- type: cites
+  target: pt:dre:245335:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:603476:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T14:09:15Z'
   warnings: []
   errors: []
 ---
 
-# Declaração de Rectificação n.º 2816/2009
+# Declaração de rectificação n.º 2816/2009
 
 Por ter saído com inexactidão o texto do despacho n.º 21960/2009, publicado no Diário da República, 2.ª série, n.º 191, de 1 de Outubro de 2009, relativamente ao cargo de administrador do Instituto Politécnico de Coimbra, rectifica-se que onde se lê:
 
@@ -113,3 +121,5 @@ Outros elementos:
 Exercício de funções de analista de projectos de investimento para o Conselho Empresarial do Centro (Programa RIME) e para o IEFP (programas de investimento/emprego) e de consultor para o investimento da ADICES - Associação de Desenvolvimento Local, desenvolvendo actividade entre 1994 e 1996 nas Câmaras Municipais de Tondela, Mortágua, Carregal do Sal e Santa Comba Dão.»
 
 6 de Novembro de 2009. - O Presidente, Rui Jorge da Silva Antunes.
+
+202560048

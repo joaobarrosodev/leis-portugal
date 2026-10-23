@@ -48,18 +48,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/351/2000/06/14/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/351-2000-288421
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2007-09-28T00:00:00Z'
+  retrieved_at: '2026-10-23T14:23:02Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 499eaba52756b7c2ee5fe5d4627e78d79b8d486e0bc2953b3fb547305b2369df
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: d097bf2cdc272125441ff3cc05b14a860e67fed22d2d66683fd8dc84cb81a4da
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T14:23:02Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -76,6 +76,18 @@ relationships:
   target: pt:dre:642504:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:589691:por
+  label: "Anexados vários prédios rústicos à zona de caça atribuída pela Port 498/91 de 05-Jun, com a redacção do presente\
+    \ diploma, pela PORT.115/2004.29.01.2004.MADRP, DR.IS-B [24] de 29.01.2004\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/115-2004-589691
+  date: '2004-01-29'
+- type: amended_by
+  target: pt:dre:642504:por
+  label: "Extinta a concessão da zona de caça atribuída pela Port 498/91 de 05-Jun, renovada no presente diploma, pela PORT.1278/2007.28.09.2007.MAOTDR,\
+    \ DR.IS [188] de 28.09.2007\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/1278-2007-642504
+  date: '2007-09-28'
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/136/1996/08/14/p/dre
   label: null
@@ -88,16 +100,28 @@ relationships:
   target: eli:http://data.dre.pt/eli/port/498/1991/06/05/p/dre
   label: null
   source: http://data.dre.pt/eli/port/498/1991/06/05/p/dre
+- type: cites
+  target: pt:dre:316370:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:405765:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:629670:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T14:23:02Z'
   warnings: []
   errors: []
 ---

@@ -20,12 +20,12 @@ publication:
   reference: Diário da República n.º 288/2000, 3º Suplemento, Série I-B de 2000-12-15
   number: '288'
   series: I
-  supplement: 3º Suplemento
+  supplement: null
   pages: 7342-(31) a 7342-(32)
   pdf_url: https://files.diariodarepublica.pt/1s/2000/12/288b03/00310032.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/1178-d/2000/12/15/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/1178-d-2000-429607
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2009-04-17T00:00:00Z'
+  retrieved_at: '2026-10-23T14:20:20Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 40941e132d85d1af1582989b4e1462cd4304a8bdd692ed0feb29e623b54a0886
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 1b2b7b7da442b985157bc2787d6aedfff30038f212a45627ecb55e57214061f8
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T14:20:20Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,8 +67,8 @@ reuse:
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
 - Código das Custas Judiciais
-- Processo Judicial
 - Custas Judiciais
+- Processo Judicial
 relationships:
 - type: amended_by
   target: pt:dre:288868:por
@@ -86,16 +86,39 @@ relationships:
   target: eli:http://data.dre.pt/eli/port/657/1999/08/17/p/dre
   label: null
   source: http://data.dre.pt/eli/port/657/1999/08/17/p/dre
+- type: cites
+  target: pt:dre:138783:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:393230:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:434783:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:603036:por
+  label: "Revogado o pagamento do serviço de teleconferência previsto no anexo pela PORT.42/2004.14.01.2004.MJ, DR.IS-B [11]\
+    \ de 14.01.2004\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/42-2004-603036
+  date: '2004-01-14'
+- type: repealed_by
+  target: pt:dre:288868:por
+  label: "Revogada, a partir de 20.04.2009, pela PORT.419-A/2009.17.04.2009.MFAP, DR.IS [75-Supl] de 17.04.2009\009\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/419-a-2009-288868
+  date: '2009-04-17'
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T14:20:20Z'
   warnings: []
   errors: []
 ---

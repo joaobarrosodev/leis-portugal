@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/834/1997/09/06/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/834-1997-642886
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2009-05-06T00:00:00Z'
+  retrieved_at: '2026-10-23T14:05:18Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: f0246f5c01cb714ee618d340949a48f602fa5223271e8f08fb6f1d0161cf2cd0
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: e5e8e756ee6c3ea54fc9394978d6f8b8d3fe8c2025ea0de53cf54ab9b572ad9c
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T14:05:18Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,14 +67,32 @@ reuse:
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
 - CAÇA
-- Fundão
 - Castelo Branco
+- Fundão
 - ZONA de CAÇA
 relationships:
 - type: amended_by
   target: pt:dre:608061:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:169067:por
+  label: "Anexados vários prédios rústicos à zona de caça concessionada pela Port 346/94, de 01-Jun alterada pelo presente\
+    \ diploma, pela PORT.45/2006.12.01.2006.MADRP, DR.IS-B [9] de 12.01.2006\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/45-2006-169067
+  date: '2006-01-12'
+- type: amended_by
+  target: pt:dre:287635:por
+  label: "Renovada, por um periodo de 12 anos, a concessão da zona de caça concessionada pela Port 346/94 de 01-Jun, alterada\
+    \ pelo presente diploma, pela PORT.492/2006.30.05.2006.MADRP, DR.IS-B [104] de 30.05.2006\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/492-2006-287635
+  date: '2006-05-30'
+- type: amended_by
+  target: pt:dre:608061:por
+  label: "Anexados vários prédios rústicos à zona de caça atribuída pela Port 346/94 de 01-Jun, com as alterações constantes\
+    \ do presente diploma, pela PORT.479/2009.06.05.2009.MADRP, DR.IS [87] de 06.05.2009\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/479-2009-608061
+  date: '2009-05-06'
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/251/1992/11/12/p/dre
   label: null
@@ -83,16 +101,32 @@ relationships:
   target: eli:http://data.dre.pt/eli/port/346/1994/06/01/p/dre
   label: null
   source: http://data.dre.pt/eli/port/346/1994/06/01/p/dre
+- type: cites
+  target: pt:dre:301597:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:417646:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:455890:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:584874:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T14:05:18Z'
   warnings: []
   errors: []
 ---
@@ -125,8 +159,8 @@ Manda o Governo, pelo Ministro da Agricultura, do Desenvolvimento Rural e das Pe
 
 Ministério da Agricultura, do Desenvolvimento Rural e das Pescas.
 
-**Assinada em 8 de Agosto de 1997.**
+Assinada em 8 de Agosto de 1997.
 
 Pelo Ministro da Agricultura, do Desenvolvimento Rural e das Pescas, Luís Manuel Capoulas Santos, Secretário de Estado da Agricultura e do Desenvolvimento Rural.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1997/09/206b00/47164716.pdf))](https://files.diariodarepublica.pt/1s/1997/09/206b00/47164716.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1997/09/206b00/47164716.pdf)

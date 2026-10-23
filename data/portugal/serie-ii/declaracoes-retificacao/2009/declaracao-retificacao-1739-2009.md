@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/2s/2009/07/139000000/2864628646.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -46,18 +46,18 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/declaracao-rectificacao/1739-2009-3108724
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2009-07-21T00:00:00Z'
+  retrieved_at: '2026-10-23T14:02:53Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 825d1aa3f8cfcbadd694c218a51909207e9ae30ff3289933e00aa6812e5d4dc8
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: e86d73e9fa2570ada5cb28a29f4367c3d03233ff1bc615d3c1884e9db3128148
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T14:02:53Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -69,13 +69,13 @@ relationships: []
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T14:02:53Z'
   warnings: []
   errors: []
 ---
@@ -87,3 +87,5 @@ Declaração de rectificação n.º 1739/2009
 Para os devidos efeitos se rectifica o aviso n.º 12323/2009, de 16/06, publicado no Diário da República, n.º 133, 2.ª série, de 13 de Julho de 2009, referente à abertura dos PCCR'S - 29, 30 e 31/2009, assim onde se lê: "...4.3. Outros requisitos de recrutamento previstos nas alíneas a) a d) do n.º 1 do artigo 52.º da LVCR...", deve ler-se: "...4.3. Outros requisitos de recrutamento previstos nas alíneas a) a c) do n.º 1 do artigo 52.º da LVCR...".
 
 14 de Julho de 2009. - O Vice-Presidente da Câmara, Vítor Manuel Domingues Lourenço.
+
+302051092

@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/49/1997/01/18/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/49-1997-582406
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2009-02-10T00:00:00Z'
+  retrieved_at: '2026-10-23T14:03:08Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: eac6f2bc595650b481b7fc5577695891d1b19f5617d839ccc1e1343e2919cb3e
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 18c4acdc39cbba77e4a4d8c81f9ba2970069dca37b88e8f0757df39c2489598f
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T14:03:08Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -68,28 +68,107 @@ reuse:
 subjects:
 - Cereal
 - Controlo Sanitário
-- Saúde Pública
 - Pesticida
 - Produto Fitofarmacêutico
+- Saúde Pública
 relationships:
 - type: amended_by
   target: pt:dre:601372:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:661750:por
+  label: "Alterado o anexo pela PORT.1101/99.1999.12.21.MADRP,DR.IS-B [295]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/1101-1999-661750
+  date: '1999-12-21'
+- type: amended_by
+  target: pt:dre:408499:por
+  label: "Substituída por \"1 de Julho de 2000\" a data referida nas notas de rodapé a) e b) à lista de LMR de produtos fitofarmacêuticos\
+    \ em cereais, constante do anexo deste diploma, pelo DEC LEI.27/2000.2000.03.03.MADRP DR.IS-A [53]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/27-2000-408499
+  date: '2000-03-03'
+- type: amended_by
+  target: pt:dre:425484:por
+  label: "Alterado o anexo ao presente diploma pelo DEC LEI.245/2002.2002.11.08.MADRP,DR.IS-A [258]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/245-2002-425484
+  date: '2002-11-08'
+- type: amended_by
+  target: pt:dre:223629:por
+  label: "Suprimida a rubrica referente à substância activa lindano constante do anexo II, parte A, da Port 492/90 de 30-Jun,\
+    \ com as alterações introduzidas pelo presente diploma, DEC LEI.68/2003.2003.04.08.MADRP DR.IS-A [83]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/68-2003-223629
+  date: '2003-04-08'
+- type: amended_by
+  target: pt:dre:671041:por
+  label: "Suprimida a rubrica referente à substância activa triassulfurão constante do anexo, com a redacção dada pela Port\
+    \ 1101/99 de 21-Dez e pelos Dec Lei 27/2000 de 03-Mar, 245/2002 de 08-Nov, e 68/2003 de 08-Abr, pelo DEC LEI.156/2003.2003.07.18.MADRP\
+    \ DR.IS-A [164]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/156-2003-671041
+  date: '2003-07-18'
+- type: amended_by
+  target: pt:dre:440083:por
+  label: "Suprimida uma rubrica no Anexo do presente diploma, na redacção da Port 1101/99, de 21-Dez, do Dec Lei 27/2000,\
+    \ de 03-Mar, do Dec Lei 245/2002, de 08-Nov, do Dec Lei 68/2003, de 08-Abr e do Dec Lei 156/2003, de 18-Jul, pelo DEC\
+    \ LEI.300/2003.04.12.2003.MADRP, DR.IS-A [280] de 04.12.2003\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/300-2003-440083
+  date: '2003-12-04'
+- type: amended_by
+  target: pt:dre:269642:por
+  label: "Suprimidas rubricas constantes do anexo ao presente diploma, pelo DEC LEI.116/2004.18.05.2004.MADRP, DR.IS-A [116]\
+    \ de 18.05.2004\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/116-2004-269642
+  date: '2004-05-18'
+- type: amended_by
+  target: pt:dre:683842:por
+  label: "Suprimida uma rubrica ao anexo à presente portaria, pelo DEC LEI.32/2006.15.02.2006.MADRP, DR.IS-A [33] de 15.02.2006\0\
+    \0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/32-2006-683842
+  date: '2006-02-15'
+- type: amended_by
+  target: pt:dre:358492:por
+  label: "Suprimidas várias rúbricas do anexo do presente diploma, alterada pela Portaria 1101/99, de 21 de Dezembro e pelos\
+    \ Decretos-Leis 27/2000, de 03 de Março, 245/2002, de 08 de Novembro, 68/2003, de 08 de Abril, 156/2003, de 18 de Julho,\
+    \ 300/2003, de 04 de Dezembro, 116/2004, de 18 de Maio e 32/2006, de 15 de Fevereiro, pelo DEC LEI.123/2006.28.06.2006.MADRP,\
+    \ DR.IS-A [123] de 28.06.2006\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/123-2006-358492
+  date: '2006-06-28'
+- type: amended_by
+  target: pt:dre:545386:por
+  label: "Suprimida uma rubrica no anexo do presente diploma, pelo DEC LEI.233/2006.29.11.2006.MADRP, DR.IS [230] de 29.11.2006\0\
+    06\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/233-2006-545386
+  date: '2006-11-29'
+- type: amended_by
+  target: pt:dre:639288:por
+  label: "Suprimida uma rubrica no anexo da Port 492/90 de 30-Jun, com a redacção conferida no presente diploma, pelo DEC\
+    \ LEI.235/2007.19.06.2007.MADRP, DR.IS [116] de 19.06.2007\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/235-2007-639288
+  date: '2007-06-19'
+- type: amended_by
+  target: pt:dre:629450:por
+  label: "Suprimidas várias rubricas ao anexo da presente portaria, pelo DEC LEI.373/2007.06.11.2007.MADRP, DR.IS [213] de\
+    \ 06.11.2007\007\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/373-2007-629450
+  date: '2007-11-06'
 - type: cites
   target: celex:31996L0033
   label: null
   source: http://data.europa.eu/eli/dir/1996/33/oj
+- type: repealed_by
+  target: pt:dre:601372:por
+  label: "Revogada, nos termos do art. 13.º, pelo DEC LEI.39/2009.10.02.2009.MADRP, DR.IS [28] de 10.02.2009\009\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/39-2009-601372
+  date: '2009-02-10'
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T14:03:08Z'
   warnings: []
   errors: []
 ---
@@ -122,10 +201,10 @@ Endossulfão.
 
 Ministério da Agricultura, do Desenvolvimento Rural e das Pescas.
 
-**Assinada em 17 de Dezembro de 1996.**
+Assinada em 17 de Dezembro de 1996.
 
 Pelo Ministro da Agricultura, do Desenvolvimento Rural e das Pescas, Manuel Maria Cardoso Leal, Secretário de Estado da Produção Agro-Alimentar.
 
 ## ANEXO — Lista de limites máximos de resíduos em cereais
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1997/01/015b00/03100311.pdf))](https://files.diariodarepublica.pt/1s/1997/01/015b00/03100311.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1997/01/015b00/03100311.pdf)

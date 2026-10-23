@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/2s/2009/10/200000000/4184741847.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -47,18 +47,18 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/declaracao-rectificacao/2558-2009-1464680
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2009-10-15T00:00:00Z'
+  retrieved_at: '2026-10-23T14:07:44Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: cea5f2cb1b23d731bf896184a8ccfac5f2345379e91990340bab96911e50e812
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: adcd33b7c974a9602844c9018d855d0897c1df2417aefa64c68e7f9d83d541f4
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T14:07:44Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -70,13 +70,13 @@ relationships: []
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T14:07:44Z'
   warnings: []
   errors: []
 ---
@@ -90,3 +90,5 @@ Procedimento concursal comum para contratação a termo resolutivo certo de um t
 No aviso de abertura referente ao concurso em epígrafe, publicado no Diário da República, 2.ª série, n.º 93, de 14 de Maio de 2009, aviso n.º 9594/2009, rectifica-se que, no n.º 11.4, onde se lê «CF = PCTE x 40 % x AC x 30 % + EAC x 30 %» deve ler-se «CF = PCTE x 40 % + AC x 30 % + EAC x 30 %».
 
 14 de Setembro de 2009. - O Presidente da Câmara, Carlos Alberto dos Santos Tuta.
+
+302366734

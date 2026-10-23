@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/178/2000/03/24/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/178-2000-508464
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2000-03-24T00:00:00Z'
+  retrieved_at: '2026-10-23T14:21:56Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 64ed1b90741d5d3e68c567ec6f344f6b2e205458292c7af63b65f673d8cc98cd
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 121a1a58de67f78050ad7008c17b9348adc6f570d9184b6128ac0f3216dd1fbc
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T14:21:56Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,12 +67,12 @@ reuse:
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
 - Acreditação
-- Empresa
-- Sistema Português da Qualidade
-- Controlo de Qualidade
-- Marca
 - Certificado de Qualidade
+- Controlo de Qualidade
+- Empresa
 - Instituto Português da Qualidade
+- Marca
+- Sistema Português da Qualidade
 relationships:
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/234/1993/07/02/p/dre
@@ -86,16 +86,28 @@ relationships:
   target: eli:http://data.dre.pt/eli/port/135/1997/02/25/p/dre
   label: null
   source: http://data.dre.pt/eli/port/135/1997/02/25/p/dre
+- type: cites
+  target: pt:dre:373863:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:505777:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:505779:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T14:21:56Z'
   warnings: []
   errors: []
 ---

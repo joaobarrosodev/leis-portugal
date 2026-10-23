@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2001/05/116b00/29342934.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/514/2001/05/19/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/514-2001-344201
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2002-01-14T00:00:00Z'
+  retrieved_at: '2026-10-23T14:32:45Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: d5e3275d8e0d003bff49abc1b94523e2b535c35e0c3df5a41fb962508bf29f84
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: c8ef93f562eb7baa56c718b2db8b314b76b51565c83c564891a51ae030c21ded
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T14:32:45Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -83,16 +83,29 @@ relationships:
   target: eli:http://data.dre.pt/eli/port/254-ej/1996/07/15/p/dre
   label: null
   source: http://data.dre.pt/eli/port/254-ej/1996/07/15/p/dre
+- type: cites
+  target: pt:dre:157206:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:534644:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:436575:por
+  label: "Revogada pela PORT.56-C/2002.2002.01.14.MADRP, DR.IS-B [11]Supl\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/56-c-2002-436575
+  date: '2002-01-14'
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T14:32:45Z'
   warnings: []
   errors: []
 ---

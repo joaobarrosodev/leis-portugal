@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2000/02/046b00/06570658.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/102/2000/02/24/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/102-2000-413238
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2001-10-25T00:00:00Z'
+  retrieved_at: '2026-10-23T14:19:19Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: c1ec882d5ebbb12363f4a24bbfd6d3bcb5f60fab45df15d2a5cfc0f0ab2eecc8
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 05571a02f721bc86402dfe99b22cc21558d3ce1a601d0ca67d33bf7301414f3d
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T14:19:19Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,15 +66,15 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Produto Químico
+- Comércio
 - Direcção Geral de Protecção das Culturas
 - Fiscalização
-- Proteção Fitossanitária
-- Produção Vegetal
 - Pesticida
+- Produção Vegetal
 - Produto Fitofarmacêutico
+- Produto Químico
+- Proteção Fitossanitária
 - TAXA de Prestação de Serviços
-- Comércio
 relationships:
 - type: amended_by
   target: pt:dre:583655:por
@@ -92,16 +92,33 @@ relationships:
   target: eli:http://data.dre.pt/eli/port/153/1997/03/03/p/dre
   label: null
   source: http://data.dre.pt/eli/port/153/1997/03/03/p/dre
+- type: cites
+  target: pt:dre:173369:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:513178:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:533822:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:583655:por
+  label: "Revogada pela PORT.1232/2001.2001.10.25.MADRP DR.IS-B [248]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/1232-2001-583655
+  date: '2001-10-25'
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T14:19:19Z'
   warnings: []
   errors: []
 ---
@@ -134,7 +151,7 @@ Manda o Governo, pelos Ministros das Finanças, da Economia e da Agricultura, do
 
 Em 7 de Fevereiro de 2000.
 
-**O Ministro das Finanças, Joaquim Augusto Nunes Pina Moura. - O Ministro da Economia, Joaquim Augusto Nunes Pina Moura. - Pelo Ministro da Agricultura, do Desenvolvimento Rural e das Pescas, Luís Medeiros Vieira, Secretário de Estado dos Mercados Agrícolas e da Qualidade Alimentar.**
+O Ministro das Finanças, Joaquim Augusto Nunes Pina Moura. - O Ministro da Economia, Joaquim Augusto Nunes Pina Moura. - Pelo Ministro da Agricultura, do Desenvolvimento Rural e das Pescas, Luís Medeiros Vieira, Secretário de Estado dos Mercados Agrícolas e da Qualidade Alimentar.
 
 Tabela de preços a pagar à Direcção-Geral de Protecção das Culturas pela execução do previsto no [Decreto-Lei n.º 284/94](https://diariodarepublica.pt/dr/detalhe/decreto-lei/284-1994-533822), de 11 de Novembro, no [Decreto-Lei n.º 94/98](https://diariodarepublica.pt/dr/detalhe/decreto-lei/94-1998-173369), de 15 de Abril, e nos regulamentos comunitários respeitantes à reavaliação de substâncias activas.
 

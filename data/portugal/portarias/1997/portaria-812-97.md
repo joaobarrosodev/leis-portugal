@@ -48,18 +48,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/812/1997/09/04/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/812-1997-643368
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2000-07-24T00:00:00Z'
+  retrieved_at: '2026-10-23T14:05:13Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 20b1d2efa6f7a34c737bbc1a72343035c4b056cc6f43a507f7fe714af44087b0
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 9d2b1150e4c0775d9384986ceb03bea7ccd7a570edcb0e64467e548016cae7e8
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T14:05:13Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -68,11 +68,11 @@ reuse:
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
 - Curso de Estudos Superiores Especializados em Contabilidade e Gestão de Empresas
+- Ensino Superior
 - Ensino Superior Politécnico
 - Escola Superior de Estudos Industriais e de Gestão
 - Instituto Politécnico
 - Licenciatura
-- Ensino Superior
 - Porto
 relationships:
 - type: amended_by
@@ -83,16 +83,39 @@ relationships:
   target: eli:http://data.dre.pt/eli/port/116/1995/02/03/p/dre
   label: null
   source: http://data.dre.pt/eli/port/116/1995/02/03/p/dre
+- type: cites
+  target: pt:dre:138547:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:222418:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:453184:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:470779:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:321364:por
+  label: "Revogada a Port 116/95, de 03-Fev, alterada pelo presente diploma, (findo o processo de transição fixado nos termos\
+    \ do art. 31.º do Regulamento aprovado pela Port 413-A/98, de 17-Jul), pela PORT.496/2000.2000.07.24.ME DR.IS-B [169]\0\
+    \0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/496-2000-321364
+  date: '2000-07-24'
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T14:05:13Z'
   warnings: []
   errors: []
 ---
@@ -123,6 +146,6 @@ O Instituto Politécnico do Porto, através da sua Escola Superior de Estudos In
 
 Ministério da Educação.
 
-**Assinada em 8 de Agosto de 1997.**
+Assinada em 8 de Agosto de 1997.
 
 Pelo Ministro da Educação, Guilherme d'Oliveira Martins, Secretário de Estado da Administração Educativa.

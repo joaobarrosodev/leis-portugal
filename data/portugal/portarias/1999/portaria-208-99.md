@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/208/1999/03/25/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/208-1999-138103
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2010-01-22T00:00:00Z'
+  retrieved_at: '2026-10-23T14:13:57Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 48fcb8e63fae7cdb41624eee3d3d58718e08bac19dd7d999e32d71b0dacb4cbb
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 49ac2d4cb781167c873c0aa3bff9ce7c7fd25c15df7a5aec69abfb4e583b35ab
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T14:13:57Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -72,6 +72,13 @@ relationships:
   target: pt:dre:616789:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:616789:por
+  label: "Renovada por doze anos, com efeitos a partir de 10.07.2010, a concessão da zona de caça atribuída pela Port 699/92\
+    \ de 09-Jul, cuja renovação efectuada pela Port 518/98 de 12-Ago foi corrigida no presente diploma, pela PORT.58/2010.22.01.2010.MADRP,\
+    \ DR.IS [15] de 22.01.2010\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/58-2010-616789
+  date: '2010-01-22'
 - type: cites
   target: eli:http://data.dre.pt/eli/port/518/1998/08/12/p/dre
   label: null
@@ -80,16 +87,24 @@ relationships:
   target: eli:http://data.dre.pt/eli/port/699/1992/07/09/p/dre
   label: null
   source: http://data.dre.pt/eli/port/699/1992/07/09/p/dre
+- type: cites
+  target: pt:dre:288585:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:438009:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T14:13:57Z'
   warnings: []
   errors: []
 ---

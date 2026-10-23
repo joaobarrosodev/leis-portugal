@@ -20,7 +20,7 @@ publication:
   reference: Diário da República n.º 291/2000, 3º Suplemento, Série I-B de 2000-12-19
   number: '291'
   series: I
-  supplement: 3º Suplemento
+  supplement: null
   pages: 7394-(77) a 7394-(81)
   pdf_url: https://files.diariodarepublica.pt/1s/2000/12/291b03/00770081.pdf
 entry_into_force_dates: []
@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/1193-b/2000/12/19/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/1193-b-2000-692032
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2000-12-19T00:00:00Z'
+  retrieved_at: '2026-10-23T14:20:25Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 43003e4c3765dd5baee76ae82b718f516df83ba3ced3ac692dd1e29b3f545a40
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: bf9509854053e320a7a81005cab4a31f916f978895f564bef5f00b3840eaf578
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T14:20:25Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -73,16 +73,20 @@ relationships:
   target: eli:http://data.dre.pt/eli/dec-lei/83/2000/05/11/p/dre
   label: null
   source: http://data.dre.pt/eli/dec-lei/83/2000/05/11/p/dre
+- type: cites
+  target: pt:dre:275430:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T14:20:25Z'
   warnings: []
   errors: []
 ---
@@ -105,6 +109,6 @@ Manda o Governo, pelos Ministros dos Negócios Estrangeiros e da Administração
 
 Em 15 de Dezembro de 2000.
 
-**O Ministro dos Negócios Estrangeiros, Jaime José Matos da Gama. - O Ministro da Administração Interna, Henrique Nuno Pires Severiano Teixeira.**
+O Ministro dos Negócios Estrangeiros, Jaime José Matos da Gama. - O Ministro da Administração Interna, Henrique Nuno Pires Severiano Teixeira.
 
 [(ver modelos no documento original)](https://files.diariodarepublica.pt/1s/2000/12/291b03/00770081.pdf)

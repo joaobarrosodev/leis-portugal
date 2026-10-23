@@ -20,7 +20,7 @@ publication:
   reference: Diário da República n.º 129/1999, 2º Suplemento, Série I-B de 1999-06-04
   number: '129'
   series: I
-  supplement: 2º Suplemento
+  supplement: null
   pages: 3140-(10) a 3140-(14)
   pdf_url: https://files.diariodarepublica.pt/1s/1999/06/129b02/00100014.pdf
 entry_into_force_dates: []
@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/412-i/1999/06/04/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/412-i-1999-559436
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1999-08-17T00:00:00Z'
+  retrieved_at: '2026-10-23T14:15:18Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 587e7ec1deff409c501431721b853eb1b645b83c951dbdc10733ae42a66ace86
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 56f12feee57dfe45f7e1f24e82388ff901c7ce2f098222f36e21a9ecfddeb197
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T14:15:18Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -77,20 +77,33 @@ relationships:
   target: pt:dre:434784:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:434784:por
+  label: "Alterado o nº 5 e o anexo I pela PORT.660/99.1999.08.17.MEPAT DR.IS-B [191]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/660-1999-434784
+  date: '1999-08-17'
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/61/1999/03/02/p/dre
   label: null
   source: http://data.dre.pt/eli/dec-lei/61/1999/03/02/p/dre
+- type: cites
+  target: pt:dre:152528:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:285742:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T14:15:18Z'
   warnings: []
   errors: []
 ---
@@ -301,7 +314,7 @@ que agrupam as seguintes subcategorias:
 
 7.º A presente portaria entra em vigor no dia imediato ao da sua publicação.
 
-**O Ministro do Equipamento, do Planeamento e da Administração do Território, João Cardona Gomes Cravinho, em 4 de Junho de 1999.**
+O Ministro do Equipamento, do Planeamento e da Administração do Território, João Cardona Gomes Cravinho, em 4 de Junho de 1999.
 
 ## ANEXO I
 

@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/352/2001/04/09/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/352-2001-354540
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2006-08-17T00:00:00Z'
+  retrieved_at: '2026-10-23T14:31:41Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: aafb4e4b0a095be5f6e0bf71af54fcce1783ee0ccdb8ac62e29247d12ed20253
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: fb4373050443211d07adfdf9b35780b5410b8fab42905827833a68c914eca7b6
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T14:31:41Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -74,6 +74,13 @@ relationships:
   target: pt:dre:538816:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:538816:por
+  label: "Transferida para Eduard Henri Emma de Meester a zona de caça turística do Monte Negro e renovada por um período\
+    \ de 12 anos, a concessão da referida zona de caça concessionada pela Port 698/91, de 15-Jul, na redacção do presente\
+    \ diploma, pela Port.831/2006.17.08.2006.MADRP, DR.IS [158] de 17.08.2006\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/831-2006-538816
+  date: '2006-08-17'
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/136/1996/08/14/p/dre
   label: null
@@ -98,16 +105,44 @@ relationships:
   target: eli:http://data.dre.pt/eli/port/736-b/1993/08/13/p/dre
   label: null
   source: http://data.dre.pt/eli/port/736-b/1993/08/13/p/dre
+- type: cites
+  target: pt:dre:156001:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:156003:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:219134:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:227017:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:405765:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:534644:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:663562:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T14:31:41Z'
   warnings: []
   errors: []
 ---

@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/489/1997/07/15/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/489-1997-150891
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2011-05-05T00:00:00Z'
+  retrieved_at: '2026-10-23T14:03:08Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 67d010749394ae704edb984c2599db014969138f26bab44bf7de2f9f7a0a1fa1
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 37dacbf4f169e4a3425aa59c1422551e38eecfe6b07583e1713b81f4371d4bbd
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T14:03:08Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -68,14 +68,20 @@ reuse:
 subjects:
 - Aproximação das Legislações
 - Direcção Geral de Viação
+- Equipamento de Veículo
 - Especificação Técnica
 - Veículo
-- Equipamento de Veículo
 relationships:
 - type: amended_by
   target: pt:dre:287110:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:677070:por
+  label: "Alterados os anexos I e II à Port 517-A/96 de 27-Set na redacção dada pela presente Portaria, pela PORT.1080/97.1997.10.29.MAI\
+    \ DR.IS-B [251]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/1080-1997-677070
+  date: '1997-10-29'
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/114/1994/05/03/p/dre
   label: null
@@ -84,16 +90,92 @@ relationships:
   target: eli:http://data.dre.pt/eli/port/517-a/1996/09/27/p/dre
   label: null
   source: http://data.dre.pt/eli/port/517-a/1996/09/27/p/dre
+- type: cites
+  target: pt:dre:250659:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:542794:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:615043:por
+  label: "Revogado o anexo V da Port 517-A/96 de 27-Set, com a redacção dada pelo presente diploma, no que se refere à homologação\
+    \ CE, à instalação dos dispositivos de iluminação e de sinalização luminosa, banco do condutor, dispositivo de direcção,\
+    \ espelhos retrovisores, avisadores sonoros, chapas de matrícula, dispositivos de escape, massas de lastragem, níveis\
+    \ sonoros, peso máximo em carga e reservatório de combustível, velocidade máxima por construção, dispositivos de reboque\
+    \ e marcha atrás e dipositivos de protecção em caso de capotagem dos tratores agrícolas e florestais de rodas, pelo DEC\
+    \ LEI.291/2000.2000.11.14.MAI DR.IS-A [263]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/291-2000-615043
+  date: '2000-11-14'
+- type: repealed_by
+  target: pt:dre:567184:por
+  label: "Revogado o anexo V da Port 517-A/96 de 27-Set, [225]Supl,com a redacção que lhe foi dada pela presente Portaria,\
+    \ no que se refere a dimensões e massas rebocáveis,regulador de velocidade, pára-brisas, ligações entre tractor e reboque,chapas\
+    \ regulamentares e comando de travagem dos reboques dos tractores agricolas e florestais de rodas. pelo DEC LEI.305/2001.2001.12.03.MAI,\
+    \ DR.IS-A [279]\09]\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/305-2001-567184
+  date: '2001-12-03'
+- type: repealed_by
+  target: pt:dre:584861:por
+  label: "Revogado, no que se refere ao banco dos passageiros e ao quadro e cabinas de segurança (dispositivos de protecção\
+    \ montados na retaguarda e na frente) dos tractores agrícolas ou florestais de rodas de via estreita, o anexo V da Port\
+    \ 517-A/96 de 27-Set, com a redacção conferida pelo presente diploma, pelo DEC LEI.3/2002.2002.01.04.MAI DR.IS-A [3]\0\
+    ]\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/3-2002-584861
+  date: '2002-01-04'
+- type: repealed_by
+  target: pt:dre:368663:por
+  label: "Revogado, no que se refere às interferências radioeléctricas, o Anexo V da Port 517-A/96, de 27-Set, na redacção\
+    \ da presente Portaria, pelo DEC LEI.124/2002.2002.05.10.MAI, DR.IS-A [108]\0]\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/124-2002-368663
+  date: '2002-05-10'
+- type: repealed_by
+  target: pt:dre:641466:por
+  label: "Revogado o anexo v da Port 517-A/96 de 27-Set, com a redacção dada pelo presente diploma, no que se refere ao nível\
+    \ sonoro nos ouvidos do operador, pelo DEC LEI.333/2007.10.10.2007.MAI, DR.IS [195] de 10.10.2007\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/333-2007-641466
+  date: '2007-10-10'
+- type: repealed_by
+  target: pt:dre:641442:por
+  label: "Revogado, no que se refere à fixação dos cintos de segurança, o anexo I da Port 517-A/96 de 27-Set, com a redacção\
+    \ conferida no presente diploma, pelo DEC LEI.342/2007.15.10.2007.MAI, DR.IS [198] de 15.10.2007\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/342-2007-641442
+  date: '2007-10-15'
+- type: repealed_by
+  target: pt:dre:454831:por
+  label: "Revogado, no que se refere às saliências exteriores, o anexo I da Port 517-A/96, de 27-Set, com a redacção dada\
+    \ pelo presente diploma, pelo DEC LEI.151/2008.30.07.2008.MOPTC, DR.IS [146] de 30.07.2008\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/151-2008-454831
+  date: '2008-07-30'
+- type: repealed_by
+  target: pt:dre:439411:por
+  label: "Revogado no que se refere à instalação de luzes o anexo I da Port 517-A/96 de 27-Set, com a redacção conferida no\
+    \ presente diploma, pelo DEC LEI.218/2008.11.11.2008.MOPTC, DR.IS [219] de 11.11.2008\008\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/218-2008-439411
+  date: '2008-11-11'
+- type: repealed_by
+  target: pt:dre:443765:por
+  label: "Revogado o anexo v, no que se refere ao campo de visão e limpa-pára-brisas, da Port 517-A/96 de 27-Set, com a redacção\
+    \ dada pelo presente diploma, pelo DEC LEI.240/2008.16.12.2008.MOPTC, DR.IS [242] de 16.12.2008\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/240-2008-443765
+  date: '2008-12-16'
+- type: repealed_by
+  target: pt:dre:287110:por
+  label: "Revogado o anexo I da Port 517-A/96, de 27-Set, na redacção do presente diploma, pelo DEC LEI.59/2011.05.05.2011.MOPTC,\
+    \ DR.IS [87] de 05.05.2011\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/59-2011-287110
+  date: '2011-05-05'
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T14:03:08Z'
   warnings: []
   errors: []
 ---
@@ -114,22 +196,22 @@ Manda o Governo, pelo Ministro da Administração Interna, que os anexos I, II, 
 
 Ministério da Administração Interna.
 
-**Assinada em 17 de Abril de 1997.**
+Assinada em 17 de Abril de 1997.
 
 Pelo Ministro da Administração Interna, Armando António Martins Vara, Secretário de Estado da Administração Interna.
 
 ## ANEXO I — Veículos automóveis e reboques
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1997/07/161b00/34913498.pdf))](https://files.diariodarepublica.pt/1s/1997/07/161b00/34913498.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1997/07/161b00/34913498.pdf)
 
 ## ANEXO II — Directivas contendo disposições sobre características técnicas dos veículos automóveis e seus reboques, componentes, sistemas e respectiva aprovação
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1997/07/161b00/34913498.pdf))](https://files.diariodarepublica.pt/1s/1997/07/161b00/34913498.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1997/07/161b00/34913498.pdf)
 
 ## ANEXO V — Tractores agrícolas
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1997/07/161b00/34913498.pdf))](https://files.diariodarepublica.pt/1s/1997/07/161b00/34913498.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1997/07/161b00/34913498.pdf)
 
 ## ANEXO VI — Directivas contendo disposições sobre características técnicas dos tractores agrícolas e seus reboques, componentes, sistemas e respectiva aprovação
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1997/07/161b00/34913498.pdf))](https://files.diariodarepublica.pt/1s/1997/07/161b00/34913498.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1997/07/161b00/34913498.pdf)

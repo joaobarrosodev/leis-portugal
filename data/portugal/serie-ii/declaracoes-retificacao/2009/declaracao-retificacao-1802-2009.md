@@ -26,7 +26,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/2s/2009/07/144000000/2990929913.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -48,18 +48,18 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/declaracao-rectificacao/1802-2009-922318
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2009-07-28T00:00:00Z'
+  retrieved_at: '2026-10-23T14:03:18Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: aef5a1d9a47045c367077ed22f0bb7a9fc24ee1dc48b9aba5aa710b1960fd6af
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: cb3eeb13c7727f9fdb52cd74bf89c1bd1533b5980a93719c5288fbebd11ca5c6
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T14:03:18Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -71,13 +71,13 @@ relationships: []
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T14:03:18Z'
   warnings: []
   errors: []
 ---
@@ -92,14 +92,16 @@ Por meu despacho de 30 de Dezembro de 2008, proferido no uso de competência sub
 
 Direcção Regional de Educação do Centro
 
-[([ver documento original](https://files.diariodarepublica.pt/2s/2009/07/144000000/2990929913.pdf))](https://files.diariodarepublica.pt/2s/2009/07/144000000/2990929913.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/2s/2009/07/144000000/2990929913.pdf)
 
 Direcção Regional de Educação de Lisboa e Vale do Tejo
 
-[([ver documento original](https://files.diariodarepublica.pt/2s/2009/07/144000000/2990929913.pdf))](https://files.diariodarepublica.pt/2s/2009/07/144000000/2990929913.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/2s/2009/07/144000000/2990929913.pdf)
 
 Direcção Regional de Educação do Norte
 
-[([ver documento original](https://files.diariodarepublica.pt/2s/2009/07/144000000/2990929913.pdf))](https://files.diariodarepublica.pt/2s/2009/07/144000000/2990929913.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/2s/2009/07/144000000/2990929913.pdf)
 
 15 de Julho de 2009. - A Subdirectora-Geral, Idalete Gonçalves.
+
+202086125

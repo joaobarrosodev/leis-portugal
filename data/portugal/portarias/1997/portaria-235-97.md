@@ -48,18 +48,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/235/1997/04/04/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/235-1997-529426
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1997-04-04T00:00:00Z'
+  retrieved_at: '2026-10-23T14:01:27Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 4bbd0089c7ec402c52eb150c0c90f20a02fc8030f6ea9acc1a53c4d9326ae049
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: f2725e624a4a07ac44b7c3c63d55412175e5b12add188e145bfec4674f30272a
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T14:01:27Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -68,10 +68,10 @@ reuse:
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
 - Curso de Estudos Superiores Especializados em Educação Especial
+- Educação Pré-escolar
+- Ensino Básico
 - Escola Superior de Educação
 - Instituto Politécnico
-- Ensino Básico
-- Educação Pré-escolar
 - Porto
 relationships:
 - type: cites
@@ -82,16 +82,28 @@ relationships:
   target: eli:http://data.dre.pt/eli/port/147/1997/02/28/p/dre
   label: null
   source: http://data.dre.pt/eli/port/147/1997/02/28/p/dre
+- type: cites
+  target: pt:dre:344443:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:453184:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:513786:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T14:01:27Z'
   warnings: []
   errors: []
 ---
@@ -114,7 +126,7 @@ Vagas para 1997-1998
 
 O número de vagas para a candidatura à matrícula e inscrição no ano lectivo de 1997-1998 para o curso de estudos superiores especializados em Educação Especial - Educação Pré-Escolar e Ensino Básico (1.º Ciclo) ministrado pela Escola Superior de Educação do Instituto Politécnico do Porto é fixado em 30, assim distribuído pelas suas opções e contingentes:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1997/04/079b00/15251526.pdf))](https://files.diariodarepublica.pt/1s/1997/04/079b00/15251526.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1997/04/079b00/15251526.pdf)
 
 2.º
 
@@ -150,6 +162,6 @@ Contingente da alínea a) do n.º 1 do n.º 6.º da [Portaria n.º 1074/91](http
 
 Ministério da Educação.
 
-**Assinada em 5 de Março de 1997.**
+Assinada em 5 de Março de 1997.
 
 Pelo Ministro da Educação, Alfredo Jorge Silva, Secretário de Estado do Ensino Superior.

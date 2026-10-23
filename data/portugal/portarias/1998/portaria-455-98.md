@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1998/07/173b00/36163622.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/455/1998/07/29/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/455-1998-430392
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2008-11-10T00:00:00Z'
+  retrieved_at: '2026-10-23T14:09:05Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: e4e0441c8976f4ea57a22627faae32d1d74aa4a2989509f4be5e28bcf7a24ea5
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 7cce38116e4565cb733547c97cbad1536fb74d53f4441fa2682f25c6561e1e51
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T14:09:05Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -65,19 +65,19 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Produção Animal
-- Gado Caprino
-- Direção Geral de Veterinária
 - Controlo Sanitário
+- Direção Geral de Veterinária
 - Exploração Pecuária
 - Gado Bovino
-- Gado Suíno
-- Reprodução Animal
-- Licenciamento
-- Registo dos Centros de Inseminação Artificial para as diversas Espécies Pecuárias
+- Gado Caprino
 - Gado Equino
-- Regulamento
+- Gado Suíno
 - Inseminação Artificial
+- Licenciamento
+- Produção Animal
+- Registo dos Centros de Inseminação Artificial para as diversas Espécies Pecuárias
+- Regulamento
+- Reprodução Animal
 relationships:
 - type: amended_by
   target: pt:dre:439393:por
@@ -95,16 +95,26 @@ relationships:
   target: celex:31997L0012
   label: null
   source: http://data.europa.eu/eli/dir/1997/12/oj
+- type: repealed_by
+  target: pt:dre:439393:por
+  label: "Revogada, a partir de 08.02.2009, pelo DEC LEI.214/2008.10.11.2008.MADRP, DR.IS [218] de 10.11.2008\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/214-2008-439393
+  date: '2008-11-10'
+- type: repeals
+  target: pt:dre:471276:por
+  label: "Revoga os anexos A e B da Port 231/91, de 21-Mar DR.IS [67]\0\0"
+  source: null
+  date: '1991-03-21'
 article_structure:
   article_count: 6
-  section_count: 3
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  section_count: 4
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T14:09:05Z'
   warnings: []
   errors: []
 ---
@@ -129,7 +139,7 @@ Manda o Governo, pelo Ministro da Agricultura, do Desenvolvimento Rural e das Pe
 
 Ministério da Agricultura, do Desenvolvimento Rural e das Pescas.
 
-**Assinada em 8 de Julho 1998.**
+Assinada em 8 de Julho 1998.
 
 Pelo Ministro da Agricultura, do Desenvolvimento Rural e das Pescas, Luís Manuel Capoulas Santos, Secretário de Estado da Agricultura e do Desenvolvimento Rural.
 
@@ -259,7 +269,9 @@ A armazenagem de sémen;
 
 2) Ser construído de forma que as instalações possam ser facilmente limpas e desinfectadas, bem como impedir qualquer contacto com animais que se encontrem no exterior.
 
-## ANEXO B — CAPÍTULO I
+## ANEXO B
+
+### CAPÍTULO I
 
 Admissão de animais
 

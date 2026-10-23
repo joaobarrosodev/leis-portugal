@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/2s/2009/07/136000000/2816028160.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -47,18 +47,18 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/declaracao-rectificacao/1710-2009-866103
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2009-07-16T00:00:00Z'
+  retrieved_at: '2026-10-23T14:02:43Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 91e22d21513384ead76e1a8c42ebf3cecb830a087f51aac4e029f06d7dd7907f
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: ef2c035ecbabe4662917ffe5f44b4f8a81c200fbe97a6a09e4aaac0d0e444bda
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T14:02:43Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -70,13 +70,13 @@ relationships: []
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T14:02:43Z'
   warnings: []
   errors: []
 ---
@@ -88,3 +88,5 @@ Declaração de rectificação n.º 1710/2009
 Tendo em consideração que a Doutora Alda Maria Simões Pereira, professora auxiliar desta Universidade foi autorizada a deslocar-se a Maastricht para participar na EADTU e na ICDE World Conference, de 7 a 10 de Junho e que por motivos de força maior não pode participar nas respectivas conferências, determino que se anule o Despacho n.º 11499/2009 de 30 de Abril de 2009, publicado no Diário da República, 2.ª série, n.º 91, de 12 de Maio, pagina 18 661.
 
 29 de Junho de 2009. - A Vice-Reitora, Carla Padrel de Oliveira.
+
+202031433

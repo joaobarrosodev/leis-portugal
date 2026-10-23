@@ -48,18 +48,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/53/2000/02/10/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/53-2000-402112
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2000-02-10T00:00:00Z'
+  retrieved_at: '2026-10-23T14:24:12Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 90b9552abee0b978c887a82362724bca455e626a9ebe6d057f8c6dddf5ce34e2
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 0427e6f2fe70e74c118dc6857c09c20f124ba00bdd4008003f4ec728b9d871ac
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T14:24:12Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -70,24 +70,28 @@ subjects:
 - Administração dos Portos do Douro e Leixões
 - Contrato de Concessão
 - Domínio Público Marítimo
-- Produto Petrolífero
 - Petrogal
 - Porto de Leixões
+- Produto Petrolífero
 relationships:
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/254/1999/07/07/p/dre
   label: null
   source: http://data.dre.pt/eli/dec-lei/254/1999/07/07/p/dre
+- type: cites
+  target: pt:dre:374610:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T14:24:12Z'
   warnings: []
   errors: []
 ---
@@ -110,4 +114,4 @@ Manda o Governo, pelos Ministros do Equipamento Social, da Defesa Nacional, da A
 
 Em 21 de Janeiro de 2000.
 
-**O Ministro do Equipamento Social, Jorge Paulo Sacadura Almeida Coelho. - O Ministro da Defesa Nacional, Júlio de Lemos de Castro Caldas. - O Ministro da Agricultura, do Desenvolvimento Rural e das Pescas, Luís Manuel Capoulas Santos. - O Ministro do Ambiente e do Ordenamento do Território, José Sócrates Carvalho Pinto de Sousa.**
+O Ministro do Equipamento Social, Jorge Paulo Sacadura Almeida Coelho. - O Ministro da Defesa Nacional, Júlio de Lemos de Castro Caldas. - O Ministro da Agricultura, do Desenvolvimento Rural e das Pescas, Luís Manuel Capoulas Santos. - O Ministro do Ambiente e do Ordenamento do Território, José Sócrates Carvalho Pinto de Sousa.

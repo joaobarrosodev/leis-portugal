@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1999/10/235b00/67986803.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/862/1999/10/08/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/862-1999-673791
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2013-01-28T00:00:00Z'
+  retrieved_at: '2026-10-23T14:18:19Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: e381dbfcccb6d92f16696657ca957f22bf385143c4212fc21f0e899af8d37e55
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: eea0f42ff71f671496ae72c47d8565d1a73060d2712942c3adc4883b6b993ffa
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T14:18:19Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -71,8 +71,8 @@ subjects:
 - Cartão de Identificação
 - Contribuinte
 - Direcção Geral dos Impostos
-- Informatização
 - Documento Eletrónico
+- Informatização
 - Pessoa Coletiva
 - Pessoa Singular
 - Prazo
@@ -81,6 +81,12 @@ relationships:
   target: pt:dre:257001:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:670360:por
+  label: "Substituídos os modelos das fichas de inscrição e de actualização de pessoa singular e respectivas instruções que\
+    \ constituem o anexo III deste diploma, pela PORT.594/2003.2003.07.12.MF DR.IS-B [166]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/594-2003-670360
+  date: '2003-07-12'
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/19/1997/01/21/p/dre
   label: null
@@ -101,16 +107,55 @@ relationships:
   target: eli:http://data.dre.pt/eli/port/386/1998/07/03/p/dre
   label: null
   source: http://data.dre.pt/eli/port/386/1998/07/03/p/dre
+- type: cites
+  target: pt:dre:229484:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:367228:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:486925:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:518848:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:543963:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:581627:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:405757:por
+  label: "Revogado o nº 7 pelo DEC LEI.307/2002.2002.12.16.MF, DR.IS-A [290]\0]\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/307-2002-405757
+  date: '2002-12-16'
+- type: repealed_by
+  target: pt:dre:580992:por
+  label: "Revogados os n.ºs 1.º, 3.º, 4.º, 5.º e 6.º, pela PORT.377/2003.2003.05.10.MF DR.IS-B [108]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/377-2003-580992
+  date: '2003-05-10'
+- type: repealed_by
+  target: pt:dre:257001:por
+  label: "Revogada a partir de 27.02.2013 pelo DEC LEI.14/2013.28.01.2013.MF, DR.IS [19] de 28.01.2013\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/14-2013-257001
+  date: '2013-01-28'
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T14:18:19Z'
   warnings: []
   errors: []
 ---
@@ -155,15 +200,15 @@ c) Um chip incorporado, aproximadamente no centro da extremidade esquerda do car
 
 Em 18 de Agosto de 1999.
 
-**O Ministro das Finanças, António Luciano Pacheco de Sousa Franco. - O Ministro da Justiça, José Eduardo Vera Cruz Jardim.**
+O Ministro das Finanças, António Luciano Pacheco de Sousa Franco. - O Ministro da Justiça, José Eduardo Vera Cruz Jardim.
 
 ## ANEXO I — Modelo de cartão de contribuinte - pessoa singular
 
-[(ver modelo no documento original)](https://files.diariodarepublica.pt/1s/1999/10/235b00/67986803.pdf)
+[[(ver modelo no documento original)](https://files.diariodarepublica.pt/1s/1999/10/235b00/67986803.pdf)](https://files.diariodarepublica.pt/1s/1999/10/235b00/67986803.pdf)
 
 ## ANEXO II — Modelo do cartão de contribuinte - pessoa colectiva
 
-[(ver modelo no documento original)](https://files.diariodarepublica.pt/1s/1999/10/235b00/67986803.pdf)
+[[(ver modelo no documento original)](https://files.diariodarepublica.pt/1s/1999/10/235b00/67986803.pdf)](https://files.diariodarepublica.pt/1s/1999/10/235b00/67986803.pdf)
 
 ## ANEXO III — Fichas de inscrição e actualização
 

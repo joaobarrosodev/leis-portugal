@@ -27,7 +27,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1999/11/277b00/84168416.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -49,18 +49,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/1049/1999/11/27/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/1049-1999-643916
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2007-10-12T00:00:00Z'
+  retrieved_at: '2026-10-23T14:12:46Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 1878ce7789c09b2978e869f3b2befd40a6e7721a94e341bb6042c5405af26cd6
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 4134c6f9a1e93681b97fa4586a849143e6ffcdebebe76876766263094ed0f362
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T14:12:46Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -72,9 +72,9 @@ subjects:
 - Departamento do Ensino Superior
 - Diploma
 - Doutoramento
+- Ensino Superior
 - Equivalência de Habilitações Literárias
 - Universidade
-- Ensino Superior
 relationships:
 - type: amended_by
   target: pt:dre:641418:por
@@ -88,16 +88,30 @@ relationships:
   target: eli:http://data.dre.pt/eli/port/69/1998/02/18/p/dre
   label: null
   source: http://data.dre.pt/eli/port/69/1998/02/18/p/dre
+- type: cites
+  target: pt:dre:208254:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:209674:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:641418:por
+  label: "Revogada a partir de 13.10.2007 a Port 69/98 de 18-Fev, com as alterações contantes do presente diploma, pelo DEC\
+    \ LEI.341/2007.12.10.2007.MCTES, DR.IS [197] de 12.10.2007\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/341-2007-641418
+  date: '2007-10-12'
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T14:12:46Z'
   warnings: []
   errors: []
 ---
@@ -154,4 +168,4 @@ Instituições acreditadas
 
 Sempre que o elenco de instituições e graus abrangido por uma deliberação da Comissão seja, nos termos da deliberação, definido por uma entidade acreditadora do país estrangeiro em causa, compete à Comissão proceder ao envio da lista respectiva e das suas actualizações aos reitores das universidades públicas portuguesas.»
 
-**O Ministro da Educação, Guilherme d'Oliveira Martins, em 26 de Outubro de 1999.**
+O Ministro da Educação, Guilherme d'Oliveira Martins, em 26 de Outubro de 1999.

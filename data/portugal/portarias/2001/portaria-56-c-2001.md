@@ -20,7 +20,7 @@ publication:
   reference: Diário da República n.º 24/2001, 2º Suplemento, Série I-B de 2001-01-29
   number: '24'
   series: I
-  supplement: 2º Suplemento
+  supplement: null
   pages: 472-(7) a 472-(7)
   pdf_url: https://files.diariodarepublica.pt/1s/2001/01/024b02/00070007.pdf
 entry_into_force_dates: []
@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/56-c/2001/01/29/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/56-c-2001-163804
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2005-04-07T00:00:00Z'
+  retrieved_at: '2026-10-23T14:33:02Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: e2b38f9cfaa7bd5b7f12fb3a0947b6904889661baf63768e3256c4446679e3ff
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: e2d1ffffd3549fb1a2ee64aff2e751aa0690f831dcbe457d7a43d89554e712c4
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T14:33:02Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,22 +66,41 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
+- Abate de Navios
 - Ajuda Comunitária
 - Direcção Geral das Pescas
+- Embarcação de Pesca
+- Ifadap
+- Intervenção Operacional Pescas
 - Pesca
-- Abate de Navios
 - Programa para o Desenvolvimento Económico do Sector das Pescas
 - Regime de Apoio à Imobilização Definitiva de Embarcações de Pesca
-- Intervenção Operacional Pescas
 - Regulamento
 - Regulamento CE
-- Ifadap
-- Embarcação de Pesca
 relationships:
 - type: amended_by
   target: pt:dre:568362:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:197111:por
+  label: "Suspensa a vigência da Port 1086/2000, de 11-Nov, na redacção dada pelo presente diploma, pela PORT.960/2002.2002.08.02.MADRP,\
+    \ DR.IS-B [177]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/960-2002-197111
+  date: '2002-08-02'
+- type: amended_by
+  target: pt:dre:348912:por
+  label: "Reposta em vigor a Port 1086/2000, de 11-Nov, na redacção do presente diploma, alterados os arts. 2.º, 3.º, 4.º,\
+    \ 5.º, 6.º, 8.º e 12.º os anexos I e II e revogado o art. 13.º, pela PORT.1490/2004.28.12.2004.MAPF, DR.IS-B [302] de\
+    \ 28.12.2004\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/1490-2004-348912
+  date: '2004-12-28'
+- type: amended_by
+  target: pt:dre:568362:por
+  label: "Suspensa a vigência da Port 1086/2000 de 11-Nov, com as alterações introduzidas pelo presente diploma, pela PORT.398/2005.07.04.2005.MAPF,\
+    \ DR.IS-B [68] de 07.04.2005, sem prejuízo das candidaturas apresentadas até 08.04.2005.\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/398-2005-568362
+  date: '2005-04-07'
 - type: cites
   target: celex:31999R2792
   label: null
@@ -90,16 +109,21 @@ relationships:
   target: eli:http://data.dre.pt/eli/port/1086/2000/11/11/p/dre
   label: null
   source: http://data.dre.pt/eli/port/1086/2000/11/11/p/dre
+- type: corrected_by
+  target: pt:dre:621323:por
+  label: "Rectificada pela DECL-RECT.9-N/2001.2001.03.26.PCM, DR.IS-B [77] 3º SUPL\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/declaracao-rectificacao/9-n-2001-621323
+  date: '2001-03-26'
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T14:33:02Z'
   warnings: []
   errors: []
 ---
@@ -124,7 +148,9 @@ Objecto
 
 O presente Regulamento estabelece o regime de apoio à imobilização definitiva de embarcações de pesca por demolição, nos termos do Regulamento (CE) n.º [2792/99](http://data.europa.eu/eli/reg/1999/2792/oj?locale=pt), do Conselho, de 17 de Dezembro, e do previsto no Decreto-Lei n.º 224/2000, de 9 de Setembro, que cria o MARE - Programa para o Desenvolvimento Sustentável do Sector da Pesca.
 
-## ANEXO I — (a que se refere o artigo 5.º)
+ANEXO I
+
+(a que se refere o artigo 5.º)
 
 Metodologia para a avaliação final (AF)
 
@@ -140,4 +166,4 @@ MPOP = (Capacidade da frota (GT)/Objectivos do POP frota (GT)) x 100
 
 2.º O disposto no presente diploma aplica-se às candidaturas já reformuladas ou apresentadas ao abrigo da Portaria n.º 1086/2000, de 11 de Novembro.
 
-**O Ministro da Agricultura, do Desenvolvimento Rural e das Pescas, Luís Manuel Capoulas Santos, em 26 de Janeiro de 2001.**
+O Ministro da Agricultura, do Desenvolvimento Rural e das Pescas, Luís Manuel Capoulas Santos, em 26 de Janeiro de 2001.

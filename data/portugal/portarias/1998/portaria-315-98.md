@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/315/1998/05/21/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/315-1998-523836
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1998-05-21T00:00:00Z'
+  retrieved_at: '2026-10-23T14:08:04Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 689f6eb97eca84bf1d5aa2ca6dc2129928421ff73c0596faf929311b2422699d
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 47cf63e21449143988005034968657a18af56a33f8b7b2ed98d13459e52dd5b5
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T14:08:04Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,14 +67,14 @@ reuse:
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
 - Ajuda à Modernização
-- Financiamento
-- Desenvolvimento Rural
 - Apoio ao Investimento
-- JURO Bonificado
-- Linha de Crédito
 - Crédito
 - Crédito Bancário
+- Desenvolvimento Rural
 - Exploração Agrícola
+- Financiamento
+- JURO Bonificado
+- Linha de Crédito
 - Piddac
 - Prédio Rústico
 - Regulamento
@@ -92,16 +92,32 @@ relationships:
   target: eli:http://data.dre.pt/eli/port/432/1995/05/11/p/dre
   label: null
   source: http://data.dre.pt/eli/port/432/1995/05/11/p/dre
+- type: cites
+  target: pt:dre:199636:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:269400:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:510180:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:549393:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T14:08:04Z'
   warnings: []
   errors: []
 ---
@@ -146,7 +162,7 @@ c) A linha de crédito aplicável é a constante do anexo III a este diploma, do
 
 Ministérios das Finanças e da Agricultura, do Desenvolvimento Rural e das Pescas.
 
-**Assinada em 23 de Abril de 1998.**
+Assinada em 23 de Abril de 1998.
 
 Pelo Ministro das Finanças, Fernando Teixeira dos Santos, Secretário de Estado do Tesouro e das Finanças. - O Ministro da Agricultura, do Desenvolvimento Rural e das Pescas, Fernando Manuel Van-Zeller Gomes da Silva.
 

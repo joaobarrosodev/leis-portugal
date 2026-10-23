@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/803/1999/09/20/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/803-1999-560778
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1999-09-20T00:00:00Z'
+  retrieved_at: '2026-10-23T14:17:54Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: ded6cd0c9d55929777149f9c1a9d21ea7cb4cbff9cbc751d7737818c1375dcc6
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 9281f13818bc4a08354a2cd9e968ef66cbfdbf2caeef20aff439f2326ff60d17
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T14:17:54Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -69,35 +69,39 @@ subjects:
 - Aeroporto
 - Aeroporto de Francisco SÁ Carneiro
 - Aeroporto de Santa Maria
-- Contrato de Seguro
 - Assistência em Escala
-- Transporte Aéreo
+- Contrato de Seguro
 - Faro
-- Lisboa
-- Seguro
-- Horta
 - Funchal
+- Horta
+- Lisboa
 - Porto Santo
-- Serviço Público
 - Prestação de Serviços
 - Responsabilidade Civil
+- Seguro
 - Seguro Obrigatório de Responsabilidade Civil
+- Serviço Público
+- Transporte Aéreo
 - Transporte de Passageiros
 relationships:
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/275/1999/07/23/p/dre
   label: null
   source: http://data.dre.pt/eli/dec-lei/275/1999/07/23/p/dre
+- type: cites
+  target: pt:dre:352525:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T14:17:54Z'
   warnings: []
   errors: []
 ---
@@ -124,4 +128,4 @@ b) 100000000$00, para os restantes serviços.
 
 2.º Nos restantes aeródromos, os capitais mínimos das apólices de seguro de responsabilidade civil são de 50000000$00.
 
-**O Ministro do Equipamento, do Planeamento e da Administração do Território, João Cardona Gomes Cravinho, em 3 de Setembro de 1999.**
+O Ministro do Equipamento, do Planeamento e da Administração do Território, João Cardona Gomes Cravinho, em 3 de Setembro de 1999.

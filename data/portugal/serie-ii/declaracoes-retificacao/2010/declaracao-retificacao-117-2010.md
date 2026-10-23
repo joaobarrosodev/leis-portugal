@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/2s/2010/01/015000000/0317503176.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -47,18 +47,18 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/declaracao-rectificacao/117-2010-1629685
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2010-01-22T00:00:00Z'
+  retrieved_at: '2026-10-23T14:16:03Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: af8edbdb591c104199aac27bf521e2906c31002ea87b42ebc99495aec9a6d889
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: dddb94810f6f25151459da7efc6b9c304bc6b723de20b866fdc29ed638c68dcf
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T14:16:03Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,22 +66,34 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects: []
-relationships: []
+relationships:
+- type: cites
+  target: pt:dre:1797749:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:468663:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:582409:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T14:16:03Z'
   warnings: []
   errors: []
 ---
 
-# Declaração de Rectificação n.º 117/2010
+# Declaração de rectificação n.º 117/2010
 
 Por ter havido lapso na redacção do aviso n.º 554/2010, publicado no Diário da República, 2.ª série, n.º 5, de 8 de Janeiro de 2010, a pp. 931 a 932, procede-se à sua republicação, mantendo-se válidas as candidaturas entretanto apresentadas.
 
@@ -178,3 +190,5 @@ Vogais Suplentes: Graça Maria Gonçalves David Coelho e de Azevedo Moura, Técn
 Olga Maria de Jesus Alves, Técnica Principal de Higiene Oral do Centro de Saúde de São Martinho do Bispo do ACES do Baixo Mondego I.
 
 30 de Dezembro de 2009. - O Presidente do Conselho Directivo, João Pedro Pimentel.»
+
+202805284

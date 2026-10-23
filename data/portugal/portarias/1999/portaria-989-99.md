@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1999/11/256b00/75717574.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/989/1999/11/03/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/989-1999-694187
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2022-05-31T00:00:00Z'
+  retrieved_at: '2026-10-23T14:19:04Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 80c356039f9b2602213d375ae95471cbadfa09fff7e7922e614efa8843fc944f
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 25c10e149a035edf1561c9dfa0fa9aac95bb1e8beba189b4fe616fda4ba82d7d
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T14:19:04Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -65,15 +65,20 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Formação Profissional
 - Curso de Especialização Tecnológica
 - Diploma
+- Formação Profissional
 - Sistema Nacional de Certificação Profissional
 relationships:
 - type: amended_by
   target: pt:dre:184181415:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:303187:por
+  label: "Alterados os nºs 1 a 9º e republicado o presente diploma pela PORT.392/2002.2002.04.12.MECO DR.IS-B [86]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/392-2002-303187
+  date: '2002-04-12'
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/401/1991/10/16/p/dre
   label: null
@@ -86,16 +91,34 @@ relationships:
   target: eli:http://data.dre.pt/eli/port/1227/1995/10/10/p/dre
   label: null
   source: http://data.dre.pt/eli/port/1227/1995/10/10/p/dre
+- type: cites
+  target: pt:dre:289058:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:523412:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:663283:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:633289:por
+  label: Revogada, com a redacção introduzida pela Port 392/2002 de 12-Abr, pelo DEC LEI.88/2006.23.05.2006.MCTES, DR.IS-A
+    [99] de 23.05.2006, sem prejuízo do disposto no respectivo art. 52º
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/88-2006-633289
+  date: '2006-05-23'
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T14:19:04Z'
   warnings: []
   errors: []
 ---
@@ -260,7 +283,7 @@ CFCTb = classificação da formação em contexto de trabalho.
 
 Em 30 de Julho de 1999.
 
-**O Ministro da Economia, Joaquim Augusto Nunes de Pina Moura. - O Ministro da Agricultura, do Desenvolvimento Rural e das Pescas, Luís Manuel Capoulas Santos. - O Ministro da Educação, Eduardo Carrega Marçal Grilo. - Pelo Ministro do Trabalho e da Solidariedade, Paulo José Fernandes Pedroso, Secretário de Estado do Emprego e Formação.**
+O Ministro da Economia, Joaquim Augusto Nunes de Pina Moura. - O Ministro da Agricultura, do Desenvolvimento Rural e das Pescas, Luís Manuel Capoulas Santos. - O Ministro da Educação, Eduardo Carrega Marçal Grilo. - Pelo Ministro do Trabalho e da Solidariedade, Paulo José Fernandes Pedroso, Secretário de Estado do Emprego e Formação.
 
 ## ANEXO I — Diploma de especialização tecnológica
 

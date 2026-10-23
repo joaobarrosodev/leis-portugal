@@ -19,12 +19,12 @@ publication:
   reference: Diário da República n.º 288/2000, 3º Suplemento, Série I-B de 2000-12-15
   number: '288'
   series: I
-  supplement: 3º Suplemento
+  supplement: null
   pages: 7342-(29) a 7342-(31)
   pdf_url: https://files.diariodarepublica.pt/1s/2000/12/288b03/00290031.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/1178-c/2000/12/15/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/1178-c-2000-429606
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2005-08-18T00:00:00Z'
+  retrieved_at: '2026-10-23T14:20:20Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 88fb7fe6df0a0ae2bc406dc5f05320439f6fa2db749e8106e0b343dece3ad2b5
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 985d22c9334b526c1c48215a4863f5e2eee6b5d6784572d292ae0f364d0741e3
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T14:20:20Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,23 +66,38 @@ reuse:
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
 - Código das Custas Judiciais
-- Exame Médico-forense
 - Custas Judiciais
+- Exame Médico-forense
 relationships:
 - type: amended_by
   target: pt:dre:243277:por
   label: Última alteração registada na importação inicial
   source: null
+- type: corrected_by
+  target: pt:dre:188548:por
+  label: "Rectificada pela DECL-RECT.16-AA/2000.2000.12.29.PCM,DR.IS-B [300]6º Supl de 30/Dez/2000\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/declaracao-rectificacao/16-aa-2000-188548
+  date: '2000-12-29'
+- type: repealed_by
+  target: pt:dre:243695:por
+  label: "Revogada pela PORT.652/2005.12.08.2005.MJ, DR.IS-B [155] de 12.08.2005\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/652-2005-243695
+  date: '2005-08-12'
+- type: repealed_by
+  target: pt:dre:243277:por
+  label: "Revogada pela PORT.685/2005.18.08.2005.MJ, DR.IS-B [158] de 18.08.2005\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/685-2005-243277
+  date: '2005-08-18'
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T14:20:20Z'
   warnings: []
   errors: []
 ---

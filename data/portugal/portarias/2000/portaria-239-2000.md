@@ -48,18 +48,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/239/2000/04/29/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/239-2000-281833
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2001-02-08T00:00:00Z'
+  retrieved_at: '2026-10-23T14:22:21Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: e21c34c18eae4fa2b04b0bfbd967d9f193104cf64e134d0648985b704eee786a
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 31b197ccee86cf8cbb3db133f69817a93ca5a8dd2acea625934c6e5d744cf64d
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T14:22:21Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,19 +67,21 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- CASA Civil
 - Administração Central
-- Função Pública
+- Administração Local
+- Administração Pública
+- Administração Regional
 - ADSE
 - Ajudas de Custo
+- Caixa Geral de Aposentações
+- CASA Civil
 - CASA Militar
-- Pessoal Dirigente
 - Deslocação ao Estrangeiro
 - Deslocação em Serviço
-- Administração Pública
-- Sistema Retributivo
-- Caixa Geral de Aposentações
+- Função Pública
+- Funcionário Público
 - Gabinete do Presidente da República
+- Gratificação
 - Membros do Governo
 - Missão Oficial
 - Pensão de Aposentação
@@ -87,11 +89,9 @@ subjects:
 - Pensão de Preço de Sangue
 - Pensão de Reforma
 - Pessoal de Gabinete
-- Administração Local
-- Gratificação
+- Pessoal Dirigente
 - Remuneração
-- Funcionário Público
-- Administração Regional
+- Sistema Retributivo
 - Subsídio de Refeição
 - Subsídio de Viagem e Marcha
 relationships:
@@ -99,6 +99,11 @@ relationships:
   target: pt:dre:319919:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:319919:por
+  label: "Actualizado o montante do subsídio de refeição pela PORT.80/2001.2001.02.08.MF DR.IS-B [33]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/80-2001-319919
+  date: '2001-02-08'
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/106/1998/04/24/p/dre
   label: null
@@ -115,16 +120,48 @@ relationships:
   target: eli:http://data.dre.pt/eli/port/147/1999/02/27/p/dre
   label: null
   source: http://data.dre.pt/eli/port/147/1999/02/27/p/dre
+- type: cites
+  target: pt:dre:165192:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:176328:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:200862:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:282875:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:291808:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:375267:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:466655:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:484656:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T14:22:21Z'
   warnings: []
   errors: []
 ---

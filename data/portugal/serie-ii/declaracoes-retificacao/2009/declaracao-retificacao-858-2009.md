@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/2s/2009/03/056000000/1078410784.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -46,18 +46,18 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/declaracao-rectificacao/858-2009-3649147
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2009-03-20T00:00:00Z'
+  retrieved_at: '2026-10-23T14:14:12Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 646c3c7dba5216a08ecd5d8e6e68fda48f836f917977ddadb948f2e92d132a2e
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 274de6e5c54e022678cc4023c1d64a4fcf6140401118d658169d703f749ef5f4
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T14:14:12Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -69,13 +69,13 @@ relationships: []
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T14:14:12Z'
   warnings: []
   errors: []
 ---
@@ -88,10 +88,10 @@ Por ter saído com inexactidão a publicação do curso de Mestrado em Didáctic
 
 Onde se lê "Anexo à Deliberação do Senado - SU - 36/2007 -12 - Plano de Estudos - Quadro n.º 2 - Especialização -Física e Química - 1.º Ano/1.º Semestre:
 
-[([ver documento original](https://files.diariodarepublica.pt/2s/2009/03/056000000/1078410784.pdf))](https://files.diariodarepublica.pt/2s/2009/03/056000000/1078410784.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/2s/2009/03/056000000/1078410784.pdf)
 
 Deve ler-se "Anexo à Deliberação do Senado - SU - 36/2007 -12 - Plano de Estudos - Quadro n.º 2 - Especialização - Física e Química - 1.º Ano/1.º Semestre:
 
-[([ver documento original](https://files.diariodarepublica.pt/2s/2009/03/056000000/1078410784.pdf))](https://files.diariodarepublica.pt/2s/2009/03/056000000/1078410784.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/2s/2009/03/056000000/1078410784.pdf)
 
 13 de Março de 2009. - A Directora, Julieta Mateus.

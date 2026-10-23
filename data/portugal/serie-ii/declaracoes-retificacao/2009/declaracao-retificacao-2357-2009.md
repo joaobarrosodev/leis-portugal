@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/2s/2009/09/185000000/3878738787.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -46,18 +46,18 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/declaracao-rectificacao/2357-2009-1871501
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2009-09-23T00:00:00Z'
+  retrieved_at: '2026-10-23T14:06:34Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 2c111c6b742ce0fe428bd30ac4475d26f75975c7fd068543941cc27d5a4724e9
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 8a440784a42b60972382064124895a65f93aa97974a4b62407c0d7d99bbb4c61
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T14:06:34Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -69,13 +69,13 @@ relationships: []
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T14:06:34Z'
   warnings: []
   errors: []
 ---
@@ -89,3 +89,5 @@ Celebração de contrato de trabalho em funções públicas por tempo indetermin
 Por ter saído com inexactidão o aviso n.º 15 942/2009, de 11 de Setembro, rectifica-se que onde se lê «celebrado contrato de trabalho em funções públicas por tempo indeterminado, com a categoria de enfermeira especialista em saúde materna e obstétrica com produção de efeitos a partir de 24 de Agosto de 2009» deve ler-se «celebrado contrato de trabalho em funções públicas por tempo indeterminado, com a categoria de enfermeira especialista em saúde materna e obstétrica com produção de efeitos a partir de 1 de Setembro de 2009».
 
 11 de Setembro de 2009. - A Vogal Executiva do Conselho de Administração, Margarida Moura Theias.
+
+202318709

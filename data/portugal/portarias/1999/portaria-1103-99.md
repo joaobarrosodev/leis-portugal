@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/1103/1999/12/23/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/1103-1999-661156
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2000-11-09T00:00:00Z'
+  retrieved_at: '2026-10-23T14:13:07Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: a253c60737fb83ce817ed39dd3eebaa167c04ca32403d21c383cb6e47b830a10
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: a422fc5a5563367d28090ab718fa403166a9f64fd8a57d1fe431ceb57d1e7bb6
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T14:13:07Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -65,17 +65,17 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Embarcação
-- Pilotagem
-- Embarcação de Recreio
 - Administração de Portos
-- Instituto Portuário do Centro
+- Embarcação
+- Embarcação de Pesca
+- Embarcação de Recreio
 - Estacionamento
-- TAXA de Pilotagem
+- Instituto Portuário do Centro
+- Pilotagem
 - Preço
 - Regulamento
-- Embarcação de Pesca
 - Tarifa Portuária
+- TAXA de Pilotagem
 relationships:
 - type: amended_by
   target: pt:dre:621964:por
@@ -89,16 +89,30 @@ relationships:
   target: eli:http://data.dre.pt/eli/port/583-b/1999/07/31/p/dre
   label: null
   source: http://data.dre.pt/eli/port/583-b/1999/07/31/p/dre
+- type: cites
+  target: pt:dre:249058:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:485049:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:621964:por
+  label: "Revogada pelo DEC LEI.273/2000.2000.11.09.MES DR.IS-A [259], a partir da entrada em vigor das regulamentações referidas\
+    \ nos seus n.ºs 1 dos arts. 2.º e 3.º\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/273-2000-621964
+  date: '2000-11-09'
 article_structure:
-  article_count: 5
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T14:13:07Z'
   warnings: []
   errors: []
 ---
@@ -137,7 +151,7 @@ Tarifa de uso do porto - Componente aplicável ao navio (TUP/Navio), com base no
 
 8 - ...
 
-9 - Às embarcações de tráfego fluvial ou local do tipo carga, passageiros, pesca ou rebocadores poderá ser cobrada TUP em avença, por períodos indivisíveis de tempo TVi, em dias, cujo valor será igual a [(ver fórmula no documento original)](https://files.diariodarepublica.pt/1s/1999/12/297b00/92509251.pdf), onde:
+9 - Às embarcações de tráfego fluvial ou local do tipo carga, passageiros, pesca ou rebocadores poderá ser cobrada TUP em avença, por períodos indivisíveis de tempo TVi, em dias, cujo valor será igual a [[[(ver fórmula no documento original)](https://files.diariodarepublica.pt/1s/1999/12/297b00/92509251.pdf)](https://files.diariodarepublica.pt/1s/1999/12/297b00/92509251.pdf)](https://files.diariodarepublica.pt/1s/1999/12/297b00/92509251.pdf), onde:
 
 UV1 = 35$00 - taxa diária de avençamento por raiz quadrada de GT;
 
@@ -161,7 +175,9 @@ FVi = factor específico do período de avençamento, de acordo com o n.º 11 de
 
 12 - ...
 
-###### Artigo 10.º — Tarifa de estacionamento (TES)
+Artigo 10.º
+
+Tarifa de estacionamento (TES)
 
 1 - A taxa a cobrar às embarcações e navios acostados ao cais, armados ou não para viagem, será igual a UA1 x GT x TAi x FAi, onde:
 
@@ -173,7 +189,7 @@ TAi = número de dias indivisíveis de acostagem, no período de referência; e
 
 FAi = factor específico desse período, de acordo com a seguinte tabela:
 
-[(ver tabela no documento original)](https://files.diariodarepublica.pt/1s/1999/12/297b00/92509251.pdf)
+[[[[[(ver tabela no documento original)](https://files.diariodarepublica.pt/1s/1999/12/297b00/92509251.pdf)](https://files.diariodarepublica.pt/1s/1999/12/297b00/92509251.pdf)](https://files.diariodarepublica.pt/1s/1999/12/297b00/92509251.pdf)](https://files.diariodarepublica.pt/1s/1999/12/297b00/92509251.pdf)](https://files.diariodarepublica.pt/1s/1999/12/297b00/92509251.pdf)
 
 2 - A taxa a cobrar às embarcações e navios armados para viagem, quando fundeados, será igual a UF1 x GT x TFi x FFi, onde:
 
@@ -185,9 +201,9 @@ TFi = número de dias indivisíveis de uso de fundeadouro, no período de refer�
 
 FFi = factor específico desse período, de acordo com a seguinte tabela:
 
-[(ver tabela no documento original)](https://files.diariodarepublica.pt/1s/1999/12/297b00/92509251.pdf)
+[[[[[(ver tabela no documento original)](https://files.diariodarepublica.pt/1s/1999/12/297b00/92509251.pdf)](https://files.diariodarepublica.pt/1s/1999/12/297b00/92509251.pdf)](https://files.diariodarepublica.pt/1s/1999/12/297b00/92509251.pdf)](https://files.diariodarepublica.pt/1s/1999/12/297b00/92509251.pdf)](https://files.diariodarepublica.pt/1s/1999/12/297b00/92509251.pdf)
 
-3 - A taxa a cobrar às embarcações e navios não armados para viagem, quando fundeados, será igual a [(ver fórmula no documento original)](https://files.diariodarepublica.pt/1s/1999/12/297b00/92509251.pdf), onde:
+3 - A taxa a cobrar às embarcações e navios não armados para viagem, quando fundeados, será igual a [[[(ver fórmula no documento original)](https://files.diariodarepublica.pt/1s/1999/12/297b00/92509251.pdf)](https://files.diariodarepublica.pt/1s/1999/12/297b00/92509251.pdf)](https://files.diariodarepublica.pt/1s/1999/12/297b00/92509251.pdf), onde:
 
 UE1 = 100$00 - taxa diária de uso de fundeadouro por raiz quadrada de GT;
 
@@ -197,7 +213,7 @@ TEi = número de dias indivisíveis de uso de fundeadouro, no período de refer�
 
 FEi = factor específico desse período, de acordo com a seguinte tabela:
 
-[(ver tabela no documento original)](https://files.diariodarepublica.pt/1s/1999/12/297b00/92509251.pdf)
+[[[[[(ver tabela no documento original)](https://files.diariodarepublica.pt/1s/1999/12/297b00/92509251.pdf)](https://files.diariodarepublica.pt/1s/1999/12/297b00/92509251.pdf)](https://files.diariodarepublica.pt/1s/1999/12/297b00/92509251.pdf)](https://files.diariodarepublica.pt/1s/1999/12/297b00/92509251.pdf)](https://files.diariodarepublica.pt/1s/1999/12/297b00/92509251.pdf)
 
 4 - A taxa a cobrar às embarcações ou navios em reparação em cais especializados ou estaleiros será igual a UE2 x GT x TE, onde:
 
@@ -209,9 +225,11 @@ TE = tempo total de estacionamento em dias indivisíveis.
 
 5 - ...
 
-###### Artigo 13.º — Tarifa de pilotagem
+Artigo 13.º
 
-1 - A tarifa de pilotagem (PJ) inclui seis pacotes (J) e é calculada por manobra pela fórmula [(ver fórmula no documento original)](https://files.diariodarepublica.pt/1s/1999/12/297b00/92509251.pdf), sendo:
+Tarifa de pilotagem
+
+1 - A tarifa de pilotagem (PJ) inclui seis pacotes (J) e é calculada por manobra pela fórmula [[[(ver fórmula no documento original)](https://files.diariodarepublica.pt/1s/1999/12/297b00/92509251.pdf)](https://files.diariodarepublica.pt/1s/1999/12/297b00/92509251.pdf)](https://files.diariodarepublica.pt/1s/1999/12/297b00/92509251.pdf), sendo:
 
 PU = 1200$00 - taxa unitária de pilotagem, por raiz quadrada de GT;
 
@@ -219,11 +237,13 @@ GT = arqueação bruta do navio ou embarcação; e
 
 CJ = coeficiente específico do pacote (J), de acordo com a seguinte tabela:
 
-[(ver tabela no documento original)](https://files.diariodarepublica.pt/1s/1999/12/297b00/92509251.pdf)
+[[[[[(ver tabela no documento original)](https://files.diariodarepublica.pt/1s/1999/12/297b00/92509251.pdf)](https://files.diariodarepublica.pt/1s/1999/12/297b00/92509251.pdf)](https://files.diariodarepublica.pt/1s/1999/12/297b00/92509251.pdf)](https://files.diariodarepublica.pt/1s/1999/12/297b00/92509251.pdf)](https://files.diariodarepublica.pt/1s/1999/12/297b00/92509251.pdf)
 
 2 - ...
 
-###### Artigo 19.º — Tarifa de movimentação do pescado
+Artigo 19.º
+
+Tarifa de movimentação do pescado
 
 1 - Sobre o valor do pescado fresco transaccionado ou avaliado em lota incidirá a taxa MQ1, equivalente a 1,5% do respectivo valor.
 
@@ -231,7 +251,9 @@ CJ = coeficiente específico do pacote (J), de acordo com a seguinte tabela:
 
 3 - ...
 
-###### Artigo 26.º — Contentores
+Artigo 26.º
+
+Contentores
 
 1 - ...
 
@@ -241,7 +263,7 @@ CJ = coeficiente específico do pacote (J), de acordo com a seguinte tabela:
 
 4 - Sempre que a movimentação vertical ou horizontal de contentores implique a execução de operações não englobadas nos pacotes definidos no número anterior são devidas taxas aplicáveis de acordo com a seguinte tabela, por unidade movimentada, considerando a taxa de referência EH estabelecida no n.º 2:
 
-[(ver tabela no documento original)](https://files.diariodarepublica.pt/1s/1999/12/297b00/92509251.pdf)
+[[[[[(ver tabela no documento original)](https://files.diariodarepublica.pt/1s/1999/12/297b00/92509251.pdf)](https://files.diariodarepublica.pt/1s/1999/12/297b00/92509251.pdf)](https://files.diariodarepublica.pt/1s/1999/12/297b00/92509251.pdf)](https://files.diariodarepublica.pt/1s/1999/12/297b00/92509251.pdf)](https://files.diariodarepublica.pt/1s/1999/12/297b00/92509251.pdf)
 
 5 - ...
 
@@ -251,7 +273,9 @@ CJ = coeficiente específico do pacote (J), de acordo com a seguinte tabela:
 
 8 - ...
 
-###### Artigo 27.º — Básculas
+Artigo 27.º
+
+Básculas
 
 1 - Pela operação de pesagem da tara de um veículo é devida a taxa EB1 = 85$00.
 
@@ -259,4 +283,4 @@ CJ = coeficiente específico do pacote (J), de acordo com a seguinte tabela:
 
 2.º O presente diploma entra em vigor no dia 1 de Janeiro de 2000.
 
-**O Ministro do Equipamento Social, Jorge Paulo Sacadura Almeida Coelho, em 7 de Dezembro de 1999.**
+O Ministro do Equipamento Social, Jorge Paulo Sacadura Almeida Coelho, em 7 de Dezembro de 1999.

@@ -48,18 +48,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/410/1998/07/14/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/410-1998-423898
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1998-07-14T00:00:00Z'
+  retrieved_at: '2026-10-23T14:08:40Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 56a738f3067a4325397ac31bcb647bc3fd56fe6b8d41025c2c1bb851f16b344e
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 03fba47f4ae090f7d17d1541029d81e0801b14e206b598e6fe2836ab8def791e
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T14:08:40Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -69,8 +69,8 @@ reuse:
 subjects:
 - Certificado de Qualidade
 - Embalagem
-- Normas de Segurança
 - Equipamento sob Pressão
+- Normas de Segurança
 - TAXA de Prestação de Serviços
 - Transporte de Mercadorias Perigosas
 relationships:
@@ -94,16 +94,40 @@ relationships:
   target: eli:http://data.dre.pt/eli/port/62-c/1993/01/15/p/dre
   label: null
   source: http://data.dre.pt/eli/port/62-c/1993/01/15/p/dre
+- type: cites
+  target: pt:dre:143290:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:449958:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:449959:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:449960:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:457066:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:609864:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T14:08:40Z'
   warnings: []
   errors: []
 ---
@@ -196,6 +220,6 @@ d) Registo de cada unidade - 2500$00.
 
 Ministérios das Finanças e da Economia.
 
-**Assinada em 22 de Junho de 1998.**
+Assinada em 22 de Junho de 1998.
 
 Pelo Ministro das Finanças, João Carlos da Costa Ferreira da Silva, Secretário de Estado do Orçamento. - O Ministro da Economia, Joaquim Augusto Nunes de Pina Moura.

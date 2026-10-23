@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2001/04/078b00/18801905.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/316/2001/04/02/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/316-2001-345920
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2005-03-16T00:00:00Z'
+  retrieved_at: '2026-10-23T14:31:27Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: f32a6900a9a872d97a193aa9e37c6e917f063a4a49abdda98514abe8f7b2abd8
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 112b41f4af3d9f4090ba62c68a3eb73ab2e2240a49f25552a6b84680a7a7a30d
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T14:31:27Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,11 +67,11 @@ reuse:
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
 - Acesso ao Emprego
-- Formação Profissional
 - Classificação Nacional das Áreas de Formação
 - Dados Estatísticos
-- Inquérito
+- Formação Profissional
 - FSE
+- Inquérito
 - Política de Emprego
 relationships:
 - type: amended_by
@@ -82,16 +82,25 @@ relationships:
   target: eli:http://data.dre.pt/eli/dec-lei/405/1991/10/16/p/dre
   label: null
   source: http://data.dre.pt/eli/dec-lei/405/1991/10/16/p/dre
+- type: cites
+  target: pt:dre:289056:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:572672:por
+  label: "Revogada pela PORT.256/2005.16.03.2005.MAET, DR.IS-B [53] de 16.03.2005\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/256-2005-572672
+  date: '2005-03-16'
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T14:31:27Z'
   warnings: []
   errors: []
 ---
@@ -226,7 +235,7 @@ Desconhecido ou não especificado.
 
 Estrutura das áreas de formação
 
-[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2001/04/078b00/18801905.pdf)
+[[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2001/04/078b00/18801905.pdf)](https://files.diariodarepublica.pt/1s/2001/04/078b00/18801905.pdf)
 
 Classificação em função do conteúdo da formação. - A lógica subjacente à classificação das áreas de formação é a do conteúdo da formação (ver nota 1). Os programas de formação são agrupados em função das semelhanças dos seus conteúdos. Estes grupos de programas são, de seguida, agrupados em áreas restritas ou alargadas, em função das semelhanças dos saberes dispensados. É de notar que é o conteúdo principal de um programa que determina a sua afectação a uma área específica.
 
@@ -244,7 +253,7 @@ O sistema hierárquico das áreas estabelecido pela CITE, ao qual foram acrescen
 
 É de referir, mais uma vez, que é o conteúdo principal de um programa (ou de um conjunto de programas) de formação que condiciona a sua afectação a uma determinada área de formação.
 
-[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2001/04/078b00/18801905.pdf)
+[[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2001/04/078b00/18801905.pdf)](https://files.diariodarepublica.pt/1s/2001/04/078b00/18801905.pdf)
 
 Na classificação dos programas transversais, o «0» deve ser usado na terceira posição.
 

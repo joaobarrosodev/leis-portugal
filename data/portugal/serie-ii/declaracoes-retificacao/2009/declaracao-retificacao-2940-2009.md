@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/2s/2009/11/232000000/4889548895.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -47,18 +47,18 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/declaracao-rectificacao/2940-2009-1578177
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2009-11-30T00:00:00Z'
+  retrieved_at: '2026-10-23T14:10:00Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 6c24f933a1cdddcc0502efb0514fb235f46954e7e0f65ef13b85f9aee14c920f
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 5aa29486f201c56555563e43c970124f7a8adb76446a56bc759d8165aa8fe420
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T14:10:00Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -68,15 +68,15 @@ reuse:
 subjects: []
 relationships: []
 article_structure:
-  article_count: 2
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T14:10:00Z'
   warnings: []
   errors: []
 ---
@@ -89,7 +89,9 @@ Para os devidos efeitos, torna-se público que, no aviso n.º 18 069/2009, publi
 
 «Medidas preventivas
 
-###### Artigo 2.º — Âmbito Territorial
+Artigo 2.º
+
+Âmbito Territorial
 
 As Medidas Preventivas aplicam-se à área a Suspender do PDM de Chamusca, numa área de aproximadamente 50 000 m2, com localização na Freguesia de Carregueira, Casal do Relvão, o qual se encontra delimitado na Carta de Ordenamento anexa.»
 
@@ -97,8 +99,12 @@ deve ler-se:
 
 «Medidas preventivas
 
-###### Artigo 2.º — Âmbito territorial
+Artigo 2.º
+
+Âmbito territorial
 
 As medidas preventivas aplicam-se à área a suspender do PDM de Chamusca, numa área de aproximadamente 50 000 m2, com localização na freguesia de Ulme, o qual se encontra delimitado na Carta de Ordenamento anexa.»
 
 24 de Novembro 2009. - O Presidente da Câmara, Sérgio Morais da Conceição Carrinho.
+
+202624168

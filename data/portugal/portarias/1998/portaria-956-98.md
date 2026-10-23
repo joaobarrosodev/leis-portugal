@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/956/1998/11/07/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/956-1998-223457
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2000-11-23T00:00:00Z'
+  retrieved_at: '2026-10-23T14:12:11Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: aca704fc92183e95fb2ce5fb25d50d48e953b1b57f65b4a1b69928ba79a4b5ff
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 03723aa4c7abe6a3b4d14243213bf27de1894d2648b0f2804a2773b88ff8d93a
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T14:12:11Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,10 +66,10 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Universidade Lusíada
-- Plano de Estudos
 - Curso de Engenharia Electrónica e Informática
 - Licenciatura
+- Plano de Estudos
+- Universidade Lusíada
 - VILA NOVA de Famalicão
 relationships:
 - type: amended_by
@@ -88,16 +88,32 @@ relationships:
   target: eli:http://data.dre.pt/eli/port/1140/1991/11/06/p/dre
   label: null
   source: http://data.dre.pt/eli/port/1140/1991/11/06/p/dre
+- type: cites
+  target: pt:dre:332199:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:512030:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:533820:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:618546:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T14:12:11Z'
   warnings: []
   errors: []
 ---
@@ -138,7 +154,7 @@ As regras de transição entre o anterior plano de estudos e o plano de estudos 
 
 Ministério da Educação.
 
-**Assinada em 21 de Outubro de 1998.**
+Assinada em 21 de Outubro de 1998.
 
 Pelo Ministro da Educação, Alfredo Jorge Silva, Secretário de Estado do Ensino Superior.
 

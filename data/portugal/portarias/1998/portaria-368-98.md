@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/368/1998/06/29/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/368-1998-477828
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1998-06-29T00:00:00Z'
+  retrieved_at: '2026-10-23T14:08:24Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: c4e690eeae0a8b72eddf344b72df0d71b892fdca97aa4f9ef47c74a3ec892285
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: c2db7975c6dfc085a7173d1a228fc3d60bd32a2b17494eafb7b5c1bb2f61dbfd
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T14:08:24Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -74,16 +74,20 @@ relationships:
   target: eli:http://data.dre.pt/eli/dec-lei/11/1998/01/24/p/dre
   label: null
   source: http://data.dre.pt/eli/dec-lei/11/1998/01/24/p/dre
+- type: cites
+  target: pt:dre:222631:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T14:08:24Z'
   warnings: []
   errors: []
 ---
@@ -106,6 +110,6 @@ Manda o Governo, pelos Ministros da Justiça e da Saúde, ao abrigo do disposto 
 
 Ministérios da Justiça e da Saúde.
 
-**Assinada em 2 de Junho de 1998.**
+Assinada em 2 de Junho de 1998.
 
-**O Ministro da Justiça, José Eduardo Vera Cruz Jardim. - A Ministra da Saúde, Maria de Belém Roseira Martins Coelho Henriques de Pina.**
+O Ministro da Justiça, José Eduardo Vera Cruz Jardim. - A Ministra da Saúde, Maria de Belém Roseira Martins Coelho Henriques de Pina.

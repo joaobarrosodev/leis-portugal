@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/2s/2009/04/065000000/1291012910.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -46,18 +46,18 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/declaracao-rectificacao/976-2009-1152483
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2009-04-02T00:00:00Z'
+  retrieved_at: '2026-10-23T14:14:52Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 382ea0740d665e5284f56e4083a015cae5b6591cdc2b89f30c089f57a00ace64
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: c8d866767961cb281bf13f2fc85f821c9160ffd60c6a200a8047349cdafc5c07
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T14:14:52Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -65,22 +65,26 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects: []
-relationships: []
+relationships:
+- type: cites
+  target: pt:dre:3410842:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T14:14:52Z'
   warnings: []
   errors: []
 ---
 
-# Declaração de Rectificação n.º 976/2009
+# Declaração de rectificação n.º 976/2009
 
 Relativamente ao [Edital n.º 295/2009](https://diariodarepublica.pt/dr/detalhe/edital/295-2009-3410842), referente ao concurso de provas públicas para recrutamento de quatro professores adjuntos, área científica de Contabilidade, publicado no Diário da República, 2.ª série, n.º 58, de 24 de Março de 2009, rectifica-se que onde se lê:
 
@@ -95,3 +99,5 @@ deve ler-se:
 b) Dois professores para as unidades curriculares de Contabilidade Financeira.»
 
 25 de Março de 2009. - A Presidente do Conselho Directivo, Maria Amélia Pacheco Nunes de Almeida.
+
+201605106

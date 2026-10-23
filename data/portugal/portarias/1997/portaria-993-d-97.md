@@ -19,12 +19,12 @@ publication:
   reference: Diário da República n.º 219/1997, 1º Suplemento, Série I-B de 1997-09-22
   number: '219'
   series: I
-  supplement: 1º Suplemento
+  supplement: null
   pages: 5230-(3) a 5230-(4)
   pdf_url: https://files.diariodarepublica.pt/1s/1997/09/219b01/00030004.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/993-d/1997/09/22/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/993-d-1997-245279
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1998-02-25T00:00:00Z'
+  retrieved_at: '2026-10-23T14:06:19Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 17bb68628393948ffad8e35ab30aab95c56542f18ed38f955effa99a5a9ca381
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 581fe7cb0531dbd429d10397c29bc1a083b79fc3f1f26ebff0dd6c5b82cc107c
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T14:06:19Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -85,16 +85,45 @@ relationships:
   target: eli:http://data.dre.pt/eli/port/722-d1/1992/07/15/p/dre
   label: null
   source: http://data.dre.pt/eli/port/722-d1/1992/07/15/p/dre
+- type: cites
+  target: pt:dre:219134:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:417646:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:455890:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:518807:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:584874:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:617498:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:211231:por
+  label: "Revogada pela PORT.102/98.1998.02.25.MADRP DR.IS-B [47]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/102-1998-211231
+  date: '1998-02-25'
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T14:06:19Z'
   warnings: []
   errors: []
 ---
@@ -115,6 +144,6 @@ Manda o Governo, pelo Ministro da Agricultura, do Desenvolvimento Rural e das Pe
 
 Ministério da Agricultura, do Desenvolvimento Rural e das Pescas.
 
-**Assinada em 19 de Setembro de 1997.**
+Assinada em 19 de Setembro de 1997.
 
 Pelo Ministro da Agricultura, do Desenvolvimento Rural e das Pescas, Luís Manuel Capoulas Santos, Secretário de Estado da Agricultura e do Desenvolvimento Rural.

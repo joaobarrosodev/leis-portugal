@@ -20,7 +20,7 @@ publication:
   reference: Diário da República n.º 272/1998, 1º Suplemento, Série I-B de 1998-11-24
   number: '272'
   series: I
-  supplement: 1º Suplemento
+  supplement: null
   pages: 6500-(2) a 6500-(3)
   pdf_url: https://files.diariodarepublica.pt/1s/1998/11/272b01/00020003.pdf
 entry_into_force_dates: []
@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/993-a/1998/11/24/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/993-a-1998-530783
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2017-06-21T00:00:00Z'
+  retrieved_at: '2026-10-23T14:12:26Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 6eaa7d2575c578aa3c4cea7da6aceea04437e9576b0d3bef3836ec2d6daaea0f
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 8d96947e887aa53a4c28c8f69bff0f8921355946cb6967eba1dd3c35005668fd
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T14:12:26Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,16 +67,16 @@ reuse:
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
 - Assistência Médica
-- Médico
-- Clínica Geral
-- Serviço Nacional de Saúde
-- Horário de Funcionamento
-- Horas Extraordinárias
 - Centro de Saúde
+- Clínica Geral
 - Cuidados Médicos
-- Horário de Trabalho
 - Estabelecimento Hospitalar
+- Horário de Funcionamento
+- Horário de Trabalho
+- Horas Extraordinárias
+- Médico
 - Remuneração
+- Serviço Nacional de Saúde
 relationships:
 - type: amended_by
   target: pt:dre:107541409:por
@@ -86,16 +86,26 @@ relationships:
   target: eli:http://data.dre.pt/eli/dec-lei/117/1998/05/05/p/dre
   label: null
   source: http://data.dre.pt/eli/dec-lei/117/1998/05/05/p/dre
+- type: cites
+  target: pt:dre:516878:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:640665:por
+  label: "Revogada a partir de 27.08.2007 pelo DEC LEI.298/2007.22.08.2007.MS, DR.IS [161] de 22.08.2007, sem prejuízo do\
+    \ disposto nos nºs. 2 e 3 do art. 44º\04º\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/298-2007-640665
+  date: '2007-08-22'
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T14:12:26Z'
   warnings: []
   errors: []
 ---
@@ -118,7 +128,7 @@ Manda o Governo, pelos Ministros das Finanças, Adjunto e da Saúde, o seguinte:
 
 Presidência do Conselho de Ministros e Ministérios das Finanças e da Saúde.
 
-**Assinada em 12 de Novembro de 1998.**
+Assinada em 12 de Novembro de 1998.
 
 Pelo Ministro das Finanças, João Carlos da Costa Ferreira da Silva, Secretário de Estado do Orçamento. - Pelo Ministro Adjunto, Fausto de Sousa Correia, Secretário de Estado da Administração Pública e da Modernização Administrativa. - A Ministra da Saúde, Maria de Belém Roseira Martins Coelho Henriques de Pina.
 

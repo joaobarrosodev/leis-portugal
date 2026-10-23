@@ -48,18 +48,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/82/2000/02/19/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/82-2000-414229
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2004-11-23T00:00:00Z'
+  retrieved_at: '2026-10-23T14:26:08Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 5e16070a839160589599897c1438d3e8a6d26e312d68e4287bfcac98d2be8a51
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 5546e011302067651cea8684e7a1a15046797275d616991757ce5725768465f3
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T14:26:08Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,16 +67,27 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Plano de Estudos
 - Curso de Contabilidade e Administração
 - Ensino Superior Politécnico
 - Instituto Superior de Contabilidade e Administração
 - Licenciatura
+- Plano de Estudos
 relationships:
 - type: amended_by
   target: pt:dre:534607:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:448084:por
+  label: "Alterado o plano de estudos pela PORT.1278/2003.10.11.2003.MCES, DR.IS-B [260] de 10.11.2003\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/1278-2003-448084
+  date: '2003-11-10'
+- type: amended_by
+  target: pt:dre:534607:por
+  label: "Alterado o plano de estudos constante do quadro n.º 3 anexo ao presente diploma, alterado pela Port 1278/2003, de\
+    \ 10-Nov, pela PORT.1422/2004.23.11.2004.MCIES, DR.IS-B [275] de 23.11.2004\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/1422-2004-534607
+  date: '2004-11-23'
 - type: cites
   target: eli:http://data.dre.pt/eli/lei/115/1997/09/19/p/dre
   label: null
@@ -113,16 +124,68 @@ relationships:
   target: eli:http://data.dre.pt/eli/port/811/1997/09/04/p/dre
   label: null
   source: http://data.dre.pt/eli/port/811/1997/09/04/p/dre
+- type: cites
+  target: pt:dre:147873:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:222418:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:273989:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:273991:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:300227:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:429593:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:429596:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:453184:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:454863:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:556606:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:574751:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:643367:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:653145:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T14:26:08Z'
   warnings: []
   errors: []
 ---

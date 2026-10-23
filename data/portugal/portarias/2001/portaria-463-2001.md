@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/463/2001/05/08/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/463-2001-316164
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2005-11-24T00:00:00Z'
+  retrieved_at: '2026-10-23T14:32:24Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 6b6e07a1f42aa7377a452426062ffc1b2cf44d6934a857fd396ab91aabf0a045
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 95da736a3ff7cf9b90c1a2bfc6bcae33271acc53cda98b1172f7d9357a365eab
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T14:32:24Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,9 +66,9 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Proteção dos Animais
 - CAÇA
 - Comércio
+- Proteção dos Animais
 - Venda
 relationships:
 - type: amended_by
@@ -83,16 +83,22 @@ relationships:
   target: eli:http://data.dre.pt/eli/port/818/1992/08/19/p/dre
   label: null
   source: http://data.dre.pt/eli/port/818/1992/08/19/p/dre
+- type: repealed_by
+  target: pt:dre:480704:por
+  label: "Revogada pelo Dec Lei 202/2004 de 18-Ago, DR.IS-A [194], mantida contudo transitoriamente em vigor até à publicação\
+    \ da legislação prevista no referido diploma\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/202-2004-480704
+  date: '2004-08-18'
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T14:32:24Z'
   warnings: []
   errors: []
 ---

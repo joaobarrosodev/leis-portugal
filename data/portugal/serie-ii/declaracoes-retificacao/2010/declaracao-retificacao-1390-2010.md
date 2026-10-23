@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/2s/2010/07/135000000/3794237942.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -46,18 +46,18 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/declaracao-rectificacao/1390-2010-2785537
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2010-07-14T00:00:00Z'
+  retrieved_at: '2026-10-23T14:17:21Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 0926a409b2326a4af39a5560125857fe081bf13a50c6e17dae45c39b64c67903
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: fc24f283174bb3d48f3f59be25352ca45c343f2121bf6475314813c9d3cb9a9d
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T14:17:21Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -69,13 +69,13 @@ relationships: []
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T14:17:21Z'
   warnings: []
   errors: []
 ---
@@ -87,3 +87,5 @@ Declaração de rectificação n.º 1390/2010
 Por ter saído com inexactidão a publicação inserta no despacho n.º 770/2010, publicado no Diário da República, 2.ª série, n.º 7, de 12 de Janeiro de 2010, rectifica-se que, em «2.º Ano/1.º Semestre», onde se lê «Dissertação/Projecto/Estágio - CS - 648 horas - OT 20 - 24 créditos» deve ler-se «Dissertação/Projecto/Estágio - CP - 648 horas - OT 20 - 24 créditos», em «2.º Ano/2.º Semestre», onde se lê «Dissertação/Projecto/Estágio - CS - 648 horas - OT 30 - 30 créditos» deve ler-se «Dissertação/Projecto/Estágio - CP - 810 horas - OT 30 - 30 créditos» e, em «Disciplinas de Opção, Opções III e IV - 2.º Semestre», onde se lê «Avaliação de Políticas, Programas e Projectos - CP - 162 horas - TP45; OT30 - 6 créditos» deve ler-se «Avaliação de Programas e Projectos - CP - 162 horas - TP 45; OT 30 - 6 créditos».
 
 6 de Julho de 2010. - A Administradora, Maria de Fátima Duarte.
+
+203464381

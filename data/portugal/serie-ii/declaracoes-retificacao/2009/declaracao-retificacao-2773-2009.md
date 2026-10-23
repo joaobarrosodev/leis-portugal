@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/2s/2009/11/219000000/4591445914.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -47,18 +47,18 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/declaracao-rectificacao/2773-2009-3018769
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2009-11-11T00:00:00Z'
+  retrieved_at: '2026-10-23T14:09:00Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 2876cf1d06a13799d550afa9096d9944134a03c604ec1a4c836e0268a8d4deca
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 5e10ce44dbe494143692afee82a36e2c81068d67903299f68f472abe7bd1095b
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T14:09:00Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,23 +66,29 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects: []
-relationships: []
+relationships:
+- type: cites
+  target: pt:dre:380135:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T14:09:00Z'
   warnings: []
   errors: []
 ---
 
-# Declaração de Rectificação n.º 2773/2009
+# Declaração de rectificação n.º 2773/2009
 
 Por terem sido publicados com inexactidão dados relativos à classificação profissional atribuída à docente Cármen Augusta de Oliveira Mesquita nos termos do disposto no n.º 3 do artigo 14.º do [Decreto-Lei n.º 287/88](https://diariodarepublica.pt/dr/detalhe/decreto-lei/287-1988-380135), de 19 de Agosto, publicada no Diário da República, 2.ª série, n.º 163, de 17 de Julho de 1995, rectifica-se que onde se lê «com aproveitamento, no ano lectivo de 1994-1995, o curso de Qualificação em Ciências da Educação» deve ler-se «com aproveitamento, no ano lectivo de 1993-1994, o curso de Qualificação em Ciências da Educação».
 
 4 de Novembro de 2009. - O Director-Geral, Jorge Sarmento Morais.
+
+202549438

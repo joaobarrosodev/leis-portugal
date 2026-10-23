@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/346/1998/06/05/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/346-1998-475972
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2000-02-25T00:00:00Z'
+  retrieved_at: '2026-10-23T14:08:15Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: b47e929a0db441e1c1c6677506473879b5422f8d3a47ea67c9099ee057f2ae1b
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 133511a02f8c03272a291bb363a0c100989a0e4915bb57891d4448d019fde09e
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T14:08:15Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,27 +66,37 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Produto Químico
-- Ajuda Comunitária
 - Agrupamento de Produtores
-- Financiamento
-- Vida Selvagem
+- Ajuda Comunitária
 - Castro Verde
 - Direcção Regional de Agricultura do Alentejo
-- Instituto da Conservação da Natureza
-- Exploração Agrícola
-- Proteção do Ambiente
 - Espécie Protegida
+- Exploração Agrícola
+- Financiamento
+- Ifadap
+- Instituto da Conservação da Natureza
+- Produção Agrícola
+- Produto Químico
 - Programa Agrícola
 - Programa Zonal de Castro Verde
-- Produção Agrícola
+- Proteção do Ambiente
 - Regulamento CE
-- Ifadap
+- Vida Selvagem
 relationships:
 - type: amended_by
   target: pt:dre:413396:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:144852:por
+  label: "Alterado o art. 14º pela PORT.179/99.1999.03.13.MADRP, DR.IS-B [61]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/179-1999-144852
+  date: '1999-03-13'
+- type: amended_by
+  target: pt:dre:413396:por
+  label: "Alterado o nº 14 pela PORT.108/2000.2000.02.25.MADRP DR.IS-B [47]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/108-2000-413396
+  date: '2000-02-25'
 - type: cites
   target: celex:31992R2078
   label: null
@@ -110,13 +120,13 @@ relationships:
 article_structure:
   article_count: 0
   section_count: 3
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T14:08:15Z'
   warnings: []
   errors: []
 ---
@@ -391,9 +401,9 @@ O presente diploma entra em vigor na data da sua publicação.
 
 Ministérios da Agricultura, do Desenvolvimento Rural e das Pescas e do Ambiente.
 
-**Assinada em 20 de Maio de 1998.**
+Assinada em 20 de Maio de 1998.
 
-**O Ministro da Agricultura, do Desenvolvimento Rural e das Pescas, Fernando Manuel Van-Zeller Gomes da Silva. - A Ministra do Ambiente, Elisa Maria da Costa Guimarães Ferreira.**
+O Ministro da Agricultura, do Desenvolvimento Rural e das Pescas, Fernando Manuel Van-Zeller Gomes da Silva. - A Ministra do Ambiente, Elisa Maria da Costa Guimarães Ferreira.
 
 ## ANEXO I — (a que se refere o n.º 2.º)
 
@@ -403,7 +413,7 @@ Limites: inicia-se em Castro Verde e segue para noroeste pela estrada municipal 
 
 Rotações tradicionais na área
 
-[(ver tabela no documento original)](https://files.diariodarepublica.pt/1s/1998/06/130b00/25762580.pdf)
+[[(ver tabela no documento original)](https://files.diariodarepublica.pt/1s/1998/06/130b00/25762580.pdf)](https://files.diariodarepublica.pt/1s/1998/06/130b00/25762580.pdf)
 
 ## ANEXO III — [a que se refere a alínea d) do n.º 1 do n.º 6.º]
 
@@ -443,4 +453,4 @@ Chícharo (Lathyrus sativus).
 
 ## ANEXO V — (a que se refere o n.º 8.º)
 
-[(ver tabela no documento original)](https://files.diariodarepublica.pt/1s/1998/06/130b00/25762580.pdf)
+[[(ver tabela no documento original)](https://files.diariodarepublica.pt/1s/1998/06/130b00/25762580.pdf)](https://files.diariodarepublica.pt/1s/1998/06/130b00/25762580.pdf)

@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/2s/2010/09/176000000/4670146701.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -46,18 +46,18 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/declaracao-rectificacao/1851-2010-1515711
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2010-09-09T00:00:00Z'
+  retrieved_at: '2026-10-23T14:20:05Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 9b32eea241ae71d1fde10674cced43614042b7fbbd30203443c011ee333772a2
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: aede08533b62a8794c39ef0f232b8b77c3d29f6d901e92c519d8d36085252f32
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T14:20:05Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -69,13 +69,13 @@ relationships: []
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T14:20:05Z'
   warnings: []
   errors: []
 ---
@@ -89,3 +89,5 @@ Rectificação do aviso n.º 17123/2010, publicado no Diário da República, 2.�
 Rectifica-se que, no aviso, onde se lê «7 postos de trabalho dos 8 disponíveis no mapa de pessoal» deve-se ler «6 postos de trabalho dos 8 disponíveis no mapa de pessoal». A data correcta da produção de efeitos do contrato celebrado com a trabalhadora Joana Maria Quinta e Sousa é a de 23 de Junho de 2010.
 
 1 de Setembro de 2010. - A Directora Municipal de Administração e Desenvolvimento Organizacional, Paula Magalhães Saraiva.
+
+303650162

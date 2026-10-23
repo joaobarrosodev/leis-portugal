@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/975/2000/10/11/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/975-2000-542228
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2002-10-22T00:00:00Z'
+  retrieved_at: '2026-10-23T14:27:07Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 7fd615f583a9b7365824c36589c4c2677a95f4fda3d59ef2f86b4de3a1883fb1
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 6a2f62483f88850fef451a18ed23ab3bf6af700f6ab2bdbe4d9f663737db9159
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T14:27:07Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -65,13 +65,13 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Médico
 - Carreira Médica Hospitalar
-- Hospital de São João
-- Pessoal Técnico Superior
-- Quadro de Pessoal
 - Gestão de Recursos Humanos
+- Hospital de São João
+- Médico
+- Pessoal Técnico Superior
 - Porto
+- Quadro de Pessoal
 relationships:
 - type: amended_by
   target: pt:dre:432183:por
@@ -93,16 +93,36 @@ relationships:
   target: eli:http://data.dre.pt/eli/port/760/1996/12/27/p/dre
   label: null
   source: http://data.dre.pt/eli/port/760/1996/12/27/p/dre
+- type: cites
+  target: pt:dre:145804:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:505986:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:571069:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:684629:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:689022:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T14:27:07Z'
   warnings: []
   errors: []
 ---

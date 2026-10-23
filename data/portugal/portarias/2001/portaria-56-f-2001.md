@@ -20,7 +20,7 @@ publication:
   reference: Diário da República n.º 24/2001, 2º Suplemento, Série I-B de 2001-01-29
   number: '24'
   series: I
-  supplement: 2º Suplemento
+  supplement: null
   pages: 472-(10) a 472-(10)
   pdf_url: https://files.diariodarepublica.pt/1s/2001/01/024b02/00100010.pdf
 entry_into_force_dates: []
@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/56-f/2001/01/29/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/56-f-2001-163807
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2013-08-02T00:00:00Z'
+  retrieved_at: '2026-10-23T14:33:03Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 976b068d12162afd9d9355cf5bf804b46fb3ea2522600d8622fa080bfd6101fd
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: ba1700de9478b9101d8cee0c67aac2c805f79050b370f2297e9f38ec94486b05
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T14:33:03Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,27 +67,41 @@ reuse:
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
 - Ajuda Comunitária
-- Financiamento
+- Apoio ao Investimento
 - Direcção Geral das Pescas e Aquicultura
-- Segurança das Embarcações
+- Embarcação de Pesca
+- Financiamento
 - Fiscalização
 - Frota de Pesca
+- Ifadap
+- Intervenção Operacional Pescas
 - Pesca
-- Apoio ao Investimento
 - QCA III
 - Regime de Apoio
-- Intervenção Operacional Pescas
 - Regulamento
 - Regulamento CE
-- Ifadap
-- Embarcação de Pesca
 - Regulamento do Regime de Apoio à Modernização das Embarcações de Pesca
+- Segurança das Embarcações
 - Subsídio
 relationships:
 - type: amended_by
   target: pt:dre:498528:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:632458:por
+  label: "Alterado o nº 4 do art. 10º do Regulamento do Regime de Apoio à Modernização das Embarcações de Pesca, anexo à Port\
+    \ 1071/2000 de 07-Nov, na redacção do presente diploma, pela PORT.455/2006.15.05.2006.MADRP, DR.IS-B [93] de 15.05.2006\0\
+    \0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/455-2006-632458
+  date: '2006-05-15'
+- type: amended_by
+  target: pt:dre:545006:por
+  label: "Fixada em 05.12.2006 a data limite para efeitos de apresentação de candidaturas ao regime de apoio constante do\
+    \ Regulamento aprovado pela Port 1071/2000 de 07-Nov, com as alterações constantes do presente diploma, pela PORT.1351/2006.28.11.2006.MADRP,\
+    \ DR.IS [229] de 28.11.2006\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/1351-2006-545006
+  date: '2006-11-28'
 - type: cites
   target: celex:31999R2792
   label: null
@@ -97,15 +111,15 @@ relationships:
   label: null
   source: http://data.dre.pt/eli/port/1071/2000/11/07/p/dre
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T14:33:03Z'
   warnings: []
   errors: []
 ---
@@ -130,13 +144,15 @@ Objecto
 
 O presente Regulamento estabelece o regime de apoio à modernização das embarcações de pesca, nos termos do Regulamento (CE) n.º [2792/99](http://data.europa.eu/eli/reg/1999/2792/oj?locale=pt), do Conselho, de 17 de Dezembro, e do previsto no Decreto-Lei n.º 224/2000, de 9 de Setembro, que cria o MARE - Programa para o Desenvolvimento Sustentável do Sector da Pesca.
 
-###### Artigo 7.º — Despesas elegíveis
+Artigo 7.º
+
+Despesas elegíveis
 
 ...
 
 3 - O montante máximo de despesas elegíveis não pode exceder os montantes fixados nos quadros n.os 1 e 2 do anexo II.
 
-## ANEXO I
+ANEXO I
 
 1 - Para efeitos do disposto na alínea b) do artigo 4.º e sem prejuízo do disposto no n.º 3 deste anexo, considera-se existir uma situação financeira equilibrada quando a autonomia financeira pré e pós-projecto seja igual ou superior a 20%. A autonomia financeira pré-projecto tem por base o último exercício encerrado à data da apresentação das candidaturas.
 
@@ -144,4 +160,4 @@ O presente Regulamento estabelece o regime de apoio à modernização das embarc
 
 2.º O disposto no presente diploma aplica-se às candidaturas já reformuladas ou apresentadas ao abrigo da Portaria n.º 1071/2000, de 7 de Novembro.
 
-**O Ministro da Agricultura, do Desenvolvimento Rural e das Pescas, Luís Manuel Capoulas Santos, em 26 de Janeiro de 2001.**
+O Ministro da Agricultura, do Desenvolvimento Rural e das Pescas, Luís Manuel Capoulas Santos, em 26 de Janeiro de 2001.

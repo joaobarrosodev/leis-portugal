@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2000/04/094b00/16961696.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/224/2000/04/20/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/224-2000-522849
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2013-04-19T00:00:00Z'
+  retrieved_at: '2026-10-23T14:22:16Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 720200a482943e88f5dc398989b1fc70643e3c20da995e298ea55491069d6ad8
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 1b1a9d826213a7d8cf3d2997230b36269160c7e048c4cfa87f4439e7ae066ad0
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T14:22:16Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -69,14 +69,21 @@ subjects:
 - Centro de ÁREA Educativa
 - Direcção Regional de Educação de Lisboa
 - Direcção Regional de Educação do Alentejo
-- Gestão Escolar
-- Estabelecimento de Ensino
 - Ensino Básico
+- Estabelecimento de Ensino
+- Gestão Escolar
 relationships:
 - type: amended_by
   target: pt:dre:146690:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:146690:por
+  label: "Extintos os quadros de zona pedagógica estabelecidos pela Port 79-B/94 de 04-fev e revogado a partir de 20.04.2013\
+    \ aquele diploma, com as alterações constantes do presente, pela PORT.156-B/2013.19.04.2013.MF, DR.IS [77-Supl] de 19.04.2013\0\
+    \0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/156-b-2013-146690
+  date: '2013-04-19'
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/141/1993/04/26/p/dre
   label: null
@@ -97,16 +104,41 @@ relationships:
   target: eli:http://data.dre.pt/eli/port/79-b/1994/02/04/p/dre
   label: null
   source: http://data.dre.pt/eli/port/79-b/1994/02/04/p/dre
+- type: cites
+  target: pt:dre:423062:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:463593:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:479400:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:501598:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:665341:por
+  label: null
+  source: null
+- type: corrected_by
+  target: pt:dre:522262:por
+  label: "Rectificada pela DECL-RECT.6-P/2000.2000.05.21.PCM, DR.IS-B [126] 3ºSupl. de 31/Mai/2000\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/declaracao-rectificacao/6-p-2000-522262
+  date: '2000-05-21'
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T14:22:16Z'
   warnings: []
   errors: []
 ---
@@ -127,16 +159,16 @@ Manda o Governo, pelos ministros das Finanças e da Educação, que os concelhos
 
 Em 15 de Março de 2000.
 
-**O Ministro das Finanças, Joaquim Augusto Nunes Pina Moura. - O Ministro da Educação, Guilherme d'Oliveira Martins.**
+O Ministro das Finanças, Joaquim Augusto Nunes Pina Moura. - O Ministro da Educação, Guilherme d'Oliveira Martins.
 
 MAPA I
 
 Direcção Regional de Educação de Lisboa
 
-[(ver mapa no documento original)](https://files.diariodarepublica.pt/1s/2000/04/094b00/16961696.pdf)
+[[(ver mapa no documento original)](https://files.diariodarepublica.pt/1s/2000/04/094b00/16961696.pdf)](https://files.diariodarepublica.pt/1s/2000/04/094b00/16961696.pdf)
 
 MAPA II
 
 Direcção Regional de Educação do Alentejo
 
-[(ver mapa no documento original)](https://files.diariodarepublica.pt/1s/2000/04/094b00/16961696.pdf)
+[[(ver mapa no documento original)](https://files.diariodarepublica.pt/1s/2000/04/094b00/16961696.pdf)](https://files.diariodarepublica.pt/1s/2000/04/094b00/16961696.pdf)

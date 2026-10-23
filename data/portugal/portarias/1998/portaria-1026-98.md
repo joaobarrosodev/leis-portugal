@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/1026/1998/12/12/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/1026-1998-220728
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2002-11-22T00:00:00Z'
+  retrieved_at: '2026-10-23T14:06:29Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: d69358156a84de72cb35faa90a6fe89087b3d0dac12c232fe37356a7adf28db5
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 5d6b5e442c677167f597d6bd12bb3544b204efbfc510887c2d156c48645d2aa0
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T14:06:29Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,9 +67,9 @@ reuse:
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
 - Equipamento
+- Fardamento
 - Guarda Florestal
 - Regulamento
-- Fardamento
 relationships:
 - type: amended_by
   target: pt:dre:448726:por
@@ -87,16 +87,36 @@ relationships:
   target: eli:http://data.dre.pt/eli/port/1269/1993/12/15/p/dre
   label: null
   source: http://data.dre.pt/eli/port/1269/1993/12/15/p/dre
+- type: cites
+  target: pt:dre:176334:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:222177:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:469775:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:537404:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:660172:por
+  label: null
+  source: null
 article_structure:
   article_count: 26
   section_count: 8
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T14:06:29Z'
   warnings: []
   errors: []
 ---
@@ -119,9 +139,9 @@ Manda o Governo, pelo Ministro da Agricultura, do Desenvolvimento Rural e das Pe
 
 Ministério da Agricultura, do Desenvolvimento Rural e das Pescas.
 
-**Assinada em 30 de Outubro de 1998.**
+Assinada em 30 de Outubro de 1998.
 
-**O Ministro da Agricultura, do Desenvolvimento Rural e das Pescas, Luís Manuel Capoulas Santos.**
+O Ministro da Agricultura, do Desenvolvimento Rural e das Pescas, Luís Manuel Capoulas Santos.
 
 REGULAMENTO DE UNIFORMES DO CORPO NACIONAL DA GUARDA FLORESTAL
 

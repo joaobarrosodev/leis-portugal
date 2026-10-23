@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/583/1997/08/01/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/583-1997-141837
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1997-08-01T00:00:00Z'
+  retrieved_at: '2026-10-23T14:03:43Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: de7fda82a28cc25f90a4524780f8975c3f85237849497a1f25c1b75b6800a4cd
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 4d0a838ddcf7c773f567fb79937bf332efea8a871ef6c7df220d228c90da4f3d
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T14:03:43Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,10 +66,10 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
+- Educação Pré-escolar
+- Estabelecimento de Ensino
 - Horário de Funcionamento
 - Horário Escolar
-- Estabelecimento de Ensino
-- Educação Pré-escolar
 relationships:
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/147/1997/06/11/p/dre
@@ -79,16 +79,24 @@ relationships:
   target: eli:http://data.dre.pt/eli/lei/5/1997/02/10/p/dre
   label: null
   source: http://data.dre.pt/eli/lei/5/1997/02/10/p/dre
+- type: cites
+  target: pt:dre:358959:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:561219:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T14:03:43Z'
   warnings: []
   errors: []
 ---
@@ -127,6 +135,6 @@ A inexistência de alternativa, à qual a família possa recorrer, para ser asse
 
 Ministérios da Educação e da Solidariedade e Segurança Social.
 
-**Assinada em 30 de Junho de 1997.**
+Assinada em 30 de Junho de 1997.
 
-**O Ministro da Educação, Eduardo Carrega Marçal Grilo. - O Ministro da Solidariedade e Segurança Social, Eduardo Luís Barreto Ferro Rodrigues.**
+O Ministro da Educação, Eduardo Carrega Marçal Grilo. - O Ministro da Solidariedade e Segurança Social, Eduardo Luís Barreto Ferro Rodrigues.

@@ -20,7 +20,7 @@ publication:
   reference: Diário da República n.º 178/1997, 1º Suplemento, Série I-B de 1997-08-04
   number: '178'
   series: I
-  supplement: 1º Suplemento
+  supplement: null
   pages: 4052-(2) a 4052-(2)
   pdf_url: https://files.diariodarepublica.pt/1s/1997/08/178b01/00020002.pdf
 entry_into_force_dates: []
@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/589-a/1997/08/04/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/589-a-1997-239814
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1997-08-04T00:00:00Z'
+  retrieved_at: '2026-10-23T14:03:43Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 58de340aa5eca4b04425b04092f14793d73b15602e0c5d10f0c1e6d30dbb2569
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 1905c4176269951b925a7d6aa15f1b099bca3fa10127ec50d7634780f39295f9
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T14:03:43Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,17 +66,17 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Pobreza
-- Aquisição de Imóveis
-- Região Autónoma
-- Custo da Construção
-- Habitação Social
-- Preço Máximo
-- Programa
-- Madeira.região Autónoma
 - Açores
+- Aquisição de Imóveis
 - Arrendamento Urbano para Habitação
 - Autarquia Local
+- Custo da Construção
+- Habitação Social
+- Madeira.região Autónoma
+- Pobreza
+- Preço Máximo
+- Programa
+- Região Autónoma
 relationships:
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/197/1995/07/29/p/dre
@@ -86,16 +86,28 @@ relationships:
   target: eli:http://data.dre.pt/eli/port/352/1996/08/13/p/dre
   label: null
   source: http://data.dre.pt/eli/port/352/1996/08/13/p/dre
+- type: cites
+  target: pt:dre:405364:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:418827:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:484576:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T14:03:43Z'
   warnings: []
   errors: []
 ---
@@ -130,14 +142,14 @@ Manda o Governo, pelos Ministros das Finanças e do Equipamento, do Planeamento 
 
 Ministérios das Finanças e do Equipamento, do Planeamento e da Administração do Território.
 
-**Assinada em 30 de Julho de 1997.**
+Assinada em 30 de Julho de 1997.
 
-**O Ministro das Finanças, António Luciano Pacheco de Sousa Franco. - O Ministro do Equipamento, do Planeamento e da Administração do Território, João Cardona Gomes Cravinho.**
+O Ministro das Finanças, António Luciano Pacheco de Sousa Franco. - O Ministro do Equipamento, do Planeamento e da Administração do Território, João Cardona Gomes Cravinho.
 
 QUADRO ANEXO I
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1997/08/178b01/00020002.pdf))](https://files.diariodarepublica.pt/1s/1997/08/178b01/00020002.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1997/08/178b01/00020002.pdf)
 
 QUADRO ANEXO II
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1997/08/178b01/00020002.pdf))](https://files.diariodarepublica.pt/1s/1997/08/178b01/00020002.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1997/08/178b01/00020002.pdf)

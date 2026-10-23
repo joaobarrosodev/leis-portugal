@@ -26,7 +26,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/2s/2009/08/148000000/3096830968.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -48,18 +48,18 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/declaracao-rectificacao/1851-2009-2658192
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2009-08-03T00:00:00Z'
+  retrieved_at: '2026-10-23T14:03:33Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 20d974aba82593b91879782dce1a0871e95defa5e5d5c4d165b10abb3e59b7fc
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 018b477fe2fcbda08ee3964e3e624599aab59b2455b2d70631b34856e306aee7
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T14:03:33Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,22 +67,42 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects: []
-relationships: []
+relationships:
+- type: cites
+  target: pt:dre:453975:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:454506:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:468663:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:502396:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:624401:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T14:03:33Z'
   warnings: []
   errors: []
 ---
 
-# Declaração de Rectificação n.º 1851/2009
+# Declaração de rectificação n.º 1851/2009
 
 Para os devidos efeitos, rectifica-se o aviso n.º 10 338/2009, publicado na 2.ª série, do Diário da República, n.º 105, de 01/06/2009, referente ao procedimento concursal de recrutamento para o preenchimento de 150 postos de trabalho de assistente operacional da carreira geral de assistente operacional, e de dois postos de trabalho de assistente técnico da carreira geral de assistente técnico, conforme caracterização no mapa de pessoal, em face da urgência do recrutamento, por forma a assegurar o início do próximo ano escolar (2009/2010), e nos termos da recomendação emitida pela Associação Nacional de Municípios Portugueses relativamente à legislação aplicável mencionada, nomeadamente no seu ponto 4, a saber:
 
@@ -117,3 +137,5 @@ Acresce que a ponderação para a valoração final dos métodos de selecção, 
 Os candidatos que obtenham uma valoração inferior a 9,5 valores, num dos métodos de selecção (Avaliação Curricular ou Entrevista de Avaliação de Competências), consideram-se excluídos da valoração final. [...]».
 
 23 de Julho de 2009. - Por delegação do Presidente da Câmara, a Vereadora do DRH, Maria Germana Sousa Rocha.
+
+302100518

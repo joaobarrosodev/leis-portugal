@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2001/07/159b00/42024221.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/710/2001/07/11/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/710-2001-399187
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2004-03-26T00:00:00Z'
+  retrieved_at: '2026-10-23T14:34:02Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 38479f4aba1658e85593f586e63e043c970c8d87be7c3c6e25ef9dbf2c5f0c58
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 7fa91b27e72d5743b4459c15ac8f89845ca2281498492d5e6c3a475884e532a8
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T14:34:02Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -65,32 +65,32 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Plano de Estudos
 - Curso Geral de Artes do Espectáculo
 - Curso Geral de Artes Visuais
 - Curso Geral de Ciências e Tecnologias
 - Curso Geral de Ciências Naturais
+- Curso Geral de Ciências Sociais e Humanas
+- Curso Geral de Ciências Sócio-económicas
 - Curso Geral de Línguas e Literaturas
 - Curso Tecnológico de Acção Social
 - Curso Tecnológico de Administração
 - Curso Tecnológico de Ambiente e Conservação da Natureza
+- Curso Tecnológico de Construção Civil
+- Curso Tecnológico de Desporto
 - Curso Tecnológico de Documentação
 - Curso Tecnológico de Electrotecnia-electrónica
+- Curso Tecnológico de Equipamento
+- Curso Tecnológico de Informática
+- Curso Tecnológico de Mecânica
 - Curso Tecnológico de Multimédia
 - Curso Tecnológico de Ordenamento do Território
 - Curso Tecnológico de Produção Audiovisual
+- Curso Tecnológico de Química e Controlo Ambiental
 - Curso Tecnológico de Serviços Jurídicos
 - Curso Tecnológico de Turismo
 - Curso Tecnológico do Ensino Secundario
 - Diploma
-- Curso Geral de Ciências Sociais e Humanas
-- Curso Geral de Ciências Sócio-económicas
-- Curso Tecnológico de Construção Civil
-- Curso Tecnológico de Desporto
-- Curso Tecnológico de Equipamento
-- Curso Tecnológico de Informática
-- Curso Tecnológico de Mecânica
-- Curso Tecnológico de Química e Controlo Ambiental
+- Plano de Estudos
 - Qualificação Profissional
 relationships:
 - type: amended_by
@@ -101,16 +101,25 @@ relationships:
   target: eli:http://data.dre.pt/eli/dec-lei/7/2001/01/18/p/dre
   label: null
   source: http://data.dre.pt/eli/dec-lei/7/2001/01/18/p/dre
+- type: cites
+  target: pt:dre:338987:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:210801:por
+  label: "Revogada pelo DEC LEI.74/2004.26.03.2004.ME, DR.IS-A [73] de 26.03.2004\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/74-2004-210801
+  date: '2004-03-26'
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T14:34:02Z'
   warnings: []
   errors: []
 ---
@@ -195,49 +204,49 @@ r) Curso tecnológico de Ambiente e Conservação da Natureza, com as seguintes 
 
 7.º Nos termos do artigo 15.º do [Decreto-Lei n.º 7/2001](https://diariodarepublica.pt/dr/detalhe/decreto-lei/7-2001-338987), de 18 de Janeiro, a conclusão de um curso geral ou de um curso tecnológico confere ao aluno o diploma do ensino secundário e, no caso dos cursos tecnológicos, também um certificado de qualificação profissional de nível 3, a emitir pelo órgão de direcção executiva da escola, segundo modelos a aprovar por despacho do Ministro da Educação.
 
-**A Secretária de Estado da Educação, Ana Benavente, em 25 de Junho de 2001.**
+A Secretária de Estado da Educação, Ana Benavente, em 25 de Junho de 2001.
 
 ## ANEXO N.º 1 — Curso geral de Ciências Naturais
 
 Plano de estudos
 
-[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2001/07/159b00/42024221.pdf)
+[[[[[[[[[[[[[[[[[[[[[[[[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2001/07/159b00/42024221.pdf)](https://files.diariodarepublica.pt/1s/2001/07/159b00/42024221.pdf)](https://files.diariodarepublica.pt/1s/2001/07/159b00/42024221.pdf)](https://files.diariodarepublica.pt/1s/2001/07/159b00/42024221.pdf)](https://files.diariodarepublica.pt/1s/2001/07/159b00/42024221.pdf)](https://files.diariodarepublica.pt/1s/2001/07/159b00/42024221.pdf)](https://files.diariodarepublica.pt/1s/2001/07/159b00/42024221.pdf)](https://files.diariodarepublica.pt/1s/2001/07/159b00/42024221.pdf)](https://files.diariodarepublica.pt/1s/2001/07/159b00/42024221.pdf)](https://files.diariodarepublica.pt/1s/2001/07/159b00/42024221.pdf)](https://files.diariodarepublica.pt/1s/2001/07/159b00/42024221.pdf)](https://files.diariodarepublica.pt/1s/2001/07/159b00/42024221.pdf)](https://files.diariodarepublica.pt/1s/2001/07/159b00/42024221.pdf)](https://files.diariodarepublica.pt/1s/2001/07/159b00/42024221.pdf)](https://files.diariodarepublica.pt/1s/2001/07/159b00/42024221.pdf)](https://files.diariodarepublica.pt/1s/2001/07/159b00/42024221.pdf)](https://files.diariodarepublica.pt/1s/2001/07/159b00/42024221.pdf)](https://files.diariodarepublica.pt/1s/2001/07/159b00/42024221.pdf)](https://files.diariodarepublica.pt/1s/2001/07/159b00/42024221.pdf)](https://files.diariodarepublica.pt/1s/2001/07/159b00/42024221.pdf)](https://files.diariodarepublica.pt/1s/2001/07/159b00/42024221.pdf)](https://files.diariodarepublica.pt/1s/2001/07/159b00/42024221.pdf)](https://files.diariodarepublica.pt/1s/2001/07/159b00/42024221.pdf)](https://files.diariodarepublica.pt/1s/2001/07/159b00/42024221.pdf)
 
 ## ANEXO N.º 2 — Curso geral de Ciências e Tecnologias
 
 Plano de estudos
 
-[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2001/07/159b00/42024221.pdf)
+[[[[[[[[[[[[[[[[[[[[[[[[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2001/07/159b00/42024221.pdf)](https://files.diariodarepublica.pt/1s/2001/07/159b00/42024221.pdf)](https://files.diariodarepublica.pt/1s/2001/07/159b00/42024221.pdf)](https://files.diariodarepublica.pt/1s/2001/07/159b00/42024221.pdf)](https://files.diariodarepublica.pt/1s/2001/07/159b00/42024221.pdf)](https://files.diariodarepublica.pt/1s/2001/07/159b00/42024221.pdf)](https://files.diariodarepublica.pt/1s/2001/07/159b00/42024221.pdf)](https://files.diariodarepublica.pt/1s/2001/07/159b00/42024221.pdf)](https://files.diariodarepublica.pt/1s/2001/07/159b00/42024221.pdf)](https://files.diariodarepublica.pt/1s/2001/07/159b00/42024221.pdf)](https://files.diariodarepublica.pt/1s/2001/07/159b00/42024221.pdf)](https://files.diariodarepublica.pt/1s/2001/07/159b00/42024221.pdf)](https://files.diariodarepublica.pt/1s/2001/07/159b00/42024221.pdf)](https://files.diariodarepublica.pt/1s/2001/07/159b00/42024221.pdf)](https://files.diariodarepublica.pt/1s/2001/07/159b00/42024221.pdf)](https://files.diariodarepublica.pt/1s/2001/07/159b00/42024221.pdf)](https://files.diariodarepublica.pt/1s/2001/07/159b00/42024221.pdf)](https://files.diariodarepublica.pt/1s/2001/07/159b00/42024221.pdf)](https://files.diariodarepublica.pt/1s/2001/07/159b00/42024221.pdf)](https://files.diariodarepublica.pt/1s/2001/07/159b00/42024221.pdf)](https://files.diariodarepublica.pt/1s/2001/07/159b00/42024221.pdf)](https://files.diariodarepublica.pt/1s/2001/07/159b00/42024221.pdf)](https://files.diariodarepublica.pt/1s/2001/07/159b00/42024221.pdf)](https://files.diariodarepublica.pt/1s/2001/07/159b00/42024221.pdf)
 
 ## ANEXO N.º 3 — Curso geral de Artes Visuais
 
 Plano de estudos
 
-[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2001/07/159b00/42024221.pdf)
+[[[[[[[[[[[[[[[[[[[[[[[[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2001/07/159b00/42024221.pdf)](https://files.diariodarepublica.pt/1s/2001/07/159b00/42024221.pdf)](https://files.diariodarepublica.pt/1s/2001/07/159b00/42024221.pdf)](https://files.diariodarepublica.pt/1s/2001/07/159b00/42024221.pdf)](https://files.diariodarepublica.pt/1s/2001/07/159b00/42024221.pdf)](https://files.diariodarepublica.pt/1s/2001/07/159b00/42024221.pdf)](https://files.diariodarepublica.pt/1s/2001/07/159b00/42024221.pdf)](https://files.diariodarepublica.pt/1s/2001/07/159b00/42024221.pdf)](https://files.diariodarepublica.pt/1s/2001/07/159b00/42024221.pdf)](https://files.diariodarepublica.pt/1s/2001/07/159b00/42024221.pdf)](https://files.diariodarepublica.pt/1s/2001/07/159b00/42024221.pdf)](https://files.diariodarepublica.pt/1s/2001/07/159b00/42024221.pdf)](https://files.diariodarepublica.pt/1s/2001/07/159b00/42024221.pdf)](https://files.diariodarepublica.pt/1s/2001/07/159b00/42024221.pdf)](https://files.diariodarepublica.pt/1s/2001/07/159b00/42024221.pdf)](https://files.diariodarepublica.pt/1s/2001/07/159b00/42024221.pdf)](https://files.diariodarepublica.pt/1s/2001/07/159b00/42024221.pdf)](https://files.diariodarepublica.pt/1s/2001/07/159b00/42024221.pdf)](https://files.diariodarepublica.pt/1s/2001/07/159b00/42024221.pdf)](https://files.diariodarepublica.pt/1s/2001/07/159b00/42024221.pdf)](https://files.diariodarepublica.pt/1s/2001/07/159b00/42024221.pdf)](https://files.diariodarepublica.pt/1s/2001/07/159b00/42024221.pdf)](https://files.diariodarepublica.pt/1s/2001/07/159b00/42024221.pdf)](https://files.diariodarepublica.pt/1s/2001/07/159b00/42024221.pdf)
 
 ## ANEXO N.º 4 — Curso geral de Artes do Espectáculo
 
 Plano de estudos
 
-[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2001/07/159b00/42024221.pdf)
+[[[[[[[[[[[[[[[[[[[[[[[[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2001/07/159b00/42024221.pdf)](https://files.diariodarepublica.pt/1s/2001/07/159b00/42024221.pdf)](https://files.diariodarepublica.pt/1s/2001/07/159b00/42024221.pdf)](https://files.diariodarepublica.pt/1s/2001/07/159b00/42024221.pdf)](https://files.diariodarepublica.pt/1s/2001/07/159b00/42024221.pdf)](https://files.diariodarepublica.pt/1s/2001/07/159b00/42024221.pdf)](https://files.diariodarepublica.pt/1s/2001/07/159b00/42024221.pdf)](https://files.diariodarepublica.pt/1s/2001/07/159b00/42024221.pdf)](https://files.diariodarepublica.pt/1s/2001/07/159b00/42024221.pdf)](https://files.diariodarepublica.pt/1s/2001/07/159b00/42024221.pdf)](https://files.diariodarepublica.pt/1s/2001/07/159b00/42024221.pdf)](https://files.diariodarepublica.pt/1s/2001/07/159b00/42024221.pdf)](https://files.diariodarepublica.pt/1s/2001/07/159b00/42024221.pdf)](https://files.diariodarepublica.pt/1s/2001/07/159b00/42024221.pdf)](https://files.diariodarepublica.pt/1s/2001/07/159b00/42024221.pdf)](https://files.diariodarepublica.pt/1s/2001/07/159b00/42024221.pdf)](https://files.diariodarepublica.pt/1s/2001/07/159b00/42024221.pdf)](https://files.diariodarepublica.pt/1s/2001/07/159b00/42024221.pdf)](https://files.diariodarepublica.pt/1s/2001/07/159b00/42024221.pdf)](https://files.diariodarepublica.pt/1s/2001/07/159b00/42024221.pdf)](https://files.diariodarepublica.pt/1s/2001/07/159b00/42024221.pdf)](https://files.diariodarepublica.pt/1s/2001/07/159b00/42024221.pdf)](https://files.diariodarepublica.pt/1s/2001/07/159b00/42024221.pdf)](https://files.diariodarepublica.pt/1s/2001/07/159b00/42024221.pdf)
 
 ## ANEXO N.º 5 — Curso geral de Ciências Sociais e Humanas
 
 Plano de estudos
 
-[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2001/07/159b00/42024221.pdf)
+[[[[[[[[[[[[[[[[[[[[[[[[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2001/07/159b00/42024221.pdf)](https://files.diariodarepublica.pt/1s/2001/07/159b00/42024221.pdf)](https://files.diariodarepublica.pt/1s/2001/07/159b00/42024221.pdf)](https://files.diariodarepublica.pt/1s/2001/07/159b00/42024221.pdf)](https://files.diariodarepublica.pt/1s/2001/07/159b00/42024221.pdf)](https://files.diariodarepublica.pt/1s/2001/07/159b00/42024221.pdf)](https://files.diariodarepublica.pt/1s/2001/07/159b00/42024221.pdf)](https://files.diariodarepublica.pt/1s/2001/07/159b00/42024221.pdf)](https://files.diariodarepublica.pt/1s/2001/07/159b00/42024221.pdf)](https://files.diariodarepublica.pt/1s/2001/07/159b00/42024221.pdf)](https://files.diariodarepublica.pt/1s/2001/07/159b00/42024221.pdf)](https://files.diariodarepublica.pt/1s/2001/07/159b00/42024221.pdf)](https://files.diariodarepublica.pt/1s/2001/07/159b00/42024221.pdf)](https://files.diariodarepublica.pt/1s/2001/07/159b00/42024221.pdf)](https://files.diariodarepublica.pt/1s/2001/07/159b00/42024221.pdf)](https://files.diariodarepublica.pt/1s/2001/07/159b00/42024221.pdf)](https://files.diariodarepublica.pt/1s/2001/07/159b00/42024221.pdf)](https://files.diariodarepublica.pt/1s/2001/07/159b00/42024221.pdf)](https://files.diariodarepublica.pt/1s/2001/07/159b00/42024221.pdf)](https://files.diariodarepublica.pt/1s/2001/07/159b00/42024221.pdf)](https://files.diariodarepublica.pt/1s/2001/07/159b00/42024221.pdf)](https://files.diariodarepublica.pt/1s/2001/07/159b00/42024221.pdf)](https://files.diariodarepublica.pt/1s/2001/07/159b00/42024221.pdf)](https://files.diariodarepublica.pt/1s/2001/07/159b00/42024221.pdf)
 
 ## ANEXO N.º 6 — Curso geral de Ciências Sócio-Económicas
 
 Plano de estudos
 
-[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2001/07/159b00/42024221.pdf)
+[[[[[[[[[[[[[[[[[[[[[[[[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2001/07/159b00/42024221.pdf)](https://files.diariodarepublica.pt/1s/2001/07/159b00/42024221.pdf)](https://files.diariodarepublica.pt/1s/2001/07/159b00/42024221.pdf)](https://files.diariodarepublica.pt/1s/2001/07/159b00/42024221.pdf)](https://files.diariodarepublica.pt/1s/2001/07/159b00/42024221.pdf)](https://files.diariodarepublica.pt/1s/2001/07/159b00/42024221.pdf)](https://files.diariodarepublica.pt/1s/2001/07/159b00/42024221.pdf)](https://files.diariodarepublica.pt/1s/2001/07/159b00/42024221.pdf)](https://files.diariodarepublica.pt/1s/2001/07/159b00/42024221.pdf)](https://files.diariodarepublica.pt/1s/2001/07/159b00/42024221.pdf)](https://files.diariodarepublica.pt/1s/2001/07/159b00/42024221.pdf)](https://files.diariodarepublica.pt/1s/2001/07/159b00/42024221.pdf)](https://files.diariodarepublica.pt/1s/2001/07/159b00/42024221.pdf)](https://files.diariodarepublica.pt/1s/2001/07/159b00/42024221.pdf)](https://files.diariodarepublica.pt/1s/2001/07/159b00/42024221.pdf)](https://files.diariodarepublica.pt/1s/2001/07/159b00/42024221.pdf)](https://files.diariodarepublica.pt/1s/2001/07/159b00/42024221.pdf)](https://files.diariodarepublica.pt/1s/2001/07/159b00/42024221.pdf)](https://files.diariodarepublica.pt/1s/2001/07/159b00/42024221.pdf)](https://files.diariodarepublica.pt/1s/2001/07/159b00/42024221.pdf)](https://files.diariodarepublica.pt/1s/2001/07/159b00/42024221.pdf)](https://files.diariodarepublica.pt/1s/2001/07/159b00/42024221.pdf)](https://files.diariodarepublica.pt/1s/2001/07/159b00/42024221.pdf)](https://files.diariodarepublica.pt/1s/2001/07/159b00/42024221.pdf)
 
 ## ANEXO N.º 7 — Curso geral de Línguas e Literaturas
 
 Plano de estudos
 
-[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2001/07/159b00/42024221.pdf)
+[[[[[[[[[[[[[[[[[[[[[[[[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2001/07/159b00/42024221.pdf)](https://files.diariodarepublica.pt/1s/2001/07/159b00/42024221.pdf)](https://files.diariodarepublica.pt/1s/2001/07/159b00/42024221.pdf)](https://files.diariodarepublica.pt/1s/2001/07/159b00/42024221.pdf)](https://files.diariodarepublica.pt/1s/2001/07/159b00/42024221.pdf)](https://files.diariodarepublica.pt/1s/2001/07/159b00/42024221.pdf)](https://files.diariodarepublica.pt/1s/2001/07/159b00/42024221.pdf)](https://files.diariodarepublica.pt/1s/2001/07/159b00/42024221.pdf)](https://files.diariodarepublica.pt/1s/2001/07/159b00/42024221.pdf)](https://files.diariodarepublica.pt/1s/2001/07/159b00/42024221.pdf)](https://files.diariodarepublica.pt/1s/2001/07/159b00/42024221.pdf)](https://files.diariodarepublica.pt/1s/2001/07/159b00/42024221.pdf)](https://files.diariodarepublica.pt/1s/2001/07/159b00/42024221.pdf)](https://files.diariodarepublica.pt/1s/2001/07/159b00/42024221.pdf)](https://files.diariodarepublica.pt/1s/2001/07/159b00/42024221.pdf)](https://files.diariodarepublica.pt/1s/2001/07/159b00/42024221.pdf)](https://files.diariodarepublica.pt/1s/2001/07/159b00/42024221.pdf)](https://files.diariodarepublica.pt/1s/2001/07/159b00/42024221.pdf)](https://files.diariodarepublica.pt/1s/2001/07/159b00/42024221.pdf)](https://files.diariodarepublica.pt/1s/2001/07/159b00/42024221.pdf)](https://files.diariodarepublica.pt/1s/2001/07/159b00/42024221.pdf)](https://files.diariodarepublica.pt/1s/2001/07/159b00/42024221.pdf)](https://files.diariodarepublica.pt/1s/2001/07/159b00/42024221.pdf)](https://files.diariodarepublica.pt/1s/2001/07/159b00/42024221.pdf)
 
 ## ANEXO N.º 8 — Curso tecnológico de Construção Civil
 
@@ -245,7 +254,7 @@ Especificações: Condução de Obra; Controlo de Segurança; Desenho/Computaç�
 
 Plano de estudos
 
-[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2001/07/159b00/42024221.pdf)
+[[[[[[[[[[[[[[[[[[[[[[[[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2001/07/159b00/42024221.pdf)](https://files.diariodarepublica.pt/1s/2001/07/159b00/42024221.pdf)](https://files.diariodarepublica.pt/1s/2001/07/159b00/42024221.pdf)](https://files.diariodarepublica.pt/1s/2001/07/159b00/42024221.pdf)](https://files.diariodarepublica.pt/1s/2001/07/159b00/42024221.pdf)](https://files.diariodarepublica.pt/1s/2001/07/159b00/42024221.pdf)](https://files.diariodarepublica.pt/1s/2001/07/159b00/42024221.pdf)](https://files.diariodarepublica.pt/1s/2001/07/159b00/42024221.pdf)](https://files.diariodarepublica.pt/1s/2001/07/159b00/42024221.pdf)](https://files.diariodarepublica.pt/1s/2001/07/159b00/42024221.pdf)](https://files.diariodarepublica.pt/1s/2001/07/159b00/42024221.pdf)](https://files.diariodarepublica.pt/1s/2001/07/159b00/42024221.pdf)](https://files.diariodarepublica.pt/1s/2001/07/159b00/42024221.pdf)](https://files.diariodarepublica.pt/1s/2001/07/159b00/42024221.pdf)](https://files.diariodarepublica.pt/1s/2001/07/159b00/42024221.pdf)](https://files.diariodarepublica.pt/1s/2001/07/159b00/42024221.pdf)](https://files.diariodarepublica.pt/1s/2001/07/159b00/42024221.pdf)](https://files.diariodarepublica.pt/1s/2001/07/159b00/42024221.pdf)](https://files.diariodarepublica.pt/1s/2001/07/159b00/42024221.pdf)](https://files.diariodarepublica.pt/1s/2001/07/159b00/42024221.pdf)](https://files.diariodarepublica.pt/1s/2001/07/159b00/42024221.pdf)](https://files.diariodarepublica.pt/1s/2001/07/159b00/42024221.pdf)](https://files.diariodarepublica.pt/1s/2001/07/159b00/42024221.pdf)](https://files.diariodarepublica.pt/1s/2001/07/159b00/42024221.pdf)
 
 ## ANEXO N.º 9 — Curso tecnológico de Electrotecnia/Electrónica
 
@@ -253,7 +262,7 @@ Especificações: Automação Industrial; Electrónica; Instalações Eléctrica
 
 Plano de estudos
 
-[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2001/07/159b00/42024221.pdf)
+[[[[[[[[[[[[[[[[[[[[[[[[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2001/07/159b00/42024221.pdf)](https://files.diariodarepublica.pt/1s/2001/07/159b00/42024221.pdf)](https://files.diariodarepublica.pt/1s/2001/07/159b00/42024221.pdf)](https://files.diariodarepublica.pt/1s/2001/07/159b00/42024221.pdf)](https://files.diariodarepublica.pt/1s/2001/07/159b00/42024221.pdf)](https://files.diariodarepublica.pt/1s/2001/07/159b00/42024221.pdf)](https://files.diariodarepublica.pt/1s/2001/07/159b00/42024221.pdf)](https://files.diariodarepublica.pt/1s/2001/07/159b00/42024221.pdf)](https://files.diariodarepublica.pt/1s/2001/07/159b00/42024221.pdf)](https://files.diariodarepublica.pt/1s/2001/07/159b00/42024221.pdf)](https://files.diariodarepublica.pt/1s/2001/07/159b00/42024221.pdf)](https://files.diariodarepublica.pt/1s/2001/07/159b00/42024221.pdf)](https://files.diariodarepublica.pt/1s/2001/07/159b00/42024221.pdf)](https://files.diariodarepublica.pt/1s/2001/07/159b00/42024221.pdf)](https://files.diariodarepublica.pt/1s/2001/07/159b00/42024221.pdf)](https://files.diariodarepublica.pt/1s/2001/07/159b00/42024221.pdf)](https://files.diariodarepublica.pt/1s/2001/07/159b00/42024221.pdf)](https://files.diariodarepublica.pt/1s/2001/07/159b00/42024221.pdf)](https://files.diariodarepublica.pt/1s/2001/07/159b00/42024221.pdf)](https://files.diariodarepublica.pt/1s/2001/07/159b00/42024221.pdf)](https://files.diariodarepublica.pt/1s/2001/07/159b00/42024221.pdf)](https://files.diariodarepublica.pt/1s/2001/07/159b00/42024221.pdf)](https://files.diariodarepublica.pt/1s/2001/07/159b00/42024221.pdf)](https://files.diariodarepublica.pt/1s/2001/07/159b00/42024221.pdf)
 
 ## ANEXO N.º 10 — Curso tecnológico de Informática
 
@@ -261,7 +270,7 @@ Especificações: Desenvolvimento de Software; Equipamento Informático; Gestão
 
 Plano de estudos
 
-[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2001/07/159b00/42024221.pdf)
+[[[[[[[[[[[[[[[[[[[[[[[[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2001/07/159b00/42024221.pdf)](https://files.diariodarepublica.pt/1s/2001/07/159b00/42024221.pdf)](https://files.diariodarepublica.pt/1s/2001/07/159b00/42024221.pdf)](https://files.diariodarepublica.pt/1s/2001/07/159b00/42024221.pdf)](https://files.diariodarepublica.pt/1s/2001/07/159b00/42024221.pdf)](https://files.diariodarepublica.pt/1s/2001/07/159b00/42024221.pdf)](https://files.diariodarepublica.pt/1s/2001/07/159b00/42024221.pdf)](https://files.diariodarepublica.pt/1s/2001/07/159b00/42024221.pdf)](https://files.diariodarepublica.pt/1s/2001/07/159b00/42024221.pdf)](https://files.diariodarepublica.pt/1s/2001/07/159b00/42024221.pdf)](https://files.diariodarepublica.pt/1s/2001/07/159b00/42024221.pdf)](https://files.diariodarepublica.pt/1s/2001/07/159b00/42024221.pdf)](https://files.diariodarepublica.pt/1s/2001/07/159b00/42024221.pdf)](https://files.diariodarepublica.pt/1s/2001/07/159b00/42024221.pdf)](https://files.diariodarepublica.pt/1s/2001/07/159b00/42024221.pdf)](https://files.diariodarepublica.pt/1s/2001/07/159b00/42024221.pdf)](https://files.diariodarepublica.pt/1s/2001/07/159b00/42024221.pdf)](https://files.diariodarepublica.pt/1s/2001/07/159b00/42024221.pdf)](https://files.diariodarepublica.pt/1s/2001/07/159b00/42024221.pdf)](https://files.diariodarepublica.pt/1s/2001/07/159b00/42024221.pdf)](https://files.diariodarepublica.pt/1s/2001/07/159b00/42024221.pdf)](https://files.diariodarepublica.pt/1s/2001/07/159b00/42024221.pdf)](https://files.diariodarepublica.pt/1s/2001/07/159b00/42024221.pdf)](https://files.diariodarepublica.pt/1s/2001/07/159b00/42024221.pdf)
 
 ## ANEXO N.º 11 — Curso tecnológico de Mecânica
 
@@ -269,7 +278,7 @@ Especificações: Automação/Manutenção; Frio e Climatização; Mecânica Aut
 
 Plano de estudos
 
-[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2001/07/159b00/42024221.pdf)
+[[[[[[[[[[[[[[[[[[[[[[[[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2001/07/159b00/42024221.pdf)](https://files.diariodarepublica.pt/1s/2001/07/159b00/42024221.pdf)](https://files.diariodarepublica.pt/1s/2001/07/159b00/42024221.pdf)](https://files.diariodarepublica.pt/1s/2001/07/159b00/42024221.pdf)](https://files.diariodarepublica.pt/1s/2001/07/159b00/42024221.pdf)](https://files.diariodarepublica.pt/1s/2001/07/159b00/42024221.pdf)](https://files.diariodarepublica.pt/1s/2001/07/159b00/42024221.pdf)](https://files.diariodarepublica.pt/1s/2001/07/159b00/42024221.pdf)](https://files.diariodarepublica.pt/1s/2001/07/159b00/42024221.pdf)](https://files.diariodarepublica.pt/1s/2001/07/159b00/42024221.pdf)](https://files.diariodarepublica.pt/1s/2001/07/159b00/42024221.pdf)](https://files.diariodarepublica.pt/1s/2001/07/159b00/42024221.pdf)](https://files.diariodarepublica.pt/1s/2001/07/159b00/42024221.pdf)](https://files.diariodarepublica.pt/1s/2001/07/159b00/42024221.pdf)](https://files.diariodarepublica.pt/1s/2001/07/159b00/42024221.pdf)](https://files.diariodarepublica.pt/1s/2001/07/159b00/42024221.pdf)](https://files.diariodarepublica.pt/1s/2001/07/159b00/42024221.pdf)](https://files.diariodarepublica.pt/1s/2001/07/159b00/42024221.pdf)](https://files.diariodarepublica.pt/1s/2001/07/159b00/42024221.pdf)](https://files.diariodarepublica.pt/1s/2001/07/159b00/42024221.pdf)](https://files.diariodarepublica.pt/1s/2001/07/159b00/42024221.pdf)](https://files.diariodarepublica.pt/1s/2001/07/159b00/42024221.pdf)](https://files.diariodarepublica.pt/1s/2001/07/159b00/42024221.pdf)](https://files.diariodarepublica.pt/1s/2001/07/159b00/42024221.pdf)
 
 ## ANEXO N.º 12 — Curso tecnológico de Química e Controlo Ambiental
 
@@ -277,7 +286,7 @@ Especificações: Ambiente e Controlo de Qualidade; Indústria Química
 
 Plano de estudos
 
-[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2001/07/159b00/42024221.pdf)
+[[[[[[[[[[[[[[[[[[[[[[[[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2001/07/159b00/42024221.pdf)](https://files.diariodarepublica.pt/1s/2001/07/159b00/42024221.pdf)](https://files.diariodarepublica.pt/1s/2001/07/159b00/42024221.pdf)](https://files.diariodarepublica.pt/1s/2001/07/159b00/42024221.pdf)](https://files.diariodarepublica.pt/1s/2001/07/159b00/42024221.pdf)](https://files.diariodarepublica.pt/1s/2001/07/159b00/42024221.pdf)](https://files.diariodarepublica.pt/1s/2001/07/159b00/42024221.pdf)](https://files.diariodarepublica.pt/1s/2001/07/159b00/42024221.pdf)](https://files.diariodarepublica.pt/1s/2001/07/159b00/42024221.pdf)](https://files.diariodarepublica.pt/1s/2001/07/159b00/42024221.pdf)](https://files.diariodarepublica.pt/1s/2001/07/159b00/42024221.pdf)](https://files.diariodarepublica.pt/1s/2001/07/159b00/42024221.pdf)](https://files.diariodarepublica.pt/1s/2001/07/159b00/42024221.pdf)](https://files.diariodarepublica.pt/1s/2001/07/159b00/42024221.pdf)](https://files.diariodarepublica.pt/1s/2001/07/159b00/42024221.pdf)](https://files.diariodarepublica.pt/1s/2001/07/159b00/42024221.pdf)](https://files.diariodarepublica.pt/1s/2001/07/159b00/42024221.pdf)](https://files.diariodarepublica.pt/1s/2001/07/159b00/42024221.pdf)](https://files.diariodarepublica.pt/1s/2001/07/159b00/42024221.pdf)](https://files.diariodarepublica.pt/1s/2001/07/159b00/42024221.pdf)](https://files.diariodarepublica.pt/1s/2001/07/159b00/42024221.pdf)](https://files.diariodarepublica.pt/1s/2001/07/159b00/42024221.pdf)](https://files.diariodarepublica.pt/1s/2001/07/159b00/42024221.pdf)](https://files.diariodarepublica.pt/1s/2001/07/159b00/42024221.pdf)
 
 ## ANEXO N.º 13 — Curso tecnológico de Equipamento
 
@@ -285,7 +294,7 @@ Especificações: Design de Cerâmica; Design de Mobiliário
 
 Plano de estudos
 
-[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2001/07/159b00/42024221.pdf)
+[[[[[[[[[[[[[[[[[[[[[[[[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2001/07/159b00/42024221.pdf)](https://files.diariodarepublica.pt/1s/2001/07/159b00/42024221.pdf)](https://files.diariodarepublica.pt/1s/2001/07/159b00/42024221.pdf)](https://files.diariodarepublica.pt/1s/2001/07/159b00/42024221.pdf)](https://files.diariodarepublica.pt/1s/2001/07/159b00/42024221.pdf)](https://files.diariodarepublica.pt/1s/2001/07/159b00/42024221.pdf)](https://files.diariodarepublica.pt/1s/2001/07/159b00/42024221.pdf)](https://files.diariodarepublica.pt/1s/2001/07/159b00/42024221.pdf)](https://files.diariodarepublica.pt/1s/2001/07/159b00/42024221.pdf)](https://files.diariodarepublica.pt/1s/2001/07/159b00/42024221.pdf)](https://files.diariodarepublica.pt/1s/2001/07/159b00/42024221.pdf)](https://files.diariodarepublica.pt/1s/2001/07/159b00/42024221.pdf)](https://files.diariodarepublica.pt/1s/2001/07/159b00/42024221.pdf)](https://files.diariodarepublica.pt/1s/2001/07/159b00/42024221.pdf)](https://files.diariodarepublica.pt/1s/2001/07/159b00/42024221.pdf)](https://files.diariodarepublica.pt/1s/2001/07/159b00/42024221.pdf)](https://files.diariodarepublica.pt/1s/2001/07/159b00/42024221.pdf)](https://files.diariodarepublica.pt/1s/2001/07/159b00/42024221.pdf)](https://files.diariodarepublica.pt/1s/2001/07/159b00/42024221.pdf)](https://files.diariodarepublica.pt/1s/2001/07/159b00/42024221.pdf)](https://files.diariodarepublica.pt/1s/2001/07/159b00/42024221.pdf)](https://files.diariodarepublica.pt/1s/2001/07/159b00/42024221.pdf)](https://files.diariodarepublica.pt/1s/2001/07/159b00/42024221.pdf)](https://files.diariodarepublica.pt/1s/2001/07/159b00/42024221.pdf)
 
 ## ANEXO N.º 14 — Curso tecnológico de Multimédia
 
@@ -293,7 +302,7 @@ Especificações: Animação e Multimédia; Design Multimédia
 
 Plano de estudos
 
-[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2001/07/159b00/42024221.pdf)
+[[[[[[[[[[[[[[[[[[[[[[[[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2001/07/159b00/42024221.pdf)](https://files.diariodarepublica.pt/1s/2001/07/159b00/42024221.pdf)](https://files.diariodarepublica.pt/1s/2001/07/159b00/42024221.pdf)](https://files.diariodarepublica.pt/1s/2001/07/159b00/42024221.pdf)](https://files.diariodarepublica.pt/1s/2001/07/159b00/42024221.pdf)](https://files.diariodarepublica.pt/1s/2001/07/159b00/42024221.pdf)](https://files.diariodarepublica.pt/1s/2001/07/159b00/42024221.pdf)](https://files.diariodarepublica.pt/1s/2001/07/159b00/42024221.pdf)](https://files.diariodarepublica.pt/1s/2001/07/159b00/42024221.pdf)](https://files.diariodarepublica.pt/1s/2001/07/159b00/42024221.pdf)](https://files.diariodarepublica.pt/1s/2001/07/159b00/42024221.pdf)](https://files.diariodarepublica.pt/1s/2001/07/159b00/42024221.pdf)](https://files.diariodarepublica.pt/1s/2001/07/159b00/42024221.pdf)](https://files.diariodarepublica.pt/1s/2001/07/159b00/42024221.pdf)](https://files.diariodarepublica.pt/1s/2001/07/159b00/42024221.pdf)](https://files.diariodarepublica.pt/1s/2001/07/159b00/42024221.pdf)](https://files.diariodarepublica.pt/1s/2001/07/159b00/42024221.pdf)](https://files.diariodarepublica.pt/1s/2001/07/159b00/42024221.pdf)](https://files.diariodarepublica.pt/1s/2001/07/159b00/42024221.pdf)](https://files.diariodarepublica.pt/1s/2001/07/159b00/42024221.pdf)](https://files.diariodarepublica.pt/1s/2001/07/159b00/42024221.pdf)](https://files.diariodarepublica.pt/1s/2001/07/159b00/42024221.pdf)](https://files.diariodarepublica.pt/1s/2001/07/159b00/42024221.pdf)](https://files.diariodarepublica.pt/1s/2001/07/159b00/42024221.pdf)
 
 ## ANEXO N.º 15 — Curso tecnológico de Produção Audiovisual
 
@@ -301,7 +310,7 @@ Especificações: Fotografia; Som; Vídeo
 
 Plano de estudos
 
-[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2001/07/159b00/42024221.pdf)
+[[[[[[[[[[[[[[[[[[[[[[[[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2001/07/159b00/42024221.pdf)](https://files.diariodarepublica.pt/1s/2001/07/159b00/42024221.pdf)](https://files.diariodarepublica.pt/1s/2001/07/159b00/42024221.pdf)](https://files.diariodarepublica.pt/1s/2001/07/159b00/42024221.pdf)](https://files.diariodarepublica.pt/1s/2001/07/159b00/42024221.pdf)](https://files.diariodarepublica.pt/1s/2001/07/159b00/42024221.pdf)](https://files.diariodarepublica.pt/1s/2001/07/159b00/42024221.pdf)](https://files.diariodarepublica.pt/1s/2001/07/159b00/42024221.pdf)](https://files.diariodarepublica.pt/1s/2001/07/159b00/42024221.pdf)](https://files.diariodarepublica.pt/1s/2001/07/159b00/42024221.pdf)](https://files.diariodarepublica.pt/1s/2001/07/159b00/42024221.pdf)](https://files.diariodarepublica.pt/1s/2001/07/159b00/42024221.pdf)](https://files.diariodarepublica.pt/1s/2001/07/159b00/42024221.pdf)](https://files.diariodarepublica.pt/1s/2001/07/159b00/42024221.pdf)](https://files.diariodarepublica.pt/1s/2001/07/159b00/42024221.pdf)](https://files.diariodarepublica.pt/1s/2001/07/159b00/42024221.pdf)](https://files.diariodarepublica.pt/1s/2001/07/159b00/42024221.pdf)](https://files.diariodarepublica.pt/1s/2001/07/159b00/42024221.pdf)](https://files.diariodarepublica.pt/1s/2001/07/159b00/42024221.pdf)](https://files.diariodarepublica.pt/1s/2001/07/159b00/42024221.pdf)](https://files.diariodarepublica.pt/1s/2001/07/159b00/42024221.pdf)](https://files.diariodarepublica.pt/1s/2001/07/159b00/42024221.pdf)](https://files.diariodarepublica.pt/1s/2001/07/159b00/42024221.pdf)](https://files.diariodarepublica.pt/1s/2001/07/159b00/42024221.pdf)
 
 ## ANEXO N.º 16 — Curso tecnológico de Administração
 
@@ -309,7 +318,7 @@ Especificações: Assistente de Direcção; Contabilidade e Gestão
 
 Plano de estudos
 
-[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2001/07/159b00/42024221.pdf)
+[[[[[[[[[[[[[[[[[[[[[[[[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2001/07/159b00/42024221.pdf)](https://files.diariodarepublica.pt/1s/2001/07/159b00/42024221.pdf)](https://files.diariodarepublica.pt/1s/2001/07/159b00/42024221.pdf)](https://files.diariodarepublica.pt/1s/2001/07/159b00/42024221.pdf)](https://files.diariodarepublica.pt/1s/2001/07/159b00/42024221.pdf)](https://files.diariodarepublica.pt/1s/2001/07/159b00/42024221.pdf)](https://files.diariodarepublica.pt/1s/2001/07/159b00/42024221.pdf)](https://files.diariodarepublica.pt/1s/2001/07/159b00/42024221.pdf)](https://files.diariodarepublica.pt/1s/2001/07/159b00/42024221.pdf)](https://files.diariodarepublica.pt/1s/2001/07/159b00/42024221.pdf)](https://files.diariodarepublica.pt/1s/2001/07/159b00/42024221.pdf)](https://files.diariodarepublica.pt/1s/2001/07/159b00/42024221.pdf)](https://files.diariodarepublica.pt/1s/2001/07/159b00/42024221.pdf)](https://files.diariodarepublica.pt/1s/2001/07/159b00/42024221.pdf)](https://files.diariodarepublica.pt/1s/2001/07/159b00/42024221.pdf)](https://files.diariodarepublica.pt/1s/2001/07/159b00/42024221.pdf)](https://files.diariodarepublica.pt/1s/2001/07/159b00/42024221.pdf)](https://files.diariodarepublica.pt/1s/2001/07/159b00/42024221.pdf)](https://files.diariodarepublica.pt/1s/2001/07/159b00/42024221.pdf)](https://files.diariodarepublica.pt/1s/2001/07/159b00/42024221.pdf)](https://files.diariodarepublica.pt/1s/2001/07/159b00/42024221.pdf)](https://files.diariodarepublica.pt/1s/2001/07/159b00/42024221.pdf)](https://files.diariodarepublica.pt/1s/2001/07/159b00/42024221.pdf)](https://files.diariodarepublica.pt/1s/2001/07/159b00/42024221.pdf)
 
 ## ANEXO N.º 17 — Curso tecnológico de Técnicas Comerciais
 
@@ -317,7 +326,7 @@ Especificações: Distribuição; Marketing
 
 Plano de estudos
 
-[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2001/07/159b00/42024221.pdf)
+[[[[[[[[[[[[[[[[[[[[[[[[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2001/07/159b00/42024221.pdf)](https://files.diariodarepublica.pt/1s/2001/07/159b00/42024221.pdf)](https://files.diariodarepublica.pt/1s/2001/07/159b00/42024221.pdf)](https://files.diariodarepublica.pt/1s/2001/07/159b00/42024221.pdf)](https://files.diariodarepublica.pt/1s/2001/07/159b00/42024221.pdf)](https://files.diariodarepublica.pt/1s/2001/07/159b00/42024221.pdf)](https://files.diariodarepublica.pt/1s/2001/07/159b00/42024221.pdf)](https://files.diariodarepublica.pt/1s/2001/07/159b00/42024221.pdf)](https://files.diariodarepublica.pt/1s/2001/07/159b00/42024221.pdf)](https://files.diariodarepublica.pt/1s/2001/07/159b00/42024221.pdf)](https://files.diariodarepublica.pt/1s/2001/07/159b00/42024221.pdf)](https://files.diariodarepublica.pt/1s/2001/07/159b00/42024221.pdf)](https://files.diariodarepublica.pt/1s/2001/07/159b00/42024221.pdf)](https://files.diariodarepublica.pt/1s/2001/07/159b00/42024221.pdf)](https://files.diariodarepublica.pt/1s/2001/07/159b00/42024221.pdf)](https://files.diariodarepublica.pt/1s/2001/07/159b00/42024221.pdf)](https://files.diariodarepublica.pt/1s/2001/07/159b00/42024221.pdf)](https://files.diariodarepublica.pt/1s/2001/07/159b00/42024221.pdf)](https://files.diariodarepublica.pt/1s/2001/07/159b00/42024221.pdf)](https://files.diariodarepublica.pt/1s/2001/07/159b00/42024221.pdf)](https://files.diariodarepublica.pt/1s/2001/07/159b00/42024221.pdf)](https://files.diariodarepublica.pt/1s/2001/07/159b00/42024221.pdf)](https://files.diariodarepublica.pt/1s/2001/07/159b00/42024221.pdf)](https://files.diariodarepublica.pt/1s/2001/07/159b00/42024221.pdf)
 
 ## ANEXO N.º 18 — Curso tecnológico de Acção Social
 
@@ -325,7 +334,7 @@ Especificações: Animação Sociocultural; Apoio Social
 
 Plano de estudos
 
-[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2001/07/159b00/42024221.pdf)
+[[[[[[[[[[[[[[[[[[[[[[[[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2001/07/159b00/42024221.pdf)](https://files.diariodarepublica.pt/1s/2001/07/159b00/42024221.pdf)](https://files.diariodarepublica.pt/1s/2001/07/159b00/42024221.pdf)](https://files.diariodarepublica.pt/1s/2001/07/159b00/42024221.pdf)](https://files.diariodarepublica.pt/1s/2001/07/159b00/42024221.pdf)](https://files.diariodarepublica.pt/1s/2001/07/159b00/42024221.pdf)](https://files.diariodarepublica.pt/1s/2001/07/159b00/42024221.pdf)](https://files.diariodarepublica.pt/1s/2001/07/159b00/42024221.pdf)](https://files.diariodarepublica.pt/1s/2001/07/159b00/42024221.pdf)](https://files.diariodarepublica.pt/1s/2001/07/159b00/42024221.pdf)](https://files.diariodarepublica.pt/1s/2001/07/159b00/42024221.pdf)](https://files.diariodarepublica.pt/1s/2001/07/159b00/42024221.pdf)](https://files.diariodarepublica.pt/1s/2001/07/159b00/42024221.pdf)](https://files.diariodarepublica.pt/1s/2001/07/159b00/42024221.pdf)](https://files.diariodarepublica.pt/1s/2001/07/159b00/42024221.pdf)](https://files.diariodarepublica.pt/1s/2001/07/159b00/42024221.pdf)](https://files.diariodarepublica.pt/1s/2001/07/159b00/42024221.pdf)](https://files.diariodarepublica.pt/1s/2001/07/159b00/42024221.pdf)](https://files.diariodarepublica.pt/1s/2001/07/159b00/42024221.pdf)](https://files.diariodarepublica.pt/1s/2001/07/159b00/42024221.pdf)](https://files.diariodarepublica.pt/1s/2001/07/159b00/42024221.pdf)](https://files.diariodarepublica.pt/1s/2001/07/159b00/42024221.pdf)](https://files.diariodarepublica.pt/1s/2001/07/159b00/42024221.pdf)](https://files.diariodarepublica.pt/1s/2001/07/159b00/42024221.pdf)
 
 ## ANEXO N.º 19 — Curso tecnológico de Documentação
 
@@ -333,7 +342,7 @@ Especificações: Arquivos; Biblioteca e Serviços de Documentação
 
 Plano de estudos
 
-[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2001/07/159b00/42024221.pdf)
+[[[[[[[[[[[[[[[[[[[[[[[[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2001/07/159b00/42024221.pdf)](https://files.diariodarepublica.pt/1s/2001/07/159b00/42024221.pdf)](https://files.diariodarepublica.pt/1s/2001/07/159b00/42024221.pdf)](https://files.diariodarepublica.pt/1s/2001/07/159b00/42024221.pdf)](https://files.diariodarepublica.pt/1s/2001/07/159b00/42024221.pdf)](https://files.diariodarepublica.pt/1s/2001/07/159b00/42024221.pdf)](https://files.diariodarepublica.pt/1s/2001/07/159b00/42024221.pdf)](https://files.diariodarepublica.pt/1s/2001/07/159b00/42024221.pdf)](https://files.diariodarepublica.pt/1s/2001/07/159b00/42024221.pdf)](https://files.diariodarepublica.pt/1s/2001/07/159b00/42024221.pdf)](https://files.diariodarepublica.pt/1s/2001/07/159b00/42024221.pdf)](https://files.diariodarepublica.pt/1s/2001/07/159b00/42024221.pdf)](https://files.diariodarepublica.pt/1s/2001/07/159b00/42024221.pdf)](https://files.diariodarepublica.pt/1s/2001/07/159b00/42024221.pdf)](https://files.diariodarepublica.pt/1s/2001/07/159b00/42024221.pdf)](https://files.diariodarepublica.pt/1s/2001/07/159b00/42024221.pdf)](https://files.diariodarepublica.pt/1s/2001/07/159b00/42024221.pdf)](https://files.diariodarepublica.pt/1s/2001/07/159b00/42024221.pdf)](https://files.diariodarepublica.pt/1s/2001/07/159b00/42024221.pdf)](https://files.diariodarepublica.pt/1s/2001/07/159b00/42024221.pdf)](https://files.diariodarepublica.pt/1s/2001/07/159b00/42024221.pdf)](https://files.diariodarepublica.pt/1s/2001/07/159b00/42024221.pdf)](https://files.diariodarepublica.pt/1s/2001/07/159b00/42024221.pdf)](https://files.diariodarepublica.pt/1s/2001/07/159b00/42024221.pdf)
 
 ## ANEXO N.º 20 — Curso tecnológico de Turismo
 
@@ -341,7 +350,7 @@ Especificações: Agências de Viagens e Transportes; Informação e Animação 
 
 Plano de estudos
 
-[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2001/07/159b00/42024221.pdf)
+[[[[[[[[[[[[[[[[[[[[[[[[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2001/07/159b00/42024221.pdf)](https://files.diariodarepublica.pt/1s/2001/07/159b00/42024221.pdf)](https://files.diariodarepublica.pt/1s/2001/07/159b00/42024221.pdf)](https://files.diariodarepublica.pt/1s/2001/07/159b00/42024221.pdf)](https://files.diariodarepublica.pt/1s/2001/07/159b00/42024221.pdf)](https://files.diariodarepublica.pt/1s/2001/07/159b00/42024221.pdf)](https://files.diariodarepublica.pt/1s/2001/07/159b00/42024221.pdf)](https://files.diariodarepublica.pt/1s/2001/07/159b00/42024221.pdf)](https://files.diariodarepublica.pt/1s/2001/07/159b00/42024221.pdf)](https://files.diariodarepublica.pt/1s/2001/07/159b00/42024221.pdf)](https://files.diariodarepublica.pt/1s/2001/07/159b00/42024221.pdf)](https://files.diariodarepublica.pt/1s/2001/07/159b00/42024221.pdf)](https://files.diariodarepublica.pt/1s/2001/07/159b00/42024221.pdf)](https://files.diariodarepublica.pt/1s/2001/07/159b00/42024221.pdf)](https://files.diariodarepublica.pt/1s/2001/07/159b00/42024221.pdf)](https://files.diariodarepublica.pt/1s/2001/07/159b00/42024221.pdf)](https://files.diariodarepublica.pt/1s/2001/07/159b00/42024221.pdf)](https://files.diariodarepublica.pt/1s/2001/07/159b00/42024221.pdf)](https://files.diariodarepublica.pt/1s/2001/07/159b00/42024221.pdf)](https://files.diariodarepublica.pt/1s/2001/07/159b00/42024221.pdf)](https://files.diariodarepublica.pt/1s/2001/07/159b00/42024221.pdf)](https://files.diariodarepublica.pt/1s/2001/07/159b00/42024221.pdf)](https://files.diariodarepublica.pt/1s/2001/07/159b00/42024221.pdf)](https://files.diariodarepublica.pt/1s/2001/07/159b00/42024221.pdf)
 
 ## ANEXO N.º 21 — Curso tecnológico de Serviços Jurídicos
 
@@ -349,7 +358,7 @@ Especificações: Contencioso e Serviços Jurídicos; Serviços Judiciais
 
 Plano de estudos
 
-[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2001/07/159b00/42024221.pdf)
+[[[[[[[[[[[[[[[[[[[[[[[[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2001/07/159b00/42024221.pdf)](https://files.diariodarepublica.pt/1s/2001/07/159b00/42024221.pdf)](https://files.diariodarepublica.pt/1s/2001/07/159b00/42024221.pdf)](https://files.diariodarepublica.pt/1s/2001/07/159b00/42024221.pdf)](https://files.diariodarepublica.pt/1s/2001/07/159b00/42024221.pdf)](https://files.diariodarepublica.pt/1s/2001/07/159b00/42024221.pdf)](https://files.diariodarepublica.pt/1s/2001/07/159b00/42024221.pdf)](https://files.diariodarepublica.pt/1s/2001/07/159b00/42024221.pdf)](https://files.diariodarepublica.pt/1s/2001/07/159b00/42024221.pdf)](https://files.diariodarepublica.pt/1s/2001/07/159b00/42024221.pdf)](https://files.diariodarepublica.pt/1s/2001/07/159b00/42024221.pdf)](https://files.diariodarepublica.pt/1s/2001/07/159b00/42024221.pdf)](https://files.diariodarepublica.pt/1s/2001/07/159b00/42024221.pdf)](https://files.diariodarepublica.pt/1s/2001/07/159b00/42024221.pdf)](https://files.diariodarepublica.pt/1s/2001/07/159b00/42024221.pdf)](https://files.diariodarepublica.pt/1s/2001/07/159b00/42024221.pdf)](https://files.diariodarepublica.pt/1s/2001/07/159b00/42024221.pdf)](https://files.diariodarepublica.pt/1s/2001/07/159b00/42024221.pdf)](https://files.diariodarepublica.pt/1s/2001/07/159b00/42024221.pdf)](https://files.diariodarepublica.pt/1s/2001/07/159b00/42024221.pdf)](https://files.diariodarepublica.pt/1s/2001/07/159b00/42024221.pdf)](https://files.diariodarepublica.pt/1s/2001/07/159b00/42024221.pdf)](https://files.diariodarepublica.pt/1s/2001/07/159b00/42024221.pdf)](https://files.diariodarepublica.pt/1s/2001/07/159b00/42024221.pdf)
 
 ## ANEXO N.º 22 — Curso tecnológico de Desporto
 
@@ -357,7 +366,7 @@ Especificações: Dinamização Desportiva; Organização Desportiva
 
 Plano de estudos
 
-[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2001/07/159b00/42024221.pdf)
+[[[[[[[[[[[[[[[[[[[[[[[[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2001/07/159b00/42024221.pdf)](https://files.diariodarepublica.pt/1s/2001/07/159b00/42024221.pdf)](https://files.diariodarepublica.pt/1s/2001/07/159b00/42024221.pdf)](https://files.diariodarepublica.pt/1s/2001/07/159b00/42024221.pdf)](https://files.diariodarepublica.pt/1s/2001/07/159b00/42024221.pdf)](https://files.diariodarepublica.pt/1s/2001/07/159b00/42024221.pdf)](https://files.diariodarepublica.pt/1s/2001/07/159b00/42024221.pdf)](https://files.diariodarepublica.pt/1s/2001/07/159b00/42024221.pdf)](https://files.diariodarepublica.pt/1s/2001/07/159b00/42024221.pdf)](https://files.diariodarepublica.pt/1s/2001/07/159b00/42024221.pdf)](https://files.diariodarepublica.pt/1s/2001/07/159b00/42024221.pdf)](https://files.diariodarepublica.pt/1s/2001/07/159b00/42024221.pdf)](https://files.diariodarepublica.pt/1s/2001/07/159b00/42024221.pdf)](https://files.diariodarepublica.pt/1s/2001/07/159b00/42024221.pdf)](https://files.diariodarepublica.pt/1s/2001/07/159b00/42024221.pdf)](https://files.diariodarepublica.pt/1s/2001/07/159b00/42024221.pdf)](https://files.diariodarepublica.pt/1s/2001/07/159b00/42024221.pdf)](https://files.diariodarepublica.pt/1s/2001/07/159b00/42024221.pdf)](https://files.diariodarepublica.pt/1s/2001/07/159b00/42024221.pdf)](https://files.diariodarepublica.pt/1s/2001/07/159b00/42024221.pdf)](https://files.diariodarepublica.pt/1s/2001/07/159b00/42024221.pdf)](https://files.diariodarepublica.pt/1s/2001/07/159b00/42024221.pdf)](https://files.diariodarepublica.pt/1s/2001/07/159b00/42024221.pdf)](https://files.diariodarepublica.pt/1s/2001/07/159b00/42024221.pdf)
 
 ## ANEXO N.º 23 — Curso tecnológico de Ordenamento do Território
 
@@ -365,7 +374,7 @@ Especificações: Gestão Ambiental; Sistemas de Informação Geográfica
 
 Plano de estudos
 
-[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2001/07/159b00/42024221.pdf)
+[[[[[[[[[[[[[[[[[[[[[[[[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2001/07/159b00/42024221.pdf)](https://files.diariodarepublica.pt/1s/2001/07/159b00/42024221.pdf)](https://files.diariodarepublica.pt/1s/2001/07/159b00/42024221.pdf)](https://files.diariodarepublica.pt/1s/2001/07/159b00/42024221.pdf)](https://files.diariodarepublica.pt/1s/2001/07/159b00/42024221.pdf)](https://files.diariodarepublica.pt/1s/2001/07/159b00/42024221.pdf)](https://files.diariodarepublica.pt/1s/2001/07/159b00/42024221.pdf)](https://files.diariodarepublica.pt/1s/2001/07/159b00/42024221.pdf)](https://files.diariodarepublica.pt/1s/2001/07/159b00/42024221.pdf)](https://files.diariodarepublica.pt/1s/2001/07/159b00/42024221.pdf)](https://files.diariodarepublica.pt/1s/2001/07/159b00/42024221.pdf)](https://files.diariodarepublica.pt/1s/2001/07/159b00/42024221.pdf)](https://files.diariodarepublica.pt/1s/2001/07/159b00/42024221.pdf)](https://files.diariodarepublica.pt/1s/2001/07/159b00/42024221.pdf)](https://files.diariodarepublica.pt/1s/2001/07/159b00/42024221.pdf)](https://files.diariodarepublica.pt/1s/2001/07/159b00/42024221.pdf)](https://files.diariodarepublica.pt/1s/2001/07/159b00/42024221.pdf)](https://files.diariodarepublica.pt/1s/2001/07/159b00/42024221.pdf)](https://files.diariodarepublica.pt/1s/2001/07/159b00/42024221.pdf)](https://files.diariodarepublica.pt/1s/2001/07/159b00/42024221.pdf)](https://files.diariodarepublica.pt/1s/2001/07/159b00/42024221.pdf)](https://files.diariodarepublica.pt/1s/2001/07/159b00/42024221.pdf)](https://files.diariodarepublica.pt/1s/2001/07/159b00/42024221.pdf)](https://files.diariodarepublica.pt/1s/2001/07/159b00/42024221.pdf)
 
 ## ANEXO N.º 24 — Curso tecnológico de Ambiente e Conservação da Natureza
 
@@ -373,4 +382,4 @@ Especificações: Ambiente e Espaços Naturais; Educação Ambiental; Turismo e 
 
 Plano de estudos
 
-[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2001/07/159b00/42024221.pdf)
+[[[[[[[[[[[[[[[[[[[[[[[[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2001/07/159b00/42024221.pdf)](https://files.diariodarepublica.pt/1s/2001/07/159b00/42024221.pdf)](https://files.diariodarepublica.pt/1s/2001/07/159b00/42024221.pdf)](https://files.diariodarepublica.pt/1s/2001/07/159b00/42024221.pdf)](https://files.diariodarepublica.pt/1s/2001/07/159b00/42024221.pdf)](https://files.diariodarepublica.pt/1s/2001/07/159b00/42024221.pdf)](https://files.diariodarepublica.pt/1s/2001/07/159b00/42024221.pdf)](https://files.diariodarepublica.pt/1s/2001/07/159b00/42024221.pdf)](https://files.diariodarepublica.pt/1s/2001/07/159b00/42024221.pdf)](https://files.diariodarepublica.pt/1s/2001/07/159b00/42024221.pdf)](https://files.diariodarepublica.pt/1s/2001/07/159b00/42024221.pdf)](https://files.diariodarepublica.pt/1s/2001/07/159b00/42024221.pdf)](https://files.diariodarepublica.pt/1s/2001/07/159b00/42024221.pdf)](https://files.diariodarepublica.pt/1s/2001/07/159b00/42024221.pdf)](https://files.diariodarepublica.pt/1s/2001/07/159b00/42024221.pdf)](https://files.diariodarepublica.pt/1s/2001/07/159b00/42024221.pdf)](https://files.diariodarepublica.pt/1s/2001/07/159b00/42024221.pdf)](https://files.diariodarepublica.pt/1s/2001/07/159b00/42024221.pdf)](https://files.diariodarepublica.pt/1s/2001/07/159b00/42024221.pdf)](https://files.diariodarepublica.pt/1s/2001/07/159b00/42024221.pdf)](https://files.diariodarepublica.pt/1s/2001/07/159b00/42024221.pdf)](https://files.diariodarepublica.pt/1s/2001/07/159b00/42024221.pdf)](https://files.diariodarepublica.pt/1s/2001/07/159b00/42024221.pdf)](https://files.diariodarepublica.pt/1s/2001/07/159b00/42024221.pdf)

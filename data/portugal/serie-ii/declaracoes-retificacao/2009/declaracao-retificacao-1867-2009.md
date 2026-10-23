@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/2s/2009/08/150000000/3139231392.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -47,18 +47,18 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/declaracao-rectificacao/1867-2009-3431701
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2009-08-05T00:00:00Z'
+  retrieved_at: '2026-10-23T14:03:38Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: d4a0fb6b844696892a61af3051c6fff3053864f46851e9a9b170e6eadc13eb29
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 38f16606d1a33bec31ba7dc98c6f394524ba8a0f51ac6ce93d65d7669f1a9b91
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T14:03:38Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -70,13 +70,13 @@ relationships: []
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T14:03:38Z'
   warnings: []
   errors: []
 ---
@@ -90,3 +90,5 @@ Rectificação do aviso n.º 12545/2009, publicado no Diário da República, 2.�
 Faz-se público que no ponto 10.1, onde se lê "A segunda parte é constituída pela prova de conhecimentos específicos (Tema 2, 3 e 4), deve ler-se: A segunda parte é constituída pela prova de conhecimentos específicos (Tema 2)
 
 23 de Julho de 2009. - Pelo Presidente da Câmara, a Directora do Departamento de Gestão de Recursos Humanos, Célia Simões.
+
+302098502

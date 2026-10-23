@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/2s/2009/12/249000000/5234852349.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -46,18 +46,18 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/declaracao-rectificacao/3090-2009-3441735
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2009-12-28T00:00:00Z'
+  retrieved_at: '2026-10-23T14:10:51Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: cc597b579c2d842eba791c203f3cc2dd443459c8b6021777587ce12e9dd4e7ac
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: f799d385898fec600fc83f61bc445f788ff22a3232e7b1644bdcf222e1a27853
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T14:10:51Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -65,22 +65,30 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects: []
-relationships: []
+relationships:
+- type: cites
+  target: pt:dre:456200:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:671387:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T14:10:51Z'
   warnings: []
   errors: []
 ---
 
-# Declaração de Rectificação n.º 3090/2009
+# Declaração de rectificação n.º 3090/2009
 
 Por ter sido publicado com inexactidão o despacho n.º 19908/2009 no Diário da República, 2.ª série, n.º 169, de 1 de Setembro de 2009, que autoriza o funcionamento do ciclo de estudos conducente ao grau de mestre na especialidade de Enfermagem Comunitária na Escola Superior de Enfermagem de Coimbra, republicam-se a estrutura e o plano de estudos, nos termos do anexo à presente declaração de rectificação.
 
@@ -104,7 +112,7 @@ Por ter sido publicado com inexactidão o despacho n.º 19908/2009 no Diário da
 
 8 - Áreas científicas e créditos que devem ser reunidos para a obtenção do grau ou diploma:
 
-[([ver documento original](https://files.diariodarepublica.pt/2s/2009/12/249000000/5234852349.pdf))](https://files.diariodarepublica.pt/2s/2009/12/249000000/5234852349.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/2s/2009/12/249000000/5234852349.pdf)
 
 9 - Plano de estudos:
 
@@ -118,22 +126,24 @@ Grau: Mestrado
 
 1.º ano/1.º semestre
 
-[([ver documento original](https://files.diariodarepublica.pt/2s/2009/12/249000000/5234852349.pdf))](https://files.diariodarepublica.pt/2s/2009/12/249000000/5234852349.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/2s/2009/12/249000000/5234852349.pdf)
 
 1.º ano/2.º semestre
 
-[([ver documento original](https://files.diariodarepublica.pt/2s/2009/12/249000000/5234852349.pdf))](https://files.diariodarepublica.pt/2s/2009/12/249000000/5234852349.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/2s/2009/12/249000000/5234852349.pdf)
 
 2.º ano/3.º semestre
 
-[([ver documento original](https://files.diariodarepublica.pt/2s/2009/12/249000000/5234852349.pdf))](https://files.diariodarepublica.pt/2s/2009/12/249000000/5234852349.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/2s/2009/12/249000000/5234852349.pdf)
 
 2.º ano/4.º semestre
 
-[([ver documento original](https://files.diariodarepublica.pt/2s/2009/12/249000000/5234852349.pdf))](https://files.diariodarepublica.pt/2s/2009/12/249000000/5234852349.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/2s/2009/12/249000000/5234852349.pdf)
 
 Notas
 
 O somatório dos Estágios I, II e III contemplam o estágio previsto no n.º 4 do artigo 18.º do [Decreto-Lei n.º 74/2006](https://diariodarepublica.pt/dr/detalhe/decreto-lei/74-2006-671387), de 24 de Março, alterado pelo [Decreto-Lei n.º 107/2008](https://diariodarepublica.pt/dr/detalhe/decreto-lei/107-2008-456200). Os estágios pressupõem a realização de um projecto e de um relatório de estágio.
 
 Os três primeiros semestres do curso correspondem ao desenvolvimento das competências actualmente necessárias à obtenção do título de enfermeiro especialista em enfermagem comunitária.
+
+202705516

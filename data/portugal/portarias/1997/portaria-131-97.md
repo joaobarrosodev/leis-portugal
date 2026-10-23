@@ -26,7 +26,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1997/02/045b00/08310833.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -48,18 +48,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/131/1997/02/22/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/131-1997-507633
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2002-03-12T00:00:00Z'
+  retrieved_at: '2026-10-23T14:00:43Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 4375b620926a92a891aad92f873ddb48557cd3364ad8b2049c9dcdea463b0071
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 23f00de56feb4bbfc3debf444a9b09b44a03db098b1d1c4b28613a3138cf5296
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T14:00:43Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -82,16 +82,49 @@ relationships:
   target: eli:http://data.dre.pt/eli/port/733/1991/07/31/p/dre
   label: null
   source: http://data.dre.pt/eli/port/733/1991/07/31/p/dre
+- type: cites
+  target: pt:dre:222418:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:228234:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:498083:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:547192:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:548999:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:571419:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:686433:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:265504:por
+  label: "Revogada pela PORT.249/2002.2002.03.12.ME, DR.IS-B [60]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/249-2002-265504
+  date: '2002-03-12'
 article_structure:
   article_count: 2
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T14:00:43Z'
   warnings: []
   errors: []
 ---
@@ -118,7 +151,7 @@ São revogadas as Portarias n.os [912/89](https://diariodarepublica.pt/dr/detalh
 
 Ministério da Educação.
 
-**Assinada em 6 de Fevereiro de 1997.**
+Assinada em 6 de Fevereiro de 1997.
 
 Pelo Ministro da Educação, Alfredo Jorge Silva, Secretário de Estado do Ensino Superior.
 
@@ -136,7 +169,7 @@ Faço saber que ... (ver nota c), filho de ... (ver nota d), natural de ... (ver
 
 Instituto Politécnico de Leiria, ... (ver nota l).
 
-**O Presidente, ... (ver nota m).**
+O Presidente, ... (ver nota m).
 
 O Administrador, ... (ver nota n).
 
@@ -180,7 +213,7 @@ Faço saber que ... (ver nota c), filho de ... (ver nota d), natural de ... (ver
 
 Instituto Politécnico de Leiria, ... (ver nota j).
 
-**O Presidente, ... (ver nota l).**
+O Presidente, ... (ver nota l).
 
 O Administrador, ... (ver nota m).
 
@@ -222,7 +255,7 @@ Faço saber que ... (ver nota c), filho de ... (ver nota d), natural de ... (ver
 
 Instituto Politécnico de Leiria, ... (ver nota m).
 
-**O Presidente, ... (ver nota n).**
+O Presidente, ... (ver nota n).
 
 O Administrador, ... (ver nota o).
 
@@ -268,7 +301,7 @@ Faço saber que ... (ver nota c), filho de ... (ver nota d), natural de ... (ver
 
 Instituto Politécnico de Leiria, ... (ver nota j).
 
-**O Presidente, ... (ver nota l).**
+O Presidente, ... (ver nota l).
 
 O Administrador, ... (ver nota m).
 
@@ -308,7 +341,7 @@ Faço saber que ... (ver nota c), filho de ... (ver nota d), natural de ... (ver
 
 Instituto Politécnico de Leiria, ... (ver nota l).
 
-**O Presidente, ... (ver nota m).**
+O Presidente, ... (ver nota m).
 
 O Administrador,... (ver nota n).
 

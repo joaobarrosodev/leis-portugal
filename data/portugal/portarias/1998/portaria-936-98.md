@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/936/1998/10/29/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/936-1998-228788
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1998-10-29T00:00:00Z'
+  retrieved_at: '2026-10-23T14:12:01Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 0eb1d5bf07553c953425d01bc58ac9b31e60c8d601959aa29a4c53642f9b2f14
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 210786f735dee6d59ee688b6b0dfc44c656f2e7f75900560f702b7a99a928ee3
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T14:12:01Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -65,26 +65,30 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Médico
 - Carreira Médica de Medicina Legal
 - Concurso de Habilitação
 - Medicina Legal
+- Médico
 - Regulamento
 relationships:
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/11/1998/01/24/p/dre
   label: null
   source: http://data.dre.pt/eli/dec-lei/11/1998/01/24/p/dre
+- type: cites
+  target: pt:dre:222631:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 8
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T14:12:01Z'
   warnings: []
   errors: []
 ---
@@ -109,7 +113,7 @@ Manda o Governo, pelo Ministro da Justiça, o seguinte:
 
 Ministério da Justiça.
 
-**Assinada em 8 de Outubro de 1998.**
+Assinada em 8 de Outubro de 1998.
 
 Pelo Ministro da Justiça, José Luís Lopes da Mota, Secretário de Estado da Justiça.
 

@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/128/1999/02/22/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/128-1999-165456
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1999-02-22T00:00:00Z'
+  retrieved_at: '2026-10-23T14:13:27Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 03fa314f375a4be624a4c0d7729dbd21a83bc7763e0226c1db183889f1689ad5
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 10e6b8867999dcd8e1412f5777bba2b1137b9c4893496e4828a6ec63125a84cc
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T14:13:27Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -68,8 +68,8 @@ reuse:
 subjects:
 - Comissão Consultiva de Mecanização Agrícola
 - Desenvolvimento Rural
-- Instituto de Hidráulica Engenharia Rural e Ambiente
 - Equipamento Agrícola
+- Instituto de Hidráulica Engenharia Rural e Ambiente
 relationships:
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/136/1997/05/31/p/dre
@@ -79,16 +79,24 @@ relationships:
   target: eli:http://data.dre.pt/eli/port/1446/1995/12/05/p/dre
   label: null
   source: http://data.dre.pt/eli/port/1446/1995/12/05/p/dre
+- type: cites
+  target: pt:dre:352172:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:633732:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T14:13:27Z'
   warnings: []
   errors: []
 ---
@@ -167,6 +175,6 @@ f) Técnicos de reconhecida competência na área da mecanização agrícola, at
 
 Ministérios das Finanças, da Economia, da Agricultura, do Desenvolvimento Rural e das Pescas, da Educação e da Ciência e da Tecnologia.
 
-**Assinada em 3 de Fevereiro de 1999.**
+Assinada em 3 de Fevereiro de 1999.
 
-**O Ministro das Finanças, António Luciano Pacheco de Sousa Franco. - O Ministro da Economia, Joaquim Augusto Nunes de Pina Moura. - O Ministro da Agricultura, do Desenvolvimento Rural e das Pescas, Luís Manuel Capoulas Santos. - O Ministro da Educação, Eduardo Carrega Marçal Grilo. - O Ministro da Ciência e da Tecnologia, José Mariano Rebelo Pires Gago.**
+O Ministro das Finanças, António Luciano Pacheco de Sousa Franco. - O Ministro da Economia, Joaquim Augusto Nunes de Pina Moura. - O Ministro da Agricultura, do Desenvolvimento Rural e das Pescas, Luís Manuel Capoulas Santos. - O Ministro da Educação, Eduardo Carrega Marçal Grilo. - O Ministro da Ciência e da Tecnologia, José Mariano Rebelo Pires Gago.

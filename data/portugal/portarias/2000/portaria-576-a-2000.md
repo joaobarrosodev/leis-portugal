@@ -19,7 +19,7 @@ publication:
   reference: Diário da República n.º 182/2000, 1º Suplemento, Série I-B de 2000-08-08
   number: '182'
   series: I
-  supplement: 1º Suplemento
+  supplement: null
   pages: 3838-(2) a 3838-(8)
   pdf_url: https://files.diariodarepublica.pt/1s/2000/08/182b01/00020008.pdf
 entry_into_force_dates: []
@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/576-a/2000/08/08/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/576-a-2000-395343
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2000-12-23T00:00:00Z'
+  retrieved_at: '2026-10-23T14:24:33Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 2cc0fbc214d48ea522b08c5f703c211d02030635d244c0f6cdceb7504c4c36cc
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: d0c2d4eb9accc5973d3503d9882b4bf8420139db5b33c314e8307999f91277d8
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T14:24:33Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -65,24 +65,29 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Sipac
-- Financiamento
-- Crédito Bonificado
+- Agricultor
+- Agricultura
 - Catástrofe
+- Crédito Bonificado
+- Financiamento
+- Fundo de Calamidades
+- Ifadap
 - JURO Bonificado
 - Juros
 - Linha de Crédito
 - Ministro da Agricultura do Desenvolvimento Rural e das Pescas
-- Agricultor
-- Agricultura
-- Ifadap
-- Fundo de Calamidades
+- Sipac
 - Situação de Calamidade
 relationships:
 - type: amended_by
   target: pt:dre:660753:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:660753:por
+  label: "Alterado o nº 1 do art. 5.º do anexo II, pela PORT.1209/2000.2000.12.23.MF DR.IS-B [295]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/1209-2000-660753
+  date: '2000-12-23'
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/20/1996/03/19/p/dre
   label: null
@@ -91,16 +96,28 @@ relationships:
   target: eli:http://data.dre.pt/eli/port/388/1999/05/27/p/dre
   label: null
   source: http://data.dre.pt/eli/port/388/1999/05/27/p/dre
+- type: cites
+  target: pt:dre:316922:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:535012:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:549393:por
+  label: null
+  source: null
 article_structure:
   article_count: 8
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T14:24:33Z'
   warnings: []
   errors: []
 ---

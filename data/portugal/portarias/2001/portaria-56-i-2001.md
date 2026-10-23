@@ -20,7 +20,7 @@ publication:
   reference: Diário da República n.º 24/2001, 2º Suplemento, Série I-B de 2001-01-29
   number: '24'
   series: I
-  supplement: 2º Suplemento
+  supplement: null
   pages: 472-(11) a 472-(12)
   pdf_url: https://files.diariodarepublica.pt/1s/2001/01/024b02/00110012.pdf
 entry_into_force_dates: []
@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/56-i/2001/01/29/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/56-i-2001-163810
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2013-08-02T00:00:00Z'
+  retrieved_at: '2026-10-23T14:33:04Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 269092487ccecb51ed4b8a70f9de053b1fb8b818687e80392acf0bfb710b6f3a
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: cd327fb83cf316f71a6587d6cb4fc341afa7e8dcc635bc6610671232e04b26fa
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T14:33:04Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,14 +67,14 @@ reuse:
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
 - Ajuda Comunitária
-- Financiamento
-- Pesca
 - Apoio ao Investimento
 - Aquicultura
+- Financiamento
+- Intervenção Operacional Pescas
+- Pesca
 - QCA III
 - Regime de Apoio
 - Regime de Apoio ao Desenvolvimento da Aquicultura
-- Intervenção Operacional Pescas
 - Regulamento
 - Regulamento CE
 relationships:
@@ -82,6 +82,32 @@ relationships:
   target: pt:dre:498528:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:661558:por
+  label: "Alterado o nº 2 do art. 9º do Regulamento do Regime de Apoio ao Desenvolvimento da Aquicultura aprovado pela Port\
+    \ 1083/2000 de 09-Nov, com a redacção do presente diploma, pela PORT.394/2006.24.04.2006.MADRP, DR.IS-B [80] de 24.04.2006\0\
+    \0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/394-2006-661558
+  date: '2006-04-24'
+- type: amended_by
+  target: pt:dre:552352:por
+  label: "Alterados os arts. 5º e 9º do Regulamento do Regime de Apoio ao Desenvolvimento da Aquicultura, anexo à Port 1083/2000\
+    \ de 09-Nov, na redacção do presente diploma, pela PORT.1413/2006.18.12.2006.MADRP, DR.IS [241] de 18.12.2006\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/1413-2006-552352
+  date: '2006-12-18'
+- type: amended_by
+  target: pt:dre:522644:por
+  label: "Alterado o art. 9º do Regulamento do Regime de Apoio ao Desenvolvimento da Aquicultura, anexo à Port 1083/2000 de\
+    \ 09-Nov, pela PORT.89/2007.19.01.2007.MADRP, DR.IS [14] de 19.01.2007\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/89-2007-522644
+  date: '2007-01-19'
+- type: amended_by
+  target: pt:dre:498528:por
+  label: "Dada nova redação ao art. 9º do Regulamento do Regime de Apoio ao Desenvolvimento da Aquicultura, aprovado pela\
+    \ Port 1083/2000 de 09-nov, alterado pelo presente diploma, pela PORT.244/2013.02.08.2013.MAMAOT, DR.IS [148] de 02.08.2013\0\
+    \0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/244-2013-498528
+  date: '2013-08-02'
 - type: cites
   target: celex:31999R2792
   label: null
@@ -91,15 +117,15 @@ relationships:
   label: null
   source: http://data.dre.pt/eli/port/1083/2000/11/09/p/dre
 article_structure:
-  article_count: 3
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T14:33:04Z'
   warnings: []
   errors: []
 ---
@@ -124,7 +150,9 @@ Objecto
 
 O presente Regulamento estabelece o regime de apoio ao desenvolvimento da aquicultura, nos termos do Regulamento (CE) n.º [2792/99](http://data.europa.eu/eli/reg/1999/2792/oj?locale=pt), do Conselho, de 17 de Dezembro, e do previsto no Decreto-Lei n.º 224/2000, de 9 de Setembro, que define o MARE - Programa para o Desenvolvimento Sustentável do Sector da Pesca.
 
-###### Artigo 5.º — Condições específicas de acesso
+Artigo 5.º
+
+Condições específicas de acesso
 
 São condições específicas de acesso a este regime:
 
@@ -134,7 +162,9 @@ b) Estarem devidamente autorizadas, pela Direcção-Geral das Pescas e Aquicultu
 
 ...
 
-###### Artigo 8.º — Despesas não elegíveis
+Artigo 8.º
+
+Despesas não elegíveis
 
 Não são elegíveis para efeitos de concessão de apoio as seguintes despesas:
 
@@ -148,7 +178,9 @@ f) Bens cuja amortização, permitida pela legislação fiscal, é igual ou infe
 
 ...
 
-###### Artigo 9.º — Natureza e montante dos apoios
+Artigo 9.º
+
+Natureza e montante dos apoios
 
 ...
 
@@ -170,4 +202,4 @@ Disposições transitórias
 
 3.º O disposto no presente diploma aplica-se às candidaturas já reformuladas ou apresentadas ao abrigo da Portaria n.º 1083/2000, de 9 de Novembro.
 
-**O Ministro da Agricultura, do Desenvolvimento Rural e das Pescas, Luís Manuel Capoulas Santos, em 26 de Janeiro de 2001.**
+O Ministro da Agricultura, do Desenvolvimento Rural e das Pescas, Luís Manuel Capoulas Santos, em 26 de Janeiro de 2001.

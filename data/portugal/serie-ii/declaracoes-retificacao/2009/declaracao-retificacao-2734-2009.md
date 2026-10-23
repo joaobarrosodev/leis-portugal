@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/2s/2009/11/216000000/4536845368.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -47,18 +47,18 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/declaracao-rectificacao/2734-2009-1488613
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2009-11-06T00:00:00Z'
+  retrieved_at: '2026-10-23T14:08:48Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 161444ad2004e90f225d34b0273fcbc90cc7bbe0e7addae7ac50c80cd74d050a
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: c9ca45cce2fd712394f841ef1b5a2f3a704f6f2c73672dcd5d87611f10249c45
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T14:08:48Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -70,13 +70,13 @@ relationships: []
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T14:08:48Z'
   warnings: []
   errors: []
 ---
@@ -90,3 +90,5 @@ Por ter saído com inexactidão o despacho (extracto) n.º 23 347/2009, publicad
 Assim, onde se lê «delega no Subdirector, José Carlos Cleto Marcelino, a competência para efectuar avaliação de desempenho dos Técnicos Superiores e Assistentes Operacionais em funções no Agrupamento» deve ler-se «delega no subdirector, José Carlos Cleto Marcelino, a competência para efectuar a avaliação de desempenho dos técnicos superiores, chefe de serviços de administração escolar e assistentes operacionais, em funções no Agrupamento».
 
 30 de Outubro de 2009. - A Directora, Fernanda Pereira do Aido Nunes Pinto.
+
+202531722

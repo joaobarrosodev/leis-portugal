@@ -21,7 +21,7 @@ publication:
   reference: Diário da República n.º 274/2000, 2º Suplemento, Série I-B de 2000-11-27
   number: '274'
   series: I
-  supplement: 2º Suplemento
+  supplement: null
   pages: 6730-(28) a 6730-(30)
   pdf_url: https://files.diariodarepublica.pt/1s/2000/11/274b02/00280030.pdf
 entry_into_force_dates: []
@@ -48,18 +48,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/1109-g/2000/11/27/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/1109-g-2000-554631
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2001-09-15T00:00:00Z'
+  retrieved_at: '2026-10-23T14:19:50Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: f46c137f0de072f44fbf7d721a8d8ee78e8340f6fe1faf3beb5f6620dea7d8d7
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: d7e00989a88187b47d7c819d5b46c63e87f63575531c3a04c4b0d73435acfa7d
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T14:19:50Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,21 +67,21 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Ajuda Comunitária
 - Agrupamento de Produtores
-- Financiamento
+- Ajuda Comunitária
+- Apoio ao Investimento
+- Baldio
 - Cooperativa Agrícola
 - Cooperativa de Produção
-- Apoio ao Investimento
-- Regulamento de Aplicação da Subacção Nº3.1-instalação de Organizações de Produtores Florestais
-- Ordenamento Florestal
 - Exploração Florestal
-- Baldio
+- Financiamento
+- Medida Agris
+- Ordenamento Florestal
+- Política Florestal
+- Programa AGRO
 - QCA III
 - Regulamento
-- Programa AGRO
-- Medida Agris
-- Política Florestal
+- Regulamento de Aplicação da Subacção Nº3.1-instalação de Organizações de Produtores Florestais
 - Sector Florestal
 - Subsídio não Reembolsável
 relationships:
@@ -89,6 +89,21 @@ relationships:
   target: pt:dre:650304:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:481479:por
+  label: "Alteradas as als. a) e b) do nº 1 do art. 4º, o nº 1 do art. 5º, a al. d) do nº 2 do art. 6º, o art. 8º e o nº 4\
+    \ do art. 16, e revogado o nº 2 do art. 11º, o nº 2 do art. 13º e o art. 17º, todos do Regulamento de Aplicação da Subacção\
+    \ nº 3.1 \"Instalação de Organizações de Produtores Florestais, aprovado pelo presente diploma (com a redacção dada pela\
+    \ Port 1103-B/2001 de 15-Set), pela PORT.1195/2003.13.10.2003.MADRP, DR.IS-B [237] de 13.10.2003, que o republica com\
+    \ as alterações por ela introduzidas\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/1195-2003-481479
+  date: '2000-11-27'
+- type: amended_by
+  target: pt:dre:650304:por
+  label: "Alterados os arts. 1º, 4º, 5º, 6º, 8º, 11º, 16º e 17º, pela PORT.1103-B/2001.2001.09.15.MPLA, DR.IS-B [215]2ºSupl\0\
+    \0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/1103-b-2001-650304
+  date: '2001-09-15'
 - type: cites
   target: celex:31999R1257
   label: null
@@ -96,13 +111,13 @@ relationships:
 article_structure:
   article_count: 17
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T14:19:50Z'
   warnings: []
   errors: []
 ---
@@ -125,7 +140,7 @@ Manda o Governo, pelos Ministros do Planeamento e da Agricultura, do Desenvolvim
 
 Em 31 de Outubro de 2000.
 
-**A Ministra do Planeamento, Elisa Maria da Costa Guimarães Ferreira. - O Ministro da Agricultura, do Desenvolvimento Rural e das Pescas, Luís Manuel Capoulas Santos.**
+A Ministra do Planeamento, Elisa Maria da Costa Guimarães Ferreira. - O Ministro da Agricultura, do Desenvolvimento Rural e das Pescas, Luís Manuel Capoulas Santos.
 
 ## ANEXO
 

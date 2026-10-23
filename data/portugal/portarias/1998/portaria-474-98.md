@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1998/08/178b00/37633763.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/474/1998/08/04/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/474-1998-431209
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1999-10-27T00:00:00Z'
+  retrieved_at: '2026-10-23T14:09:15Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: a37cfa4d645c2602b142b7a50b8dd2ac27b7cdb26bd741f76520050aa37adeb6
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 5d4095985b0fd65254808ed5e2f3e106efed7094079f1382e76397c8dd10b9b8
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T14:09:15Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,26 +66,61 @@ reuse:
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
 - Cartório Privativo do Protesto de Letras
-- Serviços de Registo e Notariado
 - Emolumento do Notariado
 - Letras e Livranças
 - Notário
 - Oficial dos Registos e do Notariado
+- Serviços de Registo e Notariado
 relationships:
 - type: amended_by
   target: pt:dre:692208:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:222057:por
+  label: "Alterada a redacção do nº 2 pela PORT.1010/98.1998.12.04.MJ DR.IS-B [280]\0]\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/1010-1998-222057
+  date: '1998-12-04'
+- type: cites
+  target: pt:dre:157050:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:333164:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:573699:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:573703:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:681996:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:692206:por
+  label: "Revogada pela PORT.940/99.1999.10.27.MJ, DR.IS-B [251]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/940-1999-692206
+  date: '1999-10-27'
+- type: repealed_by
+  target: pt:dre:692208:por
+  label: "Revogada pela PORT.942/99.1999.10.27.MJ, DR.IS-B [251]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/942-1999-692208
+  date: '1999-10-27'
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T14:09:15Z'
   warnings: []
   errors: []
 ---
@@ -104,6 +139,6 @@ Manda o Governo, pelo Ministro da Justiça, ao abrigo do disposto no n.º 2 do a
 
 Ministério da Justiça.
 
-**Assinada em 14 de Julho de 1998.**
+Assinada em 14 de Julho de 1998.
 
-**O Ministro da Justiça, José Eduardo Vera Cruz Jardim.**
+O Ministro da Justiça, José Eduardo Vera Cruz Jardim.

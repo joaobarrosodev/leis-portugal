@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/2s/2009/04/064000000/1243212432.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -46,18 +46,18 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/declaracao-rectificacao/960-2009-1142900
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2009-04-01T00:00:00Z'
+  retrieved_at: '2026-10-23T14:14:47Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: ed008354e99ab9a1991d0e730ebf4f38d84e3b9f5262843e72ec8ea3b5cabc9b
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: b37860ccb4ada8acc4c44caa24d419a8cae71792052ad2dbb2a00a3638419d60
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T14:14:47Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -69,13 +69,13 @@ relationships: []
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T14:14:47Z'
   warnings: []
   errors: []
 ---
@@ -93,3 +93,5 @@ Por ter saído com inexactidão o aviso 5952/2009, publicado no Diário da Repú
 Assim, para cumprimento do estipulado na legislação vigente, o prazo de entrega das candidaturas será de 10 dias úteis, a contar do dia seguinte à publicação deste aviso rectificativo no Diário da República.
 
 25 de Março de 2009. - A Presidente do Conselho Geral Transitório, Maria Gabriela Monteiro de Figueiredo e Macedo.
+
+201592917

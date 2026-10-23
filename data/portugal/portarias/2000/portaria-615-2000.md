@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/615/2000/08/19/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/615-2000-324478
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2000-08-19T00:00:00Z'
+  retrieved_at: '2026-10-23T14:24:47Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 58fadd27f5a070ea42a745d28a6d04310964392fdf3dd563c9019703fc95b8a3
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 8174a2d40a1c2db8cf527ef8caefeeb269ad2629b9473146e239ed74a8b18a1f
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T14:24:47Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,9 +66,9 @@ reuse:
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
 - Oficial de Justiça
-- Tribunal Constitucional
 - Quadro de Pessoal
 - Secretaria Judicial
+- Tribunal Constitucional
 relationships:
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/545/1999/12/14/p/dre
@@ -78,16 +78,28 @@ relationships:
   target: eli:http://data.dre.pt/eli/port/424/1992/05/23/p/dre
   label: null
   source: http://data.dre.pt/eli/port/424/1992/05/23/p/dre
+- type: cites
+  target: pt:dre:482161:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:523403:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:633292:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T14:24:47Z'
   warnings: []
   errors: []
 ---
@@ -110,7 +122,7 @@ Manda o Governo, pelo Primeiro-Ministro e pelos Ministros das Finanças e da Jus
 
 Em 20 de Julho de 2000.
 
-**O Primeiro-Ministro, António Manuel de Oliveira Guterres. - O Ministro das Finanças, Joaquim Augusto Nunes Pina Moura. - O Ministro da Justiça, António Luís Santos Costa.**
+O Primeiro-Ministro, António Manuel de Oliveira Guterres. - O Ministro das Finanças, Joaquim Augusto Nunes Pina Moura. - O Ministro da Justiça, António Luís Santos Costa.
 
 ## ANEXO — Secretaria Judicial
 

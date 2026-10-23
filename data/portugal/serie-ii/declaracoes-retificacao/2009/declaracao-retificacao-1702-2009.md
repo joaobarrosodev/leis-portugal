@@ -26,7 +26,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/2s/2009/07/135000000/2797427974.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -48,18 +48,18 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/declaracao-rectificacao/1702-2009-2786784
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2009-07-15T00:00:00Z'
+  retrieved_at: '2026-10-23T14:02:43Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 66301126d60edaf1bac71ab0e027667c5f5220308d20b9804093534a081d054f
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: af4ee3556edb4d04c585de839eea3323a7a87cecc95582460026a298daef8e15
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T14:02:43Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -71,13 +71,13 @@ relationships: []
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T14:02:43Z'
   warnings: []
   errors: []
 ---
@@ -89,3 +89,5 @@ Declaração de rectificação n.º 1702/2009
 Por ter sido publicada com inexactidão a 1ª Vogal Suplente, do elenco do júri do concurso para um (1) lugar de Técnico Especialista de 1ª classe de Análises Clínicas e Saúde Pública da Carreira Técnica de Diagnóstico e Terapêutica, constante no n.º 13 do aviso de abertura de concurso n.º 7969/2009, publicado no Diário da República, 2.ª série, n.º 71 de 13 de Abril, rectifica-se que onde se lê" Maria Clarisse Riso Baptista Domingues Vinagre, Técnica Especialista de 1ª classe de Análises Clínicas e Saúde Pública da carreira de Diagnóstico e Terapêutica, do Hospital D. Estefânia;" deve ler-se "Maria Clara Tiago da Câmara Mirante, Técnica Especialista de 1ª classe de Análises Clínicas e Saúde Pública da carreira de Diagnóstico e Terapêutica, do Centro Hospitalar de Lisboa Ocidental E.P.E. - Hospital de Santa Cruz;"
 
 15 de Junho de 2009. - O Presidente do Conselho Directivo, Luís Manuel Morgado Tavares.
+
+202016676

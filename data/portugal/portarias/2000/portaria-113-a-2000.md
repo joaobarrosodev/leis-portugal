@@ -21,7 +21,7 @@ publication:
   reference: Diário da República n.º 50/2000, 1º Suplemento, Série I-B de 2000-02-29
   number: '50'
   series: I
-  supplement: 1º Suplemento
+  supplement: null
   pages: 688-(2) a 688-(2)
   pdf_url: https://files.diariodarepublica.pt/1s/2000/02/050b01/00020002.pdf
 entry_into_force_dates: []
@@ -48,18 +48,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/113-a/2000/02/29/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/113-a-2000-585186
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2000-02-29T00:00:00Z'
+  retrieved_at: '2026-10-23T14:20:00Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 13526e67b186a1117e293c934e2b30a42959fb33d017a8f064c50ce83ac6e07f
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 951e4eb00c7a122eee9e18e0a1bc87b6b5ea1d29f17cbaea69da7b92332e4ded
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T14:20:00Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -68,22 +68,22 @@ reuse:
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
 - Aproximação das Legislações
-- Valores Mobiliários
 - Bolsa de Derivados
 - Bolsa de Valores
-- Mercado de Cotações Oficiais
-- Mercado sem Cotações
 - CEE
 - Cotação na Bolsa
-- Lisboa
 - Investimento
+- Lisboa
 - Lista
 - Mercado de Capitais
+- Mercado de Cotações Oficiais
 - Mercado de Valores
 - Mercado Especial de Operações por Grosso
 - Mercado Financeiro
 - Mercado Interno CE
+- Mercado sem Cotações
 - Porto
+- Valores Mobiliários
 relationships:
 - type: cites
   target: celex:31993L0022
@@ -92,13 +92,13 @@ relationships:
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T14:20:00Z'
   warnings: []
   errors: []
 ---

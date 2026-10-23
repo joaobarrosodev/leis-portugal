@@ -20,7 +20,7 @@ publication:
   reference: Diário da República n.º 175/2000, 3º Suplemento, Série I-B de 2000-07-31
   number: '175'
   series: I
-  supplement: 3º Suplemento
+  supplement: null
   pages: 3680-(19) a 3680-(20)
   pdf_url: https://files.diariodarepublica.pt/1s/2000/07/175b03/00190020.pdf
 entry_into_force_dates: []
@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/532-g/2000/07/31/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/532-g-2000-316735
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2001-04-02T00:00:00Z'
+  retrieved_at: '2026-10-23T14:24:17Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: bc2ed4ddd43613e4b85748b359a78271f9b3dd1fb6cd899add9f559959e17ec5
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 127435f8c9cae4ebd847ef6f7869a091cf9f703072358075bd8160244cfccbe1
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T14:24:17Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -69,8 +69,9 @@ subjects:
 - Almada
 - Arcozelo
 - Curso de Complemento de Formação Científica e Pedagógica
-- Formação de Professores
 - Educador de Infância
+- Ensino Básico
+- Ensino Superior
 - Escola Superior de Educação
 - Escola Superior de Educação de Almeida Garrett
 - Escola Superior de Educação de JOÃO de DEUS
@@ -80,12 +81,11 @@ subjects:
 - Escola Superior de Educação JEAN Piaget-nordeste
 - Escola Superior de Educadores de Infância Maria Ulrich
 - FAFE
+- Formação de Professores
 - Instituto Superior de Ciências Educativas
 - Instituto Superior de Educação e Ciências
 - ISET
 - Numerus Clausus
-- Ensino Básico
-- Ensino Superior
 - Torres Novas
 - Viseu
 relationships:
@@ -93,20 +93,29 @@ relationships:
   target: pt:dre:345915:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:345915:por
+  label: "Alterados os anexos I e II pela PORT.324/2001.2001.04.02.ME,DR.IS-B [78]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/324-2001-345915
+  date: '2001-04-02'
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/255/1998/08/11/p/dre
   label: null
   source: http://data.dre.pt/eli/dec-lei/255/1998/08/11/p/dre
+- type: cites
+  target: pt:dre:438070:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T14:24:17Z'
   warnings: []
   errors: []
 ---
@@ -153,22 +162,22 @@ Pelo Ministro da Educação, José Joaquim Dinis Reis, Secretário de Estado do 
 
 Vagas para o ano lectivo de 2000-2001
 
-[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2000/07/175b03/00190020.pdf)
+[[[[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2000/07/175b03/00190020.pdf)](https://files.diariodarepublica.pt/1s/2000/07/175b03/00190020.pdf)](https://files.diariodarepublica.pt/1s/2000/07/175b03/00190020.pdf)](https://files.diariodarepublica.pt/1s/2000/07/175b03/00190020.pdf)
 
 ## ANEXO II — Cursos de complemento de formação científica e pedagógica para professores do 1.º ciclo do ensino básico
 
 Vagas para o ano lectivo de 2000-2001
 
-[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2000/07/175b03/00190020.pdf)
+[[[[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2000/07/175b03/00190020.pdf)](https://files.diariodarepublica.pt/1s/2000/07/175b03/00190020.pdf)](https://files.diariodarepublica.pt/1s/2000/07/175b03/00190020.pdf)](https://files.diariodarepublica.pt/1s/2000/07/175b03/00190020.pdf)
 
 ## ANEXO III — Cursos de complemento de formação científica e pedagógica para professores do 2.º ciclo do ensino básico
 
 Vagas para o ano lectivo de 2000-2001
 
-[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2000/07/175b03/00190020.pdf)
+[[[[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2000/07/175b03/00190020.pdf)](https://files.diariodarepublica.pt/1s/2000/07/175b03/00190020.pdf)](https://files.diariodarepublica.pt/1s/2000/07/175b03/00190020.pdf)](https://files.diariodarepublica.pt/1s/2000/07/175b03/00190020.pdf)
 
 ## ANEXO IV — Cursos de qualificação para o exercício de outras funções educativas
 
 Vagas para o ano lectivo de 2000-2001
 
-[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2000/07/175b03/00190020.pdf)
+[[[[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2000/07/175b03/00190020.pdf)](https://files.diariodarepublica.pt/1s/2000/07/175b03/00190020.pdf)](https://files.diariodarepublica.pt/1s/2000/07/175b03/00190020.pdf)](https://files.diariodarepublica.pt/1s/2000/07/175b03/00190020.pdf)

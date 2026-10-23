@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/2s/2009/10/199000000/4155941560.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -46,18 +46,18 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/declaracao-rectificacao/2548-2009-3031782
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2009-10-14T00:00:00Z'
+  retrieved_at: '2026-10-23T14:07:39Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 8bca525bb140df158375f9d458db436b9da802d21379c3ddb61c58ab603430fc
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: db6ba4556687cf63015c52f1af50f90b464cdfa5e8b9505f84476499c35007fc
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T14:07:39Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -65,22 +65,30 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects: []
-relationships: []
+relationships:
+- type: cites
+  target: pt:dre:468663:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:624401:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T14:07:39Z'
   warnings: []
   errors: []
 ---
 
-# Declaração de Rectificação n.º 2548/2009
+# Declaração de rectificação n.º 2548/2009
 
 Por ter sido publicado com inexactidão o aviso n.º 17 493/2009, no Diário da República, 2.ª série, n.º 194, de 7 de Outubro de 2009, a p. 40 579, referente ao procedimento concursal comum de recrutamento de trabalhador, com relação jurídica de emprego público por tempo indeterminado, para o preenchimento de dois postos de trabalho de assistente técnico, da carreira de assistente técnico do mapa de pessoal do II, I. P. (PCATO0109 - assistente técnico), rectifica-se o seguinte:
 
@@ -101,3 +109,5 @@ deve ler-se:
 «8.1 - Nos termos conjugados dos artigos 27.º e 51.º da [Portaria n.º 83-A/2009](https://diariodarepublica.pt/dr/detalhe/portaria/83-a-2009-624401), de 22 de Janeiro, as candidaturas deverão ser formalizadas mediante preenchimento do formulário tipo, publicitado pelo despacho (extracto) n.º 11 321/2009, no Diário da República, 2.ª série, n.º 89, de 8 de Maio de 2009, e disponibilizado em www.seg-social.pt, com indicação do posto de trabalho a que se candidata e enviadas para o seguinte endereço de correio electrónico: II-Pessoas@seg-social.pt. Não serão admitidas as candidaturas apresentadas em suporte de papel.»
 
 7 de Outubro de 2009. - O Presidente do Conselho Directivo, Manuel da Cruz Pires.
+
+202406886

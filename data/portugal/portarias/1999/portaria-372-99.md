@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/372/1999/05/20/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/372-1999-323704
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1999-05-20T00:00:00Z'
+  retrieved_at: '2026-10-23T14:14:58Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 845176fd8dc9c287fc5bbe532eb2f46035601bf861cbe9725ee39d4bc0108aaa
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: a4a4e64307fcfaa67669e9cc3629cbf0a1bfa60e74d1264b28ae10bdcb9473a4
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T14:14:58Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -65,11 +65,11 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Formação Profissional
-- Plano de Estudos
 - Curso de Teatro-cenografia
 - Curso de Teatro-iluminação
 - Curso Profissional de Artes do Espectáculo
+- Formação Profissional
+- Plano de Estudos
 relationships:
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/70/1993/03/10/p/dre
@@ -79,16 +79,32 @@ relationships:
   target: eli:http://data.dre.pt/eli/port/222/1992/03/21/p/dre
   label: null
   source: http://data.dre.pt/eli/port/222/1992/03/21/p/dre
+- type: cites
+  target: pt:dre:177388:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:222418:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:609609:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:628044:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T14:14:58Z'
   warnings: []
   errors: []
 ---
@@ -121,9 +137,9 @@ b) Realização Técnica.
 
 5.º O plano de estudos referido no número anterior substitui os aprovados pela [Portaria n.º 222/92](https://diariodarepublica.pt/dr/detalhe/portaria/222-1992-177388), de 21 de Março, referentes ao curso de Teatro com as especificações terminais de Cenografia e Iluminação, que apenas se aplicam aos alunos que o iniciam até ao ano lectivo de 1994-1995.
 
-**Assinada em 28 de Abril de 1999.**
+Assinada em 28 de Abril de 1999.
 
-**O Ministro da Educação, Eduardo Carrega Marçal Grilo. - Pelo Ministro do Trabalho e da Solidariedade, Paulo José Fernandes Pedroso, Secretário de Estado do Emprego e Formação. - Pelo Ministro da Cultura, Catarina Marques de Almeida Vaz Pinto, Secretária de Estado da Cultura.**
+O Ministro da Educação, Eduardo Carrega Marçal Grilo. - Pelo Ministro do Trabalho e da Solidariedade, Paulo José Fernandes Pedroso, Secretário de Estado do Emprego e Formação. - Pelo Ministro da Cultura, Catarina Marques de Almeida Vaz Pinto, Secretária de Estado da Cultura.
 
 Curso de Artes do Espectáculo
 

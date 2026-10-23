@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/348/2001/04/09/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/348-2001-354556
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2001-04-09T00:00:00Z'
+  retrieved_at: '2026-10-23T14:31:40Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 54b4baaa83d7fbabdbebf880d818421dad5080f8e057b0aa7e46ea08793d9516
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 8a675d574279821b63c9ab3dea9eaee96b015b706824845c010f57de8372f7ed
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T14:31:40Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -65,30 +65,34 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Exército
 - Conselho de Chefes de Estado Maior
+- Exército
 - Força Aérea
-- Marinha
 - Forças Armadas
+- Marinha
 - Militar
 - Ministro da Defesa Nacional
-- Serviço Efectivo Normal
 - Serviço Efectivo
+- Serviço Efectivo Normal
 relationships:
 - type: cites
   target: eli:http://data.dre.pt/eli/lei/174/1999/09/21/p/dre
   label: null
   source: http://data.dre.pt/eli/lei/174/1999/09/21/p/dre
+- type: cites
+  target: pt:dre:558204:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T14:31:40Z'
   warnings: []
   errors: []
 ---
@@ -105,7 +109,7 @@ Assim, manda o Governo, pelo Ministro da Defesa Nacional, o seguinte:
 
 2.º A presente portaria produz efeitos a 1 de Janeiro de 2001.
 
-**O Ministro da Defesa Nacional, Júlio de Lemos de Castro Caldas, em 21 de Março de 2001.**
+O Ministro da Defesa Nacional, Júlio de Lemos de Castro Caldas, em 21 de Março de 2001.
 
 MAPA ANEXO
 

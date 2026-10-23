@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1999/08/192b00/54795479.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/664/1999/08/18/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/664-1999-434407
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2008-06-06T00:00:00Z'
+  retrieved_at: '2026-10-23T14:16:58Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 7da6d99e00d5407fe3087823d382fc9b34c5d70f86cee5431b267cdc83fc2d02
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 996dd5ffb6fc65ac1b844be487f1038b20248501ea84e07d66e0170758ab093b
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T14:16:58Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,28 +67,43 @@ reuse:
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
 - Cidadão Estrangeiro
+- Direito Territorial
 - Documento de Viagem
 - Expulsão de Estrangeiros
-- Direito Territorial
 relationships:
 - type: amended_by
   target: pt:dre:449392:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:635814:por
+  label: "Mantida em vigor até revogação expressa, pela LEI.23/2007.04.07.2007.AR, DR.IS [127] de 04.07.2007, nos termos do\
+    \ nº 2 do art. 218º \0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/lei/23-2007-635814
+  date: '2007-07-04'
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/244/1998/08/08/p/dre
   label: null
   source: http://data.dre.pt/eli/dec-lei/244/1998/08/08/p/dre
+- type: cites
+  target: pt:dre:434982:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:449392:por
+  label: "Revogada , a partir de 11.06.2008, pela PORT.398/2008.06.06.2008.MAI, DR.IS [109] de 06.06.2008\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/398-2008-449392
+  date: '2008-06-06'
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T14:16:58Z'
   warnings: []
   errors: []
 ---

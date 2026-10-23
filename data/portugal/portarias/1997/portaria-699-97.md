@@ -48,18 +48,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/699/1997/08/21/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/699-1997-196225
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2000-10-02T00:00:00Z'
+  retrieved_at: '2026-10-23T14:04:23Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: e04314c099ce268705c00b7a67bc4f543addb341655e2b5a8dd3207f67c56ebf
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 1bdc3a3d507f7f41e2d5fbf6d8c5a2ed299e7e849ba40888231bc38882fd39e3
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T14:04:23Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -68,12 +68,12 @@ reuse:
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
 - Bacharelato
-- Plano de Estudos
 - Curso de Engenharia Electrónica Manutenção Industrial
 - Curso de Engenharia Electrotécnica
 - Ensino Superior Politécnico
 - Escola Superior de Tecnologia e Gestão
 - Leiria
+- Plano de Estudos
 relationships:
 - type: amended_by
   target: pt:dre:552840:por
@@ -87,16 +87,54 @@ relationships:
   target: eli:http://data.dre.pt/eli/port/899/1992/09/16/p/dre
   label: null
   source: http://data.dre.pt/eli/port/899/1992/09/16/p/dre
+- type: cites
+  target: pt:dre:222418:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:239206:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:239245:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:453184:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:470779:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:556606:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:557606:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:620333:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:552840:por
+  label: "Revogada, findo o processo de transição fixado nos termos do art. 13.º do Regulamento aprovado pela Port 413-A/98,\
+    \ de 17-Jul, pela PORT.932/2000.2000.10.02.ME DR.IS-B [228]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/932-2000-552840
+  date: '2000-10-02'
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T14:04:23Z'
   warnings: []
   errors: []
 ---
@@ -207,7 +245,7 @@ São revogadas as Portarias n.os [441/89](https://diariodarepublica.pt/dr/detalh
 
 Ministério da Educação.
 
-**Assinada em 28 de Julho de 1997.**
+Assinada em 28 de Julho de 1997.
 
 Pelo Ministro da Educação, Alfredo Jorge Silva, Secretário de Estado do Ensino Superior.
 
@@ -217,7 +255,7 @@ Escola Superior de Tecnologia e Gestão
 
 Curso: Engenharia Electrotécnica
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1997/08/192b00/43314338.pdf))](https://files.diariodarepublica.pt/1s/1997/08/192b00/43314338.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1997/08/192b00/43314338.pdf)
 
 ## ANEXO II — Instituto Politécnico de Leiria
 
@@ -225,4 +263,4 @@ Escola Superior de Tecnologia e Gestão
 
 Curso: Engenharia Electrotécnica
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1997/08/192b00/43314338.pdf))](https://files.diariodarepublica.pt/1s/1997/08/192b00/43314338.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1997/08/192b00/43314338.pdf)

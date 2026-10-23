@@ -26,7 +26,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/2s/2009/12/243000000/5089050892.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -48,18 +48,18 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/declaracao-rectificacao/3022-2009-3659546
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2009-12-17T00:00:00Z'
+  retrieved_at: '2026-10-23T14:10:30Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 8f24727110a9c419d8f594b391de753998762c68519deacce8b1d117f1938c29
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 991f77a37306a60360171e9b7ef0a5c3b2c2fd1055548e3ce59ef9c7731ab5c9
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T14:10:30Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -71,13 +71,13 @@ relationships: []
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T14:10:30Z'
   warnings: []
   errors: []
 ---
@@ -108,7 +108,7 @@ Por ter sido publicado com inexactidão o plano de estudos do mestrado integrado
 
 QUADRO N.º 1
 
-[([ver documento original](https://files.diariodarepublica.pt/2s/2009/12/243000000/5089050892.pdf))](https://files.diariodarepublica.pt/2s/2009/12/243000000/5089050892.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/2s/2009/12/243000000/5089050892.pdf)
 
 10 - Observações - após a conclusão de 180 créditos, correspondentes aos atribuídos às unidades curriculares definidas nos planos curriculares dos 1.º, 2.º e 3.º anos do mestrado integrado em Medicina, é atribuído um diploma de licenciatura em Ciências Básicas da Saúde.
 
@@ -128,36 +128,38 @@ Medicina
 
 QUADRO N.º 2
 
-[([ver documento original](https://files.diariodarepublica.pt/2s/2009/12/243000000/5089050892.pdf))](https://files.diariodarepublica.pt/2s/2009/12/243000000/5089050892.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/2s/2009/12/243000000/5089050892.pdf)
 
 2.º ano curricular
 
 QUADRO N.º 3
 
-[([ver documento original](https://files.diariodarepublica.pt/2s/2009/12/243000000/5089050892.pdf))](https://files.diariodarepublica.pt/2s/2009/12/243000000/5089050892.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/2s/2009/12/243000000/5089050892.pdf)
 
 3.º ano curricular
 
 QUADRO N.º 4
 
-[([ver documento original](https://files.diariodarepublica.pt/2s/2009/12/243000000/5089050892.pdf))](https://files.diariodarepublica.pt/2s/2009/12/243000000/5089050892.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/2s/2009/12/243000000/5089050892.pdf)
 
 4.º ano curricular
 
 QUADRO N.º 5
 
-[([ver documento original](https://files.diariodarepublica.pt/2s/2009/12/243000000/5089050892.pdf))](https://files.diariodarepublica.pt/2s/2009/12/243000000/5089050892.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/2s/2009/12/243000000/5089050892.pdf)
 
 5.º ano curricular
 
 QUADRO N.º 6
 
-[([ver documento original](https://files.diariodarepublica.pt/2s/2009/12/243000000/5089050892.pdf))](https://files.diariodarepublica.pt/2s/2009/12/243000000/5089050892.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/2s/2009/12/243000000/5089050892.pdf)
 
 6.º ano curricular
 
 QUADRO N.º 7
 
-[([ver documento original](https://files.diariodarepublica.pt/2s/2009/12/243000000/5089050892.pdf))](https://files.diariodarepublica.pt/2s/2009/12/243000000/5089050892.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/2s/2009/12/243000000/5089050892.pdf)
 
 10 de Dezembro de 2009. - O Reitor, José Carlos Diogo Marques dos Santos.
+
+202676924

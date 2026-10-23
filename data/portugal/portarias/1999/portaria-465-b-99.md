@@ -20,12 +20,12 @@ publication:
   reference: Diário da República n.º 146/1999, 1º Suplemento, Série I-B de 1999-06-25
   number: '146'
   series: I
-  supplement: 1º Suplemento
+  supplement: null
   pages: 3900-(2) a 3900-(7)
   pdf_url: https://files.diariodarepublica.pt/1s/1999/06/146b01/00020007.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/465-b/1999/06/25/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/465-b-1999-291865
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2004-08-25T00:00:00Z'
+  retrieved_at: '2026-10-23T14:15:38Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 2345e653729f619833f3c2fb68de8d9e3a6e1e3e3bc21f06e0773a384be2480c
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 7ba7d49b9fe613f61b1a2c8c71a802b1beae8ab55a361eb5f2d38961a63d0cc7
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T14:15:38Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -84,16 +84,29 @@ relationships:
   target: eli:http://data.dre.pt/eli/dec-lei/40/1995/02/15/p/dre
   label: null
   source: http://data.dre.pt/eli/dec-lei/40/1995/02/15/p/dre
+- type: cites
+  target: pt:dre:202419:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:581376:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:625179:por
+  label: "Revogada pela PORT.1062/2004.25.08.2004.MECO, DR.IS-B [200] de 25.08.2004\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/1062-2004-625179
+  date: '2004-08-25'
 article_structure:
   article_count: 22
-  section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  section_count: 1
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T14:15:38Z'
   warnings: []
   errors: []
 ---
@@ -128,7 +141,7 @@ c) Faixa 27,5-29,5 GHz.
 
 4.º A presente portaria entra em vigor na data da sua publicação.
 
-**O Ministro do Equipamento, do Planeamento e da Administração do Território, João Cardona Gomes Cravinho, em 24 de Junho de 1999.**
+O Ministro do Equipamento, do Planeamento e da Administração do Território, João Cardona Gomes Cravinho, em 24 de Junho de 1999.
 
 ## ANEXO
 
@@ -218,7 +231,9 @@ Os cadernos de encargos são adquiridos na sede do ICP, na Avenida de José Malh
 
 4 - Os operadores de redes públicas e os prestadores de serviços de telecomunicações de uso público estão obrigados, pelo presente Regulamento e para efeitos deste concurso, a prestar todos os esclarecimentos que o ICP lhes solicite, a fornecer no prazo que lhes for fixado, nomeadamente de modo a permitir o cumprimento do disposto no número anterior.
 
-###### Artigo 8.º — Livro de consulta
+###### Artigo 8.º
+
+## Livro de consulta
 
 1 - O ICP deve manter aberto um livro contendo todas as peças integrantes do processo do concurso, os pedidos de esclarecimento solicitados, bem como as respostas aos mesmos, para livre consulta, entre as 9 e as 16 horas, por qualquer concorrente.
 

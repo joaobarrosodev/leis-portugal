@@ -26,7 +26,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/2s/2009/07/128000000/2625426254.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -48,18 +48,18 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/declaracao-rectificacao/1635-2009-1840167
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2009-07-06T00:00:00Z'
+  retrieved_at: '2026-10-23T14:02:17Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: e516e4d50323208ed4b5baff7dd94b80bb2043e11ea37112eba23c483130f4cb
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 3d9ada7525e5ea755819993a34db35ac401b562128145c352902b6b1615b30ca
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T14:02:17Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,22 +67,26 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects: []
-relationships: []
+relationships:
+- type: cites
+  target: pt:dre:468663:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T14:02:17Z'
   warnings: []
   errors: []
 ---
 
-# Declaração de Rectificação n.º 1635/2009
+# Declaração de rectificação n.º 1635/2009
 
 Por ter sido publicado com inexactidão o despacho (extracto) n.º 14 168/2009, publicado no Diário da República, 2.ª série, n.º 119, de 23 de Junho de 2009, p. 24581, onde se lê:
 
@@ -93,3 +97,5 @@ deve ler-se:
 "Por despacho de 4 de Junho de 2009 do Director da Faculdade de Engenharia da Universidade do Porto, no uso de competências delegadas pelo Reitor desta Universidade e publicada no Diário da República, 2.ª série n.º 12, de 17 de Janeiro de 2007, foi nomeado definitivamente o Doutor Paulo Santos Conceição, Professor Auxiliar desta Faculdade, com efeitos a partir de 5 de Março de 2009, e consequentemente, foi autorizado o contrato de trabalho em regime de funções públicas, por tempo indeterminado, para a carreira docente, na mesma categoria, posicionado no 1.º escalão, índice 195, da respectiva escala salarial, com efeitos a partir da mesma data. (Não carece de fiscalização prévia do Tribunal de Contas)".
 
 29 de Junho de 2009. - A Chefe da Divisão de Recursos Humanos, Maria Emília Santos Silva.
+
+201970677

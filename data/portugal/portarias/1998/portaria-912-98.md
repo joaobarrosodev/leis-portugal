@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/912/1998/10/20/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/912-1998-239987
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1999-10-11T00:00:00Z'
+  retrieved_at: '2026-10-23T14:11:56Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 79f12b4197bbc8163dd3171ff5b9888dd98bbc7ebf95cb5cca392b84ceade378
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 1336a2e91e4aa40a54807f405a5e95eadde23f3e84742ee9d6d63e57de13d177
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T14:11:56Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,17 +66,23 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Universidade Lusíada
-- Plano de Estudos
 - Curso de Matemáticas Aplicadas
 - Ensino Particular
-- Licenciatura
 - Ensino Superior
+- Licenciatura
+- Plano de Estudos
+- Universidade Lusíada
 relationships:
 - type: amended_by
   target: pt:dre:673590:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:673590:por
+  label: "Substituido o Plano de Estudos do Curso de Matemáticas Aplicadas, aprovado pela Port 662/93, de 13-Jul DR.IS-B [162],\
+    \ na redacção do presente diploma, pela PORT.897/99.1999.10.11.ME DR.IS-B [237]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/897-1999-673590
+  date: '1999-10-11'
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/16/1994/01/22/p/dre
   label: null
@@ -89,16 +95,36 @@ relationships:
   target: eli:http://data.dre.pt/eli/port/662/1993/07/13/p/dre
   label: null
   source: http://data.dre.pt/eli/port/662/1993/07/13/p/dre
+- type: cites
+  target: pt:dre:187955:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:374825:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:390591:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:512030:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:533820:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T14:11:56Z'
   warnings: []
   errors: []
 ---
@@ -139,7 +165,7 @@ As regras de transição entre o anterior e o novo plano de estudos são fixadas
 
 Ministério da Educação.
 
-**Assinada em 17 de Setembro de 1998.**
+Assinada em 17 de Setembro de 1998.
 
 Pelo Ministro da Educação, Alfredo Jorge Silva, Secretário de Estado do Ensino Superior.
 

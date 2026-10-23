@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/2s/2009/06/108000000/2254622550.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -46,18 +46,18 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/declaracao-rectificacao/1435-2009-2355531
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2009-06-04T00:00:00Z'
+  retrieved_at: '2026-10-23T14:01:07Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 6ee67df4c5a2936db919b4fcb29f205e85557170491195ab40f57573228ca658
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 309b90c90dd1d957d92d799eb8eb74aa63dd327a9d7a6e5b574e101b908831b6
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T14:01:07Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -65,22 +65,50 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects: []
-relationships: []
+relationships:
+- type: cites
+  target: pt:dre:197492:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:331257:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:522789:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:569886:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:570504:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:640138:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:655682:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T14:01:07Z'
   warnings: []
   errors: []
 ---
 
-# Declaração de Rectificação n.º 1435/2009
+# Declaração de rectificação n.º 1435/2009
 
 Para os devidos efeitos declara-se que o aviso n.º 9841/2009 publicado no Diário da República, 2.ª série, n.º 97, de 20 de Maio, saiu com as seguintes incorrecções, que agora se rectificam:
 
@@ -136,7 +164,7 @@ Taxas pela apreciação dos pedidos
 
 QUADRO I
 
-[([ver documento original](https://files.diariodarepublica.pt/2s/2009/06/108000000/2254622550.pdf))](https://files.diariodarepublica.pt/2s/2009/06/108000000/2254622550.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/2s/2009/06/108000000/2254622550.pdf)
 
 As taxas pela apreciação de processos tem como referencial o custo da contrapartida, calculado com base no tempo padrão dos serviços administrativos, o tempo padrão dos Serviços Técnicos, tempo padrão das chefias intermédias, em minutos. Assim, e tendo em consideração a remuneração base, estimou-se o custo/minuto do trabalho de um funcionário administrativo de um técnico e das chefias.
 
@@ -148,7 +176,7 @@ Taxa pela admissão de comunicação prévia de loteamento com obras de urbaniza
 
 QUADRO II
 
-[([ver documento original](https://files.diariodarepublica.pt/2s/2009/06/108000000/2254622550.pdf))](https://files.diariodarepublica.pt/2s/2009/06/108000000/2254622550.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/2s/2009/06/108000000/2254622550.pdf)
 
 Considerou-se no cálculo do custo da actividade pública local um loteamento tipo, que resulta dos valores médios de quinze operações de loteamento, entre os anos 2000 e 2008.
 
@@ -164,7 +192,7 @@ Taxa pela admissão de comunicação prévia de loteamento com obras de urbaniza
 
 QUADRO III
 
-[([ver documento original](https://files.diariodarepublica.pt/2s/2009/06/108000000/2254622550.pdf))](https://files.diariodarepublica.pt/2s/2009/06/108000000/2254622550.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/2s/2009/06/108000000/2254622550.pdf)
 
 As alterações ao alvará ou admissibilidade são desincentivadas, pelo que a taxa a cobrar será superior.
 
@@ -172,7 +200,7 @@ Taxa pela admissão de comunicação prévia de loteamento sem obras de urbaniza
 
 QUADRO IV
 
-[([ver documento original](https://files.diariodarepublica.pt/2s/2009/06/108000000/2254622550.pdf))](https://files.diariodarepublica.pt/2s/2009/06/108000000/2254622550.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/2s/2009/06/108000000/2254622550.pdf)
 
 Do ponto de vista metodológico, mantém-se o mesmo critério de sustentação descrita no artigo anterior.
 
@@ -182,7 +210,7 @@ Taxa pela admissão de comunicação prévia de loteamento sem obras de urbaniza
 
 QUADRO V
 
-[([ver documento original](https://files.diariodarepublica.pt/2s/2009/06/108000000/2254622550.pdf))](https://files.diariodarepublica.pt/2s/2009/06/108000000/2254622550.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/2s/2009/06/108000000/2254622550.pdf)
 
 As alterações ao alvará ou admissibilidade são desincentivadas, pelo que a taxa a cobrar deverá ser superior.
 
@@ -190,7 +218,7 @@ Taxa pela admissão de comunicação prévia de obras de urbanização
 
 QUADRO VI
 
-[([ver documento original](https://files.diariodarepublica.pt/2s/2009/06/108000000/2254622550.pdf))](https://files.diariodarepublica.pt/2s/2009/06/108000000/2254622550.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/2s/2009/06/108000000/2254622550.pdf)
 
 Tal como nos casos anteriores a sustentação pela admissão de comunicação prévia de obras de urbanização, considerou-se a mesma sustentação de taxa referida nos números anteriores, imputando-se os tempos de análise das peças técnicas à parte variável da taxa, com igual proporção para cada rede de infraestruturas.
 
@@ -202,7 +230,7 @@ Taxa pela admissão de comunicação prévia de obras de urbanização/alteraç�
 
 QUADRO VII
 
-[([ver documento original](https://files.diariodarepublica.pt/2s/2009/06/108000000/2254622550.pdf))](https://files.diariodarepublica.pt/2s/2009/06/108000000/2254622550.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/2s/2009/06/108000000/2254622550.pdf)
 
 As alterações à admissão de comunicação prévia são desincentivadas, pelo que a taxa a cobrar deverá ser superior.
 
@@ -210,7 +238,7 @@ Taxa pela admissão de comunicação prévia de obras de edificação
 
 QUADRO VIII
 
-[([ver documento original](https://files.diariodarepublica.pt/2s/2009/06/108000000/2254622550.pdf))](https://files.diariodarepublica.pt/2s/2009/06/108000000/2254622550.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/2s/2009/06/108000000/2254622550.pdf)
 
 No que respeita a admissão de comunicação prévia de obras de edificação considerou-se uma edificação tipo, apurada dos valores médios de 2003 a 2007, constituída por: habitação, comércio e serviços, industria e construções afectas, arrumos, armazéns, garagens, parqueamentos ou similares e obras acessórias.
 
@@ -220,7 +248,7 @@ Taxa pela admissão de comunicação prévia de obras de edificação/alteraçõ
 
 QUADRO IX
 
-[([ver documento original](https://files.diariodarepublica.pt/2s/2009/06/108000000/2254622550.pdf))](https://files.diariodarepublica.pt/2s/2009/06/108000000/2254622550.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/2s/2009/06/108000000/2254622550.pdf)
 
 As alterações à admissão de comunicação prévia de obras de edificação são desincentivadas, pelo que a taxa a cobrar deverá ser superior.
 
@@ -228,7 +256,7 @@ Taxa pela admissão de comunicação prévia por motivo de obras inacabadas
 
 QUADRO X
 
-[([ver documento original](https://files.diariodarepublica.pt/2s/2009/06/108000000/2254622550.pdf))](https://files.diariodarepublica.pt/2s/2009/06/108000000/2254622550.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/2s/2009/06/108000000/2254622550.pdf)
 
 Pretende-se desincentivar o prolongamento das obras, a taxa a cobrar é superior ao custo da contrapartida, incluindo assim um desincentivo a estes actos.
 
@@ -238,7 +266,7 @@ Taxa pela admissão de comunicação prévia para edificações ligeiras
 
 QUADRO XI
 
-[([ver documento original](https://files.diariodarepublica.pt/2s/2009/06/108000000/2254622550.pdf))](https://files.diariodarepublica.pt/2s/2009/06/108000000/2254622550.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/2s/2009/06/108000000/2254622550.pdf)
 
 Nas edificações ligeiras, no caso dos muros, outro tipo de vedações, telheiros, tanques, depósitos ou outros similares a componente fixa da taxa é inferior ao custo da contrapartida pelo serviço prestado, envolvendo um custo social para o município. No caso das piscinas a parte variável da taxa é superior ao custo da contrapartida originando um desincentivo, perfeitamente justificável por motivos ecológicos (elevado consumo de água e de energia).
 
@@ -246,7 +274,7 @@ Taxa pela admissão de comunicação prévia para obras de demolição
 
 QUADRO XII
 
-[([ver documento original](https://files.diariodarepublica.pt/2s/2009/06/108000000/2254622550.pdf))](https://files.diariodarepublica.pt/2s/2009/06/108000000/2254622550.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/2s/2009/06/108000000/2254622550.pdf)
 
 O valor da taxa quer na sua componente fixa quer na sua variável, é inferior ao custo da contrapartida, envolvendo um custo social para o município.
 
@@ -254,7 +282,7 @@ Taxa de prorrogação para execução da obra sujeita a comunicação prévia
 
 QUADRO XIII
 
-[([ver documento original](https://files.diariodarepublica.pt/2s/2009/06/108000000/2254622550.pdf))](https://files.diariodarepublica.pt/2s/2009/06/108000000/2254622550.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/2s/2009/06/108000000/2254622550.pdf)
 
 Dada as fortes externalidades negativas geradas pelo prolongamento no tempo das operações urbanísticas (nomeadamente, com ocupação da via pública e com a emissão de poeiras e ruídos, têm um impacto negativo na vida quotidiana das populações afectadas, na paisagem e no ambiente), o município pretende desincentivar fortemente esta pratica, pelo que na fixação da taxa a cobrar pela prorrogação do prazo de execução de obras, não se teve em consideração o custo da actividade pública associado. Assim, o valor da taxa é muito superior ao custo da contrapartida, incluindo, portanto um elevado factor de desincentivo.
 
@@ -262,7 +290,7 @@ Taxa de renovação de admissão de comunicação prévia
 
 QUADRO IV
 
-[([ver documento original](https://files.diariodarepublica.pt/2s/2009/06/108000000/2254622550.pdf))](https://files.diariodarepublica.pt/2s/2009/06/108000000/2254622550.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/2s/2009/06/108000000/2254622550.pdf)
 
 A renovação de admissão de comunicação prévia que haja caducado nos termos do artigo 72.º do RJUE, está sujeita ao pagamento da taxa correspondente a 50 (euro) do valor da taxa inicial, percentagem que não pretende apenas cobrir os custos directos e indirectos da actividade pública, mas sobretudo desincentivar esta prática.
 
@@ -270,8 +298,10 @@ Taxa pela admissão de comunicação prévia de trabalhos de remodelação de te
 
 QUADRO XV
 
-[([ver documento original](https://files.diariodarepublica.pt/2s/2009/06/108000000/2254622550.pdf))](https://files.diariodarepublica.pt/2s/2009/06/108000000/2254622550.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/2s/2009/06/108000000/2254622550.pdf)
 
 Considerou-se no cálculo dos custos da contrapartida um terreno quadrado de 1 500 m2.
 
 A taxa a cobrar apresenta um valor superior ao custo da contrapartida, incluindo portanto um factor de desincentivo para a realização deste tipo de operações, pelo facto de as mesmas originarem externalidades negativas para a comunidade em geral, nomeadamente com a ocupação da via pública e com a emissão de poeiras e ruído, que têm um impacto negativo da vida quotidiana das populações afectadas, na paisagem e no ambiente.
+
+201852773

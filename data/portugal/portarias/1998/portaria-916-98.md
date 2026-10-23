@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/916/1998/10/20/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/916-1998-239991
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1998-10-20T00:00:00Z'
+  retrieved_at: '2026-10-23T14:11:56Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: d89928bc118e48206337c51fff6f19f4ad17dfffedf8f94f2f817024747875c3
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: b186aa21878bf7bd79c0873b5c70b5363749d8e12a6918e689a8329bb2377651
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T14:11:56Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,27 +66,43 @@ reuse:
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
 - Ensino Artístico
-- Formação Profissional
-- Formação de Professores
-- Ensino Oficial
-- Ensino Superior Politécnico
-- Instituto Politécnico
-- Universidade
-- Estabelecimento de Ensino
-- Pessoal Docente
 - Ensino Básico
+- Ensino Oficial
 - Ensino Superior
-relationships: []
+- Ensino Superior Politécnico
+- Estabelecimento de Ensino
+- Formação de Professores
+- Formação Profissional
+- Instituto Politécnico
+- Pessoal Docente
+- Universidade
+relationships:
+- type: cites
+  target: pt:dre:287165:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:380135:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:452686:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:548825:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T14:11:56Z'
   warnings: []
   errors: []
 ---
@@ -119,4 +135,4 @@ Ministério da Educação.
 
 Asssinada em 23 de Setembro de 1998.
 
-**O Ministro da Educação, Eduardo Carrega Marçal Grilo.**
+O Ministro da Educação, Eduardo Carrega Marçal Grilo.

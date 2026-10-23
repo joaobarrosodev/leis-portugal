@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1997/01/007b00/00810081.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/34/1997/01/09/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/34-1997-302079
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2007-05-14T00:00:00Z'
+  retrieved_at: '2026-10-23T14:02:07Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 564960de2675bf5dea67a38ea5d6a7bfa3d6d775e21c1a6eb9bb5c0f4c4c1acf
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: f3af73390db61d038e51392ca5c52ffb6c3f76a4168988fdcc002550dc579577
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T14:02:07Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -73,16 +73,37 @@ relationships:
   target: pt:dre:520652:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:3629661:por
+  label: "Encerrado o estabelecimento prisional, pelo DESP.12764/2006(2ªSérie).06.06.2006.MJ, DR.IIS [117] de 20.06.2006\0\
+    6\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/despacho/12764-2006-3629661
+  date: '2006-06-06'
+- type: cites
+  target: pt:dre:200410:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:563002:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:520652:por
+  label: "Revogada a partir de 13.06.2007, extinto o Estabelecimento Prisional Regional de Monção, criado pelo presente diploma\
+    \ e transferidas as suas competências para os demais estabelecimentos prisionais, pelo DEC LEI.192/2007.14.05.2007.MJ,\
+    \ DR.IS [92] de 14.05.2007\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/192-2007-520652
+  date: '2007-05-14'
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T14:02:07Z'
   warnings: []
   errors: []
 ---
@@ -101,6 +122,6 @@ Manda o Governo, pelo Ministro da Justiça, que seja criado o Estabelecimento Pr
 
 Ministério da Justiça.
 
-**Assinada em 13 de Dezembro de 1996.**
+Assinada em 13 de Dezembro de 1996.
 
-**O Ministro da Justiça, José Eduardo Vera Cruz Jardim.**
+O Ministro da Justiça, José Eduardo Vera Cruz Jardim.

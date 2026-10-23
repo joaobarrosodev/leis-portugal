@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/841/1999/09/30/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/841-1999-667911
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2010-10-15T00:00:00Z'
+  retrieved_at: '2026-10-23T14:18:09Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: af0f1de61ce235f0e878a1691c5097f0ad37403cbd2fee9044cb902a1b736b64
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 13dd38e9f3db781c652d85bd5f845db4d2fcee3a8e17dcb10b184dd951c03c11
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T14:18:09Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -74,6 +74,12 @@ relationships:
   target: pt:dre:307838:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:307838:por
+  label: "Extinta a concessão da zona de caça associativa de Casal de Cinza, concessionada pela Port 667-R4/93 de 14-Jul,\
+    \ renovada pelo presente diploma, pela PORT.1060/2010.15.10.2010.MADRP, DR.IS [201] de 15.10.2010\00\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/1060-2010-307838
+  date: '2010-10-15'
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/136/1996/08/14/p/dre
   label: null
@@ -90,16 +96,32 @@ relationships:
   target: eli:http://data.dre.pt/eli/port/667-r4/1993/07/14/p/dre
   label: null
   source: http://data.dre.pt/eli/port/667-r4/1993/07/14/p/dre
+- type: cites
+  target: pt:dre:147414:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:345516:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:402172:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:405765:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T14:18:09Z'
   warnings: []
   errors: []
 ---

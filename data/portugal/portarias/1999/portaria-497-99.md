@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/497/1999/07/13/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/497-1999-368450
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2003-08-16T00:00:00Z'
+  retrieved_at: '2026-10-23T14:15:48Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 22c014d60246cc103b98a429ee2ee0fd31c61b6ebef60368210f220bd5e73ea6
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: c6f013aaa0f31f3f533abccf6b97969293883d93bbfe8cf3ceca040bf77d27e4
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T14:15:48Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -72,6 +72,32 @@ relationships:
   target: pt:dre:660295:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:892820:por
+  label: "Alterado o quadro de pessoal pela PORT.1724/2001(2ªSÉRIE).2001.09.26.MC DR.IIS [241] de 17/Out/2001\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/1724-2001-892820
+  date: '2001-09-26'
+- type: amended_by
+  target: pt:dre:3273945:por
+  label: "ALTERADO O QUADRO DE PESSOAL PELA PORT.1397/2002(2ªSÉRIE).2002.08.09.MF, MC, DR.IIS [211] DE 12/SET/2002\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/1397-2002-3273945
+  date: '2002-08-09'
+- type: amended_by
+  target: pt:dre:1505509:por
+  label: "Alterado o quadro de pessoal pela PORT.1668/2002(2ªSÉRIE).2002.10.16.MF e MC, DR.IIS [261] de 12/Nov/2002. \0 \0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/1668-2002-1505509
+  date: '2002-11-12'
+- type: amended_by
+  target: pt:dre:2466626:por
+  label: "Alterado o quadro de pessoal por PORT.51/2003(2ªSÉRIE).2002.12.27.MF e MC, DR.IIS [14] de 17/Jan/2003.\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/51-2003-2466626
+  date: '2003-01-17'
+- type: amended_by
+  target: pt:dre:660295:por
+  label: "Extintos os lugares de chefe de repartição reclassificando-os em Técnicos Superiores de 1.ª classe do quadro de\
+    \ pessoal da IPAE aprovado pelo presente diploma, pelo DEC LEI.181/2003.2003.08.16.MC DR.IS-A [188]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/181-2003-660295
+  date: '2003-08-16'
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/149/1998/05/25/p/dre
   label: null
@@ -80,16 +106,24 @@ relationships:
   target: eli:http://data.dre.pt/eli/dec-lei/42/1996/05/07/p/dre
   label: null
   source: http://data.dre.pt/eli/dec-lei/42/1996/05/07/p/dre
+- type: cites
+  target: pt:dre:457224:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:469652:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T14:15:48Z'
   warnings: []
   errors: []
 ---

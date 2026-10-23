@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/2s/2010/07/137000000/3844638446.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -46,18 +46,18 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/declaracao-rectificacao/1412-2010-3512517
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2010-07-16T00:00:00Z'
+  retrieved_at: '2026-10-23T14:17:29Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: a2e096c9b04780c6481f2b6a3c2f973d4f384f2ffaea22db7762d7a3240f60ca
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 98a71bc3c06fd5b4b91e5daf1773ae1e7cbae35e4c92d4f2ed7195cd9ddfbc8d
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T14:17:29Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -69,13 +69,13 @@ relationships: []
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T14:17:29Z'
   warnings: []
   errors: []
 ---
@@ -87,3 +87,5 @@ Declaração de rectificação n.º 1412/2010
 Por ter saído com inexactidão o aviso (extracto) n.º 11 454/2010, publicado no Diário da República, 2.ª série, n.º 111, de 9 de Junho de 2010, relativo à nomeação, em regime de substituição, no cargo de chefe do Serviço de Finanças de Penamacor, o técnico de administração tributária adjunto, nível 2, Manuel Roque Andrade Afonso, por vacatura do lugar, rectifica-se que onde se lê «com efeitos a 1.06.10» deve ler-se «com efeitos a 8 de Junho de 2010».
 
 7 de Julho de 2010. - O Director de Serviços, Laudelino Pinheiro.
+
+203472676

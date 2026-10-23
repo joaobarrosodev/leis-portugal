@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/755/1999/08/27/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/755-1999-533803
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2002-06-24T00:00:00Z'
+  retrieved_at: '2026-10-23T14:17:32Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 4d41c22b2ee64f0618868783ff57c97dfaf8fa70c013a4a602b37fd1be40d687
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: ab4e79755b0ace93c43c4e59e4f6970ce31067e22f5b420d917935de636681e7
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T14:17:32Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,18 +66,24 @@ reuse:
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
 - Bacharelato
-- Plano de Estudos
 - Curso de Educação de Infância
 - Curso de Educadores de Infância
-- Lisboa
+- Ensino Superior
 - Instituto Superior de Educação e Ciências
 - Licenciatura
-- Ensino Superior
+- Lisboa
+- Plano de Estudos
 relationships:
 - type: amended_by
   target: pt:dre:139743:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:139743:por
+  label: "Determinado que o Plano de Estudos do curso de licenciatura em Educação de Infância passe aser o constante do anexo\
+    \ ao presente diploma pela PORT.697/2002.2002.06.24.ME, DR.IS-B [143]\0]\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/697-2002-139743
+  date: '2002-06-24'
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/16/1994/01/22/p/dre
   label: null
@@ -114,16 +120,60 @@ relationships:
   target: eli:http://data.dre.pt/eli/port/95/1993/01/25/p/dre
   label: null
   source: http://data.dre.pt/eli/port/95/1993/01/25/p/dre
+- type: cites
+  target: pt:dre:150335:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:222418:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:260155:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:289611:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:300227:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:512030:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:533820:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:602506:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:618546:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:653145:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:679847:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T14:17:32Z'
   warnings: []
   errors: []
 ---

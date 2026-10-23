@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2001/04/092b00/23142314.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/424/2001/04/19/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/424-2001-164452
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2004-08-23T00:00:00Z'
+  retrieved_at: '2026-10-23T14:32:08Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: d216aad1736a3ef969d57778f09e4375d51405b7a53f6fcf916cb6b2f2263464
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 8c230d74945fe1f8788c4fe9090a9013fa1311139de44216c26f4d0dc5284059
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T14:32:08Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,13 +66,13 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Vinho
-- Denominação de Origem
+- Certificado de Qualidade
 - Controlo de Qualidade
+- Denominação de Origem
+- Etiquetagem
 - Marca
 - Região Demarcada
-- Etiquetagem
-- Certificado de Qualidade
+- Vinho
 - Vinho Regional Ribatejano
 relationships:
 - type: amended_by
@@ -99,16 +99,42 @@ relationships:
   target: eli:http://data.dre.pt/eli/port/623/1998/08/28/p/dre
   label: null
   source: http://data.dre.pt/eli/port/623/1998/08/28/p/dre
+- type: cites
+  target: pt:dre:320281:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:323706:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:448304:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:648731:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:674426:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:479875:por
+  label: "Revogada pelo dec Lei 212/2004 de 23-Ago, DR.IS-A [198], mantido contudo transitoriamente em vigor até à publicação\
+    \ da legislação prevista nos arts 5º a 11º do referido diploma\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/212-2004-479875
+  date: '2004-08-23'
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T14:32:08Z'
   warnings: []
   errors: []
 ---

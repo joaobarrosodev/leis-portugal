@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/684/1999/08/24/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/684-1999-433812
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2012-09-20T00:00:00Z'
+  retrieved_at: '2026-10-23T14:17:03Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 85ae51ec78a4923b5cc0c8298d4f58ccbf0ad45696012236342ee918825fceb6
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 4079dea239680b0ac4908ad19bf05758c02c641e4ae44a506dee3700225532f2
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T14:17:03Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -65,11 +65,11 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Serviços de Registo e Notariado
 - Emolumento do Notariado
-- Registos e Notariado
-- Registo Predial
 - Registo Comercial
+- Registo Predial
+- Registos e Notariado
+- Serviços de Registo e Notariado
 relationships:
 - type: amended_by
   target: pt:dre:176062:por
@@ -83,16 +83,28 @@ relationships:
   target: eli:http://data.dre.pt/eli/port/996/1998/11/25/p/dre
   label: null
   source: http://data.dre.pt/eli/port/996/1998/11/25/p/dre
+- type: cites
+  target: pt:dre:152365:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:216752:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:265564:por
+  label: null
+  source: null
 article_structure:
-  article_count: 5
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T14:17:03Z'
   warnings: []
   errors: []
 ---
@@ -123,7 +135,7 @@ d) ...
 
 4 - Por cada registo efectuado por simples depósito de documentos é devido o emolumento previsto no n.º 2.
 
-###### Artigo 16.º
+Artigo 16.º
 
 1 - ...
 
@@ -139,7 +151,7 @@ A partir da 9.ª página, por cada página a mais - 200$00.
 
 2 - ...
 
-###### Artigo 18.º
+Artigo 18.º
 
 ...
 
@@ -167,7 +179,7 @@ c) ...
 
 4) ...
 
-###### Artigo 19.º
+Artigo 19.º
 
 1 - ...
 
@@ -199,7 +211,7 @@ g) ...
 
 5 - O disposto nos números anteriores é igualmente aplicável aos instrumentos avulsos que contenham mais de um acto.
 
-###### Artigo 21.º
+Artigo 21.º
 
 Além de outros consagrados em diplomas avulsos, são isentos de emolumentos os seguintes actos:
 
@@ -207,7 +219,7 @@ a) As escrituras de habilitação e as de partilha em que algum interessado seja
 
 b) Os de rectificação resultantes de erros imputáveis ao notário.
 
-###### Artigo 24.º
+Artigo 24.º
 
 1 - a) ...
 
@@ -221,4 +233,4 @@ b) ...
 
 4.º A presente portaria entra em vigor no dia seguinte ao da sua publicação.
 
-**O Ministro da Justiça, José Eduardo Vera Cruz Jardim, em 3 de Agosto de 1999.**
+O Ministro da Justiça, José Eduardo Vera Cruz Jardim, em 3 de Agosto de 1999.

@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2001/03/061b00/14221430.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/198/2001/03/13/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/198-2001-390226
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2004-04-19T00:00:00Z'
+  retrieved_at: '2026-10-23T14:30:45Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 3bebce634325bac1886f5dbe654865696d258aa288938015d567f75e880af3cc
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: a04a519d23b639aa7a04cc3d8ed531eee90013e566c4318b12c6b984ca8945e8
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T14:30:45Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -65,13 +65,13 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Energia não Poluente
 - Criação de Serviços
+- Energia
+- Energia não Poluente
+- Medida de Apoio ao Aproveitamento do Potencial Energético e Racionalização de Consumos
 - Mudança Tecnológica
 - Política Energética
-- Medida de Apoio ao Aproveitamento do Potencial Energético e Racionalização de Consumos
 - Proteção do Ambiente
-- Energia
 - Recursos Energéticos
 - Regulamento
 relationships:
@@ -79,6 +79,19 @@ relationships:
   target: pt:dre:223462:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:409701:por
+  label: "Alterado o nº 4 do art. 12º e os Anexos A e B do Regulamento aprovado pelo presente diploma, pela PORT.1219-A/2001.2001.10.23.MF,\
+    \ DR.IS-B [246)Supl\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/1219-a-2001-409701
+  date: '2001-10-23'
+- type: amended_by
+  target: pt:dre:303264:por
+  label: "Alterados os arts. 2º, 3º, 4º, 5º, 6º, 7º, 8º, 9º, 10º, 11º, 12º, 16º, 23º, 24º e os anexos A, B, C,D e E, todos\
+    \ do Regulamento, com a redacção dada pela Port 1219-A/2001 de 23-Out, pela PORT.383/2002.2002.04.10.MF DR.IS-B [84]\0\
+    \0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/383-2002-303264
+  date: '2002-04-10'
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/118/1998/05/07/p/dre
   label: null
@@ -91,16 +104,38 @@ relationships:
   target: eli:http://data.dre.pt/eli/port/687/2000/08/31/p/dre
   label: null
   source: http://data.dre.pt/eli/port/687/2000/08/31/p/dre
+- type: cites
+  target: pt:dre:334611:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:510266:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:517194:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:581071:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:223462:por
+  label: "Revogada, com a redacção que lhe foi dada pelas Ports. 1219-A/2001, de 23-Out e 383/2002, de 10-Abr, pela PORT.394/2004.19.04.2004.MF,\
+    \ DR.IS-B [92] de 19.04.2004\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/394-2004-223462
+  date: '2004-04-19'
 article_structure:
   article_count: 24
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T14:30:45Z'
   warnings: []
   errors: []
 ---
@@ -121,7 +156,7 @@ Manda o Governo, pelos Ministros das Finanças, da Economia e do Planeamento, qu
 
 Em 7 de Fevereiro de 2001.
 
-**O Ministro das Finanças, Joaquim Augusto Nunes Pina Moura. - O Ministro da Economia, Mário Cristina de Sousa. - A Ministra do Planeamento, Elisa Maria da Costa Guimarães Ferreira.**
+O Ministro das Finanças, Joaquim Augusto Nunes Pina Moura. - O Ministro da Economia, Mário Cristina de Sousa. - A Ministra do Planeamento, Elisa Maria da Costa Guimarães Ferreira.
 
 ## ANEXO
 
@@ -583,40 +618,4 @@ i) Caso o prazo de financiamento bancário seja inferior a cinco anos, os requis
 
 ii) PR = I/(R - C);
 
-iii) Caso PR
-
-iv) Caso PR>8, os requisitos do n.º 3 do presente anexo mantêm-se.
-
-10 - Mediante proposta do gestor, devidamente fundamentada, pode o Ministro da Economia ajustar os limites referidos nos n.os 1 e 3 anteriores e na alínea iii) do n.º 9.
-
-ANEXO B
-
-Taxas máximas do incentivo
-
-1 - As taxas de incentivo referidas no n.º 2 e nas alíneas a) e b) e na subalínea c1) do n.º 3, ambos do artigo 12.º, têm como limites para a Grande Lisboa e para a restante área de Lisboa e Vale do Tejo os valores apresentados no quadro seguinte, em ESB (equivalente de subvenção bruta):
-
-[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2001/03/061b00/14221430.pdf)
-
-2 - O incentivo expresso em ESB (equivalente de subvenção bruta) é calculado através da soma do incentivo não reembolsável com os juros e outros encargos actualizados de acordo com metodologia definida pela Comissão Europeia.
-
-ANEXO C
-
-Zonas de modulação regional
-
-[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2001/03/061b00/14221430.pdf)
-
-iv) Caso PR>8, os requisitos do n.º 3 do presente anexo mantêm-se.
-
-10 - Mediante proposta do gestor, devidamente fundamentada, pode o Ministro da Economia ajustar os limites referidos nos n.os 1 e 3 anteriores e na alínea iii) do n.º 9.
-
-## ANEXO B — Taxas máximas do incentivo
-
-1 - As taxas de incentivo referidas no n.º 2 e nas alíneas a) e b) e na subalínea c1) do n.º 3, ambos do artigo 12.º, têm como limites para a Grande Lisboa e para a restante área de Lisboa e Vale do Tejo os valores apresentados no quadro seguinte, em ESB (equivalente de subvenção bruta):
-
-[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2001/03/061b00/14221430.pdf)
-
-2 - O incentivo expresso em ESB (equivalente de subvenção bruta) é calculado através da soma do incentivo não reembolsável com os juros e outros encargos actualizados de acordo com metodologia definida pela Comissão Europeia.
-
-## ANEXO C — Zonas de modulação regional
-
-[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2001/03/061b00/14221430.pdf)
+iii) Caso PRiv) Caso PR>8, os requisitos do n.º 3 do presente anexo mantêm-se. 10 - Mediante proposta do gestor, devidamente fundamentada, pode o Ministro da Economia ajustar os limites referidos nos n.os 1 e 3 anteriores e na alínea iii) do n.º 9. ANEXO B Taxas máximas do incentivo 1 - As taxas de incentivo referidas no n.º 2 e nas alíneas a) e b) e na subalínea c1) do n.º 3, ambos do artigo 12.º, têm como limites para a Grande Lisboa e para a restante área de Lisboa e Vale do Tejo os valores apresentados no quadro seguinte, em ESB (equivalente de subvenção bruta): [[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2001/03/061b00/14221430.pdf)](https://files.diariodarepublica.pt/1s/2001/03/061b00/14221430.pdf) 2 - O incentivo expresso em ESB (equivalente de subvenção bruta) é calculado através da soma do incentivo não reembolsável com os juros e outros encargos actualizados de acordo com metodologia definida pela Comissão Europeia. ANEXO C Zonas de modulação regional [[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2001/03/061b00/14221430.pdf)](https://files.diariodarepublica.pt/1s/2001/03/061b00/14221430.pdf)

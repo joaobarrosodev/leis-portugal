@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/2s/2009/08/155000000/3241632416.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -47,18 +47,18 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/declaracao-rectificacao/1928-2009-1239569
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2009-08-12T00:00:00Z'
+  retrieved_at: '2026-10-23T14:03:58Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: a8193f07d4e6926314fac9e435b5fd93817c57f8bacc20ddb1bac019c2d10ea5
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 0a4a0dd4276d037a9900323349c3292698899fd14324350af6718c8dcd4e74bd
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T14:03:58Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,23 +66,29 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects: []
-relationships: []
+relationships:
+- type: cites
+  target: pt:dre:945956:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T14:03:58Z'
   warnings: []
   errors: []
 ---
 
-# Declaração de Rectificação n.º 1928/2009
+# Declaração de rectificação n.º 1928/2009
 
 Por ter sido publicado com inexactidão no Diário da República 2.ª série n.º 107 de 3 de Junho de 2009, página 22355, o [Aviso n.º 10467/2009](https://diariodarepublica.pt/dr/detalhe/aviso/10467-2009-945956) (2.ª série), rectifica-se que onde se lê "Referência c) Gestão de Projectos - 2 postos de trabalho" deve ler-se "Referência c) Gestão de Projectos - 3 postos de trabalho"
 
 24 de Julho de 2009. - O Secretário, João Mendes Jacinto.
+
+202163301

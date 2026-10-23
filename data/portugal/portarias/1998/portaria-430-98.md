@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/430/1998/07/25/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/430-1998-428623
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1998-07-25T00:00:00Z'
+  retrieved_at: '2026-10-23T14:08:58Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 3c95e6f5e3784ef04af1e6f68635445291c40b4ad24666261942caa8cf5e0c0d
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: ffcef2543e3cea88ea5baa6485da4b597209d47dacef4dc8fe72f1ce7fff1332
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T14:08:58Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -65,11 +65,11 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Doença Animal
+- Abate de Animais
 - Controlo Sanitário
+- Doença Animal
 - Gado Bovino
 - Indemnização
-- Abate de Animais
 - Política Agrícola Comum
 - Programa de Erradicação da Peripneumonia Contagiosa dos Bovinos
 - Regulamento
@@ -82,16 +82,28 @@ relationships:
   target: eli:http://data.dre.pt/eli/port/789/1993/09/06/p/dre
   label: null
   source: http://data.dre.pt/eli/port/789/1993/09/06/p/dre
+- type: cites
+  target: pt:dre:487076:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:629985:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:643502:por
+  label: null
+  source: null
 article_structure:
   article_count: 17
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T14:08:58Z'
   warnings: []
   errors: []
 ---
@@ -108,9 +120,9 @@ Manda o Governo, pelo Ministro da Agricultura, do Desenvolvimento Rural e das Pe
 
 Ministério da Agricultura, do Desenvolvimento Rural e das Pescas.
 
-**Assinada em 8 de Julho de 1998.**
+Assinada em 8 de Julho de 1998.
 
-**O Ministro de Agricultura, do Desenvolvimento Rural e das Pescas, Fernando Manuel Van-Zeller Gomes da Silva.**
+O Ministro de Agricultura, do Desenvolvimento Rural e das Pescas, Fernando Manuel Van-Zeller Gomes da Silva.
 
 ## ANEXO — REGULAMENTO DO PROGRAMA DE ERRADICAÇÃO DA PERIPNEUMONIA CONTAGIOSA DOS BOVINOS
 

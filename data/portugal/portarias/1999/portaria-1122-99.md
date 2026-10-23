@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/1122/1999/12/29/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/1122-1999-291898
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2006-10-27T00:00:00Z'
+  retrieved_at: '2026-10-23T14:13:15Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 3167cd4c5bd43e49174980dcaef4e4f1cb08989628b2efe582cf2538a5214f59
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 4fb51cc2b2569394cbf2acb50252f06c428148e590a74b306d9b4fd1a7cd7c68
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T14:13:15Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -65,12 +65,12 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Financiamento
-- Comissão de Acompanhamento
-- FAIA
-- Projeto de Investimento
-- Criação de Emprego
 - Alentejo
+- Comissão de Acompanhamento
+- Criação de Emprego
+- FAIA
+- Financiamento
+- Projeto de Investimento
 - Promoção de Emprego
 - Regime de Apoio
 - Unidade de Gestão
@@ -79,6 +79,29 @@ relationships:
   target: pt:dre:545639:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:496485:por
+  label: "Alterado o período de candidaturas previsto no nº 3 do art. 16º, pela PORT.214/2000.2000.04.10.MTS, DR.IS-B [85]\0\
+    \0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/214-2000-496485
+  date: '2000-04-10'
+- type: amended_by
+  target: pt:dre:348688:por
+  label: "Alterados os arts 3º, 6º, 7º, 10º, 11º e12º pela PORT.664/2001.2001.06.28.MTS, DR.IS-B [148] de 28/Jun/2001\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/664-2001-348688
+  date: '2001-06-28'
+- type: amended_by
+  target: pt:dre:566620:por
+  label: "Prorrogado o prazo de vigência do Fundo de Apoio ao Investimento no Alentejo, criado e regulamentado pelo presente\
+    \ diploma, e reestruturado, pela PORT.1360/2004.27.10.2004.MAET, DR.IS-B [253] de 27.10.2004\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/1360-2004-566620
+  date: '2004-10-27'
+- type: amended_by
+  target: pt:dre:545639:por
+  label: "Extinto sem qualquer transferência de atribuições o Fundo de Apoio ao Investimento no Alentejo pelo DEC LEI.211/2006.27.10.2006.MTSSO,\
+    \ DR.IS [208] de 27.10.2006, nos termos do preceituado no respectivo art. 36º\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/211-2006-545639
+  date: '2006-10-27'
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/132/1999/04/21/p/dre
   label: null
@@ -87,16 +110,24 @@ relationships:
   target: eli:http://data.dre.pt/eli/resolconsmin/8/1999/02/09/p/dre
   label: null
   source: http://data.dre.pt/eli/resolconsmin/8/1999/02/09/p/dre
+- type: cites
+  target: pt:dre:169466:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:534598:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 5
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T14:13:15Z'
   warnings: []
   errors: []
 ---

@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/313/1998/05/21/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/313-1998-523834
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2000-04-18T00:00:00Z'
+  retrieved_at: '2026-10-23T14:08:04Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: c3f068faddaabf897287070adf5aa18448e780cf8c32015f909765b7733d6c35
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: c40606a12606a8b1a44debb76781b35ac860de935f93d462569be9bd6dc17485
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T14:08:04Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,12 +67,12 @@ reuse:
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
 - Bacharelato
-- Plano de Estudos
 - Curso de Cardiopneumologia
 - Curso de Farmácia
 - Curso de Fisioterapia
 - Curso de Radiologia
 - Escola do Serviço de Saúde Militar
+- Plano de Estudos
 relationships:
 - type: amended_by
   target: pt:dre:522388:por
@@ -98,16 +98,36 @@ relationships:
   target: eli:http://data.dre.pt/eli/decregul/4/1994/02/18/p/dre
   label: null
   source: http://data.dre.pt/eli/decregul/4/1994/02/18/p/dre
+- type: cites
+  target: pt:dre:314396:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:516226:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:526782:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:541444:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:667764:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T14:08:04Z'
   warnings: []
   errors: []
 ---
@@ -184,9 +204,9 @@ O disposto na presente portaria aplica-se desde o ano lectivo de 1994-1995, incl
 
 Ministérios da Defesa Nacional, da Educação e da Saúde.
 
-**Assinada em 30 Abril de 1998.**
+Assinada em 30 Abril de 1998.
 
-**O Ministro da Defesa Nacional, José Veiga Simão. Pelo Ministro da Educação, Alfredo Jorge Silva, Secretário de Estado do Ensino Superior. - A Ministra da Saúde, Maria de Belém Roseira Martins Coelho Henriques de Pina.**
+O Ministro da Defesa Nacional, José Veiga Simão. Pelo Ministro da Educação, Alfredo Jorge Silva, Secretário de Estado do Ensino Superior. - A Ministra da Saúde, Maria de Belém Roseira Martins Coelho Henriques de Pina.
 
 Do ANEXO I ao ANEXO X
 

@@ -20,12 +20,12 @@ publication:
   reference: Diário da República n.º 88/1998, 1º Suplemento, Série I-B de 1998-04-15
   number: '88'
   series: I
-  supplement: 1º Suplemento
+  supplement: null
   pages: 1690-(2) a 1690-(6)
   pdf_url: https://files.diariodarepublica.pt/1s/1998/04/088b01/00020006.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/238-a/1998/04/15/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/238-a-1998-202782
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2004-06-05T00:00:00Z'
+  retrieved_at: '2026-10-23T14:07:35Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: dd07b362882199c921c043cec2d010d21295c1748419536cf356830b4042486f
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 95789ad2f2aa33ae4511ac1d044e01be54cebddeebaaea55202c43769b09d50f
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T14:07:35Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,29 +66,42 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Tempo de Serviço
-- Transporte Aéreo
-- Segurança no Trabalho
+- Aviação Civil
 - Pessoal Aeronáutico
 - Pessoal Navegante
 - Piloto Aviador
-- Aviação Civil
 - Segurança Aérea
+- Segurança no Trabalho
+- Tempo de Serviço
+- Transporte Aéreo
 relationships:
 - type: amended_by
   target: pt:dre:277850:por
   label: Última alteração registada na importação inicial
   source: null
+- type: cites
+  target: pt:dre:326119:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:421413:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:277850:por
+  label: "Revogada pelo DEC LEI.139/2004.05.06.2004.MOPTH, DR.IS-A [132] de 05.06.2004\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/139-2004-277850
+  date: '2004-06-05'
 article_structure:
   article_count: 19
   section_count: 3
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T14:07:35Z'
   warnings: []
   errors: []
 ---
@@ -353,36 +366,36 @@ Sem prejuízo do disposto no artigo anterior, é revogada a [Portaria n.º 408/8
 
 Ministérios do Equipamento, do Planeamento e da Administração do Território e do Trabalho e da Solidariedade.
 
-**Assinada em 3 de Abril de 1998.**
+Assinada em 3 de Abril de 1998.
 
-**O Ministro do Equipamento, do Planeamento e da Administração do Território, João Cardona Gomes Cravinho. - Pelo Ministro do Trabalho e da Solidariedade, Fernando Lopes Ribeiro Mendes, Secretário de Estado da Segurança Social e das Relações Laborais.**
+O Ministro do Equipamento, do Planeamento e da Administração do Território, João Cardona Gomes Cravinho. - Pelo Ministro do Trabalho e da Solidariedade, Fernando Lopes Ribeiro Mendes, Secretário de Estado da Segurança Social e das Relações Laborais.
 
 QUADRO N.º 1
 
 Máximos de período de serviço de voo para tripulação de dois pilotos
 
-[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/1998/04/088b01/00020006.pdf)
+[[[[[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/1998/04/088b01/00020006.pdf)](https://files.diariodarepublica.pt/1s/1998/04/088b01/00020006.pdf)](https://files.diariodarepublica.pt/1s/1998/04/088b01/00020006.pdf)](https://files.diariodarepublica.pt/1s/1998/04/088b01/00020006.pdf)](https://files.diariodarepublica.pt/1s/1998/04/088b01/00020006.pdf)
 
 QUADRO N.º 2
 
 Máximos de período de serviço de voo para tripulação de um piloto
 
-[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/1998/04/088b01/00020006.pdf)
+[[[[[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/1998/04/088b01/00020006.pdf)](https://files.diariodarepublica.pt/1s/1998/04/088b01/00020006.pdf)](https://files.diariodarepublica.pt/1s/1998/04/088b01/00020006.pdf)](https://files.diariodarepublica.pt/1s/1998/04/088b01/00020006.pdf)](https://files.diariodarepublica.pt/1s/1998/04/088b01/00020006.pdf)
 
 QUADRO N.º 3
 
 Máximos de período de serviço de voo com tripulação reforçada
 
-[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/1998/04/088b01/00020006.pdf)
+[[[[[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/1998/04/088b01/00020006.pdf)](https://files.diariodarepublica.pt/1s/1998/04/088b01/00020006.pdf)](https://files.diariodarepublica.pt/1s/1998/04/088b01/00020006.pdf)](https://files.diariodarepublica.pt/1s/1998/04/088b01/00020006.pdf)](https://files.diariodarepublica.pt/1s/1998/04/088b01/00020006.pdf)
 
 QUADRO N.º 4
 
 Serviço de voo repartido
 
-[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/1998/04/088b01/00020006.pdf)
+[[[[[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/1998/04/088b01/00020006.pdf)](https://files.diariodarepublica.pt/1s/1998/04/088b01/00020006.pdf)](https://files.diariodarepublica.pt/1s/1998/04/088b01/00020006.pdf)](https://files.diariodarepublica.pt/1s/1998/04/088b01/00020006.pdf)](https://files.diariodarepublica.pt/1s/1998/04/088b01/00020006.pdf)
 
 QUADRO N.º 5
 
 Limites de tempo de voo e período de serviço de voo
 
-[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/1998/04/088b01/00020006.pdf)
+[[[[[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/1998/04/088b01/00020006.pdf)](https://files.diariodarepublica.pt/1s/1998/04/088b01/00020006.pdf)](https://files.diariodarepublica.pt/1s/1998/04/088b01/00020006.pdf)](https://files.diariodarepublica.pt/1s/1998/04/088b01/00020006.pdf)](https://files.diariodarepublica.pt/1s/1998/04/088b01/00020006.pdf)

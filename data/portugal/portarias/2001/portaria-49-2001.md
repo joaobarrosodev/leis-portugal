@@ -48,18 +48,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/49/2001/01/26/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/49-2001-313403
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2004-08-03T00:00:00Z'
+  retrieved_at: '2026-10-23T14:32:34Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 487391fde5f42f322aa54675edc52a3304a95dec7e2b2d2c38d5efc9379b057c
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 7fc482ab1a6e8434fb74213fc8abbc679b16223bea453e9699dc34b4ef73ec0a
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T14:32:34Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -69,17 +69,29 @@ reuse:
 subjects:
 - Ajuda Comunitária
 - Financiamento
+- Ifadap
+- Medida Agris
+- Programa AGRO
+- Programa de Apoio à Modernização Agrícola e Florestal
 - QCA III
 - Regulamento
-- Programa de Apoio à Modernização Agrícola e Florestal
-- Programa AGRO
-- Medida Agris
-- Ifadap
 relationships:
 - type: amended_by
   target: pt:dre:514999:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:650304:por
+  label: "Alterado o art. 16º, pela PORT.1103-B/2001.2001.09.15.MPLA, DR.IS-B [215]2ºSupl\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/1103-b-2001-650304
+  date: '2001-09-15'
+- type: amended_by
+  target: pt:dre:514999:por
+  label: "Alterados os art.s 19.º, 20.º, 22.º, 23.º, 24.º, 26.º, 29.º e 32.º, aditado o art. 33.º e revogado o art. 25.º,\
+    \ todos do Regulamento de Aplicação da Componente de Apoio à Prestação de Serviços Agrícolas, aprovado pelo presente diploma,\
+    \ pela PORT.978/2004.03.08.2004.MADRP, DR.IS-B [181] de 03.08.2004\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/978-2004-514999
+  date: '2004-08-03'
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/163-a/2000/07/27/p/dre
   label: null
@@ -88,16 +100,24 @@ relationships:
   target: eli:http://data.dre.pt/eli/dec-lei/54-a/2000/04/07/p/dre
   label: null
   source: http://data.dre.pt/eli/dec-lei/54-a/2000/04/07/p/dre
+- type: cites
+  target: pt:dre:220892:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:249799:por
+  label: null
+  source: null
 article_structure:
   article_count: 32
   section_count: 3
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T14:32:34Z'
   warnings: []
   errors: []
 ---
@@ -120,7 +140,7 @@ Manda o Governo, pelos Ministros do Planeamento e da Agricultura, do Desenvolvim
 
 Em 29 de Dezembro de 2000.
 
-**A Ministra do Planeamento, Elisa Maria da Costa Guimarães Ferreira. - O Ministro da Agricultura, do Desenvolvimento Rural e das Pescas, Luís Manuel Capoulas Santos.**
+A Ministra do Planeamento, Elisa Maria da Costa Guimarães Ferreira. - O Ministro da Agricultura, do Desenvolvimento Rural e das Pescas, Luís Manuel Capoulas Santos.
 
 ## ANEXO — REGULAMENTO DE APLICAÇÃO DA COMPONENTE DE APOIO À PRESTAÇÃO DE SERVIÇOS AGRÍCOLAS
 

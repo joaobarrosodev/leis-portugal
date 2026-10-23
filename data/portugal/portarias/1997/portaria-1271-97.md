@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/1271/1997/12/26/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/1271-1997-421385
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2009-01-30T00:00:00Z'
+  retrieved_at: '2026-10-23T14:00:38Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: a08d5173ee861e64ee80588e209fcaf52d763cff35ac5ac3fb5f7730788d8aed
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 9542260d6ea6f719100b2a68119fb540bcc02b867e4ef0bdb91096544159abb3
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T14:00:38Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,16 +66,16 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Deficiente
 - Apoio Técnico
-- Financiamento
 - Bolsa de Estágio
-- Instituto do Emprego e Formação Profissional
-- Formação Profissional
+- Deficiente
 - Desempregado
-- Jovem Trabalhador
 - Emprego
 - Estágio de Formação
+- Financiamento
+- Formação Profissional
+- Instituto do Emprego e Formação Profissional
+- Jovem Trabalhador
 - Política de Emprego
 - Reconversão Profissional
 - VIDA Activa
@@ -84,6 +84,19 @@ relationships:
   target: pt:dre:601742:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:264679:por
+  label: "Alterados os nºs 2, 4, 5, 6, 9, 10, 14, 15, 17 e 19 da Port 268/97, de 18-Abr, na redacção do presente diploma e\
+    \ da 814/98, de 24-Set, e republicado em Anexo o respectivo texto com as alterações introduzidas, pela PORT.286/2002.2002.03.15.MTS,\
+    \ DR.IS-B [63]\03]\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/286-2002-264679
+  date: '2002-03-15'
+- type: amended_by
+  target: pt:dre:578545:por
+  label: "Alterado o n.º 6.º da Port 268/97, de 18-Abr, na redacção do presente diploma, pela PORT.282/2005.21.03.2005.MAET,\
+    \ DR.IS-B [56] de 21.03.2005\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/282-2005-578545
+  date: '2005-03-21'
 - type: cites
   target: eli:http://data.dre.pt/eli/port/247/1995/03/29/p/dre
   label: null
@@ -96,16 +109,42 @@ relationships:
   target: eli:http://data.dre.pt/eli/port/728/1997/08/25/p/dre
   label: null
   source: http://data.dre.pt/eli/port/728/1997/08/25/p/dre
+- type: cites
+  target: pt:dre:173696:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:182655:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:193414:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:462066:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:469608:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:601742:por
+  label: "Revogada, a partir de 04.02.2009, sem prejuízo do disposto no n.º 1 do art. 24.º, a Port 268/97, de 18-Abr, com\
+    \ a redacção dada pelo presente diploma, pela PORT.129/2009.30.01.2009.MTSSO, DR.IS [21] de 30.01.2009\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/129-2009-601742
+  date: '2009-01-30'
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T14:00:38Z'
   warnings: []
   errors: []
 ---
@@ -230,9 +269,9 @@ O presente diploma entra em vigor no dia seguinte à data da sua assinatura.
 
 Ministério para a Qualificação e o Emprego.
 
-**Assinada em 12 de Novembro de 1997.**
+Assinada em 12 de Novembro de 1997.
 
-**A Ministra para a Qualificação e o Emprego, Maria João Fernandes Rodrigues.**
+A Ministra para a Qualificação e o Emprego, Maria João Fernandes Rodrigues.
 
 [Portaria n.º 268/97](https://diariodarepublica.pt/dr/detalhe/portaria/268-1997-469608)
 

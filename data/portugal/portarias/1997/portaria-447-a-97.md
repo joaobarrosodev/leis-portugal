@@ -20,7 +20,7 @@ publication:
   reference: Diário da República n.º 154/1997, 1º Suplemento, Série I-B de 1997-07-07
   number: '154'
   series: I
-  supplement: 1º Suplemento
+  supplement: null
   pages: 3340-(2) a 3340-(6)
   pdf_url: https://files.diariodarepublica.pt/1s/1997/07/154b01/00020006.pdf
 entry_into_force_dates: []
@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/447-a/1997/07/07/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/447-a-1997-154399
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2000-09-21T00:00:00Z'
+  retrieved_at: '2026-10-23T14:02:53Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: f590344da4c92a82cfdbf7f3d13d1024a4c984c852d54fc3bbf4dfb051bbe3a3
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: f7c219b6f82b2df546b1d484b39f1cf023d58079b1634fb3e47fd3ec8178ac75
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T14:02:53Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,15 +66,15 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Serviço de Telecomunicações Móveis
+- Comunicações
 - Concurso Público
 - Instituto das Comunicações de Portugal
 - Licenciamento
-- Serviço FIXO de Telefone
 - Prestação de Serviços
-- Comunicações
 - Regulamento do Concurso Público para a Atribuição de uma Licença para a Prestação do Serviço de Telecomunicações Complementar
   Móvel-serviço Móvel Terrestre
+- Serviço de Telecomunicações Móveis
+- Serviço FIXO de Telefone
 - Telecomunicações Complementares
 relationships:
 - type: amended_by
@@ -85,16 +85,24 @@ relationships:
   target: eli:http://data.dre.pt/eli/dec-lei/40/1995/02/15/p/dre
   label: null
   source: http://data.dre.pt/eli/dec-lei/40/1995/02/15/p/dre
+- type: cites
+  target: pt:dre:202419:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:566193:por
+  label: null
+  source: null
 article_structure:
   article_count: 22
-  section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  section_count: 1
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T14:02:53Z'
   warnings: []
   errors: []
 ---
@@ -121,9 +129,9 @@ Manda o Governo, pelo Ministro do Equipamento, do Planeamento e da Administraç�
 
 Ministério do Equipamento, do Planeamento e da Administração do Território.
 
-**Assinada em 7 de Julho de 1997.**
+Assinada em 7 de Julho de 1997.
 
-**O Ministro do Equipamento, do Planeamento e da Administração do Território, João Cardona Gomes Cravinho.**
+O Ministro do Equipamento, do Planeamento e da Administração do Território, João Cardona Gomes Cravinho.
 
 ## ANEXO — Regulamento do Concurso Público para a Atribuição de Uma Licença para a Prestação do Serviço de Telecomunicações Complementar Móvel - Serviço Móvel Terrestre
 
@@ -189,7 +197,9 @@ Os cadernos de encargos são adquiridos na sede do ICP, na Avenida de José Malh
 
 4 - Os operadores de serviços de telecomunicações de uso público estão obrigados, pelo presente Regulamento e para efeitos deste concurso, a prestar todos os esclarecimentos que o ICP lhes solicite, a fornecer no prazo que lhes for fixado, nomeadamente de modo a permitir o cumprimento do disposto no número anterior.
 
-###### Artigo 8.º — Livro de consulta
+###### Artigo 8.º
+
+## Livro de consulta
 
 1 - O ICP deve manter aberto um livro contendo todos as peças integrantes do processo do concurso, os pedidos de esclarecimento solicitados, bem como as respostas aos mesmos, para livre consulta, entre as 9 e as 16 horas, por qualquer concorrente.
 

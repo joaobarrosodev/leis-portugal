@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/591/1998/08/24/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/591-1998-444939
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1999-10-07T00:00:00Z'
+  retrieved_at: '2026-10-23T14:10:00Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 11455eada4f417870db20dc04e3cb1ee9abfad142beb10873c476fa62a0a9b9a
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 4fef16c87b647abcf147207486d1acd4ba0c7922ba9cabed662058b1923f5eea
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T14:10:00Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,24 +66,43 @@ reuse:
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
 - Escola Nacional de Saúde Pública
-- Universidade NOVA de Lisboa
 - Pessoal não Docente
 - Quadro de Pessoal
+- Universidade NOVA de Lisboa
 relationships:
 - type: amended_by
   target: pt:dre:671972:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:671972:por
+  label: "Substituído o quadro de pessoal não docente, na parte respeitante ao grupo de pessoal técnico-profissional, pela\
+    \ PORT.859/99.1999.10.07.PCM DR.IS-B [234]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/859-1999-671972
+  date: '1999-10-07'
+- type: cites
+  target: pt:dre:355494:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:505986:por
+  label: null
+  source: null
+- type: corrected_by
+  target: pt:dre:211845:por
+  label: "Rectificada pela DECL-RECT.16-F/98.1998.09.17.PCM, DR.IS-A [226]4ºSupl de 30/Set/1998 \0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/declaracao-rectificacao/16-f-1998-211845
+  date: '1998-09-17'
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T14:10:00Z'
   warnings: []
   errors: []
 ---
@@ -106,7 +125,7 @@ Manda o Governo, pelos Ministros das Finanças, Adjunto e da Educação, o segui
 
 Presidência do Conselho de Ministros e Ministérios das Finanças e da Educação.
 
-**Assinada em 24 de Julho de 1998.**
+Assinada em 24 de Julho de 1998.
 
 Pelo Ministro das Finanças, João Carlos da Costa Ferreira da Silva, Secretário de Estado do Orçamento. - Pelo Ministro Adjunto, Fausto de Sousa Correia, Secretário de Estado da Administração Pública e da Modernização Administrativa. - Pelo Ministro da Educação, Alfredo Jorge Silva, Secretário de Estado do Ensino Superior.
 

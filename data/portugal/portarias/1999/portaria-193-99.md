@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/193/1999/03/23/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/193-1999-150327
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1999-03-23T00:00:00Z'
+  retrieved_at: '2026-10-23T14:13:52Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: a362e161ddb1041ad9eb58a4d9d695cee430234d138c0558cc9c0e6446be9da9
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 2cee99a38103cb203c565d2985b8e91d181fd0af410cd56c37af6af6f3eba44c
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T14:13:52Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -65,34 +65,38 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Medicina Privada
-- Serviço de Saúde
-- Internamento Hospitalar
 - Escola Superior de Educação de Almeida Garrett
-- Serviço Nacional de Saúde
-- Exame Médico-forense
-- Impresso
-- Hospital Privado
-- Medicina Legal
-- Regime Jurídico
 - Estabelecimento Hospitalar
-- Serviços Médico-legais
+- Exame Médico-forense
+- Hospital Privado
+- Impresso
+- Internamento Hospitalar
+- Medicina Legal
+- Medicina Privada
 - Óbito
+- Regime Jurídico
+- Serviço de Saúde
+- Serviço Nacional de Saúde
+- Serviços Médico-legais
 relationships:
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/11/1998/01/24/p/dre
   label: null
   source: http://data.dre.pt/eli/dec-lei/11/1998/01/24/p/dre
+- type: cites
+  target: pt:dre:222631:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T14:13:52Z'
   warnings: []
   errors: []
 ---
@@ -113,8 +117,8 @@ Manda o Governo, pelos Ministros da Administração Interna, da Justiça e da Sa
 
 Ministérios da Administração Interna, da Justiça e da Saúde.
 
-**Assinada em 26 de Fevereiro de 1999.**
+Assinada em 26 de Fevereiro de 1999.
 
-**O Ministro da Administração Interna, Jorge Paulo Sacadura Almeida Coelho. - Pelo Ministro da Justiça, José Luís Lopes da Mota, Secretário de Estado da Justiça. - A Ministra da Saúde, Maria de Belém Roseira Martins Coelho Henriques de Pina.**
+O Ministro da Administração Interna, Jorge Paulo Sacadura Almeida Coelho. - Pelo Ministro da Justiça, José Luís Lopes da Mota, Secretário de Estado da Justiça. - A Ministra da Saúde, Maria de Belém Roseira Martins Coelho Henriques de Pina.
 
 [(ver modelos no documento original)](https://files.diariodarepublica.pt/1s/1999/03/069b00/16311631.pdf)

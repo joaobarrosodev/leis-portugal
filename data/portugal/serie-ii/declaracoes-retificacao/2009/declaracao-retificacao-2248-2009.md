@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/2s/2009/09/174000000/3692836928.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -46,18 +46,18 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/declaracao-rectificacao/2248-2009-2019689
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2009-09-08T00:00:00Z'
+  retrieved_at: '2026-10-23T14:05:53Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 827076ab013c1edc6f2aab9bbabafad5b8aec8ce0981e23f8376da4a713f383c
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 8928c0b55836e92668014fbcb0cf905c57b3a5172b54ab0e562a4661137869b8
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T14:05:53Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -69,13 +69,13 @@ relationships: []
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T14:05:53Z'
   warnings: []
   errors: []
 ---
@@ -87,3 +87,5 @@ Declaração de rectificação n.º 2248/2009
 Para os devidos efeitos se torna público que, por ter sido publicado com inexactidão o aviso n.º 10809/DRH - 2009, publicado no Diário da República, 2.ª série n.º 112 de 12 de Junho de 2009, se procede à seguinte rectificação: Onde se lê no ponto 12.1.1:"... tendo a ponderação de 55 % para a valoração final." deve ler-se:... tendo a ponderação de 70 % para a valoração final.", no ponto 12.2. onde se lê:"... sendo a sua ponderação para a avaliação final de 45 %." deve ler-se:"... sendo a sua ponderação para a avaliação final de 30 %." e onde se lê no ponto 13.1.1:"... VF=(ACx55 %)+(EPSx45 %)..." deve ler-se:"... VF=(ACx70 %)+(EPSx30 %)..."
 
 24 de Agosto de 2009. - A Presidente da Câmara, Maria Isabel Fernandes da Silva Soares.
+
+302224895

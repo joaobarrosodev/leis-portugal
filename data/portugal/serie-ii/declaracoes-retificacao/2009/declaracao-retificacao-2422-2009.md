@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/2s/2009/10/191000000/3994739947.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -46,18 +46,18 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/declaracao-rectificacao/2422-2009-2807675
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2009-10-01T00:00:00Z'
+  retrieved_at: '2026-10-23T14:06:54Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: df39d92b1f339c8501d12fe2a321dafbd1f4dea0cb329e044712ceadec4baa58
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: a2e4e441d62aa34da4c691f4de5b473ef9a67b233b2792aa6eb1850543005b1a
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T14:06:54Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -69,13 +69,13 @@ relationships: []
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T14:06:54Z'
   warnings: []
   errors: []
 ---
@@ -97,3 +97,5 @@ deve ler-se:
 «9.5 - Forma de apresentação de candidatura - as candidaturas deverão ser apresentadas em suporte electrónico, para o endereço: ISS-DRH-Procedimentos-Concursais@seg-social.pt, e identificadas no assunto com a 'Referência DRH/TS/61/2009', devendo o seu envio ocorrer até ao termo do prazo fixado para entrega das candidaturas, findo o qual não serão as mesmas consideradas.»
 
 14 de Setembro de 2009. - O Vogal do Conselho Directivo, António Nogueira de Lemos.
+
+202355061

@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/148/2000/03/14/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/148-2000-411853
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2010-12-15T00:00:00Z'
+  retrieved_at: '2026-10-23T14:21:41Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 38718a458311ad28d6f51647c031874c212074ff2802301a180733df8eda7bff
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: cb14c59f17b768dfc4542ca200dc5f3356411faca48a9d03687d0256e2838c9f
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T14:21:41Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -74,6 +74,31 @@ relationships:
   target: pt:dre:306953:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:284322:por
+  label: "Anexados vários prédios rústicos à zona de caça criada pelo presente diploma, pela Port.1033-GO/2004.10.08.2004.MAPF,\
+    \ DR.IS-B [187-2ºSupl] de 10.08.2004\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/1033-go-2004-284322
+  date: '2004-08-10'
+- type: amended_by
+  target: pt:dre:687036:por
+  label: "Renovada, por um periodo de 12 anos, a concessão da zona de caça, concessionada pelo presente diploma, pela PORT.223/2006.08.03.2006.MADRP,\
+    \ DR.IS-B [48] de 08.03.2006\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/223-2006-687036
+  date: '2006-03-08'
+- type: amended_by
+  target: pt:dre:603556:por
+  label: "Alterado o nº 1º da Port 223/2006, de 08-Mar, que renova a concessão da zona de caça atribuída pelo presente diploma,\
+    \ pela PORT.366/2009.07.04.2009.MADRP, DR.IS [68] de 07.04.2009\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/366-2009-603556
+  date: '2009-04-07'
+- type: amended_by
+  target: pt:dre:306953:por
+  label: "Anexado um prédio rústico à zona de caça criada pela presente portaria, alterada pela Port 1033-GO/2004, de 10-Ago,\
+    \ renovada pela Port 223/2006, de 08-Mar, e alterada pela Port 366/2009, de 07-Abr, pela PORT.1254/2010.15.12.2010.MADRP,\
+    \ DR.IS [241] de 15.12.2010\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/1254-2010-306953
+  date: '2010-12-15'
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/136/1996/08/14/p/dre
   label: null
@@ -82,16 +107,36 @@ relationships:
   target: eli:http://data.dre.pt/eli/port/219-a/1991/03/18/p/dre
   label: null
   source: http://data.dre.pt/eli/port/219-a/1991/03/18/p/dre
+- type: cites
+  target: pt:dre:219134:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:354162:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:405765:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:619925:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:620697:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T14:21:41Z'
   warnings: []
   errors: []
 ---

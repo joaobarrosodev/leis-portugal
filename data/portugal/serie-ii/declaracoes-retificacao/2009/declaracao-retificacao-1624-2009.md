@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/2s/2009/07/127000000/2607626076.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -46,18 +46,18 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/declaracao-rectificacao/1624-2009-1930442
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2009-07-03T00:00:00Z'
+  retrieved_at: '2026-10-23T14:02:12Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 7efee315f006579174e6beb40ea69bb179422a1acf1f19332bb3aa45eb770d4e
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: ec071dd79e8457f9c0ce574e56a7a89965b43dc9d35a1058cb24f7207d29cd10
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T14:02:12Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -65,22 +65,26 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects: []
-relationships: []
+relationships:
+- type: cites
+  target: pt:dre:2900762:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T14:02:12Z'
   warnings: []
   errors: []
 ---
 
-# Declaração de Rectificação n.º 1624/2009
+# Declaração de rectificação n.º 1624/2009
 
 Por ter sido publicado com inexactidão o Quadro n.º 33, constante do [Despacho n.º 10873/2009](https://diariodarepublica.pt/dr/detalhe/despacho/10873-2009-2900762), publicado no Diário da República, n.º 82 (2.ª série), de 28 de Abril de 2009, referente à adequação do curso de mestrado em Gestão de Empresas, rectifica-se que, onde se lê:
 
@@ -88,7 +92,7 @@ Por ter sido publicado com inexactidão o Quadro n.º 33, constante do [Despacho
 
 QUADRO N.º 33
 
-[([ver documento original](https://files.diariodarepublica.pt/2s/2009/07/127000000/2607626076.pdf))](https://files.diariodarepublica.pt/2s/2009/07/127000000/2607626076.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/2s/2009/07/127000000/2607626076.pdf)
 
 deve ler-se:
 
@@ -96,6 +100,8 @@ deve ler-se:
 
 QUADRO N.º 33
 
-[([ver documento original](https://files.diariodarepublica.pt/2s/2009/07/127000000/2607626076.pdf))](https://files.diariodarepublica.pt/2s/2009/07/127000000/2607626076.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/2s/2009/07/127000000/2607626076.pdf)
 
 26 de Junho de 2009. - A Directora dos Serviços Académicos, Margarida Cabral.
+
+201963581

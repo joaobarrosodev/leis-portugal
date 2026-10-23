@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/694/2001/07/10/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/694-2001-348548
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2005-08-29T00:00:00Z'
+  retrieved_at: '2026-10-23T14:33:55Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: f6bc656279801bd5f6c48cb5e8fa1766b55a16417065c70627e39e27a104b09b
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 0e5622b4a5e23af2d5210efc30550054441923193d6115c7ad0dfc7d2164b42f
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T14:33:55Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,19 +66,86 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
+- Beja
+- Bragança
 - Curso de Animador Sociocultural
 - Curso de Engenharia do Ambiente
 - Escola Superior Agrária
 - Escola Superior de Educação
 - Instituto Politécnico
 - Licenciatura
-- Beja
-- Bragança
 relationships:
 - type: amended_by
   target: pt:dre:245321:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:585183:por
+  label: "Alterado o plano de estudos do 2.º ciclo do curso bietápico de licenciatura em Engenharia Informática e das Tecnologias\
+    \ da Informação, aprovado pela Port 1040/2000, de 27-Out, na redacção do presente diploma, pela PORT.42/2002.2002.01.10.ME,\
+    \ DR.IS-B [8] \0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/42-2002-585183
+  date: '2002-01-10'
+- type: amended_by
+  target: pt:dre:273780:por
+  label: "Alterado o Plano de Estudos, aprovado pela Port 496/2000, de 24-Jul, na redacção dada pelo presente diploma, pela\
+    \ PORT.137/2002.2002.02.09.ME DR.IS-B [34]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/137-2002-273780
+  date: '2002-02-09'
+- type: amended_by
+  target: pt:dre:265525:por
+  label: "Alterado o plano de estudos do curso bietápico de licenciatura em Engenharia Geotécnica e Geomabiente aprovado pela\
+    \ Port 962/2000 de 09-Out, na redacção introduzida pelo presente diploma, pela PORT.247/2002.2002.03.12.ME, DR.IS-B [60]\0\
+    \0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/247-2002-265525
+  date: '2002-03-12'
+- type: amended_by
+  target: pt:dre:370409:por
+  label: "Alterado o plano de estudos (Quadros nºs 5 e 7 Anexos), aprovado pela Port 496/2000, de 24-Jul, na redacção do presente\
+    \ diploma e da Port 137/2002, de 09-Fev, pela PORT.528/2002.2002.05.06.ME, DR.IS-B [104]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/528-2002-370409
+  date: '2002-05-06'
+- type: amended_by
+  target: pt:dre:370411:por
+  label: "Alterado o plano de estudos aprovado pela Port 1137/2000, de 29-Nov, na redacção do presente diploma, pela PORT.530/2002.2002.05.06.ME,\
+    \ DR.IS-B [104]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/530-2002-370411
+  date: '2002-05-06'
+- type: amended_by
+  target: pt:dre:173173:por
+  label: "Alterado o anexo à Port 1137/2000, de 29-Nov, DR.IS-B [276], na redacção do presente diploma e da Port 530/2002,\
+    \ de 06-Mai, pela PORT.98/2003.2003.01.23.MCES DR.IS [19]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/98-2003-173173
+  date: '2003-01-23'
+- type: amended_by
+  target: pt:dre:492441:por
+  label: "Cessada a ministração das opções e dos ramos agrícolas e de engenharia rural e ambiente da licenciatura em Engenharia\
+    \ das Ciências Agrárias, cujo plano de estudos consta da Port 515/99, de 19-Jul, com a redacção dada pelo presente diploma,\
+    \ com a entrada em funcionamento do plano de estudos do curso aprovado pela PORT.1065/2003.2003.09.25.MCES DR.IS-B [166]\
+    \ que procede à sua revogação findo o prazo de transição\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/1065-2003-492441
+  date: '2003-09-25'
+- type: amended_by
+  target: pt:dre:238375:por
+  label: "Desdobrado em várias opções, o 1º e o 2º ciclo do curso bietápico de licenciatura em Teatro ministrado pela Escola\
+    \ Superior de Teatro e Cinema do Instituto Politécnico de Lisboa, criado pela Port 413-E/98 de 17-Jul e cujo Plano de\
+    \ estudos foi aprovado pela Port 992/99 de 03-Nov, alterada pelo presente diploma, pela PORT.595/2005.15.07.2005.MCTES,\
+    \ DR.IS-B [135] de 15.07.2005\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/595-2005-238375
+  date: '2005-07-15'
+- type: amended_by
+  target: pt:dre:245275:por
+  label: "Aprovado, nos termos dos anexos III e IV, o plano de estudos do ramo de Energia do 2º ciclo do curso, criado pelo\
+    \ presente diploma, pela PORT.733/2005.25.08.2005.MCTES, DR.IS-B [163] de 25.08.2005\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/733-2005-245275
+  date: '2005-08-25'
+- type: amended_by
+  target: pt:dre:245321:por
+  label: "Alterado o plano de estudos do curso bietápico de licenciatura em Teatro - criado pela Port 413-E/98 de 17-Jul e\
+    \ reformulado pela Port 595/2005 de 15-Jul - constante do anexo da Port 992/99 de 03-Nov, com a redacção conferida pelo\
+    \ presente diploma, pela PORT.753/2005.29.08.2005.MCTES, DR.IS-B [165] de 29.08.2005\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/753-2005-245321
+  date: '2005-08-29'
 - type: cites
   target: eli:http://data.dre.pt/eli/lei/115/1997/09/19/p/dre
   label: null
@@ -119,16 +186,84 @@ relationships:
   target: eli:http://data.dre.pt/eli/port/951/2000/10/04/p/dre
   label: null
   source: http://data.dre.pt/eli/port/951/2000/10/04/p/dre
+- type: cites
+  target: pt:dre:147873:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:203473:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:222418:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:273991:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:321364:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:331845:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:368775:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:429593:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:429596:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:453184:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:544643:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:544810:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:556606:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:599697:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:623033:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:653145:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:694180:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T14:33:55Z'
   warnings: []
   errors: []
 ---

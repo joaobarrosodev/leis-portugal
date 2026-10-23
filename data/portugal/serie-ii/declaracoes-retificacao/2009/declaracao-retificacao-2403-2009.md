@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/2s/2009/09/189000000/3971439715.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -46,18 +46,18 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/declaracao-rectificacao/2403-2009-1825553
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2009-09-29T00:00:00Z'
+  retrieved_at: '2026-10-23T14:06:49Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 70c1e063218b482eb0f852895407098a430687b2d7faf139e255dec320a3630c
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 8e9dd867ac467f5c5b0b9300448577116ecad5afe7d7353682e35ee7f81ed4d7
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T14:06:49Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -65,22 +65,182 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects: []
-relationships: []
+relationships:
+- type: cites
+  target: pt:dre:249508:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:280920:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:315499:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:316935:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:321281:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:331257:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:333172:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:372201:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:397953:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:421028:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:429407:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:438067:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:453518:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:453975:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:454014:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:456492:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:468663:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:469068:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:476347:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:483610:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:494840:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:538614:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:538624:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:559019:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:569886:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:570504:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:570562:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:602059:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:603209:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:608886:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:620361:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:629446:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:640138:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:640143:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:640611:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:641151:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:641158:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:642219:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:655682:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:683002:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T14:06:49Z'
   warnings: []
   errors: []
 ---
 
-# Declaração de Rectificação n.º 2403/2009
+# Declaração de rectificação n.º 2403/2009
 
 Para os devidos efeitos se torna público que no aviso n.º 14 325/2009, publicado no Diário da República, 2.ª série, n.º 155, de 12 de Agosto de 2009, referente ao procedimento concursal para 36 técnicos superiores, da carreira de técnico superior, no n.º 1., onde se lê:
 
@@ -99,3 +259,5 @@ deve ler-se:
 «Referência D: regime de vinculação de carreiras e de remunerações dos trabalhadores que exercem funções públicas ([Lei n.º 12-A/2008](https://diariodarepublica.pt/dr/detalhe/lei/12-a-2008-468663), de 27 de Fevereiro); Regime do Contrato de Trabalho em Funções Públicas ([Lei n.º 59/2008](https://diariodarepublica.pt/dr/detalhe/lei/59-2008-453975), de 11 de Setembro); Estatuto Disciplinar dos Trabalhadores Que Exercem Funções Públicas ([Lei n.º 58/2008](https://diariodarepublica.pt/dr/detalhe/lei/58-2008-454014), de 9 de Setembro); atribuições e competências e regime jurídico do funcionamento dos órgãos dos municípios e das freguesias ([Lei n.º 169/99](https://diariodarepublica.pt/dr/detalhe/lei/169-1999-569886), de 18 de Setembro, com a redacção dada pela [Lei n.º 5-A/2002](https://diariodarepublica.pt/dr/detalhe/lei/5-a-2002-570504), de 11 de Janeiro, e [Lei n.º 159/99](https://diariodarepublica.pt/dr/detalhe/lei/159-1999-570562), de 14 de Setembro); Código do Procedimento Administrativo (CPA), aprovado pelo [Decreto-Lei n.º 442/91](https://diariodarepublica.pt/dr/detalhe/decreto-lei/442-1991-316935), de 15 de Novembro, e respectivas alterações; [Decreto-Lei n.º 205/88](https://diariodarepublica.pt/dr/detalhe/decreto-lei/205-1988-372201), de 16 de Junho (projectos de arquitectura em imóveis classificados e respectivas zonas de protecção); [Lei n.º 48/98](https://diariodarepublica.pt/dr/detalhe/lei/48-1998-438067), de 11 de Agosto (estabelece as bases da política de ordenamento do território e urbanismo), alterada pela [Lei n.º 54/2007](https://diariodarepublica.pt/dr/detalhe/lei/54-2007-641158), de 31 de Agosto; Portaria n.º 232/2008, de 11 de Março (determina quais os elementos que devem instruir os pedidos de informação prévia, de licenciamento e de autorização referentes a todos os tipos de operações urbanísticas), e revoga a [Portaria n.º 1110/2001](https://diariodarepublica.pt/dr/detalhe/portaria/1110-2001-640611), de 19 de Setembro, rectificada pela [Declaração de Rectificação n.º 26/2008](https://diariodarepublica.pt/dr/detalhe/declaracao-rectificacao/26-2008-249508), de 9 de Maio; [Decreto-Lei n.º 555/99](https://diariodarepublica.pt/dr/detalhe/decreto-lei/555-1999-655682), de 16 de Dezembro (que estabelece o regime jurídico da urbanização e edificação), com as alterações constantes da [Lei n.º 13/2000](https://diariodarepublica.pt/dr/detalhe/lei/13-2000-321281), de 20 de Julho; [Lei n.º 30-A/2000](https://diariodarepublica.pt/dr/detalhe/lei/30-a-2000-315499), de 20 de Dezembro; [Decreto-Lei n.º 177/2001](https://diariodarepublica.pt/dr/detalhe/decreto-lei/177-2001-331257), de 4 de Junho, [Lei n.º 15/2002](https://diariodarepublica.pt/dr/detalhe/lei/15-2002-280920), de 22 de Fevereiro, [Lei n.º 4-A/2003](https://diariodarepublica.pt/dr/detalhe/lei/4-a-2003-476347), de 19 de Fevereiro, [Decreto-Lei n.º 157/2006](https://diariodarepublica.pt/dr/detalhe/decreto-lei/157-2006-538614), de 8 de Agosto, [Lei n.º 60/2007](https://diariodarepublica.pt/dr/detalhe/lei/60-2007-640138), de 4 de Setembro, [Decreto-Lei n.º 116/2008](https://diariodarepublica.pt/dr/detalhe/decreto-lei/116-2008-456492), de 4 de Julho; [Lei n.º 58/2007](https://diariodarepublica.pt/dr/detalhe/lei/58-2007-640143), de 4 de Setembro (que aprova o Programa Nacional da Política de Ordenamento do Território), alterada pela [Declaração de Rectificação n.º 80-A/2007](https://diariodarepublica.pt/dr/detalhe/declaracao-rectificacao/80-a-2007-683002), de 7 de Setembro, e pela [Declaração de Rectificação n.º 103-A/2007](https://diariodarepublica.pt/dr/detalhe/declaracao-rectificacao/103-a-2007-483610), de 2 de Novembro; [Decreto-Lei n.º 380/99](https://diariodarepublica.pt/dr/detalhe/decreto-lei/380-1999-559019), de 22 de Setembro (Regime Jurídico dos Instrumentos de Gestão Territorial), com as alterações constantes do [Decreto-Lei n.º 53/2000](https://diariodarepublica.pt/dr/detalhe/decreto-lei/53-2000-494840), de 7 de Abril, [Decreto-Lei n.º 310/2003](https://diariodarepublica.pt/dr/detalhe/decreto-lei/310-2003-429407), de 10 de Dezembro; [Lei n.º 58/2005](https://diariodarepublica.pt/dr/detalhe/lei/58-2005-469068), de 29 de Dezembro; [Lei n.º 56/2007](https://diariodarepublica.pt/dr/detalhe/lei/56-2007-641151), de 31 de Agosto, [Decreto-Lei n.º 316/2007](https://diariodarepublica.pt/dr/detalhe/decreto-lei/316-2007-642219), de 19 de Setembro, corrigido pela [Declaração de Rectificação n.º 104/2007](https://diariodarepublica.pt/dr/detalhe/declaracao-rectificacao/104-2007-629446), de 6 de Novembro, [Decreto-Lei n.º 46/2009](https://diariodarepublica.pt/dr/detalhe/decreto-lei/46-2009-602059), de 20 de Fevereiro; [Decreto-Lei n.º 163/2006](https://diariodarepublica.pt/dr/detalhe/decreto-lei/163-2006-538624), de 8 de Agosto (que aprova o regime da acessibilidade aos edifícios e estabelecimentos que recebem público, via pública e edifícios habitacionais), revogando o [Decreto-Lei n.º 123/97](https://diariodarepublica.pt/dr/detalhe/decreto-lei/123-1997-397953), de 22 de Maio.»
 
 27 de Agosto de 2009. - O Presidente da Câmara, em exercício, Jaime Carlos Assunção Moreira.
+
+302250311

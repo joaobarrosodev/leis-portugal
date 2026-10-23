@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/1246/1997/12/18/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/1246-1997-420421
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2007-01-05T00:00:00Z'
+  retrieved_at: '2026-10-23T14:00:28Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 992e53df33f84df98c0bc50a3518af78d9bdbb09fdffa7549083b800bd5550a3
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 9d58bc58ac1a4aea558bffdbf31590469372346de07e300fed0e188104bba500
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T14:00:28Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -78,16 +78,31 @@ relationships:
   target: eli:http://data.dre.pt/eli/port/544-b/1996/10/04/p/dre
   label: null
   source: http://data.dre.pt/eli/port/544-b/1996/10/04/p/dre
+- type: cites
+  target: pt:dre:391441:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:574278:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:262349:por
+  label: "Revogada a concessão da zona de caça da Herdade do Pedrógão e outras (processo n.º 320-DGRF) atribuída pela Portaria\
+    \ 751/90, de 28 de Agosto, alterada pelo presente diploma, pela PORT.27/2007.05.01.2007.MADRP, DR.IS [4] de 05.01.2007\0\
+    \0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/27-2007-262349
+  date: '2007-01-05'
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T14:00:28Z'
   warnings: []
   errors: []
 ---
@@ -110,6 +125,6 @@ Manda o Governo, pelos Ministros da Economia e da Agricultura, do Desenvolviment
 
 Ministérios da Economia e da Agricultura, do Desenvolvimento Rural e das Pescas.
 
-**Assinada em 24 de Novembro de 1997.**
+Assinada em 24 de Novembro de 1997.
 
 Pelo Ministro da Economia, Jaime Serrão Andrez, Secretário de Estado do Comércio e Turismo. - Pelo Ministro da Agricultura, do Desenvolvimento Rural e das Pescas, Luís Manuel Capoulas Santos, Secretário de Estado da Agricultura e do Desenvolvimento Rural.

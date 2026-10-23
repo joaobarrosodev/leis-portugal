@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/196/1999/03/23/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/196-1999-150321
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2002-02-08T00:00:00Z'
+  retrieved_at: '2026-10-23T14:13:52Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 38e150b434d8b4808c3a7c3f90e3af5a16b2e7ed8c0286b95d49977db3944319
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 12b9877966db6ff0ec37a87f1c7f41c6be03e431a64d4a852dc5511fc36672ed
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T14:13:52Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,18 +66,23 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Plano de Estudos
 - Curso de Educação de Infância
 - Ensino Cooperativo
 - Ensino Particular
+- Ensino Superior
 - Escola Superior de Educação de Santa Maria
 - Licenciatura
-- Ensino Superior
+- Plano de Estudos
 relationships:
 - type: amended_by
   target: pt:dre:272819:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:272819:por
+  label: "Alterado o plano de estudos pela PORT.119/2002.2002.02.08.ME, DR.IS-B [33]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/119-2002-272819
+  date: '2002-02-08'
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/16/1994/01/22/p/dre
   label: null
@@ -102,16 +107,52 @@ relationships:
   target: eli:http://data.dre.pt/eli/port/465/1993/04/30/p/dre
   label: null
   source: http://data.dre.pt/eli/port/465/1993/04/30/p/dre
+- type: cites
+  target: pt:dre:187955:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:222418:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:289611:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:300053:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:300227:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:357906:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:512030:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:533820:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:653145:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T14:13:52Z'
   warnings: []
   errors: []
 ---
@@ -188,7 +229,7 @@ Findo o processo de transição a que se refere o número anterior caduca a auto
 
 Ministério da Educação.
 
-**Assinada em 23 de Fevereiro de 1999.**
+Assinada em 23 de Fevereiro de 1999.
 
 Pelo Ministro da Educação, Alfredo Jorge Silva, Secretário de Estado do Ensino Superior.
 

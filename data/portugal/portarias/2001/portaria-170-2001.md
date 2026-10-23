@@ -48,18 +48,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/170/2001/03/08/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/170-2001-400654
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2008-08-05T00:00:00Z'
+  retrieved_at: '2026-10-23T14:30:33Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 6dfb0b5aff3fb081c302e951ae0e3eb08d7581b97287a7f24c07ddd2224c13b9
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 3a713868262b784f8dbcc0edec3f9d7ea90ec1f657961b92148330257613dd6a
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T14:30:33Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -75,6 +75,22 @@ relationships:
   target: pt:dre:455403:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:567025:por
+  label: "Alterado o nº 1º pela PORT.1304/2001.2001.11.22.MADRP DR.IS-B [271]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/1304-2001-567025
+  date: '2001-11-22'
+- type: amended_by
+  target: pt:dre:199662:por
+  label: "Alterado o nº 1, na redacção da Port 1304/2001, de 22-Nov, pela PORT.812/2002.2002.07.05.MADRP DR.IS-B [153]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/812-2002-199662
+  date: '2002-07-05'
+- type: amended_by
+  target: pt:dre:455403:por
+  label: "Renovada por seis anos a concessão da zona de caça atribuída pela Port 910/97 de 11-Set, posteriormente renovada\
+    \ pelo presente diploma, pela PORT.752/2008.05.08.2008.MADRP, DR.IS [150] de 05.08.2008\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/752-2008-455403
+  date: '2008-08-05'
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/136/1996/08/14/p/dre
   label: null
@@ -91,16 +107,32 @@ relationships:
   target: eli:http://data.dre.pt/eli/port/910/1997/09/11/p/dre
   label: null
   source: http://data.dre.pt/eli/port/910/1997/09/11/p/dre
+- type: cites
+  target: pt:dre:311583:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:405765:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:534644:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:650099:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T14:30:33Z'
   warnings: []
   errors: []
 ---

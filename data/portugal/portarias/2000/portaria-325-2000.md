@@ -48,18 +48,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/325/2000/06/08/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/325-2000-288220
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2009-03-04T00:00:00Z'
+  retrieved_at: '2026-10-23T14:22:51Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 97a3c5769b5fd959e9d479f3d46ffcdb709f53f32edaf271af70ca1a96a90bfd
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: a95c7a7de5da8885c5bffbc181053fa453712c7cdaaa5a14178e40baa690256c
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T14:22:51Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,19 +67,25 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
+- Equivalência de Diplomas
 - Legitimidade
 - Licenciamento
 - Nacional das Comunidades
 - Prestação de Serviços
 - Profissão Independente
 - Qualificação Profissional
-- Equivalência de Diplomas
 - Trabalhador Comunitário
 relationships:
 - type: amended_by
   target: pt:dre:604779:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:386602:por
+  label: "Alterado e aditado o mapa anexo, rectificado pela Decl Rect 7-L/2000, de 30-Jun, pela PORT.41/2008.11.01.2008.MTSSO,\
+    \ DR.IS [8] de 11.01.2008\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/41-2008-386602
+  date: '2008-01-11'
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/289/1991/08/10/p/dre
   label: null
@@ -88,16 +94,34 @@ relationships:
   target: eli:http://data.dre.pt/eli/dec-lei/396/1999/10/13/p/dre
   label: null
   source: http://data.dre.pt/eli/dec-lei/396/1999/10/13/p/dre
+- type: cites
+  target: pt:dre:662127:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:680630:por
+  label: null
+  source: null
+- type: corrected_by
+  target: pt:dre:145031:por
+  label: "Rectificada pela DECL-RECT.7-L/2000.2000.06.30.PCM DR.IS-B [149]2ºSupl\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/declaracao-rectificacao/7-l-2000-145031
+  date: '2000-06-30'
+- type: repealed_by
+  target: pt:dre:604779:por
+  label: "Revogada, nos termos do nº 2 do art. 55.º, pela LEI.9/2009.04.03.2009.AR, DR.IS [44] de 04.03.2009\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/lei/9-2009-604779
+  date: '2009-03-04'
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T14:22:51Z'
   warnings: []
   errors: []
 ---

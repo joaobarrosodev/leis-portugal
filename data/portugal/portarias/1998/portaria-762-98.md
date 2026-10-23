@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/762/1998/09/15/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/762-1998-241245
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1998-09-15T00:00:00Z'
+  retrieved_at: '2026-10-23T14:11:01Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 5f50c642adeacdeb87a7ce3666f4285c951a6c749ef2b73e5151a7c7c609a227
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: a50173f956e7cb468f02b8aa9d3851f07b4a12e124ba793b0823fe27f7e4c037
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T14:11:01Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -72,16 +72,28 @@ relationships:
   target: eli:http://data.dre.pt/eli/dec-lei/10/1997/01/14/p/dre
   label: null
   source: http://data.dre.pt/eli/dec-lei/10/1997/01/14/p/dre
+- type: cites
+  target: pt:dre:505986:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:532239:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:666119:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T14:11:01Z'
   warnings: []
   errors: []
 ---
@@ -100,14 +112,14 @@ Manda o Governo, pelos Ministros das Finanças, Adjunto e da Justiça que o quad
 
 Presidência do Conselho de Ministros e Ministérios das Finanças e da Justiça.
 
-**Assinada em 31 de Agosto de 1998.**
+Assinada em 31 de Agosto de 1998.
 
 Pelo Ministro das Finanças, João Carlos da Costa Ferreira da Silva, Secretário de Estado do Orçamento. - Pelo Ministro Adjunto, Fausto de Sousa Correia, Secretário de Estado da Administração Pública e da Modernização Administrativa. - O Ministro da Justiça, José Eduardo Vera Cruz Jardim.
 
 ## ANEXO I — Mapa II - Pessoal comum dos serviços centrais e dos serviços externos da Direcção-Geral dos Serviços Prisionais
 
-[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/1998/09/213b00/47654766.pdf)
+[[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/1998/09/213b00/47654766.pdf)](https://files.diariodarepublica.pt/1s/1998/09/213b00/47654766.pdf)
 
 ## ANEXO II — Mapa III - Direcção-Geral dos Serviços Prisionais - Pessoal dos serviços externos
 
-[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/1998/09/213b00/47654766.pdf)
+[[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/1998/09/213b00/47654766.pdf)](https://files.diariodarepublica.pt/1s/1998/09/213b00/47654766.pdf)

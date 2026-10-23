@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/692/2001/07/10/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/692-2001-348545
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2006-02-20T00:00:00Z'
+  retrieved_at: '2026-10-23T14:33:54Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: bfa407f5e277ef7fb10064138bbd1dd785d4925c55d56cda5621af06d2468a22
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: a77afda79da681c5819699e4dbc2f4711567fef22574ac9c6187709920c88d5e
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T14:33:54Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -68,6 +68,8 @@ reuse:
 subjects:
 - Bacharelato
 - Barcelos
+- Beja
+- Castelo Branco
 - Ensino Superior Politécnico
 - Escola Superior Agrária
 - Escola Superior de Ciências Empresariais
@@ -79,17 +81,15 @@ subjects:
 - Escola Superior de Saúde do Alcoitão
 - Escola Superior de Tecnologia
 - Escola Superior de Tecnologia e Gestão
+- Estabelecimento de Ensino
+- Guarda
 - Instituto Politécnico
 - Leiria
 - Licenciatura
 - Oliveira do Hospital
-- Setúbal
-- Beja
-- Castelo Branco
-- Estabelecimento de Ensino
-- Tomar
 - Porto
-- Guarda
+- Setúbal
+- Tomar
 - Valença
 - Viana do Castelo
 relationships:
@@ -97,6 +97,54 @@ relationships:
   target: pt:dre:676819:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:197348:por
+  label: "Alterada a denominação do curso de Engenharia de Sistema de Informação e Redes (que passa a designar-se Engenharia\
+    \ de Computadores e de Sistemas Informáticos), pela PORT.875/2002.2002.07.25.MCES DR.IS-B [170]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/875-2002-197348
+  date: '2002-07-25'
+- type: amended_by
+  target: pt:dre:197505:por
+  label: "Alterada para Engenharia Civil e do Ambiente a designação do Curso bietápico de licenciatura em Engenharia do Território\
+    \ e do Ambiente, pela PORT.883/2002.2002.07.26.MCES DR.IS-B [171]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/883-2002-197505
+  date: '2002-07-26'
+- type: amended_by
+  target: pt:dre:670352:por
+  label: "Alterada para Engenharia Mecânica a denominação do curso de licenciatura em Engenharia Mecânica - Manutenção da\
+    \ Escola Superior de Estudos Industriais e de Gestão do Porto, aprovado pelo presente diploma, cujo Plano de Estudos foi\
+    \ aprovado pela Port 21/2002, de 04-Jan, pela PORT.603/2003.2003.07.21.MCES DR.IS-B [166]\0]\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/603-2003-670352
+  date: '2003-07-21'
+- type: amended_by
+  target: pt:dre:209614:por
+  label: "Alteradas as opções e os ramos do curso bietápico de licenciatura em Administração e Finanças da Escola Superior\
+    \ de Tecnologia e Gestão de Oliveira do Hospital do Instituto Politécnico de Coimbra, criado pelo presente diploma, pela\
+    \ PORT.311/2004.23.03.2004.MCES, DR.IS-B [70] de 23.03.2004\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/311-2004-209614
+  date: '2004-03-23'
+- type: amended_by
+  target: pt:dre:623584:por
+  label: "Transferida para a Escola Superior de Tecnologia de Barcelos a ministração do curso bietápico de licenciatura de\
+    \ Sistemas de Informaçao criado pelo presente diploma, pela PORT.93/2005.25.01.2005.MCIES, DR.IS-B [17] de 25.01.2005\0\
+    \0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/93-2005-623584
+  date: '2005-01-25'
+- type: amended_by
+  target: pt:dre:608036:por
+  label: "Alterado o curso bietápico de licenciatura em Jazz ministrado pela Escola Superior de Música e das Artes do Espectáculo\
+    \ do Instituto Politécnico do Porto criado pelo presente diploma, pela PORT.217/2005.24.02.2005.MCIES, DR.IS-B [39] de\
+    \ 24.02.2005\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/217-2005-608036
+  date: '2005-02-24'
+- type: amended_by
+  target: pt:dre:481691:por
+  label: "Cessada, com a entrada em funcionamento do curso, a ministração do curso bietápico de licenciatura em Engenharia\
+    \ dos Sistemas Agrícolas e Ambientais, criado pelo presente diploma e revogado na parte que autoriza o Instituto Politécnico\
+    \ de Beja através da sua Escola Superior Agrária, a conferir os graus de bacharel e de licenciado ao referido curso, pela\
+    \ PORT.1215/2005.25.11.2005.MCTES, DR.IS-B [227] de 25.11.2005\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/1215-2005-481691
+  date: '2005-11-25'
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/353/1999/09/03/p/dre
   label: null
@@ -117,16 +165,56 @@ relationships:
   target: eli:http://data.dre.pt/eli/port/799-d/1999/09/18/p/dre
   label: null
   source: http://data.dre.pt/eli/port/799-d/1999/09/18/p/dre
+- type: cites
+  target: pt:dre:147873:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:429596:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:453184:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:510269:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:556606:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:581591:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:582195:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:176490:por
+  label: "Revogada, na parte relativa ao Instituto Politécnico da Guarda e aos graus de bacharel e de licenciado em Gestão\
+    \ Técnico-Comercial, pela PORT.53/2003.2003.01.16.MCES DR.IS-B [13], nos termos constantes do respectivo nº 2º\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/53-2003-176490
+  date: '2003-01-16'
+- type: repealed_by
+  target: pt:dre:457033:por
+  label: "Revogada na parte relativa ao Instituto Politécnico de Tomar nos termos do disposto no nº 3º da PORT.27/2005.11.01.2005.MCIES,\
+    \ DR.IS-B [7] de 11.01.2005\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/27-2005-457033
+  date: '2005-01-11'
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T14:33:54Z'
   warnings: []
   errors: []
 ---

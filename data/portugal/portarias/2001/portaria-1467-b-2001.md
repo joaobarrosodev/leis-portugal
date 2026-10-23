@@ -19,7 +19,7 @@ publication:
   reference: Diário da República n.º 301/2001, 2º Suplemento, Série I-B de 2001-12-31
   number: '301'
   series: I
-  supplement: 2º Suplemento
+  supplement: null
   pages: 8540-(6) a 8540-(8)
   pdf_url: https://files.diariodarepublica.pt/1s/2001/12/301b02/00060008.pdf
 entry_into_force_dates: []
@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/1467-b/2001/12/31/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/1467-b-2001-319119
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2013-02-12T00:00:00Z'
+  retrieved_at: '2026-10-23T14:30:20Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 055359100023ee0fc1b9dca914f7e068349a4143cb6d6537110f1e04c72365c3
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 7ffda9d2b4a58a0f913785f2b5ba24fdaf8e4f4ddd78b64302a8d8417c134ffe
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T14:30:20Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -65,17 +65,110 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Transporte Aéreo
+- Aviação Civil
 - Eurocontrol
 - JURO de MORA
-- Aviação Civil
 - Segurança Aérea
 - Taxa de rota
+- Transporte Aéreo
 relationships:
 - type: amended_by
   target: pt:dre:258723:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:302504:por
+  label: "Alterado o n.º 1 do n.º 15.º da Portaria n.º 50/95, de 20 de Janeiro, na redacção republicada em anexo ao presente\
+    \ diploma, alterada pela Portaria n.º 1555-A/2002, de 27 de Dezembro, pela PORT.1423-G/2003.31.12.2003.MOPTH, DR.IS-B\
+    \ [301]9ºSupl de 31.12.2003\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/1423-g-2003-302504
+  date: '2003-12-31'
+- type: amended_by
+  target: pt:dre:623801:por
+  label: "Alterado o n.º 1 do n.º 15.º da Port 50/95, de 20-Jan, na renumeração dada pela presente portaria, pela PORT.65/2005.24.01.2005.MOPTC,\
+    \ DR.IS-B [16] de 24.01.2005\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/65-2005-623801
+  date: '2005-01-24'
+- type: amended_by
+  target: pt:dre:552283:por
+  label: "Alterado o nº 1 do nº 15 da Port 50/95 de 20-Jan, na renumeração operada pelo presente diploma, pela PORT.102/2006.03.02.2006.MOPTC,\
+    \ DR.IS-B [25] de 03.02.2006\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/102-2006-552283
+  date: '2006-02-03'
+- type: amended_by
+  target: pt:dre:522654:por
+  label: "Alterado o nº 1 do nº 15º da Port 50/95 de 20-Jan, com a renumeração efectuada pelo presente diploma, pela PORT.109/2007.23.01.2007.MOPTC,\
+    \ DR.IS [16] de 23.01.2007\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/109-2007-522654
+  date: '2007-01-23'
+- type: amended_by
+  target: pt:dre:247737:por
+  label: "Alterado o nº 1 do nº 15º da Port 50/95, de 20-Jan, com a renumeração efectuada pelo presente diploma, pela PORT.173/2008.18.02.2008.MOPTC,\
+    \ DR.IS [34] de 18.02.2008\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/173-2008-247737
+  date: '2008-02-18'
+- type: amended_by
+  target: pt:dre:601344:por
+  label: "Alterado o nº 1 do art. 15º da Port 50/95 de 20-Jan, com a renumeração efectuada no presente diploma, pela PORT.159/2009.11.02.2009.MOPTC,\
+    \ DR.IS [923] de 11.02.2009\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/159-2009-601344
+  date: '2009-02-11'
+- type: amended_by
+  target: pt:dre:613245:por
+  label: "Alterado o nº 1 do art. 15º da Port 50/95 de 20-Jan, com a renumeração efectuada pelo presente diploma, pela PORT.223/2010.20.04.2010.MOPTC,\
+    \ DR.IS [76] de 20.04.2010\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/223-2010-613245
+  date: '2010-04-20'
+- type: amended_by
+  target: pt:dre:485609:por
+  label: "Alterado o nº 1 do art. 15º da Port 50/95 de 20-Jan, com a renumeração efectuada pelo presente diploma, pela PORT.15/2011.06.01.2011.MOPTC,\
+    \ DR.IS [4] de 06.01.2011\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/15-2011-485609
+  date: '2011-01-06'
+- type: amended_by
+  target: pt:dre:258723:por
+  label: "Alterado o nº 1 do art. 15º da Port 50/95 de 20-jan, com a renumeração efectuada pelo presente diploma, pela PORT.61/2013.12.02.2013.MEE,\
+    \ DR.IS [30] de 12.02.2013\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/61-2013-258723
+  date: '2013-02-12'
+- type: amended_by
+  target: pt:dre:25345673:por
+  label: "Alterado o n.º 1 do art. 15.º da Port 50/95 de 20-jan, na redação e renumeração dadas pelo presente diploma, pela\
+    \ PORT.106/2014.21.05.2014.MECO, DR.IS [97] de 21.05.2014\04\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/106-2014-25345673
+  date: '2014-05-21'
+- type: amended_by
+  target: pt:dre:106555635:por
+  label: Alterado, com efeitos desde 01.01.2017, o n.º 1 do art. 15.º (na redação das Ports 1555-A/2002 de 27-dez, 1423-G/2003
+    de 31-dez, 65/2005 de 24-jan, 102/2006 de 03-fev, 109/2007 de 23-jan, 173/2008 de 18-fev, 159/2009 de 11-fev, 223/2010
+    de 20-abr, 15/2011 de 06-jan, 61/2013 de 12-fev, 106/2014 de 21-mai, e 420/2015 de 31-dez) da Port 50/95 de 20-jan, na
+    versão republicada pelo presente diploma, pelo(a) Portaria n.º 94/2017 - Diário da República n.º 46/2017, Série I de 2017-03-06
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/94-2017-106555635
+  date: '2017-03-06'
+- type: amended_by
+  target: pt:dre:114426008:por
+  label: Alterado, com efeitos a partir de 01.01.2018, o n.º 1 do art. 15.º (na redação das Ports 1555-A/2002 de 27-dez, 1423-G/2003
+    de 31-dez, 65/2005 de 24-jan, 102/2006 de 03-fev, 109/2007 de 23-jan, 173/2008 de 18-fev, 159/2009 de 11-fev, 223/2010
+    de 20-abr, 15/2011 de 06-jan, 61/2013 de 12-fev, 106/2014 de 21-mai, 420/2015 de 31-dez e 94/2017 de 06-mar) da Port 50/95
+    de 20-jan, na versão republicada pelo presente diploma, pelo(a) Portaria n.º 385-F/2017 - Diário da República n.º 249/2017,
+    1º Suplemento, Série I de 2017-12-29
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/385-f-2017-114426008
+  date: '2017-12-29'
+- type: amended_by
+  target: pt:dre:117514551:por
+  label: Alterado, com efeitos a partir de 01.01.2019, o n.º 1 do art. 15.º (na redação das Ports 1555-A/2002 de 27-dez, 1423-G/2003
+    de 31-dez, 65/2005 de 24-jan, 102/2006 de 03-fev, 109/2007 de 23-jan, 173/2008 de 18-fev, 159/2009 de 11-fev, 223/2010
+    de 20-abr, 15/2011 de 06-jan, 61/2013 de 12-fev, 106/2014 de 21-mai, 420/2015 de 31-dez, 94/2017 de 06-mar e 385-F/2017,
+    de 29-dez) da Port 50/95 de 20-jan, na versão republicada pelo presente diploma, pelo (a) Portaria n.º 337-A/2018 - Diário
+    da República n.º 250/2018, 1º Suplemento, Série I de 2018-12-28
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/337-a-2018-117514551
+  date: '2018-12-28'
+- type: amended_by
+  target: pt:dre:154483168:por
+  label: Alterado, com efeitos a partir de 01.01.2021, o n.º 1 do art. 15.º da Port 50/95 de 20-jan, na versão republicada
+    pelo presente diploma, pelo(a) Portaria n.º 17/2021 - Diário da República n.º 13/2021, Série I de 2021-01-20
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/17-2021-154483168
+  date: '2021-01-20'
 - type: cites
   target: eli:http://data.dre.pt/eli/port/1223-b/2000/12/29/p/dre
   label: null
@@ -100,16 +193,56 @@ relationships:
   target: eli:http://data.dre.pt/eli/port/61/1997/01/25/p/dre
   label: null
   source: http://data.dre.pt/eli/port/61/1997/01/25/p/dre
+- type: cites
+  target: pt:dre:179815:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:222780:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:332059:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:335382:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:353891:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:356702:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:405924:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:412223:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:571885:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:634128:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T14:30:20Z'
   warnings: []
   errors: []
 ---
@@ -186,7 +319,7 @@ Os pontos de entrada e de saída são os pontos em que os limites laterais do re
 
 6.º - 1 - O coeficiente peso (p) é igual à raiz quadrada do coeficiente por 50 do peso máximo certificado à descolagem da aeronave, expresso em toneladas métricas, tal como consta do certificado de navegabilidade ou do manual de voo, ou de qualquer outro documento oficial equivalente, como se segue:
 
-[(ver fórmula no documento original)](https://files.diariodarepublica.pt/1s/2001/12/301b02/00060008.pdf)
+[[(ver fórmula no documento original)](https://files.diariodarepublica.pt/1s/2001/12/301b02/00060008.pdf)](https://files.diariodarepublica.pt/1s/2001/12/301b02/00060008.pdf)
 
 2 - Quando o peso máximo certificado à descolagem da aeronave não for conhecido dos organismos responsáveis pela cobrança das taxas, o coeficiente peso é estabelecido com base no peso da versão mais pesada conhecida para esse tipo de aeronave.
 
@@ -226,7 +359,7 @@ Voos de treino efectuados exclusivamente com vista a obter uma licença ou uma q
 
 10.º Para um voo efectuado por uma aeronave no espaço aéreo de RIV sob competência de vários Estados contratantes, é cobrada uma taxa única, R, igual à soma das taxas ri devidas relativamente ao espaço aéreo das RIV sob a competência de cada Estado contratante.
 
-[(ver fórmula no documento original)](https://files.diariodarepublica.pt/1s/2001/12/301b02/00060008.pdf)
+[[(ver fórmula no documento original)](https://files.diariodarepublica.pt/1s/2001/12/301b02/00060008.pdf)](https://files.diariodarepublica.pt/1s/2001/12/301b02/00060008.pdf)
 
 11.º - 1 - Os montantes facturados pela EUROCONTROL são pagos na sua sede em Bruxelas, sendo, no entanto, considerados como liberatórios os pagamentos efectuados nas contas abertas em nome da EUROCONTROL em estabelecimentos bancários, designados pelos órgãos competentes do sistema nos Estados contratantes ou noutros Estados.
 

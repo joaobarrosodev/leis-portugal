@@ -21,12 +21,12 @@ publication:
   reference: Diário da República n.º 240/2001, 1º Suplemento, Série I-B de 2001-10-16
   number: '240'
   series: I
-  supplement: 1º Suplemento
+  supplement: null
   pages: 6562-(2) a 6562-(3)
   pdf_url: https://files.diariodarepublica.pt/1s/2001/10/240b01/00020003.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -48,18 +48,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/1199-b/2001/10/16/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/1199-b-2001-376236
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2007-09-03T00:00:00Z'
+  retrieved_at: '2026-10-23T14:28:33Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: ad69801e23eaf2da30d03ab8c85e56af18a4d8918366a1fe59e36c6e00b27b92
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 8a1ded934244e597641026424af87e365ebd736ae57365b5737df0d3f5cc46a5
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T14:28:33Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -90,16 +90,37 @@ relationships:
   target: eli:http://data.dre.pt/eli/port/667-i8/1993/07/14/p/dre
   label: null
   source: http://data.dre.pt/eli/port/667-i8/1993/07/14/p/dre
+- type: cites
+  target: pt:dre:315147:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:402121:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:405765:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:534644:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:641375:por
+  label: "Revogada pela PORT.1051/2007.03.09.2007.MAOTDR, DR.IS [169] de 03.09.2007\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/1051-2007-641375
+  date: '2007-09-03'
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T14:28:33Z'
   warnings: []
   errors: []
 ---

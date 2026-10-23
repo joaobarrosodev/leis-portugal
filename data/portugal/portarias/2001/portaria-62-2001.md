@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/62/2001/01/30/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/62-2001-315152
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2001-01-30T00:00:00Z'
+  retrieved_at: '2026-10-23T14:33:27Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: d4bbe1a7e0ee204e8eadd80c3c9a17544a589432f736497400076faeb97f94bd
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 7902f59b0efcd4dba940ea235a08e1aee8397f85d68bee7cc86093672ca0edad
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T14:33:27Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,11 +66,11 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Plano de Estudos
 - Curso de Educação Social
 - Ensino Superior Politécnico
 - Escola Superior de Educação
 - Instituto Politécnico
+- Plano de Estudos
 - Santarém
 relationships:
 - type: cites
@@ -93,16 +93,48 @@ relationships:
   target: eli:http://data.dre.pt/eli/port/912/1994/10/13/p/dre
   label: null
   source: http://data.dre.pt/eli/port/912/1994/10/13/p/dre
+- type: cites
+  target: pt:dre:147873:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:222418:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:368775:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:429596:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:453184:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:556606:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:618307:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:653145:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T14:33:27Z'
   warnings: []
   errors: []
 ---
@@ -155,19 +187,19 @@ QUADRO N.º 1
 
 1.º ano
 
-[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2001/01/025b00/05370539.pdf)
+[[[[[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2001/01/025b00/05370539.pdf)](https://files.diariodarepublica.pt/1s/2001/01/025b00/05370539.pdf)](https://files.diariodarepublica.pt/1s/2001/01/025b00/05370539.pdf)](https://files.diariodarepublica.pt/1s/2001/01/025b00/05370539.pdf)](https://files.diariodarepublica.pt/1s/2001/01/025b00/05370539.pdf)
 
 QUADRO N.º 2
 
 2.º ano
 
-[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2001/01/025b00/05370539.pdf)
+[[[[[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2001/01/025b00/05370539.pdf)](https://files.diariodarepublica.pt/1s/2001/01/025b00/05370539.pdf)](https://files.diariodarepublica.pt/1s/2001/01/025b00/05370539.pdf)](https://files.diariodarepublica.pt/1s/2001/01/025b00/05370539.pdf)](https://files.diariodarepublica.pt/1s/2001/01/025b00/05370539.pdf)
 
 QUADRO N.º 3
 
 3.º ano
 
-[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2001/01/025b00/05370539.pdf)
+[[[[[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2001/01/025b00/05370539.pdf)](https://files.diariodarepublica.pt/1s/2001/01/025b00/05370539.pdf)](https://files.diariodarepublica.pt/1s/2001/01/025b00/05370539.pdf)](https://files.diariodarepublica.pt/1s/2001/01/025b00/05370539.pdf)](https://files.diariodarepublica.pt/1s/2001/01/025b00/05370539.pdf)
 
 2.º ciclo - grau de licenciado
 
@@ -175,10 +207,10 @@ QUADRO N.º 4
 
 1.º ano
 
-[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2001/01/025b00/05370539.pdf)
+[[[[[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2001/01/025b00/05370539.pdf)](https://files.diariodarepublica.pt/1s/2001/01/025b00/05370539.pdf)](https://files.diariodarepublica.pt/1s/2001/01/025b00/05370539.pdf)](https://files.diariodarepublica.pt/1s/2001/01/025b00/05370539.pdf)](https://files.diariodarepublica.pt/1s/2001/01/025b00/05370539.pdf)
 
 QUADRO N.º 5
 
 2.º ano
 
-[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2001/01/025b00/05370539.pdf)
+[[[[[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2001/01/025b00/05370539.pdf)](https://files.diariodarepublica.pt/1s/2001/01/025b00/05370539.pdf)](https://files.diariodarepublica.pt/1s/2001/01/025b00/05370539.pdf)](https://files.diariodarepublica.pt/1s/2001/01/025b00/05370539.pdf)](https://files.diariodarepublica.pt/1s/2001/01/025b00/05370539.pdf)

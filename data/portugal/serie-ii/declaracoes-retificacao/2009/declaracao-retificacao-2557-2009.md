@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/2s/2009/10/200000000/4182341823.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -47,18 +47,18 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/declaracao-rectificacao/2557-2009-1464444
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2009-10-15T00:00:00Z'
+  retrieved_at: '2026-10-23T14:07:44Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: e987401adba5a824f9f1fbf736939f112c3082dbd3f5b8c4e0c7ae61ead62937
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: caa8d969222e6e9eadc684c189c5cf47ee0d285e99d70390f5a6821a40cf7c5e
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T14:07:44Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -70,13 +70,13 @@ relationships: []
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T14:07:44Z'
   warnings: []
   errors: []
 ---
@@ -88,3 +88,5 @@ Declaração de rectificação n.º 2557/2009
 Por ter saído com inexactidão o despacho n.º 10 344/2009 publicado no Diário da República, 2.ª série, n.º 76, de 20 de Abril de 2009, a p. 15 907, relativo ao contrato administrativo de provimento da mestre Alda Cristina Jesus Valentim Nunes de Carvalho, rectifica-se que onde se lê «pelo período de dois anos, com início em 1 de Outubro de 2008» deve ler-se «pelo período de dois anos, com início em 1 de Setembro de 2008»". (Isento de fiscalização prévia do Tribunal de Contas.)
 
 9 de Outubro de 2009. - O Presidente do Conselho Directivo, José Carlos Lourenço Quadrado.
+
+202415228

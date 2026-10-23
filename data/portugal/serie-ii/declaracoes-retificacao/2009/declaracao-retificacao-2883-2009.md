@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/2s/2009/11/226000000/4741747417.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -46,18 +46,18 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/declaracao-rectificacao/2883-2009-1280437
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2009-11-20T00:00:00Z'
+  retrieved_at: '2026-10-23T14:09:40Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 4c2d464b7f1a2fb09bad3af13b12635b4dd4d92137d34a39feb0b5b7134a270b
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 67f460f1dc4e490810354821066456b20153b564e2039c43422819d918f83cb7
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T14:09:40Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -69,13 +69,13 @@ relationships: []
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T14:09:40Z'
   warnings: []
   errors: []
 ---
@@ -87,3 +87,5 @@ Declaração de rectificação n.º 2883/2009
 Por ter sido publicado com inexactidão no Diário da República, 2.ª série, n.º 194, de 7 de Outubro de 2009, a p. 40582, o aviso n.º 17494/2009, referente ao procedimento concursal comum com vista ao preenchimento de nove postos de trabalho na carreira e categoria de técnico superior do mapa de pessoal do Centro Distrital de Lisboa do Instituto da Segurança Social, I. P., rectifica-se que, no n.º 2, alínea h), onde se lê «Centro de Estudos e Apoio à Criança e à Família/Estabelecimento Integrado» deve ler-se «Sector de Adopção, da Unidade de Desenvolvimento Social, do Centro Distrital de Lisboa».
 
 7 de Outubro de 2009. - O Vogal do Conselho Directivo, António Nogueira de Lemos.
+
+202585791

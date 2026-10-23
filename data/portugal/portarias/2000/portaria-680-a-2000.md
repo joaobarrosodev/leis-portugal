@@ -19,7 +19,7 @@ publication:
   reference: Diário da República n.º 199/2000, 1º Suplemento, Série I-B de 2000-08-29
   number: '199'
   series: I
-  supplement: 1º Suplemento
+  supplement: null
   pages: 4432-(2) a 4432-(8)
   pdf_url: https://files.diariodarepublica.pt/1s/2000/08/199b01/00020008.pdf
 entry_into_force_dates: []
@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/680-a/2000/08/29/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/680-a-2000-300821
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2004-05-26T00:00:00Z'
+  retrieved_at: '2026-10-23T14:25:13Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 58395712a7134a7d5a13b0cdb9abe90512bb7f5a7fc1a9ce7e22b205dfdefd4c
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: cbdacfda0d940d8bd4958e027195313c949e8c794bcb390d0035836923b3d4a3
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T14:25:13Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -65,34 +65,62 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Financiamento
-- Empresa
 - Administração Pública
-- Fiscalização
 - Desenvolvimento Económico
+- Empresa
+- Financiamento
+- Fiscalização
 - Política Económica
+- Programa Operacional da Economia
 - Regulamento
 - Regulamento Geral para as Parcerias e Iniciativas Públicas
-- Programa Operacional da Economia
 relationships:
 - type: amended_by
   target: pt:dre:251635:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:527224:por
+  label: "Alterado o art. 23º do anexo pela PORT.1216-A/2000.2000.12.28.MF,DR.IS-B [298]3º Supl\0l\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/1216-a-2000-527224
+  date: '2000-12-28'
+- type: amended_by
+  target: pt:dre:276429:por
+  label: "Alterado o art. 19º do Regulamento, pela PORT.97/2002.2002.01.31.MF, DR.IS-B [26]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/97-2002-276429
+  date: '2002-01-31'
+- type: amended_by
+  target: pt:dre:589694:por
+  label: "Alterada a al. f) do nº 1 do art. 13º do Regulamento pela PORT.109/2004.29.01.2004.MF, DR.IS-B [24] de 29.01.2004\
+    \ \0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/109-2004-589694
+  date: '2004-01-29'
+- type: amended_by
+  target: pt:dre:1529753:por
+  label: "Reaberta a admissão de propostas no âmbito pelo DESP.21019/2005(2ªSérie).15.09.2005.SEAII-MEI, DR.IIS [192] de 06.10.2005\0\
+    \0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/despacho/21019-2005-1529753
+  date: '2005-09-15'
 - type: cites
   target: eli:/application/external/tratado
   label: null
   source: /application/external/tratado
+- type: repealed_by
+  target: pt:dre:251635:por
+  label: "Revogado o presente diploma, na parte da al. g) do nº 1 do art. 3º, relativa à promoção de marcas e produtos portugueses\
+    \ e à internacionalização da economia, pela PORT.560/2004.26.05.2004.MF, DR.IS-B [123] de 26.05.2004\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/560-2004-251635
+  date: '2004-05-26'
 article_structure:
   article_count: 23
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T14:25:13Z'
   warnings: []
   errors: []
 ---
@@ -121,7 +149,7 @@ Manda o Governo, pelos Ministros das Finanças e da Economia, que seja regulamen
 
 Em 29 de Agosto de 2000.
 
-**O Ministro das Finanças, Joaquim Augusto Nunes Pina Moura. - O Ministro da Economia, Joaquim Augusto Nunes Pina Moura.**
+O Ministro das Finanças, Joaquim Augusto Nunes Pina Moura. - O Ministro da Economia, Joaquim Augusto Nunes Pina Moura.
 
 ## ANEXO — REGULAMENTO GERAL PARA AS PARCERIAS E INICIATIVAS PÚBLICAS
 

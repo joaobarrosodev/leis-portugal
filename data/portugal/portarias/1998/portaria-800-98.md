@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/800/1998/09/22/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/800-1998-241666
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1999-10-29T00:00:00Z'
+  retrieved_at: '2026-10-23T14:11:16Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 44c09f729a66214887d8f3afb1cf4aa6382a0d503fd8a37b96c8d6fd9cf3d346
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: bdc7420be1ab0da74e8a7b267e06f642d0ddd072d44cc347d94137880e5b2333
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T14:11:16Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -90,16 +90,32 @@ relationships:
   target: eli:http://data.dre.pt/eli/port/700/1996/12/03/p/dre
   label: null
   source: http://data.dre.pt/eli/port/700/1996/12/03/p/dre
+- type: cites
+  target: pt:dre:200446:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:382393:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:403536:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:653127:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T14:11:16Z'
   warnings: []
   errors: []
 ---
@@ -140,11 +156,11 @@ Manda o Governo, pelo Ministro do Trabalho e da Solidariedade, o seguinte:
 
 2.º A actualização prevista no número anterior tem em conta os escalões determinados em função do número de anos de carreira contributiva, o valor máximo de aumento para cada escalão e o valor limite da pensão a conceder aos pensionistas, nos termos estabelecidos na seguinte tabela:
 
-[(ver tabela no documento original)](https://files.diariodarepublica.pt/1s/1998/09/219b00/49324933.pdf)
+[[(ver tabela no documento original)](https://files.diariodarepublica.pt/1s/1998/09/219b00/49324933.pdf)](https://files.diariodarepublica.pt/1s/1998/09/219b00/49324933.pdf)
 
 3.º Em 1 de Junho de 1999 entrará em vigor uma nova actualização extraordinária para os pensionistas abrangidos pela presente portaria coincidindo com a consagração do direito subjectivo a um valor mínimo de pensão indexado ao montante do salário mínimo garantido à generalidade dos trabalhadores deduzido da taxa contributiva máxima do regime geral imputável aos trabalhadores por conta de outrem, variando entre 65% e 100% deste valor, segundo escalões de carreira contributiva, nos termos estabelecidos na seguinte tabela:
 
-[(ver tabela no documento original)](https://files.diariodarepublica.pt/1s/1998/09/219b00/49324933.pdf)
+[[(ver tabela no documento original)](https://files.diariodarepublica.pt/1s/1998/09/219b00/49324933.pdf)](https://files.diariodarepublica.pt/1s/1998/09/219b00/49324933.pdf)
 
 4.º A previsão que integra o número anterior não prejudicará a manutenção das garantias estabelecidas na legislação em vigor em relação aos restantes pensionistas.
 
@@ -152,6 +168,6 @@ Manda o Governo, pelo Ministro do Trabalho e da Solidariedade, o seguinte:
 
 Ministério do Trabalho e da Solidariedade.
 
-**Assinada em 10 de Setembro de 1998.**
+Assinada em 10 de Setembro de 1998.
 
-**O Ministro do Trabalho e da Solidariedade, Eduardo Luís Barreto Ferro Rodrigues.**
+O Ministro do Trabalho e da Solidariedade, Eduardo Luís Barreto Ferro Rodrigues.

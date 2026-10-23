@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/495/1999/07/12/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/495-1999-368775
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2007-11-19T00:00:00Z'
+  retrieved_at: '2026-10-23T14:15:48Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: e52b8ffe2fc153d99efc0a05d1aa2648aecfd479de7ca869525fee92b92056b5
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 918077e70b44971767fc29c1b417aa0a444bc2f03c3bab9a07aacd4a05fdc682
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T14:15:48Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,28 +67,28 @@ reuse:
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
 - Bacharelato
-- Plano de Estudos
+- Beja
+- Bragança
+- Castelo Branco
+- Coimbra
 - Curso de Desporto Variante de Animação Desportiva Recreação e Lazer
 - Curso de Gestão de Sistemas de Informação
 - Curso de Produção e Utilização de Cavalos
 - Curso de Sistemas de Informação para a Gestão
 - Ensino Oficial
+- Ensino Superior
 - Ensino Superior Politécnico
+- Estabelecimento de Ensino
+- Guarda
 - Instituto Politécnico
 - Leiria
 - Licenciatura
-- Setúbal
-- Beja
-- Castelo Branco
-- Coimbra
+- Plano de Estudos
 - Portalegre
-- Estabelecimento de Ensino
-- Ensino Superior
 - RIO AVE
 - Santarém
-- Bragança
+- Setúbal
 - Tomar
-- Guarda
 - Viana do Castelo
 - Viseu
 relationships:
@@ -96,20 +96,161 @@ relationships:
   target: pt:dre:628475:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:203470:por
+  label: "Alterado para Engenharia da Produção Animal o curso bietápico de licenciatura denominado Engenharia da Produção\
+    \ (da Escola Superior Agrária de Santarém) aprovado pelo presente diploma, pela PORT.466-C/2000.21.07.2000.ME, DR.IS-B\
+    \ [167-Supl] de 21.07.2000\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/466-c-2000-203470
+  date: '2000-07-21'
+- type: amended_by
+  target: pt:dre:332770:por
+  label: "Eliminados os ramos animal e vegetal do curso de Engenharia Alimentar, pela PORT.531/2001.2001.05.25.ME,DR.IS-B[121]\0\
+    \0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/531-2001-332770
+  date: '2001-05-25'
+- type: amended_by
+  target: pt:dre:348548:por
+  label: "Desdobrados em vários ramos o 2º ciclo de alguns cursos bietápicos, criados pelo presente diploma, pela PORT.694/2001.2001.07.10.ME,\
+    \ DR.IS-B [158]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/694-2001-348548
+  date: '2001-07-10'
+- type: amended_by
+  target: pt:dre:197499:por
+  label: "Alterado para Animação Sociocultural a designação do Curso bietápico de licenciatura em Animador Sociocultural,\
+    \ pela PORT.886/2002.2002.07.26.MCES DR.IS-B [171]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/886-2002-197499
+  date: '2002-07-26'
+- type: amended_by
+  target: pt:dre:671222:por
+  label: "Alterado para Engenharia Alimentar a denominação do curso de Engenharia Agro-Alimentar, pela PORT.574/2003.2003.07.16.MADRP\
+    \ DR.IS-B [162]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/574-2003-671222
+  date: '2003-07-16'
+- type: amended_by
+  target: pt:dre:670354:por
+  label: "Alterada para Engenharia dos Recursos Naturais e Ambiente a denominação do curso de Engenharia de Ordenamento dos\
+    \ Recursos Naturais da Escola Superior Agrária de Castelo Branco aprovado pela Port 495/99 de 12-Jul DR.IS-B [160]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/598-2003-670354
+  date: '2003-07-21'
+- type: amended_by
+  target: pt:dre:670364:por
+  label: "Alterada para Contabilidade a denominação do curso de licenciatura em Contabilidade e Auditoria da Escola Superior\
+    \ de Tecnologia e Gestão de Portalegre, pela PORT.605/2003.2003.07.21.MCES DR.IS-B [166]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/605-2003-670364
+  date: '2003-07-21'
+- type: amended_by
+  target: pt:dre:423650:por
+  label: "O 2.º ciclo do curso bietápico de licenciatura em Marketing da Escola Superior de Tecnologia e Gestão do Instituto\
+    \ Politécnico de Portalegre, criado pelo presente diploma, passa a desdobrar-se em vários ramos, pela PORT.1399/2003.22.12.2003.MCES,\
+    \ DR.IS-B [294] de 22.12.2003\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/1399-2003-423650
+  date: '2003-12-22'
+- type: amended_by
+  target: pt:dre:270436:por
+  label: "Alterado o nº 1º da Port 466-C/2000 de 21-Jul, na redacção que conferiu ao presente diploma, pela PORT.540/2004.20.05.2004.MCES,\
+    \ DR.IS-B [118] de 20.05.2004\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/540-2004-270436
+  date: '2004-05-20'
+- type: amended_by
+  target: pt:dre:527575:por
+  label: "Alterada a denominação do curso bietápico de licenciatura em Engenharia Electrotécnica da Escola Superior de Tecnologia\
+    \ de Tomar, do Instituto Politécnico de Tomar, criado pelo presente diploma, cujo plano de estudos foi aprovado pela Portaria\
+    \ n.º 56/2003, de 16-Jan, pela PORT.837/2004.16.07.2004.MCES, DR.IS-B [166] de 16.07.2004\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/837-2004-527575
+  date: '2004-07-16'
+- type: amended_by
+  target: pt:dre:527577:por
+  label: "Alterada a denominação do curso bietápico de licenciatura em Desporto, variante de Treino Desportivo de Alto Rendimento,\
+    \ da Escola Superior de Desporto de Rio Maior, do Instituto Politécnico de Santarém, criado pelo presente diploma, pela\
+    \ PORT.839/2004.16.07.2004.MCES, DR.IS-B [166] de 16.07.2004\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/839-2004-527577
+  date: '2004-07-16'
+- type: amended_by
+  target: pt:dre:527581:por
+  label: "Alterada a denominação do curso bietápico de licenciatura em Gestão do Território da Escola Superior de Tecnologia\
+    \ de Tomar, pela PORT.840/2004.16.07.2004.MCES, DR.IS-B [166] de 16.07.2004\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/840-2004-527581
+  date: '2004-07-16'
+- type: amended_by
+  target: pt:dre:527584:por
+  label: "Alteradadenominção do curso de licenciatura em Desporto, variante de Animação Desportiva, Recreação e Lazer para\
+    \ Desporto, variante de Desporto da Natureza e Turismo Activo, criado pelo presente diploma, pela PORT.843/2004.16.07.2004.MCES,\
+    \ DR.IS-B [166] de 16.07.2004\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/843-2004-527584
+  date: '2004-07-16'
+- type: amended_by
+  target: pt:dre:623584:por
+  label: "Transferida para a Escola Superior de Tecnologia de Barcelos a ministração do curso bietápico de licenciatura de\
+    \ Sistemas de Informaçao para a Gestão criado pelo presente diploma, pela PORT.93/2005.25.01.2005.MCIES, DR.IS-B [17]\
+    \ de 25.01.2005\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/93-2005-623584
+  date: '2005-01-25'
+- type: amended_by
+  target: pt:dre:482788:por
+  label: "Cessada a ministração do curso bietápico de Engenharia Agro-Florestal, criado pelo presente diploma, nos termos\
+    \ do disposto no nº 3º da PORT.1246/2005.28.11.2005.MCTES, DR.IS-B [228] de 28.11.2005, que revoga este diploma no que\
+    \ àquele curso respeita.\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/1246-2005-482788
+  date: '2005-11-28'
+- type: amended_by
+  target: pt:dre:631652:por
+  label: "Alterada a estrutura (o 2º ciclo deixa de se desdobrar em ramos) do curso bietápico de licenciatura em Engenharia\
+    \ Electrotécnica, redenominado Engenharia Electrotécnica e de Computadores ministrado no Instituto Politécnico de Tomar\
+    \ e criado pelo presente diploma, com as alterações constantes da Port 837/2004 de 16-Jul, pela PORT.457/2006.16.05.2006.MCTES,\
+    \ DR.IS-B [94] de 16.05.2006\06\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/457-2006-631652
+  date: '2006-05-16'
 - type: cites
   target: eli:http://data.dre.pt/eli/port/413-a/1998/07/17/p/dre
   label: null
   source: http://data.dre.pt/eli/port/413-a/1998/07/17/p/dre
+- type: cites
+  target: pt:dre:429596:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:453184:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:470779:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:556606:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:480679:por
+  label: "Revogada pela PORT.5/2003.2003.01.03.MCES DR.IS-B [2], nos termos do disposto no nº 2 do art. 2º daquele diploma\0\
+    \0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/5-2003-480679
+  date: '2003-01-03'
+- type: repealed_by
+  target: pt:dre:176489:por
+  label: "Revogada com a redacção dada pela Port 1149/2000 de 04-Dez, relativamente ao Instituto Politécnico de Tomar e aos\
+    \ graus de bacharel e de licenciado em Engenharia Química Industrial, pela PORT.59/2003.2003.01.16.MCES DR.IS-B [13],\
+    \ nos termos do respectivo nº 2º\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/59-2003-176489
+  date: '2003-01-16'
+- type: repealed_by
+  target: pt:dre:628475:por
+  label: "Revogada, nos termos do art. 4º, na parte em que autorizou o Instituto Politécnico de Portalegre, através da sua\
+    \ Escola Superior Agrária de Elvas, a conferir os graus de bacharel e de licenciado em Engenharia Agrária e Desenvolvimento\
+    \ Regional, pela PORT.1485/2007.19.11.2007.MCTES, DR.IS [222] de 19.11.2007\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/1485-2007-628475
+  date: '2007-11-19'
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T14:15:48Z'
   warnings: []
   errors: []
 ---

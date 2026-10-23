@@ -28,7 +28,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/2s/2009/10/191000000/4000640006.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -50,18 +50,18 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/declaracao-rectificacao/2433-2009-2807174
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2009-10-01T00:00:00Z'
+  retrieved_at: '2026-10-23T14:06:59Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 31255e2e274296b9aecb16db4569ec8952d73cd9bf648b4f51d68c132ca08827
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: ba94ce6a3a76c76836346cd025f69a3a467fbfc6226d7e6490803dfb06846875
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T14:06:59Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -69,22 +69,30 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects: []
-relationships: []
+relationships:
+- type: cites
+  target: pt:dre:468663:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:624401:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T14:06:59Z'
   warnings: []
   errors: []
 ---
 
-# Declaração de Rectificação n.º 2433/2009
+# Declaração de rectificação n.º 2433/2009
 
 Para os devidos efeitos se torna púbico que, na sequência de despacho de 3 de Agosto de 2009, e com o intuito de garantir a tramitação do procedimento publicado no aviso n.º 7979/2009, publicado no Diário da República, 2.ª série, n.º 71, de 13 de Abril de 2009, referente à abertura de procedimento concursal para a contratação por tempo indeterminado, para o preenchimento de sete postos de trabalho, a exercer as funções de: a) um técnico superior na área de animação sócio-cultural; b) três técnicos superiores para exercer funções na área do desporto; c) um técnico superior para exercer funções na área do design; d) um técnico superior para exercer funções na área de relações económicas, e e) um técnico superior para exercer funções na área de artes plásticas, procede-se à republicação do n.º 7:
 
@@ -121,3 +129,5 @@ CF = AC x 40 % + EAC x 60 %
 7.8 - Nos termos do artigo 8.º da Portaria 83-A/2009, de 22 de Janeiro, por razões de celeridade, proceder-se-á à utilização faseada dos métodos de selecção, conforme previsto nas alíneas a), b) e c) do n.º 1 do referido artigo.»
 
 22 de Setembro de 2009. - O Vereador do Pelouro de Administração e Finanças, Celestino Augusto Soares Portela.
+
+302340432

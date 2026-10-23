@@ -48,18 +48,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/83/1998/02/19/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/83-1998-209846
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1998-03-25T00:00:00Z'
+  retrieved_at: '2026-10-23T14:11:26Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 4051db346627dabe772c25246be20ef5c32cba7afc4ac1d145dd33b7b0c876e6
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 3a5271862edaddbb29ced4f69e9afaf43cb732c0cbc5a98f82de6e7ddee363e5
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T14:11:26Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,33 +67,33 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Ajuda Comunitária
-- Aquisição de Imóveis
+- Agricultura
 - Agrupamento de Produtores
-- Financiamento
-- CEE
-- Desenvolvimento Rural
-- Proteção dos Animais
-- Desenvolvimento Regional
-- Emparcelamento
-- Arborização
+- Ajuda Comunitária
 - Apoio ao Investimento
-- Projeto de Investimento
 - Aproveitamento Hidroagrícola
+- Aquisição de Imóveis
+- Arborização
+- CEE
+- Desenvolvimento Regional
+- Desenvolvimento Rural
+- Emparcelamento
+- Exploração Agrícola
+- Exploração Florestal
+- Financiamento
 - Jovem Agricultor
 - Olivicultura
-- Exploração Agrícola
-- Proteção do Ambiente
+- Pecuária
 - Política Agrícola Comum
 - Prédio Rústico
-- Exploração Florestal
-- Regulamento
-- Região Desfavorecida
 - Programa de Apoio à Modernização Agrícola e Florestal
+- Projeto de Investimento
+- Proteção do Ambiente
+- Proteção dos Animais
+- Região Desfavorecida
+- Regulamento
 - Regulamento de Aplicação da Medida de Apoio às Explorações Agrícolas
 - Regulamento de Aplicação da Medida de Infra-estruturas
-- Pecuária
-- Agricultura
 - Regulamento do Programa de Desenvolvimento Florestal
 - Vinha
 relationships:
@@ -133,16 +133,63 @@ relationships:
   target: eli:http://data.dre.pt/eli/port/980/1995/08/16/p/dre
   label: null
   source: http://data.dre.pt/eli/port/980/1995/08/16/p/dre
+- type: cites
+  target: pt:dre:198909:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:226427:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:269400:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:477870:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:574171:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:617285:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:617287:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:617288:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:199636:por
+  label: "Revogado o nº 5 pela PORT.195/98.1998.03.24.MADRP, DR.IS-B [70]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/195-1998-199636
+  date: '1998-03-24'
+- type: repealed_by
+  target: pt:dre:199637:por
+  label: "Revogados os nºs 2 e 3 pela PORT.196/98.1998.03.24.MADRP, DR.IS-B [70] \0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/196-1998-199637
+  date: '1998-03-24'
+- type: repealed_by
+  target: pt:dre:197727:por
+  label: "Revogado o nº 4 pela PORT.199/98.1998.03.25.MADRP, DR.IS-B [71]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/199-1998-197727
+  date: '1998-03-25'
 article_structure:
-  article_count: 4
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T14:11:26Z'
   warnings: []
   errors: []
 ---
@@ -171,11 +218,11 @@ a) De Janeiro a Dezembro, junto das direcções regionais de agricultura, quando
 
 b) Em Setembro e Outubro, junto das direcções regionais de agricultura, para as restantes, e junto do IEHRA, no caso de obras do grupo II já aprovadas por resolução do Conselho de Ministros.
 
-###### Artigo 17.º
+Artigo 17.º
 
 1 - As candidaturas apresentadas, quando se trate das obras a que se refere a secção III, são objecto de análise e deliberação pela unidade de gestão competente até três meses a contar da data da recepção das candidaturas e, nos restantes casos, até 28 de Fevereiro.
 
-###### Artigo 20.º
+Artigo 20.º
 
 1 - Salvo no caso referido no número seguinte, a atribuição das ajudas previstas neste capítulo é feita ao abrigo de contratos celebrados entre os beneficiários e o Instituto de Financiamento e Apoio ao Desenvolvimento da Agricultura e Pescas (IFADAP), donde conste o prazo para a realização do investimento, no prazo máximo de um mês a contar da decisão de aprovação, para as referidas na secção III, e até 31 de Março, nos restantes casos.»
 
@@ -185,7 +232,7 @@ b) Em Setembro e Outubro, junto das direcções regionais de agricultura, para a
 
 1 - O processo de candidatura às ajudas previstas neste Regulamento inicia-se com a apresentação, de Janeiro a Dezembro, junto do IFADAP, de um projecto, de acordo com modelo a distribuir por este Instituto.
 
-###### Artigo 73.º
+Artigo 73.º
 
 A atribuição das ajudas é feita ao abrigo de contratos celebrados entre os beneficiários e o IFADAP, donde conste o prazo para a realização do investimento, no prazo máximo de um mês a contar da decisão de aprovação.»
 
@@ -197,7 +244,7 @@ A atribuição das ajudas é feita ao abrigo de contratos celebrados entre os be
 
 2 - A análise e deliberação das candidaturas apresentadas é da competência do IFADAP, até três meses a contar da data da recepção das candidaturas.
 
-###### Artigo 17.º
+Artigo 17.º
 
 1 - As ajudas previstas no presente diploma são concedidas ao abrigo de contratos celebrados entre o IFADAP e os beneficiários, donde conste o prazo para a realização do investimento, no prazo máximo de um mês a contar da decisão de aprovação.»
 
@@ -209,7 +256,9 @@ Contratos
 
 A atribuição das ajudas é feita ao abrigo de contratos celebrados entre os beneficiários e o IFADAP, donde conste o prazo para a realização do investimento.
 
-## ANEXO V — (a que se refere o artigo 50.º)
+ANEXO V
+
+(a que se refere o artigo 50.º)
 
 [(ver anexo no documento original)](https://files.diariodarepublica.pt/1s/1998/02/042b00/06830684.pdf)
 
@@ -219,6 +268,6 @@ A atribuição das ajudas é feita ao abrigo de contratos celebrados entre os be
 
 Ministério da Agricultura, do Desenvolvimento Rural e das Pescas.
 
-**Assinada em 30 de Janeiro de 1998.**
+Assinada em 30 de Janeiro de 1998.
 
-**O Ministro da Agricultura, do Desenvolvimento Rural e das Pescas, Fernando Manuel Van-Zeller Gomes da Silva.**
+O Ministro da Agricultura, do Desenvolvimento Rural e das Pescas, Fernando Manuel Van-Zeller Gomes da Silva.

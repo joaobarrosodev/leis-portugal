@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/1059/1999/12/06/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/1059-1999-631256
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2010-09-07T00:00:00Z'
+  retrieved_at: '2026-10-23T14:12:47Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 6ad872328ad2f1f1fb697325d82542dba61f1daa2e2b6c95e076f227c82e8edd
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 02c3968b9c719d4aacc7f26214633a54159bc600a8e6fcc845bcfcf41a1ee071
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T14:12:47Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -74,6 +74,18 @@ relationships:
   target: pt:dre:344244:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:517252:por
+  label: "Anexados vários prédios rústicos á zona de caça atribuída pela Port 351/97, de 26-Mai, com a redacção conferida\
+    \ pelo presente diploma, pela PORT.778/2004.05.07.2004.MECO, DR.IS-B [156] de 05.07.2004\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/778-2004-517252
+  date: '2004-07-05'
+- type: amended_by
+  target: pt:dre:344244:por
+  label: "Renovada, por um período de seis anos, a concessão da zona de caça atribuída pela Port 351/97, de 26-Maio, alterada\
+    \ pela presente portaria, pela PORT.859/2010.07.09.2010.MADRP, DR.IS [174] de 07.09.2010\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/859-2010-344244
+  date: '2010-09-07'
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/136/1996/08/14/p/dre
   label: null
@@ -82,16 +94,28 @@ relationships:
   target: eli:http://data.dre.pt/eli/port/351/1997/05/26/p/dre
   label: null
   source: http://data.dre.pt/eli/port/351/1997/05/26/p/dre
+- type: cites
+  target: pt:dre:219134:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:347504:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:405765:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T14:12:47Z'
   warnings: []
   errors: []
 ---

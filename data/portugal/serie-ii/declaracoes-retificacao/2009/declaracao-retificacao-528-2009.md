@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/2s/2009/02/036000000/0711307113.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -46,18 +46,18 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/declaracao-rectificacao/528-2009-1655152
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2009-02-20T00:00:00Z'
+  retrieved_at: '2026-10-23T14:12:11Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 16644200b7d81a69d9ccc88964687cb07345544d64e24476b59aa21b36833865
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: a0401b297dde4d0167bc60eceef3293eac2458716aa8b22dfe7f220734a88711
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T14:12:11Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -65,22 +65,34 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects: []
-relationships: []
+relationships:
+- type: cites
+  target: pt:dre:583237:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:671576:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:932300:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T14:12:11Z'
   warnings: []
   errors: []
 ---
 
-# Declaração de Rectificação n.º 528/2009
+# Declaração de rectificação n.º 528/2009
 
 Por ter saído inexacta a publicação no Diário da República, 2.ª série n.º 25 de 05 de Fevereiro de 2009, Lista n.º 157/08, [Despacho n.º 4434/2009](https://diariodarepublica.pt/dr/detalhe/despacho/4434-2009-932300) (2.º série) relativamente à concessão do Estatuto de Igualdade de Direitos e Deveres previsto no Tratado de Amizade, Cooperação e Consulta entre a República Portuguesa e a República Federativa do Brasil, e nos termos dos artigos 15.º da [Resolução da Assembleia da República n.º 83/2000](https://diariodarepublica.pt/dr/detalhe/resolucao-assembleia-republica/83-2000-583237) de 14 de Dezembro, conjugado com o n.º 1 do artigo 5.º do [Decreto-Lei n.º 154/2003](https://diariodarepublica.pt/dr/detalhe/decreto-lei/154-2003-671576), de 15 de Julho, rectifica-se: Onde se lê: Data Nascimento Samuel João Silva 26-10-52 Deve ler-se: Samuel João da Silva 26-10-52
 

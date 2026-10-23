@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/2s/2010/07/127000000/3620436204.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -46,18 +46,18 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/declaracao-rectificacao/1294-2010-1918697
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2010-07-02T00:00:00Z'
+  retrieved_at: '2026-10-23T14:16:43Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: bd37c50d6214a8a92b9c53bea74e58ddba5ee2f65e03d8ec0c937df1f06ea6a0
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 84adf1646d9ce179bed3d7d140236f17453fd37025fdff748106128c44d27bab
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T14:16:43Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -69,18 +69,18 @@ relationships: []
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T14:16:43Z'
   warnings: []
   errors: []
 ---
 
-# Declaração de Rectificação n.º 1294/2010
+# Declaração de rectificação n.º 1294/2010
 
 O quadro n.º 8 do despacho n.º 6246/2010, publicado no Diário da República, 2.ª série, n.º 68, de 8 de Abril de 2010, referente à criação do curso de 2.º ciclo em Ciências da Educação pela Universidade de Évora, contém algumas incorrecções, pelo que onde se lê:
 
@@ -88,7 +88,7 @@ O quadro n.º 8 do despacho n.º 6246/2010, publicado no Diário da República, 
 
 QUADRO N.º 8
 
-[([ver documento original](https://files.diariodarepublica.pt/2s/2010/07/127000000/3620436204.pdf))](https://files.diariodarepublica.pt/2s/2010/07/127000000/3620436204.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/2s/2010/07/127000000/3620436204.pdf)
 
 deve ler-se:
 
@@ -96,6 +96,8 @@ deve ler-se:
 
 QUADRO N.º 8
 
-[([ver documento original](https://files.diariodarepublica.pt/2s/2010/07/127000000/3620436204.pdf))](https://files.diariodarepublica.pt/2s/2010/07/127000000/3620436204.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/2s/2010/07/127000000/3620436204.pdf)
 
 24 de Junho de 2010. - A Directora, Margarida Cabral.
+
+203420908

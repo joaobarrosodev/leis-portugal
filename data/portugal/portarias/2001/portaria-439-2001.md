@@ -26,7 +26,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2001/04/099b00/24232424.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -48,18 +48,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/439/2001/04/28/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/439-2001-165180
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2005-11-24T00:00:00Z'
+  retrieved_at: '2026-10-23T14:32:14Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: ecdcb9de37aadb3e62af0f79e7a44a355934b864a0aa63c30b1cb4367f9eb113
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 363daf19896540cc6dcc2b7e9a5268c67056e3ebb03b827146ea0206b69704cb
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T14:32:14Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -85,16 +85,35 @@ relationships:
   target: eli:http://data.dre.pt/eli/port/1103/2000/11/23/p/dre
   label: null
   source: http://data.dre.pt/eli/port/1103/2000/11/23/p/dre
+- type: cites
+  target: pt:dre:534644:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:594974:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:434640:por
+  label: "Revogada pela PORT.1391/2002.2002.10.25.MADRP,DR.IS-B [247], sem prejuízo do disposto no nº 3 do nº 13º\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/1391-2002-434640
+  date: '2002-10-25'
+- type: repealed_by
+  target: pt:dre:480704:por
+  label: "Revogada pelo DEC LEI.202/2004.18.08.2004.MADRP, DR.IS-A [194] de 18.08.2004, mantida contudo transitoriamente em\
+    \ vigor até à publicação da legislação prevista no referido diploma\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/202-2004-480704
+  date: '2004-08-18'
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T14:32:14Z'
   warnings: []
   errors: []
 ---

@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/428/1998/07/25/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/428-1998-428622
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1998-07-25T00:00:00Z'
+  retrieved_at: '2026-10-23T14:08:50Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: ba2bb1b9cec6efdf33f2441a81e4c24e7b4a3514fd357177745f1b769d594fd5
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 70e7fde6e4a851af333568bd3a71f30ea20b34fe84ec09412c39ae9e8e1c162c
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T14:08:50Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,16 +67,16 @@ reuse:
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
 - Ajuda Comunitária
+- Desenvolvimento Económico
+- Embarcação de Pesca
 - Financiamento
 - Frota de Pesca
 - Pesca
+- Programa para o Desenvolvimento Económico do Sector das Pescas
 - QCA
 - Reestruturação Industrial
-- Desenvolvimento Económico
-- Programa para o Desenvolvimento Económico do Sector das Pescas
 - Regime de Apoio à Renovação e Modernização da Frota de Pesca
 - Regulamento
-- Embarcação de Pesca
 relationships:
 - type: cites
   target: eli:http://data.dre.pt/eli/port/372/1995/04/28/p/dre
@@ -86,16 +86,24 @@ relationships:
   target: eli:http://data.dre.pt/eli/port/576/1994/07/12/p/dre
   label: null
   source: http://data.dre.pt/eli/port/576/1994/07/12/p/dre
+- type: cites
+  target: pt:dre:223053:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:294697:por
+  label: null
+  source: null
 article_structure:
-  article_count: 7
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T14:08:50Z'
   warnings: []
   errors: []
 ---
@@ -122,7 +130,9 @@ Para efeitos de concessão de apoio aos projectos de novas construções, será 
 
 ...
 
-###### Artigo 6.º — Despesas elegíveis
+Artigo 6.º
+
+Despesas elegíveis
 
 Para efeitos de concessão de apoio, são elegíveis as seguintes despesas:
 
@@ -132,13 +142,17 @@ b) Encargos gerais e despesas imprevistas de investimento até ao montante máxi
 
 c) (Revogada.)
 
-###### Artigo 12.º — Critérios de prioridade
+Artigo 12.º
+
+Critérios de prioridade
 
 Para efeitos de concessão de ajudas a projectos de modernização será conferida prioridade às candidaturas que satisfaçam uma ou mais das seguintes condições:
 
 ...
 
-###### Artigo 14.º — Despesas não elegíveis
+Artigo 14.º
+
+Despesas não elegíveis
 
 Não são elegíveis para efeitos de concessão de apoio as seguintes despesas:
 
@@ -148,7 +162,9 @@ c) Aquisição de equipamento em segunda mão;
 
 ...
 
-###### Artigo 17.º — Apresentação das candidaturas
+Artigo 17.º
+
+Apresentação das candidaturas
 
 1 - As candidaturas ao regime de apoio previsto no presente diploma são apresentadas na Direcção-Geral das Pescas e Aquicultura (DGPA), na sua sede ou respectiva direcção regional.
 
@@ -160,13 +176,17 @@ c) Aquisição de equipamento em segunda mão;
 
 5 - (Anterior n.º 4.)
 
-###### Artigo 19.º — Atribuição do apoio
+Artigo 19.º
+
+Atribuição do apoio
 
 ...
 
 3 - O pagamento do apoio só será efectuado após verificação de que o candidato tem a situação contributiva regularizada perante o Estado e a segurança social.
 
-###### Artigo 20.º — Obrigações dos beneficiários
+Artigo 20.º
+
+Obrigações dos beneficiários
 
 ...
 
@@ -174,11 +194,15 @@ c) Aquisição de equipamento em segunda mão;
 
 c) Constituir um seguro pelo montante mínimo correspondente ao valor das ajudas concedidas, quando esteja em causa a construção de embarcações.
 
-###### Artigo 21.º — Data limite para apresentação de candidaturas
+Artigo 21.º
+
+Data limite para apresentação de candidaturas
 
 A data limite para apresentação de candidaturas ao presente Regime é 30 de Junho de 1999.
 
-## ANEXO I — A - Construção de embarcações
+ANEXO I
+
+A - Construção de embarcações
 
 Tabelas de limites máximos de comparticipação de nova construção, não podendo as despesas elegíveis exceder os montantes dos referidos quadros, multiplicados por um coeficiente:
 
@@ -190,13 +214,13 @@ QUADRO N.º 1
 
 Embarcações com comprimento entre perpendiculares até 24 m, inclusive
 
-[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/1998/07/170b00/35583559.pdf)
+[[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/1998/07/170b00/35583559.pdf)](https://files.diariodarepublica.pt/1s/1998/07/170b00/35583559.pdf)
 
 QUADRO N.º 2
 
 Embarcações com comprimento entre perpendiculares com mais de 24 m
 
-[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/1998/07/170b00/35583559.pdf)
+[[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/1998/07/170b00/35583559.pdf)](https://files.diariodarepublica.pt/1s/1998/07/170b00/35583559.pdf)
 
 B - Modernização de embarcações
 
@@ -208,6 +232,6 @@ Os limites máximos das despesas elegíveis a título de ajuda à modernização
 
 Ministério da Agricultura, do Desenvolvimento Rural e das Pescas.
 
-**Assinada em 7 de Julho de 1998.**
+Assinada em 7 de Julho de 1998.
 
 Pelo Ministro da Agricultura, do Desenvolvimento Rural e das Pescas, Marcelo de Sousa Vasconcelos, Secretário de Estado das Pescas.

@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/809/2000/09/22/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/809-2000-558056
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2000-09-22T00:00:00Z'
+  retrieved_at: '2026-10-23T14:26:06Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: e9cf95c4ff468bc5f2a0492e800506253bdab350723ff03c3e830e03b2ddfd8a
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: f00ac632895f92454f0b12a6e9aaaa68c7b37c429abf1d2f40eb6313537d000a
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T14:26:06Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -65,11 +65,11 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Ensino não Superior
 - Definição de Competências
+- Ensino não Superior
 - Escola Profissional de Ciências Geográficas
-- Pessoal não Docente
 - Pessoal Docente
+- Pessoal não Docente
 - Regime de Instalação
 relationships:
 - type: cites
@@ -88,16 +88,36 @@ relationships:
   target: eli:http://data.dre.pt/eli/port/185/1992/03/17/p/dre
   label: null
   source: http://data.dre.pt/eli/port/185/1992/03/17/p/dre
+- type: cites
+  target: pt:dre:178836:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:208255:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:224851:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:562212:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:609609:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T14:26:06Z'
   warnings: []
   errors: []
 ---

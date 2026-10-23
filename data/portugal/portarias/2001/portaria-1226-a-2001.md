@@ -19,12 +19,12 @@ publication:
   reference: Diário da República n.º 247/2001, 1º Suplemento, Série I-B de 2001-10-24
   number: '247'
   series: I
-  supplement: 1º Suplemento
+  supplement: null
   pages: 6840-(2) a 6840-(3)
   pdf_url: https://files.diariodarepublica.pt/1s/2001/10/247b01/00020003.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/1226-a/2001/10/24/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/1226-a-2001-229517
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2003-12-31T00:00:00Z'
+  retrieved_at: '2026-10-23T14:28:49Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 3e93f0b36db0a770c70bec116cf6c20ab60001e7229e6e661bd16556f4166053
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 0dea7e13aef27ce36135711d265e3c44a1e69600129faf96429bebe9cbbae0e7
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T14:28:49Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -65,20 +65,50 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Imposto sobre Produtos Petrolíferos
 - Coeficiente de Correcção
-- União Europeia
 - Combustível
 - Gasóleo
 - Gasolina
+- Imposto sobre Produtos Petrolíferos
 - Preço
 - Preço de Venda
 - Preço Máximo
+- União Europeia
 relationships:
 - type: amended_by
   target: pt:dre:302508:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:483588:por
+  label: "Alterado o nº 4, pela PORT.1261-A/2001.2001.10.31.MF, DR.IS-B [253]Supl\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/1261-a-2001-483588
+  date: '2001-10-31'
+- type: amended_by
+  target: pt:dre:456821:por
+  label: "Alterado o nº 4º pela PORT.1323-A/2001.2001.11.30.MF DR.IS-B [278]Supl\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/1323-a-2001-456821
+  date: '2001-11-30'
+- type: amended_by
+  target: pt:dre:319118:por
+  label: "Alterado o nº 4º pela PORT.1467-D/2001.2001.12.31.MF DR.IS-B [301]4º Supl\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/1467-d-2001-319118
+  date: '2001-12-31'
+- type: amended_by
+  target: pt:dre:506232:por
+  label: "Alterado o nº 4º pela PORT.101-A/2002.2002.01.31.MF DR.IS-B [26]2º Supl\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/101-a-2002-506232
+  date: '2002-01-31'
+- type: amended_by
+  target: pt:dre:657579:por
+  label: "Alterado o nº 4 pela PORT.180-A/2002.2002.02.28.MF, DR.IS-B [50]Supl.\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/180-a-2002-657579
+  date: '2002-02-28'
+- type: amended_by
+  target: pt:dre:682981:por
+  label: "Alterado o nº 4º pela PORT.322-B/2002.2002.03.26.MF DR.IS-B [72]2º Supl\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/322-b-2002-682981
+  date: '2002-03-26'
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/566/1999/12/22/p/dre
   label: null
@@ -87,16 +117,29 @@ relationships:
   target: eli:http://data.dre.pt/eli/port/224-a/1996/06/24/p/dre
   label: null
   source: http://data.dre.pt/eli/port/224-a/1996/06/24/p/dre
+- type: cites
+  target: pt:dre:220149:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:662084:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:302508:por
+  label: "Revogada pela PORT.1423-F/2003.31.12.2003.MF, DR.IS-B [301-6ºSupl] de 31.12.2003\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/1423-f-2003-302508
+  date: '2003-12-31'
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T14:28:49Z'
   warnings: []
   errors: []
 ---

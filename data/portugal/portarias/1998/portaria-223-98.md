@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/223/1998/04/06/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/223-1998-165647
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2004-04-14T00:00:00Z'
+  retrieved_at: '2026-10-23T14:07:29Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 89e6e94ac6ede76f6e176423df6698bede52bb624306df091fc850333b821790
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 1aad61b9dc81a727788df371658d015b45b0f60954943b0e89750340df6087fe
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T14:07:29Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -70,9 +70,9 @@ subjects:
 - Curso de Psicologia Clínica
 - Ensino Cooperativo
 - Ensino Particular
-- Instituto Superior de Ciências da Saúde-sul
-- Estabelecimento de Ensino
 - Ensino Superior
+- Estabelecimento de Ensino
+- Instituto Superior de Ciências da Saúde-sul
 relationships:
 - type: amended_by
   target: pt:dre:220744:por
@@ -94,16 +94,50 @@ relationships:
   target: eli:http://data.dre.pt/eli/port/906/1993/09/20/p/dre
   label: null
   source: http://data.dre.pt/eli/port/906/1993/09/20/p/dre
+- type: cites
+  target: pt:dre:187952:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:187955:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:512030:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:533820:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:564615:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:619295:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:655121:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:220744:por
+  label: "Revogada pela PORT.381/2004.14.04.2004.MCES, DR.IS-B [88] de 14.04.2004, sem prejuízo do disposto no respectivo\
+    \ nº 7º\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/381-2004-220744
+  date: '2004-04-14'
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T14:07:29Z'
   warnings: []
   errors: []
 ---
@@ -142,7 +176,7 @@ As regras de transição entre o anterior plano de estudos e o plano de estudos 
 
 Ministério da Educação.
 
-**Assinada em 12 de Março de 1998.**
+Assinada em 12 de Março de 1998.
 
 Pelo Ministro da Educação, Alfredo Jorge Silva, Secretário de Estado do Ensino Superior.
 

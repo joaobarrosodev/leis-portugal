@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/711/1999/08/24/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/711-1999-433797
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2008-10-17T00:00:00Z'
+  retrieved_at: '2026-10-23T14:17:14Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 0160d046e481a6da04d12fe9ce0b0c9f02b4247043477c31e34077f736f92315
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 2444164fbd1de8045ef715ccc2a31454e7df30a4b48056f3c9e3798fc62a9399
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T14:17:14Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -74,6 +74,13 @@ relationships:
   target: pt:dre:438679:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:438679:por
+  label: "Renovada por doze anos a concessão da zona de caça atribuída pela Port 856/98 de 09-Out, com as alterações constantes\
+    \ do presente diploma, pela PORT.1200/2008.17.10.2008.MADRP, DR.IS [202] de 17.10.2008, que anexou novos prédios rústicos\
+    \ à referida zona de caça \0 \0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/1200-2008-438679
+  date: '2008-10-17'
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/136/1996/08/14/p/dre
   label: null
@@ -82,16 +89,28 @@ relationships:
   target: eli:http://data.dre.pt/eli/port/856/1998/10/09/p/dre
   label: null
   source: http://data.dre.pt/eli/port/856/1998/10/09/p/dre
+- type: cites
+  target: pt:dre:219134:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:235481:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:405765:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T14:17:14Z'
   warnings: []
   errors: []
 ---

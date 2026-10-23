@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/510/2001/05/19/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/510-2001-344192
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2001-05-19T00:00:00Z'
+  retrieved_at: '2026-10-23T14:32:42Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 46a01a063fb2971247f4fbc96615a06cba37a0ec7f8ffe69f195393c82a7f328
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: ae5c1826bda52663e7d837c2e94dc80e88b486f0691fe058a31a214345ac3ec2
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T14:32:42Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -65,26 +65,30 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
+- Évora
 - Gabinete Médico-legal
 - Hospital do Espírito Santo
 - Instalação de Serviços
 - Medicina Legal
-- Évora
 relationships:
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/11/1998/01/24/p/dre
   label: null
   source: http://data.dre.pt/eli/dec-lei/11/1998/01/24/p/dre
+- type: cites
+  target: pt:dre:222631:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T14:32:42Z'
   warnings: []
   errors: []
 ---

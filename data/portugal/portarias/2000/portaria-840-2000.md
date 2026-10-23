@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/840/2000/09/26/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/840-2000-560404
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2006-06-16T00:00:00Z'
+  retrieved_at: '2026-10-23T14:26:20Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 1efa5fa7e6e8b135e85e2f1fa0615cfeff75f06834417832f9a86fd4c3a91619
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 0ad1be94af997e118b9e18ba13ced5a00bad1301bb02ded190fd0b39cd6da6d2
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T14:26:20Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,15 +66,21 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
+- Aljustrel
 - CAÇA
 - Ferreira do Alentejo
-- Aljustrel
 - ZONA de CAÇA
 relationships:
 - type: amended_by
   target: pt:dre:345112:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:345112:por
+  label: "Renovada, por um período de 10 anos, a concessão da zona de caça atribuída pela Port 254-EI/96, de 15-Jul, alterada\
+    \ pelo presente diploma, pela PORT.571/2006.16.06.2006.MADRP, DR.IS-B [115] de 16.06.2006\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/571-2006-345112
+  date: '2006-06-16'
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/136/1996/08/14/p/dre
   label: null
@@ -83,16 +89,28 @@ relationships:
   target: eli:http://data.dre.pt/eli/port/254-ei/1996/07/15/p/dre
   label: null
   source: http://data.dre.pt/eli/port/254-ei/1996/07/15/p/dre
+- type: cites
+  target: pt:dre:157205:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:219134:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:405765:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T14:26:20Z'
   warnings: []
   errors: []
 ---

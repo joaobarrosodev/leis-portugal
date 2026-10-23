@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/2s/2010/06/109000000/3113431134.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -47,18 +47,18 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/declaracao-rectificacao/1084-2010-2997553
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2010-06-07T00:00:00Z'
+  retrieved_at: '2026-10-23T14:15:33Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 681d079fdd866a7db5b50290f44dea649dd05922f3f9758c2db76638f5404bcd
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: ef4ef4300c519850867f5c2135f7eae343a6e9df5febd3da1ddbd5dda65dd6f9
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T14:15:33Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -70,13 +70,13 @@ relationships: []
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T14:15:33Z'
   warnings: []
   errors: []
 ---
@@ -88,3 +88,5 @@ Declaração de rectificação n.º 1084/2010
 Por ter saído com inexactidão no aviso n.º 10 314/2010, no Diário da República, 2.ª série, n.º 101, de 25 de Maio de 2010, no n.º 12, rectifica-se que onde se lê «12 - A não apresentação dos documentos comprovativos da posse dos requisitos de admissão exigidos nas alíneas b) e c) do ponto 9 do presente Aviso, bem como o preenchimento incorrecto dos elementos relevantes do requerimento, é motivo de exclusão do procedimento concursal.» deve ler-se «12 - A não apresentação dos documentos comprovativos da posse dos requisitos de admissão exigidos nas alíneas a) e b) do n.º 9 do presente aviso, bem como o preenchimento incorrecto dos elementos relevantes do requerimento, é motivo de exclusão do procedimento concursal.».
 
 28 de Maio de 2010. - A Directora do Departamento de Gestão de Recursos Humanos Financeiros e Patrimoniais, Fernanda da Piedade Martins Chilrito Mendes Bernardo.
+
+203319504

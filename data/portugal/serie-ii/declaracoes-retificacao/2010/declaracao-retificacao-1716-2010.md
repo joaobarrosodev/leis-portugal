@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/2s/2010/08/165000000/4506245069.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -47,18 +47,18 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/declaracao-rectificacao/1716-2010-2797088
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2010-08-25T00:00:00Z'
+  retrieved_at: '2026-10-23T14:19:15Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 41c6752f343c3bd8d936476ca7fa60b0f4f660255347db6a763e3c0c620e49a9
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 8a3450ce0957daa605f21928b0fc467bf0b6f26bb126e9c1991401c37c38f9e0
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T14:19:15Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,22 +66,26 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects: []
-relationships: []
+relationships:
+- type: cites
+  target: pt:dre:3465412:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T14:19:15Z'
   warnings: []
   errors: []
 ---
 
-# Declaração de Rectificação n.º 1716/2010
+# Declaração de rectificação n.º 1716/2010
 
 Por ter sido publicado com inexactidão no Diário da República, 2.ª série, n.º 63, de 31 de Março de 2010, o [Despacho n.º 5905/2010](https://diariodarepublica.pt/dr/detalhe/despacho/5905-2010-3465412), referente ao regulamento do ciclo de estudos conducente ao Grau de Licenciado em Ciências da Cultura, rectifica-se que onde se lê:
 
@@ -89,25 +93,25 @@ Variantes 1: Cultura, Artes e Património
 
 QUADRO N.º 9.1
 
-[([ver documento original](https://files.diariodarepublica.pt/2s/2010/08/165000000/4506245069.pdf))](https://files.diariodarepublica.pt/2s/2010/08/165000000/4506245069.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/2s/2010/08/165000000/4506245069.pdf)
 
 Variantes 2: Cultura e Comunicação
 
 QUADRO N.º 9.2
 
-[([ver documento original](https://files.diariodarepublica.pt/2s/2010/08/165000000/4506245069.pdf))](https://files.diariodarepublica.pt/2s/2010/08/165000000/4506245069.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/2s/2010/08/165000000/4506245069.pdf)
 
 Variantes 3: Culturas Hispânicas
 
 QUADRO N.º 9.3
 
-[([ver documento original](https://files.diariodarepublica.pt/2s/2010/08/165000000/4506245069.pdf))](https://files.diariodarepublica.pt/2s/2010/08/165000000/4506245069.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/2s/2010/08/165000000/4506245069.pdf)
 
 Variantes 4: Culturas de Expressão Lusófona
 
 QUADRO N.º 9.4
 
-[([ver documento original](https://files.diariodarepublica.pt/2s/2010/08/165000000/4506245069.pdf))](https://files.diariodarepublica.pt/2s/2010/08/165000000/4506245069.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/2s/2010/08/165000000/4506245069.pdf)
 
 Variantes 1: Cultura, Artes e Património
 
@@ -115,13 +119,13 @@ Variantes 1: Cultura, Artes e Património
 
 QUADRO N.º 11.2
 
-[([ver documento original](https://files.diariodarepublica.pt/2s/2010/08/165000000/4506245069.pdf))](https://files.diariodarepublica.pt/2s/2010/08/165000000/4506245069.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/2s/2010/08/165000000/4506245069.pdf)
 
 2.º Ano/1.º Semestre
 
 QUADRO N.º 11.3
 
-[([ver documento original](https://files.diariodarepublica.pt/2s/2010/08/165000000/4506245069.pdf))](https://files.diariodarepublica.pt/2s/2010/08/165000000/4506245069.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/2s/2010/08/165000000/4506245069.pdf)
 
 Variantes 2: Cultura e Comunicação
 
@@ -129,13 +133,13 @@ Variantes 2: Cultura e Comunicação
 
 QUADRO N.º 11.8
 
-[([ver documento original](https://files.diariodarepublica.pt/2s/2010/08/165000000/4506245069.pdf))](https://files.diariodarepublica.pt/2s/2010/08/165000000/4506245069.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/2s/2010/08/165000000/4506245069.pdf)
 
 2.º Ano/1.º Semestre
 
 QUADRO N.º 11.9
 
-[([ver documento original](https://files.diariodarepublica.pt/2s/2010/08/165000000/4506245069.pdf))](https://files.diariodarepublica.pt/2s/2010/08/165000000/4506245069.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/2s/2010/08/165000000/4506245069.pdf)
 
 Variantes 3: Culturas Hispânicas
 
@@ -143,13 +147,13 @@ Variantes 3: Culturas Hispânicas
 
 QUADRO N.º 11.14
 
-[([ver documento original](https://files.diariodarepublica.pt/2s/2010/08/165000000/4506245069.pdf))](https://files.diariodarepublica.pt/2s/2010/08/165000000/4506245069.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/2s/2010/08/165000000/4506245069.pdf)
 
 2.º Ano/1.º Semestre
 
 QUADRO N.º 11.15
 
-[([ver documento original](https://files.diariodarepublica.pt/2s/2010/08/165000000/4506245069.pdf))](https://files.diariodarepublica.pt/2s/2010/08/165000000/4506245069.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/2s/2010/08/165000000/4506245069.pdf)
 
 Variantes 4: Culturas e Expressão Lusófona
 
@@ -157,13 +161,13 @@ Variantes 4: Culturas e Expressão Lusófona
 
 QUADRO N.º 11.20
 
-[([ver documento original](https://files.diariodarepublica.pt/2s/2010/08/165000000/4506245069.pdf))](https://files.diariodarepublica.pt/2s/2010/08/165000000/4506245069.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/2s/2010/08/165000000/4506245069.pdf)
 
 2.º Ano/1.º Semestre
 
 QUADRO N.º 11.21
 
-[([ver documento original](https://files.diariodarepublica.pt/2s/2010/08/165000000/4506245069.pdf))](https://files.diariodarepublica.pt/2s/2010/08/165000000/4506245069.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/2s/2010/08/165000000/4506245069.pdf)
 
 Passa a ler-se:
 
@@ -171,25 +175,25 @@ Variantes 1: Cultura, Artes e Património
 
 QUADRO N.º 9.1
 
-[([ver documento original](https://files.diariodarepublica.pt/2s/2010/08/165000000/4506245069.pdf))](https://files.diariodarepublica.pt/2s/2010/08/165000000/4506245069.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/2s/2010/08/165000000/4506245069.pdf)
 
 Variantes 2: Cultura e Comunicação
 
 QUADRO N.º 9.2
 
-[([ver documento original](https://files.diariodarepublica.pt/2s/2010/08/165000000/4506245069.pdf))](https://files.diariodarepublica.pt/2s/2010/08/165000000/4506245069.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/2s/2010/08/165000000/4506245069.pdf)
 
 Variantes 3: Culturas Hispânicas
 
 QUADRO N.º 9.3
 
-[([ver documento original](https://files.diariodarepublica.pt/2s/2010/08/165000000/4506245069.pdf))](https://files.diariodarepublica.pt/2s/2010/08/165000000/4506245069.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/2s/2010/08/165000000/4506245069.pdf)
 
 Variantes 4: Culturas de Expressão Lusófona
 
 QUADRO N.º 9.4
 
-[([ver documento original](https://files.diariodarepublica.pt/2s/2010/08/165000000/4506245069.pdf))](https://files.diariodarepublica.pt/2s/2010/08/165000000/4506245069.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/2s/2010/08/165000000/4506245069.pdf)
 
 Variantes 1: Cultura, Artes e Património
 
@@ -197,13 +201,13 @@ Variantes 1: Cultura, Artes e Património
 
 QUADRO N.º 11.2
 
-[([ver documento original](https://files.diariodarepublica.pt/2s/2010/08/165000000/4506245069.pdf))](https://files.diariodarepublica.pt/2s/2010/08/165000000/4506245069.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/2s/2010/08/165000000/4506245069.pdf)
 
 2.º Ano/1.º Semestre
 
 QUADRO N.º 11.3
 
-[([ver documento original](https://files.diariodarepublica.pt/2s/2010/08/165000000/4506245069.pdf))](https://files.diariodarepublica.pt/2s/2010/08/165000000/4506245069.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/2s/2010/08/165000000/4506245069.pdf)
 
 Variantes 2: Cultura e Comunicação
 
@@ -211,13 +215,13 @@ Variantes 2: Cultura e Comunicação
 
 QUADRO N.º 11.8
 
-[([ver documento original](https://files.diariodarepublica.pt/2s/2010/08/165000000/4506245069.pdf))](https://files.diariodarepublica.pt/2s/2010/08/165000000/4506245069.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/2s/2010/08/165000000/4506245069.pdf)
 
 2.º Ano/1.º Semestre
 
 QUADRO N.º 11.9
 
-[([ver documento original](https://files.diariodarepublica.pt/2s/2010/08/165000000/4506245069.pdf))](https://files.diariodarepublica.pt/2s/2010/08/165000000/4506245069.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/2s/2010/08/165000000/4506245069.pdf)
 
 Variantes 3: Culturas Hispânicas
 
@@ -225,13 +229,13 @@ Variantes 3: Culturas Hispânicas
 
 QUADRO N.º 11.14
 
-[([ver documento original](https://files.diariodarepublica.pt/2s/2010/08/165000000/4506245069.pdf))](https://files.diariodarepublica.pt/2s/2010/08/165000000/4506245069.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/2s/2010/08/165000000/4506245069.pdf)
 
 2.º Ano/1.º Semestre
 
 QUADRO N.º 11.15
 
-[([ver documento original](https://files.diariodarepublica.pt/2s/2010/08/165000000/4506245069.pdf))](https://files.diariodarepublica.pt/2s/2010/08/165000000/4506245069.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/2s/2010/08/165000000/4506245069.pdf)
 
 Variantes 4: Culturas e Expressão Lusófona
 
@@ -239,12 +243,14 @@ Variantes 4: Culturas e Expressão Lusófona
 
 QUADRO N.º 11.20
 
-[([ver documento original](https://files.diariodarepublica.pt/2s/2010/08/165000000/4506245069.pdf))](https://files.diariodarepublica.pt/2s/2010/08/165000000/4506245069.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/2s/2010/08/165000000/4506245069.pdf)
 
 2.º Ano/1.º Semestre
 
 QUADRO N.º 11.21
 
-[([ver documento original](https://files.diariodarepublica.pt/2s/2010/08/165000000/4506245069.pdf))](https://files.diariodarepublica.pt/2s/2010/08/165000000/4506245069.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/2s/2010/08/165000000/4506245069.pdf)
 
 18 de Agosto de 2010. - O Reitor, Carlos Alberto Sequeira.
+
+203614093

@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/2s/2010/06/125000000/3571835718.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -47,18 +47,18 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/declaracao-rectificacao/1273-2010-1612853
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2010-06-30T00:00:00Z'
+  retrieved_at: '2026-10-23T14:16:38Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 9c1af4ca11ae668366baba1a786d86fcdb7130c321bfe0d5cfb64f16a6c92f3b
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: a845fd6fdc65c16e0904e22355a9114f5c2e77c6695469acd3443a5fb5fce053
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T14:16:38Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -70,13 +70,13 @@ relationships: []
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T14:16:38Z'
   warnings: []
   errors: []
 ---
@@ -90,3 +90,5 @@ Por ter sido publicado com inexactidão o contrato (extracto) n.º 436/2010, no 
 Onde se lê «com a remuneração de (euro) 892,53 (oitocentos e noventa e dois euros e cinquenta e três cêntimos) correspondente à 4.ª posição remuneratória da carreira geral de assistente técnico e ao nível remuneratório 9 de tabela remuneratória única» deve ler-se «com a remuneração de (euro) 1407,45 correspondente à 3.ª posição remuneratória da carreira de técnico superior e ao nível remuneratório 19 da tabela remuneratória única».
 
 22 de Junho de 2010. - O Presidente do Conselho Directivo, Manuel Teixeira.
+
+203409341

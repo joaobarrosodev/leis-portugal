@@ -20,7 +20,7 @@ publication:
   reference: Diário da República n.º 263/2001, 1º Suplemento, Série I-B de 2001-11-13
   number: '263'
   series: I
-  supplement: 1º Suplemento
+  supplement: null
   pages: 7214-(2) a 7214-(3)
   pdf_url: https://files.diariodarepublica.pt/1s/2001/11/263b01/00020003.pdf
 entry_into_force_dates: []
@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/1277-b/2001/11/13/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/1277-b-2001-246542
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2007-05-21T00:00:00Z'
+  retrieved_at: '2026-10-23T14:29:07Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 16aba955bd8de76069dc9f484266459cf765239dc1b22d34e1f91fdb8dd55625
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 6d042e816c61d03a6f9b2770eeccbf43d184c53a13d6c463b753280c0ff88cba
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T14:29:07Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -74,6 +74,12 @@ relationships:
   target: pt:dre:520673:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:520673:por
+  label: "Excluídos diversos prédios rústicos da zona de caça criada pela Port 1212/97 de 29-Nov, e renovada no presente diploma,\
+    \ pela PORT.611/2007.21.05.2007.MADRP, DR.IS [97] de 21.05.2007\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/611-2007-520673
+  date: '2007-05-21'
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/227-b/2000/09/15/p/dre
   label: null
@@ -86,16 +92,28 @@ relationships:
   target: eli:http://data.dre.pt/eli/port/1212/1997/11/29/p/dre
   label: null
   source: http://data.dre.pt/eli/port/1212/1997/11/29/p/dre
+- type: cites
+  target: pt:dre:254447:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:406349:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:534644:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T14:29:07Z'
   warnings: []
   errors: []
 ---

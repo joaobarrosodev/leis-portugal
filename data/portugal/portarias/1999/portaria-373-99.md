@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/373/1999/05/21/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/373-1999-321568
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2000-08-14T00:00:00Z'
+  retrieved_at: '2026-10-23T14:14:57Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 622461a119d524de090eb749461fa2d86f26761e4d3196c58c3c7da426e41c88
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: cee42832f552e432cce7594dba6b936f3344736afaba9b3a51dc0e68d7799f6d
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T14:14:57Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,13 +66,13 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Sistema de Autoridade Marítima
-- Turismo
 - Classificação de Praias
 - Pessoal de Enfermagem
+- Pessoal de Vigilância
 - Regulamento
 - Regulamento de Assistência aos Banhistas nas Praias
-- Pessoal de Vigilância
+- Sistema de Autoridade Marítima
+- Turismo
 - Vigilância nas Praias
 relationships:
 - type: amended_by
@@ -83,16 +83,33 @@ relationships:
   target: eli:http://data.dre.pt/eli/port/481/1998/08/06/p/dre
   label: null
   source: http://data.dre.pt/eli/port/481/1998/08/06/p/dre
+- type: cites
+  target: pt:dre:201467:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:432635:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:435019:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:337257:por
+  label: "Revogada pela PORT.597/2000.2000.08.14.MDN DR.IS [187]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/597-2000-337257
+  date: '2000-08-14'
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T14:14:57Z'
   warnings: []
   errors: []
 ---
@@ -115,7 +132,7 @@ Manda o Governo, pelo Ministro da Defesa Nacional, o seguinte:
 
 5.º A presente portaria entra imediatamente em vigor.
 
-**O Ministro da Defesa Nacional, José Veiga Simão, em 26 de Abril de 1999.**
+O Ministro da Defesa Nacional, José Veiga Simão, em 26 de Abril de 1999.
 
 ## ANEXO — Relação das praias sujeitas ao regime estabelecido no Regulamento de Assistência aos Banhistas nas Praias
 

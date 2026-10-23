@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/2s/2010/01/018000000/0412904129.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -46,18 +46,18 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/declaracao-rectificacao/164-2010-2628581
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2010-01-27T00:00:00Z'
+  retrieved_at: '2026-10-23T14:18:49Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 8b6202b48fd648103d08ca5454e891f86e8531b89402a15fe8d1809a3c4ee1a3
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: e449c652cd2874a11e788a78a4d9785a1584346f08ced5d77b1ec6dc64aed898
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T14:18:49Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -69,13 +69,13 @@ relationships: []
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T14:18:49Z'
   warnings: []
   errors: []
 ---
@@ -87,3 +87,5 @@ Declaração de rectificação n.º 164/2010
 Torna-se público que no aviso publicado no Diário da República, 2.ª série, n.º 35, de 19 de Fevereiro de 2009, onde se lê «foi nomeado o único candidato ao concurso: Richard Freitas da Mata,» deve ler-se «foi autorizado a celebração de contrato de trabalho em funções públicas por tempo indeterminado com Richard Freitas da Mata, o qual se integra entre a 4.º e a 5.º posição remuneratória, e entre o nível 23 e 27, da tabela remuneratória única da Administração Pública a que corresponde a remuneração mensal de 1750,53, com efeitos».
 
 5 de Maio de 2009. - O Presidente da Câmara, José Alberto de Freitas Gonçalves.
+
+302758207

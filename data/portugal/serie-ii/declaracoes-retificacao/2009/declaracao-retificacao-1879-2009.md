@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/2s/2009/08/151000000/3164231643.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -47,18 +47,18 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/declaracao-rectificacao/1879-2009-1365214
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2009-08-06T00:00:00Z'
+  retrieved_at: '2026-10-23T14:03:43Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 12ee1010218a2dccc067e839d49ad69e1644c19595e4399eaeb389adf2c8953d
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: d4ec79383b843c225effe189c01cefd38d39b62ba1d37b3b1e6394d5783b19ee
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T14:03:43Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -70,13 +70,13 @@ relationships: []
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T14:03:43Z'
   warnings: []
   errors: []
 ---
@@ -88,3 +88,5 @@ Declaração de rectificação n.º 1879/2009
 Torna-se público que no aviso 9868/2009, concurso E, publicado na 2.ª série do Diário da República n.º 97 de 20 de Maio de 2009, por lapso foi publicado com inexactidão a seguinte composição do júri, assim onde se lê "Vogais efectivos: Sérgio dos Santos Tomé Paredes, vereador a tempo inteiro e Eng.º Mário Fernandes Pereira, técnico superior. Vogais suplentes: Dr. Bruno José Navarro Marçal, adjunto do GAP e Eng. Nuno Alexandre Branquinho Pinto, técnico superior. O Presidente do júri será substituído nas suas faltas e impedimentos legais por Sérgio dos Santos Tomé Paredes, vereador a tempo inteiro", deverá ler-se ... "Vogais efectivos: Eng.º Mário Fernandes Pereira, técnico superior e Eng. Nuno Alexandre Branquinho Pinto, técnico superior. Vogais suplentes: Arqt.ª Helena Fernanda Carvalho Luna Sérgio Feijão, técnico superior e António de Jesus Nogueira Nevado, encarregado geral operacional. O Presidente do júri será substituído nas suas faltas e impedimentos legais por Eng. Mário Fernandes Pereira, técnico superior".
 
 30 de Julho de 2009. - O Presidente da Câmara, Emílio António Pessoa Mesquita.
+
+302136629

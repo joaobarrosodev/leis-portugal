@@ -20,12 +20,12 @@ publication:
   reference: Diário da República n.º 40/2001, 1º Suplemento, Série I-B de 2001-02-16
   number: '40'
   series: I
-  supplement: 1º Suplemento
+  supplement: null
   pages: 886-(2) a 886-(11)
   pdf_url: https://files.diariodarepublica.pt/1s/2001/02/040b01/00020011.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/103-a/2001/02/16/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/103-a-2001-626984
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2003-05-14T00:00:00Z'
+  retrieved_at: '2026-10-23T14:27:29Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: ba06f9b39b98f4f5d0a0ae4cd7bc868e87f266692ca7ef23dabc93de70b71197
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: b226046dd8b7975a67e495168161cd27858efa0c218e86b0251258e7c959d5d0
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T14:27:29Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -70,10 +70,10 @@ subjects:
 - Financiamento
 - Formação Profissional
 - FSE
+- Programa AGRO
 - QCA III
 - Regulamento
 - Regulamento de Aplicação da Medida Nº 7-formação Profissional
-- Programa AGRO
 relationships:
 - type: amended_by
   target: pt:dre:409092:por
@@ -107,16 +107,57 @@ relationships:
   target: eli:http://data.dre.pt/eli/port/799-b/2000/09/20/p/dre
   label: null
   source: http://data.dre.pt/eli/port/799-b/2000/09/20/p/dre
+- type: cites
+  target: pt:dre:220121:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:220892:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:222418:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:249799:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:261891:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:365921:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:550192:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:562176:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:562187:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:409092:por
+  label: "Revogada pela PORT.385-A/2003.2003.05.14.MADRP DR.IS-B [111]Supl\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/385-a-2003-409092
+  date: '2003-05-14'
 article_structure:
   article_count: 27
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T14:27:29Z'
   warnings: []
   errors: []
 ---

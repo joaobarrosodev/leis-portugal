@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/213/1999/03/26/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/213-1999-138374
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2006-10-13T00:00:00Z'
+  retrieved_at: '2026-10-23T14:13:57Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 935f14f1a3de9578e314d3a80ab25a1eb3220dbf8a790746862e65e7267cfaeb
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 17d18a829ab9b1e2393248048b29033645d61332c85ffe8cc9c6b93a56c931d3
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T14:13:57Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -74,6 +74,12 @@ relationships:
   target: pt:dre:541210:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:541210:por
+  label: "Renovada por doze anos a concessão da zona de caça atribuída pela Port 63/90 de 26-Jan, com a alteração efectuada\
+    \ no presente diploma, pela PORT.1098/2006.13.10.2006.MAOTDR, DR.IS [198] de 13.10.2006\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/1098-2006-541210
+  date: '2006-10-13'
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/136/1996/08/14/p/dre
   label: null
@@ -82,16 +88,32 @@ relationships:
   target: eli:http://data.dre.pt/eli/port/254-gn/1996/07/15/p/dre
   label: null
   source: http://data.dre.pt/eli/port/254-gn/1996/07/15/p/dre
+- type: cites
+  target: pt:dre:157185:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:219134:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:335250:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:405765:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T14:13:57Z'
   warnings: []
   errors: []
 ---

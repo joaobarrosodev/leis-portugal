@@ -19,7 +19,7 @@ publication:
   reference: Diário da República n.º 10/2001, 3º Suplemento, Série I-B de 2001-01-12
   number: '10'
   series: I
-  supplement: 3º Suplemento
+  supplement: null
   pages: 222-(10) a 222-(15)
   pdf_url: https://files.diariodarepublica.pt/1s/2001/01/010b03/00100015.pdf
 entry_into_force_dates: []
@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/25-a/2001/01/12/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/25-a-2001-316171
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2001-01-12T00:00:00Z'
+  retrieved_at: '2026-10-23T14:31:05Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 4fac17a6ff976279b174888a17d669c6c27afec0743b6776593ce36859aadc03
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: aa8f7c555983fcf973224b5deb769dcd041eefcd1195323912d1f46d47eb701e
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T14:31:05Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -82,16 +82,32 @@ relationships:
   target: eli:http://data.dre.pt/eli/port/855/1997/09/10/p/dre
   label: null
   source: http://data.dre.pt/eli/port/855/1997/09/10/p/dre
+- type: cites
+  target: pt:dre:218522:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:505986:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:546257:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:644509:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T14:31:05Z'
   warnings: []
   errors: []
 ---

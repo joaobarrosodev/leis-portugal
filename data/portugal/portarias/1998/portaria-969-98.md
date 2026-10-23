@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1998/11/265b00/61986203.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/969/1998/11/16/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/969-1998-229767
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2004-07-09T00:00:00Z'
+  retrieved_at: '2026-10-23T14:12:16Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 712da16304ffd50bb5440343f8e94842272c257d6b5af141f8bc090f355ef9d8
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: db9d48259d99860c6a2339fe38cbddfb2aa1e1dd5d91c0af578688848efd1342
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T14:12:16Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,24 +67,31 @@ reuse:
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
 - Alvará
-- Formação Profissional
-- Ministério da Administração Interna
 - Definição de Competências
-- Serviços de Segurança
 - Empresa de Segurança
-- Segurança Pública
 - Fiscalização
-- Recrutamento de Pessoal
+- Formação Profissional
 - Iniciativa Privada
 - Licenciamento
-- Prestação de Serviços
+- Ministério da Administração Interna
 - Pessoal de Vigilância
+- Prestação de Serviços
+- Recrutamento de Pessoal
+- Segurança Pública
+- Serviços de Segurança
 - Taxa
 relationships:
 - type: amended_by
   target: pt:dre:528390:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:569761:por
+  label: "Determinada a manutenção em vigor da presente portaria, publicado ao abrigo do Dec Lei 231/98, de 22-Jul, pelo DEC\
+    \ LEI.35/2004.21.02.2004.MAI, DR.IS-A [44] de 21.02.2004 na parte em que não for materialmente incompatível, até ser substituída\0\
+    \0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/35-2004-569761
+  date: '2004-02-21'
 - type: cites
   target: celex:31994L0010
   label: null
@@ -93,16 +100,21 @@ relationships:
   target: eli:http://data.dre.pt/eli/port/1257/1993/12/11/p/dre
   label: null
   source: http://data.dre.pt/eli/port/1257/1993/12/11/p/dre
+- type: repealed_by
+  target: pt:dre:528390:por
+  label: "Revogada pela PORT.786/2004.09.07.2004.MF, DR.IS-B [160] de 09.07.2004\04\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/786-2004-528390
+  date: '2004-07-09'
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T14:12:16Z'
   warnings: []
   errors: []
 ---
@@ -215,8 +227,8 @@ A presente portaria cumpriu todos os requisitos impostos pela Directiva n.º [94
 
 Ministério da Administração Interna.
 
-**Assinada em 23 de Outubro de 1998.**
+Assinada em 23 de Outubro de 1998.
 
-**O Ministro da Administração Interna, Jorge Paulo Sacadura Almeida Coelho.**
+O Ministro da Administração Interna, Jorge Paulo Sacadura Almeida Coelho.
 
 ## ANEXO 1 ao ANEXO 6 — [(ver modelos no documento original)](https://files.diariodarepublica.pt/1s/1998/11/265b00/61986203.pdf)

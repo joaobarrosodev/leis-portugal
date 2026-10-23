@@ -48,18 +48,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/330/2000/06/09/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/330-2000-288051
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2000-06-09T00:00:00Z'
+  retrieved_at: '2026-10-23T14:22:56Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 65b1ba733a88f065e983522bf58166af2919c96447781123174d0d9196c53d91
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 2d518959dc63b58f995385a90e8562fec981a40de0011ee26815e049ac21e968
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T14:22:56Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -69,8 +69,8 @@ reuse:
 subjects:
 - Carreira de Técnico Profissional de Refeitório
 - Formação Profissional
-- Plano de Estudos
 - Ministério das Finanças
+- Plano de Estudos
 - Regulamento
 - Serviços Sociais
 relationships:
@@ -78,16 +78,20 @@ relationships:
   target: eli:http://data.dre.pt/eli/dec-lei/537/1999/12/13/p/dre
   label: null
   source: http://data.dre.pt/eli/dec-lei/537/1999/12/13/p/dre
+- type: cites
+  target: pt:dre:632932:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T14:22:56Z'
   warnings: []
   errors: []
 ---

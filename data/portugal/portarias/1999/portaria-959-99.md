@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/959/1999/10/30/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/959-1999-692037
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1999-10-30T00:00:00Z'
+  retrieved_at: '2026-10-23T14:18:54Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: d0569c4f2031610b3ca1c6b27e8de767d300bc37bd0b75b792083c7f43621519
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: a72e330c2b06951cd759aaf25d8e47661326be9207d724f2dacd77c67f4b9388
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T14:18:54Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,26 +66,38 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Serviços de Registo e Notariado
 - Conservatória do Registo Comercial
 - Conservatória do Registo Predial
 - Criação de Serviços
+- Serviços de Registo e Notariado
 - Valongo
 relationships:
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/50/1995/03/16/p/dre
   label: null
   source: http://data.dre.pt/eli/dec-lei/50/1995/03/16/p/dre
+- type: cites
+  target: pt:dre:157050:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:185918:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:462214:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T14:18:54Z'
   warnings: []
   errors: []
 ---
@@ -104,4 +116,4 @@ Manda o Governo, pelo Ministro da Justiça, ao abrigo do disposto nos artigos 5.
 
 3.º A data da entrada em funcionamento da nova conservatória é fixada por despacho do director-geral dos Registos e do Notariado.
 
-**O Ministro da Justiça, José Eduardo Vera Cruz Jardim, em 13 de Outubro de 1999.**
+O Ministro da Justiça, José Eduardo Vera Cruz Jardim, em 13 de Outubro de 1999.

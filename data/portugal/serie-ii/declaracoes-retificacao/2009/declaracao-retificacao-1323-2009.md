@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/2s/2009/05/100000000/2081920819.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -47,18 +47,18 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/declaracao-rectificacao/1323-2009-1176722
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2009-05-25T00:00:00Z'
+  retrieved_at: '2026-10-23T14:00:19Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 54253ba06643ebaf04aac951981b7d8c2eac4b5d0462d54db868d924d96c01d2
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: d441f0cc2bab0cfc3ba3f7863323be837921caeba194043da6914eb4f68a648b
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T14:00:19Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -70,13 +70,13 @@ relationships: []
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T14:00:19Z'
   warnings: []
   errors: []
 ---
@@ -88,3 +88,5 @@ Declaração de rectificação n.º 1323/2009
 Por ter sido publicado com inexactidão no Diário da República, 2.ª Série, n.º 09 de 14.01.09 o Despacho (extracto) n.º 1607/2009, Pág. 1604, rectifica-se que: Onde se lê: "(...) foi a Licenciada Luísa Margarida de Jesus Rodrigues Martins (...) nomeada assessora do quadro (...)." deve ler-se "(...) foi a Licenciada Luísa Margarida de Jesus Rodrigues Martins (...) nomeada assessora principal do quadro (...)."
 
 19 de Março de 2009. - O Subdirector-Geral, João Calado Cabrita.
+
+201810669

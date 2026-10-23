@@ -21,7 +21,7 @@ publication:
   reference: Diário da República n.º 102/2001, 1º Suplemento, Série I-B de 2001-05-03
   number: '102'
   series: I
-  supplement: 1º Suplemento
+  supplement: null
   pages: 2472-(2) a 2472-(9)
   pdf_url: https://files.diariodarepublica.pt/1s/2001/05/102b01/00020009.pdf
 entry_into_force_dates: []
@@ -48,18 +48,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/448-a/2001/05/03/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/448-a-2001-531186
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2009-06-05T00:00:00Z'
+  retrieved_at: '2026-10-23T14:32:18Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: a7b26ea83b976b6a5f3f03765d18c11742226ac9225c8791d2de52900d817f69
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 1143e2b3c857873c62a064dbddb3964a1e7f88fbf60cb6f01da6d1561f29bb39
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T14:32:18Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,21 +67,62 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Financiamento
-- Silvicultura
-- Arborização
 - Apoio ao Investimento
+- Arborização
 - Diversidade Biológica
 - Exploração Florestal
-- Regulamento de Aplicação das Acções 3.1 e 3.2-apoio à Silvicultura e Restabelecimento do Potencial de Produção Silvícola
+- Financiamento
 - Política Agrícola
-- Regulamento
 - Programa AGRO
+- Regulamento
+- Regulamento de Aplicação das Acções 3.1 e 3.2-apoio à Silvicultura e Restabelecimento do Potencial de Produção Silvícola
+- Silvicultura
 relationships:
 - type: amended_by
   target: pt:dre:592170:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:303385:por
+  label: "Alterados os artºs 9º e 20º do Regulamento pela PORT.388/2002.2002.04.11.MADRP, DR.IS-B [85]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/388-2002-303385
+  date: '2002-04-11'
+- type: amended_by
+  target: pt:dre:190589:por
+  label: "Alterados os arts. 6º, 9º e 16º e o anexo VI, e revogados a subal. iii) da al. b) do art. 3º e o nº 3 do art. 4º,\
+    \ todos do Regulamento, com a redacção dada pela Port 388/2002 de 11-Abr, pela PORT.161/2003.2003.02.19.MADRP DR.IS-B\
+    \ [42]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/161-2003-190589
+  date: '2003-02-19'
+- type: amended_by
+  target: pt:dre:445744:por
+  label: "Alterados os arts. 7º, 10º, 11º, 17º e 19º e os anexos VI e VII do Regulamento, com a redacção dada pelas Port 388/2002\
+    \ de 11-Abr e 161/2003 de 19-Fev, pela PORT.1291/2003.18.11.2003.MADRP, DR.IS-B [267] de 18.11.2003\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/1291-2003-445744
+  date: '2003-11-18'
+- type: amended_by
+  target: pt:dre:261879:por
+  label: "Alterados os arts. 4.º, 5.º e 6.º (este último na redacção da Port 161/2003, de 19-Fev), 7.º (na redacção da Port\
+    \ 1291/2003, de 18-Nov), 9.º (na redacção das Ports. 388/2002, de 11-Abr e 161/2003, de 19-Fev), 10.º e 17.º (na redacção\
+    \ da Port 1291/2003, de 18-Nov) e o anexo IV, todos do Regulamento anexo aprovado pelo presente diploma, pela PORT.590/2004.02.06.2004.MADRP,\
+    \ DR.IS-B [129] de 02.06.2004, republicado pela mesma\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/590-2004-261879
+  date: '2004-06-02'
+- type: amended_by
+  target: pt:dre:631650:por
+  label: "Alterados os arts. 4º, 5º, 6º, 7º, 9º, 10º e 16º do Regulamento aprovado pelo presente diploma, com as alterações\
+    \ constantes das Port 388/2002 de 11-Abr, 161/2003 de 19-Fev, 1291/2003 de 18-Nov e 590/2004 de 02-Jun, bem como os anexos\
+    \ II e V do referido regulamento pela PORT.456/2006.16.05.2006.MADRP, DR.IS-B [94] de 16.05.2006, que o republicou em\
+    \ anexo\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/456-2006-631650
+  date: '2006-05-16'
+- type: amended_by
+  target: pt:dre:540024:por
+  label: "Alterado o anexo V do Regulamento de Aplicação das Acções nºs 3.1 e 3.2 \"Apoio à Silvicultura e Restabelecimento\
+    \ do Potencial de Produção Silvícola\" aprovado pelo presente diploma, com a redacção conferida na Port 456/2006 de 16-Mai,\
+    \ pela PORT.953/2006.12.09.2006.MADRP, DR.IS [176] de 12.09.2006\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/953-2006-540024
+  date: '2006-09-12'
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/163-a/2000/07/27/p/dre
   label: null
@@ -106,16 +147,68 @@ relationships:
   target: eli:http://data.dre.pt/eli/port/723/2000/09/06/p/dre
   label: null
   source: http://data.dre.pt/eli/port/723/2000/09/06/p/dre
+- type: cites
+  target: pt:dre:217697:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:220892:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:230365:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:249799:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:469788:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:567043:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:582026:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:619560:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:636249:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:661769:por
+  label: null
+  source: null
+- type: corrected_by
+  target: pt:dre:320349:por
+  label: "Rectificada pela DECL-RECT.13-AA/2001.2001.06.29.PCM,DR.IS-B[150] 3ºSUPL de 30/Jun/2001\01\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/declaracao-rectificacao/13-aa-2001-320349
+  date: '2001-06-29'
+- type: repealed_by
+  target: pt:dre:592170:por
+  label: "Revogado, a partir de 06.06.2009, o nº 3 do art. 18º do Regulamento de Aplicação das Acções nºs 3.1 e 3.2 aprovado\
+    \ pelo presente diploma e republicado pela Port 456/2006 de 16-Mai, pela PORT.609-A/2009.05.06.2009.MADRP, DR.IS [109-Supl]\
+    \ de 05.06.2009\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/609-a-2009-592170
+  date: '2009-06-05'
 article_structure:
   article_count: 20
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T14:32:18Z'
   warnings: []
   errors: []
 ---
@@ -140,7 +233,7 @@ Manda o Governo, pelo Ministro da Agricultura, do Desenvolvimento Rural e das Pe
 
 3.º Mantêm-se em vigor a [Portaria n.º 723/2000](https://diariodarepublica.pt/dr/detalhe/portaria/723-2000-582026), de 6 de Setembro, e o despacho n.º 24465/2000 (2.ª série), publicado no Diário da República, 2.ª série, n.º 276, de 29 de Novembro de 2000.
 
-**O Ministro da Agricultura, do Desenvolvimento Rural e das Pescas, Luís Manuel Capoulas Santos, em 3 de Maio de 2001.**
+O Ministro da Agricultura, do Desenvolvimento Rural e das Pescas, Luís Manuel Capoulas Santos, em 3 de Maio de 2001.
 
 ## ANEXO
 
@@ -418,13 +511,13 @@ O disposto neste Regulamento aplica-se às candidaturas apresentadas ao abrigo d
 
 Densidades mínimas dos povoamentos
 
-[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2001/05/102b01/00020009.pdf)
+[[[[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2001/05/102b01/00020009.pdf)](https://files.diariodarepublica.pt/1s/2001/05/102b01/00020009.pdf)](https://files.diariodarepublica.pt/1s/2001/05/102b01/00020009.pdf)](https://files.diariodarepublica.pt/1s/2001/05/102b01/00020009.pdf)
 
 ## ANEXO II — (a que se refere o n.º 2 do artigo 4.º)
 
 Espécies elegíveis
 
-[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2001/05/102b01/00020009.pdf)
+[[[[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2001/05/102b01/00020009.pdf)](https://files.diariodarepublica.pt/1s/2001/05/102b01/00020009.pdf)](https://files.diariodarepublica.pt/1s/2001/05/102b01/00020009.pdf)](https://files.diariodarepublica.pt/1s/2001/05/102b01/00020009.pdf)
 
 1 - Em projectos com menos de 5 ha são elegíveis todas as espécies adaptadas ecologicamente à estação respectiva.
 
@@ -436,7 +529,7 @@ Espécies elegíveis
 
 Espécies de crescimento rápido/áreas máximas contínuas
 
-[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2001/05/102b01/00020009.pdf)
+[[[[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2001/05/102b01/00020009.pdf)](https://files.diariodarepublica.pt/1s/2001/05/102b01/00020009.pdf)](https://files.diariodarepublica.pt/1s/2001/05/102b01/00020009.pdf)](https://files.diariodarepublica.pt/1s/2001/05/102b01/00020009.pdf)
 
 ## ANEXO IV — (a que se refere o n.º 1 do artigo 8.º)
 
@@ -596,7 +689,7 @@ Nota. - As pontuações apresentadas no n.º 4 são cumulativas.
 
 Densidades mínimas de estabelecimento do povoamento
 
-[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2001/05/102b01/00020009.pdf)
+[[[[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2001/05/102b01/00020009.pdf)](https://files.diariodarepublica.pt/1s/2001/05/102b01/00020009.pdf)](https://files.diariodarepublica.pt/1s/2001/05/102b01/00020009.pdf)](https://files.diariodarepublica.pt/1s/2001/05/102b01/00020009.pdf)
 
 Observação. - A densidade mínima dos povoamentos mistos deve ser igual à densidade mínima definida para a espécie principal (folhosa), devendo esta representar, pelo menos, 50% do povoamento.
 

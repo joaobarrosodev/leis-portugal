@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1998/09/218b00/48804882.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/788/1998/09/21/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/788-1998-241634
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2013-01-22T00:00:00Z'
+  retrieved_at: '2026-10-23T14:11:11Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 2558ac738e52ca9b11b0ceee82b0ec019a185fe0b23eca0edc5071e8c22435f8
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: c3bedb6a684c65649b1c470ab47c66f1a32a97d18c9fb10f58444b043b4f27a4
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T14:11:11Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,10 +66,10 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Certificado de Aptidão Profissional
-- Formação Profissional
-- Condutor
 - Avaliação de Conhecimentos
+- Certificado de Aptidão Profissional
+- Condutor
+- Formação Profissional
 - Transporte de Passageiros
 - Transporte Público
 - Veículo de Aluguer
@@ -78,6 +78,25 @@ relationships:
   target: pt:dre:257176:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:150325:por
+  label: "Prorrogado até 30 de Abril de 1999 o prazo fixado no nº 3 do nº 12 deste diploma, pela PORT.195/99.1999.03.23.MEPAT,\
+    \ DR.IS-B [69]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/195-1999-150325
+  date: '1999-03-23'
+- type: amended_by
+  target: pt:dre:548448:por
+  label: "Alterados os nºs 3º, 4º, 5º, 10º, e 12º e revogado o nº 2 do nº 5º, na redacção dada pela Port 195/99 de 23-Mar,\
+    \ pela PORT.1130-A/99.1999.12.31.MES DR.IS-B [303]Supl\0l\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/1130-a-1999-548448
+  date: '1999-12-31'
+- type: amended_by
+  target: pt:dre:591330:por
+  label: "Alterados os arts. 1.º, 2.º, 6.º, 9.º e 11.º, os arts. 4.º e 5.º (na redacção da Port 1130-A/99, de 31-Dez) e revogado\
+    \ o art. 12.º (na redacção da Port 1130-A/99, de 31-Dez) do presente diploma, pela PORT.121/2004.03.02.2004.MSST, DR.IS-B\
+    \ [28] de 03.02.2004, que procede à respectiva republicação\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/121-2004-591330
+  date: '2004-02-03'
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/263/1998/08/19/p/dre
   label: null
@@ -86,16 +105,35 @@ relationships:
   target: eli:http://data.dre.pt/eli/decregul/68/1994/11/26/p/dre
   label: null
   source: http://data.dre.pt/eli/decregul/68/1994/11/26/p/dre
+- type: cites
+  target: pt:dre:444693:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:547021:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:438046:por
+  label: "Revogado o n.º 3 do presente diploma, alterado pela Port 1130-A/99, de 31 de Dezembro, pelo DEC LEI.298/2003.21.11.2003.MOPTH,\
+    \ DR.IS-A [270] de 21.11.2003\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/298-2003-438046
+  date: '2003-11-21'
+- type: repealed_by
+  target: pt:dre:257176:por
+  label: "Revogada pela LEI.6/2013.22.01.2013.AR, DR.IS [15] de 22.01.2013\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/lei/6-2013-257176
+  date: '2013-01-22'
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T14:11:11Z'
   warnings: []
   errors: []
 ---
@@ -310,6 +348,6 @@ A presente portaria entra em vigor 30 dias após a data da sua publicação.
 
 Ministérios do Equipamento, do Planeamento e da Administração do Território e do Trabalho e da Solidariedade.
 
-**Assinada em 24 de Agosto de 1998.**
+Assinada em 24 de Agosto de 1998.
 
-**O Ministro do Equipamento, do Planeamento e da Administração do Território, João Cardona Gomes Cravinho. - Pelo Ministro do Trabalho e da Solidariedade, Paulo José Fernandes Pedroso, Secretário de Estado do Emprego e Formação.**
+O Ministro do Equipamento, do Planeamento e da Administração do Território, João Cardona Gomes Cravinho. - Pelo Ministro do Trabalho e da Solidariedade, Paulo José Fernandes Pedroso, Secretário de Estado do Emprego e Formação.

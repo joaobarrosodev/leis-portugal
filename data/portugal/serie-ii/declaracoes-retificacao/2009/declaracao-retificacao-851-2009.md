@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/2s/2009/03/055000000/1068110681.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -46,18 +46,18 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/declaracao-rectificacao/851-2009-2308692
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2009-03-19T00:00:00Z'
+  retrieved_at: '2026-10-23T14:14:07Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 40caab99983d3ce3c3811fac76492921d1c7ab9abd04e80734010ac21a30899f
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: d3fc954bcd5d3f4471651ab923c3926dcd51db4391c05cf39ed63a4c53f53d37
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T14:14:07Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -69,13 +69,13 @@ relationships: []
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T14:14:07Z'
   warnings: []
   errors: []
 ---
@@ -87,3 +87,5 @@ Declaração de rectificação n.º 851/2009
 Por ter sido saído com inexactidão o edital n.º 217/2009, publicado no Diário da República, 2.ª série, n.º 41, de 27 de Fevereiro de 2009, rectifica-se que onde se lê «tendo em conta o parecer emitido em 16 de Dezembro de 2009 pela Comissão de Heráldica da Associação dos Arqueólogos Portugueses» deve ler-se «tendo em conta o parecer emitido em 16 de Dezembro de 2008 pela Comissão de Heráldica da Associação dos Arqueólogos Portugueses».
 
 3 de Março de 2009. - O Presidente, Herculano Cabral Dutra.
+
+301489423

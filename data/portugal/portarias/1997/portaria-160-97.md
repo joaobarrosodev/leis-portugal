@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/160/1997/03/06/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/160-1997-515441
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1997-03-31T00:00:00Z'
+  retrieved_at: '2026-10-23T14:01:02Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 12628e2cca64c93f10a0f1f96165f4cce5525f40d7b8c74984055cef18e29c3a
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: f44702a754a31da37ce7624bb8d0cbd6c5f93c8f316c4daa696ae79e8a6e4071
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T14:01:02Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,10 +66,10 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
+- Autarquia Local
 - Financiamento
 - Transferência de Verbas
 - Transporte Escolar
-- Autarquia Local
 relationships:
 - type: amended_by
   target: pt:dre:602491:por
@@ -79,16 +79,25 @@ relationships:
   target: eli:http://data.dre.pt/eli/lei/10-b/1996/03/23/p/dre
   label: null
   source: http://data.dre.pt/eli/lei/10-b/1996/03/23/p/dre
+- type: cites
+  target: pt:dre:477288:por
+  label: null
+  source: null
+- type: corrected_by
+  target: pt:dre:602491:por
+  label: "Rectificada pela DECL-RECT.6-M/97.1997.03.31.PCM, DR.IS-B [75]2ºSupl de 1997.03.31\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/declaracao-rectificacao/6-m-1997-602491
+  date: '1997-03-31'
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T14:01:02Z'
   warnings: []
   errors: []
 ---
@@ -103,10 +112,10 @@ Manda o Governo, pelos Ministros das Finanças e do Equipamento, do Planeamento 
 
 Ministérios das Finanças e do Equipamento, do Planeamento e da Administração do Território.
 
-**Assinada em 10 de Fevereiro de 1997.**
+Assinada em 10 de Fevereiro de 1997.
 
 Pelo Ministro das Finanças, Maria Manuela de Brito Arcanjo Marques da Costa, Secretária de Estado do Orçamento. - O Ministro do Equipamento, do Planeamento e da Administração do Território, João Cardona Gomes Cravinho.
 
 ## ANEXO — Transferências para os municípios - Transportes escolares dos alunos dos 7.º, 8.º e 9.º anos (1995-1996)
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1997/03/055b00/10141016.pdf))](https://files.diariodarepublica.pt/1s/1997/03/055b00/10141016.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1997/03/055b00/10141016.pdf)

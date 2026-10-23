@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/931/1999/10/20/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/931-1999-667507
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1999-10-20T00:00:00Z'
+  retrieved_at: '2026-10-23T14:18:44Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 45f7a34f264c76ef7cb1ae4b833d78b67b5f13a93ff586df4e31c73c8f714da9
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 72313fcd38d113fc2842f7e50881b7cd812ec3022532eeba81e9c92a3e5343f3
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T14:18:44Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,13 +66,13 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Projeto de Investimento
-- Regulamento
-- Regulamento de Aplicação da Acção Transformação e Comercialização de Produtos Agrícolas e Silvícolas
-- Programa de Apoio à Modernização Agrícola e Florestal
 - Agricultura
 - Comércio
 - Produto Agrícola
+- Programa de Apoio à Modernização Agrícola e Florestal
+- Projeto de Investimento
+- Regulamento
+- Regulamento de Aplicação da Acção Transformação e Comercialização de Produtos Agrícolas e Silvícolas
 relationships:
 - type: cites
   target: celex:31990R0867
@@ -89,13 +89,13 @@ relationships:
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T14:18:44Z'
   warnings: []
   errors: []
 ---
@@ -114,4 +114,4 @@ Manda o Governo, pelo Ministro da Agricultura, do Desenvolvimento Rural e das Pe
 
 «c) Envolverem um montante mínimo de investimento em activos fixos, elegíveis no âmbito da aplicação desta acção, de 20000 contos, excepto para o sector 'Produtos silvícolas', para o sector 'Mel natural', para 'criação de postos de recepção afectos ao lagar' do subsector 'Oleaginosas (azeite)' ou quando o projecto respeite exclusivamente ao cumprimento de normativos sobre condições hígio-sanitárias ou normalização/classificação de produtos, em que o montante mínimo é de 5000 contos, ou ao cumprimento de normativos sobre protecção de ambiente, em que o montante mínimo é de 3000 contos;»
 
-**O Ministro da Agricultura, do Desenvolvimento Rural e das Pescas, Luís Manuel Capoulas Santos, em 1 de Outubro de 1999.**
+O Ministro da Agricultura, do Desenvolvimento Rural e das Pescas, Luís Manuel Capoulas Santos, em 1 de Outubro de 1999.

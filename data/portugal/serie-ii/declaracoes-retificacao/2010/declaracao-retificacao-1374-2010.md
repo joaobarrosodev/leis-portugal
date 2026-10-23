@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/2s/2010/07/134000000/3781537816.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -47,18 +47,18 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/declaracao-rectificacao/1374-2010-1570544
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2010-07-13T00:00:00Z'
+  retrieved_at: '2026-10-23T14:17:13Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: ddc0b72093b2e45a17fc0cff4803fcedda364e1befe5b76b0a0e0ad69b9f23ea
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: e9a07db3b03a50d94f7da6c3c141da8817d9d4213f80ea2c62d257a97c3d5451
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T14:17:13Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,22 +66,34 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects: []
-relationships: []
+relationships:
+- type: cites
+  target: pt:dre:1451070:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:456200:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:671387:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T14:17:13Z'
   warnings: []
   errors: []
 ---
 
-# Declaração de Rectificação n.º 1374/2010
+# Declaração de rectificação n.º 1374/2010
 
 Para os devidos efeitos se declara que o despacho n.º 15017/2009, publicado no Diário da República, 2.ª série, n.º 126, de 2 de Julho de 2009, de p. 25954 a p. 25956, saiu com inexactidões no anexo, que correspondem a erros materiais, que se rectificam através da republicação integral do referido despacho.
 
@@ -129,7 +141,7 @@ Mestrado Transdisciplinar de Sexologia
 
 QUADRO N.º 1
 
-[([ver documento original](https://files.diariodarepublica.pt/2s/2010/07/134000000/3781537816.pdf))](https://files.diariodarepublica.pt/2s/2010/07/134000000/3781537816.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/2s/2010/07/134000000/3781537816.pdf)
 
 10 - Observações:
 
@@ -167,7 +179,7 @@ Psicologia
 
 QUADRO N.º 1
 
-[([ver documento original](https://files.diariodarepublica.pt/2s/2010/07/134000000/3781537816.pdf))](https://files.diariodarepublica.pt/2s/2010/07/134000000/3781537816.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/2s/2010/07/134000000/3781537816.pdf)
 
 Mestrado Transdisciplinar de Sexologia conferente das competências técnico-profissionais em Psicologia da Sexualidade,Sexualidade Humana e Medicina Sexual
 
@@ -175,4 +187,6 @@ Mestrado Transdisciplinar de Sexologia conferente das competências técnico-pro
 
 QUADRO N.º 2
 
-[([ver documento original](https://files.diariodarepublica.pt/2s/2010/07/134000000/3781537816.pdf))](https://files.diariodarepublica.pt/2s/2010/07/134000000/3781537816.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/2s/2010/07/134000000/3781537816.pdf)
+
+203457375

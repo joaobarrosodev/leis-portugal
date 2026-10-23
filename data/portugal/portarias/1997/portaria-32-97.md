@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/32/1997/01/09/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/32-1997-302088
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1997-01-09T00:00:00Z'
+  retrieved_at: '2026-10-23T14:01:58Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 95a9e20d6a11143cdea4347ce8bce1d321ce3f46f7de06d5bc98ed8b6b8478cb
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: bc53b71d828b3114d7a77c32c372b9fab78ab24e1d391db3d669923d472fa04b
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T14:01:58Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -68,20 +68,32 @@ subjects:
 - Ensino Superior Politécnico
 - Escola Superior de Tecnologia
 - Instituto Politécnico
-- Setúbal
 - Pessoal Docente
 - Quadro de Pessoal
-relationships: []
+- Setúbal
+relationships:
+- type: cites
+  target: pt:dre:287590:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:505986:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:578678:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T14:01:58Z'
   warnings: []
   errors: []
 ---
@@ -102,7 +114,7 @@ Manda o Governo, pelos Ministros das Finanças, da Educação e Adjunto, o segui
 
 Presidência do Conselho de Ministros e Ministérios das Finanças e da Educação.
 
-**Assinada em 5 de Dezembro de 1996.**
+Assinada em 5 de Dezembro de 1996.
 
 Pelo Ministro das Finanças, Maria Manuela de Brito Arcanjo Marques da Costa, Secretária de Estado do Orçamento. - Pelo Ministro da Educação, Alfredo Jorge Silva, Secretário de Estado do Ensino Superior. - Pelo Ministro Adjunto, Fausto de Sousa Correia, Secretário de Estado da Administração Pública.
 
@@ -112,4 +124,4 @@ Instituto Politécnico de Setúbal
 
 Escola Superior de Tecnologia
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1997/01/007b00/00800080.pdf))](https://files.diariodarepublica.pt/1s/1997/01/007b00/00800080.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1997/01/007b00/00800080.pdf)

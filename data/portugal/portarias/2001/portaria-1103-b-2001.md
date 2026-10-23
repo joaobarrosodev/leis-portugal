@@ -20,7 +20,7 @@ publication:
   reference: Diário da República n.º 215/2001, 2º Suplemento, Série I-B de 2001-09-15
   number: '215'
   series: I
-  supplement: 2º Suplemento
+  supplement: null
   pages: 5904-(6) a 5904-(11)
   pdf_url: https://files.diariodarepublica.pt/1s/2001/09/215b02/00060011.pdf
 entry_into_force_dates: []
@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/1103-b/2001/09/15/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/1103-b-2001-650304
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2006-09-04T00:00:00Z'
+  retrieved_at: '2026-10-23T14:27:58Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 0eb434de134a23e89abaa6db412f30f855e6dadfa7917df0055bbf7c5b73a8eb
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 2c24e9a87d285b9690f28dfd5a9a16dbe30007f2a848ef7d2adbe4c59c79c2b5
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T14:27:58Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,23 +66,35 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
+- Agricultura
 - Ajuda Comunitária
-- Financiamento
 - Caminho Agrícola
 - Cooperativa de Produção
-- Recursos Hídricos
 - Electrificação Rural
 - Exploração Florestal
-- QCA III
-- Regulamento
-- Programa AGRO
+- Financiamento
 - Medida Agris
-- Agricultura
+- Programa AGRO
+- QCA III
+- Recursos Hídricos
+- Regulamento
 relationships:
 - type: amended_by
   target: pt:dre:540002:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:269017:por
+  label: "Aditada a subal. x) à al. c) do nº 1 do anexo III do Regulamento aprovado pela Port 1109-F/2000 de 27-Nov, com a\
+    \ redacção dada pelo presente diploma, pela PORT.508/2004.14.05.2004.MADRP, DR.IS-B [113] de 14.05.2004\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/508-2004-269017
+  date: '2004-05-14'
+- type: amended_by
+  target: pt:dre:534416:por
+  label: "Alterado o art. 5.º e aditada a al. e) do art. 3.º da Port 1109-H/2000, de 27-Nov, na redacção do presente diploma,\
+    \ e republica o Regulamento pela PORT.1427/2004.25.11.2004.MCALHDR, DR.IS-B [277] de 25.11.2004\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/1427-2004-534416
+  date: '2004-11-25'
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/163-a/2000/07/27/p/dre
   label: null
@@ -123,16 +135,69 @@ relationships:
   target: eli:http://data.dre.pt/eli/port/53/2001/01/29/p/dre
   label: null
   source: http://data.dre.pt/eli/port/53/2001/01/29/p/dre
+- type: cites
+  target: pt:dre:220892:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:313403:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:313405:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:315107:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:315109:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:315110:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:554464:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:554466:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:554630:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:554631:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:554632:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:554633:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:239653:por
+  label: "Revogado o nº 5 pela PORT.327/2003.2003.04.21.MADRP, DR.IS-B [93]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/327-2003-239653
+  date: '2003-04-21'
 article_structure:
-  article_count: 24
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T14:27:58Z'
   warnings: []
   errors: []
 ---
@@ -183,7 +248,9 @@ e) Elaboração do projecto de investimento.
 
 2 - O disposto neste Regulamento não se aplica na área geográfica abrangida pela Acção Integrada de Base Territorial do Pinhal Interior, do Programa Operacional Regional do Centro.
 
-###### Artigo 4.º — [...]
+Artigo 4.º
+
+[...]
 
 1 - ...
 
@@ -205,13 +272,17 @@ f) No caso da constituição de um núcleo de uma organização de produtores fl
 
 4 - ...
 
-###### Artigo 5.º — [...]
+Artigo 5.º
+
+[...]
 
 1 - São considerados elegíveis os investimentos relativos à instalação e funcionamento das entidades beneficiárias, realizados num período máximo de cinco anos a contar da data de assinatura do contrato de atribuição de ajudas.
 
 2 - As despesas relativas à constituição das entidades beneficiárias são elegíveis desde que realizadas nos dois anos anteriores à data de apresentação da candidatura.
 
-###### Artigo 6.º — [...]
+Artigo 6.º
+
+[...]
 
 1 - ...
 
@@ -229,13 +300,17 @@ d) ...
 
 4 - As despesas com a contratação de recursos humanos para a área administrativa, com excepção da primeira, são elegíveis desde que seja respeitada a relação de, pelo menos, um administrativo para mais dois técnicos com formação florestal.
 
-###### Artigo 8.º — [...]
+Artigo 8.º
+
+[...]
 
 1 - As candidaturas são entregues nas direcções regionais de agricultura durante os meses de Janeiro e Fevereiro, em formulário próprio e acompanhadas dos elementos indicados nas respectivas instruções.
 
 2 - Em 2001 há lugar a um período excepcional de candidatura, que decorre no mês de Outubro.
 
-###### Artigo 11.º — [...]
+Artigo 11.º
+
+[...]
 
 1 - ...
 
@@ -245,7 +320,9 @@ d) ...
 
 4 - ...
 
-###### Artigo 16.º — [...]
+Artigo 16.º
+
+[...]
 
 1 - ...
 
@@ -255,7 +332,9 @@ d) ...
 
 4 - Podem ser estabelecidos contratualmente mecanismos de adiantamento das ajudas.
 
-###### Artigo 17.º — [...]
+Artigo 17.º
+
+[...]
 
 1 - O disposto na alínea a) do n.º 1 do artigo 4.º relativamente à data de constituição e na alínea b) do n.º 1 do mesmo artigo não se aplica às entidades que tenham beneficiado de ajudas ao reforço da capacidade técnica e de gestão das organizações de agricultores, da medida n.º 4 do Programa de Apoio à Modernização Agrícola e Florestal (PAMAF) do QCA II, por período inferior a quatro anos, caso em que poderão candidatar-se às ajudas previstas neste Regulamento.
 
@@ -273,7 +352,9 @@ d) ...
 
 2 - O disposto neste Regulamento não se aplica na área geográfica abrangida pela Acção Integrada de Base Territorial do Pinhal Interior, do Programa Operacional Regional do Centro.
 
-###### Artigo 4.º — [...]
+Artigo 4.º
+
+[...]
 
 1 - ...
 
@@ -289,11 +370,15 @@ e) [Anterior alínea f).]
 
 2 - ...
 
-###### Artigo 5.º — [...]
+Artigo 5.º
+
+[...]
 
 São considerados elegíveis os investimentos, não associados ao processo produtivo, relativos à constituição e instalação dos beneficiários, nomeadamente nas áreas do planeamento, da gestão e apoio à gestão, da divulgação técnica, legislativa e organizacional e dos serviços de informação comercial.
 
-###### Artigo 12.º — [...]
+Artigo 12.º
+
+[...]
 
 Para efeitos do n.º 3 do artigo anterior, consideram-se, por ordem decrescente de importância, os seguintes critérios de prioridade:
 
@@ -307,7 +392,9 @@ d) ...
 
 e) ...
 
-###### Artigo 16.º — [...]
+Artigo 16.º
+
+[...]
 
 1 - ...
 
@@ -327,7 +414,9 @@ e) ...
 
 2 - O disposto neste Regulamento não se aplica na área geográfica abrangida pela Acção Integrada de Base Territorial do Pinhal Interior, do Programa Operacional Regional do Centro.
 
-###### Artigo 3.º — [...]
+Artigo 3.º
+
+[...]
 
 ...
 
@@ -339,7 +428,9 @@ c) Pequenas empresas de serviços florestais - empresas que tenham um número m�
 
 d) ...
 
-###### Artigo 5.º — [...]
+Artigo 5.º
+
+[...]
 
 ...
 
@@ -365,7 +456,9 @@ f) Divulgação técnica, legislativa, comercial e organizacional.»
 
 2 - O disposto neste Regulamento não se aplica na área geográfica abrangida pela Acção Integrada de Base Territorial do Pinhal Interior do Programa Operacional Regional do Centro.
 
-###### Artigo 7.º — [...]
+Artigo 7.º
+
+[...]
 
 1 - ...
 
@@ -383,7 +476,9 @@ f) Divulgação técnica, legislativa, comercial e organizacional.»
 
 2 - O disposto neste Regulamento não se aplica na área geográfica abrangida pela Acção Integrada de Base Territorial do Pinhal Interior, do Programa Operacional Regional do Centro.
 
-###### Artigo 6.º — [...]
+Artigo 6.º
+
+[...]
 
 1 - ...
 
@@ -399,13 +494,17 @@ e) [Anterior alínea d).]
 
 2 - ...
 
-###### Artigo 10.º — [...]
+Artigo 10.º
+
+[...]
 
 1 - As candidaturas são apresentadas nas direcções regionais de agricultura durante o mês de Junho de cada ano, em formulário próprio e acompanhadas dos elementos indicados nas respectivas instruções.
 
 2 - Em 2001 o período de candidatura decorre excepcionalmente durante o mês de Outubro.
 
-###### Artigo 17.º — [...]
+Artigo 17.º
+
+[...]
 
 1 - ...
 
@@ -429,7 +528,9 @@ c) ...
 
 d) Sociedades de agricultura de grupo de integração parcial e formas associativas congéneres, apenas no caso de serviços produtivos comuns.
 
-###### Artigo 6.º — [...]
+Artigo 6.º
+
+[...]
 
 1 - ...
 
@@ -459,7 +560,9 @@ i) ...
 
 5 - ...
 
-###### Artigo 7.º — [...]
+Artigo 7.º
+
+[...]
 
 1 - ...
 
@@ -471,7 +574,9 @@ i) ...
 
 5 - Só são elegíveis as despesas efectuadas a partir do dia 1 de Janeiro do ano seguinte ao da apresentação da candidatura, com excepção das despesas de constituição, desde que efectuadas, no máximo, um ano antes da data da apresentação da candidatura.
 
-###### Artigo 8.º — [...]
+Artigo 8.º
+
+[...]
 
 1 - ...
 
@@ -479,7 +584,9 @@ i) ...
 
 3 - ...
 
-###### Artigo 10.º — [...]
+Artigo 10.º
+
+[...]
 
 1 - As candidaturas são entregues nas direcções regionais de agricultura (DRA) durante o mês de Setembro, em formulário próprio e acompanhadas dos elementos indicados nas respectivas instruções.
 
@@ -509,11 +616,15 @@ a) ...
 
 b) No caso de beneficiação de regadios tradicionais: juntas de agricultores ou cooperativas de rega, autonomamente ou em conjunto com as autarquias locais e ou o organismo competente.
 
-###### Artigo 18.º — [...]
+Artigo 18.º
+
+[...]
 
 Podem beneficiar das ajudas previstas neste capítulo os agricultores utentes dos aproveitamento hidro-agrícolas, organizados em associações de regantes ou de beneficiários desses regadios, em conjunto com o organismo competente, e este último, quando se trate de elaboração de estudos e projectos de execução.
 
-## ANEXO I — [...]
+ANEXO I
+
+[...]
 
 1 - Elaboração de estudos e projectos de execução, até ao limite de 5% do custo da obra.
 
@@ -557,7 +668,9 @@ Podem beneficiar das ajudas previstas neste capítulo os agricultores utentes do
 
 2 - Quando se trate de caminhos rurais, a contrapartida nacional do financiamento é suportada pela autarquia local.
 
-###### Artigo 6.º — [...]
+Artigo 6.º
+
+[...]
 
 ...
 
@@ -581,7 +694,9 @@ d) ...»
 
 3 - A ajuda prevista na alínea d) do n.º 1 é atribuída até ao limite de (euro) 25000 por beneficiário.
 
-###### Artigo 8.º — [...]
+Artigo 8.º
+
+[...]
 
 1 - ...
 
@@ -593,4 +708,4 @@ d) ...»
 
 Em 15 de Setembro de 2001.
 
-**A Ministra do Planeamento, Elisa Maria da Costa Guimarães Ferreira. - O Ministro da Agricultura, do Desenvolvimento Rural e das Pescas, Luís Manuel Capoulas Santos.**
+A Ministra do Planeamento, Elisa Maria da Costa Guimarães Ferreira. - O Ministro da Agricultura, do Desenvolvimento Rural e das Pescas, Luís Manuel Capoulas Santos.

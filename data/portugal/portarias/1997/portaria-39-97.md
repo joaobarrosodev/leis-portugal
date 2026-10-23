@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1997/01/011b00/01910192.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/39/1997/01/14/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/39-1997-532257
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2005-01-12T00:00:00Z'
+  retrieved_at: '2026-10-23T14:02:28Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: b27f0c90f302c90bcd10f0c108c9c0caa6595ff423db4ff42c8b820d1671a123
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 3449b672cc104f27de1c970a481f47818ec2778b25a8d109eaf6c52ebedc06b8
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T14:02:28Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,8 +67,8 @@ reuse:
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
 - Aditivo Alimentar
-- Produto Proteico
 - Alimento para Animais
+- Produto Proteico
 relationships:
 - type: amended_by
   target: pt:dre:476909:por
@@ -82,16 +82,22 @@ relationships:
   target: celex:31995L0033
   label: null
   source: http://data.europa.eu/eli/dir/1995/33/oj
+- type: repealed_by
+  target: pt:dre:476909:por
+  label: "Revogada a Port 1105/89 de 27-Dez, com a redacção do presente diploma, pelo DEC LEI.15/2005.12.01.2005.MAPF, DR.IS-A\
+    \ [8] de 12.01.2005\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/15-2005-476909
+  date: '2005-01-12'
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T14:02:28Z'
   warnings: []
   errors: []
 ---
@@ -112,8 +118,8 @@ Manda o Governo, pelo Ministro da Agricultura, do Desenvolvimento Rural e das Pe
 
 Ministério da Agricultura, do Desenvolvimento Rural e das Pescas.
 
-**Assinada em 13 de Dezembro de 1996.**
+Assinada em 13 de Dezembro de 1996.
 
 Pelo Ministro da Agricultura, do Desenvolvimento Rural e das Pescas, Luís Manuel Capoulas Santos, Secretário de Estado da Agricultura e do Desenvolvimento Rural.
 
-## ANEXO — [([ver documento original](https://files.diariodarepublica.pt/1s/1997/01/011b00/01910192.pdf))](https://files.diariodarepublica.pt/1s/1997/01/011b00/01910192.pdf)
+## ANEXO — [(ver documento original)](https://files.diariodarepublica.pt/1s/1997/01/011b00/01910192.pdf)

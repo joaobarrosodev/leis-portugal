@@ -20,7 +20,7 @@ publication:
   reference: Diário da República n.º 274/2000, 1º Suplemento, Série I-B de 2000-11-27
   number: '274'
   series: I
-  supplement: 1º Suplemento
+  supplement: null
   pages: 6730-(16) a 6730-(20)
   pdf_url: https://files.diariodarepublica.pt/1s/2000/11/274b01/00160020.pdf
 entry_into_force_dates: []
@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/1109-e/2000/11/27/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/1109-e-2000-554466
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2002-04-11T00:00:00Z'
+  retrieved_at: '2026-10-23T14:19:50Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 07897792936ca81c3f71a431e72e7c0a19dc98e910d32c6c4d5c428726ca04e4
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 66074cebc44d788ed99af2679fc8024a3fc32cf25d0e98011fb24f213cfae0ff
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T14:19:50Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,24 +66,49 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
+- Agricultura
 - Ajuda Comunitária
-- Financiamento
 - Direcção Regional de Agricultura
+- Exploração Agrícola
 - Exploração Agrícola Familiar
+- Financiamento
+- Ifadap
+- Medida Agris
 - Ministro da Agricultura
 - Ministro da Agricultura do Desenvolvimento Rural e das Pescas
-- Exploração Agrícola
+- Programa AGRO
 - QCA III
 - Regulamento
-- Programa AGRO
-- Medida Agris
-- Agricultura
-- Ifadap
 relationships:
 - type: amended_by
   target: pt:dre:303384:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:481480:por
+  label: "Alterada a al. d) do n.º 1 do art. 3.º e o n.º 2 do art. 6.º e, revogado o n.º 2 do art. 4.º, o n.º 2 do art. 20.º\
+    \ e os arts. 23.º e 24.º do Regulamento aprovado pelo presente diploma, com a redacção dada pelas Port 1103-B/2001, de\
+    \ 15-Set e 387/2002, de 11-Abr, o qual é republicado em anexo, com as alterações ora introduzidas, pela Port.1196/2003.13.10.2003.MADRP,\
+    \ DR.IS-B [237] de 13.10.2003\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/1196-2003-481480
+  date: '2000-11-27'
+- type: amended_by
+  target: pt:dre:345076:por
+  label: "Prorrogado, até 30 de Março de 2001, o prazo previsto no art. 23º do Regulamento pela PORT.272/2001.2001.03.28.MPLA,DR.IS-B\
+    \ [74]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/272-2001-345076
+  date: '2001-03-28'
+- type: amended_by
+  target: pt:dre:650304:por
+  label: "Alterado o art. 8º, pela PORT.1103-B/2001.2001.09.15.MPLA, DR.IS-B [215]2ºSupl\0l\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/1103-b-2001-650304
+  date: '2001-09-15'
+- type: amended_by
+  target: pt:dre:303384:por
+  label: "Alterado o art. 4º do Regulamento de Aplicação da Acção nº 1 da Medida Agris, na redacção dada pela Port 1103-B/2001\
+    \ de 15-Set, DR.IS [215]2ºSupl pela PORT.387/2002.2002.04.11.MADRP, DR.IS-B [85]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/387-2002-303384
+  date: '2002-04-11'
 - type: cites
   target: celex:31999R1257
   label: null
@@ -95,13 +120,13 @@ relationships:
 article_structure:
   article_count: 24
   section_count: 4
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T14:19:50Z'
   warnings: []
   errors: []
 ---
@@ -124,7 +149,7 @@ Manda o Governo, pelos Ministros do Planeamento e da Agricultura, do Desenvolvim
 
 Em 23 de Novembro de 2000.
 
-**A Ministra do Planeamento, Elisa Maria da Costa Guimarães Ferreira. - O Ministro da Agricultura, do Desenvolvimento Rural e das Pescas, Luís Manuel Capoulas Santos.**
+A Ministra do Planeamento, Elisa Maria da Costa Guimarães Ferreira. - O Ministro da Agricultura, do Desenvolvimento Rural e das Pescas, Luís Manuel Capoulas Santos.
 
 ## ANEXO
 

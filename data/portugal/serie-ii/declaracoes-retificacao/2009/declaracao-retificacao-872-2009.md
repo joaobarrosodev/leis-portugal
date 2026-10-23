@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/2s/2009/03/057000000/1097510975.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -46,18 +46,18 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/declaracao-rectificacao/872-2009-3150341
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2009-03-23T00:00:00Z'
+  retrieved_at: '2026-10-23T14:14:17Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 6a0745067f9662141a6db7d29ba4b22220a741cb4717caa0612f6a41161fcc41
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 0e3ebcaa7148fef604ab159fa04f45bd64cc267296ad49b166dc097449361e68
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T14:14:17Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -69,13 +69,13 @@ relationships: []
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T14:14:17Z'
   warnings: []
   errors: []
 ---
@@ -88,10 +88,10 @@ Por ter saído com inexactidão a publicação do curso de Licenciatura em Patri
 
 onde se lê "Anexo - Formulário - 2.º ano/2.º semestre:
 
-[([ver documento original](https://files.diariodarepublica.pt/2s/2009/03/057000000/1097510975.pdf))](https://files.diariodarepublica.pt/2s/2009/03/057000000/1097510975.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/2s/2009/03/057000000/1097510975.pdf)
 
 deve ler-se "Anexo - Formulário - 2.º ano/2.º semestre:
 
-[([ver documento original](https://files.diariodarepublica.pt/2s/2009/03/057000000/1097510975.pdf))](https://files.diariodarepublica.pt/2s/2009/03/057000000/1097510975.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/2s/2009/03/057000000/1097510975.pdf)
 
 13 de Março de 2009. - A Directora, Julieta Mateus.

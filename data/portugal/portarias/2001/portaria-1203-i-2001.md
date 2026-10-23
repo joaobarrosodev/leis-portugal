@@ -20,12 +20,12 @@ publication:
   reference: Diário da República n.º 242/2001, 1º Suplemento, Série I-B de 2001-10-18
   number: '242'
   series: I
-  supplement: 1º Suplemento
+  supplement: null
   pages: 6632-(5) a 6632-(5)
   pdf_url: https://files.diariodarepublica.pt/1s/2001/10/242b01/00050005.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/1203-i/2001/10/18/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/1203-i-2001-254455
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2002-03-12T00:00:00Z'
+  retrieved_at: '2026-10-23T14:28:38Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: b56b17dda1a1e31a9c32aad78377601932b667ca1879fdebc2f3387c0c37cdea
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: a596d4664932a6a62a241b184a931252c73044919e023b0c15be5425e542f8b4
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T14:28:38Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -78,16 +78,29 @@ relationships:
   target: eli:http://data.dre.pt/eli/dec-lei/227-b/2000/09/15/p/dre
   label: null
   source: http://data.dre.pt/eli/dec-lei/227-b/2000/09/15/p/dre
+- type: cites
+  target: pt:dre:534644:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:549266:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:265521:por
+  label: "Revogada pela PORT.224/2002.2002.03.12.MECO, DR.IS-B [60]\0]\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/224-2002-265521
+  date: '2002-03-12'
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T14:28:38Z'
   warnings: []
   errors: []
 ---

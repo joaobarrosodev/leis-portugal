@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/991/1998/11/24/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/991-1998-216328
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2010-08-11T00:00:00Z'
+  retrieved_at: '2026-10-23T14:12:21Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 88c575451ffec55cfaa7ad142333f0b152c5a179dbb697f22af8d5eaed944327
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: fe8204955036d72afc43fb7ba90666cc7a09c6d810386d387ffbff63c08c25b1
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T14:12:21Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -74,6 +74,25 @@ relationships:
   target: pt:dre:343108:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:284316:por
+  label: "Anexados vários prédios rústicos à zona de caça associativa criada pela Port 701/92, de 09-Jul, com a redacção do\
+    \ presente diploma, pela Port.1033-GH/2004.10.08.2004.MAPF, DR.IS-B [187-2ºSupl] de 10.08.2004\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/1033-gh-2004-284316
+  date: '2004-08-10'
+- type: amended_by
+  target: pt:dre:667082:por
+  label: "Anexados vários prédios rústicos à zona de caça atribuída pela Port 701/92, de 09-Jul, com a redacção do presente\
+    \ diploma, pela PORT.247/2006.10.03.2006.MADRP, DR.IS-B [50] de 10.03.2006\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/247-2006-667082
+  date: '2006-03-10'
+- type: amended_by
+  target: pt:dre:343108:por
+  label: "Renovada a concessão da zona de caça associativa criada pela Port. 701/92, de 09-Jul,na redacção da presente portaria\
+    \ e anexados vários prédios rústicos à mesma zona de caça pela PORT.667/2010.11.08.2010.MADRP, DR.IS [155] de 11.08.2010\0\
+    \0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/667-2010-343108
+  date: '2010-08-11'
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/136/1996/08/14/p/dre
   label: null
@@ -90,16 +109,32 @@ relationships:
   target: eli:http://data.dre.pt/eli/port/966/1995/08/08/p/dre
   label: null
   source: http://data.dre.pt/eli/port/966/1995/08/08/p/dre
+- type: cites
+  target: pt:dre:288586:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:405765:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:446353:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:479376:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T14:12:21Z'
   warnings: []
   errors: []
 ---
@@ -128,7 +163,7 @@ Manda o Governo, pelo Ministro da Agricultura, do Desenvolvimento Rural e das Pe
 
 Ministério da Agricultura, do Desenvolvimento Rural e das Pescas.
 
-**Assinada em 9 de Novembro de 1998.**
+Assinada em 9 de Novembro de 1998.
 
 Pelo Ministro da Agricultura, do Desenvolvimento Rural e das Pescas, Victor Manuel Coelho Barros, Secretário de Estado do Desenvolvimento Rural.
 

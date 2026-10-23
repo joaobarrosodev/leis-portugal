@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/722/1998/09/09/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/722-1998-243773
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2008-02-14T00:00:00Z'
+  retrieved_at: '2026-10-23T14:10:46Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: db02869dceee3e40f55f146574d4896fb75f6738a85e1af3f892a0ded0352017
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 6aae57f21ce4aa502bb3fad2fe3fa56f2f770401e2f5980590049a7e63ec0dee
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T14:10:46Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,14 +66,26 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- CAÇA
 - Aljustrel
+- CAÇA
 - ZONA de CAÇA
 relationships:
 - type: amended_by
   target: pt:dre:248033:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:618550:por
+  label: "Renovada por dez anos a concessão de zona de caça atribuída pela Port 254-FE/96 de 15-Jul, com a redacção do presente\
+    \ diploma, pela PORT.150/2005.08.02.2005.MAPF, DR.IS-B [27] de 08.02.2005\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/150-2005-618550
+  date: '2005-02-08'
+- type: amended_by
+  target: pt:dre:248033:por
+  label: "Anexados vários prédios rústicos à zona de caça criada pela Port 254-FE/96, de 15-Jul, alterada pelo presente diploma,\
+    \ pela PORT.132/2008.14.02.2008.MADRP, DR.IS [32] de 14.02.2008\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/132-2008-248033
+  date: '2008-02-14'
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/136/1996/08/14/p/dre
   label: null
@@ -82,16 +94,28 @@ relationships:
   target: eli:http://data.dre.pt/eli/port/254-fe/1996/07/15/p/dre
   label: null
   source: http://data.dre.pt/eli/port/254-fe/1996/07/15/p/dre
+- type: cites
+  target: pt:dre:157224:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:219134:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:405765:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T14:10:46Z'
   warnings: []
   errors: []
 ---
@@ -112,7 +136,7 @@ Manda o Governo, pelo Ministro da Agricultura, do Desenvolvimento Rural e das Pe
 
 Ministério da Agricultura, do Desenvolvimento Rural e das Pescas.
 
-**Assinada em 20 de Agosto de 1998.**
+Assinada em 20 de Agosto de 1998.
 
 Pelo Ministro da Agricultura, do Desenvolvimento Rural e das Pescas, Luís Manuel Capoulas Santos, Secretário de Estado da Agricultura e do Desenvolvimento Rural.
 

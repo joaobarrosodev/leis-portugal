@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/2s/2010/07/127000000/3613036132.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -46,18 +46,18 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/declaracao-rectificacao/1289-2010-1918133
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2010-07-02T00:00:00Z'
+  retrieved_at: '2026-10-23T14:16:43Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 161f2e15c54ecda270fe041e286bdc41239275f2c08e7b953429f0a83fbf7adc
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: afcce707994d2e0e29a60570f4432954be44257132ad62ab2bfe82fdea9bcac4
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T14:16:43Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -65,22 +65,58 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects: []
-relationships: []
+relationships:
+- type: cites
+  target: pt:dre:227271:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:243747:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:247675:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:3339176:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:453975:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:454014:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:468663:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:624401:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:689576:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T14:16:43Z'
   warnings: []
   errors: []
 ---
 
-# Declaração de Rectificação n.º 1289/2010
+# Declaração de rectificação n.º 1289/2010
 
 Por ter havido lapso na redacção do aviso n.º 11847/2010, publicado no Diário da República, 2.ª série, n.º 114, de 15 de Junho de 2010, de p. 32640 a p. 32642, procede-se à sua republicação, mantendo-se válidas as candidaturas entretanto apresentadas.
 
@@ -98,7 +134,7 @@ Para os efeitos do estipulado no n.º 1 do artigo 4.º e no artigo 54.º da [Por
 
 2 - Local de trabalho - as funções serão exercidas nos ACES da ARS Centro, I. P., de acordo com as referências identificadas no mapa abaixo indicado:
 
-[([ver documento original](https://files.diariodarepublica.pt/2s/2010/07/127000000/3613036132.pdf))](https://files.diariodarepublica.pt/2s/2010/07/127000000/3613036132.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/2s/2010/07/127000000/3613036132.pdf)
 
 3 - Legislação aplicável - o presente concurso rege-se pelas disposições contidas na [Lei n.º 12-A/2008](https://diariodarepublica.pt/dr/detalhe/lei/12-a-2008-468663), de 27 de Fevereiro, com as alterações introduzidas pela [Lei n.º 64-A/2008](https://diariodarepublica.pt/dr/detalhe/lei/64-a-2008-243747), de 31 de Dezembro, no [Decreto-Lei n.º 69-A/2009](https://diariodarepublica.pt/dr/detalhe/decreto-lei/69-a-2009-689576), de 24 de Março, nas Leis n.os [59/2008](https://diariodarepublica.pt/dr/detalhe/lei/59-2008-453975), de 11 de Setembro, e [58/2008](https://diariodarepublica.pt/dr/detalhe/lei/58-2008-454014), de 9 de Setembro, na [Portaria n.º 83-A/2009](https://diariodarepublica.pt/dr/detalhe/portaria/83-a-2009-624401), de 22 de Janeiro, e na [Lei n.º 66-B/2007](https://diariodarepublica.pt/dr/detalhe/lei/66-b-2007-227271), de 28 de Dezembro.
 
@@ -213,3 +249,5 @@ EPS = entrevista profissional de selecção.
 12 - Nos termos do disposto no n.º 1 do artigo 19.º da [Portaria n.º 83-A/2009](https://diariodarepublica.pt/dr/detalhe/portaria/83-a-2009-624401), de 22 de Janeiro, o presente aviso será publicitado na bolsa de emprego público (www.bep.gov.pt), na página electrónica da ARS Centro, I. P., e em jornal de expansão nacional, por extracto.
 
 4 de Junho de 2010. - O Presidente do Conselho Directivo da ARS Centro, I. P., João Pedro Pimentel.»
+
+203421831

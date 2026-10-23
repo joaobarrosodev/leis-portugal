@@ -26,7 +26,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2001/02/044b00/09490976.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -48,18 +48,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/104/2001/02/21/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/104-2001-387577
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2009-08-21T00:00:00Z'
+  retrieved_at: '2026-10-23T14:27:33Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: de3e26a256302c8d05d374e31c093f14db19e13a77ca7b70500a206fa6e4c24d
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 15f3e60fa9000c36cc52eececb7a984d88d522a74a0a23a5daf14508008ad44a
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T14:27:33Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,13 +67,13 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
+- Administração Pública
 - Aquisição de Bens e Serviços
 - Caderno de Encargos
 - Concurso Público
 - Documentação Administrativa
 - Empreitada de Obras Públicas
 - Material de Obras Públicas
-- Administração Pública
 - Obras Públicas
 - Programa
 relationships:
@@ -81,6 +81,23 @@ relationships:
   target: pt:dre:488284:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:584856:por
+  label: "Alterada a redacção dos nºs 15.2 e 17 da secção I e o nº 1 do anexo I da secção I, ambos do anexo do programa aprovado\
+    \ pelo presente diploma, pela PORT.3/2002.2002.01.04.MES DR.IS-B [3]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/3-2002-584856
+  date: '2002-01-04'
+- type: amended_by
+  target: pt:dre:450265:por
+  label: "Alterado o nº 19.3 da presente portaria pela PORT.1465/2002.2002.11.14.MOPTH, DR.IS-B[263]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/1465-2002-450265
+  date: '2002-11-14'
+- type: amended_by
+  target: pt:dre:592877:por
+  label: "Alterado o nº 19.3 do programa de concurso tipo anexo ao presente diploma, com a redacção conferida pela Port 1465/2002\
+    \ de 14-Nov, pela PORT.1075/2005.19.10.2005.MOPTC, DR.IS-B [201] de 19.10.2005\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/1075-2005-592877
+  date: '2005-10-19'
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/155/1995/07/01/p/dre
   label: null
@@ -105,16 +122,58 @@ relationships:
   target: eli:http://data.dre.pt/eli/port/428/1995/05/10/p/dre
   label: null
   source: http://data.dre.pt/eli/port/428/1995/05/10/p/dre
+- type: cites
+  target: pt:dre:152526:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:152528:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:292133:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:352090:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:475076:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:513648:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:559436:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:563036:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:579479:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:488284:por
+  label: "Revogado o presente diploma, na redacção dada pela Port 3/2002, de de 04-Jan, pela Port 1465/2002, de 14-Nov e pela\
+    \ Port 1075/2005, de 19-Out, pela PORT.959/2009.21.08.2009.MOPTC, DR.IS [162] de 21.08.2009\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/959-2009-488284
+  date: '2009-08-21'
 article_structure:
   article_count: 0
   section_count: 4
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T14:27:33Z'
   warnings: []
   errors: []
 ---
@@ -135,7 +194,7 @@ Manda o Governo, pelo Ministro do Equipamento Social, o seguinte:
 
 3.º A presente portaria entra em vigor decorridos 30 dias a contar da sua publicação.
 
-**O Ministro do Equipamento Social, Jorge Paulo Sacadura Almeida Coelho, em 24 de Janeiro de 2001.**
+O Ministro do Equipamento Social, Jorge Paulo Sacadura Almeida Coelho, em 24 de Janeiro de 2001.
 
 ## ANEXO — Programa de concurso tipo
 
@@ -1631,7 +1690,7 @@ b) A emergência de qualquer dano consequente dos fenómenos referidos derive de
 
 (nota 3) Poderá ser estabelecido prazo inferior, se devidamente justificado pela natureza do trabalho ou pelo prazo previsto de utilização da obra.
 
-## ANEXO A QUE SE REFERE O N.º 1.11.1 DESTE CADERNO DE ENCARGOS
+ANEXO A QUE SE REFERE O N.º 1.11.1 DESTE CADERNO DE ENCARGOS
 
 Modelo de guia de depósito
 

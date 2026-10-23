@@ -19,12 +19,12 @@ publication:
   reference: Diário da República n.º 206/2001, 1º Suplemento, Série I-B de 2001-09-05
   number: '206'
   series: I
-  supplement: 1º Suplemento
+  supplement: null
   pages: 5774-(2) a 5774-(11)
   pdf_url: https://files.diariodarepublica.pt/1s/2001/09/206b01/00020011.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/1082-a/2001/09/05/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/1082-a-2001-307436
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2008-05-21T00:00:00Z'
+  retrieved_at: '2026-10-23T14:27:49Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 1edc77822f4ff44cad84ede07e1634772c64118861bc66f05ab69189cb6e3197
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 03e85fbff47288cbaa192045fa2baf4daba5cedac99c85bcb625e71f0b18a414
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T14:27:49Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -69,15 +69,15 @@ subjects:
 - Acreditação
 - Ajuda Comunitária
 - Anefa
-- Financiamento
 - Braga
 - Centro de Reconhecimento Validação e Certificação de Competências
-- Formação Profissional
 - Certificação Profissional
-- Prodep
 - Educação dos Adultos
-- Intervenção Operacional da Educação
 - Ensino Básico
+- Financiamento
+- Formação Profissional
+- Intervenção Operacional da Educação
+- Prodep
 - Regulamento
 - Sistema Nacional de Certificação Profissional
 - Sistema Nacional de Reconhecimento Validação e Certificação de Competências
@@ -86,20 +86,51 @@ relationships:
   target: pt:dre:249254:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:625437:por
+  label: "Alterados os arts. 4º e 11º do Regulamento Anexo ao presente diploma, Anexo I, pela PORT.286-A/2002.2002.03.15.ME,\
+    \ DR.IS-B [63]Supl\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/286-a-2002-625437
+  date: '2002-03-15'
+- type: amended_by
+  target: pt:dre:262373:por
+  label: "Alterados os nºs 1º, 2º, 6º, 7º, 8º, 10º, 11º, 13º e 15º, revogados o nº 4º, os nºs 3 e 4 do nº 7º, o nº 9º, os\
+    \ nºs 5, 6 e 7 do nº 11º e o regulamento constante do anexo I deste diploma, com a redacção conferida na Port 286-A/2002\
+    \ de 15-Mar, e aditados os nºs 1º-A, 4º-A, 11º-A e 14º-A ao presente diploma, pela PORT.86/2007.12.01.2007.MTSSO, DR.IS\
+    \ [9] de 12.01.2007, o qual remeteu as referências contidas neste diploma à ANEFA para os serviços e organismos, que,\
+    \ nos termos da legislação em vigor, sucederam nas atribuições que àquela cometiam no âmbito do desenvolvimento e gestão\
+    \ da rede e do processo de RVCC, tal como designados e de acordo com a respectiva estrutura orgânica \0 \0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/86-2007-262373
+  date: '2007-01-12'
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/387/1999/09/28/p/dre
   label: null
   source: http://data.dre.pt/eli/dec-lei/387/1999/09/28/p/dre
+- type: cites
+  target: pt:dre:667972:por
+  label: null
+  source: null
+- type: corrected_by
+  target: pt:dre:648286:por
+  label: "Rectificada pela DECL-RECT.20-BD/2001.2001.11.10.PCM DR.IS-B [261]2º Supl de 10/Nov/2001\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/declaracao-rectificacao/20-bd-2001-648286
+  date: '2001-11-10'
+- type: repealed_by
+  target: pt:dre:249254:por
+  label: "Revogada, a partir de 26.05.2008, na redacção das Ports 286-A/2002 de 15-Mar e 86/2007 de 12-Jan, pela PORT.370/2008.21.05.2008.MTSSO,\
+    \ DR.IS [98] de 21.05.2008\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/370-2008-249254
+  date: '2008-05-21'
 article_structure:
   article_count: 16
   section_count: 6
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T14:27:49Z'
   warnings: []
   errors: []
 ---
@@ -530,8 +561,8 @@ c) As alterações verificadas ao nível da estrutura, das competências e dos r
 
 3 - A decisão de suspensão da acreditação, assim como os motivos que a fundamentam, são notificados à entidade candidata, em carta registada com aviso de recepção, nos sete dias subsequentes à data da decisão.
 
-## ANEXO II — [(ver modelo no documento original)](https://files.diariodarepublica.pt/1s/2001/09/206b01/00020011.pdf)
+## ANEXO II — [[[(ver modelo no documento original)](https://files.diariodarepublica.pt/1s/2001/09/206b01/00020011.pdf)](https://files.diariodarepublica.pt/1s/2001/09/206b01/00020011.pdf)](https://files.diariodarepublica.pt/1s/2001/09/206b01/00020011.pdf)
 
-## ANEXO III — [(ver modelo no documento original)](https://files.diariodarepublica.pt/1s/2001/09/206b01/00020011.pdf)
+## ANEXO III — [[[(ver modelo no documento original)](https://files.diariodarepublica.pt/1s/2001/09/206b01/00020011.pdf)](https://files.diariodarepublica.pt/1s/2001/09/206b01/00020011.pdf)](https://files.diariodarepublica.pt/1s/2001/09/206b01/00020011.pdf)
 
-## ANEXO IV — [(ver modelo no documento original)](https://files.diariodarepublica.pt/1s/2001/09/206b01/00020011.pdf)
+## ANEXO IV — [[[(ver modelo no documento original)](https://files.diariodarepublica.pt/1s/2001/09/206b01/00020011.pdf)](https://files.diariodarepublica.pt/1s/2001/09/206b01/00020011.pdf)](https://files.diariodarepublica.pt/1s/2001/09/206b01/00020011.pdf)

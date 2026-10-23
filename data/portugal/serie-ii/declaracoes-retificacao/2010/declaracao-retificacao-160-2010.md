@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/2s/2010/01/018000000/0398003980.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -46,18 +46,18 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/declaracao-rectificacao/160-2010-2628278
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2010-01-27T00:00:00Z'
+  retrieved_at: '2026-10-23T14:18:34Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: c468a66f0c2fc530af9c7e786e9373bdcf0d01ec18f4b05c1da3d805b77bf4fc
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 44cb6358cfc39dcd59a82ebb1176b9f10874592ee6205c95dcc497168816c45f
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T14:18:34Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -69,13 +69,13 @@ relationships: []
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T14:18:34Z'
   warnings: []
   errors: []
 ---
@@ -87,3 +87,5 @@ Declaração de rectificação n.º 160/2010
 Por ter saído com inexactidão o aviso n.º 1417/2010, publicado no Diário da República, 2.ª série, n.º 14, de 21 de Janeiro de 2010, a p. 3008, onde se lê «Gabinete de Comunicação, Relações Internacionais, Estudos e Planeamento, nomeadamente, no âmbito da Rede Judiciária Europeia em Matéria Civil e Comercial (RJECC)» deve ler-se «Gabinete de Comunicação, Relações Internacionais, Estudos e Planeamento no âmbito da Rede Judiciária Europeia em Matéria Civil e Comercial (RJECC)».
 
 21 de Janeiro de 2010. - A Juíza-Secretária, Maria João Sousa e Faro.
+
+202826141

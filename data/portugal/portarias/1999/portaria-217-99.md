@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/217/1999/03/29/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/217-1999-138555
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2002-05-27T00:00:00Z'
+  retrieved_at: '2026-10-23T14:13:57Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: e621df6f1ba69784b1783066c2f047283b871c3203246d8ccd1b2ad6ce8af31d
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 2dc3a2d364afd86e9f0350344e7dee49d2dfa2d68a64302b8dfbf867d2d2fb48
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T14:13:57Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -65,14 +65,54 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Pessoal Dirigente
 - Instituto da Vinha e do Vinho
+- Pessoal Dirigente
 - Quadro de Pessoal
 relationships:
 - type: amended_by
   target: pt:dre:2760221:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:3002850:por
+  label: "Alterado o quadro de pessoal pela PORT.762/2000(2ªSÉRIE).2000.04.20.MADRP, DR.IIS [209] de 11/Mai/2000 \0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/762-2000-3002850
+  date: '2000-04-20'
+- type: amended_by
+  target: pt:dre:2491178:por
+  label: "Alterado o quadro de pessoal pela PORT.2024/2000(2ªSÉRIE).2000.11.28.MADRP DR.IIS [300] de 30/Dez/2000\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/2024-2000-2491178
+  date: '2000-11-28'
+- type: amended_by
+  target: pt:dre:3685911:por
+  label: "Alterado o quadro de pessoal pela PORT.81/2001(2ªSÉRIE).2000.12.22.MADRP DR.IIS [20] DE 24/JAN/2001\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/81-2001-3685911
+  date: '2000-12-22'
+- type: amended_by
+  target: pt:dre:1070930:por
+  label: "Alterado o quadro de pessoal pela PORT.1137/2001(2ªSÉRIE).2001.06.08.MADRP DR.IIS [153] DE 04/JUL/2001\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/1137-2001-1070930
+  date: '2001-06-08'
+- type: amended_by
+  target: pt:dre:1070931:por
+  label: "Alterado o quadro de pessoal pela PORT.1138/2001(2ªSÉRIE).2001.06.08.MADRP DR.IIS [153] DE 04/JUL/2001\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/1138-2001-1070931
+  date: '2001-06-08'
+- type: amended_by
+  target: pt:dre:3574392:por
+  label: "Alterado o quadro de pessoal pela PORT.607/2002(2ªSÉRIE).2002.01.18.MADRP, DR.IIS [84] de 10/Abr/2002\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/607-2002-3574392
+  date: '2002-01-18'
+- type: amended_by
+  target: pt:dre:1229094:por
+  label: "Alterado o quadro de pessoal pela PORT.514/2002(2ªSÉRIE).2002.03.06.MADRP, DR.IIS [69] de 2002/MAR/22\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/514-2002-1229094
+  date: '2002-03-06'
+- type: amended_by
+  target: pt:dre:2760221:por
+  label: "Alterado o quadro de pessoal pela PORT.899/2002(2ªSÉRIE).2002.05.27.MADRP, DR.IIS [135] de 14/Jun/2002\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/899-2002-2760221
+  date: '2002-05-27'
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/23/1991/01/11/p/dre
   label: null
@@ -81,16 +121,32 @@ relationships:
   target: eli:http://data.dre.pt/eli/dec-lei/99/1997/04/26/p/dre
   label: null
   source: http://data.dre.pt/eli/dec-lei/99/1997/04/26/p/dre
+- type: cites
+  target: pt:dre:476876:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:619144:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:619145:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:693840:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T14:13:57Z'
   warnings: []
   errors: []
 ---
@@ -105,13 +161,13 @@ Assim, nos termos dos n.os 1 e 2 do artigo 36.º do referido decreto-lei:
 
 Manda o Governo, pelos Ministros das Finanças, Adjunto e da Agricultura, do Desenvolvimento Rural e das Pescas, que seja aprovado o quadro de pessoal do Instituto da Vinha e do Vinho, constante dos mapas anexos ao presente diploma, que dele fazem parte integrante.
 
-**Assinada em 23 de Fevereiro de 1999.**
+Assinada em 23 de Fevereiro de 1999.
 
 Pelo Ministro das Finanças, João Carlos da Costa Ferreira da Silva, Secretário de Estado do Orçamento. - Pelo Ministro Adjunto, Fausto de Sousa Correia, Secretário de Estado da Administração Pública e da Modernização Administrativa. - O Ministro da Agricultura, do Desenvolvimento Rural e das Pescas, Luís Manuel Capoulas Santos.
 
 MAPA I
 
-[(ver mapa no documento original)](https://files.diariodarepublica.pt/1s/1999/03/074b00/17461749.pdf)
+[[(ver mapa no documento original)](https://files.diariodarepublica.pt/1s/1999/03/074b00/17461749.pdf)](https://files.diariodarepublica.pt/1s/1999/03/074b00/17461749.pdf)
 
 MAPA II
 
@@ -119,4 +175,4 @@ Carreiras e categorias a extinguir à medida que vagarem, da base para o topo
 
 (de acordo com o [Decreto-Lei n.º 23/91](https://diariodarepublica.pt/dr/detalhe/decreto-lei/23-1991-693840), de 11 de Janeiro, e mapa II anexo aos Decretos Regulamentares n.os [23/89](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/23-1989-619145) e [24/89](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/24-1989-619144), de 11 de Agosto)
 
-[(ver mapa no documento original)](https://files.diariodarepublica.pt/1s/1999/03/074b00/17461749.pdf)
+[[(ver mapa no documento original)](https://files.diariodarepublica.pt/1s/1999/03/074b00/17461749.pdf)](https://files.diariodarepublica.pt/1s/1999/03/074b00/17461749.pdf)

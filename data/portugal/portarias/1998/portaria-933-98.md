@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/933/1998/10/28/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/933-1998-239801
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2005-04-01T00:00:00Z'
+  retrieved_at: '2026-10-23T14:12:01Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 3a13289740175bccba9efe3b3c53bcead1cb271762434925cdc07cbcd52f5a82
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 1df2a374d428cc71d872a1ecad3b71978056813335e4c352995e867c0d43c9d5
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T14:12:01Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,17 +66,17 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Profissão Artística
-- Financiamento
 - Bolsa de Criação Literária
+- Bolsa de Estudos
 - Concurso
 - Cultura Portuguesa
-- Ministro da Cultura
+- Financiamento
 - Instituto Português do Livro e das Bibliotecas
 - Literatura
+- Ministro da Cultura
 - Política Cultural
+- Profissão Artística
 - Regulamento
-- Bolsa de Estudos
 - Regulamento para Atribuição de Bolsas de Criação Literária
 - Subsídio
 relationships:
@@ -88,16 +88,30 @@ relationships:
   target: eli:http://data.dre.pt/eli/port/517/1996/09/26/p/dre
   label: null
   source: http://data.dre.pt/eli/port/517/1996/09/26/p/dre
+- type: cites
+  target: pt:dre:214539:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:406114:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:564230:por
+  label: "Revogada a Port 517/96, de 26-Set, na redacção do presente diploma, pela PORT.361/2005.01.04.2005.MC, DR.IS-B [64]\
+    \ de 01.04.2005\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/361-2005-564230
+  date: '2005-04-01'
 article_structure:
-  article_count: 25
+  article_count: 18
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T14:12:01Z'
   warnings: []
   errors: []
 ---
@@ -130,7 +144,7 @@ Manda o Governo, pelo Ministro da Cultura, o seguinte:
 
 3 - Excepcionalmente, poderá ser ponderada a impossibilidade de desvinculação ou suspensão de actividade, mediante requerimento devidamente fundamentado a apresentar ao Instituto Português do Livro e das Bibliotecas, cuja proposta de decisão deverá ser homologada por despacho do Ministro da Cultura.
 
-###### Artigo 8.º
+Artigo 8.º
 
 1 - ...
 
@@ -158,7 +172,7 @@ a) Declaração, emitida pela competente repartição de finanças, comprovativa
 
 b) Declaração da segurança social comprovativa da inexistência de dívidas às instituições de segurança social da responsabilidade do candidato.
 
-###### Artigo 10.º
+Artigo 10.º
 
 1 - A selecção dos candidatos é da competência de um júri, constituído por cinco elementos, nomeados por despacho do Ministro da Cultura de entre personalidades de reconhecido mérito no domínio literário, um dos quais será o presidente.
 
@@ -168,21 +182,25 @@ b) Declaração da segurança social comprovativa da inexistência de dívidas �
 
 4 - (Anterior n.º 3.º)
 
-###### Artigo 13.º
+Artigo 13.º
 
 1 - A duração da bolsa coincide com o início e o termo do ano civil.
 
 2 - Excepcionalmente, em face de determinadas situações específicas, devidamente fundamentadas, o período de vigência da bolsa de criação literária poderá não coincidir com o previsto no número anterior.
 
-###### Artigo 14.º
+Artigo 14.º
 
 Finda a duração da bolsa, o bolseiro fará entrega no Instituto Português do Livro e das Bibliotecas de um exemplar da sua obra.
 
-###### Artigo 15.º — (Anterior artigo 14.º)
+Artigo 15.º
 
-###### Artigo 16.º — (Anterior artigo 15.º)
+(Anterior artigo 14.º)
 
-###### Artigo 17.º
+Artigo 16.º
+
+(Anterior artigo 15.º)
+
+Artigo 17.º
 
 (Anterior artigo 16.º)»
 
@@ -200,9 +218,9 @@ Finda a duração da bolsa, o bolseiro fará entrega no Instituto Português do 
 
 Ministério da Cultura.
 
-**Assinada em 6 de Outubro de 1998.**
+Assinada em 6 de Outubro de 1998.
 
-**O Ministro da Cultura, Manuel Maria Ferreira Carrilho.**
+O Ministro da Cultura, Manuel Maria Ferreira Carrilho.
 
 REGULAMENTO PARA ATRIBUIÇÃO DE BOLSAS DE CRIAÇÃO LITERÁRIA
 

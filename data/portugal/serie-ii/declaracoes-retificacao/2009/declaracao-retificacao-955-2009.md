@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/2s/2009/04/064000000/1234212342.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -46,18 +46,18 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/declaracao-rectificacao/955-2009-1142955
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2009-04-01T00:00:00Z'
+  retrieved_at: '2026-10-23T14:14:47Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: e0ed6d2370fe173b56e18c992dc9e1bb3a20dd75bd4a30cff918b7ec0e796934
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 15a175bc4c8fcf0b13c522695b4861a00d8cdc3f21a2d9da87f1d1ef82c50854
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T14:14:47Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -65,22 +65,26 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects: []
-relationships: []
+relationships:
+- type: cites
+  target: pt:dre:2113227:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T14:14:47Z'
   warnings: []
   errors: []
 ---
 
-# Declaração de Rectificação n.º 955/2009
+# Declaração de rectificação n.º 955/2009
 
 Rectificação ao aviso n.º 5734/2009, aviso de publicação da lista de classificação final dos candidatos ao concurso externo de ingresso para admissão de 983 Guardas, para o quadro permanente da Guarda Nacional Republicana, aberto pelo [Aviso n.º 13803/2008](https://diariodarepublica.pt/dr/detalhe/aviso/13803-2008-2113227), publicado no Diário da República n.º 87 (2.ª Série), de 06 de Maio de 2008.
 
@@ -115,3 +119,5 @@ Onde se lê: "(c) Candidatos com mais de dois anos de serviço militar efectivo 
 Deve ler-se: "c) Candidatos com mais de dois anos de serviço militar efectivo em 20MAI08."
 
 20 de Março de 2009. - O Comandante-Geral, Luís Nelson Ferreira dos Santos, tenente-general.
+
+201594683

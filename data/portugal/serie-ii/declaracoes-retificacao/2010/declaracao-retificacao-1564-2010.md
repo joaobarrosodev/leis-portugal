@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/2s/2010/08/150000000/4165841658.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -47,18 +47,18 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/declaracao-rectificacao/1564-2010-3437741
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2010-08-04T00:00:00Z'
+  retrieved_at: '2026-10-23T14:18:24Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 3166366e4d474069504228264d70138616cc5b67a27a991c45cfa35a7efed403
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: e0914ded8f3d21cf8a8b6886c4684139620aaf56e3a664e8cf46cd61d6765171
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T14:18:24Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,22 +66,30 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects: []
-relationships: []
+relationships:
+- type: cites
+  target: pt:dre:3326090:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:488485:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T14:18:24Z'
   warnings: []
   errors: []
 ---
 
-# Declaração de Rectificação n.º 1564/2010
+# Declaração de rectificação n.º 1564/2010
 
 Tendo o Regulamento Relativo ao Regime de Vinculação e Avaliação da Actividade Desenvolvida no Período Experimental, da Universidade Técnica de Lisboa, constante do [Despacho n.º 8022/2010](https://diariodarepublica.pt/dr/detalhe/despacho/8022-2010-3326090), de 29 de Abril de 2010, publicado no Diário da República, 2.ª série, n.º 88, de 6 de Maio de 2010, a pp. 24530 e 24531, sido publicado com inexactidões, procede-se à sua rectificação nos termos seguintes:
 
@@ -154,3 +162,5 @@ Prazos
 3 - O prazo que termine em domingo ou feriado transfere-se para o primeiro dia útil.»
 
 21 de Julho de 2010. - O Reitor, Fernando Ramôa Ribeiro.
+
+203543097

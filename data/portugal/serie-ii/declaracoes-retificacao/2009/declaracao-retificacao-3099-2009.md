@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/2s/2009/12/250000000/5250952509.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -47,18 +47,18 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/declaracao-rectificacao/3099-2009-3474581
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2009-12-29T00:00:00Z'
+  retrieved_at: '2026-10-23T14:10:56Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 6827760e8b9627cafca46ca7e796febe5f9f10c3bfb0dba659349117ab4ee948
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: ffa80ffc278bf17025da26cb6d5468735ccad7818ce01a8cf024472d67b729c2
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T14:10:56Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -70,13 +70,13 @@ relationships: []
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T14:10:56Z'
   warnings: []
   errors: []
 ---
@@ -88,3 +88,5 @@ Declaração de rectificação n.º 3099/2009
 Para os devidos efeitos se torna público que, por ter sido publicado com inexactidão o aviso n.º 21 739/2009, publicado no Diário da República, 2.ª série, n.º 233, de 2 de Dezembro de 2009, se procede à seguinte rectificação: onde se lê «para ocupação de 28 postos de trabalho na Carreira de Assistente Técnico na área de actividade de Assistente de Administração Escolar» deve ler-se «para ocupação de um posto de trabalho na carreira de assistente técnico na área de actividade de assistente de administração escolar».
 
 7 de Dezembro de 2009. - A Presidente da Câmara, Maria Isabel Fernandes da Silva Soares.
+
+302664611

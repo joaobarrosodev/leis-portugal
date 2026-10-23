@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/329/1999/05/12/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/329-1999-321950
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1999-05-12T00:00:00Z'
+  retrieved_at: '2026-10-23T14:14:42Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: d6863f079c2e448b649cf7731d3dcffc7571de0f54a26ddfed312ac54eb1058a
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: c52d7268d88097fa772eca6d979e24ae305c9a67620e8416bcfc7a1c78b5b6e3
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T14:14:42Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,27 +67,31 @@ reuse:
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
 - Apoio Técnico
+- Cgtp-in
 - Financiamento
-- Instituto do Emprego e Formação Profissional
 - Formação Profissional
 - Inovinter-centro de Formação e de Inovação Tecnológica
-- Cgtp-in
+- Instituto do Emprego e Formação Profissional
 - Modernização Tecnológica
 relationships:
 - type: cites
   target: eli:http://data.dre.pt/eli/port/407/1998/07/11/p/dre
   label: null
   source: http://data.dre.pt/eli/port/407/1998/07/11/p/dre
+- type: cites
+  target: pt:dre:484828:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T14:14:42Z'
   warnings: []
   errors: []
 ---

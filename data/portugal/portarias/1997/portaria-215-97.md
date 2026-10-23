@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/215/1997/04/01/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/215-1997-527424
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1998-01-10T00:00:00Z'
+  retrieved_at: '2026-10-23T14:01:22Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 51ffb25fdccbb98edfa8faabae1c358b4a11c844895f6bab522f73a85270f179
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: b94590d9a640e157ac502dc22973ae36bbf552c8fcca6bba6d849eb24b9c9b89
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T14:01:22Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -72,16 +72,37 @@ relationships:
   target: pt:dre:223189:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:223189:por
+  label: "Substituido o quadro de pessoal anexo, pela PORT.20/98.1998.01.10.PCM, DR.IS-B [8]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/20-1998-223189
+  date: '1998-01-10'
+- type: cites
+  target: pt:dre:183426:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:291808:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:378358:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:396679:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T14:01:22Z'
   warnings: []
   errors: []
 ---
@@ -96,7 +117,7 @@ Manda o Governo, pelos Ministros das Finanças, da Educação e Adjunto, que o q
 
 Presidência do Conselho de Ministros e Ministérios das Finanças e da Educação.
 
-**Assinada em 27 de Fevereiro de 1997.**
+Assinada em 27 de Fevereiro de 1997.
 
 Pelo Ministro das Finanças, Maria Manuela de Brito Arcanjo Marques da Costa, Secretária de Estado do Orçamento. - Pelo Ministro da Educação, Alfredo Jorge Silva, Secretário de Estado do Ensino Superior. - Pelo Ministro Adjunto, Fausto de Sousa Correia, Secretário de Estado da Administração Pública.
 
@@ -104,4 +125,4 @@ MAPA ANEXO
 
 Quadro do Observatório Astronómico de Lisboa da Faculdade de Ciências da Universidade de Lisboa
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1997/04/076b00/14391440.pdf))](https://files.diariodarepublica.pt/1s/1997/04/076b00/14391440.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1997/04/076b00/14391440.pdf)

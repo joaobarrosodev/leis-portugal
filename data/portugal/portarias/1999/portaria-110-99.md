@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/110/1999/02/08/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/110-1999-169236
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2004-08-10T00:00:00Z'
+  retrieved_at: '2026-10-23T14:13:02Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: b544f902879956a89086845f59e5b14f5e4416455359ee6d4bde539359869da9
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: b1efdc60fac3d2ac33b6b24f1eed4c337be29c887a47ac22ebdb85b3db4ce5a9
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T14:13:02Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -74,6 +74,19 @@ relationships:
   target: pt:dre:284075:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:545871:por
+  label: "Renovada por doze anos a concessão de zona de caça atribuída pela Port 508/91 de 06-Jun, com a redacção dada pela\
+    \ presente, pela PORT.444/2003.2003.05.29.MADRP DR.IS-B [124]\0]\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/444-2003-545871
+  date: '2003-05-29'
+- type: amended_by
+  target: pt:dre:284075:por
+  label: "Suspenso, pelo prazo máximo de nove meses, o exercício da caça e de actividades de carácter venatório na zona de\
+    \ caça associativa atribuída pela Port 508/91 de 06-Jun, na redacção d o presente diploma, pela Port.1033-AS/2004.10.08.2004.MADRP,\
+    \ DR.IS-B [187-Supl] de 10.08.2004\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/1033-as-2004-284075
+  date: '2004-08-10'
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/136/1996/08/14/p/dre
   label: null
@@ -82,16 +95,28 @@ relationships:
   target: eli:http://data.dre.pt/eli/port/508/1991/06/06/p/dre
   label: null
   source: http://data.dre.pt/eli/port/508/1991/06/06/p/dre
+- type: cites
+  target: pt:dre:219134:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:405765:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:633547:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T14:13:02Z'
   warnings: []
   errors: []
 ---
@@ -112,6 +137,6 @@ Manda o Governo, pelo Ministro da Agricultura, do Desenvolvimento Rural e das Pe
 
 Ministério da Agricultura, do Desenvolvimento Rural e das Pescas.
 
-**Assinada em 21 de Janeiro de 1999.**
+Assinada em 21 de Janeiro de 1999.
 
 Pelo Ministro da Agricultura, do Desenvolvimento Rural e das Pescas, Victor Manuel Coelho Barros, Secretário de Estado do Desenvolvimento Rural.

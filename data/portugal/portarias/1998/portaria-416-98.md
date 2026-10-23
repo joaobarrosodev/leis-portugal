@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1998/07/165b00/34843485.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/416/1998/07/20/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/416-1998-424335
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2015-10-12T00:00:00Z'
+  retrieved_at: '2026-10-23T14:08:45Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 71bfdbf8dcedd9baf2a3e04d4a725a0528ded37016f96ab98cb58810e34e64bf
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: c8142cfeba304d61fad3ce06a894d13df3a74bc2993547e44865348f33677018
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T14:08:45Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -65,12 +65,12 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Vinho
 - Denominação de Origem
-- Região Demarcada
 - Instituto da Vinha e do Vinho
 - Licenciamento
+- Região Demarcada
 - Vinha
+- Vinho
 - ZONA Vitivinícola
 relationships:
 - type: amended_by
@@ -85,16 +85,22 @@ relationships:
   target: celex:31987R0822
   label: null
   source: http://data.europa.eu/eli/reg/1987/822/oj
+- type: repealed_by
+  target: pt:dre:70509976:por
+  label: Revogada, com efeitos a 15.09.2015, pelo(a) Portaria n.º 348/2015 - Diário da República n.º 199/2015, Série I de
+    2015-10-12
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/348-2015-70509976
+  date: '2015-10-12'
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T14:08:45Z'
   warnings: []
   errors: []
 ---
@@ -171,6 +177,6 @@ b) Para a replantação:
 
 Ministério da Agricultura, do Desenvolvimento Rural e das Pescas.
 
-**Assinada em 2 de Julho de 1998.**
+Assinada em 2 de Julho de 1998.
 
 Pelo Ministro da Agricultura, do Desenvolvimento Rural e das Pescas, Manuel Maria Cardoso Leal, Secretário de Estado da Produção Agro-Alimentar.

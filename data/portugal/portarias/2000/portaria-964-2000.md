@@ -48,18 +48,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/964/2000/10/10/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/964-2000-544126
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2002-03-12T00:00:00Z'
+  retrieved_at: '2026-10-23T14:27:04Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 882a943ce5e470307bb2feb285d39ab48698ed134202544ddc75d13e45e7fb1a
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: e504a0fd429b7123cb2bf35cdab6c8d3b314a6139e08e660cac9494a859b1fa7
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T14:27:04Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -68,7 +68,6 @@ reuse:
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
 - Bacharelato
-- Plano de Estudos
 - Curso de Engenharia Electrotécnica-sistemas de Energia
 - Curso de Engenharia Electrotécnica-sistemas Eléctricos de Energia
 - Curso de Estudos Superiores Especializados em Engenharia Electrotécnica-comandos e Protecções
@@ -76,12 +75,18 @@ subjects:
 - Ensino Superior Politécnico
 - Instituto Superior de Engenharia
 - Licenciatura
+- Plano de Estudos
 - Porto
 relationships:
 - type: amended_by
   target: pt:dre:265492:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:265492:por
+  label: "Alterados os anexos I e II ao presente diploma, pela PORT.246/2002.2002.03.12.ME, DR.IS-B [60]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/246-2002-265492
+  date: '2002-03-12'
 - type: cites
   target: eli:http://data.dre.pt/eli/lei/115/1997/09/19/p/dre
   label: null
@@ -106,16 +111,60 @@ relationships:
   target: eli:http://data.dre.pt/eli/port/890/1991/08/30/p/dre
   label: null
   source: http://data.dre.pt/eli/port/890/1991/08/30/p/dre
+- type: cites
+  target: pt:dre:147873:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:222418:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:273991:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:355951:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:403709:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:429593:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:429596:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:453184:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:556606:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:618519:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:653145:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T14:27:04Z'
   warnings: []
   errors: []
 ---
@@ -166,7 +215,7 @@ Instituto Superior de Engenharia do Porto
 
 Curso de Engenharia Electrotécnica - Sistemas Eléctricos de Energia
 
-[(ver quadros no documento original)](https://files.diariodarepublica.pt/1s/2000/10/234b00/55975603.pdf)
+[[(ver quadros no documento original)](https://files.diariodarepublica.pt/1s/2000/10/234b00/55975603.pdf)](https://files.diariodarepublica.pt/1s/2000/10/234b00/55975603.pdf)
 
 ## ANEXO II — Instituto Politécnico do Porto
 
@@ -176,4 +225,4 @@ Curso de Engenharia Electrotécnica - Sistemas Eléctricos de Energia
 
 Regime nocturno
 
-[(ver quadros no documento original)](https://files.diariodarepublica.pt/1s/2000/10/234b00/55975603.pdf)
+[[(ver quadros no documento original)](https://files.diariodarepublica.pt/1s/2000/10/234b00/55975603.pdf)](https://files.diariodarepublica.pt/1s/2000/10/234b00/55975603.pdf)

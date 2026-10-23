@@ -19,7 +19,7 @@ publication:
   reference: Diário da República n.º 177/1999, 1º Suplemento, Série I-B de 1999-07-31
   number: '177'
   series: I
-  supplement: 1º Suplemento
+  supplement: null
   pages: 4966-(51) a 4966-(57)
   pdf_url: https://files.diariodarepublica.pt/1s/1999/07/177b01/00510057.pdf
 entry_into_force_dates: []
@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/583-f/1999/07/31/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/583-f-1999-249062
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2000-11-09T00:00:00Z'
+  retrieved_at: '2026-10-23T14:16:23Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: bce42164f600a89d088ad02045c687ab47039edfbc5221d21c4db7b0f0f54faa
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: ad8a0645027f38c49e41d698346e5dc07f9856ae71532bbad89e6d88527b85f6
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T14:16:23Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -65,8 +65,8 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Administração dos Portos de Setúbal e Sesimbra
 - Administração de Portos
+- Administração dos Portos de Setúbal e Sesimbra
 - Preço
 - Regulamento
 relationships:
@@ -78,16 +78,26 @@ relationships:
   target: eli:http://data.dre.pt/eli/dec-lei/200/1998/07/10/p/dre
   label: null
   source: http://data.dre.pt/eli/dec-lei/200/1998/07/10/p/dre
+- type: cites
+  target: pt:dre:485049:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:621964:por
+  label: "Revogada pelo DEC LEI.273/2000.2000.11.09.MES DR.IS-A [259], a partir da entrada em vigor das regulamentações referidas\
+    \ nos seus n.ºs 1 dos arts. 2.º e 3.º\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/273-2000-621964
+  date: '2000-11-09'
 article_structure:
   article_count: 26
   section_count: 8
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T14:16:23Z'
   warnings: []
   errors: []
 ---
@@ -108,7 +118,7 @@ Manda o Governo, pelo Ministro do Equipamento, do Planeamento e da Administraç�
 
 2.º O presente Regulamento entra em vigor no dia 1 de Janeiro de 2000.
 
-**O Ministro do Equipamento, do Planeamento e da Administração do Território, João Cardona Gomes Cravinho, em 19 de Julho de 1999.**
+O Ministro do Equipamento, do Planeamento e da Administração do Território, João Cardona Gomes Cravinho, em 19 de Julho de 1999.
 
 REGULAMENTO DE TARIFAS DA ADMINISTRAÇÃO DOS PORTOS DE SETÚBAL E SESIMBRA, S. A.
 
@@ -184,7 +194,7 @@ b) A TUP/carga é aplicada por tonelada ou unidade de carga em correspondência 
 
 1 - A tarifa de uso do porto a cobrar aos navios e embarcações é calculada por unidade de arqueação bruta (GT), por período indivisível de vinte e quatro horas e por tipo de navio, sendo expressa em escudos, de acordo com o quadro seguinte:
 
-[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/1999/07/177b01/00510057.pdf)
+[[[[[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/1999/07/177b01/00510057.pdf)](https://files.diariodarepublica.pt/1s/1999/07/177b01/00510057.pdf)](https://files.diariodarepublica.pt/1s/1999/07/177b01/00510057.pdf)](https://files.diariodarepublica.pt/1s/1999/07/177b01/00510057.pdf)](https://files.diariodarepublica.pt/1s/1999/07/177b01/00510057.pdf)
 
 2 - A TUP/navio aplicável aos navios-tanques destinados ao transporte de ramas e produtos petrolíferos com tanques de lastro segregado será calculada em função da arqueação bruta reduzida.
 
@@ -196,7 +206,7 @@ b) Embarcações de recreio e marítimo-turísticas que não utilizem os locais 
 
 4 - As embarcações de tráfego fluvial, local e costeiro registadas nos portos de Setúbal e Sesimbra poderão optar por avenças de estadia fixadas por unidade da raiz quadrada da arqueação bruta (GT) e pelos períodos indivisíveis seguintes:
 
-[(ver tabela no documento original)](https://files.diariodarepublica.pt/1s/1999/07/177b01/00510057.pdf)
+[[[[[[[(ver tabela no documento original)](https://files.diariodarepublica.pt/1s/1999/07/177b01/00510057.pdf)](https://files.diariodarepublica.pt/1s/1999/07/177b01/00510057.pdf)](https://files.diariodarepublica.pt/1s/1999/07/177b01/00510057.pdf)](https://files.diariodarepublica.pt/1s/1999/07/177b01/00510057.pdf)](https://files.diariodarepublica.pt/1s/1999/07/177b01/00510057.pdf)](https://files.diariodarepublica.pt/1s/1999/07/177b01/00510057.pdf)](https://files.diariodarepublica.pt/1s/1999/07/177b01/00510057.pdf)
 
 5 - Para efeitos da aplicação da taxa de uso do porto-navio, a contagem de tempo inicia-se e termina, respectivamente, quando o navio entra e sai do porto, salvo se o navio pretender prolongar o tempo de estadia em porto após o término das operações de movimentação de cargas ou passageiros, situação em que a contagem de tempo termina no momento em que é solicitado o prolongamento da estadia, havendo nesse caso, lugar à aplicação da tarifa de estacionamento prevista no capítulo III do presente Regulamento.
 
@@ -222,7 +232,7 @@ d) De 5% para navios em serviço de baldeação conforme previsto no artigo 18.�
 
 Taxa de uso do porto para carga
 
-[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/1999/07/177b01/00510057.pdf)
+[[[[[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/1999/07/177b01/00510057.pdf)](https://files.diariodarepublica.pt/1s/1999/07/177b01/00510057.pdf)](https://files.diariodarepublica.pt/1s/1999/07/177b01/00510057.pdf)](https://files.diariodarepublica.pt/1s/1999/07/177b01/00510057.pdf)](https://files.diariodarepublica.pt/1s/1999/07/177b01/00510057.pdf)
 
 2 - Estão isentas da taxa de uso do porto as cargas referidas no artigo 20.º do RST.
 
@@ -292,7 +302,7 @@ f) Taxa de serviço de pilotagem à ordem das embarcações.
 
 a) Os coeficientes (Cn) a aplicar nos portos de Setúbal e Sesimbra são os que constam do quadro seguinte:
 
-[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/1999/07/177b01/00510057.pdf)
+[[[[[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/1999/07/177b01/00510057.pdf)](https://files.diariodarepublica.pt/1s/1999/07/177b01/00510057.pdf)](https://files.diariodarepublica.pt/1s/1999/07/177b01/00510057.pdf)](https://files.diariodarepublica.pt/1s/1999/07/177b01/00510057.pdf)](https://files.diariodarepublica.pt/1s/1999/07/177b01/00510057.pdf)
 
 b) A unidade de pilotagem (UP) é de 980$00;
 
@@ -340,21 +350,21 @@ b) As embarcações propriedade de entidades que prossigam interesses públicos 
 
 1 - Pela armazenagem de cargas a descoberto em terraplenos, sem prejuízo do disposto nos números seguintes, são devidas, por metro quadrado e dia indivisível, as taxas seguintes:
 
-[(ver tabela no documento original)](https://files.diariodarepublica.pt/1s/1999/07/177b01/00510057.pdf)
+[[[[[[[(ver tabela no documento original)](https://files.diariodarepublica.pt/1s/1999/07/177b01/00510057.pdf)](https://files.diariodarepublica.pt/1s/1999/07/177b01/00510057.pdf)](https://files.diariodarepublica.pt/1s/1999/07/177b01/00510057.pdf)](https://files.diariodarepublica.pt/1s/1999/07/177b01/00510057.pdf)](https://files.diariodarepublica.pt/1s/1999/07/177b01/00510057.pdf)](https://files.diariodarepublica.pt/1s/1999/07/177b01/00510057.pdf)](https://files.diariodarepublica.pt/1s/1999/07/177b01/00510057.pdf)
 
 2 - Pela armazenagem de contentores nos terraplenos e terminais são devidas, por unidade e dia indivisível, as taxas seguintes:
 
-[(ver tabela no documento original)](https://files.diariodarepublica.pt/1s/1999/07/177b01/00510057.pdf)
+[[[[[[[(ver tabela no documento original)](https://files.diariodarepublica.pt/1s/1999/07/177b01/00510057.pdf)](https://files.diariodarepublica.pt/1s/1999/07/177b01/00510057.pdf)](https://files.diariodarepublica.pt/1s/1999/07/177b01/00510057.pdf)](https://files.diariodarepublica.pt/1s/1999/07/177b01/00510057.pdf)](https://files.diariodarepublica.pt/1s/1999/07/177b01/00510057.pdf)](https://files.diariodarepublica.pt/1s/1999/07/177b01/00510057.pdf)](https://files.diariodarepublica.pt/1s/1999/07/177b01/00510057.pdf)
 
 3 - As taxas do número anterior são aplicadas desde o dia de entrada do contentor em parque até ao dia do seu levantamento.
 
 4 - Pela armazenagem de carga ro-ro nos terraplenos e terminais são devidas, por metro quadrado e dia indivisível, as seguintes taxas:
 
-[(ver tabela no documento original)](https://files.diariodarepublica.pt/1s/1999/07/177b01/00510057.pdf)
+[[[[[[[(ver tabela no documento original)](https://files.diariodarepublica.pt/1s/1999/07/177b01/00510057.pdf)](https://files.diariodarepublica.pt/1s/1999/07/177b01/00510057.pdf)](https://files.diariodarepublica.pt/1s/1999/07/177b01/00510057.pdf)](https://files.diariodarepublica.pt/1s/1999/07/177b01/00510057.pdf)](https://files.diariodarepublica.pt/1s/1999/07/177b01/00510057.pdf)](https://files.diariodarepublica.pt/1s/1999/07/177b01/00510057.pdf)](https://files.diariodarepublica.pt/1s/1999/07/177b01/00510057.pdf)
 
 5 - Pela armazenagem de cargas em armazéns e a coberto são devidas, por metro cúbico e dia indivisível, as taxas seguintes:
 
-[(ver tabela no documento original)](https://files.diariodarepublica.pt/1s/1999/07/177b01/00510057.pdf)
+[[[[[[[(ver tabela no documento original)](https://files.diariodarepublica.pt/1s/1999/07/177b01/00510057.pdf)](https://files.diariodarepublica.pt/1s/1999/07/177b01/00510057.pdf)](https://files.diariodarepublica.pt/1s/1999/07/177b01/00510057.pdf)](https://files.diariodarepublica.pt/1s/1999/07/177b01/00510057.pdf)](https://files.diariodarepublica.pt/1s/1999/07/177b01/00510057.pdf)](https://files.diariodarepublica.pt/1s/1999/07/177b01/00510057.pdf)](https://files.diariodarepublica.pt/1s/1999/07/177b01/00510057.pdf)
 
 6 - A APSS, S. A., poderá reservar áreas cobertas ou descobertas, em condições especiais a fixar, sendo devida uma taxa por metro cúbico ou metro quadrado em função da categoria da carga, do tipo de espaço e do tempo de armazenagem.
 
@@ -374,19 +384,19 @@ b) As embarcações propriedade de entidades que prossigam interesses públicos 
 
 Pelo uso de equipamento de manobra e transporte marítimo, bem como das instalações e estruturas afectas a este equipamento, são devidas, por unidade e período de tempo indivisível, segundo o tipo, as taxas constantes do quadro seguinte:
 
-[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/1999/07/177b01/00510057.pdf)
+[[[[[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/1999/07/177b01/00510057.pdf)](https://files.diariodarepublica.pt/1s/1999/07/177b01/00510057.pdf)](https://files.diariodarepublica.pt/1s/1999/07/177b01/00510057.pdf)](https://files.diariodarepublica.pt/1s/1999/07/177b01/00510057.pdf)](https://files.diariodarepublica.pt/1s/1999/07/177b01/00510057.pdf)
 
 ###### Artigo 22.º — Equipamento de manobra e transporte terrestre
 
 Pelo uso de equipamento de manobra e transporte terrestre, bem como das instalações e estruturas afectas a este equipamento, são devidas, por unidade e período de tempo indivisível, segundo o tipo, as taxas constantes do quadro seguinte:
 
-[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/1999/07/177b01/00510057.pdf)
+[[[[[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/1999/07/177b01/00510057.pdf)](https://files.diariodarepublica.pt/1s/1999/07/177b01/00510057.pdf)](https://files.diariodarepublica.pt/1s/1999/07/177b01/00510057.pdf)](https://files.diariodarepublica.pt/1s/1999/07/177b01/00510057.pdf)](https://files.diariodarepublica.pt/1s/1999/07/177b01/00510057.pdf)
 
 ###### Artigo 23.º — Equipamento de combate à poluição, incêndios e de conservação do ambiente
 
 1 - Pelo uso de equipamento de combate à poluição e incêndios e de conservação do ambiente são devidas, por unidade e período indivisível, segundo o tipo, as seguintes taxas:
 
-[(ver tabela no documento original)](https://files.diariodarepublica.pt/1s/1999/07/177b01/00510057.pdf)
+[[[[[[[(ver tabela no documento original)](https://files.diariodarepublica.pt/1s/1999/07/177b01/00510057.pdf)](https://files.diariodarepublica.pt/1s/1999/07/177b01/00510057.pdf)](https://files.diariodarepublica.pt/1s/1999/07/177b01/00510057.pdf)](https://files.diariodarepublica.pt/1s/1999/07/177b01/00510057.pdf)](https://files.diariodarepublica.pt/1s/1999/07/177b01/00510057.pdf)](https://files.diariodarepublica.pt/1s/1999/07/177b01/00510057.pdf)](https://files.diariodarepublica.pt/1s/1999/07/177b01/00510057.pdf)
 
 2 - As taxas estabelecidas no número anterior não contemplam o fornecimento de pessoal e meios necessários à colocação do equipamento em serviço, à sua operação e levantamento, nem os custos referentes à limpeza do material após utilização, os quais serão debitados de acordo com as tarifas de uso de equipamento e fornecimento de pessoal, ou pelo valor facturado pelo prestador de serviços, acrescido de 20%.
 
@@ -418,7 +428,7 @@ iii) Taxa de fornecimentos temporários -35$00/kWH.
 
 b) As taxas de potência pelo fornecimento de energia eléctrica são as seguintes:
 
-[(ver tabela no documento original)](https://files.diariodarepublica.pt/1s/1999/07/177b01/00510057.pdf)
+[[[[[[[(ver tabela no documento original)](https://files.diariodarepublica.pt/1s/1999/07/177b01/00510057.pdf)](https://files.diariodarepublica.pt/1s/1999/07/177b01/00510057.pdf)](https://files.diariodarepublica.pt/1s/1999/07/177b01/00510057.pdf)](https://files.diariodarepublica.pt/1s/1999/07/177b01/00510057.pdf)](https://files.diariodarepublica.pt/1s/1999/07/177b01/00510057.pdf)](https://files.diariodarepublica.pt/1s/1999/07/177b01/00510057.pdf)](https://files.diariodarepublica.pt/1s/1999/07/177b01/00510057.pdf)
 
 c) As taxas de fornecimento a contentores frigoríficos é de 2520$00 por contentor e por dia indivisível.
 

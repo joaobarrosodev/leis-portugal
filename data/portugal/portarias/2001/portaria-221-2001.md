@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2001/03/064b00/15051506.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/221/2001/03/16/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/221-2001-387652
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2001-12-29T00:00:00Z'
+  retrieved_at: '2026-10-23T14:30:55Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 283671aadebe204d35989d00c107aa0cfcf6c0715e7ae0b1ebab8c5ece8cb24a
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 7eddccb09f55f52e46efdad519af7ad52bbc4f69cf6ee8adfba7d38e63550834
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T14:30:55Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,11 +66,11 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Plano de Estudos
-- Formação de Professores
 - Escola Superior de Educação
-- Lisboa
 - Estabelecimento de Ensino
+- Formação de Professores
+- Lisboa
+- Plano de Estudos
 relationships:
 - type: amended_by
   target: pt:dre:399226:por
@@ -92,16 +92,49 @@ relationships:
   target: eli:http://data.dre.pt/eli/port/760-a/1998/09/14/p/dre
   label: null
   source: http://data.dre.pt/eli/port/760-a/1998/09/14/p/dre
+- type: cites
+  target: pt:dre:222418:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:302098:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:438070:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:453184:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:556606:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:651148:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:653145:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:399226:por
+  label: "Revogada pela PORT.1466/2001.2001.12.29.ME, DR.IS-B [300]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/1466-2001-399226
+  date: '2001-12-29'
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T14:30:55Z'
   warnings: []
   errors: []
 ---
@@ -150,10 +183,10 @@ QUADRO N.º 1
 
 1.º ano
 
-[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2001/03/064b00/15051506.pdf)
+[[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2001/03/064b00/15051506.pdf)](https://files.diariodarepublica.pt/1s/2001/03/064b00/15051506.pdf)
 
 QUADRO N.º 2
 
 2.º ano
 
-[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2001/03/064b00/15051506.pdf)
+[[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2001/03/064b00/15051506.pdf)](https://files.diariodarepublica.pt/1s/2001/03/064b00/15051506.pdf)

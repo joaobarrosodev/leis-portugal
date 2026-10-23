@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/620/1998/08/28/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/620-1998-448284
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1998-08-28T00:00:00Z'
+  retrieved_at: '2026-10-23T14:10:10Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 9b68352b4af2fc579693c09109eaa33c081c6fe37068179a7bce445d62746b05
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 42b974b79fe429a250b81bbfaccff1514c19fac9542ce652ab203b586063d180
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T14:10:10Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,17 +66,17 @@ reuse:
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
 - Conservador
-- Serviços de Registo e Notariado
 - Conservatória do Registo Predial
 - Direcção Geral dos Registos e do Notariado
-- Registo Automóvel
 - Faro
-- Lisboa
 - Gondomar
+- Lisboa
 - Oliveira de Azeméis
-- Quadro de Pessoal
-- Registo Nacional de Pessoas Coletivas
 - Porto
+- Quadro de Pessoal
+- Registo Automóvel
+- Registo Nacional de Pessoas Coletivas
+- Serviços de Registo e Notariado
 relationships:
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/129/1998/05/13/p/dre
@@ -86,16 +86,24 @@ relationships:
   target: eli:http://data.dre.pt/eli/dec-lei/253/1996/12/26/p/dre
   label: null
   source: http://data.dre.pt/eli/dec-lei/253/1996/12/26/p/dre
+- type: cites
+  target: pt:dre:145872:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:522842:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T14:10:10Z'
   warnings: []
   errors: []
 ---
@@ -114,6 +122,6 @@ Manda o Governo, pelo Ministro da Justiça, ao abrigo do disposto nos artigos 1.
 
 Ministério da Justiça.
 
-**Assinada em 7 de Agosto de 1998.**
+Assinada em 7 de Agosto de 1998.
 
 Pelo Ministro da Justiça, José Luís Lopes da Mota, Secretário de Estado da Justiça.

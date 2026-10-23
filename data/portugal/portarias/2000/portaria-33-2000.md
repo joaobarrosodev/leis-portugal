@@ -49,18 +49,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/33/2000/01/28/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/33-2000-405716
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2007-07-17T00:00:00Z'
+  retrieved_at: '2026-10-23T14:22:56Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 11ceb5230acc8bb84e6353342bef1995a7b329e261e78edcf69d1f4d8c5ae18b
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: b49476f8c2fb9563b83764c431f74f34e22724580bf5c68064f8726d755eb902
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T14:22:56Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -68,21 +68,21 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Produto Alimentar
 - Alvará
 - Armazenagem
-- Região Autónoma
-- Multa
-- Estabelecimento Comercial
 - Contra-ordenação
-- Saúde Pública
+- Estabelecimento Comercial
 - Fiscalização
-- Licenciamento
 - Licença de Construção
 - Licença de Utilização
+- Licenciamento
+- Multa
 - Normas de Segurança
 - Prestação de Serviços
+- Produto Alimentar
+- Região Autónoma
 - Regulamento Geral de Higiene Segurança do Trabalho nos Estabelecimentos Comerciais
+- Saúde Pública
 - Segurança dos Edifícios
 - Serviço Nacional de Bombeiros
 relationships:
@@ -94,16 +94,26 @@ relationships:
   target: eli:http://data.dre.pt/eli/dec-lei/370/1999/09/18/p/dre
   label: null
   source: http://data.dre.pt/eli/dec-lei/370/1999/09/18/p/dre
+- type: cites
+  target: pt:dre:569888:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:636179:por
+  label: "Revogada a partir de 16.08.2007 pelo DEC LEI.259/2007.17.07.2007.MEI, DR.IS [136] de 17.07.2007, sem prejuízo do\
+    \ disposto no art. 13º daquele diploma\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/259-2007-636179
+  date: '2007-07-17'
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T14:22:56Z'
   warnings: []
   errors: []
 ---
@@ -124,16 +134,16 @@ Manda o Governo, pelos Ministros Adjunto, da Administração Interna, da Economi
 
 Em 28 de Dezembro de 1999.
 
-**O Ministro Adjunto, Fernando Manuel dos Santos Gomes. - O Ministro da Administração Interna, Fernando Manuel dos Santos Gomes. - Pelo Ministro da Economia, Osvaldo Alberto do Rosário Sarmento e Castro, Secretário de Estado do Comércio e Serviços. - O Ministro da Agricultura, do Desenvolvimento Rural e das Pescas, Luís Manuel Capoulas Santos. - A Ministra da Saúde, Maria Manuela de Brito Arcanjo Marques da Costa.**
+O Ministro Adjunto, Fernando Manuel dos Santos Gomes. - O Ministro da Administração Interna, Fernando Manuel dos Santos Gomes. - Pelo Ministro da Economia, Osvaldo Alberto do Rosário Sarmento e Castro, Secretário de Estado do Comércio e Serviços. - O Ministro da Agricultura, do Desenvolvimento Rural e das Pescas, Luís Manuel Capoulas Santos. - A Ministra da Saúde, Maria Manuela de Brito Arcanjo Marques da Costa.
 
 ## ANEXO I — (capítulo II do [Decreto-Lei n.º 370/99](https://diariodarepublica.pt/dr/detalhe/decreto-lei/370-1999-569888), de 18 de Setembro)
 
-[(ver tabela no documento original)](https://files.diariodarepublica.pt/1s/2000/01/023b00/03770378.pdf)
+[[[(ver tabela no documento original)](https://files.diariodarepublica.pt/1s/2000/01/023b00/03770378.pdf)](https://files.diariodarepublica.pt/1s/2000/01/023b00/03770378.pdf)](https://files.diariodarepublica.pt/1s/2000/01/023b00/03770378.pdf)
 
 ## ANEXO II — (capítulo III do [Decreto-Lei n.º 370/99](https://diariodarepublica.pt/dr/detalhe/decreto-lei/370-1999-569888), de 18 de Setembro)
 
-[(ver tabela no documento original)](https://files.diariodarepublica.pt/1s/2000/01/023b00/03770378.pdf)
+[[[(ver tabela no documento original)](https://files.diariodarepublica.pt/1s/2000/01/023b00/03770378.pdf)](https://files.diariodarepublica.pt/1s/2000/01/023b00/03770378.pdf)](https://files.diariodarepublica.pt/1s/2000/01/023b00/03770378.pdf)
 
 ## ANEXO III — (capítulo IV do [Decreto-Lei n.º 370/99](https://diariodarepublica.pt/dr/detalhe/decreto-lei/370-1999-569888), de 18 de Setembro)
 
-[(ver tabela no documento original)](https://files.diariodarepublica.pt/1s/2000/01/023b00/03770378.pdf)
+[[[(ver tabela no documento original)](https://files.diariodarepublica.pt/1s/2000/01/023b00/03770378.pdf)](https://files.diariodarepublica.pt/1s/2000/01/023b00/03770378.pdf)](https://files.diariodarepublica.pt/1s/2000/01/023b00/03770378.pdf)

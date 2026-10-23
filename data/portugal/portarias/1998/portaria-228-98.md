@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/228/1998/04/11/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/228-1998-167404
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1998-04-20T00:00:00Z'
+  retrieved_at: '2026-10-23T14:07:29Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 6ac4d5922a2875219d65e57b091353dbe3a86c635938b655cb7599d4ebe4f01b
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 4a7f1facfe9963c43e6ce2e576c2661f1f231bacc03d59911e1ba54d25f2fe77
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T14:07:29Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -68,9 +68,9 @@ reuse:
 subjects:
 - Administração de Portos
 - Junta Autónoma dos Portos
+- Portos
 - Regulamento
 - Regulamento de Tarifas das Juntas Autónomas dos Portos
-- Portos
 - Tarifa Portuária
 relationships:
 - type: amended_by
@@ -81,16 +81,33 @@ relationships:
   target: eli:http://data.dre.pt/eli/port/69/1994/02/01/p/dre
   label: null
   source: http://data.dre.pt/eli/port/69/1994/02/01/p/dre
+- type: cites
+  target: pt:dre:348336:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:377542:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:599755:por
+  label: null
+  source: null
+- type: corrected_by
+  target: pt:dre:668497:por
+  label: "Rectificada pela DECL-RECT.9-H/98.1998.04.20.PCM DR.IS-B [100]2ºSupl de 30/Abr/1998\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/declaracao-rectificacao/9-h-1998-668497
+  date: '1998-04-20'
 article_structure:
-  article_count: 4
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T14:07:29Z'
   warnings: []
   errors: []
 ---
@@ -143,7 +160,9 @@ Por cada mês - 2$00.
 
 2 - ...
 
-###### Artigo 62.º — Taxas
+Artigo 62.º
+
+Taxas
 
 1 - As embarcações que acostem aos cais, pontes-cais, estacadas, duques-de-alba e quaisquer outras instalações na área de jurisdição das administrações portuárias estão sujeitas ao pagamento das seguintes taxas por cada período, indivisível, de vinte e quatro horas:
 
@@ -163,7 +182,9 @@ T = unidades de arqueação bruta (GT);
 
 L = comprimento de fora a fora das embarcações, em metros.
 
-###### Artigo 64.º — Embarcações de pesca local e costeira, de tráfego local e de navegação costeira - Taxas
+Artigo 64.º
+
+Embarcações de pesca local e costeira, de tráfego local e de navegação costeira - Taxas
 
 1 - As embarcações de pesca local e costeira, de tráfego local e de navegação costeira, nas obras especificamente destinadas à sua actividade e para realização de operações de carga, descarga ou abastecimento, pagarão, por acostagem, a seguinte taxa:
 
@@ -173,7 +194,9 @@ Por cada 50 GT ou fracção - 156$50.
 
 3 - ...
 
-###### Artigo 66.º — Avenças
+Artigo 66.º
+
+Avenças
 
 1 - Às embarcações de pesca local e costeira, de tráfego local, de navegação costeira nacional e de cabotagem entre ilhas do mesmo arquipélago, de 10 GT a 500 GT, podem ser concedidas avenças, a requerimento dos interessados, para acostagem a obras destinadas às suas actividades específicas e para utilização de docas de marés, mediante o pagamento das seguintes taxas:
 
@@ -215,7 +238,9 @@ Trimestral - 5$00.
 
 4 - Pode ser concedida aos armadores de embarcações de tráfego local e de pesca local e costeira avença para lugar fixo nas protecções marginais, mediante taxa anual de 7567$00.
 
-###### Artigo 83.º — Taxas
+Artigo 83.º
+
+Taxas
 
 1 - As taxas de porto a cobrar são as seguintes:
 
@@ -253,6 +278,6 @@ f) ...
 
 Ministério do Equipamento, do Planeamento e da Administração do Território.
 
-**Assinada em 20 de Março de 1998.**
+Assinada em 20 de Março de 1998.
 
-**O Ministro do Equipamento, do Planeamento e da Administração do Território, João Cardona Gomes Cravinho.**
+O Ministro do Equipamento, do Planeamento e da Administração do Território, João Cardona Gomes Cravinho.

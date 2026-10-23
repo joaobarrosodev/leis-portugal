@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/2s/2010/06/122000000/3507535075.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -46,18 +46,18 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/declaracao-rectificacao/1243-2010-3393125
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2010-06-25T00:00:00Z'
+  retrieved_at: '2026-10-23T14:16:28Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 9055e27490099547e77ab029a14a4f66c9b6e078120536ef4a7d06400014ec7b
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 62fc17bcf7a942f5576599b340e04ad43293f3c7dda10fa8f66cf74a97b77800
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T14:16:28Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -69,13 +69,13 @@ relationships: []
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T14:16:28Z'
   warnings: []
   errors: []
 ---
@@ -86,10 +86,12 @@ Declaração de rectificação n.º 1243/2010
 
 Por ter saído com inexactidão o aviso n.º 12178/2010, publicado no Diário da República, 2.ª série, n.º 117, de 18 de Junho de 2010, onde se lê:
 
-[([ver documento original](https://files.diariodarepublica.pt/2s/2010/06/122000000/3507535075.pdf))](https://files.diariodarepublica.pt/2s/2010/06/122000000/3507535075.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/2s/2010/06/122000000/3507535075.pdf)
 
 deve ler-se:
 
-[([ver documento original](https://files.diariodarepublica.pt/2s/2010/06/122000000/3507535075.pdf))](https://files.diariodarepublica.pt/2s/2010/06/122000000/3507535075.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/2s/2010/06/122000000/3507535075.pdf)
 
 21 de Junho de 2010. - O Director, Luís Manuel Taveira Pereira.
+
+203399128

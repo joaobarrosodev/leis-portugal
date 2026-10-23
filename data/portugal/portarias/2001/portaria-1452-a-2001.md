@@ -19,7 +19,7 @@ publication:
   reference: Diário da República n.º 298/2001, 3º Suplemento, Série I-B de 2001-12-27
   number: '298'
   series: I
-  supplement: 3º Suplemento
+  supplement: null
   pages: 8496-(784) a 8496-(787)
   pdf_url: https://files.diariodarepublica.pt/1s/2001/12/298b03/07840787.pdf
 entry_into_force_dates: []
@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/1452-a/2001/12/27/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/1452-a-2001-508237
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2001-12-27T00:00:00Z'
+  retrieved_at: '2026-10-23T14:30:14Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 1309c274d1c5a7f853da4333f25a0ecac75fb4a2fda060c08f05967ea3c375a6
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 73552e65815ddb79ed45925802873ad15b7956cfae88291dad8b379c35251e77
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T14:30:14Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -65,12 +65,12 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Financiamento
-- Produção Cinematográfica
-- ICAM
-- JURO Bonificado
 - Cinema
+- Financiamento
+- ICAM
 - Indústria Cinematográfica
+- JURO Bonificado
+- Produção Cinematográfica
 - Subsídio não Reembolsável
 relationships:
 - type: cites
@@ -101,16 +101,44 @@ relationships:
   target: eli:http://data.dre.pt/eli/port/86/1996/03/18/p/dre
   label: null
   source: http://data.dre.pt/eli/port/86/1996/03/18/p/dre
+- type: cites
+  target: pt:dre:144631:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:187745:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:214537:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:534039:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:627259:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:645305:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:660080:por
+  label: null
+  source: null
 article_structure:
   article_count: 12
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T14:30:14Z'
   warnings: []
   errors: []
 ---
@@ -219,7 +247,7 @@ o) ...»
 
 7.º O presente diploma entra em vigor no dia seguinte ao da sua publicação.
 
-**O Ministro da Cultura, Augusto Ernesto Santos Silva, em 14 de Dezembro de 2001.**
+O Ministro da Cultura, Augusto Ernesto Santos Silva, em 14 de Dezembro de 2001.
 
 ## ANEXO — REGIME TRANSITÓRIO DE APOIO FINANCEIRO À EXIBIÇÃO CINEMATOGRÁFICA
 

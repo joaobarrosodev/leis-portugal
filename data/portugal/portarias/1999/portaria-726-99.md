@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/726/1999/08/24/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/726-1999-433787
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1999-08-24T00:00:00Z'
+  retrieved_at: '2026-10-23T14:17:19Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 9f6d9ac750450155e59b6fd17e1458b4326ea35c006fafa8761dfe918d54eb31
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 53cf942a06614c421e0c7b8956e396202ca3f1a3b2ddd20f3bf4e90ec2ca8247
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T14:17:19Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,9 +66,9 @@ reuse:
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
 - CAÇA
+- Espécie Protegida
 - Licença de Caça
 - Proteção do Ambiente
-- Espécie Protegida
 - Zona de Proteção
 relationships:
 - type: cites
@@ -79,16 +79,24 @@ relationships:
   target: eli:http://data.dre.pt/eli/dec-lei/392/1991/10/10/p/dre
   label: null
   source: http://data.dre.pt/eli/dec-lei/392/1991/10/10/p/dre
+- type: cites
+  target: pt:dre:288063:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:405765:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T14:17:19Z'
   warnings: []
   errors: []
 ---
@@ -119,4 +127,4 @@ Manda o Governo, pela Ministra do Ambiente, o seguinte:
 
 3.º As infracções ao disposto na presente portaria constituem infracções de caça, nos termos do capítulo XIII do [Decreto-Lei n.º 136/96](https://diariodarepublica.pt/dr/detalhe/decreto-lei/136-1996-405765), de 14 de Agosto.
 
-**A Ministra do Ambiente, Elisa Maria da Costa Guimarães Ferreira, em 26 de Julho de 1999.**
+A Ministra do Ambiente, Elisa Maria da Costa Guimarães Ferreira, em 26 de Julho de 1999.

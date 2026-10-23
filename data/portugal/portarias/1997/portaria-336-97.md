@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/336/1997/05/16/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/336-1997-396750
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1997-05-16T00:00:00Z'
+  retrieved_at: '2026-10-23T14:02:07Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: f6699b804259a749d297ccb243604c89816f8a2958adf6bc747a3e043f34e9f2
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 7d7184ff3617c5d968c72fd7e8520d00d7d2b09e2a161bfb94e5570c92f9b676
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T14:02:07Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,11 +67,19 @@ reuse:
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
 - Ordenamento do Território
-- Política de Solos
 - Plano de Pormenor
+- Política de Solos
 - Regulamento
 - Viseu
 relationships:
+- type: amended_by
+  target: pt:dre:72953646:por
+  label: Tornado público ter sido aprovada a alteração por adaptação e Correção Material Incidente sobre o Plano de Pormenor
+    da Zona Envolvente da Circunvalação e 1.ª Circular Sul (Jugueiros) e da Zona do Novo Hospital Distrital de Viseu - UOPG
+    1.12. (Lotes n.os 215, 216, 217, 218, 219, E 325), ratificado pela Port 468/93 de 04-mai, com as alterações ratificadas
+    pelo presente diploma, pelo(a) Aviso n.º 14982/2015 - Diário da República n.º 249/2015, Série II de 2015-12-22
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/aviso/14982-2015-72953646
+  date: '2015-12-22'
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/211/1992/10/08/p/dre
   label: null
@@ -100,16 +108,52 @@ relationships:
   target: eli:http://data.dre.pt/eli/port/468/1993/05/04/p/dre
   label: null
   source: http://data.dre.pt/eli/port/468/1993/05/04/p/dre
+- type: cites
+  target: pt:dre:219080:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:223400:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:228186:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:274014:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:308715:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:332412:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:407290:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:584256:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:645280:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T14:02:07Z'
   warnings: []
   errors: []
 ---
@@ -132,9 +176,9 @@ Manda o Governo, pelo Secretário de Estado da Administração Local e Ordenamen
 
 Ministério do Equipamento, do Planeamento e da Administração do Território.
 
-**Assinada em 10 de Abril de 1997.**
+Assinada em 10 de Abril de 1997.
 
-**O Secretário de Estado da Administração Local e Ordenamento do Território, José Augusto de Carvalho.**
+O Secretário de Estado da Administração Local e Ordenamento do Território, José Augusto de Carvalho.
 
 REGULAMENTO DO PLANO DE PORMENOR DA ZONA ENVOLVENTE DA CIRCUNVALAÇÃO, DA 1.ª CIRCULAR SUL (JUGUEIROS) E DA ZONA DO NOVO HOSPITAL DISTRITAL DE VISEU
 
@@ -184,4 +228,4 @@ A diferença de cota do conjunto comercial/habitacional não poderá exceder, em
 
 O quadro e a planta de síntese indicam as zonas afectadas às funções referidas em epígrafe, que integrarão o domínio municipal, nos termos do [Decreto-Lei n.º 448/91](https://diariodarepublica.pt/dr/detalhe/decreto-lei/448-1991-308715), de 29 de Novembro, com as alterações que lhe foram introduzidas pelo [Decreto-Lei n.º 334/95](https://diariodarepublica.pt/dr/detalhe/decreto-lei/334-1995-645280), de 28 de Dezembro, e pela [Lei n.º 26/96](https://diariodarepublica.pt/dr/detalhe/lei/26-1996-407290), de 1 de Agosto, salvo as correspondentes aos lotes n.os 313 e 314, que serão objecto de promoção privada e nos termos que a entidade de tutela considere mais conveniente.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1997/05/113b00/24422445.pdf))](https://files.diariodarepublica.pt/1s/1997/05/113b00/24422445.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1997/05/113b00/24422445.pdf)

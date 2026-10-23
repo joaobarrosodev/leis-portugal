@@ -21,7 +21,7 @@ publication:
   reference: Diário da República n.º 264/2001, 1º Suplemento, Série I-B de 2001-11-14
   number: '264'
   series: I
-  supplement: 1º Suplemento
+  supplement: null
   pages: 7272-(2) a 7272-(3)
   pdf_url: https://files.diariodarepublica.pt/1s/2001/11/264b01/00020003.pdf
 entry_into_force_dates: []
@@ -48,18 +48,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/1279-b/2001/11/14/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/1279-b-2001-690977
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2006-12-21T00:00:00Z'
+  retrieved_at: '2026-10-23T14:29:09Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 506deb55195477fd3160066aa18941571d81e709fdda303691da5716287d016e
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: fc38a76a2193b20c4bf70ddbcafdacfea44df8bffdd6f465d9f6c40d6f5093f8
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T14:29:09Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -74,6 +74,12 @@ relationships:
   target: pt:dre:552302:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:552302:por
+  label: "Anexados vários prédios rústicos à zona de caça atribuída pela Port 195/91 de 09-Mar, renovada no presente diploma,\
+    \ pela PORT.1424/2006.21.12.2006.MADRP, DR.IS [244] de 21.12.2006\006\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/1424-2006-552302
+  date: '2006-12-21'
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/227-b/2000/09/15/p/dre
   label: null
@@ -86,16 +92,33 @@ relationships:
   target: eli:http://data.dre.pt/eli/port/195/1991/03/09/p/dre
   label: null
   source: http://data.dre.pt/eli/port/195/1991/03/09/p/dre
+- type: cites
+  target: pt:dre:254450:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:457435:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:534644:por
+  label: null
+  source: null
+- type: corrected_by
+  target: pt:dre:456825:por
+  label: "Rectificada pela DECL-RECT.20-AV/2001.2001.11.30.PCM, DR.IS-B [248]4ºSupl\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/declaracao-rectificacao/20-av-2001-456825
+  date: '2001-11-30'
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T14:29:09Z'
   warnings: []
   errors: []
 ---

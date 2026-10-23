@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/31/2001/01/17/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/31-2001-338600
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2004-08-26T00:00:00Z'
+  retrieved_at: '2026-10-23T14:31:24Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: c96ed00547de80dad9728c022b212f0e8e8fefa03dbd89faf02f1bde86469333
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 580ecdd7b0fd93417bc744621526c0d996197ff3bddfc024bef6fb4964c59af0
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T14:31:24Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -77,6 +77,13 @@ relationships:
   target: pt:dre:626048:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:626048:por
+  label: "Substituído o mapa do anexo I do Regulamento Orgânico e de Funcionamento da Direcção-Geral das Alfândegas e dos\
+    \ Impostos Especiais sobre o Consumo, aprovado pela Port 705-A/2000 de 31-Ago, na redacção do presente diploma, pela PORT.1067/2004.26.08.2004.MF,\
+    \ DR.IS-B [201] de 26.08.2004\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/1067-2004-626048
+  date: '2004-08-26'
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/360/1999/09/16/p/dre
   label: null
@@ -85,16 +92,24 @@ relationships:
   target: eli:http://data.dre.pt/eli/port/705-a/2000/08/31/p/dre
   label: null
   source: http://data.dre.pt/eli/port/705-a/2000/08/31/p/dre
+- type: cites
+  target: pt:dre:570293:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:586390:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T14:31:24Z'
   warnings: []
   errors: []
 ---
@@ -117,4 +132,4 @@ Manda o Governo, pelo Ministro das Finanças, ao abrigo do disposto no artigo 17
 
 4.º É rectificado o mapa anexo I a que se refere o artigo 20.º do Regulamento Orgânico e de Funcionamento da DGAIEC, anexo à [Portaria n.º 705-A/2000](https://diariodarepublica.pt/dr/detalhe/portaria/705-a-2000-586390), de 31 de Agosto, em conformidade com os n.os 1 e 3 anteriores.
 
-**O Ministro das Finanças, Joaquim Augusto Nunes Pina Moura, em 27 de Dezembro de 2000.**
+O Ministro das Finanças, Joaquim Augusto Nunes Pina Moura, em 27 de Dezembro de 2000.

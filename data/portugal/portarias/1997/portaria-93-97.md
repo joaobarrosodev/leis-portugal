@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1997/02/032b00/06540655.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/93/1997/02/07/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/93-1997-559025
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2002-12-17T00:00:00Z'
+  retrieved_at: '2026-10-23T14:05:53Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 4aec51a54b390be8c59243400064aba68b82d42593ac530111ac3f599bac46dd
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 59f0866a7b9cf4e3b7a9513b69bb6f4d906eacf21ba73840f275d58824163878
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T14:05:53Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,15 +66,15 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Imposto sobre Produtos Petrolíferos
+- Combustível
 - Controlo de Qualidade
 - Direcção Geral das Alfândegas
-- Petróleo
-- Produto Petrolífero
-- Combustível
 - Gasóleo
+- Imposto sobre Produtos Petrolíferos
 - Isenção Fiscal
 - ÓLEO Mineral
+- Petróleo
+- Produto Petrolífero
 - Regulamento
 relationships:
 - type: amended_by
@@ -97,16 +97,41 @@ relationships:
   target: eli:http://data.dre.pt/eli/port/200/1996/06/05/p/dre
   label: null
   source: http://data.dre.pt/eli/port/200/1996/06/05/p/dre
+- type: cites
+  target: pt:dre:262354:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:262357:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:437434:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:468783:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:642497:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:405907:por
+  label: "Revogada pela PORT.1509/2002.2002.12.17.MF DR.IS-B [291]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/1509-2002-405907
+  date: '2002-12-17'
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T14:05:53Z'
   warnings: []
   errors: []
 ---
@@ -147,9 +172,9 @@ Manda o Governo, pelo Ministro das Finanças, ao abrigo do n.º 5 do artigo 7.º
 
 Ministério das Finanças.
 
-**Assinada em 23 de Janeiro de 1997.**
+Assinada em 23 de Janeiro de 1997.
 
-**O Ministro das Finanças, António Luciano Pacheco de Sousa Franco.**
+O Ministro das Finanças, António Luciano Pacheco de Sousa Franco.
 
 ## ANEXO
 

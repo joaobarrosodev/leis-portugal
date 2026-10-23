@@ -48,18 +48,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/62/1998/02/14/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/62-1998-231574
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1998-02-14T00:00:00Z'
+  retrieved_at: '2026-10-23T14:10:10Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 130f4f6a7eee5f8f9882f536179a132c83fc698dc473daad78c5208dd7c7d000
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 8e59b4e214c77d0da0bca547a397ce5e2bcd871e9468b198c9f338e28738a6f0
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T14:10:10Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,33 +67,45 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Ensino Artístico
-- Plano de Estudos
 - Curso de Estudos Superiores Especializados em Acompanhamento ao Piano
 - Curso de Estudos Superiores Especializados em Canto Gregoriano
 - Curso de Estudos Superiores Especializados em Composição
 - Curso de Estudos Superiores Especializados em Direcção Coral
 - Curso de Estudos Superiores Especializados em Interpretação
 - Curso de Estudos Superiores Especializados em Técnico de Audio
+- Ensino Artístico
 - Ensino Superior Politécnico
 - Escola Superior de Música
-- Lisboa
 - Instituto Politécnico
+- Lisboa
+- Plano de Estudos
 relationships:
 - type: cites
   target: eli:http://data.dre.pt/eli/port/108/1997/02/17/p/dre
   label: null
   source: http://data.dre.pt/eli/port/108/1997/02/17/p/dre
+- type: cites
+  target: pt:dre:453184:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:500715:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:556606:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T14:10:10Z'
   warnings: []
   errors: []
 ---
@@ -126,7 +138,7 @@ As alterações aprovadas pela presente portaria aplicam-se a partir do ano lect
 
 Ministério da Educação.
 
-**Assinada em 15 de Janeiro de 1998.**
+Assinada em 15 de Janeiro de 1998.
 
 Pelo Ministro da Educação, Alfredo Jorge Silva, Secretário de Estado do Ensino Superior.
 
@@ -138,7 +150,7 @@ Escola Superior de Música
 
 Curso de estudos superiores especializados em Interpretação (todas as áreas excepto Canto)
 
-[(ver quadros no documento original)](https://files.diariodarepublica.pt/1s/1998/02/038b00/05830587.pdf)
+[[[[[[[(ver quadros no documento original)](https://files.diariodarepublica.pt/1s/1998/02/038b00/05830587.pdf)](https://files.diariodarepublica.pt/1s/1998/02/038b00/05830587.pdf)](https://files.diariodarepublica.pt/1s/1998/02/038b00/05830587.pdf)](https://files.diariodarepublica.pt/1s/1998/02/038b00/05830587.pdf)](https://files.diariodarepublica.pt/1s/1998/02/038b00/05830587.pdf)](https://files.diariodarepublica.pt/1s/1998/02/038b00/05830587.pdf)](https://files.diariodarepublica.pt/1s/1998/02/038b00/05830587.pdf)
 
 ## ANEXO II — ([Portaria n.º 108/97](https://diariodarepublica.pt/dr/detalhe/portaria/108-1997-500715), de 17 de Fevereiro - alteração)
 
@@ -148,7 +160,7 @@ Escola Superior de Música
 
 Curso de estudos superiores especializados em Interpretação (área de Canto)
 
-[(ver quadros no documento original)](https://files.diariodarepublica.pt/1s/1998/02/038b00/05830587.pdf)
+[[[[[[[(ver quadros no documento original)](https://files.diariodarepublica.pt/1s/1998/02/038b00/05830587.pdf)](https://files.diariodarepublica.pt/1s/1998/02/038b00/05830587.pdf)](https://files.diariodarepublica.pt/1s/1998/02/038b00/05830587.pdf)](https://files.diariodarepublica.pt/1s/1998/02/038b00/05830587.pdf)](https://files.diariodarepublica.pt/1s/1998/02/038b00/05830587.pdf)](https://files.diariodarepublica.pt/1s/1998/02/038b00/05830587.pdf)](https://files.diariodarepublica.pt/1s/1998/02/038b00/05830587.pdf)
 
 ## ANEXO III — ([Portaria n.º 108/97](https://diariodarepublica.pt/dr/detalhe/portaria/108-1997-500715), de 17 de Fevereiro - alteração)
 
@@ -158,7 +170,7 @@ Escola Superior de Música
 
 Curso de estudos superiores especializados em Acompanhamento ao Piano
 
-[(ver quadros no documento original)](https://files.diariodarepublica.pt/1s/1998/02/038b00/05830587.pdf)
+[[[[[[[(ver quadros no documento original)](https://files.diariodarepublica.pt/1s/1998/02/038b00/05830587.pdf)](https://files.diariodarepublica.pt/1s/1998/02/038b00/05830587.pdf)](https://files.diariodarepublica.pt/1s/1998/02/038b00/05830587.pdf)](https://files.diariodarepublica.pt/1s/1998/02/038b00/05830587.pdf)](https://files.diariodarepublica.pt/1s/1998/02/038b00/05830587.pdf)](https://files.diariodarepublica.pt/1s/1998/02/038b00/05830587.pdf)](https://files.diariodarepublica.pt/1s/1998/02/038b00/05830587.pdf)
 
 ## ANEXO IV — ([Portaria n.º 108/97](https://diariodarepublica.pt/dr/detalhe/portaria/108-1997-500715), de 17 de Fevereiro - alteração)
 
@@ -168,7 +180,7 @@ Escola Superior de Música
 
 Curso de estudos superiores especializados em Composição
 
-[(ver quadros no documento original)](https://files.diariodarepublica.pt/1s/1998/02/038b00/05830587.pdf)
+[[[[[[[(ver quadros no documento original)](https://files.diariodarepublica.pt/1s/1998/02/038b00/05830587.pdf)](https://files.diariodarepublica.pt/1s/1998/02/038b00/05830587.pdf)](https://files.diariodarepublica.pt/1s/1998/02/038b00/05830587.pdf)](https://files.diariodarepublica.pt/1s/1998/02/038b00/05830587.pdf)](https://files.diariodarepublica.pt/1s/1998/02/038b00/05830587.pdf)](https://files.diariodarepublica.pt/1s/1998/02/038b00/05830587.pdf)](https://files.diariodarepublica.pt/1s/1998/02/038b00/05830587.pdf)
 
 ## ANEXO V — ([Portaria n.º 108/97](https://diariodarepublica.pt/dr/detalhe/portaria/108-1997-500715), de 17 de Fevereiro - alteração)
 
@@ -178,7 +190,7 @@ Escola Superior de Música
 
 Curso de estudos superiores especializados em Direcção Coral
 
-[(ver quadros no documento original)](https://files.diariodarepublica.pt/1s/1998/02/038b00/05830587.pdf)
+[[[[[[[(ver quadros no documento original)](https://files.diariodarepublica.pt/1s/1998/02/038b00/05830587.pdf)](https://files.diariodarepublica.pt/1s/1998/02/038b00/05830587.pdf)](https://files.diariodarepublica.pt/1s/1998/02/038b00/05830587.pdf)](https://files.diariodarepublica.pt/1s/1998/02/038b00/05830587.pdf)](https://files.diariodarepublica.pt/1s/1998/02/038b00/05830587.pdf)](https://files.diariodarepublica.pt/1s/1998/02/038b00/05830587.pdf)](https://files.diariodarepublica.pt/1s/1998/02/038b00/05830587.pdf)
 
 ## ANEXO VI — ([Portaria n.º 108/97](https://diariodarepublica.pt/dr/detalhe/portaria/108-1997-500715), de 17 de Fevereiro - alteração)
 
@@ -188,7 +200,7 @@ Escola Superior de Música
 
 Curso de estudos superiores especializados em Canto Gregoriano
 
-[(ver quadros no documento original)](https://files.diariodarepublica.pt/1s/1998/02/038b00/05830587.pdf)
+[[[[[[[(ver quadros no documento original)](https://files.diariodarepublica.pt/1s/1998/02/038b00/05830587.pdf)](https://files.diariodarepublica.pt/1s/1998/02/038b00/05830587.pdf)](https://files.diariodarepublica.pt/1s/1998/02/038b00/05830587.pdf)](https://files.diariodarepublica.pt/1s/1998/02/038b00/05830587.pdf)](https://files.diariodarepublica.pt/1s/1998/02/038b00/05830587.pdf)](https://files.diariodarepublica.pt/1s/1998/02/038b00/05830587.pdf)](https://files.diariodarepublica.pt/1s/1998/02/038b00/05830587.pdf)
 
 ## ANEXO VII — ([Portaria n.º 108/97](https://diariodarepublica.pt/dr/detalhe/portaria/108-1997-500715), de 17 de Fevereiro - alteração)
 
@@ -198,4 +210,4 @@ Escola Superior de Música
 
 Curso de estudos superiores especializados de Técnico de Áudio
 
-[(ver quadros no documento original)](https://files.diariodarepublica.pt/1s/1998/02/038b00/05830587.pdf)
+[[[[[[[(ver quadros no documento original)](https://files.diariodarepublica.pt/1s/1998/02/038b00/05830587.pdf)](https://files.diariodarepublica.pt/1s/1998/02/038b00/05830587.pdf)](https://files.diariodarepublica.pt/1s/1998/02/038b00/05830587.pdf)](https://files.diariodarepublica.pt/1s/1998/02/038b00/05830587.pdf)](https://files.diariodarepublica.pt/1s/1998/02/038b00/05830587.pdf)](https://files.diariodarepublica.pt/1s/1998/02/038b00/05830587.pdf)](https://files.diariodarepublica.pt/1s/1998/02/038b00/05830587.pdf)

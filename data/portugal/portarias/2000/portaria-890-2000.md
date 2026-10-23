@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/890/2000/09/27/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/890-2000-561248
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2010-09-15T00:00:00Z'
+  retrieved_at: '2026-10-23T14:26:36Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: f97a5ddf745c525bb605c23fc0cba8026498f52cc233ab9c1a6cb1d7892ae26e
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: bb4ed6b0b51d973234810147c231e4ae38dd42147b0b6109cc6a3b504d40c8d2
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T14:26:36Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -73,6 +73,30 @@ relationships:
   target: pt:dre:341818:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:143306:por
+  label: "Anexados vários prédios rústicos pela PORT.799/2002.2002.07.04.MECO DR.IS-B [152]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/799-2002-143306
+  date: '2002-07-04'
+- type: amended_by
+  target: pt:dre:216162:por
+  label: "Alterada o nº 2º da Port 799/2002 de 04-Jul, que anexou vários prédios rústicos à zona de caça concedida pelo presente\
+    \ diploma, pela PORT.239/2003.2003.03.18.MECO DR.IS-B [65]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/239-2003-216162
+  date: '2003-03-18'
+- type: amended_by
+  target: pt:dre:223829:por
+  label: "Anexados vários prédios rústicos à zona de caça, com a redacção das Port 799/2002 de 04-Jul e 239/2003 de 18-Mar,\
+    \ pela PORT.386/2004.16.04.2004.MECO, DR.IS-B [90] de 16.04.2004\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/386-2004-223829
+  date: '2004-04-16'
+- type: amended_by
+  target: pt:dre:341818:por
+  label: "Renovada pelo período de doze anos, com efeitos a 28.09.2010, a concessão (cuja área é reduzida) da zona de caça\
+    \ atribuída pelo presente diploma, posteriormente alterada pelas Port 799/2002 de 04-Jul, 239/2003 de 18-Mar e 386/2004\
+    \ de 16-Abr, pela PORT.906/2010.15.09.2010.MADRP, DR.IS [180] de 15.09.2010\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/906-2010-341818
+  date: '2010-09-15'
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/136/1996/08/14/p/dre
   label: null
@@ -81,16 +105,36 @@ relationships:
   target: eli:http://data.dre.pt/eli/port/219-a/1991/03/18/p/dre
   label: null
   source: http://data.dre.pt/eli/port/219-a/1991/03/18/p/dre
+- type: cites
+  target: pt:dre:219134:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:354162:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:405765:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:619925:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:620697:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T14:26:36Z'
   warnings: []
   errors: []
 ---

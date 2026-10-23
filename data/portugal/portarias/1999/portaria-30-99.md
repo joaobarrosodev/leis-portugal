@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/30/1999/01/20/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/30-1999-197153
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2005-04-04T00:00:00Z'
+  retrieved_at: '2026-10-23T14:14:32Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: d64f66d50a459176edd2ac95f46125c3dc3c84c507adcd4230d1463c350d0773
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: b9ea1d2d40a42f253e111b840b0c6a86db2e1b8a57509e2405a103f1a4320c3e
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T14:14:32Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -65,13 +65,13 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Plano de Estudos
 - Curso de Medicina Dentária
 - Ensino Cooperativo
 - Ensino Particular
+- Ensino Superior
 - Licenciatura
 - Numerus Clausus
-- Ensino Superior
+- Plano de Estudos
 - Porto
 - Universidade Fernando Pessoa
 relationships:
@@ -79,6 +79,18 @@ relationships:
   target: pt:dre:563258:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:391647:por
+  label: "Alterado o Anexo do presente diploma pela PORT.1556/2002.2002.12.30.MCES, DR.IS-B [301]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/1556-2002-391647
+  date: '2002-12-30'
+- type: amended_by
+  target: pt:dre:563258:por
+  label: "Alterado o plano de estudos do curso de licenciatura em Medicina Dentária da Universidade Fernando Pessoa aprovado\
+    \ pelo presente diploma, alterado pela Port 1556/2002, de 30-Dez, pela PORT.369/2005.04.04.2005.MCIES, DR.IS-B [65] de\
+    \ 04.04.2005\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/369-2005-563258
+  date: '2005-04-04'
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/107/1996/07/31/p/dre
   label: null
@@ -95,16 +107,32 @@ relationships:
   target: eli:http://data.dre.pt/eli/lei/37/1994/11/11/p/dre
   label: null
   source: http://data.dre.pt/eli/lei/37/1994/11/11/p/dre
+- type: cites
+  target: pt:dre:314396:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:406885:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:512030:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:533820:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T14:14:32Z'
   warnings: []
   errors: []
 ---
@@ -175,7 +203,7 @@ O número de vagas para a candidatura à matrícula e inscrição no ano lectivo
 
 Ministério da Educação.
 
-**Assinada em 28 de Dezembro de 1998.**
+Assinada em 28 de Dezembro de 1998.
 
 Pelo Ministro da Educação, Alfredo Jorge Silva, Secretário de Estado do Ensino Superior.
 

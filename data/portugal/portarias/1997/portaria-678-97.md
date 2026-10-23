@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/678/1997/08/12/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/678-1997-202471
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1997-08-12T00:00:00Z'
+  retrieved_at: '2026-10-23T14:04:13Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 434389a54cb4c9874413865400432dbc894d0507aefd66ad61073743dfff5355
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 540673adc3b4d3eb69e65de62eed2a9ffdbac081c50c115921204d10582d7a71
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T14:04:13Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,9 +66,9 @@ reuse:
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
 - Bacharelato
-- Plano de Estudos
 - Curso de Enfermagem
 - Escola Superior de Enfermagem da Imaculada Conceição
+- Plano de Estudos
 - Porto
 relationships:
 - type: cites
@@ -79,16 +79,32 @@ relationships:
   target: eli:http://data.dre.pt/eli/lei/37/1994/11/11/p/dre
   label: null
   source: http://data.dre.pt/eli/lei/37/1994/11/11/p/dre
+- type: cites
+  target: pt:dre:512030:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:533820:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:572661:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:618546:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T14:04:13Z'
   warnings: []
   errors: []
 ---
@@ -127,7 +143,7 @@ O regime de transição entre o anterior plano de estudos e o plano de estudos a
 
 Ministério da Educação.
 
-**Assinada em 17 de Julho de 1997.**
+Assinada em 17 de Julho de 1997.
 
 Pelo Ministro da Educação, Alfredo Jorge Silva, Secretário de Estado do Ensino Superior.
 
@@ -137,4 +153,4 @@ Curso: Enfermagem
 
 Grau: bacharel
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1997/08/185b00/42044205.pdf))](https://files.diariodarepublica.pt/1s/1997/08/185b00/42044205.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1997/08/185b00/42044205.pdf)

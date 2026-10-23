@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/309/1999/05/08/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/309-1999-331008
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2010-12-21T00:00:00Z'
+  retrieved_at: '2026-10-23T14:14:37Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 23636a1b58eb20c88560d750e5cf8b5155c2113342a972d96ecaa997a59c8cb4
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 791d08e0ede9f986ee2a05ce48e771d0bb77602f227c93746542b53bd09779a9
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T14:14:37Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -73,6 +73,18 @@ relationships:
   target: pt:dre:306453:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:673611:por
+  label: "Anexados vários prédios rústicos à zona de caça turística criada pelo presente diploma pela PORT.878/99.1999.10.09.MECO,DR.IS-B\
+    \ [236]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/878-1999-673611
+  date: '1999-10-09'
+- type: amended_by
+  target: pt:dre:306453:por
+  label: "Renovada por doze anos, com efeitos a partir de 09.05.2011, a concessão da zona de caça atribuída pelo presente\
+    \ diploma, alterada pela Port 878/99 de 09-Out, pela PORT.1300/2010.21.12.2010.MADRP, DR.IS [245] de 21.12.2010\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/1300-2010-306453
+  date: '2010-12-21'
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/136/1996/08/14/p/dre
   label: null
@@ -81,16 +93,36 @@ relationships:
   target: eli:http://data.dre.pt/eli/port/219-a/1991/03/18/p/dre
   label: null
   source: http://data.dre.pt/eli/port/219-a/1991/03/18/p/dre
+- type: cites
+  target: pt:dre:219134:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:354162:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:405765:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:619925:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:620697:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T14:14:37Z'
   warnings: []
   errors: []
 ---
@@ -117,7 +149,7 @@ Manda o Governo, pelos Ministros da Economia e da Agricultura, do Desenvolviment
 
 5.º Os prédios rústicos que integram esta zona de caça turística, nos termos do disposto no artigo 72.º do [Decreto-Lei n.º 136/96](https://diariodarepublica.pt/dr/detalhe/decreto-lei/136-1996-405765), para efeitos de polícia e fiscalização da caça, ficam submetidos ao regime florestal, devendo a mesma ser fiscalizada por um guarda florestal auxiliar, com observância do disposto no n.º 7.º, n.os 2 e 3, da [Portaria n.º 219-A/91](https://diariodarepublica.pt/dr/detalhe/portaria/219-a-1991-620697).
 
-**Assinada em 20 de Abril de 1999.**
+Assinada em 20 de Abril de 1999.
 
 Pelo Ministro da Economia, Vítor José Cabrita Neto, Secretário de Estado do Turismo. - Pelo Ministro da Agricultura, do Desenvolvimento Rural e das Pescas, Victor Manuel Coelho Barros, Secretário de Estado do Desenvolvimento Rural.
 

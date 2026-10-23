@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/2s/2009/06/117000000/2424024240.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -47,18 +47,18 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/declaracao-rectificacao/1535-2009-3632399
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2009-06-19T00:00:00Z'
+  retrieved_at: '2026-10-23T14:01:42Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: e7efc9949ea28f1bc621fd64fb65878e594c3506ba16c9c307385404bf2e6ffb
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 9a76de51f626895b6d429c96281ed579550426d291c7c7c136554f55421fd646
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T14:01:42Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,23 +66,29 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects: []
-relationships: []
+relationships:
+- type: cites
+  target: pt:dre:812100:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T14:01:42Z'
   warnings: []
   errors: []
 ---
 
-# Declaração de Rectificação n.º 1535/2009
+# Declaração de rectificação n.º 1535/2009
 
 Por ter havido inexactidão no [Despacho (extracto) n.º 11780/2009](https://diariodarepublica.pt/dr/detalhe/despacho-extracto/11780-2009-812100), publicado no Diário da República, 2.ª Série, n.º 94, de 15 de Maio de 2009, na página 19167, onde se lê "... Fernanda Manuela Cardoso Marques Ferreira Semedo...", deve ler-se "... Fernanda Manuela Cardoso Marques Ferreira...".
 
 29 de Maio de 2009. - A Subdirectora-Geral, Julieta Nunes.
+
+201904118

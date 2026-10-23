@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1998/09/219b00/49144927.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/792/1998/09/22/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/792-1998-241658
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2006-12-18T00:00:00Z'
+  retrieved_at: '2026-10-23T14:11:11Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 696686da49af981568ba223678d2f2aaed3506830536d61a2999168560e57888
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 52d867cd01997c3305f5fa821f27867bf5395f6d1b94bce73d801478cc3a72ee
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T14:11:11Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -65,16 +65,22 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Gestão de Resíduos
-- Proteção do Ambiente
-- Poluição Industrial
 - Catálogo Europeu de Resíduos
 - Eliminação de Resíduos
+- Gestão de Resíduos
+- Poluição Industrial
+- Proteção do Ambiente
 relationships:
 - type: amended_by
   target: pt:dre:552356:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:540016:por
+  label: "Mantidos em vigor o presente diploma e demais actos complementares pelo DEC LEI.178/2006.05.09.2006.MAOTDR, DR.IS\
+    \ [171] de 05.09.2006, até à entrada em vigor das portarias regulamentares nele previstas\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/178-2006-540016
+  date: '2006-09-05'
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/239/1997/09/09/p/dre
   label: null
@@ -87,16 +93,38 @@ relationships:
   target: eli:http://data.dre.pt/eli/resolconsmin/98/1997/06/25/p/dre
   label: null
   source: http://data.dre.pt/eli/resolconsmin/98/1997/06/25/p/dre
+- type: cites
+  target: pt:dre:163469:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:184175:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:644295:por
+  label: null
+  source: null
+- type: corrected_by
+  target: pt:dre:235756:por
+  label: "Rectificada pela DECL-RECT.19-L/98.1998.10.30.PCM,DR.IS-B [252]3ºSUPL\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/declaracao-rectificacao/19-l-1998-235756
+  date: '1998-10-30'
+- type: repealed_by
+  target: pt:dre:552356:por
+  label: "Revogada pela PORT.1408/2006.18.12.2006.MAOTDR, DR.IS [241] de 18.12.2006\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/1408-2006-552356
+  date: '2006-12-18'
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T14:11:11Z'
   warnings: []
   errors: []
 ---
@@ -133,8 +161,8 @@ Manda o Governo, pelos Ministros da Economia, da Agricultura, do Desenvolvimento
 
 Ministérios da Economia, da Agricultura, do Desenvolvimento Rural e das Pescas e do Ambiente.
 
-**Assinada em 14 de Julho de 1998.**
+Assinada em 14 de Julho de 1998.
 
-**O Ministro da Economia, Joaquim Augusto Nunes de Pina Moura. - O Ministro da Agricultura, do Desenvolvimento Rural e das Pescas, Fernando Manuel Van-Zeller Gomes da Silva. - A Ministra do Ambiente, Elisa Maria da Costa Guimarães Ferreira.**
+O Ministro da Economia, Joaquim Augusto Nunes de Pina Moura. - O Ministro da Agricultura, do Desenvolvimento Rural e das Pescas, Fernando Manuel Van-Zeller Gomes da Silva. - A Ministra do Ambiente, Elisa Maria da Costa Guimarães Ferreira.
 
 [(ver modelos e anexos no documento original)](https://files.diariodarepublica.pt/1s/1998/09/219b00/49144927.pdf)

@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/203/1999/03/25/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/203-1999-138104
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1999-03-25T00:00:00Z'
+  retrieved_at: '2026-10-23T14:13:53Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: e70242aed6172cbf0bc8be656ea0bd92d26e36851cef43b9e280a417efc253a1
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: e7d0e0a7339002451e25f7d9c2496e566fcd46cd6bb0387d1e4d337715a3f341
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T14:13:53Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,24 +67,36 @@ reuse:
 subjects:
 - Carreira de Técnico Auxiliar
 - Descrição de Funções
-- Quadro de Pessoal
-- Ministério dos Negócios Estrangeiros
 - Gestão de Recursos Humanos
+- Ministério dos Negócios Estrangeiros
+- Quadro de Pessoal
 relationships:
 - type: cites
   target: eli:http://data.dre.pt/eli/port/3/1998/01/06/p/dre
   label: null
   source: http://data.dre.pt/eli/port/3/1998/01/06/p/dre
+- type: cites
+  target: pt:dre:225398:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:421442:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:505986:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T14:13:53Z'
   warnings: []
   errors: []
 ---
@@ -103,7 +115,7 @@ Manda o Governo, pelos Ministros dos Negócios Estrangeiros, das Finanças e Adj
 
 2.º O conteúdo funcional da carreira de técnico auxiliar consta do mapa II anexo à presente portaria, de que faz parte integrante.
 
-**O Ministro dos Negócios Estrangeiros, Jaime José Matos da Gama, em 30 de Dezembro de 1998. - Pelo Ministro das Finanças, João Carlos da Costa Ferreira da Silva, Secretário de Estado do Orçamento, em 22 de Fevereiro de 1999. - Pelo Ministro Adjunto, Fausto de Sousa Correia, Secretário de Estado da Administração Pública e da Modernização Administrativa, em 6 de Janeiro de 1999.**
+O Ministro dos Negócios Estrangeiros, Jaime José Matos da Gama, em 30 de Dezembro de 1998. - Pelo Ministro das Finanças, João Carlos da Costa Ferreira da Silva, Secretário de Estado do Orçamento, em 22 de Fevereiro de 1999. - Pelo Ministro Adjunto, Fausto de Sousa Correia, Secretário de Estado da Administração Pública e da Modernização Administrativa, em 6 de Janeiro de 1999.
 
 MAPA I
 

@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/930/1997/09/12/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/930-1997-650314
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1997-09-12T00:00:00Z'
+  retrieved_at: '2026-10-23T14:05:53Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 5e7723d7c7c815e3dc99059c1c3c16a4112a02b632947b0521a2d54047e403ee
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 67d94939b020ac9ef8ad59274e8e394f057c28d0bb73f33766e7aa3ca2449d50
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T14:05:53Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,24 +67,32 @@ reuse:
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
 - Função Pública
-- Sistema Retributivo
 - Remuneração
 - Serviço de Informações Estratégicas de Defesa e Militares
+- Sistema Retributivo
 relationships:
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/254/1995/09/30/p/dre
   label: null
   source: http://data.dre.pt/eli/dec-lei/254/1995/09/30/p/dre
+- type: cites
+  target: pt:dre:575726:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:609807:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T14:05:53Z'
   warnings: []
   errors: []
 ---
@@ -109,6 +117,6 @@ Ao abrigo do n.º 3 do artigo 34.º do [Decreto-Lei n.º 254/95](https://diariod
 
 Presidência do Conselho de Ministros e Ministério das Finanças.
 
-**Assinada em 1 de Agosto de 1997.**
+Assinada em 1 de Agosto de 1997.
 
-**O Primeiro-Ministro, em exercício, António Manuel de Carvalho Ferreira Vitorino. - O Ministro das Finanças, António Luciano Pacheco de Sousa Franco.**
+O Primeiro-Ministro, em exercício, António Manuel de Carvalho Ferreira Vitorino. - O Ministro das Finanças, António Luciano Pacheco de Sousa Franco.

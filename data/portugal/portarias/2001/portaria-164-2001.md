@@ -48,18 +48,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/164/2001/03/07/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/164-2001-400992
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2004-03-11T00:00:00Z'
+  retrieved_at: '2026-10-23T14:30:32Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 71a0d2e8d66c8efceae1ba13bce089fd75c97dcbfab8a10b8724486ab31b570a
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: cd4dd5d2875b04dd7c6e9027911ae480af0733c9ff63991119f15c079bba988e
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T14:30:32Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,18 +67,37 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Financiamento
-- Empresa
 - Apoio ao Investimento
+- Empresa
+- Financiamento
+- IAPMEI
 - Política Económica
 - QCA III
 - Sipie
-- IAPMEI
 relationships:
 - type: amended_by
   target: pt:dre:533221:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:353918:por
+  label: "Alterados os arts. 10º, 10º-A, 12º, 18º, 19º, 21º, 22º, 22º-A e anexos A, B e C do Regulamento aprovado pela Port\
+    \ 687/2000 de 31-Ago, com a redacção dada pelo presente diploma, pela PORT.865-A/2002.2002.07.22.PCM DR.IS-B [167]Supl\0\
+    \0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/865-a-2002-353918
+  date: '2002-07-22'
+- type: amended_by
+  target: pt:dre:682828:por
+  label: "Alterada a redacção dada pelo presente diploma ao anexo A da Port 317-A/2000, de 31-Mai, pela PORT.879-A/2002.2002.07.25.PCM,\
+    \ DR. IS-B[170]Supl\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/879-a-2002-682828
+  date: '2002-07-25'
+- type: amended_by
+  target: pt:dre:214717:por
+  label: "Alterado o anexo C do Regulamento de Execução do SIME, aprovado pela Port 687/2000 de 31-Ago, com a redacção do\
+    \ presente diploma pela PORT.218/2003.2003.03.12.PCM DR.IS-B [60]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/218-2003-214717
+  date: '2003-03-12'
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/70-b/2000/05/05/p/dre
   label: null
@@ -91,16 +110,35 @@ relationships:
   target: eli:http://data.dre.pt/eli/port/687/2000/08/31/p/dre
   label: null
   source: http://data.dre.pt/eli/port/687/2000/08/31/p/dre
+- type: cites
+  target: pt:dre:510266:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:522224:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:581071:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:533221:por
+  label: "Revogada a Portaria n.º 687/2000, de 31-Ago, alterada pelo presente diploma e pelas Ports 243/2001, de 22 de Março,\
+    \ 865-A/2002, de 22 de Julho, e 218/2003, de 12 de Março, pela PORT.262/2004.11.03.2004.MF, DR.IS-B [60] de 11.03.2004\0\
+    \0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/262-2004-533221
+  date: '2004-03-11'
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T14:30:32Z'
   warnings: []
   errors: []
 ---
@@ -157,12 +195,12 @@ Projectos localizados na zona II - 10%.»
 
 Em 28 de Novembro de 2000.
 
-**O Ministro das Finanças, Joaquim Augusto Nunes Pina Moura. - O Ministro da Economía, Mário Cristina de Sousa. - O Ministro do Ambiente e do Ordenamento do Território, José Sócrates Carvalho Pinto de Sousa. - O Ministro da Juventude e do Desporto, Armando António Martins Vara.**
+O Ministro das Finanças, Joaquim Augusto Nunes Pina Moura. - O Ministro da Economía, Mário Cristina de Sousa. - O Ministro do Ambiente e do Ordenamento do Território, José Sócrates Carvalho Pinto de Sousa. - O Ministro da Juventude e do Desporto, Armando António Martins Vara.
 
 ## ANEXO A — Zonas de modulação regional (SIPIE)
 
-[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2001/03/056b00/12431244.pdf)
+[[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2001/03/056b00/12431244.pdf)](https://files.diariodarepublica.pt/1s/2001/03/056b00/12431244.pdf)
 
 ## ANEXO B — Zonas de modulação regional (SIME)
 
-[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2001/03/056b00/12431244.pdf)
+[[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2001/03/056b00/12431244.pdf)](https://files.diariodarepublica.pt/1s/2001/03/056b00/12431244.pdf)

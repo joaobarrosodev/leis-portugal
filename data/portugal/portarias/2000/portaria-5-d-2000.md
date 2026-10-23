@@ -20,7 +20,7 @@ publication:
   reference: Diário da República n.º 3/2000, 3º Suplemento, Série I-B de 2000-01-05
   number: '3'
   series: I
-  supplement: 3º Suplemento
+  supplement: null
   pages: 42-(8) a 42-(8)
   pdf_url: https://files.diariodarepublica.pt/1s/2000/01/003b03/00080008.pdf
 entry_into_force_dates: []
@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/5-d/2000/01/05/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/5-d-2000-570519
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2000-01-05T00:00:00Z'
+  retrieved_at: '2026-10-23T14:24:02Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 7da6b2ae7dd247883a6219dab9f8faf9eb1c4a43028bfbdc7dd5d015a50a9d86
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: f878928340b517aa2c39df74367dea6467225b90f7401916081c1836e1bc61c9
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T14:24:02Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,10 +66,10 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Imposto sobre Produtos Petrolíferos
-- Produto Petrolífero
 - Gasolina
+- Imposto sobre Produtos Petrolíferos
 - Madeira.região Autónoma
+- Produto Petrolífero
 - Taxa
 relationships:
 - type: cites
@@ -80,16 +80,24 @@ relationships:
   target: eli:http://data.dre.pt/eli/port/53-b/1998/02/04/p/dre
   label: null
   source: http://data.dre.pt/eli/port/53-b/1998/02/04/p/dre
+- type: cites
+  target: pt:dre:262357:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:406337:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T14:24:02Z'
   warnings: []
   errors: []
 ---
@@ -110,4 +118,4 @@ Manda o Governo, pelos Ministros das Finanças e da Economia, em cumprimento do 
 
 2.º A presente portaria entra em vigor na Região Autónoma da Madeira em 6 de Janeiro de 2000.
 
-**O Ministro das Finanças, Joaquim Augusto Nunes Pina Moura, em 5 de Janeiro de 2000. - O Ministro da Economia, Joaquim Augusto Nunes Pina Moura, em 5 de Janeiro de 2000.**
+O Ministro das Finanças, Joaquim Augusto Nunes Pina Moura, em 5 de Janeiro de 2000. - O Ministro da Economia, Joaquim Augusto Nunes Pina Moura, em 5 de Janeiro de 2000.

@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/576/1997/07/31/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/576-1997-142113
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2005-01-20T00:00:00Z'
+  retrieved_at: '2026-10-23T14:03:38Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 3d1a7e9f9fa96bfc1ef163d18b482da0a7418b0e17ff173ca06e22b5e11a9924
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: ff85d42e4938f68816747d92d86ef863442ed68064f4cccf466d9b3b7eaf513f
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T14:03:38Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,18 +67,24 @@ reuse:
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
 - Bacharelato
-- Plano de Estudos
 - Curso de Fisioterapia
 - Ensino Cooperativo
+- Ensino Superior
 - Escola Superior de Enfermagem JEAN Piaget-nordeste
 - Instituto Piaget
 - Macedo de Cavaleiros
-- Ensino Superior
+- Plano de Estudos
 relationships:
 - type: amended_by
   target: pt:dre:625794:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:625794:por
+  label: "Determinada a cessação da ministração do curso de bacharelato em Fisioterapia autorizado pelo presente diploma,\
+    \ pela PORT.54/2005.20.01.2005.MCIES, DR.IS-B [14] de 20.01.2005\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/54-2005-625794
+  date: '2005-01-20'
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/16/1994/01/22/p/dre
   label: null
@@ -95,16 +101,36 @@ relationships:
   target: eli:http://data.dre.pt/eli/port/602/1993/06/24/p/dre
   label: null
   source: http://data.dre.pt/eli/port/602/1993/06/24/p/dre
+- type: cites
+  target: pt:dre:268055:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:512030:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:533820:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:541444:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:618546:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T14:03:38Z'
   warnings: []
   errors: []
 ---
@@ -169,7 +195,7 @@ A autorização e o reconhecimento operados pelo presente diploma não prejudica
 
 Ministério da Educação.
 
-**Assinada em 2 de Julho de 1997.**
+Assinada em 2 de Julho de 1997.
 
 Pelo Ministro da Educação, Alfredo Jorge Silva, Secretário de Estado do Ensino Superior.
 
@@ -177,4 +203,4 @@ Pelo Ministro da Educação, Alfredo Jorge Silva, Secretário de Estado do Ensin
 
 Curso: Fisioterapia
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1997/07/175b00/40024003.pdf))](https://files.diariodarepublica.pt/1s/1997/07/175b00/40024003.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1997/07/175b00/40024003.pdf)

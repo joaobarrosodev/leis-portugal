@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2001/05/104b00/25722581.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/449/2001/05/05/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/449-2001-315919
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2007-11-12T00:00:00Z'
+  retrieved_at: '2026-10-23T14:32:19Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: a962d02fd6cce2fb385800c9b640011ed46a4c76f68606761f78ed34daa4ce7c
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: f79157b0fef94646e6d8b5f24108641915207498e8dc2d9f540c692125cb580d
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T14:32:19Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -65,10 +65,10 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
+- Bombeiro
+- Comandante
 - Incêndio
 - Prevenção de Incêndios
-- Comandante
-- Bombeiro
 - Serviço Nacional de Bombeiros
 - Sistema de Socorro e Luta contra Incêndios
 - Unidade Operacional
@@ -89,16 +89,33 @@ relationships:
   target: eli:http://data.dre.pt/eli/dec-lei/296/2000/11/17/p/dre
   label: null
   source: http://data.dre.pt/eli/dec-lei/296/2000/11/17/p/dre
+- type: cites
+  target: pt:dre:408880:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:616186:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:616187:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:629393:por
+  label: "Revogada, a partir de 17.11.2007, pela LEI.65/2007.12.11.2007.AR, DR.IS [217] de 12.11.2007\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/lei/65-2007-629393
+  date: '2007-11-12'
 article_structure:
   article_count: 74
-  section_count: 26
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  section_count: 27
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T14:32:19Z'
   warnings: []
   errors: []
 ---
@@ -421,7 +438,9 @@ f) A gestão dos meios de reserva.
 
 3 - Podem ainda fazer parte do PCOB, assessorando directamente o seu responsável, três elementos de comando, um como adjunto para a segurança, outro para as relações públicas e outro para a ligação com outras entidades.
 
-###### Artigo 27.º — Divisão de um teatro de operações
+###### Artigo 27.º
+
+##### Divisão de um teatro de operações
 
 1 - Um teatro de operações (TO) organiza-se em divisões, a que correspondem sectores geográficos ou funcionais, conforme o tipo de incidente e as opções estratégicas consideradas, nas quais se integram os grupos de combate.
 

@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/2s/2009/10/198000000/4142341423.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -47,18 +47,18 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/declaracao-rectificacao/2542-2009-2176535
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2009-10-13T00:00:00Z'
+  retrieved_at: '2026-10-23T14:07:39Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 74c290b18c4235304aec74b599f6bb57b7b23c8d6ae888f4ea85cefd739dcbd0
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 54b66c97aeca1f047d4f13e07d4a8d22002d0c72913e7f0ff1c8d4402ce6d609
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T14:07:39Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -70,21 +70,23 @@ relationships: []
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T14:07:39Z'
   warnings: []
   errors: []
 ---
 
-# Declaração de Rectificação n.º 2542/2009
+# Declaração de rectificação n.º 2542/2009
 
 Por ter sido publicado com inexactidão o edital n.º 997/2009, inserto no Diário da República, 2.ª série, n.º 189, de 29 de Setembro de 2009, referente à constituição do júri do concurso documental para provimento de um lugar de professor catedrático do Departamento de Engenharia Civil e Arquitectura do Instituto Superior Técnico, rectifica-se que onde se lê «na área científica de Recursos Hídricos e Saneamento» deve ler-se «na área científica de Recursos Hídricos/Saneamento».
 
 O concurso em causa foi aberto pelo edital n.º 611/97, publicado no Diário da República, 2.ª série, n.º 222, de 25 de Setembro de 1997, para provimento de um lugar de professor catedrático do Departamento de Engenharia Civil (actualmente designado por Departamento de Engenharia Civil e Arquitectura).
 
 2 de Outubro de 2009. - A Coordenadora do Departamento de Assuntos Académicos, Ana Fonseca.
+
+202398876

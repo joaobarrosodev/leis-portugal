@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/429/2001/04/26/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/429-2001-165024
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2001-04-26T00:00:00Z'
+  retrieved_at: '2026-10-23T14:32:12Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 180552ca54c3ac4ad495f6fc2d48493a0dd83f25e49d83b235e5a90648688af1
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 745e324d266b9edeccc6d8cadfc02844c96fd4c9ee123e42c88af844d466982f
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T14:32:12Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,11 +67,11 @@ reuse:
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
 - Bacharelato
-- Ministério da Defesa Nacional
 - Ensino Superior Politécnico
-- Escola do Serviço de Saúde Militar
-- Pessoal Técnico de Diagnóstico e Terapêutica
 - Equiparação de Cursos
+- Escola do Serviço de Saúde Militar
+- Ministério da Defesa Nacional
+- Pessoal Técnico de Diagnóstico e Terapêutica
 relationships:
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/280/1997/10/15/p/dre
@@ -89,16 +89,32 @@ relationships:
   target: eli:http://data.dre.pt/eli/decregul/4/1994/02/18/p/dre
   label: null
   source: http://data.dre.pt/eli/decregul/4/1994/02/18/p/dre
+- type: cites
+  target: pt:dre:516226:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:522388:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:541444:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:667764:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T14:32:12Z'
   warnings: []
   errors: []
 ---
@@ -193,7 +209,7 @@ Esta portaria entra em vigor no dia imediato ao da sua publicação.
 
 Em 2 de Abril de 2001.
 
-**O Ministro da Defesa Nacional, Júlio de Lemos de Castro Caldas. - Pelo Ministro da Educação, José Joaquim Dinis Reis, Secretário de Estado do Ensino Superior. - Pela Ministra da Saúde, Nélson Madeira Baltazar, Secretário de Estado dos Recursos Humanos e da Modernização da Saúde.**
+O Ministro da Defesa Nacional, Júlio de Lemos de Castro Caldas. - Pelo Ministro da Educação, José Joaquim Dinis Reis, Secretário de Estado do Ensino Superior. - Pela Ministra da Saúde, Nélson Madeira Baltazar, Secretário de Estado dos Recursos Humanos e da Modernização da Saúde.
 
 ## ANEXO
 

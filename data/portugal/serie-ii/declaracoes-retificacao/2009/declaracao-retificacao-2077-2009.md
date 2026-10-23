@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/2s/2009/08/164000000/3457034572.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -47,18 +47,18 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/declaracao-rectificacao/2077-2009-1504188
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2009-08-25T00:00:00Z'
+  retrieved_at: '2026-10-23T14:04:53Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: b6a7cb92132ed622eefbe206fa78db697a999df3151563297463ec3bdc0ab638
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: e4baf0365e766a345b87d0bbabf68033ede0c36c773c2d6485f1b764d62f97e9
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T14:04:53Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,22 +66,30 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects: []
-relationships: []
+relationships:
+- type: cites
+  target: pt:dre:456200:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:671387:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T14:04:53Z'
   warnings: []
   errors: []
 ---
 
-# Declaração de Rectificação n.º 2077/2009
+# Declaração de rectificação n.º 2077/2009
 
 Nos termos dos artigos 75.º, 76.º e 77.º do [Decreto-Lei n.º 74/2006](https://diariodarepublica.pt/dr/detalhe/decreto-lei/74-2006-671387) de 24 de Março, alterado pelo [Decreto-Lei n.º 107/2008](https://diariodarepublica.pt/dr/detalhe/decreto-lei/107-2008-456200) de 25 de Junho, artigos 75.º, 76.º, 77.º e 80.º, na sequência de proposta do Conselho Técnico-Científico e considerando que as alterações propostas não modificam os objectivos do Ciclo de Estudos e visam melhorar a organização das actividades lectivas, ao longo do ano e a adequação do número de horas de cada tipologia de ensino nas disciplinas de Fundamentos de Enfermagem I e II, publica-se a nova estrutura curricular e plano de estudo, que altera a deliberação n.º 1634/2008 publicada no Diário da República n.º 112, 2.ª série, de 12 de Junho.
 
@@ -111,7 +119,7 @@ O Disposto na presente Deliberação aplica-se a partir do ano lectivo de 2009-2
 
 QUADRO N.º 1
 
-[([ver documento original](https://files.diariodarepublica.pt/2s/2009/08/164000000/3457034572.pdf))](https://files.diariodarepublica.pt/2s/2009/08/164000000/3457034572.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/2s/2009/08/164000000/3457034572.pdf)
 
 9 - Plano de estudos
 
@@ -123,16 +131,18 @@ Grau: Licenciatura
 
 1.º Ano
 
-[([ver documento original](https://files.diariodarepublica.pt/2s/2009/08/164000000/3457034572.pdf))](https://files.diariodarepublica.pt/2s/2009/08/164000000/3457034572.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/2s/2009/08/164000000/3457034572.pdf)
 
 2.º Ano
 
-[([ver documento original](https://files.diariodarepublica.pt/2s/2009/08/164000000/3457034572.pdf))](https://files.diariodarepublica.pt/2s/2009/08/164000000/3457034572.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/2s/2009/08/164000000/3457034572.pdf)
 
 3.º Ano
 
-[([ver documento original](https://files.diariodarepublica.pt/2s/2009/08/164000000/3457034572.pdf))](https://files.diariodarepublica.pt/2s/2009/08/164000000/3457034572.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/2s/2009/08/164000000/3457034572.pdf)
 
 4.º Ano
 
-[([ver documento original](https://files.diariodarepublica.pt/2s/2009/08/164000000/3457034572.pdf))](https://files.diariodarepublica.pt/2s/2009/08/164000000/3457034572.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/2s/2009/08/164000000/3457034572.pdf)
+
+202213732

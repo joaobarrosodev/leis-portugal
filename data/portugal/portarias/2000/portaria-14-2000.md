@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/14/2000/01/15/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/14-2000-436389
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2004-04-30T00:00:00Z'
+  retrieved_at: '2026-10-23T14:21:37Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 036979d1202c339e66fd1b4fde4c970e52270e1f9fb2fa28670b9a0929192098
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 6312bb42dec4de7a9fca8ddecc98e1a07dff732bcfa839d813bbabe7adc09d93
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T14:21:37Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -86,16 +86,38 @@ relationships:
   target: eli:http://data.dre.pt/eli/port/402/1997/06/19/p/dre
   label: null
   source: http://data.dre.pt/eli/port/402/1997/06/19/p/dre
+- type: cites
+  target: pt:dre:218484:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:229284:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:365358:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:518992:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:302283:por
+  label: "Revogada a declaração modelo 130, aprovada pelo presente diploma, pela PORT.438/2004.30.04.2004.MF, DR.IS-B [102]\
+    \ de 30.04.2004\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/438-2004-302283
+  date: '2004-04-30'
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T14:21:37Z'
   warnings: []
   errors: []
 ---
@@ -122,6 +144,6 @@ Manda o Governo, pelo Secretário de Estado dos Assuntos Fiscais, nos termos do 
 
 5.º No tratamento dos suportes informáticos, observar-se-ão os mesmos procedimentos previstos para a recolha da declaração modelo n.º 10, aprovado pela [Portaria n.º 402/97](https://diariodarepublica.pt/dr/detalhe/portaria/402-1997-365358), de 19 de Junho.
 
-**O Secretário de Estado dos Assuntos Fiscais, Manuel Pedro da Cruz Baganha, em 23 de Dezembro de 1999.**
+O Secretário de Estado dos Assuntos Fiscais, Manuel Pedro da Cruz Baganha, em 23 de Dezembro de 1999.
 
 [(ver impresso no documento original)](https://files.diariodarepublica.pt/1s/2000/01/012b00/01420144.pdf)

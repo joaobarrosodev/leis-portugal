@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/554/1998/08/20/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/554-1998-444452
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2002-06-06T00:00:00Z'
+  retrieved_at: '2026-10-23T14:09:45Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 2a1f2faaf599bb5c47a9780d01599390d1c05e42278a5766005ec4cb3b609ff4
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 6e5d028e176ed8a0a67b33135d067e7d34f676665be547997fe01ccc161a2de5
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T14:09:45Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -74,6 +74,12 @@ relationships:
   target: pt:dre:145988:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:145988:por
+  label: "Suspende a actividade cinegética na zona de caça associativa concessionada pela Port 1020/90, de 12-Out, DR.IS [236],\
+    \ alterada pela Port 979/94 de 04-Nov e pelo presente diploma, pela PORT.592/2002.2002.06.06.MADRP DR.IS-B [130]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/592-2002-145988
+  date: '2002-06-06'
 - type: cites
   target: eli:http://data.dre.pt/eli/port/877/1997/09/10/p/dre
   label: null
@@ -82,16 +88,28 @@ relationships:
   target: eli:http://data.dre.pt/eli/port/979/1994/11/04/p/dre
   label: null
   source: http://data.dre.pt/eli/port/979/1994/11/04/p/dre
+- type: cites
+  target: pt:dre:535667:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:556009:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:644503:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T14:09:45Z'
   warnings: []
   errors: []
 ---
@@ -110,7 +128,7 @@ Manda o Governo, pelo Ministro da Agricultura, do Desenvolvimento Rural e das Pe
 
 Ministério da Agricultura, do Desenvolvimento Rural e das Pescas.
 
-**Assinada em 31 de Julho de 1998.**
+Assinada em 31 de Julho de 1998.
 
 Pelo Ministro da Agricultura, do Desenvolvimento Rural e das Pescas, Luís Manuel Capoulas Santos, Secretário de Estado da Agricultura e do Desenvolvimento Rural.
 

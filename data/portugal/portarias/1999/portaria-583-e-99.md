@@ -19,7 +19,7 @@ publication:
   reference: Diário da República n.º 177/1999, 1º Suplemento, Série I-B de 1999-07-31
   number: '177'
   series: I
-  supplement: 1º Suplemento
+  supplement: null
   pages: 4966-(45) a 4966-(51)
   pdf_url: https://files.diariodarepublica.pt/1s/1999/07/177b01/00450051.pdf
 entry_into_force_dates: []
@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/583-e/1999/07/31/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/583-e-1999-249061
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2000-11-09T00:00:00Z'
+  retrieved_at: '2026-10-23T14:16:23Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 7238d6e9b630c6f0e39f2a7e57782e8f36ca3d5c1ebfba93bba1a9cca5736bf8
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 0825fd6b7b259d54fa7de5efe72251dceae8b69a84751a1d621f7d7feb33ece6
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T14:16:23Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -65,8 +65,8 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Administração dos Portos do Douro e Leixões
 - Administração de Portos
+- Administração dos Portos do Douro e Leixões
 - Preço
 - Regulamento
 relationships:
@@ -78,16 +78,26 @@ relationships:
   target: eli:http://data.dre.pt/eli/dec-lei/200/1998/07/10/p/dre
   label: null
   source: http://data.dre.pt/eli/dec-lei/200/1998/07/10/p/dre
+- type: cites
+  target: pt:dre:485049:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:621964:por
+  label: "Revogada pelo DEC LEI.273/2000.2000.11.09.MES DR.IS-A [259], a partir da entrada em vigor das regulamentações referidas\
+    \ nos seus n.ºs 1 dos arts. 2.º e 3.º\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/273-2000-621964
+  date: '2000-11-09'
 article_structure:
   article_count: 27
   section_count: 9
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T14:16:23Z'
   warnings: []
   errors: []
 ---
@@ -108,7 +118,7 @@ Manda o Governo, pelo Ministro do Equipamento, do Planeamento e da Administraç�
 
 2.º O presente Regulamento entra em vigor no dia 1 de Janeiro de 2000.
 
-**O Ministro do Equipamento, do Planeamento e da Administração do Território, João Cardona Gomes Cravinho, em 19 de Julho de 1999.**
+O Ministro do Equipamento, do Planeamento e da Administração do Território, João Cardona Gomes Cravinho, em 19 de Julho de 1999.
 
 REGULAMENTO DE TARIFAS DA ADMINISTRAÇÃO DOS PORTOS DO DOURO E LEIXÕES, S. A.
 
@@ -186,7 +196,7 @@ b) A TUP/carga é aplicada por tonelada ou unidade de carga em correspondência 
 
 1 - A tarifa de uso do porto a cobrar aos navios e embarcações é calculada por unidade de arqueação bruta (GT), por período indivisível de vinte e quatro horas e por tipo de navio, sendo expressa em escudos, de acordo com o quadro seguinte:
 
-[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/1999/07/177b01/00450051.pdf)
+[[[[[[[[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/1999/07/177b01/00450051.pdf)](https://files.diariodarepublica.pt/1s/1999/07/177b01/00450051.pdf)](https://files.diariodarepublica.pt/1s/1999/07/177b01/00450051.pdf)](https://files.diariodarepublica.pt/1s/1999/07/177b01/00450051.pdf)](https://files.diariodarepublica.pt/1s/1999/07/177b01/00450051.pdf)](https://files.diariodarepublica.pt/1s/1999/07/177b01/00450051.pdf)](https://files.diariodarepublica.pt/1s/1999/07/177b01/00450051.pdf)](https://files.diariodarepublica.pt/1s/1999/07/177b01/00450051.pdf)
 
 2 - A TUP/navio aplicável aos navios-tanques destinados ao transporte de ramas e produtos petrolíferos com tanques de lastro segregado será calculada em função da arqueação bruta reduzida.
 
@@ -216,11 +226,11 @@ Mais de 50 escalas - 50%.
 
 Uso do porto para carga proveniente ou destinada a portos estrangeiros
 
-[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/1999/07/177b01/00450051.pdf)
+[[[[[[[[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/1999/07/177b01/00450051.pdf)](https://files.diariodarepublica.pt/1s/1999/07/177b01/00450051.pdf)](https://files.diariodarepublica.pt/1s/1999/07/177b01/00450051.pdf)](https://files.diariodarepublica.pt/1s/1999/07/177b01/00450051.pdf)](https://files.diariodarepublica.pt/1s/1999/07/177b01/00450051.pdf)](https://files.diariodarepublica.pt/1s/1999/07/177b01/00450051.pdf)](https://files.diariodarepublica.pt/1s/1999/07/177b01/00450051.pdf)](https://files.diariodarepublica.pt/1s/1999/07/177b01/00450051.pdf)
 
 Uso do porto para carga proveniente ou destinada a portos nacionais
 
-[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/1999/07/177b01/00450051.pdf)
+[[[[[[[[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/1999/07/177b01/00450051.pdf)](https://files.diariodarepublica.pt/1s/1999/07/177b01/00450051.pdf)](https://files.diariodarepublica.pt/1s/1999/07/177b01/00450051.pdf)](https://files.diariodarepublica.pt/1s/1999/07/177b01/00450051.pdf)](https://files.diariodarepublica.pt/1s/1999/07/177b01/00450051.pdf)](https://files.diariodarepublica.pt/1s/1999/07/177b01/00450051.pdf)](https://files.diariodarepublica.pt/1s/1999/07/177b01/00450051.pdf)](https://files.diariodarepublica.pt/1s/1999/07/177b01/00450051.pdf)
 
 2 - Os veículos de passageiros, transportados em navios roll-on roll-off, no sistema ferry, desde que acompanhados pelos seus usufrutuários ou por estes levantados do porto (ou entregues no porto), ficam sujeitos ao pagamento da importância de 1000$00 por unidade.
 
@@ -276,7 +286,7 @@ f) Taxa de serviço de pilotagem à ordem das embarcações.
 
 a) Os coeficientes (Cn) a aplicar nos portos do Douro e Leixões são os que constam do quadro seguinte:
 
-[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/1999/07/177b01/00450051.pdf)
+[[[[[[[[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/1999/07/177b01/00450051.pdf)](https://files.diariodarepublica.pt/1s/1999/07/177b01/00450051.pdf)](https://files.diariodarepublica.pt/1s/1999/07/177b01/00450051.pdf)](https://files.diariodarepublica.pt/1s/1999/07/177b01/00450051.pdf)](https://files.diariodarepublica.pt/1s/1999/07/177b01/00450051.pdf)](https://files.diariodarepublica.pt/1s/1999/07/177b01/00450051.pdf)](https://files.diariodarepublica.pt/1s/1999/07/177b01/00450051.pdf)](https://files.diariodarepublica.pt/1s/1999/07/177b01/00450051.pdf)
 
 b) A unidade de pilotagem (UP) é de 1025$00;
 
@@ -316,7 +326,7 @@ b) As embarcações propriedade de entidades que prossigam interesses públicos 
 
 2 - A tarifa de reboque é cobrada por rebocador em função do tempo e por classes de arqueação bruta (GT) de acordo com o quadro seguinte:
 
-[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/1999/07/177b01/00450051.pdf)
+[[[[[[[[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/1999/07/177b01/00450051.pdf)](https://files.diariodarepublica.pt/1s/1999/07/177b01/00450051.pdf)](https://files.diariodarepublica.pt/1s/1999/07/177b01/00450051.pdf)](https://files.diariodarepublica.pt/1s/1999/07/177b01/00450051.pdf)](https://files.diariodarepublica.pt/1s/1999/07/177b01/00450051.pdf)](https://files.diariodarepublica.pt/1s/1999/07/177b01/00450051.pdf)](https://files.diariodarepublica.pt/1s/1999/07/177b01/00450051.pdf)](https://files.diariodarepublica.pt/1s/1999/07/177b01/00450051.pdf)
 
 3 - As tarifas previstas no número anterior sofrerão um agravamento de 100% nos domingos e feriados e no período das 0 às 8 horas nos demais dias.
 
@@ -346,7 +356,7 @@ b) Serviço de correr ao longo do cais.
 
 3 - A tarifa de amarração e desamarração é estabelecida, para cada tipo de serviço, por classes de arqueação bruta (GT) e por operação/manobra, de acordo com o quadro seguinte:
 
-[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/1999/07/177b01/00450051.pdf)
+[[[[[[[[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/1999/07/177b01/00450051.pdf)](https://files.diariodarepublica.pt/1s/1999/07/177b01/00450051.pdf)](https://files.diariodarepublica.pt/1s/1999/07/177b01/00450051.pdf)](https://files.diariodarepublica.pt/1s/1999/07/177b01/00450051.pdf)](https://files.diariodarepublica.pt/1s/1999/07/177b01/00450051.pdf)](https://files.diariodarepublica.pt/1s/1999/07/177b01/00450051.pdf)](https://files.diariodarepublica.pt/1s/1999/07/177b01/00450051.pdf)](https://files.diariodarepublica.pt/1s/1999/07/177b01/00450051.pdf)
 
 ### CAPÍTULO VI — Armazenagem
 
@@ -364,11 +374,11 @@ b) Serviço de correr ao longo do cais.
 
 1 - Pela armazenagem de cargas a descoberto ou a coberto, em terraplenos ou armazéns, sem prejuízo do disposto nos números seguintes, são devidas, por metro quadrado e dia indivisível, as taxas seguintes:
 
-[(ver tabela no documento original)](https://files.diariodarepublica.pt/1s/1999/07/177b01/00450051.pdf)
+[[[[[[(ver tabela no documento original)](https://files.diariodarepublica.pt/1s/1999/07/177b01/00450051.pdf)](https://files.diariodarepublica.pt/1s/1999/07/177b01/00450051.pdf)](https://files.diariodarepublica.pt/1s/1999/07/177b01/00450051.pdf)](https://files.diariodarepublica.pt/1s/1999/07/177b01/00450051.pdf)](https://files.diariodarepublica.pt/1s/1999/07/177b01/00450051.pdf)](https://files.diariodarepublica.pt/1s/1999/07/177b01/00450051.pdf)
 
 2 - Pela armazenagem de contentores nos terraplenos e terminais são devidas, por unidade e dia indivisível, as taxas seguintes:
 
-[(ver tabela no documento original)](https://files.diariodarepublica.pt/1s/1999/07/177b01/00450051.pdf)
+[[[[[[(ver tabela no documento original)](https://files.diariodarepublica.pt/1s/1999/07/177b01/00450051.pdf)](https://files.diariodarepublica.pt/1s/1999/07/177b01/00450051.pdf)](https://files.diariodarepublica.pt/1s/1999/07/177b01/00450051.pdf)](https://files.diariodarepublica.pt/1s/1999/07/177b01/00450051.pdf)](https://files.diariodarepublica.pt/1s/1999/07/177b01/00450051.pdf)](https://files.diariodarepublica.pt/1s/1999/07/177b01/00450051.pdf)
 
 3 - As taxas do número anterior são aplicadas desde o dia de entrada do contentor em parque até ao dia do seu levante.
 
@@ -392,7 +402,7 @@ b) Serviço de correr ao longo do cais.
 
 Pelo uso de equipamento de manobra e transporte marítimo, bem como das instalações e estruturas afectas a este equipamento, são devidas, por unidade e período de tempo indivisível, segundo o tipo, as taxas constantes do quadro seguinte:
 
-[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/1999/07/177b01/00450051.pdf)
+[[[[[[[[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/1999/07/177b01/00450051.pdf)](https://files.diariodarepublica.pt/1s/1999/07/177b01/00450051.pdf)](https://files.diariodarepublica.pt/1s/1999/07/177b01/00450051.pdf)](https://files.diariodarepublica.pt/1s/1999/07/177b01/00450051.pdf)](https://files.diariodarepublica.pt/1s/1999/07/177b01/00450051.pdf)](https://files.diariodarepublica.pt/1s/1999/07/177b01/00450051.pdf)](https://files.diariodarepublica.pt/1s/1999/07/177b01/00450051.pdf)](https://files.diariodarepublica.pt/1s/1999/07/177b01/00450051.pdf)
 
 ###### Artigo 24.º — Equipamento de manobra e transporte terrestre
 
@@ -400,11 +410,11 @@ Pelo uso de equipamento de manobra e transporte terrestre, bem como das instala�
 
 a) Guindastes-via e pórtico de cais para carga convencional e granéis - taxas por tonelada segundo a sua capacidade de elevação e com os mínimos de toneladas cobráveis por hora indivisível:
 
-[(ver tabela no documento original)](https://files.diariodarepublica.pt/1s/1999/07/177b01/00450051.pdf)
+[[[[[[(ver tabela no documento original)](https://files.diariodarepublica.pt/1s/1999/07/177b01/00450051.pdf)](https://files.diariodarepublica.pt/1s/1999/07/177b01/00450051.pdf)](https://files.diariodarepublica.pt/1s/1999/07/177b01/00450051.pdf)](https://files.diariodarepublica.pt/1s/1999/07/177b01/00450051.pdf)](https://files.diariodarepublica.pt/1s/1999/07/177b01/00450051.pdf)](https://files.diariodarepublica.pt/1s/1999/07/177b01/00450051.pdf)
 
 b) Restante equipamento terrestre:
 
-[(ver tabela no documento original)](https://files.diariodarepublica.pt/1s/1999/07/177b01/00450051.pdf)
+[[[[[[(ver tabela no documento original)](https://files.diariodarepublica.pt/1s/1999/07/177b01/00450051.pdf)](https://files.diariodarepublica.pt/1s/1999/07/177b01/00450051.pdf)](https://files.diariodarepublica.pt/1s/1999/07/177b01/00450051.pdf)](https://files.diariodarepublica.pt/1s/1999/07/177b01/00450051.pdf)](https://files.diariodarepublica.pt/1s/1999/07/177b01/00450051.pdf)](https://files.diariodarepublica.pt/1s/1999/07/177b01/00450051.pdf)
 
 ###### Artigo 25.º — Contentores
 
@@ -446,7 +456,7 @@ v) Embarque no navio.
 
 3 - As importâncias devidas por tipo de serviço prestado ou operação são fixadas por unidade de contentor, sendo diferenciadas em contentores cheios e vazios, conforme o quadro seguinte:
 
-[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/1999/07/177b01/00450051.pdf)
+[[[[[[[[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/1999/07/177b01/00450051.pdf)](https://files.diariodarepublica.pt/1s/1999/07/177b01/00450051.pdf)](https://files.diariodarepublica.pt/1s/1999/07/177b01/00450051.pdf)](https://files.diariodarepublica.pt/1s/1999/07/177b01/00450051.pdf)](https://files.diariodarepublica.pt/1s/1999/07/177b01/00450051.pdf)](https://files.diariodarepublica.pt/1s/1999/07/177b01/00450051.pdf)](https://files.diariodarepublica.pt/1s/1999/07/177b01/00450051.pdf)](https://files.diariodarepublica.pt/1s/1999/07/177b01/00450051.pdf)
 
 4 - No desembarque, embarque ou baldeação/transhipment de contentores sem a utilização de pórtico de cais, quando autorizado pela APDL, S. A., as taxas do número anterior serão reduzidas em 20%.
 
@@ -474,11 +484,11 @@ v) Embarque no navio.
 
 a) As taxas de fornecimento de energia, segundo a potência contratada, são:
 
-[(ver tabela no documento original)](https://files.diariodarepublica.pt/1s/1999/07/177b01/00450051.pdf)
+[[[[[[(ver tabela no documento original)](https://files.diariodarepublica.pt/1s/1999/07/177b01/00450051.pdf)](https://files.diariodarepublica.pt/1s/1999/07/177b01/00450051.pdf)](https://files.diariodarepublica.pt/1s/1999/07/177b01/00450051.pdf)](https://files.diariodarepublica.pt/1s/1999/07/177b01/00450051.pdf)](https://files.diariodarepublica.pt/1s/1999/07/177b01/00450051.pdf)](https://files.diariodarepublica.pt/1s/1999/07/177b01/00450051.pdf)
 
 b) As taxas de potência pelo fornecimento de energia eléctrica são as seguintes:
 
-[(ver tabela no documento original)](https://files.diariodarepublica.pt/1s/1999/07/177b01/00450051.pdf)
+[[[[[[(ver tabela no documento original)](https://files.diariodarepublica.pt/1s/1999/07/177b01/00450051.pdf)](https://files.diariodarepublica.pt/1s/1999/07/177b01/00450051.pdf)](https://files.diariodarepublica.pt/1s/1999/07/177b01/00450051.pdf)](https://files.diariodarepublica.pt/1s/1999/07/177b01/00450051.pdf)](https://files.diariodarepublica.pt/1s/1999/07/177b01/00450051.pdf)](https://files.diariodarepublica.pt/1s/1999/07/177b01/00450051.pdf)
 
 c) A taxa de fornecimento a contentores frigoríficos é de 2520$00 por contentor e por dia indivisível;
 

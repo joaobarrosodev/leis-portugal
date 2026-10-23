@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/2s/2009/06/106000000/2216122162.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -46,18 +46,18 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/declaracao-rectificacao/1416-2009-2513596
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2009-06-02T00:00:00Z'
+  retrieved_at: '2026-10-23T14:01:02Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 349d3d4fcc819e4898c4b4c25b24d2d7fc0fd74d7734a5eb1ee1ad6910169bd2
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: c0d8c567572af9e924ee100298cac80bbb683a7384317b4a2c474054d49b299d
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T14:01:02Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -65,22 +65,26 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects: []
-relationships: []
+relationships:
+- type: cites
+  target: pt:dre:2900764:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T14:01:02Z'
   warnings: []
   errors: []
 ---
 
-# Declaração de Rectificação n.º 1416/2009
+# Declaração de rectificação n.º 1416/2009
 
 Por ter sido publicados com inexactidão os Quadros n.º 3, n.º 9 e n.º 18 constantes do [Despacho n.º 10875/2009](https://diariodarepublica.pt/dr/detalhe/despacho/10875-2009-2900764), publicado no Diário da República n.º 82 (2.ª série), de 28 de Abril de 2009, referente à criação do curso de mestrado em Modelação Estatística e Análise de Dados, rectifica-se que, onde se lê:
 
@@ -88,7 +92,7 @@ QUADRO N.º 3
 
 Especialização em Modelação Estatística e Análise de Dados
 
-[([ver documento original](https://files.diariodarepublica.pt/2s/2009/06/106000000/2216122162.pdf))](https://files.diariodarepublica.pt/2s/2009/06/106000000/2216122162.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/2s/2009/06/106000000/2216122162.pdf)
 
 Área de Especialização em Aplicações em Ciências Económicas e Empresariais
 
@@ -96,11 +100,11 @@ QUADRO N.º 9
 
 1.º Ano / 1.º semestre
 
-[([ver documento original](https://files.diariodarepublica.pt/2s/2009/06/106000000/2216122162.pdf))](https://files.diariodarepublica.pt/2s/2009/06/106000000/2216122162.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/2s/2009/06/106000000/2216122162.pdf)
 
 QUADRO N.º 18
 
-[([ver documento original](https://files.diariodarepublica.pt/2s/2009/06/106000000/2216122162.pdf))](https://files.diariodarepublica.pt/2s/2009/06/106000000/2216122162.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/2s/2009/06/106000000/2216122162.pdf)
 
 deve ler-se
 
@@ -108,7 +112,7 @@ QUADRO N.º 3
 
 Especialização em Modelação Estatística e Análise de Dados
 
-[([ver documento original](https://files.diariodarepublica.pt/2s/2009/06/106000000/2216122162.pdf))](https://files.diariodarepublica.pt/2s/2009/06/106000000/2216122162.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/2s/2009/06/106000000/2216122162.pdf)
 
 Área de Especialização em Aplicações em Ciências Económicas e Empresariais
 
@@ -116,10 +120,12 @@ QUADRO N.º 9
 
 1.º Ano / 1.º semestre
 
-[([ver documento original](https://files.diariodarepublica.pt/2s/2009/06/106000000/2216122162.pdf))](https://files.diariodarepublica.pt/2s/2009/06/106000000/2216122162.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/2s/2009/06/106000000/2216122162.pdf)
 
 QUADRO N.º 18
 
-[([ver documento original](https://files.diariodarepublica.pt/2s/2009/06/106000000/2216122162.pdf))](https://files.diariodarepublica.pt/2s/2009/06/106000000/2216122162.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/2s/2009/06/106000000/2216122162.pdf)
 
 25 de Maio de 2009. - A Directora, Margarida Cabral.
+
+201839254

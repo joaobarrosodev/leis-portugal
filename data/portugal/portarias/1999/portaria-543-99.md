@@ -48,18 +48,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/543/1999/07/23/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/543-1999-352562
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2005-10-21T00:00:00Z'
+  retrieved_at: '2026-10-23T14:16:08Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: aae17b2976c726b53fa2631f7eff159c2c128eb93f6e66edec6504f75a50366b
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 5ad52eda6da8a7846eef8a5fc54078e69c7aa03ef48a45bb2f2361a76f4bca0f
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T14:16:08Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -76,6 +76,18 @@ relationships:
   target: pt:dre:594153:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:173325:por
+  label: "Renovada a concessão da zona de caça turística concessionada pela Port 784/91, de 08-Ago, na redacção do presente\
+    \ diploma e da Port 837/98, de 30-Set, pela PORT.1109/2002.2002.08.26.MECO, DR.IS-B [196]\0]\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/1109-2002-173325
+  date: '2002-08-26'
+- type: amended_by
+  target: pt:dre:594153:por
+  label: "Anexados vários prédios rústicos à zona de caça concessionada pela Port 784/91 de 08-Ago, alterada pelo presente\
+    \ diploma, pela PORT.1082/2005.21.10.2005.MADRP, DR.IS-B [203] de 21.10.2005\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/1082-2005-594153
+  date: '2005-10-21'
 - type: cites
   target: eli:http://data.dre.pt/eli/port/102/1999/02/08/p/dre
   label: null
@@ -88,16 +100,28 @@ relationships:
   target: eli:http://data.dre.pt/eli/port/837/1998/09/30/p/dre
   label: null
   source: http://data.dre.pt/eli/port/837/1998/09/30/p/dre
+- type: cites
+  target: pt:dre:169232:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:244893:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:682254:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T14:16:08Z'
   warnings: []
   errors: []
 ---

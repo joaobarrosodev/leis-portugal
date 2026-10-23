@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/15/2000/01/17/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/15-2000-436204
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2000-01-17T00:00:00Z'
+  retrieved_at: '2026-10-23T14:21:41Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 3aebd521e38c6145b875c10081e8c459affcad88a472029d1c653ee9cd1c01fe
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 02d3667e85b8e58cc38f25d80f012941ad20148b8d716dbb7126539aea528749
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T14:21:41Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,21 +67,29 @@ reuse:
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
 - Exército
-- Serviço Militar
-- Recrutamento de Pessoal
 - Forças Armadas
 - Militar
-relationships: []
+- Recrutamento de Pessoal
+- Serviço Militar
+relationships:
+- type: cites
+  target: pt:dre:420192:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:576490:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T14:21:41Z'
   warnings: []
   errors: []
 ---
@@ -106,4 +114,4 @@ Manda o Governo, pelo Ministro da Defesa Nacional, ouvido o Conselho de Chefes d
 
 2.º O prolongamento do serviço efectivo normal estabelecido nos termos do número anterior é de 7,8% do efectivo a incorporar em 2000, só podendo ser excedido se a flutuação do número de praças em regime de voluntariado e de contrato não for suficiente para garantir o efectivo mínimo necessário ao funcionamento do Exército.
 
-**O Ministro da Defesa Nacional, Júlio de Lemos de Castro Caldas, em 27 de Dezembro de 1999.**
+O Ministro da Defesa Nacional, Júlio de Lemos de Castro Caldas, em 27 de Dezembro de 1999.

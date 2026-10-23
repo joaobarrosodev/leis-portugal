@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/2s/2010/09/171000000/4583945839.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -46,18 +46,18 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/declaracao-rectificacao/1801-2010-3136748
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2010-09-02T00:00:00Z'
+  retrieved_at: '2026-10-23T14:19:44Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 9b3ae6f5e9176b191856010ce84aab7dbd63c603e9815605755febb3b1417a79
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 9a2e6e35e781ccec9a1a6714b3ac8605ab80eefea8dc95fe1997f36bce003346
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T14:19:44Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -69,13 +69,13 @@ relationships: []
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T14:19:44Z'
   warnings: []
   errors: []
 ---
@@ -87,3 +87,5 @@ Declaração de rectificação n.º 1801/2010
 Por tal menção não constar no n.º 11.1.2 do aviso n.º 23238/2009, publicado no Diário da República, 2.ª série, n.º 250, de 29 de Dezembro de 2009, que procedeu à abertura do concurso externo de ingresso para constituição de relação jurídica de emprego público por tempo indeterminado, tendo em vista o preenchimento de 30 postos de trabalho na categoria de técnico profissional de reinserção social de 2.ª classe, torna-se público que a prova de conhecimentos admite a consulta de legislação não anotada. Desta forma, a redacção do n.º 11.1.2 do supra-referido aviso passará a ser: «A prova de conhecimentos tem a forma escrita, reveste a natureza teórica e tem a duração máxima de noventa minutos, com tolerância de mais quinze minutos, admitindo a consulta de legislação não anotada».
 
 26 de Agosto de 2010. - O Presidente do Júri, Luis Vaz do Couto.
+
+203638053

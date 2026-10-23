@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/407/1997/06/23/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/407-1997-164383
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1997-06-23T00:00:00Z'
+  retrieved_at: '2026-10-23T14:02:33Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 65abe4aec1bde4a4887a17c025497dd2905857431561e0ffdbf86edc8fbf72a3
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 6a0f3cdaf416e9c817f4358cfeae744ac23ad349214b42f0b0e81313e8b7b600
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T14:02:33Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,10 +67,17 @@ reuse:
 subjects:
 - Avis
 - Ordenamento do Território
-- Política de Solos
 - Plano de Pormenor
+- Política de Solos
 - Regulamento
 relationships:
+- type: amended_by
+  target: pt:dre:106449667:por
+  label: Tornada pública a alteração do quadro II anexo ao Regulamento do Plano de Pormenor da Zona de Expansão de Avis, ratificado
+    pelo presente diploma, pelo(a) Aviso n.º 1709/2017 - Diário da República n.º 32/2017, Série II de 2017-02-14, que republicou
+    o citado regulamento.
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/aviso/1709-2017-106449667
+  date: '2017-02-14'
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/109/1991/03/15/p/dre
   label: null
@@ -95,16 +102,44 @@ relationships:
   target: eli:http://data.dre.pt/eli/resolconsmin/9/1995/02/02/p/dre
   label: null
   source: http://data.dre.pt/eli/resolconsmin/9/1995/02/02/p/dre
+- type: cites
+  target: pt:dre:138314:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:228186:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:329816:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:329987:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:332412:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:475542:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:620754:por
+  label: null
+  source: null
 article_structure:
-  article_count: 23
+  article_count: 26
   section_count: 3
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T14:02:33Z'
   warnings: []
   errors: []
 ---
@@ -127,13 +162,15 @@ Manda o Governo, pelo Secretário de Estado da Administração Local e Ordenamen
 
 Ministério do Equipamento, do Planeamento e da Administração do Território.
 
-**Assinada em 26 de Maio de 1997.**
+Assinada em 26 de Maio de 1997.
 
-**O Secretário de Estado da Administração Local e Ordenamento do Território, José Augusto de Carvalho.**
+O Secretário de Estado da Administração Local e Ordenamento do Território, José Augusto de Carvalho.
 
 REGULAMENTO DO PLANO DE PORMENOR DA ÁREA DE EXPANSÃO INDUSTRIAL DE AVIS
 
-### CAPÍTULO I — Artigo 1.º
+### CAPÍTULO I
+
+###### Artigo 1.º
 
 As disposições contidas neste Regulamento abrangem a área objecto do presente Plano de Pormenor, designada por área de expansão industrial de Avis, cujos limites estão definidos na planta de implantação (síntese).
 
@@ -149,7 +186,9 @@ A área de expansão industrial está definida no Plano Director Municipal de Av
 
 A área de expansão industrial destina-se à instalação de unidades destinadas a indústria, oficinas e armazéns. Poderá também instalar-se, com os condicionamentos constantes do presente Regulamento, uma unidade agro-pecuária tipo avicultura no lote ou associação de lotes que prevejam esse uso, conforme definido no quadro I em anexo.
 
-### CAPÍTULO II — Artigo 5.º
+### CAPÍTULO II
+
+###### Artigo 5.º
 
 Para efeitos do presente Regulamento, utilizam-se os seguintes conceitos urbanísticos:
 
@@ -183,7 +222,9 @@ Afastamento de tardoz - a distância entre a construção e o limite do lote mai
 
 m) Polígono de implantação - o perímetro que demarca a área na qual pode ser implantada a edificação.
 
-### CAPÍTULO III — Artigo 6.º
+### CAPÍTULO III
+
+###### Artigo 6.º
 
 1 - Na área de expansão industrial é definida uma grelha base, grelha A, constituída por 33 lotes com a localização, forma de associação, área e destino constantes da planta de implantação e do quadro I anexo ao presente Regulamento.
 
@@ -305,10 +346,10 @@ QUADRO I
 
 Identificação, dimensão, associação e uso dos lotes
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1997/06/142b00/30533058.pdf))](https://files.diariodarepublica.pt/1s/1997/06/142b00/30533058.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1997/06/142b00/30533058.pdf)
 
 QUADRO II
 
 Índices de ocupação e construção, volumetria e afastamentos aos limites dos lotes
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1997/06/142b00/30533058.pdf))](https://files.diariodarepublica.pt/1s/1997/06/142b00/30533058.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1997/06/142b00/30533058.pdf)

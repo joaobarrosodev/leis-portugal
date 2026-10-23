@@ -27,9 +27,7 @@ publication:
 entry_into_force_dates: []
 end_of_validity_date: null
 legal_status: in_force
-notes:
-- 'Fonte sem texto: o DRE lista este diploma como consolidado mas não tem texto consolidado em nenhuma data (verificado em
-  2026-10-22).'
+notes: []
 language: por
 version:
   kind: original
@@ -50,18 +48,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/150/2001/03/03/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/150-2001-372982
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2001-03-28T00:00:00Z'
+  retrieved_at: '2026-10-23T14:30:24Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: df4b8a2dd303dfebfb2dd705ea32b912395b8b2cf5f1ddbcf64b0519431464a3
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: a12e569017de1530d1053781c58e4b0fd9c56352a6bb32b05a35ef497885f708
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T14:30:24Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -69,11 +67,11 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Plano de Estudos
 - Ensino Superior Politécnico
 - Escola Superior de Educação
 - Instituto Politécnico
 - Licenciatura
+- Plano de Estudos
 - Santarém
 relationships:
 - type: amended_by
@@ -96,16 +94,49 @@ relationships:
   target: eli:http://data.dre.pt/eli/port/760-a/1998/09/14/p/dre
   label: null
   source: http://data.dre.pt/eli/port/760-a/1998/09/14/p/dre
+- type: cites
+  target: pt:dre:222418:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:302098:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:438070:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:453184:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:556606:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:651148:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:653145:por
+  label: null
+  source: null
+- type: corrected_by
+  target: pt:dre:621327:por
+  label: "Rectificada pela DECL-RECT.9-R/2001.2001.03.28.PCM, DR.IS-B [77]-3º SUPL de 2001/MAR/31\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/declaracao-rectificacao/9-r-2001-621327
+  date: '2001-03-28'
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T14:30:24Z'
   warnings: []
   errors: []
 ---
@@ -154,10 +185,10 @@ QUADRO N.º 1
 
 1.º ano
 
-[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2001/03/053b00/11821182.pdf)
+[[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2001/03/053b00/11821182.pdf)](https://files.diariodarepublica.pt/1s/2001/03/053b00/11821182.pdf)
 
 QUADRO N.º 2
 
 2.º ano
 
-[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2001/03/053b00/11821182.pdf)
+[[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2001/03/053b00/11821182.pdf)](https://files.diariodarepublica.pt/1s/2001/03/053b00/11821182.pdf)

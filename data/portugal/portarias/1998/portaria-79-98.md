@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1998/02/042b00/06810681.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/79/1998/02/19/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/79-1998-209839
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2019-01-21T00:00:00Z'
+  retrieved_at: '2026-10-23T14:11:11Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: b5d28572eff2f6d003f16cddb01a4fd6a261ac45d25ec5f96c898399243ad113
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: a13753004c91607b25300278a348819cde6b66a4df5f649ba64942b86066f383
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T14:11:11Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,14 +66,14 @@ reuse:
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
 - CEE
+- Comércio
 - Direcção Geral das Florestas
-- Política Agrícola Comum
 - Exploração Florestal
+- Política Agrícola Comum
+- Política Florestal
 - Produção Vegetal
 - Regulamento
 - Regulamento da Comercialização de Materiais Florestais de Reprodução
-- Política Florestal
-- Comércio
 relationships:
 - type: amended_by
   target: pt:dre:118051706:por
@@ -87,16 +87,30 @@ relationships:
   target: eli:http://data.dre.pt/eli/port/134/1994/03/04/p/dre
   label: null
   source: http://data.dre.pt/eli/port/134/1994/03/04/p/dre
+- type: cites
+  target: pt:dre:217697:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:275633:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:505211:por
+  label: "Revogada a Port 134/94 de 04-Mar, com a redacção deste diploma, a partir da entrada em vigor do DEC LEI.205/2003.2003.09.12.MADRP\
+    \ DR.IS-A [211]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/205-2003-505211
+  date: '2003-09-12'
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T14:11:11Z'
   warnings: []
   errors: []
 ---
@@ -125,6 +139,6 @@ o) Plantas apresentando indícios de aquecimento, de fermentação ou de bolor e
 
 Ministérios da Economia e da Agricultura, do Desenvolvimento Rural e das Pescas.
 
-**Assinada em 30 de Janeiro de 1998.**
+Assinada em 30 de Janeiro de 1998.
 
-**O Ministro da Economia, Joaquim Augusto Nunes de Pina Moura. - O Ministro da Agricultura, do Desenvolvimento Rural e das Pescas, Fernando Manuel Van-Zeller Gomes da Silva.**
+O Ministro da Economia, Joaquim Augusto Nunes de Pina Moura. - O Ministro da Agricultura, do Desenvolvimento Rural e das Pescas, Fernando Manuel Van-Zeller Gomes da Silva.

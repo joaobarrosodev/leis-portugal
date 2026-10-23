@@ -20,12 +20,12 @@ publication:
   reference: Diário da República n.º 129/2001, 1º Suplemento, Série I-B de 2001-06-04
   number: '129'
   series: I
-  supplement: 1º Suplemento
+  supplement: null
   pages: 3334-(2) a 3334-(3)
   pdf_url: https://files.diariodarepublica.pt/1s/2001/06/129b01/00020003.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/565-a/2001/06/04/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/565-a-2001-667966
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2002-10-29T00:00:00Z'
+  retrieved_at: '2026-10-23T14:33:06Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 935b440914f95054a413bddc263fdb677e51b72de4b5e6a09ba5bb69732e3f3c
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 6c91351f27806132560d0eec97ee3fa31baf09ee66d19c9e1152ec94ae4addbb
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T14:33:06Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,30 +66,44 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Transporte Aéreo
-- Porto Santo
-- Madeira.região Autónoma
 - Aviação Civil
+- Madeira.região Autónoma
+- Porto Santo
 - Tarifa Aérea
+- Transporte Aéreo
 relationships:
 - type: amended_by
   target: pt:dre:425699:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:280926:por
+  label: "Alterados os nºs 2 e 3 do nº 1º e nos nºs 2 e 3 do nº 2º pela PORT.158/2002.2002.02.22.MF DR.IS-B [45]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/158-2002-280926
+  date: '2002-02-22'
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/138/1999/04/23/p/dre
   label: null
   source: http://data.dre.pt/eli/dec-lei/138/1999/04/23/p/dre
+- type: cites
+  target: pt:dre:534612:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:425699:por
+  label: "Revogada pela PORT.1401/2002.2002.10.29.MF DR.IS-B [250]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/1401-2002-425699
+  date: '2002-10-29'
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T14:33:06Z'
   warnings: []
   errors: []
 ---
@@ -124,4 +138,4 @@ Manda o Governo, pelos Ministros das Finanças e do Equipamento Social, o seguin
 
 Em 30 de Maio de 2001.
 
-**O Secretário de Estado do Tesouro e Finanças, Manuel Pedro da Cruz Baganha. - O Secretário de Estado Adjunto e dos Transportes, Rui António Ferreira Cunha.**
+O Secretário de Estado do Tesouro e Finanças, Manuel Pedro da Cruz Baganha. - O Secretário de Estado Adjunto e dos Transportes, Rui António Ferreira Cunha.

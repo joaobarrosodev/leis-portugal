@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/2s/2009/02/034000000/0687506875.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -47,18 +47,18 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/declaracao-rectificacao/511-2009-2135765
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2009-02-18T00:00:00Z'
+  retrieved_at: '2026-10-23T14:12:06Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: a8d17908f92cd15fcd9c08a20384d38ce990815415a3e1297d39387758b95464
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 8a1e5350ee544a93c997191cbafba28c1876f0cb268cc7a89bd3a4614a980c17
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T14:12:06Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -70,13 +70,13 @@ relationships: []
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T14:12:06Z'
   warnings: []
   errors: []
 ---
@@ -90,3 +90,5 @@ No Diário da República, 2.ª série, n.º 5, de 8 de Janeiro de 2009, foi publ
 Assim onde se lê "a nomeada deverá tomar posse no prazo de 20 dias a contar da data da publicação deste aviso no Diário da República", deve ler-se "Ana Paula Silva Pinhão Alcobio Frazão Ribeiro - Técnico Superior Principal de História; José António Reis e Silva Oliveira Neves - Técnico Superior Principal - Arquitecto; Cristina Isabel Pires Queimado - Técnico Superior de 1.ª Classe - Administração Pública e Autárquica, João Paulo Condeço Garcia Matias Ferreira - Técnico Superior de 1.ª Classe - Administração Pública e Autárquica; Manuel António dos Anjos Neto Azevedo - Técnico Superior de 1.ª Classe - Desporto; João Manuel Marques das Neves - Técnico Profissional Principal de Construção Civil; João Estevens Fernandes - Operário Altamente Qualificado Principal - Mecânico. Estas nomeações produzem efeitos a 31 de Dezembro de 2008, para as quais foi reconhecida a urgente conveniência de serviço".
 
 30 de Janeiro de 2009. - O Presidente da Câmara, Sérgio Morais da Conceição Carrinho.
+
+301387996

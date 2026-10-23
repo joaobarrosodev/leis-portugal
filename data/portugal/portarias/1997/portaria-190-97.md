@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1997/03/067b00/12861298.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/190/1997/03/20/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/190-1997-518386
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1997-03-20T00:00:00Z'
+  retrieved_at: '2026-10-23T14:01:12Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 2a63ef119b0cce9c35e5509440f79c4f8ee2590ee7c2321aa79d9648f0b72eb0
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 743d23198a486d07e4050b06b1100b01cea457ac1a23a50808c2e3d7ff5662ad
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T14:01:12Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,10 +66,17 @@ reuse:
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
 - Ordenamento do Território
-- Política de Solos
 - Plano de Pormenor
+- Política de Solos
 - Regulamento
 relationships:
+- type: amended_by
+  target: pt:dre:138638723:por
+  label: Tornada pública a revogação a partir de 24.07.2020 do Plano de Pormenor da Zona do Centro de Saúde de Ourém (PPZCSO)
+    pelo(a) Aviso (extrato) n.º 10844/2020 - Diário da República n.º 142/2020, Série II de 2020-07-23, nos termos do disposto
+    na al. a) do art. 135.º e do n.º 1 do art. 136.º do Regulamento do PDMO publicado pelo citado aviso.
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/aviso-extrato/10844-2020-138638723
+  date: '2020-07-23'
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/211/1992/10/08/p/dre
   label: null
@@ -86,16 +93,44 @@ relationships:
   target: eli:http://data.dre.pt/eli/dec-lei/72/1992/04/28/p/dre
   label: null
   source: http://data.dre.pt/eli/dec-lei/72/1992/04/28/p/dre
+- type: cites
+  target: pt:dre:217128:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:225999:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:228186:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:332412:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:382386:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:662161:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:690176:por
+  label: null
+  source: null
 article_structure:
   article_count: 19
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T14:01:12Z'
   warnings: []
   errors: []
 ---
@@ -120,9 +155,9 @@ Manda o Governo, pelo Secretário de Estado da Administração Local e Ordenamen
 
 Ministério do Equipamento, do Planeamento e da Administração do Território.
 
-**Assinada em 20 de Fevereiro de 1997.**
+Assinada em 20 de Fevereiro de 1997.
 
-**O Secretário de Estado da Administração Local e Ordenamento do Território, José Augusto de Carvalho.**
+O Secretário de Estado da Administração Local e Ordenamento do Território, José Augusto de Carvalho.
 
 PLANO DE PORMENOR DA ZONA DO CENTRO DE SAÚDE DE OURÉM
 
@@ -270,4 +305,4 @@ O presente Regulamento enquadra-se na actual legislação, nomeadamente o [Decre
 
 2 - As áreas comuns do PGU de (Vila Nova de) Ourém com o PP do Centro de Saúde de Ourém sujeitas ao disposto no número anterior deste artigo são as zonas V13, R2, R3 e R4.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1997/03/067b00/12861298.pdf))](https://files.diariodarepublica.pt/1s/1997/03/067b00/12861298.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1997/03/067b00/12861298.pdf)

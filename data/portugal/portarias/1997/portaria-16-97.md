@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/16/1997/01/04/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/16-1997-302323
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1997-01-04T00:00:00Z'
+  retrieved_at: '2026-10-23T14:01:02Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: e412a27e1bc679e2d3c0f71e41a6b49b738176bf017e72a5c4f6a32f82fd0f14
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: a80356e74db64deccff2f3757568551bc23d76ae8dc79fb60b3a5f77ce0b5a38
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T14:01:02Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -65,11 +65,11 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
+- Alimento para Animais
 - Controlo de Qualidade
-- Saúde Pública
 - Especificação Técnica
 - Proteção do Consumidor
-- Alimento para Animais
+- Saúde Pública
 relationships:
 - type: cites
   target: celex:31976L0372
@@ -90,13 +90,13 @@ relationships:
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T14:01:02Z'
   warnings: []
   errors: []
 ---
@@ -117,7 +117,7 @@ Manda o Governo, pelo Ministro da Agricultura, do Desenvolvimento Rural e das Pe
 
 Ministério da Agricultura, do Desenvolvimento Rural e das Pescas.
 
-**Assinada em 15 de Novembro de 1996.**
+Assinada em 15 de Novembro de 1996.
 
 Pelo Ministro da Agricultura, do Desenvolvimento Rural e das Pescas, Luís Manuel Capoulas Santos, Secretário de Estado da Agricultura e do Desenvolvimento Rural.
 
@@ -285,7 +285,7 @@ Pulveriza-se o cromatograma obtido em 5.4 com ácido sulfúrico (3.15). A fluore
 
 5.6.2 - Ensaio por cromatografia bidimensional, implicando a formação de aflatoxina B(índice 1)-hemiacetal (aflatoxina B(índice 2a)).
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1997/01/003b00/00330041.pdf))](https://files.diariodarepublica.pt/1s/1997/01/003b00/00330041.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1997/01/003b00/00330041.pdf)
 
 5.6.2.1 - Aplicação das soluções:
 
@@ -565,7 +565,7 @@ Adapta-se uma torneira (4.18) à extremidade mais curta do cartucho de Florisil 
 
 Fecha-se a torneira e remove-se a seringa.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1997/01/003b00/00330041.pdf))](https://files.diariodarepublica.pt/1s/1997/01/003b00/00330041.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1997/01/003b00/00330041.pdf)
 
 5.4.1.2 - Purificação:
 
@@ -605,7 +605,7 @@ Nota. - Em geral, não é necessário filtrar o extracto final antes do processo
 
 (ver figura 3 para montagem do equipamento). Deve-se prever o tempo suficiente para permitir o condicionamento e a estabilização dos aparelhos, antes do uso.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1997/01/003b00/00330041.pdf))](https://files.diariodarepublica.pt/1s/1997/01/003b00/00330041.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1997/01/003b00/00330041.pdf)
 
 5.5.1 - Regulação da bomba de HPLC:
 
@@ -671,7 +671,7 @@ Identificam-se as aflatoxinas, procedendo-se de acordo com a Directiva n.º [76/
 
 Calcula-se o teor de aflatoxina B(índice 1) presente na amostra expresso em lg/kg, recorrendo à fórmula seguinte:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1997/01/003b00/00330041.pdf))](https://files.diariodarepublica.pt/1s/1997/01/003b00/00330041.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1997/01/003b00/00330041.pdf)
 
 Seguindo o procedimento descrito no presente método, a fórmula referida reduz-se a:
 
@@ -695,7 +695,7 @@ QUADRO N.º 1
 
 Repetibilidade (r) e reprodutibilidade (R), expressas sob a forma de razões, e respectivos coeficientes de variação (15 laboratórios).
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1997/01/003b00/00330041.pdf))](https://files.diariodarepublica.pt/1s/1997/01/003b00/00330041.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1997/01/003b00/00330041.pdf)
 
 10.2 - Estabilidade do clorofórmio (3.1):
 
@@ -721,12 +721,12 @@ Neste caso, os resultados analíticos devem ser expressos em peso de amostra nã
 
 QUADRO SINÓPTICO
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1997/01/003b00/00330041.pdf))](https://files.diariodarepublica.pt/1s/1997/01/003b00/00330041.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1997/01/003b00/00330041.pdf)
 
 QUADRO SINÓPTICO
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1997/01/003b00/00330041.pdf))](https://files.diariodarepublica.pt/1s/1997/01/003b00/00330041.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1997/01/003b00/00330041.pdf)
 
 QUADRO SINÓPTICO
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1997/01/003b00/00330041.pdf))](https://files.diariodarepublica.pt/1s/1997/01/003b00/00330041.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1997/01/003b00/00330041.pdf)

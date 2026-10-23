@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/2s/2010/09/178000000/4689546895.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -46,18 +46,18 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/declaracao-rectificacao/1870-2010-2570830
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2010-09-13T00:00:00Z'
+  retrieved_at: '2026-10-23T14:20:10Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: fa315f72cc83813f79c8f504ea96098e9219256dc3d6871cdeea7a50c8c483b5
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 2aedcbb52f9dd22067e8c46820149936dfd420667f86a532c75dab367c218e1f
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T14:20:10Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -69,13 +69,13 @@ relationships: []
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T14:20:10Z'
   warnings: []
   errors: []
 ---
@@ -87,3 +87,5 @@ Declaração de rectificação n.º 1870/2010
 Por ter sido publicado com inexactidão, no Diário da República, 2.ª série, n.º 167, de 27 de Agosto de 2010, o aviso n.º 17 035/2010, rectifica-se que, no ponto 19, onde se lê «1.º vogal efectivo Lic. Maria Margarida Pereira Costa Nascimento Costa, chefe de divisão da DSGM» deve ler-se «1.º vogal efectivo - licenciada Maria Margarida Pereira Costa Nascimento Costa, chefe de divisão da DSGM, que substituirá o presidente nas suas faltas e impedimentos» e onde se lê «2.º vogal suplente Aida Maria Basílio Henriques Mendes Costa, assistente técnica» deve ler-se «2.º vogal suplente - Juliana Patrícia Fróis de Oliveira, técnica superior».
 
 2 de Setembro de 2010. - O Secretário-Geral, João S. Batista.
+
+203667757

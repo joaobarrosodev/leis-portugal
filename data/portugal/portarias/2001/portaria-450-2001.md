@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/450/2001/05/05/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/450-2001-315915
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2006-05-26T00:00:00Z'
+  retrieved_at: '2026-10-23T14:32:19Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: a360fb2dbd49c9e78f1778b26d863f808520aa044e803bb43d1f5ca62d2188d6
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 38284de80ec14fda99e1a658784e6c781d75d30865dd1aee973ceb86a0284aff
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T14:32:19Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,31 +66,37 @@ reuse:
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
 - Ajuda Comunitária
-- Região Autónoma
-- Financiamento
-- Instituição de Crédito
-- Empresa
-- Turismo
-- Desenvolvimento Regional
 - Apoio ao Investimento
-- Projeto de Investimento
-- Investimento Público
+- Autarquia Local
 - Crédito
+- Desenvolvimento Económico
+- Desenvolvimento Regional
+- Empresa
+- Financiamento
+- Infraestrutura Turística
+- Instituição de Crédito
+- Investimento Público
+- Piter
+- Política Económica
+- Projeto de Investimento
+- QCA III
+- Região Autónoma
+- Regime de Apoio
+- Regulamento
 - Regulamento de Execução da Medida de Apoio aos Programas Integrados Turísticos de Natureza Estruturante e BASE Regional
   e do Respectivo Sistema de Incentivos
-- Desenvolvimento Económico
-- Política Económica
-- QCA III
-- Regime de Apoio
-- Piter
-- Regulamento
-- Autarquia Local
-- Infraestrutura Turística
+- Turismo
 relationships:
 - type: amended_by
   target: pt:dre:286682:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:286682:por
+  label: "Alterada a al. a) do nº 3 do art. 11º do Regulamento aprovado pelo presente diploma pela PORT.478/2006.26.05.2006.MFAP,\
+    \ DR.IS-B [102] de 26.05.2006\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/478-2006-286682
+  date: '2006-05-26'
 - type: cites
   target: celex:32001R0068
   label: null
@@ -102,13 +108,13 @@ relationships:
 article_structure:
   article_count: 56
   section_count: 21
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T14:32:19Z'
   warnings: []
   errors: []
 ---
@@ -129,7 +135,7 @@ Manda o Governo, pelos Ministros das Finanças, da Economia e do Planeamento, qu
 
 Em 2 de Abril de 2001.
 
-**O Ministro das Finanças, Joaquim Augusto Nunes Pina Moura. - O Ministro da Economia, Mário Cristina de Sousa. - A Ministra do Planeamento, Elisa Maria da Costa Guimarães Ferreira.**
+O Ministro das Finanças, Joaquim Augusto Nunes Pina Moura. - O Ministro da Economia, Mário Cristina de Sousa. - A Ministra do Planeamento, Elisa Maria da Costa Guimarães Ferreira.
 
 ## ANEXO
 
@@ -1167,14 +1173,14 @@ b) 50% das percentagens máximas referidas no n.º 2 daquele preceito regulament
 
 5 - A intensidade do apoio, atento o limite previsto no n.º 1 do presente número, é graduada, em termos indicativos, em função da valia turística dos projectos, ponderada de acordo com os graus de atractibilidade do projecto, da utilização preponderante por turistas e da operacionalização turística que o projecto confere aos restantes, nos termos do seguinte quadro:
 
-[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2001/05/104b00/25812599.pdf)
+[[[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2001/05/104b00/25812599.pdf)](https://files.diariodarepublica.pt/1s/2001/05/104b00/25812599.pdf)](https://files.diariodarepublica.pt/1s/2001/05/104b00/25812599.pdf)
 
 ## ANEXO B
 
 Taxas máximas relativas à formação profissional em equivalente de subvenção bruta [Regulamento (CE) n.º [68/2001](http://data.europa.eu/eli/reg/2001/68/oj?locale=pt), da Comissão, de 12 de Janeiro, publicado no JO, n.º L 10, de 13 de Janeiro de 2001]
 
-[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2001/05/104b00/25812599.pdf)
+[[[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2001/05/104b00/25812599.pdf)](https://files.diariodarepublica.pt/1s/2001/05/104b00/25812599.pdf)](https://files.diariodarepublica.pt/1s/2001/05/104b00/25812599.pdf)
 
 ## ANEXO C — Zonas de modulação regional
 
-[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2001/05/104b00/25812599.pdf)
+[[[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2001/05/104b00/25812599.pdf)](https://files.diariodarepublica.pt/1s/2001/05/104b00/25812599.pdf)](https://files.diariodarepublica.pt/1s/2001/05/104b00/25812599.pdf)

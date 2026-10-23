@@ -26,7 +26,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2000/06/138b00/26472651.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -48,18 +48,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/356/2000/06/16/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/356-2000-288665
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2003-02-05T00:00:00Z'
+  retrieved_at: '2026-10-23T14:23:06Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: e55f1f502aed1140370f782dd8bec352a9875f1f8d0cc328f9e3c4d36699e601
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 915c29ba75b03a62b402849ffe38dc6cbe37decfff7e58529dcaef382ca99033
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T14:23:06Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -68,14 +68,14 @@ reuse:
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
 - Agrupamento de Produtores
-- Doença Animal
-- Gado Caprino
 - Comparticipação do Estado
-- Direção Geral de Veterinária
-- Definição de Competências
-- Direcção Regional de Agricultura
 - Controlo Sanitário
+- Definição de Competências
+- Direção Geral de Veterinária
+- Direcção Regional de Agricultura
+- Doença Animal
 - Gado Bovino
+- Gado Caprino
 - Gado Ovino
 - Pecuária
 - Sanção
@@ -85,6 +85,17 @@ relationships:
   target: pt:dre:200418:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:314202:por
+  label: "Alterado o nº 18, pela PORT.492/2001.2001.05.11.MADRP, DR.IS-B [109]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/492-2001-314202
+  date: '2001-05-11'
+- type: amended_by
+  target: pt:dre:536021:por
+  label: "Alterado o nº 18 do presente diploma, na redacção dada pela Port 492/2001 de 11-Mai, pela PORT.1459/2001.2001.12.28.MADRP,\
+    \ DR.IS-B [299]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/1459-2001-536021
+  date: '2001-12-28'
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/338/1999/08/24/p/dre
   label: null
@@ -97,16 +108,42 @@ relationships:
   target: eli:http://data.dre.pt/eli/port/68/1999/01/28/p/dre
   label: null
   source: http://data.dre.pt/eli/port/68/1999/01/28/p/dre
+- type: cites
+  target: pt:dre:180602:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:433825:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:643502:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:674035:por
+  label: null
+  source: null
+- type: corrected_by
+  target: pt:dre:145028:por
+  label: "Rectificada pela DECL-RECT.7-H/2000.2000.06.30.PCM DR.IS-B [144]2ºSupl de 30-Jun/2000\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/declaracao-rectificacao/7-h-2000-145028
+  date: '2000-06-30'
+- type: repealed_by
+  target: pt:dre:200418:por
+  label: "Revogada pela PORT.122/2003.2003.02.05.MADRP DR.IS-B [30]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/122-2003-200418
+  date: '2003-02-05'
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T14:23:06Z'
   warnings: []
   errors: []
 ---

@@ -46,41 +46,69 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/declaracao-rectificacao/2457-2009-1080155
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2009-10-06T00:00:00Z'
+  retrieved_at: '2026-10-23T14:07:09Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 383c7b74a7fbd08b337f803487832a3d0eda357415744293045e2a65750a0e15
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 4027a5546a8a365b9411b705ce51c756713de8e97d1128761a51918628d47550
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T14:07:09Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
-relationships: []
+subjects:
+- Comunicações Eletrónicas
+- Instituto das Comunicações de Portugal
+- Qualidade dos Serviços
+- Regulamento
+- Serviço FIXO de Telefone
+- Telefone
+relationships:
+- type: cites
+  target: pt:dre:1072548:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:202419:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:3124946:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:581061:por
+  label: null
+  source: null
+- type: corrects
+  target: pt:numero:regulamento:46/2005
+  label: "Rectifica o art. 2º - republicação do Regulamento nº 46/2005 de 14 de Junho- do Regul 372/2009 de 28-Ago DR.IIS\
+    \ [167]\0\0"
+  source: null
+  date: '2009-08-28'
 article_structure:
-  article_count: 8
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T14:07:09Z'
   warnings: []
   errors: []
 ---
 
-# Declaração de Rectificação n.º 2457/2009
+# Declaração de rectificação n.º 2457/2009
 
 O [Regulamento n.º 372/2009](https://diariodarepublica.pt/dr/detalhe/regulamento/372-2009-1072548), que altera o [Regulamento n.º 46/2005](https://diariodarepublica.pt/dr/detalhe/regulamento/46-2005-3124946), de 14 de Junho, Regulamento sobre a Qualidade de Serviço, foi publicado no Diário da República, 2.ª série, n.º 167, de 28 de Agosto de 2009.
 
@@ -96,7 +124,9 @@ Republicação do regulamento n.º 46/2005, de 14 de Junho
 
 Regulamento sobre Qualidade de Serviço
 
-###### Artigo 1.º — Objecto e âmbito
+Artigo 1.º
+
+Objecto e âmbito
 
 1 - O presente Regulamento estabelece os parâmetros de qualidade aplicáveis ao serviço de acesso à rede telefónica pública em local fixo e ao serviço telefónico acessível ao público em local fixo, independentemente da tecnologia que lhes serve de suporte, a medir pelas empresas responsáveis pela sua prestação, fixa também o seu conteúdo e formato, bem como o modo de publicação de informações relativas à qualidade dos serviços prestados, sem prejuízo da futura fixação de parâmetros de qualidade para outros serviços de comunicações electrónicas.
 
@@ -112,7 +142,9 @@ c) À concessionária do serviço público de telecomunicações;
 
 d) Às empresas que oferecem redes e serviços de comunicações electrónicas, nos termos do título iv da [Lei n.º 5/2004](https://diariodarepublica.pt/dr/detalhe/lei/5-2004-581061), de 10 de Fevereiro.
 
-###### Artigo 2.º — Parâmetros de qualidade de serviço
+Artigo 2.º
+
+Parâmetros de qualidade de serviço
 
 1 - Os parâmetros de qualidade de serviço a medir são os que em cada momento estejam definidos em anexo ao presente Regulamento.
 
@@ -124,7 +156,9 @@ d) Às empresas que oferecem redes e serviços de comunicações electrónicas, 
 
 5 - Os parâmetros de qualidade de serviço podem ser alterados ou aditados pela ANACOM nos termos da legislação aplicável e de acordo com as necessidades do mercado, os desenvolvimentos a nível da harmonização e os objectivos de regulação a prosseguir pela Autoridade.
 
-###### Artigo 3.º — Obrigações das empresas prestadoras
+Artigo 3.º
+
+Obrigações das empresas prestadoras
 
 1 - Constituem obrigações das empresas abrangidas pelo presente Regulamento:
 
@@ -134,7 +168,9 @@ b) Disponibilizar aos utilizadores e à ANACOM informações sobre a qualidade d
 
 2 - Quando adoptem parâmetros de qualidade de serviço adicionais aos que estão fixados em anexo ao presente Regulamento, que pretendam divulgar publicamente, as empresas devem, num prazo máximo de 30 dias após o início da respectiva medição, informar a ANACOM, explicitando também os métodos e sistemas utilizados para a sua medição.
 
-###### Artigo 4.º — Sistemas de informação e procedimentos utilizados para medição dos parâmetros de qualidade de serviço
+Artigo 4.º
+
+Sistemas de informação e procedimentos utilizados para medição dos parâmetros de qualidade de serviço
 
 1 - Decorridos seis meses sobre o prazo para o início da medição dos parâmetros de qualidade de serviço, estabelecido no n.º 1 do artigo 8.º, as empresas devem dispor de um manual que integre as seguintes peças documentais:
 
@@ -148,7 +184,9 @@ c) Manual algorítmico de cálculo de indicadores com menção clara às fontes 
 
 3 - Sempre que existirem alterações nos procedimentos seguidos pelas empresas ou que tal lhes for determinado pela ANACOM, devem as mesmas, num prazo máximo de 30 dias, promover as necessárias adaptações ao manual referido no n.º 1.
 
-###### Artigo 5.º — Situações imprevisíveis e casos de força maior
+Artigo 5.º
+
+Situações imprevisíveis e casos de força maior
 
 Quando num determinado período ocorram situações de natureza imprevisível, tais como catástrofes ou outros casos de força maior, na informação relativa à qualidade de serviço praticada, as empresas devem:
 
@@ -156,7 +194,9 @@ a) Informar sobre as situações de natureza imprevisível ou de força maior re
 
 b) Disponibilizar informação, detalhando quer os parâmetros reais quer os parâmetros expurgados das ocorrências referidas na alínea a), bem como nota explicativa das diferenças observadas.
 
-###### Artigo 6.º — Informações à ANACOM
+Artigo 6.º
+
+Informações à ANACOM
 
 1 - As empresas devem remeter à ANACOM, até ao último dia útil do mês seguinte ao final de cada trimestre do ano civil, relatório com informação sobre os níveis de qualidade registados nesse trimestre para cada um dos diferentes parâmetros fixados no anexo ao presente Regulamento, salvo nos casos em que no referido anexo se estabeleça um outro prazo específico.
 
@@ -170,7 +210,9 @@ b) Disponibilizar informação, detalhando quer os parâmetros reais quer os par
 
 6 - A ANACOM pode fixar formulários a observar pelas empresas para sistematização da informação que, nos termos do presente artigo, deve ser enviada a esta Autoridade.
 
-###### Artigo 7.º — Disponibilização de informações aos utilizadores finais
+Artigo 7.º
+
+Disponibilização de informações aos utilizadores finais
 
 1 - As empresas estão obrigadas a disponibilizar aos utilizadores finais, previamente à celebração de qualquer contrato, informações claras, comparáveis e actualizadas sobre a qualidade de serviço que praticam.
 
@@ -192,7 +234,9 @@ c) Actualizar a informação disponibilizada aos utilizadores finais nos termos 
 
 7 - Para o efeito do disposto nos n.os 4 e 6 a ANACOM pode definir e fixar um «modelo de divulgação», contendo um conjunto de regras/procedimentos complementares aos fixados no presente Regulamento, conducentes a uma maior facilidade de localização, visibilidade, harmonização e clareza da informação divulgada.
 
-###### Artigo 8.º — Disposições finais
+Artigo 8.º
+
+Disposições finais
 
 1 - A medição da qualidade de serviço nos termos e para os efeitos previstos no presente Regulamento e suas alterações deve, se outra não for a regra especificamente fixada, ser iniciada num prazo máximo de cinco meses sobre a data da sua publicação.
 
@@ -204,13 +248,13 @@ c) Actualizar a informação disponibilizada aos utilizadores finais nos termos 
 
 5 - Até à publicação de regras especificamente aplicáveis ao serviço universal a entidade responsável pela sua prestação, apesar de adstrita aos parâmetros de qualidade estabelecidos no presente Regulamento, bem como às obrigações de informação que no mesmo são previstas, e ainda às regras fixadas no anexo à [Lei n.º 5/2004](https://diariodarepublica.pt/dr/detalhe/lei/5-2004-581061), de 10 de Fevereiro, nos termos do artigo 92.º, n.º 1, do mesmo diploma, fica também obrigada a manter o envio à ANACOM da informação relativa à qualidade do serviço prestado definida ao abrigo do anterior contrato de concessão ([Decreto-Lei n.º 40/95](https://diariodarepublica.pt/dr/detalhe/decreto-lei/40-1995-202419), de 15 de Fevereiro).
 
-## ANEXO
+ANEXO
 
 Parâmetros de qualidade de serviço (PQS) para acesso à rede telefónica pública em local fixo e serviço telefónico acessível ao público em local fixo (STF).
 
 Os parâmetros de qualidade de serviço estabelecidos no presente anexo e identificados no quadro seguinte, baseiam-se no ETSI Guide EG 201 769-1 V1.1.1 (2000-2004):
 
-[([ver documento original](https://files.diariodarepublica.pt/2s/2009/10/193000000/4040540409.pdf))](https://files.diariodarepublica.pt/2s/2009/10/193000000/4040540409.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/2s/2009/10/193000000/4040540409.pdf)
 
 PQS1 - Prazo de fornecimento da ligação inicial
 
@@ -409,3 +453,5 @@ PQS4 - Tempo de resposta para os serviços de telefonista
 (8) Deverá ser contabilizado o número de acessos (não o respectivo número de canais, no caso dos acessos básicos e primários).»
 
 28 de Setembro de 2009. - O Presidente do Conselho de Administração, José Amado da Silva.
+
+202362813

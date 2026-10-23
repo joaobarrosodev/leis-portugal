@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1998/07/158b00/32923292.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/394/1998/07/11/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/394-1998-484829
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2026-05-27T00:00:00Z'
+  retrieved_at: '2026-10-23T14:08:35Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 319e2f9e297e3fdaf4b908e94b6433e510e25460d5897aad38087dd6d45ccbac
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: f2fcd773ab8e76b4cab05887716d8c30bb139efb94ff70928bc3b3d918c2400f
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T14:08:35Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,15 +67,20 @@ reuse:
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
 - Deficiente
-- Licenciamento
-- Radiodifusão
 - Incapacidade Física
+- Licenciamento
 - Radioamador
+- Radiodifusão
 relationships:
 - type: amended_by
   target: pt:dre:1126675654:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:595125:por
+  label: "Mantida em vigor pela PORT.126-A/2005.31.01.2005.MOPTC, DR.IS-B [21-Supl] de 31.01.2005\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/126-a-2005-595125
+  date: '2005-01-31'
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/341/1993/09/30/p/dre
   label: null
@@ -84,16 +89,35 @@ relationships:
   target: eli:http://data.dre.pt/eli/dec-lei/5/1995/01/17/p/dre
   label: null
   source: http://data.dre.pt/eli/dec-lei/5/1995/01/17/p/dre
+- type: cites
+  target: pt:dre:146567:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:645876:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:198753:por
+  label: "Revogada, a partir de 01.01.2009, pela PORT.1473-B/2008.17.12.2008.MOPTC, DR.IS [243]Supl de 17.12.2008\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/1473-b-2008-198753
+  date: '2008-12-17'
+- type: repealed_by
+  target: pt:dre:604653:por
+  label: "Revogada, a partir de 31.05.2009, (já revogada pela Port. 1473-B/2008 de 17-Dez), pelo DEC LEI.53/2009.02.03.2009.MOPTC,\
+    \ DR.IS [42] de 02.03.2009\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/53-2009-604653
+  date: '2009-03-02'
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T14:08:35Z'
   warnings: []
   errors: []
 ---
@@ -114,6 +138,6 @@ Manda o Governo, pelo Ministro do Equipamento, do Planeamento e da Administraç�
 
 Ministério do Equipamento, do Planeamento e da Administração do Território.
 
-**Assinada em 8 de Junho de 1998.**
+Assinada em 8 de Junho de 1998.
 
-**O Ministro do Equipamento, do Planeamento e da Administração do Território, João Cardona Gomes Cravinho.**
+O Ministro do Equipamento, do Planeamento e da Administração do Território, João Cardona Gomes Cravinho.

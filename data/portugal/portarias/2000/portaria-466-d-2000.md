@@ -19,7 +19,7 @@ publication:
   reference: Diário da República n.º 167/2000, 1º Suplemento, Série I-B de 2000-07-21
   number: '167'
   series: I
-  supplement: 1º Suplemento
+  supplement: null
   pages: 3514-(15) a 3514-(15)
   pdf_url: https://files.diariodarepublica.pt/1s/2000/07/167b01/00150015.pdf
 entry_into_force_dates: []
@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/466-d/2000/07/21/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/466-d-2000-203471
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2005-01-31T00:00:00Z'
+  retrieved_at: '2026-10-23T14:23:47Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: b9c9e484e77de452e90ed26a5a029547e8b209bbf9c984aa9170935fb0f187d0
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 5ee81686f43d88a4d6d34321ca207c746bbfe0a8724e6e3d1fa23a02c52e28a5
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T14:23:47Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -65,16 +65,32 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
+- Bragança
 - Ensino Superior Politécnico
 - Escola Superior Agrária
 - Instituto Politécnico
 - Licenciatura
-- Bragança
 relationships:
 - type: amended_by
   target: pt:dre:620374:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:624233:por
+  label: "Cessada, com a entrada e funcionamento do curso, a ministração do Curso bietápico de licenciatura em Engenharia\
+    \ Agronómica, na opção e Ramo de Fitotécnia criada pela Port 413-E/98, de 17-Jul, alterado pelo pelo presente diploma,\
+    \ pela PORT.111/2005.27.01.2005.MCIES, DR.IS-B [19] de 27.01.2005\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/111-2005-624233
+  date: '2005-01-27'
+- type: amended_by
+  target: pt:dre:620374:por
+  label: "Cessada, com a entrada em funcionamento do curso, a ministração do Curso bietápico de licenciatura em Engenharia\
+    \ Agronómica da Escola Superior Agrária do Instituto Politécnico de Bragança, na opção e ramo de Agro-Indústrias, criado\
+    \ pela Port 413-E/98, de 17-Jul, na redacção do presente diploma, e revogada a mesma Port, na parte que autoriza o Instituto\
+    \ Politécnico, a conferir os graus de bacharel e de licenciado em Engenharia Agronómica, na opção e ramo de Agro-Indústrias,\
+    \ pela PORT.126/2005.31.01.2005.MCIES, DR.IS-B [21] de 31.01.2005 \0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/126-2005-620374
+  date: '2005-01-31'
 - type: cites
   target: eli:http://data.dre.pt/eli/lei/115/1997/09/19/p/dre
   label: null
@@ -95,16 +111,48 @@ relationships:
   target: eli:http://data.dre.pt/eli/port/680-c/1998/08/31/p/dre
   label: null
   source: http://data.dre.pt/eli/port/680-c/1998/08/31/p/dre
+- type: cites
+  target: pt:dre:147873:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:222418:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:273991:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:429593:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:429596:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:453184:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:556606:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:653145:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T14:23:47Z'
   warnings: []
   errors: []
 ---

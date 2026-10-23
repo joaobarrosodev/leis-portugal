@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/573/2001/06/06/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/573-2001-321882
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2001-06-06T00:00:00Z'
+  retrieved_at: '2026-10-23T14:33:09Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 089af235a7780305894a47de0211fe2700dda98a45e5c19281e4103997e0f795
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: fdada7e2889e8208a147e50578f72507a41d375b5c1f43df6cd47a8310a705ae
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T14:33:09Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -78,13 +78,13 @@ relationships:
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T14:33:09Z'
   warnings: []
   errors: []
 ---
@@ -117,12 +117,12 @@ Promoção da aplicação de melhores práticas agrícolas nas bacias drenantes 
 
 4.º A prossecução dos objectivos previstos no n.º 2 envolve ainda as medidas e as acções constantes do anexo II à presente portaria, que dela faz parte integrante, com a calendarização aí indicada.
 
-**O Ministro do Ambiente e do Ordenamento do Território, José Sócrates Carvalho Pinto de Sousa, em 30 de Abril de 2001.**
+O Ministro do Ambiente e do Ordenamento do Território, José Sócrates Carvalho Pinto de Sousa, em 30 de Abril de 2001.
 
 ## ANEXO I — Classificação da qualidade da água de zonas balneares (zonas balneares não conformes com base no anexo XV do Decreto-Lei n.º 236/98, de 1 de Agosto)
 
-[(ver quadros no documento original)](https://files.diariodarepublica.pt/1s/2001/06/131b00/34453449.pdf)
+[[(ver quadros no documento original)](https://files.diariodarepublica.pt/1s/2001/06/131b00/34453449.pdf)](https://files.diariodarepublica.pt/1s/2001/06/131b00/34453449.pdf)
 
 ## ANEXO II — Calendário da realização das medidas e acções
 
-[(ver quadros no documento original)](https://files.diariodarepublica.pt/1s/2001/06/131b00/34453449.pdf)
+[[(ver quadros no documento original)](https://files.diariodarepublica.pt/1s/2001/06/131b00/34453449.pdf)](https://files.diariodarepublica.pt/1s/2001/06/131b00/34453449.pdf)

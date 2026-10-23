@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/929/2000/10/02/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/929-2000-552836
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2003-11-05T00:00:00Z'
+  retrieved_at: '2026-10-23T14:26:52Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 46989ee08c280d01761f6908e248973e0d476e2335fd5344283f02bc8b461e13
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 8c3ec9ae96a94e99aafef8e9c8bcb857a0f2e685b1216d61f2720e56c23a3162
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T14:26:52Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,18 +66,30 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Plano de Estudos
 - Curso de Complemento de Formação em Enfermagem
 - Curso de Enfermagem
 - Enfermagem
 - Escola Superior de Saúde do VALE do Sousa
 - Instituto Politécnico de Saúde do Norte
 - Licenciatura
+- Plano de Estudos
 relationships:
 - type: amended_by
   target: pt:dre:468587:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:656079:por
+  label: "Alterado o plano de estudos do curso de licenciatura em Enfermagem pela PORT.1193/2000.2000.12.19.ME,DR.IS-B [291]\0\
+    \0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/1193-2000-656079
+  date: '2000-12-19'
+- type: amended_by
+  target: pt:dre:468587:por
+  label: "Alterado o plano de estudos constante do anexo I deste diploma, alterado pelas Port 1193/2000 de 19-Dez e 1145/2001\
+    \ de 27-Set, pela PORT.1269/2003.05.11.2003.MCES, DR.IS-B [256] de 05.11.2003\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/1269-2003-468587
+  date: '2003-11-05'
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/16/1994/01/22/p/dre
   label: null
@@ -110,16 +122,48 @@ relationships:
   target: eli:http://data.dre.pt/eli/port/848-a/1999/09/30/p/dre
   label: null
   source: http://data.dre.pt/eli/port/848-a/1999/09/30/p/dre
+- type: cites
+  target: pt:dre:150335:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:241430:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:512030:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:533820:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:581591:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:581593:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:582195:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:675650:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T14:26:52Z'
   warnings: []
   errors: []
 ---

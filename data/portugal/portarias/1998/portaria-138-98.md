@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/138/1998/03/04/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/138-1998-218523
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1998-03-04T00:00:00Z'
+  retrieved_at: '2026-10-23T14:06:59Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: b2842a1976b6b0b05f3cea36b3275d4bedf8b2535c52e9bd11f56e26bef5c33c
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: c64d83625b00c7727e7bb01af2fbefa30825460e6c5f95b6dc0b00406b11a235
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T14:06:59Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,9 +66,9 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Plano de Estudos
-- Exame
 - Ensino Superior
+- Exame
+- Plano de Estudos
 relationships:
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/28-b/1996/04/04/p/dre
@@ -78,16 +78,28 @@ relationships:
   target: eli:http://data.dre.pt/eli/dec-lei/75/1997/04/03/p/dre
   label: null
   source: http://data.dre.pt/eli/dec-lei/75/1997/04/03/p/dre
+- type: cites
+  target: pt:dre:314396:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:526782:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:618310:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T14:06:59Z'
   warnings: []
   errors: []
 ---
@@ -144,13 +156,13 @@ Esta portaria entra em vigor no dia imediato ao da sua publicação.
 
 Ministério da Educação.
 
-**Assinada em 6 de Fevereiro de 1998.**
+Assinada em 6 de Fevereiro de 1998.
 
 Pelo Ministro da Educação: Alfredo Jorge Silva, Secretário de Estado do Ensino Superior. - Ana Benavente, Secretária de Estado da Educação e Inovação.
 
 ## ANEXO I — Disciplinas específicas
 
-[(ver anexo no documento original)](https://files.diariodarepublica.pt/1s/1998/03/053b00/08450850.pdf)
+[[[(ver anexo no documento original)](https://files.diariodarepublica.pt/1s/1998/03/053b00/08450850.pdf)](https://files.diariodarepublica.pt/1s/1998/03/053b00/08450850.pdf)](https://files.diariodarepublica.pt/1s/1998/03/053b00/08450850.pdf)
 
 ## ANEXO II — Cursos do novo ensino secundário
 
@@ -160,7 +172,7 @@ A 1.ª coluna indica a disciplina específica exigida para acesso ao ensino supe
 
 Sempre que existam programas em alternativa, o estudante pode optar pelo que melhor se aplica ao programa que efectivamente frequentou, salvo nos casos em que é referida alguma reserva.
 
-[(ver anexo no documento original)](https://files.diariodarepublica.pt/1s/1998/03/053b00/08450850.pdf)
+[[[(ver anexo no documento original)](https://files.diariodarepublica.pt/1s/1998/03/053b00/08450850.pdf)](https://files.diariodarepublica.pt/1s/1998/03/053b00/08450850.pdf)](https://files.diariodarepublica.pt/1s/1998/03/053b00/08450850.pdf)
 
 ## ANEXO III — Outros cursos do ensino secundário e habilitações legalmente equivalentes
 
@@ -170,4 +182,4 @@ A 1.ª coluna indica a disciplina específica exigida para acesso ao ensino supe
 
 Sempre que existam programas em alternativa, o estudante pode optar pelo que melhor se aplica ao programa que efectivamente frequentou.
 
-[(ver anexo no documento original)](https://files.diariodarepublica.pt/1s/1998/03/053b00/08450850.pdf)
+[[[(ver anexo no documento original)](https://files.diariodarepublica.pt/1s/1998/03/053b00/08450850.pdf)](https://files.diariodarepublica.pt/1s/1998/03/053b00/08450850.pdf)](https://files.diariodarepublica.pt/1s/1998/03/053b00/08450850.pdf)

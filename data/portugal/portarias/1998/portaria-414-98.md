@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/414/1998/07/20/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/414-1998-424337
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1998-07-20T00:00:00Z'
+  retrieved_at: '2026-10-23T14:08:45Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 66ce51d44e48605836fe8208b38ccc29caace1fe81b871f6020ee24cb06bbd54
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 188c41d2c97130c42b94f1ee381387b88617497611e086fc0205fd686b7b661b
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T14:08:45Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -76,16 +76,28 @@ relationships:
   target: eli:http://data.dre.pt/eli/decregul/17/1992/07/22/p/dre
   label: null
   source: http://data.dre.pt/eli/decregul/17/1992/07/22/p/dre
+- type: cites
+  target: pt:dre:239457:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:292498:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:382621:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T14:08:45Z'
   warnings: []
   errors: []
 ---
@@ -100,12 +112,12 @@ Manda o Governo, pelos Ministros das Finanças, Adjunto e do Trabalho e da Solid
 
 Presidência do Conselho de Ministros e Ministérios das Finanças e do Trabalho e da Solidariedade.
 
-**Assinada em 18 de Maio de 1998.**
+Assinada em 18 de Maio de 1998.
 
 Pelo Ministro das Finanças, João Carlos da Costa Ferreira da Silva, Secretário de Estado do Orçamento. - Pelo Ministro Adjunto, Fausto de Sousa Correia, Secretário de Estado da Administração Pública e da Modernização Administrativa. - O Ministro do Trabalho e da Solidariedade, Eduardo Luís Barreto Ferro Rodrigues.
 
-## ANEXO — [(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/1998/07/165b00/34803482.pdf)
+## ANEXO — [[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/1998/07/165b00/34803482.pdf)](https://files.diariodarepublica.pt/1s/1998/07/165b00/34803482.pdf)
 
 Pessoal abrangido pela [Portaria n.º 193/79](https://diariodarepublica.pt/dr/detalhe/portaria/193-1979-382621), de 21 de Abril
 
-[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/1998/07/165b00/34803482.pdf)
+[[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/1998/07/165b00/34803482.pdf)](https://files.diariodarepublica.pt/1s/1998/07/165b00/34803482.pdf)

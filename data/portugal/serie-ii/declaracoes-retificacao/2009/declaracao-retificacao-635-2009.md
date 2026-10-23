@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/2s/2009/02/041000000/0796407964.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -47,18 +47,18 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/declaracao-rectificacao/635-2009-3612314
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2009-02-27T00:00:00Z'
+  retrieved_at: '2026-10-23T14:12:52Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 66cb89508d8058bb010a3b359fb4c8c1b1630db0a12ec10dca8b966a94165550
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 012da4481b2d5fc2e801f2b18187cfcef5947432ab636d7490ebea4b40ea97c3
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T14:12:52Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,22 +66,26 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects: []
-relationships: []
+relationships:
+- type: cites
+  target: pt:dre:2662428:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T14:12:52Z'
   warnings: []
   errors: []
 ---
 
-# Declaração de Rectificação n.º 635/2009
+# Declaração de rectificação n.º 635/2009
 
 Rectificação do [Despacho (extracto) n.º 4661/2009](https://diariodarepublica.pt/dr/detalhe/despacho-extracto/4661-2009-2662428), publicado no Diário da República, 2.ª série, n.º 26, de 6 de Fevereiro de 2009 relativo à docente da Escola Superior Agrária de Coimbra deste Instituto Politécnico Sandra Cristina de Oliveira Pinto Gamboa - onde se lê «ficando, mensalmente, a ser remunerada pelo valor do escalão 1, índice 295» deve ler-se «ficando, mensalmente, a ser remunerada pelo valor do escalão 4, índice 337».
 

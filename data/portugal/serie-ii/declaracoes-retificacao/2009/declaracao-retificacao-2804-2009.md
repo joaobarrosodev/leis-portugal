@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/2s/2009/11/220000000/4610846108.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -47,18 +47,18 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/declaracao-rectificacao/2804-2009-1654866
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2009-11-12T00:00:00Z'
+  retrieved_at: '2026-10-23T14:09:15Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 41a112dcf5a84a2d8b07e94a22c69bec716eafaf98dd430d7daaf899a96adb9f
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 0bfa1cc049aba022656925c0efb5568428afc4702a09715fce3172296180a7df
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T14:09:15Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -70,13 +70,13 @@ relationships: []
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T14:09:15Z'
   warnings: []
   errors: []
 ---
@@ -88,3 +88,5 @@ Declaração de rectificação n.º 2804/2009
 Rectificação à deliberação n.º 2991/2009, publicada no Diário da República, 2.ª série, n.º 212, de 2 de Novembro de 2009, a p. 44536, referente a delegação de competências do conselho de gestão no seu presidente, Fernando Lopes Rodrigues Sebastião. Rectifica-se que onde se lê «Consideram-se rectificados todos os actos praticados pelo presidente no âmbito dos poderes delegados pelo Presidente do Conselho de Gestão» deve ler-se «Consideram-se rectificados todos os actos praticados pelo presidente no âmbito dos poderes delegados pelo Conselho de Gestão».
 
 6 de Novembro de 2009. - A Vice-Presidente do Conselho de Gestão, Maria Paula Martins Oliveira Carvalho.
+
+202555229

@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/233/1997/04/03/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/233-1997-526664
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1997-04-03T00:00:00Z'
+  retrieved_at: '2026-10-23T14:01:27Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: c733718e5987643ecfe70a5c354ceca573d4b4041450efd9401152b92aafc332
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: a65e93b916c516571d5d2838e21068ed0846ad8680d30a5b4ddc4f17bd6589fd
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T14:01:27Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,8 +66,8 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Exame
 - Ensino Superior
+- Exame
 relationships:
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/28-b/1996/04/04/p/dre
@@ -77,16 +77,28 @@ relationships:
   target: eli:http://data.dre.pt/eli/dec-lei/75/1997/04/03/p/dre
   label: null
   source: http://data.dre.pt/eli/dec-lei/75/1997/04/03/p/dre
+- type: cites
+  target: pt:dre:314396:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:526782:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:618310:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T14:01:27Z'
   warnings: []
   errors: []
 ---
@@ -145,13 +157,13 @@ Esta portaria entra em vigor na data da sua publicação.
 
 Ministério da Educação.
 
-**Assinada em 3 de Abril de 1997.**
+Assinada em 3 de Abril de 1997.
 
 Pelo Ministro da Educação: Ana Benavente, Secretária de Estado da Educação e Inovação - Alfredo Jorge Silva, Secretário de Estado do Ensino Superior.
 
 ## ANEXO I — Disciplinas específicas
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1997/04/078b00/15141518.pdf))](https://files.diariodarepublica.pt/1s/1997/04/078b00/15141518.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1997/04/078b00/15141518.pdf)
 
 ## ANEXO II — Cursos do novo ensino secundário
 
@@ -163,7 +175,7 @@ Sempre que existam programas em alternativa, o estudante pode optar pelo que mel
 
 Nos exames identificados na 3.ª coluna com «rede de amostragem» só podem inscrever-se os alunos que efectivamente cursaram os programas respectivos.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1997/04/078b00/15141518.pdf))](https://files.diariodarepublica.pt/1s/1997/04/078b00/15141518.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1997/04/078b00/15141518.pdf)
 
 ## ANEXO III — Outros cursos do ensino secundário e habilitações legalmente equivalentes
 
@@ -173,4 +185,4 @@ A 1.ª coluna indica a disciplina específica. As 2.ª e 3.ª colunas indicam o 
 
 Sempre que existam programas em alternativa, o estudante pode optar pelo que melhor se aplica ao programa que efectivamente frequentou.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1997/04/078b00/15141518.pdf))](https://files.diariodarepublica.pt/1s/1997/04/078b00/15141518.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1997/04/078b00/15141518.pdf)

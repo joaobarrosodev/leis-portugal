@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1999/12/283b00/86508651.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/1060/1999/12/06/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/1060-1999-631257
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1999-12-06T00:00:00Z'
+  retrieved_at: '2026-10-23T14:12:47Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 5d4d2430e4a70e7add5653770e8441bc1d1af1f52e811972c907e7afa9f8522b
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: d148e0878547bc0006c79beb9e3ef3f685f57d8abca20c2767382f25ac3a94ff
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T14:12:47Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,20 +67,33 @@ reuse:
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
 - Água Mineral
-- Recursos Hídricos
-- Penacova
 - Águas Subterrâneas
-relationships: []
+- Penacova
+- Recursos Hídricos
+relationships:
+- type: cites
+  target: pt:dre:333159:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:333160:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:74226535:por
+  label: Revogada, a partir de 26.04.2016, pelo(a) Portaria n.º 98/2016 - Diário da República n.º 78/2016, Série I de 2016-04-21
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/98-2016-74226535
+  date: '2016-04-21'
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T14:12:47Z'
   warnings: []
   errors: []
 ---
@@ -103,15 +116,15 @@ Manda o Governo, pelos Ministros do Equipamento, do Planeamento e da Administra�
 
 a) Zona imediata - delimitada pelo polígono ABCD, cujos vértices têm as seguintes coordenadas:
 
-[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/1999/12/283b00/86508651.pdf)
+[[[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/1999/12/283b00/86508651.pdf)](https://files.diariodarepublica.pt/1s/1999/12/283b00/86508651.pdf)](https://files.diariodarepublica.pt/1s/1999/12/283b00/86508651.pdf)
 
 b) Zona intermédia - delimitada pelo polígono 1234, cujos vértices têm as seguintes coordenadas:
 
-[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/1999/12/283b00/86508651.pdf)
+[[[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/1999/12/283b00/86508651.pdf)](https://files.diariodarepublica.pt/1s/1999/12/283b00/86508651.pdf)](https://files.diariodarepublica.pt/1s/1999/12/283b00/86508651.pdf)
 
 c) Zona alargada - delimitada pelo polígono EFGHI, cujos vértices têm as seguintes coordenadas:
 
-[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/1999/12/283b00/86508651.pdf)
+[[[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/1999/12/283b00/86508651.pdf)](https://files.diariodarepublica.pt/1s/1999/12/283b00/86508651.pdf)](https://files.diariodarepublica.pt/1s/1999/12/283b00/86508651.pdf)
 
 2.º As zonas e respectivos limites são os constantes do mapa anexo I à presente portaria, que dela faz pate integrante.
 

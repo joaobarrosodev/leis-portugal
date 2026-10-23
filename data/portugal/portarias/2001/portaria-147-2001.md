@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/147/2001/03/02/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/147-2001-372386
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2010-03-24T00:00:00Z'
+  retrieved_at: '2026-10-23T14:30:21Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: b9a734a502791bb3bf1360b2335af1192ce84d71a8407ca431bf98aade9c512c
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: c98d823e958d2c8a656eae93ed5346081233efe34cb00655b79d7d9c3213e393
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T14:30:21Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -70,15 +70,15 @@ subjects:
 - Coordenador
 - Criação de Serviços
 - Definição de Competências
-- Hospitais Civis de Lisboa
+- Estabelecimento Hospitalar
 - Grupo de Hospitais
-- Hospital de Curry Cabral
-- Maternidade Alfredo da Costa
 - Grupo Hospitalar dos Hospitais Civis de Lisboa
+- Hospitais Civis de Lisboa
+- Hospital de Curry Cabral
 - Hospital de Santa Marta
 - Hospital de Santo António dos Capuchos
 - Hospital do Desterro
-- Estabelecimento Hospitalar
+- Maternidade Alfredo da Costa
 - Regulamento Interno
 - Remuneração
 relationships:
@@ -86,6 +86,31 @@ relationships:
   target: pt:dre:611310:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:213619:por
+  label: "Extinto, enquanto pessoa colectiva, o subgrupo hospitalar constitu&#237;do pelo Hospital de Santo Ant&#243;nio dos\
+    \ Capuchos e o Hospital do Desterro, criado pelo presente diploma, revogado o n.&#186; 2 do Regulamento anexo e mantido\
+    \ em vigor pela PORT.115-A/2004.30.01.2004.MS, DR.IS-B [25] de 30.01.2004, com as altera&#231;&#245;es decorrentes da\
+    \ sua entrada em vigor\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/115-a-2004-213619
+  date: '2004-01-30'
+- type: amended_by
+  target: pt:dre:470071:por
+  label: "Fundido, sob a denominação de Centro Hospitalar de Lisboa Central, E.P.E., o Centro Hospitalar de Lisboa (Zona Central),\
+    \ criado pela Port 115-A/2004 de 30-Jan DR.IS-B [25], com o Hospital de D.Estefânia, cujo regulamento interno consta do\
+    \ presente diploma, e com o Hospital de Santa Marta, E.P.E. criado pelo Dec Lei 93/2005 de 07-Jun DR.IS-A [109], cujos\
+    \ Estatutos constam do Dec Lei 233/2005 de 29-Dez DR.IS-A [249], pelo DEC LEI.50-A/2007.28.02.2007.MS, DR.IS [42-2ºSupl]\
+    \ de 28.02.2007\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/50-a-2007-470071
+  date: '2007-02-28'
+- type: amended_by
+  target: pt:dre:611310:por
+  label: "Extinto, a partir de 01.04.2010, o Hospital de Curry Cabral, enquanto entidade do sector público administrativo\
+    \ (SPA), integrado no Grupo Hospitalar dos Hospitais Civis de Lisboa, cujo regulamento interno consta deste diploma, e\
+    \ determinada a sucessão pelo Hospital de Curry Cabral, E.P.E., em todos os seus direitos e obrigações, pelo DEC LEI.21/2010.24.03.2010.MS,\
+    \ DR.IS [58] de 24.03.2010\00\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/21-2010-611310
+  date: '2010-03-24'
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/284/1999/07/26/p/dre
   label: null
@@ -106,16 +131,36 @@ relationships:
   target: eli:http://data.dre.pt/eli/port/201/1996/06/05/p/dre
   label: null
   source: http://data.dre.pt/eli/port/201/1996/06/05/p/dre
+- type: cites
+  target: pt:dre:353350:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:437433:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:437434:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:566069:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:667369:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T14:30:21Z'
   warnings: []
   errors: []
 ---
@@ -176,7 +221,7 @@ Entrada em vigor
 
 A presente portaria entra em vigor no dia seguinte ao da sua publicação.
 
-**A Ministra da Saúde, Maria Manuela de Brito Arcanjo Marques da Costa, em 5 de Fevereiro de 2001.**
+A Ministra da Saúde, Maria Manuela de Brito Arcanjo Marques da Costa, em 5 de Fevereiro de 2001.
 
 REGULAMENTO INTERNO DO GRUPO HOSPITALAR DOS HOSPITAIS CIVIS DE LISBOA
 

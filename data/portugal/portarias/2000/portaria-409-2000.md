@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2000/07/163b00/32493253.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/409/2000/07/17/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/409-2000-320275
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2007-05-30T00:00:00Z'
+  retrieved_at: '2026-10-23T14:23:26Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 8b51c725d8dc275e5235870f461f477513b88d91ea19f08bee1dae09b281c63a
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 98edda511f0f912b49b4dc51d46d098d5af672f0fbeb1edc9a94ff3787fe341e
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T14:23:26Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -82,6 +82,11 @@ relationships:
   target: pt:dre:638753:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:362331:por
+  label: "Alterado o art. 16º, aditado o nº 4 ao art. 15º e o art. 19º pela PORT.346/2001.2001.04.06.MTS DR.IS-B [82]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/346-2001-362331
+  date: '2001-04-06'
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/166/1998/06/25/p/dre
   label: null
@@ -98,16 +103,37 @@ relationships:
   target: eli:http://data.dre.pt/eli/dec-lei/404/1991/10/16/p/dre
   label: null
   source: http://data.dre.pt/eli/dec-lei/404/1991/10/16/p/dre
+- type: cites
+  target: pt:dre:289071:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:310379:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:374620:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:478249:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:638753:por
+  label: "Revogada, a partir de 01.06.2007, pela PORT.639/2007.30.05.2007.MFAP, DR.IS [104] de 30.05.2007\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/639-2007-638753
+  date: '2007-05-30'
 article_structure:
   article_count: 18
   section_count: 6
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T14:23:26Z'
   warnings: []
   errors: []
 ---

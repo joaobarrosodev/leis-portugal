@@ -20,12 +20,12 @@ publication:
   reference: Diário da República n.º 298/2000, 4º Suplemento, Série I-B de 2000-12-28
   number: '298'
   series: I
-  supplement: 4º Suplemento
+  supplement: null
   pages: 7484-(10) a 7484-(10)
   pdf_url: https://files.diariodarepublica.pt/1s/2000/12/298b04/00100010.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/1216-b/2000/12/28/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/1216-b-2000-527225
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2003-08-28T00:00:00Z'
+  retrieved_at: '2026-10-23T14:20:35Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 000ba889b3e5bbd1109d885e70e64076324eb553a76c43f5143c98164245237b
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: e24f3a59c464595abc29b336098d79b64d99bb08b95493bf775c5c307f8ec858
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T14:20:35Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,24 +67,24 @@ reuse:
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
 - Ajuda Comunitária
-- Empresa
+- Associação
 - CAE
-- Turismo
 - Cooperação Interempresas
 - Direcção Geral da Indústria
 - Direcção Geral de Energia
 - Direcção Geral do Comércio e da Concorrência
 - Direcção Geral do Turismo
+- Empresa
+- IAPMEI
 - Instituto de Financiamento e Apoio ao Turismo
 - Junta de Turismo
 - Medida de Apoio ao Associativismo
-- QCA III
-- Projeto
-- Regulamento
-- Associação
-- Setor Empresarial
 - Programa Operacional da Economia
-- IAPMEI
+- Projeto
+- QCA III
+- Regulamento
+- Setor Empresarial
+- Turismo
 relationships:
 - type: amended_by
   target: pt:dre:633279:por
@@ -98,16 +98,30 @@ relationships:
   target: eli:http://data.dre.pt/eli/port/686-b/2000/08/30/p/dre
   label: null
   source: http://data.dre.pt/eli/port/686-b/2000/08/30/p/dre
+- type: cites
+  target: pt:dre:510266:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:516931:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:633279:por
+  label: "Revogada a Port 686-B/2000 de 30-Ago, com a redacção da presente pela PORT.903/2003.2003.08.28.MF DR.IS-B [198]\0\
+    \0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/903-2003-633279
+  date: '2003-08-28'
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T14:20:35Z'
   warnings: []
   errors: []
 ---
@@ -136,4 +150,4 @@ Os projectos recepcionados até 31 de Janeiro de 2001 poderão ser comparticipad
 
 Em 28 de Dezembro de 2000.
 
-**O Ministro das Finanças, Joaquim Augusto Nunes Pina Moura. - Pelo Ministro da Economia, Vítor Manuel da Silva Santos, Secretário de Estado Adjunto do Ministro da Economia. - A Ministra do Planeamento, Elisa Maria da Costa Guimarães Ferreira.**
+O Ministro das Finanças, Joaquim Augusto Nunes Pina Moura. - Pelo Ministro da Economia, Vítor Manuel da Silva Santos, Secretário de Estado Adjunto do Ministro da Economia. - A Ministra do Planeamento, Elisa Maria da Costa Guimarães Ferreira.

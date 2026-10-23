@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2001/04/089b00/21632166.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/394/2001/04/16/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/394-2001-357359
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2012-11-21T00:00:00Z'
+  retrieved_at: '2026-10-23T14:31:57Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: d6b9889f922423026042fcd9315b1044548b6e5891c5fce7ef8dc4177dfcb043
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: dfe1e5101679d8d393595e6e833dc769b7d170df480bfa6edcbee018b339c083
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T14:31:57Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -65,15 +65,15 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Vinho
-- Denominação de Origem
 - Controlo de Qualidade
+- Denominação de Origem
 - Região Demarcada
-- Vinho Regional Terras do SADO
+- Vinha
+- Vinho
 - Vinho Regional Alentejo
 - Vinho Regional Estremadura
 - Vinho Regional Minho
-- Vinha
+- Vinho Regional Terras do SADO
 - ZONA Vitivinícola
 relationships:
 - type: amended_by
@@ -92,16 +92,39 @@ relationships:
   target: celex:32000R1227
   label: null
   source: http://data.europa.eu/eli/reg/2000/1227/oj
+- type: repealed_by
+  target: pt:dre:479875:por
+  label: "Revogada pelo Dec Lei 212/2004 de 23-Ago, DR.IS-A [198], mantido contudo transitoriamente em vigor até à publicação\
+    \ da legislação prevista nos arts 5º a 11º do referido diploma\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/212-2004-479875
+  date: '2004-08-23'
+- type: repealed_by
+  target: pt:dre:491935:por
+  label: "Revogado o anexo III pela PORT.695/2009.29.06.2009.MADRP, DR.IS [123] de 29.06.2009- (Ver nº 2 do art. 24.º do Dec\
+    \ Lei 212/2004 de 23-Ago)\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/695-2009-491935
+  date: '2009-06-29'
+- type: repealed_by
+  target: pt:dre:614874:por
+  label: "Revogado o anexo IV, pela PORT.276/2010.19.05.2010.MADRP, DR.IS [97] de 19.05.2010, nos termos do seu artigo 13º\0\
+    \0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/276-2010-614874
+  date: '2010-05-19'
+- type: repealed_by
+  target: pt:dre:190873:por
+  label: "Revogada, na parte em vigor, pela PORT.379/2012.21.11.2012.MAMAOT, DR.IS [225] de 21.11.2012\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/379-2012-190873
+  date: '2012-11-21'
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T14:31:57Z'
   warnings: []
   errors: []
 ---
@@ -140,7 +163,7 @@ e) O anexo II da Portaria n.º 303/98, de 19 de Maio;
 
 f) O n.º 4.º e o anexo II da Portaria n.º 623/98, de 28 de Agosto.
 
-**O Ministro da Agricultura, do Desenvolvimento Rural e das Pescas, Luís Medeiros Vieira, Secretário de Estado da Agricultura, em 20 de Março de 2001.**
+O Ministro da Agricultura, do Desenvolvimento Rural e das Pescas, Luís Medeiros Vieira, Secretário de Estado da Agricultura, em 20 de Março de 2001.
 
 ## ANEXO I — Vinho regional Minho
 

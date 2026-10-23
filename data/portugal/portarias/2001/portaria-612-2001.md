@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2001/06/142b00/36633663.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/612/2001/06/21/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/612-2001-362304
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2011-04-04T00:00:00Z'
+  retrieved_at: '2026-10-23T14:33:24Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: b177a816617ee36b53839de19d743d8dc4e208c53cb57ff072301005548104d1
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: ef322797c84d8816ce42755fc1765913bc1208376a6e0cfac0ec1e19b4968f4b
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T14:33:24Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,25 +67,48 @@ reuse:
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
 - Acordo
-- Instituto do Emprego e Formação Profissional
-- Formação Profissional
 - Citex
+- Formação Profissional
 - Indústria Têxtil
+- Instituto do Emprego e Formação Profissional
 relationships:
 - type: amended_by
   target: pt:dre:278046:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:694247:por
+  label: "Alterada a denominação das associações intervenientes no protocolo aprovado pela Port 283/88, de 04-Mai DR.IS [103],\
+    \ na redacção do presente diploma, pela PORT.513/2003.2003.07.01.MSST DR.IS-A [149] \0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/513-2003-694247
+  date: '2003-07-01'
+- type: amended_by
+  target: pt:dre:494486:por
+  label: "Alterada a denominação das associações intevenientes no protocolo aprovado pela Port 283/88, de 04-Mai DR.IS [103]\
+    \ com as alterações introduzidas pelo presente diploma e pela Port 513/2003, de 01-Jul, pela PORT.1050/2003.2003.09.23.MSST\
+    \ DR.IS-B [220]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/1050-2003-494486
+  date: '2003-09-23'
+- type: amended_by
+  target: pt:dre:278046:por
+  label: "Determinada a extinção do CITEX e revogada, a partir de 03.06.2011, a Port 283/88, de 04-Maio, na redacção da presente\
+    \ portaria, pela PORT.135/2011.04.04.2011.MTSSO, DR.IS [66] de 04.04.2011\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/135-2011-278046
+  date: '2011-04-04'
+- type: cites
+  target: pt:dre:373602:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T14:33:24Z'
   warnings: []
   errors: []
 ---

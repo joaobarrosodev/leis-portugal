@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/376/1998/07/01/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/376-1998-478064
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2000-04-28T00:00:00Z'
+  retrieved_at: '2026-10-23T14:08:29Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: f84a7f423b459c7a915542fd80ab89011d4b5375579a2f9f8e8f9239c667e33a
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 70d3e8c34ba4605a6abbe9e8e62fbb8d7b3395d25b671ca0983b2d5174b6bf8e
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T14:08:29Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,18 +66,31 @@ reuse:
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
 - Direcção Geral das Pescas e Aquicultura
-- Pesca
-- Gestão dos Recursos
-- Recursos do Mar
-- Peixe
-- Quota de Pesca
 - Embarcação de Pesca
+- Gestão dos Recursos
+- Peixe
+- Pesca
+- Quota de Pesca
+- Recursos do Mar
 - Sardinha
 relationships:
 - type: amended_by
   target: pt:dre:522227:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:433408:por
+  label: "Alterados os nºs 3º, 6º, 7º e 8º da Port 281-B/97 de 30-Abr, na redacção dada pelo presente diploma, pela PORT.677/99.1999.08.23.MADRP,DR.IS-B\
+    \ [196]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/677-1999-433408
+  date: '1999-08-23'
+- type: amended_by
+  target: pt:dre:522227:por
+  label: "Alterada a al. a) do n.º 2 (na redacção da Port 1004/98, de 27-Nov) e os n.º 3 e 6 (ambos na redacção do presente\
+    \ diploma e da port 677/99, de 23-Ago) e revogado o n.º 11 todos da Port 281-B/97, de 30-Abr, pela PORT.236/2000.2000.04.28.MADRP\
+    \ DR.IS-B [99]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/236-2000-522227
+  date: '2000-04-28'
 - type: cites
   target: celex:31983R2807
   label: null
@@ -90,16 +103,22 @@ relationships:
   target: eli:http://data.dre.pt/eli/port/281-b/1997/04/30/p/dre
   label: null
   source: http://data.dre.pt/eli/port/281-b/1997/04/30/p/dre
+- type: republished_by
+  target: pt:dre:522227:por
+  label: "Republicado o texto da Port 281-B/97, de 30-Abr, na redacção do presente diploma e das Ports. 1004/98 de 27/Nov,\
+    \ 147-B/99 de 2/Mar, 677/99 de 23/Ago, 935-B/99 de 21-Out, pela PORT.236/2000.2000.04.28.MADRP DR.IS-B [99]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/236-2000-522227
+  date: '2000-04-28'
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T14:08:29Z'
   warnings: []
   errors: []
 ---
@@ -150,7 +169,7 @@ Manda o Governo, pelo Ministro da Agricultura, do Desenvolvimento Rural e das Pe
 
 Ministério da Agricultura, do Desenvolvimento Rural e das Pescas.
 
-**Assinada em 5 de Junho de 1998.**
+Assinada em 5 de Junho de 1998.
 
 Pelo Ministro da Agricultura, do Desenvolvimento Rural e das Pescas, Marcelo de Sousa Vasconcelos, Secretário de Estado das Pescas.
 

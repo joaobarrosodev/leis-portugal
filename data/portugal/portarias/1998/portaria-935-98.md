@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/935/1998/10/29/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/935-1998-228786
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1998-10-29T00:00:00Z'
+  retrieved_at: '2026-10-23T14:12:01Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 4612f848717d409d6d380a68987aeafdd10aa970e114c2622c26d24f27b453e9
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 7c6867107c8ea897ade5151d857409eb06d039d94bd14f64846f90ee37e6fd67
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T14:12:01Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,11 +66,11 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Família
-- Associação de Família
-- Impresso
 - Associação
+- Associação de Família
 - Direito de Família
+- Família
+- Impresso
 relationships:
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/247/1998/08/11/p/dre
@@ -80,16 +80,24 @@ relationships:
   target: eli:http://data.dre.pt/eli/lei/9/1997/05/12/p/dre
   label: null
   source: http://data.dre.pt/eli/lei/9/1997/05/12/p/dre
+- type: cites
+  target: pt:dre:385207:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:438065:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T14:12:01Z'
   warnings: []
   errors: []
 ---
@@ -102,13 +110,13 @@ Nos termos do artigo 12.º do [Decreto-Lei n.º 247/98](https://diariodarepublic
 
 Presidência do Conselho de Ministros.
 
-**Assinada em 15 de Outubro de 1998.**
+Assinada em 15 de Outubro de 1998.
 
-**O Secretário de Estado da Presidência do Conselho de Ministros, Vitalino José Ferreira Prova Canas.**
+O Secretário de Estado da Presidência do Conselho de Ministros, Vitalino José Ferreira Prova Canas.
 
 ## ANEXO I — Formulário de declaração de associados para reconhecimento de representatividade genérica
 
-[(ver modelo no documento original)](https://files.diariodarepublica.pt/1s/1998/10/250b00/56265630.pdf)
+[[(ver modelo no documento original)](https://files.diariodarepublica.pt/1s/1998/10/250b00/56265630.pdf)](https://files.diariodarepublica.pt/1s/1998/10/250b00/56265630.pdf)
 
 ## ANEXO II — Formulário de candidatura ao apoio previsto no artigo 9.º do [Decreto-Lei n.º 247/98](https://diariodarepublica.pt/dr/detalhe/decreto-lei/247-1998-438065), de 11 de Agosto
 
@@ -116,4 +124,4 @@ Presidência do Conselho de Ministros.
 
 ## ANEXO III — Formulário de declaração para associações de família de âmbito regional e local
 
-[(ver modelo no documento original)](https://files.diariodarepublica.pt/1s/1998/10/250b00/56265630.pdf)
+[[(ver modelo no documento original)](https://files.diariodarepublica.pt/1s/1998/10/250b00/56265630.pdf)](https://files.diariodarepublica.pt/1s/1998/10/250b00/56265630.pdf)

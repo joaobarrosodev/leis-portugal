@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/168/2000/03/21/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/168-2000-515271
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2000-03-21T00:00:00Z'
+  retrieved_at: '2026-10-23T14:21:55Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 634cb6b4c9fee0d6de5ed9f07109d56c848fb64934a6545671d0771afa6c2501
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 7aeff3bb356b4330b9b16aa100900656c3a3f86612b44cfdb74e9fe10826171f
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T14:21:55Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,27 +67,31 @@ reuse:
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
 - Cartão de Identificação
-- Secretaria Geral
+- Funcionário Público
 - Gabinete Governamental
 - Membros do Governo
 - Ministério do Equipamento Social
 - Pessoal de Gabinete
-- Funcionário Público
+- Secretaria Geral
 relationships:
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/474-a/1999/11/08/p/dre
   label: null
   source: http://data.dre.pt/eli/dec-lei/474-a/1999/11/08/p/dre
+- type: cites
+  target: pt:dre:692200:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T14:21:55Z'
   warnings: []
   errors: []
 ---
@@ -126,6 +130,6 @@ Modelo n.º 2 - para uso do restante pessoal dos serviços e organismos do Minis
 
 10.º Em caso de extravio, destruição ou deterioração dos cartões, pode ser emitida uma segunda via, de que se fará indicação expressa.
 
-**O Ministro do Equipamento Social, Jorge Paulo Sacadura Almeida Coelho, em 28 de Fevereiro de 2000.**
+O Ministro do Equipamento Social, Jorge Paulo Sacadura Almeida Coelho, em 28 de Fevereiro de 2000.
 
 [(ver modelos no documento original)](https://files.diariodarepublica.pt/1s/2000/03/068b00/10901090.pdf)

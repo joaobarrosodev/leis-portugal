@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/411/1998/07/14/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/411-1998-423895
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2007-09-06T00:00:00Z'
+  retrieved_at: '2026-10-23T14:08:40Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 32e987184cc5cc949003e0c6af0f07e0ecc3e317909def434755bfbdc4332cfc
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 152a6f230a8353b9b063c8b5b98b63dedf599790f10f44d45c0f20ffe7fa365d
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T14:08:40Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -72,20 +72,46 @@ relationships:
   target: pt:dre:640120:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:233943:por
+  label: "Alterado o quadro de pessoal pela PORT.966/98.1998.11.12.MJ, DR.IS-B [262]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/966-1998-233943
+  date: '1998-11-12'
+- type: amended_by
+  target: pt:dre:138101:por
+  label: "Alterado o quadro de pessoal aprovado pelo presente diploma, pela PORT.207/99.1999.03.25.MJ, DR.IS-B, na redacção\
+    \ da Port 966/98 de 12-Nov\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/207-1999-138101
+  date: '1999-03-25'
+- type: amended_by
+  target: pt:dre:636190:por
+  label: "Alterado o quadro de pessoal pela PORT.769/2007.09.07.2007.MJ, DR.IS [130] de 09.07.2007\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/769-2007-636190
+  date: '2007-07-09'
+- type: amended_by
+  target: pt:dre:640120:por
+  label: "Alterado o art. único da Port 769/2007 de 09-Jul, na alteração que introduziu ao presente diploma, pela PORT.1088/2007.06.09.2007.MJ,\
+    \ DR.IS [172] de 06.09.2007\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/1088-2007-640120
+  date: '2007-09-06'
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/129/1998/05/13/p/dre
   label: null
   source: http://data.dre.pt/eli/dec-lei/129/1998/05/13/p/dre
+- type: cites
+  target: pt:dre:522842:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T14:08:40Z'
   warnings: []
   errors: []
 ---
@@ -98,9 +124,9 @@ Manda o Governo, pelo Ministro da Justiça, ao abrigo do disposto no n.º 1 do a
 
 Ministério da Justiça.
 
-**Assinada em 23 de Junho de 1998.**
+Assinada em 23 de Junho de 1998.
 
-**O Ministro da Justiça, José Eduardo Vera Cruz Jardim.**
+O Ministro da Justiça, José Eduardo Vera Cruz Jardim.
 
 MAPA ANEXO
 

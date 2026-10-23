@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/2s/2009/01/021000000/0462904629.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -46,18 +46,18 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/declaracao-rectificacao/268-2009-1122234
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2009-01-30T00:00:00Z'
+  retrieved_at: '2026-10-23T14:08:25Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 2f6c282cf5e29c80e876c3e1c59050d637b8916cfeb08858668c43a721f663ad
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: ba912940e4cd392945a6e1eb6695c04185292c1cdcf3c1f0d9813c57c949a93f
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T14:08:25Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -65,23 +65,29 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects: []
-relationships: []
+relationships:
+- type: cites
+  target: pt:dre:1637136:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T14:08:25Z'
   warnings: []
   errors: []
 ---
 
-# Declaração de Rectificação n.º 268/2009
+# Declaração de rectificação n.º 268/2009
 
 Informa-se que, por ter saído com inexactidão o [Anúncio n.º 563/2009](https://diariodarepublica.pt/dr/detalhe/anuncio/563-2009-1637136), publicado no DR de 15 de Janeiro de 2009, onde se lê "Brama -Ferramentas Diamantadas Sa, NIF 504172158", deve ler-se "Brama -Ferramentas Diamantadas Unipessoal Ld.ª, NIF 504172158, endereço, Rua dos Carregais, 275-1.º Gondomar- 4 420-061 Gondomar, do Tribunal de Comércio de Vila Nova de Gaia, Proc. 395/08.8TYVNG-3.º Juízo.
 
 22 de Janeiro de 2009. - O Juiz de Direito, Sá Couto. - O Oficial de Justiça, Fábia Jesus Moreno.
+
+301280159

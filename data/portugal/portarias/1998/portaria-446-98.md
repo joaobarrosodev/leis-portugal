@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/446/1998/07/28/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/446-1998-429208
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1998-07-28T00:00:00Z'
+  retrieved_at: '2026-10-23T14:09:05Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: b03b2c4272d0c563312eeeae4e0a582869ad2cf2b636a23faead60f6e9eed2c1
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 3d511cfa4c1a550c388a3bce90c0376525b6d9fce3c812931b24d308243885cc
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T14:09:05Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,18 +66,18 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Financiamento
-- Cooperação Interempresas
-- Pesca
-- QCA
-- Reestruturação Industrial
 - Aquicultura
+- Comércio
+- Cooperação Interempresas
 - Desenvolvimento Económico
+- Financiamento
+- Pesca
 - Produtos de Pesca
 - Programa para o Desenvolvimento Económico do Sector das Pescas
+- QCA
+- Reestruturação Industrial
 - Regime de Apoio à Transformação e Comercialização dos Produtos da Pesca e da Aquicultura
 - Regulamento
-- Comércio
 relationships:
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/189/1994/07/05/p/dre
@@ -87,16 +87,24 @@ relationships:
   target: eli:http://data.dre.pt/eli/port/575/1994/07/12/p/dre
   label: null
   source: http://data.dre.pt/eli/port/575/1994/07/12/p/dre
+- type: cites
+  target: pt:dre:291604:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:294696:por
+  label: null
+  source: null
 article_structure:
-  article_count: 10
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T14:09:05Z'
   warnings: []
   errors: []
 ---
@@ -127,7 +135,9 @@ b) Estejam devidamente licenciadas para o exercício da actividade.
 
 2 - ...
 
-###### Artigo 3.º — Projectos não admissíveis
+Artigo 3.º
+
+Projectos não admissíveis
 
 São excluídos os projectos que:
 
@@ -139,13 +149,17 @@ d) Impliquem investimento global inferior a 20000 contos, salvo no caso de proje
 
 e) (Revogada.)
 
-###### Artigo 4.º — Critérios de prioridade
+Artigo 4.º
+
+Critérios de prioridade
 
 Para efeitos de concessão de apoio aos projectos de transformação e comercialização, será dada prioridade às candidaturas que satisfaçam uma ou mais das seguintes condições:
 
 ...
 
-###### Artigo 5.º — Despesas elegíveis
+Artigo 5.º
+
+Despesas elegíveis
 
 Para efeitos de concessão de apoio, são elegíveis as seguintes despesas:
 
@@ -153,7 +167,9 @@ Para efeitos de concessão de apoio, são elegíveis as seguintes despesas:
 
 g) Encargos gerais e despesas imprevistas de investimento até ao montante máximo de 12% do investimento elegível orçamentado.
 
-###### Artigo 6.º — Despesas não elegíveis
+Artigo 6.º
+
+Despesas não elegíveis
 
 Não são elegíveis para efeitos de concessão de apoio as seguintes despesas:
 
@@ -161,7 +177,9 @@ Não são elegíveis para efeitos de concessão de apoio as seguintes despesas:
 
 l) Aquisição de material em segunda mão.
 
-###### Artigo 7.º — Montante dos apoios
+Artigo 7.º
+
+Montante dos apoios
 
 1 - ...
 
@@ -169,7 +187,9 @@ l) Aquisição de material em segunda mão.
 
 3 - (Anterior n.º 2.)
 
-###### Artigo 8.º — Apresentação das candidaturas
+Artigo 8.º
+
+Apresentação das candidaturas
 
 1 - As candidaturas ao regime de apoio previsto no presente diploma são apresentadas na Direcção-Geral das Pescas e Aquicultura, na sua sede ou respectiva direcção regional.
 
@@ -181,13 +201,17 @@ l) Aquisição de material em segunda mão.
 
 5 - (Anterior n.º 4.)
 
-###### Artigo 10.º — Atribuição do apoio
+Artigo 10.º
+
+Atribuição do apoio
 
 ...
 
 3 - O pagamento do apoio só será efectuado após verificação de que o candidato tem a situação contributiva regularizada perante o Estado e a segurança social.
 
-###### Artigo 11.º — Obrigações dos beneficiários
+Artigo 11.º
+
+Obrigações dos beneficiários
 
 Para os efeitos dos artigos 5.º e 6.º do [Decreto-Lei n.º 189/94](https://diariodarepublica.pt/dr/detalhe/decreto-lei/189-1994-291604), de 5 de Julho, constarão do contrato de atribuição do apoio, nomeadamente, as seguintes obrigações:
 
@@ -197,13 +221,17 @@ a) Iniciar a execução dos projectos no prazo máximo de 180 dias a contar da d
 
 d) Constituir um seguro pelo montante mínimo correspondente ao valor das ajudas concedidas, sempre que esteja em causa a construção ou aquisição de edifícios ou instalações.
 
-###### Artigo 12.º — Alterações ao projecto
+Artigo 12.º
+
+Alterações ao projecto
 
 1 - Podem ser propostas alterações aos projectos aprovados, desde que se trate de alterações técnicas que não alterem a concepção estrutural e económica do projecto inicial.
 
 2 - Qualquer alteração aos projectos aprovados carece de autorização prévia a ser solicitada à Direcção-Geral das Pescas e Aquicultura.
 
-###### Artigo 13.º — Data limite para apresentação de candidaturas
+Artigo 13.º
+
+Data limite para apresentação de candidaturas
 
 A data limite para apresentação de candidaturas é 30 de Junho de 1999.»
 
@@ -213,6 +241,6 @@ A data limite para apresentação de candidaturas é 30 de Junho de 1999.»
 
 Ministério da Agricultura, do Desenvolvimento Rural e das Pescas.
 
-**Assinada em 7 de Julho de 1998.**
+Assinada em 7 de Julho de 1998.
 
 Pelo Ministro da Agricultura, do Desenvolvimento Rural e das Pescas, Marcelo de Sousa Vasconcelos, Secretário de Estado das Pescas.

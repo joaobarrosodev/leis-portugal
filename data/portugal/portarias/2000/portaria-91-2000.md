@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/91/2000/02/19/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/91-2000-414227
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2000-02-19T00:00:00Z'
+  retrieved_at: '2026-10-23T14:26:45Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 2eaf9465248e0c8efef88596c757945ce5d856b83f7aa62635ba62eae9d629f0
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 4a027bf652c972628a5e4e59bd4097c9dd93cd682566f264b14919419cc55b16
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T14:26:45Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,9 +66,6 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Produto Químico
-- Instituto da ÁGUA
-- Gestão de Resíduos
 - Definição de Competências
 - Direcção Regional do Ambiente de Lisboa e VALE do TEJO
 - Direcção Regional do Ambiente do Alentejo
@@ -76,13 +73,16 @@ subjects:
 - Direcção Regional do Ambiente do Centro
 - Direcção Regional do Ambiente do Norte
 - Fiscalização
+- Gestão de Resíduos
+- Instituto da ÁGUA
+- Instituto dos Resíduos
 - Laboratório
 - Laboratório de Análises e Ensaios
-- Instituto dos Resíduos
-- Proteção do Ambiente
-- Programa de Acção
-- Poluição da água
 - Poluição
+- Poluição da água
+- Produto Químico
+- Programa de Acção
+- Proteção do Ambiente
 relationships:
 - type: cites
   target: celex:31976L0464
@@ -103,13 +103,13 @@ relationships:
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T14:26:45Z'
   warnings: []
   errors: []
 ---
@@ -146,7 +146,7 @@ Manda o Governo, pelos Ministros da Saúde e do Ambiente e do Ordenamento do Ter
 
 Em 29 de Novembro de 1999.
 
-**A Ministra da Saúde, Maria Manuela de Brito Arcanjo Marques da Costa. - O Ministro do Ambiente e do Ordenamento do Território, José Sócrates Carvalho Pinto de Sousa.**
+A Ministra da Saúde, Maria Manuela de Brito Arcanjo Marques da Costa. - O Ministro do Ambiente e do Ordenamento do Território, José Sócrates Carvalho Pinto de Sousa.
 
 ## ANEXO I
 

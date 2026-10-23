@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/2s/2010/01/018000000/0393703939.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -46,18 +46,18 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/declaracao-rectificacao/156-2010-2627742
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2010-01-27T00:00:00Z'
+  retrieved_at: '2026-10-23T14:18:24Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 6ac6ef5d6cf44dae11e543a9daca20883d15918cdfe6685e37067c2dfa7bca7a
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: c02fd76a9b096b337f7379e486dd9b661e0b8f460a47605f0b21ceddf07a21c4
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T14:18:24Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -70,21 +70,61 @@ relationships:
   target: celex:32004L0009
   label: null
   source: null
+- type: cites
+  target: pt:dre:292963:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:300036:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:316935:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:453975:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:454014:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:454506:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:468663:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:624401:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:628847:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:628851:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T14:18:24Z'
   warnings: []
   errors: []
 ---
 
-# Declaração de Rectificação n.º 156/2010
+# Declaração de rectificação n.º 156/2010
 
 Através do aviso n.º 620/2010, inserto no Diário da República, 2.ª série, n.º 6, de 11 de Janeiro de 2010, foi aberto procedimento concursal comum com vista ao recrutamento de um técnico superior, para constituição de relação jurídica de emprego público por tempo indeterminado, visando o preenchimento de um posto de trabalho na carreira de técnico superior, do mapa de pessoal do INRB, I. P.
 
@@ -297,3 +337,5 @@ Vogais suplentes:
 31 de Dezembro de 2009. - A Presidente do Conselho Directivo, Rosa Sá.»
 
 18 de Janeiro de 2010. - A Presidente do Conselho Directivo, Rosa Sá.
+
+202816146

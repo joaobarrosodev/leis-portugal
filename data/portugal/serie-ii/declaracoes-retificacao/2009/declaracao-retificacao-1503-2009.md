@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/2s/2009/06/114000000/2375923759.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -47,18 +47,18 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/declaracao-rectificacao/1503-2009-3336101
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2009-06-16T00:00:00Z'
+  retrieved_at: '2026-10-23T14:01:32Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 410e997a26125b58ab077c0f81bc07702a45718668f80768479d005ba39030ff
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: ad5eeb11070a85b6f284419711d0c05350ce77202298aa3c0b4f179304451ebb
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T14:01:32Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -70,13 +70,13 @@ relationships: []
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T14:01:32Z'
   warnings: []
   errors: []
 ---
@@ -90,3 +90,5 @@ Rectificação do aviso n.º 10244/2009, publicado no Diário da República, 2.�
 Faz-se público que no título do aviso, onde se lê "Procedimento concursal de recrutamento para ocupação de três postos de trabalho em regime de contrato de trabalho em funções por tempo indeterminado para Técnico Superior" deve ler-se "Procedimento concursal de recrutamento para ocupação de um posto de trabalho em regime de contrato de trabalho em funções por tempo indeterminado para Técnico Superior".
 
 29 de Maio de 2009. - Pelo Presidente da Câmara, a Directora do Departamento de Gestão de Recursos Humanos, Célia Simões.
+
+301859075

@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/2s/2010/08/167000000/4536345365.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -47,18 +47,18 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/declaracao-rectificacao/1745-2010-1075478
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2010-08-27T00:00:00Z'
+  retrieved_at: '2026-10-23T14:19:25Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 9cbe82f132009ac1026819cceebaf064fa67f99b754cd1296862bf8d32dc50f0
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 45068f1998f5d0d66de3e9d418a30832166da2a4722d93eefe8c039112b713d3
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T14:19:25Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,22 +66,54 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects: []
-relationships: []
+relationships:
+- type: cites
+  target: pt:dre:150335:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:167074:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:2786872:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:456200:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:512030:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:533820:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:606304:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:671387:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T14:19:25Z'
   warnings: []
   errors: []
 ---
 
-# Declaração de Rectificação n.º 1745/2010
+# Declaração de rectificação n.º 1745/2010
 
 Para os devidos efeitos se declara que o despacho n.º 16 231/2009, publicado no Diário da República, 2.ª série, n.º 135, de 15 de Julho de 2009, de p. 28 058 a p. 28 060, rectificado pela declaração de rectificação n.º 1397/2010, publicada no Diário da República, 2.ª série, n.º 135, de 14 de Julho de 2010, de p. 38 149 a p. 38 151, saiu com inexactidões no anexo, que correspondem a erros materiais, que se rectificam através da republicação integral do referido despacho.
 
@@ -123,7 +155,7 @@ Manda o presidente da direcção da entidade instituidora da Universidade Lusóf
 
 6.1. - Em áreas obrigatórias:
 
-[([ver documento original](https://files.diariodarepublica.pt/2s/2010/08/167000000/4536345365.pdf))](https://files.diariodarepublica.pt/2s/2010/08/167000000/4536345365.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/2s/2010/08/167000000/4536345365.pdf)
 
 6.2. - Créditos que podem ser realizados em áreas a definir pelo órgão legal e estatutariamente competente de ensino - 16.
 
@@ -137,34 +169,36 @@ Licenciatura em Psicopedagogia Clínica
 
 QUADRO N.º 1
 
-[([ver documento original](https://files.diariodarepublica.pt/2s/2010/08/167000000/4536345365.pdf))](https://files.diariodarepublica.pt/2s/2010/08/167000000/4536345365.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/2s/2010/08/167000000/4536345365.pdf)
 
 1.º ano/2.º semestre
 
 QUADRO N.º 2
 
-[([ver documento original](https://files.diariodarepublica.pt/2s/2010/08/167000000/4536345365.pdf))](https://files.diariodarepublica.pt/2s/2010/08/167000000/4536345365.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/2s/2010/08/167000000/4536345365.pdf)
 
 2.º ano/3.º semestre
 
 QUADRO N.º 3
 
-[([ver documento original](https://files.diariodarepublica.pt/2s/2010/08/167000000/4536345365.pdf))](https://files.diariodarepublica.pt/2s/2010/08/167000000/4536345365.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/2s/2010/08/167000000/4536345365.pdf)
 
 2.º ano/4.º semestre
 
 QUADRO N.º 4
 
-[([ver documento original](https://files.diariodarepublica.pt/2s/2010/08/167000000/4536345365.pdf))](https://files.diariodarepublica.pt/2s/2010/08/167000000/4536345365.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/2s/2010/08/167000000/4536345365.pdf)
 
 3.º ano/5.º semestre
 
 QUADRO N.º 5
 
-[([ver documento original](https://files.diariodarepublica.pt/2s/2010/08/167000000/4536345365.pdf))](https://files.diariodarepublica.pt/2s/2010/08/167000000/4536345365.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/2s/2010/08/167000000/4536345365.pdf)
 
 3.º ano/6.º semestre
 
 QUADRO N.º 6
 
-[([ver documento original](https://files.diariodarepublica.pt/2s/2010/08/167000000/4536345365.pdf))](https://files.diariodarepublica.pt/2s/2010/08/167000000/4536345365.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/2s/2010/08/167000000/4536345365.pdf)
+
+203624501

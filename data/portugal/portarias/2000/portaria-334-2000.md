@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/334/2000/06/12/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/334-2000-288180
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2000-06-12T00:00:00Z'
+  retrieved_at: '2026-10-23T14:22:56Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: de15deac483eb58bbb00c4dc65a51bcfdbc9a1beeea0a4da4cde3fbccf8e667b
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 7b64346da00f0fa8c335c5498810a6a2c2ef2dddf592fe714ab4f67c73a5ebc4
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T14:22:56Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -72,8 +72,8 @@ subjects:
 - Certificação Profissional
 - Direcção Geral dos Transportes Terrestres
 - Exame
-- Licenciamento
 - Licença de Transporte
+- Licenciamento
 - Qualificação Profissional
 - Regulamento
 - Transporte de Passageiros
@@ -83,16 +83,20 @@ relationships:
   target: eli:http://data.dre.pt/eli/dec-lei/251/1998/08/11/p/dre
   label: null
   source: http://data.dre.pt/eli/dec-lei/251/1998/08/11/p/dre
+- type: cites
+  target: pt:dre:438069:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T14:22:56Z'
   warnings: []
   errors: []
 ---
@@ -159,7 +163,7 @@ a) No início da actividade, por meio de certidão do registo comercial de onde 
 
 b) Durante o exercício da actividade, por meio de duplicado ou cópia autenticada do último balanço apresentado para efeitos de IRC ou por garantia bancária.
 
-**O Ministro do Equipamento Social, Jorge Paulo Sacadura Almeida Coelho, em 18 de Maio de 2000.**
+O Ministro do Equipamento Social, Jorge Paulo Sacadura Almeida Coelho, em 18 de Maio de 2000.
 
 ## ANEXO I — Lista de matérias objecto de exame
 

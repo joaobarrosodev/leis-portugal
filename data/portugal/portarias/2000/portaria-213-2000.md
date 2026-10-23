@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/213/2000/04/08/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/213-2000-496153
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2004-08-23T00:00:00Z'
+  retrieved_at: '2026-10-23T14:22:11Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: be49255701c16c31e9685d5373a4ec5f81e25da350acc2a265673d8a42dfea62
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 584c8b198b1569c136b29f68240d7469a4b485993ebd29673a3e23a2c84dbad4
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T14:22:11Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,10 +67,10 @@ reuse:
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
 - Bairrada
-- Vinho
-- Denominação de Origem
 - Controlo de Qualidade
+- Denominação de Origem
 - Região Demarcada
+- Vinho
 relationships:
 - type: amended_by
   target: pt:dre:479875:por
@@ -84,16 +84,35 @@ relationships:
   target: eli:http://data.dre.pt/eli/port/307/1998/05/20/p/dre
   label: null
   source: http://data.dre.pt/eli/port/307/1998/05/20/p/dre
+- type: cites
+  target: pt:dre:197753:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:524644:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:1718379:por
+  label: "Revogada pela PORT.836/2004(2ªSérie).13.07.2004.MADRP, DR.IIS [173] de 24.07.2004\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/836-2004-1718379
+  date: '2004-07-13'
+- type: repealed_by
+  target: pt:dre:479875:por
+  label: "Revogada pelo DEC LEI.212/2004.23.08.2004.MADRP, DR.IS-A [198] de 23.08.2004, mantida contudo transitoriamente em\
+    \ vigor até à publicação da legislação prevista nos arts 5º a 11º do referido diploma\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/212-2004-479875
+  date: '2004-08-23'
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T14:22:11Z'
   warnings: []
   errors: []
 ---

@@ -21,7 +21,7 @@ publication:
   reference: Diário da República n.º 24/2001, 2º Suplemento, Série I-B de 2001-01-29
   number: '24'
   series: I
-  supplement: 2º Suplemento
+  supplement: null
   pages: 472-(7) a 472-(8)
   pdf_url: https://files.diariodarepublica.pt/1s/2001/01/024b02/00070008.pdf
 entry_into_force_dates: []
@@ -48,18 +48,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/56-d/2001/01/29/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/56-d-2001-163805
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2013-08-02T00:00:00Z'
+  retrieved_at: '2026-10-23T14:33:01Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: eb4bdaa68d1b460b5a4c6b2ab107ba5c70d6dba87c1f5d7387c953c167ffa0bd
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: fa4b7a3c6c5ea33972cd116824312dc2e55d4094d91a8325929c994f2cc266d6
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T14:33:01Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -68,21 +68,41 @@ reuse:
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
 - Ajuda Comunitária
-- Financiamento
-- Pesca
 - Apoio ao Investimento
+- Comércio
+- Embarcação de Pesca
+- Financiamento
+- Intervenção Operacional Pescas
+- Pesca
 - QCA III
 - Regime de Apoio à Transformação e Comercialização dos Produtos da Pesca e da Aquicultura
-- Intervenção Operacional Pescas
 - Regulamento
 - Regulamento CE
-- Embarcação de Pesca
-- Comércio
 relationships:
 - type: amended_by
   target: pt:dre:498528:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:197551:por
+  label: "Alterada a redacção dada aos arts. 6.º e 13.º do Regulamento anexo à Port 1079/2000 de 08-Nov, pela PORT.158/2003.2003.02.15.MADRP\
+    \ DR.IS-B [39]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/158-2003-197551
+  date: '2003-02-15'
+- type: amended_by
+  target: pt:dre:661552:por
+  label: "Alterado o nº 3 do art. 13º do Regulamento do Regime de Apoio à Transformação e Comercialização dos Produtos de\
+    \ Pesca e da Aquicultura aprovado pela Port 1079/2000 de 08-Nov, com a redacção do presente diploma, pela PORT.393/2006.24.04.2006.MADRP,\
+    \ DR.IS-B [80] de 24.04.2006\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/393-2006-661552
+  date: '2006-04-24'
+- type: amended_by
+  target: pt:dre:498528:por
+  label: "Dada nova redação ao art. 13º do Regulamento do Regime de Apoio à Transformação e Comercialização dos Produtos da\
+    \ Pesca e da Aquicultura, aprovado pela Port 1079/2000 de 08-nov, alterado pelo presente diploma, pela PORT.244/2013.02.08.2013.MAMAOT,\
+    \ DR.IS [148] de 02.08.2013\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/244-2013-498528
+  date: '2013-08-02'
 - type: cites
   target: celex:31999R2792
   label: null
@@ -92,15 +112,15 @@ relationships:
   label: null
   source: http://data.dre.pt/eli/port/1079/2000/11/08/p/dre
 article_structure:
-  article_count: 4
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T14:33:01Z'
   warnings: []
   errors: []
 ---
@@ -125,7 +145,9 @@ Objecto
 
 O presente Regulamento estabelece o regime de apoio à transformação e comercialização dos produtos da pesca e da aquicultura, nos termos do Regulamento (CE) n.º [2792/99](http://data.europa.eu/eli/reg/1999/2792/oj?locale=pt), do Conselho, de 17 de Dezembro, e do previsto no Decreto-Lei n.º 224/2000, de 9 de Setembro, que cria o MARE - Programa para o Desenvolvimento Sustentável do Sector da Pesca.
 
-###### Artigo 6.º — Condições específicas de acesso
+Artigo 6.º
+
+Condições específicas de acesso
 
 São condições específicas de acesso para candidatura ao presente regime:
 
@@ -135,7 +157,9 @@ d) A execução do projecto não ter sido iniciada antes da apresentação da ca
 
 ...
 
-###### Artigo 13.º — Natureza e montantes dos apoios
+Artigo 13.º
+
+Natureza e montantes dos apoios
 
 ...
 
@@ -157,7 +181,9 @@ b) O apoio é atribuído sob a forma de subsídio a fundo perdido na proporção
 
 d) O limite máximo do subsídio a fundo perdido é de (euro) 1820000 e o do total das ajudas é de (euro) 3500000.
 
-## ANEXO III — (a que se refere o artigo 9.º)
+ANEXO III
+
+(a que se refere o artigo 9.º)
 
 Apreciação económica e financeira (AE)
 
@@ -179,7 +205,9 @@ a) Projectos localizados na Região de Lisboa e Vale do Tejo;
 
 b) Projectos localizados nas restantes regiões do continente.
 
-###### Artigo 13.º-A — Instalações colectivas
+Artigo 13.º-A
+
+Instalações colectivas
 
 Aos projectos que respeitem a instalações colectivas que reduzam substancial e comprovadamente os efeitos no ambiente não se aplica o disposto no artigo anterior, sendo que:
 
@@ -187,7 +215,9 @@ a) O Estado Português comparticipa nos montantes de investimento elegível até
 
 b) O apoio é atribuído sob a forma de subsídio a fundo perdido.
 
-###### Artigo 19.º — Disposições transitórias
+Artigo 19.º
+
+Disposições transitórias
 
 ...
 
@@ -197,4 +227,4 @@ b) O apoio é atribuído sob a forma de subsídio a fundo perdido.
 
 3.º O disposto no presente diploma aplica-se às candidaturas já reformuladas ou apresentadas ao abrigo da Portaria n.º 1079/2000, de 8 de Novembro.
 
-**O Ministro da Agricultura, do Desenvolvimento Rural e das Pescas, Luís Manuel Capoulas Santos, em 26 de Janeiro de 2001.**
+O Ministro da Agricultura, do Desenvolvimento Rural e das Pescas, Luís Manuel Capoulas Santos, em 26 de Janeiro de 2001.

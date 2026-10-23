@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/740/2001/07/19/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/740-2001-393375
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2006-01-23T00:00:00Z'
+  retrieved_at: '2026-10-23T14:34:13Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: c870f4733e07f00e596e9e370c2398096628ca7bf8a3db7959af48f84b332c6d
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 492ed3b878ddcc66856f4c148907f5844d2a8f5496c12df85f9dcbce2022a891
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T14:34:13Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -74,6 +74,18 @@ relationships:
   target: pt:dre:541006:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:423648:por
+  label: "Anexados vários prédios rústicos á zona de caça associativa criada pelo presente diploma, pela PORT.1397/2003.22.12.2003.MADRP,\
+    \ DR.IS-B [294] de 22.12.2003\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/1397-2003-423648
+  date: '2003-12-22'
+- type: amended_by
+  target: pt:dre:541006:por
+  label: "Anexados vários prédios rústicos à zona de caça associativa criada pelo presente diploma, pela PORT.85/2006.23.01.2006.MADRP,\
+    \ DR.IS-B [16] de 23.01.2006\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/85-2006-541006
+  date: '2006-01-23'
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/227-b/2000/09/15/p/dre
   label: null
@@ -90,16 +102,32 @@ relationships:
   target: eli:http://data.dre.pt/eli/port/467/2001/05/08/p/dre
   label: null
   source: http://data.dre.pt/eli/port/467/2001/05/08/p/dre
+- type: cites
+  target: pt:dre:316162:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:534644:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:558207:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:594974:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T14:34:13Z'
   warnings: []
   errors: []
 ---

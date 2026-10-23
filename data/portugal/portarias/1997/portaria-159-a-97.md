@@ -20,7 +20,7 @@ publication:
   reference: Diário da República n.º 54/1997, 1º Suplemento, Série I-B de 1997-03-05
   number: '54'
   series: I
-  supplement: 1º Suplemento
+  supplement: null
   pages: 996-(2) a 996-(4)
   pdf_url: https://files.diariodarepublica.pt/1s/1997/03/054b01/00020004.pdf
 entry_into_force_dates: []
@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/159-a/1997/03/05/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/159-a-1997-660727
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1997-03-05T00:00:00Z'
+  retrieved_at: '2026-10-23T14:01:02Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 53a191e34bee25d6b5ee771703dcfea6610b8cea5d5991ea666dbba9355456c5
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 90027dabb5230306d1a63b486da33ec0ec2cd785f346945df29462ff00409c2d
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T14:01:02Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,19 +66,19 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Financiamento
-- Empresa
-- Turismo
-- Definição de Competências
 - Artesanato
-- Fundação da Juventude
-- Projeto de Investimento
-- Indústria
 - Criação de Emprego
+- Definição de Competências
+- Empresa
+- Financiamento
+- Fundação da Juventude
+- Indústria
 - Jovem Empresário
 - Microempresa
+- Projeto de Investimento
 - Sistema de Apoio à Jovens Empresários
 - Subsídio não Reembolsável
+- Turismo
 relationships:
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/22/1997/01/23/p/dre
@@ -88,16 +88,24 @@ relationships:
   target: eli:http://data.dre.pt/eli/resolconsmin/13/1997/01/25/p/dre
   label: null
   source: http://data.dre.pt/eli/resolconsmin/13/1997/01/25/p/dre
+- type: cites
+  target: pt:dre:571886:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:581226:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T14:01:02Z'
   warnings: []
   errors: []
 ---
@@ -162,7 +170,7 @@ b) Lojas de tradição os estabelecimentos classificados como tal nos termos da 
 
 Presidência do Conselho de Ministros e Ministério do Equipamento, do Planeamento e da Administração do Território.
 
-**Assinada em 5 de Março de 1997.**
+Assinada em 5 de Março de 1997.
 
 Pelo Ministro do Equipamento, do Planeamento e da Administração do Território, Adriano Lopes Gomes Pimpão, Secretário de Estado do Desenvolvimento Regional. - Pelo Ministro Adjunto, António José Martins Seguro, Secretário de Estado da Juventude.
 

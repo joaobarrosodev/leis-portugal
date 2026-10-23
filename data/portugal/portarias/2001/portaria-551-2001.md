@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2001/05/126b00/32493254.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/551/2001/05/31/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/551-2001-332246
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2010-10-04T00:00:00Z'
+  retrieved_at: '2026-10-23T14:32:59Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 2ce14cd01c1e3f87bf89d0e34c07b189377662875f26120efd525fad6f9d9411
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: f6341dd20f848faf36b4d689c68ebf1ec2e7629c22808a53f5cf8b3bbce999a9
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T14:32:59Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -65,32 +65,69 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
+- Departamento de Jogos
+- Informatização
 - Jogos de Fortuna e Azar
 - Lisboa
-- Informatização
-- Santa Casa da Misericórdia
-- Regulamento da Lotaria Nacional
 - Lotaria Nacional
-- Departamento de Jogos
+- Regulamento da Lotaria Nacional
+- Santa Casa da Misericórdia
 relationships:
 - type: amended_by
   target: pt:dre:342655:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:632404:por
+  label: "Alterado o art. 7º e o nº 5 do art. 12º do presente Regulamento pela PORT.1048/2001.2001.09.01.MS DR.IS-B [203]\0\
+    \0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/1048-2001-632404
+  date: '2001-09-01'
+- type: amended_by
+  target: pt:dre:651879:por
+  label: "Aditado um nº 2 ao art 7º pela PORT.698/2003.2003.07.30.MS, DR.IS-B [174]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/698-2003-651879
+  date: '2003-07-30'
+- type: amended_by
+  target: pt:dre:540804:por
+  label: "Alterado o art. 17.º do Regulamento pela PORT.867/2006.28.08.2006.MTSSO, DR.IS [165] de 28.08.2006\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/867-2006-540804
+  date: '2006-08-28'
+- type: amended_by
+  target: pt:dre:488495:por
+  label: "Alterado o art. 7.º (na redacção da Port 1048/2001, de 01-Set e da Port 698/2003, de 30-Jul) do Regulamento da Lotaria\
+    \ Nacional, pela PORT.973/2009.31.08.2009.MTSSO, DR.IS [168] de 31.08.2009\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/973-2009-488495
+  date: '2009-08-31'
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/322/1991/08/26/p/dre
   label: null
   source: http://data.dre.pt/eli/dec-lei/322/1991/08/26/p/dre
+- type: cites
+  target: pt:dre:279205:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:403119:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:342655:por
+  label: "Revogado, a partir de 05.10.2010, o presente diploma, com a redacção conferida pelas Port 1048/2001 de 01-Set, 698/2003\
+    \ de 30-Jul, 867/2006 de 28-Ago e 973/2009 de 31-Ago, pela PORT.1016/2010.04.10.2010.MTSSO, DR.IS [193] de 04.10.2010\0\
+    \0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/1016-2010-342655
+  date: '2010-10-04'
 article_structure:
   article_count: 25
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T14:32:59Z'
   warnings: []
   errors: []
 ---
@@ -117,7 +154,7 @@ Manda o Governo, pelos Ministros da Saúde e do Trabalho e da Solidariedade, o s
 
 Em 17 de Maio de 2001.
 
-**A Ministra da Saúde, Maria Manuela de Brito Arcanjo Marques da Costa. - O Ministro do Trabalho e da Solidariedade, Paulo José Fernandes Pedroso.**
+A Ministra da Saúde, Maria Manuela de Brito Arcanjo Marques da Costa. - O Ministro do Trabalho e da Solidariedade, Paulo José Fernandes Pedroso.
 
 REGULAMENTO DA LOTARIA NACIONAL
 

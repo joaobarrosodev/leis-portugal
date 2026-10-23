@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/550/1998/08/19/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/550-1998-444698
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1998-08-19T00:00:00Z'
+  retrieved_at: '2026-10-23T14:09:45Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 8e5de114469a6525646d2141b440e9e36ffec85a71a8bbf778e3ff98e3b625af
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: d584b7945ade29b72cffb200157f6b85352cb9c208b005964c60988d82fe46f8
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T14:09:45Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -68,20 +68,29 @@ subjects:
 - Instituto dos Resíduos
 - Quadro de Pessoal
 relationships:
+- type: amended_by
+  target: pt:dre:3555346:por
+  label: "Alterado o quadro de pessoal pela PORT.618/2002(2ªSÉRIE).2002.03.13.MAOT, DR.IIS [85] de 11/Abr/2002 \0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/618-2002-3555346
+  date: '2002-03-13'
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/236/1997/09/03/p/dre
   label: null
   source: http://data.dre.pt/eli/dec-lei/236/1997/09/03/p/dre
+- type: cites
+  target: pt:dre:641132:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T14:09:45Z'
   warnings: []
   errors: []
 ---
@@ -102,7 +111,7 @@ Manda o Governo, pelos Ministros das Finanças, Adjunto e do Ambiente, o seguint
 
 Presidência do Conselho de Ministros e Ministérios das Finanças e do Ambiente.
 
-**Assinada em 5 de Agosto de 1998.**
+Assinada em 5 de Agosto de 1998.
 
 Pelo Ministro das Finanças, João Carlos da Costa Ferreira da Silva, Secretário de Estado do Orçamento. - Pelo Ministro Adjunto, Fausto de Sousa Correia, Secretário de Estado da Administração Pública e da Modernização Administrativa. - A Ministra do Ambiente, Elisa Maria da Costa Guimarães Ferreira.
 

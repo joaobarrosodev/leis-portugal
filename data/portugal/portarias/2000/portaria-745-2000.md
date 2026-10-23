@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/745/2000/09/12/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/745-2000-572078
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2009-11-02T00:00:00Z'
+  retrieved_at: '2026-10-23T14:25:38Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: b3376f6ac972f69c8768e8014b39415bf984f06ddb6c52cdef3c8c89bfa5815b
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 14c9b5165daedc49147178e02b62d1bae224d1bd213a8afd363627cebebd4957
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T14:25:38Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,13 +66,13 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Medicina
-- Plano de Estudos
+- Ensino Superior
 - Escola Naval
 - Formação Complementar
 - Licenciatura
-- Ensino Superior
+- Medicina
 - Militar
+- Plano de Estudos
 relationships:
 - type: amended_by
   target: pt:dre:483380:por
@@ -82,16 +82,27 @@ relationships:
   target: eli:http://data.dre.pt/eli/port/162/1999/03/10/p/dre
   label: null
   source: http://data.dre.pt/eli/port/162/1999/03/10/p/dre
+- type: cites
+  target: pt:dre:158266:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:483380:por
+  label: "Revogada, a partir da entrada em vigor dos despachos dos Chefes do Estado-Maior dos ramos que aprovam os planos\
+    \ de estudos dos cursos de formação militar complementar dos mestrados em Farmácia, Medicina, Medicina Dentária e Medicina\
+    \ Veterinária, pela PORT.1380/2009.02.11.2009.MDN, DR.IS [212] de 02.11.2009\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/1380-2009-483380
+  date: '2009-11-02'
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T14:25:38Z'
   warnings: []
   errors: []
 ---
@@ -152,46 +163,46 @@ Aplicação
 
 O disposto na presente portaria aplica-se desde o ano lectivo de 1999-2000, inclusive.
 
-**O Ministro da Defesa Nacional, Júlio de Lemos de Castro Caldas, em 23 de Agosto de 2000.**
+O Ministro da Defesa Nacional, Júlio de Lemos de Castro Caldas, em 23 de Agosto de 2000.
 
 ## ANEXO — Plano de estudos do curso de formação militar complementar da licenciatura em Medicina
 
 1.º ano lectivo
 
-[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2000/09/211b00/48134815.pdf)
+[[[[[[[[[[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2000/09/211b00/48134815.pdf)](https://files.diariodarepublica.pt/1s/2000/09/211b00/48134815.pdf)](https://files.diariodarepublica.pt/1s/2000/09/211b00/48134815.pdf)](https://files.diariodarepublica.pt/1s/2000/09/211b00/48134815.pdf)](https://files.diariodarepublica.pt/1s/2000/09/211b00/48134815.pdf)](https://files.diariodarepublica.pt/1s/2000/09/211b00/48134815.pdf)](https://files.diariodarepublica.pt/1s/2000/09/211b00/48134815.pdf)](https://files.diariodarepublica.pt/1s/2000/09/211b00/48134815.pdf)](https://files.diariodarepublica.pt/1s/2000/09/211b00/48134815.pdf)](https://files.diariodarepublica.pt/1s/2000/09/211b00/48134815.pdf)
 
 Actividades complementares de formação do 1.º ano lectivo
 
-[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2000/09/211b00/48134815.pdf)
+[[[[[[[[[[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2000/09/211b00/48134815.pdf)](https://files.diariodarepublica.pt/1s/2000/09/211b00/48134815.pdf)](https://files.diariodarepublica.pt/1s/2000/09/211b00/48134815.pdf)](https://files.diariodarepublica.pt/1s/2000/09/211b00/48134815.pdf)](https://files.diariodarepublica.pt/1s/2000/09/211b00/48134815.pdf)](https://files.diariodarepublica.pt/1s/2000/09/211b00/48134815.pdf)](https://files.diariodarepublica.pt/1s/2000/09/211b00/48134815.pdf)](https://files.diariodarepublica.pt/1s/2000/09/211b00/48134815.pdf)](https://files.diariodarepublica.pt/1s/2000/09/211b00/48134815.pdf)](https://files.diariodarepublica.pt/1s/2000/09/211b00/48134815.pdf)
 
 2.º ano lectivo
 
-[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2000/09/211b00/48134815.pdf)
+[[[[[[[[[[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2000/09/211b00/48134815.pdf)](https://files.diariodarepublica.pt/1s/2000/09/211b00/48134815.pdf)](https://files.diariodarepublica.pt/1s/2000/09/211b00/48134815.pdf)](https://files.diariodarepublica.pt/1s/2000/09/211b00/48134815.pdf)](https://files.diariodarepublica.pt/1s/2000/09/211b00/48134815.pdf)](https://files.diariodarepublica.pt/1s/2000/09/211b00/48134815.pdf)](https://files.diariodarepublica.pt/1s/2000/09/211b00/48134815.pdf)](https://files.diariodarepublica.pt/1s/2000/09/211b00/48134815.pdf)](https://files.diariodarepublica.pt/1s/2000/09/211b00/48134815.pdf)](https://files.diariodarepublica.pt/1s/2000/09/211b00/48134815.pdf)
 
 Actividades complementares de formação do 2.º ano lectivo
 
-[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2000/09/211b00/48134815.pdf)
+[[[[[[[[[[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2000/09/211b00/48134815.pdf)](https://files.diariodarepublica.pt/1s/2000/09/211b00/48134815.pdf)](https://files.diariodarepublica.pt/1s/2000/09/211b00/48134815.pdf)](https://files.diariodarepublica.pt/1s/2000/09/211b00/48134815.pdf)](https://files.diariodarepublica.pt/1s/2000/09/211b00/48134815.pdf)](https://files.diariodarepublica.pt/1s/2000/09/211b00/48134815.pdf)](https://files.diariodarepublica.pt/1s/2000/09/211b00/48134815.pdf)](https://files.diariodarepublica.pt/1s/2000/09/211b00/48134815.pdf)](https://files.diariodarepublica.pt/1s/2000/09/211b00/48134815.pdf)](https://files.diariodarepublica.pt/1s/2000/09/211b00/48134815.pdf)
 
 3.º ano lectivo
 
-[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2000/09/211b00/48134815.pdf)
+[[[[[[[[[[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2000/09/211b00/48134815.pdf)](https://files.diariodarepublica.pt/1s/2000/09/211b00/48134815.pdf)](https://files.diariodarepublica.pt/1s/2000/09/211b00/48134815.pdf)](https://files.diariodarepublica.pt/1s/2000/09/211b00/48134815.pdf)](https://files.diariodarepublica.pt/1s/2000/09/211b00/48134815.pdf)](https://files.diariodarepublica.pt/1s/2000/09/211b00/48134815.pdf)](https://files.diariodarepublica.pt/1s/2000/09/211b00/48134815.pdf)](https://files.diariodarepublica.pt/1s/2000/09/211b00/48134815.pdf)](https://files.diariodarepublica.pt/1s/2000/09/211b00/48134815.pdf)](https://files.diariodarepublica.pt/1s/2000/09/211b00/48134815.pdf)
 
 Actividades complementares de formação do 3.º ano lectivo
 
-[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2000/09/211b00/48134815.pdf)
+[[[[[[[[[[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2000/09/211b00/48134815.pdf)](https://files.diariodarepublica.pt/1s/2000/09/211b00/48134815.pdf)](https://files.diariodarepublica.pt/1s/2000/09/211b00/48134815.pdf)](https://files.diariodarepublica.pt/1s/2000/09/211b00/48134815.pdf)](https://files.diariodarepublica.pt/1s/2000/09/211b00/48134815.pdf)](https://files.diariodarepublica.pt/1s/2000/09/211b00/48134815.pdf)](https://files.diariodarepublica.pt/1s/2000/09/211b00/48134815.pdf)](https://files.diariodarepublica.pt/1s/2000/09/211b00/48134815.pdf)](https://files.diariodarepublica.pt/1s/2000/09/211b00/48134815.pdf)](https://files.diariodarepublica.pt/1s/2000/09/211b00/48134815.pdf)
 
 4.º ano lectivo
 
-[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2000/09/211b00/48134815.pdf)
+[[[[[[[[[[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2000/09/211b00/48134815.pdf)](https://files.diariodarepublica.pt/1s/2000/09/211b00/48134815.pdf)](https://files.diariodarepublica.pt/1s/2000/09/211b00/48134815.pdf)](https://files.diariodarepublica.pt/1s/2000/09/211b00/48134815.pdf)](https://files.diariodarepublica.pt/1s/2000/09/211b00/48134815.pdf)](https://files.diariodarepublica.pt/1s/2000/09/211b00/48134815.pdf)](https://files.diariodarepublica.pt/1s/2000/09/211b00/48134815.pdf)](https://files.diariodarepublica.pt/1s/2000/09/211b00/48134815.pdf)](https://files.diariodarepublica.pt/1s/2000/09/211b00/48134815.pdf)](https://files.diariodarepublica.pt/1s/2000/09/211b00/48134815.pdf)
 
 Actividades complementares de formação do 4.º ano lectivo
 
-[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2000/09/211b00/48134815.pdf)
+[[[[[[[[[[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2000/09/211b00/48134815.pdf)](https://files.diariodarepublica.pt/1s/2000/09/211b00/48134815.pdf)](https://files.diariodarepublica.pt/1s/2000/09/211b00/48134815.pdf)](https://files.diariodarepublica.pt/1s/2000/09/211b00/48134815.pdf)](https://files.diariodarepublica.pt/1s/2000/09/211b00/48134815.pdf)](https://files.diariodarepublica.pt/1s/2000/09/211b00/48134815.pdf)](https://files.diariodarepublica.pt/1s/2000/09/211b00/48134815.pdf)](https://files.diariodarepublica.pt/1s/2000/09/211b00/48134815.pdf)](https://files.diariodarepublica.pt/1s/2000/09/211b00/48134815.pdf)](https://files.diariodarepublica.pt/1s/2000/09/211b00/48134815.pdf)
 
 Actividades complementares de formação do 5.º ano lectivo
 
-[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2000/09/211b00/48134815.pdf)
+[[[[[[[[[[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2000/09/211b00/48134815.pdf)](https://files.diariodarepublica.pt/1s/2000/09/211b00/48134815.pdf)](https://files.diariodarepublica.pt/1s/2000/09/211b00/48134815.pdf)](https://files.diariodarepublica.pt/1s/2000/09/211b00/48134815.pdf)](https://files.diariodarepublica.pt/1s/2000/09/211b00/48134815.pdf)](https://files.diariodarepublica.pt/1s/2000/09/211b00/48134815.pdf)](https://files.diariodarepublica.pt/1s/2000/09/211b00/48134815.pdf)](https://files.diariodarepublica.pt/1s/2000/09/211b00/48134815.pdf)](https://files.diariodarepublica.pt/1s/2000/09/211b00/48134815.pdf)](https://files.diariodarepublica.pt/1s/2000/09/211b00/48134815.pdf)
 
 Último ano lectivo
 
-[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2000/09/211b00/48134815.pdf)
+[[[[[[[[[[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2000/09/211b00/48134815.pdf)](https://files.diariodarepublica.pt/1s/2000/09/211b00/48134815.pdf)](https://files.diariodarepublica.pt/1s/2000/09/211b00/48134815.pdf)](https://files.diariodarepublica.pt/1s/2000/09/211b00/48134815.pdf)](https://files.diariodarepublica.pt/1s/2000/09/211b00/48134815.pdf)](https://files.diariodarepublica.pt/1s/2000/09/211b00/48134815.pdf)](https://files.diariodarepublica.pt/1s/2000/09/211b00/48134815.pdf)](https://files.diariodarepublica.pt/1s/2000/09/211b00/48134815.pdf)](https://files.diariodarepublica.pt/1s/2000/09/211b00/48134815.pdf)](https://files.diariodarepublica.pt/1s/2000/09/211b00/48134815.pdf)

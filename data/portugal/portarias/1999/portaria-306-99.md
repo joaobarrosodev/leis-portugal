@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/306/1999/05/05/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/306-1999-334164
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1999-05-05T00:00:00Z'
+  retrieved_at: '2026-10-23T14:14:32Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: c9516330b3456714c244b0139ab2f9073ec8943127146e3dfba76efcaca284a3
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 69cc7da00a144a94d45a589b4dfb7864f79d05c63f92751a6f6ac7016acbee4c
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T14:14:32Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,29 +66,37 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Pilotagem
-- Pessoal do MAR
 - Licença de Pilotagem
-- Serviço de Pilotagem dos Portos e Barras
+- Navegação Marítima
+- Pessoal do MAR
+- Pilotagem
+- Portos
 - Regulamento
 - Regulamento Geral do Serviço de Pilotagem dos Portos e Barras
-- Portos
-- Navegação Marítima
+- Serviço de Pilotagem dos Portos e Barras
 relationships:
 - type: cites
   target: eli:http://data.dre.pt/eli/port/238-a/1997/04/04/p/dre
   label: null
   source: http://data.dre.pt/eli/port/238-a/1997/04/04/p/dre
+- type: cites
+  target: pt:dre:479665:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:610762:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T14:14:32Z'
   warnings: []
   errors: []
 ---
@@ -103,6 +111,6 @@ Neste sentido, enquanto decorrem os trabalhos destinados à reformulação do re
 
 Manda o Governo, pelos Ministros da Defesa Nacional e do Equipamento, do Planeamento e da Administração do Território, ao abrigo da alínea a) do n.º 1 do artigo 15.º do Regulamento Geral do Serviço de Pilotagem dos Portos e Barras, aprovado pelo [Decreto-Lei n.º 166/89](https://diariodarepublica.pt/dr/detalhe/decreto-lei/166-1989-610762), de 19 de Maio, e do n.º 5.º da [Portaria n.º 238-A/97](https://diariodarepublica.pt/dr/detalhe/portaria/238-a-1997-479665), de 4 de Abril, que sejam prorrogados por mais 90 dias os efeitos da [Portaria n.º 238-A/97](https://diariodarepublica.pt/dr/detalhe/portaria/238-a-1997-479665), de 4 de Abril.
 
-**Assinada em 1 de Abril de 1999.**
+Assinada em 1 de Abril de 1999.
 
-**O Ministro da Defesa Nacional, José Veiga Simão. - O Ministro do Equipamento, do Planeamento e da Administração do Território, João Cardona Gomes Cravinho.**
+O Ministro da Defesa Nacional, José Veiga Simão. - O Ministro do Equipamento, do Planeamento e da Administração do Território, João Cardona Gomes Cravinho.

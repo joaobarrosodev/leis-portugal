@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/684/1997/08/14/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/684-1997-209050
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1997-08-14T00:00:00Z'
+  retrieved_at: '2026-10-23T14:04:18Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: c2fc40515137e87d34be23a66f5d67ad8bbe0efaf7421fa3aedd0b9109743291
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: f5cf1cc294de10e9d6e44c8eb320a9618849c43f13ae235b815595983b598213
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T14:04:18Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,12 +66,12 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- NATO
-- Imposto sobre Produtos Petrolíferos
-- Produto Petrolífero
 - Combustível
 - Contribuições e Impostos
+- Imposto sobre Produtos Petrolíferos
 - Isenção Fiscal
+- NATO
+- Produto Petrolífero
 relationships:
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/123/1994/05/18/p/dre
@@ -89,16 +89,32 @@ relationships:
   target: eli:http://data.dre.pt/eli/port/93/1997/02/07/p/dre
   label: null
   source: http://data.dre.pt/eli/port/93/1997/02/07/p/dre
+- type: cites
+  target: pt:dre:262354:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:523179:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:559025:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:657441:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T14:04:18Z'
   warnings: []
   errors: []
 ---
@@ -135,6 +151,6 @@ Manda o Governo, pelos Ministros da Defesa Nacional, dos Negócios Estrangeiros 
 
 Ministérios da Defesa Nacional, dos Negócios Estrangeiros e das Finanças.
 
-**Assinada em 23 de Julho de 1997.**
+Assinada em 23 de Julho de 1997.
 
-**O Ministro da Defesa Nacional, António Manuel de Carvalho Ferreira Vitorino. - O Ministro dos Negócios Estrangeiros, Jaime José Matos da Gama. - O Ministro das Finanças, António Luciano Pacheco de Sousa Franco.**
+O Ministro da Defesa Nacional, António Manuel de Carvalho Ferreira Vitorino. - O Ministro dos Negócios Estrangeiros, Jaime José Matos da Gama. - O Ministro das Finanças, António Luciano Pacheco de Sousa Franco.

@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2000/08/200b00/44464448.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/684/2000/08/30/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/684-2000-581237
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2001-09-03T00:00:00Z'
+  retrieved_at: '2026-10-23T14:25:13Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: aa76b741c2f39f079e4d8477f5b3dc797249f1b1bcc3de055222839cd6eb5791
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 0bd45501acbac318f17f087c7ebab7da991e9a6bc31b2e3d6506014ad6376667
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T14:25:13Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,20 +66,26 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Leite
-- Direcção Regional de Agricultura
-- Instituto Nacional de Intervenção e Garantia Agrícola
-- Instituto de Alimentação e Mercados Agrícolas
-- Produção Leiteira
-- Madeira.região Autónoma
-- Quota de Produção
 - Açores
+- Direcção Regional de Agricultura
+- Instituto de Alimentação e Mercados Agrícolas
+- Instituto Nacional de Intervenção e Garantia Agrícola
+- Leite
+- Madeira.região Autónoma
+- Produção Leiteira
+- Quota de Produção
 - Sistema Nacional de Identificação e Registo de Bovinos
 relationships:
 - type: amended_by
   target: pt:dre:630843:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:330847:por
+  label: "Suspenso o regime de candidaturas e de distribuição da quota de referência da reserva nacional previsto pelo presente\
+    \ diploma, pela PORT.555/2001.2001.06.01.MADRP DR.IS-B [127]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/555-2001-330847
+  date: '2001-06-01'
 - type: cites
   target: celex:31992R3950
   label: null
@@ -96,16 +102,21 @@ relationships:
   target: eli:http://data.dre.pt/eli/port/115/1996/04/12/p/dre
   label: null
   source: http://data.dre.pt/eli/port/115/1996/04/12/p/dre
+- type: repealed_by
+  target: pt:dre:630843:por
+  label: "Revogada pela PORT.1054/2001.2001.09.03.MADRP, DR.IS-B [204]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/1054-2001-630843
+  date: '2001-09-03'
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T14:25:13Z'
   warnings: []
   errors: []
 ---

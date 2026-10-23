@@ -20,7 +20,7 @@ publication:
   reference: Diário da República n.º 76/1999, 1º Suplemento, Série I-B de 1999-03-31
   number: '76'
   series: I
-  supplement: 1º Suplemento
+  supplement: null
   pages: 1802-(2) a 1802-(2)
   pdf_url: https://files.diariodarepublica.pt/1s/1999/03/076b01/00020002.pdf
 entry_into_force_dates: []
@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/223-a/1999/03/31/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/223-a-1999-451829
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1999-03-31T00:00:00Z'
+  retrieved_at: '2026-10-23T14:14:02Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: eac71c9d7bf8c4ebd65802a76333505f15345749fddcbda0fa576e894fe48aa5
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: de2a6936ec0c53ba6ae0c04028573cf918b1cc731eb976ebf670ae1fa57e8716
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T14:14:02Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,25 +67,25 @@ reuse:
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
 - Alenquer
+- Amadora
 - Arruda dos Vinhos
-- Vila Franca de Xira
 - Azambuja
 - Bairro Fiscal
 - Cadaval
+- Cascais
 - Direcção Distrital de Finanças
 - Lisboa
 - Loures
 - Lourinhã
 - Mafra
 - Odivelas
-- Repartição de Finanças
-- Amadora
-- Cascais
 - Oeiras
+- Repartição de Finanças
 - Sintra
 - Sobral de Monte Agraço
 - Tesouraria da Fazenda Pública
 - Torres Vedras
+- Vila Franca de Xira
 relationships:
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/357/1998/11/18/p/dre
@@ -95,16 +95,24 @@ relationships:
   target: eli:http://data.dre.pt/eli/resolconsmin/119/1997/07/14/p/dre
   label: null
   source: http://data.dre.pt/eli/resolconsmin/119/1997/07/14/p/dre
+- type: cites
+  target: pt:dre:150926:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:229310:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T14:14:02Z'
   warnings: []
   errors: []
 ---
@@ -159,4 +167,4 @@ Repartição de Finanças e Tesouraria da Fazenda Pública de Sobral de Monte Ag
 
 1.ª e 2.ª Repartições de Finanças de Vila Franca de Xira e respectivas Tesourarias da Fazenda Pública.
 
-**O Ministro das Finanças, António Luciano Pacheco de Sousa Franco, em 8 de Março de 1999.**
+O Ministro das Finanças, António Luciano Pacheco de Sousa Franco, em 8 de Março de 1999.

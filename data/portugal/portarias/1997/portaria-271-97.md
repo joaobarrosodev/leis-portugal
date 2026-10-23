@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/271/1997/04/22/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/271-1997-469181
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1997-04-22T00:00:00Z'
+  retrieved_at: '2026-10-23T14:01:42Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: a9150459872e53fe906e7a876156ddc3c168ac4a9340c576c75ae90f888d263f
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: da2df526871f4753ae6691acdd0ac582ba6e7180ba176d8f1627b548eb45ae25
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T14:01:42Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -73,16 +73,40 @@ relationships:
   target: eli:http://data.dre.pt/eli/port/472/1993/05/05/p/dre
   label: null
   source: http://data.dre.pt/eli/port/472/1993/05/05/p/dre
+- type: cites
+  target: pt:dre:273823:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:274640:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:334637:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:382273:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:494850:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:505986:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
-  section_count: 2
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  section_count: 0
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T14:01:42Z'
   warnings: []
   errors: []
 ---
@@ -107,21 +131,21 @@ Unidades orgânicas de natureza administrativa:
 
 Repartição de Serviços Administrativos, com:
 
-#### Secção de Administração Geral;
+Secção de Administração Geral;
 
-#### Secção de Aprovisionamento.
+Secção de Aprovisionamento.
 
 3.º O conteúdo funcional da carreira de secretária-recepcionista é o constante no anexo I à presente portaria.
 
 Presidência do Conselho de Ministros e Ministérios das Finanças e da Saúde.
 
-**Assinada em 31 de Março de 1997.**
+Assinada em 31 de Março de 1997.
 
 Pelo Ministro das Finanças, Maria Manuela de Brito Arcanjo Marques da Costa, Secretária de Estado do Orçamento. - A Ministra da Saúde, Maria de Belém Roseira Martins Coelho Henriques de Pina. - Pelo Ministro Adjunto, Fausto de Sousa Correia, Secretário de Estado da Administração Pública.
 
 Quadro de pessoal do Hospital Distrital de Pombal
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1997/04/094b00/17961799.pdf))](https://files.diariodarepublica.pt/1s/1997/04/094b00/17961799.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1997/04/094b00/17961799.pdf)
 
 ## ANEXO I — Grupo de pessoal técnico-profissional de nível 3
 

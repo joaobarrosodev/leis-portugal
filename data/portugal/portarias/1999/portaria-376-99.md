@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/376/1999/05/21/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/376-1999-321561
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2009-09-18T00:00:00Z'
+  retrieved_at: '2026-10-23T14:14:58Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: f1ced060d8ffbd7232a8bd011aadb3435c7deb945ece10618f31baedcd6a14c9
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 77f6e8439b2684f4de3a40a2a15dfe968a5fc1495db35e1806d494cc002c68b4
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T14:14:58Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -74,6 +74,25 @@ relationships:
   target: pt:dre:490261:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:621699:por
+  label: "Anexados vários prédios rústicos à zona de caça turística criada pela Port 667-D2/93, de 14-Jul, DR.IS-B [163]Supl,\
+    \ na redacção do presente diploma, pela PORT.1068/2000.2000.11.06.MECO DR.IS-B [256]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/1068-2000-621699
+  date: '2000-11-06'
+- type: amended_by
+  target: pt:dre:150724:por
+  label: "Anexados vários prédios rústicos à zona de caça atribuída pela Port 667-D2/93 de 14-Jul, com a redacção do presente\
+    \ diploma, pela PORT.846/2005.20.09.2005.MEI, DR.IS-B [181] de 20.09.2005\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/846-2005-150724
+  date: '2005-09-20'
+- type: amended_by
+  target: pt:dre:490261:por
+  label: "Anexados vários prédios rústicos, sitos nas freguesias de Zebreira e Rosmaninhal,à zona de caça turística de Enxacana,\
+    \ concessionada pela Port 667-D2/93 de 14-Jul, alterada pelo presente diploma, pela PORT.1070/2009.18.09.2009.MADRP, DR.IS\
+    \ [182] de 18.09.2009\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/1070-2009-490261
+  date: '2009-09-18'
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/136/1996/08/14/p/dre
   label: null
@@ -90,16 +109,36 @@ relationships:
   target: eli:http://data.dre.pt/eli/port/667-d2/1993/07/14/p/dre
   label: null
   source: http://data.dre.pt/eli/port/667-d2/1993/07/14/p/dre
+- type: cites
+  target: pt:dre:156001:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:156003:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:219134:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:402515:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:405765:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T14:14:58Z'
   warnings: []
   errors: []
 ---
@@ -124,7 +163,7 @@ Manda o Governo, pelos Ministros da Economia e da Agricultura, do Desenvolviment
 
 3.º A zona de caça passará a ser fiscalizada por dois guardas florestais auxiliares dotados de meio de transporte ou cinco sem meio de transporte.
 
-**Assinada em 27 de Abril de 1999.**
+Assinada em 27 de Abril de 1999.
 
 Pelo Ministro da Economia, Vítor Manuel Cabrita Neto, Secretário de Estado do Turismo. - Pelo Ministro da Agricultura, do Desenvolvimento Rural e das Pescas, Vítor Manuel Coelho Barros, Secretário de Estado do Desenvolvimento Rural.
 

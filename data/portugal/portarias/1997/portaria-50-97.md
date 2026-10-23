@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/50/1997/01/20/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/50-1997-582018
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2011-01-26T00:00:00Z'
+  retrieved_at: '2026-10-23T14:03:13Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: dcc77d3f2eb280382a3b66557c14ebcbcc2522fde4804da3a0c476f2b868b993
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 064ed5c36d24b956ecea24cc84c6fdc614597410efa5a3815a85342534585f9b
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T14:03:13Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,15 +66,33 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Médico
 - Carreira Médica
 - Formação Profissional
 - Internato Complementar
+- Médico
 relationships:
 - type: amended_by
   target: pt:dre:280940:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:518849:por
+  label: "Alterado o nº 7 do Programa de Formação do Internato Complementar de Anotomia Patológica pela Port.199/97.1997.03.22.MS\
+    \ DR.IS-B [69]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/199-1997-518849
+  date: '1997-03-22'
+- type: amended_by
+  target: pt:dre:280940:por
+  label: "Actualizado o programa de formação da especialidade de cardiologia, pela PORT.46/2011.26.01.2011.MS, DR.IS [18]\
+    \ de 26.01.2011\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/46-2011-280940
+  date: '2011-01-26'
+- type: amended_by
+  target: pt:dre:115712187:por
+  label: Atualizado, com efeitos a 01.01.2019, o programa formativo de Ortopedia, pelo(a) Portaria n.º 212/2018 - Diário da
+    República n.º 136/2018, Série I de 2018-07-17 nos termos do n.º 7 do programa anexo a esta
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/212-2018-115712187
+  date: '2018-07-17'
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/128/1992/07/04/p/dre
   label: null
@@ -83,16 +101,24 @@ relationships:
   target: eli:http://data.dre.pt/eli/port/695/1995/06/30/p/dre
   label: null
   source: http://data.dre.pt/eli/port/695/1995/06/30/p/dre
+- type: cites
+  target: pt:dre:288258:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:476721:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T14:03:13Z'
   warnings: []
   errors: []
 ---
@@ -117,9 +143,9 @@ Manda o Governo, pela Ministra da Saúde, o seguinte:
 
 Ministério da Saúde.
 
-**Assinada em 10 de Dezembro de 1996.**
+Assinada em 10 de Dezembro de 1996.
 
-**A Ministra da Saúde, Maria de Belém Roseira Martins Coelho Henriques de Pina.**
+A Ministra da Saúde, Maria de Belém Roseira Martins Coelho Henriques de Pina.
 
 PROGRAMA DE FORMAÇÃO DO INTERNATO COMPLEMENTAR DE ANATOMIA PATOLÓGICA
 

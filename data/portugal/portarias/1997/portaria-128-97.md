@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/128/1997/02/22/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/128-1997-507629
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2001-08-28T00:00:00Z'
+  retrieved_at: '2026-10-23T14:00:38Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 049b0b042f09c60cc7896e4cd7d5d1306174cc203b73e17a11d4d5490bd1e141
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 49c2d8e22ef4ae111a3f8c506c9678a993f83705d729218fe1b8e94b6d2d1277
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T14:00:38Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,11 +67,11 @@ reuse:
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
 - Contribuições e Impostos
-- IRS
-- Veículo
 - IRC
+- IRS
 - Profissão Independente
 - Sociedades
+- Veículo
 relationships:
 - type: amended_by
   target: pt:dre:517217:por
@@ -85,16 +85,29 @@ relationships:
   target: eli:http://data.dre.pt/eli/port/83/1994/02/07/p/dre
   label: null
   source: http://data.dre.pt/eli/port/83/1994/02/07/p/dre
+- type: cites
+  target: pt:dre:477288:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:521630:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:517217:por
+  label: "Revogada pela PORT.1041/2001.2001.08.28.MF.DR.IS-B[199]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/1041-2001-517217
+  date: '2001-08-28'
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T14:00:38Z'
   warnings: []
   errors: []
 ---
@@ -125,6 +138,6 @@ b) Para o cálculo da dedução referente a prestações devidas pelo aluguer se
 
 Ministério das Finanças.
 
-**Assinada em 3 de Fevereiro de 1997.**
+Assinada em 3 de Fevereiro de 1997.
 
-**O Secretário de Estado dos Assuntos Fiscais, António Carlos dos Santos.**
+O Secretário de Estado dos Assuntos Fiscais, António Carlos dos Santos.

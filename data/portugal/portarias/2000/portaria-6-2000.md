@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/6/2000/01/06/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/6-2000-510389
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2004-07-31T00:00:00Z'
+  retrieved_at: '2026-10-23T14:24:43Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 70d3932ede64eb3cd2adaed741cd7fe38c5cdf40f8b3901dccff705c2241935d
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: fbb2cd5bfaf40491e5f9a21c1c201970d8e9d1d5adf1e2bf42fd6c3e35b8d4a6
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T14:24:43Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -65,18 +65,23 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Universidade Lusíada
-- Plano de Estudos
 - Curso de Psicologia
 - Ensino Particular
-- Licenciatura
 - Ensino Superior
+- Licenciatura
+- Plano de Estudos
 - Porto
+- Universidade Lusíada
 relationships:
 - type: amended_by
   target: pt:dre:501219:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:501219:por
+  label: "Alterado o nº 5 pela PORT.974/2004.31.07.2004.MCES, DR.IS-B [179] de 31.07.2004\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/974-2004-501219
+  date: '2004-07-31'
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/15/1996/03/06/p/dre
   label: null
@@ -105,16 +110,48 @@ relationships:
   target: eli:http://data.dre.pt/eli/port/1132/1991/10/31/p/dre
   label: null
   source: http://data.dre.pt/eli/port/1132/1991/10/31/p/dre
+- type: cites
+  target: pt:dre:138571:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:150335:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:173481:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:321923:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:512030:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:533820:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:618546:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:621136:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T14:24:43Z'
   warnings: []
   errors: []
 ---

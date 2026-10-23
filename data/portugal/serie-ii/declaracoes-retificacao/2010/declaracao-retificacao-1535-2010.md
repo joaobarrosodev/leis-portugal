@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/2s/2010/07/147000000/4099841002.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -47,18 +47,18 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/declaracao-rectificacao/1535-2010-1435481
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2010-07-30T00:00:00Z'
+  retrieved_at: '2026-10-23T14:18:14Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 24520374a6481262de30e665fb8b695fa46653a0edec79aec5fcb5e18a331dca
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 02dee226ecba4259b1f84e612364ccb98249629c61825f1927bf2ce2e37044b3
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T14:18:14Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -70,13 +70,13 @@ relationships: []
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T14:18:14Z'
   warnings: []
   errors: []
 ---
@@ -93,7 +93,7 @@ O despacho n.º 8716/2010, publicado no Diário da República, 2.ª série, n.º
 
 Ramo de Ciências Exactas, maior em Ciências Exactas
 
-[([ver documento original](https://files.diariodarepublica.pt/2s/2010/07/147000000/4099841002.pdf))](https://files.diariodarepublica.pt/2s/2010/07/147000000/4099841002.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/2s/2010/07/147000000/4099841002.pdf)
 
 Nota. - O estudante que o desejar pode obter adicionalmente um menor em Ética e Filosofia da Ciência, para o que tem de perfazer 30 ECTS na área científica de Filosofia, estando aí incluídos os 10 ECTS obrigatórios e os 5 ECTS optativos previstos em exclusivo para esta área científica. Ou seja, o aluno que deseje obter esse menor terá de escolher pelo menos 15 ECTS na área de Filosofia de entre os 25 ECTS desta área interdisciplinar.
 
@@ -101,7 +101,7 @@ QUADRO N.º 2
 
 Ramo de Ciências Exactas, maior em Matemática e Estatística
 
-[([ver documento original](https://files.diariodarepublica.pt/2s/2010/07/147000000/4099841002.pdf))](https://files.diariodarepublica.pt/2s/2010/07/147000000/4099841002.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/2s/2010/07/147000000/4099841002.pdf)
 
 Nota. - O estudante que o desejar pode obter adicionalmente um menor em Ética e Filosofia da Ciência, para o que tem de perfazer 30 ECTS na área científica de Filosofia, estando aí incluídos os 10 ECTS obrigatórios e os 5 ECTS optativos previstos em exclusivo para esta área científica. Ou seja, o aluno que deseje obter esse menor terá de escolher pelo menos 15 ECTS na área de Filosofia de entre os 25 ECTS desta área interdisciplinar.
 
@@ -109,7 +109,7 @@ QUADRO N.º 3
 
 Ramo de Ciências Exactas, maior em Física da Terra
 
-[([ver documento original](https://files.diariodarepublica.pt/2s/2010/07/147000000/4099841002.pdf))](https://files.diariodarepublica.pt/2s/2010/07/147000000/4099841002.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/2s/2010/07/147000000/4099841002.pdf)
 
 Nota. - O estudante que o desejar pode obter adicionalmente um menor em Ética e Filosofia da Ciência, para o que tem de perfazer 30 ECTS na área científica de Filosofia, estando aí incluídos os 10 ECTS obrigatórios e os 5 ECTS optativos previstos em exclusivo para esta área científica. Ou seja, o aluno que deseje obter esse menor terá de escolher pelo menos 15 ECTS na área de Filosofia de entre os 25 ECTS desta área interdisciplinar.
 
@@ -117,7 +117,7 @@ QUADRO N.º 4
 
 Ramo de Ciências Exactas, maior em Química
 
-[([ver documento original](https://files.diariodarepublica.pt/2s/2010/07/147000000/4099841002.pdf))](https://files.diariodarepublica.pt/2s/2010/07/147000000/4099841002.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/2s/2010/07/147000000/4099841002.pdf)
 
 Nota. - O estudante que o desejar pode obter adicionalmente um menor em Ética e Filosofia da Ciência, para o que tem de perfazer 30 ECTS na área científica de Filosofia, estando aí incluídos os 10 ECTS obrigatórios e os 5 ECTS optativos previstos em exclusivo para esta área científica. Ou seja, o aluno que deseje obter esse menor terá de escolher pelo menos 15 ECTS na área de Filosofia de entre os 25 ECTS desta área interdisciplinar.
 
@@ -125,7 +125,7 @@ QUADRO N.º 5
 
 Ramo de Ciências da Natureza, maior em Ciências da Natureza
 
-[([ver documento original](https://files.diariodarepublica.pt/2s/2010/07/147000000/4099841002.pdf))](https://files.diariodarepublica.pt/2s/2010/07/147000000/4099841002.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/2s/2010/07/147000000/4099841002.pdf)
 
 Nota. - O estudante que o desejar pode obter adicionalmente um menor em Ética e Filosofia da Ciência, para o que tem de perfazer 30 ECTS na área científica de Filosofia, estando aí incluídos os 10 ECTS obrigatórios e os 5 ECTS optativos previstos em exclusivo para esta área científica. Ou seja, o aluno que deseje obter esse menor terá de escolher pelo menos 15 ECTS na área de Filosofia de entre os 25 ECTS desta área interdisciplinar.
 
@@ -133,7 +133,7 @@ QUADRO N.º 6
 
 Ramo de Ciências da Natureza, maior em Biologia
 
-[([ver documento original](https://files.diariodarepublica.pt/2s/2010/07/147000000/4099841002.pdf))](https://files.diariodarepublica.pt/2s/2010/07/147000000/4099841002.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/2s/2010/07/147000000/4099841002.pdf)
 
 Nota. - O estudante que o desejar pode obter adicionalmente um menor em Ética e Filosofia da Ciência, para o que tem de perfazer 30 ECTS na área científica de Filosofia, estando aí incluídos os 10 ECTS obrigatórios e os 5 ECTS optativos previstos em exclusivo para esta área científica. Ou seja, o aluno que deseje obter esse menor terá de escolher pelo menos 15 ECTS na área de Filosofia de entre os 25 ECTS desta área interdisciplinar.
 
@@ -141,7 +141,7 @@ QUADRO N.º 7
 
 Ramo de Ciências da Natureza, maior em Geociências
 
-[([ver documento original](https://files.diariodarepublica.pt/2s/2010/07/147000000/4099841002.pdf))](https://files.diariodarepublica.pt/2s/2010/07/147000000/4099841002.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/2s/2010/07/147000000/4099841002.pdf)
 
 Nota. - O estudante que o desejar pode obter adicionalmente um menor em Ética e Filosofia da Ciência, para o que tem de perfazer 30 ECTS na área científica de Filosofia, estando aí incluídos os 10 ECTS obrigatórios e os 5 ECTS optativos previstos em exclusivo para esta área científica. Ou seja, o aluno que deseje obter esse menor terá de escolher pelo menos 15 ECTS na área de Filosofia de entre os 25 ECTS desta área interdisciplinar.
 
@@ -149,7 +149,7 @@ QUADRO N.º 8
 
 Ramo de Ciências da Natureza, maior em Ciências do Ambiente
 
-[([ver documento original](https://files.diariodarepublica.pt/2s/2010/07/147000000/4099841002.pdf))](https://files.diariodarepublica.pt/2s/2010/07/147000000/4099841002.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/2s/2010/07/147000000/4099841002.pdf)
 
 Nota. - O estudante que o desejar pode obter adicionalmente um menor em Ética e Filosofia da Ciência, para o que tem de perfazer 30 ECTS na área científica de Filosofia, estando aí incluídos os 10 ECTS obrigatórios e os 5 ECTS optativos previstos em exclusivo para esta área científica. Ou seja, o aluno que deseje obter esse menor terá de escolher pelo menos 15 ECTS na área de Filosofia de entre os 25 ECTS desta área interdisciplinar.»
 
@@ -159,7 +159,7 @@ deve ler-se:
 
 Ramo de Ciências Exactas, maior em Ciências Exactas
 
-[([ver documento original](https://files.diariodarepublica.pt/2s/2010/07/147000000/4099841002.pdf))](https://files.diariodarepublica.pt/2s/2010/07/147000000/4099841002.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/2s/2010/07/147000000/4099841002.pdf)
 
 Nota. - O estudante que o desejar pode obter adicionalmente um menor em Ética e Filosofia da Ciência, para o que tem de perfazer 30 ECTS na área científica de Filosofia, estando aí incluídos os 10 ECTS obrigatórios e os 5 ECTS optativos previstos em exclusivo para esta área científica. Ou seja, o aluno que deseje obter esse menor terá de escolher pelo menos 15 ECTS na área de Filosofia de entre os 25 ECTS desta área interdisciplinar.
 
@@ -167,7 +167,7 @@ QUADRO N.º 2
 
 Ramo de Ciências Exactas, maior em Matemática e Estatística
 
-[([ver documento original](https://files.diariodarepublica.pt/2s/2010/07/147000000/4099841002.pdf))](https://files.diariodarepublica.pt/2s/2010/07/147000000/4099841002.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/2s/2010/07/147000000/4099841002.pdf)
 
 Nota. - O estudante que o desejar pode obter adicionalmente um menor em Ética e Filosofia da Ciência, para o que tem de perfazer 30 ECTS na área científica de Filosofia, estando aí incluídos os 10 ECTS obrigatórios e os 5 ECTS optativos previstos em exclusivo para esta área científica. Ou seja, o aluno que deseje obter esse menor terá de escolher pelo menos 15 ECTS na área de Filosofia de entre os 25 ECTS desta área interdisciplinar.
 
@@ -175,7 +175,7 @@ QUADRO N.º 3
 
 Ramo de Ciências Exactas, maior em Física da Terra
 
-[([ver documento original](https://files.diariodarepublica.pt/2s/2010/07/147000000/4099841002.pdf))](https://files.diariodarepublica.pt/2s/2010/07/147000000/4099841002.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/2s/2010/07/147000000/4099841002.pdf)
 
 Nota. - O estudante que o desejar pode obter adicionalmente um menor em Ética e Filosofia da Ciência, para o que tem de perfazer 30 ECTS na área científica de Filosofia, estando aí incluídos os 10 ECTS obrigatórios e os 5 ECTS optativos previstos em exclusivo para esta área científica. Ou seja, o aluno que deseje obter esse menor terá de escolher pelo menos 15 ECTS na área de Filosofia de entre os 25 ECTS desta área interdisciplinar.
 
@@ -183,7 +183,7 @@ QUADRO N.º 4
 
 Ramo de Ciências Exactas, maior em Química
 
-[([ver documento original](https://files.diariodarepublica.pt/2s/2010/07/147000000/4099841002.pdf))](https://files.diariodarepublica.pt/2s/2010/07/147000000/4099841002.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/2s/2010/07/147000000/4099841002.pdf)
 
 Nota. - O estudante que o desejar pode obter adicionalmente um menor em Ética e Filosofia da Ciência, para o que tem de perfazer 30 ECTS na área científica de Filosofia, estando aí incluídos os 10 ECTS obrigatórios e os 5 ECTS optativos previstos em exclusivo para esta área científica. Ou seja, o aluno que deseje obter esse menor terá de escolher pelo menos 15 ECTS na área de Filosofia de entre os 25 ECTS desta área interdisciplinar.
 
@@ -191,7 +191,7 @@ QUADRO N.º 5
 
 Ramo de Ciências da Natureza, maior em Ciências da Natureza
 
-[([ver documento original](https://files.diariodarepublica.pt/2s/2010/07/147000000/4099841002.pdf))](https://files.diariodarepublica.pt/2s/2010/07/147000000/4099841002.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/2s/2010/07/147000000/4099841002.pdf)
 
 Nota. - O estudante que o desejar pode obter adicionalmente um menor em Ética e Filosofia da Ciência, para o que tem de perfazer 30 ECTS na área científica de Filosofia, estando aí incluídos os 10 ECTS obrigatórios e os 5 ECTS optativos previstos em exclusivo para esta área científica. Ou seja, o aluno que deseje obter esse menor terá de escolher pelo menos 15 ECTS na área de Filosofia de entre os 25 ECTS desta área interdisciplinar.
 
@@ -199,7 +199,7 @@ QUADRO N.º 6
 
 Ramo de Ciências da Natureza, maior em Biologia
 
-[([ver documento original](https://files.diariodarepublica.pt/2s/2010/07/147000000/4099841002.pdf))](https://files.diariodarepublica.pt/2s/2010/07/147000000/4099841002.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/2s/2010/07/147000000/4099841002.pdf)
 
 Nota. - O estudante que o desejar pode obter adicionalmente um menor em Ética e Filosofia da Ciência, para o que tem de perfazer 30 ECTS na área científica de Filosofia, estando aí incluídos os 10 ECTS obrigatórios e os 5 ECTS optativos previstos em exclusivo para esta área científica. Ou seja, o aluno que deseje obter esse menor terá de escolher pelo menos 15 ECTS na área de Filosofia de entre os 25 ECTS desta área interdisciplinar.
 
@@ -207,7 +207,7 @@ QUADRO N.º 7
 
 Ramo de Ciências da Natureza, maior em Geociências
 
-[([ver documento original](https://files.diariodarepublica.pt/2s/2010/07/147000000/4099841002.pdf))](https://files.diariodarepublica.pt/2s/2010/07/147000000/4099841002.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/2s/2010/07/147000000/4099841002.pdf)
 
 Nota. - O estudante que o desejar pode obter adicionalmente um menor em Ética e Filosofia da Ciência, para o que tem de perfazer 30 ECTS na área científica de Filosofia, estando aí incluídos os 10 ECTS obrigatórios e os 5 ECTS optativos previstos em exclusivo para esta área científica. Ou seja, o aluno que deseje obter esse menor terá de escolher pelo menos 15 ECTS na área de Filosofia de entre os 25 ECTS desta área interdisciplinar.
 
@@ -215,7 +215,7 @@ QUADRO N.º 8
 
 Ramo de Ciências da Natureza, maior em Ciências do Ambiente
 
-[([ver documento original](https://files.diariodarepublica.pt/2s/2010/07/147000000/4099841002.pdf))](https://files.diariodarepublica.pt/2s/2010/07/147000000/4099841002.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/2s/2010/07/147000000/4099841002.pdf)
 
 Nota. - O estudante que o desejar pode obter adicionalmente um menor em Ética e Filosofia da Ciência, para o que tem de perfazer 30 ECTS na área científica de Filosofia, estando aí incluídos os 10 ECTS obrigatórios e os 5 ECTS optativos previstos em exclusivo para esta área científica. Ou seja, o aluno que deseje obter esse menor terá de escolher pelo menos 15 ECTS na área de Filosofia de entre os 25 ECTS desta área.»
 
@@ -225,7 +225,7 @@ Nota. - O estudante que o desejar pode obter adicionalmente um menor em Ética e
 
 QUADRO N.º 34
 
-[([ver documento original](https://files.diariodarepublica.pt/2s/2010/07/147000000/4099841002.pdf))](https://files.diariodarepublica.pt/2s/2010/07/147000000/4099841002.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/2s/2010/07/147000000/4099841002.pdf)
 
 deve ler-se:
 
@@ -233,6 +233,8 @@ deve ler-se:
 
 QUADRO N.º 34
 
-[([ver documento original](https://files.diariodarepublica.pt/2s/2010/07/147000000/4099841002.pdf))](https://files.diariodarepublica.pt/2s/2010/07/147000000/4099841002.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/2s/2010/07/147000000/4099841002.pdf)
 
 19 de Julho de 2010. - A Directora dos Serviços Académicos, Margarida Cabral.
+
+203517671

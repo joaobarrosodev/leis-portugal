@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/734/1997/08/25/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/734-1997-193419
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2008-11-05T00:00:00Z'
+  retrieved_at: '2026-10-23T14:04:41Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 9ea3a07b7d42adf312b8eeab11f35c2e1dc8861db92e8b7b13026d61c2f04754
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: d2b2d1b66523e7e4ee3925accf74950bed3534cdc999d44e19055dc10dbe7009
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T14:04:41Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,14 +66,32 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Cartaxo
 - CAÇA
+- Cartaxo
 - ZONA de CAÇA
 relationships:
 - type: amended_by
   target: pt:dre:439157:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:216719:por
+  label: "Anexados vários prédios rústicos à zona de caça atribuída pela Port 722-J11/92 de 15-Jul, alterada pela presente,\
+    \ pela PORT.345/2004.01.04.2004.MADRP, DR.IS-B [78] de 01.04.2004\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/345-2004-216719
+  date: '2004-04-01'
+- type: amended_by
+  target: pt:dre:456526:por
+  label: "Renovada, por um período de seis anos, a concessão da zona de caça concessionada pela Port 722-J11/92 de 15-Jul,\
+    \ alterada pelo presente diploma, pela PORT.602/2008.09.07.2008.MADRP, DR.IS [131] de 09.07.2008\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/602-2008-456526
+  date: '2008-07-09'
+- type: amended_by
+  target: pt:dre:439157:por
+  label: "Anexados vários prédios rústicos à zona de caça associativa de Valadas criada pela Port 922-J11/92, de 15-Jul, alterada\
+    \ pelo presente diploma, pela PORT.1264/2008.05.11.2008.MADRP, DR.IS [215] de 05.11.2008\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/1264-2008-439157
+  date: '2008-11-05'
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/251/1992/11/12/p/dre
   label: null
@@ -82,16 +100,32 @@ relationships:
   target: eli:http://data.dre.pt/eli/port/722-j11/1992/07/15/p/dre
   label: null
   source: http://data.dre.pt/eli/port/722-j11/1992/07/15/p/dre
+- type: cites
+  target: pt:dre:417646:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:455890:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:584874:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:617684:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T14:04:41Z'
   warnings: []
   errors: []
 ---
@@ -124,8 +158,8 @@ Manda o Governo, pelo Ministro da Agricultura, do Desenvolvimento Rural e das Pe
 
 Ministério da Agricultura, do Desenvolvimento Rural e das Pescas.
 
-**Assinada em 4 de Agosto de 1997.**
+Assinada em 4 de Agosto de 1997.
 
 Pelo Ministro da Agricultura, do Desenvolvimento Rural e das Pescas, Luís Manuel Capoulas Santos, Secretário de Estado da Agricultura e do Desenvolvimento Rural.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1997/08/195b00/43904391.pdf))](https://files.diariodarepublica.pt/1s/1997/08/195b00/43904391.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1997/08/195b00/43904391.pdf)

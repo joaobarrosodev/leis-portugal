@@ -26,7 +26,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/2s/2010/08/148000000/4124241242.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -48,18 +48,18 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/declaracao-rectificacao/1547-2010-2655995
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2010-08-02T00:00:00Z'
+  retrieved_at: '2026-10-23T14:18:19Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 5732a234b5e54cce4d791072d5b9731666e4773e2db9e9c2e6fb9eb0d1be2489
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 3a163fdfdd96e0d763395cb56568c783e3035feb3ba01645a450f0eaed3631c7
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T14:18:19Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -71,13 +71,13 @@ relationships: []
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T14:18:19Z'
   warnings: []
   errors: []
 ---
@@ -89,3 +89,5 @@ Declaração de rectificação n.º 1547/2010
 Por ter sido publicado com inexactidão no Diário da República, 2.ª série, n.º 57, de 23 de Março de 2010, rectifica-se o edital n.º 249/2010, respeitante ao concurso documental internacional para provimento de duas vagas de professor catedrático para a Faculdade de Psicologia e Ciências da Educação desta Universidade. Assim, onde se lê «Presidente: Reitor da Universidade de Coimbra, Professor Doutor Fernando Jorge Rama Seabra Santos» deve ler-se «Presidente - Vice -reitora da Universidade de Coimbra, Prof.ª Doutora Cristina Maria da Silva Robalo Cordeiro, por delegação de competências publicada no Diário da República, 2.ª série, n.º 81, de 26 de Abril de 2007».
 
 27 de Julho de 2010. - O Reitor, Fernando Seabra Santos.
+
+203535597

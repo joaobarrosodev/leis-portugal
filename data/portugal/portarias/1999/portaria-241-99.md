@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/241/1999/04/06/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/241-1999-548577
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2024-08-14T00:00:00Z'
+  retrieved_at: '2026-10-23T14:14:07Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 798809c9d071f3d9ffa424f081fa9635e31efbf8bcf347dc2805b89a2c70fca4
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 2884829c5cb9a67a493dba88c4a3ed6be32065708866948cee6c2fc688c895a3
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T14:14:07Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,17 +66,29 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Médico
 - Carreira Médica
-- Formação Profissional
 - Ensino Médico
+- Formação Profissional
 - Internato Complementar
+- Médico
 - Programa de Formação
 relationships:
 - type: amended_by
   target: pt:dre:877330487:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:105643547:por
+  label: Atualizado o programa de formação da área de especialização de Psiquiatria, pelo(a) Portaria n.º 340/2016 - Diário
+    da República n.º 249/2016, Série I de 2016-12-29
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/340-2016-105643547
+  date: '2016-12-29'
+- type: amended_by
+  target: pt:dre:877330487:por
+  label: Atualizado o programa de formação especializada em radiologia pelo(a) Portaria n.º 188-C/2024/1 - Diário da República
+    n.º 157/2024, Suplemento, Série I de 2024-08-14
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/188-c-2024-877330487
+  date: '2024-08-14'
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/128/1992/07/04/p/dre
   label: null
@@ -85,16 +97,24 @@ relationships:
   target: eli:http://data.dre.pt/eli/port/695/1995/06/30/p/dre
   label: null
   source: http://data.dre.pt/eli/port/695/1995/06/30/p/dre
+- type: cites
+  target: pt:dre:288258:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:476721:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T14:14:07Z'
   warnings: []
   errors: []
 ---
@@ -117,7 +137,7 @@ Manda o Governo, pela Ministra da Saúde, o seguinte:
 
 2.º A aplicação e desenvolvimento dos programas referidos no número anterior compete aos órgãos e agentes responsáveis pela formação nos internatos, devendo assegurar a maior uniformidade a nível nacional.
 
-**A Ministra da Saúde, Maria de Belém Roseira Martins Coelho Henriques de Pina, em 2 de Março de 1999.**
+A Ministra da Saúde, Maria de Belém Roseira Martins Coelho Henriques de Pina, em 2 de Março de 1999.
 
 Programa de formação do internato complementar de radiologia (ou radiodiagnóstico)
 

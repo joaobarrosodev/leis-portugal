@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/2s/2010/06/121000000/3463934639.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -46,18 +46,18 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/declaracao-rectificacao/1239-2010-3454623
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2010-06-24T00:00:00Z'
+  retrieved_at: '2026-10-23T14:16:23Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 219f058efd8c255538d254ce8949431aec28a7df917da9772ee04385be6bd1a7
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: eb6b7e4de13489cd479555be255141ff704e4fb7a534caef23d3838a949b7fd7
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T14:16:23Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -65,22 +65,106 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects: []
-relationships: []
+relationships:
+- type: cites
+  target: pt:dre:196970:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:222996:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:222999:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:239217:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:289214:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:332749:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:358491:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:397360:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:432861:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:432862:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:432863:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:432864:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:483402:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:493485:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:517471:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:540016:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:562269:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:608053:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:626241:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:633284:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:641156:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T14:16:23Z'
   warnings: []
   errors: []
 ---
 
-# Declaração de Rectificação n.º 1239/2010
+# Declaração de rectificação n.º 1239/2010
 
 Rectificação ao aviso n.º 10524/2010
 
@@ -123,3 +207,5 @@ Animais de Companhia ([Lei n.º 92/95](https://diariodarepublica.pt/dr/detalhe/l
 Face às alterações, será atribuído novo prazo de candidaturas, (10 dias úteis), considerando-se válidas as já apresentadas.
 
 14 de Junho de 2010. - O Vice-Presidente da Câmara, por delegação de competências, Marco António Costa.
+
+303369888

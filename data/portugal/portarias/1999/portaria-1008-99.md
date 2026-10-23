@@ -48,18 +48,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/1008/1999/11/12/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/1008-1999-682834
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2002-12-26T00:00:00Z'
+  retrieved_at: '2026-10-23T14:12:31Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 9f3c79cee24a4796a7de17379bea65c58f43a242265397ea7cd5cc05d0a33d86
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: d9ffb73a6a9656dcbde4e22ad44f9921ea7a4688cad2b6dbb031968053a7d2d1
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T14:12:31Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,18 +67,23 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Plano de Estudos
 - Curso de Engenharia Civil
 - Curso de Engenharia de Construção Civil
 - Ensino Superior Politécnico
 - Escola Superior de Tecnologia
 - Licenciatura
+- Plano de Estudos
 - Tomar
 relationships:
 - type: amended_by
   target: pt:dre:405332:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:405332:por
+  label: "Alterado o plano de estudos pela PORT.1554/2002.2002.12.26.MCES, DR.IS-B [298] \0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/1554-2002-405332
+  date: '2002-12-26'
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/96/1996/07/17/p/dre
   label: null
@@ -103,16 +108,64 @@ relationships:
   target: eli:http://data.dre.pt/eli/port/680-c/1998/08/31/p/dre
   label: null
   source: http://data.dre.pt/eli/port/680-c/1998/08/31/p/dre
+- type: cites
+  target: pt:dre:147873:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:222418:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:273991:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:373266:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:413413:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:429593:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:429596:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:453184:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:556606:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:557836:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:621745:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:653145:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T14:12:31Z'
   warnings: []
   errors: []
 ---

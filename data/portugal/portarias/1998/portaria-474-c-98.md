@@ -19,12 +19,12 @@ publication:
   reference: Diário da República n.º 179/1998, 2º Suplemento, Série I-B de 1998-08-05
   number: '179'
   series: I
-  supplement: 2º Suplemento
+  supplement: null
   pages: 3774-(4) a 3774-(4)
   pdf_url: https://files.diariodarepublica.pt/1s/1998/08/179b02/00040004.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/474-c/1998/08/05/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/474-c-1998-575881
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2006-06-07T00:00:00Z'
+  retrieved_at: '2026-10-23T14:09:15Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 97591e60986efef87cd970b52b2c41b01981bfd560534b1a407db92ec1f96184
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: a6f277293e745b9c6ee85ef1404f6de9ee05bf2c5422d123fda8dc816c8106a2
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T14:09:15Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -79,16 +79,26 @@ relationships:
   target: eli:http://data.dre.pt/eli/dec-lei/237/1998/08/05/p/dre
   label: null
   source: http://data.dre.pt/eli/dec-lei/237/1998/08/05/p/dre
+- type: cites
+  target: pt:dre:431467:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:345541:por
+  label: "Revogada, a partir da entrada em vigor do Regulamento de taxas da ERC, pelo DEC LEI.103/2006.07.06.2006.PCM, DR.IS-A\
+    \ [110] de 07.06.2006\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/103-2006-345541
+  date: '2006-06-07'
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T14:09:15Z'
   warnings: []
   errors: []
 ---
@@ -115,6 +125,6 @@ b) De 2500000$00 ou de 1250000$00, consoante se trate de concessão ou renovaç�
 
 Presidência do Conselho de Ministros.
 
-**Assinada em 5 de Agosto de 1998.**
+Assinada em 5 de Agosto de 1998.
 
-**O Secretário de Estado da Comunicação Social, Alberto Arons Braga de Carvalho.**
+O Secretário de Estado da Comunicação Social, Alberto Arons Braga de Carvalho.

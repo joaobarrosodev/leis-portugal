@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/2s/2009/06/107000000/2238822388.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -47,18 +47,18 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/declaracao-rectificacao/1424-2009-946192
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2009-06-03T00:00:00Z'
+  retrieved_at: '2026-10-23T14:01:07Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: e1eeb953e9b545a875e735a9ab94115ad04723c9e2ec38f47a3ff17d61387af4
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 252ab282d9c59d9822e79630a83989fda71aee8da53094cea28f72458147500b
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T14:01:07Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -68,15 +68,15 @@ reuse:
 subjects: []
 relationships: []
 article_structure:
-  article_count: 2
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T14:01:07Z'
   warnings: []
   errors: []
 ---
@@ -95,7 +95,7 @@ Assim, onde se lê:
 
 TMU = ((somatório) Kli x V x Si + K2 x Programa plurianual x (Ómega)2)/100 (Ómega)1
 
-###### Artigo 60.º
+Artigo 60.º
 
 TMU = ((somatório) Kli x K3 x Si x V + K2 x Prograna plurianual x (Ómega)2)/100 (Ómega)1»
 
@@ -105,8 +105,10 @@ deve ler-se:
 
 TMU = ((somatório) Kli x V x Si + K2 x Programa plurianual x (Ómega)2)/1000 (Ómega)1
 
-###### Artigo 60.º
+Artigo 60.º
 
 TMU = ((somatório) Kli x K3 x Si x V + K2 x Programa plurianual x (Ómega)2)/1000 (Ómega)1»
 
 18 de Maio de 2009. - O Presidente da Câmara, José Correia da Luz.
+
+301815756

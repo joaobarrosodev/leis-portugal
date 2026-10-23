@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/2s/2010/01/014000000/0308503085.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -46,18 +46,18 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/declaracao-rectificacao/111-2010-2450021
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2010-01-21T00:00:00Z'
+  retrieved_at: '2026-10-23T14:15:38Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 44d563f60e0adab631ff2ff12cdf3ad5d2bf299aff0cdc740fd803c91ce4dcb3
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 62d2e4b3c6b2bc4601d039c3e0d90c404abec037f8f68a0361d5e8e1e46f4a85
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T14:15:38Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -69,13 +69,13 @@ relationships: []
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T14:15:38Z'
   warnings: []
   errors: []
 ---
@@ -89,3 +89,5 @@ Rectificação do aviso n.º 14 850/2009, publicado no Diário da República, 2.
 Tendo o aviso n.º 14850/2009 sido publicado com uma incorrecção e para os devidos efeitos, faz-se público que onde se lê no ponto 6.1 «Podem, ainda, candidatar-se aos procedimentos com a Referência 16/PCC/2009 e Referência 17/PCC/2009, os trabalhadores que se encontrem nas situações previstas no n.º 1 do artigo 52.º da LVCR e aos procedimentos com a Referência 22/PCC/2009; Referência 23/PCC/2009 e Referência 24/PCC/2009, os trabalhadores que se encontrem nas situações previstas do n.º 1 e 2 do mesmo artigo.» deve ler-se «Podem, ainda, candidatar-se aos procedimentos com a Referência 16/PCC/2009 e Referência 17/PCC/2009, os trabalhadores que se encontrem nas situações previstas na al. a), b) e c) do n.º 1 do artigo 52.º da LVCR e aos procedimentos com a Referência 22/PCC/2009; Referência 23/PCC/2009 e Referência 24/PCC/2009, os trabalhadores que se encontrem nas situações previstas na al. a), b) e c) do n.º 1 e n.º 2 do mesmo artigo.».
 
 6 de Janeiro de 2010. - A Vereadora do Pelouro dos Recursos Humanos, Modernização Administração e Acção Social, Corália de Almeida Loureiro.
+
+302758612

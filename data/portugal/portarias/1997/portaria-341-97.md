@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1997/05/117b00/25172528.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/341/1997/05/21/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/341-1997-398286
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2017-08-31T00:00:00Z'
+  retrieved_at: '2026-10-23T14:02:08Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 9ed117b99bea8972de87ed87d45d6684a2a128885345caf1b77ba168e4689df7
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: b864aec6febb66a93b20b269169a9dbaa8c8558aace2aee6fc1dc6cefe24cb48
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T14:02:08Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,14 +67,14 @@ reuse:
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
 - CEE
-- Controlo de Qualidade
-- Marca
-- Direcção Geral de Energia
-- Saúde Pública
 - Certificado de Qualidade
-- Normas de Segurança
-- Segurança dos Edifícios
 - Comércio
+- Controlo de Qualidade
+- Direcção Geral de Energia
+- Marca
+- Normas de Segurança
+- Saúde Pública
+- Segurança dos Edifícios
 relationships:
 - type: amended_by
   target: pt:dre:108086622:por
@@ -84,16 +84,22 @@ relationships:
   target: celex:31994L0009
   label: null
   source: http://data.europa.eu/eli/dir/1994/9/oj
+- type: repealed_by
+  target: pt:dre:108086622:por
+  label: Revogada, a partir de 01.09.2017, pelo(a) Decreto-Lei n.º 111-C/2017 - Diário da República n.º 168/2017, 2º Suplemento,
+    Série I de 2017-08-31, sem prejuízo do disposto no art. 42.º daquele diploma.
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/111-c-2017-108086622
+  date: '2017-08-31'
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T14:02:08Z'
   warnings: []
   errors: []
 ---
@@ -140,9 +146,9 @@ b) Indique as características desses componentes, bem como as condições de in
 
 Ministério da Economia.
 
-**Assinada em 14 de Abril de 1997.**
+Assinada em 14 de Abril de 1997.
 
-**O Ministro da Economia, Augusto Carlos Serra Ventura Mateus.**
+O Ministro da Economia, Augusto Carlos Serra Ventura Mateus.
 
 ## ANEXO I — Critérios que determinam a classificação dos grupos de aparelhos em categorias
 
@@ -252,7 +258,7 @@ Cada aparelho e sistema de protecção deve ter inscritas, de maneira legível e
 
 - Ano de fabrico;
 
-- Marcação específica de protecção contra explosões [([ver documento original](https://files.diariodarepublica.pt/1s/1997/05/117b00/25172528.pdf))](https://files.diariodarepublica.pt/1s/1997/05/117b00/25172528.pdf) seguida do símbolo do grupo de aparelhos e da categoria;
+- Marcação específica de protecção contra explosões [(ver documento original)](https://files.diariodarepublica.pt/1s/1997/05/117b00/25172528.pdf) seguida do símbolo do grupo de aparelhos e da categoria;
 
 - Para o grupo de aparelhos II, a letra «G» (relativa a atmosferas explosivas devidas à presença de gases, vapores ou névoas); e ou
 
@@ -874,7 +880,7 @@ A documentação deve conter, na medida do necessário para a avaliação:
 
 A marcação CE de conformidade é constituída pelas iniciais CE, de acordo com o seguinte grafismo:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1997/05/117b00/25172528.pdf))](https://files.diariodarepublica.pt/1s/1997/05/117b00/25172528.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1997/05/117b00/25172528.pdf)
 
 No caso de redução ou de ampliação da marcação CE, devem ser respeitadas as proporções resultantes do grafismo graduado acima indicado.
 

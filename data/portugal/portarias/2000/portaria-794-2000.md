@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2000/09/218b00/49765054.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/794/2000/09/20/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/794-2000-570120
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2015-09-11T00:00:00Z'
+  retrieved_at: '2026-10-23T14:25:55Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: cbc4119fb6d95a62e8c2f277074e182b9e3c65e8d2813f0ca4e90045cf1b7580
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 13eeab2770d030e77c042cdc0e4585da50940b5f5f84aadc0849411ed3ba7830
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T14:25:55Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -65,12 +65,12 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Ministério da Educação
+- Contabilidade Pública
 - Execução do Orçamento
 - Finanças Públicas
+- Ministério da Educação
 - Plano Oficial de Contabilidade Pública
 - Poc-educação
-- Contabilidade Pública
 relationships:
 - type: amended_by
   target: pt:dre:70262478:por
@@ -92,16 +92,46 @@ relationships:
   target: eli:http://data.dre.pt/eli/dec-lei/232/1997/09/03/p/dre
   label: null
   source: http://data.dre.pt/eli/dec-lei/232/1997/09/03/p/dre
+- type: cites
+  target: pt:dre:213805:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:233093:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:275619:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:332895:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:380148:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:641123:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:70262478:por
+  label: Revogada, com efeitos a 01.01.2017, a presente Portaria, pelo(a) Decreto-Lei n.º 192/2015 - Diário da República n.º
+    178/2015, Série I de 2015-09-11
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/192-2015-70262478
+  date: '2015-09-11'
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T14:25:55Z'
   warnings: []
   errors: []
 ---
@@ -248,7 +278,7 @@ Entrada em vigor
 
 O presente diploma entra em vigor no dia seguinte ao da sua publicação.
 
-**O Ministro das Finanças, Joaquim Augusto Nunes Pina Moura, em 1 de Agosto de 2000. - O Ministro da Educação, Guilherme d'Oliveira Martins, em 7 de Agosto de 2000.**
+O Ministro das Finanças, Joaquim Augusto Nunes Pina Moura, em 1 de Agosto de 2000. - O Ministro da Educação, Guilherme d'Oliveira Martins, em 7 de Agosto de 2000.
 
 PLANO OFICIAL DE CONTABILIDADE PÚBLICA PARA O SECTOR DA EDUCAÇÃO
 
@@ -444,11 +474,11 @@ Na fase da cobrança, deverá ser emitido um recibo.
 
 a) O registo na conta 027 - «Compromissos» do saldo dos compromissos do exercício anterior que não se concretizaram em despesa realizada. Para o efeito, efectuam-se os seguintes registos contabilísticos:
 
-[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2000/09/218b00/49765054.pdf)
+[[[[[[[[[[[[[[[[[[[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2000/09/218b00/49765054.pdf)](https://files.diariodarepublica.pt/1s/2000/09/218b00/49765054.pdf)](https://files.diariodarepublica.pt/1s/2000/09/218b00/49765054.pdf)](https://files.diariodarepublica.pt/1s/2000/09/218b00/49765054.pdf)](https://files.diariodarepublica.pt/1s/2000/09/218b00/49765054.pdf)](https://files.diariodarepublica.pt/1s/2000/09/218b00/49765054.pdf)](https://files.diariodarepublica.pt/1s/2000/09/218b00/49765054.pdf)](https://files.diariodarepublica.pt/1s/2000/09/218b00/49765054.pdf)](https://files.diariodarepublica.pt/1s/2000/09/218b00/49765054.pdf)](https://files.diariodarepublica.pt/1s/2000/09/218b00/49765054.pdf)](https://files.diariodarepublica.pt/1s/2000/09/218b00/49765054.pdf)](https://files.diariodarepublica.pt/1s/2000/09/218b00/49765054.pdf)](https://files.diariodarepublica.pt/1s/2000/09/218b00/49765054.pdf)](https://files.diariodarepublica.pt/1s/2000/09/218b00/49765054.pdf)](https://files.diariodarepublica.pt/1s/2000/09/218b00/49765054.pdf)](https://files.diariodarepublica.pt/1s/2000/09/218b00/49765054.pdf)](https://files.diariodarepublica.pt/1s/2000/09/218b00/49765054.pdf)](https://files.diariodarepublica.pt/1s/2000/09/218b00/49765054.pdf)](https://files.diariodarepublica.pt/1s/2000/09/218b00/49765054.pdf)
 
 b) Em 31 de Dezembro deve efectuar-se a transferência do saldo da conta 027 - «Compromissos» para a conta 051 - «Compromissos - Exercícios futuros - Exercício n + 1» dos compromissos assumidos no exercício e cujo pagamento se prevê efectuar no exercício seguinte. Para o efeito, efectuam-se os seguintes registos contabilísticos:
 
-[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2000/09/218b00/49765054.pdf)
+[[[[[[[[[[[[[[[[[[[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2000/09/218b00/49765054.pdf)](https://files.diariodarepublica.pt/1s/2000/09/218b00/49765054.pdf)](https://files.diariodarepublica.pt/1s/2000/09/218b00/49765054.pdf)](https://files.diariodarepublica.pt/1s/2000/09/218b00/49765054.pdf)](https://files.diariodarepublica.pt/1s/2000/09/218b00/49765054.pdf)](https://files.diariodarepublica.pt/1s/2000/09/218b00/49765054.pdf)](https://files.diariodarepublica.pt/1s/2000/09/218b00/49765054.pdf)](https://files.diariodarepublica.pt/1s/2000/09/218b00/49765054.pdf)](https://files.diariodarepublica.pt/1s/2000/09/218b00/49765054.pdf)](https://files.diariodarepublica.pt/1s/2000/09/218b00/49765054.pdf)](https://files.diariodarepublica.pt/1s/2000/09/218b00/49765054.pdf)](https://files.diariodarepublica.pt/1s/2000/09/218b00/49765054.pdf)](https://files.diariodarepublica.pt/1s/2000/09/218b00/49765054.pdf)](https://files.diariodarepublica.pt/1s/2000/09/218b00/49765054.pdf)](https://files.diariodarepublica.pt/1s/2000/09/218b00/49765054.pdf)](https://files.diariodarepublica.pt/1s/2000/09/218b00/49765054.pdf)](https://files.diariodarepublica.pt/1s/2000/09/218b00/49765054.pdf)](https://files.diariodarepublica.pt/1s/2000/09/218b00/49765054.pdf)](https://files.diariodarepublica.pt/1s/2000/09/218b00/49765054.pdf)
 
 c) Idênticas operações à referida na alínea b) deverão ser efectuadas para os exercícios n + 2 e seguintes, assumidos em anos anteriores (saldos em 31 de Dezembro das contas 052 - «Exercício n + 2» a 054 - «Exercícios seguintes»).
 
@@ -460,13 +490,13 @@ Para efeitos de contabilização no regime simplificado foram criadas as contas 
 
 Especificidades do tratamento contabilístico destas operações orçamentais. - O registo na conta 028 - «Obrigações» do saldo das obrigações do exercício anterior que até ao final do período complementar ainda não se concretizou a autorização do pagamento. Para o efeito, efectuam-se os seguintes registos contabilísticos:
 
-[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2000/09/218b00/49765054.pdf)
+[[[[[[[[[[[[[[[[[[[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2000/09/218b00/49765054.pdf)](https://files.diariodarepublica.pt/1s/2000/09/218b00/49765054.pdf)](https://files.diariodarepublica.pt/1s/2000/09/218b00/49765054.pdf)](https://files.diariodarepublica.pt/1s/2000/09/218b00/49765054.pdf)](https://files.diariodarepublica.pt/1s/2000/09/218b00/49765054.pdf)](https://files.diariodarepublica.pt/1s/2000/09/218b00/49765054.pdf)](https://files.diariodarepublica.pt/1s/2000/09/218b00/49765054.pdf)](https://files.diariodarepublica.pt/1s/2000/09/218b00/49765054.pdf)](https://files.diariodarepublica.pt/1s/2000/09/218b00/49765054.pdf)](https://files.diariodarepublica.pt/1s/2000/09/218b00/49765054.pdf)](https://files.diariodarepublica.pt/1s/2000/09/218b00/49765054.pdf)](https://files.diariodarepublica.pt/1s/2000/09/218b00/49765054.pdf)](https://files.diariodarepublica.pt/1s/2000/09/218b00/49765054.pdf)](https://files.diariodarepublica.pt/1s/2000/09/218b00/49765054.pdf)](https://files.diariodarepublica.pt/1s/2000/09/218b00/49765054.pdf)](https://files.diariodarepublica.pt/1s/2000/09/218b00/49765054.pdf)](https://files.diariodarepublica.pt/1s/2000/09/218b00/49765054.pdf)](https://files.diariodarepublica.pt/1s/2000/09/218b00/49765054.pdf)](https://files.diariodarepublica.pt/1s/2000/09/218b00/49765054.pdf)
 
 Relativamente às autorizações de pagamento efectuadas no exercício anterior e que até ao final do período complementar não se concretizou o respectivo pagamento (saldo em 31 de Dezembro da conta 0291 - «Autorizações de pagamento»), apenas são objecto de registo na conta 25222 - «Credores pela execução do orçamento - Exercícios findos», pelo que a conta 08 - «Fluxos de caixa» apenas reflecte os pagamentos e recebimentos do orçamento do exercício (incluindo o período complementar).
 
 O registo na conta 035 - «Direitos» do saldo das receitas processadas e que até ao final do período complementar não foram cobradas. Para o efeito, efectuam-se os seguintes registos contabilísticos:
 
-[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2000/09/218b00/49765054.pdf)
+[[[[[[[[[[[[[[[[[[[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2000/09/218b00/49765054.pdf)](https://files.diariodarepublica.pt/1s/2000/09/218b00/49765054.pdf)](https://files.diariodarepublica.pt/1s/2000/09/218b00/49765054.pdf)](https://files.diariodarepublica.pt/1s/2000/09/218b00/49765054.pdf)](https://files.diariodarepublica.pt/1s/2000/09/218b00/49765054.pdf)](https://files.diariodarepublica.pt/1s/2000/09/218b00/49765054.pdf)](https://files.diariodarepublica.pt/1s/2000/09/218b00/49765054.pdf)](https://files.diariodarepublica.pt/1s/2000/09/218b00/49765054.pdf)](https://files.diariodarepublica.pt/1s/2000/09/218b00/49765054.pdf)](https://files.diariodarepublica.pt/1s/2000/09/218b00/49765054.pdf)](https://files.diariodarepublica.pt/1s/2000/09/218b00/49765054.pdf)](https://files.diariodarepublica.pt/1s/2000/09/218b00/49765054.pdf)](https://files.diariodarepublica.pt/1s/2000/09/218b00/49765054.pdf)](https://files.diariodarepublica.pt/1s/2000/09/218b00/49765054.pdf)](https://files.diariodarepublica.pt/1s/2000/09/218b00/49765054.pdf)](https://files.diariodarepublica.pt/1s/2000/09/218b00/49765054.pdf)](https://files.diariodarepublica.pt/1s/2000/09/218b00/49765054.pdf)](https://files.diariodarepublica.pt/1s/2000/09/218b00/49765054.pdf)](https://files.diariodarepublica.pt/1s/2000/09/218b00/49765054.pdf)
 
 Notas explicativas das contas específicas criadas para o referido regime
 
@@ -792,7 +822,7 @@ Ano: ...
 
 5 - Balanço
 
-[(ver mapas no documento original)](https://files.diariodarepublica.pt/1s/2000/09/218b00/49765054.pdf)
+[[(ver mapas no documento original)](https://files.diariodarepublica.pt/1s/2000/09/218b00/49765054.pdf)](https://files.diariodarepublica.pt/1s/2000/09/218b00/49765054.pdf)
 
 6 - Demonstração dos resultados
 
@@ -802,7 +832,7 @@ Ano: ...
 
 6 - Demonstração dos resultados por natureza
 
-[(ver mapa no documento original)](https://files.diariodarepublica.pt/1s/2000/09/218b00/49765054.pdf)
+[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[(ver mapa no documento original)](https://files.diariodarepublica.pt/1s/2000/09/218b00/49765054.pdf)](https://files.diariodarepublica.pt/1s/2000/09/218b00/49765054.pdf)](https://files.diariodarepublica.pt/1s/2000/09/218b00/49765054.pdf)](https://files.diariodarepublica.pt/1s/2000/09/218b00/49765054.pdf)](https://files.diariodarepublica.pt/1s/2000/09/218b00/49765054.pdf)](https://files.diariodarepublica.pt/1s/2000/09/218b00/49765054.pdf)](https://files.diariodarepublica.pt/1s/2000/09/218b00/49765054.pdf)](https://files.diariodarepublica.pt/1s/2000/09/218b00/49765054.pdf)](https://files.diariodarepublica.pt/1s/2000/09/218b00/49765054.pdf)](https://files.diariodarepublica.pt/1s/2000/09/218b00/49765054.pdf)](https://files.diariodarepublica.pt/1s/2000/09/218b00/49765054.pdf)](https://files.diariodarepublica.pt/1s/2000/09/218b00/49765054.pdf)](https://files.diariodarepublica.pt/1s/2000/09/218b00/49765054.pdf)](https://files.diariodarepublica.pt/1s/2000/09/218b00/49765054.pdf)](https://files.diariodarepublica.pt/1s/2000/09/218b00/49765054.pdf)](https://files.diariodarepublica.pt/1s/2000/09/218b00/49765054.pdf)](https://files.diariodarepublica.pt/1s/2000/09/218b00/49765054.pdf)](https://files.diariodarepublica.pt/1s/2000/09/218b00/49765054.pdf)](https://files.diariodarepublica.pt/1s/2000/09/218b00/49765054.pdf)](https://files.diariodarepublica.pt/1s/2000/09/218b00/49765054.pdf)](https://files.diariodarepublica.pt/1s/2000/09/218b00/49765054.pdf)](https://files.diariodarepublica.pt/1s/2000/09/218b00/49765054.pdf)](https://files.diariodarepublica.pt/1s/2000/09/218b00/49765054.pdf)](https://files.diariodarepublica.pt/1s/2000/09/218b00/49765054.pdf)](https://files.diariodarepublica.pt/1s/2000/09/218b00/49765054.pdf)](https://files.diariodarepublica.pt/1s/2000/09/218b00/49765054.pdf)](https://files.diariodarepublica.pt/1s/2000/09/218b00/49765054.pdf)](https://files.diariodarepublica.pt/1s/2000/09/218b00/49765054.pdf)](https://files.diariodarepublica.pt/1s/2000/09/218b00/49765054.pdf)](https://files.diariodarepublica.pt/1s/2000/09/218b00/49765054.pdf)](https://files.diariodarepublica.pt/1s/2000/09/218b00/49765054.pdf)](https://files.diariodarepublica.pt/1s/2000/09/218b00/49765054.pdf)
 
 O Responsável, ...
 
@@ -844,7 +874,7 @@ Ano: ...
 
 7.1 - Controlo orçamental - Despesa
 
-[(ver mapa no documento original)](https://files.diariodarepublica.pt/1s/2000/09/218b00/49765054.pdf)
+[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[(ver mapa no documento original)](https://files.diariodarepublica.pt/1s/2000/09/218b00/49765054.pdf)](https://files.diariodarepublica.pt/1s/2000/09/218b00/49765054.pdf)](https://files.diariodarepublica.pt/1s/2000/09/218b00/49765054.pdf)](https://files.diariodarepublica.pt/1s/2000/09/218b00/49765054.pdf)](https://files.diariodarepublica.pt/1s/2000/09/218b00/49765054.pdf)](https://files.diariodarepublica.pt/1s/2000/09/218b00/49765054.pdf)](https://files.diariodarepublica.pt/1s/2000/09/218b00/49765054.pdf)](https://files.diariodarepublica.pt/1s/2000/09/218b00/49765054.pdf)](https://files.diariodarepublica.pt/1s/2000/09/218b00/49765054.pdf)](https://files.diariodarepublica.pt/1s/2000/09/218b00/49765054.pdf)](https://files.diariodarepublica.pt/1s/2000/09/218b00/49765054.pdf)](https://files.diariodarepublica.pt/1s/2000/09/218b00/49765054.pdf)](https://files.diariodarepublica.pt/1s/2000/09/218b00/49765054.pdf)](https://files.diariodarepublica.pt/1s/2000/09/218b00/49765054.pdf)](https://files.diariodarepublica.pt/1s/2000/09/218b00/49765054.pdf)](https://files.diariodarepublica.pt/1s/2000/09/218b00/49765054.pdf)](https://files.diariodarepublica.pt/1s/2000/09/218b00/49765054.pdf)](https://files.diariodarepublica.pt/1s/2000/09/218b00/49765054.pdf)](https://files.diariodarepublica.pt/1s/2000/09/218b00/49765054.pdf)](https://files.diariodarepublica.pt/1s/2000/09/218b00/49765054.pdf)](https://files.diariodarepublica.pt/1s/2000/09/218b00/49765054.pdf)](https://files.diariodarepublica.pt/1s/2000/09/218b00/49765054.pdf)](https://files.diariodarepublica.pt/1s/2000/09/218b00/49765054.pdf)](https://files.diariodarepublica.pt/1s/2000/09/218b00/49765054.pdf)](https://files.diariodarepublica.pt/1s/2000/09/218b00/49765054.pdf)](https://files.diariodarepublica.pt/1s/2000/09/218b00/49765054.pdf)](https://files.diariodarepublica.pt/1s/2000/09/218b00/49765054.pdf)](https://files.diariodarepublica.pt/1s/2000/09/218b00/49765054.pdf)](https://files.diariodarepublica.pt/1s/2000/09/218b00/49765054.pdf)](https://files.diariodarepublica.pt/1s/2000/09/218b00/49765054.pdf)](https://files.diariodarepublica.pt/1s/2000/09/218b00/49765054.pdf)](https://files.diariodarepublica.pt/1s/2000/09/218b00/49765054.pdf)
 
 O Responsável, ...
 
@@ -882,7 +912,7 @@ Ano: ...
 
 7.2 - Controlo orçamental - Receita
 
-[(ver mapa no documento original)](https://files.diariodarepublica.pt/1s/2000/09/218b00/49765054.pdf)
+[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[(ver mapa no documento original)](https://files.diariodarepublica.pt/1s/2000/09/218b00/49765054.pdf)](https://files.diariodarepublica.pt/1s/2000/09/218b00/49765054.pdf)](https://files.diariodarepublica.pt/1s/2000/09/218b00/49765054.pdf)](https://files.diariodarepublica.pt/1s/2000/09/218b00/49765054.pdf)](https://files.diariodarepublica.pt/1s/2000/09/218b00/49765054.pdf)](https://files.diariodarepublica.pt/1s/2000/09/218b00/49765054.pdf)](https://files.diariodarepublica.pt/1s/2000/09/218b00/49765054.pdf)](https://files.diariodarepublica.pt/1s/2000/09/218b00/49765054.pdf)](https://files.diariodarepublica.pt/1s/2000/09/218b00/49765054.pdf)](https://files.diariodarepublica.pt/1s/2000/09/218b00/49765054.pdf)](https://files.diariodarepublica.pt/1s/2000/09/218b00/49765054.pdf)](https://files.diariodarepublica.pt/1s/2000/09/218b00/49765054.pdf)](https://files.diariodarepublica.pt/1s/2000/09/218b00/49765054.pdf)](https://files.diariodarepublica.pt/1s/2000/09/218b00/49765054.pdf)](https://files.diariodarepublica.pt/1s/2000/09/218b00/49765054.pdf)](https://files.diariodarepublica.pt/1s/2000/09/218b00/49765054.pdf)](https://files.diariodarepublica.pt/1s/2000/09/218b00/49765054.pdf)](https://files.diariodarepublica.pt/1s/2000/09/218b00/49765054.pdf)](https://files.diariodarepublica.pt/1s/2000/09/218b00/49765054.pdf)](https://files.diariodarepublica.pt/1s/2000/09/218b00/49765054.pdf)](https://files.diariodarepublica.pt/1s/2000/09/218b00/49765054.pdf)](https://files.diariodarepublica.pt/1s/2000/09/218b00/49765054.pdf)](https://files.diariodarepublica.pt/1s/2000/09/218b00/49765054.pdf)](https://files.diariodarepublica.pt/1s/2000/09/218b00/49765054.pdf)](https://files.diariodarepublica.pt/1s/2000/09/218b00/49765054.pdf)](https://files.diariodarepublica.pt/1s/2000/09/218b00/49765054.pdf)](https://files.diariodarepublica.pt/1s/2000/09/218b00/49765054.pdf)](https://files.diariodarepublica.pt/1s/2000/09/218b00/49765054.pdf)](https://files.diariodarepublica.pt/1s/2000/09/218b00/49765054.pdf)](https://files.diariodarepublica.pt/1s/2000/09/218b00/49765054.pdf)](https://files.diariodarepublica.pt/1s/2000/09/218b00/49765054.pdf)](https://files.diariodarepublica.pt/1s/2000/09/218b00/49765054.pdf)
 
 O Responsável, ...
 
@@ -900,7 +930,7 @@ Nele se evidenciam também os correspondentes saldos (da gerência anterior e pa
 
 As receitas e as despesas orçamentais serão desagregadas de acordo com a discriminação constante do orçamento.
 
-Classificação orgânica [([ver documento original](https://files.diariodarepublica.pt/1s/2000/09/218b00/49765054.pdf))](https://files.diariodarepublica.pt/1s/2000/09/218b00/49765054.pdf)
+Classificação orgânica [(ver documento original)](https://files.diariodarepublica.pt/1s/2000/09/218b00/49765054.pdf)
 
 Instituição: ...
 
@@ -908,17 +938,17 @@ Ano: ...
 
 7.3 - Fluxos de caixa
 
-[(ver mapa no documento original)](https://files.diariodarepublica.pt/1s/2000/09/218b00/49765054.pdf)
+[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[(ver mapa no documento original)](https://files.diariodarepublica.pt/1s/2000/09/218b00/49765054.pdf)](https://files.diariodarepublica.pt/1s/2000/09/218b00/49765054.pdf)](https://files.diariodarepublica.pt/1s/2000/09/218b00/49765054.pdf)](https://files.diariodarepublica.pt/1s/2000/09/218b00/49765054.pdf)](https://files.diariodarepublica.pt/1s/2000/09/218b00/49765054.pdf)](https://files.diariodarepublica.pt/1s/2000/09/218b00/49765054.pdf)](https://files.diariodarepublica.pt/1s/2000/09/218b00/49765054.pdf)](https://files.diariodarepublica.pt/1s/2000/09/218b00/49765054.pdf)](https://files.diariodarepublica.pt/1s/2000/09/218b00/49765054.pdf)](https://files.diariodarepublica.pt/1s/2000/09/218b00/49765054.pdf)](https://files.diariodarepublica.pt/1s/2000/09/218b00/49765054.pdf)](https://files.diariodarepublica.pt/1s/2000/09/218b00/49765054.pdf)](https://files.diariodarepublica.pt/1s/2000/09/218b00/49765054.pdf)](https://files.diariodarepublica.pt/1s/2000/09/218b00/49765054.pdf)](https://files.diariodarepublica.pt/1s/2000/09/218b00/49765054.pdf)](https://files.diariodarepublica.pt/1s/2000/09/218b00/49765054.pdf)](https://files.diariodarepublica.pt/1s/2000/09/218b00/49765054.pdf)](https://files.diariodarepublica.pt/1s/2000/09/218b00/49765054.pdf)](https://files.diariodarepublica.pt/1s/2000/09/218b00/49765054.pdf)](https://files.diariodarepublica.pt/1s/2000/09/218b00/49765054.pdf)](https://files.diariodarepublica.pt/1s/2000/09/218b00/49765054.pdf)](https://files.diariodarepublica.pt/1s/2000/09/218b00/49765054.pdf)](https://files.diariodarepublica.pt/1s/2000/09/218b00/49765054.pdf)](https://files.diariodarepublica.pt/1s/2000/09/218b00/49765054.pdf)](https://files.diariodarepublica.pt/1s/2000/09/218b00/49765054.pdf)](https://files.diariodarepublica.pt/1s/2000/09/218b00/49765054.pdf)](https://files.diariodarepublica.pt/1s/2000/09/218b00/49765054.pdf)](https://files.diariodarepublica.pt/1s/2000/09/218b00/49765054.pdf)](https://files.diariodarepublica.pt/1s/2000/09/218b00/49765054.pdf)](https://files.diariodarepublica.pt/1s/2000/09/218b00/49765054.pdf)](https://files.diariodarepublica.pt/1s/2000/09/218b00/49765054.pdf)](https://files.diariodarepublica.pt/1s/2000/09/218b00/49765054.pdf)
 
-Classificação orgânica [([ver documento original](https://files.diariodarepublica.pt/1s/2000/09/218b00/49765054.pdf))](https://files.diariodarepublica.pt/1s/2000/09/218b00/49765054.pdf)
+Classificação orgânica [(ver documento original)](https://files.diariodarepublica.pt/1s/2000/09/218b00/49765054.pdf)
 
-Classificação funcional [([ver documento original](https://files.diariodarepublica.pt/1s/2000/09/218b00/49765054.pdf))](https://files.diariodarepublica.pt/1s/2000/09/218b00/49765054.pdf)
+Classificação funcional [(ver documento original)](https://files.diariodarepublica.pt/1s/2000/09/218b00/49765054.pdf)
 
 Instituição: ...
 
 Ano: ...
 
-[(ver mapa no documento original)](https://files.diariodarepublica.pt/1s/2000/09/218b00/49765054.pdf)
+[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[(ver mapa no documento original)](https://files.diariodarepublica.pt/1s/2000/09/218b00/49765054.pdf)](https://files.diariodarepublica.pt/1s/2000/09/218b00/49765054.pdf)](https://files.diariodarepublica.pt/1s/2000/09/218b00/49765054.pdf)](https://files.diariodarepublica.pt/1s/2000/09/218b00/49765054.pdf)](https://files.diariodarepublica.pt/1s/2000/09/218b00/49765054.pdf)](https://files.diariodarepublica.pt/1s/2000/09/218b00/49765054.pdf)](https://files.diariodarepublica.pt/1s/2000/09/218b00/49765054.pdf)](https://files.diariodarepublica.pt/1s/2000/09/218b00/49765054.pdf)](https://files.diariodarepublica.pt/1s/2000/09/218b00/49765054.pdf)](https://files.diariodarepublica.pt/1s/2000/09/218b00/49765054.pdf)](https://files.diariodarepublica.pt/1s/2000/09/218b00/49765054.pdf)](https://files.diariodarepublica.pt/1s/2000/09/218b00/49765054.pdf)](https://files.diariodarepublica.pt/1s/2000/09/218b00/49765054.pdf)](https://files.diariodarepublica.pt/1s/2000/09/218b00/49765054.pdf)](https://files.diariodarepublica.pt/1s/2000/09/218b00/49765054.pdf)](https://files.diariodarepublica.pt/1s/2000/09/218b00/49765054.pdf)](https://files.diariodarepublica.pt/1s/2000/09/218b00/49765054.pdf)](https://files.diariodarepublica.pt/1s/2000/09/218b00/49765054.pdf)](https://files.diariodarepublica.pt/1s/2000/09/218b00/49765054.pdf)](https://files.diariodarepublica.pt/1s/2000/09/218b00/49765054.pdf)](https://files.diariodarepublica.pt/1s/2000/09/218b00/49765054.pdf)](https://files.diariodarepublica.pt/1s/2000/09/218b00/49765054.pdf)](https://files.diariodarepublica.pt/1s/2000/09/218b00/49765054.pdf)](https://files.diariodarepublica.pt/1s/2000/09/218b00/49765054.pdf)](https://files.diariodarepublica.pt/1s/2000/09/218b00/49765054.pdf)](https://files.diariodarepublica.pt/1s/2000/09/218b00/49765054.pdf)](https://files.diariodarepublica.pt/1s/2000/09/218b00/49765054.pdf)](https://files.diariodarepublica.pt/1s/2000/09/218b00/49765054.pdf)](https://files.diariodarepublica.pt/1s/2000/09/218b00/49765054.pdf)](https://files.diariodarepublica.pt/1s/2000/09/218b00/49765054.pdf)](https://files.diariodarepublica.pt/1s/2000/09/218b00/49765054.pdf)](https://files.diariodarepublica.pt/1s/2000/09/218b00/49765054.pdf)
 
 O Responsável, ...
 
@@ -938,7 +968,7 @@ Ano: ...
 
 7.4 - Situação financeira
 
-[(ver mapas no documento original)](https://files.diariodarepublica.pt/1s/2000/09/218b00/49765054.pdf)
+[[(ver mapas no documento original)](https://files.diariodarepublica.pt/1s/2000/09/218b00/49765054.pdf)](https://files.diariodarepublica.pt/1s/2000/09/218b00/49765054.pdf)
 
 O Responsável, ...
 
@@ -956,7 +986,7 @@ Ano: ...
 
 7.5.1 - Descontos e retenções
 
-[(ver mapa no documento original)](https://files.diariodarepublica.pt/1s/2000/09/218b00/49765054.pdf)
+[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[(ver mapa no documento original)](https://files.diariodarepublica.pt/1s/2000/09/218b00/49765054.pdf)](https://files.diariodarepublica.pt/1s/2000/09/218b00/49765054.pdf)](https://files.diariodarepublica.pt/1s/2000/09/218b00/49765054.pdf)](https://files.diariodarepublica.pt/1s/2000/09/218b00/49765054.pdf)](https://files.diariodarepublica.pt/1s/2000/09/218b00/49765054.pdf)](https://files.diariodarepublica.pt/1s/2000/09/218b00/49765054.pdf)](https://files.diariodarepublica.pt/1s/2000/09/218b00/49765054.pdf)](https://files.diariodarepublica.pt/1s/2000/09/218b00/49765054.pdf)](https://files.diariodarepublica.pt/1s/2000/09/218b00/49765054.pdf)](https://files.diariodarepublica.pt/1s/2000/09/218b00/49765054.pdf)](https://files.diariodarepublica.pt/1s/2000/09/218b00/49765054.pdf)](https://files.diariodarepublica.pt/1s/2000/09/218b00/49765054.pdf)](https://files.diariodarepublica.pt/1s/2000/09/218b00/49765054.pdf)](https://files.diariodarepublica.pt/1s/2000/09/218b00/49765054.pdf)](https://files.diariodarepublica.pt/1s/2000/09/218b00/49765054.pdf)](https://files.diariodarepublica.pt/1s/2000/09/218b00/49765054.pdf)](https://files.diariodarepublica.pt/1s/2000/09/218b00/49765054.pdf)](https://files.diariodarepublica.pt/1s/2000/09/218b00/49765054.pdf)](https://files.diariodarepublica.pt/1s/2000/09/218b00/49765054.pdf)](https://files.diariodarepublica.pt/1s/2000/09/218b00/49765054.pdf)](https://files.diariodarepublica.pt/1s/2000/09/218b00/49765054.pdf)](https://files.diariodarepublica.pt/1s/2000/09/218b00/49765054.pdf)](https://files.diariodarepublica.pt/1s/2000/09/218b00/49765054.pdf)](https://files.diariodarepublica.pt/1s/2000/09/218b00/49765054.pdf)](https://files.diariodarepublica.pt/1s/2000/09/218b00/49765054.pdf)](https://files.diariodarepublica.pt/1s/2000/09/218b00/49765054.pdf)](https://files.diariodarepublica.pt/1s/2000/09/218b00/49765054.pdf)](https://files.diariodarepublica.pt/1s/2000/09/218b00/49765054.pdf)](https://files.diariodarepublica.pt/1s/2000/09/218b00/49765054.pdf)](https://files.diariodarepublica.pt/1s/2000/09/218b00/49765054.pdf)](https://files.diariodarepublica.pt/1s/2000/09/218b00/49765054.pdf)](https://files.diariodarepublica.pt/1s/2000/09/218b00/49765054.pdf)
 
 O Responsável, ...
 
@@ -972,7 +1002,7 @@ Ano: ...
 
 7.5.2 - Entregas de descontos e retenções
 
-[(ver mapa no documento original)](https://files.diariodarepublica.pt/1s/2000/09/218b00/49765054.pdf)
+[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[(ver mapa no documento original)](https://files.diariodarepublica.pt/1s/2000/09/218b00/49765054.pdf)](https://files.diariodarepublica.pt/1s/2000/09/218b00/49765054.pdf)](https://files.diariodarepublica.pt/1s/2000/09/218b00/49765054.pdf)](https://files.diariodarepublica.pt/1s/2000/09/218b00/49765054.pdf)](https://files.diariodarepublica.pt/1s/2000/09/218b00/49765054.pdf)](https://files.diariodarepublica.pt/1s/2000/09/218b00/49765054.pdf)](https://files.diariodarepublica.pt/1s/2000/09/218b00/49765054.pdf)](https://files.diariodarepublica.pt/1s/2000/09/218b00/49765054.pdf)](https://files.diariodarepublica.pt/1s/2000/09/218b00/49765054.pdf)](https://files.diariodarepublica.pt/1s/2000/09/218b00/49765054.pdf)](https://files.diariodarepublica.pt/1s/2000/09/218b00/49765054.pdf)](https://files.diariodarepublica.pt/1s/2000/09/218b00/49765054.pdf)](https://files.diariodarepublica.pt/1s/2000/09/218b00/49765054.pdf)](https://files.diariodarepublica.pt/1s/2000/09/218b00/49765054.pdf)](https://files.diariodarepublica.pt/1s/2000/09/218b00/49765054.pdf)](https://files.diariodarepublica.pt/1s/2000/09/218b00/49765054.pdf)](https://files.diariodarepublica.pt/1s/2000/09/218b00/49765054.pdf)](https://files.diariodarepublica.pt/1s/2000/09/218b00/49765054.pdf)](https://files.diariodarepublica.pt/1s/2000/09/218b00/49765054.pdf)](https://files.diariodarepublica.pt/1s/2000/09/218b00/49765054.pdf)](https://files.diariodarepublica.pt/1s/2000/09/218b00/49765054.pdf)](https://files.diariodarepublica.pt/1s/2000/09/218b00/49765054.pdf)](https://files.diariodarepublica.pt/1s/2000/09/218b00/49765054.pdf)](https://files.diariodarepublica.pt/1s/2000/09/218b00/49765054.pdf)](https://files.diariodarepublica.pt/1s/2000/09/218b00/49765054.pdf)](https://files.diariodarepublica.pt/1s/2000/09/218b00/49765054.pdf)](https://files.diariodarepublica.pt/1s/2000/09/218b00/49765054.pdf)](https://files.diariodarepublica.pt/1s/2000/09/218b00/49765054.pdf)](https://files.diariodarepublica.pt/1s/2000/09/218b00/49765054.pdf)](https://files.diariodarepublica.pt/1s/2000/09/218b00/49765054.pdf)](https://files.diariodarepublica.pt/1s/2000/09/218b00/49765054.pdf)](https://files.diariodarepublica.pt/1s/2000/09/218b00/49765054.pdf)
 
 O Responsável, ...
 
@@ -990,7 +1020,7 @@ Ano: ...
 
 7.6 - Desenvolvimento das despesas com o pessoal
 
-[(ver mapa no documento original)](https://files.diariodarepublica.pt/1s/2000/09/218b00/49765054.pdf)
+[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[(ver mapa no documento original)](https://files.diariodarepublica.pt/1s/2000/09/218b00/49765054.pdf)](https://files.diariodarepublica.pt/1s/2000/09/218b00/49765054.pdf)](https://files.diariodarepublica.pt/1s/2000/09/218b00/49765054.pdf)](https://files.diariodarepublica.pt/1s/2000/09/218b00/49765054.pdf)](https://files.diariodarepublica.pt/1s/2000/09/218b00/49765054.pdf)](https://files.diariodarepublica.pt/1s/2000/09/218b00/49765054.pdf)](https://files.diariodarepublica.pt/1s/2000/09/218b00/49765054.pdf)](https://files.diariodarepublica.pt/1s/2000/09/218b00/49765054.pdf)](https://files.diariodarepublica.pt/1s/2000/09/218b00/49765054.pdf)](https://files.diariodarepublica.pt/1s/2000/09/218b00/49765054.pdf)](https://files.diariodarepublica.pt/1s/2000/09/218b00/49765054.pdf)](https://files.diariodarepublica.pt/1s/2000/09/218b00/49765054.pdf)](https://files.diariodarepublica.pt/1s/2000/09/218b00/49765054.pdf)](https://files.diariodarepublica.pt/1s/2000/09/218b00/49765054.pdf)](https://files.diariodarepublica.pt/1s/2000/09/218b00/49765054.pdf)](https://files.diariodarepublica.pt/1s/2000/09/218b00/49765054.pdf)](https://files.diariodarepublica.pt/1s/2000/09/218b00/49765054.pdf)](https://files.diariodarepublica.pt/1s/2000/09/218b00/49765054.pdf)](https://files.diariodarepublica.pt/1s/2000/09/218b00/49765054.pdf)](https://files.diariodarepublica.pt/1s/2000/09/218b00/49765054.pdf)](https://files.diariodarepublica.pt/1s/2000/09/218b00/49765054.pdf)](https://files.diariodarepublica.pt/1s/2000/09/218b00/49765054.pdf)](https://files.diariodarepublica.pt/1s/2000/09/218b00/49765054.pdf)](https://files.diariodarepublica.pt/1s/2000/09/218b00/49765054.pdf)](https://files.diariodarepublica.pt/1s/2000/09/218b00/49765054.pdf)](https://files.diariodarepublica.pt/1s/2000/09/218b00/49765054.pdf)](https://files.diariodarepublica.pt/1s/2000/09/218b00/49765054.pdf)](https://files.diariodarepublica.pt/1s/2000/09/218b00/49765054.pdf)](https://files.diariodarepublica.pt/1s/2000/09/218b00/49765054.pdf)](https://files.diariodarepublica.pt/1s/2000/09/218b00/49765054.pdf)](https://files.diariodarepublica.pt/1s/2000/09/218b00/49765054.pdf)](https://files.diariodarepublica.pt/1s/2000/09/218b00/49765054.pdf)
 
 O Responsável, ...
 
@@ -1002,9 +1032,9 @@ Em ... de ... de ...
 
 7.7 - Orçamento anual
 
-Classificação orgânica [([ver documento original](https://files.diariodarepublica.pt/1s/2000/09/218b00/49765054.pdf))](https://files.diariodarepublica.pt/1s/2000/09/218b00/49765054.pdf)
+Classificação orgânica [(ver documento original)](https://files.diariodarepublica.pt/1s/2000/09/218b00/49765054.pdf)
 
-Classificação funcional [([ver documento original](https://files.diariodarepublica.pt/1s/2000/09/218b00/49765054.pdf))](https://files.diariodarepublica.pt/1s/2000/09/218b00/49765054.pdf)
+Classificação funcional [(ver documento original)](https://files.diariodarepublica.pt/1s/2000/09/218b00/49765054.pdf)
 
 Instituição: ...
 
@@ -1012,7 +1042,7 @@ Instituição: ...
 
 Ano: ...
 
-[(ver mapa no documento original)](https://files.diariodarepublica.pt/1s/2000/09/218b00/49765054.pdf)
+[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[(ver mapa no documento original)](https://files.diariodarepublica.pt/1s/2000/09/218b00/49765054.pdf)](https://files.diariodarepublica.pt/1s/2000/09/218b00/49765054.pdf)](https://files.diariodarepublica.pt/1s/2000/09/218b00/49765054.pdf)](https://files.diariodarepublica.pt/1s/2000/09/218b00/49765054.pdf)](https://files.diariodarepublica.pt/1s/2000/09/218b00/49765054.pdf)](https://files.diariodarepublica.pt/1s/2000/09/218b00/49765054.pdf)](https://files.diariodarepublica.pt/1s/2000/09/218b00/49765054.pdf)](https://files.diariodarepublica.pt/1s/2000/09/218b00/49765054.pdf)](https://files.diariodarepublica.pt/1s/2000/09/218b00/49765054.pdf)](https://files.diariodarepublica.pt/1s/2000/09/218b00/49765054.pdf)](https://files.diariodarepublica.pt/1s/2000/09/218b00/49765054.pdf)](https://files.diariodarepublica.pt/1s/2000/09/218b00/49765054.pdf)](https://files.diariodarepublica.pt/1s/2000/09/218b00/49765054.pdf)](https://files.diariodarepublica.pt/1s/2000/09/218b00/49765054.pdf)](https://files.diariodarepublica.pt/1s/2000/09/218b00/49765054.pdf)](https://files.diariodarepublica.pt/1s/2000/09/218b00/49765054.pdf)](https://files.diariodarepublica.pt/1s/2000/09/218b00/49765054.pdf)](https://files.diariodarepublica.pt/1s/2000/09/218b00/49765054.pdf)](https://files.diariodarepublica.pt/1s/2000/09/218b00/49765054.pdf)](https://files.diariodarepublica.pt/1s/2000/09/218b00/49765054.pdf)](https://files.diariodarepublica.pt/1s/2000/09/218b00/49765054.pdf)](https://files.diariodarepublica.pt/1s/2000/09/218b00/49765054.pdf)](https://files.diariodarepublica.pt/1s/2000/09/218b00/49765054.pdf)](https://files.diariodarepublica.pt/1s/2000/09/218b00/49765054.pdf)](https://files.diariodarepublica.pt/1s/2000/09/218b00/49765054.pdf)](https://files.diariodarepublica.pt/1s/2000/09/218b00/49765054.pdf)](https://files.diariodarepublica.pt/1s/2000/09/218b00/49765054.pdf)](https://files.diariodarepublica.pt/1s/2000/09/218b00/49765054.pdf)](https://files.diariodarepublica.pt/1s/2000/09/218b00/49765054.pdf)](https://files.diariodarepublica.pt/1s/2000/09/218b00/49765054.pdf)](https://files.diariodarepublica.pt/1s/2000/09/218b00/49765054.pdf)](https://files.diariodarepublica.pt/1s/2000/09/218b00/49765054.pdf)
 
 O Responsável, ...
 
@@ -1022,7 +1052,7 @@ O Conselho de Administração: ...
 
 Em ... de ... de ...
 
-Classificação orgânica [([ver documento original](https://files.diariodarepublica.pt/1s/2000/09/218b00/49765054.pdf))](https://files.diariodarepublica.pt/1s/2000/09/218b00/49765054.pdf)
+Classificação orgânica [(ver documento original)](https://files.diariodarepublica.pt/1s/2000/09/218b00/49765054.pdf)
 
 Instituição: ...
 
@@ -1030,7 +1060,7 @@ Instituição: ...
 
 Ano: ...
 
-[(ver mapa no documento original)](https://files.diariodarepublica.pt/1s/2000/09/218b00/49765054.pdf)
+[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[(ver mapa no documento original)](https://files.diariodarepublica.pt/1s/2000/09/218b00/49765054.pdf)](https://files.diariodarepublica.pt/1s/2000/09/218b00/49765054.pdf)](https://files.diariodarepublica.pt/1s/2000/09/218b00/49765054.pdf)](https://files.diariodarepublica.pt/1s/2000/09/218b00/49765054.pdf)](https://files.diariodarepublica.pt/1s/2000/09/218b00/49765054.pdf)](https://files.diariodarepublica.pt/1s/2000/09/218b00/49765054.pdf)](https://files.diariodarepublica.pt/1s/2000/09/218b00/49765054.pdf)](https://files.diariodarepublica.pt/1s/2000/09/218b00/49765054.pdf)](https://files.diariodarepublica.pt/1s/2000/09/218b00/49765054.pdf)](https://files.diariodarepublica.pt/1s/2000/09/218b00/49765054.pdf)](https://files.diariodarepublica.pt/1s/2000/09/218b00/49765054.pdf)](https://files.diariodarepublica.pt/1s/2000/09/218b00/49765054.pdf)](https://files.diariodarepublica.pt/1s/2000/09/218b00/49765054.pdf)](https://files.diariodarepublica.pt/1s/2000/09/218b00/49765054.pdf)](https://files.diariodarepublica.pt/1s/2000/09/218b00/49765054.pdf)](https://files.diariodarepublica.pt/1s/2000/09/218b00/49765054.pdf)](https://files.diariodarepublica.pt/1s/2000/09/218b00/49765054.pdf)](https://files.diariodarepublica.pt/1s/2000/09/218b00/49765054.pdf)](https://files.diariodarepublica.pt/1s/2000/09/218b00/49765054.pdf)](https://files.diariodarepublica.pt/1s/2000/09/218b00/49765054.pdf)](https://files.diariodarepublica.pt/1s/2000/09/218b00/49765054.pdf)](https://files.diariodarepublica.pt/1s/2000/09/218b00/49765054.pdf)](https://files.diariodarepublica.pt/1s/2000/09/218b00/49765054.pdf)](https://files.diariodarepublica.pt/1s/2000/09/218b00/49765054.pdf)](https://files.diariodarepublica.pt/1s/2000/09/218b00/49765054.pdf)](https://files.diariodarepublica.pt/1s/2000/09/218b00/49765054.pdf)](https://files.diariodarepublica.pt/1s/2000/09/218b00/49765054.pdf)](https://files.diariodarepublica.pt/1s/2000/09/218b00/49765054.pdf)](https://files.diariodarepublica.pt/1s/2000/09/218b00/49765054.pdf)](https://files.diariodarepublica.pt/1s/2000/09/218b00/49765054.pdf)](https://files.diariodarepublica.pt/1s/2000/09/218b00/49765054.pdf)](https://files.diariodarepublica.pt/1s/2000/09/218b00/49765054.pdf)
 
 O Responsável, ...
 
@@ -1108,7 +1138,7 @@ Ano: ...
 
 8.2.7 - Amortizações e provisões
 
-[(ver mapa no documento original)](https://files.diariodarepublica.pt/1s/2000/09/218b00/49765054.pdf)
+[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[(ver mapa no documento original)](https://files.diariodarepublica.pt/1s/2000/09/218b00/49765054.pdf)](https://files.diariodarepublica.pt/1s/2000/09/218b00/49765054.pdf)](https://files.diariodarepublica.pt/1s/2000/09/218b00/49765054.pdf)](https://files.diariodarepublica.pt/1s/2000/09/218b00/49765054.pdf)](https://files.diariodarepublica.pt/1s/2000/09/218b00/49765054.pdf)](https://files.diariodarepublica.pt/1s/2000/09/218b00/49765054.pdf)](https://files.diariodarepublica.pt/1s/2000/09/218b00/49765054.pdf)](https://files.diariodarepublica.pt/1s/2000/09/218b00/49765054.pdf)](https://files.diariodarepublica.pt/1s/2000/09/218b00/49765054.pdf)](https://files.diariodarepublica.pt/1s/2000/09/218b00/49765054.pdf)](https://files.diariodarepublica.pt/1s/2000/09/218b00/49765054.pdf)](https://files.diariodarepublica.pt/1s/2000/09/218b00/49765054.pdf)](https://files.diariodarepublica.pt/1s/2000/09/218b00/49765054.pdf)](https://files.diariodarepublica.pt/1s/2000/09/218b00/49765054.pdf)](https://files.diariodarepublica.pt/1s/2000/09/218b00/49765054.pdf)](https://files.diariodarepublica.pt/1s/2000/09/218b00/49765054.pdf)](https://files.diariodarepublica.pt/1s/2000/09/218b00/49765054.pdf)](https://files.diariodarepublica.pt/1s/2000/09/218b00/49765054.pdf)](https://files.diariodarepublica.pt/1s/2000/09/218b00/49765054.pdf)](https://files.diariodarepublica.pt/1s/2000/09/218b00/49765054.pdf)](https://files.diariodarepublica.pt/1s/2000/09/218b00/49765054.pdf)](https://files.diariodarepublica.pt/1s/2000/09/218b00/49765054.pdf)](https://files.diariodarepublica.pt/1s/2000/09/218b00/49765054.pdf)](https://files.diariodarepublica.pt/1s/2000/09/218b00/49765054.pdf)](https://files.diariodarepublica.pt/1s/2000/09/218b00/49765054.pdf)](https://files.diariodarepublica.pt/1s/2000/09/218b00/49765054.pdf)](https://files.diariodarepublica.pt/1s/2000/09/218b00/49765054.pdf)](https://files.diariodarepublica.pt/1s/2000/09/218b00/49765054.pdf)](https://files.diariodarepublica.pt/1s/2000/09/218b00/49765054.pdf)](https://files.diariodarepublica.pt/1s/2000/09/218b00/49765054.pdf)](https://files.diariodarepublica.pt/1s/2000/09/218b00/49765054.pdf)](https://files.diariodarepublica.pt/1s/2000/09/218b00/49765054.pdf)
 
 O Responsável, ...
 
@@ -1148,7 +1178,7 @@ Ano: ...
 
 8.2.11 - Reavaliações
 
-[(ver mapa no documento original)](https://files.diariodarepublica.pt/1s/2000/09/218b00/49765054.pdf)
+[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[(ver mapa no documento original)](https://files.diariodarepublica.pt/1s/2000/09/218b00/49765054.pdf)](https://files.diariodarepublica.pt/1s/2000/09/218b00/49765054.pdf)](https://files.diariodarepublica.pt/1s/2000/09/218b00/49765054.pdf)](https://files.diariodarepublica.pt/1s/2000/09/218b00/49765054.pdf)](https://files.diariodarepublica.pt/1s/2000/09/218b00/49765054.pdf)](https://files.diariodarepublica.pt/1s/2000/09/218b00/49765054.pdf)](https://files.diariodarepublica.pt/1s/2000/09/218b00/49765054.pdf)](https://files.diariodarepublica.pt/1s/2000/09/218b00/49765054.pdf)](https://files.diariodarepublica.pt/1s/2000/09/218b00/49765054.pdf)](https://files.diariodarepublica.pt/1s/2000/09/218b00/49765054.pdf)](https://files.diariodarepublica.pt/1s/2000/09/218b00/49765054.pdf)](https://files.diariodarepublica.pt/1s/2000/09/218b00/49765054.pdf)](https://files.diariodarepublica.pt/1s/2000/09/218b00/49765054.pdf)](https://files.diariodarepublica.pt/1s/2000/09/218b00/49765054.pdf)](https://files.diariodarepublica.pt/1s/2000/09/218b00/49765054.pdf)](https://files.diariodarepublica.pt/1s/2000/09/218b00/49765054.pdf)](https://files.diariodarepublica.pt/1s/2000/09/218b00/49765054.pdf)](https://files.diariodarepublica.pt/1s/2000/09/218b00/49765054.pdf)](https://files.diariodarepublica.pt/1s/2000/09/218b00/49765054.pdf)](https://files.diariodarepublica.pt/1s/2000/09/218b00/49765054.pdf)](https://files.diariodarepublica.pt/1s/2000/09/218b00/49765054.pdf)](https://files.diariodarepublica.pt/1s/2000/09/218b00/49765054.pdf)](https://files.diariodarepublica.pt/1s/2000/09/218b00/49765054.pdf)](https://files.diariodarepublica.pt/1s/2000/09/218b00/49765054.pdf)](https://files.diariodarepublica.pt/1s/2000/09/218b00/49765054.pdf)](https://files.diariodarepublica.pt/1s/2000/09/218b00/49765054.pdf)](https://files.diariodarepublica.pt/1s/2000/09/218b00/49765054.pdf)](https://files.diariodarepublica.pt/1s/2000/09/218b00/49765054.pdf)](https://files.diariodarepublica.pt/1s/2000/09/218b00/49765054.pdf)](https://files.diariodarepublica.pt/1s/2000/09/218b00/49765054.pdf)](https://files.diariodarepublica.pt/1s/2000/09/218b00/49765054.pdf)](https://files.diariodarepublica.pt/1s/2000/09/218b00/49765054.pdf)
 
 O Responsável, ...
 
@@ -1226,7 +1256,7 @@ Ano: ...
 
 8.2.29 - Avales e garantias
 
-[(ver mapa no documento original)](https://files.diariodarepublica.pt/1s/2000/09/218b00/49765054.pdf)
+[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[(ver mapa no documento original)](https://files.diariodarepublica.pt/1s/2000/09/218b00/49765054.pdf)](https://files.diariodarepublica.pt/1s/2000/09/218b00/49765054.pdf)](https://files.diariodarepublica.pt/1s/2000/09/218b00/49765054.pdf)](https://files.diariodarepublica.pt/1s/2000/09/218b00/49765054.pdf)](https://files.diariodarepublica.pt/1s/2000/09/218b00/49765054.pdf)](https://files.diariodarepublica.pt/1s/2000/09/218b00/49765054.pdf)](https://files.diariodarepublica.pt/1s/2000/09/218b00/49765054.pdf)](https://files.diariodarepublica.pt/1s/2000/09/218b00/49765054.pdf)](https://files.diariodarepublica.pt/1s/2000/09/218b00/49765054.pdf)](https://files.diariodarepublica.pt/1s/2000/09/218b00/49765054.pdf)](https://files.diariodarepublica.pt/1s/2000/09/218b00/49765054.pdf)](https://files.diariodarepublica.pt/1s/2000/09/218b00/49765054.pdf)](https://files.diariodarepublica.pt/1s/2000/09/218b00/49765054.pdf)](https://files.diariodarepublica.pt/1s/2000/09/218b00/49765054.pdf)](https://files.diariodarepublica.pt/1s/2000/09/218b00/49765054.pdf)](https://files.diariodarepublica.pt/1s/2000/09/218b00/49765054.pdf)](https://files.diariodarepublica.pt/1s/2000/09/218b00/49765054.pdf)](https://files.diariodarepublica.pt/1s/2000/09/218b00/49765054.pdf)](https://files.diariodarepublica.pt/1s/2000/09/218b00/49765054.pdf)](https://files.diariodarepublica.pt/1s/2000/09/218b00/49765054.pdf)](https://files.diariodarepublica.pt/1s/2000/09/218b00/49765054.pdf)](https://files.diariodarepublica.pt/1s/2000/09/218b00/49765054.pdf)](https://files.diariodarepublica.pt/1s/2000/09/218b00/49765054.pdf)](https://files.diariodarepublica.pt/1s/2000/09/218b00/49765054.pdf)](https://files.diariodarepublica.pt/1s/2000/09/218b00/49765054.pdf)](https://files.diariodarepublica.pt/1s/2000/09/218b00/49765054.pdf)](https://files.diariodarepublica.pt/1s/2000/09/218b00/49765054.pdf)](https://files.diariodarepublica.pt/1s/2000/09/218b00/49765054.pdf)](https://files.diariodarepublica.pt/1s/2000/09/218b00/49765054.pdf)](https://files.diariodarepublica.pt/1s/2000/09/218b00/49765054.pdf)](https://files.diariodarepublica.pt/1s/2000/09/218b00/49765054.pdf)](https://files.diariodarepublica.pt/1s/2000/09/218b00/49765054.pdf)
 
 O Responsável, ...
 
@@ -1246,7 +1276,7 @@ Ano: ...
 
 8.2.31 - Provisões acumuladas
 
-[(ver mapa no documento original)](https://files.diariodarepublica.pt/1s/2000/09/218b00/49765054.pdf)
+[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[(ver mapa no documento original)](https://files.diariodarepublica.pt/1s/2000/09/218b00/49765054.pdf)](https://files.diariodarepublica.pt/1s/2000/09/218b00/49765054.pdf)](https://files.diariodarepublica.pt/1s/2000/09/218b00/49765054.pdf)](https://files.diariodarepublica.pt/1s/2000/09/218b00/49765054.pdf)](https://files.diariodarepublica.pt/1s/2000/09/218b00/49765054.pdf)](https://files.diariodarepublica.pt/1s/2000/09/218b00/49765054.pdf)](https://files.diariodarepublica.pt/1s/2000/09/218b00/49765054.pdf)](https://files.diariodarepublica.pt/1s/2000/09/218b00/49765054.pdf)](https://files.diariodarepublica.pt/1s/2000/09/218b00/49765054.pdf)](https://files.diariodarepublica.pt/1s/2000/09/218b00/49765054.pdf)](https://files.diariodarepublica.pt/1s/2000/09/218b00/49765054.pdf)](https://files.diariodarepublica.pt/1s/2000/09/218b00/49765054.pdf)](https://files.diariodarepublica.pt/1s/2000/09/218b00/49765054.pdf)](https://files.diariodarepublica.pt/1s/2000/09/218b00/49765054.pdf)](https://files.diariodarepublica.pt/1s/2000/09/218b00/49765054.pdf)](https://files.diariodarepublica.pt/1s/2000/09/218b00/49765054.pdf)](https://files.diariodarepublica.pt/1s/2000/09/218b00/49765054.pdf)](https://files.diariodarepublica.pt/1s/2000/09/218b00/49765054.pdf)](https://files.diariodarepublica.pt/1s/2000/09/218b00/49765054.pdf)](https://files.diariodarepublica.pt/1s/2000/09/218b00/49765054.pdf)](https://files.diariodarepublica.pt/1s/2000/09/218b00/49765054.pdf)](https://files.diariodarepublica.pt/1s/2000/09/218b00/49765054.pdf)](https://files.diariodarepublica.pt/1s/2000/09/218b00/49765054.pdf)](https://files.diariodarepublica.pt/1s/2000/09/218b00/49765054.pdf)](https://files.diariodarepublica.pt/1s/2000/09/218b00/49765054.pdf)](https://files.diariodarepublica.pt/1s/2000/09/218b00/49765054.pdf)](https://files.diariodarepublica.pt/1s/2000/09/218b00/49765054.pdf)](https://files.diariodarepublica.pt/1s/2000/09/218b00/49765054.pdf)](https://files.diariodarepublica.pt/1s/2000/09/218b00/49765054.pdf)](https://files.diariodarepublica.pt/1s/2000/09/218b00/49765054.pdf)](https://files.diariodarepublica.pt/1s/2000/09/218b00/49765054.pdf)](https://files.diariodarepublica.pt/1s/2000/09/218b00/49765054.pdf)
 
 O Responsável, ...
 
@@ -1266,7 +1296,7 @@ Ano: ...
 
 8.2.33 - Demonstração do custo das mercadorias vendidas e das matérias consumidas
 
-[(ver mapa no documento original)](https://files.diariodarepublica.pt/1s/2000/09/218b00/49765054.pdf)
+[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[(ver mapa no documento original)](https://files.diariodarepublica.pt/1s/2000/09/218b00/49765054.pdf)](https://files.diariodarepublica.pt/1s/2000/09/218b00/49765054.pdf)](https://files.diariodarepublica.pt/1s/2000/09/218b00/49765054.pdf)](https://files.diariodarepublica.pt/1s/2000/09/218b00/49765054.pdf)](https://files.diariodarepublica.pt/1s/2000/09/218b00/49765054.pdf)](https://files.diariodarepublica.pt/1s/2000/09/218b00/49765054.pdf)](https://files.diariodarepublica.pt/1s/2000/09/218b00/49765054.pdf)](https://files.diariodarepublica.pt/1s/2000/09/218b00/49765054.pdf)](https://files.diariodarepublica.pt/1s/2000/09/218b00/49765054.pdf)](https://files.diariodarepublica.pt/1s/2000/09/218b00/49765054.pdf)](https://files.diariodarepublica.pt/1s/2000/09/218b00/49765054.pdf)](https://files.diariodarepublica.pt/1s/2000/09/218b00/49765054.pdf)](https://files.diariodarepublica.pt/1s/2000/09/218b00/49765054.pdf)](https://files.diariodarepublica.pt/1s/2000/09/218b00/49765054.pdf)](https://files.diariodarepublica.pt/1s/2000/09/218b00/49765054.pdf)](https://files.diariodarepublica.pt/1s/2000/09/218b00/49765054.pdf)](https://files.diariodarepublica.pt/1s/2000/09/218b00/49765054.pdf)](https://files.diariodarepublica.pt/1s/2000/09/218b00/49765054.pdf)](https://files.diariodarepublica.pt/1s/2000/09/218b00/49765054.pdf)](https://files.diariodarepublica.pt/1s/2000/09/218b00/49765054.pdf)](https://files.diariodarepublica.pt/1s/2000/09/218b00/49765054.pdf)](https://files.diariodarepublica.pt/1s/2000/09/218b00/49765054.pdf)](https://files.diariodarepublica.pt/1s/2000/09/218b00/49765054.pdf)](https://files.diariodarepublica.pt/1s/2000/09/218b00/49765054.pdf)](https://files.diariodarepublica.pt/1s/2000/09/218b00/49765054.pdf)](https://files.diariodarepublica.pt/1s/2000/09/218b00/49765054.pdf)](https://files.diariodarepublica.pt/1s/2000/09/218b00/49765054.pdf)](https://files.diariodarepublica.pt/1s/2000/09/218b00/49765054.pdf)](https://files.diariodarepublica.pt/1s/2000/09/218b00/49765054.pdf)](https://files.diariodarepublica.pt/1s/2000/09/218b00/49765054.pdf)](https://files.diariodarepublica.pt/1s/2000/09/218b00/49765054.pdf)](https://files.diariodarepublica.pt/1s/2000/09/218b00/49765054.pdf)
 
 O Responsável, ...
 
@@ -1284,7 +1314,7 @@ Ano: ...
 
 8.2.34 - Demonstração da variação da produção
 
-[(ver mapa no documento original)](https://files.diariodarepublica.pt/1s/2000/09/218b00/49765054.pdf)
+[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[(ver mapa no documento original)](https://files.diariodarepublica.pt/1s/2000/09/218b00/49765054.pdf)](https://files.diariodarepublica.pt/1s/2000/09/218b00/49765054.pdf)](https://files.diariodarepublica.pt/1s/2000/09/218b00/49765054.pdf)](https://files.diariodarepublica.pt/1s/2000/09/218b00/49765054.pdf)](https://files.diariodarepublica.pt/1s/2000/09/218b00/49765054.pdf)](https://files.diariodarepublica.pt/1s/2000/09/218b00/49765054.pdf)](https://files.diariodarepublica.pt/1s/2000/09/218b00/49765054.pdf)](https://files.diariodarepublica.pt/1s/2000/09/218b00/49765054.pdf)](https://files.diariodarepublica.pt/1s/2000/09/218b00/49765054.pdf)](https://files.diariodarepublica.pt/1s/2000/09/218b00/49765054.pdf)](https://files.diariodarepublica.pt/1s/2000/09/218b00/49765054.pdf)](https://files.diariodarepublica.pt/1s/2000/09/218b00/49765054.pdf)](https://files.diariodarepublica.pt/1s/2000/09/218b00/49765054.pdf)](https://files.diariodarepublica.pt/1s/2000/09/218b00/49765054.pdf)](https://files.diariodarepublica.pt/1s/2000/09/218b00/49765054.pdf)](https://files.diariodarepublica.pt/1s/2000/09/218b00/49765054.pdf)](https://files.diariodarepublica.pt/1s/2000/09/218b00/49765054.pdf)](https://files.diariodarepublica.pt/1s/2000/09/218b00/49765054.pdf)](https://files.diariodarepublica.pt/1s/2000/09/218b00/49765054.pdf)](https://files.diariodarepublica.pt/1s/2000/09/218b00/49765054.pdf)](https://files.diariodarepublica.pt/1s/2000/09/218b00/49765054.pdf)](https://files.diariodarepublica.pt/1s/2000/09/218b00/49765054.pdf)](https://files.diariodarepublica.pt/1s/2000/09/218b00/49765054.pdf)](https://files.diariodarepublica.pt/1s/2000/09/218b00/49765054.pdf)](https://files.diariodarepublica.pt/1s/2000/09/218b00/49765054.pdf)](https://files.diariodarepublica.pt/1s/2000/09/218b00/49765054.pdf)](https://files.diariodarepublica.pt/1s/2000/09/218b00/49765054.pdf)](https://files.diariodarepublica.pt/1s/2000/09/218b00/49765054.pdf)](https://files.diariodarepublica.pt/1s/2000/09/218b00/49765054.pdf)](https://files.diariodarepublica.pt/1s/2000/09/218b00/49765054.pdf)](https://files.diariodarepublica.pt/1s/2000/09/218b00/49765054.pdf)](https://files.diariodarepublica.pt/1s/2000/09/218b00/49765054.pdf)
 
 O Responsável, ...
 
@@ -1306,7 +1336,7 @@ Ano: ...
 
 802.37 - Demonstração dos resultados financeiros
 
-[(ver mapa no documento original)](https://files.diariodarepublica.pt/1s/2000/09/218b00/49765054.pdf)
+[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[(ver mapa no documento original)](https://files.diariodarepublica.pt/1s/2000/09/218b00/49765054.pdf)](https://files.diariodarepublica.pt/1s/2000/09/218b00/49765054.pdf)](https://files.diariodarepublica.pt/1s/2000/09/218b00/49765054.pdf)](https://files.diariodarepublica.pt/1s/2000/09/218b00/49765054.pdf)](https://files.diariodarepublica.pt/1s/2000/09/218b00/49765054.pdf)](https://files.diariodarepublica.pt/1s/2000/09/218b00/49765054.pdf)](https://files.diariodarepublica.pt/1s/2000/09/218b00/49765054.pdf)](https://files.diariodarepublica.pt/1s/2000/09/218b00/49765054.pdf)](https://files.diariodarepublica.pt/1s/2000/09/218b00/49765054.pdf)](https://files.diariodarepublica.pt/1s/2000/09/218b00/49765054.pdf)](https://files.diariodarepublica.pt/1s/2000/09/218b00/49765054.pdf)](https://files.diariodarepublica.pt/1s/2000/09/218b00/49765054.pdf)](https://files.diariodarepublica.pt/1s/2000/09/218b00/49765054.pdf)](https://files.diariodarepublica.pt/1s/2000/09/218b00/49765054.pdf)](https://files.diariodarepublica.pt/1s/2000/09/218b00/49765054.pdf)](https://files.diariodarepublica.pt/1s/2000/09/218b00/49765054.pdf)](https://files.diariodarepublica.pt/1s/2000/09/218b00/49765054.pdf)](https://files.diariodarepublica.pt/1s/2000/09/218b00/49765054.pdf)](https://files.diariodarepublica.pt/1s/2000/09/218b00/49765054.pdf)](https://files.diariodarepublica.pt/1s/2000/09/218b00/49765054.pdf)](https://files.diariodarepublica.pt/1s/2000/09/218b00/49765054.pdf)](https://files.diariodarepublica.pt/1s/2000/09/218b00/49765054.pdf)](https://files.diariodarepublica.pt/1s/2000/09/218b00/49765054.pdf)](https://files.diariodarepublica.pt/1s/2000/09/218b00/49765054.pdf)](https://files.diariodarepublica.pt/1s/2000/09/218b00/49765054.pdf)](https://files.diariodarepublica.pt/1s/2000/09/218b00/49765054.pdf)](https://files.diariodarepublica.pt/1s/2000/09/218b00/49765054.pdf)](https://files.diariodarepublica.pt/1s/2000/09/218b00/49765054.pdf)](https://files.diariodarepublica.pt/1s/2000/09/218b00/49765054.pdf)](https://files.diariodarepublica.pt/1s/2000/09/218b00/49765054.pdf)](https://files.diariodarepublica.pt/1s/2000/09/218b00/49765054.pdf)](https://files.diariodarepublica.pt/1s/2000/09/218b00/49765054.pdf)
 
 O Responsável, ...
 
@@ -1324,7 +1354,7 @@ Ano: ...
 
 8.2.38 - Demonstração dos resultados extraordinários
 
-[(ver mapa no documento original)](https://files.diariodarepublica.pt/1s/2000/09/218b00/49765054.pdf)
+[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[(ver mapa no documento original)](https://files.diariodarepublica.pt/1s/2000/09/218b00/49765054.pdf)](https://files.diariodarepublica.pt/1s/2000/09/218b00/49765054.pdf)](https://files.diariodarepublica.pt/1s/2000/09/218b00/49765054.pdf)](https://files.diariodarepublica.pt/1s/2000/09/218b00/49765054.pdf)](https://files.diariodarepublica.pt/1s/2000/09/218b00/49765054.pdf)](https://files.diariodarepublica.pt/1s/2000/09/218b00/49765054.pdf)](https://files.diariodarepublica.pt/1s/2000/09/218b00/49765054.pdf)](https://files.diariodarepublica.pt/1s/2000/09/218b00/49765054.pdf)](https://files.diariodarepublica.pt/1s/2000/09/218b00/49765054.pdf)](https://files.diariodarepublica.pt/1s/2000/09/218b00/49765054.pdf)](https://files.diariodarepublica.pt/1s/2000/09/218b00/49765054.pdf)](https://files.diariodarepublica.pt/1s/2000/09/218b00/49765054.pdf)](https://files.diariodarepublica.pt/1s/2000/09/218b00/49765054.pdf)](https://files.diariodarepublica.pt/1s/2000/09/218b00/49765054.pdf)](https://files.diariodarepublica.pt/1s/2000/09/218b00/49765054.pdf)](https://files.diariodarepublica.pt/1s/2000/09/218b00/49765054.pdf)](https://files.diariodarepublica.pt/1s/2000/09/218b00/49765054.pdf)](https://files.diariodarepublica.pt/1s/2000/09/218b00/49765054.pdf)](https://files.diariodarepublica.pt/1s/2000/09/218b00/49765054.pdf)](https://files.diariodarepublica.pt/1s/2000/09/218b00/49765054.pdf)](https://files.diariodarepublica.pt/1s/2000/09/218b00/49765054.pdf)](https://files.diariodarepublica.pt/1s/2000/09/218b00/49765054.pdf)](https://files.diariodarepublica.pt/1s/2000/09/218b00/49765054.pdf)](https://files.diariodarepublica.pt/1s/2000/09/218b00/49765054.pdf)](https://files.diariodarepublica.pt/1s/2000/09/218b00/49765054.pdf)](https://files.diariodarepublica.pt/1s/2000/09/218b00/49765054.pdf)](https://files.diariodarepublica.pt/1s/2000/09/218b00/49765054.pdf)](https://files.diariodarepublica.pt/1s/2000/09/218b00/49765054.pdf)](https://files.diariodarepublica.pt/1s/2000/09/218b00/49765054.pdf)](https://files.diariodarepublica.pt/1s/2000/09/218b00/49765054.pdf)](https://files.diariodarepublica.pt/1s/2000/09/218b00/49765054.pdf)](https://files.diariodarepublica.pt/1s/2000/09/218b00/49765054.pdf)
 
 O Responsável, ...
 
@@ -1364,7 +1394,7 @@ Ano: ...
 
 1 - Despesa
 
-[(ver mapa no documento original)](https://files.diariodarepublica.pt/1s/2000/09/218b00/49765054.pdf)
+[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[(ver mapa no documento original)](https://files.diariodarepublica.pt/1s/2000/09/218b00/49765054.pdf)](https://files.diariodarepublica.pt/1s/2000/09/218b00/49765054.pdf)](https://files.diariodarepublica.pt/1s/2000/09/218b00/49765054.pdf)](https://files.diariodarepublica.pt/1s/2000/09/218b00/49765054.pdf)](https://files.diariodarepublica.pt/1s/2000/09/218b00/49765054.pdf)](https://files.diariodarepublica.pt/1s/2000/09/218b00/49765054.pdf)](https://files.diariodarepublica.pt/1s/2000/09/218b00/49765054.pdf)](https://files.diariodarepublica.pt/1s/2000/09/218b00/49765054.pdf)](https://files.diariodarepublica.pt/1s/2000/09/218b00/49765054.pdf)](https://files.diariodarepublica.pt/1s/2000/09/218b00/49765054.pdf)](https://files.diariodarepublica.pt/1s/2000/09/218b00/49765054.pdf)](https://files.diariodarepublica.pt/1s/2000/09/218b00/49765054.pdf)](https://files.diariodarepublica.pt/1s/2000/09/218b00/49765054.pdf)](https://files.diariodarepublica.pt/1s/2000/09/218b00/49765054.pdf)](https://files.diariodarepublica.pt/1s/2000/09/218b00/49765054.pdf)](https://files.diariodarepublica.pt/1s/2000/09/218b00/49765054.pdf)](https://files.diariodarepublica.pt/1s/2000/09/218b00/49765054.pdf)](https://files.diariodarepublica.pt/1s/2000/09/218b00/49765054.pdf)](https://files.diariodarepublica.pt/1s/2000/09/218b00/49765054.pdf)](https://files.diariodarepublica.pt/1s/2000/09/218b00/49765054.pdf)](https://files.diariodarepublica.pt/1s/2000/09/218b00/49765054.pdf)](https://files.diariodarepublica.pt/1s/2000/09/218b00/49765054.pdf)](https://files.diariodarepublica.pt/1s/2000/09/218b00/49765054.pdf)](https://files.diariodarepublica.pt/1s/2000/09/218b00/49765054.pdf)](https://files.diariodarepublica.pt/1s/2000/09/218b00/49765054.pdf)](https://files.diariodarepublica.pt/1s/2000/09/218b00/49765054.pdf)](https://files.diariodarepublica.pt/1s/2000/09/218b00/49765054.pdf)](https://files.diariodarepublica.pt/1s/2000/09/218b00/49765054.pdf)](https://files.diariodarepublica.pt/1s/2000/09/218b00/49765054.pdf)](https://files.diariodarepublica.pt/1s/2000/09/218b00/49765054.pdf)](https://files.diariodarepublica.pt/1s/2000/09/218b00/49765054.pdf)](https://files.diariodarepublica.pt/1s/2000/09/218b00/49765054.pdf)
 
 O Responsável, ...
 
@@ -1374,7 +1404,7 @@ O Conselho de Administração: ...
 
 Em ... de ... de ...
 
-[(ver notas no documento original)](https://files.diariodarepublica.pt/1s/2000/09/218b00/49765054.pdf)
+[[(ver notas no documento original)](https://files.diariodarepublica.pt/1s/2000/09/218b00/49765054.pdf)](https://files.diariodarepublica.pt/1s/2000/09/218b00/49765054.pdf)
 
 2 - Receita. - Tem por finalidade evidenciar as modificações ocorridas no orçamento inicial durante o exercício, devendo a rubrica «Classificação económica» apresentar um grau de desagregação idêntico ao do orçamento inicial, com as alterações posteriormente ocorridas, e ser organizada de forma a evidenciar as receitas gerais do orçamento e as receitas próprias.
 
@@ -1398,7 +1428,7 @@ Ano: ...
 
 2 - Receita
 
-[(ver mapa no documento original)](https://files.diariodarepublica.pt/1s/2000/09/218b00/49765054.pdf)
+[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[(ver mapa no documento original)](https://files.diariodarepublica.pt/1s/2000/09/218b00/49765054.pdf)](https://files.diariodarepublica.pt/1s/2000/09/218b00/49765054.pdf)](https://files.diariodarepublica.pt/1s/2000/09/218b00/49765054.pdf)](https://files.diariodarepublica.pt/1s/2000/09/218b00/49765054.pdf)](https://files.diariodarepublica.pt/1s/2000/09/218b00/49765054.pdf)](https://files.diariodarepublica.pt/1s/2000/09/218b00/49765054.pdf)](https://files.diariodarepublica.pt/1s/2000/09/218b00/49765054.pdf)](https://files.diariodarepublica.pt/1s/2000/09/218b00/49765054.pdf)](https://files.diariodarepublica.pt/1s/2000/09/218b00/49765054.pdf)](https://files.diariodarepublica.pt/1s/2000/09/218b00/49765054.pdf)](https://files.diariodarepublica.pt/1s/2000/09/218b00/49765054.pdf)](https://files.diariodarepublica.pt/1s/2000/09/218b00/49765054.pdf)](https://files.diariodarepublica.pt/1s/2000/09/218b00/49765054.pdf)](https://files.diariodarepublica.pt/1s/2000/09/218b00/49765054.pdf)](https://files.diariodarepublica.pt/1s/2000/09/218b00/49765054.pdf)](https://files.diariodarepublica.pt/1s/2000/09/218b00/49765054.pdf)](https://files.diariodarepublica.pt/1s/2000/09/218b00/49765054.pdf)](https://files.diariodarepublica.pt/1s/2000/09/218b00/49765054.pdf)](https://files.diariodarepublica.pt/1s/2000/09/218b00/49765054.pdf)](https://files.diariodarepublica.pt/1s/2000/09/218b00/49765054.pdf)](https://files.diariodarepublica.pt/1s/2000/09/218b00/49765054.pdf)](https://files.diariodarepublica.pt/1s/2000/09/218b00/49765054.pdf)](https://files.diariodarepublica.pt/1s/2000/09/218b00/49765054.pdf)](https://files.diariodarepublica.pt/1s/2000/09/218b00/49765054.pdf)](https://files.diariodarepublica.pt/1s/2000/09/218b00/49765054.pdf)](https://files.diariodarepublica.pt/1s/2000/09/218b00/49765054.pdf)](https://files.diariodarepublica.pt/1s/2000/09/218b00/49765054.pdf)](https://files.diariodarepublica.pt/1s/2000/09/218b00/49765054.pdf)](https://files.diariodarepublica.pt/1s/2000/09/218b00/49765054.pdf)](https://files.diariodarepublica.pt/1s/2000/09/218b00/49765054.pdf)](https://files.diariodarepublica.pt/1s/2000/09/218b00/49765054.pdf)](https://files.diariodarepublica.pt/1s/2000/09/218b00/49765054.pdf)
 
 O Responsável, ...
 
@@ -1408,7 +1438,7 @@ O Conselho de Administração: ...
 
 Em ... de ... de ...
 
-[(ver notas no documento original)](https://files.diariodarepublica.pt/1s/2000/09/218b00/49765054.pdf)
+[[(ver notas no documento original)](https://files.diariodarepublica.pt/1s/2000/09/218b00/49765054.pdf)](https://files.diariodarepublica.pt/1s/2000/09/218b00/49765054.pdf)
 
 8.3.2 - Contratação administrativa:
 
@@ -1428,7 +1458,7 @@ Ano: ...
 
 1 - Situação dos contratos
 
-[(ver mapa no documento original)](https://files.diariodarepublica.pt/1s/2000/09/218b00/49765054.pdf)
+[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[(ver mapa no documento original)](https://files.diariodarepublica.pt/1s/2000/09/218b00/49765054.pdf)](https://files.diariodarepublica.pt/1s/2000/09/218b00/49765054.pdf)](https://files.diariodarepublica.pt/1s/2000/09/218b00/49765054.pdf)](https://files.diariodarepublica.pt/1s/2000/09/218b00/49765054.pdf)](https://files.diariodarepublica.pt/1s/2000/09/218b00/49765054.pdf)](https://files.diariodarepublica.pt/1s/2000/09/218b00/49765054.pdf)](https://files.diariodarepublica.pt/1s/2000/09/218b00/49765054.pdf)](https://files.diariodarepublica.pt/1s/2000/09/218b00/49765054.pdf)](https://files.diariodarepublica.pt/1s/2000/09/218b00/49765054.pdf)](https://files.diariodarepublica.pt/1s/2000/09/218b00/49765054.pdf)](https://files.diariodarepublica.pt/1s/2000/09/218b00/49765054.pdf)](https://files.diariodarepublica.pt/1s/2000/09/218b00/49765054.pdf)](https://files.diariodarepublica.pt/1s/2000/09/218b00/49765054.pdf)](https://files.diariodarepublica.pt/1s/2000/09/218b00/49765054.pdf)](https://files.diariodarepublica.pt/1s/2000/09/218b00/49765054.pdf)](https://files.diariodarepublica.pt/1s/2000/09/218b00/49765054.pdf)](https://files.diariodarepublica.pt/1s/2000/09/218b00/49765054.pdf)](https://files.diariodarepublica.pt/1s/2000/09/218b00/49765054.pdf)](https://files.diariodarepublica.pt/1s/2000/09/218b00/49765054.pdf)](https://files.diariodarepublica.pt/1s/2000/09/218b00/49765054.pdf)](https://files.diariodarepublica.pt/1s/2000/09/218b00/49765054.pdf)](https://files.diariodarepublica.pt/1s/2000/09/218b00/49765054.pdf)](https://files.diariodarepublica.pt/1s/2000/09/218b00/49765054.pdf)](https://files.diariodarepublica.pt/1s/2000/09/218b00/49765054.pdf)](https://files.diariodarepublica.pt/1s/2000/09/218b00/49765054.pdf)](https://files.diariodarepublica.pt/1s/2000/09/218b00/49765054.pdf)](https://files.diariodarepublica.pt/1s/2000/09/218b00/49765054.pdf)](https://files.diariodarepublica.pt/1s/2000/09/218b00/49765054.pdf)](https://files.diariodarepublica.pt/1s/2000/09/218b00/49765054.pdf)](https://files.diariodarepublica.pt/1s/2000/09/218b00/49765054.pdf)](https://files.diariodarepublica.pt/1s/2000/09/218b00/49765054.pdf)](https://files.diariodarepublica.pt/1s/2000/09/218b00/49765054.pdf)
 
 O Responsável, ...
 
@@ -1464,7 +1494,7 @@ Ano: ...
 
 2 - Formas de adjudicação
 
-[(ver mapa no documento original)](https://files.diariodarepublica.pt/1s/2000/09/218b00/49765054.pdf)
+[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[(ver mapa no documento original)](https://files.diariodarepublica.pt/1s/2000/09/218b00/49765054.pdf)](https://files.diariodarepublica.pt/1s/2000/09/218b00/49765054.pdf)](https://files.diariodarepublica.pt/1s/2000/09/218b00/49765054.pdf)](https://files.diariodarepublica.pt/1s/2000/09/218b00/49765054.pdf)](https://files.diariodarepublica.pt/1s/2000/09/218b00/49765054.pdf)](https://files.diariodarepublica.pt/1s/2000/09/218b00/49765054.pdf)](https://files.diariodarepublica.pt/1s/2000/09/218b00/49765054.pdf)](https://files.diariodarepublica.pt/1s/2000/09/218b00/49765054.pdf)](https://files.diariodarepublica.pt/1s/2000/09/218b00/49765054.pdf)](https://files.diariodarepublica.pt/1s/2000/09/218b00/49765054.pdf)](https://files.diariodarepublica.pt/1s/2000/09/218b00/49765054.pdf)](https://files.diariodarepublica.pt/1s/2000/09/218b00/49765054.pdf)](https://files.diariodarepublica.pt/1s/2000/09/218b00/49765054.pdf)](https://files.diariodarepublica.pt/1s/2000/09/218b00/49765054.pdf)](https://files.diariodarepublica.pt/1s/2000/09/218b00/49765054.pdf)](https://files.diariodarepublica.pt/1s/2000/09/218b00/49765054.pdf)](https://files.diariodarepublica.pt/1s/2000/09/218b00/49765054.pdf)](https://files.diariodarepublica.pt/1s/2000/09/218b00/49765054.pdf)](https://files.diariodarepublica.pt/1s/2000/09/218b00/49765054.pdf)](https://files.diariodarepublica.pt/1s/2000/09/218b00/49765054.pdf)](https://files.diariodarepublica.pt/1s/2000/09/218b00/49765054.pdf)](https://files.diariodarepublica.pt/1s/2000/09/218b00/49765054.pdf)](https://files.diariodarepublica.pt/1s/2000/09/218b00/49765054.pdf)](https://files.diariodarepublica.pt/1s/2000/09/218b00/49765054.pdf)](https://files.diariodarepublica.pt/1s/2000/09/218b00/49765054.pdf)](https://files.diariodarepublica.pt/1s/2000/09/218b00/49765054.pdf)](https://files.diariodarepublica.pt/1s/2000/09/218b00/49765054.pdf)](https://files.diariodarepublica.pt/1s/2000/09/218b00/49765054.pdf)](https://files.diariodarepublica.pt/1s/2000/09/218b00/49765054.pdf)](https://files.diariodarepublica.pt/1s/2000/09/218b00/49765054.pdf)](https://files.diariodarepublica.pt/1s/2000/09/218b00/49765054.pdf)](https://files.diariodarepublica.pt/1s/2000/09/218b00/49765054.pdf)
 
 O Responsável, ...
 
@@ -1496,7 +1526,7 @@ Ano: ...
 
 8.3.3 - Execução de programas e projectos de investimento
 
-[(ver mapa no documento original)](https://files.diariodarepublica.pt/1s/2000/09/218b00/49765054.pdf)
+[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[(ver mapa no documento original)](https://files.diariodarepublica.pt/1s/2000/09/218b00/49765054.pdf)](https://files.diariodarepublica.pt/1s/2000/09/218b00/49765054.pdf)](https://files.diariodarepublica.pt/1s/2000/09/218b00/49765054.pdf)](https://files.diariodarepublica.pt/1s/2000/09/218b00/49765054.pdf)](https://files.diariodarepublica.pt/1s/2000/09/218b00/49765054.pdf)](https://files.diariodarepublica.pt/1s/2000/09/218b00/49765054.pdf)](https://files.diariodarepublica.pt/1s/2000/09/218b00/49765054.pdf)](https://files.diariodarepublica.pt/1s/2000/09/218b00/49765054.pdf)](https://files.diariodarepublica.pt/1s/2000/09/218b00/49765054.pdf)](https://files.diariodarepublica.pt/1s/2000/09/218b00/49765054.pdf)](https://files.diariodarepublica.pt/1s/2000/09/218b00/49765054.pdf)](https://files.diariodarepublica.pt/1s/2000/09/218b00/49765054.pdf)](https://files.diariodarepublica.pt/1s/2000/09/218b00/49765054.pdf)](https://files.diariodarepublica.pt/1s/2000/09/218b00/49765054.pdf)](https://files.diariodarepublica.pt/1s/2000/09/218b00/49765054.pdf)](https://files.diariodarepublica.pt/1s/2000/09/218b00/49765054.pdf)](https://files.diariodarepublica.pt/1s/2000/09/218b00/49765054.pdf)](https://files.diariodarepublica.pt/1s/2000/09/218b00/49765054.pdf)](https://files.diariodarepublica.pt/1s/2000/09/218b00/49765054.pdf)](https://files.diariodarepublica.pt/1s/2000/09/218b00/49765054.pdf)](https://files.diariodarepublica.pt/1s/2000/09/218b00/49765054.pdf)](https://files.diariodarepublica.pt/1s/2000/09/218b00/49765054.pdf)](https://files.diariodarepublica.pt/1s/2000/09/218b00/49765054.pdf)](https://files.diariodarepublica.pt/1s/2000/09/218b00/49765054.pdf)](https://files.diariodarepublica.pt/1s/2000/09/218b00/49765054.pdf)](https://files.diariodarepublica.pt/1s/2000/09/218b00/49765054.pdf)](https://files.diariodarepublica.pt/1s/2000/09/218b00/49765054.pdf)](https://files.diariodarepublica.pt/1s/2000/09/218b00/49765054.pdf)](https://files.diariodarepublica.pt/1s/2000/09/218b00/49765054.pdf)](https://files.diariodarepublica.pt/1s/2000/09/218b00/49765054.pdf)](https://files.diariodarepublica.pt/1s/2000/09/218b00/49765054.pdf)](https://files.diariodarepublica.pt/1s/2000/09/218b00/49765054.pdf)
 
 O Responsável, ...
 
@@ -1516,7 +1546,7 @@ Ano: ...
 
 1 - Transferências correntes - Despesas
 
-[(ver mapa no documento original)](https://files.diariodarepublica.pt/1s/2000/09/218b00/49765054.pdf)
+[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[(ver mapa no documento original)](https://files.diariodarepublica.pt/1s/2000/09/218b00/49765054.pdf)](https://files.diariodarepublica.pt/1s/2000/09/218b00/49765054.pdf)](https://files.diariodarepublica.pt/1s/2000/09/218b00/49765054.pdf)](https://files.diariodarepublica.pt/1s/2000/09/218b00/49765054.pdf)](https://files.diariodarepublica.pt/1s/2000/09/218b00/49765054.pdf)](https://files.diariodarepublica.pt/1s/2000/09/218b00/49765054.pdf)](https://files.diariodarepublica.pt/1s/2000/09/218b00/49765054.pdf)](https://files.diariodarepublica.pt/1s/2000/09/218b00/49765054.pdf)](https://files.diariodarepublica.pt/1s/2000/09/218b00/49765054.pdf)](https://files.diariodarepublica.pt/1s/2000/09/218b00/49765054.pdf)](https://files.diariodarepublica.pt/1s/2000/09/218b00/49765054.pdf)](https://files.diariodarepublica.pt/1s/2000/09/218b00/49765054.pdf)](https://files.diariodarepublica.pt/1s/2000/09/218b00/49765054.pdf)](https://files.diariodarepublica.pt/1s/2000/09/218b00/49765054.pdf)](https://files.diariodarepublica.pt/1s/2000/09/218b00/49765054.pdf)](https://files.diariodarepublica.pt/1s/2000/09/218b00/49765054.pdf)](https://files.diariodarepublica.pt/1s/2000/09/218b00/49765054.pdf)](https://files.diariodarepublica.pt/1s/2000/09/218b00/49765054.pdf)](https://files.diariodarepublica.pt/1s/2000/09/218b00/49765054.pdf)](https://files.diariodarepublica.pt/1s/2000/09/218b00/49765054.pdf)](https://files.diariodarepublica.pt/1s/2000/09/218b00/49765054.pdf)](https://files.diariodarepublica.pt/1s/2000/09/218b00/49765054.pdf)](https://files.diariodarepublica.pt/1s/2000/09/218b00/49765054.pdf)](https://files.diariodarepublica.pt/1s/2000/09/218b00/49765054.pdf)](https://files.diariodarepublica.pt/1s/2000/09/218b00/49765054.pdf)](https://files.diariodarepublica.pt/1s/2000/09/218b00/49765054.pdf)](https://files.diariodarepublica.pt/1s/2000/09/218b00/49765054.pdf)](https://files.diariodarepublica.pt/1s/2000/09/218b00/49765054.pdf)](https://files.diariodarepublica.pt/1s/2000/09/218b00/49765054.pdf)](https://files.diariodarepublica.pt/1s/2000/09/218b00/49765054.pdf)](https://files.diariodarepublica.pt/1s/2000/09/218b00/49765054.pdf)](https://files.diariodarepublica.pt/1s/2000/09/218b00/49765054.pdf)
 
 Instituição: ...
 
@@ -1526,7 +1556,7 @@ Ano: ...
 
 2 - Transferências de capital - Despesas
 
-[(ver mapa no documento original)](https://files.diariodarepublica.pt/1s/2000/09/218b00/49765054.pdf)
+[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[(ver mapa no documento original)](https://files.diariodarepublica.pt/1s/2000/09/218b00/49765054.pdf)](https://files.diariodarepublica.pt/1s/2000/09/218b00/49765054.pdf)](https://files.diariodarepublica.pt/1s/2000/09/218b00/49765054.pdf)](https://files.diariodarepublica.pt/1s/2000/09/218b00/49765054.pdf)](https://files.diariodarepublica.pt/1s/2000/09/218b00/49765054.pdf)](https://files.diariodarepublica.pt/1s/2000/09/218b00/49765054.pdf)](https://files.diariodarepublica.pt/1s/2000/09/218b00/49765054.pdf)](https://files.diariodarepublica.pt/1s/2000/09/218b00/49765054.pdf)](https://files.diariodarepublica.pt/1s/2000/09/218b00/49765054.pdf)](https://files.diariodarepublica.pt/1s/2000/09/218b00/49765054.pdf)](https://files.diariodarepublica.pt/1s/2000/09/218b00/49765054.pdf)](https://files.diariodarepublica.pt/1s/2000/09/218b00/49765054.pdf)](https://files.diariodarepublica.pt/1s/2000/09/218b00/49765054.pdf)](https://files.diariodarepublica.pt/1s/2000/09/218b00/49765054.pdf)](https://files.diariodarepublica.pt/1s/2000/09/218b00/49765054.pdf)](https://files.diariodarepublica.pt/1s/2000/09/218b00/49765054.pdf)](https://files.diariodarepublica.pt/1s/2000/09/218b00/49765054.pdf)](https://files.diariodarepublica.pt/1s/2000/09/218b00/49765054.pdf)](https://files.diariodarepublica.pt/1s/2000/09/218b00/49765054.pdf)](https://files.diariodarepublica.pt/1s/2000/09/218b00/49765054.pdf)](https://files.diariodarepublica.pt/1s/2000/09/218b00/49765054.pdf)](https://files.diariodarepublica.pt/1s/2000/09/218b00/49765054.pdf)](https://files.diariodarepublica.pt/1s/2000/09/218b00/49765054.pdf)](https://files.diariodarepublica.pt/1s/2000/09/218b00/49765054.pdf)](https://files.diariodarepublica.pt/1s/2000/09/218b00/49765054.pdf)](https://files.diariodarepublica.pt/1s/2000/09/218b00/49765054.pdf)](https://files.diariodarepublica.pt/1s/2000/09/218b00/49765054.pdf)](https://files.diariodarepublica.pt/1s/2000/09/218b00/49765054.pdf)](https://files.diariodarepublica.pt/1s/2000/09/218b00/49765054.pdf)](https://files.diariodarepublica.pt/1s/2000/09/218b00/49765054.pdf)](https://files.diariodarepublica.pt/1s/2000/09/218b00/49765054.pdf)](https://files.diariodarepublica.pt/1s/2000/09/218b00/49765054.pdf)
 
 Instituição: ...
 
@@ -1536,7 +1566,7 @@ Ano: ...
 
 3 - Subsídios concedidos
 
-[(ver mapa no documento original)](https://files.diariodarepublica.pt/1s/2000/09/218b00/49765054.pdf)
+[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[(ver mapa no documento original)](https://files.diariodarepublica.pt/1s/2000/09/218b00/49765054.pdf)](https://files.diariodarepublica.pt/1s/2000/09/218b00/49765054.pdf)](https://files.diariodarepublica.pt/1s/2000/09/218b00/49765054.pdf)](https://files.diariodarepublica.pt/1s/2000/09/218b00/49765054.pdf)](https://files.diariodarepublica.pt/1s/2000/09/218b00/49765054.pdf)](https://files.diariodarepublica.pt/1s/2000/09/218b00/49765054.pdf)](https://files.diariodarepublica.pt/1s/2000/09/218b00/49765054.pdf)](https://files.diariodarepublica.pt/1s/2000/09/218b00/49765054.pdf)](https://files.diariodarepublica.pt/1s/2000/09/218b00/49765054.pdf)](https://files.diariodarepublica.pt/1s/2000/09/218b00/49765054.pdf)](https://files.diariodarepublica.pt/1s/2000/09/218b00/49765054.pdf)](https://files.diariodarepublica.pt/1s/2000/09/218b00/49765054.pdf)](https://files.diariodarepublica.pt/1s/2000/09/218b00/49765054.pdf)](https://files.diariodarepublica.pt/1s/2000/09/218b00/49765054.pdf)](https://files.diariodarepublica.pt/1s/2000/09/218b00/49765054.pdf)](https://files.diariodarepublica.pt/1s/2000/09/218b00/49765054.pdf)](https://files.diariodarepublica.pt/1s/2000/09/218b00/49765054.pdf)](https://files.diariodarepublica.pt/1s/2000/09/218b00/49765054.pdf)](https://files.diariodarepublica.pt/1s/2000/09/218b00/49765054.pdf)](https://files.diariodarepublica.pt/1s/2000/09/218b00/49765054.pdf)](https://files.diariodarepublica.pt/1s/2000/09/218b00/49765054.pdf)](https://files.diariodarepublica.pt/1s/2000/09/218b00/49765054.pdf)](https://files.diariodarepublica.pt/1s/2000/09/218b00/49765054.pdf)](https://files.diariodarepublica.pt/1s/2000/09/218b00/49765054.pdf)](https://files.diariodarepublica.pt/1s/2000/09/218b00/49765054.pdf)](https://files.diariodarepublica.pt/1s/2000/09/218b00/49765054.pdf)](https://files.diariodarepublica.pt/1s/2000/09/218b00/49765054.pdf)](https://files.diariodarepublica.pt/1s/2000/09/218b00/49765054.pdf)](https://files.diariodarepublica.pt/1s/2000/09/218b00/49765054.pdf)](https://files.diariodarepublica.pt/1s/2000/09/218b00/49765054.pdf)](https://files.diariodarepublica.pt/1s/2000/09/218b00/49765054.pdf)](https://files.diariodarepublica.pt/1s/2000/09/218b00/49765054.pdf)
 
 Instituição: ...
 
@@ -1546,7 +1576,7 @@ Ano: ...
 
 4 - Transferências correntes - Receitas
 
-[(ver mapa no documento original)](https://files.diariodarepublica.pt/1s/2000/09/218b00/49765054.pdf)
+[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[(ver mapa no documento original)](https://files.diariodarepublica.pt/1s/2000/09/218b00/49765054.pdf)](https://files.diariodarepublica.pt/1s/2000/09/218b00/49765054.pdf)](https://files.diariodarepublica.pt/1s/2000/09/218b00/49765054.pdf)](https://files.diariodarepublica.pt/1s/2000/09/218b00/49765054.pdf)](https://files.diariodarepublica.pt/1s/2000/09/218b00/49765054.pdf)](https://files.diariodarepublica.pt/1s/2000/09/218b00/49765054.pdf)](https://files.diariodarepublica.pt/1s/2000/09/218b00/49765054.pdf)](https://files.diariodarepublica.pt/1s/2000/09/218b00/49765054.pdf)](https://files.diariodarepublica.pt/1s/2000/09/218b00/49765054.pdf)](https://files.diariodarepublica.pt/1s/2000/09/218b00/49765054.pdf)](https://files.diariodarepublica.pt/1s/2000/09/218b00/49765054.pdf)](https://files.diariodarepublica.pt/1s/2000/09/218b00/49765054.pdf)](https://files.diariodarepublica.pt/1s/2000/09/218b00/49765054.pdf)](https://files.diariodarepublica.pt/1s/2000/09/218b00/49765054.pdf)](https://files.diariodarepublica.pt/1s/2000/09/218b00/49765054.pdf)](https://files.diariodarepublica.pt/1s/2000/09/218b00/49765054.pdf)](https://files.diariodarepublica.pt/1s/2000/09/218b00/49765054.pdf)](https://files.diariodarepublica.pt/1s/2000/09/218b00/49765054.pdf)](https://files.diariodarepublica.pt/1s/2000/09/218b00/49765054.pdf)](https://files.diariodarepublica.pt/1s/2000/09/218b00/49765054.pdf)](https://files.diariodarepublica.pt/1s/2000/09/218b00/49765054.pdf)](https://files.diariodarepublica.pt/1s/2000/09/218b00/49765054.pdf)](https://files.diariodarepublica.pt/1s/2000/09/218b00/49765054.pdf)](https://files.diariodarepublica.pt/1s/2000/09/218b00/49765054.pdf)](https://files.diariodarepublica.pt/1s/2000/09/218b00/49765054.pdf)](https://files.diariodarepublica.pt/1s/2000/09/218b00/49765054.pdf)](https://files.diariodarepublica.pt/1s/2000/09/218b00/49765054.pdf)](https://files.diariodarepublica.pt/1s/2000/09/218b00/49765054.pdf)](https://files.diariodarepublica.pt/1s/2000/09/218b00/49765054.pdf)](https://files.diariodarepublica.pt/1s/2000/09/218b00/49765054.pdf)](https://files.diariodarepublica.pt/1s/2000/09/218b00/49765054.pdf)](https://files.diariodarepublica.pt/1s/2000/09/218b00/49765054.pdf)
 
 Instituição: ...
 
@@ -1556,7 +1586,7 @@ Ano: ...
 
 5 - Transferências de capital - Receita
 
-[(ver mapa no documento original)](https://files.diariodarepublica.pt/1s/2000/09/218b00/49765054.pdf)
+[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[(ver mapa no documento original)](https://files.diariodarepublica.pt/1s/2000/09/218b00/49765054.pdf)](https://files.diariodarepublica.pt/1s/2000/09/218b00/49765054.pdf)](https://files.diariodarepublica.pt/1s/2000/09/218b00/49765054.pdf)](https://files.diariodarepublica.pt/1s/2000/09/218b00/49765054.pdf)](https://files.diariodarepublica.pt/1s/2000/09/218b00/49765054.pdf)](https://files.diariodarepublica.pt/1s/2000/09/218b00/49765054.pdf)](https://files.diariodarepublica.pt/1s/2000/09/218b00/49765054.pdf)](https://files.diariodarepublica.pt/1s/2000/09/218b00/49765054.pdf)](https://files.diariodarepublica.pt/1s/2000/09/218b00/49765054.pdf)](https://files.diariodarepublica.pt/1s/2000/09/218b00/49765054.pdf)](https://files.diariodarepublica.pt/1s/2000/09/218b00/49765054.pdf)](https://files.diariodarepublica.pt/1s/2000/09/218b00/49765054.pdf)](https://files.diariodarepublica.pt/1s/2000/09/218b00/49765054.pdf)](https://files.diariodarepublica.pt/1s/2000/09/218b00/49765054.pdf)](https://files.diariodarepublica.pt/1s/2000/09/218b00/49765054.pdf)](https://files.diariodarepublica.pt/1s/2000/09/218b00/49765054.pdf)](https://files.diariodarepublica.pt/1s/2000/09/218b00/49765054.pdf)](https://files.diariodarepublica.pt/1s/2000/09/218b00/49765054.pdf)](https://files.diariodarepublica.pt/1s/2000/09/218b00/49765054.pdf)](https://files.diariodarepublica.pt/1s/2000/09/218b00/49765054.pdf)](https://files.diariodarepublica.pt/1s/2000/09/218b00/49765054.pdf)](https://files.diariodarepublica.pt/1s/2000/09/218b00/49765054.pdf)](https://files.diariodarepublica.pt/1s/2000/09/218b00/49765054.pdf)](https://files.diariodarepublica.pt/1s/2000/09/218b00/49765054.pdf)](https://files.diariodarepublica.pt/1s/2000/09/218b00/49765054.pdf)](https://files.diariodarepublica.pt/1s/2000/09/218b00/49765054.pdf)](https://files.diariodarepublica.pt/1s/2000/09/218b00/49765054.pdf)](https://files.diariodarepublica.pt/1s/2000/09/218b00/49765054.pdf)](https://files.diariodarepublica.pt/1s/2000/09/218b00/49765054.pdf)](https://files.diariodarepublica.pt/1s/2000/09/218b00/49765054.pdf)](https://files.diariodarepublica.pt/1s/2000/09/218b00/49765054.pdf)](https://files.diariodarepublica.pt/1s/2000/09/218b00/49765054.pdf)
 
 Instituição: ...
 
@@ -1566,7 +1596,7 @@ Ano: ...
 
 6 - Subsídios obtidos
 
-[(ver mapa no documento original)](https://files.diariodarepublica.pt/1s/2000/09/218b00/49765054.pdf)
+[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[(ver mapa no documento original)](https://files.diariodarepublica.pt/1s/2000/09/218b00/49765054.pdf)](https://files.diariodarepublica.pt/1s/2000/09/218b00/49765054.pdf)](https://files.diariodarepublica.pt/1s/2000/09/218b00/49765054.pdf)](https://files.diariodarepublica.pt/1s/2000/09/218b00/49765054.pdf)](https://files.diariodarepublica.pt/1s/2000/09/218b00/49765054.pdf)](https://files.diariodarepublica.pt/1s/2000/09/218b00/49765054.pdf)](https://files.diariodarepublica.pt/1s/2000/09/218b00/49765054.pdf)](https://files.diariodarepublica.pt/1s/2000/09/218b00/49765054.pdf)](https://files.diariodarepublica.pt/1s/2000/09/218b00/49765054.pdf)](https://files.diariodarepublica.pt/1s/2000/09/218b00/49765054.pdf)](https://files.diariodarepublica.pt/1s/2000/09/218b00/49765054.pdf)](https://files.diariodarepublica.pt/1s/2000/09/218b00/49765054.pdf)](https://files.diariodarepublica.pt/1s/2000/09/218b00/49765054.pdf)](https://files.diariodarepublica.pt/1s/2000/09/218b00/49765054.pdf)](https://files.diariodarepublica.pt/1s/2000/09/218b00/49765054.pdf)](https://files.diariodarepublica.pt/1s/2000/09/218b00/49765054.pdf)](https://files.diariodarepublica.pt/1s/2000/09/218b00/49765054.pdf)](https://files.diariodarepublica.pt/1s/2000/09/218b00/49765054.pdf)](https://files.diariodarepublica.pt/1s/2000/09/218b00/49765054.pdf)](https://files.diariodarepublica.pt/1s/2000/09/218b00/49765054.pdf)](https://files.diariodarepublica.pt/1s/2000/09/218b00/49765054.pdf)](https://files.diariodarepublica.pt/1s/2000/09/218b00/49765054.pdf)](https://files.diariodarepublica.pt/1s/2000/09/218b00/49765054.pdf)](https://files.diariodarepublica.pt/1s/2000/09/218b00/49765054.pdf)](https://files.diariodarepublica.pt/1s/2000/09/218b00/49765054.pdf)](https://files.diariodarepublica.pt/1s/2000/09/218b00/49765054.pdf)](https://files.diariodarepublica.pt/1s/2000/09/218b00/49765054.pdf)](https://files.diariodarepublica.pt/1s/2000/09/218b00/49765054.pdf)](https://files.diariodarepublica.pt/1s/2000/09/218b00/49765054.pdf)](https://files.diariodarepublica.pt/1s/2000/09/218b00/49765054.pdf)](https://files.diariodarepublica.pt/1s/2000/09/218b00/49765054.pdf)](https://files.diariodarepublica.pt/1s/2000/09/218b00/49765054.pdf)
 
 8.3.5 - Aplicações em activos de rendimento fixo variável. - Informação para cada tipo de activos, distinguindo entre activos de curto prazo e os de médio e longo prazos:
 
@@ -1586,7 +1616,7 @@ Ano: ...
 
 1 - Activos de rendimento fixo
 
-[(ver mapa no documento original)](https://files.diariodarepublica.pt/1s/2000/09/218b00/49765054.pdf)
+[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[(ver mapa no documento original)](https://files.diariodarepublica.pt/1s/2000/09/218b00/49765054.pdf)](https://files.diariodarepublica.pt/1s/2000/09/218b00/49765054.pdf)](https://files.diariodarepublica.pt/1s/2000/09/218b00/49765054.pdf)](https://files.diariodarepublica.pt/1s/2000/09/218b00/49765054.pdf)](https://files.diariodarepublica.pt/1s/2000/09/218b00/49765054.pdf)](https://files.diariodarepublica.pt/1s/2000/09/218b00/49765054.pdf)](https://files.diariodarepublica.pt/1s/2000/09/218b00/49765054.pdf)](https://files.diariodarepublica.pt/1s/2000/09/218b00/49765054.pdf)](https://files.diariodarepublica.pt/1s/2000/09/218b00/49765054.pdf)](https://files.diariodarepublica.pt/1s/2000/09/218b00/49765054.pdf)](https://files.diariodarepublica.pt/1s/2000/09/218b00/49765054.pdf)](https://files.diariodarepublica.pt/1s/2000/09/218b00/49765054.pdf)](https://files.diariodarepublica.pt/1s/2000/09/218b00/49765054.pdf)](https://files.diariodarepublica.pt/1s/2000/09/218b00/49765054.pdf)](https://files.diariodarepublica.pt/1s/2000/09/218b00/49765054.pdf)](https://files.diariodarepublica.pt/1s/2000/09/218b00/49765054.pdf)](https://files.diariodarepublica.pt/1s/2000/09/218b00/49765054.pdf)](https://files.diariodarepublica.pt/1s/2000/09/218b00/49765054.pdf)](https://files.diariodarepublica.pt/1s/2000/09/218b00/49765054.pdf)](https://files.diariodarepublica.pt/1s/2000/09/218b00/49765054.pdf)](https://files.diariodarepublica.pt/1s/2000/09/218b00/49765054.pdf)](https://files.diariodarepublica.pt/1s/2000/09/218b00/49765054.pdf)](https://files.diariodarepublica.pt/1s/2000/09/218b00/49765054.pdf)](https://files.diariodarepublica.pt/1s/2000/09/218b00/49765054.pdf)](https://files.diariodarepublica.pt/1s/2000/09/218b00/49765054.pdf)](https://files.diariodarepublica.pt/1s/2000/09/218b00/49765054.pdf)](https://files.diariodarepublica.pt/1s/2000/09/218b00/49765054.pdf)](https://files.diariodarepublica.pt/1s/2000/09/218b00/49765054.pdf)](https://files.diariodarepublica.pt/1s/2000/09/218b00/49765054.pdf)](https://files.diariodarepublica.pt/1s/2000/09/218b00/49765054.pdf)](https://files.diariodarepublica.pt/1s/2000/09/218b00/49765054.pdf)](https://files.diariodarepublica.pt/1s/2000/09/218b00/49765054.pdf)
 
 Instituição: ...
 
@@ -1596,7 +1626,7 @@ Ano: ...
 
 2 - Activos de rendimento variável
 
-[(ver mapa no documento original)](https://files.diariodarepublica.pt/1s/2000/09/218b00/49765054.pdf)
+[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[(ver mapa no documento original)](https://files.diariodarepublica.pt/1s/2000/09/218b00/49765054.pdf)](https://files.diariodarepublica.pt/1s/2000/09/218b00/49765054.pdf)](https://files.diariodarepublica.pt/1s/2000/09/218b00/49765054.pdf)](https://files.diariodarepublica.pt/1s/2000/09/218b00/49765054.pdf)](https://files.diariodarepublica.pt/1s/2000/09/218b00/49765054.pdf)](https://files.diariodarepublica.pt/1s/2000/09/218b00/49765054.pdf)](https://files.diariodarepublica.pt/1s/2000/09/218b00/49765054.pdf)](https://files.diariodarepublica.pt/1s/2000/09/218b00/49765054.pdf)](https://files.diariodarepublica.pt/1s/2000/09/218b00/49765054.pdf)](https://files.diariodarepublica.pt/1s/2000/09/218b00/49765054.pdf)](https://files.diariodarepublica.pt/1s/2000/09/218b00/49765054.pdf)](https://files.diariodarepublica.pt/1s/2000/09/218b00/49765054.pdf)](https://files.diariodarepublica.pt/1s/2000/09/218b00/49765054.pdf)](https://files.diariodarepublica.pt/1s/2000/09/218b00/49765054.pdf)](https://files.diariodarepublica.pt/1s/2000/09/218b00/49765054.pdf)](https://files.diariodarepublica.pt/1s/2000/09/218b00/49765054.pdf)](https://files.diariodarepublica.pt/1s/2000/09/218b00/49765054.pdf)](https://files.diariodarepublica.pt/1s/2000/09/218b00/49765054.pdf)](https://files.diariodarepublica.pt/1s/2000/09/218b00/49765054.pdf)](https://files.diariodarepublica.pt/1s/2000/09/218b00/49765054.pdf)](https://files.diariodarepublica.pt/1s/2000/09/218b00/49765054.pdf)](https://files.diariodarepublica.pt/1s/2000/09/218b00/49765054.pdf)](https://files.diariodarepublica.pt/1s/2000/09/218b00/49765054.pdf)](https://files.diariodarepublica.pt/1s/2000/09/218b00/49765054.pdf)](https://files.diariodarepublica.pt/1s/2000/09/218b00/49765054.pdf)](https://files.diariodarepublica.pt/1s/2000/09/218b00/49765054.pdf)](https://files.diariodarepublica.pt/1s/2000/09/218b00/49765054.pdf)](https://files.diariodarepublica.pt/1s/2000/09/218b00/49765054.pdf)](https://files.diariodarepublica.pt/1s/2000/09/218b00/49765054.pdf)](https://files.diariodarepublica.pt/1s/2000/09/218b00/49765054.pdf)](https://files.diariodarepublica.pt/1s/2000/09/218b00/49765054.pdf)](https://files.diariodarepublica.pt/1s/2000/09/218b00/49765054.pdf)
 
 8.3.6 - Endividamento. - Informação sobre o nível de endividamento público em resultado dos empréstimos titulados e não titulados contraídos pela entidade considerando o prazo inicial (curto e médio e longo prazos) e a moeda [nacional (euro) ou estrangeira (não euro)]:
 
@@ -1638,7 +1668,7 @@ Ano: ...
 
 Situação e evolução da dívida e juros
 
-[(ver mapa no documento original)](https://files.diariodarepublica.pt/1s/2000/09/218b00/49765054.pdf)
+[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[(ver mapa no documento original)](https://files.diariodarepublica.pt/1s/2000/09/218b00/49765054.pdf)](https://files.diariodarepublica.pt/1s/2000/09/218b00/49765054.pdf)](https://files.diariodarepublica.pt/1s/2000/09/218b00/49765054.pdf)](https://files.diariodarepublica.pt/1s/2000/09/218b00/49765054.pdf)](https://files.diariodarepublica.pt/1s/2000/09/218b00/49765054.pdf)](https://files.diariodarepublica.pt/1s/2000/09/218b00/49765054.pdf)](https://files.diariodarepublica.pt/1s/2000/09/218b00/49765054.pdf)](https://files.diariodarepublica.pt/1s/2000/09/218b00/49765054.pdf)](https://files.diariodarepublica.pt/1s/2000/09/218b00/49765054.pdf)](https://files.diariodarepublica.pt/1s/2000/09/218b00/49765054.pdf)](https://files.diariodarepublica.pt/1s/2000/09/218b00/49765054.pdf)](https://files.diariodarepublica.pt/1s/2000/09/218b00/49765054.pdf)](https://files.diariodarepublica.pt/1s/2000/09/218b00/49765054.pdf)](https://files.diariodarepublica.pt/1s/2000/09/218b00/49765054.pdf)](https://files.diariodarepublica.pt/1s/2000/09/218b00/49765054.pdf)](https://files.diariodarepublica.pt/1s/2000/09/218b00/49765054.pdf)](https://files.diariodarepublica.pt/1s/2000/09/218b00/49765054.pdf)](https://files.diariodarepublica.pt/1s/2000/09/218b00/49765054.pdf)](https://files.diariodarepublica.pt/1s/2000/09/218b00/49765054.pdf)](https://files.diariodarepublica.pt/1s/2000/09/218b00/49765054.pdf)](https://files.diariodarepublica.pt/1s/2000/09/218b00/49765054.pdf)](https://files.diariodarepublica.pt/1s/2000/09/218b00/49765054.pdf)](https://files.diariodarepublica.pt/1s/2000/09/218b00/49765054.pdf)](https://files.diariodarepublica.pt/1s/2000/09/218b00/49765054.pdf)](https://files.diariodarepublica.pt/1s/2000/09/218b00/49765054.pdf)](https://files.diariodarepublica.pt/1s/2000/09/218b00/49765054.pdf)](https://files.diariodarepublica.pt/1s/2000/09/218b00/49765054.pdf)](https://files.diariodarepublica.pt/1s/2000/09/218b00/49765054.pdf)](https://files.diariodarepublica.pt/1s/2000/09/218b00/49765054.pdf)](https://files.diariodarepublica.pt/1s/2000/09/218b00/49765054.pdf)](https://files.diariodarepublica.pt/1s/2000/09/218b00/49765054.pdf)](https://files.diariodarepublica.pt/1s/2000/09/218b00/49765054.pdf)
 
 8.4 - Notas sobre a contabilidade analítica
 
@@ -1720,7 +1750,7 @@ Modelo A8, «Mapa de demonstração de custos por funções».
 
 9 - Quadro de contas
 
-[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2000/09/218b00/49765054.pdf)
+[[[[[[[[[[[[[[[[[[[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2000/09/218b00/49765054.pdf)](https://files.diariodarepublica.pt/1s/2000/09/218b00/49765054.pdf)](https://files.diariodarepublica.pt/1s/2000/09/218b00/49765054.pdf)](https://files.diariodarepublica.pt/1s/2000/09/218b00/49765054.pdf)](https://files.diariodarepublica.pt/1s/2000/09/218b00/49765054.pdf)](https://files.diariodarepublica.pt/1s/2000/09/218b00/49765054.pdf)](https://files.diariodarepublica.pt/1s/2000/09/218b00/49765054.pdf)](https://files.diariodarepublica.pt/1s/2000/09/218b00/49765054.pdf)](https://files.diariodarepublica.pt/1s/2000/09/218b00/49765054.pdf)](https://files.diariodarepublica.pt/1s/2000/09/218b00/49765054.pdf)](https://files.diariodarepublica.pt/1s/2000/09/218b00/49765054.pdf)](https://files.diariodarepublica.pt/1s/2000/09/218b00/49765054.pdf)](https://files.diariodarepublica.pt/1s/2000/09/218b00/49765054.pdf)](https://files.diariodarepublica.pt/1s/2000/09/218b00/49765054.pdf)](https://files.diariodarepublica.pt/1s/2000/09/218b00/49765054.pdf)](https://files.diariodarepublica.pt/1s/2000/09/218b00/49765054.pdf)](https://files.diariodarepublica.pt/1s/2000/09/218b00/49765054.pdf)](https://files.diariodarepublica.pt/1s/2000/09/218b00/49765054.pdf)](https://files.diariodarepublica.pt/1s/2000/09/218b00/49765054.pdf)
 
 10 - Código de contas
 
@@ -3526,7 +3556,7 @@ Durante a execução orçamental, pelas alterações correspondentes a anulaçõ
 
 01 - Orçamento - Exercício corrente
 
-[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2000/09/218b00/49765054.pdf)
+[[[[[[[[[[[[[[[[[[[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2000/09/218b00/49765054.pdf)](https://files.diariodarepublica.pt/1s/2000/09/218b00/49765054.pdf)](https://files.diariodarepublica.pt/1s/2000/09/218b00/49765054.pdf)](https://files.diariodarepublica.pt/1s/2000/09/218b00/49765054.pdf)](https://files.diariodarepublica.pt/1s/2000/09/218b00/49765054.pdf)](https://files.diariodarepublica.pt/1s/2000/09/218b00/49765054.pdf)](https://files.diariodarepublica.pt/1s/2000/09/218b00/49765054.pdf)](https://files.diariodarepublica.pt/1s/2000/09/218b00/49765054.pdf)](https://files.diariodarepublica.pt/1s/2000/09/218b00/49765054.pdf)](https://files.diariodarepublica.pt/1s/2000/09/218b00/49765054.pdf)](https://files.diariodarepublica.pt/1s/2000/09/218b00/49765054.pdf)](https://files.diariodarepublica.pt/1s/2000/09/218b00/49765054.pdf)](https://files.diariodarepublica.pt/1s/2000/09/218b00/49765054.pdf)](https://files.diariodarepublica.pt/1s/2000/09/218b00/49765054.pdf)](https://files.diariodarepublica.pt/1s/2000/09/218b00/49765054.pdf)](https://files.diariodarepublica.pt/1s/2000/09/218b00/49765054.pdf)](https://files.diariodarepublica.pt/1s/2000/09/218b00/49765054.pdf)](https://files.diariodarepublica.pt/1s/2000/09/218b00/49765054.pdf)](https://files.diariodarepublica.pt/1s/2000/09/218b00/49765054.pdf)
 
 02 - «Despesas». - Esta conta destina-se a registar as seguintes fases do orçamento da despesa do exercício corrente:
 
@@ -3626,7 +3656,7 @@ O saldo credor representa o valor dos compromissos assumidos para os quais não 
 
 Esquema de movimentação da conta 02 - «Despesas»
 
-[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2000/09/218b00/49765054.pdf)
+[[[[[[[[[[[[[[[[[[[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2000/09/218b00/49765054.pdf)](https://files.diariodarepublica.pt/1s/2000/09/218b00/49765054.pdf)](https://files.diariodarepublica.pt/1s/2000/09/218b00/49765054.pdf)](https://files.diariodarepublica.pt/1s/2000/09/218b00/49765054.pdf)](https://files.diariodarepublica.pt/1s/2000/09/218b00/49765054.pdf)](https://files.diariodarepublica.pt/1s/2000/09/218b00/49765054.pdf)](https://files.diariodarepublica.pt/1s/2000/09/218b00/49765054.pdf)](https://files.diariodarepublica.pt/1s/2000/09/218b00/49765054.pdf)](https://files.diariodarepublica.pt/1s/2000/09/218b00/49765054.pdf)](https://files.diariodarepublica.pt/1s/2000/09/218b00/49765054.pdf)](https://files.diariodarepublica.pt/1s/2000/09/218b00/49765054.pdf)](https://files.diariodarepublica.pt/1s/2000/09/218b00/49765054.pdf)](https://files.diariodarepublica.pt/1s/2000/09/218b00/49765054.pdf)](https://files.diariodarepublica.pt/1s/2000/09/218b00/49765054.pdf)](https://files.diariodarepublica.pt/1s/2000/09/218b00/49765054.pdf)](https://files.diariodarepublica.pt/1s/2000/09/218b00/49765054.pdf)](https://files.diariodarepublica.pt/1s/2000/09/218b00/49765054.pdf)](https://files.diariodarepublica.pt/1s/2000/09/218b00/49765054.pdf)](https://files.diariodarepublica.pt/1s/2000/09/218b00/49765054.pdf)
 
 03 - «Receitas». - Esta conta destina-se a registar as alterações ao orçamento de receita, bem como o controlo das previsões iniciais e previsões corrigidas.
 
@@ -3662,7 +3692,7 @@ Pelos reforços ao orçamento inicial, por contrapartida das contas 0321 - «Ref
 
 Esquema de movimentação da conta 03 - «Receitas - Exercício corrente»
 
-[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2000/09/218b00/49765054.pdf)
+[[[[[[[[[[[[[[[[[[[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2000/09/218b00/49765054.pdf)](https://files.diariodarepublica.pt/1s/2000/09/218b00/49765054.pdf)](https://files.diariodarepublica.pt/1s/2000/09/218b00/49765054.pdf)](https://files.diariodarepublica.pt/1s/2000/09/218b00/49765054.pdf)](https://files.diariodarepublica.pt/1s/2000/09/218b00/49765054.pdf)](https://files.diariodarepublica.pt/1s/2000/09/218b00/49765054.pdf)](https://files.diariodarepublica.pt/1s/2000/09/218b00/49765054.pdf)](https://files.diariodarepublica.pt/1s/2000/09/218b00/49765054.pdf)](https://files.diariodarepublica.pt/1s/2000/09/218b00/49765054.pdf)](https://files.diariodarepublica.pt/1s/2000/09/218b00/49765054.pdf)](https://files.diariodarepublica.pt/1s/2000/09/218b00/49765054.pdf)](https://files.diariodarepublica.pt/1s/2000/09/218b00/49765054.pdf)](https://files.diariodarepublica.pt/1s/2000/09/218b00/49765054.pdf)](https://files.diariodarepublica.pt/1s/2000/09/218b00/49765054.pdf)](https://files.diariodarepublica.pt/1s/2000/09/218b00/49765054.pdf)](https://files.diariodarepublica.pt/1s/2000/09/218b00/49765054.pdf)](https://files.diariodarepublica.pt/1s/2000/09/218b00/49765054.pdf)](https://files.diariodarepublica.pt/1s/2000/09/218b00/49765054.pdf)](https://files.diariodarepublica.pt/1s/2000/09/218b00/49765054.pdf)
 
 04 - «Orçamento - Exercícios futuros». - A necessidade de manter actualizado o registo dos compromissos assumidos para anos futuros leva à criação desta conta. São abertas subcontas para cada um dos três anos futuros e uma subconta para o 4.º ano e seguintes.
 
@@ -3846,7 +3876,7 @@ Esquema de movimentação do período complementar e exercícios findos
 
 Receita
 
-[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2000/09/218b00/49765054.pdf)
+[[[[[[[[[[[[[[[[[[[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2000/09/218b00/49765054.pdf)](https://files.diariodarepublica.pt/1s/2000/09/218b00/49765054.pdf)](https://files.diariodarepublica.pt/1s/2000/09/218b00/49765054.pdf)](https://files.diariodarepublica.pt/1s/2000/09/218b00/49765054.pdf)](https://files.diariodarepublica.pt/1s/2000/09/218b00/49765054.pdf)](https://files.diariodarepublica.pt/1s/2000/09/218b00/49765054.pdf)](https://files.diariodarepublica.pt/1s/2000/09/218b00/49765054.pdf)](https://files.diariodarepublica.pt/1s/2000/09/218b00/49765054.pdf)](https://files.diariodarepublica.pt/1s/2000/09/218b00/49765054.pdf)](https://files.diariodarepublica.pt/1s/2000/09/218b00/49765054.pdf)](https://files.diariodarepublica.pt/1s/2000/09/218b00/49765054.pdf)](https://files.diariodarepublica.pt/1s/2000/09/218b00/49765054.pdf)](https://files.diariodarepublica.pt/1s/2000/09/218b00/49765054.pdf)](https://files.diariodarepublica.pt/1s/2000/09/218b00/49765054.pdf)](https://files.diariodarepublica.pt/1s/2000/09/218b00/49765054.pdf)](https://files.diariodarepublica.pt/1s/2000/09/218b00/49765054.pdf)](https://files.diariodarepublica.pt/1s/2000/09/218b00/49765054.pdf)](https://files.diariodarepublica.pt/1s/2000/09/218b00/49765054.pdf)](https://files.diariodarepublica.pt/1s/2000/09/218b00/49765054.pdf)
 
 252 - «Credores pela execução do orçamento». - A conta, a desagregar por anos económicos e classificação económica, é creditada pelo montante de despesa processada por contrapartida das contas da classe 2 - Terceiros, onde foram originariamente registados os créditos, designadamente as subcontas da conta 22 - «Fornecedores», e debitada pelos pagamentos realizados por contrapartida da classe 1 - Disponibilidades.
 
@@ -3856,7 +3886,7 @@ Esquema de movimentação do período complementar e exercícios findos
 
 Despesa
 
-[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2000/09/218b00/49765054.pdf)
+[[[[[[[[[[[[[[[[[[[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2000/09/218b00/49765054.pdf)](https://files.diariodarepublica.pt/1s/2000/09/218b00/49765054.pdf)](https://files.diariodarepublica.pt/1s/2000/09/218b00/49765054.pdf)](https://files.diariodarepublica.pt/1s/2000/09/218b00/49765054.pdf)](https://files.diariodarepublica.pt/1s/2000/09/218b00/49765054.pdf)](https://files.diariodarepublica.pt/1s/2000/09/218b00/49765054.pdf)](https://files.diariodarepublica.pt/1s/2000/09/218b00/49765054.pdf)](https://files.diariodarepublica.pt/1s/2000/09/218b00/49765054.pdf)](https://files.diariodarepublica.pt/1s/2000/09/218b00/49765054.pdf)](https://files.diariodarepublica.pt/1s/2000/09/218b00/49765054.pdf)](https://files.diariodarepublica.pt/1s/2000/09/218b00/49765054.pdf)](https://files.diariodarepublica.pt/1s/2000/09/218b00/49765054.pdf)](https://files.diariodarepublica.pt/1s/2000/09/218b00/49765054.pdf)](https://files.diariodarepublica.pt/1s/2000/09/218b00/49765054.pdf)](https://files.diariodarepublica.pt/1s/2000/09/218b00/49765054.pdf)](https://files.diariodarepublica.pt/1s/2000/09/218b00/49765054.pdf)](https://files.diariodarepublica.pt/1s/2000/09/218b00/49765054.pdf)](https://files.diariodarepublica.pt/1s/2000/09/218b00/49765054.pdf)](https://files.diariodarepublica.pt/1s/2000/09/218b00/49765054.pdf)
 
 26 - «Outros devedores e credores»:
 
@@ -4002,7 +4032,7 @@ b) Também o mesmo critério deverá ser seguido em todas as situações em que,
 
 Nas demais situações, incluindo todas as cedências a entidades do grupo com estatuto de direito privado e a outras entidades não pertencentes ao grupo, deverá seguir as regras definidas nas alíneas a) e b).
 
-[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2000/09/218b00/49765054.pdf)
+[[[[[[[[[[[[[[[[[[[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2000/09/218b00/49765054.pdf)](https://files.diariodarepublica.pt/1s/2000/09/218b00/49765054.pdf)](https://files.diariodarepublica.pt/1s/2000/09/218b00/49765054.pdf)](https://files.diariodarepublica.pt/1s/2000/09/218b00/49765054.pdf)](https://files.diariodarepublica.pt/1s/2000/09/218b00/49765054.pdf)](https://files.diariodarepublica.pt/1s/2000/09/218b00/49765054.pdf)](https://files.diariodarepublica.pt/1s/2000/09/218b00/49765054.pdf)](https://files.diariodarepublica.pt/1s/2000/09/218b00/49765054.pdf)](https://files.diariodarepublica.pt/1s/2000/09/218b00/49765054.pdf)](https://files.diariodarepublica.pt/1s/2000/09/218b00/49765054.pdf)](https://files.diariodarepublica.pt/1s/2000/09/218b00/49765054.pdf)](https://files.diariodarepublica.pt/1s/2000/09/218b00/49765054.pdf)](https://files.diariodarepublica.pt/1s/2000/09/218b00/49765054.pdf)](https://files.diariodarepublica.pt/1s/2000/09/218b00/49765054.pdf)](https://files.diariodarepublica.pt/1s/2000/09/218b00/49765054.pdf)](https://files.diariodarepublica.pt/1s/2000/09/218b00/49765054.pdf)](https://files.diariodarepublica.pt/1s/2000/09/218b00/49765054.pdf)](https://files.diariodarepublica.pt/1s/2000/09/218b00/49765054.pdf)](https://files.diariodarepublica.pt/1s/2000/09/218b00/49765054.pdf)
 
 Quando se trate de bens em regime de locação financeira, a contabilização por parte do locatário obedecerá às seguintes regras:
 
@@ -4390,7 +4420,7 @@ Balanço consolidado;
 
 Demonstração dos resultados consolidados;
 
-## Anexo ao balanço consolidado e à demonstração dos resultados consolidados.
+Anexo ao balanço consolidado e à demonstração dos resultados consolidados.
 
 Recomenda-se também a inclusão da demonstração de fluxos de caixa consolidada.
 
@@ -4400,11 +4430,11 @@ Os documentos de prestação de contas consolidadas incluem, para além das demo
 
 12.3.2.1 - Balanço consolidado:
 
-[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2000/09/218b00/49765054.pdf)
+[[[[[[[[[[[[[[[[[[[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2000/09/218b00/49765054.pdf)](https://files.diariodarepublica.pt/1s/2000/09/218b00/49765054.pdf)](https://files.diariodarepublica.pt/1s/2000/09/218b00/49765054.pdf)](https://files.diariodarepublica.pt/1s/2000/09/218b00/49765054.pdf)](https://files.diariodarepublica.pt/1s/2000/09/218b00/49765054.pdf)](https://files.diariodarepublica.pt/1s/2000/09/218b00/49765054.pdf)](https://files.diariodarepublica.pt/1s/2000/09/218b00/49765054.pdf)](https://files.diariodarepublica.pt/1s/2000/09/218b00/49765054.pdf)](https://files.diariodarepublica.pt/1s/2000/09/218b00/49765054.pdf)](https://files.diariodarepublica.pt/1s/2000/09/218b00/49765054.pdf)](https://files.diariodarepublica.pt/1s/2000/09/218b00/49765054.pdf)](https://files.diariodarepublica.pt/1s/2000/09/218b00/49765054.pdf)](https://files.diariodarepublica.pt/1s/2000/09/218b00/49765054.pdf)](https://files.diariodarepublica.pt/1s/2000/09/218b00/49765054.pdf)](https://files.diariodarepublica.pt/1s/2000/09/218b00/49765054.pdf)](https://files.diariodarepublica.pt/1s/2000/09/218b00/49765054.pdf)](https://files.diariodarepublica.pt/1s/2000/09/218b00/49765054.pdf)](https://files.diariodarepublica.pt/1s/2000/09/218b00/49765054.pdf)](https://files.diariodarepublica.pt/1s/2000/09/218b00/49765054.pdf)
 
 12.3.2.2 - Demonstração dos resultados consolidados:
 
-[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2000/09/218b00/49765054.pdf)
+[[[[[[[[[[[[[[[[[[[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2000/09/218b00/49765054.pdf)](https://files.diariodarepublica.pt/1s/2000/09/218b00/49765054.pdf)](https://files.diariodarepublica.pt/1s/2000/09/218b00/49765054.pdf)](https://files.diariodarepublica.pt/1s/2000/09/218b00/49765054.pdf)](https://files.diariodarepublica.pt/1s/2000/09/218b00/49765054.pdf)](https://files.diariodarepublica.pt/1s/2000/09/218b00/49765054.pdf)](https://files.diariodarepublica.pt/1s/2000/09/218b00/49765054.pdf)](https://files.diariodarepublica.pt/1s/2000/09/218b00/49765054.pdf)](https://files.diariodarepublica.pt/1s/2000/09/218b00/49765054.pdf)](https://files.diariodarepublica.pt/1s/2000/09/218b00/49765054.pdf)](https://files.diariodarepublica.pt/1s/2000/09/218b00/49765054.pdf)](https://files.diariodarepublica.pt/1s/2000/09/218b00/49765054.pdf)](https://files.diariodarepublica.pt/1s/2000/09/218b00/49765054.pdf)](https://files.diariodarepublica.pt/1s/2000/09/218b00/49765054.pdf)](https://files.diariodarepublica.pt/1s/2000/09/218b00/49765054.pdf)](https://files.diariodarepublica.pt/1s/2000/09/218b00/49765054.pdf)](https://files.diariodarepublica.pt/1s/2000/09/218b00/49765054.pdf)](https://files.diariodarepublica.pt/1s/2000/09/218b00/49765054.pdf)](https://files.diariodarepublica.pt/1s/2000/09/218b00/49765054.pdf)
 
 12.3.2.3 - Anexo ao balanço consolidado e à demonstração dos resultados consolidados:
 
@@ -4474,11 +4504,11 @@ VI - Informações relativas a determinadas rubricas:
 
 Activo bruto
 
-[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2000/09/218b00/49765054.pdf)
+[[[[[[[[[[[[[[[[[[[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2000/09/218b00/49765054.pdf)](https://files.diariodarepublica.pt/1s/2000/09/218b00/49765054.pdf)](https://files.diariodarepublica.pt/1s/2000/09/218b00/49765054.pdf)](https://files.diariodarepublica.pt/1s/2000/09/218b00/49765054.pdf)](https://files.diariodarepublica.pt/1s/2000/09/218b00/49765054.pdf)](https://files.diariodarepublica.pt/1s/2000/09/218b00/49765054.pdf)](https://files.diariodarepublica.pt/1s/2000/09/218b00/49765054.pdf)](https://files.diariodarepublica.pt/1s/2000/09/218b00/49765054.pdf)](https://files.diariodarepublica.pt/1s/2000/09/218b00/49765054.pdf)](https://files.diariodarepublica.pt/1s/2000/09/218b00/49765054.pdf)](https://files.diariodarepublica.pt/1s/2000/09/218b00/49765054.pdf)](https://files.diariodarepublica.pt/1s/2000/09/218b00/49765054.pdf)](https://files.diariodarepublica.pt/1s/2000/09/218b00/49765054.pdf)](https://files.diariodarepublica.pt/1s/2000/09/218b00/49765054.pdf)](https://files.diariodarepublica.pt/1s/2000/09/218b00/49765054.pdf)](https://files.diariodarepublica.pt/1s/2000/09/218b00/49765054.pdf)](https://files.diariodarepublica.pt/1s/2000/09/218b00/49765054.pdf)](https://files.diariodarepublica.pt/1s/2000/09/218b00/49765054.pdf)](https://files.diariodarepublica.pt/1s/2000/09/218b00/49765054.pdf)
 
 Amortizações e provisões
 
-[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2000/09/218b00/49765054.pdf)
+[[[[[[[[[[[[[[[[[[[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2000/09/218b00/49765054.pdf)](https://files.diariodarepublica.pt/1s/2000/09/218b00/49765054.pdf)](https://files.diariodarepublica.pt/1s/2000/09/218b00/49765054.pdf)](https://files.diariodarepublica.pt/1s/2000/09/218b00/49765054.pdf)](https://files.diariodarepublica.pt/1s/2000/09/218b00/49765054.pdf)](https://files.diariodarepublica.pt/1s/2000/09/218b00/49765054.pdf)](https://files.diariodarepublica.pt/1s/2000/09/218b00/49765054.pdf)](https://files.diariodarepublica.pt/1s/2000/09/218b00/49765054.pdf)](https://files.diariodarepublica.pt/1s/2000/09/218b00/49765054.pdf)](https://files.diariodarepublica.pt/1s/2000/09/218b00/49765054.pdf)](https://files.diariodarepublica.pt/1s/2000/09/218b00/49765054.pdf)](https://files.diariodarepublica.pt/1s/2000/09/218b00/49765054.pdf)](https://files.diariodarepublica.pt/1s/2000/09/218b00/49765054.pdf)](https://files.diariodarepublica.pt/1s/2000/09/218b00/49765054.pdf)](https://files.diariodarepublica.pt/1s/2000/09/218b00/49765054.pdf)](https://files.diariodarepublica.pt/1s/2000/09/218b00/49765054.pdf)](https://files.diariodarepublica.pt/1s/2000/09/218b00/49765054.pdf)](https://files.diariodarepublica.pt/1s/2000/09/218b00/49765054.pdf)](https://files.diariodarepublica.pt/1s/2000/09/218b00/49765054.pdf)
 
 23 - Indicação dos custos suportados no exercício e respeitantes a empréstimos obtidos para financiar imobilizações, durante a construção, que tenham sido capitalizados nesse período.
 
@@ -4514,21 +4544,21 @@ Informações adicionais quando tal valorimetria tiver influência materialmente
 
 Reavaliações
 
-[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2000/09/218b00/49765054.pdf)
+[[[[[[[[[[[[[[[[[[[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2000/09/218b00/49765054.pdf)](https://files.diariodarepublica.pt/1s/2000/09/218b00/49765054.pdf)](https://files.diariodarepublica.pt/1s/2000/09/218b00/49765054.pdf)](https://files.diariodarepublica.pt/1s/2000/09/218b00/49765054.pdf)](https://files.diariodarepublica.pt/1s/2000/09/218b00/49765054.pdf)](https://files.diariodarepublica.pt/1s/2000/09/218b00/49765054.pdf)](https://files.diariodarepublica.pt/1s/2000/09/218b00/49765054.pdf)](https://files.diariodarepublica.pt/1s/2000/09/218b00/49765054.pdf)](https://files.diariodarepublica.pt/1s/2000/09/218b00/49765054.pdf)](https://files.diariodarepublica.pt/1s/2000/09/218b00/49765054.pdf)](https://files.diariodarepublica.pt/1s/2000/09/218b00/49765054.pdf)](https://files.diariodarepublica.pt/1s/2000/09/218b00/49765054.pdf)](https://files.diariodarepublica.pt/1s/2000/09/218b00/49765054.pdf)](https://files.diariodarepublica.pt/1s/2000/09/218b00/49765054.pdf)](https://files.diariodarepublica.pt/1s/2000/09/218b00/49765054.pdf)](https://files.diariodarepublica.pt/1s/2000/09/218b00/49765054.pdf)](https://files.diariodarepublica.pt/1s/2000/09/218b00/49765054.pdf)](https://files.diariodarepublica.pt/1s/2000/09/218b00/49765054.pdf)](https://files.diariodarepublica.pt/1s/2000/09/218b00/49765054.pdf)
 
 38 - Indicação e comentário das contas de balanço e da demonstração dos resultados consolidados cujos conteúdos não sejam comparáveis com os do exercício anterior.
 
 39 - Demonstração consolidada dos resultados financeiros, como se segue.
 
-[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2000/09/218b00/49765054.pdf)
+[[[[[[[[[[[[[[[[[[[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2000/09/218b00/49765054.pdf)](https://files.diariodarepublica.pt/1s/2000/09/218b00/49765054.pdf)](https://files.diariodarepublica.pt/1s/2000/09/218b00/49765054.pdf)](https://files.diariodarepublica.pt/1s/2000/09/218b00/49765054.pdf)](https://files.diariodarepublica.pt/1s/2000/09/218b00/49765054.pdf)](https://files.diariodarepublica.pt/1s/2000/09/218b00/49765054.pdf)](https://files.diariodarepublica.pt/1s/2000/09/218b00/49765054.pdf)](https://files.diariodarepublica.pt/1s/2000/09/218b00/49765054.pdf)](https://files.diariodarepublica.pt/1s/2000/09/218b00/49765054.pdf)](https://files.diariodarepublica.pt/1s/2000/09/218b00/49765054.pdf)](https://files.diariodarepublica.pt/1s/2000/09/218b00/49765054.pdf)](https://files.diariodarepublica.pt/1s/2000/09/218b00/49765054.pdf)](https://files.diariodarepublica.pt/1s/2000/09/218b00/49765054.pdf)](https://files.diariodarepublica.pt/1s/2000/09/218b00/49765054.pdf)](https://files.diariodarepublica.pt/1s/2000/09/218b00/49765054.pdf)](https://files.diariodarepublica.pt/1s/2000/09/218b00/49765054.pdf)](https://files.diariodarepublica.pt/1s/2000/09/218b00/49765054.pdf)](https://files.diariodarepublica.pt/1s/2000/09/218b00/49765054.pdf)](https://files.diariodarepublica.pt/1s/2000/09/218b00/49765054.pdf)
 
 40 - Demonstração consolidada dos resultados extraordinários, como segue:
 
-[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2000/09/218b00/49765054.pdf)
+[[[[[[[[[[[[[[[[[[[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2000/09/218b00/49765054.pdf)](https://files.diariodarepublica.pt/1s/2000/09/218b00/49765054.pdf)](https://files.diariodarepublica.pt/1s/2000/09/218b00/49765054.pdf)](https://files.diariodarepublica.pt/1s/2000/09/218b00/49765054.pdf)](https://files.diariodarepublica.pt/1s/2000/09/218b00/49765054.pdf)](https://files.diariodarepublica.pt/1s/2000/09/218b00/49765054.pdf)](https://files.diariodarepublica.pt/1s/2000/09/218b00/49765054.pdf)](https://files.diariodarepublica.pt/1s/2000/09/218b00/49765054.pdf)](https://files.diariodarepublica.pt/1s/2000/09/218b00/49765054.pdf)](https://files.diariodarepublica.pt/1s/2000/09/218b00/49765054.pdf)](https://files.diariodarepublica.pt/1s/2000/09/218b00/49765054.pdf)](https://files.diariodarepublica.pt/1s/2000/09/218b00/49765054.pdf)](https://files.diariodarepublica.pt/1s/2000/09/218b00/49765054.pdf)](https://files.diariodarepublica.pt/1s/2000/09/218b00/49765054.pdf)](https://files.diariodarepublica.pt/1s/2000/09/218b00/49765054.pdf)](https://files.diariodarepublica.pt/1s/2000/09/218b00/49765054.pdf)](https://files.diariodarepublica.pt/1s/2000/09/218b00/49765054.pdf)](https://files.diariodarepublica.pt/1s/2000/09/218b00/49765054.pdf)](https://files.diariodarepublica.pt/1s/2000/09/218b00/49765054.pdf)
 
 41 - Desdobramento das contas de provisões acumuladas e explicitação dos movimentos ocorridos no exercício, de acordo com um quadro do seguinte tipo:
 
-[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2000/09/218b00/49765054.pdf)
+[[[[[[[[[[[[[[[[[[[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2000/09/218b00/49765054.pdf)](https://files.diariodarepublica.pt/1s/2000/09/218b00/49765054.pdf)](https://files.diariodarepublica.pt/1s/2000/09/218b00/49765054.pdf)](https://files.diariodarepublica.pt/1s/2000/09/218b00/49765054.pdf)](https://files.diariodarepublica.pt/1s/2000/09/218b00/49765054.pdf)](https://files.diariodarepublica.pt/1s/2000/09/218b00/49765054.pdf)](https://files.diariodarepublica.pt/1s/2000/09/218b00/49765054.pdf)](https://files.diariodarepublica.pt/1s/2000/09/218b00/49765054.pdf)](https://files.diariodarepublica.pt/1s/2000/09/218b00/49765054.pdf)](https://files.diariodarepublica.pt/1s/2000/09/218b00/49765054.pdf)](https://files.diariodarepublica.pt/1s/2000/09/218b00/49765054.pdf)](https://files.diariodarepublica.pt/1s/2000/09/218b00/49765054.pdf)](https://files.diariodarepublica.pt/1s/2000/09/218b00/49765054.pdf)](https://files.diariodarepublica.pt/1s/2000/09/218b00/49765054.pdf)](https://files.diariodarepublica.pt/1s/2000/09/218b00/49765054.pdf)](https://files.diariodarepublica.pt/1s/2000/09/218b00/49765054.pdf)](https://files.diariodarepublica.pt/1s/2000/09/218b00/49765054.pdf)](https://files.diariodarepublica.pt/1s/2000/09/218b00/49765054.pdf)](https://files.diariodarepublica.pt/1s/2000/09/218b00/49765054.pdf)
 
 42 - Indicação dos bens utilizados no regime de locação financeira, com menção dos respectivos valores contabilísticos.
 

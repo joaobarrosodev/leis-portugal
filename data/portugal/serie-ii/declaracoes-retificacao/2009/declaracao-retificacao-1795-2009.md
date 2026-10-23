@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/2s/2009/07/143000000/2979429794.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -46,18 +46,18 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/declaracao-rectificacao/1795-2009-3516501
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2009-07-27T00:00:00Z'
+  retrieved_at: '2026-10-23T14:03:13Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 73e4361bda1b92f554f28440495188f3e69b1c6def417e3b7f48cf5a8b29eb10
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 06d66e0522443e4d28a5212ab7325ab87b7b5a963a09200c1252bbf5b513b616
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T14:03:13Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -70,24 +70,30 @@ relationships:
   target: celex:31985R3820
   label: null
   source: null
+- type: cites
+  target: pt:dre:584397:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T14:03:13Z'
   warnings: []
   errors: []
 ---
 
-# Declaração de Rectificação n.º 1795/2009
+# Declaração de rectificação n.º 1795/2009
 
 O aviso n.º 12238/2009, relativo ao Procedimento Concursal comum de recrutamento para o preenchimento de um posto de trabalho de técnico superior, publicado no Diário da República, 2.ª Série, n.º 132, de 10/07/2009, saiu com algumas inexactidões.
 
 Assim, onde se lê "... Dec-Lei n.º 103/2008..." deve ler-se "... [Decreto-Lei n.º 50/2005](https://diariodarepublica.pt/dr/detalhe/decreto-lei/50-2005-584397)...", e deve ser retirado do programa da prova o "Regulamento (CEE) n.º 3820/85 - Regula os tempos de condução e descanso diário e semanal do motorista".
 
 15 de Julho de 2009. - O Presidente da Câmara, Nelson Augusto Marques de Carvalho.
+
+302068832

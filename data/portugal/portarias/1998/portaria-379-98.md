@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1998/07/150b00/29522953.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/379/1998/07/02/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/379-1998-489058
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2015-09-17T00:00:00Z'
+  retrieved_at: '2026-10-23T14:08:30Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 6989d08e4a4c3eb1309eb8eb0a0e3d4d1c8caceeaf553691a4157624d699f98e
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: f2b3a44a4a44ce6e01ee5e3c8904eca2252f657470da227621943448f4fac5d5
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T14:08:30Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -80,16 +80,21 @@ relationships:
   target: celex:31983L0189
   label: null
   source: http://data.europa.eu/eli/dir/1983/189/oj
+- type: repealed_by
+  target: pt:dre:70300350:por
+  label: Revogada a partir de 15.01.2016 pelo(a) Decreto-Lei n.º 203/2015 - Diário da República n.º 182/2015, Série I de 2015-09-17
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/203-2015-70300350
+  date: '2015-09-17'
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T14:08:30Z'
   warnings: []
   errors: []
 ---
@@ -112,9 +117,9 @@ Assim, manda o Governo, pelos Ministros da Economia e Adjunto do Primeiro-Minist
 
 Presidência do Conselho de Ministros e Ministério da Economia.
 
-**Assinada em 1 de Junho de 1998.**
+Assinada em 1 de Junho de 1998.
 
-**O Ministro da Economia, Joaquim Augusto Nunes de Pina Moura. - O Ministro Adjunto do Primeiro-Ministro, José Sócrates Carvalho Pinto de Sousa.**
+O Ministro da Economia, Joaquim Augusto Nunes de Pina Moura. - O Ministro Adjunto do Primeiro-Ministro, José Sócrates Carvalho Pinto de Sousa.
 
 ## ANEXO
 
@@ -122,30 +127,30 @@ Lista de normativos europeus, projectos normativos europeus e outras especifica�
 
 Projecto EN 1176-1 - Equipamento de espaço de jogo:
 
-# Parte 1: requisitos gerais de segurança e métodos de ensaio.
+Parte 1: requisitos gerais de segurança e métodos de ensaio.
 
 Projecto EN 1176-2 - Equipamento de espaço de jogo:
 
-# Parte 2: requisitos adicionais de segurança e métodos de ensaio para baloiços.
+Parte 2: requisitos adicionais de segurança e métodos de ensaio para baloiços.
 
 Projecto EN 1176-3 - Equipamento de espaço de jogo:
 
-# Parte 3: requisitos adicionais de segurança e métodos de ensaio para escorregas.
+Parte 3: requisitos adicionais de segurança e métodos de ensaio para escorregas.
 
 Projecto EN 1176-4 - Equipamento de espaço de jogo:
 
-# Parte 4: requisitos adicionais de segurança e métodos de ensaio para teleféricos.
+Parte 4: requisitos adicionais de segurança e métodos de ensaio para teleféricos.
 
 Projecto EN 1176-5 - Equipamento de espaço de jogo:
 
-# Parte 5: requisitos adicionais de segurança e métodos de ensaio para carrosséis.
+Parte 5: requisitos adicionais de segurança e métodos de ensaio para carrosséis.
 
 Projecto EN 1176-6 - Equipamento de espaço de jogo:
 
-# Parte 6: requisitos adicionais de segurança e métodos de ensaio para gangorras.
+Parte 6: requisitos adicionais de segurança e métodos de ensaio para gangorras.
 
 EN 1176-7: 1997 - Equipamento de espaço de jogo:
 
-# Parte 7: orientações sobre instalação, inspecção, manutenção e funcionamento.
+Parte 7: orientações sobre instalação, inspecção, manutenção e funcionamento.
 
 EN 1177: 1997 - Superfície de impacte: especificações, requisitos e métodos de ensaio.

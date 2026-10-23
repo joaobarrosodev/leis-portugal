@@ -48,18 +48,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/704/1998/09/04/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/704-1998-567688
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1998-09-04T00:00:00Z'
+  retrieved_at: '2026-10-23T14:10:41Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: d7e4ea34d3987166ab5486a860619025d29b3d5cea1adf3e2e2a0960cdb97d95
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 9ee29b2d059ca2b81a5c1f9b45cb8b0f6632fd5dd1cbd831c9ccae50d4c7fbf8
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T14:10:41Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -69,9 +69,9 @@ reuse:
 subjects:
 - Concurso
 - Ensino Oficial
+- Ensino Superior
 - Escola Portuguesa de Bissau
 - Estudante
-- Ensino Superior
 relationships:
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/28-b/1996/04/04/p/dre
@@ -93,16 +93,36 @@ relationships:
   target: eli:http://data.dre.pt/eli/port/53/1998/02/04/p/dre
   label: null
   source: http://data.dre.pt/eli/port/53/1998/02/04/p/dre
+- type: cites
+  target: pt:dre:218523:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:223991:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:314396:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:484819:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:526782:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T14:10:41Z'
   warnings: []
   errors: []
 ---
@@ -181,6 +201,6 @@ Esta portaria entra em vigor no dia imediato ao da sua publicação.
 
 Ministério da Educação.
 
-**Assinada em 7 de Agosto de 1998.**
+Assinada em 7 de Agosto de 1998.
 
 Pelo Ministro da Educação, Alfredo Jorge Silva, Secretário de Estado do Ensino Superior.

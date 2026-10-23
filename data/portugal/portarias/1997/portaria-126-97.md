@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/126/1997/02/21/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/126-1997-506805
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1997-02-21T00:00:00Z'
+  retrieved_at: '2026-10-23T14:00:33Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: d96394bc036443f6dccf6d83228ef3c624677caf77e3d2fc46796f1837b149b8
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: d7234b48b6ec277c5ef469b2edd1622498735698518e8a2dea08dae68bafb04c
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T14:00:33Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,8 +67,8 @@ reuse:
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
 - Batata
-- Importação
 - Canadá
+- Importação
 relationships:
 - type: cites
   target: celex:31997D0089
@@ -77,13 +77,13 @@ relationships:
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T14:00:33Z'
   warnings: []
   errors: []
 ---
@@ -136,6 +136,6 @@ c) Só poderá ser comercializada noutros Estados membros após autorização of
 
 Ministério da Agricultura, do Desenvolvimento Rural e das Pescas.
 
-**Assinada em 6 de Fevereiro de 1997.**
+Assinada em 6 de Fevereiro de 1997.
 
 Pelo Ministro da Agricultura, do Desenvolvimento Rural e das Pescas, Manuel Maria Cardoso Leal, Secretário de Estado da Produção Agro-Alimentar.

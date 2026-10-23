@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/2s/2009/08/166000000/3483934839.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -46,18 +46,18 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/declaracao-rectificacao/2095-2009-1664015
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2009-08-27T00:00:00Z'
+  retrieved_at: '2026-10-23T14:05:03Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 6ca302b34ec68f1657ca124972345f7d1f08cd520ab03aa3940c9e41b53d0258
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: c24e63895c83fef00b845a6565008c29a1ce7e850cfbc260d5cd6fa8cfd5ca8b
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T14:05:03Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -65,25 +65,31 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects: []
-relationships: []
+relationships:
+- type: cites
+  target: pt:dre:454796:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T14:05:03Z'
   warnings: []
   errors: []
 ---
 
-# Declaração de Rectificação n.º 2095/2009
+# Declaração de rectificação n.º 2095/2009
 
 Foi publicado no Diário da República, 2.ª série, n.º 156, de 13 de Agosto de 2009, o contrato n.º 250/2009, outorgado entre o Ministério da Educação e o Município de Monção, que define as condições de transferência, para o Município das atribuições a que se referem as alíneas a), c) e d) do artigo 2.º do [Decreto-Lei n.º 144/2008](https://diariodarepublica.pt/dr/detalhe/decreto-lei/144-2008-454796), de 28 de Julho, com a seguinte inexactidão, que ora se rectifica.
 
 Assim, na nota ao n.º 1 do anexo n.º 3 onde se lê «O edifício da ex-EBI de Pias passa para a posse da Câmara Municipal de Melgaço.» deve ler-se «O edifício da ex-EBI de Pias passa para a posse da Câmara Municipal de Monção.».
 
 17 de Agosto de 2009. - A Chefe de Gabinete da Ministra da Educação, Maria José Morgado.
+
+202218909

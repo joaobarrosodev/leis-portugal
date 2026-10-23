@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/345/1999/05/14/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/345-1999-322517
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1999-05-14T00:00:00Z'
+  retrieved_at: '2026-10-23T14:14:47Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: bf51fd403eb336cbc34e092969f86e4b8b6fe50dfb1780eca3f7b9ad51a5ac22
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 67a80a63b0158cf4d5615b2b6bfbd14c6c17eff254b5e7283fd2f469720d04fd
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T14:14:47Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -69,17 +69,21 @@ subjects:
 - Alcoutim
 - CAÇA
 - ZONA de CAÇA
-relationships: []
+relationships:
+- type: cites
+  target: pt:dre:556779:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T14:14:47Z'
   warnings: []
   errors: []
 ---
@@ -100,6 +104,6 @@ Manda o Governo, pelos Ministros da Economia e da Agricultura, do Desenvolviment
 
 2.º A URBALGARVE II - Turismo e Construções, S. A., está registada com o número de pessoa colectiva 500072949 e tem a sua sede na Urbanização das Amendoeiras, lote 23, 1.º, Vila Real de Santo António.
 
-**Assinada em 20 de Abril de 1999.**
+Assinada em 20 de Abril de 1999.
 
 Pelo Ministro da Economia, Vítor José Cabrita Neto, Secretário de Estado do Turismo. - Pelo Ministro da Agricultura, do Desenvolvimento Rural e das Pescas, Victor Manuel Coelho Barros, Secretário de Estado do Desenvolvimento Rural.

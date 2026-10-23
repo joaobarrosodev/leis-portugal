@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1997/09/210b00/48534859.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/922/1997/09/11/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/922-1997-650110
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2000-05-25T00:00:00Z'
+  retrieved_at: '2026-10-23T14:05:49Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 9a088c546c338f3047ec43eadd9cea7eb344a4d5605d5381abb4ceeda8902243
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: b9a4d0d109fdba05b9a3a348a0508a2e309395be759a2ae321ad61e29fc7f94d
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T14:05:49Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -65,11 +65,11 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Produto Alimentar
-- Etiquetagem
 - Aditivo Alimentar
-- Indústria Alimentar
 - Comércio
+- Etiquetagem
+- Indústria Alimentar
+- Produto Alimentar
 relationships:
 - type: amended_by
   target: pt:dre:292112:por
@@ -83,16 +83,21 @@ relationships:
   target: celex:31995L0031
   label: null
   source: http://data.europa.eu/eli/dir/1995/31/oj
+- type: repealed_by
+  target: pt:dre:292112:por
+  label: "Revogada pelo DEC LEI.98/2000.2000.05.25.MADRP,DR.IS-A [121]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/98-2000-292112
+  date: '2000-05-25'
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T14:05:49Z'
   warnings: []
   errors: []
 ---
@@ -119,7 +124,7 @@ Manda o Governo, pelos Ministros da Agricultura, do Desenvolvimento Rural e das 
 
 Ministérios da Agricultura, do Desenvolvimento Rural e das Pescas, da Saúde e do Ambiente.
 
-**Assinada em 14 de Agosto de 1997.**
+Assinada em 14 de Agosto de 1997.
 
 Pelo Ministro da Agricultura, do Desenvolvimento Rural e das Pescas, Manuel Maria Cardoso Leal, Secretário de Estado da Produção Agro-Alimentar. - A Ministra da Saúde, Maria de Belém Roseira Martins Coelho Henriques de Pina. - Pela Ministra do Ambiente, José Sócrates Carvalho Pinto de Sousa, Secretário de Estado Adjunto da Ministra do Ambiente.
 

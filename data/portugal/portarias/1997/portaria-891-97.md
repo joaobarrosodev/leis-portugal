@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/891/1997/09/10/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/891-1997-644507
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1997-09-10T00:00:00Z'
+  retrieved_at: '2026-10-23T14:05:38Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: b31d698934d17add86b04c3b37bd375abc96866f7e56745be693143fb849f887
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: d9c25463afd2135f281c2f2adad601b056a33f27591e8629685cb995c417a172
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T14:05:38Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -85,16 +85,56 @@ relationships:
   target: eli:http://data.dre.pt/eli/port/695/1995/06/30/p/dre
   label: null
   source: http://data.dre.pt/eli/port/695/1995/06/30/p/dre
+- type: cites
+  target: pt:dre:138480:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:331852:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:332425:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:405373:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:476721:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:506396:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:513633:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:548210:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:575143:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:575713:por
+  label: null
+  source: null
 article_structure:
   article_count: 44
   section_count: 26
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T14:05:38Z'
   warnings: []
   errors: []
 ---
@@ -115,7 +155,7 @@ Manda o Governo, pela Ministra da Saúde, que seja aprovado o Regulamento Intern
 
 Ministério da Saúde.
 
-**Assinada em 11 de Agosto de 1997.**
+Assinada em 11 de Agosto de 1997.
 
 Pela Ministra da Saúde, José Eduardo Arcos Gomes dos Reis, Secretário de Estado da Saúde.
 

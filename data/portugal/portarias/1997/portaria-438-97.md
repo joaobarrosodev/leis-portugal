@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/438/1997/07/03/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/438-1997-156389
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2003-07-16T00:00:00Z'
+  retrieved_at: '2026-10-23T14:02:48Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: e0e81249b4804755395f8166be6d838e7a1556f21ce81209ba6d972ae23bf456
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 2bca08260b563a5cbb8af4cf5e677ce2116c09e8df062581b0238a68c179bc46
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T14:02:48Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -74,20 +74,34 @@ relationships:
   target: pt:dre:671220:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:671220:por
+  label: "Alterado o quadro de pessoal do Hospital de São José constante do anexo I da Port 598/93 de 23-Jun, com a redacção\
+    \ deste diploma, pela PORT.559/2003.2003.07.16.MF DR.IS-B [162]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/559-2003-671220
+  date: '2003-07-16'
 - type: cites
   target: eli:http://data.dre.pt/eli/port/598/1993/06/23/p/dre
   label: null
   source: http://data.dre.pt/eli/port/598/1993/06/23/p/dre
+- type: cites
+  target: pt:dre:267668:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:505986:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T14:02:48Z'
   warnings: []
   errors: []
 ---
@@ -106,10 +120,10 @@ Manda o Governo, pelos Ministros das Finanças, da Saúde e Adjunto, que o quadr
 
 Presidência do Conselho de Ministros e Ministérios das Finanças e da Saúde.
 
-**Assinada em 30 de Maio de 1997.**
+Assinada em 30 de Maio de 1997.
 
 Pelo Ministro das Finanças, Maria Manuela de Brito Arcanjo Marques da Costa, Secretária de Estado do Orçamento. - A Ministra da Saúde, Maria de Belém Roseira Martins Coelho Henriques de Pina. - Pelo Ministro Adjunto, Fausto de Sousa Correia, Secretário de Estado da Administração Pública.
 
 ## ANEXO — Quadro de pessoal do Hospital de São José
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1997/07/151b00/32593259.pdf))](https://files.diariodarepublica.pt/1s/1997/07/151b00/32593259.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1997/07/151b00/32593259.pdf)

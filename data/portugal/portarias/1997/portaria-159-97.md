@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/159/1997/03/05/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/159-1997-512656
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2002-03-21T00:00:00Z'
+  retrieved_at: '2026-10-23T14:01:02Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: b84e12c51499952b09d3e30f7047b4314b323abbb598396434fb6c0edd11dba5
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 883afc96d51afe112bd512b8e0e98b7088e9c0d7013d6fb02b806ec0d72c7636
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T14:01:02Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -65,18 +65,31 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Financiamento
+- Cinema
 - Concurso Público
+- Financiamento
+- Indústria Cinematográfica
 - Produção Cinematográfica
 - Regulamento
-- Cinema
-- Indústria Cinematográfica
 - Subsídio não Reembolsável
 relationships:
 - type: amended_by
   target: pt:dre:263039:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:193582:por
+  label: "Mantida em vigor pelo DEC LEI.15/99.1999.01.15.MC DR.IS-A [12], até à aprovação das respectivas normas de execução.\0\
+    \0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/15-1999-193582
+  date: '1999-01-15'
+- type: amended_by
+  target: pt:dre:263039:por
+  label: "Tornado extensivo para o ano de 2002 e para efeitos de apoio financeiro aos filmes estreados durante o ano de 2001,\
+    \ o disposto no Regulamento de Apoio Financeiro Automático à Produção Cinematográfica, aprovado pela Port 45-D/95 de 19-Jan,\
+    \ com a redacção do presente diploma, pela PORT.310/2002.2002.03.21.MC DR.IS-B [68]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/310-2002-263039
+  date: '2002-03-21'
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/350/1993/10/07/p/dre
   label: null
@@ -85,16 +98,30 @@ relationships:
   target: eli:http://data.dre.pt/eli/port/45-d/1995/01/19/p/dre
   label: null
   source: http://data.dre.pt/eli/port/45-d/1995/01/19/p/dre
+- type: cites
+  target: pt:dre:553415:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:645305:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:281801:por
+  label: "Revogado o art. 3º da Port 45-D/95 de 19-Jan, com a redacção do presente diploma, pela PORT.1042-A/98.1998.12.21.MC\
+    \ DR.IS-B [293]Supl\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/1042-a-1998-281801
+  date: '1998-12-21'
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T14:01:02Z'
   warnings: []
   errors: []
 ---
@@ -129,6 +156,6 @@ c) O valor, devidamente comprovado, da receita mínima a que se refere o n.º 1 
 
 Ministério da Cultura.
 
-**Assinada em 13 de Fevereiro de 1997.**
+Assinada em 13 de Fevereiro de 1997.
 
-**O Ministro da Cultura, Manuel Maria Ferreira Carrilho.**
+O Ministro da Cultura, Manuel Maria Ferreira Carrilho.

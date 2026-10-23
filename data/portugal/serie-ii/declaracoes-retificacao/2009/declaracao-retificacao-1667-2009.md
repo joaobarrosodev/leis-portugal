@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/2s/2009/07/131000000/2706327063.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -47,18 +47,18 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/declaracao-rectificacao/1667-2009-2925619
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2009-07-09T00:00:00Z'
+  retrieved_at: '2026-10-23T14:02:28Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: c823db2442ea9bf3daf13977125a1f06bf7d9c072b3dbaca6770b8a4f18f2e7e
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: adafa7385f7f0aa8a0277b9023dde9364a3f8833f36ed286f108a4f44e94d399
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T14:02:28Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -70,13 +70,13 @@ relationships: []
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T14:02:28Z'
   warnings: []
   errors: []
 ---
@@ -92,3 +92,5 @@ Por ter saído com inexactidão, na Bolsa de Emprego Público, na oferta de empr
 2 - No que concerne à Composição do júri, nomeadamente aos dois (2) vogais que constituem o referido júri, onde se lê "Dra. Isabel Maria Neves Madeira, da Direcção-Geral de Pessoal e Recrutamento Militar e, Prof. Doutora Maria José Fernandes, do Instituto Politécnico do Cávado e do Ave", deve ler-se "Mestre Olga Maria Pacheco Silveira, da Faculdade de Ciências da Universidade de Lisboa e, Prof. Doutor José Carlos Gomes dos Santos, do Instituto Superior de Economia e Gestão da Universidade Técnica de Lisboa", ficando salvaguardadas todas as candidaturas que entretanto deram entrada.
 
 29 de Junho de 2009. - O Vice-Presidente, Artur Lami.
+
+201990465

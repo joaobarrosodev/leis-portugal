@@ -20,12 +20,12 @@ publication:
   reference: Diário da República n.º 86/2000, 1º Suplemento, Série I-B de 2000-04-11
   number: '86'
   series: I
-  supplement: 1º Suplemento
+  supplement: null
   pages: 1540-(2) a 1540-(3)
   pdf_url: https://files.diariodarepublica.pt/1s/2000/04/086b01/00020003.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/217-a/2000/04/11/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/217-a-2000-401289
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2002-01-31T00:00:00Z'
+  retrieved_at: '2026-10-23T14:22:11Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: bf1ede55aad6a35fcbf5dd7ca2b8f1d19915a49988099f44001b61fa9fd9808f
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: f03c203f9625d6a941ff524ef8068613b50630b8261a0d4c74842fc6f7370f50
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T14:22:11Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,21 +66,56 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Imposto sobre Produtos Petrolíferos
-- Petróleo
-- Produto Petrolífero
 - Combustível
+- Contribuições e Impostos
 - Fuelóleo
 - Gasóleo
 - Gasolina
-- Contribuições e Impostos
+- Imposto sobre Produtos Petrolíferos
 - ÓLEO Mineral
+- Petróleo
+- Produto Petrolífero
 - Taxa
 relationships:
 - type: amended_by
   target: pt:dre:276434:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:438223:por
+  label: "Alterado o n.º 1 pela PORT.224-A/2000.2000.04.26.MF DR.IS-B [97]SUPL\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/224-a-2000-438223
+  date: '2000-04-26'
+- type: amended_by
+  target: pt:dre:554375:por
+  label: "Alterada a redacção do nº 1 pela PORT.249-A/2000.2000.05.10.MF, DR.IS-B [108]2ºSupl\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/249-a-2000-554375
+  date: '2000-05-10'
+- type: amended_by
+  target: pt:dre:263496:por
+  label: "Alterada a redacção do nº 1 pela PORT.322-A/2000.2000.06.07.MF, DR.IS-B [132] de 07/Jun/2000\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/322-a-2000-263496
+  date: '2000-06-07'
+- type: amended_by
+  target: pt:dre:283916:por
+  label: "Alterado o nº 1 pela PORT.363-A/2000.2000.06.21.MF, DR.IS-B [142]SUPL\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/363-a-2000-283916
+  date: '2000-06-21'
+- type: amended_by
+  target: pt:dre:468794:por
+  label: "Alterado o nº 1º pela PORT.388-A/2000.2000.07.05.MF DR.IS-B [153]Supl\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/388-a-2000-468794
+  date: '2000-07-05'
+- type: amended_by
+  target: pt:dre:319770:por
+  label: "Alterada a redacção do nº 1 pela PORT.1446-A/2001.2001.12.21.MF, DR.IS-B [294]Supl\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/1446-a-2001-319770
+  date: '2001-12-21'
+- type: amended_by
+  target: pt:dre:319117:por
+  label: "Alterado o nº 6º pela PORT.1467-E/2001.2001.12.31.MF DR.IS-B [301]5º Supl\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/1467-e-2001-319117
+  date: '2001-12-31'
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/566/1999/12/22/p/dre
   label: null
@@ -97,16 +132,37 @@ relationships:
   target: eli:http://data.dre.pt/eli/port/53-a/1998/02/04/p/dre
   label: null
   source: http://data.dre.pt/eli/port/53-a/1998/02/04/p/dre
+- type: cites
+  target: pt:dre:265565:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:406336:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:662084:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:679669:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:276434:por
+  label: "Revogada pela PORT.98/2002.2002.01.31.MF DR.IS-B [26]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/98-2002-276434
+  date: '2002-01-31'
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T14:22:11Z'
   warnings: []
   errors: []
 ---
@@ -147,4 +203,4 @@ Manda o Governo, pelos Ministros das Finanças e da Economia, em cumprimento do 
 
 Em 11 de Abril de 2000.
 
-**O Ministro das Finanças, Joaquim Augusto Nunes Pina Moura. - O Ministro da Economia, Joaquim Augusto Nunes Pina Moura.**
+O Ministro das Finanças, Joaquim Augusto Nunes Pina Moura. - O Ministro da Economia, Joaquim Augusto Nunes Pina Moura.

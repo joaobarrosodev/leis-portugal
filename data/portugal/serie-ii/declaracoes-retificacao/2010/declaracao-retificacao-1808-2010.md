@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/2s/2010/09/171000000/4592545925.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -46,18 +46,18 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/declaracao-rectificacao/1808-2010-3137069
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2010-09-02T00:00:00Z'
+  retrieved_at: '2026-10-23T14:19:49Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: aa6a270b6da8612eb493b3dbc62d0153db3451211798bbae619895ec4e290d8c
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 12d007d8141199cd86dbd0c758220a86d0e44b0cd0195909f98cfb0aa9c124db
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T14:19:49Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -69,13 +69,13 @@ relationships: []
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T14:19:49Z'
   warnings: []
   errors: []
 ---
@@ -89,3 +89,5 @@ O aviso n.º 16834/2010, inserto no Diário da República, 2.ª série, n.º 164
 Assim, no n.º 15, onde se lê «A candidatura deve ser entregue, no prazo de 10 dias úteis contados da data da publicação na 2.ª série do Diário da República (artigo 26.º da Portaria).» deve ler-se «A candidatura deve ser entregue, no prazo de 10 dias úteis contados da data da publicação na 2.ª série do Diário da República (artigo 26.º da portaria). A candidatura deverá ser acompanhada dos seguintes documentos, sob pena de exclusão: currículo profissional do candidato; fotocópia do bilhete de identidade/cartão do cidadão; fotocópia do cartão de contribuinte; fotocópia dos documentos comprovativos das acções de formação profissional, com indicação da entidade que as promoveu, período em que as mesmas decorreram e respectiva duração; declaração emitida pelo serviço a que o candidato pertence devidamente autenticada e actualizada, da qual conste, de maneira inequívoca a modalidade de relação jurídica de emprego público, quando exista, a antiguidade na carreira e no exercício de funções públicas: declaração actualizada com descrição detalhada das tarefas e responsabilidades inerentes ao posto de trabalho ocupada pelo candidato, com vista à apreciação do conteúdo funcional, quando exista, emitida pelo serviço em que exerce funções com identificação da respectiva data de início; fotocópias das fichas de avaliação de desempenho reportadas aos últimos três anos (se for caso disso); outros documentos comprovativos das situações invocadas pelos candidatos susceptíveis de influírem na avaliação.».
 
 24 de Agosto de 2010. - O Presidente da Câmara, José Manuel Caldeira Santos.
+
+303629881

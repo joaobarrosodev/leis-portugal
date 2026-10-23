@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/93/2000/02/22/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/93-2000-413637
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2000-12-04T00:00:00Z'
+  retrieved_at: '2026-10-23T14:26:52Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 195054fbcbe5d264c6d65e14b555ca09d795b25d52a89d128173a52390154ed9
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 4eb463df9c6a08dab84fc900f558b77e511becdee66081fcd5aed96ea5e67251
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T14:26:52Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,17 +66,22 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Plano de Estudos
 - Curso de Complemento de Formação em Enfermagem
 - Ensino Superior Politécnico
 - Formação Complementar
 - Licenciatura
 - Pessoal de Enfermagem
+- Plano de Estudos
 relationships:
 - type: amended_by
   target: pt:dre:598695:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:598695:por
+  label: "Alterado o anexo pela PORT.1151/2000.2000.12.04.ME, DR.IS-B [279] de 04/Dez/2000\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/1151-2000-598695
+  date: '2000-12-04'
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/353/1999/09/03/p/dre
   label: null
@@ -85,16 +90,24 @@ relationships:
   target: eli:http://data.dre.pt/eli/port/799-e/1999/09/18/p/dre
   label: null
   source: http://data.dre.pt/eli/port/799-e/1999/09/18/p/dre
+- type: cites
+  target: pt:dre:581592:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:582195:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T14:26:52Z'
   warnings: []
   errors: []
 ---

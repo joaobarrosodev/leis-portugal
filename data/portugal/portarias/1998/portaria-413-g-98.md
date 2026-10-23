@@ -21,7 +21,7 @@ publication:
   reference: Diário da República n.º 163/1998, 3º Suplemento, Série I-B de 1998-07-17
   number: '163'
   series: I
-  supplement: 3º Suplemento
+  supplement: null
   pages: 3470-(25) a 3470-(37)
   pdf_url: https://files.diariodarepublica.pt/1s/1998/07/163b03/00250037.pdf
 entry_into_force_dates: []
@@ -48,18 +48,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/413-g/1998/07/17/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/413-g-1998-429595
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1998-07-17T00:00:00Z'
+  retrieved_at: '2026-10-23T14:08:45Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 6209c2a118a1c5d54d92186168012d7d7c09ff8a48c11ee38533471b56dcd14a
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 56f9ee5a4448efa00aba024226deb0aa9d6f875d98804bf30c0fbcd8807b8eed
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T14:08:45Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -68,37 +68,37 @@ reuse:
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
 - Angra do Heroísmo
+- Beja
+- Bragança
+- Castelo Branco
 - Chaves
+- Coimbra
 - Concurso Nacional de Acesso
+- Ensino Superior
 - Ensino Superior Politécnico
-- Universidade de Aveiro
-- Universidade NOVA de Lisboa
-- Universidade do Algarve
-- Lisboa
-- Universidade dos Açores
-- Universidade de Lisboa
+- Guarda
 - Instituto Politécnico
-- Universidade do Porto
 - Leiria
+- Lisboa
 - Miranda do Douro
 - Numerus Clausus
-- Setúbal
-- Beja
-- Castelo Branco
 - Ponta Delgada
-- Coimbra
 - Portalegre
-- Ensino Superior
-- Santarém
-- Bragança
-- Tomar
 - Porto
-- Guarda
+- Santarém
+- Setúbal
+- Tomar
 - Universidade da Madeira
+- Universidade de Aveiro
 - Universidade de Coimbra
 - Universidade de Évora
+- Universidade de Lisboa
 - Universidade de Trás-os-montes e ALTO Douro
+- Universidade do Algarve
 - Universidade do Minho
+- Universidade do Porto
+- Universidade dos Açores
+- Universidade NOVA de Lisboa
 - Universidade Técnica de Lisboa
 - Viana do Castelo
 - Viseu
@@ -111,16 +111,24 @@ relationships:
   target: eli:http://data.dre.pt/eli/dec-lei/75/1997/04/03/p/dre
   label: null
   source: http://data.dre.pt/eli/dec-lei/75/1997/04/03/p/dre
+- type: cites
+  target: pt:dre:314396:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:526782:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T14:08:45Z'
   warnings: []
   errors: []
 ---
@@ -159,7 +167,7 @@ Esta portaria entra em vigor no dia imediato ao da sua publicação.
 
 Ministério da Educação.
 
-**Assinada em 16 de Julho de 1998.**
+Assinada em 16 de Julho de 1998.
 
 Pelo Ministro da Educação, Alfredo Jorge Silva, Secretário de Estado do Ensino Superior.
 
@@ -171,11 +179,11 @@ Instituições tuteladas exclusivamente pelo Ministério da Educação
 
 I.1 - Universidades e escolas universitárias não integradas em universidade
 
-[(ver tabela no documento original)](https://files.diariodarepublica.pt/1s/1998/07/163b03/00250037.pdf)
+[[[(ver tabela no documento original)](https://files.diariodarepublica.pt/1s/1998/07/163b03/00250037.pdf)](https://files.diariodarepublica.pt/1s/1998/07/163b03/00250037.pdf)](https://files.diariodarepublica.pt/1s/1998/07/163b03/00250037.pdf)
 
 I.2 - Escolas superiores politécnicas
 
-[(ver tabela no documento original)](https://files.diariodarepublica.pt/1s/1998/07/163b03/00250037.pdf)
+[[[(ver tabela no documento original)](https://files.diariodarepublica.pt/1s/1998/07/163b03/00250037.pdf)](https://files.diariodarepublica.pt/1s/1998/07/163b03/00250037.pdf)](https://files.diariodarepublica.pt/1s/1998/07/163b03/00250037.pdf)
 
 ## ANEXO II — Vagas para o concurso nacional de acesso - 1998
 
@@ -183,4 +191,4 @@ Ensino Superior Público
 
 Instituições sujeitas a dupla tutela
 
-[(ver tabela no documento original)](https://files.diariodarepublica.pt/1s/1998/07/163b03/00250037.pdf)
+[[[(ver tabela no documento original)](https://files.diariodarepublica.pt/1s/1998/07/163b03/00250037.pdf)](https://files.diariodarepublica.pt/1s/1998/07/163b03/00250037.pdf)](https://files.diariodarepublica.pt/1s/1998/07/163b03/00250037.pdf)

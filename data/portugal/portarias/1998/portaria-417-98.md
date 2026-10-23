@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/417/1998/07/21/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/417-1998-424112
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1999-12-23T00:00:00Z'
+  retrieved_at: '2026-10-23T14:08:50Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 26e541f27276dde6ab25c34753e837d336c7d3658c761b18062f13f460037c0e
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: a118aff99439224601a34c5110c15cd12744e5e3917747586e85a45e697a720f
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T14:08:50Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,15 +66,15 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
+- Carreira Profissional
 - Carteira Profissional
+- Diploma
+- Estágio de Formação
+- Exame
 - Formação Profissional
+- Inscrição Marítima
 - Marinha Mercante
 - Pessoal do MAR
-- Diploma
-- Exame
-- Carreira Profissional
-- Inscrição Marítima
-- Estágio de Formação
 relationships:
 - type: amended_by
   target: pt:dre:661085:por
@@ -84,16 +84,24 @@ relationships:
   target: eli:http://data.dre.pt/eli/dec-lei/174/1994/06/25/p/dre
   label: null
   source: http://data.dre.pt/eli/dec-lei/174/1994/06/25/p/dre
+- type: cites
+  target: pt:dre:305593:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:565790:por
+  label: null
+  source: null
 article_structure:
-  article_count: 14
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T14:08:50Z'
   warnings: []
   errors: []
 ---
@@ -136,7 +144,9 @@ j) Para obtenção do certificado de operador de rádio no GMDSS, nas áreas mar
 
 l) Para obtenção do certificado de operador de rádio no GMDSS, na área marítima A1 nacional.
 
-###### Artigo 19.º — Requisitos para admissão a exame
+Artigo 19.º
+
+Requisitos para admissão a exame
 
 1 - ...
 
@@ -148,7 +158,9 @@ c) ...
 
 d) Para os exames da alínea f) do n.º 1, a condição de marítimo, sendo que quando do escalão da mestrança, desempenhem funções de quarto à navegação em embarcações mercantes ou de pesca equipadas com GMDSS e que naveguem em qualquer das áreas marítimas previstas.
 
-###### Artigo 20.º — Pedido, épocas e locais dos exames
+Artigo 20.º
+
+Pedido, épocas e locais dos exames
 
 1 - ...
 
@@ -172,7 +184,9 @@ g) Para os exames das alíneas j) e l) do n.º 1, na EPMC;
 
 h) Para os exames das alíneas f), h) e i) do n.º 1, na ENIDH ou na EPMC, consoante a entidade à qual for requerido.
 
-###### Artigo 21.º — Programas dos exames
+Artigo 21.º
+
+Programas dos exames
 
 Os programas dos exames referidos no artigo 18.º são aprovados:
 
@@ -186,7 +200,9 @@ e) Para os exames das alíneas j) e l) do n.º 1, por despacho do Ministro do Eq
 
 f) Para os exames das alíneas f), h) e i) do n.º 1, por despacho do Ministro do Equipamento, do Planeamento e da Administração do Território, mediante proposta conjunta da ENIDH e da EPMC.
 
-###### Artigo 22.º — Provas de exame
+Artigo 22.º
+
+Provas de exame
 
 1 - ...
 
@@ -204,7 +220,9 @@ g) Para os exames das alíneas j) e l) do n.º 1, pela EPMC;
 
 h) Para os exames das alíneas f), h) e i) do n.º 1, pela ENIDH ou pela EPMC, consoante a entidade onde o exame foi requerido.
 
-###### Artigo 23.º — Júris dos exames
+Artigo 23.º
+
+Júris dos exames
 
 1 - ...
 
@@ -222,7 +240,9 @@ g) Ao director da EPMC, para os exames das alíneas j) e l) do n.º 1;
 
 h) Ao director da ENIDH, sob proposta do conselho científico, ou ao director da EPMC, para os exames das alíneas f), h) e i) do n.º 1.
 
-###### Artigo 33.º — Tipos de certificados
+Artigo 33.º
+
+Tipos de certificados
 
 1 - ...
 
@@ -232,7 +252,9 @@ a) ...
 
 e) Certificados de operação e manutenção do equipamento de rádio no GMDSS.
 
-###### Artigo 49.º — Emissão de certificados
+Artigo 49.º
+
+Emissão de certificados
 
 A emissão de certificados e outros documentos oficiais referidos na presente secção é da competência:
 
@@ -268,38 +290,52 @@ g) Certificados de operador de rádio no GMDSS, na área marítima A1 nacional.
 
 4 - Os certificados referidos no n.º 1 são válidos por cinco anos, podendo ser revalidados pela realização de novo exame, salvo se o marítimo fizer prova de ter embarcado durante, pelo menos, o total de 12 meses durante a validade do certificado, caso em que será dispensado do referido exame.
 
-###### Artigo 47.º-B — Certificados de radioelectrónico de 2.ª classe no GMDSS
+Artigo 47.º-B
+
+Certificados de radioelectrónico de 2.ª classe no GMDSS
 
 O certificado de radioelectrónico de 2.ª classe no GMDSS confere ao marítimo que o possua direito a operar e a fazer a manutenção a bordo do equipamento de rádio das embarcações mercantes equipadas com o GMDSS e que naveguem em qualquer área marítima.
 
-###### Artigo 47.º-C — Certificados gerais de operador no GMDSS
+Artigo 47.º-C
+
+Certificados gerais de operador no GMDSS
 
 O certificado geral de operador no GMDSS confere ao marítimo que o possua direito a operar o equipamento de rádio das embarcações mercantes equipadas com o GMDSS e que naveguem em qualquer área marítima.
 
-###### Artigo 47.º-D — Certificados de manutenção a bordo do equipamento no GMDSS
+Artigo 47.º-D
+
+Certificados de manutenção a bordo do equipamento no GMDSS
 
 O certificado de manutenção a bordo do equipamento no GMDSS confere ao marítimo que o possua direito a fazer a manutenção a bordo do equipamento de rádio das embarcações mercantes equipadas com o GMDSS e que naveguem em qualquer área marítima.
 
-###### Artigo 47.º-E — Certificados restritos de operador no GMDSS
+Artigo 47.º-E
+
+Certificados restritos de operador no GMDSS
 
 O certificado restrito de operador no GMDSS confere ao marítimo que o possua direito a operar o equipamento de rádio das embarcações mercantes equipadas com o GMDSS e que naveguem exclusivamente nas áreas marítimas A1.
 
-###### Artigo 47.º-F — Certificados de manutenção elementar a bordo do equipamento no GMDSS
+Artigo 47.º-F
+
+Certificados de manutenção elementar a bordo do equipamento no GMDSS
 
 O certificado de manutenção elementar a bordo do equipamento no GMDSS confere ao marítimo que o possua direito a fazer a manutenção elementar a bordo do equipamento de rádio das embarcações mercantes equipadas com o GMDSS, nas condições previstas no artigo 23.º do [Decreto-Lei n.º 174/94](https://diariodarepublica.pt/dr/detalhe/decreto-lei/174-1994-305593), de 25 de Junho.
 
-###### Artigo 47.º-G — Certificados de operador de rádio no GMDSS nas áreas marítimas A1 e A2 nacionais
+Artigo 47.º-G
+
+Certificados de operador de rádio no GMDSS nas áreas marítimas A1 e A2 nacionais
 
 O certificado de operador de rádio no GMDSS nas áreas marítimas A1 e A2 nacionais confere ao marítimo que o possua direito a operar o equipamento de rádio das embarcações mercantes equipadas com o GMDSS e que naveguem exclusivamente nas áreas marítimas A1 e A2 nacionais, e desde que comuniquem apenas com estações costeiras nacionais.
 
-###### Artigo 47.º-H — Certificados de operador de rádio no GMDSS na área marítima A1 nacional
+Artigo 47.º-H
+
+Certificados de operador de rádio no GMDSS na área marítima A1 nacional
 
 O certificado de operador de rádio no GMDSS na área marítima A1 nacional confere ao marítimo que o possua direito a operar o equipamento de rádio das embarcações mercantes equipadas com o GMDSS e que naveguem exclusivamente na área A1 nacional, e desde que comuniquem apenas com estações costeiras nacionais.»
 
 Ministérios da Defesa Nacional, do Equipamento, do Planeamento e da Administração do Território e da Agricultura, do Desenvolvimento Rural e das Pescas.
 
-**Assinada em 1 de Julho de 1998.**
+Assinada em 1 de Julho de 1998.
 
-**O Ministro da Defesa Nacional, José Veiga Simão. - O Ministro do Equipamento, do Planeamento e da Administração do Território, João Cardona Gomes Cravinho. - O Ministro da Agricultura, do Desenvolvimento Rural e das Pescas, Fernando Manuel Van-Zeller Gomes da Silva.**
+O Ministro da Defesa Nacional, José Veiga Simão. - O Ministro do Equipamento, do Planeamento e da Administração do Território, João Cardona Gomes Cravinho. - O Ministro da Agricultura, do Desenvolvimento Rural e das Pescas, Fernando Manuel Van-Zeller Gomes da Silva.
 
 [(ver modelos no documento original)](https://files.diariodarepublica.pt/1s/1998/07/166b00/34883492.pdf)

@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/210/2000/04/07/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/210-2000-494842
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2000-04-07T00:00:00Z'
+  retrieved_at: '2026-10-23T14:22:11Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 2d8e92344cb3360647833f7b4b4a5d67aa232e0505301b0dfb972e37f5929857
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: a3260ec0fd6b7908e10b14d53f2a099aa5f84f1beb8d0fd069223931c37bd439
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T14:22:11Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,8 +66,8 @@ reuse:
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
 - Centro de Medicina de Reabilitação da Região Centro-rovisco PAIS
-- Quadro de Pessoal
 - Ministério da Saúde
+- Quadro de Pessoal
 relationships:
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/203/1996/10/23/p/dre
@@ -77,16 +77,24 @@ relationships:
   target: eli:http://data.dre.pt/eli/dec-lei/215/1997/08/18/p/dre
   label: null
   source: http://data.dre.pt/eli/dec-lei/215/1997/08/18/p/dre
+- type: cites
+  target: pt:dre:208255:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:226810:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T14:22:11Z'
   warnings: []
   errors: []
 ---
@@ -105,7 +113,7 @@ Ao abrigo do disposto no artigo 10.º do [Decreto-Lei n.º 215/97](https://diari
 
 Manda o Governo, pelos Ministros das Finanças, da Saúde e da Reforma do Estado e da Administração Pública, que seja aprovado o quadro provisório de pessoal do Centro de Medicina de Reabilitação da Região Centro - Rovisco Pais, constante do mapa anexo à presente portaria, da qual faz parte integrante.
 
-**O Ministro das Finanças, Joaquim Augusto Nunes Pina Moura, em 9 de Março de 2000. - Pela Ministra da Saúde, Arnaldo Jorge d'Assunção Silva, Secretário de Estado dos Recursos Humanos e da Modernização da Saúde, em 9 de Março de 2000. - Pelo Ministro da Reforma do Estado e da Administração Pública, Alexandre António Cantigas Rosa, Secretário de Estado da Administração Pública e da Modernização Administrativa, em 9 de Março de 2000.**
+O Ministro das Finanças, Joaquim Augusto Nunes Pina Moura, em 9 de Março de 2000. - Pela Ministra da Saúde, Arnaldo Jorge d'Assunção Silva, Secretário de Estado dos Recursos Humanos e da Modernização da Saúde, em 9 de Março de 2000. - Pelo Ministro da Reforma do Estado e da Administração Pública, Alexandre António Cantigas Rosa, Secretário de Estado da Administração Pública e da Modernização Administrativa, em 9 de Março de 2000.
 
 MAPA
 

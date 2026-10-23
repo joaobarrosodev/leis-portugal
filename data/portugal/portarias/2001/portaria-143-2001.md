@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/143/2001/03/02/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/143-2001-372380
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2001-03-02T00:00:00Z'
+  retrieved_at: '2026-10-23T14:30:03Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 0e35416a9b749d28159e31b5248a09ea618c5e5ea073b934b02ffe9ec7495053
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 76ee5a99f828717bc63fa4f2496738a90bb946243af5e53745f4c62332ef4477
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T14:30:03Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,22 +67,30 @@ reuse:
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
 - Água Mineral
-- Recursos Hídricos
-- Manteigas
-- Zona de Proteção
-- Recursos Naturais
 - Águas Subterrâneas
-relationships: []
+- Manteigas
+- Recursos Hídricos
+- Recursos Naturais
+- Zona de Proteção
+relationships:
+- type: cites
+  target: pt:dre:333159:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:333160:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T14:30:03Z'
   warnings: []
   errors: []
 ---
@@ -103,16 +111,16 @@ Manda o Governo, pelos Ministros da Economia e do Ambiente e do Ordenamento do T
 
 Zona imediata - definida por um círculo de 20 m de raio com o centro na captação AC3, cujas coordenadas são as seguintes:
 
-[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2001/03/052b00/11571158.pdf)
+[[[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2001/03/052b00/11571158.pdf)](https://files.diariodarepublica.pt/1s/2001/03/052b00/11571158.pdf)](https://files.diariodarepublica.pt/1s/2001/03/052b00/11571158.pdf)
 
 Zona intermédia - delimitada pelo polígono ABCD, cujos vértices têm as seguintes coordenadas:
 
-[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2001/03/052b00/11571158.pdf)
+[[[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2001/03/052b00/11571158.pdf)](https://files.diariodarepublica.pt/1s/2001/03/052b00/11571158.pdf)](https://files.diariodarepublica.pt/1s/2001/03/052b00/11571158.pdf)
 
 Zona alargada - delimitada pelo polígono ABEF, cujos vértices têm as seguintes coordenadas:
 
-[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2001/03/052b00/11571158.pdf)
+[[[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2001/03/052b00/11571158.pdf)](https://files.diariodarepublica.pt/1s/2001/03/052b00/11571158.pdf)](https://files.diariodarepublica.pt/1s/2001/03/052b00/11571158.pdf)
 
 Em 2 de Fevereiro de 2001.
 
-**O Ministro da Economia, Mário Cristina de Sousa. - O Ministro do Ambiente e do Ordenamento do Território, José Sócrates Carvalho Pinto de Sousa.**
+O Ministro da Economia, Mário Cristina de Sousa. - O Ministro do Ambiente e do Ordenamento do Território, José Sócrates Carvalho Pinto de Sousa.

@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/2s/2009/09/188000000/3953839538.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -47,18 +47,18 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/declaracao-rectificacao/2393-2009-1593567
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2009-09-28T00:00:00Z'
+  retrieved_at: '2026-10-23T14:06:44Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 10c9e2b05210277c93955b784020eb9687fdeef915e74286aa3f2ad81b5337a5
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 367f09b692bd7fe79c47d1468671f191140c01b1e83ebb138617545f700a53cc
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T14:06:44Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -70,13 +70,13 @@ relationships: []
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T14:06:44Z'
   warnings: []
   errors: []
 ---
@@ -92,3 +92,5 @@ Para os devidos efeitos, rectifica-se o aviso n.º 16 037/2009, de 24 de Agosto,
 Assim, na descrição da legislação geral para todas as referências com prova escrita, onde se lê «Regulamento de Organização dos Serviços Municipais, publicado Diário da República, 2.ª série, n.º 199, de 16 de Outubro de 2007» deve ler-se «Regulamento de Organização dos Serviços Municipais, publicado no Diário da República, 2.ª série n.º 107, de 9 de Maio de 2003».
 
 14 de Setembro de 2009. - O Presidente da Câmara, António José Ferreira Sousa Correia Santos.
+
+302327692

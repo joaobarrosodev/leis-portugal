@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/580/1997/08/01/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/580-1997-141833
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2006-02-03T00:00:00Z'
+  retrieved_at: '2026-10-23T14:03:38Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 93ca610361a9d521e4d3caa5ae98fc99243ef5b75e62884b1e43349b7373574d
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: fa09a7b8613985283b8b4deadb3ede52734ee501cb898816721d12c2d9d759e0
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T14:03:38Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -81,16 +81,34 @@ relationships:
   target: eli:http://data.dre.pt/eli/port/14/1994/01/06/p/dre
   label: null
   source: http://data.dre.pt/eli/port/14/1994/01/06/p/dre
+- type: cites
+  target: pt:dre:500416:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:533613:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:599562:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:552279:por
+  label: "Revogada a al. b) do nº 3 do nº 1 e alterada a composição do quadro de pessoal da Delegação Portuguesa junto da\
+    \ Delnato, previsto no presente diploma, pela PORT.99/2006.03.02.2006.MNE, DR.IS-B [25] de 03.02.2006\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/99-2006-552279
+  date: '2006-02-03'
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T14:03:38Z'
   warnings: []
   errors: []
 ---
@@ -123,6 +141,6 @@ c) Cinco conselheiros militares, sendo pelo menos um de cada ramo das Forças Ar
 
 Presidência do Conselho de Ministros e Ministérios da Defesa Nacional, dos Negócios Estrangeiros e das Finanças.
 
-**Assinada em 16 de Julho de 1997.**
+Assinada em 16 de Julho de 1997.
 
-**O Ministro da Defesa Nacional, António Manuel de Carvalho Ferreira Vitorino. - O Ministro dos Negócios Estrangeiros, Jaime José Matos da Gama. - O Ministro das Finanças, António Luciano Pacheco de Sousa Franco. - Pelo Ministro Adjunto, Fausto de Sousa Correia, Secretário de Estado da Administração Pública.**
+O Ministro da Defesa Nacional, António Manuel de Carvalho Ferreira Vitorino. - O Ministro dos Negócios Estrangeiros, Jaime José Matos da Gama. - O Ministro das Finanças, António Luciano Pacheco de Sousa Franco. - Pelo Ministro Adjunto, Fausto de Sousa Correia, Secretário de Estado da Administração Pública.

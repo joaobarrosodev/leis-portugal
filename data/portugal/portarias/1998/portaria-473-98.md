@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/473/1998/08/04/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/473-1998-431211
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1999-07-28T00:00:00Z'
+  retrieved_at: '2026-10-23T14:09:15Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 484302dfdf8e698d015c3381a7c6e451e73da9cc8fa6862a6fe9dd924ca6a160
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 2e4a2fc1debcc744d510f818b9be259678dba0a557b2fd3f4a3fbee7d4d228e4
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T14:09:15Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -65,11 +65,11 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- NATO
 - Bósnia-herzegovina
+- Forças Armadas
 - Missão Militar
 - Missão no Estrangeiro
-- Forças Armadas
+- NATO
 - Prorrogação de Prazo
 relationships:
 - type: amended_by
@@ -84,16 +84,28 @@ relationships:
   target: eli:http://data.dre.pt/eli/port/66/1997/01/29/p/dre
   label: null
   source: http://data.dre.pt/eli/port/66/1997/01/29/p/dre
+- type: cites
+  target: pt:dre:187081:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:379327:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:571411:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T14:09:15Z'
   warnings: []
   errors: []
 ---
@@ -124,6 +136,6 @@ Manda o Governo, pelo Ministro da Defesa Nacional, o seguinte:
 
 Ministério da Defesa Nacional.
 
-**Assinada em 21 de Julho de 1998.**
+Assinada em 21 de Julho de 1998.
 
-**O Ministro da Defesa Nacional, José Veiga Simão.**
+O Ministro da Defesa Nacional, José Veiga Simão.

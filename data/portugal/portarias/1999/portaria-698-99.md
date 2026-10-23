@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/698/1999/08/24/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/698-1999-433789
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2005-09-26T00:00:00Z'
+  retrieved_at: '2026-10-23T14:17:08Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: af5be6f5fe8ef9825cbc7f635ddb232dfa1a7a2f17e27e1036d3054e10eeed26
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 2daf45a197548b61774fa9afc7f98a79e100f0a35c01f3b64ac1e47fa285cc2a
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T14:17:08Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -72,6 +72,35 @@ relationships:
   target: pt:dre:147622:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:581070:por
+  label: "Anexados vários prédios rústicos pela PORT.690/2000.2000.08.31.MADRP DR.IS-B [201]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/690-2000-581070
+  date: '2000-08-31'
+- type: amended_by
+  target: pt:dre:393576:por
+  label: "Anexados vários prédios rústicos pela PORT.764/2001.2001.07.21.MADRP DR.IS-B [168]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/764-2001-393576
+  date: '2001-07-21'
+- type: amended_by
+  target: pt:dre:198322:por
+  label: "Desanexados vários prédios rústicos pela PORT.848/2002.2002.07.12.MADRP DR.IS-B [159]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/848-2002-198322
+  date: '2002-07-12'
+- type: amended_by
+  target: pt:dre:525603:por
+  label: "Anexados e desanexados v&#225;rios pr&#233;dios r&#250;sticos da zona de ca&#231;a associativa concessionada pelo\
+    \ presente diploma, alterado pelas Ports. 690/2000, de 31-Ago, 764/2001, de 21-Jul e 848/2002, de 12-Jul, pela PORT.872/2004.20.07.2004.MADRP,\
+    \ DR.IS-B [169] de 20.07.2004\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/872-2004-525603
+  date: '2004-07-20'
+- type: amended_by
+  target: pt:dre:147622:por
+  label: "Anexado um prédio rústico à zona de caça concessionada pelo presente diploma, alterada pelas Ports. 690/2000 de\
+    \ 31-Ago, 764/2001 de 21-Jul, 848/2002 de 12-Jul e 872/2004 de 20-Jul, pela PORT.885/2005.26.09.2005.MADRP, DR.IS-B [185]\
+    \ de 26.09.2005\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/885-2005-147622
+  date: '2005-09-26'
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/136/1996/08/14/p/dre
   label: null
@@ -80,16 +109,36 @@ relationships:
   target: eli:http://data.dre.pt/eli/port/219-a/1991/03/18/p/dre
   label: null
   source: http://data.dre.pt/eli/port/219-a/1991/03/18/p/dre
+- type: cites
+  target: pt:dre:219134:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:354162:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:405765:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:619925:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:620697:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T14:17:08Z'
   warnings: []
   errors: []
 ---

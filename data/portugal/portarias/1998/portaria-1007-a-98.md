@@ -19,7 +19,7 @@ publication:
   reference: Diário da República n.º 278/1998, 1º Suplemento, Série I-B de 1998-12-02
   number: '278'
   series: I
-  supplement: 1º Suplemento
+  supplement: null
   pages: 6654-(2) a 6654-(3)
   pdf_url: https://files.diariodarepublica.pt/1s/1998/12/278b01/00020003.pdf
 entry_into_force_dates: []
@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/1007-a/1998/12/02/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/1007-a-1998-265564
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2012-09-20T00:00:00Z'
+  retrieved_at: '2026-10-23T14:06:24Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 196cd7e5531533f6d5719dc7a9e9d2aa5f1dc640d9c790028343e5582eadfc4e
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: cfdaee425635e43309af876ac9bef6337e823c35ff7aa9555fddcb5575e5fbb7
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T14:06:24Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,14 +66,14 @@ reuse:
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
 - Certidão
-- Serviços de Registo e Notariado
-- Registo Automóvel
 - Emolumento do Notariado
 - Reconhecimento Notarial
+- Registo Automóvel
 - Registo Civil
+- Registo Comercial
 - Registo Nacional de Pessoas Coletivas
 - Registo Predial
-- Registo Comercial
+- Serviços de Registo e Notariado
 - Taxa
 - TAXA de Prestação de Serviços
 relationships:
@@ -81,20 +81,34 @@ relationships:
   target: pt:dre:176062:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:433812:por
+  label: "Alterada a redacção dos arts. 8.º, 18.º, 19.º, 21.º e 24.º da tabela de emolumentos do notariado, anexa à 996/98,\
+    \ de 25-Nov, alterada pelo presente diploma pela PORT.684/99.1999.08.24.MJ DR.IS [197]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/684-1999-433812
+  date: '1999-08-24'
 - type: cites
   target: eli:http://data.dre.pt/eli/port/996/1998/11/25/p/dre
   label: null
   source: http://data.dre.pt/eli/port/996/1998/11/25/p/dre
+- type: cites
+  target: pt:dre:152365:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:216752:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T14:06:24Z'
   warnings: []
   errors: []
 ---
@@ -131,7 +145,7 @@ d) ...
 
 2 - Aos emolumentos previstos no número anterior acresce, nas escrituras de partilha ou de doação, 5000$00 por cada um dos bens descritos, no máximo de 150000$00.
 
-###### Artigo 8.º
+Artigo 8.º
 
 1 - Por cada certidão, fotocópia, certificado diverso do previsto no n.º 2 do artigo anterior, pública-forma, conferência e extracto até 12 páginas, inclusive - 1000$00.
 
@@ -143,6 +157,6 @@ A partir da 13.ª página, por cada página a mais - 200$00.
 
 Ministério da Justiça.
 
-**Assinada em 30 de Novembro de 1998.**
+Assinada em 30 de Novembro de 1998.
 
-**O Ministro da Justiça, José Eduardo Vera Cruz Jardim.**
+O Ministro da Justiça, José Eduardo Vera Cruz Jardim.

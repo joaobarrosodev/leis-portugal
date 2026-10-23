@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/2s/2010/06/113000000/3240932410.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -47,18 +47,18 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/declaracao-rectificacao/1135-2010-1193051
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2010-06-14T00:00:00Z'
+  retrieved_at: '2026-10-23T14:15:48Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 42512a189949241812a7c9750ac9b9e3a318f548739a203e978386ae2236e8f1
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 56ee480f466e227bc5f2c0c607b1cd3146930455cfc1dcf58891179fdd93d416
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T14:15:48Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,22 +66,34 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects: []
-relationships: []
+relationships:
+- type: cites
+  target: pt:dre:2998106:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:468663:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:624401:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T14:15:48Z'
   warnings: []
   errors: []
 ---
 
-# Declaração de Rectificação n.º 1135/2010
+# Declaração de rectificação n.º 1135/2010
 
 Rectifica e republica o aviso n.º 11 269/2010, inserto no Diário da República, 2.ª série, n.º 109, de 7 de Junho de 2010
 
@@ -243,8 +255,10 @@ Dr.ª Adélia Leal, secretária da Escola Superior de Tecnologia de Tomar.
 
 Dr. Luís Miguel Cordeiro, técnico superior de serviço social dos Serviços de Acção Social do IPT.
 
-**O presidente do júri será substituído nas suas faltas ou impedimentos pelo vogal efectivo indicado em primeiro lugar.**
+O presidente do júri será substituído nas suas faltas ou impedimentos pelo vogal efectivo indicado em primeiro lugar.
 
 21 - Em cumprimento da alínea h) do artigo 9.º da Constituição, a Administração Pública, enquanto entidade empregadora, promove activamente uma política de igualdade de oportunidades entre homens e mulheres no acesso ao emprego e na progressão profissional, providenciando escrupulosamente no sentido de evitar toda e qualquer forma de discriminação.
 
 17 de Maio de 2010. - O Presidente do Instituto Politécnico de Tomar, António Pires da Silva.
+
+203349629

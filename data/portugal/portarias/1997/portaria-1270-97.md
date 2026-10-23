@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1997/12/297b00/67866792.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/1270/1997/12/26/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/1270-1997-421384
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2022-11-11T00:00:00Z'
+  retrieved_at: '2026-10-23T14:00:38Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 20d238e795a643c4407f60ad9de07eaca51cd23180b69b28370e962bb71cd7e8
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: d82e27bde3ac3705bb2a81b1f947792eba81a70f1eff9e97d34ad1efa12f19c9
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T14:00:38Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,8 +67,8 @@ reuse:
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
 - Direcção Geral das Alfândegas e dos Impostos Especiais sobre o Consumo
-- Regulamento
 - Fardamento
+- Regulamento
 relationships:
 - type: amended_by
   target: pt:dre:203338119:por
@@ -78,16 +78,42 @@ relationships:
   target: eli:http://data.dre.pt/eli/dec-lei/324/1993/09/25/p/dre
   label: null
   source: http://data.dre.pt/eli/dec-lei/324/1993/09/25/p/dre
+- type: cites
+  target: pt:dre:142545:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:151544:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:306028:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:506181:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:653126:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:203338119:por
+  label: Revogada pelo(a) Portaria n.º 274/2022 - Diário da República n.º 218/2022, Série I de 2022-11-11 nos termos do art.
+    3.º desta
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/274-2022-203338119
+  date: '2022-11-11'
 article_structure:
   article_count: 9
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T14:00:38Z'
   warnings: []
   errors: []
 ---
@@ -128,9 +154,9 @@ b) Inspecções a meios de transporte.
 
 Ministério das Finanças.
 
-**Assinada em 24 de Novembro de 1997.**
+Assinada em 24 de Novembro de 1997.
 
-**O Ministro das Finanças, António Luciano Pacheco de Sousa Franco.**
+O Ministro das Finanças, António Luciano Pacheco de Sousa Franco.
 
 REGULAMENTO DE UNIFORMES DA DIRECÇÃO-GERAL DAS ALFÂNDEGAS E DOS IMPOSTOS ESPECIAIS SOBRE O CONSUMO
 
@@ -292,4 +318,4 @@ b) Carreira de técnico verificador - a face superior da pala tem uma guarniçã
 
 3 - Em casos excepcionais, devidamente justificados, os períodos de duração fixados nos mapas a que se refere o n.º 1 do presente artigo poderão ser reduzidos até 50%, mediante despacho do director-geral das Alfândegas e dos Impostos Especiais sobre o Consumo.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1997/12/297b00/67866792.pdf))](https://files.diariodarepublica.pt/1s/1997/12/297b00/67866792.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1997/12/297b00/67866792.pdf)

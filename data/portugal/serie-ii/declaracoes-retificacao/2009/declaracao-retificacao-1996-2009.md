@@ -27,7 +27,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/2s/2009/08/161000000/3393333936.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -49,18 +49,18 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/declaracao-rectificacao/1996-2009-3050157
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2009-08-20T00:00:00Z'
+  retrieved_at: '2026-10-23T14:04:23Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: af207d553676f5aec570c754fd4d04827d1d9a54b06b911c11005cdd4d9e5790
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 872f1059ec98bf3ea9ea52f8a0faf32c6252bce1b69d5ab475e27a8552993340
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T14:04:23Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -68,22 +68,42 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects: []
-relationships: []
+relationships:
+- type: cites
+  target: pt:dre:2639397:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:3430824:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:468663:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:624401:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:641123:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T14:04:23Z'
   warnings: []
   errors: []
 ---
 
-# Declaração de Rectificação n.º 1996/2009
+# Declaração de rectificação n.º 1996/2009
 
 Rectificação e republicação do [Aviso n.º 13850/2009](https://diariodarepublica.pt/dr/detalhe/aviso/13850-2009-3430824), relativo a procedimento concursal comum para preenchimento de 9 postos de trabalho da categoria e carreira de técnico superior do mapa de pessoal da Direcção-Geral de Protecção Social aos Funcionários e Agentes da Administração Pública (ADSE).
 
@@ -301,7 +321,7 @@ Neste contexto, serão consideradas acções de formação os cursos de formaç�
 
 As acções serão pontuadas de acordo com os seguintes parâmetros:
 
-[([ver documento original](https://files.diariodarepublica.pt/2s/2009/08/161000000/3393333936.pdf))](https://files.diariodarepublica.pt/2s/2009/08/161000000/3393333936.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/2s/2009/08/161000000/3393333936.pdf)
 
 Serão consideradas acções de formação "com interesse específico" aquelas que se situem em áreas de conhecimento relacionadas com as funções inerentes aos postos de trabalho a ocupar e acções "com interesse complementar" aquelas cujos programas desenvolvem conhecimentos instrumentais e de suporte às áreas funcionais dos postos de trabalho a ocupar.
 
@@ -443,10 +463,12 @@ Vogais suplentes:
 
 2.ª Vogal: Dra. Maria de Fátima Pereira Domingos Afonso - Técnica Superior - Gabinete de Assessoria.
 
-**O Presidente do Júri será substituído nas suas faltas ou impedimentos pela primeira Vogal Efectiva.**
+O Presidente do Júri será substituído nas suas faltas ou impedimentos pela primeira Vogal Efectiva.
 
 16 - "Em cumprimento do disposto na alínea h) do artigo 9.º da Constituição da República Portuguesa", a Administração Pública, enquanto entidade empregadora, promove activamente uma política de igualdade de oportunidades entre homens e mulheres no acesso ao emprego e na progressão profissional, providenciando escrupulosamente no sentido de evitar toda e qualquer forma de discriminação".
 
 17 - Nos termos do disposto no n.º 1 do artigo 19.º da [Portaria n.º 83-A/2009](https://diariodarepublica.pt/dr/detalhe/portaria/83-a-2009-624401), de 22 de Janeiro, o presente aviso será publicitado na Bolsa de Emprego Público (www.bep.gov.pt), no primeiro dia útil seguinte à sua publicação no Diário da República, na página electrónica da ADSE, a partir da data da publicação no Diário da República e, por extracto, no prazo máximo de três dias úteis contados da data da publicação no Diário da República, em jornal de expansão nacional.
 
 11 de Agosto de 2009. - Pelo Director-Geral, em substituição, o Subdirector-Geral, Manuel Martins das Neves Dias.
+
+202191863

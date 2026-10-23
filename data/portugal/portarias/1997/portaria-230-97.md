@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1997/04/078b00/15071511.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/230/1997/04/03/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/230-1997-526663
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1997-04-03T00:00:00Z'
+  retrieved_at: '2026-10-23T14:01:27Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 3c9886c8b3131d1eff568bea73cfe1041e0fb234c3535a0ddf41f6e9a0abe735
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 20bbedbfb5e9e9a033fb2d5eb00cc93bbfa4d667344c9a4aac4ffeae937c7844
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T14:01:27Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -95,16 +95,64 @@ relationships:
   target: eli:http://data.dre.pt/eli/port/824/1993/09/08/p/dre
   label: null
   source: http://data.dre.pt/eli/port/824/1993/09/08/p/dre
+- type: cites
+  target: pt:dre:183426:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:216106:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:263256:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:283332:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:324128:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:378358:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:460775:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:505986:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:531834:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:575290:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:626993:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:668103:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T14:01:27Z'
   warnings: []
   errors: []
 ---
@@ -135,7 +183,7 @@ Manda o Governo, pelos Ministros das Finanças, da Cultura e Adjunto, o seguinte
 
 Presidência do Conselho de Ministros e Ministérios das Finanças e da Cultura.
 
-**Assinada em 27 de Fevereiro de 1997.**
+Assinada em 27 de Fevereiro de 1997.
 
 Pelo Ministro das Finanças, Maria Manuela de Brito Arcanjo Marques da Costa, Secretária de Estado do Orçamento. - O Ministro da Cultura, Manuel Maria Ferreira Carrilho. - Pelo Ministro Adjunto, Fausto de Sousa Correia, Secretário de Estado da Administração Pública.
 
@@ -143,16 +191,16 @@ MAPA I
 
 Quadro de pessoal do Instituto de José de Figueiredo
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1997/04/078b00/15071511.pdf))](https://files.diariodarepublica.pt/1s/1997/04/078b00/15071511.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1997/04/078b00/15071511.pdf)
 
 MAPA II
 
 Quadro de pessoal do Museu de José Malhoa
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1997/04/078b00/15071511.pdf))](https://files.diariodarepublica.pt/1s/1997/04/078b00/15071511.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1997/04/078b00/15071511.pdf)
 
 MAPA III
 
 Quadro de pessoal do Museu Regional de Arqueologia D. Diogo de Sousa
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1997/04/078b00/15071511.pdf))](https://files.diariodarepublica.pt/1s/1997/04/078b00/15071511.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1997/04/078b00/15071511.pdf)

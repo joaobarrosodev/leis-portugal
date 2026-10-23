@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/2s/2009/09/178000000/3760737607.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -46,18 +46,18 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/declaracao-rectificacao/2289-2009-2573338
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2009-09-14T00:00:00Z'
+  retrieved_at: '2026-10-23T14:06:09Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 6c7075fc2842d3589542a53557ed5e011c40f1d231bcb62ddc253e40f7e42709
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 4c80bf556605e9a6e1bc924fee3b93d5310b3dd65dc604292cb1fa0fed942104
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T14:06:09Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -69,13 +69,13 @@ relationships: []
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T14:06:09Z'
   warnings: []
   errors: []
 ---
@@ -87,3 +87,5 @@ Declaração de rectificação n.º 2289/2009
 Para os devidos efeitos se rectifica o aviso desta Câmara Municipal, n.º 15100/2009 publicado no Diário da República, 2.ª série, n.º 165, de 26/08/2009, no título onde se lê: "Procedimento concursal comum para o preenchimento de 61 postos de trabalho de assistente operacional e de 16 postos para assistente técnico", deverá ler-se: "Procedimento concursal comum para o preenchimento de 62 postos de trabalho de assistente operacional e de 16 postos para assistente técnico", no ponto 3 onde se lê: "Ref. B - 2 postos de trabalho [...]", deverá ler-se: "Ref. B - 3 postos de trabalho [...]" e no ponto 12 onde se lê: "Considerando: a necessidade de reforçar, com carácter urgente e de permanência, os recursos humanos dos serviços operativos da CMS; o número de procedimentos inerentes às necessidades de recrutamento para preenchimento de um elevado número de postos de trabalho - 77 -, bem como [...]", deverá ler-se: "Considerando: a necessidade de reforçar, com carácter urgente e de permanência, os recursos humanos dos serviços operativos da CMS; o número de procedimentos inerentes às necessidades de recrutamento para preenchimento de um elevado número de postos de trabalho - 78 -,bem como [...]".
 
 28 de Agosto de 2009. - A Vereadora do Pelouro de Recursos Humanos, Maria Guilhermina Pinhal Ruivo.
+
+302246473

@@ -19,7 +19,7 @@ publication:
   reference: Diário da República n.º 303/1999, 4º Suplemento, Série I-B de 1999-12-31
   number: '303'
   series: I
-  supplement: 4º Suplemento
+  supplement: null
   pages: 9362-(59) a 9362-(75)
   pdf_url: https://files.diariodarepublica.pt/1s/1999/12/303b04/00590075.pdf
 entry_into_force_dates: []
@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/1130-c/1999/12/31/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/1130-c-1999-548254
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2009-03-19T00:00:00Z'
+  retrieved_at: '2026-10-23T14:13:22Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 9d4d1d4b59a6bd8158136f07bfdb1e8ed5870c8af516e9acaa73121953c9c8e8
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: f0abf6cb29e94dcd4c46edcaa8a3773931efb92121f9825bb17ebbb32e894dc6
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T14:13:22Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -65,13 +65,13 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Ordenamento do Território
-- ZONA de Intervenção
 - Exposição Internacional de Lisboa de 1998
-- Política de Solos
+- Ordenamento do Território
 - Plano de Pormenor
+- Política de Solos
 - Regulamento
 - Sacavém
+- ZONA de Intervenção
 relationships:
 - type: amended_by
   target: pt:dre:2308473:por
@@ -97,16 +97,36 @@ relationships:
   target: eli:http://data.dre.pt/eli/dec-lei/88/1993/03/23/p/dre
   label: null
   source: http://data.dre.pt/eli/dec-lei/88/1993/03/23/p/dre
+- type: cites
+  target: pt:dre:397953:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:559019:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:638904:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:638906:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:669800:por
+  label: null
+  source: null
 article_structure:
-  article_count: 50
-  section_count: 36
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  article_count: 58
+  section_count: 38
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T14:13:22Z'
   warnings: []
   errors: []
 ---
@@ -129,13 +149,15 @@ Assim, ao abrigo do n.º 6 do artigo 2.º do [Decreto-Lei n.º 354/93](https://d
 
 Manda o Governo, pelo Ministro do Ambiente e do Ordenamento do Território, que sejam aprovados os Planos de Pormenor da Zona de Intervenção da EXPO 98, Zona de Sacavém, PP5, e Parque do Tejo, PP6, cujos Regulamentos, plantas de implantação e planta das condicionantes se publicam em anexo à presente portaria, dela fazendo parte integrante.
 
-**O Ministro do Ambiente e do Ordenamento do Território, José Sócrates Carvalho Pinto de Sousa, em 30 de Dezembro de 1999.**
+O Ministro do Ambiente e do Ordenamento do Território, José Sócrates Carvalho Pinto de Sousa, em 30 de Dezembro de 1999.
 
 REGULAMENTO DO PLANO DE PORMENOR 5 - ZONA DE SACAVÉM
 
 ## TÍTULO I — Disposições de natureza administrativa
 
-### CAPÍTULO ÚNICO — Artigo 1.º
+### CAPÍTULO ÚNICO
+
+###### Artigo 1.º
 
 Âmbito e regime
 
@@ -241,7 +263,9 @@ As disposições do Regulamento são vinculativas para todas as entidades públi
 
 ## TÍTULO II — Condições gerais da concepção do espaço e uso do solo
 
-### CAPÍTULO ÚNICO — Artigo 5.º
+### CAPÍTULO ÚNICO
+
+###### Artigo 5.º
 
 Generalidades
 
@@ -273,7 +297,9 @@ O uso de parcela afecta a habitação, serviços, comércio/restauração, local
 
 ### CAPÍTULO I — Generalidades
 
-###### Artigo 8.º — Divisão de terrenos
+###### Artigo 8.º
+
+##### Divisão de terrenos
 
 1 - A divisão de terrenos rege-se pelo disposto no n.º 6 do artigo 2.º do [Decreto-Lei n.º 354/93](https://diariodarepublica.pt/dr/detalhe/decreto-lei/354-1993-669800), de 9 de Outubro.
 
@@ -377,7 +403,9 @@ a) Quando o processo de licenciamento de arquitectura corresponda a um lote, o a
 
 ## TÍTULO IV — Condições especiais relativas às obras de urbanização
 
-### CAPÍTULO ÚNICO — Artigo 12.º
+### CAPÍTULO ÚNICO
+
+###### Artigo 12.º
 
 Caracterização das obras de urbanização e projectos das obras de urbanização
 
@@ -489,7 +517,9 @@ A sinalização a adoptar nos edifícios é estabelecida no Regulamento de Ocupa
 
 ## TÍTULO VI — Condições especiais relativas aos espaços exteriores
 
-### CAPÍTULO ÚNICO — Artigo 22.º
+### CAPÍTULO ÚNICO
+
+###### Artigo 22.º
 
 Espaços exteriores de utilização pública
 
@@ -563,13 +593,15 @@ O Plano, incluindo todos os seus elementos, pode ser consultado pelos interessad
 
 Quadro de síntese das parcelas do PP5
 
-[(ver anexo no documento original)](https://files.diariodarepublica.pt/1s/1999/12/303b04/00590075.pdf)
+[[(ver anexo no documento original)](https://files.diariodarepublica.pt/1s/1999/12/303b04/00590075.pdf)](https://files.diariodarepublica.pt/1s/1999/12/303b04/00590075.pdf)
 
 REGULAMENTO DO PLANO DE PORMENOR 6 - PARQUE DO TEJO
 
 ## TÍTULO I — Disposições de natureza administrativa
 
-### CAPÍTULO ÚNICO — Artigo 1.º
+### CAPÍTULO ÚNICO
+
+###### Artigo 1.º
 
 Âmbito e regime
 
@@ -681,7 +713,9 @@ As disposições do Regulamento do Plano são vinculativas para todas as entidad
 
 ## TÍTULO II — Condições gerais da concepção do espaço e uso do solo
 
-### CAPÍTULO ÚNICO — Artigo 5.º
+### CAPÍTULO ÚNICO
+
+###### Artigo 5.º
 
 Generalidades
 
@@ -723,7 +757,9 @@ a) Estas componentes constituem-se no Plano como «parcelas de terreno» e «esp
 
 ### CAPÍTULO I — Generalidades
 
-###### Artigo 7.º — Divisão de terrenos
+###### Artigo 7.º
+
+##### Divisão de terrenos
 
 1 - A divisão de terrenos rege-se pelo disposto no n.º 6 do artigo 2.º do Decreto Lei n.º 354/93, de 9 de Outubro.
 
@@ -837,7 +873,9 @@ a) Quando o processo de licenciamento de arquitectura corresponda a um lote, o a
 
 ## TÍTULO IV — Condições especiais relativas aos projectos e obras de urbanização
 
-### CAPÍTULO ÚNICO — Artigo 10.º
+### CAPÍTULO ÚNICO
+
+###### Artigo 10.º
 
 Caracterização dos projectos e obras de urbanização
 
@@ -999,7 +1037,9 @@ d) As zonas verdes integradas na estrutura verde complementar referem-se aos esp
 
 ## TÍTULO VI — Condições especiais relativas aos espaços exteriores de utilização pública
 
-### CAPÍTULO ÚNICO — Artigo 23.º
+### CAPÍTULO ÚNICO
+
+###### Artigo 23.º
 
 Espaços exteriores de utilização pública
 
@@ -1101,4 +1141,4 @@ Quadro de síntese das parcelas do PP6 - Usos
 
 Quadro de síntese das parcelas do PP6
 
-[(ver anexo no documento original)](https://files.diariodarepublica.pt/1s/1999/12/303b04/00590075.pdf)
+[[(ver anexo no documento original)](https://files.diariodarepublica.pt/1s/1999/12/303b04/00590075.pdf)](https://files.diariodarepublica.pt/1s/1999/12/303b04/00590075.pdf)

@@ -48,18 +48,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/1281/1997/12/31/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/1281-1997-321681
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2001-03-28T00:00:00Z'
+  retrieved_at: '2026-10-23T14:00:38Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: c896fc2e704e221e2fa4d11533e1647038ff8af8221f04898cea457b2cb74170
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: f1410ef7ed03ce5e3d73b411f9263a05083cd2077507d01f727088577a9a973c
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T14:00:38Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -77,6 +77,17 @@ relationships:
   target: pt:dre:344964:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:144992:por
+  label: "Alterado o nº 3º e os anexos II, VI e VII pelo DEC LEI.81/99.1999.03.16.MS, DR.IS-A [63]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/81-1999-144992
+  date: '1999-03-16'
+- type: amended_by
+  target: pt:dre:358170:por
+  label: "Alterados os anexos II (na redacção do Dec Lei 81/99, de 16-Mar), III, IV e VII (este último na redacção do Dec\
+    \ Lei 81/99, de 16-Mar), pelo DEC LEI.267/99.1999.07.15.MS DR.IS-A [163]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/267-1999-358170
+  date: '1999-07-15'
 - type: cites
   target: celex:31976L0768
   label: null
@@ -97,16 +108,21 @@ relationships:
   target: eli:http://data.dre.pt/eli/port/110/1996/04/10/p/dre
   label: null
   source: http://data.dre.pt/eli/port/110/1996/04/10/p/dre
+- type: repealed_by
+  target: pt:dre:344964:por
+  label: "Revogada pelo DEC LEI.100/2001.2001.03.28.MS DR.IS-A [74]\0]\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/100-2001-344964
+  date: '2001-03-28'
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T14:00:38Z'
   warnings: []
   errors: []
 ---
@@ -169,9 +185,9 @@ d) Os filtros ultravioletas enumerados na segunda parte do anexo VII, nos limite
 
 Ministérios da Economia e da Saúde.
 
-**Assinada em 4 de Novembro de 1997.**
+Assinada em 4 de Novembro de 1997.
 
-**O Ministro da Economia, Augusto Carlos Serra Ventura Mateus. - Pela Ministra da Saúde, José Eduardo Arcos Gomes dos Reis, Secretário de Estado da Saúde.**
+O Ministro da Economia, Augusto Carlos Serra Ventura Mateus. - Pela Ministra da Saúde, José Eduardo Arcos Gomes dos Reis, Secretário de Estado da Saúde.
 
 ## ANEXO I
 
@@ -1085,13 +1101,13 @@ Corante CI 42 555 - 2.
 
 Lista das substâncias que os produtos cosméticos e de higiene corporal não podem conter fora das restrições e condições previstas
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1997/12/301b00/68616885.pdf))](https://files.diariodarepublica.pt/1s/1997/12/301b00/68616885.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1997/12/301b00/68616885.pdf)
 
 Segunda parte
 
 Lista das substâncias provisoriamente admitidas
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1997/12/301b00/68616885.pdf))](https://files.diariodarepublica.pt/1s/1997/12/301b00/68616885.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1997/12/301b00/68616885.pdf)
 
 Nota. - Presentemente não existe qualquer substância inscrita nesta lista.
 
@@ -1111,7 +1127,7 @@ Coluna 4 - corantes admitidos unicamente para os produtos cosméticos que se des
 
 (nota 1) São igualmente admitidas as lacas ou sais destes corantes que contêm substâncias cuja utilização não está proibida no anexo II ou que não estão excluídas do campo de aplicação da presente portaria nos termos do anexo V.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1997/12/301b00/68616885.pdf))](https://files.diariodarepublica.pt/1s/1997/12/301b00/68616885.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1997/12/301b00/68616885.pdf)
 
 Segunda parte
 
@@ -1127,7 +1143,7 @@ Coluna 3 - corantes admitidos unicamente para os produtos cosméticos que não s
 
 Coluna 4 - corantes admitidos unicamente para os produtos cosméticos que se destinam a entrar apenas em breve contacto com a pele.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1997/12/301b00/68616885.pdf))](https://files.diariodarepublica.pt/1s/1997/12/301b00/68616885.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1997/12/301b00/68616885.pdf)
 
 Nota. - Presentemente não existe qualquer corante inscrito nesta lista.
 
@@ -1159,13 +1175,13 @@ Primeira parte
 
 Lista dos conservantes admitidos
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1997/12/301b00/68616885.pdf))](https://files.diariodarepublica.pt/1s/1997/12/301b00/68616885.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1997/12/301b00/68616885.pdf)
 
 Segunda parte
 
 Lista dos conservantes admitidos provisoriamente
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1997/12/301b00/68616885.pdf))](https://files.diariodarepublica.pt/1s/1997/12/301b00/68616885.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1997/12/301b00/68616885.pdf)
 
 ## ANEXO VII — Lista dos filtros para radiações ultravioletas que os produtos cosméticos e de higiene corporal podem conter
 
@@ -1179,10 +1195,10 @@ Primeira parte
 
 Lista dos filtros ultravioletas autorizados que os produtos cosméticos podem conter
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1997/12/301b00/68616885.pdf))](https://files.diariodarepublica.pt/1s/1997/12/301b00/68616885.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1997/12/301b00/68616885.pdf)
 
 Segunda parte
 
 Lista dos filtros ultravioletas que os produtos cosméticos e de higiene corporal podem conter provisoriamente
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1997/12/301b00/68616885.pdf))](https://files.diariodarepublica.pt/1s/1997/12/301b00/68616885.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1997/12/301b00/68616885.pdf)

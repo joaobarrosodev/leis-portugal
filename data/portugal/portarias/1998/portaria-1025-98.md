@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1998/12/286b00/67656779.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/1025/1998/12/12/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/1025-1998-220727
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2012-06-08T00:00:00Z'
+  retrieved_at: '2026-10-23T14:06:29Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 1d1413b4674ceded6e504513dfba104a3f8f714e9be9eae78d1f8758842411e2
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 8cae136da27c146a52d82acc11c9d6c3f9471d3bf9628d2c60e10f6a7517ff01
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T14:06:29Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,9 +66,9 @@ reuse:
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
 - Armazenagem
+- Combustível
 - Definição de Competências
 - Direcção Geral de Energia
-- Combustível
 - Fiscalização
 - Instituto Geológico e Mineiro
 - Normas de Construção
@@ -87,16 +87,37 @@ relationships:
   target: eli:http://data.dre.pt/eli/dec-lei/274-c/1993/08/04/p/dre
   label: null
   source: http://data.dre.pt/eli/dec-lei/274-c/1993/08/04/p/dre
+- type: cites
+  target: pt:dre:217373:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:373863:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:549405:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:575770:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:178781:por
+  label: "Revogada pela PORT.181/2012.08.06.2012.MEE, DR.IS [111] de 08.06.2012\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/181-2012-178781
+  date: '2012-06-08'
 article_structure:
   article_count: 65
   section_count: 12
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T14:06:29Z'
   warnings: []
   errors: []
 ---
@@ -125,9 +146,9 @@ Manda o Governo, pelo Ministro da Economia, o seguinte:
 
 Ministério da Economia.
 
-**Assinada em 16 de Novembro de 1998.**
+Assinada em 16 de Novembro de 1998.
 
-**O Ministro da Economia, Joaquim Augusto Nunes de Pina Moura.**
+O Ministro da Economia, Joaquim Augusto Nunes de Pina Moura.
 
 REGULAMENTO DA ARMAZENAGEM SUBTERRÂNEA DE GÁS NATURAL EM FORMAÇÕES SALINAS NATURAIS
 

@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/999/2000/10/18/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/999-2000-532865
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2000-12-18T00:00:00Z'
+  retrieved_at: '2026-10-23T14:27:17Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 9d69a48a6067c5f317b4eadc0d22a6d89a8c168c309a1af3afe82428cfa734f7
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 3d4353a103485f3de0bdab5e14464d8d0f322aed2532f7ecd1b61c796c8923fc
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T14:27:17Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,18 +67,23 @@ reuse:
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
 - Academia da Força Aérea
+- Academia Militar
 - Concurso Local de Acesso
+- Ensino Superior
 - Escola do Serviço de Saúde Militar
 - Escola Naval
 - Escola Superior de Educação
-- Academia Militar
 - Instituto Militar dos Pupilos do Exército
-- Ensino Superior
 relationships:
 - type: amended_by
   target: pt:dre:656164:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:656164:por
+  label: "Alterado o anexo ao presente diploma, pela PORT.1180/2000.2000.12.18.MDN, DR.IS-B [290]\0]\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/1180-2000-656164
+  date: '2000-12-18'
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/296-a/1998/09/25/p/dre
   label: null
@@ -87,16 +92,24 @@ relationships:
   target: eli:http://data.dre.pt/eli/dec-lei/99/1999/03/30/p/dre
   label: null
   source: http://data.dre.pt/eli/dec-lei/99/1999/03/30/p/dre
+- type: cites
+  target: pt:dre:138571:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:173481:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
-  section_count: 1
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  section_count: 0
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T14:27:17Z'
   warnings: []
   errors: []
 ---
@@ -123,7 +136,7 @@ Esta portaria entra em vigor no dia imediato ao da sua publicação.
 
 Em 19 de Setembro de 2000.
 
-**O Ministro da Defesa Nacional, Júlio de Lemos de Castro Caldas. - O Ministro da Educação, Augusto Ernesto Santos Silva.**
+O Ministro da Defesa Nacional, Júlio de Lemos de Castro Caldas. - O Ministro da Educação, Augusto Ernesto Santos Silva.
 
 Escola Naval
 
@@ -163,7 +176,7 @@ Ciências Militares Aeronáuticas, especialidade de Piloto Aviador - 28.
 
 Instituto Militar dos Pupilos do Exército
 
-#### Secção de Ensino Superior
+Secção de Ensino Superior
 
 Contabilidade e Administração - 30.
 

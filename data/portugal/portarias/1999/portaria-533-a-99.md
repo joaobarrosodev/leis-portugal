@@ -20,7 +20,7 @@ publication:
   reference: Diário da República n.º 169/1999, 1º Suplemento, Série I-B de 1999-07-22
   number: '169'
   series: I
-  supplement: 1º Suplemento
+  supplement: null
   pages: 4566-(2) a 4566-(3)
   pdf_url: https://files.diariodarepublica.pt/1s/1999/07/169b01/00020003.pdf
 entry_into_force_dates: []
@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/533-a/1999/07/22/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/533-a-1999-147873
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2007-04-10T00:00:00Z'
+  retrieved_at: '2026-10-23T14:16:08Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 3e9d51ab82d0f49859f0eb16479b3aab30dcd9f998ba9b65990d23dda32f64d1
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 81ef8daee93282a4bad36d7f6044c01f59cee6563ccccd6cc69a60e74c2d22d2
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T14:16:08Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -68,18 +68,25 @@ reuse:
 subjects:
 - Autonomia dos Institutos Superiores
 - Bacharelato
-- Plano de Estudos
 - Ensino Superior Politécnico
 - Gestão Escolar
 - Instituto Politécnico
 - Licenciatura
 - Numerus Clausus
+- Plano de Estudos
 - Regulamento
 relationships:
 - type: amended_by
   target: pt:dre:519980:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:561983:por
+  label: "Aditado um art. 27.º-A ao Regulamento Geral dos Cursos Bietápicos de Licenciatura das Escolas de Ensino Superior\
+    \ Politécnico, aprovado pela Port 413-A/98, de 17-Jul, alterada pelo presente diploma, pela PORT.1359/2004.26.10.2004.MCIES,\
+    \ DR.IS-B [252] de 26.10.2004\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/1359-2004-561983
+  date: '2004-10-26'
 - type: cites
   target: eli:http://data.dre.pt/eli/lei/115/1997/09/19/p/dre
   label: null
@@ -88,16 +95,40 @@ relationships:
   target: eli:http://data.dre.pt/eli/port/413-a/1998/07/17/p/dre
   label: null
   source: http://data.dre.pt/eli/port/413-a/1998/07/17/p/dre
+- type: cites
+  target: pt:dre:222418:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:429596:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:453184:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:470779:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:556606:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:653145:por
+  label: null
+  source: null
 article_structure:
-  article_count: 4
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T14:16:08Z'
   warnings: []
   errors: []
 ---
@@ -136,7 +167,9 @@ S é a média aritmética ponderada, arredondada às unidades (considerando como
 
 3 - Os coeficientes de ponderação são fixados pelo órgão legal e estatutariamente competente.
 
-###### Artigo 13.º — Inscrição no 2.º ciclo
+Artigo 13.º
+
+Inscrição no 2.º ciclo
 
 1 - Em cada ano lectivo, podem inscrever-se no 2.º ciclo do curso:
 
@@ -156,7 +189,9 @@ b3) Os estudantes que tenham obtido um grau de bacharel na área do curso por ou
 
 4 - Compete ao júri a que se refere o artigo 17.º verificar se os cursos a que se referem as alíneas b2) e b3) do n.º 1 satisfazem às condições nelas expressas.
 
-###### Artigo 14.º — Limitações quantitativas
+Artigo 14.º
+
+Limitações quantitativas
 
 1 - As vagas para a candidatura à matrícula e inscrição dos estudantes a que se referem as alíneas b1) e b2) do n.º 1 do artigo 13.º são fixadas pelo órgão legal e estatutariamente competente e comunicadas ao Departamento do Ensino Superior até 15 de Março de cada ano.
 
@@ -168,7 +203,9 @@ b3) Os estudantes que tenham obtido um grau de bacharel na área do curso por ou
 
 5 - No caso previsto no número anterior, a percentagem de vagas a afectar a cada contingente, bem como as regras de reversão de vagas eventualmente não ocupadas, são igualmente fixadas pelo órgão legal e estatutariamente competente.
 
-###### Artigo 24.º — Prazos
+Artigo 24.º
+
+Prazos
 
 1 - Os prazos para a candidatura, selecção, seriação, matrícula e inscrição e reclamação são fixados anualmente por despacho do órgão legal e estatutariamente competente.
 
@@ -176,7 +213,9 @@ b3) Os estudantes que tenham obtido um grau de bacharel na área do curso por ou
 
 3 - O despacho a que se refere o n.º 1 é objecto de afixação pública nas instalações da escola, bem como de publicação na 2.ª série do Diário da República, antes do início dos prazos a que o mesmo se refere.
 
-###### Artigo 26.º — Prioridades
+Artigo 26.º
+
+Prioridades
 
 1 - O instrumento legal de criação ou de autorização de funcionamento do curso pode estabelecer que por decisão do órgão legal e estatutariamente competente da escola:
 

@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/278/2000/05/22/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/278-2000-300002
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2004-08-18T00:00:00Z'
+  retrieved_at: '2026-10-23T14:22:36Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 611df74d86b7535ce8c956e6198deaba81db25ea3839adb9f7b48e804a1aa18d
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: df463b9a6c235aff84029deb65a10b14a38210d231e56433e0276cf043d2a6f6
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T14:22:36Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,17 +66,29 @@ reuse:
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
 - Financiamento
-- Regulamento de Apoio Financeiro Selectivo ao Desenvolvimento de Projectos de Animação
+- ICAM
+- Indústria Cinematográfica
 - Produção Cinematográfica
 - Projeto de Investimento
-- ICAM
 - Regulamento
-- Indústria Cinematográfica
+- Regulamento de Apoio Financeiro Selectivo ao Desenvolvimento de Projectos de Animação
 relationships:
 - type: amended_by
   target: pt:dre:480711:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:230340:por
+  label: "Alterado o n.º 2 do art. 3.º, n.º 2 do art. 9.º, os arts. 13.º e 15.º, aditado o art. 13.º-A, todos do presente\
+    \ diploma e republicado na integra pela PORT.730-A/2004.24.06.2004.MC, DR.IS-B [147-Supl] de 24.06.2004\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/730-a-2004-230340
+  date: '2004-06-24'
+- type: amended_by
+  target: pt:dre:480711:por
+  label: "Mantida em vigor pela LEI.42/2004.18.08.2004.AR, DR.IS-A [194] de 18.08.2004, até à aprovação das normas de execução\
+    \ da mesma\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/lei/42-2004-480711
+  date: '2004-08-18'
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/350/1993/10/07/p/dre
   label: null
@@ -85,16 +97,29 @@ relationships:
   target: eli:http://data.dre.pt/eli/port/497/1996/09/19/p/dre
   label: null
   source: http://data.dre.pt/eli/port/497/1996/09/19/p/dre
+- type: cites
+  target: pt:dre:219366:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:645305:por
+  label: null
+  source: null
+- type: corrected_by
+  target: pt:dre:145025:por
+  label: "Rectificada pela DECL-RECT.7-E/2000.2000.06.29.PCM DR.IS-B [149]2ºSupl de 30/Jun/2000\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/declaracao-rectificacao/7-e-2000-145025
+  date: '2000-06-29'
 article_structure:
   article_count: 18
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T14:22:36Z'
   warnings: []
   errors: []
 ---
@@ -119,7 +144,7 @@ Manda o Governo, pelo Ministro da Cultura, o seguinte:
 
 2.º A presente portaria entra em vigor no dia seguinte ao da sua publicação.
 
-**O Ministro da Cultura, Manuel Maria Ferreira Carrilho, em 18 de Abril de 2000.**
+O Ministro da Cultura, Manuel Maria Ferreira Carrilho, em 18 de Abril de 2000.
 
 REGULAMENTO DE APOIO FINANCEIRO SELECTIVO AO DESENVOLVIMENTO DE PROJECTOS DE ANIMAÇÃO
 

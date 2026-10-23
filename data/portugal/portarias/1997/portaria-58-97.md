@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/58/1997/01/25/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/58-1997-571888
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1997-01-25T00:00:00Z'
+  retrieved_at: '2026-10-23T14:03:38Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 5d8491ebac16e869a8eb43fa61276dcabb3a334a6577e2425527e62cf4dfe6da
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: f0886085e99d1038bb3d063ce53a23698d0e08202a718967cd1b720ca0c08215
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T14:03:38Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -65,10 +65,10 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Profissão Artística
 - Atividade Ocupacional
 - Instituto Português da Juventude
 - Jovem
+- Profissão Artística
 - Programa
 relationships:
 - type: cites
@@ -79,16 +79,24 @@ relationships:
   target: eli:http://data.dre.pt/eli/dec-lei/70/1996/06/04/p/dre
   label: null
   source: http://data.dre.pt/eli/dec-lei/70/1996/06/04/p/dre
+- type: cites
+  target: pt:dre:226063:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:437780:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T14:03:38Z'
   warnings: []
   errors: []
 ---
@@ -115,6 +123,6 @@ Manda o Governo, pelo Secretário de Estado da Juventude, ao abrigo do n.º 2 do
 
 Presidência do Conselho de Ministros.
 
-**Assinada em 17 de Dezembro de 1996.**
+Assinada em 17 de Dezembro de 1996.
 
-**O Secretário de Estado da Juventude, António José Martins Seguro.**
+O Secretário de Estado da Juventude, António José Martins Seguro.

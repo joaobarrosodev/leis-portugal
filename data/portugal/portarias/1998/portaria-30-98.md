@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/30/1998/01/19/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/30-1998-239459
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1998-01-19T00:00:00Z'
+  retrieved_at: '2026-10-23T14:07:59Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 3106b5351ecbc2ed6cb9d0cae9335965efd2d244a15012a5eb20e52b43a515de
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: dcb24dac9e3576fa53fb0527aaa70f5339db8c756d3135f1ef14c32613fc08d1
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T14:07:59Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,17 +67,25 @@ reuse:
 subjects:
 - Quadro de Pessoal
 - Serviço Nacional de Bombeiros
-relationships: []
+relationships:
+- type: cites
+  target: pt:dre:505986:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:573686:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T14:07:59Z'
   warnings: []
   errors: []
 ---
@@ -100,7 +108,7 @@ Manda o Governo, pelos Ministros das Finanças e da Administração Interna e pe
 
 Presidência do Conselho de Ministros e Ministérios das Finanças e da Administração Interna.
 
-**Assinada em 21 de Novembro de 1997.**
+Assinada em 21 de Novembro de 1997.
 
 Pelo Ministro das Finanças, Maria Manuela de Brito Arcanjo Marques da Costa, Secretária de Estado do Orçamento. - Pelo Ministro da Administração Interna, Armando António Martins Vara, Secretário de Estado da Administração Interna. - Pelo Ministro Adjunto, Fausto de Sousa Correia, Secretário de Estado da Administração Pública.
 

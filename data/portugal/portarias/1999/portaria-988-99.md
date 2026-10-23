@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/988/1999/11/03/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/988-1999-694186
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2000-11-09T00:00:00Z'
+  retrieved_at: '2026-10-23T14:19:04Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: bf876d7ad1c99234a7d187c9a0371eea623ed828f18f36bf32018c182df63361
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 1e40d0a05844ab85eb08aadda0315e30794657eda0f61d9eaae1b33dbcbe2cbe
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T14:19:04Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -81,16 +81,30 @@ relationships:
   target: eli:http://data.dre.pt/eli/port/583-c/1999/07/31/p/dre
   label: null
   source: http://data.dre.pt/eli/port/583-c/1999/07/31/p/dre
+- type: cites
+  target: pt:dre:249059:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:485049:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:621964:por
+  label: "Revogada pelo DEC LEI.273/2000.2000.11.09.MES DR.IS-A [259], a partir da entrada em vigor das regulamentações referidas\
+    \ nos seus n.ºs 1 dos arts. 2.º e 3.º\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/273-2000-621964
+  date: '2000-11-09'
 article_structure:
-  article_count: 4
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T14:19:04Z'
   warnings: []
   errors: []
 ---
@@ -137,7 +151,7 @@ Tarifa de uso do porto - Componente aplicável ao navio (TUP/navio), com base no
 
 11 - Às embarcações de tráfego fluvial ou local do tipo carga, passageiros, pesca ou rebocadores poderá ser cobrada TUP/navio em avença, por períodos indi
 
-visíveis de tempo TVi, em dias, cujo valor será igual a [(ver fórmula no documento original)](https://files.diariodarepublica.pt/1s/1999/11/256b00/75697571.pdf), onde:
+visíveis de tempo TVi, em dias, cujo valor será igual a [[[(ver fórmula no documento original)](https://files.diariodarepublica.pt/1s/1999/11/256b00/75697571.pdf)](https://files.diariodarepublica.pt/1s/1999/11/256b00/75697571.pdf)](https://files.diariodarepublica.pt/1s/1999/11/256b00/75697571.pdf), onde:
 
 UV1 = 35$00 - taxa diária de avençamento por raiz quadrada de GT;
 
@@ -149,7 +163,9 @@ FVi - factor específico do período de avençamento, de acordo com o n.º 13 de
 
 14 - ...
 
-###### Artigo 10.º — Tarifa de estacionamento (TES)
+Artigo 10.º
+
+Tarifa de estacionamento (TES)
 
 1 - A taxa a cobrar às embarcações e navios acostados ao cais, armados ou não para viagem, será igual a UA1 x GT x TAi x FAi, onde:
 
@@ -159,7 +175,7 @@ TAi - número de dias indivisíveis de acostagem, no período de referência; e
 
 FAi - factor específico desse período, de acordo com a seguinte tabela:
 
-[(ver tabela no documento original)](https://files.diariodarepublica.pt/1s/1999/11/256b00/75697571.pdf)
+[[[[[[(ver tabela no documento original)](https://files.diariodarepublica.pt/1s/1999/11/256b00/75697571.pdf)](https://files.diariodarepublica.pt/1s/1999/11/256b00/75697571.pdf)](https://files.diariodarepublica.pt/1s/1999/11/256b00/75697571.pdf)](https://files.diariodarepublica.pt/1s/1999/11/256b00/75697571.pdf)](https://files.diariodarepublica.pt/1s/1999/11/256b00/75697571.pdf)](https://files.diariodarepublica.pt/1s/1999/11/256b00/75697571.pdf)
 
 2 - A taxa a cobrar às embarcações e navios armados para viagem, quando fundeados, será igual a UF1 x GT x TFi x FFi, onde:
 
@@ -169,9 +185,9 @@ TFi - número de dias indivisíveis de uso de fundeadouro, no período de refer�
 
 FFi - factor específico desse período, de acordo com a seguinte tabela:
 
-[(ver tabela no documento original)](https://files.diariodarepublica.pt/1s/1999/11/256b00/75697571.pdf)
+[[[[[[(ver tabela no documento original)](https://files.diariodarepublica.pt/1s/1999/11/256b00/75697571.pdf)](https://files.diariodarepublica.pt/1s/1999/11/256b00/75697571.pdf)](https://files.diariodarepublica.pt/1s/1999/11/256b00/75697571.pdf)](https://files.diariodarepublica.pt/1s/1999/11/256b00/75697571.pdf)](https://files.diariodarepublica.pt/1s/1999/11/256b00/75697571.pdf)](https://files.diariodarepublica.pt/1s/1999/11/256b00/75697571.pdf)
 
-3 - A taxa a cobrar às embarcações e navios não armados para viagem, quando fundeados, será igual a [(ver fórmula no documento original)](https://files.diariodarepublica.pt/1s/1999/11/256b00/75697571.pdf), onde:
+3 - A taxa a cobrar às embarcações e navios não armados para viagem, quando fundeados, será igual a [[[(ver fórmula no documento original)](https://files.diariodarepublica.pt/1s/1999/11/256b00/75697571.pdf)](https://files.diariodarepublica.pt/1s/1999/11/256b00/75697571.pdf)](https://files.diariodarepublica.pt/1s/1999/11/256b00/75697571.pdf), onde:
 
 UE1 = 150$00 - taxa diária de uso de fundeadouro por raiz quadrada de GT;
 
@@ -179,7 +195,7 @@ TEi - número de dias indivisíveis de uso de fundeadouro, no período de refer�
 
 FEi - factor específico desse período, de acordo com a seguinte tabela:
 
-[(ver tabela no documento original)](https://files.diariodarepublica.pt/1s/1999/11/256b00/75697571.pdf)
+[[[[[[(ver tabela no documento original)](https://files.diariodarepublica.pt/1s/1999/11/256b00/75697571.pdf)](https://files.diariodarepublica.pt/1s/1999/11/256b00/75697571.pdf)](https://files.diariodarepublica.pt/1s/1999/11/256b00/75697571.pdf)](https://files.diariodarepublica.pt/1s/1999/11/256b00/75697571.pdf)](https://files.diariodarepublica.pt/1s/1999/11/256b00/75697571.pdf)](https://files.diariodarepublica.pt/1s/1999/11/256b00/75697571.pdf)
 
 4 - A taxa a cobrar às embarcações ou navios em reparação em cais especializados ou estaleiros será igual a UE2 x GT x TE, onde:
 
@@ -195,29 +211,35 @@ TE - tempo total de estacionamento em dias indivisíveis.
 
 6 - ...
 
-###### Artigo 12.º — Tarifa de uso do porto - Componente aplicável à carga (TUP/carga)
+Artigo 12.º
+
+Tarifa de uso do porto - Componente aplicável à carga (TUP/carga)
 
 As cargas que utilizem o porto estão sujeitas às taxas unitárias seguintes, fixadas por categorias de carga de acordo com a classificação NST/R:
 
-[(ver tabela no documento original)](https://files.diariodarepublica.pt/1s/1999/11/256b00/75697571.pdf)
+[[[[[[(ver tabela no documento original)](https://files.diariodarepublica.pt/1s/1999/11/256b00/75697571.pdf)](https://files.diariodarepublica.pt/1s/1999/11/256b00/75697571.pdf)](https://files.diariodarepublica.pt/1s/1999/11/256b00/75697571.pdf)](https://files.diariodarepublica.pt/1s/1999/11/256b00/75697571.pdf)](https://files.diariodarepublica.pt/1s/1999/11/256b00/75697571.pdf)](https://files.diariodarepublica.pt/1s/1999/11/256b00/75697571.pdf)
 
-###### Artigo 13.º — Tarifa de pilotagem
+Artigo 13.º
 
-1 - A tarifa de pilotagem (PJ) inclui seis pacotes (J) e é calculada por manobra pela fórmula [(ver fórmula no documento original)](https://files.diariodarepublica.pt/1s/1999/11/256b00/75697571.pdf), sendo:
+Tarifa de pilotagem
+
+1 - A tarifa de pilotagem (PJ) inclui seis pacotes (J) e é calculada por manobra pela fórmula [[[(ver fórmula no documento original)](https://files.diariodarepublica.pt/1s/1999/11/256b00/75697571.pdf)](https://files.diariodarepublica.pt/1s/1999/11/256b00/75697571.pdf)](https://files.diariodarepublica.pt/1s/1999/11/256b00/75697571.pdf), sendo:
 
 PU = 1200$00 - taxa unitária de pilotagem;
 
 CJ - coeficiente específico do pacote (J), de acordo com a seguinte tabela:
 
-[(ver tabela no documento original)](https://files.diariodarepublica.pt/1s/1999/11/256b00/75697571.pdf)
+[[[[[[(ver tabela no documento original)](https://files.diariodarepublica.pt/1s/1999/11/256b00/75697571.pdf)](https://files.diariodarepublica.pt/1s/1999/11/256b00/75697571.pdf)](https://files.diariodarepublica.pt/1s/1999/11/256b00/75697571.pdf)](https://files.diariodarepublica.pt/1s/1999/11/256b00/75697571.pdf)](https://files.diariodarepublica.pt/1s/1999/11/256b00/75697571.pdf)](https://files.diariodarepublica.pt/1s/1999/11/256b00/75697571.pdf)
 
 2 - ...
 
-###### Artigo 16.º — Tarifa de reboque
+Artigo 16.º
+
+Tarifa de reboque
 
 1 - A tarifa de reboque (RJi) é estabelecida por classes de GT dos navios, sendo as respectivas taxas fixadas por operação/hora e por rebocador, de acordo com a seguinte tabela:
 
-[(ver tabela no documento original)](https://files.diariodarepublica.pt/1s/1999/11/256b00/75697571.pdf)
+[[[[[[(ver tabela no documento original)](https://files.diariodarepublica.pt/1s/1999/11/256b00/75697571.pdf)](https://files.diariodarepublica.pt/1s/1999/11/256b00/75697571.pdf)](https://files.diariodarepublica.pt/1s/1999/11/256b00/75697571.pdf)](https://files.diariodarepublica.pt/1s/1999/11/256b00/75697571.pdf)](https://files.diariodarepublica.pt/1s/1999/11/256b00/75697571.pdf)](https://files.diariodarepublica.pt/1s/1999/11/256b00/75697571.pdf)
 
 2 - ...
 
@@ -237,4 +259,4 @@ CJ - coeficiente específico do pacote (J), de acordo com a seguinte tabela:
 
 2.º O presente diploma entra em vigor no dia 1 de Janeiro de 2000.
 
-**O Ministro do Equipamento, do Planeamento e da Administração do Território, João Cardona Gomes Cravinho, em 15 de Outubro de 1999.**
+O Ministro do Equipamento, do Planeamento e da Administração do Território, João Cardona Gomes Cravinho, em 15 de Outubro de 1999.

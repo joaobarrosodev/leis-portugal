@@ -20,7 +20,7 @@ publication:
   reference: Diário da República n.º 163/1998, 5º Suplemento, Série I-B de 1998-07-17
   number: '163'
   series: I
-  supplement: 5º Suplemento
+  supplement: null
   pages: 3470-(67) a 3470-(74)
   pdf_url: https://files.diariodarepublica.pt/1s/1998/07/163b05/00670074.pdf
 entry_into_force_dates: []
@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/413-s/1998/07/17/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/413-s-1998-429626
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2004-03-12T00:00:00Z'
+  retrieved_at: '2026-10-23T14:08:45Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: d281de435ab3ed33399245069e53d3d9931da775989873a93e494d8e0428db82
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 275aaa26f7049cb24dfc79683b89f3904aa4975b1393043f12d90d2eb7c96c5f
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T14:08:45Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,18 +67,36 @@ reuse:
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
 - Bacharelato
-- Plano de Estudos
 - Curso de Pilotagem
 - Ensino Náutico
 - Ensino Oficial
 - Ensino Profissional
-- Licenciatura
 - Ensino Superior
+- Licenciatura
+- Plano de Estudos
 relationships:
 - type: amended_by
   target: pt:dre:533660:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:358283:por
+  label: "Alterada a redacção dos quadros n.º 2, 5 e 6 anexos ao presente doplima, pela PORT.503/99.1999.07.15.MEPAT DR.IS-A\
+    \ [163] DE 15/JUL/1999\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/503-1999-358283
+  date: '1999-07-15'
+- type: amended_by
+  target: pt:dre:173878:por
+  label: "Alterado o Anexo ao presente diploma, na redacção da Port 503/99, de 15-Jul, pela PORT.1153/2002.2002.08.28.MCES,\
+    \ DR.IS-B [198]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/1153-2002-173878
+  date: '2002-08-28'
+- type: amended_by
+  target: pt:dre:533660:por
+  label: "Alterados os nºs 3º, 7º, 8º, 9º e 10º e o plano de estudos constante do anexo deste diploma, alterado pelas Port\
+    \ 503/99 de 15-Jul e 1153/2002 de 28-Ago, pela PORT.263/2004.12.03.2004.MCES, DR.IS-B [61] de 12.03.2004\04\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/263-2004-533660
+  date: '2004-03-12'
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/234-c/1998/07/28/p/dre
   label: null
@@ -87,16 +105,48 @@ relationships:
   target: eli:http://data.dre.pt/eli/lei/115/1997/09/19/p/dre
   label: null
   source: http://data.dre.pt/eli/lei/115/1997/09/19/p/dre
+- type: cites
+  target: pt:dre:180583:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:222418:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:289611:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:453184:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:563603:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:575744:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:614779:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:653145:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T14:08:45Z'
   warnings: []
   errors: []
 ---
@@ -379,9 +429,9 @@ Os prazos a que se referem os n.os 1 e 2 do n.º 11.º não se aplicam ao ano le
 
 Ministérios do Equipamento, do Planeamento e da Administração do Território e da Educação.
 
-**Assinada em 14 de Julho de 1998**
+Assinada em 14 de Julho de 1998
 
-**O Ministro do Equipamento, do Planeamento e da Administração do Território, João Cardona Gomes Cravinho. - Pelo Ministro da Educação, Alfredo Jorge Silva, Secretário de Estado do Ensino Superior.**
+O Ministro do Equipamento, do Planeamento e da Administração do Território, João Cardona Gomes Cravinho. - Pelo Ministro da Educação, Alfredo Jorge Silva, Secretário de Estado do Ensino Superior.
 
 ## ANEXO — Escola Náutica Infante D. Henrique
 

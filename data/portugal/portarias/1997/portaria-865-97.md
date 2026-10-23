@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/865/1997/09/10/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/865-1997-644500
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2006-06-22T00:00:00Z'
+  retrieved_at: '2026-10-23T14:05:28Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 156aefdc5bfddbf9ee0d0ec8026cd45dcd184f7a73ddcaf861700dbeb7180ff5
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 9e85815a66d4287c139a232b1a4e824a70cf4c80ac3ff52d92e750a224387437
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T14:05:28Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -74,6 +74,25 @@ relationships:
   target: pt:dre:370977:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:167375:por
+  label: "Anexados vários prédios rústicos à zona de caça associativa criada pela Port 558/94 de 12-Jul, na redacção da Port\
+    \ 44/95 de 18-Jan e do presente diploma, pelaPORT.121/2003.2003.02.01.MADRP DR.IS-B [27]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/121-2003-167375
+  date: '2003-02-01'
+- type: amended_by
+  target: pt:dre:623577:por
+  label: "Anexados vários prédios rústicos à zona de caça criada pela Port 558/94, de 12-Jul, alterada pelo presente diploma,\
+    \ pela PORT.82/2005.25.01.2005.MAPF, DR.IS-B [17] de 25.01.2005\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/82-2005-623577
+  date: '2005-01-25'
+- type: amended_by
+  target: pt:dre:370977:por
+  label: "Renovada por um periodo de 12 anos, a concessão da zona de caça concessionada pela Port 558/94 de 12-Jul, alterada\
+    \ pelo presente diploma, e anexados vários prédios rústicos à referida zona de caça, pela PORT.595/2006.22.06.2006.MADRP,\
+    \ DR.IS-B [119] de 22.06.2006\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/595-2006-370977
+  date: '2006-06-22'
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/251/1992/11/12/p/dre
   label: null
@@ -86,16 +105,36 @@ relationships:
   target: eli:http://data.dre.pt/eli/port/558/1994/07/12/p/dre
   label: null
   source: http://data.dre.pt/eli/port/558/1994/07/12/p/dre
+- type: cites
+  target: pt:dre:145017:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:294690:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:417646:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:455890:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:584874:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T14:05:28Z'
   warnings: []
   errors: []
 ---
@@ -128,8 +167,8 @@ Manda o Governo, pelo Ministro da Agricultura, do Desenvolvimento Rural e das Pe
 
 Ministério da Agricultura, do Desenvolvimento Rural e das Pescas.
 
-**Assinada em 8 de Agosto de 1997.**
+Assinada em 8 de Agosto de 1997.
 
 Pelo Ministro da Agricultura, do Desenvolvimento Rural e das Pescas, Luís Manuel Capoulas Santos, Secretário de Estado da Agricultura e do Desenvolvimento Rural.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1997/09/209b00/48034803.pdf))](https://files.diariodarepublica.pt/1s/1997/09/209b00/48034803.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1997/09/209b00/48034803.pdf)

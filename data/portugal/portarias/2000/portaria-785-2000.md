@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2000/09/217b00/49604962.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/785/2000/09/19/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/785-2000-570308
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2010-01-21T00:00:00Z'
+  retrieved_at: '2026-10-23T14:25:54Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 913de3c0a273ff0d276ac15ff5c07b42b4875b1af332c420734da2dbf2531330
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 985eb40fc7a907aa66e4f50dd640a593f2254c882b5fb9f203f3d5a3682fef4e
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T14:25:54Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -85,16 +85,39 @@ relationships:
   target: eli:http://data.dre.pt/eli/port/46/1994/01/17/p/dre
   label: null
   source: http://data.dre.pt/eli/port/46/1994/01/17/p/dre
+- type: cites
+  target: pt:dre:510380:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:516748:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:653129:por
+  label: null
+  source: null
+- type: corrected_by
+  target: pt:dre:386208:por
+  label: "Rectificada pela DECL-RECT.14-C/2000.2000.10.31.PCM DR.IS-B [252]3ºSUPL\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/declaracao-rectificacao/14-c-2000-386208
+  date: '2000-10-31'
+- type: repealed_by
+  target: pt:dre:616793:por
+  label: "Revogada, a partir de 26.01.2010, a Port 46/94, de 17-Jan, alterada pelo presente diploma, pela PORT.55/2010.21.01.2010.MTSSO,\
+    \ DR.IS [14] de 21.01.2010\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/55-2010-616793
+  date: '2010-01-21'
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T14:25:54Z'
   warnings: []
   errors: []
 ---

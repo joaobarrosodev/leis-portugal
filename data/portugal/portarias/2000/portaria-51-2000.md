@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2000/02/033b00/04920493.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/51/2000/02/09/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/51-2000-402095
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2022-09-09T00:00:00Z'
+  retrieved_at: '2026-10-23T14:24:07Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: a5f8d68039c7514490c4e538dd96c3f44cbffd0715027ef0466204e45eed79fa
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 0547da9c79b9f86279ec2421ecae2d6caf3d277a3590212e5b00569d75f6515d
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T14:24:07Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,16 +66,23 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Marinha
+- Fardamento
 - Forças Armadas
+- Marinha
 - Regulamento
 - Regulamento dos Uniformes dos Militares da Marinha
-- Fardamento
 relationships:
 - type: amended_by
   target: pt:dre:200860991:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:534414:por
+  label: "Alterados os arts. 147.º, 148.º, 182.º e 190.º e a chamada (n) da tabela II do anexo A ao Regulamento de Uniformes\
+    \ dos Militares da Marinha aprovado pela Port 1445-A/95, de 30-Nov, na redacção do presente diploma, pela PORT.1425/2004.25.11.2004.MDN,\
+    \ DR.IS-B [277] de 25.11.2004\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/1425-2004-534414
+  date: '2004-11-25'
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/236/1999/06/25/p/dre
   label: null
@@ -88,16 +95,34 @@ relationships:
   target: eli:http://data.dre.pt/eli/port/1445-a/1995/11/30/p/dre
   label: null
   source: http://data.dre.pt/eli/port/1445-a/1995/11/30/p/dre
+- type: cites
+  target: pt:dre:393000:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:566657:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:658459:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:200860991:por
+  label: Revogada a Port 1445-A/95, de 30-nov, na redação do presente diploma pelo(a) Portaria n.º 234/2022 - Diário da República
+    n.º 175/2022, Série I de 2022-09-09, nos termos do art. 3.º
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/234-2022-200860991
+  date: '2022-09-09'
 article_structure:
   article_count: 3
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T14:24:07Z'
   warnings: []
   errors: []
 ---
@@ -118,7 +143,7 @@ Manda o Governo, pelo Ministro da Defesa Nacional, nos termos do disposto no art
 
 2.º São aditadas ao anexo B do RUMM, publicado em anexo à [Portaria n.º 1445-A/95](https://diariodarepublica.pt/dr/detalhe/portaria/1445-a-1995-658459), de 30 de Novembro, as figuras do posto de comodoro, que fazem parte integrante da presente portaria.
 
-**O Ministro da Defesa Nacional, Júlio de Lemos de Castro Caldas, em 21 de Janeiro de 2000.**
+O Ministro da Defesa Nacional, Júlio de Lemos de Castro Caldas, em 21 de Janeiro de 2000.
 
 REGULAMENTO DE UNIFORMES DOS MILITARES DA MARINHA
 

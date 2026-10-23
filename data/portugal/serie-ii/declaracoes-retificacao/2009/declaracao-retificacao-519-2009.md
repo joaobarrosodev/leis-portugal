@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/2s/2009/02/035000000/0695906959.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -46,18 +46,18 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/declaracao-rectificacao/519-2009-3485888
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2009-02-19T00:00:00Z'
+  retrieved_at: '2026-10-23T14:12:11Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: fcfe5dca249c037aba8e3e9665efc9b8fb608daa404efb2f5f9d084c66234bf1
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: ce7bb30cdee9ec34a3d26ea1225f56156e14851cfe8ef881aca47c861bd4d7e4
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T14:12:11Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -65,22 +65,30 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects: []
-relationships: []
+relationships:
+- type: cites
+  target: pt:dre:1005869:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:521257:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T14:12:11Z'
   warnings: []
   errors: []
 ---
 
-# Declaração de Rectificação n.º 519/2009
+# Declaração de rectificação n.º 519/2009
 
 António Augusto dos Reis Silva, Presidente do Conselho Executivo da Escola Secundária com 3.º Ciclo do Ensino Básico de Lousada, ao abrigo da alínea h) do n.º 1 do artigo 4.º do [Decreto-Lei n.º 162/2007](https://diariodarepublica.pt/dr/detalhe/decreto-lei/162-2007-521257), de 3 de Maio, declara que o [Despacho n.º 32446/2008](https://diariodarepublica.pt/dr/detalhe/despacho/32446-2008-1005869), de 19 de Dezembro, publicado no Diário da República, 2.ª série, n.º 245, de 19 de Dezembro, saiu com inexactidão que assim se rectifica que onde se lê «Maurícia Odete Oliveira Monteiro Araújo» deve ler-se «Maria Odete Oliveira Monteiro Araújo».
 

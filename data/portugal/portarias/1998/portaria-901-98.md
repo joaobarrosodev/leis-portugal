@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1998/10/237b00/53265339.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/901/1998/10/14/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/901-1998-234911
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2008-07-29T00:00:00Z'
+  retrieved_at: '2026-10-23T14:11:51Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: a53f353e2914b1f346653a516cdd861280869211505011b073420b03a6a797c7
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: e97f4ed59eb918997bf7ffefd586897d1a7c1deb033104461736f4b0c9b093a4
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T14:11:51Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -77,6 +77,11 @@ relationships:
   target: pt:dre:454810:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:313611:por
+  label: "Alterado o anexo I pelo DEC LEI.17/2001.2001.01.27.MS,DR.IS-A [23]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/17-2001-313611
+  date: '2001-01-27'
 - type: cites
   target: celex:31967L0548
   label: null
@@ -101,16 +106,26 @@ relationships:
   target: celex:31993L0040
   label: null
   source: http://data.europa.eu/eli/dir/1993/40/oj
+- type: corrected_by
+  target: pt:dre:235751:por
+  label: "Rectificada pela DECL-RECT.19-F/98.1998.10.19.PCM,DR.IS-B [252]3ºSUPL\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/declaracao-rectificacao/19-f-1998-235751
+  date: '1998-10-19'
+- type: repealed_by
+  target: pt:dre:454810:por
+  label: "Revogada, a partir de 27.09.2008, pelo DEC LEI.148/2008.29.07.2008.MADRP, DR.IS [145] de 29.07.2008\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/148-2008-454810
+  date: '2008-07-29'
 article_structure:
   article_count: 0
   section_count: 10
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T14:11:51Z'
   warnings: []
   errors: []
 ---
@@ -135,7 +150,7 @@ Manda o Governo, pelos Ministros da Agricultura, do Desenvolvimento Rural e das 
 
 Ministérios da Agricultura, do Desenvolvimento Rural e das Pescas e da Saúde.
 
-**Assinada em 24 de Setembro de 1998.**
+Assinada em 24 de Setembro de 1998.
 
 Pelo Ministro da Agricultura, do Desenvolvimento Rural e das Pescas, Luís Manuel Capoulas Santos, Secretário de Estado da Agricultura e do Desenvolvimento Rural. - Pela Ministra da Saúde, Francisco Ventura Ramos, Secretário de Estado da Saúde.
 
@@ -143,7 +158,7 @@ Pelo Ministro da Agricultura, do Desenvolvimento Rural e das Pescas, Luís Manue
 
 Ensaios analíticos, tóxico-farmacológicos e clínicos dos medicamentos veterinários que não constituam medicamentos imunológicos veterinários.
 
-# Parte II do processo de autorização de introdução no mercado
+Parte II do processo de autorização de introdução no mercado
 
 Todos os procedimentos analíticos devem adequar-se aos conhecimentos científicos existentes quando da apresentação do processo e ter sido objecto de validação. Devem ser fornecidos os resultados dos estudos de validação.
 
@@ -425,7 +440,7 @@ NOTA. - A descrição destes métodos deve ser acompanhada de indicações sobre
 
 Q - Outras informações
 
-# Parte III do processo de autorização de introdução no mercado
+Parte III do processo de autorização de introdução no mercado
 
 Documentação toxicológica e farmacológica
 
@@ -753,7 +768,7 @@ f) A discussão objectiva dos resultados obtidos, seguida de propostas de limite
 
 g) Um relatório pericial final que apresente uma análise crítica pormenorizada da informação acima referida à luz dos conhecimentos científicos aquando da apresentação do pedido, bem como um resumo detalhado de todos os resultados dos testes de resíduos e referências bibliográficas precisas.
 
-# Parte IV do processo de autorização de introdução no mercado
+Parte IV do processo de autorização de introdução no mercado
 
 #### SECÇÃO 3 — Ensaios pré-clínicos e clínicos
 

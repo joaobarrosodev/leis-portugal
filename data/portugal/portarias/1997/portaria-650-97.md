@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/650/1997/08/11/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/650-1997-203467
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1998-07-09T00:00:00Z'
+  retrieved_at: '2026-10-23T14:04:03Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 2c3262c398db4fb90bdc2ffd740f38a6afce711ba0de1a19d34c4c9ceb0e955c
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 63b88e72fc98efdef200c3cf9ef7ff1ee55a588521f63835e1218af2bd93d7ec
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T14:04:03Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,17 +66,17 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Médico
 - Carreira Médica
 - Carreira Médica Hospitalar
-- Formação Profissional
 - Clínica Geral
 - Concurso de Ingresso
 - Diploma
 - Ensino Médico
-- Saúde Pública
+- Formação Profissional
 - Internato Complementar
+- Médico
 - Regulamento
+- Saúde Pública
 relationships:
 - type: amended_by
   target: pt:dre:139472:por
@@ -94,16 +94,33 @@ relationships:
   target: eli:http://data.dre.pt/eli/port/950/1995/08/02/p/dre
   label: null
   source: http://data.dre.pt/eli/port/950/1995/08/02/p/dre
+- type: cites
+  target: pt:dre:288258:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:476721:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:480721:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:139472:por
+  label: "Revogado o n.º 2 pela PORT.390-A/98.1998.07.09.MS, DR.IS-B [156]SUPL\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/390-a-1998-139472
+  date: '1998-07-09'
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T14:04:03Z'
   warnings: []
   errors: []
 ---
@@ -156,6 +173,6 @@ Manda o Governo, pela Ministra da Saúde, o seguinte:
 
 Ministério da Saúde.
 
-**Assinada em 11 de Julho de 1997.**
+Assinada em 11 de Julho de 1997.
 
-**A Ministra da Saúde, Maria de Belém Roseira Martins Coelho Henriques de Pina.**
+A Ministra da Saúde, Maria de Belém Roseira Martins Coelho Henriques de Pina.

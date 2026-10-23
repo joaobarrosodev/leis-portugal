@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2001/03/061b00/14381441.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/203/2001/03/13/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/203-2001-390221
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2006-04-11T00:00:00Z'
+  retrieved_at: '2026-10-23T14:30:46Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: f7ef5c8cc4ad2e129c2daf6534c592df8c72f3a58534ac701f80be512a0167bb
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 1dd41682bc909ab79c88778314eccca75d36dc4fc1ceac54d8ae192e9f509a44
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T14:30:46Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -70,15 +70,21 @@ subjects:
 - Instituto Português da Juventude
 - Jovem
 - Mobilidade Geográfica
+- Política de Juventude
 - Programa
 - Programa Mobilidade e Intercâmbio de Jovens
-- Política de Juventude
 - Regulamento
 relationships:
 - type: amended_by
   target: pt:dre:651680:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:1635212:por
+  label: "Alterados os prazos estabelecidos na al. b) do art. 8º e al. b) do art. 10º do Regulamento pelo DESP.1378/2005(2ªSérie).05.01.2005.IPJ-PCM,\
+    \ DR.IIS [15] de 21.01.2005\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/despacho/1378-2005-1635212
+  date: '2005-01-05'
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/198/1996/10/17/p/dre
   label: null
@@ -91,16 +97,37 @@ relationships:
   target: eli:http://data.dre.pt/eli/port/745-i/1996/12/18/p/dre
   label: null
   source: http://data.dre.pt/eli/port/745-i/1996/12/18/p/dre
+- type: cites
+  target: pt:dre:226063:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:420231:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:437780:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:584813:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:651680:por
+  label: "Revogada pela PORT.345/2006.11.04.2006.PCM, DR.IS-B [72] de 11.04.2006\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/345-2006-651680
+  date: '2006-04-11'
 article_structure:
   article_count: 18
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T14:30:46Z'
   warnings: []
   errors: []
 ---

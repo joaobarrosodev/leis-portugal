@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/243/1999/04/07/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/243-1999-549051
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1999-04-27T00:00:00Z'
+  retrieved_at: '2026-10-23T14:14:08Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: b510cd350f6802f161c9c023ff9cc445453106d476a1172ac40af29e95a22e80
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 71e0f82cba8af9baaaa5d302b18ad5d7a4313030fddfd5c9793b293eb5d3b9bd
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T14:14:08Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,12 +66,12 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
+- Benefícios Fiscais
 - Código do IRC
+- IRC
 - Isenção Fiscal
 - Mecenato
 - Mecenato Cultural
-- IRC
-- Benefícios Fiscais
 relationships:
 - type: amended_by
   target: pt:dre:408907:por
@@ -81,16 +81,25 @@ relationships:
   target: eli:http://data.dre.pt/eli/lei/127-b/1997/12/20/p/dre
   label: null
   source: http://data.dre.pt/eli/lei/127-b/1997/12/20/p/dre
+- type: cites
+  target: pt:dre:659563:por
+  label: null
+  source: null
+- type: corrected_by
+  target: pt:dre:408907:por
+  label: "Rectificada pela DECL-RECT.10-Z/99.1999.04.27.PCM DR.IS-B [101]2ºSUPL\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/declaracao-rectificacao/10-z-1999-408907
+  date: '1999-04-27'
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T14:14:08Z'
   warnings: []
   errors: []
 ---
@@ -119,6 +128,6 @@ Considerando finalmente que alguns organismos deste Ministério celebraram já p
 
 Manda o Governo, pelos Ministros das Finanças e da Cultura, que os donativos a atribuir às actividades e programas culturais a realizar, no período de 1998 e 1999, pelas entidades Associação Comercial de Aveiro, Associação Euro-Parques Centro Económico e Cultural, Associação World Monuments Fund - Portugal, Colectividade Cultural e Recreativa de Santa Catarina - Chapitô, Comissão Organizadora do Cinanima, Ecomuseu do Zêzere, Fundação Bissaya-Barreto, Fundação Calouste Gulbenkian e serviços dependentes, Fundação Casa de Mateus, Fundação Luso-Brasileira para o Desenvolvimento do Mundo de Língua Portuguesa, Fundação Mário Soares, Fundação Ricardo do Espírito Santo Silva, Lithoartis e Observatório das Actividades Culturais, bem como pelas entidades do Ministério da Cultura que prosseguem as actividades acima referidas: Delegação Regional da Cultura do Norte, Delegação Regional da Cultura do Centro, Delegação Regional da Cultura do Alentejo, Delegação Regional da Cultura do Algarve, Gabinete das Relações Internacionais, Fundo de Fomento Cultural, Instituto Português do Património Arquitectónico e serviços dependentes, Instituto Português de Arqueologia e serviços dependentes, Instituto Português de Museus e serviços dependentes, Instituto de Arte Contemporânea, Centro Português de Fotografia, Instituto Português da Arte Cinematográfica e Audiovisual, Cinemateca Portuguesa - Museu do Cinema, Biblioteca Nacional, Instituto Português do Livro e das Bibliotecas e serviços dependentes, Instituto dos Arquivos Nacionais/Torre do Tombo e serviços dependentes, Instituto Português das Artes do Espectáculo, Teatro Nacional D. Maria II, Teatro Nacional de São João, Teatro Nacional de São Carlos, Companhia Nacional de Bailado, Orquestra Nacional do Porto, Fundação de Serralves e Fundação das Descobertas, ficam abrangidos pelo n.º 3 do artigo 39.º do CIRC, sendo considerados custos ou perdas do exercício na sua totalidade.
 
-**Assinada em 29 de Março de 1999.**
+Assinada em 29 de Março de 1999.
 
-**O Ministro das Finanças, António Luciano Pacheco de Sousa Franco. - O Ministro da Cultura, Manuel Maria Ferreira Carrilho.**
+O Ministro das Finanças, António Luciano Pacheco de Sousa Franco. - O Ministro da Cultura, Manuel Maria Ferreira Carrilho.

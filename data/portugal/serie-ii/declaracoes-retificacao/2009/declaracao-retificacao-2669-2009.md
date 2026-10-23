@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/2s/2009/10/211000000/4432944329.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -47,18 +47,18 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/declaracao-rectificacao/2669-2009-3276726
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2009-10-30T00:00:00Z'
+  retrieved_at: '2026-10-23T14:08:20Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 43bf36a6e1fdb2b6c1932408111772401fb6ca746ae8f6aa6cab2b909b11a74e
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 25f4e87c5b3ad108408b030e6099a931b234b9fae4dbf97d58c1f76abdf60024
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T14:08:20Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,25 +66,39 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects: []
-relationships: []
+relationships:
+- type: cites
+  target: pt:dre:247675:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:603228:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:603229:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T14:08:20Z'
   warnings: []
   errors: []
 ---
 
-# Declaração de Rectificação n.º 2669/2009
+# Declaração de rectificação n.º 2669/2009
 
 Por ter saído com inexactidão no Diário da República, 2.ª série, n.º 181, de 23 de Setembro de 2009 (p. 38 786), o despacho (extracto) n.º 21400/2009, rectifica-se o mesmo:
 
 «Ao abrigo do disposto nos n.os 5 e 6 do artigo 4.º do [Decreto-Lei n.º 82/2009](https://diariodarepublica.pt/dr/detalhe/decreto-lei/82-2009-603229), de 2 de Abril, conjugado com a alínea d) do artigo 15.º do [Decreto-Lei n.º 28/2008](https://diariodarepublica.pt/dr/detalhe/decreto-lei/28-2008-247675), de 22 de Fevereiro, com a redacção dada pelo artigo 12.º do [Decreto-Lei n.º 81/2009](https://diariodarepublica.pt/dr/detalhe/decreto-lei/81-2009-603228), de 2 de Abril, designo, em comissão de serviço, delegado de saúde adjunto o Dr. José Manuel Batata Faria, assistente graduado da carreira médica de saúde pública, sob proposta do conselho directivo da Administração Regional de Saúde do Centro, I. P., ouvido o director executivo do Agrupamento de Centros de Saúde/ACES Baixo Mondego II.»
 
 1 de Outubro de 2009. - O Director-Geral, Francisco George.
+
+202493086

@@ -20,7 +20,7 @@ publication:
   reference: Diário da República n.º 21/2001, 1º Suplemento, Série I-B de 2001-01-25
   number: '21'
   series: I
-  supplement: 1º Suplemento
+  supplement: null
   pages: 364-(2) a 364-(5)
   pdf_url: https://files.diariodarepublica.pt/1s/2001/01/021b01/00020005.pdf
 entry_into_force_dates: []
@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/46-a/2001/01/25/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/46-a-2001-220163
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2008-06-02T00:00:00Z'
+  retrieved_at: '2026-10-23T14:32:23Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: ff0379523afbcde1ea0d079ff7e51934c439de5bf80546c0e84efd2fa1ba3704
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 7e4584f71c7c19a16fb01caa6e90655c22eae352b01906a328ccec9615fecf1f
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T14:32:23Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,21 +66,70 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Financiamento
-- Exploração Pecuária
+- Agricultura
 - Apoio ao Investimento
 - Exploração Agrícola
-- Ruris
+- Exploração Pecuária
+- Financiamento
+- Pecuária
 - Política Agrícola
 - Região Agrária
 - Região Desfavorecida
-- Pecuária
-- Agricultura
+- Ruris
 relationships:
 - type: amended_by
   target: pt:dre:448957:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:481940:por
+  label: "Alterado o anexo III do Regulamento aprovado pelo presente diploma com a redacção dada pelas Ports. 956/2001, de\
+    \ 10-Ago, 134/2002, de 09-Fev e 193/2001, de 22-Fev, pela PORT.1190/2003.10.10.2003.MADRP, DR.IS-B [235] de 10.10.2003\0\
+    \0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/1190-2003-481940
+  date: '2001-01-25'
+- type: amended_by
+  target: pt:dre:522213:por
+  label: "Alterados os arts 3º, 4º e 10º do presente Regulamento pela PORT.956/2001.2001.08.10.MADRP DR.IS-B [185]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/956-2001-522213
+  date: '2001-08-10'
+- type: amended_by
+  target: pt:dre:273667:por
+  label: "Alterados os arts. 4.º (na redacção da Port 956/2001, de 10-Ago) 8.º, 9.º e 12.º e os anexos II e III do Regulamento\
+    \ aprovado pelo presente diploma, pela PORT.134/2002.2002.02.09.MADRP DR.IS-B [34]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/134-2002-273667
+  date: '2002-02-09'
+- type: amended_by
+  target: pt:dre:187502:por
+  label: "Alterado o art. 4.º (na redacção das Ports 956/2001, de 10-Ago e 134/2001, de 09-Fev) os arts. 8.º, 9.º, 12.º e\
+    \ o anexo I (na redacção da Port 134/2002, de 09-Fev) e os arts. 5.º, 6.º, 7.º, 13.º e o anexo I do Regulamento constante\
+    \ do presente diploma, pela PORT.193/2003.2003.02.22.MADRP DR.IS-B [45]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/193-2003-187502
+  date: '2003-02-22'
+- type: amended_by
+  target: pt:dre:596288:por
+  label: "Alterados os arts. 7º e 12º e os anexos II e III do Regulamento aprovado pelo presente diploma, com a redacção dada\
+    \ pelas Port 134/2002 de 09-Fev, Port 193/2003 de 22-Fev e 1190/2003 de 10-Out, pela PORT.177/2005.14.02.2005.MAPF, DR.IS-B\
+    \ [31] de 14.02.2005\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/177-2005-596288
+  date: '2005-02-14'
+- type: amended_by
+  target: pt:dre:683668:por
+  label: "Cessada a admissão de novas candidaturas às ajudas previstas no Regulamento e permitida a prorrogação, por mais\
+    \ um ano, das candidaturas cujo termo tenha ocorrido em 2005 aos beneficiários com candidaturas às ajudas previstas no\
+    \ mesmo Regulamento aprovado pelo presente diploma- com as alterações posteriormente introduzidas pelas Port 956/2001\
+    \ de 10-Ago, 134/2002 de 09-Fev, 193/2003 de 22-Fev, 1190/2003 de 10-Out e 177/2005 de 14-Fev - pela PORT.135/2006.16.02.2006.MADRP,\
+    \ DR.IS-B [34] de 16.02.2006\0006\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/135-2006-683668
+  date: '2006-02-16'
+- type: amended_by
+  target: pt:dre:448957:por
+  label: "Determinadas as consequências da falta de confirmação ou de rectificação anual das candidaturas, prevista no n.º\
+    \ 2 do artigo 5.º do Regulamento de Aplicação da Intervenção Indemnizações Compensatórias, aprovado pelo presente diploma,\
+    \ e republicado pela Portaria n.º 193/2003, de 22 de Fevereiro, pela PORT.391/2008.02.06.2008.MADRP, DR.IS [105] de 02.06.2008\0\
+    \0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/391-2008-448957
+  date: '2008-06-02'
 - type: cites
   target: celex:31992R3508
   label: null
@@ -96,13 +145,13 @@ relationships:
 article_structure:
   article_count: 13
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T14:32:23Z'
   warnings: []
   errors: []
 ---
@@ -127,7 +176,7 @@ Manda o Governo, pelo Ministro da Agricultura, do Desenvolvimento Rural e das Pe
 
 3.º É revogada a secção II do capítulo V da Portaria n.º 195/98, de 24 de Março.
 
-**O Ministro da Agricultura, do Desenvolvimento Rural e das Pescas, Luís Manuel Capoulas Santos, em 25 de Janeiro de 2001.**
+O Ministro da Agricultura, do Desenvolvimento Rural e das Pescas, Luís Manuel Capoulas Santos, em 25 de Janeiro de 2001.
 
 REGULAMENTO DE APLICAÇÃO DA INTERVENÇÃO INDEMNIZAÇÕES COMPENSATÓRIAS
 

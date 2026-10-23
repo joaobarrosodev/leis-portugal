@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1998/11/254b00/57945795.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/949/1998/11/03/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/949-1998-223036
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2001-09-29T00:00:00Z'
+  retrieved_at: '2026-10-23T14:12:07Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: b24b6c44c2309a0dac99cd90bc3afa14ef24d9fe293d19d9da9da672727a33f2
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: de908f374f6e289a5a8d0aa41838e7d9f93b08f29598714d041c6feb2c33e113
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T14:12:07Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,17 +66,17 @@ reuse:
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
 - ÁREA Metropolitana
-- Direcção Geral do Tesouro
 - Contrato de Mútuo
 - Crédito à Habitação
-- Lisboa
+- Direcção Geral do Tesouro
 - Habitação Social
 - Instituto Nacional de Habitação
 - JURO Bonificado
 - Juros
+- Lisboa
+- Porto
 - Programa Especial de Realojamento nas Áreas Metropolitanas de Lisboa e Porto
 - TAXA de JURO
-- Porto
 relationships:
 - type: amended_by
   target: pt:dre:613693:por
@@ -94,16 +94,49 @@ relationships:
   target: eli:http://data.dre.pt/eli/port/673/1993/07/19/p/dre
   label: null
   source: http://data.dre.pt/eli/port/673/1993/07/19/p/dre
+- type: cites
+  target: pt:dre:274242:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:325565:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:325566:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:392647:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:418827:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:431037:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:549393:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:613693:por
+  label: "Revogada pela PORT.1149/2001.2001.09.29.MF, DR.IS-B [227] de 29/Set/2001\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/1149-2001-613693
+  date: '2001-09-29'
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T14:12:07Z'
   warnings: []
   errors: []
 ---
@@ -150,6 +183,6 @@ Manda o Governo, pelos Ministros das Finanças e do Equipamento, do Planeamento 
 
 Ministérios das Finanças e do Equipamento, do Planeamento e da Administração do Território.
 
-**Assinada em 19 de Outubro de 1998**
+Assinada em 19 de Outubro de 1998
 
-**O Ministro das Finanças, António Luciano Pacheco de Sousa Franco. - O Ministro do Equipamento, do Planeamento e da Administração do Território, João Cardona Gomes Cravinho.**
+O Ministro das Finanças, António Luciano Pacheco de Sousa Franco. - O Ministro do Equipamento, do Planeamento e da Administração do Território, João Cardona Gomes Cravinho.

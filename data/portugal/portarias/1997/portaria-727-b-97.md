@@ -20,7 +20,7 @@ publication:
   reference: Diário da República n.º 193/1997, 2º Suplemento, Série I-B de 1997-08-22
   number: '193'
   series: I
-  supplement: 2º Suplemento
+  supplement: null
   pages: 4378-(8) a 4378-(8)
   pdf_url: https://files.diariodarepublica.pt/1s/1997/08/193b02/00080008.pdf
 entry_into_force_dates: []
@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/727-b/1997/08/22/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/727-b-1997-635463
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1997-08-22T00:00:00Z'
+  retrieved_at: '2026-10-23T14:04:41Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 01b0e4557a4a17f5074b65f465f3808b4d0ff660f0c0966a8b1696572324dbaf
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 630f3385c7b9c8e35b744f97c2f337b30935af7a26e82f76bf2c11851274e68d
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T14:04:41Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -79,16 +79,32 @@ relationships:
   target: eli:http://data.dre.pt/eli/dec-lei/75/1997/04/03/p/dre
   label: null
   source: http://data.dre.pt/eli/dec-lei/75/1997/04/03/p/dre
+- type: cites
+  target: pt:dre:314396:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:333290:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:361157:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:526782:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T14:04:41Z'
   warnings: []
   errors: []
 ---
@@ -109,6 +125,6 @@ Enfermagem (entrada em Abril) - 7035956 - 25.
 
 Ministérios da Educação e da Saúde.
 
-**Assinada em 31 de Julho de 1997.**
+Assinada em 31 de Julho de 1997.
 
 Pelo Ministro da Educação, Guilherme d'Oliveira Martins, Secretário de Estado da Administração Educativa. - Pela Ministra da Saúde, José Eduardo Arcos Gomes dos Reis, Secretário de Estado da Saúde.

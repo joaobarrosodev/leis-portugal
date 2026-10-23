@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1997/07/160b00/34813482.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/484/1997/07/14/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/484-1997-150917
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2000-10-11T00:00:00Z'
+  retrieved_at: '2026-10-23T14:03:03Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: c66f5e614d813b1419aee95f09996372d209195f57d8b21e60d7d983e0e1b867
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: a35199d6cdb077981c81462473c95ca15e37eb504e0b6f869d1649ec6599a3d9
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T14:03:03Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,26 +67,65 @@ reuse:
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
 - Barcelos
-- Plano de Estudos
 - Curso de Contabilidade
 - Escola Superior de Gestão
 - Instituto Politécnico
 - Instituto Politécnico do Cávado e do AVE
+- Plano de Estudos
 relationships:
 - type: amended_by
   target: pt:dre:542226:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:659757:por
+  label: "Aditado um nº 9-A ao presente diploma, pela PORT.1028/97.1997.09.24.ME DR.IS-B [221] \0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/1028-1997-659757
+  date: '1997-09-24'
+- type: cites
+  target: pt:dre:220093:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:222418:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:451375:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:453184:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:470779:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:556606:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:575910:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:542226:por
+  label: "Revogado, findo o processo de transição fixado nos termos do art. 31.º do Regulamento Geral dos Cursos Bietápicos\
+    \ de Licenciatura das Escolas de Ensino Superior Politécnico, pela PORT.978/2000.2000.10.11.ME DR.IS-B [235] \0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/978-2000-542226
+  date: '2000-10-11'
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T14:03:03Z'
   warnings: []
   errors: []
 ---
@@ -161,7 +200,7 @@ O curso entra em funcionamento progressivamente, um ano curricular em cada ano l
 
 Ministério da Educação.
 
-**Assinada em 17 de Junho de 1997.**
+Assinada em 17 de Junho de 1997.
 
 Pelo Ministro da Educação, Alfredo Jorge Silva, Secretário de Estado do Ensino Superior.
 
@@ -175,4 +214,4 @@ Regime: nocturno
 
 Grau: bacharel
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1997/07/160b00/34813482.pdf))](https://files.diariodarepublica.pt/1s/1997/07/160b00/34813482.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1997/07/160b00/34813482.pdf)

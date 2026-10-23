@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/677/1997/08/12/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/677-1997-202470
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2001-02-23T00:00:00Z'
+  retrieved_at: '2026-10-23T14:04:13Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: f7b0ec62b601e42d3508df31fcc1eea7623bf665d78edc4937e165494e5f1389
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: b4f06bc0c0403c6f1f1892d3b8ff32e5be1c151c4d1690e043743efb70d13a72
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T14:04:13Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,17 +66,22 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Plano de Estudos
 - Curso de Direito
 - Ensino Particular
-- Figueira da Foz
 - Ensino Superior
+- Figueira da Foz
+- Plano de Estudos
 - Universidade Internacional
 relationships:
 - type: amended_by
   target: pt:dre:386220:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:386220:por
+  label: "Altera o Plano de Estudos pela PORT.125/2001.2001.02.23.ME DR.IS-B [46]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/125-2001-386220
+  date: '2001-02-23'
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/16/1994/01/22/p/dre
   label: null
@@ -89,16 +94,28 @@ relationships:
   target: eli:http://data.dre.pt/eli/lei/37/1994/11/11/p/dre
   label: null
   source: http://data.dre.pt/eli/lei/37/1994/11/11/p/dre
+- type: cites
+  target: pt:dre:215896:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:512030:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:533820:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T14:04:13Z'
   warnings: []
   errors: []
 ---
@@ -159,7 +176,7 @@ Nos termos do disposto no n.º 1 do artigo 7.º do [Decreto-Lei n.º 175/96](htt
 
 Ministério da Educação.
 
-**Assinada em 17 de Julho de 1997.**
+Assinada em 17 de Julho de 1997.
 
 Pelo Ministro da Educação, Alfredo Jorge Silva, Secretário de Estado do Ensino Superior.
 
@@ -169,4 +186,4 @@ Curso: Direito
 
 Grau: licenciado
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1997/08/185b00/42024203.pdf))](https://files.diariodarepublica.pt/1s/1997/08/185b00/42024203.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1997/08/185b00/42024203.pdf)

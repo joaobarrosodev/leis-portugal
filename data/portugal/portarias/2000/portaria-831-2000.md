@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/831/2000/09/22/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/831-2000-558067
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2006-03-17T00:00:00Z'
+  retrieved_at: '2026-10-23T14:26:15Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 1e39df7c8ad4a0d8003eba83cd80cb109024d61ae606e18a0f5c2cfddeffc676
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 4250680230cf0ea28891932feea71551a0e13e01f10b5a0cb9284e0d7f381298
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T14:26:15Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -65,16 +65,27 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Plano de Estudos
+- Ensino Superior
 - Mestrado
 - Mestrado em Sistemas Interactivos
-- Ensino Superior
+- Plano de Estudos
 - Universidade Fernando Pessoa
 relationships:
 - type: amended_by
   target: pt:dre:667161:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:172734:por
+  label: "Alterada a denominação de mestrado em Sistemas Interactivos para Sistema de Informação e Multimédia e alterado o\
+    \ anexo ao presente diploma, pela PORT.75/2003.2003.01.21.MCES, DR.IS-B [17]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/75-2003-172734
+  date: '2003-01-21'
+- type: amended_by
+  target: pt:dre:667161:por
+  label: "Alterado o n.º 9.º pela PORT.269/2006.17.03.2006.MCTES, DR.IS-B [55] de 17.03.2006\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/269-2006-667161
+  date: '2006-03-17'
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/107/1996/07/31/p/dre
   label: null
@@ -99,16 +110,40 @@ relationships:
   target: eli:http://data.dre.pt/eli/port/57/1993/01/13/p/dre
   label: null
   source: http://data.dre.pt/eli/port/57/1993/01/13/p/dre
+- type: cites
+  target: pt:dre:150335:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:225809:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:406885:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:512030:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:533820:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:588261:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T14:26:15Z'
   warnings: []
   errors: []
 ---
@@ -217,10 +252,10 @@ QUADRO N.º 1
 
 1.º semestre
 
-[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2000/09/220b00/50905091.pdf)
+[[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2000/09/220b00/50905091.pdf)](https://files.diariodarepublica.pt/1s/2000/09/220b00/50905091.pdf)
 
 QUADRO N.º 2
 
 2.º semestre
 
-[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2000/09/220b00/50905091.pdf)
+[[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2000/09/220b00/50905091.pdf)](https://files.diariodarepublica.pt/1s/2000/09/220b00/50905091.pdf)

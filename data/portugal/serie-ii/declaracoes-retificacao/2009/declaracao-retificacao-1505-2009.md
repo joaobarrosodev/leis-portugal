@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/2s/2009/06/114000000/2376223762.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -47,18 +47,18 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/declaracao-rectificacao/1505-2009-3336108
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2009-06-16T00:00:00Z'
+  retrieved_at: '2026-10-23T14:01:32Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: dbf64436fb7571ec16b4102fb9dc585fe1b2750083c96ab31fe3b971ca2ab885
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: d92dcf1505f46f1f7f19f078b8fa582da0fcc6a12947ae03792f19a7b37b9e43
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T14:01:32Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,25 +66,31 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects: []
-relationships: []
+relationships:
+- type: cites
+  target: pt:dre:468663:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T14:01:32Z'
   warnings: []
   errors: []
 ---
 
-# Declaração de Rectificação n.º 1505/2009
+# Declaração de rectificação n.º 1505/2009
 
 Procedimento Concursal para Celebração de Contrato de Trabalho por Tempo Indeterminado com Um Indivíduo na Categoria de Assistente Técnico
 
 Na sequência do aviso n.º A/31/2009, datado de 07 de Abril de 2009, publicado no Diário da República, 2.ª série - n.º 76 de 20 de Abril de 2009, onde se lê «Requisitos de admissão: Os interessados devem possuir como habilitações literárias o 11.º ano de escolaridade;» deverá ler-se «Requisitos de admissão: Os interessados devem possuir como habilitações literárias o 12.º ano de escolaridade, por força do estipulado na alínea b), do n.º 1, do artigo 44.º, da [Lei n.º 12-A/2008](https://diariodarepublica.pt/dr/detalhe/lei/12-a-2008-468663), de 27 de Fevereiro.»
 
 4 de Junho de 2009. - A Presidente do Júri, Anabela Gomes Vitorino Leal.
+
+301889686

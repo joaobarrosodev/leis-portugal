@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/2s/2009/07/143000000/2980429804.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -47,18 +47,18 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/declaracao-rectificacao/1796-2009-3516517
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2009-07-27T00:00:00Z'
+  retrieved_at: '2026-10-23T14:03:13Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 4e30c7b52d2575cfcb338e0f01389c78634a1fe1a53c7071e6c5f75d18b7ded6
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: fd2c812930c2592c48c9c863e0955dea0c88bfc70d5ab4664791aeb1026e5c25
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T14:03:13Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -70,13 +70,13 @@ relationships: []
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T14:03:13Z'
   warnings: []
   errors: []
 ---
@@ -88,3 +88,5 @@ Declaração de rectificação n.º 1796/2009
 Por ter saído com inexactidão, o aviso n.º 12534/2009, publicado no Diário da República 2.ª série n.º 135, de 15 de Julho de 2009, pág. 28014,onde se lê "Ref.ª B - 1 Assistente Operacional (Auxiliar de Acção Educativa) para exercer funções de complexidade funcional de grau 1, para o desempenho da actividade no Agrupamento Vertical de Escolas de Ferreira do Alentejo.", deve ler - se Ref.ª B - 2 Assistentes Operacionais (Auxiliares de Acção Educativa) para exercer funções de complexidade funcional de grau 1, para o desempenho da actividade no Agrupamento Vertical de Escolas de Ferreira do Alentejo.
 
 15 de Julho de 2009. - O Presidente da Câmara, Aníbal Sousa Reis Coelho da Costa.
+
+302057832

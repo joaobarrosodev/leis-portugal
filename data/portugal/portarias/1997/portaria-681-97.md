@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1997/08/185b00/42104212.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/681/1997/08/12/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/681-1997-202581
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2006-11-02T00:00:00Z'
+  retrieved_at: '2026-10-23T14:04:18Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: d9bfee8f9dbf5fa98f5ecea86bad89be000f6198110aa8bb0dc615e3b6d51a26
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: ae5c79d287a7c97b9b82a4cc558ecb6d16d14de700e07fb8f1b67ecc8abc607d
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T14:04:18Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,25 +67,54 @@ reuse:
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
 - Bacharelato
+- Coimbra
 - Diploma
 - Instituto Politécnico
 - Licenciatura
-- Coimbra
 relationships:
 - type: amended_by
   target: pt:dre:546192:por
   label: Última alteração registada na importação inicial
   source: null
+- type: cites
+  target: pt:dre:222418:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:228234:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:498083:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:547192:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:571225:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:571419:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:546192:por
+  label: "Revogada pela PORT.1185/2006.02.11.2006.MCTES, DR.IS [211] de 02.11.2006\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/1185-2006-546192
+  date: '2006-11-02'
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T14:04:18Z'
   warnings: []
   errors: []
 ---
@@ -104,7 +133,7 @@ Manda o Governo, pelo Ministro da Educação, aprovar os modelos de cartas de cu
 
 Ministério da Educação.
 
-**Assinada em 23 de Julho de 1997.**
+Assinada em 23 de Julho de 1997.
 
 Pelo Ministro da Educação, Alfredo Jorge Silva, Secretário de Estado do Ensino Superior.
 
@@ -122,7 +151,7 @@ Faço saber que ... (ver nota c), filho de ... (ver nota d), natural de ... (ver
 
 Instituto Politécnico de Coimbra ... (ver nota l).
 
-**O Presidente, ... (ver nota m).**
+O Presidente, ... (ver nota m).
 
 O Administrador, ... (ver nota n).
 
@@ -166,7 +195,7 @@ Faço saber que ... (ver nota c), filho de ... (ver nota d), natural de ... (ver
 
 Instituto Politécnico de Coimbra ... (ver nota j).
 
-**O Presidente, ... (ver nota l).**
+O Presidente, ... (ver nota l).
 
 O Administrador, ... (ver nota m).
 
@@ -208,7 +237,7 @@ Faço saber que ... (ver nota c), filho de ... (ver nota d), natural de ... (ver
 
 Instituto Politécnico de Coimbra ... (ver nota j).
 
-**O Presidente, ... (ver nota l).**
+O Presidente, ... (ver nota l).
 
 O Administrador, ... (ver nota m).
 
@@ -250,7 +279,7 @@ Faço saber que ... (ver nota c), filho de ... (ver nota d), natural de ... (ver
 
 Instituto Politécnico de Coimbra ... (ver nota m).
 
-**O Presidente, ... (ver nota n).**
+O Presidente, ... (ver nota n).
 
 O Administrador, ... (ver nota o).
 
@@ -294,7 +323,7 @@ Faço saber que ... (ver nota c), filho de ... (ver nota d), natural de ... (ver
 
 Instituto Politécnico de Coimbra ... (ver nota l).
 
-**O Presidente, ... (ver nota m).**
+O Presidente, ... (ver nota m).
 
 O Administrador, ... (ver nota n).
 

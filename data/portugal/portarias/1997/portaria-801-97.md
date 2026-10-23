@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/801/1997/09/02/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/801-1997-640369
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1997-09-02T00:00:00Z'
+  retrieved_at: '2026-10-23T14:05:08Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 11b10c8df0011fee2f0575f4586a86f78ea4185d1210fb1a85ea0b8a3c8742ca
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 5a444b22465a324e9c67f2a639d739a84d9757aa1d4ce9a7178c25ecb29fe75c
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T14:05:08Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -68,9 +68,9 @@ subjects:
 - Definição de Competências
 - Direcção Geral dos Impostos
 - Lisboa
+- Porto
 - Secretaria Administrativa de Execução Fiscal
 - Tribunal Fiscal
-- Porto
 - Tribunal Tributário
 relationships:
 - type: cites
@@ -85,16 +85,28 @@ relationships:
   target: eli:http://data.dre.pt/eli/port/37/1994/01/14/p/dre
   label: null
   source: http://data.dre.pt/eli/port/37/1994/01/14/p/dre
+- type: cites
+  target: pt:dre:168775:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:509614:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:594675:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T14:05:08Z'
   warnings: []
   errors: []
 ---
@@ -129,6 +141,6 @@ Manda o Governo, pelo Ministro das Finanças, nos termos do artigo 3.º do [Decr
 
 Ministério das Finanças.
 
-**Assinada em 7 de Agosto de 1997.**
+Assinada em 7 de Agosto de 1997.
 
-**O Ministro das Finanças, António Luciano Pacheco de Sousa Franco.**
+O Ministro das Finanças, António Luciano Pacheco de Sousa Franco.

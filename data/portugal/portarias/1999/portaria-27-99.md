@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1999/01/014b00/03080308.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/27/1999/01/18/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/27-1999-194255
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2002-04-30T00:00:00Z'
+  retrieved_at: '2026-10-23T14:14:17Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 216c3a65006b6074de5fd31f9e0f1e5675fc9e24a16848c828f5041810bf4cec
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: d482649de7542c2ca1b2c7cf3540bd3684d4c622461f5eb59766112fd171d4b0
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T14:14:17Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,26 +66,26 @@ reuse:
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
 - Aproximação das Legislações
-- Valores Mobiliários
 - Bolsa de Derivados
 - Bolsa de Valores
-- Mercado de Cotações Oficiais
-- Mercado sem Cotações
-- Segundo Mercado da Bolsa de Valores de Lisboa
 - Cotação na Bolsa
-- Lisboa
-- Investimento
 - Direito de Estabelecimento
-- Livre Prestação de Serviços
+- Investimento
+- Lisboa
 - Lista
+- Livre Prestação de Serviços
 - Mercado de Capitais
+- Mercado de Cotações Oficiais
 - Mercado de Valores
 - Mercado Especial de Operações por Grosso
 - Mercado Financeiro
 - Mercado Interno CE
+- Mercado sem Cotações
 - Política Financeira
-- Sociedade Corretora
 - Porto
+- Segundo Mercado da Bolsa de Valores de Lisboa
+- Sociedade Corretora
+- Valores Mobiliários
 relationships:
 - type: amended_by
   target: pt:dre:364364:por
@@ -95,16 +95,26 @@ relationships:
   target: celex:31993L0022
   label: null
   source: http://data.europa.eu/eli/dir/1993/22/oj
+- type: repealed_by
+  target: pt:dre:585186:por
+  label: "Revogado o nº 3 da Lista pela PORT.113-A/2000.2000.02.29.MF DR.IS-B [50]SUPL\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/113-a-2000-585186
+  date: '2000-02-29'
+- type: repealed_by
+  target: pt:dre:364364:por
+  label: "Revogada pela PORT.505/2002.2002.04.30.MF DR.IS-B [100]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/505-2002-364364
+  date: '2002-04-30'
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T14:14:17Z'
   warnings: []
   errors: []
 ---
@@ -135,6 +145,6 @@ Manda o Governo, pelo Ministro das Finanças, ao abrigo do artigo 5.º do Decret
 
 Ministério das Finanças.
 
-**Assinada em 18 de Dezembro de 1998.**
+Assinada em 18 de Dezembro de 1998.
 
-**O Ministro das Finanças, António Luciano Pacheco de Sousa Franco.**
+O Ministro das Finanças, António Luciano Pacheco de Sousa Franco.

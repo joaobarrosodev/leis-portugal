@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1998/08/187b00/39743975.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/524/1998/08/14/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/524-1998-437800
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2001-05-31T00:00:00Z'
+  retrieved_at: '2026-10-23T14:09:35Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 4618ce684ec01f505dbd7d10e7c55d381c1cb70dd9fa8904de8c24962b453934
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 9d0a47b12dfbad0c4dab7a9bf7e07a316957592e682e734e34bebccfedbb7e07
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T14:09:35Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -65,14 +65,14 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Totobola
-- Totoloto
 - Jogos de Fortuna e Azar
-- Regulamento Geral dos Concursos do Joker
+- Joker
 - Regulamento
+- Regulamento Geral dos Concursos do Joker
 - Regulamento Geral dos Concursos do Totobola
 - Regulamento Geral dos Concursos do Totoloto
-- Joker
+- Totobola
+- Totoloto
 relationships:
 - type: amended_by
   target: pt:dre:332254:por
@@ -94,16 +94,50 @@ relationships:
   target: eli:http://data.dre.pt/eli/port/1328/1993/12/31/p/dre
   label: null
   source: http://data.dre.pt/eli/port/1328/1993/12/31/p/dre
+- type: cites
+  target: pt:dre:151498:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:151499:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:403119:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:632384:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:332245:por
+  label: "Revogada na parte respeitante ao Regulamento Geral dos Concursos do Joker, pela PORT.550/2001.2001.05.31.MS, DR.IS-B\
+    \ [126] de 2001/MAI/31\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/550-2001-332245
+  date: '2001-05-31'
+- type: repealed_by
+  target: pt:dre:332253:por
+  label: "Revogada, na parte respeitante ao Regulamento Geral dos Concursos do Totobola, pela PORT.549/2001.2001.05.31.MS,\
+    \ DR.IS-B [126] de 2001/MAI/31\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/549-2001-332253
+  date: '2001-05-31'
+- type: repealed_by
+  target: pt:dre:332254:por
+  label: "Revogada , na parte referente ao Regulamento Geral dos Concursos do Totoloto pela PORT.553/2001.2001.05.31.MS, DR.IS-B\
+    \ [126] de 31/MAI/2001\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/553-2001-332254
+  date: '2001-05-31'
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T14:09:35Z'
   warnings: []
   errors: []
 ---
@@ -150,6 +184,6 @@ Manda o Governo, pelos Ministros da Saúde e do Trabalho e da Solidariedade, o s
 
 Ministérios da Saúde e do Trabalho e da Solidariedade.
 
-**Assinada em 14 de Julho de 1998.**
+Assinada em 14 de Julho de 1998.
 
-**A Ministra da Saúde, Maria de Belém Roseira Martins Coelho Henriques de Pina. - O Ministro do Trabalho e da Solidariedade, Eduardo Luís Barreto Ferro Rodrigues.**
+A Ministra da Saúde, Maria de Belém Roseira Martins Coelho Henriques de Pina. - O Ministro do Trabalho e da Solidariedade, Eduardo Luís Barreto Ferro Rodrigues.

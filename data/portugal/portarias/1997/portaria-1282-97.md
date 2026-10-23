@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/1282/1997/12/31/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/1282-1997-321682
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1997-12-31T00:00:00Z'
+  retrieved_at: '2026-10-23T14:00:43Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: eac73631193d3ce729ddb141d6f57ab21ce7de66dd6f7bee9000ce0f640eb42e
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 51bf7e65f1c8e78b6a28c9c4b111c0d54ef3c0f8eda9e427cd4302b28542abe9
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T14:00:43Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,10 +66,10 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Plano de Estudos
 - Curso de Estudos Superiores Especializados em Educação Especial
-- Escola Superior de Educação
 - Ensino Superior
+- Escola Superior de Educação
+- Plano de Estudos
 - Torres Novas
 relationships:
 - type: cites
@@ -84,16 +84,36 @@ relationships:
   target: eli:http://data.dre.pt/eli/port/114/1995/02/03/p/dre
   label: null
   source: http://data.dre.pt/eli/port/114/1995/02/03/p/dre
+- type: cites
+  target: pt:dre:138544:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:187955:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:357905:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:512030:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:533820:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T14:00:43Z'
   warnings: []
   errors: []
 ---
@@ -126,7 +146,7 @@ O disposto na presente portaria aplica-se a partir da entrada em vigor da [Porta
 
 Ministério da Educação.
 
-**Assinada em 27 de Novembro de 1997.**
+Assinada em 27 de Novembro de 1997.
 
 Pelo Ministro da Educação, Alfredo Jorge Silva, Secretário de Estado do Ensino Superior.
 
@@ -138,4 +158,4 @@ Curso: Educação Especial
 
 Diploma de estudos superiores especializados
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1997/12/301b00/68856886.pdf))](https://files.diariodarepublica.pt/1s/1997/12/301b00/68856886.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1997/12/301b00/68856886.pdf)

@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/393/2000/07/11/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/393-2000-300825
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2000-07-11T00:00:00Z'
+  retrieved_at: '2026-10-23T14:23:17Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 6ab46c3d9f8984ffe334c3d2424e7d0c49d31c17b782ad8d4f133237274bf34f
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 2936c533244a68327ded2063f7d650c2c38eaa9483145395a28ccbcd5f92a60f
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T14:23:17Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,7 +66,10 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
+- Castelo Branco
+- Coimbra
 - Concurso
+- Concurso Local de Acesso
 - Curso de Canto
 - Curso de Ciências da Educação
 - Curso de Cinema
@@ -80,25 +83,22 @@ subjects:
 - Curso de Produção
 - Curso de Teatro
 - Ensino Oficial
-- Concurso Local de Acesso
+- Ensino Superior
 - Escola Superior de Artes Aplicadas
 - Escola Superior de Dança
 - Escola Superior de Música
 - Escola Superior de Teatro e Cinema
+- Estabelecimento de Ensino
+- Évora
 - Faculdade de Psicologia e de Ciências da Educação
 - Lisboa
-- Universidade de Lisboa
-- Universidade do Porto
-- Castelo Branco
-- Coimbra
-- Estabelecimento de Ensino
-- Regulamento
-- Ensino Superior
-- Évora
 - Porto
+- Regulamento
 - Universidade de Coimbra
 - Universidade de Évora
+- Universidade de Lisboa
 - Universidade do Minho
+- Universidade do Porto
 relationships:
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/296-a/1998/09/25/p/dre
@@ -112,16 +112,28 @@ relationships:
   target: eli:http://data.dre.pt/eli/port/598/1999/08/02/p/dre
   label: null
   source: http://data.dre.pt/eli/port/598/1999/08/02/p/dre
+- type: cites
+  target: pt:dre:138571:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:173481:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:344955:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T14:23:17Z'
   warnings: []
   errors: []
 ---

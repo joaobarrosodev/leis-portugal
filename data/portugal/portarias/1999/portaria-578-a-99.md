@@ -20,12 +20,12 @@ publication:
   reference: Diário da República n.º 174/1999, 2º Suplemento, Série I-B de 1999-07-28
   number: '174'
   series: I
-  supplement: 2º Suplemento
+  supplement: null
   pages: 4792-(6) a 4792-(6)
   pdf_url: https://files.diariodarepublica.pt/1s/1999/07/174b02/00060006.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/578-a/1999/07/28/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/578-a-1999-452881
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2019-08-30T00:00:00Z'
+  retrieved_at: '2026-10-23T14:16:23Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: a82bedf7b0a6a6a1916a8d0f2b16d27f05dfac112edea9812966d68b0a6f3e2c
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 7016bf0ec18928c92fb372f794327fed6465b8d7b0923deb52ae5506e214a51f
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T14:16:23Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,19 +66,25 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Ponte 25 de Abril
-- Transporte Ferroviário
+- Descanso Semanal Complementar
 - Feriado
-- Veículo
+- Ponte 25 de Abril
 - Segurança Rodoviária
 - Transporte de Mercadorias
-- Descanso Semanal Complementar
 - Transporte de Mercadorias Perigosas
+- Transporte Ferroviário
+- Veículo
 relationships:
 - type: amended_by
   target: pt:dre:124324705:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:683667:por
+  label: "Alterado o nº 1º da Port 331-B/98 de 01-Jun, com a redacção conferida pelo presente diploma, pela PORT.131/2006.16.02.2006.MAI,\
+    \ DR.IS-B [34] de 16.02.2006\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/131-2006-683667
+  date: '2006-02-16'
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/114/1994/05/03/p/dre
   label: null
@@ -99,16 +105,42 @@ relationships:
   target: eli:http://data.dre.pt/eli/port/331-b/1998/06/01/p/dre
   label: null
   source: http://data.dre.pt/eli/port/331-b/1998/06/01/p/dre
+- type: cites
+  target: pt:dre:152709:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:223835:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:250659:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:293132:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:457066:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:124324705:por
+  label: Revogado, a partir de 28.12.2019, a Port 331-B/98 de 01-jun, na redação do presente diploma, pelo(a) Portaria n.º
+    281/2019 - Diário da República n.º 166/2019, Série I de 2019-08-30
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/281-2019-124324705
+  date: '2019-08-30'
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T14:16:23Z'
   warnings: []
   errors: []
 ---

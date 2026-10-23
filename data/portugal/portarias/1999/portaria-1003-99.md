@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1999/11/262b00/79047911.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/1003/1999/11/10/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/1003-1999-683043
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2013-12-24T00:00:00Z'
+  retrieved_at: '2026-10-23T14:12:26Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 91c9e8e8717e9c2be8ea7075a746a15cb8452f99726a08a22a6fc585256f3f2b
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 0d0268dcdd0c9d2c2866310d5b54ec8eb13d096b00cd6e5a3ed597220d3857b1
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T14:12:26Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -88,16 +88,37 @@ relationships:
   target: eli:http://data.dre.pt/eli/port/330/1991/04/11/p/dre
   label: null
   source: http://data.dre.pt/eli/port/330/1991/04/11/p/dre
+- type: cites
+  target: pt:dre:196220:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:356515:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:584777:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:616423:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:483929:por
+  label: "Revogada pela PORT.368/2013.24.12.2013.PCM, DR.IS [249] de 24.12.2013\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/368-2013-483929
+  date: '2013-12-24'
 article_structure:
   article_count: 12
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T14:12:26Z'
   warnings: []
   errors: []
 ---
@@ -352,7 +373,7 @@ Auto de eliminação
 
 Aos ... dias do mês de ... de ..., no ..., na presença do abaixo assinado e nos termos da Portaria n.º ..., procedeu-se à eliminação, por ... (ver nota 1), da documentação identificada na relação anexa ao presente auto.
 
-**O Secretário de Justiça, ... (...).**
+O Secretário de Justiça, ... (...).
 
 (nota 1) Menção ao processo utilizado.
 
@@ -368,7 +389,7 @@ Auto de eliminação
 
 Aos ... dias do mês de ... de ..., no ..., na presença do abaixo assinado e nos termos da Portaria n.º ..., procedeu-se à eliminação, por ... (ver nota 1), da documentação identificada na relação anexa ao presente auto.
 
-**O Secretário de Justiça, ... (...).**
+O Secretário de Justiça, ... (...).
 
 (nota 1) Menção ao processo utilizado.
 

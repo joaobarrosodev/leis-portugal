@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/2s/2009/11/225000000/4712147121.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -47,18 +47,18 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/declaracao-rectificacao/2868-2009-2843845
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2009-11-19T00:00:00Z'
+  retrieved_at: '2026-10-23T14:09:35Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 3d7a37f07203e562035ae138fc46f4c5577421e6fe1bac7ab8b51572e36f0d4d
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 5ed6c785e5138680e80913c901582796c6a5ff5ac6f6fabcc03f7eae7dcc7bb9
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T14:09:35Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -70,13 +70,13 @@ relationships: []
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T14:09:35Z'
   warnings: []
   errors: []
 ---
@@ -88,3 +88,5 @@ Declaração de rectificação n.º 2868/2009
 Mediante declaração da entidade emitente e em virtude de ter sido publicado com inexactidão o despacho (extracto) n.º 20875/2009, no Diário da República, 2.ª série, n.º 181, de 17 de Setembro de 2009, rectifica-se que onde se lê «Gilberto Carlos Pereira de Magalhães (...) pelo período de 10 anos, com início em 1 de Agosto de 2009» deve ler-se «Gilberto Carlos Pereira de Magalhães (...) pelo período de 10 anos, com início em 1 de Agosto de 2008».
 
 27 de Outubro de 2009. - O Secretário-Geral, João Nabais.
+
+202581749

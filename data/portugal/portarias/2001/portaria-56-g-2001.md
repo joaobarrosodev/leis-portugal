@@ -20,7 +20,7 @@ publication:
   reference: Diário da República n.º 24/2001, 2º Suplemento, Série I-B de 2001-01-29
   number: '24'
   series: I
-  supplement: 2º Suplemento
+  supplement: null
   pages: 472-(10) a 472-(11)
   pdf_url: https://files.diariodarepublica.pt/1s/2001/01/024b02/00100011.pdf
 entry_into_force_dates: []
@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/56-g/2001/01/29/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/56-g-2001-163808
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2013-08-02T00:00:00Z'
+  retrieved_at: '2026-10-23T14:33:04Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 0171046b3e7e1cdddeee1edf4e59d7acb22531d01e0fcfe764ff1eeb4d6e1556
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: e3264b3b055c4d67d5177add058fde3aa58fbaf19bda6aa46e37cb2c866a524b
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T14:33:04Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,23 +67,29 @@ reuse:
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
 - Ajuda Comunitária
+- Apoio ao Investimento
+- Embarcação de Pesca
 - Financiamento
 - Fiscalização
+- Ifadap
+- Intervenção Operacional Pescas
 - Pesca
-- Apoio ao Investimento
 - QCA III
 - Regime de Apoio
-- Intervenção Operacional Pescas
 - Regulamento
 - Regulamento CE
-- Ifadap
 - Regulamento do Regime de Apoio à Construção de Novas Embarcações de Pesca
-- Embarcação de Pesca
 relationships:
 - type: amended_by
   target: pt:dre:498528:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:693789:por
+  label: "Alterado o art. 7º e o Anexo I ambos do Regulamento Anexo à Port 1078/2000 de 08-Nov, na redfacção da presente portaria\
+    \ pela PORT.506/2003.2003.06.26.MADRP, DR.IS-B [145]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/506-2003-693789
+  date: '2003-06-26'
 - type: cites
   target: celex:31999R2792
   label: null
@@ -93,15 +99,15 @@ relationships:
   label: null
   source: http://data.dre.pt/eli/port/1078/2000/11/08/p/dre
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T14:33:04Z'
   warnings: []
   errors: []
 ---
@@ -126,13 +132,17 @@ Objecto
 
 O presente Regulamento estabelece o regime de apoio à construção de novas embarcações de pesca, nos termos do Regulamento (CE) n.º [2792/99](http://data.europa.eu/eli/reg/1999/2792/oj?locale=pt), do Conselho, de 17 de Dezembro, e do previsto no Decreto-Lei n.º 224/2000, de 9 de Setembro, que cria o MARE - Programa para o Desenvolvimento Sustentável do Sector da Pesca.
 
-###### Artigo 7.º — Despesas elegíveis
+Artigo 7.º
+
+Despesas elegíveis
 
 ...
 
 2 - O montante máximo de despesas elegíveis não pode exceder duas vezes o montante fixado nos quadros n.os 1 e 2 do anexo II.
 
-## ANEXO I — (a que se refere o artigo 4.º)
+ANEXO I
+
+(a que se refere o artigo 4.º)
 
 1 - Para efeitos do disposto na alínea b) do artigo 4.º e sem prejuízo do disposto no n.º 3 deste anexo, considera-se existir uma situação financeira equilibrada quando a autonomia financeira pré e pós-projecto seja igual ou superior a 20%. A autonomia financeira pré-projecto tem por base o último exercício encerrado à data da apresentação das candidaturas.
 
@@ -152,4 +162,4 @@ AF = 0,4 AT + 0,6 AS»
 
 3.º O disposto no presente diploma aplica-se às candidaturas já reformuladas ou apresentadas ao abrigo da Portaria n.º 1078/2000, de 8 de Novembro.
 
-**O Ministro da Agricultura, do Desenvolvimento Rural e das Pescas, Luís Manuel Capoulas Santos, em 26 de Janeiro de 2001.**
+O Ministro da Agricultura, do Desenvolvimento Rural e das Pescas, Luís Manuel Capoulas Santos, em 26 de Janeiro de 2001.

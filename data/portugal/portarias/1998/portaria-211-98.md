@@ -26,7 +26,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1998/04/079b00/14671467.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -48,18 +48,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/211/1998/04/03/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/211-1998-208992
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2014-05-15T00:00:00Z'
+  retrieved_at: '2026-10-23T14:07:24Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 2baa77da06fa3709469e0e565ebd7ed60ec8980e039ab4152a9886bf6a10175c
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 215bc0e21262bd6be07d0542675de43781cf39ed1cc8400346e2507065cefbc8
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T14:07:24Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -68,10 +68,10 @@ reuse:
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
 - Atleta de ALTA Competição
+- Desporto
 - Desporto de ALTA Competição
 - Jogos Olímpicos
 - Prémio Desportivo
-- Desporto
 relationships:
 - type: amended_by
   target: pt:dre:25344774:por
@@ -89,16 +89,34 @@ relationships:
   target: eli:http://data.dre.pt/eli/port/953/1995/08/04/p/dre
   label: null
   source: http://data.dre.pt/eli/port/953/1995/08/04/p/dre
+- type: cites
+  target: pt:dre:405681:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:481279:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:527406:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:25344774:por
+  label: "Revogada, a partir de 16.05.2014, a presente portaria, pela PORT.103/2014.15.05.2014.PCM, DR.IS [93] de 15.05.2014\0\
+    \0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/103-2014-25344774
+  date: '2014-05-15'
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T14:07:24Z'
   warnings: []
   errors: []
 ---
@@ -157,6 +175,6 @@ b) A cada praticante (titular ou suplente) das modalidades colectivas:
 
 Presidência do Conselho de Ministros.
 
-**Assinada em 11 de Março de 1998.**
+Assinada em 11 de Março de 1998.
 
 Pelo Ministro Adjunto do Primeiro-Ministro, Júlio Francisco Miranda Calha, Secretário de Estado do Desporto.

@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1997/09/210b00/48364837.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/900/1997/09/11/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/900-1997-650097
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2010-12-15T00:00:00Z'
+  retrieved_at: '2026-10-23T14:05:43Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 7b043deb76da56496600d95de96d70f543bc61a5f27a1323e236a8352488e05d
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 909fa10676ece50198afc0b29f922c2458b58882c620e04558b98a89ec65665f
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T14:05:43Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -75,6 +75,26 @@ relationships:
   target: pt:dre:306956:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:493175:por
+  label: "Suspende o exercício da caça e de actividades caractér venatório na zona de caça associativa concessionada pela\
+    \ Port 615-E3/91, de 08-Jul DR.IS-B [154]2ºSupl, renovada pelo presente diploma, pela PORT.1078/2003.2003.09.29.MADRP\
+    \ DR.IS-B DE [225] \0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/1078-2003-493175
+  date: '2003-09-29'
+- type: amended_by
+  target: pt:dre:551780:por
+  label: "Renovada, por um período de seis anos, a concessão da zona de caça associativa concessionada pela Port 615-E3/91,\
+    \ de 08-Jul e renovada pelo presente diploma, pela PORT.233/2004.03.03.2004.MADRP, DR.IS-B [53] de 03.03.2004\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/233-2004-551780
+  date: '2004-03-03'
+- type: amended_by
+  target: pt:dre:306956:por
+  label: "Extinta a zona de caça associativa da Herdade da Mulatinha e outras (processo n.º 806-AFN), criada pela Port 615-E3/91\
+    \ de 08-Jul, posteriormente renovada pelo presente diploma, pela PORT.1257/2010.15.12.2010.MADRP, DR.IS [241] de 15.12.2010\0\
+    \0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/1257-2010-306956
+  date: '2010-12-15'
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/136/1996/08/14/p/dre
   label: null
@@ -83,16 +103,24 @@ relationships:
   target: eli:http://data.dre.pt/eli/port/615-e3/1991/07/08/p/dre
   label: null
   source: http://data.dre.pt/eli/port/615-e3/1991/07/08/p/dre
+- type: cites
+  target: pt:dre:205827:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:405765:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T14:05:43Z'
   warnings: []
   errors: []
 ---
@@ -119,8 +147,8 @@ Manda o Governo, pelo Ministro da Agricultura, do Desenvolvimento Rural e das Pe
 
 Ministério da Agricultura, do Desenvolvimento Rural e das Pescas.
 
-**Assinada em 8 de Agosto de 1997.**
+Assinada em 8 de Agosto de 1997.
 
 Pelo Ministro da Agricultura, do Desenvolvimento Rural e das Pescas, Luís Manuel Capoulas Santos, Secretário de Estado da Agricultura e do Desenvolvimento Rural.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1997/09/210b00/48364837.pdf))](https://files.diariodarepublica.pt/1s/1997/09/210b00/48364837.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1997/09/210b00/48364837.pdf)

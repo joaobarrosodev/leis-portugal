@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/286/2000/05/23/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/286-2000-300044
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2002-10-22T00:00:00Z'
+  retrieved_at: '2026-10-23T14:22:37Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 591486a5f78d80fc6fd218ccc64a6b1a1f907b87e5d022a2202bde7d789848bd
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 1ff00d2e9181f36c6bb84817c19e6db431d3222b1fcd96c54929bb490732f386
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T14:22:37Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -112,16 +112,88 @@ relationships:
   target: eli:http://data.dre.pt/eli/port/961/1993/10/01/p/dre
   label: null
   source: http://data.dre.pt/eli/port/961/1993/10/01/p/dre
+- type: cites
+  target: pt:dre:139752:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:156390:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:186764:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:208852:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:208993:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:275830:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:417780:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:499560:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:505986:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:523639:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:547002:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:548472:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:618087:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:618090:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:619141:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:638919:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:642185:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:646291:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T14:22:37Z'
   warnings: []
   errors: []
 ---
@@ -140,7 +212,7 @@ Manda o Governo, pelos Ministros das Finanças, da Saúde e da Reforma do Estado
 
 Em 10 de Abril de 2000.
 
-**O Ministro das Finanças, Joaquim Augusto Nunes Pina Moura. - Pela Ministra da Saúde, Arnaldo Jorge d'Assunção Silva, Secretário de Estado dos Recursos Humanos e da Modernização da Saúde. - Pelo Ministro da Reforma do Estado e da Administração Pública, Alexandre António Cantigas Rosa, Secretário de Estado da Administração Pública e da Modernização Administrativa.**
+O Ministro das Finanças, Joaquim Augusto Nunes Pina Moura. - Pela Ministra da Saúde, Arnaldo Jorge d'Assunção Silva, Secretário de Estado dos Recursos Humanos e da Modernização da Saúde. - Pelo Ministro da Reforma do Estado e da Administração Pública, Alexandre António Cantigas Rosa, Secretário de Estado da Administração Pública e da Modernização Administrativa.
 
 MAPA ANEXO
 

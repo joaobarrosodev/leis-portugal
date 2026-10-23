@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/2s/2010/01/017000000/0384203842.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -46,18 +46,18 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/declaracao-rectificacao/151-2010-1860480
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2010-01-26T00:00:00Z'
+  retrieved_at: '2026-10-23T14:18:04Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 0cf45774bfefac71583abc779f3eb03ce719f603f5708e6e394190bb526d0a5f
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 629e527885fb43e3d5d11bdb38b9ab5917f4840971fbe1b9e11bc74f01981097
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T14:18:04Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -69,13 +69,13 @@ relationships: []
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T14:18:04Z'
   warnings: []
   errors: []
 ---
@@ -87,3 +87,5 @@ Declaração de rectificação n.º 151/2010
 Por ter sido publicada com inexactidão a deliberação (extracto) n.º 485/2010, no Diário da República, 2.ª série, n.º 4, de 7 de Janeiro de 2010, rectifica-se que onde se lê «Por despacho da Directora Clínica do Centro Hospitalar de Lisboa Ocidental, E. P. E., 25.11.2009 - Manuel João Gaspar Moradas Ferreira, Assistente Graduado de Cirurgia Geral, autorizada a redução de uma hora do seu horário semanal (de 37 horas para 36 horas semanais), ao abrigo do n.º 10 do artigo 31.º do Decreto Lei n.º 73/90 de 6 de Março e artigo 36.º do Decreto Lei n.º 177/2009, de 04 de Agosto, com efeitos a 01 de Janeiro de 2010.» deve ler-se «Por despacho da directora clínica do Centro Hospitalar de Lisboa Ocidental, E. P. E., de 25.11.2009 - Manuel João Gaspar Moradas Ferreira, assistente graduado de cirurgia cardiotorácica, autorizada a redução de uma hora do seu horário semanal (de 37 horas para 36 horas semanais), ao abrigo do n.º 10 do artigo 31.º do Decreto Lei n.º 73/90, de 6 de Março, e do artigo 36.º do Decreto Lei n.º 177/2009, de 4 de Agosto, com efeitos a 1 de Janeiro de 2010.» (Isento de fiscalização do Tribunal de Contas.)
 
 21 de Janeiro de 2010. - A Vogal Executiva do Conselho de Administração, Dr.ª Maria Celeste Silva.
+
+202822561

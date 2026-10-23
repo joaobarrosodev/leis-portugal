@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2001/05/108b00/27512778.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/475/2001/05/10/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/475-2001-313803
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2003-08-26T00:00:00Z'
+  retrieved_at: '2026-10-23T14:32:29Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 66241883b6089061c40010b2bf79ad79fc79c90a2a45391acb1c6849e794f5ed
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 4f11788fb86ed7a02585289175c17e1daa73835738d234ed3d7b09a11993a6f7
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T14:32:29Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -65,18 +65,54 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Proteção do Ambiente
-- Ruris
 - Agricultor
+- Agricultura
+- Proteção do Ambiente
 - Regulamento CE
 - Regulamento de Aplicação da Intervenção Medidas Agro-ambientais
-- Agricultura
+- Ruris
 - Subsídio
 relationships:
 - type: amended_by
   target: pt:dre:632727:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:399192:por
+  label: "Prorrogado até 20 de Jul, do corrente ano o prazo previsto nº nº 2 do art. 83º do Regulamento pela PORT.700/2001.2001.07.11.MADRP,\
+    \ DR.IS-B [159]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/700-2001-399192
+  date: '2001-07-11'
+- type: amended_by
+  target: pt:dre:655514:por
+  label: "Alterados os arts. 27º, 30º, 34º e 52º e os anexos I e VII do Regulamento, bem como prorrogado até 31 de Julho de\
+    \ 2001 o prazo previsto no nº 2 do art. 83º do mesmo regulamento, pela PORT.757-A/2001.2001.07.20.MADRP DR.IS-B [167]Supl\0\
+    l\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/757-a-2001-655514
+  date: '2001-07-20'
+- type: amended_by
+  target: pt:dre:154232:por
+  label: "Alterados os arts. 3.º, 11.º, 15.º, 16.º, 19.º, 20.º, 23.º, 36.º, 44.º, 48.º, 53.º, 55.º, 58.º, 59.º, 61.º, 67.º,\
+    \ 68.º, 79.º, 81.º, 83.º, 85.º, 87.º, 88.º, 89.º, 93.º, e os anexos II, VI e VII do Regulamento de Aplicação da Intervenção\
+    \ Medidas Agro-Ambientais aprovado pelo presente diploma, pela PORT.534/2002.2002.05.24.MADRP DR.IS-B [120]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/534-2002-154232
+  date: '2002-05-24'
+- type: amended_by
+  target: pt:dre:187501:por
+  label: "Alterado o art. 52.º e o anexo VII do Regulamento na redacção da Port 757-A/2001, de 20-Jul e da Port 534/2002,\
+    \ de 24-Mai; alterados os arts. 3.º, 11.º, 15.º, 19.º, 23.º, 36.º, 53.º, 59.º, 67.º, 83.º, 85.º, 87.º, 88.º, 89.º, 93.º\
+    \ e o anexo VIII do Regulamento, na redacção da Port 534/2002, de 24-Mai, e alterados os arts. 22.º, 37.º, 54.º, 63.º,\
+    \ 66.º, 72.º, 82.º, 84.º, 86.º, 90.º, 91.º e o anexo IV do Regulamento constante do presente diploma, pela PORT.192/2003.2003.02.22.MADRP\
+    \ DR.IS-B [45]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/192-2003-187501
+  date: '2003-02-22'
+- type: amended_by
+  target: pt:dre:632727:por
+  label: "Alterados os arts. 11º, 13º, 15º, 17º, 19º, 21º, 23º, 25º, 36º, 52º, 55º, 58º, 67º, 79º, 80º, 87º, 88º, a nota de\
+    \ rodapé (1) do anexo V e o anexo VII todos do Regulamento aprovado pela presente diploma, com a redacção dada pela Port\
+    \ 192/2003 de 22-Fev, pela PORT.893/2003.2003.08.26.MADRP DR.IS-B [196]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/893-2003-632727
+  date: '2003-08-26'
 - type: cites
   target: celex:31991R2092
   label: null
@@ -89,16 +125,27 @@ relationships:
   target: celex:31999R1257
   label: null
   source: http://data.europa.eu/eli/reg/1999/1257/oj
+- type: corrected_by
+  target: pt:dre:320348:por
+  label: "Rectificada pela DECL-RECT.13-Z/2001.2001.06.29.PCM, DR.IS-B[150}3ºSUPL de 30/Jun/2001\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/declaracao-rectificacao/13-z-2001-320348
+  date: '2001-06-29'
+- type: repealed_by
+  target: pt:dre:476278:por
+  label: "Revogada, com as alterações introduzidas pelas Port 757-A/2001 de 20-Jul, 534/2002 de 24-Mai, 192/2003 de 22-Fev\
+    \ e 893/2003 de 26-Ago, pela PORT.1212/2003.16.10.2003.MADRP, DR.IS-B [240] de 16.10.2003\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/1212-2003-476278
+  date: '2001-05-10'
 article_structure:
   article_count: 93
   section_count: 33
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T14:32:29Z'
   warnings: []
   errors: []
 ---
@@ -115,7 +162,7 @@ Assim, ao abrigo do disposto no n.º 2 do artigo 3.º do Decreto-Lei n.º 8/2001
 
 Manda o Governo, pelo Ministro da Agricultura, do Desenvolvimento Rural e das Pescas, que seja aprovado o Regulamento de Aplicação da Intervenção Medidas Agro-Ambientais do Plano de Desenvolvimento Rural, abreviadamente designado por RURIS, em anexo ao presente diploma, do qual faz parte integrante.
 
-**O Ministro da Agricultura, do Desenvolvimento Rural e das Pescas, Luís Manuel Capoulas Santos, em 6 de Abril de 2001.**
+O Ministro da Agricultura, do Desenvolvimento Rural e das Pescas, Luís Manuel Capoulas Santos, em 6 de Abril de 2001.
 
 REGULAMENTO DE APLICAÇÃO DA INTERVENÇÃO MEDIDAS AGRO-AMBIENTAIS
 
@@ -1695,29 +1742,29 @@ e) A medida «Melhoramento do solo e luta contra a erosão» do grupo I é cumul
 
 ## ANEXO I — (a que se refere o artigo 6.º)
 
-[(ver tabela no documento original)](https://files.diariodarepublica.pt/1s/2001/05/108b00/27512778.pdf)
+[[[[[[[[[[(ver tabela no documento original)](https://files.diariodarepublica.pt/1s/2001/05/108b00/27512778.pdf)](https://files.diariodarepublica.pt/1s/2001/05/108b00/27512778.pdf)](https://files.diariodarepublica.pt/1s/2001/05/108b00/27512778.pdf)](https://files.diariodarepublica.pt/1s/2001/05/108b00/27512778.pdf)](https://files.diariodarepublica.pt/1s/2001/05/108b00/27512778.pdf)](https://files.diariodarepublica.pt/1s/2001/05/108b00/27512778.pdf)](https://files.diariodarepublica.pt/1s/2001/05/108b00/27512778.pdf)](https://files.diariodarepublica.pt/1s/2001/05/108b00/27512778.pdf)](https://files.diariodarepublica.pt/1s/2001/05/108b00/27512778.pdf)](https://files.diariodarepublica.pt/1s/2001/05/108b00/27512778.pdf)
 
 ## ANEXO II — (a que se refere o n.º 1 do artigo 17.º)
 
-[(ver tabela no documento original)](https://files.diariodarepublica.pt/1s/2001/05/108b00/27512778.pdf)
+[[[[[[[[[[(ver tabela no documento original)](https://files.diariodarepublica.pt/1s/2001/05/108b00/27512778.pdf)](https://files.diariodarepublica.pt/1s/2001/05/108b00/27512778.pdf)](https://files.diariodarepublica.pt/1s/2001/05/108b00/27512778.pdf)](https://files.diariodarepublica.pt/1s/2001/05/108b00/27512778.pdf)](https://files.diariodarepublica.pt/1s/2001/05/108b00/27512778.pdf)](https://files.diariodarepublica.pt/1s/2001/05/108b00/27512778.pdf)](https://files.diariodarepublica.pt/1s/2001/05/108b00/27512778.pdf)](https://files.diariodarepublica.pt/1s/2001/05/108b00/27512778.pdf)](https://files.diariodarepublica.pt/1s/2001/05/108b00/27512778.pdf)](https://files.diariodarepublica.pt/1s/2001/05/108b00/27512778.pdf)
 
 ## ANEXO III — (a que refere o n.º 1 do artigo 21.º)
 
-[(ver tabela no documento original)](https://files.diariodarepublica.pt/1s/2001/05/108b00/27512778.pdf)
+[[[[[[[[[[(ver tabela no documento original)](https://files.diariodarepublica.pt/1s/2001/05/108b00/27512778.pdf)](https://files.diariodarepublica.pt/1s/2001/05/108b00/27512778.pdf)](https://files.diariodarepublica.pt/1s/2001/05/108b00/27512778.pdf)](https://files.diariodarepublica.pt/1s/2001/05/108b00/27512778.pdf)](https://files.diariodarepublica.pt/1s/2001/05/108b00/27512778.pdf)](https://files.diariodarepublica.pt/1s/2001/05/108b00/27512778.pdf)](https://files.diariodarepublica.pt/1s/2001/05/108b00/27512778.pdf)](https://files.diariodarepublica.pt/1s/2001/05/108b00/27512778.pdf)](https://files.diariodarepublica.pt/1s/2001/05/108b00/27512778.pdf)](https://files.diariodarepublica.pt/1s/2001/05/108b00/27512778.pdf)
 
 ## ANEXO IV — (a que se refere o n.º 6 do artigo 23.º)
 
 Tabela de conversão de bovinos, equídeos, ovinos e caprinos em cabeças normais (CN)
 
-[(ver tabela no documento original)](https://files.diariodarepublica.pt/1s/2001/05/108b00/27512778.pdf)
+[[[[[[[[[[(ver tabela no documento original)](https://files.diariodarepublica.pt/1s/2001/05/108b00/27512778.pdf)](https://files.diariodarepublica.pt/1s/2001/05/108b00/27512778.pdf)](https://files.diariodarepublica.pt/1s/2001/05/108b00/27512778.pdf)](https://files.diariodarepublica.pt/1s/2001/05/108b00/27512778.pdf)](https://files.diariodarepublica.pt/1s/2001/05/108b00/27512778.pdf)](https://files.diariodarepublica.pt/1s/2001/05/108b00/27512778.pdf)](https://files.diariodarepublica.pt/1s/2001/05/108b00/27512778.pdf)](https://files.diariodarepublica.pt/1s/2001/05/108b00/27512778.pdf)](https://files.diariodarepublica.pt/1s/2001/05/108b00/27512778.pdf)](https://files.diariodarepublica.pt/1s/2001/05/108b00/27512778.pdf)
 
 ## ANEXO V — (a que refere o n.º 1 do artigo 25.º)
 
-[(ver tabela no documento original)](https://files.diariodarepublica.pt/1s/2001/05/108b00/27512778.pdf)
+[[[[[[[[[[(ver tabela no documento original)](https://files.diariodarepublica.pt/1s/2001/05/108b00/27512778.pdf)](https://files.diariodarepublica.pt/1s/2001/05/108b00/27512778.pdf)](https://files.diariodarepublica.pt/1s/2001/05/108b00/27512778.pdf)](https://files.diariodarepublica.pt/1s/2001/05/108b00/27512778.pdf)](https://files.diariodarepublica.pt/1s/2001/05/108b00/27512778.pdf)](https://files.diariodarepublica.pt/1s/2001/05/108b00/27512778.pdf)](https://files.diariodarepublica.pt/1s/2001/05/108b00/27512778.pdf)](https://files.diariodarepublica.pt/1s/2001/05/108b00/27512778.pdf)](https://files.diariodarepublica.pt/1s/2001/05/108b00/27512778.pdf)](https://files.diariodarepublica.pt/1s/2001/05/108b00/27512778.pdf)
 
 ## ANEXO VI — (a que refere o artigo 78.º)
 
-[(ver tabela no documento original)](https://files.diariodarepublica.pt/1s/2001/05/108b00/27512778.pdf)
+[[[[[[[[[[(ver tabela no documento original)](https://files.diariodarepublica.pt/1s/2001/05/108b00/27512778.pdf)](https://files.diariodarepublica.pt/1s/2001/05/108b00/27512778.pdf)](https://files.diariodarepublica.pt/1s/2001/05/108b00/27512778.pdf)](https://files.diariodarepublica.pt/1s/2001/05/108b00/27512778.pdf)](https://files.diariodarepublica.pt/1s/2001/05/108b00/27512778.pdf)](https://files.diariodarepublica.pt/1s/2001/05/108b00/27512778.pdf)](https://files.diariodarepublica.pt/1s/2001/05/108b00/27512778.pdf)](https://files.diariodarepublica.pt/1s/2001/05/108b00/27512778.pdf)](https://files.diariodarepublica.pt/1s/2001/05/108b00/27512778.pdf)](https://files.diariodarepublica.pt/1s/2001/05/108b00/27512778.pdf)
 
 ## ANEXO VII — [a que se refere a alínea b) do artigo 86.º]
 
@@ -1793,7 +1840,7 @@ E) Boas práticas agrícolas específicas para a zona do aquífero livre entre E
 
 2 - Não é permitido aplicar às terras os fertilizantes indicados nos períodos seguintes:
 
-[(ver tabela no documento original)](https://files.diariodarepublica.pt/1s/2001/05/108b00/27512778.pdf)
+[[[[[[[[[[(ver tabela no documento original)](https://files.diariodarepublica.pt/1s/2001/05/108b00/27512778.pdf)](https://files.diariodarepublica.pt/1s/2001/05/108b00/27512778.pdf)](https://files.diariodarepublica.pt/1s/2001/05/108b00/27512778.pdf)](https://files.diariodarepublica.pt/1s/2001/05/108b00/27512778.pdf)](https://files.diariodarepublica.pt/1s/2001/05/108b00/27512778.pdf)](https://files.diariodarepublica.pt/1s/2001/05/108b00/27512778.pdf)](https://files.diariodarepublica.pt/1s/2001/05/108b00/27512778.pdf)](https://files.diariodarepublica.pt/1s/2001/05/108b00/27512778.pdf)](https://files.diariodarepublica.pt/1s/2001/05/108b00/27512778.pdf)](https://files.diariodarepublica.pt/1s/2001/05/108b00/27512778.pdf)
 
 3 - A quantidade máxima de fertilizantes orgânicos a aplicar por hectare e por ano não poderá conter mais de 210 kg de azoto.
 
@@ -1807,7 +1854,7 @@ F) Boas práticas agrícolas específicas para a zona do aquífero quaternário 
 
 2 - Não é permitido aplicar às terras os fertilizantes indicados nos períodos seguintes:
 
-[(ver tabela no documento original)](https://files.diariodarepublica.pt/1s/2001/05/108b00/27512778.pdf)
+[[[[[[[[[[(ver tabela no documento original)](https://files.diariodarepublica.pt/1s/2001/05/108b00/27512778.pdf)](https://files.diariodarepublica.pt/1s/2001/05/108b00/27512778.pdf)](https://files.diariodarepublica.pt/1s/2001/05/108b00/27512778.pdf)](https://files.diariodarepublica.pt/1s/2001/05/108b00/27512778.pdf)](https://files.diariodarepublica.pt/1s/2001/05/108b00/27512778.pdf)](https://files.diariodarepublica.pt/1s/2001/05/108b00/27512778.pdf)](https://files.diariodarepublica.pt/1s/2001/05/108b00/27512778.pdf)](https://files.diariodarepublica.pt/1s/2001/05/108b00/27512778.pdf)](https://files.diariodarepublica.pt/1s/2001/05/108b00/27512778.pdf)](https://files.diariodarepublica.pt/1s/2001/05/108b00/27512778.pdf)
 
 3 - A quantidade máxima de fertilizantes orgânicos a aplicar por hectare e por ano não poderá conter mais de 210 kg de azoto.
 
@@ -1817,7 +1864,7 @@ G) Boas práticas agrícolas específicas para a zona do aquífero miocénico e 
 
 2 - Não é permitido aplicar às terras os fertilizantes indicados nos períodos seguintes:
 
-[(ver tabela no documento original)](https://files.diariodarepublica.pt/1s/2001/05/108b00/27512778.pdf)
+[[[[[[[[[[(ver tabela no documento original)](https://files.diariodarepublica.pt/1s/2001/05/108b00/27512778.pdf)](https://files.diariodarepublica.pt/1s/2001/05/108b00/27512778.pdf)](https://files.diariodarepublica.pt/1s/2001/05/108b00/27512778.pdf)](https://files.diariodarepublica.pt/1s/2001/05/108b00/27512778.pdf)](https://files.diariodarepublica.pt/1s/2001/05/108b00/27512778.pdf)](https://files.diariodarepublica.pt/1s/2001/05/108b00/27512778.pdf)](https://files.diariodarepublica.pt/1s/2001/05/108b00/27512778.pdf)](https://files.diariodarepublica.pt/1s/2001/05/108b00/27512778.pdf)](https://files.diariodarepublica.pt/1s/2001/05/108b00/27512778.pdf)](https://files.diariodarepublica.pt/1s/2001/05/108b00/27512778.pdf)
 
 3 - A quantidade máxima de fertilizantes orgânicos a aplicar por hectare e por ano não poderá conter mais de 170 kg de azoto.
 
@@ -1829,4 +1876,4 @@ G) Boas práticas agrícolas específicas para a zona do aquífero miocénico e 
 
 ## ANEXO VIII — (a que se refere o n.º 2 do artigo 87.º)
 
-[(ver tabela no documento original)](https://files.diariodarepublica.pt/1s/2001/05/108b00/27512778.pdf)
+[[[[[[[[[[(ver tabela no documento original)](https://files.diariodarepublica.pt/1s/2001/05/108b00/27512778.pdf)](https://files.diariodarepublica.pt/1s/2001/05/108b00/27512778.pdf)](https://files.diariodarepublica.pt/1s/2001/05/108b00/27512778.pdf)](https://files.diariodarepublica.pt/1s/2001/05/108b00/27512778.pdf)](https://files.diariodarepublica.pt/1s/2001/05/108b00/27512778.pdf)](https://files.diariodarepublica.pt/1s/2001/05/108b00/27512778.pdf)](https://files.diariodarepublica.pt/1s/2001/05/108b00/27512778.pdf)](https://files.diariodarepublica.pt/1s/2001/05/108b00/27512778.pdf)](https://files.diariodarepublica.pt/1s/2001/05/108b00/27512778.pdf)](https://files.diariodarepublica.pt/1s/2001/05/108b00/27512778.pdf)

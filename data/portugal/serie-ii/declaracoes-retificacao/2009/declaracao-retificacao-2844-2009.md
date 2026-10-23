@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/2s/2009/11/223000000/4661646616.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -46,18 +46,18 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/declaracao-rectificacao/2844-2009-3160301
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2009-11-17T00:00:00Z'
+  retrieved_at: '2026-10-23T14:09:25Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 580bda48e7633beb58d0dc7b9add94190eedd2962187c5f87c499af11c479793
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 6e79ac61ece347ec30b6c515312e0c0c3c0cf1b7c96384dff72ffd0dfa3ee65b
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T14:09:25Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -69,13 +69,13 @@ relationships: []
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T14:09:25Z'
   warnings: []
   errors: []
 ---
@@ -89,3 +89,5 @@ Por ter sido publicado com inexactidão o aviso n.º 20061/2009, no Diário da R
 Assim, onde se lê «Tipo de Oferta: três (3) contratos de trabalho a termo resolutivo certo a tempo parcial (M/F) de quatro (4) horas semanais para cada um» deve ler-se «Tipo de oferta: três contratos de trabalho a termo resolutivo certo a tempo parcial (m/f) de quatro horas diárias para cada um».
 
 11 de Novembro de 2009. - O Director, Fernando Luís Monteiro Bexiga.
+
+202573049

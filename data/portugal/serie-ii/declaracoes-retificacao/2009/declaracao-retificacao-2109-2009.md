@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/2s/2009/08/167000000/3508635086.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -47,18 +47,18 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/declaracao-rectificacao/2109-2009-1072572
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2009-08-28T00:00:00Z'
+  retrieved_at: '2026-10-23T14:05:08Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 44d705b3ddcea0230f3e21793430b51b2f464bf6ca00a3611d92d6ef7db26583
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 47b3a0db84223d2db57cc5291579213e113d92e5bb464bcce00abef0430aa103
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T14:05:08Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,22 +66,38 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects: []
-relationships: []
+relationships:
+- type: cites
+  target: pt:dre:2657963:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:3168193:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:456200:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:671387:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T14:05:08Z'
   warnings: []
   errors: []
 ---
 
-# Declaração de Rectificação n.º 2109/2009
+# Declaração de rectificação n.º 2109/2009
 
 Por ter sido publicado com inexactidão, parte do [Despacho n.º 17878/2009](https://diariodarepublica.pt/dr/detalhe/despacho/17878-2009-2657963), que altera o plano de estudos conducente ao grau de licenciado em Engenharia Agronómica na Escola Superior Agrária do Instituto Politécnico de Santarém, publicado no Diário da República, 2.ª série, n.º 148, de 3 de Agosto, rectifica-se:
 
@@ -94,3 +110,5 @@ deve ler-se:
 "Nos termos do disposto nos artigos 75.º e seguintes do [Decreto-Lei n.º 74/2006](https://diariodarepublica.pt/dr/detalhe/decreto-lei/74-2006-671387), de 24 de Março, na redacção introduzida pelo [Decreto-Lei n.º 107/2008](https://diariodarepublica.pt/dr/detalhe/decreto-lei/107-2008-456200), de 25 de Junho, homologo a alteração ao plano de estudos do ciclo de estudos conducente ao grau de Licenciado em Engenharia Agronómica, publicado através do [Despacho n.º 2628/2007](https://diariodarepublica.pt/dr/detalhe/despacho/2628-2007-3168193), publicado no Diário da República, 2.ª série, n.º 37, 21 de Fevereiro de 2007, após deliberação de aprovação do conselho científico da Escola Superior Agrária deste Instituto."
 
 24 de Agosto de 2009. - O Administrador, Pedro Maria Nogueira Carvalho.
+
+202228442

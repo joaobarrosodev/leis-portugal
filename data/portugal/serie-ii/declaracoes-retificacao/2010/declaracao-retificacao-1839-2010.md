@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/2s/2010/09/175000000/4643246432.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -47,18 +47,18 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/declaracao-rectificacao/1839-2010-2832149
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2010-09-08T00:00:00Z'
+  retrieved_at: '2026-10-23T14:19:59Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 1b68c91c76767201d2abc5360c850a4ddc4ff2f2a557624dc1ff77f49105ca0a
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: d0fbd93ec4da5090016bea79a0a4a4f45119edbab68ab735ffd1ab50a3403c37
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T14:19:59Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -70,13 +70,13 @@ relationships: []
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T14:19:59Z'
   warnings: []
   errors: []
 ---
@@ -90,3 +90,5 @@ Por despacho do presidente do conselho directivo da Administração Regional de 
 Salvo declaração contrária de qualquer interessado, as candidaturas eventualmente já apresentadas nos temos do aviso n.º 15695/2010, publicado no Diário da República, 2.ª série, n.º 152, de 6 de Agosto de 2010, considerar-se-ão apresentadas para os termos e efeitos do aviso n.º 15531/2010, publicado no Diário da República, 2.ª série, n.º 151, de 5 de Agosto de 2010.
 
 30 de Agosto de 2010. - O Presidente do Conselho Directivo, Rui Gentil de Portugal e Vasconcelos Fernandes.
+
+203655217

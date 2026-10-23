@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/227/1999/04/01/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/227-1999-138802
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1999-04-01T00:00:00Z'
+  retrieved_at: '2026-10-23T14:14:02Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: a52aa07299ac81b60b4a956e91b3c31a21609135d0edfe5a8dbeccf0f354a6a1
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: a7f4bb942ae87ae3f092422e3de9c79cad1e8a823c8dc6013c68179167383263
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T14:14:02Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,13 +66,13 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Valores Mobiliários
 - Dívida Pública
-- IRS
 - Investimento Estrangeiro
-- Isenção Fiscal
 - IRC
+- IRS
+- Isenção Fiscal
 - Obrigações do Tesouro
+- Valores Mobiliários
 relationships:
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/88/1994/04/02/p/dre
@@ -86,16 +86,28 @@ relationships:
   target: eli:http://data.dre.pt/eli/resolconsmin/9-a/1999/02/23/p/dre
   label: null
   source: http://data.dre.pt/eli/resolconsmin/9-a/1999/02/23/p/dre
+- type: cites
+  target: pt:dre:258157:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:358559:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:516932:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T14:14:02Z'
   warnings: []
   errors: []
 ---
@@ -112,4 +124,4 @@ Assim, nos termos do n.º 3 do artigo 1.º do [Decreto-Lei n.º 88/94](https://d
 
 Manda o Governo, pelo Ministro das Finanças, que sejam acrescentados à lista publicada através da [Portaria n.º 377-A/94](https://diariodarepublica.pt/dr/detalhe/portaria/377-a-1994-516932), de 15 de Junho, os valores mobiliários representativos de dívida pública emitidos ao abrigo da [Resolução do Conselho de Ministros n.º 9-A/99](https://diariodarepublica.pt/dr/detalhe/resolucao-conselho-ministros/9-a-1999-358559), publicada no Diário da República, 1.ª série-B, n.º 45, suplemento, de 23 de Fevereiro de 1999.
 
-**O Ministro das Finanças, António Luciano Pacheco de Sousa Franco, em 23 de Março de 1999.**
+O Ministro das Finanças, António Luciano Pacheco de Sousa Franco, em 23 de Março de 1999.

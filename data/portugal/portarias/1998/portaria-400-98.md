@@ -48,18 +48,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/400/1998/07/11/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/400-1998-484825
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2009-06-25T00:00:00Z'
+  retrieved_at: '2026-10-23T14:08:35Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 291e651653c5aae75d51043844e89ea17dd6be68fd5119b24aa3c91e133d7594
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 2da11080a8623bf72ac71dc9dff30c817b9f91a5b254ea1fc690b2d72735fad4
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T14:08:35Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -75,6 +75,24 @@ relationships:
   target: pt:dre:491963:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:302154:por
+  label: "Suspenso o exercício da caça, pelo prazo máximo de nove meses, na zona de caça associativa atribuída pela Port 615-T2/91,\
+    \ de 08-Jul, na redacção do presente diploma, pela PORT.457/2004.03.05.2004.MADRP, DR.IS-B [103] de 03.05.2004\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/457-2004-302154
+  date: '2004-05-03'
+- type: amended_by
+  target: pt:dre:517256:por
+  label: "Renovada por seis anos a concessão de zona de caça atribuída pelo presente diploma, pela PORT.782/2004.05.07.2004.MADRP,\
+    \ DR.IS-B [156] de 05.07.2004\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/782-2004-517256
+  date: '2004-07-05'
+- type: amended_by
+  target: pt:dre:491963:por
+  label: "Renovada por seis anos a concessão da zona de caça atribuída pela Port 615-T2/91, de 08-Jul, alterada pelo presente\
+    \ diploma e pela Port 782/2004, de 05-Jul, pela PORT.686/2009.25.06.2009.MADRP, DR.IS [121] de 25.06.2009\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/686-2009-491963
+  date: '2009-06-25'
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/136/1996/08/14/p/dre
   label: null
@@ -87,16 +105,28 @@ relationships:
   target: eli:http://data.dre.pt/eli/port/655/1997/08/12/p/dre
   label: null
   source: http://data.dre.pt/eli/port/655/1997/08/12/p/dre
+- type: cites
+  target: pt:dre:202469:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:205871:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:405765:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T14:08:35Z'
   warnings: []
   errors: []
 ---
@@ -125,7 +155,7 @@ Manda o Governo, pelo Ministro da Agricultura, do Desenvolvimento Rural e das Pe
 
 Ministério da Agricultura, do Desenvolvimento Rural e das Pescas.
 
-**Assinada em 24 de Junho de 1998.**
+Assinada em 24 de Junho de 1998.
 
 Pelo Ministro da Agricultura, do Desenvolvimento Rural e das Pescas, Luís Manuel Capoulas Santos, Secretário de Estado da Agricultura e do Desenvolvimento Rural.
 

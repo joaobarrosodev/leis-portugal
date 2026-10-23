@@ -20,12 +20,12 @@ publication:
   reference: Diário da República n.º 242/2001, 1º Suplemento, Série I-B de 2001-10-18
   number: '242'
   series: I
-  supplement: 1º Suplemento
+  supplement: null
   pages: 6632-(3) a 6632-(3)
   pdf_url: https://files.diariodarepublica.pt/1s/2001/10/242b01/00030003.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/1203-a/2001/10/18/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/1203-a-2001-254447
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2001-11-13T00:00:00Z'
+  retrieved_at: '2026-10-23T14:28:36Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 326ee2d5943f5d2f2041274c11f6cfd261506ec396945845759d55c247365cba
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 46ec3805954a7b9700b2d593da519450c64ec1e0d428c545504ec9b9d8f1be5a
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T14:28:36Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -82,16 +82,29 @@ relationships:
   target: eli:http://data.dre.pt/eli/port/1212/1997/11/29/p/dre
   label: null
   source: http://data.dre.pt/eli/port/1212/1997/11/29/p/dre
+- type: cites
+  target: pt:dre:406349:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:534644:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:246542:por
+  label: "Revogada pela PORT.1277-B/2001.2001.11.13.MADRP, DR.IS-B [263]Supl \0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/1277-b-2001-246542
+  date: '2001-11-13'
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T14:28:36Z'
   warnings: []
   errors: []
 ---

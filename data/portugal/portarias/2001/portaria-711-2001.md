@@ -27,7 +27,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2001/07/160b00/42444244.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -49,18 +49,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/711/2001/07/12/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/711-2001-387840
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2003-12-13T00:00:00Z'
+  retrieved_at: '2026-10-23T14:34:02Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 999f91d5efeb9f823550563cf4ef61834865cd9064bb51d2818d99bc47f09446
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 228b2a996248ca6c820174d37d27022e2ce29f71af8c9fde84cdab25e540cfda
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T14:34:02Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -69,11 +69,11 @@ reuse:
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
 - Atividade Industrial
-- Energia Elétrica
-- Zona Económica Exclusiva
-- Mar Territorial
 - Domínio Público Marítimo
+- Energia Elétrica
 - Licenciamento
+- Mar Territorial
+- Zona Económica Exclusiva
 relationships:
 - type: amended_by
   target: pt:dre:431238:por
@@ -83,16 +83,25 @@ relationships:
   target: eli:http://data.dre.pt/eli/dec-lei/254/1999/07/07/p/dre
   label: null
   source: http://data.dre.pt/eli/dec-lei/254/1999/07/07/p/dre
+- type: cites
+  target: pt:dre:374610:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:431238:por
+  label: "Revogada pela PORT.1357/2003.13.12.2003.MDN, DR.IS-B [287] de 13.12.2003\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/1357-2003-431238
+  date: '2003-12-13'
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T14:34:02Z'
   warnings: []
   errors: []
 ---
@@ -121,4 +130,4 @@ Manda o Governo, pelos Ministros da Defesa Nacional, do Equipamento Social, da A
 
 Em 21 de Junho de 2001.
 
-**O Ministro da Defesa Nacional, Júlio de Lemos de Castro Caldas. - O Ministro do Equipamento Social, Eduardo Luís Barreto Ferro Rodrigues. - O Ministro da Agricultura, do Desenvolvimento Rural e das Pescas, Luís Manuel Capoulas Santos. - O Ministro do Ambiente e do Ordenamento do Território, José Sócrates Carvalho Pinto de Sousa.**
+O Ministro da Defesa Nacional, Júlio de Lemos de Castro Caldas. - O Ministro do Equipamento Social, Eduardo Luís Barreto Ferro Rodrigues. - O Ministro da Agricultura, do Desenvolvimento Rural e das Pescas, Luís Manuel Capoulas Santos. - O Ministro do Ambiente e do Ordenamento do Território, José Sócrates Carvalho Pinto de Sousa.

@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/169/1999/03/12/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/169-1999-145246
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2008-09-03T00:00:00Z'
+  retrieved_at: '2026-10-23T14:13:42Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 1d93579495d8f30b7ec9c67b17a39f14e20ae2c7d1f9ad744213e68e9f996533
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 3a8e5e32072de2e6721a1936e4b28e0f0f9a8eae94a3ad521a145e0c71f33715
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T14:13:42Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -74,6 +74,12 @@ relationships:
   target: pt:dre:453997:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:453997:por
+  label: "Extinta a zona de caça associativa da Herdade do Canejo, concessionada pela Port 304/91 de 08-Abr, alterada pelo\
+    \ presente diploma, pela PORT.991/2008.03.09.2008.MADRP, DR.IS [170] de 03.09.2008\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/991-2008-453997
+  date: '2008-09-03'
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/136/1996/08/14/p/dre
   label: null
@@ -90,16 +96,36 @@ relationships:
   target: eli:http://data.dre.pt/eli/port/304/1991/04/08/p/dre
   label: null
   source: http://data.dre.pt/eli/port/304/1991/04/08/p/dre
+- type: cites
+  target: pt:dre:157431:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:176319:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:219134:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:405765:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:613439:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T14:13:42Z'
   warnings: []
   errors: []
 ---
@@ -122,7 +148,7 @@ Manda o Governo, pelo Ministro da Agricultura do Desenvolvimento Rural e das Pes
 
 Ministério da Agricultura, do Desenvolvimento Rural e das Pescas.
 
-**Assinada em 18 de Fevereiro de 1999.**
+Assinada em 18 de Fevereiro de 1999.
 
 Pelo Ministro da Agricultura, do Desenvolvimento Rural e das Pescas, Victor Manuel Coelho Barros, Secretário de Estado do Desenvolvimento Rural.
 

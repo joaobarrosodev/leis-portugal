@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/746/1998/09/12/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/746-1998-242185
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2007-09-11T00:00:00Z'
+  retrieved_at: '2026-10-23T14:10:56Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 5c06b00c06ffd43beaccaceb5a74610e753487169921c16f2469a115db2f2cbd
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: d047c1f3794dbf19f7f10474f29ce3648d222db73a4ca8594e3637b019db68cc
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T14:10:56Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -74,6 +74,19 @@ relationships:
   target: pt:dre:640150:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:631055:por
+  label: "Renovada a concessão da zona de caça associativa a que se refere a Port 1056/95, de 29-Ago, na redacção do presente\
+    \ diploma, pela PORT.1061/2001.2001.09.04.MADRP, DR.IS-B [205]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/1061-2001-631055
+  date: '2001-09-04'
+- type: amended_by
+  target: pt:dre:640150:por
+  label: "Alterada a denominação para zona de caça associativa da Herdade dos Bordalos e outras e renovada por um período\
+    \ de 6 anos a concessão da zona de caça criada pela Portaria 1097/90, de 31 de Outubro, na redacção do presente diploma,\
+    \ pela PORT.1143/2007.11.09.2007.MADRP, DR.IS [175] de 11.09.2007\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/1143-2007-640150
+  date: '2007-09-11'
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/136/1996/08/14/p/dre
   label: null
@@ -82,16 +95,32 @@ relationships:
   target: eli:http://data.dre.pt/eli/port/1056/1995/08/29/p/dre
   label: null
   source: http://data.dre.pt/eli/port/1056/1995/08/29/p/dre
+- type: cites
+  target: pt:dre:219134:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:405765:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:433028:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:566179:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T14:10:56Z'
   warnings: []
   errors: []
 ---
@@ -112,7 +141,7 @@ Manda o Governo, pelo Ministro da Agricultura, do Desenvolvimento Rural e das Pe
 
 Ministério da Agricultura, do Desenvolvimento Rural e das Pescas.
 
-**Assinada em 20 de Agosto de 1998.**
+Assinada em 20 de Agosto de 1998.
 
 Pelo Ministro da Agricultura, do Desenvolvimento Rural e das Pescas, Luís Manuel Capoulas Santos, Secretário de Estado da Agricultura e do Desenvolvimento Rural.
 

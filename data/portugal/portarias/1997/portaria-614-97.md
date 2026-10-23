@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/614/1997/08/08/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/614-1997-204201
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1997-08-08T00:00:00Z'
+  retrieved_at: '2026-10-23T14:03:53Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 0c4c39892d39f73c5ec9f20e2931dba3658a183927230a36e902cb986d301ea8
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 98aa98e657d0cd2708f1868ee18f77fd72b8426155d549cc404dde04e7289d2f
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T14:03:53Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -69,17 +69,17 @@ subjects:
 - Albufeira.cidade
 - Alcácer do SAL
 - Ansião
-- Vila Franca de Xira
 - Caldas da Rainha
-- Serviços de Registo e Notariado
-- Registos e Notariado
+- Conservatória do Registo Civil
 - Loures
 - MAIA
-- Setúbal
 - Quadro de Pessoal
-- Conservatória do Registo Civil
+- Registos e Notariado
+- Serviços de Registo e Notariado
+- Setúbal
 - Sintra
 - Tondela
+- Vila Franca de Xira
 - VILA NOVA de GAIA
 relationships:
 - type: cites
@@ -94,16 +94,40 @@ relationships:
   target: eli:http://data.dre.pt/eli/dec-lei/50/1995/03/16/p/dre
   label: null
   source: http://data.dre.pt/eli/dec-lei/50/1995/03/16/p/dre
+- type: cites
+  target: pt:dre:145872:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:157050:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:185918:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:462214:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:534657:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:556806:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T14:03:53Z'
   warnings: []
   errors: []
 ---
@@ -120,10 +144,10 @@ Manda o Governo, pelo Ministro da Justiça, ao abrigo do disposto nos artigos 15
 
 Ministério da Justiça.
 
-**Assinada em 11 de Julho de 1997.**
+Assinada em 11 de Julho de 1997.
 
-**O Ministro da Justiça, José Eduardo Vera Cruz Jardim.**
+O Ministro da Justiça, José Eduardo Vera Cruz Jardim.
 
 QUADRO ANEXO
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1997/08/182b00/41134113.pdf))](https://files.diariodarepublica.pt/1s/1997/08/182b00/41134113.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1997/08/182b00/41134113.pdf)

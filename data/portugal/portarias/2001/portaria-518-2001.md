@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2001/05/120b00/30303036.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/518/2001/05/24/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/518-2001-332956
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2003-12-04T00:00:00Z'
+  retrieved_at: '2026-10-23T14:32:45Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: f7a460af3dcb0b407ad79382d0b7e7052be485ccb0bb0487395552bcdfb33e84
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 7b888226a15db75ad25b7da2a9a893cae298286496a42aacb2ef986c780affdd
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T14:32:45Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -74,6 +74,11 @@ relationships:
   target: pt:dre:2254401:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:302940:por
+  label: "Alterado o nº 8º e o anexo I (\"Quadro único\") pela PORT.364/2002.2002.04.05.MADRP DR.IS-B [80]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/364-2002-302940
+  date: '2002-04-05'
 - type: cites
   target: celex:32001L0218
   label: null
@@ -82,16 +87,26 @@ relationships:
   target: eli:http://data.dre.pt/eli/port/7/2000/01/07/p/dre
   label: null
   source: http://data.dre.pt/eli/port/7/2000/01/07/p/dre
+- type: corrected_by
+  target: pt:dre:587982:por
+  label: "Rectificada pela DECL-RECT.13-M/2001.2001.05.31.PCM, DR.IS-B [126]4ºSupl\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/declaracao-rectificacao/13-m-2001-587982
+  date: '2001-05-31'
+- type: repealed_by
+  target: pt:dre:2254401:por
+  label: "Revogada pela PORT.1572/2003(2ªSérie).04.12.2003.MADRP, DR.IIS [298] de 27.12.2003\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/1572-2003-2254401
+  date: '2003-12-04'
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T14:32:45Z'
   warnings: []
   errors: []
 ---
@@ -284,31 +299,31 @@ Pelo Ministro da Agricultura, do Desenvolvimento Rural e das Pescas, Victor Manu
 
 Área da zona afectada (ZA) de NMP a que se refere a alínea v) do n.º 2.º
 
-[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2001/05/120b00/30303036.pdf)
+[[[[[[[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2001/05/120b00/30303036.pdf)](https://files.diariodarepublica.pt/1s/2001/05/120b00/30303036.pdf)](https://files.diariodarepublica.pt/1s/2001/05/120b00/30303036.pdf)](https://files.diariodarepublica.pt/1s/2001/05/120b00/30303036.pdf)](https://files.diariodarepublica.pt/1s/2001/05/120b00/30303036.pdf)](https://files.diariodarepublica.pt/1s/2001/05/120b00/30303036.pdf)](https://files.diariodarepublica.pt/1s/2001/05/120b00/30303036.pdf)
 
 ## ANEXO II — Quadro único
 
 Área da zona de restrição (ZR) a que se refere a alínea w) do n.º 2.º
 
-[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2001/05/120b00/30303036.pdf)
+[[[[[[[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2001/05/120b00/30303036.pdf)](https://files.diariodarepublica.pt/1s/2001/05/120b00/30303036.pdf)](https://files.diariodarepublica.pt/1s/2001/05/120b00/30303036.pdf)](https://files.diariodarepublica.pt/1s/2001/05/120b00/30303036.pdf)](https://files.diariodarepublica.pt/1s/2001/05/120b00/30303036.pdf)](https://files.diariodarepublica.pt/1s/2001/05/120b00/30303036.pdf)](https://files.diariodarepublica.pt/1s/2001/05/120b00/30303036.pdf)
 
 ## ANEXO III — Quadro único
 
 Medidas aplicáveis ao material de coníferas hospedeiras com sintomas de NMP, a que se refere a alínea a) do n.º 4.º
 
-[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2001/05/120b00/30303036.pdf)
+[[[[[[[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2001/05/120b00/30303036.pdf)](https://files.diariodarepublica.pt/1s/2001/05/120b00/30303036.pdf)](https://files.diariodarepublica.pt/1s/2001/05/120b00/30303036.pdf)](https://files.diariodarepublica.pt/1s/2001/05/120b00/30303036.pdf)](https://files.diariodarepublica.pt/1s/2001/05/120b00/30303036.pdf)](https://files.diariodarepublica.pt/1s/2001/05/120b00/30303036.pdf)](https://files.diariodarepublica.pt/1s/2001/05/120b00/30303036.pdf)
 
 ## ANEXO IV — Quadro único
 
 Medidas aplicáveis ao material de coníferas hospedeiras sem sintomas de NMP, a que se refere a alínea a) do n.º 4.º
 
-[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2001/05/120b00/30303036.pdf)
+[[[[[[[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2001/05/120b00/30303036.pdf)](https://files.diariodarepublica.pt/1s/2001/05/120b00/30303036.pdf)](https://files.diariodarepublica.pt/1s/2001/05/120b00/30303036.pdf)](https://files.diariodarepublica.pt/1s/2001/05/120b00/30303036.pdf)](https://files.diariodarepublica.pt/1s/2001/05/120b00/30303036.pdf)](https://files.diariodarepublica.pt/1s/2001/05/120b00/30303036.pdf)](https://files.diariodarepublica.pt/1s/2001/05/120b00/30303036.pdf)
 
 ## ANEXO V — Quadro único
 
 Medidas aplicáveis ao material de coníferas hospedeiras armazenado e proveniente da zona isenta (ZI), a que se refere a alínea b) do n.º 4.º
 
-[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2001/05/120b00/30303036.pdf)
+[[[[[[[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2001/05/120b00/30303036.pdf)](https://files.diariodarepublica.pt/1s/2001/05/120b00/30303036.pdf)](https://files.diariodarepublica.pt/1s/2001/05/120b00/30303036.pdf)](https://files.diariodarepublica.pt/1s/2001/05/120b00/30303036.pdf)](https://files.diariodarepublica.pt/1s/2001/05/120b00/30303036.pdf)](https://files.diariodarepublica.pt/1s/2001/05/120b00/30303036.pdf)](https://files.diariodarepublica.pt/1s/2001/05/120b00/30303036.pdf)
 
 ## ANEXO VI — Medidas aplicáveis à transformação industrial de material de coníferas hospedeiras, a que se refere a alínea a) do n.º 4.º
 
@@ -316,10 +331,10 @@ Quadro n.º 1
 
 Medidas aplicáveis aos produtos de coníferas hospedeiras com origem na zona de restrição (ZR)
 
-[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2001/05/120b00/30303036.pdf)
+[[[[[[[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2001/05/120b00/30303036.pdf)](https://files.diariodarepublica.pt/1s/2001/05/120b00/30303036.pdf)](https://files.diariodarepublica.pt/1s/2001/05/120b00/30303036.pdf)](https://files.diariodarepublica.pt/1s/2001/05/120b00/30303036.pdf)](https://files.diariodarepublica.pt/1s/2001/05/120b00/30303036.pdf)](https://files.diariodarepublica.pt/1s/2001/05/120b00/30303036.pdf)](https://files.diariodarepublica.pt/1s/2001/05/120b00/30303036.pdf)
 
 Quadro n.º 2
 
 Medidas aplicáveis aos produtos de coníferas hospedeiras com origem na zona isenta (ZI)
 
-[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2001/05/120b00/30303036.pdf)
+[[[[[[[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2001/05/120b00/30303036.pdf)](https://files.diariodarepublica.pt/1s/2001/05/120b00/30303036.pdf)](https://files.diariodarepublica.pt/1s/2001/05/120b00/30303036.pdf)](https://files.diariodarepublica.pt/1s/2001/05/120b00/30303036.pdf)](https://files.diariodarepublica.pt/1s/2001/05/120b00/30303036.pdf)](https://files.diariodarepublica.pt/1s/2001/05/120b00/30303036.pdf)](https://files.diariodarepublica.pt/1s/2001/05/120b00/30303036.pdf)

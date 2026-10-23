@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/2s/2009/10/198000000/4142341423.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -47,18 +47,18 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/declaracao-rectificacao/2541-2009-2176534
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2009-10-13T00:00:00Z'
+  retrieved_at: '2026-10-23T14:07:35Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 1d2bee417410336bfa8c9de06805f7cfcc66c2a4a119dcaf94a6066d9f5cfdf1
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: c2ba448ddae7b7d7a9eba608d5f055c0666f59762c20d13d14a490424db91bfb
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T14:07:35Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -70,13 +70,13 @@ relationships: []
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T14:07:35Z'
   warnings: []
   errors: []
 ---
@@ -88,3 +88,5 @@ Declaração de rectificação n.º 2541/2009
 Por ter saído com inexactidão o aviso (extracto) n.º 16912/2009, publicado no Diário da República, 2.ª série, n.º 188, de 28 de Setembro de 2009, referente ao contrato do mestre Paulo Alexandre Marques Diogo, rectifica-se que onde se lê «como professor auxiliar, com efeitos a partir de 8 de Julho de 2009, pelo período inicial de cinco anos, nas condições previstas no n.º 1 do artigo 25.º do ECDU, com direito ao vencimento mensal correspondente ao escalão 1, índice 195» deve ler-se «como assistente, com efeitos a partir de 8 de Julho de 2009, pelo período de seis anos, prorrogável nos termos da lei, nas condições previstas no artigo 26.º do ECDU, com direito ao vencimento mensal correspondente ao escalão 2, índice 145».
 
 7 de Outubro de 2009. - O Administrador, Luís Filipe Gonçalves Gaspar.
+
+202404925

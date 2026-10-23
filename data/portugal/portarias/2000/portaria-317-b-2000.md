@@ -19,7 +19,7 @@ publication:
   reference: Diário da República n.º 126/2000, 1º Suplemento, Série I-B de 2000-05-31
   number: '126'
   series: I
-  supplement: 1º Suplemento
+  supplement: null
   pages: 2534-(7) a 2534-(16)
   pdf_url: https://files.diariodarepublica.pt/1s/2000/05/126b01/00070016.pdf
 entry_into_force_dates: []
@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/317-b/2000/05/31/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/317-b-2000-522225
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2004-02-26T00:00:00Z'
+  retrieved_at: '2026-10-23T14:22:51Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 4df8c5e983b8fe7e1c42fe2a8407fc6a80bb01845f0d48e36dd3b6e2a07fa8d9
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 3ee2aeee27846df5d0ddd2df021b3542ac306a728be647c2eadd7305add6b793
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T14:22:51Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,27 +66,40 @@ reuse:
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
 - Ajuda Comunitária
-- Financiamento
-- Empresa
 - CAE
-- Definição de Competências
-- Direcção Geral do Comércio e da Concorrência
-- Comissão de Coordenação Regional
-- Pagamento
-- Desenvolvimento Económico
-- Política Económica
-- Urbanismo
 - Câmara Municipal
+- Comissão de Coordenação Regional
+- Definição de Competências
+- Desenvolvimento Económico
+- Direcção Geral do Comércio e da Concorrência
+- Empresa
+- Financiamento
+- IAPMEI
+- Pagamento
+- Política Económica
+- Programa Operacional da Economia
 - Regulamento
 - Regulamento de Execução do Sistema de Incentivos a Projectos de Urbanismo Comercial (urbcom)
-- Programa Operacional da Economia
-- IAPMEI
+- Urbanismo
 - Urbcom
 relationships:
 - type: amended_by
   target: pt:dre:568899:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:402706:por
+  label: "Alterados os arts. 3º, 5º, 6º, 7º, 8º, 9º, 11º, 12º, 13º, 14º, 15º, 16º, 17º, 20º, 23º, 24º, 25º, 27º, 28º, 35º,\
+    \ 37º, 38º, 39º e 40º , bem como os anexos I, II, III e IV pela PORT.113-A/2002.2002.02.07.MF DR.IS-B [32]Supl\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/113-a-2002-402706
+  date: '2002-02-07'
+- type: amended_by
+  target: pt:dre:568899:por
+  label: "Mantido o regime constante deste diploma, alterada pela Port 113-A/2002 de 07-Fev, pela PORT.188/2004.26.02.2004.MF,\
+    \ DR.IS-B [48] de 26.02.2004, para as candidaturas individuais das empresas, decorrentes de projectos qualificados antes\
+    \ da entrada em vigor daquele diploma, relativamente às quais esteja a decorrer o prazo para a sua apresentação. \0 \0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/188-2004-568899
+  date: '2004-02-26'
 - type: cites
   target: eli:http://data.europa.eu/eli/reco/1996/280/oj
   label: null
@@ -94,13 +107,13 @@ relationships:
 article_structure:
   article_count: 41
   section_count: 22
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T14:22:51Z'
   warnings: []
   errors: []
 ---
@@ -121,7 +134,7 @@ Manda o Governo, pelos Ministros Adjunto, das Finanças, da Economia e do Planea
 
 Em 31 de Maio de 2000.
 
-**O Ministro Adjunto, Fernando Manuel dos Santos Gomes. - O Ministro das Finanças, Joaquim Augusto Nunes Pina Moura. - O Ministro da Economia, Joaquim Augusto Nunes Pina Moura. - A Ministra do Planeamento, Elisa Maria da Costa Guimarães Ferreira.**
+O Ministro Adjunto, Fernando Manuel dos Santos Gomes. - O Ministro das Finanças, Joaquim Augusto Nunes Pina Moura. - O Ministro da Economia, Joaquim Augusto Nunes Pina Moura. - A Ministra do Planeamento, Elisa Maria da Costa Guimarães Ferreira.
 
 ## ANEXO — Regulamento de Execução do Sistema de Incentivos a Projectos de Urbanismo Comercial (URBCOM)
 

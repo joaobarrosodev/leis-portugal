@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2001/05/126b00/32563264.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/553/2001/05/31/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/553-2001-332254
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2011-03-11T00:00:00Z'
+  retrieved_at: '2026-10-23T14:33:00Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 32cc3103ace16ab64a602008b9899e4192800351a3f8bdda3d7f22f89348e69e
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: a5b53ff9ecf3d434ed3999bc00fb9a8d246f91e8a61bffc2cf2f9432d34b0b3b
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T14:33:00Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -65,17 +65,59 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Totoloto
-- Lisboa
-- Informatização
-- Santa Casa da Misericórdia
-- Regulamento
 - Departamento de Jogos
+- Informatização
+- Lisboa
+- Regulamento
+- Santa Casa da Misericórdia
+- Totoloto
 relationships:
 - type: amended_by
   target: pt:dre:278178:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:476275:por
+  label: "Alterados os nºs 4º e 5º pela port.1215/2003.16.10.2003.MS, DR.IS-B [240] de 16.10.2003\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/1215-2003-476275
+  date: '2001-05-31'
+- type: amended_by
+  target: pt:dre:632404:por
+  label: "Alterado o nº 3 do art. 12º do presente Regulamento pela PORT.1048/2001.2001.09.01.MS DR.IS-B [203]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/1048-2001-632404
+  date: '2001-09-01'
+- type: amended_by
+  target: pt:dre:667087:por
+  label: "Alterado o art. 4º do Regulamento do Totoloto aprovado pelo presente diploma, com a redacção dada pela Port 1215/2003\
+    \ de 16-Out, pela PORT.256/2006.10.03.2006.MTSSO, DR.IS-B [50] de 10.03.2006\006\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/256-2006-667087
+  date: '2006-03-10'
+- type: amended_by
+  target: pt:dre:540804:por
+  label: "Alterado o art. 19.º do Regulamento pela PORT.867/2006.28.08.2006.MTSSO, DR.IS [165] de 28.08.2006\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/867-2006-540804
+  date: '2006-08-28'
+- type: amended_by
+  target: pt:dre:493060:por
+  label: "Suspenso, até 06.09.2009, o registo de apostas para cinco semanas consecutivas no Totoloto, previsto no Regulamento\
+    \ aprovado pelo presente diploma, na redacção da Port 1048/2001, de 01-Set, Port 1215/2003, de 16-Out, Port 256/2006,\
+    \ de 10-Mar e 867/2006, de 28-Ago, pela PORT.833/2009.31.07.2009.MTSSO, DR.IS [147] de 31.07.2009\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/833-2009-493060
+  date: '2009-07-31'
+- type: amended_by
+  target: pt:dre:488495:por
+  label: "Alterados os arts. 4.º (na redacção da Port 1215/2003, de 16-Out e da Port 256/2006, de 10-Mar) e 5.º (na redacção\
+    \ da Port 1215/2003, de 16-Out) do Regulamento do Totoloto, pela PORT.973/2009.31.08.2009.MTSSO, DR.IS [168] de 31.08.2009\0\
+    \0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/973-2009-488495
+  date: '2009-08-31'
+- type: amended_by
+  target: pt:dre:280488:por
+  label: "Alterados os art.s 19º (na redacção da Port 867/2006, de 28-Ago) e 20º do Regulamento, pela PORT.65/2011.04.02.2011.MTSSO,\
+    \ DR.IS [25] de 04.02.2011, que suspende no dia 6.02.2011 o registo de apostas para cinco semanas consecutivas no Totoloto.\0\
+    .\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/65-2011-280488
+  date: '2011-02-04'
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/322/1991/08/26/p/dre
   label: null
@@ -104,16 +146,55 @@ relationships:
   target: eli:http://data.dre.pt/eli/port/87-a/1997/02/04/p/dre
   label: null
   source: http://data.dre.pt/eli/port/87-a/1997/02/04/p/dre
+- type: cites
+  target: pt:dre:143501:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:151499:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:403119:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:437800:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:546379:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:619737:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:626426:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:685022:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:278178:por
+  label: "Revogada em 13.03.2011, na redacção das portarias 1215/2003, de 16-Out, 256/2006, de 10-Mar, 867/2006, de 28-Ago,\
+    \ 833/2009, de 31-Jul, 973/2009, de 31-Ago, 65/2011, de 04-Fev e 1048/2011, de 01-Set, pela PORT.102/2011.11.03.2011.MTSSO,\
+    \ DR.IS [50] de 11.03.2011\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/102-2011-278178
+  date: '2011-03-11'
 article_structure:
   article_count: 25
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T14:33:00Z'
   warnings: []
   errors: []
 ---
@@ -142,7 +223,7 @@ Manda o Governo, pelos Ministros da Saúde e do Trabalho e da Solidariedade, o s
 
 Em 17 de Maio de 2001.
 
-**A Ministra da Saúde, Maria Manuela de Brito Arcanjo Marques da Costa. - O Ministro do Trabalho e da Solidariedade, Paulo José Fernandes Pedroso.**
+A Ministra da Saúde, Maria Manuela de Brito Arcanjo Marques da Costa. - O Ministro do Trabalho e da Solidariedade, Paulo José Fernandes Pedroso.
 
 REGULAMENTO DO TOTOLOTO
 
@@ -608,8 +689,8 @@ Até à completa saída de circulação do escudo, o preço a pagar pelo jogador
 
 ## ANEXO N.º 1 — Tabela de apostas múltiplas
 
-[(ver tabela no documento original)](https://files.diariodarepublica.pt/1s/2001/05/126b00/32563264.pdf)
+[[(ver tabela no documento original)](https://files.diariodarepublica.pt/1s/2001/05/126b00/32563264.pdf)](https://files.diariodarepublica.pt/1s/2001/05/126b00/32563264.pdf)
 
 ## ANEXO N.º 2 — Tabela dos prémios em apostas múltiplas
 
-[(ver tabela no documento original)](https://files.diariodarepublica.pt/1s/2001/05/126b00/32563264.pdf)
+[[(ver tabela no documento original)](https://files.diariodarepublica.pt/1s/2001/05/126b00/32563264.pdf)](https://files.diariodarepublica.pt/1s/2001/05/126b00/32563264.pdf)
