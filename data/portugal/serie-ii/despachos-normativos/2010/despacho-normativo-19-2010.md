@@ -47,41 +47,61 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/despacho-normativo/19-2010-2507826
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2010-07-09T00:00:00Z'
+  retrieved_at: '2026-10-23T15:07:24Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 6555d4f239215a2bb6f132d0a93593adac5ee9ae4cf91fd7ee22be90efa283d5
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: d3840f7d77a56867e9f6a7275d584be80ed08161f52cb538a772e9ad6268a637
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:07:24Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
-relationships: []
+subjects:
+- CAÇA
+- Taxa
+- ZONA de CAÇA
+- Zona de Proteção
+relationships:
+- type: cites
+  target: pt:dre:396926:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:480704:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:481498:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:611687:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:07:24Z'
   warnings: []
   errors: []
 ---
 
-# Despacho Normativo n.º 19/2010
+# Despacho normativo n.º 19/2010
 
 Nos termos do disposto no n.º 5 do artigo 23.º do [Decreto-Lei n.º 202/2004](https://diariodarepublica.pt/dr/detalhe/decreto-lei/202-2004-480704), de 18 de Agosto, com a redacção que lhe foi conferida pelo [Decreto-Lei n.º 201/2005](https://diariodarepublica.pt/dr/detalhe/decreto-lei/201-2005-481498), de 24 de Novembro, e com a alteração do [Decreto-Lei n.º 9/2009](https://diariodarepublica.pt/dr/detalhe/decreto-lei/9-2009-396926), de 9 de Janeiro, na [Portaria n.º 1119/2001](https://diariodarepublica.pt/dr/detalhe/portaria/1119-2001-611687), de 21 de Setembro, e no uso das competências delegadas pelo Ministro da Agricultura, do Desenvolvimento Rural e das Pescas pelo despacho n.º 78/2010, de 5 de Janeiro, e delegadas pela Ministra do Ambiente e do Ordenamento do Território pelo despacho n.º 932/2010, de 14 de Janeiro, determina-se que:
 
@@ -146,3 +166,5 @@ d) Troféu superior a 163 pontos - (euro) 2150.
 9 - O valor por cada caçador inscrito para o abate de fêmeas de batida, nas acções de correcção de densidade da população de veado é de (euro) 100.
 
 6 de Julho de 2010. - O Secretário de Estado das Florestas e Desenvolvimento Rural, Rui Pedro de Sousa Barreiro. - O Secretário de Estado do Ambiente, Humberto Delgado Ubach Chaves Rosa.
+
+203455909

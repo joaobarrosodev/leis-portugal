@@ -46,45 +46,81 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/despacho-normativo/40-2008-3264798
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2021-06-17T00:00:00Z'
+  retrieved_at: '2026-10-23T15:06:55Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 331412238c35a75a8bb380cb35f949776dec0feafaa2037522a8ced9d1c642d2
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 00dbb21f7a124dace6dcfc0bb4501a81961eba5cea63b5347a62ef41a2a74e85
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:06:55Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Ensino Oficial
+- Ensino Superior
+- Escola Náutica Infante Dom Henrique
+- Estatuto
+- Homologação
 relationships:
 - type: amended_by
   target: pt:dre:165262051:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:622306:por
+  label: "Determinado que são exercidos pela Ministra da Agricultura, do Mar, Ambiente e Ordenamento do Terrritório, conjuntamente\
+    \ com os Ministros da Educação e Ciência e da Economia e do Emprego, a definição de orientações estratégicas, bem como\
+    \ o acompanhamento da sua execução, para a Escola Náutica Infante D. Henrique, anteriormente integrada no extinto Ministério\
+    \ da Ciência, Tecnologia e Ensino Superior, cujos Estatutos foram homologados e publicados pelo presente diploma, pelo\
+    \ DEC LEI.86-A/2011.12.07.2011.PCM, DR.IS [132-Supl] de 12.07.2011\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/86-a-2011-622306
+  date: '2011-07-12'
+- type: amended_by
+  target: pt:dre:499049:por
+  label: "Determinado que as definição de orientações estratégicas para a Escola Superior Náutica Infante D. Henrique, bem\
+    \ como o acompanhamento da sua execução, são exercidos pelo Ministro da Educação e Ciência em conjunto com o Ministro\
+    \ da Economia e com a Ministra da Agricultura e do Mar , pelo DEC LEI.119/2013.21.08.2013.PCM, DR.IS [160] de 21.08.2013\0\
+    \0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/119-2013-499049
+  date: '2013-08-21'
+- type: amended_by
+  target: pt:dre:165262051:por
+  label: Homologadas as alterações aos Estatutos da Escola Superior Náutica Infante D. Henrique, pelo(a) Despacho Normativo
+    n.º 16/2021 - Diário da República n.º 116/2021, Série II de 2021-06-17, que republica integralmente os referidos Estatutos
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/despacho-normativo/16-2021-165262051
+  date: '2021-06-17'
+- type: cites
+  target: pt:dre:272849:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:640339:por
+  label: null
+  source: null
 article_structure:
   article_count: 116
   section_count: 23
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:06:55Z'
   warnings: []
   errors: []
 ---
 
-# Despacho Normativo n.º 40/2008
+# Despacho normativo n.º 40/2008
 
 Considerando que, nos termos do n.º 1 do artigo 172.º da [Lei n.º 62/2007](https://diariodarepublica.pt/dr/detalhe/lei/62-2007-640339), de 10 de Setembro, as instituições de ensino superior devem proceder à revisão dos seus estatutos, de modo a conformá-los com o novo Regime Jurídico das Instituições de Ensino Superior;
 

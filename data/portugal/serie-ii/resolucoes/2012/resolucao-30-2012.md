@@ -47,36 +47,57 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/resolucao/30-2012-1235890
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2012-08-10T00:00:00Z'
+  retrieved_at: '2026-10-23T15:14:53Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 0f596f334fc5ad0ecf18cb0e88b7056736290145f737a9883335d165c6133409
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 90d4d5bd6427d2160d3d255c213c5d7c60ae3ca4d3e5f0d86aecc0946d719759
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:14:53Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
-relationships: []
+subjects:
+- Aicep
+- Conselho de Administração
+- Exoneração
+- Nomeação
+- Vogal
+relationships:
+- type: cites
+  target: pt:dre:243747:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:520259:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:544415:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:635865:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:14:53Z'
   warnings: []
   errors: []
 ---
@@ -108,3 +129,5 @@ Pedro Pessoa e Costa, nascido a 14 de outubro de 1962, licenciado em Direito (me
 Foi "team leader" CdE e Vice Chefe de Missão da CPLP nas Observações Eleitorais na Geórgia e Angola, respectivamente. Bolseiro do German Marshall Fund dos Estados Unidos em 1992.
 
 Autor de comunicações públicas na London School of Economics and Political Science (LSE), na Direção-Geral da Qualificação dos Trabalhadores em Funções Públicas (INA), na Escola de Negócios e Administração (ENA) e no Instituto da Defesa Nacional (IDN).
+
+14122012

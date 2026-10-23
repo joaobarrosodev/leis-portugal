@@ -47,40 +47,62 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/19-1986-218767
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2005-12-19T00:00:00Z'
+  retrieved_at: '2026-10-23T15:17:21Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 0b96733297e556f69cc300bb8ba94614f72483941b960b12867f12106635855a
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: e9e01b5ae01089bbd8026379871c8464d4e7d2a070111015c36ddaeae87df9b7
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:17:21Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Açores
+- Administração Regional
+- Assembleia Regional
+- Cargos Políticos
+- Função Pública
+- Governo Regional
+- Habitação por Conta do Estado
+- Membros do Governo
+- Pessoal Dirigente
+- Pessoal Técnico Superior
+- Recrutamento de Pessoal
 relationships:
 - type: amended_by
   target: pt:dre:203436:por
   label: Última alteração registada na importação inicial
   source: null
+- type: cites
+  target: pt:dre:252070:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:203436:por
+  label: "Revogada a al. b) do n.º 2 do art. 6.º do DRG 8/77/A, de 17-Mai, na redacção do presente diploma, mantendo-se em\
+    \ vigor o regime estabelecido na citada norma e para as situações constituídas ao seu abrigo, pelo DLR.1/2006/A.19.12.2005.AL-RAA,\
+    \ DR.IS-A [3] de 04.01.2006\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-legislativo-regional/1-2006-203436
+  date: '2005-12-19'
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:17:21Z'
   warnings: []
   errors: []
 ---
@@ -97,9 +119,9 @@ Tendo em conta a existência na administração regional de funcionários e agen
 
 A Assembleia Regional dos Açores decreta, nos termos da alínea a) do artigo 229.º da Constituição, o seguinte:
 
-###### Artigo 1.º O artigo 6.º do [Decreto Regional n.º 8/77/A](https://diariodarepublica.pt/dr/detalhe/decreto-regional/8-1977-252070), de 17 de Maio, com as alterações introduzidas pelos Decretos Regionais n.os 17/77/A, 11/78/A e 5/81/A, respectivamente de 31 de Dezembro, de 19 de Julho e de 15 de Abril, passa a ter a seguinte redacção:
+Artigo 1.º O artigo 6.º do [Decreto Regional n.º 8/77/A](https://diariodarepublica.pt/dr/detalhe/decreto-regional/8-1977-252070), de 17 de Maio, com as alterações introduzidas pelos Decretos Regionais n.os 17/77/A, 11/78/A e 5/81/A, respectivamente de 31 de Dezembro, de 19 de Julho e de 15 de Abril, passa a ter a seguinte redacção:
 
-###### Art. 6.º - 1 - Os membros do Governo Regional têm direito a habitação fornecida pela administração regional sempre que para o exercício das suas funções tenham de mudar de residência, deslocando para a Região, ou dentro dela, de uma ilha para a outra e ainda nos casos em que, habitando alojamento fornecido pela entidade patronal, a ele percam o direito.
+Art. 6.º - 1 - Os membros do Governo Regional têm direito a habitação fornecida pela administração regional sempre que para o exercício das suas funções tenham de mudar de residência, deslocando para a Região, ou dentro dela, de uma ilha para a outra e ainda nos casos em que, habitando alojamento fornecido pela entidade patronal, a ele percam o direito.
 
 2 - O disposto no número anterior aplica-se aos titulares dos seguintes cargos da administração regional:
 
@@ -115,14 +137,14 @@ b) Para os titulares dos cargos previstos no n.º 2 do presente artigo, mas que 
 
 c) Para os restantes casos, por despacho conjunto do Presidente do Governo, do Secretário Regional da Administração Pública e do secretário regional interessado.
 
-###### Art. 2.º Ficam salvaguardadas as situações decorrentes da anterior redacção do artigo 6.º do [Decreto Regional n.º 8/77/A](https://diariodarepublica.pt/dr/detalhe/decreto-regional/8-1977-252070), de 17 de Maio, com as alterações introduzidas pelas Decretos Regionais n.os 17/77/A, 11/78/A e 5/81/A, respectivamente de 31 de Dezembro, de 19 de Julho e de 15 de Abril.
+Art. 2.º Ficam salvaguardadas as situações decorrentes da anterior redacção do artigo 6.º do [Decreto Regional n.º 8/77/A](https://diariodarepublica.pt/dr/detalhe/decreto-regional/8-1977-252070), de 17 de Maio, com as alterações introduzidas pelas Decretos Regionais n.os 17/77/A, 11/78/A e 5/81/A, respectivamente de 31 de Dezembro, de 19 de Julho e de 15 de Abril.
 
 Aprovado pela Assembleia Regional dos Açores, na Horta, em 13 de Junho de 1986.
 
-**O Presidente da Assembleia Regional, José Guilherme Reis Leite.**
+O Presidente da Assembleia Regional, José Guilherme Reis Leite.
 
-**Assinado em Angra do Heroísmo em 22 de Julho de 1986.**
+Assinado em Angra do Heroísmo em 22 de Julho de 1986.
 
-**Publique-se.**
+Publique-se.
 
-**O Ministro da República para a Região Autónoma dos Açores, Vasco J. Rocha Vieira.**
+O Ministro da República para a Região Autónoma dos Açores, Vasco J. Rocha Vieira.

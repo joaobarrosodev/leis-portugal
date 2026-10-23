@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1984/09/20300/27062708.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,40 +46,54 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/28-1984-373631
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2004-07-16T00:00:00Z'
+  retrieved_at: '2026-10-23T15:17:06Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: f9209d08d08ea0a1881ae2f5203f18b4ea247860cb195155c22ba04ffa945ee0
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 5812a7fc74630d69ede412826a3ec6bb1c4bf92d0b7dd340663196033e537b1e
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:17:06Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Açores
+- Árvore
+- Exploração Florestal
+- ILHA do Faial
 relationships:
 - type: amended_by
   target: pt:dre:479598:por
   label: Última alteração registada na importação inicial
   source: null
+- type: corrected_by
+  target: pt:dre:380326:por
+  label: Rectificado pela DECL.DD5282.23.11.1984.PCM, DR.IS [278]2ºSupl de 30.11.1984
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/declaracao/1984-380326
+  date: '1984-11-23'
+- type: repealed_by
+  target: pt:dre:479598:por
+  label: "Revogado pelo DLR.29/2004/A.16.07.2004.ALR-RAA, DR.IS-A [199] de 24.08.2004\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-legislativo-regional/29-2004-479598
+  date: '2004-07-16'
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:17:06Z'
   warnings: []
   errors: []
 ---
@@ -96,7 +110,7 @@ Assim:
 
 A Assembleia Regional dos Açores decreta, nos termos da alínea a) do artigo 229.º da Constituição o seguinte:
 
-###### Artigo 1.º - 1 - São considerados objectos classificados, na cidade da Horta:
+Artigo 1.º - 1 - São considerados objectos classificados, na cidade da Horta:
 
 22 exemplares de Araucaria excelsa R Br;
 
@@ -108,7 +122,7 @@ A Assembleia Regional dos Açores decreta, nos termos da alínea a) do artigo 22
 
 2 - A localização e a propriedade dos referidos exemplares são as indicadas na planta e mapa anexos.
 
-###### Art. 2.º A identificação de cada exemplar far-se-á através de uma numeração, seguida dos seguintes elementos caracterizadores:
+Art. 2.º A identificação de cada exemplar far-se-á através de uma numeração, seguida dos seguintes elementos caracterizadores:
 
 Altura;
 
@@ -118,9 +132,9 @@ Largura da copa;
 
 Estado vegetativo.
 
-###### Art. 3.º Os 37 exemplares referidos terão como zona de protecção à sua volta uma área correspondente ao dobro da projecção da copa no terreno.
+Art. 3.º Os 37 exemplares referidos terão como zona de protecção à sua volta uma área correspondente ao dobro da projecção da copa no terreno.
 
-###### Art. 4.º Ficam proibidas quaisquer operações que possam destruir ou danificar os exemplares classificados, sendo considerados contra-ordenações:
+Art. 4.º Ficam proibidas quaisquer operações que possam destruir ou danificar os exemplares classificados, sendo considerados contra-ordenações:
 
 1:
 
@@ -134,7 +148,7 @@ d) Qualquer operação que possa prejudicar o estado vegetativo dos exemplares c
 
 2 - As operações cuja periculosidade seja duvidosa serão submetidas a prévia autorização da Direcção Regional de Habitação, Urbanismo e Ambiente, constituindo contra-ordenação a execução das mesmas em desconformidade com a referida autorização.
 
-###### Art. 5.º - 1 - As contra-ordenações previstas no artigo anterior, sem prejuízo de outras sanções aplicáveis, são punidas:
+Art. 5.º - 1 - As contra-ordenações previstas no artigo anterior, sem prejuízo de outras sanções aplicáveis, são punidas:
 
 a) Com coima de 10000$00 a 50000$00, as previstas nas alíneas b), c) e d) do n.º 1 e no n.º 2;
 
@@ -142,26 +156,26 @@ b) Com coima de 50000$00 a 100000$00, a prevista na alínea a).
 
 2 - Em caso de reincidência, os limites das coimas referidas no número anterior serão elevados para o dobro.
 
-###### Art. 6.º - 1 - As funções de fiscalização do disposto no presente diploma competem à Secretaria Regional do Equipamento Social e à Câmara Municipal da Horta.
+Art. 6.º - 1 - As funções de fiscalização do disposto no presente diploma competem à Secretaria Regional do Equipamento Social e à Câmara Municipal da Horta.
 
 2 - A aplicação das coimas compete ao director regional de Habitação, Urbanismo e Ambiente, excepto relativamente às espécies que se encontram em áreas pertencentes ao Município, casos em que aquela competência é atribuída ao presidente da Câmara Municipal da Horta.
 
-###### Art. 7.º Os autores das contra-ordenações ficam obrigados a repor, na medida em que for possível, as situações que tenham alterado.
+Art. 7.º Os autores das contra-ordenações ficam obrigados a repor, na medida em que for possível, as situações que tenham alterado.
 
-###### Art. 8.º O produto das coimas constitui receita da Região.
+Art. 8.º O produto das coimas constitui receita da Região.
 
-###### Art. 9.º As despesas emergentes da execução do disposto no presente diploma serão suportadas pelo orçamento da Secretaria Regional do Equipamento Social.
+Art. 9.º As despesas emergentes da execução do disposto no presente diploma serão suportadas pelo orçamento da Secretaria Regional do Equipamento Social.
 
 Aprovado pela Assembleia Regional dos Açores em 13 de Junho de 1984.
 
-**O Presidente da Assembleia da Regional, Álvaro Monjardino.**
+O Presidente da Assembleia da Regional, Álvaro Monjardino.
 
-**Assinado em Angra do Heroísmo em 6 de Agosto de 1984.**
+Assinado em Angra do Heroísmo em 6 de Agosto de 1984.
 
-**Publique-se.**
+Publique-se.
 
-**O Ministro da República para a Região Autónoma dos Açores, Tomás George Conceição Silva.**
+O Ministro da República para a Região Autónoma dos Açores, Tomás George Conceição Silva.
 
 Classificação de espécies arbóreas na cidade da Horta - Localização e propriedade das árvores inventariadas
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1984/09/20300/27062708.pdf))](https://files.diariodarepublica.pt/1s/1984/09/20300/27062708.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1984/09/20300/27062708.pdf)

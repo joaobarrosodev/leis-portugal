@@ -48,18 +48,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/821/2005/09/14/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/821-2005-143337
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2007-08-16T00:00:00Z'
+  retrieved_at: '2026-10-23T15:08:37Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: a2c4b119fab7e21df67811476872e8c5159162f26749932b868ec6f84c26a15d
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 8cb0845a18345c5b0616fb63357b4c1074af8148d066f6b9abb0f8106d987c18
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:08:37Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -68,21 +68,28 @@ reuse:
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
 - Lisboa
+- Ministério Público
+- Porto
+- Quadro de Pessoal
 - Secretaria Geral
+- Secretaria Geral do Serviço Externo
+- Secretaria Judicial
 - Tribunal Cível
 - Tribunal de Comarca
-- Tribunal de Pequena Instancia Civel
-- Secretaria Geral do Serviço Externo
-- Quadro de Pessoal
-- Ministério Público
-- Secretaria Judicial
 - Tribunal de Família e de Menores
-- Porto
+- Tribunal de Pequena Instancia Civel
 relationships:
 - type: amended_by
   target: pt:dre:637180:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:637180:por
+  label: "Alterados os quadros de pessoal das secretarias judiciais e dos serviços do Ministério Público indicados no mapa\
+    \ anexo à Port 721-A/2000 de 05-Set, alterada pelo presente diploma, pela PORT.949/2007.16.08.2007.MFAP, DR.IS [157] de\
+    \ 16.08.2007\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/949-2007-637180
+  date: '2007-08-16'
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/148/2004/06/21/p/dre
   label: null
@@ -123,16 +130,56 @@ relationships:
   target: eli:http://data.dre.pt/eli/port/969/2003/09/13/p/dre
   label: null
   source: http://data.dre.pt/eli/port/969/2003/09/13/p/dre
+- type: cites
+  target: pt:dre:196220:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:220944:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:234755:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:234756:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:272404:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:446374:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:446475:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:503269:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:515451:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:575481:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
-  section_count: 19
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  section_count: 0
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:08:37Z'
   warnings: []
   errors: []
 ---
@@ -169,7 +216,7 @@ Manda o Governo, pelos Ministros das Finanças e da Administração Pública e d
 
 Em 5 de Setembro de 2005.
 
-**O Ministro de Estado e das Finanças, Fernando Teixeira dos Santos. - O Ministro da Justiça, Alberto Bernardes Costa.**
+O Ministro de Estado e das Finanças, Fernando Teixeira dos Santos. - O Ministro da Justiça, Alberto Bernardes Costa.
 
 ## ANEXO — «MAPA ANEXO
 
@@ -199,7 +246,7 @@ Secretaria-Geral do Tribunal de Comarca
 
 Serviços judiciais
 
-#### Secção central, secção de serviço externo e nove secções de processos, sendo cinco afectas aos juízos cíveis, três afectas aos juízos criminais e uma afecta ao juízo de execução:
+Secção central, secção de serviço externo e nove secções de processos, sendo cinco afectas aos juízos cíveis, três afectas aos juízos criminais e uma afecta ao juízo de execução:
 
 Pessoal:
 
@@ -249,7 +296,7 @@ Serviços judiciais
 
 1.º a 6.º Juízos de Pequena Instância Cível Liquidatários
 
-#### Secção central e seis secções de processos:
+Secção central e seis secções de processos:
 
 Pessoal:
 
@@ -263,7 +310,7 @@ Escrivão auxiliar ... 18
 
 7.º a 12.º Juízos de Pequena Instância Cível Liquidatários
 
-#### Secção central e seis secções de processos:
+Secção central e seis secções de processos:
 
 Pessoal:
 
@@ -319,7 +366,7 @@ Serviços judiciais
 
 1.º a 6.º Juízos de Pequena Instância Cível
 
-#### Secção central e seis secções de processos:
+Secção central e seis secções de processos:
 
 Pessoal:
 
@@ -333,7 +380,7 @@ Escrivão auxiliar ... 26
 
 7.º a 12.º Juízos de Pequena Instância Cível
 
-#### Secção central e seis secções de processos:
+Secção central e seis secções de processos:
 
 Pessoal:
 
@@ -369,7 +416,7 @@ Serviços judiciais
 
 Secretaria das 1.ª e 2.ª Varas Criminais
 
-#### Secção central e seis secções de processos:
+Secção central e seis secções de processos:
 
 Pessoal:
 
@@ -389,7 +436,7 @@ Escrivão auxiliar ... 15
 
 Secretaria do Tribunal de Instrução Criminal
 
-#### Secção central e seis secções de processos, sendo uma afecta à instrução criminal militar:
+Secção central e seis secções de processos, sendo uma afecta à instrução criminal militar:
 
 Pessoal:
 
@@ -411,7 +458,7 @@ Categorias:
 
 Secretário de justiça ... 1
 
-#### Secção central e 13 secções de processos:
+Secção central e 13 secções de processos:
 
 Pessoal:
 
@@ -423,7 +470,7 @@ Técnico de justiça-adjunto ... 60
 
 Técnico de justiça auxiliar ... 90
 
-#### Secção de processos auxiliar:
+Secção de processos auxiliar:
 
 Pessoal:
 
@@ -453,7 +500,7 @@ Técnico de justiça auxiliar ... 3
 
 Secretaria-Geral de Execução
 
-#### Secção central e cinco secções de processos:
+Secção central e cinco secções de processos:
 
 Pessoal:
 
@@ -493,7 +540,7 @@ Secretaria-geral das varas de competência mista cível e criminal, dos juízos 
 
 Serviços judiciais
 
-#### Secção central, secção de serviço externo e 11 secções de processos, sendo 2 afectas às varas de competência mista cível e criminal, 6 afectas aos juízos cíveis, 1 afecta ao juízo de execução e 2 afectas ao Tribunal de Família e de Menores:
+Secção central, secção de serviço externo e 11 secções de processos, sendo 2 afectas às varas de competência mista cível e criminal, 6 afectas aos juízos cíveis, 1 afecta ao juízo de execução e 2 afectas ao Tribunal de Família e de Menores:
 
 Pessoal:
 
@@ -515,7 +562,7 @@ Secretaria do Tribunal de Comarca
 
 Serviços judiciais
 
-#### Secção central e de serviço externo e seis secções de processos, sendo cinco afectas aos juízos de competência genérica e uma afecta ao juízo de execução:
+Secção central e de serviço externo e seis secções de processos, sendo cinco afectas aos juízos de competência genérica e uma afecta ao juízo de execução:
 
 Pessoal:
 
@@ -535,7 +582,7 @@ Secretaria-Geral do Tribunal de Comarca
 
 Serviços judiciais
 
-#### Secção central e de serviço externo e nove secções de processos, sendo cinco afectas aos juízos de competência especializada cível, três afectas aos juízos de competência especializada criminal e uma afecta ao juízo de execução:
+Secção central e de serviço externo e nove secções de processos, sendo cinco afectas aos juízos de competência especializada cível, três afectas aos juízos de competência especializada criminal e uma afecta ao juízo de execução:
 
 Pessoal:
 
@@ -571,7 +618,7 @@ Secretaria-geral das varas e dos juízos criminais
 
 Secretarias das varas criminais
 
-#### Secção central e duas secções de processos em cada duas varas:
+Secção central e duas secções de processos em cada duas varas:
 
 Pessoal:
 
@@ -591,7 +638,7 @@ Escrivão auxiliar ... 8
 
 Secretaria do Tribunal de Instrução Criminal
 
-#### Secção central e quatro secções de processos, sendo uma afecta à instrução criminal militar:
+Secção central e quatro secções de processos, sendo uma afecta à instrução criminal militar:
 
 Pessoal:
 
@@ -621,13 +668,13 @@ Auxiliar de segurança ... 1
 
 Auxiliar administrativo ... 1
 
-#### Secção central e de serviço externo e nove secções de processos:
+Secção central e de serviço externo e nove secções de processos:
 
 Pessoal:
 
 Categorias:
 
-#### Secção central e de serviço externo:
+Secção central e de serviço externo:
 
 Técnico de justiça-adjunto ... 4
 
@@ -659,7 +706,7 @@ Técnico de justiça auxiliar ... 2
 
 Secretaria-Geral de Execução
 
-#### Secção central e duas secções de processos:
+Secção central e duas secções de processos:
 
 Pessoal:
 
@@ -703,7 +750,7 @@ Secretaria-Geral do Tribunal de Comarca e do Tribunal de Família e de Menores
 
 Serviços judiciais
 
-#### Secção central, secção de serviço externo e 13 secções de processos, sendo 6 afectas aos juízos cíveis, 3 afectas aos juízos criminais, 1 afecta ao juízo de execução e 3 afectas ao Tribunal de Família e de Menores:
+Secção central, secção de serviço externo e 13 secções de processos, sendo 6 afectas aos juízos cíveis, 3 afectas aos juízos criminais, 1 afecta ao juízo de execução e 3 afectas ao Tribunal de Família e de Menores:
 
 Pessoal:
 

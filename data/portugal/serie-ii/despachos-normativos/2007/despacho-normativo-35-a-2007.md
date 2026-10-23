@@ -19,7 +19,7 @@ publication:
   reference: Diário da República n.º 187/2007, 2º Suplemento, Série II de 2007-09-27
   number: '187'
   series: II
-  supplement: 2º Suplemento
+  supplement: null
   pages: 28356-(170) a 28356-(170)
   pdf_url: https://files.diariodarepublica.pt/2s/2007/09/187000002/0017000170.pdf
 entry_into_force_dates: []
@@ -46,30 +46,44 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/despacho-normativo/35-a-2007-850859
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2007-11-12T00:00:00Z'
+  retrieved_at: '2026-10-23T15:06:40Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 7920d175b6dae61f009ce00fe1639c0cd7b91494335ff36f5d6732f374a68f77
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: f1831df937fbfef3600de014ba462b9976d394b41457b482b0053e5ee6622abe
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:06:40Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Açores
+- Agricultura
+- Financiamento
+- Ifadap
+- Programa de Desenvolvimento Rural
+- Projeto de Investimento
+- Silvicultura
+- Sistema Integrado de Gestão e Controlo
 relationships:
 - type: amended_by
   target: pt:dre:1770030:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:1770030:por
+  label: "Prorrogado até 15.11.2007 o prazo constante do nº 2 do presente diploma pelo DN.37-A/2007.12.11.2007.MADRP, DR.IIS\
+    \ [217-Supl] de 12.11.2007\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/despacho-normativo/37-a-2007-1770030
+  date: '2007-11-12'
 - type: cites
   target: celex:32004R0796
   label: null
@@ -85,18 +99,18 @@ relationships:
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:06:40Z'
   warnings: []
   errors: []
 ---
 
-# Despacho Normativo n.º 35-A/2007
+# Despacho normativo n.º 35-A/2007
 
 O Regulamento (CE) n.º 1698/2005, do Conselho, de 20 de Setembro, relativo ao apoio ao desenvolvimento rural pelo Fundo Europeu Agrícola de Desenvolvimento Rural (FEADER), contempla, entre outras medidas, os pagamentos agro-ambientais para garantir uma utilização sustentável das terras agrícolas.
 
@@ -118,7 +132,7 @@ Assim, determina-se o seguinte:
 
 2 - O período especial para apresentação de candidaturas decorre entre 28 de Setembro e 31 de Outubro de 2007.
 
-[([ver documento original](https://files.diariodarepublica.pt/2s/2007/09/187000002/0017000170.pdf))](https://files.diariodarepublica.pt/2s/2007/09/187000002/0017000170.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/2s/2007/09/187000002/0017000170.pdf)
 
 3 - A formalização das candidaturas é feita junto das direcções regionais de agricultura e pescas (DRAP) ou junto de outras entidades reconhecidas pelo Instituto de Financiamento da Agricultura e Pescas, I. P. (IFAP), nomeadamente confederações de agricultores e associações de agricultores, através da sua recolha informática directa e assinatura dos correspondentes suportes em papel, sendo, no respectivo acto de recepção, cumpridas as regras de procedimento que, para o efeito, forem divulgadas pelo IFAP.
 

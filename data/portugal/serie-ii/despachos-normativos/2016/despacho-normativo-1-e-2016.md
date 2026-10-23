@@ -21,12 +21,12 @@ publication:
   reference: Diário da República n.º 65/2016, 1º Suplemento, Série II de 2016-04-04
   number: '65'
   series: II
-  supplement: 1º Suplemento
+  supplement: null
   pages: 11300-(2) a 11300-(3)
   pdf_url: https://files.diariodarepublica.pt/2s/2016/04/065000001/0000200003.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -48,18 +48,18 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/despacho-normativo/1-e-2016-74032159
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2016-04-04T00:00:00Z'
+  retrieved_at: '2026-10-23T15:08:05Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: e093ff129438eab7b57168be1632fe9dfc6a2718bb3dc54fff42444fb3ae7017
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 1660a98f80f39e49b7e26d221aaaf3765a6e90e61240483242f18ccae57476a1
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:08:05Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,22 +67,58 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects: []
-relationships: []
+relationships:
+- type: cites
+  target: pt:dre:222418:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:245336:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:488826:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:55021795:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:57769847:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:640339:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:653145:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:656107:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:70000765:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:08:05Z'
   warnings: []
   errors: []
 ---
 
-# Despacho Normativo n.º 1-E/2016
+# Despacho normativo n.º 1-E/2016
 
 O Programa Retomar foi criado pelo [Despacho Normativo n.º 8-A/2014](https://diariodarepublica.pt/dr/detalhe/despacho-normativo/8-a-2014-55021795) (2.ª série), de 17 de julho, assumindo-se como uma iniciativa de combate ao abandono escolar e conclusão de cursos superiores interrompidos dirigida a pessoas que, entre outros requisitos, devem estar em situação de desemprego e poder concluir o curso até aos 30 anos.
 
@@ -115,3 +151,5 @@ Determino:
 3 - O presente despacho produz efeitos a partir de 1 de abril de 2016, inclusive.
 
 1 de abril de 2016. - A Secretária de Estado da Ciência, Tecnologia e Ensino Superior, Maria Fernanda Fernandes Garcia Rollo.
+
+209481815

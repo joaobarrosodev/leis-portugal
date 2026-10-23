@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/2s/2016/10/208000000/3231632317.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -47,45 +47,64 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/despacho-normativo/10-2016-75619708
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2017-08-09T00:00:00Z'
+  retrieved_at: '2026-10-23T15:08:05Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: c195afaea7610f965e899d1a1918f5cf318b0ec4a90133061ba00f11c069c051
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: c7f4947702232e89227b47517d95fce29c42221dbd9bdcd92e69f2838e7d3306
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:08:05Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Apoio ao Investimento
+- Comunicações Eletrónicas
+- Definição de Competências
+- Financiamento
+- Instituto de Turismo de Portugal
+- Internet
+- Projeto
+- Regulamento
+- Turismo
 relationships:
 - type: amended_by
   target: pt:dre:107981322:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:107981322:por
+  label: Alterados os arts. 3.º, 5.º e 7.º e os Anexos I e II do presente despacho, pelo(a) Despacho Normativo n.º 8/2017
+    - Diário da República n.º 153/2017, Série II de 2017-08-09
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/despacho-normativo/8-2017-107981322
+  date: '2017-08-09'
+- type: cites
+  target: pt:dre:75619707:por
+  label: null
+  source: null
 article_structure:
   article_count: 9
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:08:05Z'
   warnings: []
   errors: []
 ---
 
-# Despacho Normativo n.º 10/2016
+# Despacho normativo n.º 10/2016
 
 Linha de Apoio à Disponibilização de Redes Wi-fi
 
@@ -250,3 +269,5 @@ c) Um Portal de cliente com opção de autenticação usando redes sociais e dis
 d) Utilização de landing page com especificações definidas pelo Turismo de Portugal.
 
 e) O acesso do Turismo de Portugal, a definir de acordo com os sistemas de analítica e reporting a implementar, à informação gerada pelas funcionalidades descritas nas alíneas anteriores, durante a vigência dos projetos.
+
+209960274

@@ -19,7 +19,7 @@ publication:
   reference: Diário da República n.º 275/1988, 1º Suplemento, Série I de 1988-11-28
   number: '275'
   series: I
-  supplement: 1º Suplemento
+  supplement: null
   pages: 4714-(2) a 4714-(5)
   pdf_url: https://files.diariodarepublica.pt/1s/1988/11/27501/00020005.pdf
 entry_into_force_dates: []
@@ -46,40 +46,82 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/36-1988-480561
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1996-12-03T00:00:00Z'
+  retrieved_at: '2026-10-23T15:17:48Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 54db73c50011c47662115d67307433a53852f3d13891b361e8eb57cfafd85180
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 86b8737821ed825cf84b1e610a9339fe6b36b629f0108febd10d8f9868118928
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:17:48Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Açores
+- Governo Regional
+- Orgânica
 relationships:
 - type: amended_by
   target: pt:dre:524634:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:165827:por
+  label: "Alterado art. 4.º do DRG 30/82/A, de 28-Out, alterado pelo presente diploma, pelo DLR.6/92/A.28.02.1992.ALR-RAA,\
+    \ DR.IS-A [50] de 28.02.1992\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-legislativo-regional/6-1992-165827
+  date: '1992-02-28'
+- type: amended_by
+  target: pt:dre:229921:por
+  label: "Alteradas as designações de Secretário Regional das Finanças e Planeamento para Secretário Regional das Finanças,\
+    \ Planeamento e Administração, de Secretário Regional da Juventude e Recursos Humanos para Secretário Regional da Juventude,\
+    \ Emprego, Comércio, Indústria e Energia e de Secretário Regional da Habitação e Obras Públicas para Secretário Regional\
+    \ da Habitação, Obras Públicas, Transportes e Comunicações, extintos os cargos de Secretário Regional da Administração\
+    \ Interna e de Secretário Regional da Economia, bem como as competentes Secretarias Regionais, constantes da estrutura\
+    \ orgânica do Governo Regional aprovada pelo presente diploma, e determinada a sua manutenção em vigor, em tudo o que\
+    \ não for contrariado pelo DLR.1/93/A.05.01.1993.ALR-RAA, DR.IS-A [3-Supl] de 05.01.1993 \0 \0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-legislativo-regional/1-1993-229921
+  date: '1993-01-05'
+- type: amended_by
+  target: pt:dre:634938:por
+  label: "Reposto em vigor, dando nova redacção, o art. 4º do DRG 30/82/A, de 28-Out, alterado pelo presente diploma, pelo\
+    \ DLR.6/93/A.12.03.1993.ALR-RAA, DR.IS-A [60] de 12.03.1993\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-legislativo-regional/6-1993-634938
+  date: '1993-03-12'
+- type: amended_by
+  target: pt:dre:524634:por
+  label: "Substituida a estrutura orgânica constante do presente diploma, pelo DLR.29-A/96/A.1996.12.03.ALR-RAA, DR.IS-A [279]Supl\0\
+    \0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-legislativo-regional/29-a-1996-524634
+  date: '1996-12-03'
+- type: cites
+  target: pt:dre:378108:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:449468:por
+  label: "Revogado o art. 11º do DLR 6/92/A, de 28-Fev que altera o art.º 4º do DR 30/82/A, de 28-Out, alterado pelo presente\
+    \ diploma, pelo DLR.30/92/A.31.12.1992.ALR-RAA, DR.IS-A [301-11ºSupl] de 31.12.1992\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-legislativo-regional/30-1992-449468
+  date: '1992-12-31'
 article_structure:
   article_count: 23
   section_count: 3
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:17:48Z'
   warnings: []
   errors: []
 ---
@@ -194,7 +236,7 @@ g) Comunicação social.
 
 ###### Artigo 5.º — Área de competência do Secretário Regional da Administração Interna
 
-**O Secretário Regional da Administração Interna exerce a sua competência legal nas seguintes matérias:**
+O Secretário Regional da Administração Interna exerce a sua competência legal nas seguintes matérias:
 
 a) Assuntos eleitorais;
 
@@ -212,7 +254,7 @@ g) Ordem pública e protecção civil.
 
 ###### Artigo 6.º — Área de competência do Secretário Regional das Finanças e Planeamento
 
-**O Secretário Regional das Finanças e Planeamento exerce a sua competência legal nas seguintes matérias:**
+O Secretário Regional das Finanças e Planeamento exerce a sua competência legal nas seguintes matérias:
 
 a) Orçamento e contabilidade pública;
 
@@ -228,7 +270,7 @@ f) Estatística.
 
 ###### Artigo 7.º — Área de competência do Secretário Regional da Juventude e Recursos Humanos
 
-**O Secretário Regional da Juventude e Recursos Humanos exerce a sua competência legal nas seguintes matérias:**
+O Secretário Regional da Juventude e Recursos Humanos exerce a sua competência legal nas seguintes matérias:
 
 a) Juventude;
 
@@ -240,7 +282,7 @@ d) Cooperativismo.
 
 ###### Artigo 8.º — Área de competência do Secretário Regional da Educação e Cultura
 
-**O Secretário Regional da Educação e Cultura exerce a sua competência legal nas seguintes matérias:**
+O Secretário Regional da Educação e Cultura exerce a sua competência legal nas seguintes matérias:
 
 a) Educação;
 
@@ -250,7 +292,7 @@ c) Desportos.
 
 ###### Artigo 9.º — Área de competência do Secretário Regional da Saúde e Segurança Social
 
-**O Secretário Regional da Saúde e Segurança Social exerce a sua competência legal nas seguintes matérias:**
+O Secretário Regional da Saúde e Segurança Social exerce a sua competência legal nas seguintes matérias:
 
 a) Saúde;
 
@@ -258,7 +300,7 @@ b) Segurança Social.
 
 ###### Artigo 10.º — Área de competência do Secretário Regional da Economia
 
-**O Secretário Regional da Economia exerce a sua competência legal nas seguintes matérias:**
+O Secretário Regional da Economia exerce a sua competência legal nas seguintes matérias:
 
 a) Comércio interno e externo;
 
@@ -272,7 +314,7 @@ e) Promoção do investimento e privatizações.
 
 ###### Artigo 11.º — Área de competência do Secretário Regional da Agricultura e Pescas
 
-**O Secretário Regional da Agricultura e Pescas exerce a sua competência legal nas seguintes matérias:**
+O Secretário Regional da Agricultura e Pescas exerce a sua competência legal nas seguintes matérias:
 
 a) Agricultura;
 
@@ -284,7 +326,7 @@ d) Pescas.
 
 ###### Artigo 12.º — Área de competência do Secretário Regional do Turismo e Ambiente
 
-**O Secretário Regional do Turismo e Ambiente exerce a sua competência legal nas seguintes matérias:**
+O Secretário Regional do Turismo e Ambiente exerce a sua competência legal nas seguintes matérias:
 
 a) Turismo;
 
@@ -292,7 +334,7 @@ b) Ambiente.
 
 ###### Artigo 13.º — Área de competência do Secretário Regional da Habitação e Obras Públicas
 
-**O Secretário Regional da Habitação e Obras Públicas exerce a sua competência legal nas seguintes matérias:**
+O Secretário Regional da Habitação e Obras Públicas exerce a sua competência legal nas seguintes matérias:
 
 a) Habitação;
 
@@ -356,10 +398,10 @@ O presente diploma entra em vigor no dia da sua publicação.
 
 Aprovado pela Assembleia Regional dos Açores, na Horta, em 22 de Novembro de 1988.
 
-**O Presidente da Assembleia Regional, José Guilherme Reis Leite.**
+O Presidente da Assembleia Regional, José Guilherme Reis Leite.
 
-**Assinado em Angra do Heroísmo em 24 de Novembro de 1988.**
+Assinado em Angra do Heroísmo em 24 de Novembro de 1988.
 
-**Publique-se.**
+Publique-se.
 
-**O Ministro da República para a Região Autónoma dos Açores, Vasco Joaquim Rocha Vieira.**
+O Ministro da República para a Região Autónoma dos Açores, Vasco Joaquim Rocha Vieira.

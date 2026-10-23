@@ -19,12 +19,12 @@ publication:
   reference: Diário da República n.º 209/2016, 1º Suplemento, Série II de 2016-10-31
   number: '209'
   series: II
-  supplement: 1º Suplemento
+  supplement: null
   pages: 32628-(2) a 32628-(16)
   pdf_url: https://files.diariodarepublica.pt/2s/2016/10/209000001/0000200016.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -46,41 +46,60 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/despacho-normativo/11-a-2016-75629981
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2016-10-31T00:00:00Z'
+  retrieved_at: '2026-10-23T15:08:08Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 4d50f4bf261b3e5294ef8e7437bdcde4373bcd7d004d75e165c1b12c0810a7e6
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 9ba7f0e0c88a7287d77d9474405c11209d8b670feb05f53cd88679447f4e4177
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:08:08Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
-relationships: []
+subjects:
+- Ensino Superior
+- Estatuto
+- Universidade de Trás-os-montes e ALTO Douro
+relationships:
+- type: cites
+  target: pt:dre:1252503:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:1885683:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:196889:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:640339:por
+  label: null
+  source: null
 article_structure:
   article_count: 97
   section_count: 33
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:08:08Z'
   warnings: []
   errors: []
 ---
 
-# Despacho Normativo n.º 11-A/2016
+# Despacho normativo n.º 11-A/2016
 
 Considerando que os Estatutos da Universidade de Trás-os-Montes e Alto Douro foram homologados pelo [Despacho Normativo n.º 63/2008](https://diariodarepublica.pt/dr/detalhe/despacho-normativo/63-2008-1885683), de 14 de novembro, publicado no Diário da República, 2.ª série, n.º 237, de 9 de dezembro de 2008, e alterados pelo [Despacho Normativo n.º 22/2012](https://diariodarepublica.pt/dr/detalhe/despacho-normativo/22-2012-1252503), de 10 de outubro, publicado no Diário da República, 2.ª série, n.º 204, de 22 de outubro de 2012;
 
@@ -796,7 +815,7 @@ c) Conselho pedagógico.
 
 ###### Artigo 43.º — Nomeação do presidente
 
-**O presidente da escola é nomeado pelo reitor, de entre os professores e investigadores da escola, ouvidos os diretores de departamento que integram a escola.**
+O presidente da escola é nomeado pelo reitor, de entre os professores e investigadores da escola, ouvidos os diretores de departamento que integram a escola.
 
 ###### Artigo 44.º — Competência do presidente
 
@@ -1452,13 +1471,13 @@ Os presentes estatutos entram em vigor no dia seguinte ao da sua publicação no
 
 ## ANEXO N.º 1 — Símbolo da UTAD
 
-[([ver documento original](https://files.diariodarepublica.pt/2s/2016/10/209000001/0000200016.pdf))](https://files.diariodarepublica.pt/2s/2016/10/209000001/0000200016.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/2s/2016/10/209000001/0000200016.pdf)
 
 ## ANEXO N.º 2 — Traje académico
 
 1 - Traje académico dos docentes e investigadores doutorados
 
-[([ver documento original](https://files.diariodarepublica.pt/2s/2016/10/209000001/0000200016.pdf))](https://files.diariodarepublica.pt/2s/2016/10/209000001/0000200016.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/2s/2016/10/209000001/0000200016.pdf)
 
 a) A toga, confecionada em fazenda preta e com mangas forradas com tafetá de cor correspondente à área científica de doutoramento;
 
@@ -1470,7 +1489,7 @@ d) A roseta, confecionada em tecido de cor correspondente à da área científic
 
 2 - Traje académico dos estudantes
 
-[([ver documento original](https://files.diariodarepublica.pt/2s/2016/10/209000001/0000200016.pdf))](https://files.diariodarepublica.pt/2s/2016/10/209000001/0000200016.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/2s/2016/10/209000001/0000200016.pdf)
 
 a) No caso do traje masculino:
 
@@ -1601,3 +1620,5 @@ a) Unidade de Manutenção de Infraestruturas e Sustentabilidade
 b) O Centro de Exploração e Gestão Agrárias;
 
 c) O Hospital Veterinário.
+
+209970878

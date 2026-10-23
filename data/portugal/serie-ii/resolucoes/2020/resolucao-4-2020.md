@@ -46,40 +46,54 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/resolucao/4-2020-152015649
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2022-04-08T00:00:00Z'
+  retrieved_at: '2026-10-23T15:16:13Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: ce7b03940eabb626fcbcca7e6def868b605cc0e8290fd30a40afdb2b37b9e072
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: cf7bf2e3f1f3343f62e0ac69e46d6554660ffe642b52ad48dd1a37fb625301d6
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:16:13Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Açores
+- Programa
+- Secção Regional do Tribunal de Contas
+- Tribunal de Contas
 relationships:
 - type: amended_by
   target: pt:dre:181847611:por
   label: Última alteração registada na importação inicial
   source: null
+- type: cites
+  target: pt:dre:193663:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:181847611:por
+  label: Revogada, a partir de 02.05.2022, republicada pela presente resolução, pelo(a) Resolução n.º 3/2022-PG - Diário da
+    República n.º 70/2022, Série II de 2022-04-08
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/resolucao/3-2022-181847611
+  date: '2022-04-08'
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:16:13Z'
   warnings: []
   errors: []
 ---
@@ -96,6 +110,8 @@ O Plenário Geral do Tribunal de Contas, reunido em sessão de 11 de dezembro de
 
 3 - Não dispensar qualquer das entidades sujeitas à jurisdição e aos poderes de controlo financeiro da Secção Regional dos Açores do Tribunal de Contas da obrigação de remessa ao Tribunal de Contas dos documentos de prestação de contas relativos ao ano económico de 2020 e a gerências partidas de 2021, não acionando a faculdade prevista no n.º 4 do artigo 51.º da Lei de Organização e Processo do Tribunal de Contas.
 
-**Publique-se no Diário da República e no Jornal Oficial da Região Autónoma dos Açores, nos termos do artigo 9.º, n.os 2, alínea e), e 3, da Lei de Organização e Processo do Tribunal de Contas.**
+Publique-se no Diário da República e no Jornal Oficial da Região Autónoma dos Açores, nos termos do artigo 9.º, n.os 2, alínea e), e 3, da Lei de Organização e Processo do Tribunal de Contas.
 
 11 de dezembro de 2020. - O Presidente, José F. F. Tavares.
+
+313804752

@@ -48,18 +48,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/456/2005/05/02/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/456-2005-534441
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2006-02-14T00:00:00Z'
+  retrieved_at: '2026-10-23T15:06:27Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: b58cd000b510a6e033976e2ac25a606e0e52a4783a5d46070abbc2e99c47879f
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: d51f71bf2a64f227a4c35cda7e803f8a447c50f832167f05ceefaac69eccc038
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:06:27Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -68,12 +68,12 @@ reuse:
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
 - Atividade Industrial
+- Comércio
 - Empresa
+- Programa Operacional da Economia
 - Projeto de Investimento
 - Proteção do Ambiente
-- Programa Operacional da Economia
 - Sociedades
-- Comércio
 relationships:
 - type: amended_by
   target: pt:dre:402113:por
@@ -91,16 +91,34 @@ relationships:
   target: eli:http://data.dre.pt/eli/resolconsmin/101/2003/08/08/p/dre
   label: null
   source: http://data.dre.pt/eli/resolconsmin/101/2003/08/08/p/dre
+- type: cites
+  target: pt:dre:510266:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:533221:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:647110:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:402113:por
+  label: "Revogada a Port 262/2004 de 11-Mar, alterada pelo presente diploma, pela PORT.130-A/2006.14.02.2006.MFAP, DR.IS-B\
+    \ [32-Supl] de 14.02.2006\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/130-a-2006-402113
+  date: '2006-02-14'
 article_structure:
-  article_count: 3
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:06:27Z'
   warnings: []
   errors: []
 ---
@@ -153,7 +171,9 @@ i) ...
 
 5 - ...
 
-###### Artigo 7.º — [...]
+Artigo 7.º
+
+[...]
 
 1 - ...
 
@@ -239,7 +259,9 @@ iii) ...
 
 4 - ...
 
-###### Artigo 16.º — [...]
+Artigo 16.º
+
+[...]
 
 1 - ...
 
@@ -277,7 +299,9 @@ d) ...
 
 e) ...
 
-###### Artigo 21.º — [...]
+Artigo 21.º
+
+[...]
 
 1 - ...
 
@@ -419,4 +443,4 @@ c) Estabelecimento ou estabelecimentos que venham a aderir até ao encerramento 
 
 Em 3 de Março de 2005.
 
-**O Ministro de Estado, das Actividades Económicas e do Trabalho, Álvaro Roque de Pinho Bissaya Barreto. - O Ministro das Finanças e da Administração Pública, António José de Castro Bagão Félix. - O Ministro do Ambiente e do Ordenamento do Território, Luís José de Mello e Castro Guedes. - O Ministro do Turismo, Telmo Augusto Gomes de Noronha Correia.**
+O Ministro de Estado, das Actividades Económicas e do Trabalho, Álvaro Roque de Pinho Bissaya Barreto. - O Ministro das Finanças e da Administração Pública, António José de Castro Bagão Félix. - O Ministro do Ambiente e do Ordenamento do Território, Luís José de Mello e Castro Guedes. - O Ministro do Turismo, Telmo Augusto Gomes de Noronha Correia.

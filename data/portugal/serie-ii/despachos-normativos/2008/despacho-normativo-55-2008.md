@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/2s/2008/10/206000000/4312843130.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,45 +46,79 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/despacho-normativo/55-2008-3228943
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2012-10-03T00:00:00Z'
+  retrieved_at: '2026-10-23T15:07:00Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: aefa5c8d2b7fd9adf216f02ecc23cc71eac6c6da98543dae56fe33cfec64eca9
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 54718216d5e2a20382b9f5d073a25d859a45ab076fa24358f31188fe4580851d
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:07:00Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Comissão Coordenadora
+- Conselho Consultivo
+- Contrato Programa
+- Definição de Competências
+- Estabelecimento de Ensino
+- Política de Educação
+- Programa
+- Programa Territórios Educativos de Intervenção Prioritaria
+- Projeto
 relationships:
 - type: amended_by
   target: pt:dre:1520843:por
   label: Última alteração registada na importação inicial
   source: null
+- type: cites
+  target: pt:dre:222418:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:245336:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:249866:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:582996:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:653145:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:1520843:por
+  label: "Revogado, a partir de 08.10.2012, pelo DN.20/2012.03.10.2012.SEEAE-MECI, DR.IIS [192] de 03.10.2012\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/despacho-normativo/20-2012-1520843
+  date: '2012-10-03'
 article_structure:
   article_count: 20
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:07:00Z'
   warnings: []
   errors: []
 ---
 
-# Despacho Normativo n.º 55/2008
+# Despacho normativo n.º 55/2008
 
 Uma escola pública baseada na promoção da educação para todos, com qualidade, orientada para a promoção da dignidade da pessoa humana, a igualdade de oportunidades e a equidade social é um instrumento central na construção de uma sociedade livre, justa, solidária e democrática. Como salienta a Estratégia de Lisboa e o Quadro de Referência Estratégica Nacional, a escola pública assim caracterizada é ainda uma condição básica de coesão social e nacional, de crescimento e de modernização tecnológica do País no âmbito da transição para a economia do conhecimento e a sociedade de informação.
 

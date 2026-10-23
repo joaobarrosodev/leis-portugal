@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/2s/2022/06/106000000/0006000111.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -46,36 +46,68 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/despacho-normativo/8-2022-184233750
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2022-06-01T00:00:00Z'
+  retrieved_at: '2026-10-23T15:08:59Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 17d4cc3b338ae0779bada121973fc7eff70699940dba202b81e4c27533691bed
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 904141d3d055cd764d18af4ac73e4c367b5a6c7f5d83d9725878c3d1ec7cc866
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:08:59Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
-relationships: []
+subjects:
+- Ensino Superior
+- Estatuto
+- Homologação
+- Universidade dos Açores
+relationships:
+- type: cites
+  target: pt:dre:108041528:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:161518656:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:480705:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:480966:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:565377:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:640339:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:75129592:por
+  label: null
+  source: null
 article_structure:
   article_count: 146
   section_count: 58
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:08:59Z'
   warnings: []
   errors: []
 ---
@@ -1612,9 +1644,9 @@ d) Aprovar a proposta do plano estratégico de desenvolvimento a médio e longo 
 
 e) Aprovar as propostas de plano e relatórios anuais de atividades da UI&D, a submeter ao reitor;
 
-f) Pronunciar-se sobre as propostas de contratação de investigadores e técnicos para a UI&D;
+f) Pronunciar-se sobre as propostas de contratação de investigadores e técnicos para a UI&D
 
-g) Decidir sobre as propostas de admissão e exclusão de membros da UI&D;
+g) Decidir sobre as propostas de admissão e exclusão de membros da UI&D
 
 h) Pronunciar-se sobre o convite dos membros conselheiros;
 
@@ -1624,7 +1656,7 @@ j) Decidir sobre a criação e extinção de unidades científicas e pronunciar-
 
 k) Pronunciar-se sobre a participação da UI&D em outras entidades, de natureza pública ou privada, e indicar ou propor os seus representantes nos respetivos órgãos, quando a situação assim o determinar;
 
-l) Aprovar a política interna e externa para a partilha e a cedência de dados científicos produzidos no âmbito das atividades da UI&D;
+l) Aprovar a política interna e externa para a partilha e a cedência de dados científicos produzidos no âmbito das atividades da UI&D
 
 m) Aprovar a proposta de criação de estruturas funcionais e submetê-las ao reitor para homologação.
 
@@ -1672,9 +1704,9 @@ g) Fazer propostas de contratação de pessoal, ouvida a comissão coordenadora 
 
 h) Promover a elaboração do relatório de gestão e as contas, quando aplicável;
 
-i) Assegurar a coordenação dos meios humanos afetos à UI&D;
+i) Assegurar a coordenação dos meios humanos afetos à UI&D
 
-j) Zelar pela conservação e gerir as instalações e os meios materiais afetos à UI&D;
+j) Zelar pela conservação e gerir as instalações e os meios materiais afetos à UI&D
 
 k) Nomear o subdiretor da UI&D e dar-lhe posse;
 
@@ -1714,7 +1746,7 @@ Integram o conselho científico:
 
 a) O diretor;
 
-b) Os membros integrados da UI&D;
+b) Os membros integrados da UI&D
 
 c) Os membros honorários da UI&D, sem direito a voto.
 
@@ -1722,11 +1754,11 @@ c) Os membros honorários da UI&D, sem direito a voto.
 
 Compete ao conselho científico:
 
-a) Debater o estado da arte e o desenvolvimento das atividades científicas e tecnológicas nas áreas de competência da UI&D;
+a) Debater o estado da arte e o desenvolvimento das atividades científicas e tecnológicas nas áreas de competência da UI&D
 
 b) Apresentar propostas sobre as linhas de investigação que a UI&D deve prosseguir;
 
-c) Emitir parecer sobre as propostas de plano e relatórios anuais de atividades da UI&D;
+c) Emitir parecer sobre as propostas de plano e relatórios anuais de atividades da UI&D
 
 d) Emitir pareceres sobre todos os assuntos que lhe sejam submetidos pelo diretor ou pela comissão coordenadora científica.
 
@@ -1742,13 +1774,13 @@ d) Emitir pareceres sobre todos os assuntos que lhe sejam submetidos pelo direto
 
 Compete à comissão externa de acompanhamento, designadamente:
 
-a) Acompanhar e analisar o funcionamento da UI&D;
+a) Acompanhar e analisar o funcionamento da UI&D
 
 b) Recomendar estratégias de desenvolvimento científico e tecnológico;
 
-c) Promover a dimensão internacional da UI&D;
+c) Promover a dimensão internacional da UI&D
 
-d) Elaborar um relatório sumário anual sobre as atividades da UI&D;
+d) Elaborar um relatório sumário anual sobre as atividades da UI&D
 
 e) Emitir pareceres sobre todos os assuntos que lhe sejam submetidos pelo diretor.
 
@@ -2142,15 +2174,15 @@ Departamento de Enfermagem, Saúde Mental e Gerontologia.
 
 Traje académico
 
-O traje académico dos professores da Universidade dos Açores é a beca, que obedece ao modelo anexo a estes estatutos e aos requisitos seguintes: confecionada em terylene preto; a extremidade inferior dista 15 cm de chão; tem uma gola direita em colchete com 3 cm de altura, rematada com vivo branco; no peito tem quatro a oito pregas de cada lado e nas costas apenas duas, que vão até à cintura, coberta por uma faixa de cetim muito brilhante; nos ombros, sobre a costura da manga, flutua um plissado do mesmo tecido da beca; as mangas são em forma de sino com boca forradas de cetim da cor do curso; no peito da beca colocam-se quatro pares de alamares em cordão de seda; do lado esquerdo da faixa da cintura pendem as duas extremidades de um cordão preto de seda com borlas em franja.
+O traje académico dos professores da Universidade dos Açores é a beca, que obedece ao modelo anexo a estes estatutos e aos requisitos seguintes: confecionada em terylene preto; a extremidade inferior dista 15 cm de chão; tem uma gola direita em colchete com 3 cm de altura, rematada com vivo branco; no peito tem quatro a oito pregas de cada lado e nas costas apenas duas, que vão até à cintura, coberta por uma faixa de cetim muito brilhante; nos ombros, sobre a costura da manga, flutua um plissado do mesmo tecido da beca; as mangas são em forma de sino com boca forradas de cetim da cor do curso; no peito da beca colocam-se quatro pares de alamares em cordão de seda; do lado esquerdo da faixa da cintura pendem as duas extremidades de um cordão preto de seda com borlas em franja.
 
 Traje académico
 
-[([ver documento original](https://files.diariodarepublica.pt/2s/2022/06/106000000/0006000111.pdf))](https://files.diariodarepublica.pt/2s/2022/06/106000000/0006000111.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/2s/2022/06/106000000/0006000111.pdf)
 
 (frente)
 
-[([ver documento original](https://files.diariodarepublica.pt/2s/2022/06/106000000/0006000111.pdf))](https://files.diariodarepublica.pt/2s/2022/06/106000000/0006000111.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/2s/2022/06/106000000/0006000111.pdf)
 
 (costas)
 
@@ -2158,19 +2190,19 @@ Traje académico
 
 Insígnias doutorais
 
-As insígnias doutorais são constituídas por barrete e capelo. O barrete tem a configuração de um tronco de cone invertido. É exteriormente forrado de terylene preto com uma barra inferior de cetim também preto. Tem a altura máxima de 12 cm, sendo a altura da barra inferior também não superior a 6 cm. O topo é decorado com um cordão (igual ao dos alamares) no rebordo e, no centro, com uma roseta (pompom) da cor do curso, sobreposta a nove cordões da mesma cor, terminados em borla com franja. Os nove cordões partem do centro (pompom) para o rebordo, soltos e sobrepostos numa tira de cetim e com a franja quase até à base do barrete. A tira com os cordões (em número igual ao das ilhas dos Açores) é fixada no rebordo, permitindo segurar o barrete enfiando um dos dedos da mão. O capelo é constituído por uma peça de cetim da cor do curso e decorado com cordão de cetim de cor igual. Repousa sobre o ombro como estola e prende com travinca ou colchete. O reitor da Universidade dos Açores poderá usar no capelo, pompom e cordões do barrete a cor do seu curso ou o branco.
+As insígnias doutorais são constituídas por barrete e capelo. O barrete tem a configuração de um tronco de cone invertido. É exteriormente forrado de terylene preto com uma barra inferior de cetim também preto. Tem a altura máxima de 12 cm, sendo a altura da barra inferior também não superior a 6 cm. O topo é decorado com um cordão (igual ao dos alamares) no rebordo e, no centro, com uma roseta (pompom) da cor do curso, sobreposta a nove cordões da mesma cor, terminados em borla com franja. Os nove cordões partem do centro (pompom) para o rebordo, soltos e sobrepostos numa tira de cetim e com a franja quase até à base do barrete. A tira com os cordões (em número igual ao das ilhas dos Açores) é fixada no rebordo, permitindo segurar o barrete enfiando um dos dedos da mão. O capelo é constituído por uma peça de cetim da cor do curso e decorado com cordão de cetim de cor igual. Repousa sobre o ombro como estola e prende com travinca ou colchete. O reitor da Universidade dos Açores poderá usar no capelo, pompom e cordões do barrete a cor do seu curso ou o branco.
 
 Barrete
 
-[([ver documento original](https://files.diariodarepublica.pt/2s/2022/06/106000000/0006000111.pdf))](https://files.diariodarepublica.pt/2s/2022/06/106000000/0006000111.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/2s/2022/06/106000000/0006000111.pdf)
 
 Capelo
 
-[([ver documento original](https://files.diariodarepublica.pt/2s/2022/06/106000000/0006000111.pdf))](https://files.diariodarepublica.pt/2s/2022/06/106000000/0006000111.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/2s/2022/06/106000000/0006000111.pdf)
 
 (frente)
 
-[([ver documento original](https://files.diariodarepublica.pt/2s/2022/06/106000000/0006000111.pdf))](https://files.diariodarepublica.pt/2s/2022/06/106000000/0006000111.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/2s/2022/06/106000000/0006000111.pdf)
 
 (costas)
 
@@ -2182,23 +2214,23 @@ A Universidade dos Açores adota elementos heráldicos de acordo com as seguinte
 
 a) Brasão de armas - Escudo nacional de prata com açor de púrpura acompanhado em ponta de quatro faixas de azul e prata; Chefe de azul com sol nascente de ouro acompanhado de nove estrelas do mesmo metal, dispostas em semicírculo. No topo do chefe um listel de cor branca com o lema «SICUT AURORA SCIENTIA LUCET». Na base do escudo um listel de cor púrpura com a designação «UNIVERSIDADE DOS AÇORES» inscrita em branco;
 
-[([ver documento original](https://files.diariodarepublica.pt/2s/2022/06/106000000/0006000111.pdf))](https://files.diariodarepublica.pt/2s/2022/06/106000000/0006000111.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/2s/2022/06/106000000/0006000111.pdf)
 
-b) Bandeira - Em pano de seda, toda de cor branca, com as dimensões da bandeira da Região Autónoma dos Açores, nos precisos termos do Decreto Regulamentar n.º 13/79/A, publicado no Diário da República, 1.ª série, n.º 114, de 18 de maio de 1979. Quando adequado, designadamente para hastear no exterior, o pano da bandeira pode ser noutro tecido. Ao centro da bandeira é colocado o brasão de armas da Universidade;
+b) Bandeira - Em pano de seda, toda de cor branca, com as dimensões da bandeira da Região Autónoma dos Açores, nos precisos termos do Decreto Regulamentar n.º 13/79/A, publicado no Diário da República, 1.ª série, n.º 114, de 18 de maio de 1979. Quando adequado, designadamente para hastear no exterior, o pano da bandeira pode ser noutro tecido. Ao centro da bandeira é colocado o brasão de armas da Universidade;
 
-[([ver documento original](https://files.diariodarepublica.pt/2s/2022/06/106000000/0006000111.pdf))](https://files.diariodarepublica.pt/2s/2022/06/106000000/0006000111.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/2s/2022/06/106000000/0006000111.pdf)
 
 c) Selo branco - escudete a preto e branco como síntese de brasão de armas circundado pelo lema na parte superior e pela designação da Universidade dos Açores na parte inferior que, na impressão a selo, resulta em dois níveis de relevo no papel;
 
-[([ver documento original](https://files.diariodarepublica.pt/2s/2022/06/106000000/0006000111.pdf))](https://files.diariodarepublica.pt/2s/2022/06/106000000/0006000111.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/2s/2022/06/106000000/0006000111.pdf)
 
 d) Emblema - De cor preta, branca, azul, prata ou ouro, o seu centro é construído a partir do corpo do Brasão de Armas, limitado por duas circunferências entre as quais se inscrevem o lema «SICUT AURORA SCIENTIA LUCET», na parte superior, e a designação «UNIVERSIDADE DOS AÇORES» na parte inferior.
 
-[([ver documento original](https://files.diariodarepublica.pt/2s/2022/06/106000000/0006000111.pdf))](https://files.diariodarepublica.pt/2s/2022/06/106000000/0006000111.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/2s/2022/06/106000000/0006000111.pdf)
 
 e) Ex-líbris - Respeita a forma circular do emblema, sem as circunferências que o delimitam, com a representação convencional das cores heráldicas.
 
-[([ver documento original](https://files.diariodarepublica.pt/2s/2022/06/106000000/0006000111.pdf))](https://files.diariodarepublica.pt/2s/2022/06/106000000/0006000111.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/2s/2022/06/106000000/0006000111.pdf)
 
 4.º
 
@@ -2208,7 +2240,7 @@ Marcas, símbolos e logótipos
 
 2 - O símbolo resulta da desconstrução do emblema heráldico, com a remoção do lema e das representações das estrelas, do sol e do mar. O açor é redesenhado com triângulos multidimensionais, simbolizando a natureza tripolar da Universidade dos Açores, num fundo circular, para acompanhar a forma do emblema de origem.
 
-[([ver documento original](https://files.diariodarepublica.pt/2s/2022/06/106000000/0006000111.pdf))](https://files.diariodarepublica.pt/2s/2022/06/106000000/0006000111.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/2s/2022/06/106000000/0006000111.pdf)
 
 3 - O logótipo resulta da composição do acrónimo «UAc» colocado sobre a designação «Universidade dos Açores».
 
@@ -2220,4 +2252,6 @@ Marcas, símbolos e logótipos
 
 Cartas de curso e de título
 
-A carta de curso, assim como a carta de título, é escrita em azul institucional, nela se destacando, a negrito, o nome do diplomado e o curso a que respeita. É impressa em papel A3, na vertical, no qual se identifica parte do emblema da Universidade em marca d'água. O documento, escrito em português, é assinado pelo reitor e pelo administrador, apondo­se à assinatura do primeiro o selo branco. No lado inferior direito é colocada uma fita de cor azul institucional, com 2,5 cm de largura e 10 cm de comprimento, lacrada de cor prata com o emblema da Universidade com o diâmetro de 3 cm. São emitidas cartas de curso para todos os cursos conferentes de grau, e cartas de título para os títulos de especialista e de agregado.
+A carta de curso, assim como a carta de título, é escrita em azul institucional, nela se destacando, a negrito, o nome do diplomado e o curso a que respeita. É impressa em papel A3, na vertical, no qual se identifica parte do emblema da Universidade em marca d'água. O documento, escrito em português, é assinado pelo reitor e pelo administrador, apondo­se à assinatura do primeiro o selo branco. No lado inferior direito é colocada uma fita de cor azul institucional, com 2,5 cm de largura e 10 cm de comprimento, lacrada de cor prata com o emblema da Universidade com o diâmetro de 3 cm. São emitidas cartas de curso para todos os cursos conferentes de grau, e cartas de título para os títulos de especialista e de agregado.
+
+315364391

@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1988/03/07500/13151317.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -47,40 +47,50 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/10-1988-286315
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2004-07-16T00:00:00Z'
+  retrieved_at: '2026-10-23T15:17:39Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 69030bb90126846f4eff8e3a009a688af20fb88acbd39c81ba11947abe13544b
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: c922d3d1ed51e1957f4daedab5c8af512b2e9d15e58c9e506c2401e32138a66b
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:17:39Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Açores
+- Património Cultural
+- Protecção do Património
+- Santa CRUZ da Graciosa
+- Zona de Proteção
 relationships:
 - type: amended_by
   target: pt:dre:479598:por
   label: Última alteração registada na importação inicial
   source: null
+- type: repealed_by
+  target: pt:dre:479598:por
+  label: "Revogado pelo DLR.29/2004/A.16.07.2004.ALR-RAA, DR.IS-A [199] de 24.08.2004\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-legislativo-regional/29-2004-479598
+  date: '2004-07-16'
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:17:39Z'
   warnings: []
   errors: []
 ---
@@ -105,36 +115,36 @@ Torna-se assim urgente tomar medidas que, por um lado, impeçam a desfiguração
 
 Assim, a Assembleia Regional dos Açores decreta, nos termos da alínea a) do artigo 229.º da Constituição, o seguinte:
 
-###### Artigo 1.º - 1 - O núcleo urbano designado como zona A na carta anexa e que faz parte integrante deste diploma é classificado como conjunto protegido.
+Artigo 1.º - 1 - O núcleo urbano designado como zona A na carta anexa e que faz parte integrante deste diploma é classificado como conjunto protegido.
 
 2 - O conjunto é delimitado a norte pelo mar e a sul, leste e oeste pela linha poligonal traçada na mesma carta.
 
-###### Art. 2.º - 1 - O monte de Nossa Senhora da Ajuda, designado por zona B, é classificado como local de interesse e declarado área non aedificandi.
+Art. 2.º - 1 - O monte de Nossa Senhora da Ajuda, designado por zona B, é classificado como local de interesse e declarado área non aedificandi.
 
 2 - A zona B é delimitada pela linha de cota de 30 m, no sopé do monte de Nossa Senhora da Ajuda.
 
-###### Art. 3.º - 1 - A área de vinhedos da Barra, designada por zona C, é classificada como local de interesse e declarada zona de construção altamente condicionada.
+Art. 3.º - 1 - A área de vinhedos da Barra, designada por zona C, é classificada como local de interesse e declarada zona de construção altamente condicionada.
 
 2 - A zona C entesta por oeste com a zona A, sendo delimitada a norte e leste pelo mar, até à baía do Cais da Barra, que inclui, e a sul pela Rua do Infante D. Henrique.
 
-###### Art. 4.º Não poderão ser efectuadas nas zonas A e C quaisquer obras que alterem ou prejudiquem as suas características históricas e formais, nomeadamente o traçado viário, a configuração e materiais dos edifícios, árvores e jardins, lagos, fontanários e tanques, calçadas, muros e vedações, incluindo bancos e banquetas, linha costeira, incluindo paredões, e, em geral, a sua configuração topográfica.
+Art. 4.º Não poderão ser efectuadas nas zonas A e C quaisquer obras que alterem ou prejudiquem as suas características históricas e formais, nomeadamente o traçado viário, a configuração e materiais dos edifícios, árvores e jardins, lagos, fontanários e tanques, calçadas, muros e vedações, incluindo bancos e banquetas, linha costeira, incluindo paredões, e, em geral, a sua configuração topográfica.
 
-###### Art. 5.º Quaisquer trabalhos de construção, demolição, recuperação ou simples correcção a executar nas zonas A, B ou C só poderão ser autorizados pela Câmara Municipal em face de parecer técnico favorável, confirmado pelo Secretário Regional da Educação e Cultura.
+Art. 5.º Quaisquer trabalhos de construção, demolição, recuperação ou simples correcção a executar nas zonas A, B ou C só poderão ser autorizados pela Câmara Municipal em face de parecer técnico favorável, confirmado pelo Secretário Regional da Educação e Cultura.
 
-###### Art. 6.º O Governo Regional apoiará, com cedência gratuita de materiais, as obras de consolidação ou recuperação dos edifícios sitos na zona A que tenham sido devidamente aprovadas.
+Art. 6.º O Governo Regional apoiará, com cedência gratuita de materiais, as obras de consolidação ou recuperação dos edifícios sitos na zona A que tenham sido devidamente aprovadas.
 
-###### Art. 7.º O Governo Regional poderá ainda prestar apoio em estudos e projectos a obras de consolidação e recuperação de edifícios que, pelo seu volume e complexidade, o justifiquem.
+Art. 7.º O Governo Regional poderá ainda prestar apoio em estudos e projectos a obras de consolidação e recuperação de edifícios que, pelo seu volume e complexidade, o justifiquem.
 
-###### Art. 8.º No prazo de 90 dias, o Governo Regional regulamentará o presente diploma, designadamente quanto aos requisitos e formalidades processuais a observar e quanto à concessão dos apoios obrigatórios ou facultativos.
+Art. 8.º No prazo de 90 dias, o Governo Regional regulamentará o presente diploma, designadamente quanto aos requisitos e formalidades processuais a observar e quanto à concessão dos apoios obrigatórios ou facultativos.
 
 Aprovado pela Assembleia Regional dos Açores, na Horta, em 26 de Janeiro de 1988.
 
-**O Presidente da Assembleia Regional, José Guilherme Reis Leite.**
+O Presidente da Assembleia Regional, José Guilherme Reis Leite.
 
-**Assinado em Angra do Heroísmo em 1 de Março de 1988.**
+Assinado em Angra do Heroísmo em 1 de Março de 1988.
 
-**Publique-se.**
+Publique-se.
 
-**O Ministro da República para a Região Autónoma dos Açores, Vasco Joaquim Rocha Vieira.**
+O Ministro da República para a Região Autónoma dos Açores, Vasco Joaquim Rocha Vieira.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1988/03/07500/13151317.pdf))](https://files.diariodarepublica.pt/1s/1988/03/07500/13151317.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1988/03/07500/13151317.pdf)

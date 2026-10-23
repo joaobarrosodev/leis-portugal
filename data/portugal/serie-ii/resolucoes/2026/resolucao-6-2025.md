@@ -46,36 +46,105 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/resolucao/6-2025-1049506628
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2026-02-13T00:00:00Z'
+  retrieved_at: '2026-10-23T15:16:28Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 49735fd839e5a439b751d17030421fa99a9f54425568ac4834a15e7cb4b385df
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 97c7606cd784763be85bf1aab0d25e9a889d7adaf8b7f8d21347775f170bc652
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:16:28Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
-relationships: []
+subjects:
+- Administração Central
+- Administração Local
+- Administração Pública
+- Administração Regional
+- Prestação de Contas
+- Setor Empresarial do Estado
+- SUPERVISÃO DE AUDITORIA
+- Supervisão Financeira
+- Tribunal de Contas
+relationships:
+- type: cites
+  target: pt:dre:105606613:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:115312061:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:116068878:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:120620996:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:163991832:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:174825:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:193663:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:499528:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:640339:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:66689602:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:70262477:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:70262478:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:901667918:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:910323298:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:910933580:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:16:28Z'
   warnings: []
   errors: []
 ---
@@ -92,7 +161,7 @@ a) Relativamente ao exercício de 2025; e
 
 b) Em caso de substituição de responsáveis durante o ano de 2026, relativamente ao exercício ocorrido até essa substituição.
 
-2 - Para efeitos da alínea b) do número anterior e nos termos dos n.<sup>os</sup>2 e 3 do artigo 52.º da LOPTC, considera-se ocorrer substituição de responsáveis quando seja(m) substituído(s):
+2 - Para efeitos da alínea b) do número anterior e nos termos dos n.os2 e 3 do artigo 52.º da LOPTC, considera-se ocorrer substituição de responsáveis quando seja(m) substituído(s):
 
 a) O único responsável;
 
@@ -108,11 +177,11 @@ b) As contas prestadas por anos económicos das restantes entidades são remetid
 
 c) As contas consolidadas são remetidas até 30 de junho do ano seguinte àquele a que respeitam, de acordo com o preceituado no artigo 52.º, n.º 4, da LOPTC;
 
-d) As contas prestadas por substituição de responsáveis são remetidas no prazo de 45 dias a contar da data dessa substituição, por força do estabelecido no artigo 52.º, n.<sup>os</sup> 2, 3 e 5 da LOPTC.
+d) As contas prestadas por substituição de responsáveis são remetidas no prazo de 45 dias a contar da data dessa substituição, por força do estabelecido no artigo 52.º, n.os 2, 3 e 5 da LOPTC.
 
-4 - O incumprimento dos prazos de prestação de contas é suscetível de fazer incorrer o responsável ou responsáveis no ilícito previsto no artigo 66.º, n.º 1, alínea a), da LOPTC, o qual é sancionável com multa, nos termos dos n.<sup>os</sup>2 e 3 do mesmo artigo.
+4 - O incumprimento dos prazos de prestação de contas é suscetível de fazer incorrer o responsável ou responsáveis no ilícito previsto no artigo 66.º, n.º 1, alínea a), da LOPTC, o qual é sancionável com multa, nos termos dos n.os2 e 3 do mesmo artigo.
 
-5 - A falta de prestação de contas ao Tribunal constitui uma infração financeira tipificada no artigo 65.º, n.º 1, alínea n), da LOPTC, sancionável com aplicação de multa ao respetivo responsável ou responsáveis, nos termos dos n.<sup>os</sup>2 e seguintes do mesmo artigo, podendo ainda ser determinada a realização de auditoria, conforme previsto no artigo 52.º, n.º 7, da mesma lei.
+5 - A falta de prestação de contas ao Tribunal constitui uma infração financeira tipificada no artigo 65.º, n.º 1, alínea n), da LOPTC, sancionável com aplicação de multa ao respetivo responsável ou responsáveis, nos termos dos n.os2 e seguintes do mesmo artigo, podendo ainda ser determinada a realização de auditoria, conforme previsto no artigo 52.º, n.º 7, da mesma lei.
 
 6 - Todo e qualquer pedido dirigido ao Tribunal de Contas no âmbito da prestação de contas deverá ser formulado exclusivamente pelo(s) titular(es) do órgão sobre o qual impende o dever legal de as prestar ou por seu(s) delegado(s). No caso de existência de delegação de competência, deverá ser indicado o cargo ocupado e a qualidade de delegado, bem como a data e instrumento de publicitação da delegação.
 
@@ -222,51 +291,56 @@ Informação, devidamente documentada, sobre a eventual audição de serviços/e
 
 Transparência
 
-29 - Com vista a assegurar o princípio da transparência da gestão financeira, orçamental e patrimonial, e sem prejuízo do legalmente estabelecido, designadamente, no artigo 79.º, n.<sup>os</sup>1 e 2, da [Lei n.º 73/2013](https://diariodarepublica.pt/dr/detalhe/lei/73-2013-499528), de 3 de setembro 5, e ainda nos artigos 16.º, n.º 3, e 43.º, n.º 2, alínea i), da [Lei n.º 50/2012](https://diariodarepublica.pt/dr/detalhe/lei/50-2012-174825), de 31 de dezembro, o Tribunal incentiva as entidades sujeitas à prestação de contas a divulgar na sua página eletrónica os respetivos documentos de prestação de contas bem como outros documentos relevantes para uma maior clareza e transparência da sua atividade.
+29 - Com vista a assegurar o princípio da transparência da gestão financeira, orçamental e patrimonial, e sem prejuízo do legalmente estabelecido, designadamente, no artigo 79.º, n.os1 e 2, da [Lei n.º 73/2013](https://diariodarepublica.pt/dr/detalhe/lei/73-2013-499528), de 3 de setembro 5, e ainda nos artigos 16.º, n.º 3, e 43.º, n.º 2, alínea i), da [Lei n.º 50/2012](https://diariodarepublica.pt/dr/detalhe/lei/50-2012-174825), de 31 de dezembro, o Tribunal incentiva as entidades sujeitas à prestação de contas a divulgar na sua página eletrónica os respetivos documentos de prestação de contas bem como outros documentos relevantes para uma maior clareza e transparência da sua atividade.
 
-**Publique-se na 2.ª série do Diário da República, nos termos do artigo 9.º, n.º 2, alínea d), da LOPTC.**
+Publique-se na 2.ª série do Diário da República, nos termos do artigo 9.º, n.º 2, alínea d), da LOPTC.
 
 18 de dezembro de 2025. - A Presidente, Filipa Urbano Calvão.
 
-<sup>1</sup> [Lei n.º 98/97](https://diariodarepublica.pt/dr/detalhe/lei/98-1997-193663), de 26 de agosto, na sua atual redação, resultante da republicação feita pela [Lei n.º 20/2015](https://diariodarepublica.pt/dr/detalhe/lei/20-2015-66689602), de 9 de março, e das alterações introduzidas pelas Leis n.º 42/2016, de 28 de dezembro, n.º 2/2020, de 31 de março, n.º 27-A/2020, de 24 de julho, n.º 12/2022, de 27 de junho e n.º 56/2023, de 06 de outubro.
+1 [Lei n.º 98/97](https://diariodarepublica.pt/dr/detalhe/lei/98-1997-193663), de 26 de agosto, na sua atual redação, resultante da republicação feita pela [Lei n.º 20/2015](https://diariodarepublica.pt/dr/detalhe/lei/20-2015-66689602), de 9 de março, e das alterações introduzidas pelas Leis n.º 42/2016, de 28 de dezembro, n.º 2/2020, de 31 de março, n.º 27-A/2020, de 24 de julho, n.º 12/2022, de 27 de junho e n.º 56/2023, de 06 de outubro.
 
-<sup>2</sup> [Lei n.º 151/2015](https://diariodarepublica.pt/dr/detalhe/lei/151-2015-70262477), de 11 de setembro, com as alterações subsequentes.
+2 [Lei n.º 151/2015](https://diariodarepublica.pt/dr/detalhe/lei/151-2015-70262477), de 11 de setembro, com as alterações subsequentes.
 
-<sup>3</sup> Se a prestação de contas ocorrer em SNC, o regime contabilístico associado será SNC - Empresas Locais. Se a prestação ocorrer em SNC-AP, o regime contabilístico será SNC-AP - Sistema de Normalização Contabilística – Administrações Públicas ([Decreto-Lei n.º 192/2015](https://diariodarepublica.pt/dr/detalhe/decreto-lei/192-2015-70262478)) e a forma de entrega deverá ser “Entidades Reclassificadas do Setor Empresarial Local”.
+3 Se a prestação de contas ocorrer em SNC, o regime contabilístico associado será SNC - Empresas Locais. Se a prestação ocorrer em SNC-AP, o regime contabilístico será SNC-AP - Sistema de Normalização Contabilística – Administrações Públicas ([Decreto-Lei n.º 192/2015](https://diariodarepublica.pt/dr/detalhe/decreto-lei/192-2015-70262478)) e a forma de entrega deverá ser “Entidades Reclassificadas do Setor Empresarial Local”.
 
-<sup>4</sup> Considerando as sucessivas alterações, a última das quais através da [Lei n.º 45-A/2024](https://diariodarepublica.pt/dr/detalhe/lei/45-a-2024-901667918), de 31 de dezembro.
+4 Considerando as sucessivas alterações, a última das quais através da [Lei n.º 45-A/2024](https://diariodarepublica.pt/dr/detalhe/lei/45-a-2024-901667918), de 31 de dezembro.
 
-<sup>5</sup> Na redação conferida pela [Lei n.º 51/2018](https://diariodarepublica.pt/dr/detalhe/lei/51-2018-116068878), de 16 de agosto.
+5 Na redação conferida pela [Lei n.º 51/2018](https://diariodarepublica.pt/dr/detalhe/lei/51-2018-116068878), de 16 de agosto.
 
 ## ANEXO - CF. N.º 18 — Demonstração de execução orçamental da receita - versão simplificada
 
-![](https://files.diariodarepublica.pt/images/1049506628/1049506559.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/1049506628/1049506559.png) |
+| --- |
 
 Demonstração de execução orçamental da despesa - versão simplificada
 
-![](https://files.diariodarepublica.pt/images/1049506628/1049506560.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/1049506628/1049506560.png) |
+| --- |
 
 ## ANEXO - CF. N.º 20 B)
 
-![](https://files.diariodarepublica.pt/images/1049506628/1049506561.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/1049506628/1049506561.png) |
+| --- |
 
 ## ANEXO - CF. N.º 21 — Mapa da contratação Administrativa - Setor Empresarial Local (modelo 38 da Instrução n.º 1/2019-PG)
 
-![](https://files.diariodarepublica.pt/images/1049506628/1049506562.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/1049506628/1049506562.png) |
+| --- |
 
-![](https://files.diariodarepublica.pt/images/1049506628/1049506563.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/1049506628/1049506563.png) |
+| --- |
 
 ## ANEXO - CF. N.º 25 — Formulário relativo à Certificação Legal das Contas
 
 Modelo 6 - Certificação Legal das Contas
 
-| Entidade | Entidade | Entidade |
+| Entidade |  |  |
 | --- | --- | --- |
-| Período de relato: DD-MM-AAAA a DD-MM-AAAA | Período de relato: DD-MM-AAAA a DD-MM-AAAA | Período de relato: DD-MM-AAAA a DD-MM-AAAA |
-| Certificação de Contas (CLC) | Certificação de Contas (CLC) | Certificação de Contas (CLC) |
+| Período de relato: DD-MM-AAAA a DD-MM-AAAA |  |  |
+| Certificação de Contas (CLC) |  |  |
 | 1 | É obrigatória? | Sim/Não |
-| 2 | Foi emitida? <sup>i)</sup> | Sim/Não |
-| 3 | Se obrigatória por que não foi emitida <sup>ii)</sup> |  |
+| 2 | Foi emitida? i) | Sim/Não |
+| 3 | Se obrigatória por que não foi emitida ii) |  |
 | 4 | Data prevista para emissão da CLC |  |
 | 5 | Identificação da entidade que emitiu a CLC |  |
 | 6 | Identificação da entidade que emitiu a CLC - NIPC |  |
@@ -305,3 +379,7 @@ iii) Na circunstância de a CLC expressar uma opinião de auditoria modificada (
 | 2 - Foi realizada a reconciliação de saldos reportada a 31.12.2025? |  |  |  |
 | 3 - Existem saldos por reconciliar a 31.12.2025? |  |  |  |
 | 4 - Em caso de resposta afirmativa à questão anterior, encontram-se em curso diligências em ordem a reconciliar os saldos em questão? |  |  |  |
+
+319961926
+
+.Tbl1 { border-collapse:collapse; border-width:1px; border-color:rgb(0,0,0); } .Tbl2 { min-height:19px; } .Tbl3 { border-bottom-color:rgb(0,0,0); border-top-color:rgb(0,0,0); border-left-width:0px; border-top-width:1px; border-right-width:0px; border-top-style:solid; border-bottom-width:1px; border-bottom-style:solid; border-right-style:solid; border-right-color:rgb(0,0,0); border-left-style:solid; } .Tbl5 { text-indent:0px; text-align:center; } .Tbl6 { height:26px; } .Tbl7 { border-bottom-color:rgb(0,0,0); border-top-color:rgb(0,0,0); border-left-width:0px; border-top-width:1px; border-right-width:0px; border-top-style:solid; border-bottom-width:1px; border-bottom-style:solid; border-right-style:solid; border-right-color:rgb(0,0,0); border-left-style:solid; vertical-align:middle; } .Tbl8 { text-align:center; } .Tbl9 { min-height:18px; } .Tbl10 { border-bottom-color:rgb(0,0,0); border-top-color:rgb(0,0,0); border-left-width:0px; border-top-width:1px; border-right-width:1px; border-top-style:solid; border-bottom-width:1px; border-bottom-style:solid; border-right-style:solid; border-right-color:rgb(0,0,0); border-left-style:solid; } .Tbl11 { border-bottom-color:rgb(0,0,0); border-top-color:rgb(0,0,0); border-left-width:1px; border-top-width:1px; border-right-width:1px; border-top-style:solid; border-left-color:rgb(0,0,0); border-bottom-width:1px; border-bottom-style:solid; border-right-style:solid; border-right-color:rgb(0,0,0); border-left-style:solid; } .Tbl12 { border-bottom-color:rgb(0,0,0); border-top-color:rgb(0,0,0); border-left-width:1px; border-top-width:1px; border-right-width:0px; border-top-style:solid; border-left-color:rgb(0,0,0); border-bottom-width:1px; border-bottom-style:solid; border-right-style:solid; border-left-style:solid; } .Tbl13 { min-height:28px; } .Tbl14 { border-bottom-color:rgb(0,0,0); border-top-color:rgb(0,0,0); border-left-width:0px; border-top-width:1px; border-right-width:1px; border-top-style:solid; border-bottom-width:1px; border-bottom-style:solid; border-right-style:solid; border-right-color:rgb(0,0,0); border-left-style:solid; vertical-align:top; } .Tbl15 { border-bottom-color:rgb(0,0,0); border-top-color:rgb(0,0,0); border-left-width:1px; border-top-width:1px; border-right-width:1px; border-top-style:solid; border-left-color:rgb(0,0,0); border-bottom-width:1px; border-bottom-style:solid; border-right-style:solid; border-right-color:rgb(0,0,0); border-left-style:solid; vertical-align:top; } .Tbl16 { border-bottom-color:rgb(0,0,0); border-top-color:rgb(0,0,0); border-left-width:1px; border-top-width:1px; border-right-width:0px; border-top-style:solid; border-left-color:rgb(0,0,0); border-bottom-width:1px; border-bottom-style:solid; border-right-style:solid; border-left-style:solid; vertical-align:top; }

@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/745/2006/08/01/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/745-2006-539432
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2006-08-01T00:00:00Z'
+  retrieved_at: '2026-10-23T15:16:01Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 82f6c6067ac8a37be1312ce2d1389c550e4499e036eecfd4ade6efec45892558
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 66d5c52b15d43046f30dd9024650ac5f31b2940c7ac7b5b107b94251fe83c683
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:16:01Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,8 +66,8 @@ reuse:
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
 - Conservação de Documentos
-- Secretaria Geral
 - Ministério das Obras Públicas Transportes e Comunicações
+- Secretaria Geral
 relationships:
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/121/1992/07/02/p/dre
@@ -77,16 +77,32 @@ relationships:
   target: eli:http://data.dre.pt/eli/dec-lei/16/1993/01/23/p/dre
   label: null
   source: http://data.dre.pt/eli/dec-lei/16/1993/01/23/p/dre
+- type: cites
+  target: pt:dre:291844:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:356515:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:361159:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:584777:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:16:01Z'
   warnings: []
   errors: []
 ---
@@ -107,7 +123,7 @@ Manda o Governo, pelos Ministros das Obras Públicas, Transportes e Comunicaçõ
 
 Em 6 de Julho de 2006.
 
-**O Ministro das Obras Públicas, Transportes e Comunicações, Mário Lino Soares Correia. - A Ministra da Cultura, Maria Isabel da Silva Pires de Lima.**
+O Ministro das Obras Públicas, Transportes e Comunicações, Mário Lino Soares Correia. - A Ministra da Cultura, Maria Isabel da Silva Pires de Lima.
 
 ## ANEXO — REGULAMENTO ARQUIVÍSTICO DA SECRETARIA-GERAL DO MINISTÉRIO DAS OBRAS PÚBLICAS, TRANSPORTES E COMUNICAÇÕES
 
@@ -253,12 +269,12 @@ Compete ao IAN/TT a inspecção sobre a execução do disposto no presente Regul
 
 ## ANEXO I — Tabela de selecção de documentos
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2006/08/14700/54815488.pdf))](https://files.diariodarepublica.pt/1s/2006/08/14700/54815488.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2006/08/14700/54815488.pdf)
 
 ## ANEXO II — Auto de entrega e guia de remessa
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2006/08/14700/54815488.pdf))](https://files.diariodarepublica.pt/1s/2006/08/14700/54815488.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2006/08/14700/54815488.pdf)
 
 ## ANEXO III — Auto de eliminação
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2006/08/14700/54815488.pdf))](https://files.diariodarepublica.pt/1s/2006/08/14700/54815488.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2006/08/14700/54815488.pdf)

@@ -48,18 +48,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/747/2006/08/02/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/747-2006-539410
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2010-08-09T00:00:00Z'
+  retrieved_at: '2026-10-23T15:16:02Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 5964a71493f28839f4a7ac664b0f90d6025da4133be68bcc97428088a7105fa1
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 3781be4c6edc4a0cb7e0f57baf94ada4599930177da7a45156f72235769aac8a
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:16:02Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -75,6 +75,12 @@ relationships:
   target: pt:dre:333493:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:333493:por
+  label: "Desanexados vários prédios rústicos da zona de caça atribuída pela Port 640-G1/94, de 15-Jul, alterada pelo presente\
+    \ diploma, pela PORT.650/2010.09.08.2010.MADRP, DR.IS [153] de 09.08.2010\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/650-2010-333493
+  date: '2010-08-09'
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/201/2005/11/24/p/dre
   label: null
@@ -91,16 +97,32 @@ relationships:
   target: eli:http://data.dre.pt/eli/port/525/2004/05/20/p/dre
   label: null
   source: http://data.dre.pt/eli/port/525/2004/05/20/p/dre
+- type: cites
+  target: pt:dre:270410:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:434640:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:480704:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:481498:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:16:02Z'
   warnings: []
   errors: []
 ---
@@ -125,4 +147,4 @@ Manda o Governo, pelos Ministros do Ambiente, do Ordenamento do Território e do
 
 Pelo Ministro do Ambiente, do Ordenamento do Território e do Desenvolvimento Regional, Humberto Delgado Ubach Chaves Rosa, Secretário de Estado do Ambiente, em 12 de Julho de 2006. - Pelo Ministro da Agricultura, do Desenvolvimento Rural e das Pescas, Rui Nobre Gonçalves, Secretário de Estado do Desenvolvimento Rural e das Florestas, em 24 de Maio de 2006.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2006/08/14800/54965497.pdf))](https://files.diariodarepublica.pt/1s/2006/08/14800/54965497.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2006/08/14800/54965497.pdf)

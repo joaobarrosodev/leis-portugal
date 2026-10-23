@@ -47,36 +47,87 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/resolucao/22-2009-3227766
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2009-10-23T00:00:00Z'
+  retrieved_at: '2026-10-23T15:14:22Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 1cf9125c8d494dc592d1b99afd15cf5bed26d34dd1e114e94ec1669cb759b04b
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: ca4f53c2958b9e96b4885a3ea8ada0b15366480250738c4b3036c8e57a075da2
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:14:22Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
-relationships: []
+subjects:
+- Alcochete
+- Alenquer
+- Almada
+- Amadora
+- ÁREA Metropolitana
+- Arruda dos Vinhos
+- Azambuja
+- Barreiro
+- Benavente
+- Cartaxo
+- Cascais
+- Catástrofe
+- Lisboa
+- Loures
+- Mafra
+- Moita
+- Montijo
+- Odivelas
+- Oeiras
+- Plano de Emergência
+- Plano Especial de Emergência para o Risco Sismico da ÁREA Metropolitana de Lisboa e Concelhos Limitrofes
+- Proteção Civil
+- Salvaterra de Magos
+- Seixal
+- Sesimbra
+- Setúbal
+- Sintra
+- Sismo
+- Sobral de Monte Agraço
+- Torres Vedras
+- Vila Franca de Xira
+relationships:
+- type: cites
+  target: pt:dre:251979:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:3086255:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:537862:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:539218:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:629393:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
-  section_count: 1
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  section_count: 5
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:14:22Z'
   warnings: []
   errors: []
 ---
@@ -101,7 +152,7 @@ Volume I
 
 Corpo do Plano
 
-# PARTE I — Enquadramento Geral do Plano
+## PARTE I — Enquadramento Geral do Plano
 
 1 - Introdução
 
@@ -129,7 +180,7 @@ iii) Neste tipo de emergência é vulgar assistir-se a atrasos e interrupções 
 
 O presente Plano tem um âmbito de aplicação territorial a toda a Área Metropolitana de Lisboa e Concelhos Limítrofes (Figura 1), correspondente aos municípios de Alenquer, Amadora, Arruda dos Vinhos, Azambuja, Cascais, Lisboa, Loures, Mafra, Odivelas, Oeiras, Sintra, Sobral de Monte Agraço, Torres Vedras e Vila Franca de Xira (distrito de Lisboa), Benavente, Cartaxo e Salvaterra de Magos (distrito de Santarém), Alcochete, Almada, Barreiro, Moita, Montijo, Palmela, Seixal, Sesimbra e Setúbal (distrito de Setúbal).
 
-[([ver documento original](https://files.diariodarepublica.pt/2s/2009/10/206000000/4302543054.pdf))](https://files.diariodarepublica.pt/2s/2009/10/206000000/4302543054.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/2s/2009/10/206000000/4302543054.pdf)
 
 Figura 1 - Identificação da área de influência do PEERS-AM-CL
 
@@ -195,7 +246,7 @@ Independentemente dos critérios anteriores, os procedimentos previstos no Plano
 
 De modo a garantir a permanente operacionalidade do PEERS-AML-CL e a validação dos pressupostos nele contidos, serão realizados exercícios com periodicidade bienal, os quais poderão envolver o teste à totalidade ou apenas a parte do Plano de Emergência. Tais exercícios serão alternadamente do tipo CPX ou LIVEX.
 
-# PARTE II — Organização da resposta
+## PARTE II — Organização da resposta
 
 1 - Conceito de actuação
 
@@ -203,7 +254,7 @@ As acções a desenvolver no âmbito do PEERS-AML-CL visam criar as condições 
 
 As acções serão desenvolvidas, aos diferentes níveis, através de estruturas de direcção e coordenação política, estruturas de coordenação institucional e estruturas de comando operacional.
 
-[([ver documento original](https://files.diariodarepublica.pt/2s/2009/10/206000000/4302543054.pdf))](https://files.diariodarepublica.pt/2s/2009/10/206000000/4302543054.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/2s/2009/10/206000000/4302543054.pdf)
 
 1.1 - Estruturas de Direcção Política
 
@@ -419,7 +470,7 @@ O Sistema de Gestão das Operações (SGO) é uma forma de organização de teat
 
 Para efeitos do presente Plano, deverá ser observada a seguinte organização dos Teatros de Operações, equivalentes à área de cada município:
 
-[([ver documento original](https://files.diariodarepublica.pt/2s/2009/10/206000000/4302543054.pdf))](https://files.diariodarepublica.pt/2s/2009/10/206000000/4302543054.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/2s/2009/10/206000000/4302543054.pdf)
 
 Sempre que uma força de socorro seja accionada para integrar o esforço de resposta em curso, o chefe da primeira equipa a chegar ao local assume de imediato a função de COS, dando assim inicio à organização mínima de um teatro de operações, permitindo manter desde logo um sistema evolutivo de comando e controlo da operação. A assunção da função de COS deve ter em conta as competências, atribuições legais e capacidade técnica da entidade representada, tendo em vista a resolução adequada da situação.
 
@@ -525,7 +576,7 @@ As ZS permitem a definição clara de responsabilidades de comando e controlo, s
 
 As ZRR são zonas de controlo e apoio logístico, sob a responsabilidade do CETAC, para onde se dirigem, os meios de reforço e apoio logístico nacional ou internacional, para efeitos de controlo e atribuição das ZS onde irão desenvolver o trabalho e da ZCR Distrital onde irão receber as orientações tácticas. São definidas 7 (seis) ZRR nos seguintes locais, tal como apresentado na Figura II-1 (página seguinte).
 
-[([ver documento original](https://files.diariodarepublica.pt/2s/2009/10/206000000/4302543054.pdf))](https://files.diariodarepublica.pt/2s/2009/10/206000000/4302543054.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/2s/2009/10/206000000/4302543054.pdf)
 
 Figura II - 1: Localização das Zonas de Recepção de Reforços
 
@@ -563,17 +614,17 @@ Considerando os pressupostos expressos neste Plano, designadamente a possibilida
 
 Assim, para cada um dos três distritos afectados, identificam-se Distritos de Sustentação Operacional (DSO) responsáveis por assegurar o comando, controlo, comunicações e informações das operações de protecção civil e socorro nos distritos afectados, na medida e durante o período de tempo em que as estruturas distritais próprias não o possam fazer.
 
-[([ver documento original](https://files.diariodarepublica.pt/2s/2009/10/206000000/4302543054.pdf))](https://files.diariodarepublica.pt/2s/2009/10/206000000/4302543054.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/2s/2009/10/206000000/4302543054.pdf)
 
 Analogamente, cada município afectado terá também um Município de Sustentação Operacional (MSO), com responsabilidades similares aos dos MSO, mas adequadas ao respectivo espaço geográfico:
 
-[([ver documento original](https://files.diariodarepublica.pt/2s/2009/10/206000000/4302543054.pdf))](https://files.diariodarepublica.pt/2s/2009/10/206000000/4302543054.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/2s/2009/10/206000000/4302543054.pdf)
 
 2.3.1 - Accionamento dos DSO
 
 O accionamento dos DSO é realizado através de um esquema de redundância. Perante a informação ou percepção de ocorrência de um sismo na AML-CL, os CDOS/CODIS dos DSO acima referidos deverão de imediato contactar, por todos os meios disponíveis, os seus distritos destinatários até conseguirem obter um ponto de situação (POSIT) fidedigno e informação sobre eventual necessidade de apoio ao nível das estruturas de comando distrital. As regras e os tempos de contacto com o distrito afectado respectivo são as seguintes:
 
-[([ver documento original](https://files.diariodarepublica.pt/2s/2009/10/206000000/4302543054.pdf))](https://files.diariodarepublica.pt/2s/2009/10/206000000/4302543054.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/2s/2009/10/206000000/4302543054.pdf)
 
 Caso não seja possível contactar nenhum dos destinatários acima referidos, deverá ser de imediato accionado o esquema de sustentação operacional, deslocando-se de imediato o CODIS do DSO respectivo para o distrito afectado, com uma equipa de reconhecimento composta por um técnico do CDOS e um oficial das Forças de Segurança.
 
@@ -589,7 +640,7 @@ Caso a estrutura operacional dos municípios afectados não esteja em condiçõe
 
 Para efeitos do presente Plano, o accionamento do MSO de Lisboa será realizado, excepcionalmente, por articulação directa entre os municípios envolvidos, sem intervenção do DSO respectivo. Nesta situação específica, perante a informação ou percepção de ocorrência de um sismo na AML, o Corpo de Bombeiros Municipais de Leiria deve, de imediato, contactar por todos os meios disponíveis, o RSB Lisboa, até conseguir obter um POSIT fidedigno e informação sobre eventual necessidade de apoio, de acordo com o seguinte esquema:
 
-[([ver documento original](https://files.diariodarepublica.pt/2s/2009/10/206000000/4302543054.pdf))](https://files.diariodarepublica.pt/2s/2009/10/206000000/4302543054.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/2s/2009/10/206000000/4302543054.pdf)
 
 Na impossibilidade de contacto com todos os destinatários acima referidos, deverá de imediato accionar-se o esquema de sustentação operacional, envolvendo também o CDOS de Castelo Branco.
 
@@ -709,7 +760,7 @@ Após o briefing inicial, serão realizados dois briefings diários ordinários,
 
 Quando mobilizados para os TO, o Comando e Controlo sobre as equipas internacionais, no quadro das operações de resposta em curso, e sem prejuízo da organização interna de cada uma daquelas, serão sempre assumidos pelo CETAC (a nível nacional), pelo PCDis (a nível Distrital) e pelo PCMun (a nível municipal). Nos TO, a comunicação intra-equipa deverá ser preferencialmente garantida através de meios de comunicação próprios, devendo as equipas internacionais estar em condições de comunicar eficazmente nos seguintes níveis:
 
-[([ver documento original](https://files.diariodarepublica.pt/2s/2009/10/206000000/4302543054.pdf))](https://files.diariodarepublica.pt/2s/2009/10/206000000/4302543054.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/2s/2009/10/206000000/4302543054.pdf)
 
 Para os níveis acima elencados, o CETAC deverá fornecer o equipamento de comunicações considerado adequado.
 
@@ -773,15 +824,15 @@ Colaboração com as Câmaras Municipais na desobstrução de vias, na remoção
 
 3.2 - Missão dos agentes de protecção civil
 
-[([ver documento original](https://files.diariodarepublica.pt/2s/2009/10/206000000/4302543054.pdf))](https://files.diariodarepublica.pt/2s/2009/10/206000000/4302543054.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/2s/2009/10/206000000/4302543054.pdf)
 
 3.3 - Missão dos organismos e entidades de apoio
 
-[([ver documento original](https://files.diariodarepublica.pt/2s/2009/10/206000000/4302543054.pdf))](https://files.diariodarepublica.pt/2s/2009/10/206000000/4302543054.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/2s/2009/10/206000000/4302543054.pdf)
 
 Sem prejuízo da listagem de entidades acima, todos os organismos, serviços e entidades públicas, de utilidade pública ou privada, cujos fins estejam relacionados com a resposta ao socorro e emergência, consideram-se, para efeitos do presente Plano, entidades de apoio eventual. Neste contexto, deverão contribuir com os seus efectivos e meios, sempre que solicitados e ou mobilizados, para desenvolver de forma coordenada todas as acções que potenciem uma maior actuação articulada.
 
-# PARTE III — Áreas de Intervenção
+## PARTE III — Áreas de Intervenção
 
 4 - Administração de Meios e Recursos
 
@@ -789,7 +840,7 @@ Administração de meios e recursos
 
 Entidade Coordenadora: ANPC, Governos Civis e Câmaras Municipais (consoante o nível territorial)
 
-[([ver documento original](https://files.diariodarepublica.pt/2s/2009/10/206000000/4302543054.pdf))](https://files.diariodarepublica.pt/2s/2009/10/206000000/4302543054.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/2s/2009/10/206000000/4302543054.pdf)
 
 Prioridades de acção:
 
@@ -855,7 +906,7 @@ Apoio logístico às operações
 
 Entidade Coordenadora: CCON, CCOD e CDPC (consoante o nível territorial)
 
-[([ver documento original](https://files.diariodarepublica.pt/2s/2009/10/206000000/4302543054.pdf))](https://files.diariodarepublica.pt/2s/2009/10/206000000/4302543054.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/2s/2009/10/206000000/4302543054.pdf)
 
 Prioridades de acção:
 
@@ -911,7 +962,7 @@ Comunicações
 
 Entidade Coordenadora: Autoridade Nacional de Protecção Civil (ANPC)
 
-[([ver documento original](https://files.diariodarepublica.pt/2s/2009/10/206000000/4302543054.pdf))](https://files.diariodarepublica.pt/2s/2009/10/206000000/4302543054.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/2s/2009/10/206000000/4302543054.pdf)
 
 Prioridades de acção:
 
@@ -983,7 +1034,7 @@ O fluxo de informação necessário à Coordenação Operacional entre as entida
 
 Fig. 1 - Diagrama de Comando, Controlo e Comunicações (Zona de Intervenção)
 
-[([ver documento original](https://files.diariodarepublica.pt/2s/2009/10/206000000/4302543054.pdf))](https://files.diariodarepublica.pt/2s/2009/10/206000000/4302543054.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/2s/2009/10/206000000/4302543054.pdf)
 
 Instruções Específicas:
 
@@ -1057,7 +1108,7 @@ Gestão da informação de apoio às operações
 
 Entidade Coordenadora: Postos de Comando (CETAC, PCDis, PCMun)
 
-[([ver documento original](https://files.diariodarepublica.pt/2s/2009/10/206000000/4302543054.pdf))](https://files.diariodarepublica.pt/2s/2009/10/206000000/4302543054.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/2s/2009/10/206000000/4302543054.pdf)
 
 Prioridades de acção:
 
@@ -1109,7 +1160,7 @@ Gestão da informação pública
 
 Entidades Coordenadoras: CCON, CCOD e CMPC
 
-[([ver documento original](https://files.diariodarepublica.pt/2s/2009/10/206000000/4302543054.pdf))](https://files.diariodarepublica.pt/2s/2009/10/206000000/4302543054.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/2s/2009/10/206000000/4302543054.pdf)
 
 Prioridades de acção:
 
@@ -1163,7 +1214,7 @@ Procedimentos de Evacuação
 
 Entidade Coordenadora: Forças de Segurança (na conduta operacional assumirá a coordenação a GNR ou a PSP, de acordo com a área de incidência territorial da emergência)
 
-[([ver documento original](https://files.diariodarepublica.pt/2s/2009/10/206000000/4302543054.pdf))](https://files.diariodarepublica.pt/2s/2009/10/206000000/4302543054.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/2s/2009/10/206000000/4302543054.pdf)
 
 Prioridades de acção:
 
@@ -1185,7 +1236,7 @@ Coordenar o acesso às áreas afectadas.
 
 Procedimentos e instruções de coordenação:
 
-[([ver documento original](https://files.diariodarepublica.pt/2s/2009/10/206000000/4302543054.pdf))](https://files.diariodarepublica.pt/2s/2009/10/206000000/4302543054.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/2s/2009/10/206000000/4302543054.pdf)
 
 Instruções Específicas:
 
@@ -1219,7 +1270,7 @@ Manutenção da Ordem Pública
 
 Entidade Coordenadora: Forças de Segurança (na conduta operacional assumirá a coordenação a GNR ou a PSP, de acordo com a área de incidência territorial da emergência)
 
-[([ver documento original](https://files.diariodarepublica.pt/2s/2009/10/206000000/4302543054.pdf))](https://files.diariodarepublica.pt/2s/2009/10/206000000/4302543054.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/2s/2009/10/206000000/4302543054.pdf)
 
 Prioridades de acção:
 
@@ -1313,11 +1364,11 @@ Execução dos Perímetros de Segurança (Teatros de Operações):
 
 Modelo de Cartão de Segurança:
 
-[([ver documento original](https://files.diariodarepublica.pt/2s/2009/10/206000000/4302543054.pdf))](https://files.diariodarepublica.pt/2s/2009/10/206000000/4302543054.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/2s/2009/10/206000000/4302543054.pdf)
 
 Modelo de Ficha de Controlo Diário:
 
-[([ver documento original](https://files.diariodarepublica.pt/2s/2009/10/206000000/4302543054.pdf))](https://files.diariodarepublica.pt/2s/2009/10/206000000/4302543054.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/2s/2009/10/206000000/4302543054.pdf)
 
 7 - Serviços Médicos e Transporte de Vítimas
 
@@ -1325,7 +1376,7 @@ Serviços médicos e transporte de vítimas
 
 Entidade Coordenadora: Instituto Nacional de Emergência Médica
 
-[([ver documento original](https://files.diariodarepublica.pt/2s/2009/10/206000000/4302543054.pdf))](https://files.diariodarepublica.pt/2s/2009/10/206000000/4302543054.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/2s/2009/10/206000000/4302543054.pdf)
 
 Prioridades de acção:
 
@@ -1353,7 +1404,7 @@ Criar locais de recolha de sangue em locais chave e assegurar a sua posterior di
 
 Procedimentos e instruções de coordenação:
 
-[([ver documento original](https://files.diariodarepublica.pt/2s/2009/10/206000000/4302543054.pdf))](https://files.diariodarepublica.pt/2s/2009/10/206000000/4302543054.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/2s/2009/10/206000000/4302543054.pdf)
 
 Instruções Específicas:
 
@@ -1373,7 +1424,7 @@ Busca, socorro e salvamento
 
 Entidade Coordenadora: Autoridade Nacional de Protecção Civil (ANPC)
 
-[([ver documento original](https://files.diariodarepublica.pt/2s/2009/10/206000000/4302543054.pdf))](https://files.diariodarepublica.pt/2s/2009/10/206000000/4302543054.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/2s/2009/10/206000000/4302543054.pdf)
 
 Prioridades de acção:
 
@@ -1391,7 +1442,7 @@ Colaborar na determinação de danos e perdas.
 
 Procedimentos e instruções de coordenação:
 
-[([ver documento original](https://files.diariodarepublica.pt/2s/2009/10/206000000/4302543054.pdf))](https://files.diariodarepublica.pt/2s/2009/10/206000000/4302543054.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/2s/2009/10/206000000/4302543054.pdf)
 
 Instruções Específicas:
 
@@ -1421,7 +1472,7 @@ Serviços mortuários
 
 Entidade Coordenadora: Ministério Público (coadjuvado técnica e operacionalmente pelo Instituto Nacional de Medicina Legal)
 
-[([ver documento original](https://files.diariodarepublica.pt/2s/2009/10/206000000/4302543054.pdf))](https://files.diariodarepublica.pt/2s/2009/10/206000000/4302543054.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/2s/2009/10/206000000/4302543054.pdf)
 
 Prioridades de acção:
 
@@ -1443,7 +1494,7 @@ Garantir uma correcta tramitação processual de entrega dos corpos identificado
 
 Procedimentos e instruções de coordenação:
 
-[([ver documento original](https://files.diariodarepublica.pt/2s/2009/10/206000000/4302543054.pdf))](https://files.diariodarepublica.pt/2s/2009/10/206000000/4302543054.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/2s/2009/10/206000000/4302543054.pdf)
 
 Instruções Específicas:
 
@@ -1501,7 +1552,7 @@ Apoio social
 
 Entidade Coordenadora: Segurança Social
 
-[([ver documento original](https://files.diariodarepublica.pt/2s/2009/10/206000000/4302543054.pdf))](https://files.diariodarepublica.pt/2s/2009/10/206000000/4302543054.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/2s/2009/10/206000000/4302543054.pdf)
 
 Prioridades de acção:
 
@@ -1523,7 +1574,7 @@ Efectuar a segurança de área das ZCAP.
 
 Procedimentos e instruções de coordenação:
 
-[([ver documento original](https://files.diariodarepublica.pt/2s/2009/10/206000000/4302543054.pdf))](https://files.diariodarepublica.pt/2s/2009/10/206000000/4302543054.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/2s/2009/10/206000000/4302543054.pdf)
 
 Instruções Específicas:
 
@@ -1545,7 +1596,7 @@ Apoio psicológico
 
 Entidades Coordenadoras: INEM (apoio imediato) e Segurança Social (apoio de continuidade)
 
-[([ver documento original](https://files.diariodarepublica.pt/2s/2009/10/206000000/4302543054.pdf))](https://files.diariodarepublica.pt/2s/2009/10/206000000/4302543054.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/2s/2009/10/206000000/4302543054.pdf)
 
 Prioridades de acção:
 
@@ -1563,7 +1614,7 @@ Assegurar o apoio psicológico de continuidade à população presente nas ZCAP.
 
 Procedimentos e instruções de coordenação:
 
-[([ver documento original](https://files.diariodarepublica.pt/2s/2009/10/206000000/4302543054.pdf))](https://files.diariodarepublica.pt/2s/2009/10/206000000/4302543054.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/2s/2009/10/206000000/4302543054.pdf)
 
 Instruções Específicas:
 
@@ -1591,7 +1642,7 @@ Controlo de matérias perigosas
 
 Entidade Coordenadora: Autoridade Nacional de Protecção Civil (ANPC)
 
-[([ver documento original](https://files.diariodarepublica.pt/2s/2009/10/206000000/4302543054.pdf))](https://files.diariodarepublica.pt/2s/2009/10/206000000/4302543054.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/2s/2009/10/206000000/4302543054.pdf)
 
 Prioridades de acção:
 
@@ -1609,19 +1660,19 @@ Assegurar a descontaminação da população afectada.
 
 Procedimentos e instruções de coordenação: instalações fixas
 
-[([ver documento original](https://files.diariodarepublica.pt/2s/2009/10/206000000/4302543054.pdf))](https://files.diariodarepublica.pt/2s/2009/10/206000000/4302543054.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/2s/2009/10/206000000/4302543054.pdf)
 
 Procedimentos e instruções de coordenação: instalações fixas (continuação)
 
-[([ver documento original](https://files.diariodarepublica.pt/2s/2009/10/206000000/4302543054.pdf))](https://files.diariodarepublica.pt/2s/2009/10/206000000/4302543054.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/2s/2009/10/206000000/4302543054.pdf)
 
 Procedimentos e instruções de coordenação: transporte de mercadorias perigosas
 
-[([ver documento original](https://files.diariodarepublica.pt/2s/2009/10/206000000/4302543054.pdf))](https://files.diariodarepublica.pt/2s/2009/10/206000000/4302543054.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/2s/2009/10/206000000/4302543054.pdf)
 
 Procedimentos e instruções de coordenação: condutas de transporte de mercadorias perigosas
 
-[([ver documento original](https://files.diariodarepublica.pt/2s/2009/10/206000000/4302543054.pdf))](https://files.diariodarepublica.pt/2s/2009/10/206000000/4302543054.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/2s/2009/10/206000000/4302543054.pdf)
 
 13 - Avaliação de Estruturas
 
@@ -1629,7 +1680,7 @@ Avaliação de estruturas
 
 Entidade Coordenadora: Autoridade Nacional de Protecção Civil (ANPC)
 
-[([ver documento original](https://files.diariodarepublica.pt/2s/2009/10/206000000/4302543054.pdf))](https://files.diariodarepublica.pt/2s/2009/10/206000000/4302543054.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/2s/2009/10/206000000/4302543054.pdf)
 
 Prioridades de acção:
 
@@ -1647,7 +1698,7 @@ Avaliação de estruturas
 
 Procedimentos e instruções de coordenação:
 
-[([ver documento original](https://files.diariodarepublica.pt/2s/2009/10/206000000/4302543054.pdf))](https://files.diariodarepublica.pt/2s/2009/10/206000000/4302543054.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/2s/2009/10/206000000/4302543054.pdf)
 
 Instruções Específicas:
 
@@ -1665,7 +1716,7 @@ Instruções Específicas:
 
 7 - As acções de segurança imediata serão coordenadas pela Protecção Civil e executadas por meios dos Corpos de Bombeiros, Forças Armadas e empresas de obras públicas.
 
-# PARTE IV — Informação Complementar
+## PARTE IV — Informação Complementar
 
 #### SECÇÃO I — Mecanismos da Estrutura de Protecção Civil
 
@@ -1710,3 +1761,5 @@ Em caso de activação do presente Plano, a informação periódica que vier a s
 Sem prejuízo dos sistemas de informação que, à escala municipal ou distrital, são utilizados pelos respectivos serviços e autoridades de protecção civil (e que se encontram devidamente referenciados nos respectivos Planos Gerais de Emergência de âmbito municipal ou distrital), os mecanismos a adoptar para aviso à população assentarão fundamentalmente na disseminação de informação pública através dos órgãos de comunicação social.
 
 Na operacionalização dos sistema de aviso utilizam-se os procedimentos previstos na Área de Intervenção de Informação ao Público (III-4.2 do presente Plano).
+
+202430204

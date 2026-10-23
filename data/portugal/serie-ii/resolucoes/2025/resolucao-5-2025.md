@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/2s/2025/11/215000000/0021400219.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -46,18 +46,18 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/resolucao/5-2025-944666773
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2025-11-06T00:00:00Z'
+  retrieved_at: '2026-10-23T15:16:23Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 4d2bfb072b418ae3253230484bbcf7dfa7a5af31577780b7e46e7776381bd5ea
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 8ca08891379974cec74a49bc10a7b27665388e3c637982acf9b4dcffffaaf795
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:16:23Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -65,17 +65,41 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects: []
-relationships: []
+relationships:
+- type: cites
+  target: pt:dre:137261492:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:174824631:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:211059785:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:588802:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:70236273:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:837135326:por
+  label: null
+  source: null
 article_structure:
   article_count: 18
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:16:23Z'
   warnings: []
   errors: []
 ---
@@ -321,3 +345,5 @@ f) registadas em ata.
 O presente regimento entra em vigor no dia seguinte à sua publicação no Diário da República.
 
 23 de outubro de 2025. - O Presidente do Conselho de Supervisão, António Henriques Gaspar.
+
+319708632

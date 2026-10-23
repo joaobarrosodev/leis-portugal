@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/2s/2019/04/073000000/1160211602.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -46,36 +46,68 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/despacho-normativo/11-2019-122085986
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2019-04-12T00:00:00Z'
+  retrieved_at: '2026-10-23T15:08:29Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 0de655babbc6890e7873b78df6137ddde54ede0cd34b274746922361de5abd2d
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 91e2f484752e206c098e14b410103c22f1696e43f087aee03141ddfae155afc7
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:08:29Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
-relationships: []
+subjects:
+- Agente Eleitoral
+- Assembleia de VOTO
+- Autarquia Local
+- Comissão Organizadora do Recenseamento Eleitoral dos Portuguêses no Estrangeiro
+- Definição de Competências
+- Direção Geral dos Assuntos Consulares e das Comunidades Portuguesas
+- Direcção Geral de Administração Interna
+- Documento Eletrónico
+- Eleição
+- Eleição Europeia
+- Equipamento Eletrónico
+- GNR
+- Internet
+- Junta de Freguesia
+- Ministério da Administração Interna
+- Página na Internet
+- PSP
+- Publicitação
+- Resultado Eleitoral
+- Secretariado Técnico dos Assuntos para o Processo Eleitoral
+relationships:
+- type: cites
+  target: pt:dre:114561388:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:115312061:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:642011:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:08:29Z'
   warnings: []
   errors: []
 ---
@@ -111,3 +143,5 @@ g) Número de votos obtidos por cada lista.
 6 - Na difusão dos resultados do escrutínio provisório, os órgãos de comunicação social devem indicar expressamente que se trata de resultados provisórios fornecidos pela SGAI-AE.
 
 29 de março de 2019. - O Ministro dos Negócios Estrangeiros, Augusto Ernesto Santos Silva. - 1 de abril de 2019. - O Ministro da Administração Interna, Eduardo Arménio do Nascimento Cabrita.
+
+312193184

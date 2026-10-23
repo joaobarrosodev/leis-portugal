@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/458/2006/05/18/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/458-2006-633526
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2006-05-18T00:00:00Z'
+  retrieved_at: '2026-10-23T15:14:14Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: fdbc2eb0e7e699c88adf905aed6667467785a20551f490e3c86771123c387608
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 7a36b5c11e96360a0d8de5843781193e1a0cb9547b0d2b5039300934b14da8c7
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:14:14Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,11 +66,11 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Subsídio Familiar a Crianças e Jovens
 - Cidadão Estrangeiro
 - Prestações da Segurança Social
 - Prestações Familiares
 - Segurança Social
+- Subsídio Familiar a Crianças e Jovens
 relationships:
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/176/2003/08/02/p/dre
@@ -88,16 +88,32 @@ relationships:
   target: eli:http://data.dre.pt/eli/dec-lei/41/2006/02/21/p/dre
   label: null
   source: http://data.dre.pt/eli/dec-lei/41/2006/02/21/p/dre
+- type: cites
+  target: pt:dre:188557:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:434982:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:652702:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:677047:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:14:14Z'
   warnings: []
   errors: []
 ---
@@ -140,4 +156,4 @@ A presente portaria produz efeitos a partir do dia 1 de Março de 2006.
 
 Em 4 de Maio de 2006.
 
-**O Ministro de Estado e da Administração Interna, António Luís Santos Costa. - O Ministro da Presidência, Manuel Pedro Cunha da Silva Pereira. - O Ministro do Trabalho e da Solidariedade Social, José António Fonseca Vieira da Silva.**
+O Ministro de Estado e da Administração Interna, António Luís Santos Costa. - O Ministro da Presidência, Manuel Pedro Cunha da Silva Pereira. - O Ministro do Trabalho e da Solidariedade Social, José António Fonseca Vieira da Silva.

@@ -46,40 +46,73 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/resolucao/58-2002-3044168
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2003-10-31T00:00:00Z'
+  retrieved_at: '2026-10-23T15:11:26Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: a1659048fd51036928da7dd25e062c3351d5fc408f24dd27be23cfad8e8d4bf4
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 25ec808e60845eab91710c624ea441756bb40bafb6aa2cf9f9e2e79cf15e41bc
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:11:26Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- FSE
+- Gestor
+- Intervenção Operacional da Economia
+- Nomeação
+- QCA III
 relationships:
 - type: amended_by
   target: pt:dre:984914:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:647110:por
+  label: "Determinado manter a estrutura de apoio bem como o órgão de gestão da Intervenção Operacional da Economia nomeado\
+    \ pelo presente diploma, pela RES.101/2003.2003.07.10.PCM DR.IS-B [182] DE 08/AGO/2003 devendo qualquer referência ao\
+    \ POE entender-se como feita do PRIME\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/resolucao-conselho-ministros/101-2003-647110
+  date: '2003-07-10'
+- type: amended_by
+  target: pt:dre:984914:por
+  label: "Exonerado pela RES.81/2003(2ªSérie).31.10.2003.PCM, DR.IIS [268] de 19.11.2003\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/resolucao/81-2003-984914
+  date: '2003-10-31'
+- type: cites
+  target: pt:dre:141840:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:249799:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:274021:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:391578:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:11:26Z'
   warnings: []
   errors: []
 ---

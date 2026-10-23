@@ -46,41 +46,84 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/despacho-normativo/17-2012-3267325
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2012-08-16T00:00:00Z'
+  retrieved_at: '2026-10-23T15:07:39Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: c6d07c655405db7192740365552c298baf59d36d02d6be34b18c786b8e8a7906
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 25d47c94bef0aa16382a6d2b411ad3e3abd956205e4fb60a19cbcc62cff4901f
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:07:39Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
-relationships: []
+subjects:
+- Criança
+- Financiamento
+- Formação Profissional
+- Jovem
+- Página na Internet
+- Programa Escolhas
+- Regulamento
+relationships:
+- type: cites
+  target: pt:dre:175292:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:239016:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:248178:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:302289:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:360114:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:411607:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:426483:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:490258:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:493229:por
+  label: null
+  source: null
 article_structure:
   article_count: 32
   section_count: 7
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:07:39Z'
   warnings: []
   errors: []
 ---
 
-# Despacho Normativo n.º 17/2012
+# Despacho normativo n.º 17/2012
 
 O Programa Escolhas foi criado pela [Resolução do Conselho de Ministros n.º 4/2001](https://diariodarepublica.pt/dr/detalhe/resolucao-conselho-ministros/4-2001-239016), de 9 de janeiro, e, posteriormente, renovado pela [Resolução do Conselho de Ministros n.º 60/2004](https://diariodarepublica.pt/dr/detalhe/resolucao-conselho-ministros/60-2004-302289), de 30 de abril, pela [Resolução do Conselho de Ministros n.º 80/2006](https://diariodarepublica.pt/dr/detalhe/resolucao-conselho-ministros/80-2006-360114), de 26 de junho, e pela [Resolução do Conselho de Ministros n.º 63/2009](https://diariodarepublica.pt/dr/detalhe/resolucao-conselho-ministros/63-2009-493229), de 23 de julho.
 
@@ -1001,3 +1044,5 @@ As instituições promotoras e parceiras do Programa Escolhas comprometem-se, no
 ###### Artigo 32.º — Notas explicativas
 
 No âmbito do acompanhamento e execução dos projetos, e em função da necessidade de tratamento e regulação de matérias não previstas no presente regulamento, o Programa Escolhas elaborará notas explicativas de natureza vinculativa que serão devidamente comunicadas aos consórcios.
+
+14302012

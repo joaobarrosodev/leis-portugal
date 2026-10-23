@@ -46,45 +46,61 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/despacho-normativo/26-2009-865861
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2023-09-27T00:00:00Z'
+  retrieved_at: '2026-10-23T15:07:14Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 5f4dcec827297bf2325941e52491f5f8be30de3bb4cd03e5cdba2d4ae75a9670
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 520ae6121cda377accd234f83e8076c5a0a01dde5b712ef280f418e5d792921b
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:07:14Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Escola Superior de Enfermagem
+- Estatuto
+- Homologação
+- Porto
 relationships:
 - type: amended_by
   target: pt:dre:222107338:por
   label: Última alteração registada na importação inicial
   source: null
+- type: cites
+  target: pt:dre:355494:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:556606:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:640339:por
+  label: null
+  source: null
 article_structure:
   article_count: 70
   section_count: 20
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:07:14Z'
   warnings: []
   errors: []
 ---
 
-# Despacho Normativo n.º 26/2009
+# Despacho normativo n.º 26/2009
 
 Considerando que, nos termos do n.º 1 do artigo 172.º da [Lei n.º 62/2007](https://diariodarepublica.pt/dr/detalhe/lei/62-2007-640339), de 10 de Setembro, as instituições de ensino superior devem proceder à revisão dos seus estatutos, de modo a conformá-los com o novo Regime Jurídico das Instituições de Ensino Superior;
 
@@ -1140,18 +1156,20 @@ Os presentes estatutos entram em vigor no dia seguinte ao da sua publicação no
 
 Brasão
 
-[([ver documento original](https://files.diariodarepublica.pt/2s/2009/07/136000000/2813428143.pdf))](https://files.diariodarepublica.pt/2s/2009/07/136000000/2813428143.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/2s/2009/07/136000000/2813428143.pdf)
 
 Brasão de Armas: de ouro, livro de prata, aberto, encadernado de púrpura e realçado de negro, tendo na folha da dextra um coração de vermelho e na da sinistra uma coroa real de azul forrada de vermelho, entre cruz pátea de azul, cruz de ordem de S. João de Jerusalém, dita de rodes, dita de verde, em chefe, e candeia de negro, realçada de prata e acesa de vermelho e ouro, em campanha. Coroa académica de prata, com sua pedraria. Listel branco, com a legenda a negro: "ESCOLA SUPERIOR DE ENFERMAGEM DO PORTO".
 
 Bandeira
 
-[([ver documento original](https://files.diariodarepublica.pt/2s/2009/07/136000000/2813428143.pdf))](https://files.diariodarepublica.pt/2s/2009/07/136000000/2813428143.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/2s/2009/07/136000000/2813428143.pdf)
 
 Bandeira: verde, lisa. Cordão e borlas de ouro e verde. Haste e lança de prata.
 
 Selo
 
-[([ver documento original](https://files.diariodarepublica.pt/2s/2009/07/136000000/2813428143.pdf))](https://files.diariodarepublica.pt/2s/2009/07/136000000/2813428143.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/2s/2009/07/136000000/2813428143.pdf)
 
 Selo: circular, tendo ao centro a representação das figuras do escudo, sem indicação de metais e esmaltes em volta, a legenda "Escola Superior de Enfermagem do Porto"
+
+202027538

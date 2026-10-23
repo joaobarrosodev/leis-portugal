@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/2s/2015/02/033000000/0430004301.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -46,36 +46,97 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/resolucao/10-2015-66507630
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2015-02-17T00:00:00Z'
+  retrieved_at: '2026-10-23T15:15:30Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: fdd957f4ec5748870c12c631b8864044ad7baaf6b22cb78065037b4d3d0793d3
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: eef69898ffc2723174a3164ec425b79181ea0fb32716234985c86d6da312863c
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:15:30Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
-relationships: []
+subjects:
+- Conselho de Administração
+- Nomeação
+- Presidente
+- Unidade Local de Saúde do Norte Alentejano
+- Vogal
+relationships:
+- type: cites
+  target: pt:dre:1144331:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:191077:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:2227715:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:3581602:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:469067:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:498125:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:498720:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:500215:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:520259:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:542993:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:544415:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:553924:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:57701290:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:66325236:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:15:30Z'
   warnings: []
   errors: []
 ---
@@ -263,3 +324,5 @@ Presidente da Assembleia Geral da ADENNA - Associação para o Desenvolvimento d
 Vogal do Conselho Regional do Sul da Ordem dos Enfermeiros de 2003 a 2006
 
 Organização, colaboração e participação em vários eventos e reuniões de trabalho; orientações de alunos em ensinos clínicos, estágios e trabalhos de fim de curso; publicação de trabalhos e comunicações. Dirigente associativo em várias organizações.
+
+208434452

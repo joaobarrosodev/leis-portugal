@@ -46,40 +46,68 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/resolucao/68-2003-1554093
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2004-09-24T00:00:00Z'
+  retrieved_at: '2026-10-23T15:12:00Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: c584ad8a6efd20067d4a8af01ed054d0485381081c69e7371e1b34e5ca20c416
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 8fd408d7ddf525c3bc22dfd085be878a19b46660720217c0c23d28ee82da1cc9
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:12:00Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Conselho de Administração
+- CP
+- Exoneração
+- Nomeação
+- Presidente
+- Vogal
 relationships:
 - type: amended_by
   target: pt:dre:1063130:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:1063130:por
+  label: "Exonerados os nomeados pela RES.103/2004(2ªSérie).24.09.2004.PCM, DR.IIS [253] de 27.10.2004\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/resolucao/103-2004-1063130
+  date: '2004-09-24'
+- type: cites
+  target: pt:dre:139464:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:303221:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:655312:por
+  label: null
+  source: null
+- type: corrected_by
+  target: pt:dre:2366998:por
+  label: "Rectificada a Res. 68/2003 pela RECT.2149/2003.04.11.2003.PCM, DR.IIS [263] de 13.11.2003\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/rectificacao/2149-2003-2366998
+  date: '2003-10-07'
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:12:00Z'
   warnings: []
   errors: []
 ---

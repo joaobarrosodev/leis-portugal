@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/684/2006/07/04/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/684-2006-538042
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2006-07-04T00:00:00Z'
+  retrieved_at: '2026-10-23T15:15:37Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: cabdf2d1eb761563c1714d6b753df671c6e19c58c494110e621e4e0ceb84a027
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 9b6c25735f80a0b95e380cd30085c5c59da6f60c9ba8bd5634b52e4e4c6bb2eb
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:15:37Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,11 +67,11 @@ reuse:
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
 - Arquivo
-- Ministério da Educação
 - Conservação de Documentos
-- Secretaria Geral
 - Microfilmagem
+- Ministério da Educação
 - Prazo de Conservação
+- Secretaria Geral
 relationships:
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/121/1992/07/02/p/dre
@@ -89,16 +89,36 @@ relationships:
   target: eli:http://data.dre.pt/eli/port/33/1999/01/20/p/dre
   label: null
   source: http://data.dre.pt/eli/port/33/1999/01/20/p/dre
+- type: cites
+  target: pt:dre:197152:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:291844:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:302347:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:356515:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:432449:por
+  label: null
+  source: null
 article_structure:
   article_count: 12
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:15:37Z'
   warnings: []
   errors: []
 ---
@@ -131,7 +151,7 @@ Manda o Governo, pelas Ministras da Educação e da Cultura, o seguinte:
 
 Em 9 de Junho de 2006.
 
-**A Ministra da Educação, Maria de Lurdes Reis Rodrigues. - A Ministra da Cultura, Maria Isabel da Silva Pires de Lima.**
+A Ministra da Educação, Maria de Lurdes Reis Rodrigues. - A Ministra da Cultura, Maria Isabel da Silva Pires de Lima.
 
 REGULAMENTO ARQUIVÍSTICO DA SECRETARIA-GERAL DO MINISTÉRIO DA EDUCAÇÃO
 
@@ -229,8 +249,8 @@ O acesso e comunicabilidade dos arquivos da Secretaria-Geral do Ministério da E
 
 Compete ao IAN/TT a inspecção sobre a execução do disposto na presente portaria.
 
-## ANEXO I — [([ver documento original](https://files.diariodarepublica.pt/1s/2006/07/12700/47354747.pdf))](https://files.diariodarepublica.pt/1s/2006/07/12700/47354747.pdf)
+## ANEXO I — [(ver documento original)](https://files.diariodarepublica.pt/1s/2006/07/12700/47354747.pdf)
 
-## ANEXO II — [([ver documento original](https://files.diariodarepublica.pt/1s/2006/07/12700/47354747.pdf))](https://files.diariodarepublica.pt/1s/2006/07/12700/47354747.pdf)
+## ANEXO II — [(ver documento original)](https://files.diariodarepublica.pt/1s/2006/07/12700/47354747.pdf)
 
-## ANEXO III — [([ver documento original](https://files.diariodarepublica.pt/1s/2006/07/12700/47354747.pdf))](https://files.diariodarepublica.pt/1s/2006/07/12700/47354747.pdf)
+## ANEXO III — [(ver documento original)](https://files.diariodarepublica.pt/1s/2006/07/12700/47354747.pdf)

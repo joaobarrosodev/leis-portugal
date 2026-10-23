@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/2s/2011/03/052000000/1229812299.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,45 +46,78 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/despacho-normativo/5-2011-2222704
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2023-12-28T00:00:00Z'
+  retrieved_at: '2026-10-23T15:07:34Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 25d12fb5a6064801d3f07bc81f362a38ef786c7bfbcf4ea36cd439c035fddb2d
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: d9154980b286903129e263dcbb130f5e2d95f9b56a5fa512133020f4720c99dd
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:07:34Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Administração Regional de Saúde
+- Assistência Médica
+- Assistência Medicamentosa
+- Carreira Profissional
+- Cuidados de Enfermagem
+- Cuidados Médicos
+- Definição de Competências
+- Ensino Médico
+- Médico
+- Mobilidade de Pessoal
+- Pessoal Administrativo
+- Pessoal de Enfermagem
+- Regulamento
+- Remuneração
+- Saúde Pública
+- Serviço Nacional de Saúde
+- Sistema Retributivo
+- Unidade de Cuidados na Comunidade
+- Unidade de Saúde Familiar
 relationships:
 - type: amended_by
   target: pt:dre:835862896:por
   label: Última alteração registada na importação inicial
   source: null
+- type: cites
+  target: pt:dre:156182:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:640665:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:835862896:por
+  label: Revogado, a partir de 29 de dezembro de 2023, com efeitos a 1 de janeiro de 2024, pelo(a) Portaria n.º 454-A/2023
+    - Diário da República n.º 249/2023, 1º Suplemento, Série I de 2023-12-28
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/454-a-2023-835862896
+  date: '2023-12-28'
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:07:34Z'
   warnings: []
   errors: []
 ---
 
-# Despacho Normativo n.º 5/2011
+# Despacho normativo n.º 5/2011
 
 O processo de reforma dos cuidados de saúde primários, iniciado em 2005, entrou numa segunda etapa de desenvolvimento, concluída que foi a fase de planeamento, arranque e implementação das suas vertentes e componentes essenciais.
 
@@ -187,3 +220,5 @@ Treino, ensino e inovação
 1 - As ARS podem protocolar com escolas de ensino superior, ou outras entidades, para que as USF que possuam idoneidade formativa constituam espaços privilegiados de investigação e formação, contribuindo, de forma decisiva, para a qualificação dos profissionais da saúde.
 
 2 - As ARS devem proporcionar programas de formação e desenvolvimento contínuo de competências das equipas das USF, tendo em vista a melhoria permanente dos serviços prestados, a racionalização e a efectividade do funcionamento da própria unidade, assim como a cooperação e partilha de conhecimentos, práticas e soluções na rede de USF com outras redes prestadoras de cuidados.
+
+204431594

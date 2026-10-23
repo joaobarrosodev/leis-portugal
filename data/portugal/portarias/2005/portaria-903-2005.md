@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2005/09/185b00/57915792.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/903/2005/09/26/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/903-2005-147616
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2005-09-26T00:00:00Z'
+  retrieved_at: '2026-10-23T15:09:05Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: c864048863fbabe866b72d73a4002c1205ecb127ffdf193ed3b209a57c0653c7
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 9726aa4e8e0a9481a3c8c97739b5d23fe4614297c6413fad8e7f1e4166b27e0d
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:09:05Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -65,11 +65,11 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
+- Avaliação de Conhecimentos
+- Ensino Profissional
 - Formação Profissional
 - Plano de Estudos
-- Ensino Profissional
 - Qualificação Profissional
-- Avaliação de Conhecimentos
 relationships:
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/74/2004/03/26/p/dre
@@ -111,16 +111,93 @@ relationships:
   target: eli:http://data.dre.pt/eli/port/550-c/2004/05/21/p/dre
   label: null
   source: http://data.dre.pt/eli/port/550-c/2004/05/21/p/dre
+- type: cites
+  target: pt:dre:178833:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:187313:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:188887:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:189355:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:189357:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:189363:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:198308:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:198889:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:199457:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:200013:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:200451:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:210801:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:238849:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:241449:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:382191:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:402102:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:572672:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:620875:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:130350399:por
+  label: Revogada pelo(a) Portaria n.º 76/2020 - Diário da República n.º 55/2020, Série I de 2020-03-18
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/76-2020-130350399
+  date: '2020-03-18'
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:09:05Z'
   warnings: []
   errors: []
 ---

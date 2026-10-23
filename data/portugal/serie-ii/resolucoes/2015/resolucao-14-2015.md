@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/2s/2015/03/042000000/0520305204.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -46,36 +46,80 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/resolucao/14-2015-66640195
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2015-03-02T00:00:00Z'
+  retrieved_at: '2026-10-23T15:15:32Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 4beabb3504b0adf96c965d7316dd6c997051bb72a489d9402481ac78d0a11647
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: ceff457d11ad52771622abb9388176cd14736e888d99cef37e25e58491b17608
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:15:32Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
-relationships: []
+subjects:
+- Centro Hospitalar
+- Centro Hospitalar do ALTO AVE
+- Conselho de Administração
+- Nomeação
+relationships:
+- type: cites
+  target: pt:dre:191077:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:469067:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:498125:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:498720:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:500215:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:520259:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:542993:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:544415:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:553924:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:57701290:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:15:32Z'
   warnings: []
   errors: []
 ---
@@ -165,3 +209,5 @@ Valorização Profissional: Frequência de vários cursos, congressos, simpósio
 Atividades Relevantes:
 
 Elemento de Júri de vários concursos para as diversas categorias. Adjunta da Enfermeira Diretora, durante diversos mandatos; Elemento do Grupo Coordenador do Processo de Acreditação, da JCI do CHAA, Integrou um grupo de trabalho da Ordem dos Enfermeiros "Princípios enformadores do Sistema de Saúde", em outubro de 2000; Membro dos corpos sociais da Ordem dos Enfermeiros, Conselho Jurisdicional da Secção Regional do Norte, no mandato 2004-2007.
+
+208458786

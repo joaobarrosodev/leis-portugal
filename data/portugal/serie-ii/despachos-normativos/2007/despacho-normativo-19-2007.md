@@ -48,45 +48,85 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/despacho-normativo/19-2007-2190182
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2007-12-31T00:00:00Z'
+  retrieved_at: '2026-10-23T15:06:34Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 9bf3572c7cb3c40f46ed52ca6a3a9a6f7ff43045a8427f8ce7015301c35fbfcf
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 776ca68dc1a94a8d4bd3afbc6993b912c4cb7305eaab8f074c4f26829b242c4c
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:06:34Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Assinatura Digital
+- Assinatura Reconhecida
+- Certificação Electrónica
+- Diário da República
+- Diploma Legal
+- Imprensa Nacional-Casa da Moeda
+- Internet
+- Pagamento
+- Publicação
+- Publicação Electrónica
+- Secretário Geral
+- SELO Branco
+- Serviço Público
+- Sistema de Certificação Electrónica do Estado-Infraestrutura de Chaves Públicas
 relationships:
 - type: amended_by
   target: pt:dre:1932758:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:1932758:por
+  label: "Alterados os nºs 3.5, 4.1 e 4.5 do DN 38/2006 de 30-Jun, com a redacção constante do presente diploma, pelo DN.41-A/2007.31.12.2007.SEPCM-PCM,\
+    \ DR.IIS [251] de 31.12.2007\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/despacho-normativo/41-a-2007-1932758
+  date: '2007-12-31'
+- type: cites
+  target: pt:dre:225375:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:323949:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:357129:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:517844:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:548241:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:06:34Z'
   warnings: []
   errors: []
 ---
 
-# Despacho Normativo n.º 19/2007
+# Despacho normativo n.º 19/2007
 
 O [Despacho Normativo n.º 38/2006](https://diariodarepublica.pt/dr/detalhe/despacho-normativo/38-2006-357129), de 23 de Junho, publicado no Diário da República, 1.ª série, n.º 125, de 30 de Junho de 2006, alterado pelo despacho normativo n.º 2/2007, de 29 de Dezembro de 2006, publicado no Diário da República, 2.ª série, n.º 3, de 4 de Janeiro de 2007, veio estabelecer orientações para a desmaterialização do processo de envio de actos para publicação nas 1.ª e 2.ª séries do Diário da República e fixar as regras de organização e publicação de actos na 2.ª série.
 

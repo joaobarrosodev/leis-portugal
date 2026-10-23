@@ -1,7 +1,7 @@
 ---
 schema_version: '1.0'
 id: pt:dre:767986:por
-title: Resolução n.º 160/2000(2.ªsérie)
+title: Resolução n.º 160/2000 (2.ª série)
 short_title: null
 summary: null
 jurisdiction: portugal
@@ -46,41 +46,58 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/resolucao/160-2000-767986
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2000-12-21T00:00:00Z'
+  retrieved_at: '2026-10-23T15:09:52Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 5e62a3aaa01fd372f2a05a4c2a5e41596c5e9b443a97e95dbabb6781d372708f
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 7faaf7763d8fd327b6998fb1768f8f9ffe419c91e0d2db815e166d8880ab2b38
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:09:52Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
-relationships: []
+subjects:
+- Aquisição de Imóveis
+- Autorização de Despesas
+- Beja
+- Escola Superior Agrária
+- Instalação de Serviços
+- Instituto Politécnico
+- Prédio Rústico
+- Prédio Urbano
+- Serviço Público
+relationships:
+- type: cites
+  target: pt:dre:308559:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:681999:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:09:52Z'
   warnings: []
   errors: []
 ---
 
-# Resolução n.º 160/2000(2.ªsérie)
+# Resolução n.º 160/2000 (2.ª série)
 
 Resolução n.º 160/2000 (2.ª série). - Considerando que o Instituto Politécnico de Beja solicitou, em cumprimento do disposto no [Decreto-Lei n.º 74/80](https://diariodarepublica.pt/dr/detalhe/decreto-lei/74-1980-681999), de 15 de Abril, autorização para adquirir, mediante prévia celebração de um contrato-promessa de compra e venda com eficácia real, o prédio rústico sito na Horta dos Frades e do Calvário e parte do prédio misto sito em São Sebastião, ambos da freguesia de Santiago Maior, município de Beja, destinados ao Centro Experimental da Escola Superior Agrária de Beja;
 

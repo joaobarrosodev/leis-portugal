@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/623/2006/06/23/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/623-2006-359487
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2008-08-14T00:00:00Z'
+  retrieved_at: '2026-10-23T15:15:15Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: bc0a65ee35b88a34285e91ba47a43930e7fae653bfd802d7ef7d04a7d7f226cf
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 8ddd0c93c1f12f5d80fa2921c30d65f5468a6e60c0a4c495071091521c8e3442
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:15:15Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -74,6 +74,18 @@ relationships:
   target: pt:dre:455605:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:455605:por
+  label: "Renovada, pelo período de seis anos, a concessão da zona de caça criada pela Portaria 254-GH/96, de 15 de Julho,\
+    \ na redacção do presente diploma, pela PORT.885/2008.14.08.2008.MADRP, DR.IS [157] de 14.08.2008\08\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/885-2008-455605
+  date: '2008-08-14'
+- type: amends
+  target: pt:numero:portaria:933/2002
+  label: "Exclui uma área de 55 ha da zona de caça concessionada pela Portaria 254-GH/96, de 15 de Julho DR.IS-B [162]5ºSupl,\
+    \ renovada pela Portaria n.º 933/2002, de 1 de Agosto\0\0"
+  source: null
+  date: '1996-07-15'
 - type: cites
   target: eli:http://data.dre.pt/eli/port/933/2002/08/01/p/dre
   label: null
@@ -82,16 +94,24 @@ relationships:
   target: eli:http://data.dre.pt/eli/resolconsmin/95/2002/05/13/p/dre
   label: null
   source: http://data.dre.pt/eli/resolconsmin/95/2002/05/13/p/dre
+- type: cites
+  target: pt:dre:160314:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:197124:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:15:15Z'
   warnings: []
   errors: []
 ---
@@ -112,4 +132,4 @@ Manda o Governo, pelo Ministro da Agricultura, do Desenvolvimento Rural e das Pe
 
 Pelo Ministro da Agricultura, do Desenvolvimento Rural e das Pescas, Rui Nobre Gonçalves, Secretário de Estado do Desenvolvimento Rural e das Florestas, em 6 de Junho de 2006.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2006/06/120b00/44814482.pdf))](https://files.diariodarepublica.pt/1s/2006/06/120b00/44814482.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2006/06/120b00/44814482.pdf)

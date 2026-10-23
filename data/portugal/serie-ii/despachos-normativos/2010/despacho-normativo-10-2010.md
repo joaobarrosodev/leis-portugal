@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/2s/2010/04/070000000/1863318633.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,30 +46,43 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/despacho-normativo/10-2010-2061097
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2011-02-25T00:00:00Z'
+  retrieved_at: '2026-10-23T15:07:20Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: e7240cef5cbcc8832236a595d6e14cc472a02834a40d21c936f1fcfbc7b96cfa
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 89239264aa79d85912b339ead596a862dea4e62b56de7f8e3e725a6de6202b7b
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:07:20Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Agricultura Biológica
+- Energia
+- Financiamento
+- Ifadap
+- Madeira.região Autónoma
+- Política Agrícola Comum
+- Produção Agrícola
 relationships:
 - type: amended_by
   target: pt:dre:278913:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:1314399:por
+  label: "Alterados os arts 1º e 3º do DN 4/2010, de 05-Fev, na redacção do presente despacho, pelo DN.23/2010.16.09.2010.MADRP,\
+    \ DR.IIS [181] de 16.09.2010\00\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/despacho-normativo/23-2010-1314399
+  date: '2010-09-16'
 - type: cites
   target: celex:32009R0073
   label: null
@@ -82,16 +95,22 @@ relationships:
   target: celex:32010R1122
   label: null
   source: null
+- type: repealed_by
+  target: pt:dre:278913:por
+  label: "Revogado, a partir de 02.03.2011, o DN 4/2010, de 05-Fev, alterado pelo presente diploma e pelo DN 23/2010, de 16-Set,\
+    \ pela PORT.86/2011.25.02.2011.MADRP, DR.IS [40] de 25.02.2011\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/86-2011-278913
+  date: '2011-02-25'
 article_structure:
-  article_count: 3
+  article_count: 2
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:07:20Z'
   warnings: []
   errors: []
 ---
@@ -202,7 +221,9 @@ b)...
 
 7 - ...
 
-###### Artigo 3.º — [...]
+Artigo 3.º
+
+[...]
 
 1 - ...
 
@@ -223,3 +244,5 @@ e) De 17 de Fevereiro a 18 de Junho de 2010, para os pedidos de ajuda à compart
 O presente diploma produz efeitos à data de entrada em vigor do despacho normativo n.º 4/2010, de 5 de Fevereiro.
 
 5 de Abril de 2010. - Pelo Ministro da Agricultura, do Desenvolvimento Rural e das Pescas, Rui Pedro de Sousa Barreiro, Secretário de Estado das Florestas e Desenvolvimento Rural.
+
+203112638

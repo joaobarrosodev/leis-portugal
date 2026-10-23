@@ -50,45 +50,98 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/despacho-normativo/12-2010-2088047
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2013-05-24T00:00:00Z'
+  retrieved_at: '2026-10-23T15:07:22Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 21d93ea505e38b77493e7078ca364ce76eee0ba8acc76ab281c2727ce89f0498
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: ba587a26ad93110683c4ab35227b3518b099325d0ab415fbe5ca9dbc7909c99a
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:07:22Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Administração Pública
+- Ajuda Comunitária
+- Ajudas de Custo
+- Bolsa de Formação
+- Bolsa de Formação Profissional
+- Feader
+- FEDER
+- Financiamento
+- Formação Profissional
+- Formador
+- FSE
+- Função Pública
+- Gestão Administrativa
+- Mediador
+- Pessoal Administrativo
+- Pessoal Dirigente
+- Pessoal Técnico
+- QCA III
+- Subsídio de Alojamento
+- Subsídio de Refeição
+- Subsídio de Transporte
 relationships:
 - type: amended_by
   target: pt:dre:1173337:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:1332327:por
+  label: "Alterado o art. 17.º do DN n.º 4-A/2008, de 24-Jan, na redacção do presente DN, pelo DN.2/2011.11.02.2011.MEID,\
+    \ DR.IIS [30] de 11.02.2011\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/despacho-normativo/2-2011-1332327
+  date: '2011-02-11'
+- type: amended_by
+  target: pt:dre:2055562:por
+  label: "Alterado o art. 17º do DN 4-A/2008, de 24-jan, na redação do presente diploma, pelo DN.12/2012.21.05.2012.MEE, DR.IIS\
+    \ [98] de 21.05.2012\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/despacho-normativo/12-2012-2055562
+  date: '2012-05-21'
+- type: cites
+  target: pt:dre:248183:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:315566:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:426483:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:449458:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:482658:por
+  label: null
+  source: null
 article_structure:
   article_count: 3
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:07:22Z'
   warnings: []
   errors: []
 ---
 
-# Despacho Normativo n.º 12/2010
+# Despacho normativo n.º 12/2010
 
 Ao abrigo do disposto no n.º 1 do artigo 4.º do [Decreto Regulamentar n.º 84-A/2007](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/84-a-2007-426483), de 10 de Dezembro, com a redacção introduzida pelas Declarações de Rectificação n.os [3/2008](https://diariodarepublica.pt/dr/detalhe/declaracao-rectificacao/3-2008-248183) e [5-A/2008](https://diariodarepublica.pt/dr/detalhe/declaracao-rectificacao/5-a-2008-315566), de, respectivamente, 30 de Janeiro e de 8 de Fevereiro, e alterado pelo [Decreto Regulamentar n.º 13/2008](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/13-2008-449458), de 18 de Junho, foram fixados, pelo despacho normativo n.º 4-A/2008, de 24 de Janeiro, com as alterações introduzidas pelo despacho normativo n.º 12/2009, de 17 de Março, a natureza e os limites máximos dos custos considerados elegíveis para efeitos de co-financiamento pelo Fundo Social Europeu (FSE), pelo Fundo Europeu do Desenvolvimento Regional (FEDER), pelo Fundo Europeu Agrícola de Desenvolvimento Rural (FEADER) e pelo Fundo Europeu das Pescas (FEP), para o período de programação de 2007-2013.
 
@@ -135,3 +188,5 @@ O presente despacho normativo produz efeitos a 1 de Outubro de 2009.
 O presente despacho normativo entra em vigor no primeiro dia útil seguinte ao da sua publicação.
 
 13 de Maio de 2010. - O Ministro da Economia, da Inovação e do Desenvolvimento, José António Fonseca Vieira da Silva. - O Ministro da Agricultura, do Desenvolvimento Rural e das Pescas, António Manuel Soares Serrano. - A Ministra do Trabalho e da Solidariedade Social, Maria Helena dos Santos André.
+
+203266774

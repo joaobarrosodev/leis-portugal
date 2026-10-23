@@ -46,40 +46,54 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/resolucao/5-2012-1857827
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2014-06-05T00:00:00Z'
+  retrieved_at: '2026-10-23T15:15:02Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: b8cd1d96048b3fb17f55e7e80a7d9371a763bb0837bf366dbbbac43297b60df0
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 754c7d81bc0b60fa1a9d3803ec02f2fe6ee2a11ae042f80ce15ba2a743947f2f
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:15:02Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Banco de Portugal
+- Crédito
+- Mediação do Crédito
+- Mediador
+- Nomeação
 relationships:
 - type: amended_by
   target: pt:dre:25697187:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:25697187:por
+  label: "Reconduzida a nomeada pela RES.19/2014.05.06.2014.PCM, DR.IIS [108] de 05.06.2014\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/resolucao/19-2014-25697187
+  date: '2014-06-05'
+- type: cites
+  target: pt:dre:494564:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:15:02Z'
   warnings: []
   errors: []
 ---
@@ -111,3 +125,5 @@ Licenciatura em Finanças pelo Instituto Superior de Economia de Lisboa (1976), 
 Desde 1 de abril de 2002: Diretora-adjunta do ex-Departamento de Supervisão Bancária, atual Departamento de Supervisão Prudencial do Banco de Portugal.
 
 1 de fevereiro de 1979: admissão no Banco de Portugal, tendo exercido funções técnicas e de coordenação no âmbito da atividade de supervisão bancária.
+
+1192012

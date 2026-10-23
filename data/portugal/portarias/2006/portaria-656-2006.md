@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/656/2006/06/29/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/656-2006-356341
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2006-06-29T00:00:00Z'
+  retrieved_at: '2026-10-23T15:15:28Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: eeb0c0f9b795f5c05d88a1b148b2caa77749d7074191974b5096dbf998c04689
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: b62b70f68dce8ca5a74868bcf22493d29d08f29c2a839a8d57a4cbf3f6d44344
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:15:28Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,8 +66,8 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Calendário Venatório
 - CAÇA
+- Calendário Venatório
 relationships:
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/201/2005/11/24/p/dre
@@ -77,16 +77,24 @@ relationships:
   target: eli:http://data.dre.pt/eli/dec-lei/202/2004/08/18/p/dre
   label: null
   source: http://data.dre.pt/eli/dec-lei/202/2004/08/18/p/dre
+- type: cites
+  target: pt:dre:480704:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:481498:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:15:28Z'
   warnings: []
   errors: []
 ---
@@ -117,7 +125,7 @@ Manda o Governo, pelo Ministro da Agricultura, do Desenvolvimento Rural e das Pe
 
 4.º Exceptuam-se do disposto no número anterior, em terrenos cinegéticos ordenados, os limites de abate fixados para as espécies sedentárias, que obedecem ao previsto nos planos anuais de exploração no caso de ZCM ou nos planos de ordenamento e exploração cinegética, no caso de ZCA e ZCT.
 
-**O Ministro da Agricultura, do Desenvolvimento Rural e das Pescas, Jaime de Jesus Lopes Silva, em 14 de Junho de 2006.**
+O Ministro da Agricultura, do Desenvolvimento Rural e das Pescas, Jaime de Jesus Lopes Silva, em 14 de Junho de 2006.
 
 ## ANEXO I — Espécies migratórias
 
@@ -125,7 +133,7 @@ Terrenos ordenados e não ordenados
 
 Rola-comum; patos (pato-real, marrequinha, frisada, marreco, arrabio, pato-trombeteiro, piadeira, zarro-negrinha); galeirão-comum; galinha-d'água; pombos (pombo-bravo, pombo-torcaz, pombo-da-rocha), cordoniz; tarambola-dourada; galinhola; narcejas (narceja-comum e narceja-galega); tordos (tordo-comum, tordo-ruivo, tordo-zornal e tordeia); estorninho-malhado.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2006/06/124b00/46244625.pdf))](https://files.diariodarepublica.pt/1s/2006/06/124b00/46244625.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2006/06/124b00/46244625.pdf)
 
 ## ANEXO II — Espécies sedentárias
 
@@ -133,7 +141,7 @@ Terrenos ordenados
 
 Perdiz-vermelha; faisão; coelho-bravo; lebre; raposa; saca-rabos; javali; veado; gamo; corço; muflão.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2006/06/124b00/46244625.pdf))](https://files.diariodarepublica.pt/1s/2006/06/124b00/46244625.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2006/06/124b00/46244625.pdf)
 
 ## ANEXO III — Espécies sedentárias
 
@@ -141,4 +149,4 @@ Terrenos não ordenados
 
 Perdiz-vermelha; coelho-bravo; lebre; raposa; saca-rabos; javali; veado; gamo; corço; muflão.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2006/06/124b00/46244625.pdf))](https://files.diariodarepublica.pt/1s/2006/06/124b00/46244625.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2006/06/124b00/46244625.pdf)

@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/10/2007/01/04/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/10-2007-262314
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2009-04-01T00:00:00Z'
+  retrieved_at: '2026-10-23T15:17:33Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 5aa9af710c07cc91894e88e26929c5953d6fd3b9d3aea6d02af01792d0a3d088
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 1b029df45d1d8a2c4681d09e06949fa9bbc1a1b58b972505c587f06b2c28fad5
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:17:33Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -68,26 +68,43 @@ subjects:
 - Cobrança de Impostos
 - Código do IRS
 - Declaração de Rendimentos
-- Impresso
-- IRS
 - Documento Eletrónico
-- Programa Simplex
+- Impresso
 - Internet
+- IRS
+- Programa Simplex
 relationships:
 - type: amended_by
   target: pt:dre:602484:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:443875:por
+  label: "Mantidos em vigor os modelos de impressos, e respectivas instruções de preenchimento, dos anexos G1 e I e mantido\
+    \ em vigor o modelo de impresso, mas com novas instruções de preenchimento, do anexo F, pela PORT.1448/2008.16.12.2008.MFAP,\
+    \ DR.IS [242] de 16.12.2008\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/1448-2008-443875
+  date: '2008-12-16'
+- type: amended_by
+  target: pt:dre:602484:por
+  label: "Mantido em vigor, para o cumprimento da obrigação declarativa em papel, o modelo de impresso do anexo I, pela PORT.333-A/2009.01.04.2009.MFAP,\
+    \ DR.IS [64-Supl] de 01.04.2009\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/333-a-2009-602484
+  date: '2009-04-01'
+- type: cites
+  target: pt:dre:518992:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:17:33Z'
   warnings: []
   errors: []
 ---
@@ -152,4 +169,4 @@ c) Efectuar o envio de acordo com os procedimentos indicados na referida página
 
 Pelo Ministro de Estado e das Finanças, Emanuel Augusto dos Santos, Secretário de Estado Adjunto e do Orçamento, em 2 de Janeiro de 2007.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2007/01/00300/00190034.pdf))](https://files.diariodarepublica.pt/1s/2007/01/00300/00190034.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2007/01/00300/00190034.pdf)

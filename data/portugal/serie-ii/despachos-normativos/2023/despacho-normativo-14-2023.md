@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/2s/2023/11/223000000/0007000075.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -46,40 +46,75 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/despacho-normativo/14-2023-224427118
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2024-01-05T00:00:00Z'
+  retrieved_at: '2026-10-23T15:09:00Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 4872a5ebb76033df1d18bb74ebb37964aa763079fcbd4ae096185f76ee255661
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 106ee8d5ec7def65f1cef635a62337e5babd4002f3f698dca185831d1929114a
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:09:00Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Aljezur
+- Castelo Branco
+- Desenvolvimento Local
+- Financiamento
+- Linha + Interior Turismo
+- Linha de financiamento
+- Monchique
+- Odemira
+- Política Orçamental
+- Proença-a-nova
+- Projeto de Investimento
+- Regulamento
+- Turismo de Portugal
 relationships:
 - type: amended_by
   target: pt:dre:836147187:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:836147187:por
+  label: Alterado, a partir de 5 de janeiro de 2024, o artigo 6.º pelo(a) Despacho Normativo n.º 1/2024 - Diário da República
+    n.º 4/2024, Série II de 2024-01-05
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/despacho-normativo/1-2024-836147187
+  date: '2024-01-05'
+- type: cites
+  target: pt:dre:205312555:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:213132360:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:223700463:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:519402:por
+  label: null
+  source: null
 article_structure:
   article_count: 19
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:09:00Z'
   warnings: []
   errors: []
 ---
@@ -291,3 +326,5 @@ b) Verificação física do projeto por parte do Turismo de Portugal, I. P., ou 
 3 - A função de controlo e auditoria visa assegurar que os recursos financeiros são utilizados de acordo com os seus objetivos, devendo o Turismo de Portugal, I. P., desencadear todas as ações que, neste contexto, se revelem adequadas, numa base amostral de controlo e de auditoria sobre as operações.
 
 4 - Para efeitos de acompanhamento da execução física dos projetos, o Turismo de Portugal, I. P., pode estabelecer um protocolo de colaboração com as entidades regionais de turismo, cuja minuta é homologada pelo membro do Governo com tutela sobre o turismo.
+
+317027394

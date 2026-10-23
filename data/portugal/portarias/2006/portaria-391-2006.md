@@ -49,18 +49,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/391/2006/04/24/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/391-2006-661557
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2006-05-22T00:00:00Z'
+  retrieved_at: '2026-10-23T15:13:49Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: bcb1f73ee7809261cd5f328d40d2bdc3ef8bdb983255c003b2e66e0328f8a8d0
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 5f0d267d5ee27ae75b40a01ffa35d1972e08ac7bd90f46bb49e16955c16510ec
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:13:49Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -68,27 +68,34 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Ajuda Comunitária
-- Avicultura
-- Gado Caprino
-- Apoio ao Investimento
-- Projeto de Investimento
-- Gado Bovino
-- Gado Suíno
-- Ave de Capoeira
-- Pagamento
-- Gado Ovino
-- Gado Equino
-- Regulamento
-- Programa AGRO
-- Medida Agris
-- Pecuária
 - Agricultura
+- Ajuda Comunitária
+- Apoio ao Investimento
+- Ave de Capoeira
+- Avicultura
+- Gado Bovino
+- Gado Caprino
+- Gado Equino
+- Gado Ovino
+- Gado Suíno
+- Medida Agris
+- Pagamento
+- Pecuária
+- Programa AGRO
+- Projeto de Investimento
+- Regulamento
 relationships:
 - type: amended_by
   target: pt:dre:632903:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:632903:por
+  label: "Aditado o art. 4º-A ao Regulamento do Regime de Ajudas à Preservação e Melhoramento Genético das Raças Autóctones,\
+    \ Raças Exóticas e Raça Bovina Frísia aprovado pela Port 1109-A/2000 de 27-Nov, republicado pelo presente diploma, pela\
+    \ PORT.467/2006.22.05.2006.MAOTDR, DR.IS-B [98] de 22.05.2006\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/467-2006-632903
+  date: '2006-05-22'
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/163-a/2000/07/27/p/dre
   label: null
@@ -113,16 +120,40 @@ relationships:
   target: eli:http://data.dre.pt/eli/port/978/2004/08/03/p/dre
   label: null
   source: http://data.dre.pt/eli/port/978/2004/08/03/p/dre
+- type: cites
+  target: pt:dre:220892:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:249799:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:315519:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:514999:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:554462:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:583007:por
+  label: null
+  source: null
 article_structure:
-  article_count: 14
+  article_count: 13
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:13:49Z'
   warnings: []
   errors: []
 ---
@@ -155,7 +186,9 @@ Manda o Governo, pelos Ministros do Ambiente, do Ordenamento do Território e do
 
 4 - No caso das candidaturas relativas à raça bovina Frísia, as acções elegíveis e respectivos níveis de ajuda são apenas os constantes do anexo II ao presente Regulamento e que dele faz parte integrante.
 
-###### Artigo 5.º — [...]
+Artigo 5.º
+
+[...]
 
 1 - Os processos de candidatura às ajudas são entregues até 30 de Novembro de cada ano nas direcções regionais de agricultura, adiante designadas por DRA, da área de localização das explorações onde se encontrem os efectivos sobre os quais vão incidir as acções elegíveis.
 
@@ -189,11 +222,11 @@ j) Plano plurianual de melhoramento da raça ou raças visadas na candidatura, p
 
 ## ANEXO I — (a que se refere o n.º 3 do artigo 3.º)
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2006/04/080b00/28922896.pdf))](https://files.diariodarepublica.pt/1s/2006/04/080b00/28922896.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2006/04/080b00/28922896.pdf)
 
 ## ANEXO II — (a que se refere o n.º 4 do artigo 3.º)
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2006/04/080b00/28922896.pdf))](https://files.diariodarepublica.pt/1s/2006/04/080b00/28922896.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2006/04/080b00/28922896.pdf)
 
 3.º É revogado o artigo 12.º do Regulamento do Regime de Ajudas à Preservação e Melhoramento Genético das Raças Autóctones, Raças Exóticas e Raça Bovina Frísia, da subacção n.º 4.2, «Desenvolvimento de outros serviços à agricultura», da acção n.º 4, «Serviços à agricultura», da medida AGRIS, aprovado pela [Portaria n.º 1109-A/2000](https://diariodarepublica.pt/dr/detalhe/portaria/1109-a-2000-554462), de 27 de Novembro.
 
@@ -203,7 +236,7 @@ j) Plano plurianual de melhoramento da raça ou raças visadas na candidatura, p
 
 Em 10 de Março de 2006.
 
-**O Ministro do Ambiente, do Ordenamento do Território e do Desenvolvimento Regional, Francisco Carlos da Graça Nunes Correia. - O Ministro da Agricultura, do Desenvolvimento Rural e das Pescas, Jaime de Jesus Lopes Silva.**
+O Ministro do Ambiente, do Ordenamento do Território e do Desenvolvimento Regional, Francisco Carlos da Graça Nunes Correia. - O Ministro da Agricultura, do Desenvolvimento Rural e das Pescas, Jaime de Jesus Lopes Silva.
 
 ## ANEXO
 
@@ -331,10 +364,10 @@ As normas técnicas que regulam a organização e articulação entre as várias
 
 (a que se refere o n.º 3 do artigo 3.º)
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2006/04/080b00/28922896.pdf))](https://files.diariodarepublica.pt/1s/2006/04/080b00/28922896.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2006/04/080b00/28922896.pdf)
 
 ## ANEXO II — Raça bovina Frísia
 
 (a que se refere o n.º 4 do artigo 3.º)
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2006/04/080b00/28922896.pdf))](https://files.diariodarepublica.pt/1s/2006/04/080b00/28922896.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2006/04/080b00/28922896.pdf)

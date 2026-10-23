@@ -20,12 +20,12 @@ publication:
   reference: Diário da República n.º 71/2014, 3º Suplemento, Série II de 2014-04-10
   number: '71'
   series: II
-  supplement: 3º Suplemento
+  supplement: null
   pages: 10104-(9) a 10104-(31)
   pdf_url: https://files.diariodarepublica.pt/2s/2014/04/071000003/0000900031.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -47,45 +47,178 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/despacho-normativo/5-a-2014-25701404
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2015-03-05T00:00:00Z'
+  retrieved_at: '2026-10-23T15:07:54Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: fec6885d307f8c3630e5aa244b5e005ffcd6b077a8d7de6a2bccb533f6050037
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 9e306521c9aebb60bf8da5dddb8b0019880f87efb8a4a78c9396d7bf21e1c10b
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:07:54Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Avaliação de Conhecimentos
+- Ensino Básico
+- Ensino Secundário
+- JURI
+- JURI Nacional de Exames
+- Regulamento
+- Sistema Educativo
 relationships:
 - type: amended_by
   target: pt:dre:66679748:por
   label: Última alteração registada na importação inicial
   source: null
+- type: cites
+  target: pt:dre:1280122:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:1294329:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:145195:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:174840:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:178548:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:1828803:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:1847070:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:210801:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:2285299:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:259964:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:292692:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:292693:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:302500:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:302501:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:302502:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:316935:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:3487516:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:3602819:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:386871:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:430060:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:430061:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:458607:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:482392:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:490957:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:497860:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:544383:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:587624:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:604850:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:628859:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:652897:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:66679748:por
+  label: Revogado o presente despacho, pelo(a) Despacho Normativo n.º 6-A/2015 - Diário da República n.º 45/2015, 1º Suplemento,
+    Série II de 2015-03-05
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/despacho-normativo/6-a-2015-66679748
+  date: '2015-03-05'
 article_structure:
   article_count: 61
   section_count: 5
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:07:54Z'
   warnings: []
   errors: []
 ---
 
-# Despacho Normativo n.º 5-A/2014
+# Despacho normativo n.º 5-A/2014
 
 A Direção-Geral da Educação (DGE) do Ministério da Educação e Ciência, cuja orgânica foi aprovada pelo [Decreto-Lei n.º 14/2012](https://diariodarepublica.pt/dr/detalhe/decreto-lei/14-2012-544383), de 20 de janeiro, integra o Júri Nacional de Exames (JNE), sem prejuízo da sua autonomia técnica, o qual tem por atribuição organizar, coordenar e planificar o processo de avaliação externa da aprendizagem, o processo de realização das provas de equivalência à frequência dos ensinos básico e secundário, bem como a validação das condições de acesso dos alunos à realização de provas e exames e consequente certificação dos seus currículos.
 
@@ -473,7 +606,7 @@ c) No 1.º ou no 2.º ciclo, estejam a frequentar ou tenham concluído percursos
 
 9 - As provas finais de ciclo são cotadas na escala percentual de 0 a 100, sendo a classificação final da prova convertida na escala de níveis de 1 a 5, de acordo com a seguinte tabela:
 
-[([ver documento original](https://files.diariodarepublica.pt/2s/2014/04/071000003/0000900031.pdf))](https://files.diariodarepublica.pt/2s/2014/04/071000003/0000900031.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/2s/2014/04/071000003/0000900031.pdf)
 
 10 - As provas finais dos 1.º e 2.º ciclos, tipo e duração, constam do quadro I, anexo ao presente Regulamento e do qual faz parte integrante.
 
@@ -1339,7 +1472,7 @@ Tipo de prova em cada disciplina e respetiva duração
 
 (a que se refere o n.º 10 do artigo 8.º e o n.º 7 do artigo 12.º do Regulamento das Provas e dos Exames do Ensino Básico e do Ensino Secundário)
 
-[([ver documento original](https://files.diariodarepublica.pt/2s/2014/04/071000003/0000900031.pdf))](https://files.diariodarepublica.pt/2s/2014/04/071000003/0000900031.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/2s/2014/04/071000003/0000900031.pdf)
 
 (*) Todas as provas finais dos 1.º, 2.º e 3.º ciclos têm tolerância de trinta minutos.
 
@@ -1355,19 +1488,19 @@ A - 1.º Ciclo do Ensino Básico
 
 Tipo de prova em cada disciplina e respetiva duração
 
-[([ver documento original](https://files.diariodarepublica.pt/2s/2014/04/071000003/0000900031.pdf))](https://files.diariodarepublica.pt/2s/2014/04/071000003/0000900031.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/2s/2014/04/071000003/0000900031.pdf)
 
 B - 2.º Ciclo do Ensino Básico
 
 Tipo de prova em cada disciplina e respetiva duração
 
-[([ver documento original](https://files.diariodarepublica.pt/2s/2014/04/071000003/0000900031.pdf))](https://files.diariodarepublica.pt/2s/2014/04/071000003/0000900031.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/2s/2014/04/071000003/0000900031.pdf)
 
 C - 3.º Ciclo do Ensino Básico
 
 Tipos de provas em cada disciplina e respetiva duração
 
-[([ver documento original](https://files.diariodarepublica.pt/2s/2014/04/071000003/0000900031.pdf))](https://files.diariodarepublica.pt/2s/2014/04/071000003/0000900031.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/2s/2014/04/071000003/0000900031.pdf)
 
 Nota: Nos 1.º, 2.º e 3.º ciclos do ensino básico, as provas de equivalência à frequência podem ser de um dos seguintes tipos, de acordo com as características de cada disciplina e em função de parâmetros previamente definidos:
 
@@ -1387,17 +1520,17 @@ Tipo de prova em cada disciplina e respetiva duração
 
 A) CURSOS CIENTÍFICO-HUMANÍSTICOS
 
-[([ver documento original](https://files.diariodarepublica.pt/2s/2014/04/071000003/0000900031.pdf))](https://files.diariodarepublica.pt/2s/2014/04/071000003/0000900031.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/2s/2014/04/071000003/0000900031.pdf)
 
 B) CURSOS TECNOLÓGICOS
 
-[([ver documento original](https://files.diariodarepublica.pt/2s/2014/04/071000003/0000900031.pdf))](https://files.diariodarepublica.pt/2s/2014/04/071000003/0000900031.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/2s/2014/04/071000003/0000900031.pdf)
 
 Nota: A componente prática das provas escritas com componente prática tem uma tolerância de 30 minutos.
 
 C) CURSOS DE ENSINO ARTÍSTICO ESPECIALIZADO
 
-[([ver documento original](https://files.diariodarepublica.pt/2s/2014/04/071000003/0000900031.pdf))](https://files.diariodarepublica.pt/2s/2014/04/071000003/0000900031.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/2s/2014/04/071000003/0000900031.pdf)
 
 QUADRO IV
 
@@ -1405,7 +1538,7 @@ PROVA ESCRITA COM COMPONENTE PRÁTICA - PERCENTAGENS A ATRIBUIR À COMPONENTE PR
 
 (a que se refere o n.º 2 do artigo 25.º do Regulamento das Provas e dos Exames do Ensino Básico e do Ensino Secundário)
 
-[([ver documento original](https://files.diariodarepublica.pt/2s/2014/04/071000003/0000900031.pdf))](https://files.diariodarepublica.pt/2s/2014/04/071000003/0000900031.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/2s/2014/04/071000003/0000900031.pdf)
 
 QUADRO V
 
@@ -1415,6 +1548,6 @@ EXAMES FINAIS NACIONAIS
 
 Tipo de prova em cada disciplina e respetiva duração
 
-[([ver documento original](https://files.diariodarepublica.pt/2s/2014/04/071000003/0000900031.pdf))](https://files.diariodarepublica.pt/2s/2014/04/071000003/0000900031.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/2s/2014/04/071000003/0000900031.pdf)
 
 Nota: Os alunos que frequentam as disciplinas bienais da componente de formação específica de Inglês (iniciação), Francês (iniciação), Espanhol (continuação) e Alemão (continuação) realizam exames a nível de escola equivalentes a exames nacionais para efeitos do cálculo da classificação final de disciplina, o qual se efetua conforme o previsto no artigo 21.º Estes exames não são válidos como provas de ingresso no ensino superior.207757309

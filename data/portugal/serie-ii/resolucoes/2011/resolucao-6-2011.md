@@ -47,40 +47,59 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/resolucao/6-2011-3548150
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2011-05-23T00:00:00Z'
+  retrieved_at: '2026-10-23T15:14:47Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: e2ec67f74bd1121ffef7ee6be9f89bd7097272146c99bd8510d7a8fc0cd6609c
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 8202bbfbc5a6c56a44f47a273cfba20e4ff298d9365d8867c872e78f0a58940d
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:14:47Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Azambuja
+- Comissão Nacional de Protecção Civil
+- Faro
+- Plano de Emergência
+- Proteção Civil
+- VILA Pouca de Aguiar
 relationships:
 - type: amended_by
   target: pt:dre:2086556:por
   label: Última alteração registada na importação inicial
   source: null
+- type: cites
+  target: pt:dre:3086255:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:537862:por
+  label: null
+  source: null
+- type: corrected_by
+  target: pt:dre:2086556:por
+  label: "Rectificado o parág. 3º pela DECL-RECT.883/2011.23.05.2011.CNPC-MAI, DR.IIS [99] de 23.05.2011\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/declaracao-rectificacao/883-2011-2086556
+  date: '2011-05-23'
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:14:47Z'
   warnings: []
   errors: []
 ---
@@ -98,3 +117,5 @@ Assim, nos termos da citada norma da Lei de Bases de Protecção Civil e no resp
 Os referidos Planos de Emergência Externos entram em vigor no primeiro dia útil seguinte à publicação da presente Resolução no Diário da República, nos termos do n.º 12 do artigo 4.º da [Resolução n.º 25/2008](https://diariodarepublica.pt/dr/detalhe/resolucao/25-2008-3086255), de 18 de Julho, da Comissão Nacional de Protecção Civil.
 
 19 de Abril de 2011. - O Presidente da Comissão Nacional de Protecção Civil, Vasco Seixas Duarte Franco.
+
+204607275

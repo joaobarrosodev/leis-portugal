@@ -20,12 +20,12 @@ publication:
   reference: Diário da República n.º 137/2009, 2º Suplemento, Série II de 2009-07-17
   number: '137'
   series: II
-  supplement: 2º Suplemento
+  supplement: null
   pages: 28250-(4) a 28250-(4)
   pdf_url: https://files.diariodarepublica.pt/2s/2009/07/137000002/0000400004.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -47,25 +47,40 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/despacho-normativo/26-b-2009-2819045
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2015-02-27T00:00:00Z'
+  retrieved_at: '2026-10-23T15:07:15Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 7abe0e5fc66c657f43eeace33eb5ca21b523bec8f2665a982550ad2dc5f0f35c
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 5abe7149eac61286ef8162a8d253574bca632e7830c1d67bc890c0c74000a6b2
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:07:15Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Ajuda Comunitária
+- Definição de Competências
+- Exploração Agrícola
+- Financiamento
+- Gabinete de Planeamento e Política Agro-alimentar
+- Gado Bovino
+- Instituto de Desenvolvimento Rural e Hidráulica
+- Instituto Nacional de Intervenção e Garantia Agrícola
+- Leite
+- Orientação Agrícola
+- Política Agrícola Comum
+- Prémio aos Produtores de Vacas Aleitantes
+- Produção Leiteira
+- Projeto de Investimento
+- Quota de Produção
 relationships:
 - type: amended_by
   target: pt:dre:66619896:por
@@ -75,21 +90,31 @@ relationships:
   target: celex:32009R0073
   label: null
   source: null
+- type: cites
+  target: pt:dre:465231:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:66619896:por
+  label: Revogado, a partir de 28.02.2015, o DN 55/2005 de 20-dez, alterado pelo presente diploma, pelo(a) Portaria n.º 57/2015
+    - Diário da República n.º 41/2015, Série I de 2015-02-27
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/57-2015-66619896
+  date: '2015-02-27'
 article_structure:
   article_count: 2
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:07:15Z'
   warnings: []
   errors: []
 ---
 
-# Despacho Normativo n.º 26-B/2009
+# Despacho normativo n.º 26-B/2009
 
 Os produtores que pretendem proceder à reconversão das suas explorações de bovinos de leite, em vacas aleitantes, podem apresentar candidatura à reserva nacional para o prémio por vaca em aleitamento. Para o efeito, devem comprometer-se a abandonar a produção leiteira, até à data de termo da campanha em curso, conforme o disposto no artigo 6.º do [Despacho Normativo n.º 55/2005](https://diariodarepublica.pt/dr/detalhe/despacho-normativo/55-2005-465231), de 20 de Dezembro, beneficiando assim de 3 pontos aquando da referida atribuição de direitos.
 
@@ -122,3 +147,5 @@ Reconversão da produção leiteira
 A presente alteração retroage os seus efeitos à campanha de 2007-2008.
 
 14 de Julho de 2009. - O Secretário de Estado Adjunto, da Agricultura e das Pescas, Luís Medeiros Vieira.
+
+202048477

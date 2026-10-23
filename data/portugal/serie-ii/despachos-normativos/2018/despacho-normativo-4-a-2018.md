@@ -20,12 +20,12 @@ publication:
   reference: Diário da República n.º 32/2018, 1º Suplemento, Série II de 2018-02-14
   number: '32'
   series: II
-  supplement: 1º Suplemento
+  supplement: null
   pages: 5056-(2) a 5056-(25)
   pdf_url: https://files.diariodarepublica.pt/2s/2018/02/032000001/0000200025.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -47,40 +47,213 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/despacho-normativo/4-a-2018-114698718
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2019-02-26T00:00:00Z'
+  retrieved_at: '2026-10-23T15:08:25Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 87e72663a31d4a928cc3ec3162297e2bd6169174fb3303df59096fb1ae3c40c5
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 7ed6caae7c2482669cfbc3c568ef9b1f1947723aa4ebef4f3516325f2321bb54
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:08:25Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Avaliação de Conhecimentos
+- Concurso Nacional de Acesso
+- Concurso Nacional de Acesso e Ingresso
+- Currículo Nacional
+- Definição de Competências
+- Diploma
+- Direção Geral dos Estabelecimentos Escolares
+- Ensino Básico
+- Ensino Cooperativo
+- Ensino no Estrangeiro
+- Ensino Oficial
+- Ensino Particular
+- Ensino Português no Estrangeiro
+- Ensino Secundário
+- Equivalência de Habilitações Literárias
+- Estabelecimento de Ensino
+- Exame
+- JURI Nacional de Exames
+- Plano de Estudos
+- Prova de Aferição
+- Prova de Ingresso
+- Regulamento
+- Sistema Educativo
 relationships:
 - type: amended_by
   target: pt:dre:120329893:por
   label: Última alteração registada na importação inicial
   source: null
+- type: cites
+  target: pt:dre:107791610:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:1400595:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:174840:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:1762633:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:178548:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:210801:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:249230:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:259964:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:2824963:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:292692:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:292693:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:302500:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:302501:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:302502:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:3200631:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:3437405:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:386871:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:430060:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:430061:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:458607:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:490957:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:497860:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:516044:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:587624:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:628859:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:64297587:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:66030796:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:66041468:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:67401230:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:67401231:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:67591181:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:70361628:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:73203130:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:73798876:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:74007250:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:74059570:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:120329893:por
+  label: Revogado, com efeitos a partir do ano escolar de 2018-2019, pelo(a) Despacho Normativo n.º 3-A/2019 - Diário da República
+    n.º 40/2019, 1º Suplemento, Série II de 2019-02-26
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/despacho-normativo/3-a-2019-120329893
+  date: '2019-02-26'
 article_structure:
   article_count: 47
   section_count: 11
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:08:25Z'
   warnings: []
   errors: []
 ---
@@ -1225,19 +1398,19 @@ QUADRO I
 
 Prazos de inscrição para as provas de equivalência à frequência dos 1.º e 2.º ciclos do ensino básico - 2018
 
-[([ver documento original](https://files.diariodarepublica.pt/2s/2018/02/032000001/0000200025.pdf))](https://files.diariodarepublica.pt/2s/2018/02/032000001/0000200025.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/2s/2018/02/032000001/0000200025.pdf)
 
 QUADRO II
 
 Prazos de inscrição para as provas finais e provas de equivalência à frequência do 3.º ciclo do ensino básico - 2018
 
-[([ver documento original](https://files.diariodarepublica.pt/2s/2018/02/032000001/0000200025.pdf))](https://files.diariodarepublica.pt/2s/2018/02/032000001/0000200025.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/2s/2018/02/032000001/0000200025.pdf)
 
 QUADRO III
 
 Prazos de inscrição para os exames finais nacionais e provas de equivalência à frequência do ensino secundário - 2018
 
-[([ver documento original](https://files.diariodarepublica.pt/2s/2018/02/032000001/0000200025.pdf))](https://files.diariodarepublica.pt/2s/2018/02/032000001/0000200025.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/2s/2018/02/032000001/0000200025.pdf)
 
 QUADRO IV
 
@@ -1245,7 +1418,7 @@ Provas de aferição do ensino básico - 2018
 
 Tipo de prova e respetiva duração
 
-[([ver documento original](https://files.diariodarepublica.pt/2s/2018/02/032000001/0000200025.pdf))](https://files.diariodarepublica.pt/2s/2018/02/032000001/0000200025.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/2s/2018/02/032000001/0000200025.pdf)
 
 QUADRO V
 
@@ -1253,7 +1426,7 @@ Provas finais do ensino básico - 2018
 
 Tipo de prova e respetiva duração
 
-[([ver documento original](https://files.diariodarepublica.pt/2s/2018/02/032000001/0000200025.pdf))](https://files.diariodarepublica.pt/2s/2018/02/032000001/0000200025.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/2s/2018/02/032000001/0000200025.pdf)
 
 QUADRO VI
 
@@ -1263,19 +1436,19 @@ Tabela A - 1.º Ciclo do Ensino Básico
 
 Tipo de prova e respetiva duração
 
-[([ver documento original](https://files.diariodarepublica.pt/2s/2018/02/032000001/0000200025.pdf))](https://files.diariodarepublica.pt/2s/2018/02/032000001/0000200025.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/2s/2018/02/032000001/0000200025.pdf)
 
 Tabela B - 2.º Ciclo do Ensino Básico
 
 Tipo de prova e respetiva duração
 
-[([ver documento original](https://files.diariodarepublica.pt/2s/2018/02/032000001/0000200025.pdf))](https://files.diariodarepublica.pt/2s/2018/02/032000001/0000200025.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/2s/2018/02/032000001/0000200025.pdf)
 
 Tabela C - 3.º Ciclo do Ensino Básico
 
 Tipo de provas e respetiva duração
 
-[([ver documento original](https://files.diariodarepublica.pt/2s/2018/02/032000001/0000200025.pdf))](https://files.diariodarepublica.pt/2s/2018/02/032000001/0000200025.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/2s/2018/02/032000001/0000200025.pdf)
 
 QUADRO VII
 
@@ -1283,13 +1456,13 @@ Exames finais nacionais do ensino secundário - 2018
 
 Tipo de prova e respetiva duração
 
-[([ver documento original](https://files.diariodarepublica.pt/2s/2018/02/032000001/0000200025.pdf))](https://files.diariodarepublica.pt/2s/2018/02/032000001/0000200025.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/2s/2018/02/032000001/0000200025.pdf)
 
 QUADRO VIII
 
 Exames a nível de escola equivalentes a exames finais nacionais para efeitos de conclusão do ensino secundário - 2018
 
-[([ver documento original](https://files.diariodarepublica.pt/2s/2018/02/032000001/0000200025.pdf))](https://files.diariodarepublica.pt/2s/2018/02/032000001/0000200025.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/2s/2018/02/032000001/0000200025.pdf)
 
 QUADRO IX
 
@@ -1297,7 +1470,7 @@ Provas de equivalência à frequência dos cursos científico-humanísticos do e
 
 Tipo de prova e respetiva duração
 
-[([ver documento original](https://files.diariodarepublica.pt/2s/2018/02/032000001/0000200025.pdf))](https://files.diariodarepublica.pt/2s/2018/02/032000001/0000200025.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/2s/2018/02/032000001/0000200025.pdf)
 
 QUADRO X
 
@@ -1305,13 +1478,13 @@ Provas de equivalência à frequência dos cursos tecnológicos do ensino secund
 
 Tipo de prova e respetiva duração
 
-[([ver documento original](https://files.diariodarepublica.pt/2s/2018/02/032000001/0000200025.pdf))](https://files.diariodarepublica.pt/2s/2018/02/032000001/0000200025.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/2s/2018/02/032000001/0000200025.pdf)
 
 QUADRO XI
 
 Ponderação das componentes escrita e prática das provas de equivalência à frequência dos cursos científico-humanísticos - 2018
 
-[([ver documento original](https://files.diariodarepublica.pt/2s/2018/02/032000001/0000200025.pdf))](https://files.diariodarepublica.pt/2s/2018/02/032000001/0000200025.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/2s/2018/02/032000001/0000200025.pdf)
 
 QUADRO XII
 
@@ -1319,4 +1492,6 @@ Provas de equivalência à frequência dos cursos do ensino artístico especiali
 
 Tipo de prova e respetiva duração
 
-[([ver documento original](https://files.diariodarepublica.pt/2s/2018/02/032000001/0000200025.pdf))](https://files.diariodarepublica.pt/2s/2018/02/032000001/0000200025.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/2s/2018/02/032000001/0000200025.pdf)
+
+311131402

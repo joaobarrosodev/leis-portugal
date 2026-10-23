@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/403/2006/04/26/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/403-2006-661281
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2006-04-26T00:00:00Z'
+  retrieved_at: '2026-10-23T15:13:56Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: b2dd6a3f3a02c2b18ee2ab5123c7d152b453b656c6b7a7b60bd8fd9e2b322701
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 3b69eac8d7ddedd4aeeb248249f5e8aa9eb8be638f34c55a165c9a281c8541d3
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:13:56Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,10 +66,17 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Plano de Estudos
 - Curso de Especialização
 - Escola Superior de Enfermagem de Bissaya Barreto
+- Plano de Estudos
 relationships:
+- type: amended_by
+  target: pt:dre:107773646:por
+  label: Alterado o plano de estudos da pós-licenciatura em Enfermagem de Saúde Materna e Obstetrícia da Escola Superior de
+    Enfermagem de Coimbra, aprovado pelo presente diploma, pelo(a) Portaria n.º 233/2017 - Diário da República n.º 145/2017,
+    Série I de 2017-07-28
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/233-2017-107773646
+  date: '2017-07-28'
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/353/1999/09/03/p/dre
   label: null
@@ -82,16 +89,28 @@ relationships:
   target: eli:http://data.dre.pt/eli/resolconsmin/116/2002/10/02/p/dre
   label: null
   source: http://data.dre.pt/eli/resolconsmin/116/2002/10/02/p/dre
+- type: cites
+  target: pt:dre:265299:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:582195:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:644708:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:13:56Z'
   warnings: []
   errors: []
 ---
@@ -156,10 +175,10 @@ Vagas para o ano lectivo de 2005-2006
 
 O número de vagas para a candidatura à matrícula e inscrição no curso no ano lectivo de 2005-2006 é fixado em 30.
 
-**O Ministro da Ciência, Tecnologia e Ensino Superior, José Mariano Rebelo Pires Gago, em 31 de Março de 2006.**
+O Ministro da Ciência, Tecnologia e Ensino Superior, José Mariano Rebelo Pires Gago, em 31 de Março de 2006.
 
 ## ANEXO — Escola Superior de Enfermagem de Bissaya Barreto
 
 Curso de pós-licenciatura de especialização em Enfermagem de Saúde Materna e Obstetrícia
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2006/04/081b00/29222923.pdf))](https://files.diariodarepublica.pt/1s/2006/04/081b00/29222923.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2006/04/081b00/29222923.pdf)

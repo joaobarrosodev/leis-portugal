@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/2s/2019/11/217000000/0008300084.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -46,36 +46,52 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/despacho-normativo/24-2019-126061002
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2019-11-12T00:00:00Z'
+  retrieved_at: '2026-10-23T15:08:34Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: fef8894cd1eb117dd0167c473a44f7e9fd4133bd49b955b1c0b158540a0ad7b5
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: ae5501699ecdf4f54d2a150ce935d288074ed0bd22ee62f5b7b3c49c555f79cc
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:08:34Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
-relationships: []
+subjects:
+- Castelo Branco
+- Estatuto
+- Homologação
+- Instituto Politécnico
+relationships:
+- type: cites
+  target: pt:dre:1489836:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:603476:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:640339:por
+  label: null
+  source: null
 article_structure:
-  article_count: 2
-  section_count: 1
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  article_count: 0
+  section_count: 0
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:08:34Z'
   warnings: []
   errors: []
 ---
@@ -118,7 +134,9 @@ Designação e qualificação
 
 5 - Esta disposição produz efeitos a 1 de janeiro de 2018.
 
-###### Artigo 66.º — Designação e qualificação do administrador
+Artigo 66.º
+
+Designação e qualificação do administrador
 
 1 - O administrador dos Serviços de Ação Social é escolhido entre pessoas com saber e experiência na área da gestão, com competência para a gestão corrente dos Serviços de Ação Social do IPCB e para a coordenação dos serviços, sob direção do presidente.
 
@@ -130,9 +148,13 @@ Designação e qualificação
 
 5 - Esta disposição produz efeitos a 1 de janeiro de 2018.
 
-### CAPÍTULO VII — Serviços
+CAPÍTULO VII
 
-###### Artigo 72.º — Conceito e coordenação
+Serviços
+
+Artigo 72.º
+
+Conceito e coordenação
 
 1 - [...]
 
@@ -143,3 +165,5 @@ Designação e qualificação
 4 - O cargo de Coordenador de Serviços é qualificado como cargo de direção intermédia de 3.º e 4.º grau, aplicando-se-lhe o disposto na [Lei n.º 2/2004](https://diariodarepublica.pt/dr/detalhe/lei/2-2004-603476), de 15 de janeiro, que aprova o Estatuto do Pessoal Dirigente dos Serviços e Organismos da Administração Central, Regional e Local do Estado, na sua redação atual.
 
 5 - Os Coordenadores de Serviços exercem as suas funções de acordo com as orientações que lhes forem fixadas, com integral respeito pelos princípios legais e regulamentares em vigor e com as orientações estratégicas institucionalmente definidas, competindo-lhes a distribuição de tarefas pela equipa de trabalho que coordenam, bem como propor planos de formação específicos, assegurar a gestão da assiduidade, a avaliação de desempenho e a elaboração e implementação de medidas de melhoria dos serviços.»
+
+312703176

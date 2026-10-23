@@ -20,7 +20,7 @@ publication:
   reference: Diário da República n.º 32/2006, 1º Suplemento, Série I-B de 2006-02-14
   number: '32'
   series: I
-  supplement: 1º Suplemento
+  supplement: null
   pages: 1180-(2) a 1180-(13)
   pdf_url: https://files.diariodarepublica.pt/1s/2006/02/032b01/00020013.pdf
 entry_into_force_dates: []
@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/130-a/2006/02/14/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/130-a-2006-402113
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2006-10-17T00:00:00Z'
+  retrieved_at: '2026-10-23T15:11:29Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 12859fd99ac2f28be8f7506315e5d90f09b8c72b889a9ee091924a5a2ee57724
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 81c6e9896dc8f5915a6737a4cdaccb98e2739583f3270df2ffe97602b42e4fae
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:11:29Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,31 +66,37 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
+- Agência Portuguesa para o Investimento
+- Apoio ao Investimento
 - Atividade Transitária
-- ICEP
-- Financiamento
-- Empresa
-- Turismo
+- Comércio
 - Contrato de Concessão
 - Definição de Competências
-- Apoio ao Investimento
-- Projeto de Investimento
+- Direcção Geral de Geologia e Energia
+- Empresa
+- Financiamento
+- IAPMEI
+- ICEP
 - Indústria
 - Indústria da Construção
+- Infraestrutura Turística
 - Instituto Português da Qualidade
-- Agência Portuguesa para o Investimento
-- Direcção Geral de Geologia e Energia
 - Prestação de Serviços
 - Programa Operacional da Economia
-- IAPMEI
-- Comércio
+- Projeto de Investimento
 - Transporte
-- Infraestrutura Turística
+- Turismo
 relationships:
 - type: amended_by
   target: pt:dre:644163:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:644163:por
+  label: "Alterada a al. a) do nº 2 do art. 12º do Regulamento de Execução do SIME aprovado pelo presente diploma pela PORT.1111-A/2006.17.10.2006.MFAP,\
+    \ DR.IS [200-Supl] de 17.10.2006\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/1111-a-2006-644163
+  date: '2006-10-17'
 - type: cites
   target: eli:http://data.europa.eu/eli/reco/2003/361/oj
   label: null
@@ -98,13 +104,13 @@ relationships:
 article_structure:
   article_count: 23
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:11:29Z'
   warnings: []
   errors: []
 ---
@@ -131,7 +137,7 @@ Manda o Governo, pelos Ministros de Estado e das Finanças, do Ambiente, do Orde
 
 Em 8 de Fevereiro de 2006.
 
-**O Ministro de Estado e das Finanças, Fernando Teixeira dos Santos. - O Ministro do Ambiente, do Ordenamento do Território e do Desenvolvimento Regional, Francisco Carlos da Graça Nunes Correia. - O Ministro da Economia e da Inovação, Manuel António Gomes de Almeida de Pinho.**
+O Ministro de Estado e das Finanças, Fernando Teixeira dos Santos. - O Ministro do Ambiente, do Ordenamento do Território e do Desenvolvimento Regional, Francisco Carlos da Graça Nunes Correia. - O Ministro da Economia e da Inovação, Manuel António Gomes de Almeida de Pinho.
 
 ## ANEXO — REGULAMENTO DE EXECUÇÃO DO SISTEMA DE INCENTIVOS À MODERNIZAÇÃO EMPRESARIAL (SIME)
 

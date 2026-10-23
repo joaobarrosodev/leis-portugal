@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/2s/2009/08/159000000/3361133611.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -47,45 +47,66 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/despacho-normativo/28-2009-2623118
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2012-02-14T00:00:00Z'
+  retrieved_at: '2026-10-23T15:07:15Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: de051f57d3597aa9fe4387d97e469bf05424d8eb701fc042183a3c0160eb00c8
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: bebf276fbdc8bf3fbc01cad3a9976d05064bf05815438f295b39b02c8b7f9fbc
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:07:15Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Ação Social
+- Acordo
+- Comissão de Acompanhamento
+- Definição de Competências
+- Direcção Geral da Segurança Social
+- Instituto da Segurança Social
+- Ministério da Solidariedade e Segurança Social
+- Segurança Social
 relationships:
 - type: amended_by
   target: pt:dre:2363668:por
   label: Última alteração registada na importação inicial
   source: null
+- type: cites
+  target: pt:dre:523181:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:580998:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:2363668:por
+  label: "Revogado pelo DN.2/2012.14.02.2012.MSSSOC, DR.IIS [32] de 14.02.2012\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/despacho-normativo/2-2012-2363668
+  date: '2012-02-14'
 article_structure:
   article_count: 2
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:07:15Z'
   warnings: []
   errors: []
 ---
 
-# Despacho Normativo n.º 28/2009
+# Despacho normativo n.º 28/2009
 
 As comissões de acompanhamento e avaliação dos protocolos e acordos de cooperação, previstas no [Despacho Normativo n.º 75/92](https://diariodarepublica.pt/dr/detalhe/despacho-normativo/75-1992-523181), de 20 de Maio, foram criadas como um fórum de concertação e diálogo entre os parceiros envolvidos na cooperação para o desenvolvimento das respostas sociais.
 
@@ -144,3 +165,5 @@ Normas transitórias
 O presente diploma entra em vigor no dia seguinte ao da sua publicação.
 
 7 de Agosto de 2009. - O Ministro do Trabalho e da Solidariedade Social, José António Fonseca Vieira da Silva.
+
+202185391

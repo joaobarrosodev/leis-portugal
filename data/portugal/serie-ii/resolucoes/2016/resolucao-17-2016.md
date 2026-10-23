@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/2s/2016/06/117000000/1927419274.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -46,36 +46,60 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/resolucao/17-2016-74748379
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2016-06-21T00:00:00Z'
+  retrieved_at: '2026-10-23T15:15:51Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 108eafa1e574d36a544711ddc764f538c1050fde6c66e5baa1d798fa50ea5c11
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 9bd5c2d5963728641b0b0653ef03f97c2b32a1ded460bea28f730d08a3ae9bab
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:15:51Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
-relationships: []
+subjects:
+- Conselho de Administração
+- Entidade Reguladora dos Serviços Energéticos
+- Nomeação
+- Vogal
+relationships:
+- type: cites
+  target: pt:dre:175526:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:303200:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:497411:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:499499:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:647507:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:15:51Z'
   warnings: []
   errors: []
 ---
@@ -139,3 +163,5 @@ Presidente do Conselho Tarifário da Entidade Reguladora dos Serviços Energéti
 Ao longo de anos assistiu, coorganizou e interveio em inúmeras ações de formação, seminários, colóquios, conferências, cursos universitários e de pós-graduação, em Portugal e no estrangeiro.
 
 Autora de artigos de opinião e trabalhos publicados.
+
+209658711

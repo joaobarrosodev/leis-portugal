@@ -26,7 +26,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/2s/2023/08/162000000/0008200083.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -48,25 +48,36 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/despacho-normativo/11-2023-220169720
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2023-08-22T00:00:00Z'
+  retrieved_at: '2026-10-23T15:09:00Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: da716c28b88a2b2dd4e2086379aefeb32e3473eceb523be01ce3b196750d2ed5
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 8eaf25de81fdad8446405f34a627fcbf595cbcb13bf4cddb8e156a5aa8693fb5
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:09:00Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Aljezur
+- Auxílio de Minimis
+- Financiamento
+- Incêndio
+- Monchique
+- Odemira
+- Prejuízo Financeiro
+- Produção Animal
+- Regime de Apoio
+- Regulamento CE
+- Snira
 relationships:
 - type: cites
   target: celex:32013R1408
@@ -79,13 +90,13 @@ relationships:
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:09:00Z'
   warnings: []
   errors: []
 ---
@@ -133,3 +144,5 @@ b) Ovinos e caprinos - 13 euros por ovino ou caprino registado no SNIRA, em nome
 10 - O presente despacho normativo entra em vigor no dia seguinte ao da sua publicação.
 
 11 de agosto de 2023. - A Ministra da Agricultura e da Alimentação, Maria do Céu de Oliveira Antunes.
+
+316778182

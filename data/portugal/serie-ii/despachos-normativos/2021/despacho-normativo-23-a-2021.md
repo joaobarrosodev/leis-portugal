@@ -23,12 +23,12 @@ publication:
   reference: Diário da República n.º 180/2021, 2º Suplemento, Série II de 2021-09-15
   number: '180'
   series: II
-  supplement: 2º Suplemento
+  supplement: null
   pages: 408-(2) a 408-(3)
   pdf_url: https://files.diariodarepublica.pt/2s/2021/09/180000002/0000200003.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -50,36 +50,58 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/despacho-normativo/23-a-2021-171441511
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2021-09-15T00:00:00Z'
+  retrieved_at: '2026-10-23T15:08:50Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 487ce35d30a6e596f1b87bd9731926885fae34b3ba80577b96da1214d177eb76
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 0eae8665b8ceaf9eddc11df28812e5d4e22bf18ba84770a9d0bdfdee0e26426b
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:08:50Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
-relationships: []
+subjects:
+- CMVM
+- Comissão para a Cidadania e a Igualdade de Género
+- Comissão para a Igualdade no Trabalho e no Emprego
+- Cotação na Bolsa
+- Doença Infecciosa
+- Empresa
+- Empresa Pública
+- Epidemia
+- Igualdade de Oportunidades
+- Igualdade de Tratamento
+- Informação
+- Plano Nacional para a Igualdade
+- Plano Nacional para a Igualdade-cidadania e Género
+- Prorrogação de Prazo
+relationships:
+- type: cites
+  target: pt:dre:107791612:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:122630001:por
+  label: null
+  source: null
 article_structure:
   article_count: 4
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:08:50Z'
   warnings: []
   errors: []
 ---
@@ -111,3 +133,5 @@ O prazo previsto no n.º 2 do artigo 5.º do [Despacho Normativo n.º 18/2019](h
 O presente despacho normativo produz efeitos a 10 de setembro de 2021.
 
 14 de setembro de 2021. - A Secretária de Estado para a Cidadania e a Igualdade, Rosa Filomena Brás Lopes Monteiro. - O Secretário de Estado das Finanças, João Nuno Marques de Carvalho Mendes. - O Secretário de Estado do Tesouro, Miguel Jorge de Campos Cruz. - O Secretário de Estado da Administração Pública, José Correia Fontes Couto. - O Secretário de Estado da Descentralização e da Administração Local, Jorge Manuel do Nascimento Botelho. - O Secretário de Estado Adjunto, do Trabalho e da Formação Profissional, Miguel Filipe Pardal Cabrita.
+
+314572608

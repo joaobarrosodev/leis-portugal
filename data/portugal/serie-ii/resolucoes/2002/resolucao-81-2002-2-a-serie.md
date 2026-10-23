@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/2s/2002/12/281000000/2004420050.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -46,18 +46,18 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/resolucao/81-2002-1601508
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2002-12-05T00:00:00Z'
+  retrieved_at: '2026-10-23T15:11:36Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 448e60752292d8e8f365b6008e1336e4d4cfd1f161ce8657e59cc17d518bfbb3
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: ecc312c6d93f8a4f01e094d010f861d68ccf525d6cf17840b320e02542413d79
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:11:36Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,15 +67,15 @@ reuse:
 subjects: []
 relationships: []
 article_structure:
-  article_count: 32
+  article_count: 33
   section_count: 9
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:11:36Z'
   warnings: []
   errors: []
 ---
@@ -558,7 +558,9 @@ o) Organizar e manter actualizado o arquivo corrente respeitante às actividades
 
 p) Elaborar um relatório anual e um plano de actividades.
 
-#### SECÇÃO V — Artigo 27.º
+#### SECÇÃO V
+
+###### Artigo 27.º
 
 Assessoria
 
@@ -664,4 +666,4 @@ O presente regulamento entra em vigor a partir do dia seguinte ao da sua publica
 
 15 de Novembro de 2002. - O Reitor, J. Novais Barbosa.
 
-## ANEXO — [([ver documento original](https://files.diariodarepublica.pt/2s/2002/12/281000000/2004420050.pdf))](https://files.diariodarepublica.pt/2s/2002/12/281000000/2004420050.pdf)
+## ANEXO — [(ver documento original)](https://files.diariodarepublica.pt/2s/2002/12/281000000/2004420050.pdf)

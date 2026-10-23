@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/2s/2014/06/122000000/1670616709.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -46,18 +46,18 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/resolucao/21-2014-25709504
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2014-06-27T00:00:00Z'
+  retrieved_at: '2026-10-23T15:15:22Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 472a250559c4110afe7b380bf1c97bc77e6abe0bedcb0714aa6add9be2895464
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: e4550bd8df0d4dc242d461f18d9475d11048dbbf34ae4d00060497a1fa43c7b5
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:15:22Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -69,13 +69,13 @@ relationships: []
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:15:22Z'
   warnings: []
   errors: []
 ---
@@ -104,8 +104,10 @@ Tabela de emolumentos
 
 ## ANEXO I — Serviços Académicos
 
-[([ver documento original](https://files.diariodarepublica.pt/2s/2014/06/122000000/1670616709.pdf))](https://files.diariodarepublica.pt/2s/2014/06/122000000/1670616709.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/2s/2014/06/122000000/1670616709.pdf)
 
 ## ANEXO II — Serviços Administrativos e outros
 
-[([ver documento original](https://files.diariodarepublica.pt/2s/2014/06/122000000/1670616709.pdf))](https://files.diariodarepublica.pt/2s/2014/06/122000000/1670616709.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/2s/2014/06/122000000/1670616709.pdf)
+
+207901407

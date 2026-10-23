@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/2s/2011/02/033000000/0824908249.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,45 +46,66 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/despacho-normativo/3-2011-1700636
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2012-03-21T00:00:00Z'
+  retrieved_at: '2026-10-23T15:07:34Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 33329b502edf68f1f89493573b79d4b0e9ea7d9e054902e3650b185824966d12
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 54414e81483bf60c774f4323155671b304e166d81806d13989a264f2be072c61
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:07:34Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Ação Social
+- Lares
+- Segurança Social
+- Terceira Idade
 relationships:
 - type: amended_by
   target: pt:dre:553657:por
   label: Última alteração registada na importação inicial
   source: null
+- type: cites
+  target: pt:dre:211235:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:518425:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:659157:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:553657:por
+  label: "Revogado pela PORT.67/2012.21.03.2012.MSSSOC, DR.IS [58] de 21.03.2012\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/67-2012-553657
+  date: '2012-03-21'
 article_structure:
   article_count: 4
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:07:34Z'
   warnings: []
   errors: []
 ---
 
-# Despacho Normativo n.º 3/2011
+# Despacho normativo n.º 3/2011
 
 O [Decreto-Lei n.º 64/2007](https://diariodarepublica.pt/dr/detalhe/decreto-lei/64-2007-518425), de 14 de Março, define o regime de licenciamento e de fiscalização da prestação de serviços e dos estabelecimentos de apoio social em que sejam exercidas actividades e serviços do âmbito da segurança social relativos a indivíduos e famílias.
 
@@ -113,3 +134,5 @@ Nos lares para idosos ou estruturas residenciais para pessoas idosas, a percenta
 O presente despacho entra em vigor no dia seguinte ao da sua publicação.
 
 7 de Fevereiro de 2011. - O Secretário de Estado da Segurança Social, Pedro Manuel Dias de Jesus Marques.
+
+204326375

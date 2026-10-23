@@ -46,49 +46,94 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/despacho-normativo/8-2007-1850890
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2015-02-27T00:00:00Z'
+  retrieved_at: '2026-10-23T15:06:45Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: f86e08e05b8ebc45ab507e67f8ed92b0e8e3f2ea7a677621d42f75d14fa74cec
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 0766ab4f5e40b44e20c1374f189ae146799b5a0e49fce963faacf478742a1ae6
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:06:45Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Ajuda Comunitária
+- Carne de Vaca
+- Exploração Agrícola
+- Financiamento
+- Gado Bovino
+- Pecuária
+- Política Agrícola Comum
+- Prémio
+- Prémio aos Produtores de Vacas Aleitantes
+- Produção Animal
+- Produção Leiteira
+- Projeto de Investimento
+- Quota de Produção
 relationships:
 - type: amended_by
   target: pt:dre:66619896:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amends
+  target: pt:numero:despacho-normativo:47/2004
+  label: "Altera o artigo 6.º do Despacho Normativo n.º 47/2004, de 04 de Novembro, DR.IS-B [277]\0\0"
+  source: null
+  date: '2004-11-04'
+- type: amends
+  target: pt:numero:despacho-normativo:55/2005
+  label: "Altera o artigo 5.º do Despacho Normativo n.º 55/2005 , de 20 de Dezembro, DR.IS-B [242]\0\0"
+  source: null
+  date: '2005-12-20'
 - type: cites
   target: celex:32003R1782
   label: null
   source: null
+- type: cites
+  target: pt:dre:465231:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:514582:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:534413:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:589931:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:66619896:por
+  label: Revogado, a partir de 28.02.2015, o DN 55/2005 de 20-dez, alterado pelo presente diploma, pelo(a) Portaria n.º 57/2015
+    - Diário da República n.º 41/2015, Série I de 2015-02-27
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/57-2015-66619896
+  date: '2015-02-27'
 article_structure:
   article_count: 3
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:06:45Z'
   warnings: []
   errors: []
 ---
 
-# Despacho Normativo n.º 8/2007
+# Despacho normativo n.º 8/2007
 
 Os Despachos Normativos n.º 47/2004 e n.º 55/2005, publicados na 1.ª série do Diário da República, de 25 de Novembro e de 20 de Dezembro, respectivamente, definiram as regras para atribuição dos direitos ao prémio à vaca em aleitamento a partir da reserva nacional, respectivamente para o ano de 2005 e para os anos de 2006 e seguintes.
 

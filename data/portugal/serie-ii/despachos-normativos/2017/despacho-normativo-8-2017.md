@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/2s/2017/08/153000000/1697316974.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -46,40 +46,85 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/despacho-normativo/8-2017-107981322
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2019-04-05T00:00:00Z'
+  retrieved_at: '2026-10-23T15:08:20Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 9130149156dfd091f8edbfa5aeccd9a5af3e2ac8ccf239c32c0d52cd524799f8
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: d971fbc9534a9982002a2db688a3501b4391579705e28d2d8b8bf158b4186f6d
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:08:20Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Apoio ao Investimento
+- Aquisição de Bens e Serviços
+- Comunicações Eletrónicas
+- Definição de Competências
+- Dotação Orçamental
+- Entidade Regional de Turismo
+- Financiamento
+- Instituto de Turismo de Portugal
+- Internet
+- Página na Internet
+- Programa Valorizar
+- Regulamento
+- Turismo
 relationships:
 - type: amended_by
   target: pt:dre:122014628:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:114152844:por
+  label: Alterado o art. 16.º do DN 9/2016 de 28-out, na redação do presente diploma, pelo(a) Despacho Normativo n.º 19/2017
+    - Diário da República n.º 214/2017, Série II de 2017-11-07
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/despacho-normativo/19-2017-114152844
+  date: '2017-11-07'
+- type: amended_by
+  target: pt:dre:122014628:por
+  label: Alterado o n.º 1 do art. 16.º do DN 9/2016 de 28-out, na redação do presente diploma, pelo(a) Despacho Normativo
+    n.º 10/2019 - Diário da República n.º 68/2019, Série II de 2019-04-05
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/despacho-normativo/10-2019-122014628
+  date: '2019-04-05'
+- type: cites
+  target: pt:dre:105652694:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:73716774:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:75619707:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:75619708:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:75619709:por
+  label: null
+  source: null
 article_structure:
-  article_count: 8
+  article_count: 5
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:08:20Z'
   warnings: []
   errors: []
 ---
@@ -126,7 +171,9 @@ Dotação
 
 A dotação disponível para financiamento de projetos ao abrigo do presente aviso é de (euro) 3.500.000,00.
 
-###### Artigo 5.º — Promotores
+Artigo 5.º
+
+Promotores
 
 Podem apresentar candidaturas as seguintes entidades:
 
@@ -138,7 +185,9 @@ c) Comunidades Intermunicipais e Áreas Metropolitanas;
 
 d) Associações de desenvolvimento regional ou local, sem fins lucrativos, desde que expressamente mandatadas pelos respetivos municípios para desenvolvimento dos projetos.
 
-###### Artigo 7.º — Condições de elegibilidade dos projetos
+Artigo 7.º
+
+Condições de elegibilidade dos projetos
 
 1 - [...]
 
@@ -154,7 +203,7 @@ e) [anterior alínea d)]
 
 f) [anterior alínea e)]
 
-## ANEXO I
+ANEXO I
 
 1 - Os projetos terão que incluir o fornecimento de pontos de acesso (AP - Access Points) e restante equipamento ativo e passivo de suporte à rede proposta. Caso o projeto contemple mais de 10 AP, estes terão que ser geridos por software centralizado baseado em controladores wireless, que suporte a configuração centralizada de pontos de acesso;
 
@@ -198,7 +247,7 @@ Especificações técnicas dos equipamentos propostos (APs, antenas, etc);
 
 Identificação do técnico responsável pela elaboração do projeto, devidamente habilitado para o ato pela respetiva ordem profissional.
 
-## ANEXO II
+ANEXO II
 
 Os projetos têm que prever, no mínimo, e tendo sempre presente que deverão cumprir todas as disposições legais relativas à proteção de dados, as seguintes funcionalidades:
 
@@ -226,7 +275,9 @@ b) [...]
 
 c) Empresas e outras entidades privadas exploradoras do património ou dos estabelecimentos a que se refere o artigo 2.º do presente diploma.
 
-###### Artigo 5.º — [...]
+Artigo 5.º
+
+[...]
 
 1 - [...]
 
@@ -245,3 +296,5 @@ b) Nos projetos promovidos por empresas privadas, os apoios financeiros podem as
 O presente diploma entra imediatamente em vigor, aplicando-se às candidaturas que se encontram pendentes para análise.
 
 20 de julho de 2017. - A Secretária de Estado do Turismo, Ana Manuel Jerónimo Lopes Correia Mendes Godinho.
+
+310656314

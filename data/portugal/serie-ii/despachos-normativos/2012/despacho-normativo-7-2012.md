@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/2s/2012/04/072000000/1289312895.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,30 +46,61 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/despacho-normativo/7-2012-1410996
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2015-02-27T00:00:00Z'
+  retrieved_at: '2026-10-23T15:07:44Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 6079391691c0a469b9680ea367a25c451c69cb3249e9a938fc587ba1c5566a39
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 7e1e487c5f4c54e1e473f0f59f212db501e29c0379bbca8fc090add61d00b48d
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:07:44Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Agricultor
+- Agricultura
+- Azeite
+- Azeitona
+- Comércio
+- Controlo de Qualidade
+- Espécie Protegida
+- Exploração Pecuária
+- Financiamento
+- Gado Bovino
+- Gado Caprino
+- Gado Ovino
+- IFAP
+- Lacticínios
+- Política Agrícola Comum
+- Produto Agrícola
+- Proteção do Ambiente
+- Regulamento CE
+- Subsídio
 relationships:
 - type: amended_by
   target: pt:dre:66619896:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:1945608:por
+  label: "Alterados o art. 25.º, 30.º e 31.º-A (os dois últimos na redação do presente Despacho) do DN 2/2010, de 29-jan,\
+    \ pelo DN.3/2013.28.01.2013.SEA-MAMAOT, DR.IIS [19] de 28.01.2013\03\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/sem-diploma/2000-1945608
+  date: '2013-01-28'
+- type: amended_by
+  target: pt:dre:2856276:por
+  label: "Alterados os art.s 30.º e 31.º-A do DN 2/2010, de 29-jan, na redação do presente diploma, pelo DN.3/2013.28.01.2013.SEA-MAMAOT,\
+    \ DR.IIS [19] de 28.01.2013 (correto)\0)\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/despacho-normativo/3-2013-2856276
+  date: '2013-01-28'
 - type: cites
   target: celex:32009R0073
   label: null
@@ -78,21 +109,35 @@ relationships:
   target: celex:32009R1120
   label: null
   source: null
+- type: cites
+  target: pt:dre:1313203:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:3670078:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:66619896:por
+  label: Revogado, a partir de 28.02.2015, o DN 2/2010 de 29-jan, alterado pelo presente diploma, pelo(a) Portaria n.º 57/2015
+    - Diário da República n.º 41/2015, Série I de 2015-02-27
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/57-2015-66619896
+  date: '2015-02-27'
 article_structure:
-  article_count: 16
+  article_count: 5
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:07:44Z'
   warnings: []
   errors: []
 ---
 
-# Despacho Normativo n.º 7/2012
+# Despacho normativo n.º 7/2012
 
 O Regulamento (CE) n.º 73/2009, do Conselho, de 19 de janeiro, estabelece as regras comuns para os regimes de apoio direto aos agricultores no âmbito da Política Agrícola Comum, prevendo no seu artigo 68.º a possibilidade dos Estados membros concederem um apoio específico aos agricultores, o qual deve ser coerente com outras medidas de apoio comunitárias em vigor.
 
@@ -128,7 +173,9 @@ b) ...
 
 c) ...
 
-###### Artigo 5.º — [...]
+Artigo 5.º
+
+[...]
 
 Aos criadores de bovinos, ovinos e caprinos das raças autóctones referidas no artigo anterior é atribuído um pagamento complementar anual pelas fêmeas que, a 1 de junho, sejam exploradas em linha pura, estejam inscritas no Livro de Adultos (LA) como reprodutoras da raça, tenham parido nos 18 meses anteriores, e cujo último parto seja uma cria inscrita no Livro Genealógico, sob a seguinte forma:
 
@@ -136,7 +183,9 @@ a) Pagamento complementar ao prémio à vaca de aleitamento previsto no artigo 1
 
 b) ...
 
-###### Artigo 7.º — Declaração das entidades responsáveis pela gestão dos livros genealógicos das raças autóctones
+Artigo 7.º
+
+Declaração das entidades responsáveis pela gestão dos livros genealógicos das raças autóctones
 
 1 - Os beneficiários comunicam à entidade responsável pela gestão do Livro Genealógico todas as alterações do efetivo, de forma a assegurar que os animais detidos a 1 de junho de cada ano estejam em conformidade com os registos mantidos pela mesma.
 
@@ -148,7 +197,9 @@ b) ...
 
 5 - A DGAV valida as declarações referidas no número anterior, bem como identifica os animais elegíveis de cada beneficiário, de acordo com os elementos registados nos livros genealógicos e no SNIRA, e envia a informação ao Instituto de Financiamento da Agricultura e Pescas (IFAP, I. P), em suporte informático, até ao dia 30 de agosto de cada ano.
 
-###### Artigo 9.º — [...]
+Artigo 9.º
+
+[...]
 
 1 - ...
 
@@ -156,7 +207,9 @@ b) ...
 
 3 - (Revogado.)
 
-###### Artigo 14.º — [...]
+Artigo 14.º
+
+[...]
 
 1 - Podem candidatar-se ao pagamento complementar no setor da carne de bovino os agricultores que comercializem produção enquadrável nos parâmetros de qualidade definidos no ponto D do anexo i, através de organizações de produtores reconhecidas.
 
@@ -166,7 +219,9 @@ b) ...
 
 4 - A verificação das condições de elegibilidade estabelecidas no n.º 1 é feita através da base de dados SNIRA.
 
-###### Artigo 18.º — [...]
+Artigo 18.º
+
+[...]
 
 1 - ...
 
@@ -184,7 +239,9 @@ b) ...
 
 8 - Nos pagamentos complementares no setor da carne de bovino em que o abate tenha tido lugar noutro Estado membro, as declarações previstas no n.º 5 devem ser acompanhadas dos respetivos certificados de abate.
 
-###### Artigo 23.º — [...]
+Artigo 23.º
+
+[...]
 
 1 - ...
 
@@ -196,19 +253,25 @@ b) Pagamento complementar por ovelha e cabra leiteiras.
 
 3 - O apoio específico previsto na alínea b) do número anterior é atribuído sob a forma de pagamento complementar ao prémio previsto no artigo 101.º do Regulamento (CE) n.º 73/2009, do Conselho, de 19 de janeiro.
 
-###### Artigo 26.º — Condições de elegibilidade ao pagamento complementar de ovelha e de cabra leiteiras
+Artigo 26.º
+
+Condições de elegibilidade ao pagamento complementar de ovelha e de cabra leiteiras
 
 1 - Podem candidatar-se ao pagamento complementar de ovelha e de cabra leiteiras os agricultores que sejam detentores de efetivo ovino ou caprino e comercializem uma quantidade mínima de leite de ovelha ou de cabra, ou de produtos lácteos à base de leite de ovelha ou cabra, superior a 1000 l de equivalente de leite na campanha relativa ao ano de candidatura ao apoio específico, e cujas explorações sejam localizadas nas regiões definidas no anexo iv ao presente despacho, do qual faz parte integrante.
 
 2 - Para efeitos da determinação da quantidade mínima de leite de ovelha e leite de cabra referida no número anterior considera-se que 1 kg de queijo equivale a 6 l de leite.
 
-###### Artigo 27.º — Valores unitários e limiares garantidos do pagamento complementar de ovelha e de cabra
+Artigo 27.º
+
+Valores unitários e limiares garantidos do pagamento complementar de ovelha e de cabra
 
 1 - O valor unitário do pagamento complementar de ovelha e de cabra leiteiras é de (euro) 6,5 por cabeça.
 
 2 - O limiar garantido para este pagamento é de 420 000 ovelhas e cabras leiteiras.
 
-###### Artigo 29.º — [...]
+Artigo 29.º
+
+[...]
 
 1 - ...
 
@@ -220,7 +283,9 @@ b) Pagamento complementar por ovelha e cabra leiteiras.
 
 5 - Na medida de apoio à manutenção de sistemas pecuários baseados em raças autóctones referida no capítulo ii, bem como o pagamento complementar de ovelha e de cabra leiteiras referido na alínea b) do n.º 1 do artigo 23.º, o montante candidato é o montante financeiro que resulta do produto do valor unitário do apoio, pela quantidade candidata.
 
-###### Artigo 30.º — [...]
+Artigo 30.º
+
+[...]
 
 1 - Caso se verifique que os montantes resultantes das candidaturas submetidas são inferiores aos respetivos limiares financeiros garantidos, o IFAP, I. P., sem prejuízo do disposto no artigo 31.º-A, apura, a nível de cada medida, o somatório dos montantes não utilizados, procedendo à sua redistribuição proporcional, em função dos montantes candidatos, pelos setores ou ações da medida onde se verificaram as ultrapassagens dos limiares garantidos, até ao limite do respetivo valor unitário.
 
@@ -228,7 +293,9 @@ b) Pagamento complementar por ovelha e cabra leiteiras.
 
 3 - ...
 
-###### Artigo 31.º — [...]
+Artigo 31.º
+
+[...]
 
 1 - O montante financeiro apurado após a aplicação do artigo anterior pode ser, sem prejuízo do disposto no artigo 31.º-A, redistribuído prioritariamente da seguinte forma:
 
@@ -279,3 +346,5 @@ D - Setor da carne de bovino
 São elegíveis os bovinos de idade não superior a 12 meses, e bovinos adultos cujas carcaças sejam das classes de conformação S, E, U ou R e apresentem uma camada de gordura inferior a 5, bem como todos os animais abatidos ao abrigo dos regimes Modo de Produção Biológica (MPB), DOP, IGP e PRODI.
 
 E [...]»
+
+205944278

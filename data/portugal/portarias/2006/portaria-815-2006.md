@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2006/08/15700/58205822.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/815/2006/08/16/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/815-2006-538824
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2011-08-08T00:00:00Z'
+  retrieved_at: '2026-10-23T15:16:28Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 248b6e543e5b4d4adbe8600a6db9d1bc98f532e802b43b35f6bbdd7e1ea8b246
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: b0627b07778f1380273cfa2bd6c15d4cf2dda32abb07a8712d9869b44353747f
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:16:28Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -76,6 +76,25 @@ relationships:
   target: pt:dre:669979:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:1524457:por
+  label: "Alterada a composição da faixa de contenção fitossanitária constante do anexo I da Port 103/2006 de 06-fev, em conformidade\
+    \ com o estipulado no nº 1 do seu art 6º, na redacção do presente diploma, pelo DESP.24251/2006.14.11.2006.DGRF-MADRP,\
+    \ DR.IIS [228] de 27.11.2006\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/despacho/24251-2006-1524457
+  date: '2006-11-14'
+- type: amended_by
+  target: pt:dre:518777:por
+  label: "Alterado o art. 6.º e o anexo I da Port 103/2006, de 06-Fev, na redacção do presente diploma, pela PORT.321/2007.23.03.2007.MADRP,\
+    \ DR.IS [59] de 23.03.2007\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/321-2007-518777
+  date: '2007-03-23'
+- type: amended_by
+  target: pt:dre:687622:por
+  label: "Aditados um art. 8º-A e um art. 11º-A bem como áreas aos anexos II e III da Port 103/2006, de 06-Fev, na redacção\
+    \ do presente diploma, PORT.305-A/2008.21.04.2008.MADRP, DR.IS [78-Supl] de 21.04.2008\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/305-a-2008-687622
+  date: '2008-04-21'
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/154/2005/09/06/p/dre
   label: null
@@ -88,16 +107,39 @@ relationships:
   target: eli:http://data.dre.pt/eli/port/103/2006/02/06/p/dre
   label: null
   source: http://data.dre.pt/eli/port/103/2006/02/06/p/dre
+- type: cites
+  target: pt:dre:141854:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:551843:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:558623:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:3000129:por
+  label: "Revogados os anexos I, II e III da Port 103/2006 de 06-Fev, com as alterações constantes do presente diploma, pelo\
+    \ DESP.15752/2008.06.06.2008.DGRF-MADRP, DR.IIS [109] de 06.06.2008\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/despacho/15752-2008-3000129
+  date: '2008-06-06'
+- type: repealed_by
+  target: pt:dre:669979:por
+  label: "Revogada, a partir de 13.08.2011, pelo DEC LEI.95/2011.08.08.2011.MAMAOT, DR.IS [151] de 08.08.2011\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/95-2011-669979
+  date: '2011-08-08'
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:16:28Z'
   warnings: []
   errors: []
 ---
@@ -152,14 +194,14 @@ O n.º 6.º e os anexos I, II e III da [Portaria n.º 103/96](https://diariodare
 
 Localização e delimitação geográfica da faixa de contenção fitossanitária
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2006/08/15700/58205822.pdf))](https://files.diariodarepublica.pt/1s/2006/08/15700/58205822.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2006/08/15700/58205822.pdf)
 
 ## ANEXO II — Área da zona afectada (ZA) de NMP a que se refere a alínea z) do artigo 2.º
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2006/08/15700/58205822.pdf))](https://files.diariodarepublica.pt/1s/2006/08/15700/58205822.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2006/08/15700/58205822.pdf)
 
 ## ANEXO III — Área da zona de restrição (ZR) de NMP a que se refere a alínea aa) do artigo 2.º
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2006/08/15700/58205822.pdf))](https://files.diariodarepublica.pt/1s/2006/08/15700/58205822.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2006/08/15700/58205822.pdf)
 
 Pelo Ministro da Agricultura, do Desenvolvimento Rural e das Pescas, Rui Nobre Gonçalves, Secretário de Estado do Desenvolvimento Rural e das Florestas, em 25 de Julho de 2006.

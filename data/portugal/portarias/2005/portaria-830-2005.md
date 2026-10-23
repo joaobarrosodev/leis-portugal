@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2005/09/179b00/55885588.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/830/2005/09/16/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/830-2005-139216
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2008-03-18T00:00:00Z'
+  retrieved_at: '2026-10-23T15:08:40Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 5021a20f81c87ec2c9608282a1df8ec98b2c8eb03e54b82e09b08b71862a10f0
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: c00bb52d8941111756e80743d20572f6e66326cf4a180ea6db655cd875e22a7c
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:08:40Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -78,16 +78,21 @@ relationships:
   target: celex:31993R0259
   label: null
   source: http://data.europa.eu/eli/reg/1993/259/oj
+- type: repealed_by
+  target: pt:dre:246570:por
+  label: "Revogada pela PORT.242/2008.18.03.2008.MAOTDR, DR.IS [55] de 18.03.2008\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/242-2008-246570
+  date: '2008-03-18'
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:08:40Z'
   warnings: []
   errors: []
 ---
@@ -122,7 +127,7 @@ Manda o Governo, pelos Ministros de Estado e das Finanças e do Ambiente, do Ord
 
 Em 10 de Agosto de 2005.
 
-**O Ministro de Estado e das Finanças, Fernando Teixeira dos Santos. - O Ministro do Ambiente, do Ordenamento do Território e do Desenvolvimento Regional, Francisco Carlos da Graça Nunes Correia.**
+O Ministro de Estado e das Finanças, Fernando Teixeira dos Santos. - O Ministro do Ambiente, do Ordenamento do Território e do Desenvolvimento Regional, Francisco Carlos da Graça Nunes Correia.
 
 ## ANEXO
 

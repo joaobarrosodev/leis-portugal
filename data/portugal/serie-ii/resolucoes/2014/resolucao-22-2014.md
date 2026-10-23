@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/2s/2014/07/133000000/1802718028.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -46,36 +46,80 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/resolucao/22-2014-55025003
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2014-07-14T00:00:00Z'
+  retrieved_at: '2026-10-23T15:15:22Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: acf57f9d32aca1d9ef676603e7715cb8a1bd03d97288093c5f8b9962af53971d
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: dea2c6bb47eaf635d7be198406350eb9d37a1e6580722e6da77e50e7bdda61f4
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:15:22Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
-relationships: []
+subjects:
+- Centro Hospitalar do Médio TEJO
+- Conselho de Administração
+- Director Clínico
+- Empresa Pública
+- Enfermeiro-director
+- Nomeação
+- Presidente
+- Vogal
+relationships:
+- type: cites
+  target: pt:dre:191077:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:469067:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:498125:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:498720:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:500215:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:520259:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:542993:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:544415:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:553924:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:15:22Z'
   warnings: []
   errors: []
 ---
@@ -259,3 +303,5 @@ Formação Académica e Profissional:
 Experiência Profissional:
 
 23-11-2011 a 30-06-2014 - Vogal Executivo do Conselho de Administração Enfermeiro Diretor do CHMT; 01-10-2007 a 13-12-2011 - Enfermeiro Especialista de Reabilitação no Serviço de Medicina Interna Nascente e coordenador do Núcleo de Enfermagem de Reabilitação na Unidade Hospitalar do CHMT; 1/11/1995 a 31/08/2007 - Enfermeiro Graduado no Serviço de Cirurgia Geral no Hospital N.ª Sr.ª da Graça em Tomar, que em 2003, passa a Unidade Hospitalar do Centro Hospitalar Médio Tejo, S. A., e em 2006 Centro Hospitalar Médio Tejo, E. P. E.; 16/08/1994 a 31-10-1995 - Enfermeiro no Serviço de Urgência no Hospital da Figueira da Foz; 01-02-1993 a 15-08-1994 - Enfermeiro no Serviço de Cirurgia Geral do Hospital N.ª Sr.ª da Graça em Tomar; 01-07-1992 a 31-01-1993 - Enfermeiro no Serviço de Medicina no Hospital de Pombal.
+
+207940806

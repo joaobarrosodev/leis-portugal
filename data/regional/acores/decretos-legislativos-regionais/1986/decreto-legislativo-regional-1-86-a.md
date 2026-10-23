@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1986/01/00500/00350036.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,40 +46,63 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/1-1986-616416
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2020-01-22T00:00:00Z'
+  retrieved_at: '2026-10-23T15:17:14Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: b9435349bc4df4c10ec3487cbda0c64707880ad6cea17922bda777ffaccf9df4
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 44e9ed384e0ab008e0231ae881a8c400cc26403a1e4512db3228fdc8e9ffc60d
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:17:14Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Açores
+- Instituto Regional de Produtos Agro-Alimentares
+- Orgânica
 relationships:
 - type: amended_by
   target: pt:dre:128355821:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:618919:por
+  label: "Alterada a redacção dos arts. 2º, 4º e als. b), c) e d) do art. 6º, pelo DLR.13/89/A.1989.07.10.ARA, DR.IS [172]\
+    \ de 28/Jul/1989\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-legislativo-regional/13-1989-618919
+  date: '1989-07-10'
+- type: cites
+  target: pt:dre:378944:por
+  label: null
+  source: null
+- type: corrected_by
+  target: pt:dre:301841:por
+  label: Rectificado pela DECL.DD4656.06.03.1986.PCM, DR.IS [74]Supl de 31.03.1986
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/declaracao/1986-301841
+  date: '1986-03-06'
+- type: repealed_by
+  target: pt:dre:128355821:por
+  label: Revogado pelo(a) Decreto Legislativo Regional n.º 3/2020/A - Diário da República n.º 15/2020, Série I de 2020-01-22
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-legislativo-regional/3-2020-128355821
+  date: '2020-01-22'
 article_structure:
   article_count: 11
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:17:14Z'
   warnings: []
   errors: []
 ---
@@ -198,10 +221,10 @@ O disposto no presente diploma produz efeitos a partir da data de publicação d
 
 Aprovado pela Assembleia Regional dos Açores em 31 de Outubro de 1985.
 
-**O Presidente da Assembleia Regional, José Guilherme Reis Leite.**
+O Presidente da Assembleia Regional, José Guilherme Reis Leite.
 
-**Assinado em Agra do Heroísmo em 16 de Dezembro de 1985.**
+Assinado em Agra do Heroísmo em 16 de Dezembro de 1985.
 
-**Publique-se.**
+Publique-se.
 
-**O Ministro da República para a Região Autónoma dos Açores, Tomás George Conceição Silva.**
+O Ministro da República para a Região Autónoma dos Açores, Tomás George Conceição Silva.

@@ -26,7 +26,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/2s/2011/04/070000000/1625116253.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -48,30 +48,64 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/despacho-normativo/8-2011-2062020
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2013-12-09T00:00:00Z'
+  retrieved_at: '2026-10-23T15:07:35Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 2259d0da5899647de9347b0d74b18f9f1e3d281025ff7708e78d9837121ad1ed
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 239e0296d0fa0d73badf309c8c13ee0d6f1ac2a764f970ce3e9124bafe82dc4d
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:07:35Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Bolsa de Formação Profissional
+- Definição de Competências
+- Direção Geral da Agricultura e Desenvolvimento Rural
+- Financiamento
+- Formação Profissional
+- Formador
+- Ministério da Agricultura Desenvolvimento Rural e Pescas
+- Qualificação Profissional
+- Taxa
 relationships:
 - type: amended_by
   target: pt:dre:484130:por
   label: Última alteração registada na importação inicial
   source: null
+- type: cites
+  target: pt:dre:334094:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:545637:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:546975:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:604779:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:628017:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:484130:por
+  label: "Revogado pela PORT.354/2013.09.12.2013.MAGM, DR.IS [238] de 09.12.2013\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/354-2013-484130
+  date: '2013-12-09'
 - type: transposes
   target: celex:32006L0123
   label: null
@@ -79,18 +113,18 @@ relationships:
 article_structure:
   article_count: 15
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:07:35Z'
   warnings: []
   errors: []
 ---
 
-# Despacho Normativo n.º 8/2011
+# Despacho normativo n.º 8/2011
 
 A [Lei n.º 86/95](https://diariodarepublica.pt/dr/detalhe/lei/86-1995-546975), de 1 de Setembro, Lei de Bases do Desenvolvimento Agrário, determina que para a prossecução dos objectivos de política agrícola nela definidos, deverá ser promovida, designadamente, a valorização dos recursos humanos, através da formação profissional dos agricultores, trabalhadores rurais e outros agentes do sector.
 
@@ -325,3 +359,5 @@ na formação profissional
 O presente diploma entra em vigor no dia seguinte ao da sua publicação.
 
 31 de Março de 2011. - O Ministro da Agricultura, do Desenvolvimento Rural e das Pescas, António Manuel Soares Serrano.
+
+204538199

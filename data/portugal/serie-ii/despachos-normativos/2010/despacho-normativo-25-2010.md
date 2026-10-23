@@ -46,41 +46,75 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/despacho-normativo/25-2010-1420444
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2010-10-19T00:00:00Z'
+  retrieved_at: '2026-10-23T15:07:25Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 6b6a723f4d6f9fd8a829b87ed49c36396c862531f3daeae217df292836bf72f2
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: e34f6d1c7f2d6fda3ba3cdeafcc3448d256f8f7bff08f1520c16098aa086c4a6
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:07:25Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
-relationships: []
+subjects:
+- Contrato de Financiamento
+- FEDER
+- Financiamento
+- Programa de Intervenções para a Qualificação do Turismo
+- Reembolso
+- Turismo
+relationships:
+- type: cites
+  target: pt:dre:1451350:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:157992:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:1797709:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:2024519:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:2245196:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:302517:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:520987:por
+  label: null
+  source: null
 article_structure:
   article_count: 7
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:07:25Z'
   warnings: []
   errors: []
 ---
 
-# Despacho Normativo n.º 25/2010
+# Despacho normativo n.º 25/2010
 
 No quadro da recente crise económica mundial, que também afectou a economia portuguesa, muitas empresas e outras entidades que nos últimos anos desenvolveram projectos de investimento no sector do turismo recorrendo a apoios financeiros de natureza reembolsável, atribuídos pelo Estado, atravessam dificuldades de ordem financeira com repercussões ao nível da capacidade de reembolso pontual dos financiamentos concedidos.
 
@@ -129,3 +163,5 @@ O regime previsto no presente diploma vigora por um período de dois anos a cont
 O regime previsto no presente diploma entra em vigor no dia seguinte ao da sua publicação.
 
 8 de Outubro de 2010. - O Secretário de Estado do Turismo, Bernardo Luís Amador Trindade.
+
+203802426

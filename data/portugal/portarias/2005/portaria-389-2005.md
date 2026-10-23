@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/389/2005/04/05/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/389-2005-562407
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2005-04-05T00:00:00Z'
+  retrieved_at: '2026-10-23T15:06:03Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 552886682736dd70bee4212892a32101e824c0108a30b37484bc537177bb6ac9
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 14db95a6ae9d5c073041983f08050aa09c630a2ab73f513ed6fcacdaa4662fd6
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:06:03Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -65,13 +65,13 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
+- Autarquia Local
 - Desenvolvimento Rural
 - Ordenamento do Território
 - Projecto de Intervenção em Espaço Rural
 - Proteção do Ambiente
-- Ruris
 - Região Rural
-- Autarquia Local
+- Ruris
 relationships:
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/310/2003/12/10/p/dre
@@ -81,16 +81,24 @@ relationships:
   target: eli:http://data.dre.pt/eli/dec-lei/380/1999/09/22/p/dre
   label: null
   source: http://data.dre.pt/eli/dec-lei/380/1999/09/22/p/dre
+- type: cites
+  target: pt:dre:429407:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:559019:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:06:03Z'
   warnings: []
   errors: []
 ---
@@ -171,4 +179,4 @@ e) Participações recebidas em sede de discussão pública e respectivo relató
 
 Em 14 de Fevereiro de 2005.
 
-**O Ministro da Agricultura, Pescas e Florestas, Carlos Henrique da Costa Neves. - O Ministro do Ambiente e do Ordenamento do Território, Luís José de Mello e Castro Guedes.**
+O Ministro da Agricultura, Pescas e Florestas, Carlos Henrique da Costa Neves. - O Ministro do Ambiente e do Ordenamento do Território, Luís José de Mello e Castro Guedes.

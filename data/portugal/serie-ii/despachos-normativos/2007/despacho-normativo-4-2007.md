@@ -46,41 +46,61 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/despacho-normativo/4-2007-1790220
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2007-01-08T00:00:00Z'
+  retrieved_at: '2026-10-23T15:06:43Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: b58c8afc2a1a8524fb8592be002b356b92ba736065993cad31324633e01a4344
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: caf22efa2ae5dbbec620643ff61f23e89722f5bf2f95291232afff58af0e7775
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:06:43Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
-relationships: []
+subjects:
+- Ensino Superior Politécnico
+- Estatuto
+- Instituto Politécnico
+- Viana do Castelo
+relationships:
+- type: cites
+  target: pt:dre:283353:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:548210:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:556606:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:593710:por
+  label: null
+  source: null
 article_structure:
   article_count: 54
   section_count: 13
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:06:43Z'
   warnings: []
   errors: []
 ---
 
-# Despacho Normativo n.º 4/2007
+# Despacho normativo n.º 4/2007
 
 Considerando os Estatutos do Instituto Politécnico de Viana do Castelo, homologados pelo despacho normativo n.º 23/95, de 21 de Março;
 
@@ -440,7 +460,7 @@ c) O conselho administrativo.
 
 ###### Artigo 12.º — Definição
 
-**O presidente é o órgão que superiormente representa e dirige o IPVC.**
+O presidente é o órgão que superiormente representa e dirige o IPVC.
 
 ###### Artigo 13.º — Eleição
 

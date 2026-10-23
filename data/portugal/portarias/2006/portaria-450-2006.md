@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/450/2006/05/12/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/450-2006-632191
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2010-08-19T00:00:00Z'
+  retrieved_at: '2026-10-23T15:14:11Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: f8433d45ea438800edc9e3233635b109c6ed660aef3608c8ff65c52e81a0e963
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 928c6733374032b36e39ca351a13934eae814edd8738a1ccd4827d438b170c37
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:14:11Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -74,6 +74,19 @@ relationships:
   target: pt:dre:343633:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:449938:por
+  label: "Anexados vários prédios rústicos e renovado por um período de 12 anos a concessão da zona de caça atribuída pela\
+    \ Port 1112/2002, de 26-Ago, alterada pela Port 477/2004, de 04-Maio e pelo presente diploma, pela PORT.484/2008.23.06.2008.MADRP,\
+    \ DR.IS [119] de 23.06.2008\08\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/484-2008-449938
+  date: '2008-06-23'
+- type: amended_by
+  target: pt:dre:343633:por
+  label: "Anexados vários prédios rústicos à zona de caça atribuída pela Port 1112/2002, de 26-Ago, alterada pelo presente\
+    \ diploma, pela PORT.741/2010.19.08.2010.MADRP, DR.IS [161] de 19.08.2010\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/741-2010-343633
+  date: '2010-08-19'
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/201/2005/11/24/p/dre
   label: null
@@ -90,16 +103,32 @@ relationships:
   target: eli:http://data.dre.pt/eli/port/477/2004/05/04/p/dre
   label: null
   source: http://data.dre.pt/eli/port/477/2004/05/04/p/dre
+- type: cites
+  target: pt:dre:173328:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:302108:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:480704:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:481498:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:14:11Z'
   warnings: []
   errors: []
 ---

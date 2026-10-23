@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/2s/2014/10/205000000/2679426795.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -46,36 +46,77 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/resolucao/30-2014-58555799
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2014-10-23T00:00:00Z'
+  retrieved_at: '2026-10-23T15:15:24Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 57ba81810c505f9f9e96408b694ffea91bafcdcfdbfb6a902f669fc90ca04245
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 419e8bbc1a08666e34826eb2dae1f067aff7f1bf3e2b796e287f703cad24c751
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:15:24Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
-relationships: []
+subjects:
+- Centro Hospitalar
+- Centro Hospitalar de VILA NOVA de Gaia-espinho
+- Conselho de Administração
+- Nomeação
+- Vogal
+relationships:
+- type: cites
+  target: pt:dre:191077:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:469067:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:498125:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:498720:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:500215:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:520259:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:542993:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:544415:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:553924:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:15:24Z'
   warnings: []
   errors: []
 ---
@@ -107,3 +148,5 @@ Nos termos dos artigos 6.º e 13.º dos Estatutos constantes do anexo II ao [Dec
 António José Ramalho Monteiro, nascido em 30/04/1954, no Porto.
 
 Licenciado em Economia pela Faculdade de Economia do Porto, em 1976; Curso PADIS; Programa de Alta Direção de Instituições de Saúde (AESE, 12.2005); Inscrito na Ordem dos Economistas (Economia e Gestão Empresariais) e na Ordem dos Técnicos Oficiais de Contas. Atividade profissional: Desde 02.2011: Administrador Executivo do Centro Hospitalar Conde de Ferreira e, por inerência, Vogal da Comissão de Apoio Executivo do Centro Hospitalar Conde de Ferreira e do Conselho de Gestão de Saúde da Santa Casa da Misericórdia do Porto (SCMP), que engloba o Hospital da Prelada e o Centro de Reabilitação do Norte; 05.2009-01.2011: Diretor do Departamento de Contabilidade e Finanças da SCMP; 05.2008-04.2009: Diretor do Departamento de Auditoria Interna da SCMP; 05.2007-04.2008: Assessor do Conselho Administração do Centro de Genética Clínica, SA; 06.2006-04.2007: Administrador Executivo da Fundação para o Desenvolvimento Social do Porto (Câmara Municipal do Porto); 07.2004-05.2006: Vogal Executivo do Conselho de Administração do Centro Hospitalar de V.N.Gaia. Pelouros: Serviços Financeiros, Recursos Humanos, Aprovisionamento e Farmácia; 11.1980-06.2004: Administrador na Rolmeta/Rolgest, SA, sociedade Holding e Associadas; 01.1979-10.1980: Diretor dos Serviços Administrativos e Financeiros na atual Comissão de Coordenação e Desenvolvimento Regional do Norte. Publicações: Coautor do livro Gestão da Saúde (coordenado pelos Professores Doutores Guilhermina Rego e Rui Nunes) sendo da sua responsabilidade o tema Parcerias Público-Privadas na Saúde. Lançamento em 07.2010. Outras Atividades: Presidente do Definitório (Conselho Fiscal) da Santa Casa Misericórdia de V.N.Gaia (desde 01.2009); Presidente da Associação dos Antigos Alunos da Faculdade de Economia do Porto (desde 05.2012); Vogal do Conselho Fiscal da Porto Business School (desde 11.2012); Diretor do Instituto de Investigação e Serviços da Faculdade de Economia Porto (desde 04.2013); integra o Conselho Social do Instituto de Psicologia e Ciências da Educação, da Univ. Lusíada do Porto (desde 12.2013); Mesário na SCMP, com o cargo de Tesoureiro Geral, e Vogal do Conselho Geral do Hospital da Prelada (01.1993-12.1995).
+
+208170246

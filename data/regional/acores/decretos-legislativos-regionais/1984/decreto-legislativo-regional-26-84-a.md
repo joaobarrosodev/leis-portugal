@@ -47,36 +47,51 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/26-1984-380936
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1984-08-28T00:00:00Z'
+  retrieved_at: '2026-10-23T15:17:05Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 56b645069f48380f86936f3e2ed856929a925bdc08603b600829dd02ea8216b4
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 3cc447237b96dbee3e59a6f7b2746829b1c96b30ed141350dd029694ddf90e83
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:17:05Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
-relationships: []
+subjects:
+- Açores
+- Estatuto
+- IPSS
+relationships:
+- type: cites
+  target: pt:dre:157007:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:311401:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:567059:por
+  label: null
+  source: null
 article_structure:
-  article_count: 14
+  article_count: 13
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:17:05Z'
   warnings: []
   errors: []
 ---
@@ -103,9 +118,9 @@ Assim:
 
 A Assembleia Regional dos Açores, nos termos da alínea b) do artigo 229.º da Constituição e da alínea m) do artigo 27.º do Estatuto Político-Administrativo da Região, decreta:
 
-###### Artigo 1.º É aplicado na Região Autónoma dos Açores o Estatuto das Instituições Particulares de Solidariedade Social, anexo ao [Decreto-Lei n.º 119/83](https://diariodarepublica.pt/dr/detalhe/decreto-lei/119-1983-311401), de 25 de Fevereiro, com as adaptações constantes do artigo seguinte.
+Artigo 1.º É aplicado na Região Autónoma dos Açores o Estatuto das Instituições Particulares de Solidariedade Social, anexo ao [Decreto-Lei n.º 119/83](https://diariodarepublica.pt/dr/detalhe/decreto-lei/119-1983-311401), de 25 de Fevereiro, com as adaptações constantes do artigo seguinte.
 
-###### Art. 2.º Aos artigos 7.º, 32.º, 33.º, 34.º, 38.º, 39.º, 76.º, 79.º, 82.º, 85.º, 88.º, 94.º e 97.º do Estatuto das Instituições Particulares de Solidariedade Social, anexo ao [Decreto-Lei n.º 119/83](https://diariodarepublica.pt/dr/detalhe/decreto-lei/119-1983-311401), de 25 de Fevereiro, são introduzidas as seguintes adaptações:
+Art. 2.º Aos artigos 7.º, 32.º, 33.º, 34.º, 38.º, 39.º, 76.º, 79.º, 82.º, 85.º, 88.º, 94.º e 97.º do Estatuto das Instituições Particulares de Solidariedade Social, anexo ao [Decreto-Lei n.º 119/83](https://diariodarepublica.pt/dr/detalhe/decreto-lei/119-1983-311401), de 25 de Fevereiro, são introduzidas as seguintes adaptações:
 
 ###### Artigo 7.º — (Registo)
 
@@ -195,10 +210,10 @@ a) Coordenar as acções das instituições associadas relativamente a quaisquer
 
 Aprovado pela Assembleia Regional dos Açores em 14 de Junho de 1984.
 
-**O Presidente da Assembleia Regional dos Açores, Álvaro Monjardino.**
+O Presidente da Assembleia Regional dos Açores, Álvaro Monjardino.
 
-**Assinado em Angra do Heroísmo em 10 de Agosto de 1984.**
+Assinado em Angra do Heroísmo em 10 de Agosto de 1984.
 
-**Publique-se.**
+Publique-se.
 
-**O Ministro da República para a Região Autónoma dos Açores, Tomás George Conceição Silva.**
+O Ministro da República para a Região Autónoma dos Açores, Tomás George Conceição Silva.

@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/2s/2016/08/147000000/2401824019.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -46,45 +46,65 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/despacho-normativo/6-2016-75076033
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2019-06-19T00:00:00Z'
+  retrieved_at: '2026-10-23T15:08:12Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 3b58fa949e138c8de8d933ad8ebefed12c9b37bb5429c9a77c5cade712abd8c8
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 2855515398f1470c044ceacef79f5313d7e3a904b9f7d098b504cdcb72173c08
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:08:12Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Ensino Superior Politécnico
+- Estatuto
+- Homologação
+- Instituto Politécnico
+- Porto
 relationships:
 - type: amended_by
   target: pt:dre:122609762:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:122609762:por
+  label: Homologadas as alterações aos Estatutos do Instituto Politécnico do Porto, homologados pelo DN 5/2009 de 02-fev,
+    na redação do presente diploma, pelo(a) Despacho Normativo n.º 17/2019 - Diário da República n.º 116/2019, Série II de
+    2019-06-19
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/despacho-normativo/17-2019-122609762
+  date: '2019-06-19'
+- type: cites
+  target: pt:dre:2021988:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:640339:por
+  label: null
+  source: null
 article_structure:
-  article_count: 9
+  article_count: 3
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:08:12Z'
   warnings: []
   errors: []
 ---
 
-# Despacho Normativo n.º 6/2016
+# Despacho normativo n.º 6/2016
 
 Considerando que os Estatutos do Instituto Politécnico do Porto foram homologados pelo [Despacho Normativo n.º 5/2009](https://diariodarepublica.pt/dr/detalhe/despacho-normativo/5-2009-2021988), de 29 de janeiro, publicado no Diário da República, 2.ª série, n.º 22, de 2 de fevereiro de 2009;
 
@@ -140,7 +160,9 @@ h) A Escola Superior de Media Artes e Design (ESMAD).
 
 5 - ...
 
-###### Artigo 62.º — Transformação de Escola
+Artigo 62.º
+
+Transformação de Escola
 
 1 - A Escola Superior de Estudos Industriais e de Gestão (ESEIG) é transformada na Escola Superior de Hotelaria e Turismo (ESHT) no dia 1 de agosto de 2016 e ficará em regime de instalação, com Estatutos provisórios aprovados nos termos do n.º 3 do artigo 38.º do RJIES, até à tomada de posse dos órgãos eleitos.
 
@@ -156,7 +178,9 @@ h) A Escola Superior de Media Artes e Design (ESMAD).
 
 7 - A partir do momento da transformação da ESEIG em ESHT cessam o mandato todos os órgãos de gestão da ESEIG, transitando as suas competências para a Comissão Instaladora da ESHT.
 
-###### Artigo 63.º — Criação de Escola
+Artigo 63.º
+
+Criação de Escola
 
 1 - É criada a Escola Superior de Media Artes e Design (ESMAD), que ficará em regime de instalação até à tomada de posse dos órgãos eleitos.
 
@@ -164,7 +188,9 @@ h) A Escola Superior de Media Artes e Design (ESMAD).
 
 3 - As competências de todos os órgãos da Escola previstos nos presentes Estatutos são atribuídas à Comissão Instaladora da ESMAD.
 
-###### Artigo 64.º — Comissão instaladora
+Artigo 64.º
+
+Comissão instaladora
 
 1 - As Comissões Instaladoras da ESHT e da ESMAD são nomeadas e exoneradas pelo Presidente do Instituto.
 
@@ -174,7 +200,9 @@ h) A Escola Superior de Media Artes e Design (ESMAD).
 
 4 - É considerada falta grave o não cumprimento do prazo previsto no número anterior.
 
-###### Artigo 66.º — Partilha de recursos
+Artigo 66.º
+
+Partilha de recursos
 
 1 - A ESHT e a ESMAD partilham o campus de Vila do Conde, sendo a afetação das instalações de utilização exclusiva de cada Escola efetuada por despacho do Presidente do IPP.
 
@@ -182,11 +210,15 @@ h) A Escola Superior de Media Artes e Design (ESMAD).
 
 3 - O modelo referido no número anterior é reavaliado após a tomada de posse dos órgãos eleitos.
 
-###### Artigo 67.º — Mandato dos membros do Conselho Geral do IPP
+Artigo 67.º
+
+Mandato dos membros do Conselho Geral do IPP
 
 Os membros docentes do Conselho Geral do IPP eleitos pelo círculo eleitoral da ESEIG mantêm-se em exercício de funções até ao final do mandato.
 
-###### Artigo 68.º — Entrada em vigor
+Artigo 68.º
+
+Entrada em vigor
 
 Os presentes Estatutos entram em vigor no dia útil seguinte ao da sua publicação no Diário da República.»
 
@@ -219,3 +251,5 @@ d) Dois representantes dos funcionários não docentes e não investigadores.
 ###### Artigo 3.º — Norma revogatória
 
 São revogados os artigos 69.º, 71.º e 72.º dos Estatutos do Instituto Politécnico do Porto.
+
+209767413

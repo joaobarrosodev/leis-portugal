@@ -1,7 +1,7 @@
 ---
 schema_version: '1.0'
 id: pt:dre:1808093:por
-title: Resolução n.º 63/2005(2.ªsérie)
+title: Resolução n.º 63/2005 (2.ª série)
 short_title: null
 summary: null
 jurisdiction: portugal
@@ -46,41 +46,52 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/resolucao/63-2005-1808093
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2005-09-30T00:00:00Z'
+  retrieved_at: '2026-10-23T15:13:06Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: e958fcc261ac58f6c105fe0de4220c8f0e28170d1e357b6c96d0bf3f2b9b1dbd
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 14f53ebd6b1c9aeec56e5a50d4b9b2bbc2317fbb573f2411494e3bd0ae57c495
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:13:06Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
-relationships: []
+subjects:
+- CMVM
+- Conselho Diretivo
+- Exoneração
+- Nomeação
+- Presidente
+- Vice-presidente
+- Vogal
+relationships:
+- type: cites
+  target: pt:dre:682985:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:13:06Z'
   warnings: []
   errors: []
 ---
 
-# Resolução n.º 63/2005(2.ªsérie)
+# Resolução n.º 63/2005 (2.ª série)
 
 Resolução n.º 63/2005 (2.ª série). - Nos termos do artigo 8.º do [Decreto-Lei n.º 473/99](https://diariodarepublica.pt/dr/detalhe/decreto-lei/473-1999-682985), de 8 de Novembro, que aprovou o Estatuto da Comissão do Mercado de Valores Mobiliários (CMVM), o seu conselho directivo é composto por um presidente, um vice-presidente e três vogais, sendo nomeados por resolução do Conselho de Ministros, sob proposta do Ministro das Finanças, por um período de cinco anos, de entre pessoas com reconhecida competência nas matérias incluídas nas atribuições da CMVM e de comprovada idoneidade e independência.
 

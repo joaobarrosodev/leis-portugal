@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2006/08/15400/57825783.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/797/2006/08/10/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/797-2006-538593
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2013-02-15T00:00:00Z'
+  retrieved_at: '2026-10-23T15:16:21Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: ac323c562352199bcc5fae06abbdc7c1fbb9229455487ce1b11e926b7d0db79c
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 513f8c36babdd2530b56d1b61ae198278e887157563706f553ea88a03806d146
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:16:21Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,12 +67,12 @@ reuse:
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
 - Aprendizagem Profissional
-- Plano de Estudos
+- Avaliação de Conhecimentos
 - Ensino Cooperativo
 - Ensino Particular
 - Ensino Profissional
 - Exame
-- Avaliação de Conhecimentos
+- Plano de Estudos
 relationships:
 - type: amended_by
   target: pt:dre:458607:por
@@ -102,16 +102,52 @@ relationships:
   target: eli:http://data.dre.pt/eli/port/550-c/2004/05/21/p/dre
   label: null
   source: http://data.dre.pt/eli/port/550-c/2004/05/21/p/dre
+- type: cites
+  target: pt:dre:210801:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:238849:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:252206:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:405481:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:551873:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:652894:por
+  label: null
+  source: null
+- type: corrected_by
+  target: pt:dre:541801:por
+  label: "Rectificada pela DECL-RECT.66/2006.20.09.2006.PCM, DR.IS [191] de 03.10.2006\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/declaracao-rectificacao/66-2006-541801
+  date: '2006-09-20'
+- type: repealed_by
+  target: pt:dre:458607:por
+  label: "Revogada, a partir de 16.02.2013, a Port 550-C/2004 de 21-mai, com as alterações introduzidas pelo presente diploma,\
+    \ pela PORT.74-A/2013.15.02.2013.MEE, DR.IS [33-Supl] de 15.02.2013, sem prejuízo do disposto no nº 2 do art. 33º daquele\
+    \ diploma.\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/74-a-2013-458607
+  date: '2013-02-15'
 article_structure:
-  article_count: 10
+  article_count: 1
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:16:21Z'
   warnings: []
   errors: []
 ---
@@ -154,13 +190,17 @@ Criação e publicitação
 
 7 - ...
 
-###### Artigo 13.º — Avaliação sumativa
+Artigo 13.º
+
+Avaliação sumativa
 
 1 - A avaliação sumativa tem como principais funções a classificação e a certificação, traduzindo-se na formulação de um juízo globalizante sobre as aprendizagens realizadas e as competências adquiridas pelos alunos.
 
 2 - ...
 
-###### Artigo 14.º — Momentos de avaliação
+Artigo 14.º
+
+Momentos de avaliação
 
 1 - A avaliação sumativa ocorre no final de cada módulo, com a intervenção do professor e do aluno, e, após conclusão do conjunto de módulos de cada disciplina, em reunião do conselho de turma.
 
@@ -174,13 +214,17 @@ Criação e publicitação
 
 6 - A avaliação sumativa incide ainda sobre a formação em contexto de trabalho e integra, no final do 3.º ano do ciclo de formação, uma prova de aptidão profissional (PAP).
 
-###### Artigo 27.º — Aprovação
+Artigo 27.º
+
+Aprovação
 
 1 - ...
 
 2 - (Revogado.)
 
-###### Artigo 30.º — Classificações
+Artigo 30.º
+
+Classificações
 
 1 - ...
 
@@ -188,7 +232,9 @@ Criação e publicitação
 
 3 - (Revogado.)
 
-###### Artigo 31.º — Classificação final
+Artigo 31.º
+
+Classificação final
 
 1 - ...
 
@@ -204,13 +250,17 @@ Criação e publicitação
 
 7 - (Revogado.)
 
-###### Artigo 32.º — Reclamações e recursos
+Artigo 32.º
+
+Reclamações e recursos
 
 1 - ...
 
 2 - (Revogado.)
 
-###### Artigo 33.º — Certificação
+Artigo 33.º
+
+Certificação
 
 1 - ...
 
@@ -226,7 +276,9 @@ Criação e publicitação
 
 7 - ...
 
-###### Artigo 34.º — Organização do ano escolar
+Artigo 34.º
+
+Organização do ano escolar
 
 1 - ...
 
@@ -238,7 +290,9 @@ Criação e publicitação
 
 5 - ...
 
-###### Artigo 35.º — Cumprimento do plano de estudos
+Artigo 35.º
+
+Cumprimento do plano de estudos
 
 1 - No cumprimento do plano de estudos, para efeitos de conclusão do curso com aproveitamento, devem estar reunidos cumulativamente os seguintes requisitos:
 
@@ -262,4 +316,4 @@ c) O prolongamento da FCT a fim de permitir o cumprimento do número de horas es
 
 4 - A presente portaria entra em vigor no dia seguinte ao da sua publicação.
 
-**O Secretário de Estado da Educação, Valter Victorino Lemos, em 24 de Julho de 2006.**
+O Secretário de Estado da Educação, Valter Victorino Lemos, em 24 de Julho de 2006.

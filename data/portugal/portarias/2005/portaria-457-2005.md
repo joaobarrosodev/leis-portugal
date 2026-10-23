@@ -48,18 +48,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/457/2005/05/02/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/457-2005-534444
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2006-04-11T00:00:00Z'
+  retrieved_at: '2026-10-23T15:06:27Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 72e67fdc227e20e7aafa647e2bf6768ca16e73818749f98b8d6b9b144d8c112e
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: be1ec138c446113e0e38f5e9a4ef8e32ca66d16169b367d529c4c3a532a1abe4
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:06:27Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,21 +67,26 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Ajuda Comunitária
 - Agrupamento de Produtores
+- Ajuda Comunitária
 - Campanha Vinícola
-- Vinho
+- Ifadap
 - Produtor
 - Regime de Apoio
 - Regime de Apoio à Reconversão e Reestruturação das Vinhas
-- Ifadap
-- Vitivinicultor
 - Vinha
+- Vinho
+- Vitivinicultor
 relationships:
 - type: amended_by
   target: pt:dre:651573:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:651573:por
+  label: "Aditado o nº 3º-A ao presente diploma, pela PORT.351/2006.11.04.2006.MADRP, DR.IS-B [72] de 11.04.2006\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/351-2006-651573
+  date: '2006-04-11'
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/83/1997/04/09/p/dre
   label: null
@@ -102,16 +107,41 @@ relationships:
   target: eli:http://data.dre.pt/eli/port/685/2000/08/30/p/dre
   label: null
   source: http://data.dre.pt/eli/port/685/2000/08/30/p/dre
+- type: cites
+  target: pt:dre:423931:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:468802:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:581238:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:589770:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:619548:por
+  label: null
+  source: null
+- type: repeals
+  target: pt:numero:portaria:1141/2004
+  label: "Revoga a Portaria n.º 1141/2004, de 13 de Setembro, DR.IS-B [216]\0\0"
+  source: null
+  date: '2004-09-13'
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:06:27Z'
   warnings: []
   errors: []
 ---
@@ -174,4 +204,4 @@ a) Os n.os 11.º e 12.º da [Portaria n.º 1259/2001](https://diariodarepublica.
 
 b) A [Portaria n.º 1141/2004](https://diariodarepublica.pt/dr/detalhe/portaria/1141-2004-619548), de 13 de Setembro.
 
-**O Ministro da Agricultura, do Desenvolvimento Rural e das Pescas, Jaime de Jesus Lopes Silva, em 8 de Abril de 2005.**
+O Ministro da Agricultura, do Desenvolvimento Rural e das Pescas, Jaime de Jesus Lopes Silva, em 8 de Abril de 2005.

@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/61/2005/01/21/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/61-2005-625414
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2005-01-21T00:00:00Z'
+  retrieved_at: '2026-10-23T15:07:22Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 05caa2da2d555e1116193772e81d9629c70a218d0bbc149abadde5926d7a2c7d
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: b809196d3adf3d27fc112de5b0c7957cd7ab3a4c1d6988279b876bfec35aa8ba
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:07:22Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,13 +66,13 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Jogos de Fortuna e Azar
 - Concurso
-- Lisboa
-- JURI
-- Santa Casa da Misericórdia
-- Regimento
 - Departamento de Jogos
+- Jogos de Fortuna e Azar
+- JURI
+- Lisboa
+- Regimento
+- Santa Casa da Misericórdia
 relationships:
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/106/1998/04/24/p/dre
@@ -110,16 +110,56 @@ relationships:
   target: eli:http://data.dre.pt/eli/port/554/2001/05/31/p/dre
   label: null
   source: http://data.dre.pt/eli/port/554/2001/05/31/p/dre
+- type: cites
+  target: pt:dre:176328:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:241015:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:332245:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:332246:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:332247:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:332248:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:332254:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:403119:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:546379:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:583067:por
+  label: null
+  source: null
 article_structure:
   article_count: 18
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:07:22Z'
   warnings: []
   errors: []
 ---
@@ -144,7 +184,7 @@ Manda o Governo, pelos Ministros da Saúde e da Segurança Social, da Família e
 
 Em 23 de Dezembro de 2004.
 
-**O Ministro da Saúde, Luís Filipe da Conceição Pereira. - O Ministro da Segurança Social, da Família e da Criança, Fernando Mimoso Negrão.**
+O Ministro da Saúde, Luís Filipe da Conceição Pereira. - O Ministro da Segurança Social, da Família e da Criança, Fernando Mimoso Negrão.
 
 REGIMENTO DO JÚRI DOS CONCURSOS DE APOSTAS MÚTUAS DO DEPARTAMENTO DE JOGOS DA SANTA CASA DE MISERICÓRDIA DE LISBOA.
 

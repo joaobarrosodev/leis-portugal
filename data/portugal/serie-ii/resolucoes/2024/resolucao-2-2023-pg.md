@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/2s/2024/01/010000000/0019200193.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -46,18 +46,18 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/resolucao/2-2024-836631087
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2024-01-15T00:00:00Z'
+  retrieved_at: '2026-10-23T15:16:19Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 8c5682b7f9ab2d326a4a12d6554f7dcb841f59d8a6f24483204ac46c1fd217c0
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 1a14a20f7c13f341f61762fec012bb005f1c786913a28f7b9e78ff6ac57918c9
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:16:19Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -69,13 +69,13 @@ relationships: []
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:16:19Z'
   warnings: []
   errors: []
 ---
@@ -112,10 +112,12 @@ Também as contas prestadas em SNC, SNC-ESNL e IFRS devem vir instruídas com a 
 
 9 - Com vista a assegurar o princípio da transparência da gestão financeira, orçamental e patrimonial, e sem prejuízo do legalmente estabelecido, designadamente, no artigo 79.º, n.os 1 e 2, da Lei n.º 73/2013, de 3 de setembro (na sua redação atual), e ainda nos artigos 16.º, n.º 3, e 43.º, n.º 2, alínea i) da Lei n.º 50/2012, de 31 de dezembro, incentivar as entidades sujeitas à prestação de contas a divulgar na sua página eletrónica os respetivos documentos de prestação de contas, bem como outros documentos relevantes para uma maior clareza e transparência da sua atividade.
 
-**Publique-se na 2.ª série do Diário da República e na 2.ª série do Jornal Oficial da Região Autónoma da Madeira, nos termos do artigo 9.º, n.º 2, alínea d), e n.º 3, da referida Lei n.º 98/97.**
+Publique-se na 2.ª série do Diário da República e na 2.ª série do Jornal Oficial da Região Autónoma da Madeira, nos termos do artigo 9.º, n.º 2, alínea d), e n.º 3, da referida Lei n.º 98/97.
 
 (1) Salvo disposição legal e específica, «As contas são remetidas ao Tribunal até 30 de abril do ano seguinte àquele a que respeitam, sem prejuízo de as contas consolidadas serem remetidas até 30 de junho» (cf. o n.º 4 do artigo 52.º da LOPTC).
 
 (2) Os serviços com funções de Caixas do Tesouro prestam contas de acordo com a Instrução n.º 1/2021 - 2.ª Secção/SRA/SRM, publicada no Diário da República, 2.ª série, n.º 101, de 25 de maio.
 
 15 de dezembro de 2023. - O Presidente, José F. F. Tavares.
+
+317174425

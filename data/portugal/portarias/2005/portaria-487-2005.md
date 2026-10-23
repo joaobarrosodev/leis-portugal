@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/487/2005/05/18/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/487-2005-692622
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2005-05-18T00:00:00Z'
+  retrieved_at: '2026-10-23T15:06:38Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 875e2a166c83027fe113930b7250c37f524f95f4b7838aaba4373ea624035d25
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: c333896b1c0fa72a96f43a776f82a6fecd598090fbcfc764a08f1d3c7c9804e8
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:06:38Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,11 +66,11 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Plano de Estudos
+- Coimbra
 - Instituto Politécnico
 - Instituto Superior de Engenharia
 - Licenciatura
-- Coimbra
+- Plano de Estudos
 relationships:
 - type: cites
   target: eli:http://data.dre.pt/eli/lei/115/1997/09/19/p/dre
@@ -88,16 +88,44 @@ relationships:
   target: eli:http://data.dre.pt/eli/port/601/2003/07/21/p/dre
   label: null
   source: http://data.dre.pt/eli/port/601/2003/07/21/p/dre
+- type: cites
+  target: pt:dre:222418:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:283353:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:453184:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:556606:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:593710:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:653145:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:670350:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:06:38Z'
   warnings: []
   errors: []
 ---
@@ -190,7 +218,7 @@ Aplicação
 
 O disposto no presente diploma aplica-se a partir do ano lectivo de 2003-2004, inclusive.
 
-**O Ministro da Ciência, Tecnologia e Ensino Superior, José Mariano Rebelo Pires Gago, em 16 de Abril de 2005.**
+O Ministro da Ciência, Tecnologia e Ensino Superior, José Mariano Rebelo Pires Gago, em 16 de Abril de 2005.
 
 ## ANEXO — Instituto Politécnico de Coimbra
 
@@ -204,22 +232,22 @@ QUADRO I
 
 1.º ano
 
-[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2005/05/096b00/34343436.pdf)
+[[[[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2005/05/096b00/34343436.pdf)](https://files.diariodarepublica.pt/1s/2005/05/096b00/34343436.pdf)](https://files.diariodarepublica.pt/1s/2005/05/096b00/34343436.pdf)](https://files.diariodarepublica.pt/1s/2005/05/096b00/34343436.pdf)
 
 QUADRO II
 
 2.º ano
 
-[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2005/05/096b00/34343436.pdf)
+[[[[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2005/05/096b00/34343436.pdf)](https://files.diariodarepublica.pt/1s/2005/05/096b00/34343436.pdf)](https://files.diariodarepublica.pt/1s/2005/05/096b00/34343436.pdf)](https://files.diariodarepublica.pt/1s/2005/05/096b00/34343436.pdf)
 
 QUADRO III
 
 3.º ano
 
-[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2005/05/096b00/34343436.pdf)
+[[[[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2005/05/096b00/34343436.pdf)](https://files.diariodarepublica.pt/1s/2005/05/096b00/34343436.pdf)](https://files.diariodarepublica.pt/1s/2005/05/096b00/34343436.pdf)](https://files.diariodarepublica.pt/1s/2005/05/096b00/34343436.pdf)
 
 QUADRO IV
 
 4.º ano
 
-[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2005/05/096b00/34343436.pdf)
+[[[[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2005/05/096b00/34343436.pdf)](https://files.diariodarepublica.pt/1s/2005/05/096b00/34343436.pdf)](https://files.diariodarepublica.pt/1s/2005/05/096b00/34343436.pdf)](https://files.diariodarepublica.pt/1s/2005/05/096b00/34343436.pdf)

@@ -48,18 +48,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/60/2006/01/16/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/60-2006-533414
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2008-12-03T00:00:00Z'
+  retrieved_at: '2026-10-23T15:15:06Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 10315ab87b74c9df9a48e5d5c48bd5a6f0d16b7c4fdaa27f8f4706b4c5a04f16
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 2102703a3f781a0d06f07df2cb853647b28a4c7ac5fb707b52b5b435f819bab3
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:15:06Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -75,6 +75,12 @@ relationships:
   target: pt:dre:440780:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:440780:por
+  label: "Anexados vários prédios rústicos à zona de caça concessionada pela Port 771/2001 de 21-Jul e alterada no presente\
+    \ diploma, pela PORT.1400/2008.03.12.2008.MADRP, DR.IS [234] de 03.12.2008 \0 \0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/1400-2008-440780
+  date: '2008-12-03'
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/201/2005/11/24/p/dre
   label: null
@@ -95,16 +101,36 @@ relationships:
   target: eli:http://data.dre.pt/eli/port/771/2001/07/21/p/dre
   label: null
   source: http://data.dre.pt/eli/port/771/2001/07/21/p/dre
+- type: cites
+  target: pt:dre:393578:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:480704:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:481498:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:483903:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:603938:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:15:06Z'
   warnings: []
   errors: []
 ---

@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2005/04/066b00/28472856.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/382/2005/04/05/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/382-2005-562395
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2006-01-24T00:00:00Z'
+  retrieved_at: '2026-10-23T15:06:02Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 172a550ef7081ba11cd89bc0984d846012b306c9371723776af5829b17762a6b
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: fa701adb3e4f46a7e3a080f36a13524c6824532f2ebcbd667d58ba49eec4c3a4
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:06:02Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -65,20 +65,20 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Financiamento
-- Definição de Competências
-- Mudança Tecnológica
 - Apoio ao Investimento
-- Projeto de Investimento
-- Instituto de Turismo de Portugal
+- Comércio Eletrónico
+- Definição de Competências
 - Desenvolvimento Económico
+- Financiamento
+- IAPMEI
+- Instituto de Turismo de Portugal
+- Mudança Tecnológica
 - Pequenas e Médias Empresas
-- Regulamento
 - PME
 - Prime
+- Projeto de Investimento
+- Regulamento
 - Sistema de Incentivos a Economia Digital
-- Comércio Eletrónico
-- IAPMEI
 relationships:
 - type: amended_by
   target: pt:dre:196892:por
@@ -88,16 +88,21 @@ relationships:
   target: eli:http://data.europa.eu/eli/reco/1996/280/oj
   label: null
   source: http://data.europa.eu/eli/reco/1996/280/oj
+- type: repealed_by
+  target: pt:dre:196892:por
+  label: "Revogada pela PORT.88-A/2006.24.01.2006.MFAP, DR.IS-B [17-Supl] de 24.01.2006\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/88-a-2006-196892
+  date: '2006-01-24'
 article_structure:
   article_count: 21
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:06:02Z'
   warnings: []
   errors: []
 ---
@@ -124,7 +129,7 @@ Manda o Governo, pelos Ministros de Estado, das Actividades Económicas e do Tra
 
 Em 22 de Fevereiro de 2005.
 
-**O Ministro de Estado, das Actividades Económicas e do Trabalho, Álvaro Roque de Pinho Bissaya Barreto. - O Ministro das Finanças e da Administração Pública, António José de Castro Bagão Félix. - O Ministro do Turismo, Telmo Augusto Gomes de Noronha Correia.**
+O Ministro de Estado, das Actividades Económicas e do Trabalho, Álvaro Roque de Pinho Bissaya Barreto. - O Ministro das Finanças e da Administração Pública, António José de Castro Bagão Félix. - O Ministro do Turismo, Telmo Augusto Gomes de Noronha Correia.
 
 ## ANEXO — REGULAMENTO DE EXECUÇÃO DO SISTEMA DE INCENTIVOS À ECONOMIA DIGITAL
 
@@ -558,17 +563,17 @@ A pontuação a atribuir a este subcritério corresponde à média simples da po
 
 A1.1 - Percentagem dos trabalhadores da empresa sujeitos a acções de formação geral ou específica em temas relevantes para a sua participação na economia digital:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2005/04/066b00/28472856.pdf))](https://files.diariodarepublica.pt/1s/2005/04/066b00/28472856.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2005/04/066b00/28472856.pdf)
 
 A.1.2 - Percentagem dos trabalhadores da empresa envolvidos directamente na utilização de ferramentas implementadas no domínio do projecto:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2005/04/066b00/28472856.pdf))](https://files.diariodarepublica.pt/1s/2005/04/066b00/28472856.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2005/04/066b00/28472856.pdf)
 
 A.2 - Processos:
 
 Neste subcritério pretende avaliar-se o projecto quanto à sua utilização para promover a mudança nos processos de negócio da empresa, não apenas pela introdução de alguns processos adicionais decorrentes do acesso ou actualização dos conteúdos, mas pela alteração dos processos de trabalho actuais de forma a obter ganhos de eficiência, ou seja, pretende-se valorizar um planeamento antecipado do impacte da presença na economia digital nos processos de trabalho dos colaboradores da empresa, procurando promover dessa forma uma oportunidade para a sua reestruturação e uma avaliação posterior dos seus resultados:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2005/04/066b00/28472856.pdf))](https://files.diariodarepublica.pt/1s/2005/04/066b00/28472856.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2005/04/066b00/28472856.pdf)
 
 O primeiro nível - não avaliação - será aplicado se o projecto não contemplar qualquer estudo de avaliação dos processos de negócio afectados pelo desenvolvimento da presença na economia digital.
 
@@ -580,7 +585,7 @@ A.3 - Tecnologia e sistemas de informação:
 
 Neste subcritério procura-se avaliar o nível de incorporação das novas tecnologias no interior da organização, quer no esforço a efectuar na sua dotação com a infra-estrutura e as ferramentas necessárias à implementação de um ambiente de trabalho colaborativo quer na integração resultante nos seus diversos sistemas de informação, ou seja, pretende-se valorizar antes de mais a constituição de redes internas que permitam a criação de um ambiente de trabalho cooperativo, promovendo dessa forma a comunicação electrónica entre os diversos colaboradores e a virtualização dos suportes físicos de informação:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2005/04/066b00/28472856.pdf))](https://files.diariodarepublica.pt/1s/2005/04/066b00/28472856.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2005/04/066b00/28472856.pdf)
 
 O primeiro nível - acesso simples - corresponde a uma situação em que os projectos não contemplam a infra-estrutura e as ferramentas necessárias a um ambiente de trabalho colaborativo entre os intervenientes internos envolvidos no processo, mas apenas um acesso simples e isolado ao interface a desenvolver.
 
@@ -596,7 +601,7 @@ A classificação máxima neste critério será atribuída quando o projecto ten
 
 O grau de profundidade é classificado em três níveis distintos, aos quais são associados os escalões de pontuação correspondentes:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2005/04/066b00/28472856.pdf))](https://files.diariodarepublica.pt/1s/2005/04/066b00/28472856.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2005/04/066b00/28472856.pdf)
 
 O primeiro nível - presença - corresponde a uma presença na Internet (ou noutro canal como a televisão digital) cuja interacção daí resultante assume uma natureza passiva por parte das entidades envolvidas (passiva/passiva), isto é, não permite a comunicação por parte da empresa que a promove (com excepção da informação disponibilizada no site), nem por parte do público a que se destina. Esta classificação será atribuída quando o interface a desenvolver tem como único objectivo a publicação online de informação sobre a empresa para efeitos de divulgação. Trata-se do nível mais básico de desenvolvimento de uma presença na Internet, não sendo possível qualquer tipo de interacção com o exterior, designadamente entre a empresa e os seus parceiros, fornecedores ou clientes, nem implicando qualquer alteração estrutural na organização interna (a não ser a necessária ao suporte técnico e à actualização dos conteúdos).
 
@@ -610,7 +615,7 @@ Neste critério pretende-se complementar a análise da profundidade da presença
 
 A maturidade é classificada em três níveis distintos, aos quais são associados os escalões de pontuação correspondentes:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2005/04/066b00/28472856.pdf))](https://files.diariodarepublica.pt/1s/2005/04/066b00/28472856.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2005/04/066b00/28472856.pdf)
 
 O primeiro nível - organização interna - corresponde à apresentação tradicional dos conteúdos em função da sua organização interna, isto é, traduzindo apenas as áreas funcionais da empresa, e os respectivos produtos e serviços. Esta classificação será atribuída quando o interface a desenvolver se organiza apenas em função da organização interna da informação, não se verificando qualquer estruturação da mesma no sentido de uma resposta mais direccionada às necessidades expectáveis dos seus utilizadores. Resulta assim, normalmente, da mera transposição para um formato electrónico de informação disponível internamente nos suportes tradicionais.
 

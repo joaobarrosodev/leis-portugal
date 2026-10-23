@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1985/10/24400/35123512.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -47,40 +47,77 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/13-1985-178092
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2001-07-16T00:00:00Z'
+  retrieved_at: '2026-10-23T15:17:13Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: a08a5b28b46879c6399ba09663ad9b1c22f45f98b491c2522044bc7724ce9939
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 6bf4fc51b557e300fb8a8e91518cb079bf355180259908b4ef53ac8442c0bf9f
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:17:13Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Açores
+- Inscrição Marítima
+- Pesca
 relationships:
 - type: amended_by
   target: pt:dre:522863:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:325500:por
+  label: Declarada a inconstitucionalidade, com força obrigatória geral, de todas as normas pelo(a) Acórdão n.º 57/85 - Diário
+    da República n.º 84/1985, Série I de 1985-04-11
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/acordao/57-1985-325500
+  date: '1985-04-11'
+- type: amended_by
+  target: pt:dre:180390:por
+  label: Declarada a inconstitucionalidade, com força obrigatória geral, das normas dos arts. 3.º e 4.º, pelo(a) Acórdão n.º
+    130/85 - Diário da República n.º 185/1985, Série I de 1985-08-13
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/acordao/130-1985-180390
+  date: '1985-08-13'
+- type: cites
+  target: pt:dre:230891:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:311398:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:537223:por
+  label: null
+  source: null
+- type: corrected_by
+  target: pt:dre:168070:por
+  label: Rectificado pela DECL.DD4530.23.12.1985.PCM, DR.IS [26-1º supl] de 31.01.1986
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/declaracao/1986-168070
+  date: '1985-12-23'
+- type: repealed_by
+  target: pt:dre:522863:por
+  label: "Revogado pelo DLR.15/2001/A.2001.07.16.ALR-RAA DR.IS-A [180] DE 04/AGO/2001\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-legislativo-regional/15-2001-522863
+  date: '2001-07-16'
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:17:13Z'
   warnings: []
   errors: []
 ---
@@ -103,26 +140,26 @@ Assim:
 
 A Assembleia Regional dos Açores decreta, nos termos da alínea a) do artigo 229.º da Constituição, o seguinte:
 
-###### Artigo 1.º A inscrição marítima, na Região, encontra-se sujeita, relativamente aos indivíduos nascidos a partir de 1 de Janeiro de 1967, à posse do diploma do 6.º ano de escolaridade obrigatória.
+Artigo 1.º A inscrição marítima, na Região, encontra-se sujeita, relativamente aos indivíduos nascidos a partir de 1 de Janeiro de 1967, à posse do diploma do 6.º ano de escolaridade obrigatória.
 
-###### Art. 2.º O Governo Regional, através da Secretaria Regional da Agricultura e Pescas, promoverá a concessão de licenças de trabalho a bordo condicionais e provisórias aos pescadores que, tendo como habilitações mínimas o 2.º ano da 2.ª fase do ensino primário elementar, se comprometam a frequentar cursos de educação que supram a falta de escolaridade obrigatória, em prazo a regulamentar.
+Art. 2.º O Governo Regional, através da Secretaria Regional da Agricultura e Pescas, promoverá a concessão de licenças de trabalho a bordo condicionais e provisórias aos pescadores que, tendo como habilitações mínimas o 2.º ano da 2.ª fase do ensino primário elementar, se comprometam a frequentar cursos de educação que supram a falta de escolaridade obrigatória, em prazo a regulamentar.
 
-###### Art. 3.º O Governo Regional, através da Secretaria Regional da Educação e Cultura, providenciará no sentido de que os cursos destinados a substituir a escolaridade obrigatória, pelos indivíduos referidos no artigo anterior, sejam efectuados nos locais de residência dos candidatos e em épocas e horários adequados à sua actividade.
+Art. 3.º O Governo Regional, através da Secretaria Regional da Educação e Cultura, providenciará no sentido de que os cursos destinados a substituir a escolaridade obrigatória, pelos indivíduos referidos no artigo anterior, sejam efectuados nos locais de residência dos candidatos e em épocas e horários adequados à sua actividade.
 
-###### Art. 4.º A certificação, obtida pela frequência com aproveitamento dos cursos referidos no artigo anterior, será equiparada à posse do diploma de aproveitamento da escolaridade obrigatória, para os efeitos previstos neste diploma.
+Art. 4.º A certificação, obtida pela frequência com aproveitamento dos cursos referidos no artigo anterior, será equiparada à posse do diploma de aproveitamento da escolaridade obrigatória, para os efeitos previstos neste diploma.
 
-###### Art. 5.º As licenças de trabalho a bordo concedidas ao abrigo do presente diploma e da sua regulamentação são válidas apenas para a pesca artesanal e para as áreas da capitania para que foram emitidas.
+Art. 5.º As licenças de trabalho a bordo concedidas ao abrigo do presente diploma e da sua regulamentação são válidas apenas para a pesca artesanal e para as áreas da capitania para que foram emitidas.
 
-###### Art. 6.º O Governo Regional regulamentará o presente diploma no prazo de 30 dias após a sua publicação.
+Art. 6.º O Governo Regional regulamentará o presente diploma no prazo de 30 dias após a sua publicação.
 
-###### Art. 7.º O presente diploma entra em vigor no dia seguinte ao da sua publicação.
+Art. 7.º O presente diploma entra em vigor no dia seguinte ao da sua publicação.
 
 Aprovado pela Assembleia Regional dos Açores em 17 de Junho de 1985.
 
-**O Presidente da Assembleia Regional dos Açores, José Guilherme Reis Leite.**
+O Presidente da Assembleia Regional dos Açores, José Guilherme Reis Leite.
 
-**Assinado em Angra do Heroísmo em 2 de Outubro de 1985.**
+Assinado em Angra do Heroísmo em 2 de Outubro de 1985.
 
-**Publique-se.**
+Publique-se.
 
-**O Ministro da República para a Região Autónoma dos Açores, Tomás George Conceição Silva.**
+O Ministro da República para a Região Autónoma dos Açores, Tomás George Conceição Silva.

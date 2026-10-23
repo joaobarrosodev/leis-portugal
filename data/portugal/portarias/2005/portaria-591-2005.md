@@ -48,18 +48,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/591/2005/07/15/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/591-2005-238378
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2005-07-15T00:00:00Z'
+  retrieved_at: '2026-10-23T15:07:17Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: b3ac300a7ac6df58ff80420449c8b5bb8ae037b0a8969a5f8d5e73a191d8f299
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 44d0cd4b563435e3f646fda0899dce0bbfb1ebd1ee98afc8dde31f59a33519bf
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:07:17Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -91,16 +91,36 @@ relationships:
   target: eli:http://data.dre.pt/eli/port/45/2004/01/14/p/dre
   label: null
   source: http://data.dre.pt/eli/port/45/2004/01/14/p/dre
+- type: cites
+  target: pt:dre:434640:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:480704:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:534644:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:536243:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:603031:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:07:17Z'
   warnings: []
   errors: []
 ---
@@ -137,6 +157,6 @@ d) 20% aos demais caçadores, conforme é referido na alínea d) do citado artig
 
 7.º A sinalização da zona de caça deve obedecer ao disposto no n.º 8.º da [Portaria n.º 1391/2002](https://diariodarepublica.pt/dr/detalhe/portaria/1391-2002-434640), de 25 de Outubro, com a redacção que lhe foi conferida pela [Portaria n.º 45/2004](https://diariodarepublica.pt/dr/detalhe/portaria/45-2004-603031), de 14 de Janeiro.
 
-**O Ministro do Ambiente, do Ordenamento do Território e do Desenvolvimento Regional, Francisco Carlos da Graça Nunes Correia, em 14 de Junho de 2005. - Pelo Ministro da Agricultura, do Desenvolvimento Rural e das Pescas, Rui Nobre Gonçalves, Secretário de Estado do Desenvolvimento Rural e das Florestas, em 23 de Junho de 2005.**
+O Ministro do Ambiente, do Ordenamento do Território e do Desenvolvimento Regional, Francisco Carlos da Graça Nunes Correia, em 14 de Junho de 2005. - Pelo Ministro da Agricultura, do Desenvolvimento Rural e das Pescas, Rui Nobre Gonçalves, Secretário de Estado do Desenvolvimento Rural e das Florestas, em 23 de Junho de 2005.
 
 [(ver planta no documento original)](https://files.diariodarepublica.pt/1s/2005/07/135b00/42524252.pdf)

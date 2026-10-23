@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1984/05/10300/14511451.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -47,40 +47,50 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/17-1984-385001
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1998-10-23T00:00:00Z'
+  retrieved_at: '2026-10-23T15:17:03Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 5d6c41ef3c2b6b93dbb0558a2fc573bc0ac927f271dd622f0e0f14e0a09a671a
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 27452f8ff37ce1a1bd31b1cd7e5e69eab4fe7902dabbffb7db41ba568a6bfacb
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:17:03Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Açores
+- Ajudas de Custo
+- Educador de Infância
+- Habilitações Literárias
+- Subsídio de Transporte
 relationships:
 - type: amended_by
   target: pt:dre:223192:por
   label: Última alteração registada na importação inicial
   source: null
+- type: repealed_by
+  target: pt:dre:223192:por
+  label: "Revogado pelo DLR.16/98/A.1998.10.23.ALR-RAA, DR.IS-A [257] de 06/Nov/1998\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-legislativo-regional/16-1998-223192
+  date: '1998-10-23'
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:17:03Z'
   warnings: []
   errors: []
 ---
@@ -95,14 +105,14 @@ Assim:
 
 A Assembleia Regional dos Açores, nos termos da alínea a) do artigo 229.º da Constituição, decreta:
 
-###### Artigo único. É aplicável aos educadores de infância com habilitação própria o regime estabelecido na legislação regional para os professores do ensino primário no que respeita a transportes e ajudas de custo.
+Artigo único. É aplicável aos educadores de infância com habilitação própria o regime estabelecido na legislação regional para os professores do ensino primário no que respeita a transportes e ajudas de custo.
 
 Aprovado pela Assembleia Regional dos Açores em 20 de Março de 1984.
 
-**O Presidente da Assembleia Regional, Álvaro Monjardino.**
+O Presidente da Assembleia Regional, Álvaro Monjardino.
 
-**Assinado em Angra do Heroísmo em 13 de Abril de 1984.**
+Assinado em Angra do Heroísmo em 13 de Abril de 1984.
 
-**Publique-se.**
+Publique-se.
 
-**O Ministro da República para a Região Autónoma dos Açores, Tomás George Conceição Silva.**
+O Ministro da República para a Região Autónoma dos Açores, Tomás George Conceição Silva.

@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2005/07/143b00/43774377.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/613/2005/07/27/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/613-2005-240209
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2006-09-05T00:00:00Z'
+  retrieved_at: '2026-10-23T15:07:25Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: dba8698f1063026d2de6c02079883b51a5bf85a49a9f9ce02899d339e4072374
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 484f9a0bf8f6d03e284ec2e91149532c6b3c2d1ef3c420889da312c51ff0550b
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:07:25Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,14 +67,14 @@ reuse:
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
 - Armazenagem
-- Gestão de Resíduos
-- Transporte de Resíduos
-- Licenciamento
-- Instituto dos Resíduos
-- Proteção do Ambiente
-- Tratamento de Resíduos
 - Eliminação de Resíduos
+- Gestão de Resíduos
+- Instituto dos Resíduos
+- Licenciamento
+- Proteção do Ambiente
 - Taxa
+- Transporte de Resíduos
+- Tratamento de Resíduos
 relationships:
 - type: amended_by
   target: pt:dre:540016:por
@@ -88,16 +88,29 @@ relationships:
   target: eli:http://data.dre.pt/eli/dec-lei/239/1997/09/09/p/dre
   label: null
   source: http://data.dre.pt/eli/dec-lei/239/1997/09/09/p/dre
+- type: cites
+  target: pt:dre:641132:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:644295:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:540016:por
+  label: "Revogada pelo DEC LEI.178/2006.05.09.2006.MAOTDR, DR.IS [171] de 05.09.2006\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/178-2006-540016
+  date: '2006-09-05'
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:07:25Z'
   warnings: []
   errors: []
 ---
@@ -146,4 +159,4 @@ b) Para outras unidades - (euro) 800;
 
 25 de Maio de 2005.
 
-**O Ministro de Estado e das Finanças, Luís Manuel Moreira de Campos e Cunha. - O Ministro do Ambiente, do Ordenamento do Território e do Desenvolvimento Regional, Francisco Carlos da Graça Nunes Correia.**
+O Ministro de Estado e das Finanças, Luís Manuel Moreira de Campos e Cunha. - O Ministro do Ambiente, do Ordenamento do Território e do Desenvolvimento Regional, Francisco Carlos da Graça Nunes Correia.

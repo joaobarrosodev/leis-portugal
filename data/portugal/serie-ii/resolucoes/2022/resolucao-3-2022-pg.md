@@ -26,7 +26,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/2s/2022/04/070000000/0027600295.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -48,40 +48,69 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/resolucao/3-2022-181847611
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2025-10-10T00:00:00Z'
+  retrieved_at: '2026-10-23T15:16:17Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: cd3f7aa3dc3cdbd9cc78312ead281eb88dd39bb2e8f0282b884f7d8ca4445669
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: f5cbd35c389de1488a04ce90b518519352c47deba28eb34f0fe9a3abd4c44da3
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:16:17Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Aquisição de Bens e Serviços
+- Autarquia Local
+- Contrato de Construção
+- Delegação de Competências
+- Fiscalização
+- Instrução Processual
+- Plataforma Eletrónica
+- Tribunal de Contas
+- Visto do Tribunal de Contas
 relationships:
 - type: amended_by
   target: pt:dre:939090263:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:901997664:por
+  label: Alterados os artigos 3.º, 14.º, 15.º 19.º, 29.º, 30.º, 31.º e 34.º e aditado o artigo 3.º -A às Instruções 1/2022,
+    aprovadas no ANEXO I, bem como alteradas as Cláusulas 7.ª, 12.ª, 24.ª e 26.ª das Condições Gerais de Utilização da Plataforma
+    eContas do Tribunal de Contas, em sede de Fiscalização Prévia e Concomitante, aprovadas no ANEXO II pelo(a) Resolução
+    n.º 3/2024-PG - Diário da República n.º 2/2025, Série II de 2025-01-03
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/resolucao/3-2025-901997664
+  date: '2025-01-03'
+- type: cites
+  target: pt:dre:114696642:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:193663:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:2212515:por
+  label: null
+  source: null
 article_structure:
   article_count: 34
   section_count: 6
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:16:17Z'
   warnings: []
   errors: []
 ---
@@ -124,7 +153,7 @@ d) O Despacho Regulamentar n.º 1/2020-JC/SRMTC, de 4 de maio de 2020, alterado 
 
 6 - A presente Resolução entra em vigor no dia 02 de maio de 2022.
 
-**Publique-se, nos termos da alínea d) do n.º 2 e do n.º 3 do artigo 9.º da LOPTC:**
+Publique-se, nos termos da alínea d) do n.º 2 e do n.º 3 do artigo 9.º da LOPTC:
 
 a) Na 2.ª série do Diário da República;
 
@@ -909,3 +938,5 @@ O Declarante,
 Assinatura
 
 Caso se trate do Responsável máximo da entidade, a assinatura eletrónica qualificada deve comprovar o seu cargo na entidade ou os poderes de representação da mesma.
+
+315181485

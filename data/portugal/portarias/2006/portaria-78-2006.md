@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/78/2006/01/23/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/78-2006-541007
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2006-01-23T00:00:00Z'
+  retrieved_at: '2026-10-23T15:16:15Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: ed49825c27a17af631c7d44e985e5335a61a6a56f0f8c43db198525eef445c7c
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: d00edc0cc7e6719599a49b8a1f6cdba3df4fc2347c0c3d911e54c1cccc18727b
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:16:15Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,9 +66,9 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
+- Évora
 - Hospital do Espírito Santo
 - Quadro de Pessoal
-- Évora
 relationships:
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/11/1993/01/15/p/dre
@@ -110,16 +110,60 @@ relationships:
   target: eli:http://data.dre.pt/eli/port/974/1993/10/04/p/dre
   label: null
   source: http://data.dre.pt/eli/port/974/1993/10/04/p/dre
+- type: cites
+  target: pt:dre:193414:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:300060:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:367855:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:431801:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:432183:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:476728:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:506796:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:508985:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:586006:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:642185:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:645700:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:16:15Z'
   warnings: []
   errors: []
 ---
@@ -142,7 +186,7 @@ Manda o Governo, pelos Ministros de Estado e das Finanças e da Saúde, o seguin
 
 Em 19 de Dezembro de 2005.
 
-**O Ministro de Estado e das Finanças, Fernando Teixeira dos Santos. - Pelo Ministro da Saúde, Carmen Madalena da Costa Gomes e Cunha Pignatelli, Secretária de Estado Adjunta e da Saúde.**
+O Ministro de Estado e das Finanças, Fernando Teixeira dos Santos. - Pelo Ministro da Saúde, Carmen Madalena da Costa Gomes e Cunha Pignatelli, Secretária de Estado Adjunta e da Saúde.
 
 MAPA I
 

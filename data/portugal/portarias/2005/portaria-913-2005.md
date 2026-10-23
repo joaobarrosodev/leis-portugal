@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/913/2005/09/26/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/913-2005-147640
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2005-09-26T00:00:00Z'
+  retrieved_at: '2026-10-23T15:09:08Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: fd3e55a3adc3261620edb29d715bb06ad61ab0e1e1fd1b2295a36bd258439941
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 93a672a707527fdca73eb12f6f3c6cf5c47b4c6804918e24b883ed6e48211bd8
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:09:08Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -65,10 +65,10 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Formação Profissional
-- Plano de Estudos
 - Ensino Profissional
 - Ensino Secundário
+- Formação Profissional
+- Plano de Estudos
 - Qualificação Profissional
 relationships:
 - type: cites
@@ -111,16 +111,140 @@ relationships:
   target: eli:http://data.dre.pt/eli/port/550-c/2004/05/21/p/dre
   label: null
   source: http://data.dre.pt/eli/port/550-c/2004/05/21/p/dre
+- type: cites
+  target: pt:dre:177387:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:178833:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:179803:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:179804:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:186536:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:187313:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:187317:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:187320:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:187321:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:187323:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:188883:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:188888:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:189356:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:189357:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:189934:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:198886:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:199097:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:199452:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:199457:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:200013:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:208851:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:210801:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:232350:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:238849:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:554613:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:562212:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:572672:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:573559:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:574109:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:574122:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:574125:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:09:08Z'
   warnings: []
   errors: []
 ---

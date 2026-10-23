@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/2s/2001/01/005000000/0023700237.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -46,18 +46,18 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/resolucao/3-2001-1790883
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2001-01-06T00:00:00Z'
+  retrieved_at: '2026-10-23T15:10:46Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 2b761b888d81d01ae1addecfe6cb1fcda3de16d84a494f849afa1342e98c61f4
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 419e16f8a25ce683cfd7ecf0fbe9d80bca0717f7191ec92086644fe73367f28b
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:10:46Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -69,13 +69,13 @@ relationships: []
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:10:46Z'
   warnings: []
   errors: []
 ---
@@ -92,6 +92,6 @@ Resolução n.º 3/2001 (2.ª série). - Pela resolução n.º 41/2000/PL do ple
 
 4 - Os concursos para os lugares de professores catedrático e associado abertos à data da publicação da presente resolução mantêm-se válidos, sendo os candidatos aprovados providos nos correspondentes lugares dos departamentos de acordo com as regras previstas nos números anteriores.
 
-[([ver documento original](https://files.diariodarepublica.pt/2s/2001/01/005000000/0023700237.pdf))](https://files.diariodarepublica.pt/2s/2001/01/005000000/0023700237.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/2s/2001/01/005000000/0023700237.pdf)
 
 12 de Dezembro de 2000. - O Vice-Reitor, Daniel Moura.

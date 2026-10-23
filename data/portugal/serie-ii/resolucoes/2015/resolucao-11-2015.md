@@ -47,40 +47,63 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/resolucao/11-2015-66507631
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2022-07-04T00:00:00Z'
+  retrieved_at: '2026-10-23T15:15:32Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 023153552a9bde6570fdabd51165a9596311c1db7bb2b1a348c0b8692b9d8c11
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: a599fb3ea7f5d2b6bd2503868c8d44753f5e53c609623946ae10eba210eea473
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:15:32Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Conselho Geral
+- Instituto de Avaliação Educativa
+- Nomeação
 relationships:
 - type: amended_by
   target: pt:dre:185601682:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:75076011:por
+  label: Alterada a al. d) do n.º 1 da Res 24/2013 de 20-set, na redação da presente Resolução, pelo(a) Resolução n.º 21/2016
+    - Diário da República n.º 147/2016, Série II de 2016-08-02
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/resolucao/21-2016-75076011
+  date: '2016-08-02'
+- type: cites
+  target: pt:dre:2529167:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:498755:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:185601682:por
+  label: Revogada, com efeitos a 23.06.2022, a presente resolução, pelo(a) Resolução do Conselho de Ministros n.º 53/2022
+    - Diário da República n.º 127/2022, Série I de 2022-07-04
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/resolucao-conselho-ministros/53-2022-185601682
+  date: '2022-07-04'
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:15:32Z'
   warnings: []
   errors: []
 ---
@@ -264,3 +287,5 @@ Formador de professores desde 1997, em diversos centros de formação, acreditad
 Exercício de diversos cargos em escolas básicas e secundárias, a par da atividade letiva: diretor de turma, delegado de grupo disciplinar, membro do Conselho Pedagógico, membro do Conselho Diretivo, orientador de estágio pedagógico, coordenador de diversos projetos curriculares e de complemento curricular;
 
 Professor do Quadro da Escola Secundária de Santa Maria - Sintra.
+
+208431406

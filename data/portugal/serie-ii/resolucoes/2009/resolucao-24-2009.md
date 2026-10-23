@@ -46,40 +46,79 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/resolucao/24-2009-2003990
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2011-06-30T00:00:00Z'
+  retrieved_at: '2026-10-23T15:14:22Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 1d2067b2223b110a286897533be99283440af7148d7e8628c1d2a0de80b13145
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: a3ea75b7369d13d5ea514c371a91cdfaddb9874ef129b807aaf887e7383b794a
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:14:22Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Aveiro
+- Beja
+- Braga
+- Bragança
+- Castelo Branco
+- Coimbra
+- Évora
+- Exoneração
+- Faro
+- Governador Civil
+- Guarda
+- Leiria
+- Lisboa
+- Nomeação
+- Portalegre
+- Porto
+- Santarém
+- Setúbal
+- Viana do Castelo
+- Vila Real
+- Viseu
 relationships:
 - type: amended_by
   target: pt:dre:3226941:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:2601590:por
+  label: "Exonerados, com efeitos a partir de 26.04.2011, os Lics. Isilda Maria Prazeres dos Santos Varges Gomes, Maria Isabel\
+    \ Coelho Santos e Miguel Bernardo Ginestal Machado Monteiro Albuquerque, respectivamente, dos cargos de governador civil\
+    \ dos distritos de Faro, Porto e Viseu, pela RES.4/2011.29.04.2011.PCM, DR.IIS [83] de 29.04.2011\01\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/resolucao/4-2011-2601590
+  date: '2011-04-29'
+- type: amended_by
+  target: pt:dre:3226941:por
+  label: "Exonerados os governadores civis dos distritos de Aveiro, Beja, Braga, Braga, Castelo Branco, Coimbra, Évora, Guarda,\
+    \ Leiria, Lisboa, Portalegre, Santarém, Setúbal, Viana do Castelo e Vila Real, pela RES.13/2011.30.06.2011.PCM, DR.IIS\
+    \ [124] de 30.06.2011\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/resolucao/13-2011-3226941
+  date: '2011-06-30'
+- type: cites
+  target: pt:dre:584790:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:14:22Z'
   warnings: []
   errors: []
 ---
@@ -167,3 +206,5 @@ s) Licenciado Miguel Bernardo Ginestal Machado Monteiro Albuquerque, para o carg
 3 - Estabelecer que a presente resolução produz efeitos a partir de 19 de Novembro de 2009.
 
 19 de Novembro de 2009. - O Primeiro-Ministro, José Sócrates Carvalho Pinto de Sousa.
+
+32582009

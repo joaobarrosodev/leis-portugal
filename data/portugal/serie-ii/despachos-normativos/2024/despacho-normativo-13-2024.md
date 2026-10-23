@@ -47,36 +47,69 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/despacho-normativo/13-2024-885385212
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2024-08-23T00:00:00Z'
+  retrieved_at: '2026-10-23T15:09:05Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 517d32cfe411e6ac64924cad3d302ca50603a4cd79219a8f21c16f77ead319b5
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 91274d3aeab0cc966b425b1925d52a9a2981cff749c88ae2b0143dfcf664f3c5
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:09:05Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
-relationships: []
+subjects:
+- Comparticipação do Estado
+- Ensino Cooperativo
+- Ensino Particular
+- Estabelecimento de Ensino
+- Estudante
+- Matrícula
+- REDE Escolar
+relationships:
+- type: amends
+  target: pt:numero:despacho-normativo:6/2018
+  label: Altera, a partir de 24 de agosto de 2024, o artigo 4.º do Despacho Normativo n.º 6/2018, de 12 de abril, Diário da
+    República n.º 72/2018, Série II
+  source: null
+  date: '2018-04-12'
+- type: cites
+  target: pt:dre:115093805:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:161433525:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:179057:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:66041468:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:67429780:por
+  label: null
+  source: null
 article_structure:
   article_count: 3
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:09:05Z'
   warnings: []
   errors: []
 ---
@@ -136,3 +169,5 @@ O artigo 4.º do [Despacho Normativo n.º 6/2018](https://diariodarepublica.pt/d
 O presente despacho entra em vigor no dia seguinte ao da sua publicação.
 
 28 de julho de 2024. - O Ministro da Educação, Ciência e Inovação, Fernando Manuel de Almeida Alexandre.
+
+318019352

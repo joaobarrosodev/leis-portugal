@@ -46,41 +46,54 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/despacho-normativo/2-2008-787563
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2008-01-10T00:00:00Z'
+  retrieved_at: '2026-10-23T15:06:49Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 85daafa41d912f79371d06b8317effc8bdd2e0d55b2e35f4c0a7b8131144471f
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: e5bf439fd03b3e7d441b41c819c64c2ac1975a313e8916fcde64407133010ef3
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:06:49Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
-relationships: []
+subjects:
+- Lisboa
+- Porto
+- Transporte
+- Transporte de Passageiros
+- Transporte Ferroviário
+- Transporte Fluvial
+- Transporte Público
+- Transporte Rodoviário
+- Transporte Urbano
+relationships:
+- type: cites
+  target: pt:dre:469604:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:06:49Z'
   warnings: []
   errors: []
 ---
 
-# Despacho Normativo n.º 2/2008
+# Despacho normativo n.º 2/2008
 
 Nos termos e ao abrigo na alínea b) do n.º 2 do artigo 10.º do [Decreto-Lei n.º 8/93](https://diariodarepublica.pt/dr/detalhe/decreto-lei/8-1993-469604), de 11 de Janeiro, determina-se o seguinte:
 

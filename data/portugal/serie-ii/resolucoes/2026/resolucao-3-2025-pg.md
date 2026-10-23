@@ -46,36 +46,49 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/resolucao/3-2026-1049506629
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2026-02-13T00:00:00Z'
+  retrieved_at: '2026-10-23T15:16:27Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 2a6e876a96232581177d660e897255351ccc5ca11906de739af2ed79b1d5dc5f
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 4a2d003d90f42a8c4b828621fe40b1f78dd910ef5086e90fa864b7b894f5965b
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:16:27Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
-relationships: []
+subjects:
+- Açores
+- Plano de Actividades
+- Plano de Contas
+- Programa
+- Tribunal de Contas
+relationships:
+- type: cites
+  target: pt:dre:163991832:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:193663:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:16:27Z'
   warnings: []
   errors: []
 ---
@@ -96,6 +109,8 @@ O Plenário Geral do Tribunal de Contas, reunido em sessão de 19 de dezembro de
 
 6 - Os serviços com funções de Caixas do Tesouro prestam contas de acordo com a [Instrução n.º 1/2021](https://diariodarepublica.pt/dr/detalhe/instrucao/1-2021-163991832) - 2.ª Secção/SRA/SRM, publicada no Diário da República, 2.ª série, n.º 101, de 25 de maio de 2021.
 
-**Publique-se no Diário da República e no Jornal Oficial da Região Autónoma dos Açores, nos termos do artigo 9.º, n.<sup>os</sup>2, alínea d), e 3, da Lei de Organização e Processo do Tribunal de Contas.**
+Publique-se no Diário da República e no Jornal Oficial da Região Autónoma dos Açores, nos termos do artigo 9.º, n.os2, alínea d), e 3, da Lei de Organização e Processo do Tribunal de Contas.
 
 19 de dezembro de 2025. - A Presidente, Filipa Urbano Calvão.
+
+319962317

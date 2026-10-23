@@ -20,12 +20,12 @@ publication:
   reference: Diário da República n.º 168/2007, 2º Suplemento, Série I de 2007-08-31
   number: '168'
   series: I
-  supplement: 2º Suplemento
+  supplement: null
   pages: 6100-(8) a 6100-(8)
   pdf_url: https://files.diariodarepublica.pt/1s/2007/08/16802/0000800008.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/1050-b/2007/08/31/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/1050-b-2007-230945
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2009-05-20T00:00:00Z'
+  retrieved_at: '2026-10-23T15:17:52Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 0aa21e4233ea95033674e5b567081e5e4cee5c90f7f0c2fcb25cd0b15b01795e
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: ec6165f6ca33ff2945f25fb48642f26595a70aacc985bd077b39ccac384e3e5d
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:17:52Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,8 +67,8 @@ reuse:
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
 - Inspecção Geral
-- Orgânica
 - Ministério da Ciência Tecnologia e Ensino Superior
+- Orgânica
 relationships:
 - type: amended_by
   target: pt:dre:608762:por
@@ -82,16 +82,29 @@ relationships:
   target: eli:http://data.dre.pt/eli/lei/4/2004/01/15/p/dre
   label: null
   source: http://data.dre.pt/eli/lei/4/2004/01/15/p/dre
+- type: cites
+  target: pt:dre:230944:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:603475:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:608762:por
+  label: "Revogada pela PORT.546/2009.20.05.2009.MCTES, DR.IS [97] de 20.05.2009\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/546-2009-608762
+  date: '2009-05-20'
 article_structure:
   article_count: 2
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:17:52Z'
   warnings: []
   errors: []
 ---
@@ -116,4 +129,4 @@ O número máximo de chefes de equipas multidisciplinares da Inspecção-Geral d
 
 A presente portaria entra em vigor no 1.º dia do mês seguinte ao da sua publicação.
 
-**O Ministro da Ciência, Tecnologia e Ensino Superior, José Mariano Rebelo Pires Gago, em 1 de Agosto de 2007.**
+O Ministro da Ciência, Tecnologia e Ensino Superior, José Mariano Rebelo Pires Gago, em 1 de Agosto de 2007.

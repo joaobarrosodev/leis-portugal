@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/2s/2015/10/201000000/2951429515.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -46,45 +46,72 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/despacho-normativo/20-2015-70684031
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2019-06-14T00:00:00Z'
+  retrieved_at: '2026-10-23T15:08:00Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: dec90690d7de14d9325df3a4499b4c5ba41ad8c2feac264c7b583e3cacec1ae6
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: b3a9ff0051fa1e46752fc120ab7fed89093ffa6264795249d2836a43f9e23905
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:08:00Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Estatuto
+- Homologação
+- Instituto Politécnico
+- Instituto Politécnico do Cávado e do AVE
 relationships:
 - type: amended_by
   target: pt:dre:122574727:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:122574727:por
+  label: Homologada a revisão dos Estatutos do Instituto Politécnico do Cávado e do Ave publicados pelo DN 21/2010 de 22-jul,
+    na versão republicada dos Estatutos pelo presente Despacho, pelo(a) Despacho Normativo n.º 1-A/2019 - Diário da República
+    n.º 113/2019, 1º Suplemento, Série II de 2019-06-14 que procede à sua republicação
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/despacho-normativo/1-a-2019-122574727
+  date: '2019-06-14'
+- type: cites
+  target: pt:dre:1496400:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:571937:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:58752409:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:640339:por
+  label: null
+  source: null
 article_structure:
-  article_count: 6
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:08:00Z'
   warnings: []
   errors: []
 ---
 
-# Despacho Normativo n.º 20/2015
+# Despacho normativo n.º 20/2015
 
 Considerando o requerimento de homologação governamental das alterações aos Estatutos do Instituto Politécnico do Cávado e do Ave aprovadas pelo seu Conselho Geral;
 
@@ -154,7 +181,9 @@ c) Escola Superior de Design (ESD).
 
 12 - [...].
 
-###### Artigo 41.º — [...]
+Artigo 41.º
+
+[...]
 
 1 - Compete ao conselho de gestão:
 
@@ -174,7 +203,9 @@ f) [anterior alínea e)].
 
 3 - [...]
 
-###### Artigo 51.º — [...]
+Artigo 51.º
+
+[...]
 
 1 - [...]
 
@@ -188,7 +219,9 @@ f) [anterior alínea e)].
 
 6 - (Revogado.)
 
-###### Artigo 52.º — [...]
+Artigo 52.º
+
+[...]
 
 Compete ao diretor:
 
@@ -216,7 +249,9 @@ k) [anterior alínea i]);
 
 l) [anterior alínea j)].
 
-###### Artigo 54.º — [...]
+Artigo 54.º
+
+[...]
 
 1 - A escola que tenha mais de 2000 estudantes pode dispor de um secretário, de entre os trabalhadores do IPCA, com saber e experiência na área da gestão, nomeado e exonerado pelo diretor, carecendo tal ato da homologação do presidente do IPCA, que poderá não autorizar por motivos orçamentais.
 
@@ -228,7 +263,9 @@ l) [anterior alínea j)].
 
 5 - [...]
 
-###### Artigo 55.º — [...]
+Artigo 55.º
+
+[...]
 
 1 - [...]
 
@@ -242,7 +279,9 @@ l) [anterior alínea j)].
 
 6 - [...]
 
-###### Artigo 57.º — [...]
+Artigo 57.º
+
+[...]
 
 1 - [...]
 
@@ -257,3 +296,5 @@ l) [anterior alínea j)].
 6 - [...]
 
 7 - [...]»
+
+209006499

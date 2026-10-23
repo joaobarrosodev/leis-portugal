@@ -46,45 +46,75 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/despacho-normativo/3-2006-1567651
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2019-04-01T00:00:00Z'
+  retrieved_at: '2026-10-23T15:06:29Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 8224749fcb6eae81ba0a87de2bd341822b2599bda40ca1cc376a868c90cdbec6
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 3a7ec9e6b4c2f06c5e7551b6b1777ffb5f7f57106c1ab2cd071e19bfc99db174
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:06:29Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Museu
+- Rede Portuguesa de Museus
+- Regime de Apoio
+- Regulamento
 relationships:
 - type: amended_by
   target: pt:dre:121784694:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:117537583:por
+  label: Reativado o Programa de Apoio a Museus da Rede Portuguesa de Museus-ProMuseus pelo(a) Lei n.º 71/2018 - Diário da
+    República n.º 251/2018, Série I de 2018-12-31 nos termos do n.º 2 do seu art. 191.º
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/lei/71-2018-117537583
+  date: '2018-12-31'
+- type: cites
+  target: pt:dre:322723:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:480516:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:121784694:por
+  label: Revogado, sem prejuízo de se manterem em vigor as normas estritamente necessárias até à conclusão e encerramento
+    de contas dos programas de 2007 e 2010, o presente diploma, pelo(a) Despacho Normativo n.º 9/2019 - Diário da República
+    n.º 64/2019, Série II de 2019-04-01
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/despacho-normativo/9-2019-121784694
+  date: '2019-04-01'
+- type: repeals
+  target: pt:numero:despacho-normativo:28/2001
+  label: "Revoga o Despacho Normativo n.º 28/2001, de 7 de Junho, DR.IS-B [132]\0\0"
+  source: null
+  date: '2001-06-07'
 article_structure:
   article_count: 20
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:06:29Z'
   warnings: []
   errors: []
 ---
 
-# Despacho Normativo n.º 3/2006
+# Despacho normativo n.º 3/2006
 
 A criação de programas de apoio financeiro aos museus da Rede Portuguesa de Museus constitui uma das medidas estruturantes da política museológica nacional com o objectivo de contribuir para a qualificação dos museus portugueses e para a correcção das assimetrias existentes, bem como para a utilização integrada de recursos no âmbito da política cultural.
 
@@ -424,23 +454,23 @@ Identificação do(s) projecto(s) candidatado(s):
 
 1 - Designação dos projectos:
 
-[([ver documento original](https://files.diariodarepublica.pt/2s/2006/07/134000000/1110211107.pdf))](https://files.diariodarepublica.pt/2s/2006/07/134000000/1110211107.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/2s/2006/07/134000000/1110211107.pdf)
 
 2 - Duração dos projectos:
 
-[([ver documento original](https://files.diariodarepublica.pt/2s/2006/07/134000000/1110211107.pdf))](https://files.diariodarepublica.pt/2s/2006/07/134000000/1110211107.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/2s/2006/07/134000000/1110211107.pdf)
 
 3 - Valor da candidatura:
 
-[([ver documento original](https://files.diariodarepublica.pt/2s/2006/07/134000000/1110211107.pdf))](https://files.diariodarepublica.pt/2s/2006/07/134000000/1110211107.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/2s/2006/07/134000000/1110211107.pdf)
 
 4 - Executores do projecto e montantes a candidatar:
 
-[([ver documento original](https://files.diariodarepublica.pt/2s/2006/07/134000000/1110211107.pdf))](https://files.diariodarepublica.pt/2s/2006/07/134000000/1110211107.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/2s/2006/07/134000000/1110211107.pdf)
 
 5 - Proporção de responsabilidades financeiras nos projectos candidatados à área 7:
 
-[([ver documento original](https://files.diariodarepublica.pt/2s/2006/07/134000000/1110211107.pdf))](https://files.diariodarepublica.pt/2s/2006/07/134000000/1110211107.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/2s/2006/07/134000000/1110211107.pdf)
 
 Caracterização do(s) projecto(s) candidatado(s):
 

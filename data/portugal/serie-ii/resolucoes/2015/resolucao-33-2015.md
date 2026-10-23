@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/2s/2015/06/105000000/1396413964.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -46,36 +46,56 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/resolucao/33-2015-67341061
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2015-06-01T00:00:00Z'
+  retrieved_at: '2026-10-23T15:15:38Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 0949bcc039e019b3611d92a89a9aadfb00fb16c50332b4461e8555ad50964ce7
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 38cad71e90c7204cae13a9dea1f24e975fa7f8c1d36f0d5d2d87757d12465652
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:15:38Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
-relationships: []
+subjects:
+- Administração Central do Sistema de Saúde
+- Conselho Diretivo
+- Nomeação
+- Vogal
+relationships:
+- type: cites
+  target: pt:dre:520259:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:543026:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:544415:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:553466:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:15:38Z'
   warnings: []
   errors: []
 ---
@@ -111,3 +131,5 @@ Iniciou a sua atividade em 1987 como consultor independente na área dos sistema
 Liderou desde 2010 o Grupo de Administração Pública e Saúde em Portugal e Angola, com clientes em setores como, entre outros, as Finanças, a Segurança Social, o Fundo Social Europeu, a Administração Interna, a Justiça, a Saúde, a Modernização Administrativa, a Educação e os Correios. Assumiu nesses clientes responsabilidades concretas no planeamento, gestão e coordenação da ação comercial e do relacionamento com a gestão de topo e na liderança dos diferentes projetos em curso, abrangendo áreas tecnológicas e de organização e envolvendo a coordenação de equipas multidisciplinares. Ao nível interno, assegurou o planeamento, a gestão, o controlo e o reporte financeiro do grupo, assim como a gestão dos respetivos recursos humanos, responsabilizando-se pelo cumprimento das políticas internas nas diferentes vertentes.
 
 Como qualidades profissionais e pessoais específicas, destaque-se o elevado sentido de responsabilidade e capacidade de decisão, liderando as suas equipas em torno de metas concretas, orientadas aos objetivos e expectativas dos clientes. É persistente na obtenção dos resultados pretendidos nos seus projetos, sentindo-se particularmente à vontade na gestão de processos complexos de mudança e de implementação de novas capacidades, envolvendo equipas multidisciplinares de grande dimensão e com stakeholders variados.
+
+208684468

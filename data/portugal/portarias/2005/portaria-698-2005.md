@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/698/2005/08/23/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/698-2005-246124
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2005-08-23T00:00:00Z'
+  retrieved_at: '2026-10-23T15:07:52Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: b08edbdd0896d66a5044ff08832f466700f5bb38f60f751fcdfcdc5247f37eae
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: fe684409f6533d83297c3fccfb047bf125176be84373ce5b0fd592ad47c829c4
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:07:52Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -68,8 +68,8 @@ reuse:
 subjects:
 - Cabeceiras de Basto
 - Celorico de Basto
-- Instituto do Emprego e Formação Profissional
 - Formação Profissional
+- Instituto do Emprego e Formação Profissional
 - Plano de Intervenção para o VALE do AVE
 - Política de Emprego
 relationships:
@@ -77,16 +77,20 @@ relationships:
   target: eli:http://data.dre.pt/eli/dec-lei/132/1999/04/21/p/dre
   label: null
   source: http://data.dre.pt/eli/dec-lei/132/1999/04/21/p/dre
+- type: cites
+  target: pt:dre:534598:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:07:52Z'
   warnings: []
   errors: []
 ---
@@ -123,4 +127,4 @@ Vigência
 
 O presente diploma entra em vigor no dia seguinte ao da sua publicação e vigora durante o mesmo período que vigorar o PIAVE.
 
-**O Secretário de Estado do Emprego e da Formação Profissional, Fernando Medina Maciel Almeida Correia, em 25 de Julho de 2005.**
+O Secretário de Estado do Emprego e da Formação Profissional, Fernando Medina Maciel Almeida Correia, em 25 de Julho de 2005.

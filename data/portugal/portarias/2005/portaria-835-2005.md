@@ -48,18 +48,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/835/2005/09/16/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/835-2005-139221
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2005-11-25T00:00:00Z'
+  retrieved_at: '2026-10-23T15:08:42Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 2dce42728e0cd0298ba1a2019954beb28070abb4b354fa2a8768df1f3950bbdb
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: bd920dcf0183ab538d6c6ca9141fa91ca78d2b911e30a2f631105a36f9133fc5
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:08:42Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -70,30 +70,34 @@ subjects:
 - Abrantes
 - Aveiro
 - Barreiro
+- Beja
+- Bragança
 - Caldas da Rainha
-- Formação Profissional
-- Escola Superior de Artes e Design
+- Castelo Branco
+- Coimbra
 - Elvas
 - Ensino Oficial
 - Ensino Superior Politécnico
 - Escola Superior Agrária
 - Escola Superior de Artes Aplicadas
+- Escola Superior de Artes e Design
 - Escola Superior de Ciências Empresariais
 - Escola Superior de Educação
 - Escola Superior de Enfermagem do DR Lopes DIAS
 - Escola Superior de Estudos Industriais e de Gestão
 - Escola Superior de Gestão
 - Escola Superior de Gestão Hotelaria e Turismo
+- Escola Superior de Hotelaria e Turismo do Estoril
 - Escola Superior de Música
 - Escola Superior de Música e das Artes do Espectáculo
 - Escola Superior de Saúde
 - Escola Superior de Tecnologia da Saúde
 - Escola Superior de Tecnologia e Gestão
 - Escola Superior de Turismo e Telecomunicações
-- Universidade do Algarve
 - Faro
 - Felgueiras
-- Lisboa
+- Formação Profissional
+- Guarda
 - Idanha-a-nova
 - Instituto Politécnico
 - Instituto Politécnico do Cávado e do AVE
@@ -101,25 +105,21 @@ subjects:
 - Instituto Superior de Engenharia
 - Lamego
 - Leiria
-- Escola Superior de Hotelaria e Turismo do Estoril
+- Lisboa
 - Mirandela
 - Numerus Clausus
 - Oliveira do Hospital
 - Peniche
-- Setúbal
-- Beja
-- Castelo Branco
 - Ponte de LIMA
-- Coimbra
 - Portalegre
 - Portimão
+- Porto
 - Qualificação Profissional
 - Santarém
-- Bragança
 - Seia
+- Setúbal
 - Tomar
-- Porto
-- Guarda
+- Universidade do Algarve
 - Valença
 - Viana do Castelo
 - Viseu
@@ -144,16 +144,40 @@ relationships:
   target: eli:http://data.dre.pt/eli/port/533-a/1999/07/22/p/dre
   label: null
   source: http://data.dre.pt/eli/port/533-a/1999/07/22/p/dre
+- type: cites
+  target: pt:dre:147873:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:222418:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:429596:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:453184:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:561983:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:653145:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:08:42Z'
   warnings: []
   errors: []
 ---
@@ -190,7 +214,7 @@ Entrada em vigor
 
 Esta portaria entra em vigor no dia imediato ao da sua publicação.
 
-**O Ministro da Ciência, Tecnologia e Ensino Superior, José Mariano Rebelo Pires Gago, em 29 de Agosto de 2005.**
+O Ministro da Ciência, Tecnologia e Ensino Superior, José Mariano Rebelo Pires Gago, em 29 de Agosto de 2005.
 
 ## ANEXO
 

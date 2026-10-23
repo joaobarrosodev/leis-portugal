@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/833/2005/09/16/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/833-2005-139219
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2010-03-16T00:00:00Z'
+  retrieved_at: '2026-10-23T15:08:41Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: da9099681dabfcd8419a7436c1c3f8297d33d64caf5c4b46c408e1466b9fe047
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 97a3ff9342ee1155e06a09f023cf1afe31544533b4f049877e9aa1cab6c513ae
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:08:41Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -68,17 +68,31 @@ reuse:
 subjects:
 - Atividade Agrícola
 - Instituto da ÁGUA
-- Ordenamento do Território
 - Instituto de Desenvolvimento Rural e Hidráulica
 - Lista
+- Ordenamento do Território
+- Pesticida
 - Política de Solos
 - Poluição da água
-- Pesticida
 relationships:
 - type: amended_by
   target: pt:dre:611935:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:552307:por
+  label: "Alterados os limites da zona vulnerável n.º 1, Esposende-Vila do Conde, definidos pela Portaria n.º 1100/2004, de\
+    \ 3 de Setembro, e determinados posteriormente no presente diploma, pela PORT.1433/2006.27.12.2006.MAOTDR, DR.IS [247]\
+    \ de 27.12.2006\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/1433-2006-552307
+  date: '2006-12-27'
+- type: amended_by
+  target: pt:dre:611935:por
+  label: "Alterados os limites da zona vulnerável Elvas-Vila Boim (redesignada como zona vulnerável Elvas) definidos pela\
+    \ Port 1100/2004, de 03-Set, aditada pelo presente diploma, pela PORT.164/2010.16.03.2010.MADRP, DR.IS [52] de 16.03.2010\0\
+    \0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/164-2010-611935
+  date: '2010-03-16'
 - type: cites
   target: celex:31991L0676
   label: null
@@ -86,13 +100,13 @@ relationships:
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:08:41Z'
   warnings: []
   errors: []
 ---
@@ -121,7 +135,7 @@ Manda o Governo, pelos Ministros do Ambiente, do Ordenamento do Território e do
 
 Em 20 de Julho de 2005.
 
-**O Ministro do Ambiente, do Ordenamento do Território e do Desenvolvimento Regional, Francisco Carlos da Graça Nunes Correia. - Pelo Ministro da Agricultura, do Desenvolvimento Rural e das Pescas, Rui Nobre Gonçalves, Secretário de Estado do Desenvolvimento Rural e das Florestas.**
+O Ministro do Ambiente, do Ordenamento do Território e do Desenvolvimento Regional, Francisco Carlos da Graça Nunes Correia. - Pelo Ministro da Agricultura, do Desenvolvimento Rural e das Pescas, Rui Nobre Gonçalves, Secretário de Estado do Desenvolvimento Rural e das Florestas.
 
 ## ANEXO — Zonas vulneráveis
 

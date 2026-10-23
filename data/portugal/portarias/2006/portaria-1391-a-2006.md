@@ -21,12 +21,12 @@ publication:
   reference: Diário da República n.º 237/2006, 1º Suplemento, Série I de 2006-12-12
   number: '237'
   series: I
-  supplement: 1º Suplemento
+  supplement: null
   pages: 8342-(2) a 8342-(4)
   pdf_url: https://files.diariodarepublica.pt/1s/2006/12/23701/00020004.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -48,18 +48,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/1391-a/2006/12/12/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/1391-a-2006-283559
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2007-12-07T00:00:00Z'
+  retrieved_at: '2026-10-23T15:12:00Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: e5ff9398477c519f56d7f4d6b9c6e3e21455b82beb0c4b5c2c82718ab4b844d8
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 213373725f20c600a6031959aea6709d45613ed8c139910b1b6a8e85d3a58f74
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:12:00Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,14 +67,14 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Energia não Poluente
 - Código dos Impostos Especiais de Consumo
-- Imposto sobre Produtos Petrolíferos
-- Definição de Competências
 - Combustível
 - Comissão
-- Isenção Fiscal
+- Definição de Competências
 - Direcção Geral de Geologia e Energia
+- Energia não Poluente
+- Imposto sobre Produtos Petrolíferos
+- Isenção Fiscal
 relationships:
 - type: amended_by
   target: pt:dre:627662:por
@@ -84,16 +84,21 @@ relationships:
   target: celex:32003L0030
   label: null
   source: http://data.europa.eu/eli/dir/2003/30/oj
+- type: repealed_by
+  target: pt:dre:627662:por
+  label: "Revogada a partir de 08.12.2007 pela PORT.1554-A/2007.07.12.2007.MFAP, DR.IS [236-Supl] de 07.12.2007\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/1554-a-2007-627662
+  date: '2007-12-07'
 article_structure:
   article_count: 7
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:12:00Z'
   warnings: []
   errors: []
 ---
@@ -122,7 +127,7 @@ Manda o Governo, pelos Ministros de Estado e das Finanças, do Ambiente, do Orde
 
 2 - A quantidade máxima global de biocombustíveis passíveis de isenção de ISP, nos termos do artigo 71.º-A do CIEC, é fixada para o ano de 2007 no seguinte valor:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2006/12/23701/00020004.pdf))](https://files.diariodarepublica.pt/1s/2006/12/23701/00020004.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2006/12/23701/00020004.pdf)
 
 3 - A esta quantidade anual acresce a quantidade destinada exclusivamente aos pequenos produtores dedicados, tal como previsto no n.º 8 do artigo 71.º-A do CIEC, a atribuir nos termos do artigo 6.º do presente diploma.
 
@@ -210,7 +215,7 @@ A isenção concedida nas condições fixadas na presente portaria é válida pa
 
 Em 5 de Dezembro de 2006.
 
-**O Ministro de Estado e das Finanças, Fernando Teixeira dos Santos. - O Ministro do Ambiente, do Ordenamento do Território e do Desenvolvimento Regional, Francisco Carlos da Graça Nunes Correia. - O Ministro da Economia e da Inovação, Manuel António Gomes de Almeida de Pinho. - Pelo Ministro da Agricultura, do Desenvolvimento Rural e das Pescas, Rui Nobre Gonçalves, Secretário de Estado do Desenvolvimento Rural e das Florestas. - O Ministro das Obras Públicas, Transportes e Comunicações, Mário Lino Soares Correia.**
+O Ministro de Estado e das Finanças, Fernando Teixeira dos Santos. - O Ministro do Ambiente, do Ordenamento do Território e do Desenvolvimento Regional, Francisco Carlos da Graça Nunes Correia. - O Ministro da Economia e da Inovação, Manuel António Gomes de Almeida de Pinho. - Pelo Ministro da Agricultura, do Desenvolvimento Rural e das Pescas, Rui Nobre Gonçalves, Secretário de Estado do Desenvolvimento Rural e das Florestas. - O Ministro das Obras Públicas, Transportes e Comunicações, Mário Lino Soares Correia.
 
 ## ANEXO I — Documentos que acompanham a proposta
 

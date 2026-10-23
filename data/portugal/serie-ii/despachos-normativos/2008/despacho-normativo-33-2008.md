@@ -47,41 +47,64 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/despacho-normativo/33-2008-3507853
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2008-07-17T00:00:00Z'
+  retrieved_at: '2026-10-23T15:06:54Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: a03b965c359f16250a187d97b64f0450d64a2508482e44aef149c0342441bb8b
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: d781bc6ca0a2e1bb605dcf31569d878d5f3c0b990d6bdb158d26de0e677c40a9
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:06:54Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
-relationships: []
+subjects:
+- Conselho Diretivo
+- Delegação de Competências
+- Governo XVII
+- Instituto da Mobilidade e dos Transportes Terrestres
+- Lisboa
+- Ministro das Obras Públicas Transportes e Comunicações
+- Passe Social
+- Porto
+- Preço
+- Presidente
+- Titulo de Transporte
+- Transporte
+- Transporte de Passageiros
+- Transporte Ferroviário
+- Transporte Fluvial
+- Transporte Público
+- Transporte Rodoviário
+- Transporte Terrestre
+- Transporte Urbano
+relationships:
+- type: cites
+  target: pt:dre:469604:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:06:54Z'
   warnings: []
   errors: []
 ---
 
-# Despacho Normativo n.º 33/2008
+# Despacho normativo n.º 33/2008
 
 Os preços dos combustíveis têm uma forte incidência nos custos de produção dos transportes pelo que as suas frequentes subidas provocam desequilíbrios financeiros nas empresas que prestam serviços de transporte público colectivo de passageiros, sujeitos a tarifas máximas.
 

@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/2s/2016/08/154000000/2509925117.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,45 +46,86 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/despacho-normativo/8-2016-75129592
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2022-06-01T00:00:00Z'
+  retrieved_at: '2026-10-23T15:08:13Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: c9af77746695619e8f3050b806c3e634eb96efdfe38f8c40504dbbcdc5af22ad
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: d31c49dbeec23cc27086ef153a0243a2a8ea74ee214b9398e3cf7d96602641ee
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:08:13Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Ensino Superior
+- Estatuto
+- Homologação
+- Universidade dos Açores
 relationships:
 - type: amended_by
   target: pt:dre:184233750:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:108041528:por
+  label: Homologada a alteração aos arts. 42.º, 78.º, 82.º, 83.º, 85.º, 87.º, 91.º, 95.º, 98.º e 105.º, bem como a alteração
+    ao anexo II, aditado o art. 42.º-A e revogado o n.º 4 do art. 42.º dos Estatutos da Universidade dos Açores, homologados
+    pelo presente diploma, pelo(a) Despacho Normativo n.º 11/2017 - Diário da República n.º 163/2017, Série II de 2017-08-24
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/despacho-normativo/11-2017-108041528
+  date: '2017-08-24'
+- type: cites
+  target: pt:dre:1196781:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:480966:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:56385231:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:565377:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:640339:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:67459789:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:184233750:por
+  label: Revogados os Estatutos, pelo(a) Despacho Normativo n.º 8/2022 - Diário da República n.º 106/2022, Série II de 2022-06-01
+    nos termos dos arts. 145.º e 146.º dos Estatutos a este anexos
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/despacho-normativo/8-2022-184233750
+  date: '2022-06-01'
 article_structure:
   article_count: 139
   section_count: 55
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:08:13Z'
   warnings: []
   errors: []
 ---
 
-# Despacho Normativo n.º 8/2016
+# Despacho normativo n.º 8/2016
 
 Os Estatutos da Universidade dos Açores foram homologados pelo [Despacho Normativo n.º 65-A/2008](https://diariodarepublica.pt/dr/detalhe/despacho-normativo/65-a-2008-1196781), de 10 de julho, publicado no Diário da República, 2.ª série, n.º 247, de 22 de dezembro, e posteriormente alterados pelo [Despacho Normativo n.º 12/2014](https://diariodarepublica.pt/dr/detalhe/despacho-normativo/12-2014-56385231), de 25 de agosto, publicado no Diário da República, 2.ª série, n.º 168, de 2 de dezembro; pelo [Despacho Normativo n.º 10/2015](https://diariodarepublica.pt/dr/detalhe/despacho-normativo/10-2015-67459789), de 3 de junho, publicado no Diário da República, 2.ª série, n.º 112, de 11 de junho.
 
@@ -1440,7 +1481,7 @@ d) Dois membros integrados regulares.
 
 Compete à comissão coordenadora científica, designadamente:
 
-a) Eleger o diretor de entre os membros integrados fundadores e efetivos da UI&D;
+a) Eleger o diretor de entre os membros integrados fundadores e efetivos da UI&D
 
 b) Propor a destituição do diretor por maioria de 2/3 dos seus membros;
 
@@ -1450,9 +1491,9 @@ d) Aprovar a proposta do plano estratégico de desenvolvimento a médio e longo 
 
 e) Aprovar as propostas de plano e relatórios anuais de atividades da UI&D, a submeter ao reitor;
 
-f) Pronunciar-se sobre as propostas de contratação de investigadores e técnicos para a UI&D;
+f) Pronunciar-se sobre as propostas de contratação de investigadores e técnicos para a UI&D
 
-g) Decidir sobre as propostas de admissão e exclusão de membros da UI&D;
+g) Decidir sobre as propostas de admissão e exclusão de membros da UI&D
 
 h) Pronunciar-se sobre o convite dos membros conselheiros;
 
@@ -1462,7 +1503,7 @@ j) Decidir sobre a criação e extinção de unidades científicas e pronunciar-
 
 k) Pronunciar-se sobre a participação da UI&D em outras entidades, de natureza pública ou privada, e indicar ou propor os seus representantes nos respetivos órgãos, quando a situação assim o determinar;
 
-l) Aprovar a política interna e externa para a partilha e a cedência de dados científicos produzidos no âmbito das atividades da UI&D;
+l) Aprovar a política interna e externa para a partilha e a cedência de dados científicos produzidos no âmbito das atividades da UI&D
 
 m) Aprovar a proposta de criação de estruturas funcionais e submetê-las ao reitor para homologação.
 
@@ -1496,11 +1537,11 @@ g) Fazer propostas de contratação de pessoal, ouvida a comissão coordenadora 
 
 h) Promover a elaboração do relatório de gestão e as contas, quando aplicável;
 
-i) Assegurar a coordenação dos meios humanos afetos à UI&D;
+i) Assegurar a coordenação dos meios humanos afetos à UI&D
 
-j) Zelar pela conservação e gerir os meios materiais afetos à UI&D;
+j) Zelar pela conservação e gerir os meios materiais afetos à UI&D
 
-k) Propor ao reitor a nomeação dos subdiretores da UI&D;
+k) Propor ao reitor a nomeação dos subdiretores da UI&D
 
 l) Nomear e destituir os membros da comissão externa de acompanhamento, ouvida a comissão coordenadora científica;
 
@@ -1536,7 +1577,7 @@ Integram o conselho científico:
 
 a) O diretor;
 
-b) Os membros integrados da UI&D;
+b) Os membros integrados da UI&D
 
 c) Os membros honorários da UI&D, sem direito a voto.
 
@@ -1544,7 +1585,7 @@ c) Os membros honorários da UI&D, sem direito a voto.
 
 Compete ao conselho científico:
 
-a) Debater o estado da arte e o desenvolvimento das atividades científicas e tecnológicas nas áreas de competência da UI&D;
+a) Debater o estado da arte e o desenvolvimento das atividades científicas e tecnológicas nas áreas de competência da UI&D
 
 b) Apresentar propostas sobre as linhas de investigação que a UI&D deve prosseguir;
 
@@ -1562,13 +1603,13 @@ c) Emitir pareceres sobre todos os assuntos que lhe sejam submetidos pelo direto
 
 Compete à comissão externa de acompanhamento, designadamente:
 
-a) Acompanhar e analisar o funcionamento da UI&D;
+a) Acompanhar e analisar o funcionamento da UI&D
 
 b) Recomendar estratégias de desenvolvimento científico e tecnológico;
 
-c) Promover a dimensão internacional da UI&D;
+c) Promover a dimensão internacional da UI&D
 
-d) Elaborar um relatório sumário anual sobre as atividades da UI&D;
+d) Elaborar um relatório sumário anual sobre as atividades da UI&D
 
 e) Emitir pareceres sobre todos os assuntos que lhe sejam submetidos pelo diretor.
 
@@ -1950,7 +1991,7 @@ O traje académico dos professores da Universidade dos Açores é a beca, que ob
 
 Traje académico
 
-[([ver documento original](https://files.diariodarepublica.pt/2s/2016/08/154000000/2509925117.pdf))](https://files.diariodarepublica.pt/2s/2016/08/154000000/2509925117.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/2s/2016/08/154000000/2509925117.pdf)
 
 2.º
 
@@ -1960,11 +2001,11 @@ As insígnias doutorais são constituídas por barrete e capelo. O barrete tem a
 
 Barrete
 
-[([ver documento original](https://files.diariodarepublica.pt/2s/2016/08/154000000/2509925117.pdf))](https://files.diariodarepublica.pt/2s/2016/08/154000000/2509925117.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/2s/2016/08/154000000/2509925117.pdf)
 
 Capelo
 
-[([ver documento original](https://files.diariodarepublica.pt/2s/2016/08/154000000/2509925117.pdf))](https://files.diariodarepublica.pt/2s/2016/08/154000000/2509925117.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/2s/2016/08/154000000/2509925117.pdf)
 
 3.º
 
@@ -2010,7 +2051,7 @@ O sol nascente;
 
 As ondas.
 
-[([ver documento original](https://files.diariodarepublica.pt/2s/2016/08/154000000/2509925117.pdf))](https://files.diariodarepublica.pt/2s/2016/08/154000000/2509925117.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/2s/2016/08/154000000/2509925117.pdf)
 
 4.º
 
@@ -2022,10 +2063,12 @@ Logótipos
 
 3 - As unidades orgânicas, de investigação ou outras podem criar logótipos próprios, os quais têm de se reconhecer claramente como associados à Universidade dos Açores e carecem de aprovação do reitor.
 
-[([ver documento original](https://files.diariodarepublica.pt/2s/2016/08/154000000/2509925117.pdf))](https://files.diariodarepublica.pt/2s/2016/08/154000000/2509925117.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/2s/2016/08/154000000/2509925117.pdf)
 
 5.º
 
 Cartas de curso
 
 As cartas de curso de licenciado, de mestre, de doutor e de agregado correspondentes aos graus atribuídos pela Universidade dos Açores serão impressos em papel Ingres, ou do mesmo tipo vergé de um fundo ocre, donde sobressai o brasão de armas em tom esbatido azul-marinho e a ocupar um quadrado sobre o qual se inscrevem os dizeres do titular ou texto propriamente dito (que pode ser impresso) a tinta preta ou azul. O cabeçalho do diploma deverá imprimir-se, também em tinta preta ou azul, podendo as palavras «carta de curso» ou «carta doutoral» ter uma tonalidade menos azul. Do diploma constará a assinatura do reitor, sobre a qual será aposto o selo branco da Universidade.
+
+209776259

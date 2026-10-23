@@ -27,7 +27,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/2s/2015/09/188000000/2764827648.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -49,41 +49,61 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/despacho-normativo/19-2015-70384046
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2015-09-25T00:00:00Z'
+  retrieved_at: '2026-10-23T15:07:59Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: aa9e6b51b238e8fe914e14bfffe934f1f08b308a286e7b416cbf4aaf5d8c8d5a
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 72f0642c942b3b166d234d6e21e2bc02ba238e9a546131c2d25086643af3753a
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:07:59Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
-relationships: []
+subjects:
+- Comparticipação do Estado
+- Instituto da Segurança Social
+- IPSS
+- Segurança Social
+relationships:
+- type: cites
+  target: pt:dre:260892:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:523181:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:67641479:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:67666075:por
+  label: null
+  source: null
 article_structure:
   article_count: 4
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:07:59Z'
   warnings: []
   errors: []
 ---
 
-# Despacho Normativo n.º 19/2015
+# Despacho normativo n.º 19/2015
 
 A Lei de Bases da Economia Social - [Lei n.º 30/2013](https://diariodarepublica.pt/dr/detalhe/lei/30-2013-260892), de 8 de maio - veio habilitar, formalmente, as entidades da economia social com instrumentos necessários para desenvolverem um conjunto de outras iniciativas, para além das suas áreas tradicionais de atuação, fomentando a inovação e o empreendedorismo, reforçando o potencial de crescimento do País e contribuindo para o reforço da coesão social.
 
@@ -140,3 +160,5 @@ c) O relatório e contas relativo ao exercício da atividade desenvolvida no ano
 O presente despacho produz efeitos a partir do dia seguinte ao da sua publicação.
 
 16 de setembro de 2015. - O Secretário de Estado da Solidariedade e da Segurança Social, Agostinho Correia Branquinho.
+
+208950925

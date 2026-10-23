@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/2s/2026/08/161000000/0058400584.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -46,18 +46,18 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/declaracao-retificacao/702-2026-1160416925
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2026-08-20T00:00:00Z'
+  retrieved_at: '2026-10-23T15:06:08Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 23ad5649641e7bbac85bb874810119fb2eafc3ec2714f4dfece6e5ee9b260744
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: cae1f1c1a7ec5b080b2587e6fe8ae9ec8aa8767f1b88333a547007ebc04f7e16
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:06:08Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -65,17 +65,21 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects: []
-relationships: []
+relationships:
+- type: cites
+  target: pt:dre:1155135529:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:06:08Z'
   warnings: []
   errors: []
 ---
@@ -85,3 +89,5 @@ validation:
 Por ter saído com inexatidão no Diário da República, 2.ª série, n.º 153, de 10 de agosto de 2026, o [Aviso n.º 19754/2026/2](https://diariodarepublica.pt/dr/detalhe/aviso/19754-2026-1155135529), referente à consolidação definitiva da mobilidade intercategorias, retifica-se que, onde se lê «Olga Maria Silva Saldanha, carreira/categoria Assistente Técnico, com efeitos a 2 de julho de 2026, posicionada na 2.ª posição, nível 17 da Tabela Remuneratória Única, a que corresponde o valor de 1551,78 €» deve ler-se «Olga Maria Silva Saldanha, carreira/categoria Coordenadora Técnica, com efeitos a 2 de julho de 2026, posicionada na 2.ª posição, nível 17 da Tabela Remuneratória Única, a que corresponde o valor de 1551,78 €»
 
 10 de agosto de 2026. - A Vereadora, Dr.ª Carla Maria Rodrigues Costa.
+
+320031753

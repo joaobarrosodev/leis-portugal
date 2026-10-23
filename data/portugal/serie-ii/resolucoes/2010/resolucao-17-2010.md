@@ -46,40 +46,65 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/resolucao/17-2010-1172415
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2015-07-08T00:00:00Z'
+  retrieved_at: '2026-10-23T15:14:31Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 4702738a0c737035daa772173cd1ae58499301ea6c151934029334590626e5a3
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 023df38fec0a57496fad0e7877ee570beb8a2263527b76eedd5b3e6c05fb7d4c
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:14:31Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Banco de Portugal
+- Governador
+- Nomeação
 relationships:
 - type: amended_by
   target: pt:dre:69749586:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:69749586:por
+  label: Renovado o mandato do governador do Banco de Portugal, Carlos da Silva Costa, pelo(a) Resolução n.º 37/2015 - Diário
+    da República n.º 131/2015, Série II de 2015-07-08
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/resolucao/37-2015-69749586
+  date: '2015-07-08'
+- type: cites
+  target: pt:dre:164212:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:225375:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:517844:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:553879:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:14:31Z'
   warnings: []
   errors: []
 ---
@@ -99,3 +124,5 @@ Nos termos do artigo 27.º da Lei Orgânica do Banco de Portugal, aprovada pela 
 2 - Estabelecer que a presente resolução produz efeitos a 7 de Junho de 2010.
 
 22 de Abril de 2010. - O Primeiro-Ministro, José Sócrates Carvalho Pinto de Sousa.
+
+10782010

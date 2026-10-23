@@ -46,41 +46,57 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/despacho-normativo/3-2008-2154244
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2008-01-15T00:00:00Z'
+  retrieved_at: '2026-10-23T15:06:51Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 5f911b5757cd8d202b6f6e46379ee3749d9683041693905967e28ca83c335032
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 2c83301533b299f3627cc4c8d50bc7a8ddf1efec9e6051efb0d7ca4cca0dfb48
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:06:51Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
-relationships: []
+subjects:
+- Definição de Competências
+- INEM
+- Orgânica
+- Regulamento
+relationships:
+- type: cites
+  target: pt:dre:520191:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:603478:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:638543:por
+  label: null
+  source: null
 article_structure:
   article_count: 7
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:06:51Z'
   warnings: []
   errors: []
 ---
 
-# Despacho Normativo n.º 3/2008
+# Despacho normativo n.º 3/2008
 
 O [Decreto-Lei n.º 220/2007](https://diariodarepublica.pt/dr/detalhe/decreto-lei/220-2007-638543), de 19 de Maio, procedeu à aprovação da Lei Orgânica do Instituto Nacional de Emergência Médica, I. P. (INEM, I. P) tendo os respectivos Estatutos sido aprovados pela Portaria nº 647/2007, de 30 de Maio. O artigo 1º, n.os 4 e 5, dos referidos Estatutos, determina que as unidades orgânicas criadas, no âmbito da mencionada portaria, podem ser desagregadas em unidades funcionais, designadas por serviços, centros ou unidades, e dirigidas, conforme os casos, por coordenadores de serviço, coordenadores de centro e responsáveis de unidade, cabendo ao conselho directivo do Instituto propor a criação de unidades orgânicas dentro dos limites fixados nos Estatutos, objecto de regulamento interno, que, nos termos do n.º 1 do artigo 12º e da alínea a) do n.º 4 do artigo 41º da [Lei n.º 3/2004](https://diariodarepublica.pt/dr/detalhe/lei/3-2004-603478), de 15 de Janeiro, com as alterações constantes do [Decreto-Lei n.º 105/2007](https://diariodarepublica.pt/dr/detalhe/decreto-lei/105-2007-520191), de 3 de Abril, é aprovado por despacho normativo dos membros do Governo responsáveis pelas áreas das Finanças e da Administração Pública e da Saúde.
 

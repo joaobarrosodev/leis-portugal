@@ -20,12 +20,12 @@ publication:
   reference: Diário da República n.º 145/2008, 1º Suplemento, Série II de 2008-07-29
   number: '145'
   series: II
-  supplement: 1º Suplemento
+  supplement: null
   pages: 34102-(2) a 34102-(4)
   pdf_url: https://files.diariodarepublica.pt/2s/2008/07/145000001/0000200004.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -47,45 +47,104 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/despacho-normativo/35-a-2008-1116545
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2016-12-21T00:00:00Z'
+  retrieved_at: '2026-10-23T15:06:54Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: d0ddba95be1d7ec7bb83e6f9213f8d9185a8c48250482d6fc267c476dfdc7c05
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: d8eebe810416ba7f53468b8aa5159fb94cd6532f8f9a6edda3ebdecace767262
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:06:54Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Assinatura Digital
+- Cejur
+- Certificação Electrónica
+- Diário da República
+- Diploma Legal
+- Imprensa Nacional-Casa da Moeda
+- Pagamento
+- Publicação Electrónica
+- Publicitação
+- Regulamento
+- Serviço Público
 relationships:
 - type: amended_by
   target: pt:dre:105579672:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:1142925:por
+  label: "Alterados os art.s 6º, 7º, 9º e 10º do Regulamento, pelo DN.13/2009.01.04.2009.SEPCM-PCM, DR.IIS [64] de 01.04.2009\0\
+    9\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/despacho-normativo/13-2009-1142925
+  date: '2009-04-01'
+- type: cites
+  target: pt:dre:234316:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:323949:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:357350:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:521257:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:548239:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:548241:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:623841:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:633530:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:640909:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:105579672:por
+  label: Revogado, a partir de 22.12.2016, o presente Despacho, na redação do DN 13/2009 de 01-abr, pelo(a) Despacho Normativo
+    n.º 15/2016 - Diário da República n.º 243/2016, Série II de 2016-12-21
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/despacho-normativo/15-2016-105579672
+  date: '2016-12-21'
 article_structure:
   article_count: 14
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:06:54Z'
   warnings: []
   errors: []
 ---
 
-# Despacho Normativo n.º 35-A/2008
+# Despacho normativo n.º 35-A/2008
 
 Na sequência do Programa Legislar Melhor, aprovado pela [Resolução do Conselho de Ministros n.º 63/2006](https://diariodarepublica.pt/dr/detalhe/resolucao-conselho-ministros/63-2006-633530), de 18 de Maio, e do conjunto de medidas destinadas a reformar a publicação do Diário da República que por aquele programa foram desencadeadas, foi emitido o despacho normativo n.º 38/2006, de 30 de Junho, publicado no Diário da República, 2.ª série, n.º 124, de 30 de Junho de 2006, consolidando diversas normas avulsas sobre a publicação de actos no Diário da República e implementando as novas orientações quanto à organização do jornal oficial.
 

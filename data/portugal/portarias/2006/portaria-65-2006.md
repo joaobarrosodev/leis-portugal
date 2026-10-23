@@ -48,18 +48,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/65/2006/01/17/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/65-2006-538404
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2010-07-01T00:00:00Z'
+  retrieved_at: '2026-10-23T15:15:23Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 0042e5d56c35d5e4542b7ac722f4e0f6d8694bde249b499a878b859e8044df8f
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 859eb0f166f7fcbf87024e1b4309dcc84495881329429c4610009c29c6735575
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:15:23Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -76,6 +76,18 @@ relationships:
   target: pt:dre:335180:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:640098:por
+  label: "Desanexados vários prédios rústicos à zona de caça concessionada pela Portaria 808/98 de 24 de Setembro, alterada\
+    \ pelo presente diploma, pela PORT.1081/2007.05.09.2007.MADRP, DR.IS [171] de 05.09.2007\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/1081-2007-640098
+  date: '2007-09-05'
+- type: amended_by
+  target: pt:dre:335180:por
+  label: "Renovada, por um período de seis anos, a zona de caça concessionada Port 808/98, de 24-Set, alterada pela presente\
+    \ portaria, pela PORT.458/2010.01.07.2010.MADRP, DR.IS [126] de 01.07.2010\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/458-2010-335180
+  date: '2010-07-01'
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/201/2005/11/24/p/dre
   label: null
@@ -92,16 +104,32 @@ relationships:
   target: eli:http://data.dre.pt/eli/port/627/2005/08/01/p/dre
   label: null
   source: http://data.dre.pt/eli/port/627/2005/08/01/p/dre
+- type: cites
+  target: pt:dre:240258:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:480704:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:481498:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:617299:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:15:23Z'
   warnings: []
   errors: []
 ---

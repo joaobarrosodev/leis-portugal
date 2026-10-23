@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/2s/2003/07/172000000/1127011275.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -46,18 +46,18 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/resolucao/50-2003-1331797
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2003-07-28T00:00:00Z'
+  retrieved_at: '2026-10-23T15:11:51Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: f032a0c0990817311be7731873636f91c23a2f39acacd2b1ae20d54ca177b64b
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 55c7948dfae09a928cee5e0587245329fc29237ee1bf3586d6d3068bfa558a49
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:11:51Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -65,17 +65,29 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects: []
-relationships: []
+relationships:
+- type: cites
+  target: pt:dre:168059:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:355494:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:478840:por
+  label: null
+  source: null
 article_structure:
   article_count: 34
   section_count: 5
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:11:51Z'
   warnings: []
   errors: []
 ---
@@ -248,9 +260,9 @@ f) Apoiar juridicamente as reuniões dos júris de concursos documentais para pr
 
 O Gabinete de Apoio a Projectos, que exerce as suas atribuições no domínio específico do apoio às actividades de I&D, depende directamente do elemento da Reitoria com funções delegadas para o pelouro da investigação, é dirigido por um chefe de divisão e compete-lhe, nomeadamente:
 
-a) Dinamizar e preparar candidaturas a programas financiadores de I&D;
+a) Dinamizar e preparar candidaturas a programas financiadores de I&D
 
-b) Prestar apoio jurídico e administrativo na negociação e execução de contratos de I&D;
+b) Prestar apoio jurídico e administrativo na negociação e execução de contratos de I&D
 
 c) Elaborar estudos e pareceres e proceder ao tratamento de informação científica e técnica no domínio da actividade científica das diferentes unidades de investigação;
 

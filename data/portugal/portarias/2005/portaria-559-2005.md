@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/559/2005/06/28/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/559-2005-234162
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2005-12-15T00:00:00Z'
+  retrieved_at: '2026-10-23T15:07:02Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: bfc6970b1b9dbbc16d8bee1774cd945c2566b0e30fe5e78300f68494e9aa7a5c
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: d62829332f663e322f5e6b45042527c31d50e6ca4d5fb11ab1d3ab403e40cdd2
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:07:02Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -65,25 +65,25 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
+- Agricultura
 - Albufeira.cidade
-- Financiamento
 - Batata
 - Bombarral
 - Citrinos
+- Crédito
 - Faro
+- Financiamento
+- Fruticultura
 - JURO Bonificado
 - Lagoa
 - Linha de Crédito
 - Lourinhã
-- Crédito
 - Óbidos
 - Olhão
 - Peniche
 - Pessoa Coletiva
 - Pessoa Singular
 - Produto Hortícola
-- Fruticultura
-- Agricultura
 - Silves
 - Tavira
 - Torres Vedras
@@ -92,20 +92,29 @@ relationships:
   target: pt:dre:493976:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:493976:por
+  label: "Alterado o nº 1 do nº 2º e o anexo pela PORT.1293/2005.15.12.2005.MADRP, DR.IS-B [239] de 15.12.2005\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/1293-2005-493976
+  date: '2005-12-15'
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/96/2005/06/09/p/dre
   label: null
   source: http://data.dre.pt/eli/dec-lei/96/2005/06/09/p/dre
+- type: cites
+  target: pt:dre:227412:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:07:02Z'
   warnings: []
   errors: []
 ---

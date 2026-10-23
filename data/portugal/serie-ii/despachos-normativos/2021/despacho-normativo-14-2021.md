@@ -26,7 +26,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/2s/2021/05/097000000/0008500086.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -48,25 +48,42 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/despacho-normativo/14-2021-163627656
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2021-05-19T00:00:00Z'
+  retrieved_at: '2026-10-23T15:08:47Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 030257334d44645943b8f012d68e0b29304826952eb6a050c650657620d2ed19
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 1625c5e0bf308173997af2c05ed79f7acdc290817d6b536bf4472bc62a9aa4d9
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:08:47Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Acção Financeira
+- Agricultor
+- Agricultura
+- Ajuda Comunitária
+- Autarquia Local
+- Auxílio de Minimis
+- Castelo Branco
+- Catástrofe
+- Direcção Regional de Agricultura e Pescas do Centro
+- Exploração Agrícola
+- Fruticultura
+- Fundão
+- IFAP
+- Pagamento
+- Pessoa Coletiva
+- Pessoa Singular
+- Vinha
 relationships:
 - type: cites
   target: celex:32013R1408
@@ -76,16 +93,20 @@ relationships:
   target: celex:32019R0316
   label: null
   source: null
+- type: cites
+  target: pt:dre:126869983:por
+  label: null
+  source: null
 article_structure:
   article_count: 5
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:08:47Z'
   warnings: []
   errors: []
 ---
@@ -135,3 +156,5 @@ Assim, ao abrigo do disposto no artigo 31.º do [Decreto-Lei n.º 169-B/2019](ht
 O presente despacho normativo entra em vigor no dia seguinte ao da sua publicação.
 
 14 de maio de 2021. - O Secretário de Estado da Agricultura e do Desenvolvimento Rural, Rui Manuel Costa Martinho.
+
+314244128

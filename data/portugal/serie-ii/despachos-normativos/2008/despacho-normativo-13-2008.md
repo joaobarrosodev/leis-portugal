@@ -46,45 +46,58 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/despacho-normativo/13-2008-1805340
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2008-02-26T00:00:00Z'
+  retrieved_at: '2026-10-23T15:06:45Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 683e5b43d6cce0fe6a1f49a5b6ec493bec3a250ec85a50244be8833d163488bd
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: ba2ac8e5b24c10ffa7bea5d48b18fc4f2da227751b8af54b9f4b8f27881228e6
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:06:45Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Açores
+- Pecuária
+- Produção Leiteira
+- Quota de Produção
+- Regulamento CE
 relationships:
 - type: cites
   target: celex:32003R1788
   label: null
   source: null
+- type: cites
+  target: pt:dre:424732:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:562399:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:06:45Z'
   warnings: []
   errors: []
 ---
 
-# Despacho Normativo n.º 13/2008
+# Despacho normativo n.º 13/2008
 
 O [Despacho Normativo n.º 21/2005](https://diariodarepublica.pt/dr/detalhe/despacho-normativo/21-2005-562399), publicado no Diário da República, 1.ª série-B, n.º 66, de 5 de Abril de 2005, definiu para o período anterior à plena inclusão no regime do pagamento único das ajudas ao sector do leite, os limites máximos da quantidade de referência detida por cada produtor nacional que pode ser objecto de cedência temporária a outros produtores, autorizada no âmbito da cessão temporária de quotas, ao abrigo do disposto no artigo 11.º do [Decreto-Lei n.º 240/2002](https://diariodarepublica.pt/dr/detalhe/decreto-lei/240-2002-424732), de 5 de Novembro.
 
@@ -92,7 +105,7 @@ Tendo em conta que se encontra concluída a inclusão do sector do leite no refe
 
 Assim, ao abrigo do disposto no artigo 16.º do Regulamento (CE) n.º 1788/2003, do Conselho, de 29 de Setembro, determina-se o seguinte:
 
-###### Artigo Único: É aditada a alínea d) ao n.º 1 do artigo 1.º do [Despacho Normativo n.º 21/2005](https://diariodarepublica.pt/dr/detalhe/despacho-normativo/21-2005-562399), publicado no Diário da República, 1.ª série-B, n.º 66, de 5 de Abril, com a seguinte redacção:
+Artigo Único: É aditada a alínea d) ao n.º 1 do artigo 1.º do [Despacho Normativo n.º 21/2005](https://diariodarepublica.pt/dr/detalhe/despacho-normativo/21-2005-562399), publicado no Diário da República, 1.ª série-B, n.º 66, de 5 de Abril, com a seguinte redacção:
 
 «Artigo 1.º
 

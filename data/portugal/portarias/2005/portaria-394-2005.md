@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/394/2005/04/07/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/394-2005-568361
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2005-04-07T00:00:00Z'
+  retrieved_at: '2026-10-23T15:06:06Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 15e52234fc89da6be951227100645f37202554ab6a9ce71b96f597696aae0235
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: ebe5a1105caaf4a1e09b9a31bf10036329951bf81723224e617544047af37920
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:06:06Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,12 +66,12 @@ reuse:
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
 - Aprendizagem Profissional
-- Instituto do Emprego e Formação Profissional
-- Formação Profissional
-- Diploma
 - Artesanato
+- Diploma
 - Ensino Profissional
 - Ensino Tecnológico
+- Formação Profissional
+- Instituto do Emprego e Formação Profissional
 - Jovem Trabalhador
 - Política de Emprego
 relationships:
@@ -103,16 +103,52 @@ relationships:
   target: eli:http://data.dre.pt/eli/port/989/1999/11/03/p/dre
   label: null
   source: http://data.dre.pt/eli/port/989/1999/11/03/p/dre
+- type: cites
+  target: pt:dre:226416:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:288674:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:303187:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:304327:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:319952:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:357329:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:523412:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:661731:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:694187:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:06:06Z'
   warnings: []
   errors: []
 ---
@@ -481,7 +517,7 @@ XI - Disposições finais
 
 Área de artesanato
 
-[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2005/04/068b00/28832918.pdf)
+[[[[[[[[[[[[[[[[[[[[[[[[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2005/04/068b00/28832918.pdf)](https://files.diariodarepublica.pt/1s/2005/04/068b00/28832918.pdf)](https://files.diariodarepublica.pt/1s/2005/04/068b00/28832918.pdf)](https://files.diariodarepublica.pt/1s/2005/04/068b00/28832918.pdf)](https://files.diariodarepublica.pt/1s/2005/04/068b00/28832918.pdf)](https://files.diariodarepublica.pt/1s/2005/04/068b00/28832918.pdf)](https://files.diariodarepublica.pt/1s/2005/04/068b00/28832918.pdf)](https://files.diariodarepublica.pt/1s/2005/04/068b00/28832918.pdf)](https://files.diariodarepublica.pt/1s/2005/04/068b00/28832918.pdf)](https://files.diariodarepublica.pt/1s/2005/04/068b00/28832918.pdf)](https://files.diariodarepublica.pt/1s/2005/04/068b00/28832918.pdf)](https://files.diariodarepublica.pt/1s/2005/04/068b00/28832918.pdf)](https://files.diariodarepublica.pt/1s/2005/04/068b00/28832918.pdf)](https://files.diariodarepublica.pt/1s/2005/04/068b00/28832918.pdf)](https://files.diariodarepublica.pt/1s/2005/04/068b00/28832918.pdf)](https://files.diariodarepublica.pt/1s/2005/04/068b00/28832918.pdf)](https://files.diariodarepublica.pt/1s/2005/04/068b00/28832918.pdf)](https://files.diariodarepublica.pt/1s/2005/04/068b00/28832918.pdf)](https://files.diariodarepublica.pt/1s/2005/04/068b00/28832918.pdf)](https://files.diariodarepublica.pt/1s/2005/04/068b00/28832918.pdf)](https://files.diariodarepublica.pt/1s/2005/04/068b00/28832918.pdf)](https://files.diariodarepublica.pt/1s/2005/04/068b00/28832918.pdf)](https://files.diariodarepublica.pt/1s/2005/04/068b00/28832918.pdf)](https://files.diariodarepublica.pt/1s/2005/04/068b00/28832918.pdf)
 
 Nota. - Os formandos com o ensino secundário (12.º ano) podem ter acesso a este itinerário desde que completem um percurso que lhes atribua o nível 3 de qualificação profissional de acordo com o n.º 3 do n.º 7.º da [Portaria n.º 392/2002](https://diariodarepublica.pt/dr/detalhe/portaria/392-2002-303187), de 12 de Abril.
 
@@ -521,7 +557,7 @@ Itinerário referência n.º 1 - Decoração cerâmica (1) (nível 2)
 
 Saída profissional - Decorador(a) cerâmico(a)
 
-[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2005/04/068b00/28832918.pdf)
+[[[[[[[[[[[[[[[[[[[[[[[[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2005/04/068b00/28832918.pdf)](https://files.diariodarepublica.pt/1s/2005/04/068b00/28832918.pdf)](https://files.diariodarepublica.pt/1s/2005/04/068b00/28832918.pdf)](https://files.diariodarepublica.pt/1s/2005/04/068b00/28832918.pdf)](https://files.diariodarepublica.pt/1s/2005/04/068b00/28832918.pdf)](https://files.diariodarepublica.pt/1s/2005/04/068b00/28832918.pdf)](https://files.diariodarepublica.pt/1s/2005/04/068b00/28832918.pdf)](https://files.diariodarepublica.pt/1s/2005/04/068b00/28832918.pdf)](https://files.diariodarepublica.pt/1s/2005/04/068b00/28832918.pdf)](https://files.diariodarepublica.pt/1s/2005/04/068b00/28832918.pdf)](https://files.diariodarepublica.pt/1s/2005/04/068b00/28832918.pdf)](https://files.diariodarepublica.pt/1s/2005/04/068b00/28832918.pdf)](https://files.diariodarepublica.pt/1s/2005/04/068b00/28832918.pdf)](https://files.diariodarepublica.pt/1s/2005/04/068b00/28832918.pdf)](https://files.diariodarepublica.pt/1s/2005/04/068b00/28832918.pdf)](https://files.diariodarepublica.pt/1s/2005/04/068b00/28832918.pdf)](https://files.diariodarepublica.pt/1s/2005/04/068b00/28832918.pdf)](https://files.diariodarepublica.pt/1s/2005/04/068b00/28832918.pdf)](https://files.diariodarepublica.pt/1s/2005/04/068b00/28832918.pdf)](https://files.diariodarepublica.pt/1s/2005/04/068b00/28832918.pdf)](https://files.diariodarepublica.pt/1s/2005/04/068b00/28832918.pdf)](https://files.diariodarepublica.pt/1s/2005/04/068b00/28832918.pdf)](https://files.diariodarepublica.pt/1s/2005/04/068b00/28832918.pdf)](https://files.diariodarepublica.pt/1s/2005/04/068b00/28832918.pdf)
 
 ## ANEXO N.º 3 — Itinerário referência n.º 2 - Decoração cerâmica (2) (nível 2)
 
@@ -557,7 +593,7 @@ Itinerário referência n.º 2 - Decoração cerâmica (2) (nível 2)
 
 Saída profissional - Decorador(a) cerâmico(a)
 
-[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2005/04/068b00/28832918.pdf)
+[[[[[[[[[[[[[[[[[[[[[[[[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2005/04/068b00/28832918.pdf)](https://files.diariodarepublica.pt/1s/2005/04/068b00/28832918.pdf)](https://files.diariodarepublica.pt/1s/2005/04/068b00/28832918.pdf)](https://files.diariodarepublica.pt/1s/2005/04/068b00/28832918.pdf)](https://files.diariodarepublica.pt/1s/2005/04/068b00/28832918.pdf)](https://files.diariodarepublica.pt/1s/2005/04/068b00/28832918.pdf)](https://files.diariodarepublica.pt/1s/2005/04/068b00/28832918.pdf)](https://files.diariodarepublica.pt/1s/2005/04/068b00/28832918.pdf)](https://files.diariodarepublica.pt/1s/2005/04/068b00/28832918.pdf)](https://files.diariodarepublica.pt/1s/2005/04/068b00/28832918.pdf)](https://files.diariodarepublica.pt/1s/2005/04/068b00/28832918.pdf)](https://files.diariodarepublica.pt/1s/2005/04/068b00/28832918.pdf)](https://files.diariodarepublica.pt/1s/2005/04/068b00/28832918.pdf)](https://files.diariodarepublica.pt/1s/2005/04/068b00/28832918.pdf)](https://files.diariodarepublica.pt/1s/2005/04/068b00/28832918.pdf)](https://files.diariodarepublica.pt/1s/2005/04/068b00/28832918.pdf)](https://files.diariodarepublica.pt/1s/2005/04/068b00/28832918.pdf)](https://files.diariodarepublica.pt/1s/2005/04/068b00/28832918.pdf)](https://files.diariodarepublica.pt/1s/2005/04/068b00/28832918.pdf)](https://files.diariodarepublica.pt/1s/2005/04/068b00/28832918.pdf)](https://files.diariodarepublica.pt/1s/2005/04/068b00/28832918.pdf)](https://files.diariodarepublica.pt/1s/2005/04/068b00/28832918.pdf)](https://files.diariodarepublica.pt/1s/2005/04/068b00/28832918.pdf)](https://files.diariodarepublica.pt/1s/2005/04/068b00/28832918.pdf)
 
 ## ANEXO N.º 4 — Itinerário referência n.º 3 - Pintura artística de azulejo (1) (nível 3)
 
@@ -593,7 +629,7 @@ Itinerário referência n.º 3 - Pintura artística de azulejo (1) (nível 3)
 
 Saída profissional - Pintor(a) artístico(a) de azulejo
 
-[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2005/04/068b00/28832918.pdf)
+[[[[[[[[[[[[[[[[[[[[[[[[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2005/04/068b00/28832918.pdf)](https://files.diariodarepublica.pt/1s/2005/04/068b00/28832918.pdf)](https://files.diariodarepublica.pt/1s/2005/04/068b00/28832918.pdf)](https://files.diariodarepublica.pt/1s/2005/04/068b00/28832918.pdf)](https://files.diariodarepublica.pt/1s/2005/04/068b00/28832918.pdf)](https://files.diariodarepublica.pt/1s/2005/04/068b00/28832918.pdf)](https://files.diariodarepublica.pt/1s/2005/04/068b00/28832918.pdf)](https://files.diariodarepublica.pt/1s/2005/04/068b00/28832918.pdf)](https://files.diariodarepublica.pt/1s/2005/04/068b00/28832918.pdf)](https://files.diariodarepublica.pt/1s/2005/04/068b00/28832918.pdf)](https://files.diariodarepublica.pt/1s/2005/04/068b00/28832918.pdf)](https://files.diariodarepublica.pt/1s/2005/04/068b00/28832918.pdf)](https://files.diariodarepublica.pt/1s/2005/04/068b00/28832918.pdf)](https://files.diariodarepublica.pt/1s/2005/04/068b00/28832918.pdf)](https://files.diariodarepublica.pt/1s/2005/04/068b00/28832918.pdf)](https://files.diariodarepublica.pt/1s/2005/04/068b00/28832918.pdf)](https://files.diariodarepublica.pt/1s/2005/04/068b00/28832918.pdf)](https://files.diariodarepublica.pt/1s/2005/04/068b00/28832918.pdf)](https://files.diariodarepublica.pt/1s/2005/04/068b00/28832918.pdf)](https://files.diariodarepublica.pt/1s/2005/04/068b00/28832918.pdf)](https://files.diariodarepublica.pt/1s/2005/04/068b00/28832918.pdf)](https://files.diariodarepublica.pt/1s/2005/04/068b00/28832918.pdf)](https://files.diariodarepublica.pt/1s/2005/04/068b00/28832918.pdf)](https://files.diariodarepublica.pt/1s/2005/04/068b00/28832918.pdf)
 
 ## ANEXO N.º 5 — Itinerário referência n.º 4 - Pintura artística de azulejo (2) (nível 3)
 
@@ -629,7 +665,7 @@ Itinerário referência n.º 4 - Pintura artística de azulejo (2) (nível 3)
 
 Saída profissional - Pintor(a) artístico(a) de azulejo
 
-[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2005/04/068b00/28832918.pdf)
+[[[[[[[[[[[[[[[[[[[[[[[[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2005/04/068b00/28832918.pdf)](https://files.diariodarepublica.pt/1s/2005/04/068b00/28832918.pdf)](https://files.diariodarepublica.pt/1s/2005/04/068b00/28832918.pdf)](https://files.diariodarepublica.pt/1s/2005/04/068b00/28832918.pdf)](https://files.diariodarepublica.pt/1s/2005/04/068b00/28832918.pdf)](https://files.diariodarepublica.pt/1s/2005/04/068b00/28832918.pdf)](https://files.diariodarepublica.pt/1s/2005/04/068b00/28832918.pdf)](https://files.diariodarepublica.pt/1s/2005/04/068b00/28832918.pdf)](https://files.diariodarepublica.pt/1s/2005/04/068b00/28832918.pdf)](https://files.diariodarepublica.pt/1s/2005/04/068b00/28832918.pdf)](https://files.diariodarepublica.pt/1s/2005/04/068b00/28832918.pdf)](https://files.diariodarepublica.pt/1s/2005/04/068b00/28832918.pdf)](https://files.diariodarepublica.pt/1s/2005/04/068b00/28832918.pdf)](https://files.diariodarepublica.pt/1s/2005/04/068b00/28832918.pdf)](https://files.diariodarepublica.pt/1s/2005/04/068b00/28832918.pdf)](https://files.diariodarepublica.pt/1s/2005/04/068b00/28832918.pdf)](https://files.diariodarepublica.pt/1s/2005/04/068b00/28832918.pdf)](https://files.diariodarepublica.pt/1s/2005/04/068b00/28832918.pdf)](https://files.diariodarepublica.pt/1s/2005/04/068b00/28832918.pdf)](https://files.diariodarepublica.pt/1s/2005/04/068b00/28832918.pdf)](https://files.diariodarepublica.pt/1s/2005/04/068b00/28832918.pdf)](https://files.diariodarepublica.pt/1s/2005/04/068b00/28832918.pdf)](https://files.diariodarepublica.pt/1s/2005/04/068b00/28832918.pdf)](https://files.diariodarepublica.pt/1s/2005/04/068b00/28832918.pdf)
 
 Subárea (madeiras)
 
@@ -667,7 +703,7 @@ Itinerário referência n.º 5 - Artes do mobiliário (1) (nível 2)
 
 Saída profissional - Artífice em marcenaria
 
-[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2005/04/068b00/28832918.pdf)
+[[[[[[[[[[[[[[[[[[[[[[[[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2005/04/068b00/28832918.pdf)](https://files.diariodarepublica.pt/1s/2005/04/068b00/28832918.pdf)](https://files.diariodarepublica.pt/1s/2005/04/068b00/28832918.pdf)](https://files.diariodarepublica.pt/1s/2005/04/068b00/28832918.pdf)](https://files.diariodarepublica.pt/1s/2005/04/068b00/28832918.pdf)](https://files.diariodarepublica.pt/1s/2005/04/068b00/28832918.pdf)](https://files.diariodarepublica.pt/1s/2005/04/068b00/28832918.pdf)](https://files.diariodarepublica.pt/1s/2005/04/068b00/28832918.pdf)](https://files.diariodarepublica.pt/1s/2005/04/068b00/28832918.pdf)](https://files.diariodarepublica.pt/1s/2005/04/068b00/28832918.pdf)](https://files.diariodarepublica.pt/1s/2005/04/068b00/28832918.pdf)](https://files.diariodarepublica.pt/1s/2005/04/068b00/28832918.pdf)](https://files.diariodarepublica.pt/1s/2005/04/068b00/28832918.pdf)](https://files.diariodarepublica.pt/1s/2005/04/068b00/28832918.pdf)](https://files.diariodarepublica.pt/1s/2005/04/068b00/28832918.pdf)](https://files.diariodarepublica.pt/1s/2005/04/068b00/28832918.pdf)](https://files.diariodarepublica.pt/1s/2005/04/068b00/28832918.pdf)](https://files.diariodarepublica.pt/1s/2005/04/068b00/28832918.pdf)](https://files.diariodarepublica.pt/1s/2005/04/068b00/28832918.pdf)](https://files.diariodarepublica.pt/1s/2005/04/068b00/28832918.pdf)](https://files.diariodarepublica.pt/1s/2005/04/068b00/28832918.pdf)](https://files.diariodarepublica.pt/1s/2005/04/068b00/28832918.pdf)](https://files.diariodarepublica.pt/1s/2005/04/068b00/28832918.pdf)](https://files.diariodarepublica.pt/1s/2005/04/068b00/28832918.pdf)
 
 ## ANEXO N.º 7 — Itinerário referência n.º 6 - Artes do mobiliário (2) (nível 2)
 
@@ -703,7 +739,7 @@ Itinerário referência n.º 6 - Artes do mobiliário (2) (nível 2)
 
 Saída profissional - Artífice em marcenaria
 
-[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2005/04/068b00/28832918.pdf)
+[[[[[[[[[[[[[[[[[[[[[[[[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2005/04/068b00/28832918.pdf)](https://files.diariodarepublica.pt/1s/2005/04/068b00/28832918.pdf)](https://files.diariodarepublica.pt/1s/2005/04/068b00/28832918.pdf)](https://files.diariodarepublica.pt/1s/2005/04/068b00/28832918.pdf)](https://files.diariodarepublica.pt/1s/2005/04/068b00/28832918.pdf)](https://files.diariodarepublica.pt/1s/2005/04/068b00/28832918.pdf)](https://files.diariodarepublica.pt/1s/2005/04/068b00/28832918.pdf)](https://files.diariodarepublica.pt/1s/2005/04/068b00/28832918.pdf)](https://files.diariodarepublica.pt/1s/2005/04/068b00/28832918.pdf)](https://files.diariodarepublica.pt/1s/2005/04/068b00/28832918.pdf)](https://files.diariodarepublica.pt/1s/2005/04/068b00/28832918.pdf)](https://files.diariodarepublica.pt/1s/2005/04/068b00/28832918.pdf)](https://files.diariodarepublica.pt/1s/2005/04/068b00/28832918.pdf)](https://files.diariodarepublica.pt/1s/2005/04/068b00/28832918.pdf)](https://files.diariodarepublica.pt/1s/2005/04/068b00/28832918.pdf)](https://files.diariodarepublica.pt/1s/2005/04/068b00/28832918.pdf)](https://files.diariodarepublica.pt/1s/2005/04/068b00/28832918.pdf)](https://files.diariodarepublica.pt/1s/2005/04/068b00/28832918.pdf)](https://files.diariodarepublica.pt/1s/2005/04/068b00/28832918.pdf)](https://files.diariodarepublica.pt/1s/2005/04/068b00/28832918.pdf)](https://files.diariodarepublica.pt/1s/2005/04/068b00/28832918.pdf)](https://files.diariodarepublica.pt/1s/2005/04/068b00/28832918.pdf)](https://files.diariodarepublica.pt/1s/2005/04/068b00/28832918.pdf)](https://files.diariodarepublica.pt/1s/2005/04/068b00/28832918.pdf)
 
 ## ANEXO N.º 8 — Itinerário referência n.º 7 - Artes e ofícios da madeira (1) (nível 3)
 
@@ -741,7 +777,7 @@ Itinerário referência n.º 7 - Artes e ofícios da madeira (1) (nível 3)
 
 Saída profissional - Artesão(ã) das artes da madeira
 
-[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2005/04/068b00/28832918.pdf)
+[[[[[[[[[[[[[[[[[[[[[[[[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2005/04/068b00/28832918.pdf)](https://files.diariodarepublica.pt/1s/2005/04/068b00/28832918.pdf)](https://files.diariodarepublica.pt/1s/2005/04/068b00/28832918.pdf)](https://files.diariodarepublica.pt/1s/2005/04/068b00/28832918.pdf)](https://files.diariodarepublica.pt/1s/2005/04/068b00/28832918.pdf)](https://files.diariodarepublica.pt/1s/2005/04/068b00/28832918.pdf)](https://files.diariodarepublica.pt/1s/2005/04/068b00/28832918.pdf)](https://files.diariodarepublica.pt/1s/2005/04/068b00/28832918.pdf)](https://files.diariodarepublica.pt/1s/2005/04/068b00/28832918.pdf)](https://files.diariodarepublica.pt/1s/2005/04/068b00/28832918.pdf)](https://files.diariodarepublica.pt/1s/2005/04/068b00/28832918.pdf)](https://files.diariodarepublica.pt/1s/2005/04/068b00/28832918.pdf)](https://files.diariodarepublica.pt/1s/2005/04/068b00/28832918.pdf)](https://files.diariodarepublica.pt/1s/2005/04/068b00/28832918.pdf)](https://files.diariodarepublica.pt/1s/2005/04/068b00/28832918.pdf)](https://files.diariodarepublica.pt/1s/2005/04/068b00/28832918.pdf)](https://files.diariodarepublica.pt/1s/2005/04/068b00/28832918.pdf)](https://files.diariodarepublica.pt/1s/2005/04/068b00/28832918.pdf)](https://files.diariodarepublica.pt/1s/2005/04/068b00/28832918.pdf)](https://files.diariodarepublica.pt/1s/2005/04/068b00/28832918.pdf)](https://files.diariodarepublica.pt/1s/2005/04/068b00/28832918.pdf)](https://files.diariodarepublica.pt/1s/2005/04/068b00/28832918.pdf)](https://files.diariodarepublica.pt/1s/2005/04/068b00/28832918.pdf)](https://files.diariodarepublica.pt/1s/2005/04/068b00/28832918.pdf)
 
 ## ANEXO N.º 9 — Itinerário referência n.º 8 - Artes e ofícios da madeira (2) (nível 3)
 
@@ -779,7 +815,7 @@ Itinerário referência n.º 8 - Artes e ofícios da madeira (2) (nível 3)
 
 Saída profissional - Artesão(ã) das artes da madeira
 
-[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2005/04/068b00/28832918.pdf)
+[[[[[[[[[[[[[[[[[[[[[[[[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2005/04/068b00/28832918.pdf)](https://files.diariodarepublica.pt/1s/2005/04/068b00/28832918.pdf)](https://files.diariodarepublica.pt/1s/2005/04/068b00/28832918.pdf)](https://files.diariodarepublica.pt/1s/2005/04/068b00/28832918.pdf)](https://files.diariodarepublica.pt/1s/2005/04/068b00/28832918.pdf)](https://files.diariodarepublica.pt/1s/2005/04/068b00/28832918.pdf)](https://files.diariodarepublica.pt/1s/2005/04/068b00/28832918.pdf)](https://files.diariodarepublica.pt/1s/2005/04/068b00/28832918.pdf)](https://files.diariodarepublica.pt/1s/2005/04/068b00/28832918.pdf)](https://files.diariodarepublica.pt/1s/2005/04/068b00/28832918.pdf)](https://files.diariodarepublica.pt/1s/2005/04/068b00/28832918.pdf)](https://files.diariodarepublica.pt/1s/2005/04/068b00/28832918.pdf)](https://files.diariodarepublica.pt/1s/2005/04/068b00/28832918.pdf)](https://files.diariodarepublica.pt/1s/2005/04/068b00/28832918.pdf)](https://files.diariodarepublica.pt/1s/2005/04/068b00/28832918.pdf)](https://files.diariodarepublica.pt/1s/2005/04/068b00/28832918.pdf)](https://files.diariodarepublica.pt/1s/2005/04/068b00/28832918.pdf)](https://files.diariodarepublica.pt/1s/2005/04/068b00/28832918.pdf)](https://files.diariodarepublica.pt/1s/2005/04/068b00/28832918.pdf)](https://files.diariodarepublica.pt/1s/2005/04/068b00/28832918.pdf)](https://files.diariodarepublica.pt/1s/2005/04/068b00/28832918.pdf)](https://files.diariodarepublica.pt/1s/2005/04/068b00/28832918.pdf)](https://files.diariodarepublica.pt/1s/2005/04/068b00/28832918.pdf)](https://files.diariodarepublica.pt/1s/2005/04/068b00/28832918.pdf)
 
 ## ANEXO N.º 10 — Itinerário referência n.º 9 - Restauro de arte sacra, escultura e talha (nível 4)
 
@@ -819,7 +855,7 @@ Itinerário referência n.º 9 - Restauro de arte sacra, escultura e talha (nív
 
 Saída profissional - Técnico(a) especializado(a) de restauro de arte sacra, escultura e talha
 
-[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2005/04/068b00/28832918.pdf)
+[[[[[[[[[[[[[[[[[[[[[[[[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2005/04/068b00/28832918.pdf)](https://files.diariodarepublica.pt/1s/2005/04/068b00/28832918.pdf)](https://files.diariodarepublica.pt/1s/2005/04/068b00/28832918.pdf)](https://files.diariodarepublica.pt/1s/2005/04/068b00/28832918.pdf)](https://files.diariodarepublica.pt/1s/2005/04/068b00/28832918.pdf)](https://files.diariodarepublica.pt/1s/2005/04/068b00/28832918.pdf)](https://files.diariodarepublica.pt/1s/2005/04/068b00/28832918.pdf)](https://files.diariodarepublica.pt/1s/2005/04/068b00/28832918.pdf)](https://files.diariodarepublica.pt/1s/2005/04/068b00/28832918.pdf)](https://files.diariodarepublica.pt/1s/2005/04/068b00/28832918.pdf)](https://files.diariodarepublica.pt/1s/2005/04/068b00/28832918.pdf)](https://files.diariodarepublica.pt/1s/2005/04/068b00/28832918.pdf)](https://files.diariodarepublica.pt/1s/2005/04/068b00/28832918.pdf)](https://files.diariodarepublica.pt/1s/2005/04/068b00/28832918.pdf)](https://files.diariodarepublica.pt/1s/2005/04/068b00/28832918.pdf)](https://files.diariodarepublica.pt/1s/2005/04/068b00/28832918.pdf)](https://files.diariodarepublica.pt/1s/2005/04/068b00/28832918.pdf)](https://files.diariodarepublica.pt/1s/2005/04/068b00/28832918.pdf)](https://files.diariodarepublica.pt/1s/2005/04/068b00/28832918.pdf)](https://files.diariodarepublica.pt/1s/2005/04/068b00/28832918.pdf)](https://files.diariodarepublica.pt/1s/2005/04/068b00/28832918.pdf)](https://files.diariodarepublica.pt/1s/2005/04/068b00/28832918.pdf)](https://files.diariodarepublica.pt/1s/2005/04/068b00/28832918.pdf)](https://files.diariodarepublica.pt/1s/2005/04/068b00/28832918.pdf)
 
 Subárea (têxtil)
 
@@ -857,7 +893,7 @@ Itinerário referência n.º 10 - Tecelagem e bordados (nível 2)
 
 Saída profissional - Tecelão(ã)
 
-[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2005/04/068b00/28832918.pdf)
+[[[[[[[[[[[[[[[[[[[[[[[[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2005/04/068b00/28832918.pdf)](https://files.diariodarepublica.pt/1s/2005/04/068b00/28832918.pdf)](https://files.diariodarepublica.pt/1s/2005/04/068b00/28832918.pdf)](https://files.diariodarepublica.pt/1s/2005/04/068b00/28832918.pdf)](https://files.diariodarepublica.pt/1s/2005/04/068b00/28832918.pdf)](https://files.diariodarepublica.pt/1s/2005/04/068b00/28832918.pdf)](https://files.diariodarepublica.pt/1s/2005/04/068b00/28832918.pdf)](https://files.diariodarepublica.pt/1s/2005/04/068b00/28832918.pdf)](https://files.diariodarepublica.pt/1s/2005/04/068b00/28832918.pdf)](https://files.diariodarepublica.pt/1s/2005/04/068b00/28832918.pdf)](https://files.diariodarepublica.pt/1s/2005/04/068b00/28832918.pdf)](https://files.diariodarepublica.pt/1s/2005/04/068b00/28832918.pdf)](https://files.diariodarepublica.pt/1s/2005/04/068b00/28832918.pdf)](https://files.diariodarepublica.pt/1s/2005/04/068b00/28832918.pdf)](https://files.diariodarepublica.pt/1s/2005/04/068b00/28832918.pdf)](https://files.diariodarepublica.pt/1s/2005/04/068b00/28832918.pdf)](https://files.diariodarepublica.pt/1s/2005/04/068b00/28832918.pdf)](https://files.diariodarepublica.pt/1s/2005/04/068b00/28832918.pdf)](https://files.diariodarepublica.pt/1s/2005/04/068b00/28832918.pdf)](https://files.diariodarepublica.pt/1s/2005/04/068b00/28832918.pdf)](https://files.diariodarepublica.pt/1s/2005/04/068b00/28832918.pdf)](https://files.diariodarepublica.pt/1s/2005/04/068b00/28832918.pdf)](https://files.diariodarepublica.pt/1s/2005/04/068b00/28832918.pdf)](https://files.diariodarepublica.pt/1s/2005/04/068b00/28832918.pdf)
 
 ## ANEXO N.º 12 — Itinerário referência n.º 11 - Tecelagem, tapeçaria, bordados e confecção (1)
 
@@ -905,7 +941,7 @@ Organizar e gerir a actividade.
 
 Condições de ingresso:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2005/04/068b00/28832918.pdf))](https://files.diariodarepublica.pt/1s/2005/04/068b00/28832918.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2005/04/068b00/28832918.pdf)
 
 Progressão e equivalência escolar do artesão(ã) têxtil. - Equivalência ao ensino secundário (12.º ano de escolaridade).
 
@@ -915,7 +951,7 @@ Itinerário referência n.º 11 - Tecelagem, tapeçaria, bordados e confecções
 
 Saídas profissionais - Tecelão(ã) (nível 2) e artesão(ã) têxtil (nível 3)
 
-[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2005/04/068b00/28832918.pdf)
+[[[[[[[[[[[[[[[[[[[[[[[[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2005/04/068b00/28832918.pdf)](https://files.diariodarepublica.pt/1s/2005/04/068b00/28832918.pdf)](https://files.diariodarepublica.pt/1s/2005/04/068b00/28832918.pdf)](https://files.diariodarepublica.pt/1s/2005/04/068b00/28832918.pdf)](https://files.diariodarepublica.pt/1s/2005/04/068b00/28832918.pdf)](https://files.diariodarepublica.pt/1s/2005/04/068b00/28832918.pdf)](https://files.diariodarepublica.pt/1s/2005/04/068b00/28832918.pdf)](https://files.diariodarepublica.pt/1s/2005/04/068b00/28832918.pdf)](https://files.diariodarepublica.pt/1s/2005/04/068b00/28832918.pdf)](https://files.diariodarepublica.pt/1s/2005/04/068b00/28832918.pdf)](https://files.diariodarepublica.pt/1s/2005/04/068b00/28832918.pdf)](https://files.diariodarepublica.pt/1s/2005/04/068b00/28832918.pdf)](https://files.diariodarepublica.pt/1s/2005/04/068b00/28832918.pdf)](https://files.diariodarepublica.pt/1s/2005/04/068b00/28832918.pdf)](https://files.diariodarepublica.pt/1s/2005/04/068b00/28832918.pdf)](https://files.diariodarepublica.pt/1s/2005/04/068b00/28832918.pdf)](https://files.diariodarepublica.pt/1s/2005/04/068b00/28832918.pdf)](https://files.diariodarepublica.pt/1s/2005/04/068b00/28832918.pdf)](https://files.diariodarepublica.pt/1s/2005/04/068b00/28832918.pdf)](https://files.diariodarepublica.pt/1s/2005/04/068b00/28832918.pdf)](https://files.diariodarepublica.pt/1s/2005/04/068b00/28832918.pdf)](https://files.diariodarepublica.pt/1s/2005/04/068b00/28832918.pdf)](https://files.diariodarepublica.pt/1s/2005/04/068b00/28832918.pdf)](https://files.diariodarepublica.pt/1s/2005/04/068b00/28832918.pdf)
 
 ## ANEXO N.º 13 — Itinerário referência n.º 12 - Tecelagem, tapeçaria, bordados e confecção (2) (nível 3)
 
@@ -955,7 +991,7 @@ Itinerário referência n.º 12 - Tecelagem, tapeçaria, bordados e confecções
 
 Saída profissional - Artesão(ã) têxtil
 
-[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2005/04/068b00/28832918.pdf)
+[[[[[[[[[[[[[[[[[[[[[[[[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2005/04/068b00/28832918.pdf)](https://files.diariodarepublica.pt/1s/2005/04/068b00/28832918.pdf)](https://files.diariodarepublica.pt/1s/2005/04/068b00/28832918.pdf)](https://files.diariodarepublica.pt/1s/2005/04/068b00/28832918.pdf)](https://files.diariodarepublica.pt/1s/2005/04/068b00/28832918.pdf)](https://files.diariodarepublica.pt/1s/2005/04/068b00/28832918.pdf)](https://files.diariodarepublica.pt/1s/2005/04/068b00/28832918.pdf)](https://files.diariodarepublica.pt/1s/2005/04/068b00/28832918.pdf)](https://files.diariodarepublica.pt/1s/2005/04/068b00/28832918.pdf)](https://files.diariodarepublica.pt/1s/2005/04/068b00/28832918.pdf)](https://files.diariodarepublica.pt/1s/2005/04/068b00/28832918.pdf)](https://files.diariodarepublica.pt/1s/2005/04/068b00/28832918.pdf)](https://files.diariodarepublica.pt/1s/2005/04/068b00/28832918.pdf)](https://files.diariodarepublica.pt/1s/2005/04/068b00/28832918.pdf)](https://files.diariodarepublica.pt/1s/2005/04/068b00/28832918.pdf)](https://files.diariodarepublica.pt/1s/2005/04/068b00/28832918.pdf)](https://files.diariodarepublica.pt/1s/2005/04/068b00/28832918.pdf)](https://files.diariodarepublica.pt/1s/2005/04/068b00/28832918.pdf)](https://files.diariodarepublica.pt/1s/2005/04/068b00/28832918.pdf)](https://files.diariodarepublica.pt/1s/2005/04/068b00/28832918.pdf)](https://files.diariodarepublica.pt/1s/2005/04/068b00/28832918.pdf)](https://files.diariodarepublica.pt/1s/2005/04/068b00/28832918.pdf)](https://files.diariodarepublica.pt/1s/2005/04/068b00/28832918.pdf)](https://files.diariodarepublica.pt/1s/2005/04/068b00/28832918.pdf)
 
 ## ANEXO N.º 14 — Itinerário referência n.º 13 - Artes da costura (1) (nível 2)
 
@@ -991,7 +1027,7 @@ Itinerário referência n.º 13 - Artes da costura (1) (nível 2)
 
 Saída profissional - Costureira(o) modista
 
-[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2005/04/068b00/28832918.pdf)
+[[[[[[[[[[[[[[[[[[[[[[[[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2005/04/068b00/28832918.pdf)](https://files.diariodarepublica.pt/1s/2005/04/068b00/28832918.pdf)](https://files.diariodarepublica.pt/1s/2005/04/068b00/28832918.pdf)](https://files.diariodarepublica.pt/1s/2005/04/068b00/28832918.pdf)](https://files.diariodarepublica.pt/1s/2005/04/068b00/28832918.pdf)](https://files.diariodarepublica.pt/1s/2005/04/068b00/28832918.pdf)](https://files.diariodarepublica.pt/1s/2005/04/068b00/28832918.pdf)](https://files.diariodarepublica.pt/1s/2005/04/068b00/28832918.pdf)](https://files.diariodarepublica.pt/1s/2005/04/068b00/28832918.pdf)](https://files.diariodarepublica.pt/1s/2005/04/068b00/28832918.pdf)](https://files.diariodarepublica.pt/1s/2005/04/068b00/28832918.pdf)](https://files.diariodarepublica.pt/1s/2005/04/068b00/28832918.pdf)](https://files.diariodarepublica.pt/1s/2005/04/068b00/28832918.pdf)](https://files.diariodarepublica.pt/1s/2005/04/068b00/28832918.pdf)](https://files.diariodarepublica.pt/1s/2005/04/068b00/28832918.pdf)](https://files.diariodarepublica.pt/1s/2005/04/068b00/28832918.pdf)](https://files.diariodarepublica.pt/1s/2005/04/068b00/28832918.pdf)](https://files.diariodarepublica.pt/1s/2005/04/068b00/28832918.pdf)](https://files.diariodarepublica.pt/1s/2005/04/068b00/28832918.pdf)](https://files.diariodarepublica.pt/1s/2005/04/068b00/28832918.pdf)](https://files.diariodarepublica.pt/1s/2005/04/068b00/28832918.pdf)](https://files.diariodarepublica.pt/1s/2005/04/068b00/28832918.pdf)](https://files.diariodarepublica.pt/1s/2005/04/068b00/28832918.pdf)](https://files.diariodarepublica.pt/1s/2005/04/068b00/28832918.pdf)
 
 ## ANEXO N.º 15 — Itinerário referência n.º 14 - Artes da costura (2) (nível 2)
 
@@ -1027,7 +1063,7 @@ Itinerário referência n.º 14 - Artes da costura (2) (nível 2)
 
 Saída profissional - Costureira(o) modista
 
-[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2005/04/068b00/28832918.pdf)
+[[[[[[[[[[[[[[[[[[[[[[[[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2005/04/068b00/28832918.pdf)](https://files.diariodarepublica.pt/1s/2005/04/068b00/28832918.pdf)](https://files.diariodarepublica.pt/1s/2005/04/068b00/28832918.pdf)](https://files.diariodarepublica.pt/1s/2005/04/068b00/28832918.pdf)](https://files.diariodarepublica.pt/1s/2005/04/068b00/28832918.pdf)](https://files.diariodarepublica.pt/1s/2005/04/068b00/28832918.pdf)](https://files.diariodarepublica.pt/1s/2005/04/068b00/28832918.pdf)](https://files.diariodarepublica.pt/1s/2005/04/068b00/28832918.pdf)](https://files.diariodarepublica.pt/1s/2005/04/068b00/28832918.pdf)](https://files.diariodarepublica.pt/1s/2005/04/068b00/28832918.pdf)](https://files.diariodarepublica.pt/1s/2005/04/068b00/28832918.pdf)](https://files.diariodarepublica.pt/1s/2005/04/068b00/28832918.pdf)](https://files.diariodarepublica.pt/1s/2005/04/068b00/28832918.pdf)](https://files.diariodarepublica.pt/1s/2005/04/068b00/28832918.pdf)](https://files.diariodarepublica.pt/1s/2005/04/068b00/28832918.pdf)](https://files.diariodarepublica.pt/1s/2005/04/068b00/28832918.pdf)](https://files.diariodarepublica.pt/1s/2005/04/068b00/28832918.pdf)](https://files.diariodarepublica.pt/1s/2005/04/068b00/28832918.pdf)](https://files.diariodarepublica.pt/1s/2005/04/068b00/28832918.pdf)](https://files.diariodarepublica.pt/1s/2005/04/068b00/28832918.pdf)](https://files.diariodarepublica.pt/1s/2005/04/068b00/28832918.pdf)](https://files.diariodarepublica.pt/1s/2005/04/068b00/28832918.pdf)](https://files.diariodarepublica.pt/1s/2005/04/068b00/28832918.pdf)](https://files.diariodarepublica.pt/1s/2005/04/068b00/28832918.pdf)
 
 Subárea (papel)
 
@@ -1061,7 +1097,7 @@ Itinerário referência n.º 15 - Encadernação (nível 2)
 
 Saída profissional - Artífice em encadernação
 
-[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2005/04/068b00/28832918.pdf)
+[[[[[[[[[[[[[[[[[[[[[[[[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2005/04/068b00/28832918.pdf)](https://files.diariodarepublica.pt/1s/2005/04/068b00/28832918.pdf)](https://files.diariodarepublica.pt/1s/2005/04/068b00/28832918.pdf)](https://files.diariodarepublica.pt/1s/2005/04/068b00/28832918.pdf)](https://files.diariodarepublica.pt/1s/2005/04/068b00/28832918.pdf)](https://files.diariodarepublica.pt/1s/2005/04/068b00/28832918.pdf)](https://files.diariodarepublica.pt/1s/2005/04/068b00/28832918.pdf)](https://files.diariodarepublica.pt/1s/2005/04/068b00/28832918.pdf)](https://files.diariodarepublica.pt/1s/2005/04/068b00/28832918.pdf)](https://files.diariodarepublica.pt/1s/2005/04/068b00/28832918.pdf)](https://files.diariodarepublica.pt/1s/2005/04/068b00/28832918.pdf)](https://files.diariodarepublica.pt/1s/2005/04/068b00/28832918.pdf)](https://files.diariodarepublica.pt/1s/2005/04/068b00/28832918.pdf)](https://files.diariodarepublica.pt/1s/2005/04/068b00/28832918.pdf)](https://files.diariodarepublica.pt/1s/2005/04/068b00/28832918.pdf)](https://files.diariodarepublica.pt/1s/2005/04/068b00/28832918.pdf)](https://files.diariodarepublica.pt/1s/2005/04/068b00/28832918.pdf)](https://files.diariodarepublica.pt/1s/2005/04/068b00/28832918.pdf)](https://files.diariodarepublica.pt/1s/2005/04/068b00/28832918.pdf)](https://files.diariodarepublica.pt/1s/2005/04/068b00/28832918.pdf)](https://files.diariodarepublica.pt/1s/2005/04/068b00/28832918.pdf)](https://files.diariodarepublica.pt/1s/2005/04/068b00/28832918.pdf)](https://files.diariodarepublica.pt/1s/2005/04/068b00/28832918.pdf)](https://files.diariodarepublica.pt/1s/2005/04/068b00/28832918.pdf)
 
 ## ANEXO N.º 17 — Itinerário referência n.º 16 - Artes da encadernação e decoração do livro (1)
 
@@ -1101,7 +1137,7 @@ Organizar e gerir a actividade.
 
 Condições de ingresso:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2005/04/068b00/28832918.pdf))](https://files.diariodarepublica.pt/1s/2005/04/068b00/28832918.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2005/04/068b00/28832918.pdf)
 
 Progressão e equivalência escolar do encadernador(a) dourador(a). - Equivalência ao ensino secundário (12.º ano de escolaridade).
 
@@ -1111,7 +1147,7 @@ Itinerário referência n.º 16 - Artes da encadernação e decoração do livro
 
 Saídas profissionais - Artífice em encadernação (nível 2) e encadernador(a) dourador(a) (nível 3)
 
-[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2005/04/068b00/28832918.pdf)
+[[[[[[[[[[[[[[[[[[[[[[[[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2005/04/068b00/28832918.pdf)](https://files.diariodarepublica.pt/1s/2005/04/068b00/28832918.pdf)](https://files.diariodarepublica.pt/1s/2005/04/068b00/28832918.pdf)](https://files.diariodarepublica.pt/1s/2005/04/068b00/28832918.pdf)](https://files.diariodarepublica.pt/1s/2005/04/068b00/28832918.pdf)](https://files.diariodarepublica.pt/1s/2005/04/068b00/28832918.pdf)](https://files.diariodarepublica.pt/1s/2005/04/068b00/28832918.pdf)](https://files.diariodarepublica.pt/1s/2005/04/068b00/28832918.pdf)](https://files.diariodarepublica.pt/1s/2005/04/068b00/28832918.pdf)](https://files.diariodarepublica.pt/1s/2005/04/068b00/28832918.pdf)](https://files.diariodarepublica.pt/1s/2005/04/068b00/28832918.pdf)](https://files.diariodarepublica.pt/1s/2005/04/068b00/28832918.pdf)](https://files.diariodarepublica.pt/1s/2005/04/068b00/28832918.pdf)](https://files.diariodarepublica.pt/1s/2005/04/068b00/28832918.pdf)](https://files.diariodarepublica.pt/1s/2005/04/068b00/28832918.pdf)](https://files.diariodarepublica.pt/1s/2005/04/068b00/28832918.pdf)](https://files.diariodarepublica.pt/1s/2005/04/068b00/28832918.pdf)](https://files.diariodarepublica.pt/1s/2005/04/068b00/28832918.pdf)](https://files.diariodarepublica.pt/1s/2005/04/068b00/28832918.pdf)](https://files.diariodarepublica.pt/1s/2005/04/068b00/28832918.pdf)](https://files.diariodarepublica.pt/1s/2005/04/068b00/28832918.pdf)](https://files.diariodarepublica.pt/1s/2005/04/068b00/28832918.pdf)](https://files.diariodarepublica.pt/1s/2005/04/068b00/28832918.pdf)](https://files.diariodarepublica.pt/1s/2005/04/068b00/28832918.pdf)
 
 ## ANEXO N.º 18 — Itinerário referência n.º 17 - Artes da encadernação e decoração do livro (2) (nível 3)
 
@@ -1147,7 +1183,7 @@ Itinerário referência n.º 17 - Artes da encadernação e decoração do livro
 
 Saída profissional - Encadernador(a) dourador(a)
 
-[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2005/04/068b00/28832918.pdf)
+[[[[[[[[[[[[[[[[[[[[[[[[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2005/04/068b00/28832918.pdf)](https://files.diariodarepublica.pt/1s/2005/04/068b00/28832918.pdf)](https://files.diariodarepublica.pt/1s/2005/04/068b00/28832918.pdf)](https://files.diariodarepublica.pt/1s/2005/04/068b00/28832918.pdf)](https://files.diariodarepublica.pt/1s/2005/04/068b00/28832918.pdf)](https://files.diariodarepublica.pt/1s/2005/04/068b00/28832918.pdf)](https://files.diariodarepublica.pt/1s/2005/04/068b00/28832918.pdf)](https://files.diariodarepublica.pt/1s/2005/04/068b00/28832918.pdf)](https://files.diariodarepublica.pt/1s/2005/04/068b00/28832918.pdf)](https://files.diariodarepublica.pt/1s/2005/04/068b00/28832918.pdf)](https://files.diariodarepublica.pt/1s/2005/04/068b00/28832918.pdf)](https://files.diariodarepublica.pt/1s/2005/04/068b00/28832918.pdf)](https://files.diariodarepublica.pt/1s/2005/04/068b00/28832918.pdf)](https://files.diariodarepublica.pt/1s/2005/04/068b00/28832918.pdf)](https://files.diariodarepublica.pt/1s/2005/04/068b00/28832918.pdf)](https://files.diariodarepublica.pt/1s/2005/04/068b00/28832918.pdf)](https://files.diariodarepublica.pt/1s/2005/04/068b00/28832918.pdf)](https://files.diariodarepublica.pt/1s/2005/04/068b00/28832918.pdf)](https://files.diariodarepublica.pt/1s/2005/04/068b00/28832918.pdf)](https://files.diariodarepublica.pt/1s/2005/04/068b00/28832918.pdf)](https://files.diariodarepublica.pt/1s/2005/04/068b00/28832918.pdf)](https://files.diariodarepublica.pt/1s/2005/04/068b00/28832918.pdf)](https://files.diariodarepublica.pt/1s/2005/04/068b00/28832918.pdf)](https://files.diariodarepublica.pt/1s/2005/04/068b00/28832918.pdf)
 
 Subárea (metalurgia)
 
@@ -1185,7 +1221,7 @@ Itinerário referência n.º 18 - Artes e ofícios do metal (1) (nível 3)
 
 Saída profissional - Artesão(ã) das artes do metal
 
-[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2005/04/068b00/28832918.pdf)
+[[[[[[[[[[[[[[[[[[[[[[[[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2005/04/068b00/28832918.pdf)](https://files.diariodarepublica.pt/1s/2005/04/068b00/28832918.pdf)](https://files.diariodarepublica.pt/1s/2005/04/068b00/28832918.pdf)](https://files.diariodarepublica.pt/1s/2005/04/068b00/28832918.pdf)](https://files.diariodarepublica.pt/1s/2005/04/068b00/28832918.pdf)](https://files.diariodarepublica.pt/1s/2005/04/068b00/28832918.pdf)](https://files.diariodarepublica.pt/1s/2005/04/068b00/28832918.pdf)](https://files.diariodarepublica.pt/1s/2005/04/068b00/28832918.pdf)](https://files.diariodarepublica.pt/1s/2005/04/068b00/28832918.pdf)](https://files.diariodarepublica.pt/1s/2005/04/068b00/28832918.pdf)](https://files.diariodarepublica.pt/1s/2005/04/068b00/28832918.pdf)](https://files.diariodarepublica.pt/1s/2005/04/068b00/28832918.pdf)](https://files.diariodarepublica.pt/1s/2005/04/068b00/28832918.pdf)](https://files.diariodarepublica.pt/1s/2005/04/068b00/28832918.pdf)](https://files.diariodarepublica.pt/1s/2005/04/068b00/28832918.pdf)](https://files.diariodarepublica.pt/1s/2005/04/068b00/28832918.pdf)](https://files.diariodarepublica.pt/1s/2005/04/068b00/28832918.pdf)](https://files.diariodarepublica.pt/1s/2005/04/068b00/28832918.pdf)](https://files.diariodarepublica.pt/1s/2005/04/068b00/28832918.pdf)](https://files.diariodarepublica.pt/1s/2005/04/068b00/28832918.pdf)](https://files.diariodarepublica.pt/1s/2005/04/068b00/28832918.pdf)](https://files.diariodarepublica.pt/1s/2005/04/068b00/28832918.pdf)](https://files.diariodarepublica.pt/1s/2005/04/068b00/28832918.pdf)](https://files.diariodarepublica.pt/1s/2005/04/068b00/28832918.pdf)
 
 ## ANEXO N.º 20 — Itinerário referência n.º 19 - Artes e ofícios do metal (2) (nível 3)
 
@@ -1221,7 +1257,7 @@ Itinerário referência n.º 19 - Artes e ofícios do metal (2) (nível 3)
 
 Saída profissional - Artesão(ã) das artes do metal
 
-[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2005/04/068b00/28832918.pdf)
+[[[[[[[[[[[[[[[[[[[[[[[[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2005/04/068b00/28832918.pdf)](https://files.diariodarepublica.pt/1s/2005/04/068b00/28832918.pdf)](https://files.diariodarepublica.pt/1s/2005/04/068b00/28832918.pdf)](https://files.diariodarepublica.pt/1s/2005/04/068b00/28832918.pdf)](https://files.diariodarepublica.pt/1s/2005/04/068b00/28832918.pdf)](https://files.diariodarepublica.pt/1s/2005/04/068b00/28832918.pdf)](https://files.diariodarepublica.pt/1s/2005/04/068b00/28832918.pdf)](https://files.diariodarepublica.pt/1s/2005/04/068b00/28832918.pdf)](https://files.diariodarepublica.pt/1s/2005/04/068b00/28832918.pdf)](https://files.diariodarepublica.pt/1s/2005/04/068b00/28832918.pdf)](https://files.diariodarepublica.pt/1s/2005/04/068b00/28832918.pdf)](https://files.diariodarepublica.pt/1s/2005/04/068b00/28832918.pdf)](https://files.diariodarepublica.pt/1s/2005/04/068b00/28832918.pdf)](https://files.diariodarepublica.pt/1s/2005/04/068b00/28832918.pdf)](https://files.diariodarepublica.pt/1s/2005/04/068b00/28832918.pdf)](https://files.diariodarepublica.pt/1s/2005/04/068b00/28832918.pdf)](https://files.diariodarepublica.pt/1s/2005/04/068b00/28832918.pdf)](https://files.diariodarepublica.pt/1s/2005/04/068b00/28832918.pdf)](https://files.diariodarepublica.pt/1s/2005/04/068b00/28832918.pdf)](https://files.diariodarepublica.pt/1s/2005/04/068b00/28832918.pdf)](https://files.diariodarepublica.pt/1s/2005/04/068b00/28832918.pdf)](https://files.diariodarepublica.pt/1s/2005/04/068b00/28832918.pdf)](https://files.diariodarepublica.pt/1s/2005/04/068b00/28832918.pdf)](https://files.diariodarepublica.pt/1s/2005/04/068b00/28832918.pdf)
 
 Subárea (vidro)
 
@@ -1263,7 +1299,7 @@ Itinerário referência n.º 20 - Arte do vitral (1) (nível 3)
 
 Saída profissional - Vitralista
 
-[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2005/04/068b00/28832918.pdf)
+[[[[[[[[[[[[[[[[[[[[[[[[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2005/04/068b00/28832918.pdf)](https://files.diariodarepublica.pt/1s/2005/04/068b00/28832918.pdf)](https://files.diariodarepublica.pt/1s/2005/04/068b00/28832918.pdf)](https://files.diariodarepublica.pt/1s/2005/04/068b00/28832918.pdf)](https://files.diariodarepublica.pt/1s/2005/04/068b00/28832918.pdf)](https://files.diariodarepublica.pt/1s/2005/04/068b00/28832918.pdf)](https://files.diariodarepublica.pt/1s/2005/04/068b00/28832918.pdf)](https://files.diariodarepublica.pt/1s/2005/04/068b00/28832918.pdf)](https://files.diariodarepublica.pt/1s/2005/04/068b00/28832918.pdf)](https://files.diariodarepublica.pt/1s/2005/04/068b00/28832918.pdf)](https://files.diariodarepublica.pt/1s/2005/04/068b00/28832918.pdf)](https://files.diariodarepublica.pt/1s/2005/04/068b00/28832918.pdf)](https://files.diariodarepublica.pt/1s/2005/04/068b00/28832918.pdf)](https://files.diariodarepublica.pt/1s/2005/04/068b00/28832918.pdf)](https://files.diariodarepublica.pt/1s/2005/04/068b00/28832918.pdf)](https://files.diariodarepublica.pt/1s/2005/04/068b00/28832918.pdf)](https://files.diariodarepublica.pt/1s/2005/04/068b00/28832918.pdf)](https://files.diariodarepublica.pt/1s/2005/04/068b00/28832918.pdf)](https://files.diariodarepublica.pt/1s/2005/04/068b00/28832918.pdf)](https://files.diariodarepublica.pt/1s/2005/04/068b00/28832918.pdf)](https://files.diariodarepublica.pt/1s/2005/04/068b00/28832918.pdf)](https://files.diariodarepublica.pt/1s/2005/04/068b00/28832918.pdf)](https://files.diariodarepublica.pt/1s/2005/04/068b00/28832918.pdf)](https://files.diariodarepublica.pt/1s/2005/04/068b00/28832918.pdf)
 
 ## ANEXO N.º 22 — Itinerário referência n.º 21 - Arte do vitral (2) (nível 3)
 
@@ -1303,7 +1339,7 @@ Itinerário referência n.º 21 - Arte do vitral (2) (nível 3)
 
 Saída profissional - Vitralista
 
-[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2005/04/068b00/28832918.pdf)
+[[[[[[[[[[[[[[[[[[[[[[[[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2005/04/068b00/28832918.pdf)](https://files.diariodarepublica.pt/1s/2005/04/068b00/28832918.pdf)](https://files.diariodarepublica.pt/1s/2005/04/068b00/28832918.pdf)](https://files.diariodarepublica.pt/1s/2005/04/068b00/28832918.pdf)](https://files.diariodarepublica.pt/1s/2005/04/068b00/28832918.pdf)](https://files.diariodarepublica.pt/1s/2005/04/068b00/28832918.pdf)](https://files.diariodarepublica.pt/1s/2005/04/068b00/28832918.pdf)](https://files.diariodarepublica.pt/1s/2005/04/068b00/28832918.pdf)](https://files.diariodarepublica.pt/1s/2005/04/068b00/28832918.pdf)](https://files.diariodarepublica.pt/1s/2005/04/068b00/28832918.pdf)](https://files.diariodarepublica.pt/1s/2005/04/068b00/28832918.pdf)](https://files.diariodarepublica.pt/1s/2005/04/068b00/28832918.pdf)](https://files.diariodarepublica.pt/1s/2005/04/068b00/28832918.pdf)](https://files.diariodarepublica.pt/1s/2005/04/068b00/28832918.pdf)](https://files.diariodarepublica.pt/1s/2005/04/068b00/28832918.pdf)](https://files.diariodarepublica.pt/1s/2005/04/068b00/28832918.pdf)](https://files.diariodarepublica.pt/1s/2005/04/068b00/28832918.pdf)](https://files.diariodarepublica.pt/1s/2005/04/068b00/28832918.pdf)](https://files.diariodarepublica.pt/1s/2005/04/068b00/28832918.pdf)](https://files.diariodarepublica.pt/1s/2005/04/068b00/28832918.pdf)](https://files.diariodarepublica.pt/1s/2005/04/068b00/28832918.pdf)](https://files.diariodarepublica.pt/1s/2005/04/068b00/28832918.pdf)](https://files.diariodarepublica.pt/1s/2005/04/068b00/28832918.pdf)](https://files.diariodarepublica.pt/1s/2005/04/068b00/28832918.pdf)
 
 Subárea (pedra)
 
@@ -1341,7 +1377,7 @@ Itinerário referência n.º 22 - Arte da transformação da pedra (1) (nível 3
 
 Saída profissional - Artesão(ã) em cantaria artística
 
-[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2005/04/068b00/28832918.pdf)
+[[[[[[[[[[[[[[[[[[[[[[[[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2005/04/068b00/28832918.pdf)](https://files.diariodarepublica.pt/1s/2005/04/068b00/28832918.pdf)](https://files.diariodarepublica.pt/1s/2005/04/068b00/28832918.pdf)](https://files.diariodarepublica.pt/1s/2005/04/068b00/28832918.pdf)](https://files.diariodarepublica.pt/1s/2005/04/068b00/28832918.pdf)](https://files.diariodarepublica.pt/1s/2005/04/068b00/28832918.pdf)](https://files.diariodarepublica.pt/1s/2005/04/068b00/28832918.pdf)](https://files.diariodarepublica.pt/1s/2005/04/068b00/28832918.pdf)](https://files.diariodarepublica.pt/1s/2005/04/068b00/28832918.pdf)](https://files.diariodarepublica.pt/1s/2005/04/068b00/28832918.pdf)](https://files.diariodarepublica.pt/1s/2005/04/068b00/28832918.pdf)](https://files.diariodarepublica.pt/1s/2005/04/068b00/28832918.pdf)](https://files.diariodarepublica.pt/1s/2005/04/068b00/28832918.pdf)](https://files.diariodarepublica.pt/1s/2005/04/068b00/28832918.pdf)](https://files.diariodarepublica.pt/1s/2005/04/068b00/28832918.pdf)](https://files.diariodarepublica.pt/1s/2005/04/068b00/28832918.pdf)](https://files.diariodarepublica.pt/1s/2005/04/068b00/28832918.pdf)](https://files.diariodarepublica.pt/1s/2005/04/068b00/28832918.pdf)](https://files.diariodarepublica.pt/1s/2005/04/068b00/28832918.pdf)](https://files.diariodarepublica.pt/1s/2005/04/068b00/28832918.pdf)](https://files.diariodarepublica.pt/1s/2005/04/068b00/28832918.pdf)](https://files.diariodarepublica.pt/1s/2005/04/068b00/28832918.pdf)](https://files.diariodarepublica.pt/1s/2005/04/068b00/28832918.pdf)](https://files.diariodarepublica.pt/1s/2005/04/068b00/28832918.pdf)
 
 ## ANEXO N.º 24 — Itinerário referência n.º 23 - Arte da transformação da pedra (2) (nível 3)
 
@@ -1377,4 +1413,4 @@ Itinerário referência n.º 23 - Arte da transformação da pedra (2) (nível 3
 
 Saída profissional - Artesão(ã) em cantaria artística
 
-[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2005/04/068b00/28832918.pdf)
+[[[[[[[[[[[[[[[[[[[[[[[[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2005/04/068b00/28832918.pdf)](https://files.diariodarepublica.pt/1s/2005/04/068b00/28832918.pdf)](https://files.diariodarepublica.pt/1s/2005/04/068b00/28832918.pdf)](https://files.diariodarepublica.pt/1s/2005/04/068b00/28832918.pdf)](https://files.diariodarepublica.pt/1s/2005/04/068b00/28832918.pdf)](https://files.diariodarepublica.pt/1s/2005/04/068b00/28832918.pdf)](https://files.diariodarepublica.pt/1s/2005/04/068b00/28832918.pdf)](https://files.diariodarepublica.pt/1s/2005/04/068b00/28832918.pdf)](https://files.diariodarepublica.pt/1s/2005/04/068b00/28832918.pdf)](https://files.diariodarepublica.pt/1s/2005/04/068b00/28832918.pdf)](https://files.diariodarepublica.pt/1s/2005/04/068b00/28832918.pdf)](https://files.diariodarepublica.pt/1s/2005/04/068b00/28832918.pdf)](https://files.diariodarepublica.pt/1s/2005/04/068b00/28832918.pdf)](https://files.diariodarepublica.pt/1s/2005/04/068b00/28832918.pdf)](https://files.diariodarepublica.pt/1s/2005/04/068b00/28832918.pdf)](https://files.diariodarepublica.pt/1s/2005/04/068b00/28832918.pdf)](https://files.diariodarepublica.pt/1s/2005/04/068b00/28832918.pdf)](https://files.diariodarepublica.pt/1s/2005/04/068b00/28832918.pdf)](https://files.diariodarepublica.pt/1s/2005/04/068b00/28832918.pdf)](https://files.diariodarepublica.pt/1s/2005/04/068b00/28832918.pdf)](https://files.diariodarepublica.pt/1s/2005/04/068b00/28832918.pdf)](https://files.diariodarepublica.pt/1s/2005/04/068b00/28832918.pdf)](https://files.diariodarepublica.pt/1s/2005/04/068b00/28832918.pdf)](https://files.diariodarepublica.pt/1s/2005/04/068b00/28832918.pdf)

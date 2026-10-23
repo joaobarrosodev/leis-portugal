@@ -20,12 +20,12 @@ publication:
   reference: Diário da República n.º 40/2019, 1º Suplemento, Série II de 2019-02-26
   number: '40'
   series: II
-  supplement: 1º Suplemento
+  supplement: null
   pages: 6318-(2) a 6318-(23)
   pdf_url: https://files.diariodarepublica.pt/2s/2019/02/040000001/0000200023.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -47,40 +47,176 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/despacho-normativo/3-a-2019-120329893
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2023-04-03T00:00:00Z'
+  retrieved_at: '2026-10-23T15:08:34Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: ce867304a54e715bc55ca526d32a3365fd985caf44442101cae6e71c8ef39703
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 61d0450a04a887aa086c485e2866f4fe7d96b0e837a5dbf6143ef6e4a5173a5f
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:08:34Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Avaliação de Conhecimentos
+- Curso de Ensino Básico
+- Ensino Básico
+- Ensino Cooperativo
+- Ensino no Estrangeiro
+- Ensino Oficial
+- Ensino Particular
+- Ensino Secundário
+- Equivalência de Habilitações Literárias
+- Exame
+- JURI Nacional de Exames
+- Prova de Aferição
+- Prova de Ingresso
+- Prova Geral de Acesso
+- Regulamento
 relationships:
 - type: amended_by
   target: pt:dre:211393783:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:129970449:por
+  label: Alterados os arts. 4.º e 5.º do Regulamento do Júri Nacional de Exames, aprovado pelo DN 1-D/2016, de 04-mar, na
+    redação do presente diploma pelo(a) Despacho Normativo n.º 3-A/2020 - Diário da República n.º 46/2020, 1º Suplemento,
+    Série II de 2020-03-05
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/despacho-normativo/3-a-2020-129970449
+  date: '2020-03-05'
+- type: cites
+  target: pt:dre:107636120:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:107791610:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:115552667:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:115652961:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:115652962:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:116640900:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:118813214:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:1400595:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:174840:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:1762633:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:178548:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:210801:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:259964:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:490957:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:497860:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:516044:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:544383:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:628859:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:632418:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:64297587:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:66041468:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:67591181:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:73203130:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:74007250:por
+  label: null
+  source: null
+- type: corrected_by
+  target: pt:dre:122173342:por
+  label: Retificados o n.º 10 e a al. b) do n.º 15 do art. 18.º, o n.º 9 do Quadro I, Prazos de inscrição para as provas de
+    equivalência à frequência dos 1.º, 2.º e 3.º ciclos e provas finais do 3.º ciclo do ensino básico - 2019, a coluna «Duração
+    (minutos)» do Quadro III, Provas de aferição do ensino básico - 2019, a alínea (a) do Quadro IV, Provas finais do Ensino
+    - 2019, as colunas «Disciplina» e «Duração (minutos)» da Tabela B - 2.º Ciclo do Ensino Básico - do Quadro V, as colunas
+    «Disciplina», «Curso/ano», «Tipo de Prova e «Duração (minutos)» do Quadro VI, Exames finais nacionais do ensino secundário
+    - 2019, e a coluna «Disciplina» do Quadro VIII, Provas de equivalência à frequência dos cursos científico-humanísticos
+    do ensino secundário - 2019 do Regulamento das provas de avaliação externa e das provas de equivalência à frequência dos
+    ensinos básico e secundário, que constitui o anexo I ao presente diploma pelo(a) Declaração de Retificação n.º 377/2019
+    - Diário da República n.º 82/2019, Série II de 2019-04-29
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/declaracao-retificacao/377-2019-122173342
+  date: '2019-04-29'
+- type: repealed_by
+  target: pt:dre:129970449:por
+  label: Revogado pelo(a) Despacho Normativo n.º 3-A/2020 - Diário da República n.º 46/2020, 1º Suplemento, Série II de 2020-03-05
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/despacho-normativo/3-a-2020-129970449
+  date: '2020-03-05'
 article_structure:
-  article_count: 51
+  article_count: 50
   section_count: 9
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:08:34Z'
   warnings: []
   errors: []
 ---
@@ -109,7 +245,9 @@ Considerando o previsto nos artigos 24.º-B e 29.º do [Decreto-Lei n.º 139/201
 
 2 - [...].
 
-###### Artigo 5.º — [...]
+Artigo 5.º
+
+[...]
 
 1 - [...]:
 
@@ -1237,13 +1375,13 @@ Prazos de inscrição para as provas de equivalência à frequência dos 1.º, 2
 
 do 3.º ciclo do ensino básico - 2019
 
-[([ver documento original](https://files.diariodarepublica.pt/2s/2019/02/040000001/0000200023.pdf))](https://files.diariodarepublica.pt/2s/2019/02/040000001/0000200023.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/2s/2019/02/040000001/0000200023.pdf)
 
 QUADRO II
 
 Prazos de inscrição para os exames finais nacionais e provas de equivalência à frequência do ensino secundário - 2019
 
-[([ver documento original](https://files.diariodarepublica.pt/2s/2019/02/040000001/0000200023.pdf))](https://files.diariodarepublica.pt/2s/2019/02/040000001/0000200023.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/2s/2019/02/040000001/0000200023.pdf)
 
 QUADRO III
 
@@ -1251,7 +1389,7 @@ Provas de aferição do ensino básico - 2019
 
 Tipo de prova e respetiva duração
 
-[([ver documento original](https://files.diariodarepublica.pt/2s/2019/02/040000001/0000200023.pdf))](https://files.diariodarepublica.pt/2s/2019/02/040000001/0000200023.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/2s/2019/02/040000001/0000200023.pdf)
 
 QUADRO IV
 
@@ -1259,7 +1397,7 @@ Provas finais do ensino básico - 2019
 
 Tipo de prova e respetiva duração
 
-[([ver documento original](https://files.diariodarepublica.pt/2s/2019/02/040000001/0000200023.pdf))](https://files.diariodarepublica.pt/2s/2019/02/040000001/0000200023.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/2s/2019/02/040000001/0000200023.pdf)
 
 QUADRO V
 
@@ -1269,19 +1407,19 @@ Tabela A - 1.º Ciclo do Ensino Básico
 
 Tipo de prova e respetiva duração
 
-[([ver documento original](https://files.diariodarepublica.pt/2s/2019/02/040000001/0000200023.pdf))](https://files.diariodarepublica.pt/2s/2019/02/040000001/0000200023.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/2s/2019/02/040000001/0000200023.pdf)
 
 Tabela B - 2.º Ciclo do Ensino Básico
 
 Tipo de prova e respetiva duração
 
-[([ver documento original](https://files.diariodarepublica.pt/2s/2019/02/040000001/0000200023.pdf))](https://files.diariodarepublica.pt/2s/2019/02/040000001/0000200023.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/2s/2019/02/040000001/0000200023.pdf)
 
 Tabela C - 3.º Ciclo do Ensino Básico
 
 Tipo de provas e respetiva duração
 
-[([ver documento original](https://files.diariodarepublica.pt/2s/2019/02/040000001/0000200023.pdf))](https://files.diariodarepublica.pt/2s/2019/02/040000001/0000200023.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/2s/2019/02/040000001/0000200023.pdf)
 
 QUADRO VI
 
@@ -1289,13 +1427,13 @@ Exames finais nacionais do ensino secundário - 2019
 
 Tipo de prova e respetiva duração
 
-[([ver documento original](https://files.diariodarepublica.pt/2s/2019/02/040000001/0000200023.pdf))](https://files.diariodarepublica.pt/2s/2019/02/040000001/0000200023.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/2s/2019/02/040000001/0000200023.pdf)
 
 QUADRO VII
 
 Exames a nível de escola equivalentes a exames finais nacionais para efeitos de conclusão do ensino secundário - 2019
 
-[([ver documento original](https://files.diariodarepublica.pt/2s/2019/02/040000001/0000200023.pdf))](https://files.diariodarepublica.pt/2s/2019/02/040000001/0000200023.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/2s/2019/02/040000001/0000200023.pdf)
 
 QUADRO VIII
 
@@ -1303,13 +1441,13 @@ Provas de equivalência à frequência dos cursos científico-humanísticos do e
 
 Tipo de prova e respetiva duração
 
-[([ver documento original](https://files.diariodarepublica.pt/2s/2019/02/040000001/0000200023.pdf))](https://files.diariodarepublica.pt/2s/2019/02/040000001/0000200023.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/2s/2019/02/040000001/0000200023.pdf)
 
 QUADRO IX
 
 Ponderação das componentes escrita e prática das provas de equivalência à frequência dos cursos científico-humanísticos do ensino secundário - 2019
 
-[([ver documento original](https://files.diariodarepublica.pt/2s/2019/02/040000001/0000200023.pdf))](https://files.diariodarepublica.pt/2s/2019/02/040000001/0000200023.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/2s/2019/02/040000001/0000200023.pdf)
 
 QUADRO X
 
@@ -1317,4 +1455,6 @@ Provas de equivalência à frequência dos cursos artísticos especializados - 2
 
 Tipo de prova e respetiva duração
 
-[([ver documento original](https://files.diariodarepublica.pt/2s/2019/02/040000001/0000200023.pdf))](https://files.diariodarepublica.pt/2s/2019/02/040000001/0000200023.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/2s/2019/02/040000001/0000200023.pdf)
+
+312102269

@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/2s/2016/10/203000000/3126631266.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -46,36 +46,79 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/resolucao/32-2016-75575494
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2016-10-21T00:00:00Z'
+  retrieved_at: '2026-10-23T15:15:57Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 6e025d67ddd61cdbdce72d2184eb80ed6458ab5eda6f5e161a59e53752aa6929
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 5e6514b26df64b425ff49b6f543edff3fa35d3de2e65f806c84c7172515ec6ca
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:15:57Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
-relationships: []
+subjects:
+- Aljustrel
+- Amarante
+- Arganil
+- Aveiro
+- Braga
+- Bragança
+- Castelo Branco
+- Cinfães
+- Covilhã
+- Empresa
+- Felgueiras
+- Ferreira do Alentejo
+- Leiria
+- Mértola
+- Mondim de Basto
+- Paredes
+- Paredes de Coura
+- Plano de Emergência
+- Plano Muncipal de Emergência de Protecção Civil
+- Proteção Civil
+- Santarém
+- Torres Novas
+- VALE de Cambra
+- Viana do Castelo
+- Vila Real
+- VILA Verde
+- Vila Viçosa
+relationships:
+- type: cites
+  target: pt:dre:146220:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:537862:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:67163565:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:69927759:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:15:57Z'
   warnings: []
   errors: []
 ---
@@ -103,3 +146,5 @@ Assim, nos termos da citada norma da Lei de Bases da Proteção Civil e, no resp
 7 - Aprovar o Plano Especial de Emergência de Proteção Civil para o Centro Histórico de Mértola, com a recomendação de uma revisão intercalar ao fim de três anos da sua vigência.
 
 14 de julho de 2016. - O Presidente da Comissão Nacional de Proteção Civil, Jorge Gomes.
+
+209936655

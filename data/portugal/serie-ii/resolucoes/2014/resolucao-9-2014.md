@@ -46,36 +46,83 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/resolucao/9-2014-3561558
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2014-03-20T00:00:00Z'
+  retrieved_at: '2026-10-23T15:15:28Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 80679f3191f53673ca6d8fb78c1e900c9b603c2a99357b4409a5f99ba6d7a019
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 92959fd6e69ac10f50417633787ab4eee5048b68c00270686a53ca57de75b081
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:15:28Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
-relationships: []
+subjects:
+- Conselho Diretivo
+- Delegação Regional
+- Diretor
+- Instituto Nacional de Medicina Legal e Ciências Forenses
+- Nomeação
+- Vice-presidente
+- Vogal
+relationships:
+- type: cites
+  target: pt:dre:179288:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:260418:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:276024:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:322279:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:420580:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:520259:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:543034:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:544415:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:553466:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:640919:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
-  section_count: 1
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  section_count: 0
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:15:28Z'
   warnings: []
   errors: []
 ---
@@ -244,7 +291,7 @@ Habilitações académicas e profissionais:
 
 Mestrando do 2.º ano do MIM (Mestrado de Informática Médica) da Faculdade de Medicina e da Faculdade de Ciências da Universidade do Porto.
 
-## Título da Tese: "Identify variables for a model able to measure and classify the quality of access to health information in public hospitals of the National Health Service."
+Título da Tese: "Identify variables for a model able to measure and classify the quality of access to health information in public hospitals of the National Health Service."
 
 2011/2012
 
@@ -375,3 +422,5 @@ Acumulando com o exercício de funções, quer no Hospital de Egas Moniz, quer a
 No Hospital Central Ortopédico de Santana - Parede: (setembro de 1975 a outubro de 1992)
 
 Foi o início da nossa vida profissional na Administração Pública, onde fizemos a carreira administrativa toda, sempre por concurso público. Foi o tempo de iniciar e concluir a licenciatura em Direito, de fazer a pós-graduação em Administração Hospitalar; concebemos e implementámos o Centro de Microfilmagem do HOSA e fomos coautores da [Portaria n.º 635/87](https://diariodarepublica.pt/dr/detalhe/portaria/635-1987-420580), de 26 de julho.
+
+207691456

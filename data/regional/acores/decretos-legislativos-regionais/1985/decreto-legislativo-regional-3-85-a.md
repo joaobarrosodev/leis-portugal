@@ -46,36 +46,43 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/3-1985-325513
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1985-04-10T00:00:00Z'
+  retrieved_at: '2026-10-23T15:17:13Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: ac01906688b349a056cff83655c328342fcffc255d32256d67cfa8615f55b0a8
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 56d62c2cba9316d648c94988930a01657523603b388d5bead2371e9cc2d740c4
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:17:13Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
-relationships: []
+subjects:
+- Açores
+- Arrendamento Urbano não Habitacional
+- Arrendamento Urbano para Habitação
+relationships:
+- type: cites
+  target: pt:dre:455116:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:17:13Z'
   warnings: []
   errors: []
 ---
@@ -96,18 +103,18 @@ Nestes termos:
 
 A Assembleia Regional dos Açores decreta, nos termos da alínea a) do artigo 229.º da Constituição, o seguinte:
 
-###### Artigo 1.º Na Região Autónoma dos Açores, os arrendamentos feitos exclusivamente para garagens de veículos particulares não comerciais ou para arrumos domésticos estão excluídos do âmbito do artigo 1095.º do Código Civil.
+Artigo 1.º Na Região Autónoma dos Açores, os arrendamentos feitos exclusivamente para garagens de veículos particulares não comerciais ou para arrumos domésticos estão excluídos do âmbito do artigo 1095.º do Código Civil.
 
-###### Art. 2.º Os arrendamentos referidos no artigo anterior podem ser denunciados segundo o regime geral estabelecido pelos artigos 1054.º e 1055.º do mesmo Código.
+Art. 2.º Os arrendamentos referidos no artigo anterior podem ser denunciados segundo o regime geral estabelecido pelos artigos 1054.º e 1055.º do mesmo Código.
 
-###### Art. 3.º O disposto no presente diploma aplica-se às relações jurídicas constituídas à data da sua entrada em vigor, bem como às que futuramente venham a constituir-se.
+Art. 3.º O disposto no presente diploma aplica-se às relações jurídicas constituídas à data da sua entrada em vigor, bem como às que futuramente venham a constituir-se.
 
 Aprovado pela Assembleia Regional dos Açores em 1 de Fevereiro de 1985.
 
-**O Presidente da Assembleia Regional, José Guilherme Reis Leite.**
+O Presidente da Assembleia Regional, José Guilherme Reis Leite.
 
-**Assinado em Angra do Heroísmo em 15 de Março de 1985.**
+Assinado em Angra do Heroísmo em 15 de Março de 1985.
 
-**Publique-se.**
+Publique-se.
 
-**O Ministro da República para a Região Autónoma dos Açores, Tomás George Conceição Silva.**
+O Ministro da República para a Região Autónoma dos Açores, Tomás George Conceição Silva.

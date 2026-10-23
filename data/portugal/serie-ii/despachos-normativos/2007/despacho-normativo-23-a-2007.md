@@ -19,12 +19,12 @@ publication:
   reference: Diário da República n.º 114/2007, 2º Suplemento, Série II de 2007-06-15
   number: '114'
   series: II
-  supplement: 2º Suplemento
+  supplement: null
   pages: 16750-(310) a 16750-(313)
   pdf_url: https://files.diariodarepublica.pt/2s/2007/06/114000002/0031000313.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,45 +46,79 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/despacho-normativo/23-a-2007-3075921
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2008-11-20T00:00:00Z'
+  retrieved_at: '2026-10-23T15:06:38Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 905b282f068c7cf8ab340d27161f6c8234657711255b937064fc97a4be10b8de
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: d9ed68c5316a93f7c25500991f56f1064298fc582509ada39910e552a2676874
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:06:38Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Financiamento
+- Fundo Florestal Permanente
+- Regulamento
 relationships:
 - type: amended_by
   target: pt:dre:439819:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:1141332:por
+  label: "Alterados os artigos 2.º e 7.º do Regulamento, pelo DN.21/2008.01.04.2008.MADRP, DR.IIS [64] de 01.04.2008\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/despacho-normativo/21-2008-1141332
+  date: '2008-04-01'
+- type: cites
+  target: pt:dre:272612:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:286680:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:358491:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:539852:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:541375:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:439819:por
+  label: "Revogado, sem prejuízo do disposto no n.º 4º, pela PORT.1338/2008.20.11.2008.MADRP, DR.IS [226] de 20.11.2008, na\
+    \ data de entrada em vigor do Regulamento anexo àquele diploma \0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/1338-2008-439819
+  date: '2008-11-20'
 article_structure:
   article_count: 0
   section_count: 4
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:06:38Z'
   warnings: []
   errors: []
 ---
 
-# Despacho Normativo n.º 23-A/2007
+# Despacho normativo n.º 23-A/2007
 
 O programa de apoios financeiros objecto do presente despacho normativo, nos termos previstos pela legislação relativa à criação e regulamentação do Fundo Florestal Permanente (FFP), nomeadamente no artigo 3.º do [Decreto-Lei n.º 63/2004](https://diariodarepublica.pt/dr/detalhe/decreto-lei/63-2004-541375), de 22 de Março, e no artigo 6.º da [Portaria n.º 679/2004](https://diariodarepublica.pt/dr/detalhe/portaria/679-2004-272612), de 19 de Junho, tem como período de vigência o biénio 2007-2008.
 

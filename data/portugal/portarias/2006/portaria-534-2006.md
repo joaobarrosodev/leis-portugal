@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/534/2006/06/08/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/534-2006-346105
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2007-06-05T00:00:00Z'
+  retrieved_at: '2026-10-23T15:14:43Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: ff7b81d81b3eea9f443e0cbc10b228b5d695e7e46f2c3b8b2b0160cf1fc6235d
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: b225ddaee178a47ba1925666d480aaf41a26826c61f857c5732a9fd9acdfd58e
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:14:43Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -74,6 +74,12 @@ relationships:
   target: pt:dre:638172:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:638172:por
+  label: "Renovada por um periodo de 12 anos, a concessão da zona de caça concessionada pela Port 61/98 de 14-Fev, alterada\
+    \ pelo presente diploma, pela PORT.679/2007.05.06.2007.MADRP, DR.IS [108] de 05.06.2007\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/679-2007-638172
+  date: '2007-06-05'
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/201/2005/11/24/p/dre
   label: null
@@ -86,16 +92,28 @@ relationships:
   target: eli:http://data.dre.pt/eli/port/1021/2001/08/22/p/dre
   label: null
   source: http://data.dre.pt/eli/port/1021/2001/08/22/p/dre
+- type: cites
+  target: pt:dre:480704:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:481498:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:515825:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:14:43Z'
   warnings: []
   errors: []
 ---
@@ -118,4 +136,4 @@ Manda o Governo, pelo Ministro da Agricultura, do Desenvolvimento Rural e das Pe
 
 Pelo Ministro da Agricultura, do Desenvolvimento Rural e das Pescas, Rui Nobre Gonçalves, Secretário de Estado do Desenvolvimento Rural e das Florestas, em 19 de Maio de 2006.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2006/06/111b00/40944094.pdf))](https://files.diariodarepublica.pt/1s/2006/06/111b00/40944094.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2006/06/111b00/40944094.pdf)

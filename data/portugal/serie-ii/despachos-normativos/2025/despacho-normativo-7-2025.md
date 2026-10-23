@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/2s/2025/05/088000000/0006100089.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -46,18 +46,18 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/despacho-normativo/7-2025-917251744
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2025-08-12T00:00:00Z'
+  retrieved_at: '2026-10-23T15:09:15Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: f9435a7e16e074082469665efb6efc57a7d5f61faef722fe1f3054fbf02e72df
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: b67321570c80bf98645527ed7ff1a6b7fc34f0663c43f2c7d9356da9d54e7fe2
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:09:15Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -70,23 +70,55 @@ relationships:
   target: pt:dre:928659806:por
   label: Última alteração registada na importação inicial
   source: null
+- type: cites
+  target: pt:dre:122278100:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:1864678:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:603476:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:632432:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:640339:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:856476485:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:894487443:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:897217658:por
+  label: null
+  source: null
 article_structure:
-  article_count: 67
-  section_count: 14
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  article_count: 68
+  section_count: 15
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:09:15Z'
   warnings: []
   errors: []
 ---
 
 # Despacho Normativo n.º 7/2025
 
-Os Estatutos da Universidade de Lisboa atualmente em vigor foram homologados pelo [Despacho Normativo n.º 5-A/2013](https://diariodarepublica.pt/dr/detalhe/despacho-normativo/5-a-2013-1864678), publicado no Diário da República, 2.ª série, n.º 77, suplemento, de 19 de abril de 2013, na sequência da entrada em vigor do [Decreto-Lei n.º 266-E/2012](https://diariodarepublica.pt/dr/detalhe/decreto-lei/266-e-2012-632432), de 31 de dezembro, e alterados pelo Despacho Normativo n.º 1-A/2016, publicado no Diário da República, 2.ª série, n.º 42, 2.º suplemento, de 1 de março de 2016, e pelo [Despacho Normativo n.º 14/2019](https://diariodarepublica.pt/dr/detalhe/despacho-normativo/14-2019-122278100), publicado no Diário da República, 2.ª série, n.º 90, de 10 de maio de 2019, que republicou os Estatutos, posteriormente alterados pelos Despachos Normativos n.<sup>os</sup>8/2020, [7/2024](https://diariodarepublica.pt/dr/detalhe/despacho-normativo/7-2024-856476485) e [17/2024](https://diariodarepublica.pt/dr/detalhe/despacho-normativo/17-2024-897217658), publicados, respetivamente, no Diário da República, 2.ª série, n.<sup>os</sup>150, de 4 de agosto de 2020, 58, de 21 de março de 2024, e 226, de 21 de novembro de 2024.
+Os Estatutos da Universidade de Lisboa atualmente em vigor foram homologados pelo [Despacho Normativo n.º 5-A/2013](https://diariodarepublica.pt/dr/detalhe/despacho-normativo/5-a-2013-1864678), publicado no Diário da República, 2.ª série, n.º 77, suplemento, de 19 de abril de 2013, na sequência da entrada em vigor do [Decreto-Lei n.º 266-E/2012](https://diariodarepublica.pt/dr/detalhe/decreto-lei/266-e-2012-632432), de 31 de dezembro, e alterados pelo Despacho Normativo n.º 1-A/2016, publicado no Diário da República, 2.ª série, n.º 42, 2.º suplemento, de 1 de março de 2016, e pelo [Despacho Normativo n.º 14/2019](https://diariodarepublica.pt/dr/detalhe/despacho-normativo/14-2019-122278100), publicado no Diário da República, 2.ª série, n.º 90, de 10 de maio de 2019, que republicou os Estatutos, posteriormente alterados pelos Despachos Normativos n.os8/2020, [7/2024](https://diariodarepublica.pt/dr/detalhe/despacho-normativo/7-2024-856476485) e [17/2024](https://diariodarepublica.pt/dr/detalhe/despacho-normativo/17-2024-897217658), publicados, respetivamente, no Diário da República, 2.ª série, n.os150, de 4 de agosto de 2020, 58, de 21 de março de 2024, e 226, de 21 de novembro de 2024.
 
 Considerando que:
 
@@ -898,7 +930,9 @@ b) Em qualquer momento, por deliberação de dois terços dos membros do Conselh
 
 ## ANEXO I — Organização e funcionamento dos serviços da Universidade de Lisboa e das suas Escolas
 
-### CAPÍTULO I — PARTE GERAL
+### CAPÍTULO I
+
+## PARTE GERAL
 
 ###### Artigo 1.º — Objeto
 
@@ -1158,7 +1192,9 @@ Salvo para efeitos de recrutamento dos dirigentes previstos no n.º 2 do artigo 
 
 Para efeitos do disposto na alínea c) do n.º 1 do artigo 25.º da [Lei n.º 2/2004](https://diariodarepublica.pt/dr/detalhe/lei/2-2004-603476), de 15 de janeiro, com as respetivas alterações, estabelece-se que as comissões de serviço do pessoal dirigente, cuja designação não é alterada pelos presentes Estatutos, se mantêm em vigor até ao seu termo.
 
-## ANEXO II — Artigo 1.º
+## ANEXO II
+
+###### Artigo 1.º
 
 Escolas
 
@@ -1227,3 +1263,5 @@ g) Instituto de Investigação Científica Tropical;
 h) Pavilhão de Portugal.
 
 ## ANEXO III — [Revogado.]
+
+319009545

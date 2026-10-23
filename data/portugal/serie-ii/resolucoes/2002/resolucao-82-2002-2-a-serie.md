@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/2s/2002/12/287000000/2030720311.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -46,18 +46,18 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/resolucao/82-2002-1999676
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2002-12-12T00:00:00Z'
+  retrieved_at: '2026-10-23T15:11:36Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 66f78c2726b0689abc381afbd1d40e2c1bb9f7df1ababe63db3dec1c862c3ddb
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: ec770c9eac3c79ce6bc3f161b7549c175409120970ce4cbbe9513581ac7b7638
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:11:36Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -69,13 +69,13 @@ relationships: []
 article_structure:
   article_count: 39
   section_count: 17
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:11:36Z'
   warnings: []
   errors: []
 ---
@@ -150,7 +150,7 @@ b) A pedido da maioria dos membros do conselho, com indicação de uma proposta 
 
 ###### Artigo 8.º
 
-**O presidente da direcção escolherá de entre os vogais um vice-presidente, que o substituirá nas suas ausências ou impedimentos temporários.**
+O presidente da direcção escolherá de entre os vogais um vice-presidente, que o substituirá nas suas ausências ou impedimentos temporários.
 
 ###### Artigo 9.º
 
@@ -558,4 +558,4 @@ Os artigos 33.º e 34.º e a parte final do artigo 1.º entram em vigor após a 
 
 ## ANEXO — Quadro de pessoal técnico, administrativo e auxiliar do IRIC-UP
 
-[([ver documento original](https://files.diariodarepublica.pt/2s/2002/12/287000000/2030720311.pdf))](https://files.diariodarepublica.pt/2s/2002/12/287000000/2030720311.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/2s/2002/12/287000000/2030720311.pdf)

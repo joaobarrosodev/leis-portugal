@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/2s/2013/01/021000000/0463904640.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -47,25 +47,33 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/despacho-normativo/4-2013-1127147
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2015-02-27T00:00:00Z'
+  retrieved_at: '2026-10-23T15:07:45Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 21fd4d57f700637ba0f45089e7357b141eb9c9e804f1d875bca7a39aed05a621
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 05699ee130101ab1feb9269ca2bf2fe88c429247e14a4d1195ab0a4717da57d3
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:07:45Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Agricultor
+- Ajuda Comunitária
+- Atividade Agrícola
+- Financiamento
+- Fiscalização
+- IFAP
+- Política Agrícola Comum
+- Regulamento CE
 relationships:
 - type: amended_by
   target: pt:dre:66619896:por
@@ -79,21 +87,31 @@ relationships:
   target: celex:32009R1120
   label: null
   source: null
+- type: cites
+  target: pt:dre:1313203:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:66619896:por
+  label: Revogado, a partir de 28.02.2015, o DN 8/2010 de 19-mar, alterado pelo presente diploma, pelo(a) Portaria n.º 57/2015
+    - Diário da República n.º 41/2015, Série I de 2015-02-27
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/57-2015-66619896
+  date: '2015-02-27'
 article_structure:
-  article_count: 7
+  article_count: 4
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:07:45Z'
   warnings: []
   errors: []
 ---
 
-# Despacho Normativo n.º 4/2013
+# Despacho normativo n.º 4/2013
 
 O Despacho normativo n.º 8/2010, de 19 de março veio estabelecer, para o território nacional, medidas relativas a atividades agrícolas que resultem em benefícios agroambientais suplementares, as quais foram sujeitas a um processo de aprovação formal por parte da Comissão Europeia.
 
@@ -133,7 +151,9 @@ h) [Anterior alínea g)]
 
 i) «Subparcela» porção contínua de terreno homogénea com a mesma ocupação de solo existente numa mesma parcela de referência, sendo os seus limites interiores à parcela de referência ou coincidentes com a mesma;
 
-###### Artigo 5.º — [...]
+Artigo 5.º
+
+[...]
 
 1 - ...
 
@@ -151,7 +171,9 @@ a) 10%, quando a percentagem de oliveiras com idade igual ou superior a 30 anos,
 
 b) 20%, quando a percentagem de oliveiras com idade igual ou superior a 30 anos, seja igual ou superior a 60% e inferior a 70%.
 
-###### Artigo 7.º — [...]
+Artigo 7.º
+
+[...]
 
 1 - ...
 
@@ -167,7 +189,9 @@ d) Área igual ou superior a 50 ha - (euro) 50 por hectare.
 
 3 - ...
 
-###### Artigo 25.º — [...]
+Artigo 25.º
+
+[...]
 
 1 - ...
 
@@ -194,3 +218,5 @@ As referências a «parcela» feitas nos artigos 3.º, 6.º, 11.º, 14.º e 18.�
 O presente despacho normativo entra em vigor no dia seguinte ao da sua publicação.
 
 22 de janeiro de 2013. - O Secretário de Estado da Agricultura, José Diogo Santiago de Albuquerque.
+
+206701798

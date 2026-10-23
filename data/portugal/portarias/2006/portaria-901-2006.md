@@ -51,18 +51,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/901/2006/09/04/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/901-2006-539995
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2008-01-31T00:00:00Z'
+  retrieved_at: '2026-10-23T15:17:00Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 50b4d4b52a4dbf9404534b499ab8cb5b349eb5392fa2fa309e5dc7260f6ac0d8
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 52099ba20494413d33c0a8e31eeb43656ee194edc179379fec9594882e74c62f
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:17:00Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -70,22 +70,35 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
+- Ministério dos Negócios Estrangeiros
+- Missão Permanente de Portugal Junto da ONU
 - Missão Permanente de Portugal Junto da Unesco
-- Unesco
-- ONU
 - Nova Iorque
 - OCDE
+- ONU
 - Paris
 - Pessoal Assalariado
 - Pessoal Especializado
 - Quadro de Pessoal
-- Missão Permanente de Portugal Junto da ONU
-- Ministério dos Negócios Estrangeiros
+- Unesco
 relationships:
 - type: amended_by
   target: pt:dre:248217:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:262360:por
+  label: "Alterado o quadro de pessoal especializado constante do mapa anexo ao Dec Lei 133/85 de 02-Mai, com as alterações\
+    \ que lhe foram introduzidas pelo presente diploma, pela PORT.76/2007.12.01.2007.PCM, DR.IS [9] de 12.01.2007\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/76-2007-262360
+  date: '2007-01-12'
+- type: amended_by
+  target: pt:dre:248217:por
+  label: "Alterado o quadro de pessoal especializado constante do mapa anexo ao Dec Lei 133/85, de 02-Maio, com as alterações\
+    \ que lhe foram introduzidas pelo presente diploma, e pelos Dec Lei 146/2001 de 02-Mai, 29/2004 de 06-Fev e pela Port\
+    \ 76/2007, de 12-Jan, pela PORT.97/2008.31.01.2008.PCM, DR.IS [22] de 31.01.2008\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/97-2008-248217
+  date: '2008-01-31'
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/29/2004/02/06/p/dre
   label: null
@@ -94,16 +107,36 @@ relationships:
   target: eli:http://data.dre.pt/eli/port/120/1997/02/21/p/dre
   label: null
   source: http://data.dre.pt/eli/port/120/1997/02/21/p/dre
+- type: cites
+  target: pt:dre:152327:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:395742:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:443757:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:506803:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:582016:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:17:00Z'
   warnings: []
   errors: []
 ---
@@ -130,4 +163,4 @@ Manda o Governo, pelos Ministros de Estado e dos Negócios Estrangeiros, de Esta
 
 Em 30 de Junho de 2006.
 
-**O Ministro de Estado e dos Negócios Estrangeiros, Diogo Pinto de Freitas do Amaral. - O Ministro de Estado e das Finanças, Fernando Teixeira dos Santos. - A Ministra da Educação, Maria de Lurdes Reis Rodrigues. - O Ministro da Ciência, Tecnologia e Ensino Superior, José Mariano Rebelo Pires Gago. - A Ministra da Cultura, Maria Isabel da Silva Pires de Lima.**
+O Ministro de Estado e dos Negócios Estrangeiros, Diogo Pinto de Freitas do Amaral. - O Ministro de Estado e das Finanças, Fernando Teixeira dos Santos. - A Ministra da Educação, Maria de Lurdes Reis Rodrigues. - O Ministro da Ciência, Tecnologia e Ensino Superior, José Mariano Rebelo Pires Gago. - A Ministra da Cultura, Maria Isabel da Silva Pires de Lima.

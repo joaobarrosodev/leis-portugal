@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/2s/2025/03/063000000/0009300133.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -46,18 +46,18 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/despacho-normativo/3-2025-913051908
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2025-03-31T00:00:00Z'
+  retrieved_at: '2026-10-23T15:09:14Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: fccc52b3449fb41ed513f015436bcce72d58e3a6d019f719b01e8eebaf01b02d
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: d1bd288a95ed735299b3410ee142369a048f62c2c00baa94f95ea36868b7ccd9
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:09:14Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -65,17 +65,49 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects: []
-relationships: []
+relationships:
+- type: cites
+  target: pt:dre:121246168:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:1782382:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:355494:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:556606:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:603476:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:640339:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:860479516:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:894487443:por
+  label: null
+  source: null
 article_structure:
-  article_count: 103
+  article_count: 89
   section_count: 23
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:09:14Z'
   warnings: []
   errors: []
 ---
@@ -144,7 +176,9 @@ g) [...]
 
 6 - Por sua iniciativa ou por determinação dos órgãos de governo da Universidade, as Faculdades, a Escola Superior de Enfermagem e as demais unidades orgânicas podem compartilhar meios materiais e humanos e organizar iniciativas conjuntas, incluindo ciclos de estudos, projetos de investigação e atividades de prestação de serviços especializados à comunidade.
 
-###### Artigo 17.º — [...]
+Artigo 17.º
+
+[...]
 
 1 - A estrutura orgânica da Universidade de Coimbra assenta fundamentalmente nas seguintes unidades orgânicas de ensino e investigação: Faculdade de Letras, Faculdade de Direito, Faculdade de Medicina, Faculdade de Ciências e Tecnologia, Faculdade de Farmácia, Faculdade de Economia, Faculdade de Psicologia e de Ciências da Educação, Faculdade de Ciências do Desporto e Educação Física e Escola Superior de Enfermagem.
 
@@ -158,11 +192,15 @@ g) [...]
 
 6 - Só para as Faculdades e para a Escola Superior de Enfermagem podem ser contratados professores em regime de nomeação definitiva.
 
-###### Artigo 22.º — [...]
+Artigo 22.º
+
+[...]
 
 As atividades de investigação científica de natureza disciplinar e interdisciplinar decorrem nas Faculdades, na Escola Superior de Enfermagem e nas demais unidades orgânicas de ensino e investigação e nas unidades orgânicas de investigação.
 
-###### Artigo 24.º — [...]
+Artigo 24.º
+
+[...]
 
 1 - O Instituto de Investigação Interdisciplinar colabora na concretização das decisões estratégicas da Universidade de Coimbra em matéria de investigação científica e promove, estimula, apoia, enquadra, coordena, gere e divulga atividades de investigação científica de natureza interdisciplinar, sem prejuízo das competências das Faculdades e da Escola Superior de Enfermagem.
 
@@ -172,11 +210,15 @@ As atividades de investigação científica de natureza disciplinar e interdisci
 
 4 - [...]
 
-###### Artigo 30.º — [...]
+Artigo 30.º
+
+[...]
 
 Sem prejuízo do disposto no artigo anterior, as Faculdades, a Escola Superior de Enfermagem e as demais unidades orgânicas, no âmbito da respetiva autonomia, dispõem de serviços específicos de apoio à gestão, conforme o consagrado nos seus próprios Estatutos.
 
-###### Artigo 31.º — [...]
+Artigo 31.º
+
+[...]
 
 1 - [...]
 
@@ -188,7 +230,9 @@ Sem prejuízo do disposto no artigo anterior, as Faculdades, a Escola Superior d
 
 5 - [...]
 
-###### Artigo 38.º — [...]
+Artigo 38.º
+
+[...]
 
 1 - [...]
 
@@ -196,7 +240,9 @@ Sem prejuízo do disposto no artigo anterior, as Faculdades, a Escola Superior d
 
 3 - [...]
 
-###### Artigo 41.º — [...]
+Artigo 41.º
+
+[...]
 
 1 - [...]
 
@@ -230,7 +276,9 @@ l) [...]
 
 4 - [...]
 
-###### Artigo 49.º — [...]
+Artigo 49.º
+
+[...]
 
 1 - [...]
 
@@ -292,7 +340,9 @@ w) [...]
 
 5 - [...]
 
-###### Artigo 50.º — [...]
+Artigo 50.º
+
+[...]
 
 1 - [...]
 
@@ -300,7 +350,9 @@ w) [...]
 
 3 - Podem ser convocados para participar nas reuniões do Conselho de Gestão, sem direito de voto, os Diretores das Faculdades, da Escola Superior de Enfermagem e de outras unidades orgânicas, os responsáveis pelos serviços da Universidade e representantes dos estudantes e do pessoal não docente e não investigador.
 
-###### Artigo 55.º — [...]
+Artigo 55.º
+
+[...]
 
 1 - [...]
 
@@ -318,7 +370,9 @@ w) [...]
 
 GOVERNO DA ESCOLA SUPERIOR DE ENFERMAGEM
 
-###### Artigo 66.º — Órgãos da Escola Superior de Enfermagem
+Artigo 66.º
+
+Órgãos da Escola Superior de Enfermagem
 
 1 - São órgãos da Escola Superior de Enfermagem:
 
@@ -332,15 +386,21 @@ d) O Conselho Pedagógico.
 
 2 - Os Estatutos da Escola Superior de Enfermagem podem prever a existência de outros órgãos de natureza consultiva.
 
-###### Artigo 67.º — Assembleia da Escola
+Artigo 67.º
+
+Assembleia da Escola
 
 À Assembleia da Escola aplica-se, com as necessárias adaptações, o disposto nos artigos 57.º e 58.º
 
-###### Artigo 68.º — Diretor
+Artigo 68.º
+
+Diretor
 
 Ao Diretor aplica-se, com as necessárias adaptações, o disposto nos artigos 59.º a 61.º
 
-###### Artigo 69.º — Conselho Técnico-Científico
+Artigo 69.º
+
+Conselho Técnico-Científico
 
 1 - O Conselho Técnico-Científico é constituído por um máximo de 25 membros e tem a seguinte composição:
 
@@ -366,7 +426,9 @@ c) Dois representantes das unidades de investigação reconhecidas e avaliadas p
 
 5 - Ao Conselho Técnico-Científico aplica-se, com as necessárias adaptações, o disposto no artigo 63.º
 
-###### Artigo 70.º — Conselho Pedagógico
+Artigo 70.º
+
+Conselho Pedagógico
 
 Ao Conselho Pedagógico aplica-se, com as necessárias adaptações, o disposto nos artigos 64.º e 65.º.»
 
@@ -1034,7 +1096,7 @@ a) A segunda votação, se necessária, incide apenas sobre os dois mais votados
 
 b) A terceira votação, se necessária, incide apenas sobre o candidato mais votado na votação anterior.
 
-12 - Se não houver candidatos ou se não tiver sido apurado um vencedor pelo processo referido nos n.<sup>os</sup> 8 a 11, o Conselho Geral abre, uma única vez, um novo prazo para apresentação de candidaturas, que não pode ser superior a um mês.
+12 - Se não houver candidatos ou se não tiver sido apurado um vencedor pelo processo referido nos n.os 8 a 11, o Conselho Geral abre, uma única vez, um novo prazo para apresentação de candidaturas, que não pode ser superior a um mês.
 
 13 - Se no final do novo processo a situação se mantiver, o Conselho Geral escolhe um professor catedrático da Universidade de Coimbra de entre aqueles que previamente não tiverem recusado a designação para o cargo.
 
@@ -1074,7 +1136,7 @@ b) A terceira votação, se necessária, incide apenas sobre o candidato mais vo
 
 2 - Após procedimento administrativo e com fundamento em causa devidamente justificada, o Conselho Geral, ouvido o Senado, pode destituir o Reitor, mediante deliberação aprovada por maioria de dois terços dos seus membros em efetividade de funções.
 
-3 - As deliberações referidas nos n.<sup>os</sup>1 e 2 só podem ser votadas em reuniões convocadas especificamente para o efeito.
+3 - As deliberações referidas nos n.os1 e 2 só podem ser votadas em reuniões convocadas especificamente para o efeito.
 
 ###### Artigo 49.º — Competência
 
@@ -1198,7 +1260,7 @@ d) Dois trabalhadores não docentes e não investigadores.
 
 a) A alteração dos Estatutos da Universidade, nos termos do disposto na alínea h) do n.º 1 do artigo 41.º;
 
-b) O exercício pelo Reitor das competências referidas nas alíneas p), q) e u) do n.º 1 do artigo 49.º, nos termos do disposto nos n.<sup>os</sup>3 e 4 desse mesmo artigo.
+b) O exercício pelo Reitor das competências referidas nas alíneas p), q) e u) do n.º 1 do artigo 49.º, nos termos do disposto nos n.os3 e 4 desse mesmo artigo.
 
 2 - Para coadjuvar o Reitor no exercício do poder disciplinar, nomeadamente quando se trate da aplicação das sanções disciplinares previstas nas alíneas c), d) e e) do n.º 5 do artigo 75.º da [Lei n.º 62/2007](https://diariodarepublica.pt/dr/detalhe/lei/62-2007-640339), de 10 de setembro, é constituída uma comissão especializada do Senado presidida pelo Reitor e composta por um docente ou investigador, um estudante e um trabalhador não docente e não investigador, eleitos pelos respetivos pares no Senado.
 
@@ -1628,21 +1690,27 @@ Os presentes Estatutos entram em vigor cinco dias úteis após a sua publicaçã
 
 ## ANEXO I
 
-![](https://files.diariodarepublica.pt/images/913051908/913052005.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/913051908/913052005.png) |
+| --- |
 
 Selo da Universidade de Coimbra
 
-![](https://files.diariodarepublica.pt/images/913051908/913052006.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/913051908/913052006.png) |
+| --- |
 
 Bandeira da Universidade de Coimbra
 
-![](https://files.diariodarepublica.pt/images/913051908/913052007.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/913051908/913052007.png) |
+| --- |
 
-![](https://files.diariodarepublica.pt/images/913051908/913052008.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/913051908/913052008.png) |
+| --- |
 
 Hino da Universidade de Coimbra
 
-## ANEXO II — Artigo 1.º
+## ANEXO II
+
+###### Artigo 1.º
 
 Qualificação dos cargos dirigentes das unidades e serviços centrais
 
@@ -1669,3 +1737,5 @@ d) O cargo de Chefe de Gabinete do Reitor é qualificado como cargo de direção
 3 - Verificada a existência, na Unidade Orgânica, de trabalhadores não docentes nem investigadores em número igual ou superior a 100, os Estatutos das Unidades Orgânicas de Ensino e Investigação da Universidade de Coimbra podem prever, por cada grupo adicional de 50 trabalhadores não docentes nem investigadores, o cargo de Coordenador Adjunto, qualificado como cargo de direção intermédia de 2.º grau.
 
 4 - As competências e demais critérios aplicáveis aos cargos previstos no presente artigo são expressamente fixadas no Regulamento dos Cargos Dirigentes da Universidade de Coimbra, a aprovar pelo Reitor.
+
+318853929

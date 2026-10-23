@@ -20,12 +20,12 @@ publication:
   reference: Diário da República n.º 67/2016, 1º Suplemento, Série II de 2016-04-06
   number: '67'
   series: II
-  supplement: 1º Suplemento
+  supplement: null
   pages: 11576-(2) a 11576-(14)
   pdf_url: https://files.diariodarepublica.pt/2s/2016/04/067000001/0000200014.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -47,45 +47,127 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/despacho-normativo/1-g-2016-74076016
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2017-02-10T00:00:00Z'
+  retrieved_at: '2026-10-23T15:08:05Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 3b56d7fc4ca3594e1fefeca11a55e1580e35a4d8ce4fa323f0bd90a7120f1b6d
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: ddbde30f51de767ba973be39b95afbaa61456e24ae2f88de8bfe95477dc0b3ae
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:08:05Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Avaliação de Conhecimentos
+- Direção Geral dos Estabelecimentos Escolares
+- Ensino
+- Ensino Básico
+- Ensino Cooperativo
+- Ensino Oficial
+- Ensino Particular
+- Estabelecimento de Ensino
+- JURI Nacional de Exames
+- Prova de Aferição
+- Regulamento
+- Sistema Educativo
 relationships:
 - type: amended_by
   target: pt:dre:106436777:por
   label: Última alteração registada na importação inicial
   source: null
+- type: cites
+  target: pt:dre:1294329:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:174840:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:178548:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:249230:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:259964:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:386871:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:482392:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:490957:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:497860:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:587624:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:64297587:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:652897:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:66041468:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:73203130:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:73798876:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:74007250:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:106436777:por
+  label: Revogado, a partir de 11.02.2017 e com efeitos a partir do ano letivo de 2016/2017, pelo(a) Despacho Normativo n.º
+    1-A/2017 - Diário da República n.º 30/2017, 1º Suplemento, Série II de 2017-02-10
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/despacho-normativo/1-a-2017-106436777
+  date: '2017-02-10'
 article_structure:
   article_count: 46
   section_count: 10
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:08:05Z'
   warnings: []
   errors: []
 ---
 
-# Despacho Normativo n.º 1-G/2016
+# Despacho normativo n.º 1-G/2016
 
 O [Decreto-Lei n.º 17/2016](https://diariodarepublica.pt/dr/detalhe/decreto-lei/17-2016-74007250), de 4 de abril, que procede à terceira alteração ao [Decreto-Lei n.º 139/2012](https://diariodarepublica.pt/dr/detalhe/decreto-lei/139-2012-178548), de 5 de julho, vem redefinir os princípios orientadores da avaliação do ensino e das aprendizagens dos alunos dos ensinos básico e secundário. No desenvolvimento de tais princípios, o Despacho normativo n.º 1-F/2016, publicado no Diário da República, 2.ª série, n.º 66 de 5 de abril de 2016, regulamenta o regime de avaliação e certificação das aprendizagens desenvolvidas pelos alunos do ensino básico, bem como as medidas de promoção do sucesso educativo.
 
@@ -311,7 +393,7 @@ Co = classificação obtida na prova oral.
 
 1 - A classificação das provas escritas, das provas orais e das provas práticas é expressa na escala percentual de 0 a 100, sendo a classificação final de cada disciplina convertida na escala de níveis de 1 a 5, de acordo com a seguinte tabela:
 
-[([ver documento original](https://files.diariodarepublica.pt/2s/2016/04/067000001/0000200014.pdf))](https://files.diariodarepublica.pt/2s/2016/04/067000001/0000200014.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/2s/2016/04/067000001/0000200014.pdf)
 
 2 - Nas provas de equivalência à frequência constituídas por uma única componente, a classificação da prova corresponde à classificação final da disciplina.
 
@@ -347,7 +429,7 @@ Co = classificação obtida na prova oral.
 
 4 - No 4.º ano, com exceção das disciplinas de Português e Matemática, a classificação final de disciplina é convertida, de acordo com a seguinte tabela:
 
-[([ver documento original](https://files.diariodarepublica.pt/2s/2016/04/067000001/0000200014.pdf))](https://files.diariodarepublica.pt/2s/2016/04/067000001/0000200014.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/2s/2016/04/067000001/0000200014.pdf)
 
 5 - Para os alunos referidos nas alíneas a), b), c), d), e) e h) do n.º 1 do artigo 7.º, que optem por não realizar prova de equivalência à frequência em alguma disciplina na 2.ª fase, a classificação final dessa disciplina corresponde à obtida na prova de equivalência à frequência realizada na 1.ª fase.
 
@@ -935,13 +1017,13 @@ QUADRO I
 
 Prazos de inscrição para as provas de equivalência à frequência dos 1.º e 2.º ciclos do ensino básico
 
-[([ver documento original](https://files.diariodarepublica.pt/2s/2016/04/067000001/0000200014.pdf))](https://files.diariodarepublica.pt/2s/2016/04/067000001/0000200014.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/2s/2016/04/067000001/0000200014.pdf)
 
 QUADRO II
 
 Prazos de inscrição para as provas finais do 3.º ciclo e provas de equivalência à frequência do 3.º ciclo do ensino básico - 2016
 
-[([ver documento original](https://files.diariodarepublica.pt/2s/2016/04/067000001/0000200014.pdf))](https://files.diariodarepublica.pt/2s/2016/04/067000001/0000200014.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/2s/2016/04/067000001/0000200014.pdf)
 
 QUADRO III
 
@@ -949,7 +1031,7 @@ Provas de aferição do ensino básico
 
 Tipo de prova e respetiva duração
 
-[([ver documento original](https://files.diariodarepublica.pt/2s/2016/04/067000001/0000200014.pdf))](https://files.diariodarepublica.pt/2s/2016/04/067000001/0000200014.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/2s/2016/04/067000001/0000200014.pdf)
 
 QUADRO IV
 
@@ -957,7 +1039,7 @@ Provas finais do 3.º ciclo do ensino básico
 
 Tipo de prova e respetiva duração
 
-[([ver documento original](https://files.diariodarepublica.pt/2s/2016/04/067000001/0000200014.pdf))](https://files.diariodarepublica.pt/2s/2016/04/067000001/0000200014.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/2s/2016/04/067000001/0000200014.pdf)
 
 QUADRO V
 
@@ -967,16 +1049,18 @@ Tabela A - 1.º Ciclo do Ensino Básico
 
 Tipo de prova e respetiva duração
 
-[([ver documento original](https://files.diariodarepublica.pt/2s/2016/04/067000001/0000200014.pdf))](https://files.diariodarepublica.pt/2s/2016/04/067000001/0000200014.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/2s/2016/04/067000001/0000200014.pdf)
 
 Tabela B - 2.º Ciclo do Ensino Básico
 
 Tipo de prova e respetiva duração
 
-[([ver documento original](https://files.diariodarepublica.pt/2s/2016/04/067000001/0000200014.pdf))](https://files.diariodarepublica.pt/2s/2016/04/067000001/0000200014.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/2s/2016/04/067000001/0000200014.pdf)
 
 Tabela C - 3.º Ciclo do Ensino Básico
 
 Tipo de provas e respetiva duração
 
-[([ver documento original](https://files.diariodarepublica.pt/2s/2016/04/067000001/0000200014.pdf))](https://files.diariodarepublica.pt/2s/2016/04/067000001/0000200014.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/2s/2016/04/067000001/0000200014.pdf)
+
+209491016

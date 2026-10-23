@@ -47,41 +47,69 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/despacho-normativo/23-2009-1247336
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2009-06-17T00:00:00Z'
+  retrieved_at: '2026-10-23T15:07:14Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 54c40d143691b104f82ae048966133dd9b9b8e7d6d892b2081274cec2763885a
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 0c89ffe694c8e43fd8adb7ad39912e7cc7d80aeb14c1af9518e3b1628560f114
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:07:14Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
-relationships: []
+subjects:
+- Código do IVA
+- IVA
+- Prazo
+- Reembolso
+relationships:
+- type: cites
+  target: pt:dre:449902:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:493768:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:570294:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:574957:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:605547:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:664086:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:07:14Z'
   warnings: []
   errors: []
 ---
 
-# Despacho Normativo n.º 23/2009
+# Despacho normativo n.º 23/2009
 
 Com a entrada em vigor do [Despacho Normativo n.º 53/2005](https://diariodarepublica.pt/dr/detalhe/despacho-normativo/53-2005-493768), de 15 de Dezembro, foram alterados os procedimentos relativos aos pedidos de reembolso do imposto sobre o valor acrescentado (IVA) e à correspondente metodologia de controlo.
 
@@ -315,8 +343,10 @@ Instruções de preenchimento da relação de sujeitos passivos a que respeitam 
 
 10 - As regularizações relativas a sujeitos passivos não enquadrados no regime normal do IVA ou que não sejam sujeitos passivos do imposto, bem como outras regularizações não englobáveis em qualquer outra linha desta relação, devem ser incluídas de forma global na linha «Outras regularizações».
 
-## ANEXO I — [([ver documento original](https://files.diariodarepublica.pt/2s/2009/06/115000000/2381423818.pdf))](https://files.diariodarepublica.pt/2s/2009/06/115000000/2381423818.pdf)
+## ANEXO I — [(ver documento original)](https://files.diariodarepublica.pt/2s/2009/06/115000000/2381423818.pdf)
 
-## ANEXO II — [([ver documento original](https://files.diariodarepublica.pt/2s/2009/06/115000000/2381423818.pdf))](https://files.diariodarepublica.pt/2s/2009/06/115000000/2381423818.pdf)
+## ANEXO II — [(ver documento original)](https://files.diariodarepublica.pt/2s/2009/06/115000000/2381423818.pdf)
 
-## ANEXO III — [([ver documento original](https://files.diariodarepublica.pt/2s/2009/06/115000000/2381423818.pdf))](https://files.diariodarepublica.pt/2s/2009/06/115000000/2381423818.pdf)
+## ANEXO III — [(ver documento original)](https://files.diariodarepublica.pt/2s/2009/06/115000000/2381423818.pdf)
+
+201897437

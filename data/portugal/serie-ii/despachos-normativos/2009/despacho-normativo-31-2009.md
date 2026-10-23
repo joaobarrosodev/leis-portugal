@@ -46,45 +46,75 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/despacho-normativo/31-2009-1663992
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2010-06-18T00:00:00Z'
+  retrieved_at: '2026-10-23T15:07:15Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: a6f14e513253eaea07d269147cada62d0655375bca92cbe12515804e29d24d52
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 2f75a3f9f81826600d4968681a9e04ee44cfce3702aed9309b30e37da6119309
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:07:15Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Apoio ao Investimento
+- Cobrança de Dívidas
+- Comissão de Acompanhamento
+- Contrato de Financiamento
+- Financiamento
+- Instituto de Turismo de Portugal
+- Interesse para o Turismo
+- Investimento Privado
+- Investimento Público
+- Juros
+- Projeto de Investimento
+- Reembolso
+- Turismo
 relationships:
 - type: amended_by
   target: pt:dre:3620231:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:3620231:por
+  label: "Alterados os arts. 9.º, 10.º, 16.º e 19.º, pelo DN.16/2010.18.06.2010.SETU-MEID, DR.IIS [117] de 18.06.2010\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/despacho-normativo/16-2010-3620231
+  date: '2010-06-18'
+- type: cites
+  target: pt:dre:249827:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:390816:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:520987:por
+  label: null
+  source: null
 article_structure:
   article_count: 22
   section_count: 7
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:07:15Z'
   warnings: []
   errors: []
 ---
 
-# Despacho Normativo n.º 31/2009
+# Despacho normativo n.º 31/2009
 
 Através da aprovação do presente diploma concretiza-se a reformulação do regime jurídico da actividade de financiamento do sector do turismo prosseguida pelo Turismo de Portugal, I. P.
 
@@ -379,3 +409,5 @@ O disposto nos artigos anteriores não é aplicável sempre que, no âmbito de p
 ###### Artigo 22.º — Financiamentos concedidos ao abrigo de outros diplomas
 
 Sem prejuízo do disposto no n.º 2 do artigo 15.º, as regras constantes da secção iii aplicam-se aos acordos a celebrar relativamente a financiamentos concedidos ao abrigo de outros diplomas.
+
+202220285

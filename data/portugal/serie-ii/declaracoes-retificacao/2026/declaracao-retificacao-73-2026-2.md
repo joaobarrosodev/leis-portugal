@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/2s/2026/01/020000000/0019100242.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -47,18 +47,18 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/declaracao-retificacao/73-2026-1028040973
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2026-01-29T00:00:00Z'
+  retrieved_at: '2026-10-23T15:06:14Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 16a92e0cd13e1c81f883b1da2a3c561aef44cf14ba6df073d1e77f7e8b018150
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: b109dcedccec103dd147e12820aac7f57f6f0e9d00ba674cc680401c06b34145
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:06:14Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,24 +66,48 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects: []
-relationships: []
+relationships:
+- type: cites
+  target: pt:dre:177308746:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:205457496:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:227271:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:640339:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:905624756:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:916177977:por
+  label: null
+  source: null
 article_structure:
-  article_count: 77
+  article_count: 67
   section_count: 7
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:06:14Z'
   warnings: []
   errors: []
 ---
 
 # Declaração de Retificação n.º 73/2026/2
 
-Para os devidos efeitos, observado o disposto nos n.<sup>os</sup>2, 3, 4, 6 e 7 do artigo 11.º do Regulamento de Publicação de Atos no Diário da República, aprovado pelo [Despacho Normativo n.º 16/2022](https://diariodarepublica.pt/dr/detalhe/despacho-normativo/16-2022-205457496), de 30 de dezembro, no uso de competência delegada pelo conselho de administração da Imprensa Nacional-Casa da Moeda, SA, em 1 de março de 2025, e obtido parecer favorável da entidade emitente, declara-se que o Despacho n.º 13485/2025, publicado no Diário da República, 2.ª série, n.º 220, de 13 de novembro de 2025, referente à alteração ao regulamento de avaliação de desempenho do pessoal investigador da Universidade de Aveiro, saiu com várias inexatidões no texto, cuja extensão justifica a republicação integral do texto, em anexo ao presente ato.
+Para os devidos efeitos, observado o disposto nos n.os2, 3, 4, 6 e 7 do artigo 11.º do Regulamento de Publicação de Atos no Diário da República, aprovado pelo [Despacho Normativo n.º 16/2022](https://diariodarepublica.pt/dr/detalhe/despacho-normativo/16-2022-205457496), de 30 de dezembro, no uso de competência delegada pelo conselho de administração da Imprensa Nacional-Casa da Moeda, SA, em 1 de março de 2025, e obtido parecer favorável da entidade emitente, declara-se que o Despacho n.º 13485/2025, publicado no Diário da República, 2.ª série, n.º 220, de 13 de novembro de 2025, referente à alteração ao regulamento de avaliação de desempenho do pessoal investigador da Universidade de Aveiro, saiu com várias inexatidões no texto, cuja extensão justifica a republicação integral do texto, em anexo ao presente ato.
 
 22 de janeiro de 2026. - O Diretor da Unidade do Diário da República da Imprensa Nacional-Casa da Moeda, SA, Bruno Pereira.
 
@@ -131,7 +155,9 @@ i) Imparcialidade, sendo aplicável o regime previsto nos artigos 69.º a 76.º 
 
 j) Homologação dos resultados da avaliação do desempenho pelo órgão legal e estatutariamente competente da entidade contratante, assegurando um justo equilíbrio da distribuição desses resultados, em obediência ao princípio da diferenciação do desempenho.
 
-###### Artigo 5.º — [...]
+Artigo 5.º
+
+[...]
 
 1 - [...]
 
@@ -147,7 +173,9 @@ a) No caso de não haver consolidação, releva na carreira e categoria de orige
 
 b) No caso de haver consolidação, releva na carreira e categoria na qual irá operar a consolidação.
 
-###### Artigo 12.º — [...]
+Artigo 12.º
+
+[...]
 
 1 - [...]
 
@@ -165,7 +193,9 @@ b) No caso de haver consolidação, releva na carreira e categoria na qual irá 
 
 8 - [...]
 
-###### Artigo 24.º — [...]
+Artigo 24.º
+
+[...]
 
 1 - [...]
 
@@ -173,7 +203,8 @@ b) No caso de haver consolidação, releva na carreira e categoria na qual irá 
 
 3 - Para efeitos do disposto número anterior, D𝑖 é obtido através da seguinte expressão:
 
-![](https://files.diariodarepublica.pt/images/1028040973/1028041005.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/1028040973/1028041005.png) |
+| --- |
 
 4 - Para efeitos do disposto no número anterior, SGQ𝑖 corresponde à média dos totais do grupo (TTG), constante do “Relatório sobre uma unidade curricular e de um docente”, cuja escala é de 1 (‘Mau’) a 5 (‘Muito Bom’).
 
@@ -189,7 +220,9 @@ b) No caso de haver consolidação, releva na carreira e categoria na qual irá 
 
 10 - [...]
 
-###### Artigo 46.º — [...]
+Artigo 46.º
+
+[...]
 
 São intervenientes no processo de avaliação da Universidade:
 
@@ -207,7 +240,9 @@ f) O Conselho Científico;
 
 g) O Reitor.
 
-###### Artigo 47.º — [...]
+Artigo 47.º
+
+[...]
 
 1 - [...]
 
@@ -219,7 +254,9 @@ a) A impossibilidade de obter dispensa da prestação de serviço nos termos leg
 
 b) A atribuição de uma avaliação do desempenho com a menção de Inadequado.
 
-###### Artigo 50.º — [...]
+Artigo 50.º
+
+[...]
 
 1 - [...]
 
@@ -233,7 +270,9 @@ c) [...]
 
 3 - [...]
 
-###### Artigo 55.º — [...]
+Artigo 55.º
+
+[...]
 
 1 - A avaliação do desempenho positiva é uma das condições que deve ser satisfeita para:
 
@@ -249,7 +288,9 @@ b) [...]
 
 5 - A atribuição de duas avaliações consecutivas com a menção de Inadequado durante um período de seis anos na avaliação do desempenho implica a instauração, pelo órgão legal e estatutariamente competente, de processo disciplinar especial de averiguações, nos termos legais aplicáveis.
 
-###### Artigo 56.º — [...]
+Artigo 56.º
+
+[...]
 
 1 - A alteração do posicionamento remuneratório tem lugar nos termos estabelecidos no presente Regulamento, e de acordo com o artigo 25.º do anexo I à [Lei n.º 55/2025](https://diariodarepublica.pt/dr/detalhe/lei/55-2025-916177977), de 28 de abril, para os investigadores em funções públicas, e, para os investigadores em regime de direito privado, com o artigo 10.º do anexo II à [Lei n.º 55/2025](https://diariodarepublica.pt/dr/detalhe/lei/55-2025-916177977), de 28 de abril.
 
@@ -271,7 +312,7 @@ b) Tratando-se de investigadores em regime de direito privado, no processo de av
 
 6 - [Antigo n.º 5]
 
-7 - Se, depois de aplicado o estipulado no n.º 5, existir ainda disponibilidade financeira relativamente ao definido anualmente no despacho a que se referem os n.<sup>os</sup>3 e 4, a verba remanescente pode ser afeta à alteração do posicionamento remuneratório dos investigadores que satisfaçam o referido no número anterior, os quais podem beneficiar de uma alteração para posição imediatamente superior àquela em que se encontram, com efeitos a partir do ano seguinte àquele em que tenham completado os pontos necessários à mudança de posição, correspondendo cada ano a um terço da pontuação definida nas alíneas a) a c) do n.º 3 do artigo 55.º
+7 - Se, depois de aplicado o estipulado no n.º 5, existir ainda disponibilidade financeira relativamente ao definido anualmente no despacho a que se referem os n.os3 e 4, a verba remanescente pode ser afeta à alteração do posicionamento remuneratório dos investigadores que satisfaçam o referido no número anterior, os quais podem beneficiar de uma alteração para posição imediatamente superior àquela em que se encontram, com efeitos a partir do ano seguinte àquele em que tenham completado os pontos necessários à mudança de posição, correspondendo cada ano a um terço da pontuação definida nas alíneas a) a c) do n.º 3 do artigo 55.º
 
 8 - [Antigo n.º 7]
 
@@ -462,13 +503,17 @@ Impugnações
 
 Do ato de homologação e da decisão sobre a reclamação cabe impugnação jurisdicional.
 
-###### Artigo 60.º — Outras situações excecionais
+Artigo 60.º
+
+Outras situações excecionais
 
 1 - Aos investigadores que desempenhem funções de Reitor, quando aplicável, ou de coadjuvação a este órgão de governo, funções de direção nas Unidades Orgânicas de Ensino e Investigação ou exerçam outros cargos de nomeação em dedicação exclusiva é atribuída a menção a que corresponde o desempenho Muito Bom e a classificação quantitativa de 89,99, que para os efeitos do presente Regulamento é fixa e inalterada.
 
 2 - Os investigadores indicados no número anterior, à exceção do Reitor e, quando este não assuma a presidência do CCADIUA, de quem esteja indicado para o efeito, podem, no período de janeiro a fevereiro do primeiro ano do triénio em avaliação, requerer ao CCADIUA a respetiva avaliação de acordo com as regras fixadas no presente Regulamento.
 
-###### Artigo 61.º — Prémio de desempenho
+Artigo 61.º
+
+Prémio de desempenho
 
 1 - De acordo com as verbas orçamentais previstas pelo Reitor através de decisão fundamentada tomada no prazo de 15 dias após o início da execução do orçamento e tornada pública por afixação na página eletrónica da Universidade, o mérito no desempenho pode ser reconhecido através da atribuição de prémio de valor equivalente à remuneração base mensal do investigador, a acrescer à respetiva remuneração, nos termos do disposto nos números seguintes.
 
@@ -658,7 +703,7 @@ d) Participação em júris de concursos de contratação de pessoal e de proced
 
 ###### Artigo 11.º — Critérios e subcritérios de avaliação
 
-1 - Para cada uma das vertentes identificadas, nos termos consagrados nos artigos 7.º a 10.º, são fixados os critérios e subcritérios de avaliação enunciados nos n.<sup>os</sup>2 a 5.
+1 - Para cada uma das vertentes identificadas, nos termos consagrados nos artigos 7.º a 10.º, são fixados os critérios e subcritérios de avaliação enunciados nos n.os2 a 5.
 
 2 - Na vertente de investigação (I), identificada no artigo 7.º, são utilizados os seguintes critérios e subcritérios de avaliação:
 
@@ -726,19 +771,21 @@ ii) Participação em júris de concursos de contratação de pessoal (jcp);
 
 iii) Participação em júris para aquisição de bens ou serviços (js).
 
-6 - As atividades desenvolvidas, no âmbito dos subcritérios identificados nos n.<sup>os</sup>2 a 5, são contabilizadas, apenas uma vez, tendo em conta o estipulado nos artigos 12.º a 30.º
+6 - As atividades desenvolvidas, no âmbito dos subcritérios identificados nos n.os2 a 5, são contabilizadas, apenas uma vez, tendo em conta o estipulado nos artigos 12.º a 30.º
 
 ###### Artigo 12.º — Subcritério de avaliação de publicações
 
 1 - O subcritério de avaliação de publicações é ponderado da seguinte forma:
 
-![](https://files.diariodarepublica.pt/images/1028040973/1028041006.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/1028040973/1028041006.png) |
+| --- |
 
 2 - Para efeitos do disposto no número anterior, considera-se que N é o número total de publicações efetuadas em cada um dos anos correspondentes ao período de avaliação, T𝑖 é tipo de publicação, de acordo com a classificação fixada na tabela 1 do Anexo III, R𝑖 é o fator de correção ao número de autores, A𝑖 é o âmbito territorial da publicação, de acordo com a classificação fixada na tabela 2 do Anexo III e cp é o número de citações efetuadas e registadas em bases de dados indexadas em cada um dos anos correspondentes ao período de avaliação e referentes ao total de publicações de que o Avaliado é autor ou coautor, independentemente da data de publicação.
 
 3 - O fator de correção R𝑖, identificado no número anterior, é obtido através da seguinte expressão:
 
-![](https://files.diariodarepublica.pt/images/1028040973/1028041007.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/1028040973/1028041007.png) |
+| --- |
 
 4 - Para efeitos do disposto no número anterior, é o número de autores da publicação.
 
@@ -762,23 +809,26 @@ g) O Conselho Científico procede à uniformização de todas as listas proposta
 
 7 - Para efeitos de aplicação do disposto na alínea f) do n.º 5, e sempre que não for possível obter listagens das taxas de aceitação das conferências consideradas, em determinada área disciplinar, pode o Diretor da respetiva unidade de investigação apresentar as propostas de listagens de conferências classificadas com base em critérios diferentes daquele, desde que devidamente fundamentados.
 
-8 - As propostas de listagens apresentadas ao abrigo dos n.<sup>os</sup>6 e 7 requerem a validação pelo Conselho Científico.
+8 - As propostas de listagens apresentadas ao abrigo dos n.os6 e 7 requerem a validação pelo Conselho Científico.
 
 ###### Artigo 13.º — Subcritério de avaliação de projetos e redes
 
 1 - O subcritério de avaliação de projetos e redes com financiamento para a Universidade é ponderado da seguinte forma:
 
-![](https://files.diariodarepublica.pt/images/1028040973/1028041008.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/1028040973/1028041008.png) |
+| --- |
 
 2 - Para efeitos do disposto no número anterior, considera-se que N é o número de projetos e redes, T𝑖 é o tipo de participação no projeto ou rede, de acordo com a classificação fixada na tabela 3 do Anexo III, R𝑖 é o fator de correção ao número de colaboradores doutorados no projeto, F𝑖 é o montante do financiamento para a Universidade, em milhares de euros auferido no período em avaliação, F é o montante do financiamento para a Universidade, de acordo com a respetiva área, em milhares de euros, calculado com base no financiamento recomendado dos projetos aprovados pela Fundação para a Ciência e a Tecnologia (FCT) nas três convocatórias anteriormente publicadas, Ns é o número total de candidaturas submetidas a programas de financiamento como responsável geral ou responsável local do projeto e S𝑖 é o tipo de candidatura submetida de acordo com a classificação fixada na tabela 4 do Anexo III.
 
 3 - O fator de correção R𝑖, identificado no n.º 1, é obtido através da seguinte fórmula:
 
-![](https://files.diariodarepublica.pt/images/1028040973/1028041009.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/1028040973/1028041009.png) |
+| --- |
 
 4 - O fator identificado no n.º 2 é calculado da seguinte forma:
 
-![](https://files.diariodarepublica.pt/images/1028040973/1028041010.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/1028040973/1028041010.png) |
+| --- |
 
 5 - Para efeitos do n.º 3, é o número total de colaboradores doutorados da Universidade envolvidos no projeto.
 
@@ -788,7 +838,8 @@ g) O Conselho Científico procede à uniformização de todas as listas proposta
 
 1 - O subcritério de avaliação de criação artística e produção cultural, devidamente comprovadas pela entidade promotora da iniciativa, é ponderado da seguinte forma:
 
-![](https://files.diariodarepublica.pt/images/1028040973/1028041011.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/1028040973/1028041011.png) |
+| --- |
 
 2 - Para efeitos do disposto no número anterior, N é o número total de ações realizadas, T𝑖 é o tipo de ação, de acordo com a classificação fixada na tabela 5 do Anexo III, O𝑖 é o nível de exigência da ação, de acordo com a classificação fixada na tabela 6 do Anexo III, e R𝑖 é o fator de correção ao número de autores.
 
@@ -796,7 +847,8 @@ g) O Conselho Científico procede à uniformização de todas as listas proposta
 
 4 - O fator de correção R𝑖, definido nos termos do n.º 1, é obtido através da seguinte expressão:
 
-![](https://files.diariodarepublica.pt/images/1028040973/1028041012.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/1028040973/1028041012.png) |
+| --- |
 
 5 - Para efeitos do número anterior, a𝑖 é o número de autores.
 
@@ -804,13 +856,15 @@ g) O Conselho Científico procede à uniformização de todas as listas proposta
 
 1 - O subcritério de avaliação de organização de ações de divulgação e difusão científica, artística e cultural, devidamente comprovadas pela entidade promotora da iniciativa, é ponderado da seguinte forma:
 
-![](https://files.diariodarepublica.pt/images/1028040973/1028041013.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/1028040973/1028041013.png) |
+| --- |
 
 2 - Para efeitos do disposto no número anterior, considera-se que N é o número total de ações realizadas, T𝑖 é o tipo de ação, de acordo com a classificação fixada na tabela 7 do Anexo III, O𝑖 é o tipo de participação, de acordo com a classificação fixada na tabela 8 do Anexo III, e R𝑖 é o fator de correção ao número de participantes na ação.
 
 3 - O fator de correção R𝑖, identificado no número anterior, é obtido através da seguinte fórmula:
 
-![](https://files.diariodarepublica.pt/images/1028040973/1028041014.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/1028040973/1028041014.png) |
+| --- |
 
 4 - Para efeitos do número anterior, a𝑖 é o número de participantes na ação.
 
@@ -818,7 +872,8 @@ g) O Conselho Científico procede à uniformização de todas as listas proposta
 
 1 - O subcritério de avaliação de prémios e menções relevantes recebidos especificamente pelo avaliado é ponderado da seguinte forma:
 
-![](https://files.diariodarepublica.pt/images/1028040973/1028041015.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/1028040973/1028041015.png) |
+| --- |
 
 2 - Para efeito do disposto no número anterior, considera-se que N é o número total de prémios e menções relevantes recebidos e T𝑖 é o tipo de prémio, de acordo com a classificação fixada na tabela 9 do Anexo III.
 
@@ -828,7 +883,8 @@ g) O Conselho Científico procede à uniformização de todas as listas proposta
 
 1 - O subcritério de avaliação de outras atividades e méritos é calculado da seguinte forma:
 
-![](https://files.diariodarepublica.pt/images/1028040973/1028041016.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/1028040973/1028041016.png) |
+| --- |
 
 2 - Para efeitos do disposto no número anterior, considera-se que N é o número total de ações realizadas e T𝑖 é o tipo de ação, de acordo com a classificação fixada na tabela 10 do Anexo III.
 
@@ -836,7 +892,8 @@ g) O Conselho Científico procede à uniformização de todas as listas proposta
 
 1 - O subcritério de avaliação de registos de propriedade intelectual, legislação e normas é ponderado da seguinte forma:
 
-![](https://files.diariodarepublica.pt/images/1028040973/1028041017.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/1028040973/1028041017.png) |
+| --- |
 
 2 - Para efeitos do disposto no número anterior, considera-se que N é o número total de registos de propriedade intelectual e da submissão dos formalismos prévios inerentes e de participações na elaboração de projetos normativos e normas técnicas, T𝑖 é o tipo de contribuição, de acordo com a classificação fixada na tabela 11 do Anexo III, e R𝑖 é o fator de correção ao número de colaboradores.
 
@@ -844,7 +901,8 @@ g) O Conselho Científico procede à uniformização de todas as listas proposta
 
 4 - O fator de correção R𝑖, previsto no n.º 2, é obtido através da seguinte expressão:
 
-![](https://files.diariodarepublica.pt/images/1028040973/1028041018.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/1028040973/1028041018.png) |
+| --- |
 
 5 - Para efeitos do número anterior, a𝑖 é o número de colaboradores.
 
@@ -852,13 +910,15 @@ g) O Conselho Científico procede à uniformização de todas as listas proposta
 
 1 - O subcritério de avaliação de ações de cooperação, prestação de serviços e consultoria requeridas por entidades externas, independentemente da sua natureza, com financiamento direto da entidade beneficiária, bem como prémios é ponderado da seguinte forma:
 
-![](https://files.diariodarepublica.pt/images/1028040973/1028041019.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/1028040973/1028041019.png) |
+| --- |
 
 2 - Para efeitos do disposto no número anterior, considera-se que N é o número de ações desenvolvidas, T𝑖 é o tipo de ação de acordo com a classificação fixada na tabela 12 do Anexo III, C𝑖 é o fator de correção correspondente ao valor do financiamento auferido pela Universidade de Aveiro no período em avaliação, de acordo com o fixado na tabela 13 do Anexo III, O𝑖 é o tipo de participação na ação, de acordo com a classificação fixada na tabela 14 do Anexo III, e R𝑖 é o fator de correção tendo em consideração o número de colaboradores.
 
 3 - O fator de correção R𝑖 é obtido através da seguinte expressão:
 
-![](https://files.diariodarepublica.pt/images/1028040973/1028041020.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/1028040973/1028041020.png) |
+| --- |
 
 4 - Para efeitos do número anterior, a𝑖 é o número total de colaboradores da Universidade envolvidos nas ações.
 
@@ -868,13 +928,15 @@ g) O Conselho Científico procede à uniformização de todas as listas proposta
 
 1 - O subcritério de avaliação de outras atividades de divulgação e difusão científica e cultural é ponderado da seguinte forma:
 
-![](https://files.diariodarepublica.pt/images/1028040973/1028041021.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/1028040973/1028041021.png) |
+| --- |
 
 2 - Para efeitos do disposto no número anterior, considera-se que N é o número total de ações realizadas, T𝑖 é o tipo de ação, de acordo com a classificação fixada na tabela 15 do Anexo III, O𝑖 é o tipo de participação, de acordo com a classificação fixada na tabela 16 do Anexo III, e R𝑖 é o fator de correção ao número de participantes na ação.
 
 3 - O fator de correção R𝑖 é obtido através da seguinte expressão:
 
-![](https://files.diariodarepublica.pt/images/1028040973/1028041022.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/1028040973/1028041022.png) |
+| --- |
 
 4 - Para efeitos do número anterior, a𝑖 é o número de participantes na ação.
 
@@ -882,7 +944,8 @@ g) O Conselho Científico procede à uniformização de todas as listas proposta
 
 1 - O subcritério de avaliação de outros cargos é ponderado da seguinte forma:
 
-![](https://files.diariodarepublica.pt/images/1028040973/1028041023.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/1028040973/1028041023.png) |
+| --- |
 
 2 - Para efeitos do disposto no número anterior, considera-se que N é o número total de cargos desempenhados e C𝑖 é o tipo de cargo, de acordo com a classificação fixada na tabela 17 do Anexo III.
 
@@ -890,13 +953,15 @@ g) O Conselho Científico procede à uniformização de todas as listas proposta
 
 1 - O subcritério de avaliação de conteúdos didático-pedagógicos é ponderado através da seguinte fórmula:
 
-![](https://files.diariodarepublica.pt/images/1028040973/1028041024.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/1028040973/1028041024.png) |
+| --- |
 
 2 - Na fórmula prevista no número anterior, N é o número total de conteúdos didático-pedagógicos, T𝑖 é o tipo de conteúdo didático-pedagógico, de acordo com a classificação fixada na tabela 18 do Anexo III, e R𝑖 é o fator de correção ao número de autores.
 
 3 - O fator de correção R𝑖, identificado no número anterior, é obtido através da seguinte fórmula:
 
-![](https://files.diariodarepublica.pt/images/1028040973/1028041025.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/1028040973/1028041025.png) |
+| --- |
 
 4 - Para efeitos do número anterior, a𝑖 é o número de autores.
 
@@ -904,13 +969,15 @@ g) O Conselho Científico procede à uniformização de todas as listas proposta
 
 1 - O subcritério de avaliação de acompanhamento e orientação é ponderado da seguinte forma:
 
-![](https://files.diariodarepublica.pt/images/1028040973/1028041026.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/1028040973/1028041026.png) |
+| --- |
 
 2 - Na fórmula prevista no número anterior, N é o número total de supervisões e cossupervisões concluídas com sucesso, T𝑖 é o tipo de supervisão, de acordo com a classificação fixada na tabela 19 do Anexo III, O𝑖 é o tipo de responsabilidade, de acordo com a classificação fixada na tabela 20 do Anexo III, a𝑖 é o fator de correção aplicável ao número de anos das supervisões e I𝑖, fator de correção devido à supervisão interdisciplinar.
 
 3 - O fator a𝑖, identificado na fórmula estabelecida no n.º 1, nas supervisões referentes aos doutoramentos é obtido através da seguinte fórmula:
 
-![](https://files.diariodarepublica.pt/images/1028040973/1028041027.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/1028040973/1028041027.png) |
+| --- |
 
 4 - Para efeitos da fórmula identificada no número anterior, t é o número total de anos, equivalente a frequência em tempo integral, que o estudante demorou a concluir o doutoramento, contando-se para este efeito a data da primeira matrícula.
 
@@ -918,7 +985,8 @@ g) O Conselho Científico procede à uniformização de todas as listas proposta
 
 6 - O fator de correção I𝑖, identificado no n.º 2 assume os valores indicados na fórmula seguinte, aplicando-se somente a supervisões na Universidade de Aveiro:
 
-![](https://files.diariodarepublica.pt/images/1028040973/1028041028.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/1028040973/1028041028.png) |
+| --- |
 
 7 - Na ponderação das atividades de supervisão de tese, dissertação, projeto, seminário ou estágio apenas são registadas as supervisões individualizadas, implicando, nestes casos, a não contabilização da carga letiva na respetiva unidade curricular.
 
@@ -926,13 +994,15 @@ g) O Conselho Científico procede à uniformização de todas as listas proposta
 
 1 - O subcritério de avaliação de unidades curriculares é ponderado da seguinte forma:
 
-![](https://files.diariodarepublica.pt/images/1028040973/1028041029.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/1028040973/1028041029.png) |
+| --- |
 
 2 - Para efeitos da fórmula anterior, N é o número total de ofertas semestrais de unidades curriculares da Universidade que foram lecionadas pelo Avaliado, T𝑖 é o tipo de participação na unidade curricular, de acordo com a classificação fixada na tabela 21 do Anexo III, HS𝑖 é o número de horas semanais de aulas creditadas ao Avaliado em cada semestre e unidade curricular, D𝑖 corresponde ao efeito da média da avaliação global do desempenho do Avaliado com base nos resultados dos inquéritos pedagógicos fornecidos pelo Sistema de Garantia de Qualidade (SGQ), In𝑖 corresponde ao efeito do incumprimento das obrigações administrativas no subcritério cuja informação é obtida através do Portal Académico online (PACO) em número de dias de atraso e corresponde ao tipo de lecionação da unidade curricular, de acordo com a classificação fixada na tabela 22 do Anexo III.
 
 3 - Para efeitos do disposto número anterior, D𝑖 é obtido através da seguinte expressão:
 
-![](https://files.diariodarepublica.pt/images/1028040973/1028041030.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/1028040973/1028041030.png) |
+| --- |
 
 4 - Para efeitos do disposto no número anterior, SGQ𝑖 corresponde à média dos totais do grupo (TTG), constante do “Relatório sobre uma unidade curricular e de um docente”, cuja escala é de 1 (‘Mau’) a 5 (‘Muito Bom’).
 
@@ -940,33 +1010,37 @@ g) O Conselho Científico procede à uniformização de todas as listas proposta
 
 6 - Em casos excecionais e devidamente justificados, na ausência de resultados de inquéritos fornecidos pelo SGQ durante todo o período de avaliação, considera-se SGQ𝑖 igual a 3,5, para efeitos de aplicação do disposto no n.º 3.
 
-7 - Nos termos previstos nos n.<sup>os</sup>1 e 2, In𝑖 é obtido através da seguinte expressão:
+7 - Nos termos previstos nos n.os1 e 2, In𝑖 é obtido através da seguinte expressão:
 
-![](https://files.diariodarepublica.pt/images/1028040973/1028041031.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/1028040973/1028041031.png) |
+| --- |
 
-8 - Para efeitos de In𝑖, nos n.<sup>os</sup>1, 2 e 7, considera-se que corresponde ao somatório do número de dias de atraso no lançamento de sumários após o término do respetivo semestre e do número de dias de atraso no lançamento de pautas de acordo com o calendário estabelecido para o efeito.
+8 - Para efeitos de In𝑖, nos n.os1, 2 e 7, considera-se que corresponde ao somatório do número de dias de atraso no lançamento de sumários após o término do respetivo semestre e do número de dias de atraso no lançamento de pautas de acordo com o calendário estabelecido para o efeito.
 
-9 - Para efeitos dos n.<sup>os</sup>7 e 8, In𝑖 é igual a 0,8 se α for igual ou superior a 28.
+9 - Para efeitos dos n.os7 e 8, In𝑖 é igual a 0,8 se α for igual ou superior a 28.
 
-10 - No caso dos Avaliados que coordenem unidades curriculares, sem a componente de lecionação, considera-se para efeitos dos n.<sup>os</sup>1 e 2, que HS𝑖 = 1.
+10 - No caso dos Avaliados que coordenem unidades curriculares, sem a componente de lecionação, considera-se para efeitos dos n.os1 e 2, que HS𝑖 = 1.
 
 ###### Artigo 25.º — Subcritério de avaliação de coordenação e participação em programas conjuntos internacionais
 
 1 - O subcritério de avaliação de coordenação e participação em programas conjuntos internacionais, considerados como aqueles em que a Universidade colabora com uma ou mais instituições internacionais de ensino e/ou de investigação, é ponderado da seguinte forma:
 
-![](https://files.diariodarepublica.pt/images/1028040973/1028041032.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/1028040973/1028041032.png) |
+| --- |
 
 2 - Para efeitos do número anterior, considera-se que N é o número total de programas conjuntos internacionais, T𝑖 é o tipo de programa conjunto internacional, de acordo com a classificação fixada na tabela 23 do Anexo III, e O𝑖 é o tipo de responsabilidade, de acordo com a classificação fixada na tabela 24 do Anexo III, e Q𝑖 corresponde ao fator de correção considerando a posição da instituição no ranking do Times Higher Education.
 
 3 - O fator de correção Q𝑖, identificado no número anterior, assume os valores indicados de seguida:
 
-![](https://files.diariodarepublica.pt/images/1028040973/1028041033.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/1028040973/1028041033.png) |
+| --- |
 
 ###### Artigo 26.º — Subcritério de avaliação de coordenação e participação em programas de inovação curricular e de metodologia de investigação e desenvolvimento
 
 1 - O subcritério de avaliação da coordenação e participação em programas de inovação curricular e de metodologia de investigação e desenvolvimento é ponderado da seguinte forma:
 
-![](https://files.diariodarepublica.pt/images/1028040973/1028041034.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/1028040973/1028041034.png) |
+| --- |
 
 2 - Para efeitos do disposto no número anterior, considera-se que N é o número total de programas realizados, O𝑖 é o tipo de participação, de acordo com a classificação fixada na tabela 25 do Anexo III, e nh,𝑖 corresponde ao número de horas da ação i.
 
@@ -976,7 +1050,8 @@ g) O Conselho Científico procede à uniformização de todas as listas proposta
 
 1 - O subcritério de avaliação de participação em júris de provas académicas é ponderado da seguinte forma:
 
-![](https://files.diariodarepublica.pt/images/1028040973/1028041035.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/1028040973/1028041035.png) |
+| --- |
 
 2 - Para efeitos do número anterior, considera-se que N é o número total de provas realizadas em que o Avaliado integra o júri, excluindo os casos em que o Avaliado é orientador, T𝑖 é o tipo de prova, de acordo com a classificação fixada na tabela 26 do Anexo III, O𝑖 é o tipo de participação, de acordo com a classificação fixada na tabela 27 do Anexo III, e A𝑖 é o âmbito territorial da prova, de acordo com a classificação fixada na tabela 28 do Anexo III.
 
@@ -984,13 +1059,15 @@ g) O Conselho Científico procede à uniformização de todas as listas proposta
 
 1 - O subcritério de avaliação de cargos de gestão é ponderado da seguinte forma:
 
-![](https://files.diariodarepublica.pt/images/1028040973/1028041036.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/1028040973/1028041036.png) |
+| --- |
 
 2 - Para efeitos do disposto no número anterior, considera-se que N é o número total de exercícios semestrais de cargos de gestão universitária que foram exercidos pelo Avaliado, M𝑖 o número de meses em que o exerceu o cargo e CS𝑖 é a ponderação atribuída aos cargos de gestão universitária, de acordo com as tabelas 29 a 32 do Anexo III, sem prejuízo do disposto no n.º 5.
 
 3 - Para efeitos de aplicação das fórmulas constantes da tabela 29 do Anexo III, considera-se:
 
-![](https://files.diariodarepublica.pt/images/1028040973/1028041037.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/1028040973/1028041037.png) |
+| --- |
 
 4 - A ponderação de cargos em organizações de ensino e ou científicas, nacionais e internacionais, e de outros que sejam considerados relevantes pelo CCADIUA, e não estejam previstos nas tabelas 29 a 32 do Anexo III, é fixada pelo Reitor da Universidade.
 
@@ -1000,7 +1077,8 @@ g) O Conselho Científico procede à uniformização de todas as listas proposta
 
 1 - O subcritério de avaliação de participação em júris de concursos de contratação de pessoal é ponderado da seguinte forma:
 
-![](https://files.diariodarepublica.pt/images/1028040973/1028041038.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/1028040973/1028041038.png) |
+| --- |
 
 2 - Para efeitos do disposto no número anterior, considera-se que N é o número total de concursos realizados em que o Avaliado fez parte do júri e T𝑖 é o tipo de concurso, de acordo com a classificação fixada na tabela 33 do Anexo III.
 
@@ -1008,7 +1086,8 @@ g) O Conselho Científico procede à uniformização de todas as listas proposta
 
 1 - O subcritério de avaliação de participação em júris para aquisição de bens ou serviços é ponderado da seguinte forma:
 
-![](https://files.diariodarepublica.pt/images/1028040973/1028041039.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/1028040973/1028041039.png) |
+| --- |
 
 2 - Para efeitos do disposto no número anterior, considera-se que N é o número total de concursos em que o Avaliado integrou o júri, T𝑖 é o tipo de procedimento, de acordo com a classificação fixada na tabela 34 do Anexo III, e O𝑖 corresponde ao âmbito territorial do concurso, de acordo com a classificação fixada na tabela 35 do Anexo III.
 
@@ -1028,11 +1107,13 @@ g) O Conselho Científico procede à uniformização de todas as listas proposta
 
 2 - Para efeitos do número anterior, CxY é calculado através da função seguinte:
 
-![](https://files.diariodarepublica.pt/images/1028040973/1028041040.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/1028040973/1028041040.png) |
+| --- |
 
 3 - A função identificada no número anterior é calculada da seguinte forma:
 
-![](https://files.diariodarepublica.pt/images/1028040973/1028041041.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/1028040973/1028041041.png) |
+| --- |
 
 4 - Para efeitos do número anterior, RxY(Ф) é contínua, limitada e crescente, com RxY(0) igual a 0, sendo, que em regra, o parâmetro n assume o valor 2, com exceção para o investigador júnior que assume o valor 1,75, podendo o Reitor, ouvido o CCADIUA, fixar outro valor, sem prejuízo do estabelecido para a meta e o teto definidos no artigo 31.º
 
@@ -1040,7 +1121,7 @@ g) O Conselho Científico procede à uniformização de todas as listas proposta
 
 1 - O coeficiente de ponderação ωx estabelece o coeficiente relativo da vertente X no conjunto das vertentes, sendo que a soma de todos coeficientes de ponderação é igual a 1.
 
-2 - Os coeficientes mínimos de ponderação de cada vertente da atividade de investigação são definidos inicialmente na tabela do Anexo I, em conformidade com o disposto no n.<sup>o</sup>1 do artigo 5.º
+2 - Os coeficientes mínimos de ponderação de cada vertente da atividade de investigação são definidos inicialmente na tabela do Anexo I, em conformidade com o disposto no n.o1 do artigo 5.º
 
 3 - Os coeficientes de ponderação final de cada vertente resultam da otimização, com reajuste das metas, de acordo com o disposto no n.º 4 do artigo 31.º, que maximiza a avaliação quantitativa global do investigador, devendo as ponderações de todas as vertentes somar 100 %.
 
@@ -1048,7 +1129,8 @@ g) O Conselho Científico procede à uniformização de todas as listas proposta
 
 5 - O coeficiente de ponderação global do critério de avaliação Y da vertente X no conjunto das vertentes calcula-se através do produto dos coeficientes de ponderação dos números anteriores:
 
-![](https://files.diariodarepublica.pt/images/1028040973/1028041042.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/1028040973/1028041042.png) |
+| --- |
 
 ###### Artigo 34.º — Sistema de classificação
 
@@ -1064,7 +1146,8 @@ d) Conversão do valor do critério Y da vertente X no valor CxxY, nos termos es
 
 e) Apuramento da classificação intermédia do critério Y da vertente X, de acordo com o seguinte:
 
-![](https://files.diariodarepublica.pt/images/1028040973/1028041043.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/1028040973/1028041043.png) |
+| --- |
 
 f) Aplicação dos fatores de correção previstos no artigo anterior, nos casos aplicáveis;
 
@@ -1340,7 +1423,7 @@ b) Tratando-se de investigadores em regime de direito privado, no processo de av
 
 6 - Podem beneficiar de alteração do posicionamento remuneratório os investigadores que não se encontrem na posição remuneratória mais elevada da sua categoria e que tenham, pelo menos, um total acumulado de nove pontos na posição remuneratória em que se encontram, nos termos dos números seguintes.
 
-7 - Se, depois de aplicado o estipulado no n.º 5, existir ainda disponibilidade financeira relativamente ao definido anualmente no despacho a que se referem os n.<sup>os</sup>3 e 4, a verba remanescente pode ser afeta à alteração do posicionamento remuneratório dos investigadores que satisfaçam o referido no número anterior, os quais podem beneficiar de uma alteração para posição imediatamente superior àquela em que se encontram, com efeitos a partir do ano seguinte àquele em que tenham completado os pontos necessários à mudança de posição, correspondendo cada ano a um terço da pontuação definida nas alíneas a) a c) do n.º 3 do artigo 55.º
+7 - Se, depois de aplicado o estipulado no n.º 5, existir ainda disponibilidade financeira relativamente ao definido anualmente no despacho a que se referem os n.os3 e 4, a verba remanescente pode ser afeta à alteração do posicionamento remuneratório dos investigadores que satisfaçam o referido no número anterior, os quais podem beneficiar de uma alteração para posição imediatamente superior àquela em que se encontram, com efeitos a partir do ano seguinte àquele em que tenham completado os pontos necessários à mudança de posição, correspondendo cada ano a um terço da pontuação definida nas alíneas a) a c) do n.º 3 do artigo 55.º
 
 8 - Para efeitos do disposto no número anterior, os investigadores são ordenados, por ordem decrescente, em função do número de pontos acumulados na posição remuneratória em que se encontram.
 
@@ -1358,7 +1441,7 @@ b) Tratando-se de investigadores em regime de direito privado, no processo de av
 
 4 - Sempre que a avaliação por ponderação curricular seja requerida por um investigador com a categoria de investigador coordenador, é nomeada, pelo Reitor, sob proposta do Conselho Científico, uma Comissão de Avaliação, constituída por um mínimo de dois e um máximo de seis membros, cujo perfil cumpra o disposto no n.º 2 do artigo 37.º
 
-5 - No caso dos n.<sup>os</sup>3 e 4 anteriores devem, sempre que possível, ser indicados suplentes, que possam substituir os membros efetivos das Comissões de Avaliação nas suas faltas e impedimentos.
+5 - No caso dos n.os3 e 4 anteriores devem, sempre que possível, ser indicados suplentes, que possam substituir os membros efetivos das Comissões de Avaliação nas suas faltas e impedimentos.
 
 6 - Caso não existam docentes e investigadores em número suficiente para integrar as Comissões de Avaliação nos termos mencionados nos números anteriores, devem ser indicados membros externos que preencham os mesmos requisitos.
 
@@ -1412,9 +1495,9 @@ b) Tratando-se de investigadores em regime de direito privado, no processo de av
 
 ## ANEXO I — Coeficientes de ponderação de cada vertente da atividade de investigação
 
-| Categorias | I | T | D | G |
+| Categorias | Coeficientes (%) |  |  |  |
 | --- | --- | --- | --- | --- |
-| Categorias | Coeficientes (%) | Coeficientes (%) | Coeficientes (%) | Coeficientes (%) |
+| I | T | D | G |  |
 | Investigador Coordenador | 50-70 | 0-40 | 0-35 | 0-30 |
 | Investigador Principal | 60-80 | 0-35 | 0-35 | 0-25 |
 | Investigador Auxiliar | 70-90 | 0-30 | 0-30 | 0-20 |
@@ -1424,11 +1507,11 @@ b) Tratando-se de investigadores em regime de direito privado, no processo de av
 
 Tabela A1
 
-| Coeficiente mínimo relativo da vertente ωx | Investigação | Investigação | Investigação | Investigação | Transferência e Valorização do Conhecimento | Transferência e Valorização do Conhecimento | Docência e Formação | Docência e Formação | Docência e Formação | Gestão e outras tarefas |
+| Coeficiente mínimo relativo da vertente ωx | Investigação | Transferência e Valorização do Conhecimento | Docência e Formação | Gestão e outras tarefas |  |  |  |  |  |  |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| Coeficiente mínimo relativo da vertente ωx | Tabela do anexo I e artigo 5.º | Tabela do anexo I e artigo 5.º | Tabela do anexo I e artigo 5.º | Tabela do anexo I e artigo 5.º | Tabela do anexo I e artigo 5.º | Tabela do anexo I e artigo 5.º | Tabela do anexo I e artigo 5.º | Tabela do anexo I e artigo 5.º | Tabela do anexo I e artigo 5.º | Tabela do anexo I e artigo 5.º |
+| Tabela do anexo I e artigo 5.º | Tabela do anexo I e artigo 5.º | Tabela do anexo I e artigo 5.º | Tabela do anexo I e artigo 5.º |  |  |  |  |  |  |  |
 | Peso relativo do critério ωxY | Publicações | Projetos e redes | Criação artística e produção cultural | Outras atividades e méritos | PI, legislação e normas | Ações de cooperação, prest. serviços consultoria, prémios, outras atividades e cargos | Cont. didático-pedagógicos | Ciclos de estudo | Outras atividades | Cargos de gestão e participação em júris |
-| Peso relativo do critério ωxY | 0,45 (a)0,75 (b) | 0,4 (a)0,1 (b) | 0,4 (a)0,1 (b) | 0,15 | 0,3 | 0,7 | 0,15 | 0,7 | 0,15 | 1 |
+| 0,45 (a)0,75 (b) | 0,4 (a)0,1 (b) | 0,15 | 0,3 | 0,7 | 0,15 | 0,7 | 0,15 | 1 |  |  |
 
 (a) Aplicável a todas as áreas, exceto à identificada em (b).
 
@@ -1436,7 +1519,7 @@ Tabela A1
 
 Tabela A2
 
-| Investigação | Investigação | Investigação | Investigação | Transferência e Valorização do Conhecimento | Transferência e Valorização do Conhecimento | Docência e Formação | Docência e Formação | Docência e Formação | Gestão e outras tarefas |
+| Investigação | Transferência e Valorização do Conhecimento | Docência e Formação | Gestão e outras tarefas |  |  |  |  |  |  |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | Publicações | Projetos e redes | Criação artística e produção cultural | Outras atividades e méritos | PI, legislação e normas | Ações de cooperação, prest. serviços consultoria, prémios, outras atividades e cargos | Cont. didático-pedagógicos | Ciclos de estudo | Outras atividades | Cargos de gestão e participação em júris |
 | μ IPb | μ IPj | μ Icc | μ Iom | μ TPi | μ TSc | μ ECp | μ ECe | μ EOe | μ GCgpj |
@@ -1452,7 +1535,7 @@ Tabela 1
 
 | Tipo de publicação | T𝑖 |
 | --- | --- |
-| Livro (n<sub>p</sub>= n.º de páginas) | 15*tanh(n<sub>p</sub>/150) |
+| Livro (np= n.º de páginas) | 15*tanh(np/150) |
 | Edição de livro | 6 |
 | Edição de livro de atas | 1 |
 | Edição crítica | 6 |
@@ -1721,8 +1804,8 @@ Tabela 18
 
 | Tipo de conteúdo pedagógico | T𝑖 |
 | --- | --- |
-| Livro de apoio ao ensino - por editora internacional (n<sub>p</sub> = n.º de páginas) | 12*tanh(n<sub>p</sub>/150) |
-| Livro de apoio ao ensino - por editora nacional (n<sub>p</sub> = n.º de páginas) | 6*tanh(n<sub>p</sub>/150) |
+| Livro de apoio ao ensino - por editora internacional (np = n.º de páginas) | 12*tanh(np/150) |
+| Livro de apoio ao ensino - por editora nacional (np = n.º de páginas) | 6*tanh(np/150) |
 | Edição de livro - por editora internacional | 6 |
 | Edição de livro - por editora nacional | 3 |
 | Capítulo de livro - por editora internacional | 2 |
@@ -1828,18 +1911,12 @@ Tabela 29
 
 | Unidades de Investigação e Laboratórios Associados | CSi |
 | --- | --- |
-| Diretor de Unidade de Investigação/Laboratório Associado |  |
-|  |  |
-| Vice-Diretor de Unidade de Investigação/Laboratório Associado |  |
-|  |  |
-| Coordenador de grupo ou linha de investigação de Unidade de Investigação/Laboratório Associado |  |
-|  |  |
-
-![](https://files.diariodarepublica.pt/images/1028040973/1028041044.png)
-
-![](https://files.diariodarepublica.pt/images/1028040973/1028041045.png)
-
-![](https://files.diariodarepublica.pt/images/1028040973/1028041046.png)
+| Diretor de Unidade de Investigação/Laboratório Associado | \| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/1028040973/1028041044.png) \|<br>\| --- \| |
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/1028040973/1028041044.png) |  |
+| Vice-Diretor de Unidade de Investigação/Laboratório Associado | \| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/1028040973/1028041045.png) \|<br>\| --- \| |
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/1028040973/1028041045.png) |  |
+| Coordenador de grupo ou linha de investigação de Unidade de Investigação/Laboratório Associado | \| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/1028040973/1028041046.png) \|<br>\| --- \| |
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/1028040973/1028041046.png) |  |
 
 Tabela 30
 
@@ -1946,3 +2023,7 @@ Tabela 35
 | Concurso nacional | 0,5 |
 
 30 de outubro de 2025. - O Reitor, Paulo Jorge Ferreira.
+
+100000426
+
+.Tbl1 { border-collapse:collapse; border-width:1px; } .Tbl2 { min-height:26px; } .Tbl4 { text-align:center; } .Tbl5 { min-height:18px; } .Tbl6 { border-bottom-color:rgb(0,0,0); border-top-color:rgb(0,0,0); border-left-width:0px; border-top-width:1px; border-right-width:1px; border-top-style:solid; border-bottom-width:1px; border-bottom-style:solid; border-right-style:solid; border-right-color:rgb(0,0,0); border-left-style:solid; vertical-align:top; } .Tbl7 { border-bottom-color:rgb(0,0,0); border-top-color:rgb(0,0,0); border-left-width:1px; border-top-width:1px; border-right-width:0px; border-top-style:solid; border-left-color:rgb(0,0,0); border-bottom-width:1px; border-bottom-style:solid; border-right-style:solid; border-left-style:solid; vertical-align:top; } .Tbl8 { min-height:27px; } .Tbl9 { border-bottom-color:rgb(0,0,0); border-top-color:rgb(0,0,0); border-left-width:0px; border-top-width:1px; border-right-width:1px; border-top-style:solid; border-bottom-width:1px; border-bottom-style:solid; border-right-style:solid; border-right-color:rgb(0,0,0); border-left-style:solid; vertical-align:middle; } .Tbl10 { border-bottom-color:rgb(0,0,0); border-top-color:rgb(0,0,0); border-left-width:1px; border-top-width:1px; border-right-width:0px; border-top-style:solid; border-left-color:rgb(0,0,0); border-bottom-width:1px; border-bottom-style:solid; border-right-style:solid; border-left-style:solid; vertical-align:middle; } .Tbl11 { min-height:28px; } .Tbl12 { border-collapse:collapse; border-width:1px; margin-left:auto; margin-right:auto; } .Tbl13 { min-height:19px; } .Tbl14 { min-height:29px; } .Tbl15 { min-height:39px; } .Tbl16 { min-height:25px; } .Tbl17 { margin-top:0px; text-align:center; } .Tbl18 { min-height:17px; } .Tbl19 { border-bottom-color:rgb(0,0,0); border-top-color:rgb(0,0,0); border-left-width:1px; border-top-width:1px; border-right-width:1px; border-top-style:solid; border-left-color:rgb(0,0,0); border-bottom-width:1px; border-bottom-style:solid; border-right-style:solid; border-right-color:rgb(0,0,0); border-left-style:solid; vertical-align:top; } .Tbl20 { border-bottom-color:rgb(0,0,0); border-top-color:rgb(0,0,0); border-left-width:1px; border-top-width:1px; border-right-width:1px; border-top-style:solid; border-left-color:rgb(0,0,0); border-bottom-width:1px; border-bottom-style:solid; border-right-style:solid; border-right-color:rgb(0,0,0); border-left-style:solid; vertical-align:middle; } .Tbl21 { min-height:36px; } .Tbl22 { min-height:32px; } .Tbl23 { min-height:21px; } .Tbl24 { text-indent:0px; text-align:center; } .Tbl25 { min-height:24px; } .Tbl26 { margin-top:0px; text-align:center; margin-left:11px; } .Tbl27 { min-height:23px; } .Tbl28 { min-height:33px; } .Tbl29 { min-height:47px; }

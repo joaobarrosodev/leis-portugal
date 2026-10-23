@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/2s/2016/05/089000000/1458714589.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -47,30 +47,53 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/despacho-normativo/4-2016-74385175
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2019-01-18T00:00:00Z'
+  retrieved_at: '2026-10-23T15:08:10Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 1bedcf43bcd5dc42b420d3240815fe634a699ae8b1c0f237970e5c55d5ed7cc5
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 3dbf0c68e6b9cd22136087c996c9c15675ec0672e730c6f2681fd627f463b99f
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:08:10Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Agricultura
+- IFAP
+- Política Agrícola Comum
+- Regulamento CE
 relationships:
 - type: amended_by
   target: pt:dre:118010891:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:105658698:por
+  label: Altera, com efeitos a 01.01.2017, os anexos I, II e III do DN 6/2015 de 20-fev, na redação do presente diploma, pelo(a)
+    Despacho Normativo n.º 15-B/2016 - Diário da República n.º 249/2016, 2º Suplemento, Série II de 2016-12-29
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/despacho-normativo/15-b-2016-105658698
+  date: '2016-12-29'
+- type: amended_by
+  target: pt:dre:114541492:por
+  label: Alterados os anexos I, II e III ao DN 6/2015, de 20-fev, na redação do presente diploma pelo(a) Despacho Normativo
+    n.º 3/2018 - Diário da República n.º 13/2018, Série II de 2018-01-18
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/despacho-normativo/3-2018-114541492
+  date: '2018-01-18'
+- type: amended_by
+  target: pt:dre:118010891:por
+  label: Alterados, com efeitos a 19.01.2019 e com aplicação a partir de 01.01.2015 os respetivos anexos I II e III DN 6/2015,
+    de 20-fev, na redação do presente diploma, pelo(a) Despacho Normativo n.º 1/2019 - Diário da República n.º 13/2019, Série
+    II de 2019-01-18
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/despacho-normativo/1-2019-118010891
+  date: '2019-01-18'
 - type: cites
   target: celex:32013R1306
   label: null
@@ -78,13 +101,13 @@ relationships:
 article_structure:
   article_count: 3
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:08:10Z'
   warnings: []
   errors: []
 ---
@@ -153,7 +176,9 @@ c) O sob coberto com várias das espécies de árvores referidas nas alíneas an
 
 Incluem-se as superfícies que não estão contempladas nos níveis anteriores, nomeadamente as culturas permanentes ou as culturas protegidas que não apresentam condições para a colheita, ou em que a superfície se encontra ocupada maioritariamente por vegetação arbustiva, em mais de 50 % da superfície da parcela e com altura superior a 50 cm.
 
-## ANEXO II — [...]
+ANEXO II
+
+[...]
 
 Requisitos legais de gestão
 
@@ -227,7 +252,9 @@ III - [...]
 
 RLG14 - [...].
 
-## ANEXO III — [...]
+ANEXO III
+
+[...]
 
 [...]
 
@@ -266,3 +293,5 @@ BCCA 7 - [...]
 A presente portaria entra em vigor no dia seguinte ao da sua publicação e produz efeitos a partir de 1 de janeiro de 2016.
 
 28 de abril de 2016. - O Ministro da Agricultura, Florestas e Desenvolvimento Rural, Luís Manuel Capoulas Santos.
+
+209549386

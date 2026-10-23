@@ -47,41 +47,68 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/despacho-normativo/29-2008-2353810
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2008-06-05T00:00:00Z'
+  retrieved_at: '2026-10-23T15:06:50Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: fbf3b33fad1f974500f62b0f80008cffdf56e281cc4c2e36936f188e930a4c29
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: cd144173338ddc06369481c8b5ea1c6bdef796cf2deed6db875c323d6d785ef4
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:06:50Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
-relationships: []
+subjects:
+- Avaliação de Conhecimentos
+- Certificação Profissional
+- Diploma
+- Educação dos Adultos
+- Ensino Profissional
+- Equivalência de Habilitações Literárias
+- Mudança de Curso
+- Plano de Estudos
+relationships:
+- type: amends
+  target: pt:numero:despacho-normativo:36/2007
+  label: "Altera os artigos 1.º, 2.º, 3.º, 7.º, 8.º, 10.º, 11.º, 12.º e 13.º, adita o art. 11.º-A e os n.ºs 6 do artigo 1.º,\
+    \ os n.º 4 e 5 do artigo 3.º, e o n.º 6 do artigo 13.º, bem como é alterado o anexo, todos do Despacho normativo n.º 36/2007\
+    \ de 08-Out, DR.IIS [193], republicado em anexo\0\0"
+  source: null
+  date: '2007-10-08'
+- type: cites
+  target: pt:dre:210801:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:551873:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:636712:por
+  label: null
+  source: null
 article_structure:
-  article_count: 8
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:06:50Z'
   warnings: []
   errors: []
 ---
 
-# Despacho Normativo n.º 29/2008
+# Despacho normativo n.º 29/2008
 
 O despacho normativo n.º 36/2007 (2.ª série), de 8 de Outubro, regulamenta o processo de reorientação do percurso formativo dos alunos, visando facilitar a mudança entre cursos de nível secundário de educação criados ao abrigo do [Decreto-Lei n.º 74/2004](https://diariodarepublica.pt/dr/detalhe/decreto-lei/74-2004-210801), de 26 de Março, com as alterações introduzidas pelo [Decreto-Lei n.º 24/2006](https://diariodarepublica.pt/dr/detalhe/decreto-lei/24-2006-551873), de 6 de Fevereiro, e pelo [Decreto-Lei n.º 272/2007](https://diariodarepublica.pt/dr/detalhe/decreto-lei/272-2007-636712), de 26 de Julho.
 
@@ -111,7 +138,9 @@ Assim, nos termos da alínea c) do artigo 4.º e do artigo 9.º do [Decreto-Lei 
 
 6 - O processo de reorientação do percurso formativo dos alunos com recurso ao regime de equivalência entre disciplinas regulado pelo presente despacho é igualmente aplicável, com as necessárias adaptações, para efeitos da frequência de um curso do nível secundário de educação abrangido pelo n.º 1, após a conclusão de um outro curso criado ao abrigo do [Decreto-Lei n.º 74/2004](https://diariodarepublica.pt/dr/detalhe/decreto-lei/74-2004-210801), de 26 de Março, na sua redacção actual.
 
-###### Artigo 2.º — [...]
+Artigo 2.º
+
+[...]
 
 1 - ...
 
@@ -127,7 +156,9 @@ b) Análogas, as disciplinas em que se desenvolvem as mesmas competências essen
 
 5 - ...
 
-###### Artigo 3.º — [...]
+Artigo 3.º
+
+[...]
 
 1 - ...
 
@@ -139,7 +170,9 @@ b) Análogas, as disciplinas em que se desenvolvem as mesmas competências essen
 
 5 - Para efeitos do número anterior, considera-se como último plano de estudos frequentado pelo aluno aquele em que o mesmo obteve uma classificação igual ou superior a 10 valores em, pelo menos, uma disciplina ou módulo realizado.
 
-###### Artigo 7.º — [...]
+Artigo 7.º
+
+[...]
 
 Para poder beneficiar do regime de permeabilidade ao abrigo deste diploma, os alunos devem:
 
@@ -147,7 +180,9 @@ a) No âmbito dos cursos científico-humanísticos, tecnológicos e artísticos 
 
 b) No âmbito dos cursos do ensino secundário recorrente e dos cursos profissionais, ter realizado todos os módulos de todas as disciplinas que integram o 1.º ano do ciclo de estudos do curso de origem, ou de todas menos duas, sem prejuízo, em qualquer caso, da creditação dos módulos em que o aluno tenha obtido aprovação.
 
-###### Artigo 8.º — [...]
+Artigo 8.º
+
+[...]
 
 1 - ...
 
@@ -159,7 +194,9 @@ b) No âmbito dos cursos do ensino secundário recorrente e dos cursos profissio
 
 5 - Para efeitos do disposto no número anterior, quando a classificação das disciplinas análogas obtida no curso de origem for igual a 8 ou 9 valores, a disciplina só é considerada concluída no curso de destino caso a média aritmética simples, arredondada às unidades, da classificação do conjunto de todos os módulos correspondente ao ano de escolaridade da disciplina frequentado no curso de origem e das classificações de todos os módulos realizados no curso de destino seja igual ou superior a 10 valores.
 
-###### Artigo 10.º — [...]
+Artigo 10.º
+
+[...]
 
 1 - A equivalência entre disciplinas aplica-se, consoante o curso de origem:
 
@@ -185,7 +222,9 @@ b) A equivalência abrange as disciplinas não concluídas e sujeitas a exame na
 
 7 - ...
 
-###### Artigo 11.º — [...]
+Artigo 11.º
+
+[...]
 
 1 - Para efeitos de reorientação do percurso formativo dos alunos com recurso ao regime de equivalência entre disciplinas ao abrigo do presente diploma, consideram-se disciplinas equivalentes, sem prejuízo do disposto no número seguinte:
 
@@ -203,7 +242,9 @@ b) Aquelas que não sendo comuns, contemplam, cumulativamente, a mesma área dis
 
 6 - ...
 
-###### Artigo 12.º — [...]
+Artigo 12.º
+
+[...]
 
 1 - No caso de mudança de um curso não abrangida pelo disposto nos números 1 a 4 do artigo 11.º-A do presente despacho, há lugar ao apuramento de uma classificação de equivalência nos termos do presente artigo, atribuída numa escala de 0 a 20 valores.
 
@@ -217,7 +258,9 @@ b) Para efeitos do disposto na alínea anterior, quando a classificação das di
 
 4 - No caso de se tratar da mudança de um curso de origem organizado em regime modular que não se encontre abrangida pelos números 1, 2 e 4 do artigo 11.º-A, a classificação de equivalência das disciplinas parcelarmente reconhecidas como equivalentes corresponde à média aritmética simples, arredondada às unidades, das classificações dos módulos das disciplinas a que foi concedida equivalência.
 
-###### Artigo 13.º — [...]
+Artigo 13.º
+
+[...]
 
 1 - Nas situações de mudança de um curso organizado em regime modular para um curso organizado em regime de ano, a classificação final (CFD) das disciplinas plurianuais não sujeitas a exame nacional no curso de destino que foram objecto de equivalência parcelar resulta da média aritmética simples, arredondada às unidades, da classificação de equivalência e das classificações obtidas nos anos de escolaridade frequentados no curso de destino.
 
@@ -289,4 +332,4 @@ b) No âmbito dos processos de reorientação do percurso formativo dos alunos j
 
 ## ANEXO I — Regime de permeabilidade
 
-[([ver documento original](https://files.diariodarepublica.pt/2s/2008/06/108000000/2508025083.pdf))](https://files.diariodarepublica.pt/2s/2008/06/108000000/2508025083.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/2s/2008/06/108000000/2508025083.pdf)

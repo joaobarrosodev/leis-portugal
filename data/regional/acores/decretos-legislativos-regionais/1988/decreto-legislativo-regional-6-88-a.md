@@ -47,36 +47,43 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/6-1988-285882
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1988-03-16T00:00:00Z'
+  retrieved_at: '2026-10-23T15:17:49Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 59a4a95d61a88f1cf2940f85213a6277f2d6f3fc7d4e980b18364d070b9629ff
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 769384ca8b152d87b8f77d85e7fd1719125ec82986fc0392a995496fa414a1d7
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:17:49Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
-relationships: []
+subjects:
+- Açores
+- Turismo
+- Veículo de Aluguer
+relationships:
+- type: cites
+  target: pt:dre:222264:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:17:49Z'
   warnings: []
   errors: []
 ---
@@ -91,18 +98,18 @@ Considerando que o preceituado em algumas das disposições deste diploma não s
 
 Assim, a Assembleia Regional dos Açores decreta, nos termos da alínea b) do artigo 229.º da Constituição, o seguinte:
 
-###### Artigo 1.º Para efeitos do n.º 5 do artigo 2.º do [Decreto-Lei n.º 354/86](https://diariodarepublica.pt/dr/detalhe/decreto-lei/354-1986-222264), de 23 de Outubro, são fixados os seguintes dimensionamentos mínimos constantes do quadro anexo em número de automóveis ligeiros de passageiros e motociclos para a exploração da indústria de veículos automóveis sem condutor:
+Artigo 1.º Para efeitos do n.º 5 do artigo 2.º do [Decreto-Lei n.º 354/86](https://diariodarepublica.pt/dr/detalhe/decreto-lei/354-1986-222264), de 23 de Outubro, são fixados os seguintes dimensionamentos mínimos constantes do quadro anexo em número de automóveis ligeiros de passageiros e motociclos para a exploração da indústria de veículos automóveis sem condutor:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1988/03/06300/11171117.pdf))](https://files.diariodarepublica.pt/1s/1988/03/06300/11171117.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1988/03/06300/11171117.pdf)
 
-###### Art. 2.º Em casos especiais devidamente justificados, pode o Secretário Regional dos Transportes e Turismo fixar um número de veículos inferior ao previsto no quadro anexo.
+Art. 2.º Em casos especiais devidamente justificados, pode o Secretário Regional dos Transportes e Turismo fixar um número de veículos inferior ao previsto no quadro anexo.
 
 Aprovado pela Assembleia Regional dos Açores, na Horta, em 21 de Janeiro de 1988.
 
-**O Presidente da Assembleia Regional, José Guilherme Reis Leite.**
+O Presidente da Assembleia Regional, José Guilherme Reis Leite.
 
-**Assinado em Angra do Heroísmo em 21 de Fevereiro de 1988.**
+Assinado em Angra do Heroísmo em 21 de Fevereiro de 1988.
 
-**Publique-se.**
+Publique-se.
 
-**O Ministro da República para a Região Autónoma dos Açores, Vasco Joaquim Rocha Vieira.**
+O Ministro da República para a Região Autónoma dos Açores, Vasco Joaquim Rocha Vieira.

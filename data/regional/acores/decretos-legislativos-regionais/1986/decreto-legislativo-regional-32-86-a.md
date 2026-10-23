@@ -47,36 +47,48 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/32-1986-210579
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1986-12-22T00:00:00Z'
+  retrieved_at: '2026-10-23T15:17:28Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: bb104d19c5bd702165942aa10189b945d1da565af2a554f913dc31ee97e4693e
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: a484f7812eeecce57494ef7b6fc8a279ed011451218b27065a4167ccf495f4f1
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:17:28Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
-relationships: []
+subjects:
+- Açores
+- Aquisição de Bens e Serviços
+- Cidadão Estrangeiro
+- Prédio Rústico
+relationships:
+- type: cites
+  target: pt:dre:193623:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:517227:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:17:28Z'
   warnings: []
   errors: []
 ---
@@ -93,9 +105,9 @@ Assim, torna-se importante, face à estrutura fundiária e, em particular, à di
 
 Nestes termos, a Assembleia Regional dos Açores, ao abrigo da alínea a) do artigo 229.º da Constituição da República Portuguesa, decreta o seguinte:
 
-###### Artigo 1.º A aquisição por indivíduos não residentes no País de prédios rústicos situados na Região Autónoma dos Açores como tais registados na matriz predial, e bem assim de parcelas a desanexar ou já desanexadas dos mesmos, rege-se pelo disposto no presente diploma.
+Artigo 1.º A aquisição por indivíduos não residentes no País de prédios rústicos situados na Região Autónoma dos Açores como tais registados na matriz predial, e bem assim de parcelas a desanexar ou já desanexadas dos mesmos, rege-se pelo disposto no presente diploma.
 
-###### Art. 2.º - 1 - A aquisição referida no artigo precedente só poderá ser autorizada desde que se verifiquem, cumulativamente, os seguintes requisitos:
+Art. 2.º - 1 - A aquisição referida no artigo precedente só poderá ser autorizada desde que se verifiquem, cumulativamente, os seguintes requisitos:
 
 a) A área do terreno não exceda 1500 m2;
 
@@ -105,7 +117,7 @@ c) Fiquem ressalvadas as limitações legais sobre reserva agrícola regional.
 
 2 - Não será permitida a aquisição, ainda que se mostrem satisfeitas as condições estabelecidas no número anterior, de terrenos situados em zonas em relação às quais e de acordo com normas de ordenamento do território ou de política turística vigorem limitações tendentes a evitar a ocupação de espaço para fins não habitacionais.
 
-###### Art. 3.º - 1 - Compete ao Banco de Portugal, depois de receber a comunicação favorável das Secretarias Regionais da Agricultura e Pescas, dos Transportes e Turismo e do Equipamento Social, autorizar a realização das operações cambiais respeitantes à aquisição de terrenos prevista no presente diploma.
+Art. 3.º - 1 - Compete ao Banco de Portugal, depois de receber a comunicação favorável das Secretarias Regionais da Agricultura e Pescas, dos Transportes e Turismo e do Equipamento Social, autorizar a realização das operações cambiais respeitantes à aquisição de terrenos prevista no presente diploma.
 
 2 - Os pedidos de autorização de operações cambiais respeitantes à aquisição dos terrenos a que se refere o número anterior serão submetidos ao Banco de Portugal, quer directamente, quer através de qualquer instituição de crédito, e deverão conter ou ser acompanhados de todos os elementos de informação necessários para a identificação do prédio ou da parcela de terreno.
 
@@ -113,7 +125,7 @@ c) Fiquem ressalvadas as limitações legais sobre reserva agrícola regional.
 
 4 - A falta de prestação nos prazos fixados dos elementos e informações referidos no número anterior ou a verificação de inexactidão dos que hajam sido prestados poderá constituir motivo bastante para a recusa da autorização da operação cambial.
 
-###### Art. 4.º - 1 - Não poderão ser efectuadas duas ou mais aquisições a favor de pessoas pertencentes ao mesmo agregado familiar.
+Art. 4.º - 1 - Não poderão ser efectuadas duas ou mais aquisições a favor de pessoas pertencentes ao mesmo agregado familiar.
 
 2 - Para efeitos do presente diploma, entende-se por agregado familiar o conjunto de pessoas constituído por:
 
@@ -123,22 +135,22 @@ Cônjuge;
 
 Descendentes menores ou maiores vivendo em economia comum.
 
-###### Art. 5.º De acordo com o que se encontra estabelecido para a importação e exportação de capitais entre o território nacional e o estrangeiro, as posteriores alienações de propriedades adquiridas ao abrigo deste diploma serão apreciadas e autorizadas pelo Banco de Portugal, devendo o respectivo preço ser obrigatoriamente liquidado no País.
+Art. 5.º De acordo com o que se encontra estabelecido para a importação e exportação de capitais entre o território nacional e o estrangeiro, as posteriores alienações de propriedades adquiridas ao abrigo deste diploma serão apreciadas e autorizadas pelo Banco de Portugal, devendo o respectivo preço ser obrigatoriamente liquidado no País.
 
-###### Art. 6.º - 1 - A aquisição de prédios rústicos como tal definidos na matriz predial por indivíduos não residentes, para além dos limites constantes dos artigos anteriores, só será permitida para fins empresariais nos termos do Código dos Investimentos Estrangeiros.
+Art. 6.º - 1 - A aquisição de prédios rústicos como tal definidos na matriz predial por indivíduos não residentes, para além dos limites constantes dos artigos anteriores, só será permitida para fins empresariais nos termos do Código dos Investimentos Estrangeiros.
 
 2 - A aquisição de prédios rústicos por empresas não residentes depende da autorização especial e prévia da Secretaria Regional das Finanças.
 
-###### Art. 7.º O disposto neste diploma não é aplicado aos emigrantes portugueses nem aos indivíduos detentores de autorizações de residência em Portugal dos tipos B e C, definidas no artigo 34.º do [Decreto-Lei n.º 264-B/81](https://diariodarepublica.pt/dr/detalhe/decreto-lei/264-b-1981-517227), de 3 de Setembro.
+Art. 7.º O disposto neste diploma não é aplicado aos emigrantes portugueses nem aos indivíduos detentores de autorizações de residência em Portugal dos tipos B e C, definidas no artigo 34.º do [Decreto-Lei n.º 264-B/81](https://diariodarepublica.pt/dr/detalhe/decreto-lei/264-b-1981-517227), de 3 de Setembro.
 
-###### Art. 8.º Serão nulas as transacções efectuadas com violação do disposto neste diploma, sem prejuízo da aplicação das normas contravencionais em vigor.
+Art. 8.º Serão nulas as transacções efectuadas com violação do disposto neste diploma, sem prejuízo da aplicação das normas contravencionais em vigor.
 
 Aprovado pela Assembleia Regional dos Açores, na Horta, em 16 de Outubro de 1986.
 
-**O Presidente da Assembleia Regional, José Guilherme Reis Leite.**
+O Presidente da Assembleia Regional, José Guilherme Reis Leite.
 
-**Assinado em Angra do Heroísmo em 27 de Novembro de 1986.**
+Assinado em Angra do Heroísmo em 27 de Novembro de 1986.
 
-**Publique-se.**
+Publique-se.
 
-**O Ministro da República para a Região Autónoma dos Açores, Vasco Joaquim da Rocha Vieira.**
+O Ministro da República para a Região Autónoma dos Açores, Vasco Joaquim da Rocha Vieira.

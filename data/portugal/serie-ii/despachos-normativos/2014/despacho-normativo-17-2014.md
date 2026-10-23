@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/2s/2014/12/249000000/3244732450.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -46,41 +46,67 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/despacho-normativo/17-2014-65987220
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2014-12-26T00:00:00Z'
+  retrieved_at: '2026-10-23T15:07:50Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 5b1a43d4d528aecb704e8ed51756debb09cf55a483cdb093efb1e86fce5a3583
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: bd0deb6fbf0cadf13caca9414fe32a189091a76dd4f39741d429681f19477245
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:07:50Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
-relationships: []
+subjects:
+- Código do IVA
+- Formulário Eletrónico
+- IVA
+- Prazo
+- Reembolso de Contribuições
+relationships:
+- type: amended_by
+  target: pt:dre:66558712:por
+  label: Retificado pela Declaração de Retificação n.º 144/2015 - Diário da República n.º 37/2015, Série II de 2015-02-23
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/declaracao-retificacao/144-2015-66558712
+  date: '2015-02-23'
+- type: cites
+  target: pt:dre:174543:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:2336625:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:243769:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:493768:por
+  label: null
+  source: null
 article_structure:
-  article_count: 19
+  article_count: 14
   section_count: 3
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:07:50Z'
   warnings: []
   errors: []
 ---
 
-# Despacho Normativo n.º 17/2014
+# Despacho normativo n.º 17/2014
 
 O [Decreto-Lei n.º 198/2012](https://diariodarepublica.pt/dr/detalhe/decreto-lei/198-2012-174543) de 24 de agosto, instituiu um regime que regula a transmissão eletrónica dos elementos das faturas e outros documentos com relevância fiscal, para reforçar o combate à informalidade e à evasão fiscal e para auxiliar os contribuintes a evitar o incumprimento das suas obrigações fiscais.
 
@@ -122,7 +148,9 @@ c) [Revogada].
 
 4 - [...].
 
-###### Artigo 3.º — [...]
+Artigo 3.º
+
+[...]
 
 [...]:
 
@@ -138,7 +166,9 @@ e) Não constar do Anexo - Regularizações do campo 40, parte integrante da dec
 
 f) Ter o sujeito passivo comunicado à administração tributária a sua caixa postal eletrónica, nos termos do n.º 9 do artigo 19.º da Lei Geral Tributária (LGT).
 
-###### Artigo 4.º — [...]
+Artigo 4.º
+
+[...]
 
 1 - [Anterior corpo do artigo]:
 
@@ -158,7 +188,9 @@ d) Ser confirmada eletronicamente pela entidade garante.
 
 5 - No caso se tratar de primeiro reembolso nos termos da alínea a) do n.º 1 do artigo 9.º, deve a garantia espontânea ser prestada dentro do prazo de 20 dias a contar do pedido.
 
-###### Artigo 5.º — [...]
+Artigo 5.º
+
+[...]
 
 1 - A não verificação das condições referidas nas alíneas, b), c), e) e f) do artigo 3.º determina a suspensão do prazo de concessão do reembolso e da contagem de juros previstos no n.º 8 do artigo 22.º do CIVA, sendo o sujeito passivo notificado para regularizar a falta no prazo fixado nos termos do artigo 23.º do Código de Procedimento e de Processo Tributário (CPPT), sob pena do indeferimento do reembolso e consequente reporte do crédito para a conta corrente, salvo quando não se verifiquem as condições previstas na alínea e) do artigo 3.º, caso em que se procede à correção do valor a reembolsar ou do excesso a reportar ou, se devida, à liquidação nos termos do artigo 87.º do CIVA.
 
@@ -170,7 +202,9 @@ b) Sempre que existem indícios de crime tributário, para cuja comprovação e 
 
 3 - Se passados quatro meses não for cumprida a obrigação a que se refere a alínea a) do número anterior, a suspensão converte-se em indeferimento do reembolso nos termos do n.º 11 do artigo 22.º do CIVA, após notificação ao sujeito passivo.
 
-###### Artigo 7.º — [...]
+Artigo 7.º
+
+[...]
 
 1 - Após a verificação das condições de admissibilidade a que se refere o artigo 6.º, a Autoridade Tributária e Aduaneira notifica o sujeito passivo da decisão sobre a aceitação da inscrição no regime de reembolso mensal.
 
@@ -180,7 +214,9 @@ b) Sempre que existem indícios de crime tributário, para cuja comprovação e 
 
 4 - [...].
 
-###### Artigo 8.º — [...]
+Artigo 8.º
+
+[...]
 
 1 - [...].
 
@@ -317,3 +353,5 @@ b) 30 dias a contar da data de receção do pedido de reembolso, nos restantes c
 1 - O presente despacho normativo entra em vigor no dia seguinte ao da sua publicação, podendo os sujeitos passivos requerer a partir desse momento a inscrição no regime de reembolso mensal.
 
 2 - É revogado o [Despacho Normativo n.º 53/2005](https://diariodarepublica.pt/dr/detalhe/despacho-normativo/53-2005-493768), de 15 de dezembro.
+
+208322112

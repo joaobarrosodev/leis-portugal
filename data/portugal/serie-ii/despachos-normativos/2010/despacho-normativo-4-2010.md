@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/2s/2010/02/025000000/0564605648.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,30 +46,74 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/despacho-normativo/4-2010-918046
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2011-02-25T00:00:00Z'
+  retrieved_at: '2026-10-23T15:07:29Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 14b057df6e97cb3e8cefae1ea2953da78fd9968879e50f05dea98872ecaebad4
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 742dc7b42dd3a190d4ea8f90b48bd4e0b2cf84d52a2ec74cacb3d8b08ec46834
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:07:29Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Abate de Animais
+- Açores
+- Agricultor
+- Agricultura
+- Ajuda Comunitária
+- Algodão
+- Arroz
+- Banana
+- Definição de Competências
+- Direcção Regional dos Assuntos Comunitários da Agricultura
+- Exploração Agrícola
+- Feader
+- Financiamento
+- Gado Bovino
+- Gado Caprino
+- Gado Ovino
+- IFAP
+- Legume de Fruto
+- Madeira.região Autónoma
+- Política Agrícola Comum
+- Prémio aos Produtores de Vacas Aleitantes
+- Proder
+- Proderam
+- Produção Agrícola
+- Produção Animal
+- Produção Leiteira
+- Produto Agrícola
+- Regulamento CE
+- Semente
+- Sistema Integrado de Gestão e Controlo
+- Subsídio
+- Tomate
+- Vinha
 relationships:
 - type: amended_by
   target: pt:dre:278913:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:2061097:por
+  label: "Alterados os arts. 1º e 3.º pelo DN.10/2010.12.04.2010.MADRP, DR.IIS [70] de 12.04.2010\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/despacho-normativo/10-2010-2061097
+  date: '2010-04-12'
+- type: amended_by
+  target: pt:dre:1314399:por
+  label: "Alterados os arts 1º, 3º ( ambos na redacção do DN 10/2010, de 12-Abr ), e 5º pelo DN.23/2010.16.09.2010.MADRP,\
+    \ DR.IIS [181] de 16.09.2010\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/despacho-normativo/23-2010-1314399
+  date: '2010-09-16'
 - type: cites
   target: celex:32005R1290
   label: null
@@ -98,21 +142,55 @@ relationships:
   target: celex:32009R1122
   label: null
   source: null
+- type: cites
+  target: pt:dre:2859095:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:2921012:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:465231:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:539227:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:546872:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:620106:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:932028:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:278913:por
+  label: "Revogado, a partir de 02.03.2011, o presente diploma, alterado pelo DN 10/2010, de 12-Abr e pelo DN 23/2010, de\
+    \ 16-Set, pela PORT.86/2011.25.02.2011.MADRP, DR.IS [40] de 25.02.2011\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/86-2011-278913
+  date: '2011-02-25'
 article_structure:
   article_count: 12
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:07:29Z'
   warnings: []
   errors: []
 ---
 
-# Despacho Normativo n.º 4/2010
+# Despacho normativo n.º 4/2010
 
 Nos termos do Regulamento (CE) n.º 73/2009, do Conselho, de 19 de Janeiro, que estabelece as regras comuns para os regimes de apoio directo no âmbito da política agrícola comum, os agricultores devem apresentar anualmente um pedido de pagamentos directos, no âmbito do sistema integrado de gestão e controlo (SIGC), sendo permitido aos Estados membros determinar que um pedido único de ajuda abranja vários ou a totalidade dos regimes de apoio enumerados do seu anexo i ou outros regimes de apoio. Por seu lado, o Regulamento (CE) n.º 1122/2009, da Comissão, de 30 de Novembro, que estabelece regras de execução daquele regulamento, define, entre outras, as regras e os requisitos do SIGC, nelas se incluindo as relativas à apresentação do pedido de ajudas.
 
@@ -303,3 +381,5 @@ O presente despacho não se aplica na Região Autónoma dos Açores, com excepç
 São revogados os despachos normativos n.os [4/2009](https://diariodarepublica.pt/dr/detalhe/despacho-normativo/4-2009-2859095), de 28 de Janeiro, e [16-A/2009](https://diariodarepublica.pt/dr/detalhe/despacho-normativo/16-a-2009-2921012), de 9 de Abril.
 
 2 de Fevereiro de 2010. - Pelo Ministro da Agricultura, do Desenvolvimento Rural e das Pescas, Rui Pedro de Sousa Barreiro, Secretário de Estado das Florestas e Desenvolvimento Rural.
+
+202870781

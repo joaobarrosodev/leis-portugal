@@ -19,7 +19,7 @@ publication:
   reference: Diário da República n.º 86/2020, 1º Suplemento, Série II de 2020-05-04
   number: '86'
   series: II
-  supplement: 1º Suplemento
+  supplement: null
   pages: 293-(2) a 293-(14)
   pdf_url: https://files.diariodarepublica.pt/2s/2020/05/086000001/0000200014.pdf
 entry_into_force_dates: []
@@ -46,40 +46,101 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/resolucao/1-2020-132936736
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2022-04-08T00:00:00Z'
+  retrieved_at: '2026-10-23T15:16:12Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 09df387daac90f52598e6bbb75f816748b0950973f679e8ce2781c26f7db84b5
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 604db143e548b044b843da029d1c7767fc6a40a3b648cab97117367aef257485
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:16:12Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Documento Eletrónico
+- Estado de Emergência
+- Tribunal de Contas
 relationships:
 - type: amended_by
   target: pt:dre:181847611:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:137808679:por
+  label: Alterados os arts 6.º e 8.º, os anexos I e VI, aditado o art. 6.º-A e republicado no anexo III a presente Resolução,
+    pelo(a) Resolução n.º 2/2020 - Diário da República n.º 135/2020, Série II de 2020-07-14
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/resolucao/2-2020-137808679
+  date: '2020-07-14'
+- type: amended_by
+  target: pt:dre:152945113:por
+  label: Alterados os arts. 2.º, 4.º, 5.º, 6.º, 6.º-A, 7.º, 8.º, 9.º e 11.º do presente diploma pelo(a) Resolução n.º 4/2020
+    - Diário da República n.º 2/2021, Série II de 2021-01-05 que procede à sua republicação
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/resolucao/4-2020-152945113
+  date: '2021-01-05'
+- type: cites
+  target: pt:dre:105637672:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:130399862:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:130893436:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:178845:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:193663:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:2212515:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:445741:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:542996:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:603950:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:66689602:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:181847611:por
+  label: Revogada, a partir de 02.05.2022, a presente resolução, republicada pela Res 4/2020 de 05 de janeiro, pelo(a) Resolução
+    n.º 3/2022-PG - Diário da República n.º 70/2022, Série II de 2022-04-08
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/resolucao/3-2022-181847611
+  date: '2022-04-08'
 article_structure:
   article_count: 18
   section_count: 2
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:16:12Z'
   warnings: []
   errors: []
 ---
@@ -290,40 +351,42 @@ A presente Resolução entra em vigor no 3.º dia após a sua publicação.
 
 (a que se refere o n.º 1 do artigo 14.º)
 
-[([ver documento original](https://files.diariodarepublica.pt/2s/2020/05/086000001/0000200014.pdf))](https://files.diariodarepublica.pt/2s/2020/05/086000001/0000200014.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/2s/2020/05/086000001/0000200014.pdf)
 
 ## ANEXO II — Informação de cabimento
 
 (a que se refere o n.º 2 do artigo 14.º)
 
-[([ver documento original](https://files.diariodarepublica.pt/2s/2020/05/086000001/0000200014.pdf))](https://files.diariodarepublica.pt/2s/2020/05/086000001/0000200014.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/2s/2020/05/086000001/0000200014.pdf)
 
 ## ANEXO III — Informação de compromisso
 
 (a que se refere o n.º 2 do artigo 14.º)
 
-[([ver documento original](https://files.diariodarepublica.pt/2s/2020/05/086000001/0000200014.pdf))](https://files.diariodarepublica.pt/2s/2020/05/086000001/0000200014.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/2s/2020/05/086000001/0000200014.pdf)
 
 ## ANEXO IV — Encargos orçamentais diferidos
 
 (a que se refere o n.º 2 do artigo 14.º)
 
-[([ver documento original](https://files.diariodarepublica.pt/2s/2020/05/086000001/0000200014.pdf))](https://files.diariodarepublica.pt/2s/2020/05/086000001/0000200014.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/2s/2020/05/086000001/0000200014.pdf)
 
 ## ANEXO V — Informação de controlo dos fundos disponíveis
 
 (a que se refere a alínea b) do n.º 3 do artigo 14.º)
 
-[([ver documento original](https://files.diariodarepublica.pt/2s/2020/05/086000001/0000200014.pdf))](https://files.diariodarepublica.pt/2s/2020/05/086000001/0000200014.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/2s/2020/05/086000001/0000200014.pdf)
 
 ## ANEXO VI — Endividamento - Mapa síntese
 
 (a que se refere o n.º 5 do artigo 14.º)
 
-[([ver documento original](https://files.diariodarepublica.pt/2s/2020/05/086000001/0000200014.pdf))](https://files.diariodarepublica.pt/2s/2020/05/086000001/0000200014.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/2s/2020/05/086000001/0000200014.pdf)
 
 ## ANEXO VII — Financiamento de Investimentos
 
 (a que se refere o n.º 6 do artigo 14.º)
 
-[([ver documento original](https://files.diariodarepublica.pt/2s/2020/05/086000001/0000200014.pdf))](https://files.diariodarepublica.pt/2s/2020/05/086000001/0000200014.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/2s/2020/05/086000001/0000200014.pdf)
+
+313216376

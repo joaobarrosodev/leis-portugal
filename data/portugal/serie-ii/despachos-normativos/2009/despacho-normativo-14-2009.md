@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/2s/2009/04/065000000/1270912711.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,30 +46,55 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/despacho-normativo/14-2009-1151622
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2015-02-27T00:00:00Z'
+  retrieved_at: '2026-10-23T15:07:09Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 7f0072de6d93cfa3d5f40206b17baaee826b2a1c625a6d50779067d590947b3d
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: e1e04f14992144574cce62e55eb59cb97c38f60ebf73a46ea7d585a86668e7da
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:07:09Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Açores
+- Agricultor
+- Controlo Sanitário
+- Exploração Agrícola
+- Financiamento
+- Fiscalização
+- Madeira.região Autónoma
+- Pagamento
+- Pecuária
+- Proteção do Ambiente
+- Proteção Fitossanitária
+- Saúde Pública
+- Subsídio
 relationships:
 - type: amended_by
   target: pt:dre:66619896:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:2235067:por
+  label: "Alterados o art. 2.º e os anexo I e II do DN 7/2005, de 01-fev, na redação do presente diploma, pelo DN.4/2012.02.04.2012.SEA-MAMAOT,\
+    \ DR.IIS [66] de 02.04.2012\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/despacho-normativo/4-2012-2235067
+  date: '2012-04-02'
+- type: amended_by
+  target: pt:dre:3661173:por
+  label: "Alterados o art. 2.º e os anexos I e II do DN 7/2005 de 01-fev, na redação do presente despacho normativo, pelo\
+    \ DN.2/2014.29.01.2014.SEAG-MAGM, DR.IIS [20] de 29.01.2014\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/despacho-normativo/2-2014-3661173
+  date: '2014-01-29'
 - type: cites
   target: celex:32003R1782
   label: null
@@ -90,21 +115,59 @@ relationships:
   target: celex:32009R0073
   label: null
   source: null
+- type: cites
+  target: pt:dre:332749:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:358491:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:397360:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:517471:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:620106:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:626229:por
+  label: null
+  source: null
+- type: corrected_by
+  target: pt:dre:2142528:por
+  label: "Rectificado o art. 2.º [deve passar a ler-se «São aditadas as alíneas aa), bb) e cc) do artigo 2.º, o n.º 1.1.6\
+    \ do anexo i a que se refere a alínea a) do artigo 2.º e os n.os 30, 31, 32 e 33 do anexo ii a que se refere o artigo\
+    \ 3.º do despacho normativo n.º 7/2005, com a seguinte redacção:»] do DN 3/2010, de 01-Fev, que alterou o DN 7/2005 de\
+    \ 01-Fev, na redacção do presente despacho, pela DECL-RECT.319/2010.18.02.2010.SG-MADRP, DR.IIS [34] de 18.02.2010\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/declaracao-rectificacao/319-2010-2142528
+  date: '2010-02-18'
+- type: repealed_by
+  target: pt:dre:66619896:por
+  label: Revogado, a partir de 28.02.2015, o DN 7/2005 de 01-fev, alterado pelo presente diploma, pelo(a) Portaria n.º 57/2015
+    - Diário da República n.º 41/2015, Série I de 2015-02-27
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/57-2015-66619896
+  date: '2015-02-27'
 article_structure:
-  article_count: 6
+  article_count: 4
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:07:09Z'
   warnings: []
   errors: []
 ---
 
-# Despacho Normativo n.º 14/2009
+# Despacho normativo n.º 14/2009
 
 O Regulamento (CE) n.º 73/2009, do Conselho, de 19 de Janeiro, que estabelece regras comuns para os regimes de apoio directo aos agricultores no âmbito da Política Agrícola Comum, veio revogar o Regulamento (CE) n.º 1782/2003, do Conselho, de 29 de Setembro, tendo procedido, no domínio da condicionalidade, a um ajustamento do respectivo âmbito, especialmente no que se refere às boas condições agrícolas e ambientais. Importa, assim, ajustar as normas nacionais relativas às boas condições agrícolas e ambientais estabelecidas através do [Despacho Normativo n.º 7/2005](https://diariodarepublica.pt/dr/detalhe/despacho-normativo/7-2005-620106), publicado no Diário da República, 1.ª série-B, de 1 de Fevereiro de 2005, às alterações introduzidas pelo Regulamento (CE) n.º 73/2009, nomeadamente com base no quadro do anexo iii do referido regulamento, aproveitando-se também o ensejo para clarificar e objectivar algumas dessas normas.
 
@@ -122,7 +185,7 @@ O n.º 1 do artigo 1.º, as alíneas i) e q) do artigo 2.º, os n.os 1.3 e 1.4.1
 
 2 - ...
 
-###### Artigo 2.º
+Artigo 2.º
 
 ...
 
@@ -164,7 +227,9 @@ s) ...
 
 t) (Revogada.)
 
-## ANEXO I — [...]
+ANEXO I
+
+[...]
 
 1 - ...
 
@@ -186,7 +251,9 @@ t) (Revogada.)
 
 1.4.1.2 - (Revogado.)
 
-## ANEXO II — [...]
+ANEXO II
+
+[...]
 
 Sem prejuízo do disposto na legislação comunitária e nacional relativamente ao ambiente, os beneficiários de pagamentos directos, de pagamentos previstos nas subalíneas i) a v) da alínea a) e nas subalíneas i), iv) e v) da alínea b) do artigo 36.º do Regulamento (CE) n.º 1698/2005, do Conselho, de 20 de Setembro, e de pagamentos efectuados a título dos programas de apoio para a reestruturação e reconversão da vinha e do prémio ao arranque da vinha, de acordo com os artigos 11.º e 98.º do Regulamento (CE) n.º 479/2008, de 29 de Abril, devem cumprir as seguintes normas:
 
@@ -326,7 +393,7 @@ x) 'Talude', volume de terra de alta inclinação ligando dois locais de cotas d
 
 z) 'Período crítico', período durante o qual vigoram medidas e acções especiais de prevenção contra incêndios florestais, por força de circunstâncias meteorológicas excepcionais, definido anualmente por portaria do Ministro da Agricultura, do Desenvolvimento Rural e das Pescas.
 
-###### Artigo 3.º
+Artigo 3.º
 
 1 - ...
 
@@ -334,7 +401,9 @@ z) 'Período crítico', período durante o qual vigoram medidas e acções espec
 
 3 - A Comissão Consultiva da Condicionalidade pronuncia-se sobre as orientações técnicas referidas no número anterior, nos termos do artigo 9.º da [Portaria n.º 36/2005](https://diariodarepublica.pt/dr/detalhe/portaria/36-2005-626229), de 17 de Janeiro.
 
-## ANEXO II — [...]
+ANEXO II
+
+[...]
 
 ...
 
@@ -433,3 +502,5 @@ São revogadas as alíneas e), f), g) e r) do artigo 2.º, os n.os 1.4.1.1. e 1.
 O disposto no presente despacho entra em vigor no dia seguinte ao da sua publicação.
 
 26 de Março de 2009. - O Ministro da Agricultura, do Desenvolvimento Rural e das Pescas, Jaime de Jesus Lopes Silva.
+
+201605747

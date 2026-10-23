@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/2s/2007/04/079000000/1049410498.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -47,40 +47,67 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/resolucao/13-2007-3583579
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2011-08-16T00:00:00Z'
+  retrieved_at: '2026-10-23T15:13:47Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 293b581bd74f691e955ab2d1654883b21f59c189d3fa38f16f78d7c64b85027f
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 8916ed55914c2a73834bc16a49658d0666d5d0ca9e130ce9ddea8cd580c5db41
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:13:47Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Aquisição de Bens e Serviços
+- Aquisição de Imóveis
+- Autarquia Local
+- Contrato
+- Delegação de Competências
+- Fiscalização
+- Instrução Processual
+- Notificação
+- Obras Públicas
+- Visto do Tribunal de Contas
 relationships:
 - type: amended_by
   target: pt:dre:2212515:por
   label: Última alteração registada na importação inicial
   source: null
+- type: cites
+  target: pt:dre:193663:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:311259:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:540821:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:2212515:por
+  label: "Revogada, a partir de 31.08.2011, pela RES.14/2011.16.08.2011.TC, DR.IIS [156] de 16.08.2011\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/resolucao/14-2011-2212515
+  date: '2011-08-16'
 article_structure:
   article_count: 19
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:13:47Z'
   warnings: []
   errors: []
 ---
@@ -351,7 +378,7 @@ A presente resolução entra em vigor no 15.º dia útil posterior à publicaç�
 
 ## ANEXO I-A — Receitas municipais
 
-[([ver documento original](https://files.diariodarepublica.pt/2s/2007/04/079000000/1049410498.pdf))](https://files.diariodarepublica.pt/2s/2007/04/079000000/1049410498.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/2s/2007/04/079000000/1049410498.pdf)
 
 ## ANEXO I-B — Empréstimos
 
@@ -359,45 +386,45 @@ QUADRO N.º 1
 
 Empréstimos contraídos/contratos não excepcionados dos municípios
 
-[([ver documento original](https://files.diariodarepublica.pt/2s/2007/04/079000000/1049410498.pdf))](https://files.diariodarepublica.pt/2s/2007/04/079000000/1049410498.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/2s/2007/04/079000000/1049410498.pdf)
 
 QUADRO N.º 2
 
 Empréstimos contraídos/contratos não excepcionados das associações de municípios
 
-[([ver documento original](https://files.diariodarepublica.pt/2s/2007/04/079000000/1049410498.pdf))](https://files.diariodarepublica.pt/2s/2007/04/079000000/1049410498.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/2s/2007/04/079000000/1049410498.pdf)
 
 QUADRO N.º 3
 
 Empréstimos contraídos/contratos do sector empresarial local
 
-[([ver documento original](https://files.diariodarepublica.pt/2s/2007/04/079000000/1049410498.pdf))](https://files.diariodarepublica.pt/2s/2007/04/079000000/1049410498.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/2s/2007/04/079000000/1049410498.pdf)
 
 QUADRO N.º 4
 
 Empréstimos contraídos/contratos excepcionados dos municípios
 
-[([ver documento original](https://files.diariodarepublica.pt/2s/2007/04/079000000/1049410498.pdf))](https://files.diariodarepublica.pt/2s/2007/04/079000000/1049410498.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/2s/2007/04/079000000/1049410498.pdf)
 
 QUADRO N.º 5
 
 Empréstimos contraídos/contratos excepcionados das associações de municípios
 
-[([ver documento original](https://files.diariodarepublica.pt/2s/2007/04/079000000/1049410498.pdf))](https://files.diariodarepublica.pt/2s/2007/04/079000000/1049410498.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/2s/2007/04/079000000/1049410498.pdf)
 
 QUADRO N.º 6
 
 Síntese dos empréstimos
 
-[([ver documento original](https://files.diariodarepublica.pt/2s/2007/04/079000000/1049410498.pdf))](https://files.diariodarepublica.pt/2s/2007/04/079000000/1049410498.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/2s/2007/04/079000000/1049410498.pdf)
 
-## ANEXO II — [([ver documento original](https://files.diariodarepublica.pt/2s/2007/04/079000000/1049410498.pdf))](https://files.diariodarepublica.pt/2s/2007/04/079000000/1049410498.pdf)
+## ANEXO II — [(ver documento original)](https://files.diariodarepublica.pt/2s/2007/04/079000000/1049410498.pdf)
 
 Identificação nominal e funcional ...
 
 ... (assinatura).
 
-## ANEXO III — [([ver documento original](https://files.diariodarepublica.pt/2s/2007/04/079000000/1049410498.pdf))](https://files.diariodarepublica.pt/2s/2007/04/079000000/1049410498.pdf)
+## ANEXO III — [(ver documento original)](https://files.diariodarepublica.pt/2s/2007/04/079000000/1049410498.pdf)
 
 Identificação nominal e funcional ...
 

@@ -19,12 +19,12 @@ publication:
   reference: Diário da República n.º 142/2015, 2º Suplemento, Série II de 2015-07-23
   number: '142'
   series: II
-  supplement: 2º Suplemento
+  supplement: null
   pages: 19842-(8) a 19842-(10)
   pdf_url: https://files.diariodarepublica.pt/2s/2015/07/142000002/0000800010.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -46,40 +46,64 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/resolucao/38-d-2015-69866648
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2025-01-20T00:00:00Z'
+  retrieved_at: '2026-10-23T15:15:42Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: b01c3d31c68bbef247522c3587d3f8b3b51a4969a5db4ec09f98e271d365deff
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: f286ba769d8f99fc22fe69bb97353aa89a587207bdd3c96feb5604a3a12517f6
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:15:42Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Autoridade da Mobilidade e dos Transportes
+- Conselho de Administração
+- Nomeação
+- Presidente
+- Vice-presidente
+- Vogal
 relationships:
 - type: amended_by
   target: pt:dre:904259273:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:904259273:por
+  label: Exonerado, com efeitos a 21 de janeiro de 2025, Eduardo Lopes Rodrigues pelo(a) Resolução do Conselho de Ministros
+    n.º 1/2025 - Diário da República n.º 13/2025, Série I de 2025-01-20
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/resolucao-conselho-ministros/1-2025-904259273
+  date: '2025-01-20'
+- type: cites
+  target: pt:dre:25344768:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:499499:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:66384004:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:15:42Z'
   warnings: []
   errors: []
 ---
@@ -389,3 +413,5 @@ Administrador da SOPONATA (1991-1994);
 Secretário de Estado adjunto do Ministro da Habitação, Obras Públicas e Transportes (1981-1983);
 
 Vereador da Câmara Municipal de Lisboa (1989-1993).
+
+100000113

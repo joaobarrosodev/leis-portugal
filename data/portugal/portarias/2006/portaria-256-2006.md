@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2006/03/050b00/18081808.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/256/2006/03/10/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/256-2006-667087
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2011-03-11T00:00:00Z'
+  retrieved_at: '2026-10-23T15:12:57Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 9215a59899314b7e2804f41b0db511a25a1e56648389721f25877b9ee1b1a69b
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 9d025ab3c3b53f3d56b17e39c82be165fac2231b474b642d5705a33f252f3b3d
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:12:57Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -65,18 +65,31 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Totoloto
+- Apostas Mútuas Desportivas
 - Jogos de Fortuna e Azar
 - Lisboa
-- Apostas Mútuas Desportivas
-- Santa Casa da Misericórdia
 - Preço
 - Regulamento do Totoloto
+- Santa Casa da Misericórdia
+- Totoloto
 relationships:
 - type: amended_by
   target: pt:dre:278178:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:493060:por
+  label: "Suspenso, até 06.09.2009, o registo de apostas para cinco semanas consecutivas no Totoloto, previsto no Regulamento\
+    \ aprovado pela Port 553/2001, de 31-Maio, na redacção da Port 1048/2001, de 01-Set, Port 1215/2003, de 16-Out, do presente\
+    \ diploma e da Port 867/2006, de 28-Ago, pela PORT.833/2009.31.07.2009.MTSSO, DR.IS [147] de 31.07.2009\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/833-2009-493060
+  date: '2009-07-31'
+- type: amended_by
+  target: pt:dre:488495:por
+  label: "Alterado o art. 4.º do Regulamento do Totoloto, aprovado pela Port 553/2001, de 31-Maio, na redacção do presente\
+    \ diploma, pela PORT.973/2009.31.08.2009.MTSSO, DR.IS [168] de 31.08.2009\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/973-2009-488495
+  date: '2009-08-31'
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/322/1991/08/26/p/dre
   label: null
@@ -97,16 +110,38 @@ relationships:
   target: eli:http://data.dre.pt/eli/port/553/2001/05/31/p/dre
   label: null
   source: http://data.dre.pt/eli/port/553/2001/05/31/p/dre
+- type: cites
+  target: pt:dre:331840:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:403119:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:476275:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:632404:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:278178:por
+  label: "Revogada em 13.03.2011 a Port. 553/2001, de 03-Mai, na redacção da presente portaria, pela PORT.102/2011.11.03.2011.MTSSO,\
+    \ DR.IS [50] de 11.03.2011\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/102-2011-278178
+  date: '2011-03-11'
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:12:57Z'
   warnings: []
   errors: []
 ---
@@ -137,4 +172,4 @@ O preço de cada aposta é fixado em (euro) 0,40.»
 
 Em 15 de Fevereiro de 2006.
 
-**O Ministro do Trabalho e da Solidariedade Social, José António Fonseca Vieira da Silva. - O Ministro da Saúde, António Fernando Correia de Campos.**
+O Ministro do Trabalho e da Solidariedade Social, José António Fonseca Vieira da Silva. - O Ministro da Saúde, António Fernando Correia de Campos.

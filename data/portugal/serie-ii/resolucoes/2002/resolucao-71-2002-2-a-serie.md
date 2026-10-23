@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/2s/2002/09/206000000/1539515397.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -46,18 +46,18 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/resolucao/71-2002-3224979
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2002-09-06T00:00:00Z'
+  retrieved_at: '2026-10-23T15:11:31Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 35523df4b000da6868dd3136a237faf373c7e19069ba761676c01b42f3f50051
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: edbe7253e8f98318c9ae75b4c5e800cf5e2557db0e52fe16e166c4f46f9659d4
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:11:31Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -68,14 +68,14 @@ subjects: []
 relationships: []
 article_structure:
   article_count: 31
-  section_count: 6
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  section_count: 9
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:11:31Z'
   warnings: []
   errors: []
 ---
@@ -188,7 +188,9 @@ a) Secção permanente (SPS);
 
 b) Secção disciplinar (SDS).
 
-###### Artigo 9.º — Secção permanente
+###### Artigo 9.º
+
+#### Secção permanente
 
 1 - Nos termos do n.º 3 do artigo 19.º dos estatutos da UNL, a SPS é constituída por:
 
@@ -222,7 +224,9 @@ g) Exercer as demais competências que lhe foram delegadas pelo plenário do sen
 
 3 - As decisões da SDS serão comunicadas aos directores das unidades orgânicas e aos membros do senado e uma súmula da acta ficará ao dispor dos membros do senado junto das direcções.
 
-###### Artigo 10.º — Secção disciplinar
+###### Artigo 10.º
+
+#### Secção disciplinar
 
 1 - Nos termos do n.º 4 do artigo 19.º dos Estatutos da Universidade Nova de Lisboa, a SDS é constituída por:
 
@@ -260,7 +264,9 @@ g) O administrador da Universidade.
 
 3 - O reitor, se reconhecer que o decurso do tempo é susceptível de produzir danos irreparáveis ao autor do recurso, ou por outras razões ponderosas, promoverá a convocação da reunião extraordinária do plenário.
 
-### CAPÍTULO III — SECÇÃO I
+### CAPÍTULO III
+
+#### SECÇÃO I
 
 Das eleições para o plenário
 

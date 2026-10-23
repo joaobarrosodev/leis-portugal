@@ -46,41 +46,49 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/despacho-normativo/14-2012-3286468
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2012-06-27T00:00:00Z'
+  retrieved_at: '2026-10-23T15:07:38Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 1de431c8134cb46676ce4baf819c495076b1985ce17c66a8ed08028d913c603c
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: cd1cd8e03cd3d13f55d37e669738093a59e86f58758c7646ea1cbaddd3a840a5
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:07:38Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
-relationships: []
+subjects:
+- Plano Estratégico Nacional de Turismo
+- Programa de Intervenção do Turismo
+- Regulamento
+- Turismo
+relationships:
+- type: cites
+  target: pt:dre:520987:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:07:38Z'
   warnings: []
   errors: []
 ---
 
-# Despacho Normativo n.º 14/2012
+# Despacho normativo n.º 14/2012
 
 O Programa de Intervenção do Turismo (PIT) foi criado através do despacho normativo n.º 20/2007, de 7 de maio, publicado no Diário da República, 2.ª série, n.º 92, de 14 de maio de 2007, o qual foi objeto de alterações pelos despachos normativos n.os 9/2008, de 28 de dezembro, publicado no Diário da República, 2.ª série, n.º 31, de 13 de fevereiro de 2008, 49/2008, de 15 de setembro, publicado no Diário da República, 2.ª série, n.º 185, de 24 de setembro de 2008, 30/2009, de 18 de agosto, publicado no Diário da República, 2.ª série, n.º 164, de 25 de agosto de 2009, e 15/2010, de 9 de junho, publicado no Diário da República, 2.ª série, n.º 116, de 17 de junho de 2010.
 
@@ -99,3 +107,5 @@ Assim, ao abrigo do disposto no n.º 2 do artigo 1.º e nas alíneas d) e e) do 
 2 - O presente despacho entra em vigor no dia seguinte ao do sua assinatura e deve ser divulgado de imediato pelo Turismo de Portugal, I. P., por todos os meios ao seu dispor.
 
 18 de junho de 2012. - A Secretária de Estado do Turismo, Cecília Felgueiras de Meireles Graça.
+
+206195589

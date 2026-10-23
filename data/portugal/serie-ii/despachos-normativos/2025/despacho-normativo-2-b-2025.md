@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/2s/2025/03/057000001/0000500027.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -47,36 +47,99 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/despacho-normativo/2-b-2025-912066255
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2025-03-21T00:00:00Z'
+  retrieved_at: '2026-10-23T15:09:14Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 60a2b7b82cb73b7b4a51949452b00f97175451321b239b62425d3bea6fa8a1c2
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: e9ca68dc40c86e34414efe6b8f2357fe2267a11eef3b2cec5f546bd0a49d697b
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:09:14Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
-relationships: []
+subjects:
+- Direção Geral dos Estabelecimentos Escolares
+- Educação Pré-escolar
+- Ensino Básico
+- Ensino Cooperativo
+- Ensino Oficial
+- Ensino Particular
+- Ensino Secundário
+- Estabelecimento de Ensino
+- Matrícula
+- Página na Internet
+- Regulamentação de Atos Legislativos
+- Sistema de Ensino
+relationships:
+- type: amends
+  target: pt:numero:despacho-normativo:6/2018
+  label: Altera, a partir de 22 de março de 2025, os artigos 2.º, 3.º, 4.º, 5.º, 6.º, 7.º, 8.º, 9.º, 10.º, 11.º, 12.º, 13.º,
+    14.º, 16.º, 17.º e 18.º, revoga o n.º 2 do artigo 11.º e o n.º 2 do artigo 12.º e republica o Despacho Normativo n.º 6/2018,
+    de 12 de abril, Diário da República n.º 72/2018, Série II
+  source: null
+  date: '2018-04-12'
+- type: cites
+  target: pt:dre:115093805:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:115652961:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:168903099:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:174840:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:179057:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:222609:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:469001:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:516044:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:66041468:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:67429780:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:885385212:por
+  label: null
+  source: null
 article_structure:
-  article_count: 38
+  article_count: 23
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:09:14Z'
   warnings: []
   errors: []
 ---
@@ -147,13 +210,17 @@ h) ‘Crianças/alunos beneficiários de ação social escolar (ASE)’ - todos 
 
 4 - As prioridades estabelecidas nas alíneas c) do n.º 2 do artigo 10.º, c) do n.º 1 do artigo 11.º e b) do n.º 1 do artigo 12.º só são operativas se se demonstrar, nos termos do número anterior, que os irmãos e as outras crianças ou jovens pertencem ao mesmo agregado familiar.
 
-###### Artigo 3.º — [...]
+Artigo 3.º
+
+[...]
 
 1 - [...]
 
 2 - Compete à Inspeção-Geral da Educação e Ciência e à Direção-Geral dos Estabelecimentos Escolares (DGEstE), em articulação, desenvolver os procedimentos inerentes à verificação do cumprimento das normas constantes do presente despacho normativo.
 
-###### Artigo 4.º — [...]
+Artigo 4.º
+
+[...]
 
 1 - [...]
 
@@ -165,7 +232,7 @@ h) ‘Crianças/alunos beneficiários de ação social escolar (ASE)’ - todos 
 
 5 - [...]
 
-6 - A frequência do ensino básico ou do ensino secundário após a cessação da obrigatoriedade prevista no n.º 4 tem caráter facultativo, sendo promovida nas condições definidas nos n.<sup>os</sup>5 e 6 do artigo 11.º do [Decreto-Lei n.º 176/2012](https://diariodarepublica.pt/dr/detalhe/decreto-lei/176-2012-179057), de 2 de agosto, na sua redação atual.
+6 - A frequência do ensino básico ou do ensino secundário após a cessação da obrigatoriedade prevista no n.º 4 tem caráter facultativo, sendo promovida nas condições definidas nos n.os5 e 6 do artigo 11.º do [Decreto-Lei n.º 176/2012](https://diariodarepublica.pt/dr/detalhe/decreto-lei/176-2012-179057), de 2 de agosto, na sua redação atual.
 
 7 - [...]
 
@@ -185,7 +252,9 @@ h) ‘Crianças/alunos beneficiários de ação social escolar (ASE)’ - todos 
 
 15 - O membro do Governo responsável pela área da educação, ciência e inovação pode autorizar a revogação do ato de matrícula ou da sua renovação em situações excecionais, com a devida fundamentação, nos termos do disposto no Código do Procedimento Administrativo, aprovado em anexo ao [Decreto-Lei n.º 4/2015](https://diariodarepublica.pt/dr/detalhe/decreto-lei/4-2015-66041468), de 7 de janeiro, na sua redação atual, designadamente no caso de alunos a frequentar a escolaridade obrigatória que passem a residir no estrangeiro.
 
-###### Artigo 5.º — [...]
+Artigo 5.º
+
+[...]
 
 1 - [...]
 
@@ -221,7 +290,9 @@ b) Ao ensino presencial para a itinerância.
 
 15 - (Anterior n.º 13.)
 
-###### Artigo 6.º — [...]
+Artigo 6.º
+
+[...]
 
 1 - Os períodos para matrícula e respetivas renovações e os prazos que destes dependam são fixados em despacho que define o calendário de matrículas e renovações.
 
@@ -237,13 +308,15 @@ b) Ao ensino presencial para a itinerância.
 
 7 - [...]
 
-###### Artigo 7.º — [...]
+Artigo 7.º
+
+[...]
 
 1 - [...]
 
 2 - Não sendo possível cumprir o disposto no número anterior, o pedido de matrícula pode ser apresentado de modo presencial nos serviços competentes do estabelecimento de educação e de ensino da área da residência do aluno, independentemente das preferências manifestadas para a frequência, procedendo esses serviços ao registo eletrónico da matrícula na aplicação informática referida no número anterior ou noutra indicada pelo Ministério da Educação, Ciência e Inovação.
 
-3 - No ato de matrícula, o encarregado de educação ou o aluno, quando maior, indica, por ordem de preferência, cinco estabelecimentos de educação e de ensino cuja escolha de frequência é a pretendida ou todos os estabelecimentos existentes, no caso de municípios com uma menor oferta de estabelecimentos de educação e de ensino, sem prejuízo do disposto nos n.<sup>os</sup>11 e 12.
+3 - No ato de matrícula, o encarregado de educação ou o aluno, quando maior, indica, por ordem de preferência, cinco estabelecimentos de educação e de ensino cuja escolha de frequência é a pretendida ou todos os estabelecimentos existentes, no caso de municípios com uma menor oferta de estabelecimentos de educação e de ensino, sem prejuízo do disposto nos n.os11 e 12.
 
 4 - [...]
 
@@ -291,7 +364,9 @@ g) O número de identificação da Segurança Social (NISS).
 
 19 - A prestação de falsas declarações no ato de matrícula ou da sua renovação implica a revisão do processo de seriação e nova aplicação das regras de prioridade, para efeitos da ocupação das vagas existentes nos estabelecimentos de educação e de ensino, sem prejuízo do disposto no artigo 13.º do [Decreto-Lei n.º 176/2012](https://diariodarepublica.pt/dr/detalhe/decreto-lei/176-2012-179057), de 2 de agosto, na sua redação atual.
 
-###### Artigo 8.º — [...]
+Artigo 8.º
+
+[...]
 
 1 - Salvo nos casos previstos no artigo seguinte, a renovação de matrícula opera de forma automática, sem necessidade de apresentação de qualquer pedido, sendo o processo de renovação assegurado pelos estabelecimentos de educação e de ensino nos termos do n.º 2 do artigo anterior.
 
@@ -303,9 +378,11 @@ g) O número de identificação da Segurança Social (NISS).
 
 5 - A renovação automática de matrícula referida no n.º 1 não exclui a obrigação dos encarregados de educação e dos alunos, quando maiores, de manterem os seus dados pessoais atualizados junto dos estabelecimentos de educação e de ensino, devendo fazê-lo fora dos períodos fixados para pedidos de matrícula e sua renovação.
 
-###### Artigo 9.º — [...]
+Artigo 9.º
 
-1 - A renovação de matrícula para cada início de ciclo ou que implique transferência de estabelecimento de educação e de ensino, alteração de encarregado de educação, de curso ou de percurso formativo ou que dependa de escolha de disciplinas deve ser efetuada nos termos dos n.<sup>os</sup>1 a 5 do artigo 7.º e dentro dos prazos fixados no despacho referido no n.º 1 do artigo 6.º
+[...]
+
+1 - A renovação de matrícula para cada início de ciclo ou que implique transferência de estabelecimento de educação e de ensino, alteração de encarregado de educação, de curso ou de percurso formativo ou que dependa de escolha de disciplinas deve ser efetuada nos termos dos n.os1 a 5 do artigo 7.º e dentro dos prazos fixados no despacho referido no n.º 1 do artigo 6.º
 
 2 - [...]
 
@@ -335,7 +412,9 @@ e) Os dados relativos à composição do agregado familiar por último validados
 
 10 - Mediante a comunicação prevista no número anterior, os referidos serviços decidem a colocação administrativa do aluno, sem prejuízo do cumprimento do disposto na alínea a) do n.º 2 e no n.º 3 do artigo 44.º da [Lei n.º 51/2012](https://diariodarepublica.pt/dr/detalhe/lei/51-2012-174840), de 5 de setembro.
 
-###### Artigo 10.º — [...]
+Artigo 10.º
+
+[...]
 
 1 - Na educação pré-escolar, as vagas existentes em cada estabelecimento de educação, para matrícula ou sua renovação, são preenchidas de acordo com as seguintes prioridades:
 
@@ -365,7 +444,9 @@ h) 8.ª prioridade - crianças mais velhas, contando-se a idade, para o efeito, 
 
 3 - [...]
 
-###### Artigo 11.º — [...]
+Artigo 11.º
+
+[...]
 
 1 - No ensino básico, as vagas existentes em cada estabelecimento de educação e de ensino, para matrícula ou sua renovação, são preenchidas de acordo com as seguintes prioridades:
 
@@ -389,7 +470,9 @@ i) 9.ª prioridade - alunos mais velhos, no caso de matrícula, e mais novos, qu
 
 2 - (Revogado.)
 
-###### Artigo 12.º — [...]
+Artigo 12.º
+
+[...]
 
 1 - No ensino secundário, as vagas existentes em cada estabelecimento de educação e de ensino, para matrícula ou sua renovação, são preenchidas de acordo com as seguintes prioridades:
 
@@ -415,11 +498,15 @@ i) 9.ª prioridade - alunos mais novos, contando-se a idade, para o efeito, suce
 
 3 - Os alunos que, no ano letivo anterior, tenham frequentado um estabelecimento de educação e de ensino de um agrupamento de escolas sem oferta de ensino secundário ou cuja área de residência do agregado familiar não tenha oferta de ensino secundário, integram a prioridade prevista na alínea f) do n.º 1.
 
-###### Artigo 13.º — [...]
+Artigo 13.º
+
+[...]
 
 Sem prejuízo do previsto nos artigos 27.º e 36.º do [Decreto-Lei n.º 54/2018](https://diariodarepublica.pt/dr/detalhe/decreto-lei/54-2018-115652961), de 6 de julho, na sua redação atual, no caso dos candidatos à matrícula ou à sua renovação pela primeira vez no 10.º ano de escolaridade, nos cursos de ensino artístico especializado nas áreas das artes visuais e dos audiovisuais, é dada prioridade aos alunos com melhor classificação final na disciplina de Educação Visual, aplicando-se, em caso de igualdade de classificações, as prioridades previstas no n.º 1 do artigo anterior.
 
-###### Artigo 14.º — [...]
+Artigo 14.º
+
+[...]
 
 Nos ensinos básico e secundário recorrente, as vagas existentes em cada estabelecimento de educação e de ensino para matrícula ou sua renovação são preenchidas dando-se prioridade, sucessivamente, aos alunos:
 
@@ -429,7 +516,9 @@ b) [...]
 
 c) Com outras prioridades estabelecidas pelo estabelecimento de educação e de ensino.
 
-###### Artigo 16.º — Distribuição das crianças e dos alunos pelos estabelecimentos de educação e de ensino pretendidos
+Artigo 16.º
+
+Distribuição das crianças e dos alunos pelos estabelecimentos de educação e de ensino pretendidos
 
 1 - Os estabelecimentos de educação e de ensino devem garantir que os processos de aplicação dos critérios de prioridades nas matrículas e de decisão de atribuição de vaga estão terminados até à data da divulgação das listas de matrículas e da sua renovação, tal como fixada no despacho referido no n.º 1 do artigo 6.º
 
@@ -443,7 +532,9 @@ c) Com outras prioridades estabelecidas pelo estabelecimento de educação e de 
 
 6 - (Anterior n.º 5.)
 
-###### Artigo 17.º — [...]
+Artigo 17.º
+
+[...]
 
 1 - Ao regime de transferência é aplicável o previsto no artigo 10.º do [Decreto-Lei n.º 176/2012](https://diariodarepublica.pt/dr/detalhe/decreto-lei/176-2012-179057), de 2 de agosto, na sua redação atual, e nos diplomas legais que regulamentam as diferentes ofertas educativas e formativas.
 
@@ -463,7 +554,9 @@ c) Com outras prioridades estabelecidas pelo estabelecimento de educação e de 
 
 9 - Os pedidos de transferência de estabelecimento de educação e de ensino que ocorram durante o ano letivo são apresentados nos termos do n.º 1 do artigo 7.º ou, não sendo possível, presencialmente no estabelecimento de educação e de ensino de frequência.
 
-###### Artigo 18.º — [...]
+Artigo 18.º
+
+[...]
 
 1 - O serviço do Ministério da Educação, Ciência e Inovação competente pela gestão da aplicação Portal das Matrículas disponibiliza, no referido portal (portaldasmatriculas.edu.gov.pt), um manual de utilização para os efeitos previstos no presente despacho normativo, no qual constará o endereço eletrónico de contacto preferencial e a linha direta de helpdesk.
 
@@ -563,7 +656,7 @@ b) Renovação de matrícula.
 
 5 - (Revogado.)
 
-6 - A frequência do ensino básico ou do ensino secundário após a cessação da obrigatoriedade prevista no n.º 4 tem caráter facultativo, sendo promovida nas condições definidas nos n.<sup>os</sup>5 e 6 do artigo 11.º do [Decreto-Lei n.º 176/2012](https://diariodarepublica.pt/dr/detalhe/decreto-lei/176-2012-179057), de 2 de agosto, na sua redação atual.
+6 - A frequência do ensino básico ou do ensino secundário após a cessação da obrigatoriedade prevista no n.º 4 tem caráter facultativo, sendo promovida nas condições definidas nos n.os5 e 6 do artigo 11.º do [Decreto-Lei n.º 176/2012](https://diariodarepublica.pt/dr/detalhe/decreto-lei/176-2012-179057), de 2 de agosto, na sua redação atual.
 
 7 - A frequência do ensino recorrente, de nível secundário, obedece ao disposto nos artigos 10.º e 11.º da Portaria n.º 242/2012, de 10 de agosto.
 
@@ -655,13 +748,13 @@ b) Ao ensino presencial para a itinerância.
 
 2 - Não sendo possível cumprir o disposto no número anterior, o pedido de matrícula pode ser apresentado de modo presencial nos serviços competentes do estabelecimento de educação e de ensino da área da residência do aluno, independentemente das preferências manifestadas para a frequência, procedendo esses serviços ao registo eletrónico da matrícula na aplicação informática referida no número anterior ou noutra indicada pelo Ministério da Educação, Ciência e Inovação.
 
-3 - No ato de matrícula, o encarregado de educação ou o aluno, quando maior, indica, por ordem de preferência, cinco estabelecimentos de educação e de ensino cuja escolha de frequência é a pretendida ou todos os estabelecimentos existentes, no caso de municípios com uma menor oferta de estabelecimentos de educação e de ensino, sem prejuízo do disposto nos n.<sup>os</sup>11 e 12.
+3 - No ato de matrícula, o encarregado de educação ou o aluno, quando maior, indica, por ordem de preferência, cinco estabelecimentos de educação e de ensino cuja escolha de frequência é a pretendida ou todos os estabelecimentos existentes, no caso de municípios com uma menor oferta de estabelecimentos de educação e de ensino, sem prejuízo do disposto nos n.os11 e 12.
 
 4 - Para os efeitos previstos no número anterior, devem os estabelecimentos de educação e de ensino informar previamente os alunos ou os encarregados de educação da rede e oferta educativa existente.
 
 5 - No ato de matrícula ou da sua renovação, para frequência dos ensinos básico e secundário, o encarregado de educação ou o aluno, quando maior, deve indicar, além dos estabelecimentos previstos no n.º 3, o curso ou cursos pretendidos e respetivas opções.
 
-6 - Ao pedido de matrícula de candidatos titulares de habilitações estrangeiras, quer se trate do ensino básico quer do ensino secundário, aplica-se o disposto nos n.<sup>os</sup>1 e 2.
+6 - Ao pedido de matrícula de candidatos titulares de habilitações estrangeiras, quer se trate do ensino básico quer do ensino secundário, aplica-se o disposto nos n.os1 e 2.
 
 7 - Aos candidatos referidos no número anterior é concedida a possibilidade de requererem a matrícula em ano de escolaridade imediatamente inferior àquele a que corresponderia a matrícula relativa à habilitação concedida através de equivalência, dentro do mesmo ciclo de ensino.
 
@@ -719,7 +812,7 @@ g) O número de identificação da Segurança Social (NISS).
 
 Renovação de matrícula com transição de ciclo, alteração de estabelecimento, de encarregado de educação, de curso ou de percurso formativo ou dependente de escolha de disciplinas
 
-1 - A renovação de matrícula para cada início de ciclo ou que implique transferência de estabelecimento de educação e de ensino, alteração de encarregado de educação, de curso ou de percurso formativo ou que dependa de escolha de disciplinas deve ser efetuada nos termos dos n.<sup>os</sup>1 a 5 do artigo 7.º e dentro dos prazos fixados no despacho referido no n.º 1 do artigo 6.º
+1 - A renovação de matrícula para cada início de ciclo ou que implique transferência de estabelecimento de educação e de ensino, alteração de encarregado de educação, de curso ou de percurso formativo ou que dependa de escolha de disciplinas deve ser efetuada nos termos dos n.os1 a 5 do artigo 7.º e dentro dos prazos fixados no despacho referido no n.º 1 do artigo 6.º
 
 2 - Quando a renovação de matrícula implicar a transferência de estabelecimento de educação e de ensino, o estabelecimento de educação e de ensino frequentado no ano anterior procede à validação do pedido de transferência, no prazo de dois dias úteis, na aplicação informática referida no n.º 1 do artigo 7.º, a fim de ser tramitado pelo estabelecimento de educação e de ensino pretendido, de acordo com a indicação das preferências.
 
@@ -896,3 +989,5 @@ V - Disposições finais e transitórias
 1 - O serviço do Ministério da Educação, Ciência e Inovação competente pela gestão da aplicação Portal das Matrículas disponibiliza, no referido portal (portaldasmatriculas.edu.gov.pt), um manual de utilização para os efeitos previstos no presente despacho normativo, no qual constará o endereço eletrónico de contacto preferencial e a linha direta de helpdesk.
 
 2 - As competências atribuídas ao diretor do agrupamento de escolas ou escola não agrupada no presente despacho normativo podem ser delegadas e subdelegadas no subdiretor e nos adjuntos.
+
+318847927

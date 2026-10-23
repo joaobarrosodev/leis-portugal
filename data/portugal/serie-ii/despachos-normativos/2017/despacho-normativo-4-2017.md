@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/2s/2017/06/112000000/1197411976.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -46,36 +46,64 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/despacho-normativo/4-2017-107497627
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2017-06-09T00:00:00Z'
+  retrieved_at: '2026-10-23T15:08:20Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: c6ba3d206f58407ffb70989882a84e7cd07825e96fd9355787da3f16f0e869eb
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: bcee361f5872bef8047d78827b7a62b17542e254ec63692648741823170c0461
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:08:20Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
-relationships: []
+subjects:
+- Andebol
+- Basquetebol
+- Despesas de Deslocação
+- Desporto
+- Federação Desportiva
+- Financiamento
+- Futebol
+- Hóquei
+- Instituto Português do Desporto e Juventude
+- Organização Desportiva
+- Região Autónoma
+- Voleibol
+relationships:
+- type: cites
+  target: pt:dre:2808467:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:667323:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:72909765:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:74651463:por
+  label: null
+  source: null
 article_structure:
-  article_count: 20
+  article_count: 2
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:08:20Z'
   warnings: []
   errors: []
 ---
@@ -110,7 +138,9 @@ Os artigos 3.º, 5.º, 7.º e Anexo I do Despacho normativo n.º 1/2013, publica
 
 3 - O número máximo de competições desportivas elegíveis ao abrigo da alínea a) do n.º 1 por federação desportiva nacional, não pode ultrapassar seis, com exceção da federação desportiva nacional de futebol, caso em que não pode ultrapassar doze, considerando as disciplinas de futebol 11 e de futsal.
 
-###### Artigo 5.º — [...]
+Artigo 5.º
+
+[...]
 
 1 - ...
 
@@ -128,41 +158,57 @@ Os artigos 3.º, 5.º, 7.º e Anexo I do Despacho normativo n.º 1/2013, publica
 
 8 - No caso de participação de equipas desportivas de clubes do território do continente em competições da disciplina de futebol 11 que incluam equipas desportivas de clubes das Regiões Autónomas, é concedido um valor adicional de (euro) 60,00 por elemento da comitiva indicada no n.º 1 do artigo 7.º no caso de ser necessária a estada, até ao valor máximo do apoio estabelecido no Anexo I.
 
-###### Artigo 7.º — [...]
+Artigo 7.º
+
+[...]
 
 1 - As comitivas das equipas desportivas de clubes que disputam competições desportivas nas Regiões Autónomas, tal como referidas no artigo 4.º, são constituídas pelos praticantes desportivos, treinadores e, facultativamente, por elementos de apoio médico e dirigentes do clube.
 
 2 - ...
 
-## ANEXO I — Limites máximos de comparticipação por deslocação de equipa
+ANEXO I
 
-[([ver documento original](https://files.diariodarepublica.pt/2s/2017/06/112000000/1197411976.pdf))](https://files.diariodarepublica.pt/2s/2017/06/112000000/1197411976.pdf)
+Limites máximos de comparticipação por deslocação de equipa
 
-###### Artigo 3.º — Entrada em vigor e produção de efeitos
+[(ver documento original)](https://files.diariodarepublica.pt/2s/2017/06/112000000/1197411976.pdf)
+
+Artigo 3.º
+
+Entrada em vigor e produção de efeitos
 
 1 - O presente despacho entra em vigor no dia seguinte ao da sua publicação.
 
 2 - As alterações promovidas pelo presente despacho produzem efeitos a 1 de julho de 2016.
 
-###### Artigo 4.º — Republicação
+Artigo 4.º
+
+Republicação
 
 É republicado, em anexo ao presente despacho normativo do qual faz parte integrante, o Despacho normativo n.º 1/2013, publicado no Diário da República, 2.ª série, n.º 5, de 8 de janeiro, com a redação atual.
 
 23 de maio de 2017. - O Secretário de Estado da Juventude e do Desporto, João Paulo de Loureiro Rebelo.
 
-## ANEXO — (a que se refere o artigo 4.º)
+ANEXO
+
+(a que se refere o artigo 4.º)
 
 Republicação do Despacho normativo n.º 1/2013, publicado no Diário da República, 2.ª série, n.º 5, de 8 de janeiro
 
-###### Artigo 1.º — Objeto
+Artigo 1.º
+
+Objeto
 
 O presente despacho estabelece os critérios para o financiamento público a conceder às federações desportivas nacionais de andebol, basquetebol, futebol (nas disciplinas de futebol 11 e futsal), patinagem (na disciplina de hóquei em patins), ténis de mesa e voleibol, para comparticipar os encargos com a deslocação, por via aérea e/ou marítima, entre o território continental e as Regiões Autónomas.
 
-###### Artigo 2.º — Âmbito
+Artigo 2.º
+
+Âmbito
 
 Para efeitos do disposto no artigo anterior, o presente despacho normativo abrange a deslocação das equipas desportivas de clubes que disputem competições desportivas nacionais e, bem assim, de juízes ou árbitros e praticantes desportivos oriundos das Regiões Autónomas para participação nos trabalhos das seleções nacionais.
 
-###### Artigo 3.º — Competições elegíveis
+Artigo 3.º
+
+Competições elegíveis
 
 1 - As competições desportivas elegíveis no âmbito das federações desportivas nacionais referidas no artigo 1.º são as seguintes:
 
@@ -174,7 +220,9 @@ b) Taça de Portugal ou uma competição equivalente por género masculino e fem
 
 3 - O número máximo de competições desportivas elegíveis ao abrigo da alínea a) do n.º 1 por federação desportiva nacional não pode ultrapassar seis, com exceção da federação desportiva nacional de futebol, caso em que não pode ultrapassar doze, considerando as disciplinas de futebol 11 e de futsal.
 
-###### Artigo 4.º — Deslocações comparticipadas
+Artigo 4.º
+
+Deslocações comparticipadas
 
 São comparticipadas as deslocações para:
 
@@ -184,7 +232,9 @@ b) Participação de juízes ou árbitros nas competições desportivas elegíve
 
 c) Participação de praticantes desportivos oriundos das Regiões Autónomas em ações das seleções nacionais para os quais estejam convocados, nomeadamente estágios, treinos e participação em competições desportivas.
 
-###### Artigo 5.º — Comparticipação financeira
+Artigo 5.º
+
+Comparticipação financeira
 
 1 - A comparticipação financeira respeitante aos encargos com as deslocações por via aérea e/ou marítima indicadas na alínea a) do artigo 4.º, independentemente do local de início da viagem ou destino final nas Regiões Autónomas, corresponde ao valor das despesas apresentadas pela federação desportiva, com os limites máximos por deslocação constantes do Anexo I ao presente despacho, que do mesmo constitui parte integrante.
 
@@ -216,21 +266,29 @@ c) Competições desportivas por eliminatória.
 
 8 - No caso de participação de equipas desportivas de clubes do território do continente em competições da disciplina de futebol 11 que incluam equipas desportivas de clubes das Regiões Autónomas, é concedido um valor adicional de (euro) 60,00 por elemento da comitiva indicada no n.º 1 do artigo 7.º no caso de ser necessária a estada, até ao valor máximo do apoio estabelecido no Anexo I.
 
-###### Artigo 6.º — Situações excecionais
+Artigo 6.º
+
+Situações excecionais
 
 Em casos devidamente fundamentados, o IPDJ, I. P., pode autorizar a comparticipação financeira respeitante aos encargos com até duas deslocações por via aérea e/ou marítima de equipas desportivas de clubes do território do continente para realização de jogo ou jogos nas Regiões Autónomas não enquadradas no disposto no artigo 5.º
 
-###### Artigo 7.º — Elementos da comitiva
+Artigo 7.º
+
+Elementos da comitiva
 
 1 - As comitivas das equipas desportivas de clubes que disputam competições desportivas nas Regiões Autónomas, tal como referidas no artigo 4.º, são constituídas pelos praticantes desportivos, treinadores e, facultativamente, por elementos de apoio médico e dirigentes do clube.
 
 2 - O número máximo de árbitros ou juízes, por deslocação para participação em jogo ou conjunto de jogos é o que consta do anexo II do presente despacho, que do mesmo constitui parte integrante.
 
-###### Artigo 8.º — Competições e despesas não elegíveis
+Artigo 8.º
+
+Competições e despesas não elegíveis
 
 Não são objeto de comparticipação financeira as despesas relativas à participação das equipas desportivas de clubes integrados em competições de natureza profissional, independentemente de, nessa época desportiva, participarem em outras competições desportivas consideradas elegíveis.
 
-###### Artigo 9.º — Pagamento
+Artigo 9.º
+
+Pagamento
 
 1 - Mediante contrato-programa de desenvolvimento desportivo, a celebrar entre o IPDJ, I. P., e as federações desportivas respetivas, é consignada uma verba destinada exclusivamente a comparticipar os encargos decorrentes da execução do presente despacho.
 
@@ -268,25 +326,35 @@ a) 80 % do valor contratual será disponibilizado mensalmente em regime duodecim
 
 b) Após a entrega do relatório final indicado no n.º 2 do artigo 10.º, é determinado o valor final da comparticipação financeira, nos termos do artigo 11.º, e realizado o pagamento final, ou apurada a verba a repor.
 
-###### Artigo 10.º — Acompanhamento e controlo da execução dos contratos
+Artigo 10.º
+
+Acompanhamento e controlo da execução dos contratos
 
 1 - As federações desportivas devem entregar mensalmente um relatório, em modelo próprio definido pelo IPDJ, I. P., sobre a execução técnica e financeira do contrato-programa previsto no n.º 1 do artigo anterior, para efeitos de validação e eventual preparação de revisão contratual, que deve ser acompanhado da indicação de qualquer alteração às informações indicadas no n.º 2 do artigo anterior.
 
 2 - As federações desportivas devem entregar, até 31 de julho da cada ano, um relatório final, em modelo próprio definido pelo IPDJ, I. P., sobre a execução técnica e financeira do contrato-programa previsto no n.º 1 do artigo anterior.
 
-###### Artigo 11.º — Revisão da comparticipação financeira
+Artigo 11.º
+
+Revisão da comparticipação financeira
 
 A comparticipação financeira final é aumentada ou reduzida de acordo com os valores reais da despesa apresentada pela federação desportiva no âmbito do relatório final previsto no n.º 2 do artigo anterior e mediante a aplicação das normas constantes no presente despacho normativo.
 
-###### Artigo 12.º — Casos omissos
+Artigo 12.º
+
+Casos omissos
 
 Os casos omissos são resolvidos pelo IPDJ, I. P.
 
-###### Artigo 13.º — Norma revogatória
+Artigo 13.º
+
+Norma revogatória
 
 É revogado o [Despacho n.º 22932/2007](https://diariodarepublica.pt/dr/detalhe/despacho/22932-2007-2808467), de 29 de agosto, do Secretário de Estado da Juventude e do Desporto, publicado no Diário da República, 2.ª série, n.º 191, de 3 de outubro de 2007.
 
-###### Artigo 14.º — Entrada em vigor e produção de efeitos
+Artigo 14.º
+
+Entrada em vigor e produção de efeitos
 
 1 - O presente despacho entra em vigor no dia seguinte ao da sua publicação.
 
@@ -294,10 +362,16 @@ Os casos omissos são resolvidos pelo IPDJ, I. P.
 
 3 - O disposto no n.º 3 do artigo 3.º é aplicável a partir da época desportiva de 2013-2014.
 
-## ANEXO I — Limites máximos de comparticipação por deslocação de equipa
+ANEXO I
 
-[([ver documento original](https://files.diariodarepublica.pt/2s/2017/06/112000000/1197411976.pdf))](https://files.diariodarepublica.pt/2s/2017/06/112000000/1197411976.pdf)
+Limites máximos de comparticipação por deslocação de equipa
 
-## ANEXO II — Número máximo de árbitros por deslocação objeto de apoio
+[(ver documento original)](https://files.diariodarepublica.pt/2s/2017/06/112000000/1197411976.pdf)
 
-[([ver documento original](https://files.diariodarepublica.pt/2s/2017/06/112000000/1197411976.pdf))](https://files.diariodarepublica.pt/2s/2017/06/112000000/1197411976.pdf)
+ANEXO II
+
+Número máximo de árbitros por deslocação objeto de apoio
+
+[(ver documento original)](https://files.diariodarepublica.pt/2s/2017/06/112000000/1197411976.pdf)
+
+310520022

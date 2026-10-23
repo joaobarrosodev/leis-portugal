@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/2s/2001/07/165000000/1200712012.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,40 +46,58 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/resolucao/3-2001-2789653
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2011-12-21T00:00:00Z'
+  retrieved_at: '2026-10-23T15:10:46Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: af27b935d5d2e151501c5fb08df86b4053056c36d757714f51f282e1759c881c
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 1938585e77c8fd2df7f1773e697de19ed62fcb1b05f29b40ca4ddfef99f6be32
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:10:46Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Madeira.região Autónoma
+- Regulamento
+- Secção Regional do Tribunal de Contas
+- Tribunal de Contas
 relationships:
 - type: amended_by
   target: pt:dre:3647619:por
   label: Última alteração registada na importação inicial
   source: null
+- type: cites
+  target: pt:dre:193663:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:694226:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:3647619:por
+  label: "Revogada, a partir de 01.01.2012, o Regulamento da Secção Regional da Madeira do Tribunal de Contas pela RES.24/2011.21.12.2011.TC,\
+    \ DR.IIS [243] de 21.12.2011\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/resolucao/24-2011-3647619
+  date: '2011-12-21'
 article_structure:
   article_count: 40
   section_count: 9
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:10:46Z'
   warnings: []
   errors: []
 ---
@@ -544,6 +562,6 @@ Aplicam-se aos casos omissos, com as necessárias adaptações, os regulamentos 
 
 O presente Regulamento entra em vigor no 10.º dia após a sua publicação na 2.ª série do Diário da República.
 
-**Publique-se na 2.ª série do Diário da República e na 2.ª série do Jornal Oficial da Região Autónoma da Madeira.**
+Publique-se na 2.ª série do Diário da República e na 2.ª série do Jornal Oficial da Região Autónoma da Madeira.
 
 28 de Maio de 2001. - O Conselheiro Presidente, Alfredo José de Sousa.

@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/2s/2014/12/235000000/3052730528.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -46,36 +46,96 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/resolucao/37-2014-61334532
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2014-12-04T00:00:00Z'
+  retrieved_at: '2026-10-23T15:15:27Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: c96977d3c3e10a235b1b058221d4518d6130f3019206999fc3e5b0b2411ed39e
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 764567d2b479a91251f035995d502df6c33d701de35f029c81ca28531cac91c7
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:15:27Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
-relationships: []
+subjects:
+- Administração Local
+- Agência de Gestão da Tesouraria e da Dívida Pública
+- Agrupamento de Escolas
+- ÁREA Metropolitana
+- Assembleia Distrital
+- Associação de Freguesias
+- Associação de Municípios
+- Associação Nacional de Municípios Portugueses
+- Autarquia Local
+- Centro de Formação Profissional
+- Comunidade Intermunicipal
+- Estabelecimento de Ensino
+- Ministério dos Negócios Estrangeiros
+- Página na Internet
+- Presidente do Tribunal de Contas
+- Prestação de Contas
+- Saúde
+- Setor Empresarial do Estado
+- Setor Público
+- Tribunal de Contas
+relationships:
+- type: cites
+  target: pt:dre:1273704:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:179571:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:193663:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:310379:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:328400:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:344407:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:500023:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:540797:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:540821:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:570120:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:15:27Z'
   warnings: []
   errors: []
 ---
@@ -168,8 +228,10 @@ c) Os depósitos e aplicações fora da Agência de Gestão da Tesouraria e da D
 
 15 - As entidades que nos termos da lei devem apresentar contas consolidadas, deverão proceder à respetiva prestação de contas via eletrónica, por anexação aos documentos da conta individual da entidade mãe, da respetiva conta consolidada em formato pdf.
 
-**Publique-se na 2.ª série do Diário da República, nos termos do artigo 9.º, n.º 2, alínea d), da [Lei n.º 98/97](https://diariodarepublica.pt/dr/detalhe/lei/98-1997-193663), de 26 de agosto.**
+Publique-se na 2.ª série do Diário da República, nos termos do artigo 9.º, n.º 2, alínea d), da [Lei n.º 98/97](https://diariodarepublica.pt/dr/detalhe/lei/98-1997-193663), de 26 de agosto.
 
 (1) No caso de existência de gerências partidas, conforme previsto no artigo 52.º da [Lei n.º 98/97](https://diariodarepublica.pt/dr/detalhe/lei/98-1997-193663), o valor anual de receita ou despesa a ter em conta será o orçamentado para o ano económico a que se reporta a gerência.
 
 27 de novembro de 2014. - O Conselheiro Presidente, Guilherme d' Oliveira Martins.
+
+208269456

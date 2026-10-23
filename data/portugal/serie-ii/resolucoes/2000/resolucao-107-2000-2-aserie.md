@@ -1,7 +1,7 @@
 ---
 schema_version: '1.0'
 id: pt:dre:1670254:por
-title: Resolução n.º 107/2000(2.ªsérie)
+title: Resolução n.º 107/2000 (2.ª série)
 short_title: null
 summary: null
 jurisdiction: portugal
@@ -46,41 +46,51 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/resolucao/107-2000-1670254
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2000-07-20T00:00:00Z'
+  retrieved_at: '2026-10-23T15:09:34Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 1c2501468becc344e662af683c41432c577b18f1f3801c99e482ee4173487433
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 80b91b35ad9b19f10f5ad50648cba8c62d38d964f91c87348400345ba9fdd15b
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:09:34Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Aquisição de Bens e Serviços
+- Comissão de Análise
+- Concurso Público Internacional
+- Delegação de Competências
+- Governo XIV
+- Medicamento
+- Ministro da Saúde
+- Primeiro-ministro
+- Produto Farmacêutico
+- Serviço Nacional de Saúde
 relationships: []
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:09:34Z'
   warnings: []
   errors: []
 ---
 
-# Resolução n.º 107/2000(2.ªsérie)
+# Resolução n.º 107/2000 (2.ª série)
 
 Resolução n.º 107/2000 (2.ª série). - Pela resolução n.º 135/99 (2.ª série), publicada no Diário da República, 2.ª série, n.º 247, de 22 de Outubro de 1999, o Conselho de Ministros autorizou a abertura dos concursos públicos internacionais para aquisição, no ano 2000, de produtos ou material de consumo corrente e outros bens para as instituições e serviços integrados no Serviço Nacional de Saúde, constante do anexo à aludida resolução.
 
@@ -102,4 +112,4 @@ c) Delegar nos órgãos máximos das instituições aderentes a competência par
 
 29 de Junho de 2000. - O Primeiro-Ministro, António Manuel de Oliveira Guterres.
 
-## ANEXO — [([ver documento original](https://files.diariodarepublica.pt/2s/2000/07/166000000/1200212002.pdf))](https://files.diariodarepublica.pt/2s/2000/07/166000000/1200212002.pdf)
+## ANEXO — [(ver documento original)](https://files.diariodarepublica.pt/2s/2000/07/166000000/1200212002.pdf)

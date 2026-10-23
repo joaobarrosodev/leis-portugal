@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/653/2006/06/29/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/653-2006-356340
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2006-06-29T00:00:00Z'
+  retrieved_at: '2026-10-23T15:15:26Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 3ebe185461f6c11da9c711496314cdcd71c97454cae062de629a4b72ee35e66d
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: cfae30988293f6f158ae1089f5f276d896650363d022e7c12b8e919c4dedc0b8
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:15:26Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -79,16 +79,24 @@ relationships:
   target: eli:http://data.dre.pt/eli/lei/53/2005/11/08/p/dre
   label: null
   source: http://data.dre.pt/eli/lei/53/2005/11/08/p/dre
+- type: cites
+  target: pt:dre:345541:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:583192:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:15:26Z'
   warnings: []
   errors: []
 ---
@@ -111,28 +119,28 @@ Manda o Governo, através dos Ministros de Estado e das Finanças e dos Assuntos
 
 Em 20 de Junho de 2006.
 
-**O Ministro de Estado e das Finanças, Fernando Teixeira dos Santos. - O Ministro dos Assuntos Parlamentares, Augusto Ernesto Santos Silva.**
+O Ministro de Estado e das Finanças, Fernando Teixeira dos Santos. - O Ministro dos Assuntos Parlamentares, Augusto Ernesto Santos Silva.
 
 ## ANEXO I — Taxa de regulação e supervisão
 
 (nos termos do n.º 2 do artigo 7.º do [Decreto-Lei n.º 103/2006](https://diariodarepublica.pt/dr/detalhe/decreto-lei/103-2006-345541), de 7 de Junho)
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2006/06/124b00/46204622.pdf))](https://files.diariodarepublica.pt/1s/2006/06/124b00/46204622.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2006/06/124b00/46204622.pdf)
 
 ## ANEXO II — Taxas por serviços específicos prestados
 
 (nos termos do n.º 3 do artigo 10.º do [Decreto-Lei n.º 103/2006](https://diariodarepublica.pt/dr/detalhe/decreto-lei/103-2006-345541), de 7 de Junho)
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2006/06/124b00/46204622.pdf))](https://files.diariodarepublica.pt/1s/2006/06/124b00/46204622.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2006/06/124b00/46204622.pdf)
 
 ## ANEXO III — Taxas por emissão de títulos habilitadores
 
 (nos termos do n.º 3 do artigo 10.º do [Decreto-Lei n.º 103/2006](https://diariodarepublica.pt/dr/detalhe/decreto-lei/103-2006-345541), de 7 de Junho)
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2006/06/124b00/46204622.pdf))](https://files.diariodarepublica.pt/1s/2006/06/124b00/46204622.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2006/06/124b00/46204622.pdf)
 
 ## ANEXO IV — Encargos administrativos em procedimentos
 
 (nos termos do n.º 2 do artigo 11.º do [Decreto-Lei n.º 103/2006](https://diariodarepublica.pt/dr/detalhe/decreto-lei/103-2006-345541), de 7 de Junho)
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2006/06/124b00/46204622.pdf))](https://files.diariodarepublica.pt/1s/2006/06/124b00/46204622.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2006/06/124b00/46204622.pdf)

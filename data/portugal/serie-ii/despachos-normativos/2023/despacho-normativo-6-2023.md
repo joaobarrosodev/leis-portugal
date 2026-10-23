@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/2s/2023/04/075000000/0007900079.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -46,36 +46,76 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/despacho-normativo/6-2023-211837464
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2023-04-17T00:00:00Z'
+  retrieved_at: '2026-10-23T15:09:04Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 1f809612e28b6490ed59351889e873393181f82b8ef3a5a6db93d0e90f709d4e
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: b9c2cf6677bbd330b2cd2369db99ff6d99d7bdf85d664b155686a8267f93f052
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:09:04Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
-relationships: []
+subjects:
+- Direção Geral do Património Cultural
+- Financiamento
+- Igespar
+- Património Arqueológico
+- Plano Nacional de Trabalhos Arqueologicos
+- Regulamento
+relationships:
+- type: amends
+  target: pt:numero:despacho-normativo:18-A/2003
+  label: Altera, a partir de 18 de abril de 1923, o n.º 2 do artigo 1.º e o corpo do n.º 1 do artigo 9.º do anexo ao Despacho
+    Normativo n.º 18-A/2003, de 7 de maio, Diário da República n.º 105/2003, 1º Suplemento, Série I-B d
+  source: null
+  date: '2003-05-07'
+- type: cites
+  target: pt:dre:177827:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:184306970:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:231759:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:397534:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:520437:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:58728911:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:629790:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:09:04Z'
   warnings: []
   errors: []
 ---
@@ -107,3 +147,5 @@ Assim, ao abrigo do [Despacho n.º 7052/2022](https://diariodarepublica.pt/dr/de
 4 - O presente despacho entra em vigor no dia seguinte ao da sua publicação.
 
 11 de abril de 2023. - A Secretária de Estado da Cultura, Isabel Alexandra Rodrigues Cordeiro.
+
+316363518

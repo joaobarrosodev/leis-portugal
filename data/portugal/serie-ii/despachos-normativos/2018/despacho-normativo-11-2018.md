@@ -26,7 +26,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/2s/2018/08/159000000/2309523096.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -48,30 +48,62 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/despacho-normativo/11-2018-116114755
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2025-03-21T00:00:00Z'
+  retrieved_at: '2026-10-23T15:08:24Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 3995c8c3176111ea7ec552d7c1fe00c55ff2f96911b24bad71ee84da835d54e0
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 8e72d8b12eb2565bf57cab15e11167be2eec631eb3d731158dd2fa728a171c70
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:08:24Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Acreditação
+- Agricultura Biológica
+- Autoridade Competente
+- Bebida Alcoólica
+- Controlo de Qualidade
+- Definição de Competências
+- Denominação de Origem
+- Direção Geral da Agricultura e Desenvolvimento Rural
+- Indicação Geográfica
+- Organismo de Controlo
+- Produto Agrícola
+- Produto Alimentar
+- Regulamento CE
 relationships:
 - type: amended_by
   target: pt:dre:911850387:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:125046941:por
+  label: Retirada, com efeitos a 12.09.2019, a delegação de tarefas de controlo oficial na Tradição e Qualidade - Associação
+    Interprofissional para os Produtos Agroalimentares de Trás-os-Montes relativamente à denominação Mel do Parque de Montesinho
+    DOP, do presente diploma, pelo(a) Aviso n.º 15368/2019 - Diário da República n.º 189/2019, Série II de 2019-10-02
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/aviso/15368-2019-125046941
+  date: '2019-10-02'
+- type: amended_by
+  target: pt:dre:140346354:por
+  label: Alterados, com efeitos a 21.08.2020, os n.ºs 1, 2, 3, 4 e 8 pelo(a) Despacho Normativo n.º 9/2020 - Diário da República
+    n.º 159/2020, Série II de 2020-08-17
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/despacho-normativo/9-2020-140346354
+  date: '2020-08-17'
+- type: amended_by
+  target: pt:dre:155891959:por
+  label: Alterados, com efeitos a 01.01.2021, os n.ºs 4 e 8 do presente despacho normativo, pelo(a) Despacho Normativo n.º
+    3/2021 - Diário da República n.º 21/2021, Série II de 2021-02-01
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/despacho-normativo/3-2021-155891959
+  date: '2021-02-01'
 - type: cites
   target: celex:31989R1576
   label: null
@@ -96,16 +128,50 @@ relationships:
   target: celex:32012R1151
   label: null
   source: null
+- type: cites
+  target: pt:dre:107566975:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:108000346:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:157997:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:203460:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:273187:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:315137:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:553629:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:911850387:por
+  label: Revogadas, a partir de 22 de março de 2025, as alíneas b) e c) do n.º 1, as alíneas b), c), d), e) e f) do n.º 2
+    e os n.ºs 3 e 4 pelo(a) Portaria n.º 123/2025/1 - Diário da República n.º 57/2025, Série I de 2025-03-21
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/123-2025-911850387
+  date: '2025-03-21'
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:08:24Z'
   warnings: []
   errors: []
 ---
@@ -173,3 +239,5 @@ d) O [Despacho Normativo n.º 28/2004](https://diariodarepublica.pt/dr/detalhe/d
 9 - O presente despacho normativo produz efeitos à data da sua publicação.
 
 6 de agosto de 2018. - O Secretário de Estado das Florestas e do Desenvolvimento Rural, Miguel João Pisoeiro de Freitas.
+
+311573112

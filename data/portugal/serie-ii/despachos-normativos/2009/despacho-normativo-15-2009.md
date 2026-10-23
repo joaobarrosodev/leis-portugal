@@ -46,45 +46,67 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/despacho-normativo/15-2009-1821416
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2012-05-22T00:00:00Z'
+  retrieved_at: '2026-10-23T15:07:09Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 292b8e94e3eeb909cb85eac8614371d5af5265b2553262a5be2cba21265d50f8
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 93fc8137407a6313617ea8a30e2ef5cc950573fede2f99d38b83c8f40873e879
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:07:09Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Instituto Nacional de Saúde Dr Ricardo Jorge
+- Regulamento Interno
 relationships:
 - type: amended_by
   target: pt:dre:551989:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:551989:por
+  label: "Determinado que o Centro de Genética Médica Doutor Jacinto Magalhães - previsto no nº 2 do art. 2º do Dec Lei 271/2007,\
+    \ de 26-jun -, se mantenha, transitoriamente, até 31 de dezembro de 2012, com a natureza de serviço desconcentrado do\
+    \ INSA, I. P., com as competências fixadas no nº 3 do art. 61º do Regulamento anexo, pela PORT.162/2012.22.05.2012.MF,\
+    \ DR.IS [99] de 22.05.2012\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/162-2012-551989
+  date: '2012-05-22'
+- type: cites
+  target: pt:dre:520191:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:603478:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:636711:por
+  label: null
+  source: null
 article_structure:
   article_count: 67
   section_count: 17
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:07:09Z'
   warnings: []
   errors: []
 ---
 
-# Despacho Normativo n.º 15/2009
+# Despacho normativo n.º 15/2009
 
 O [Decreto-Lei n.º 271/2007](https://diariodarepublica.pt/dr/detalhe/decreto-lei/271-2007-636711), de 26 de Julho, diploma que definiu a missão e as atribuições do Instituto Nacional de Saúde Doutor Ricardo Jorge, I. P., adiante designado por INSA, I. P., determinou que a organização interna deste Instituto seria prevista nos seus estatutos, os quais foram aprovados pela Portaria n.º 812/2007, de 27 de Julho.
 
@@ -1259,3 +1281,5 @@ e) Propor superiormente acções de incorporação de novos testemunhos patrimon
 f) Apoiar a formação ministrada no INSA, I.P., e a difusão do conhecimento científico e tecnológico.
 
 3 - As actividades desenvolvidas no Museu da Saúde encontram-se sob a responsabilidade de um coordenador, não implicando a criação de cargo dirigente.
+
+201631634

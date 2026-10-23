@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/2s/2015/04/067000000/0838308386.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,45 +46,73 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/despacho-normativo/7-2015-66922018
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2019-02-05T00:00:00Z'
+  retrieved_at: '2026-10-23T15:08:02Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: ee862bf40c375af3082e01cffa0d0232d89df4eeb99ecd3f2447d3cf48fedf6d
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: ec1c38875886a5c8d5eda89644e1ba8fc16808b83cdf768ee28d4a069b63926f
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:08:02Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Carreira de Investigação e Fiscalização
+- Estágio de Formação
+- Formação Profissional
+- Pessoal de Inspecção
+- Regulamento de Estágio
+- Serviço de Estrangeiros e Fronteiras
 relationships:
 - type: amended_by
   target: pt:dre:119188332:por
   label: Última alteração registada na importação inicial
   source: null
+- type: cites
+  target: pt:dre:239605:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:25676932:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:302290:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:649343:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:119188332:por
+  label: Revogado o presente Despacho, pelo(a) Despacho Normativo n.º 2/2019 - Diário da República n.º 25/2019, Série II de
+    2019-02-05
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/despacho-normativo/2-2019-119188332
+  date: '2019-02-05'
 article_structure:
   article_count: 21
   section_count: 9
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:08:02Z'
   warnings: []
   errors: []
 ---
 
-# Despacho Normativo n.º 7/2015
+# Despacho normativo n.º 7/2015
 
 O ingresso na Carreira de Investigação e Fiscalização (CIF) do Serviço de Estrangeiros e Fronteiras (SEF), designadamente o provimento no nível 3 das categorias de inspetor e inspetor-adjunto está, nos termos do [Decreto-Lei n.º 290-A/2001](https://diariodarepublica.pt/dr/detalhe/decreto-lei/290-a-2001-649343), de 17 de novembro, condicionado a prévia aprovação em estágio probatório, sendo o mesmo, em conformidade com o estabelecido no artigo 30.º do [Decreto-Lei n.º 290-A/2001](https://diariodarepublica.pt/dr/detalhe/decreto-lei/290-a-2001-649343), de 17 de novembro, objeto de regulamentação mediante despacho do Ministro da Administração Interna. Assim, tendo em conta o grau de complexidade e exigência, cada vez maior, de que se reveste o desempenho da função de investigação e fiscalização, a experiência adquirida com a realização dos anteriores estágios probatórios e o lapso de tempo já decorrido desde a realização do último estágio, torna-se necessário estabelecer uma nova regulamentação do estágio probatório de ingresso na CIF.
 
@@ -521,3 +549,5 @@ Armamento e Tiro.
 Defesa Pessoal e Manutenção Física.
 
 Socorrismo.
+
+208511061

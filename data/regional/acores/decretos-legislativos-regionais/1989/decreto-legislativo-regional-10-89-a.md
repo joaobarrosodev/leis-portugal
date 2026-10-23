@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1989/07/16900/29182919.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,40 +46,49 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/10-1989-619936
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2000-05-26T00:00:00Z'
+  retrieved_at: '2026-10-23T15:17:50Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: dfa653937b41e283866695b54f486642904537668062678b354fa470281e3d98
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 0057a94347db05825a09e80280afec7547d03b7b7a18416f3b7d01e9e8bca82b
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:17:50Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Açores
+- Criação de Serviços
+- Instituto de Investimento e Privatizações dos Açores
+- Orgânica
 relationships:
 - type: amended_by
   target: pt:dre:291927:por
   label: Última alteração registada na importação inicial
   source: null
+- type: repealed_by
+  target: pt:dre:1945608:por
+  label: REVOGADO O PRESENTE DIPLOMA E EXTINTO O IIPA, PELO DLR 6/96/A DE 13-MAI DR.IS-A [136] DE 14/JUN/1996
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/sem-diploma/2000-1945608
+  date: '1996-06-14'
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:17:50Z'
   warnings: []
   errors: []
 ---
@@ -100,15 +109,15 @@ Nestes termos:
 
 A Assembleia Regional dos Açores decreta, nos termos da alínea a) do artigo 229.º da Constituição da República Portuguesa e da alínea c) do n.º 1 do artigo 32.º do Estatuto Político-Administrativo da Região Autónoma dos Açores, o seguinte:
 
-###### Artigo 1.º É criado, na Região Autónoma dos Açores, o Instituto de Investimento e Privatizações dos Açores, abrevidamente designado por IIPA, instituto de direito público, dotado de personalidade jurídica, com a autonomia administrativa e financeira e património próprio.
+Artigo 1.º É criado, na Região Autónoma dos Açores, o Instituto de Investimento e Privatizações dos Açores, abrevidamente designado por IIPA, instituto de direito público, dotado de personalidade jurídica, com a autonomia administrativa e financeira e património próprio.
 
-###### Art. 2.º - 1 - O IIPA reger-se-á pelo presente decreto legislativo regional, pelo seu estatuto, a aprovar por decreto regulamentar regional, e, subsidiariamente, pelo ordenamento jurídico das empresas públicas.
+Art. 2.º - 1 - O IIPA reger-se-á pelo presente decreto legislativo regional, pelo seu estatuto, a aprovar por decreto regulamentar regional, e, subsidiariamente, pelo ordenamento jurídico das empresas públicas.
 
 2 - Aplicam-se ao IIPA, nas suas relações com terceiros, as normas de direito privado.
 
-###### Art. 3.º O IIPA terá a sua sede na Região Autónoma dos Açores, podendo criar delegações e outras formas locais de representação.
+Art. 3.º O IIPA terá a sua sede na Região Autónoma dos Açores, podendo criar delegações e outras formas locais de representação.
 
-###### Art. 4.º São atribuições do IIPA, além das que vierem a ser fixadas no seu estatuto, as seguintes:
+Art. 4.º São atribuições do IIPA, além das que vierem a ser fixadas no seu estatuto, as seguintes:
 
 a) Colaborar com o Governo Regional na definição das políticas de desenvolvimento na área da economia;
 
@@ -126,7 +135,7 @@ g) Adquirir, a título originário ou derivado, participação no capital de soc
 
 h) Fomentar o investimento privado regional.
 
-###### Art. 5.º São órgãos do IIPA:
+Art. 5.º São órgãos do IIPA:
 
 a) O conselho de administração;
 
@@ -134,15 +143,15 @@ b) O administrador-delegado;
 
 c) A comissão de fiscalização.
 
-###### Art. 6.º - 1 - O conselho de administração será constituído por três membros, um dos quais será o administrador-delegado e os outros vogais.
+Art. 6.º - 1 - O conselho de administração será constituído por três membros, um dos quais será o administrador-delegado e os outros vogais.
 
 2 - O administrador-delegado, que por inerência exercerá as funções de presidente do conselho de administração, será nomeado por resolução do Governo Regional, sob proposta do Secretário Regional da Economia.
 
 3 - Os vogais serão nomeados por despacho do Secretário Regional da Economia, sendo um designado pelo Secretário Regional das Finanças e Planeamento e o outro pelas organizações empresárias.
 
-###### Art. 7.º A comissão de fiscalização será constituída por três membros, um dos quais será o presidente e os outros vogais, nomeados por despacho do Secretário Regional da Economia, sendo o presidente designado pelo Secretário Regional das Finanças e Planeamento e um dos vogais revisor oficial de contas ou sociedade de revisores de contas.
+Art. 7.º A comissão de fiscalização será constituída por três membros, um dos quais será o presidente e os outros vogais, nomeados por despacho do Secretário Regional da Economia, sendo o presidente designado pelo Secretário Regional das Finanças e Planeamento e um dos vogais revisor oficial de contas ou sociedade de revisores de contas.
 
-###### Art. 8.º - 1 - São receitas do IIPA, além de outras que foram definidas nos estatutos, as seguintes:
+Art. 8.º - 1 - São receitas do IIPA, além de outras que foram definidas nos estatutos, as seguintes:
 
 a) As remunerações de serviços que preste a entidades públicas, cooperativas ou privadas;
 
@@ -158,7 +167,7 @@ d) As comparticipações e subsídios que lhe venham a ser atribuídos por quais
 
 4 - O IIPA terá o regime fiscal previsto para os serviços e organismos da Região Autónoma.
 
-###### Art. 9.º - 1 - O pessoal do IIPA rege-se pelas normas aplicáveis ao contrato individual de trabalho.
+Art. 9.º - 1 - O pessoal do IIPA rege-se pelas normas aplicáveis ao contrato individual de trabalho.
 
 2 - O administrador-delegado ficará, para todos os efeitos, sujeito ao Estatuto do Gestor Público que vigorar.
 
@@ -166,16 +175,16 @@ d) As comparticipações e subsídios que lhe venham a ser atribuídos por quais
 
 4 - Os membros da comissão de fiscalização, com excepção do revisor oficial de contas ou da sociedade de revisores de contas, que serão, para o efeito, contratados e correspondentemente remunerados, terão direito a uma gratificação a fixar por despacho conjunto das entidades referidas no número anterior.
 
-###### Art. 10.º Os funcionários do Estado, das regiões autónomas, dos institutos públicos e das autarquias locais, bem como os trabalhadores das empresas públicas, podem ser autorizados a exercer funções no IIPA, em regime de requisição, com garantia do seu lugar de origem, nos direitos nele adquiridos e com possibilidade de optar pelas respectivas remunerações.
+Art. 10.º Os funcionários do Estado, das regiões autónomas, dos institutos públicos e das autarquias locais, bem como os trabalhadores das empresas públicas, podem ser autorizados a exercer funções no IIPA, em regime de requisição, com garantia do seu lugar de origem, nos direitos nele adquiridos e com possibilidade de optar pelas respectivas remunerações.
 
-###### Art. 11.º Os poderes de tutela do Governo Regional serão exercidos pelo Secretário Regional da Economia.
+Art. 11.º Os poderes de tutela do Governo Regional serão exercidos pelo Secretário Regional da Economia.
 
 Aprovado pela Assembleia Regional dos Açores, na Horta, em 12 de Maio de 1989.
 
-**O Presidente da Assembleia Regional, José Guilherme Reis Leite.**
+O Presidente da Assembleia Regional, José Guilherme Reis Leite.
 
-**Assinado em Angra do Heroísmo em 12 de Julho de 1989.**
+Assinado em Angra do Heroísmo em 12 de Julho de 1989.
 
-**Publique-se.**
+Publique-se.
 
-**O Ministro da República para a Região Autónoma dos Açores, Vasco Joaquim Rocha Vieira.**
+O Ministro da República para a Região Autónoma dos Açores, Vasco Joaquim Rocha Vieira.

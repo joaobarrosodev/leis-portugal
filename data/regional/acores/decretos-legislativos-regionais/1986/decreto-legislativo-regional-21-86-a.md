@@ -46,36 +46,51 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/21-1986-222235
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1986-10-27T00:00:00Z'
+  retrieved_at: '2026-10-23T15:17:22Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 4064385edc04f48249c78d32bf77bea7cf0e194beb5d9f81de6de84402b30b82
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 3272ae1a287ed5f5262db300311150d9b7f54bf5e55b7d9fae3f8c2cb7843bb6
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:17:22Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
-relationships: []
+subjects:
+- Açores
+- Apoio ao Investimento
+- Zona Tributária Privilegiada
+relationships:
+- type: cites
+  target: pt:dre:169661:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:396558:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:601113:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:17:22Z'
   warnings: []
   errors: []
 ---
@@ -94,7 +109,7 @@ Assim:
 
 A Assembleia Regional dos Açores, nos termos da alínea c) do artigo 26.º do Estatuto Político-Administrativo da Região e da alínea a) do artigo 229.º da Constituição, aprovou o seguinte:
 
-###### Artigo 1.º - 1 - As empresas que venham a ser instaladas na zona franca de Santa Maria poderão beneficiar dos seguintes incentivos financeiros:
+Artigo 1.º - 1 - As empresas que venham a ser instaladas na zona franca de Santa Maria poderão beneficiar dos seguintes incentivos financeiros:
 
 a) Até 100% do custo de formação profissional dos trabalhadores nacionais, residentes na Região Autónoma dos Açores, que se encontrem ao seu serviço;
 
@@ -106,7 +121,7 @@ d) Até 50% dos custos de aquisição de equipamento e maquinaria novos necessá
 
 2 - Os incentivos previstos no número anterior poderão ser atribuídos sob a forma de subsídios reembolsáveis ou de fundo perdido.
 
-###### Art. 2.º A atribuição dos incentivos previstos no artigo anterior será feita em regime contratual, devendo atender-se na respectiva concessão, segundo prioridades a regulamentar e que terão em conta algum dos seguintes critérios:
+Art. 2.º A atribuição dos incentivos previstos no artigo anterior será feita em regime contratual, devendo atender-se na respectiva concessão, segundo prioridades a regulamentar e que terão em conta algum dos seguintes critérios:
 
 Formação de emprego;
 
@@ -124,16 +139,16 @@ Prioridade sectorial;
 
 Criação de actividades subsidiárias fora da zona franca.
 
-###### Art. 3.º Os incentivos previstos no artigo 1.º e a ponderação dos critérios enunciados no artigo 2.º serão objecto de regulamentação governamental, tendo em conta os objectivos definidos nos planos anual e de médio prazo.
+Art. 3.º Os incentivos previstos no artigo 1.º e a ponderação dos critérios enunciados no artigo 2.º serão objecto de regulamentação governamental, tendo em conta os objectivos definidos nos planos anual e de médio prazo.
 
-###### Art. 4.º A atribuição dos incentivos estabelecidos no presente diploma será feita por resolução do Conselho do Governo, mediante proposta do departamento regional com tutela sobre o serviço que administrar a zona franca.
+Art. 4.º A atribuição dos incentivos estabelecidos no presente diploma será feita por resolução do Conselho do Governo, mediante proposta do departamento regional com tutela sobre o serviço que administrar a zona franca.
 
 Aprovado pela Assembleia Regional dos Açores, na Horta, em 3 de Setembro de 1986.
 
-**O Presidente da Assembleia Regional, José Guilherme Reis Leite.**
+O Presidente da Assembleia Regional, José Guilherme Reis Leite.
 
-**Assinado em Angra do Heroísmo em 7 de Outubro de 1986.**
+Assinado em Angra do Heroísmo em 7 de Outubro de 1986.
 
-**Publique-se.**
+Publique-se.
 
-**O Ministro da República para a Região Autónoma dos Açores, Vasco J. Rocha Vieira.**
+O Ministro da República para a Região Autónoma dos Açores, Vasco J. Rocha Vieira.

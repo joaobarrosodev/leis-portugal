@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2006/06/113b00/41734267.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/567/2006/06/12/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/567-2006-346716
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2009-07-31T00:00:00Z'
+  retrieved_at: '2026-10-23T15:14:54Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: f9025565460394a91e9cc4e72ee06b4b19ba9fb6868855e1d67dc5ff74714f46
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 2859b7ed93605ea20d4af32b3b706f327869cc02ffb81a6b838e9b19bf6e0d2e
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:14:54Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,24 +66,24 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
+- Apoio Domiciliário
 - Assistência Médica
 - Assistência Medicamentosa
 - Consulta Médica
-- Internamento Hospitalar
 - Cuidados de Enfermagem
-- Serviço Nacional de Saúde
+- Cuidados Médicos
+- Estabelecimento Hospitalar
 - Instituto Nacional de Sangue
+- Instituto Nacional de Saúde Dr Ricardo Jorge
+- Internamento Hospitalar
 - Lista
 - Meios Complementares de Diagnóstico
 - Preço
 - Prestação de Serviços
-- Instituto Nacional de Saúde Dr Ricardo Jorge
-- Cuidados Médicos
-- Apoio Domiciliário
 - Regime Ambulatório
 - Regulamento
-- Estabelecimento Hospitalar
 - Serviço de Prevenção e Tratamento da Toxicodependência
+- Serviço Nacional de Saúde
 - Subsistemas de Saúde
 - Tabela de Cuidados de Saúde
 relationships:
@@ -91,6 +91,25 @@ relationships:
   target: pt:dre:242066:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:154190:por
+  label: "Alterados os arts. 2º, 3º, 7º, 9º, 10º, 14º e 16º do anexo I, alterados os anexos II e III e republicados os anexos\
+    \ I, II e III, pela PORT.110-A/2007.23.01.2007.MS, DR.IS [16-Supl] de 23.01.2007\007\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/110-a-2007-154190
+  date: '2007-01-23'
+- type: amended_by
+  target: pt:dre:395285:por
+  label: "Alterados os anexos ii e iii do presente diploma, na redacção (com republicação) da Port 110-A/2007, de 23-Jan,\
+    \ pela PORT.781-A/2007.16.07.2007.MS, DR.IS [135]Supl de 16.07.2007\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/781-a-2007-395285
+  date: '2007-07-16'
+- type: amended_by
+  target: pt:dre:242066:por
+  label: "Dada nova redacção ao nº 2º da Port 132/2009 de 30-Jan [introduzindo a revogação do presente diploma, com a redacção\
+    \ introduzida pelas Port 110-A/2007 de 23-Jan, e 781-A/2007 de 16-Jul] pela PORT.839-A/2009.31.07.2009.MS, DR.IS [147-Supl]\
+    \ de 31.07.2009\09\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/839-a-2009-242066
+  date: '2009-07-31'
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/11/1993/01/15/p/dre
   label: null
@@ -103,16 +122,28 @@ relationships:
   target: eli:http://data.dre.pt/eli/port/281/2005/03/17/p/dre
   label: null
   source: http://data.dre.pt/eli/port/281/2005/03/17/p/dre
+- type: cites
+  target: pt:dre:200421:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:574337:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:586006:por
+  label: null
+  source: null
 article_structure:
   article_count: 18
   section_count: 4
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:14:54Z'
   warnings: []
   errors: []
 ---
@@ -401,7 +432,7 @@ c) Hospitais do nível 1 - (euro) 50.
 
 3 - A facturação das prestações de saúde realizadas a doentes em regime ambulatório deve ser efectuada após a realização dos cuidados.
 
-## APÊNDICE
+APÊNDICE
 
 Grupos de hospitais para efeitos de facturação dos episódios da urgência
 
@@ -547,7 +578,7 @@ Hospital Distrital do Montijo;
 
 Hospital de Santa Luzia de Elvas.
 
-## ANEXO II — [([ver documento original](https://files.diariodarepublica.pt/1s/2006/06/113b00/41734267.pdf))](https://files.diariodarepublica.pt/1s/2006/06/113b00/41734267.pdf)
+## ANEXO II — [(ver documento original)](https://files.diariodarepublica.pt/1s/2006/06/113b00/41734267.pdf)
 
 ## ANEXO III — Tabelas de meios complementares de diagnóstico e terapêutica
 
@@ -559,4 +590,4 @@ Hospital de Santa Luzia de Elvas.
 
 4 - Os medicamentos de fornecimento obrigatório pelas farmácias dos hospitais aos doentes em regime ambulatório são facturados ao preço de custo.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2006/06/113b00/41734267.pdf))](https://files.diariodarepublica.pt/1s/2006/06/113b00/41734267.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2006/06/113b00/41734267.pdf)

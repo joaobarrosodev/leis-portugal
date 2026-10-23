@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/2s/2009/02/035000000/0693706950.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,45 +46,111 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/despacho-normativo/10-2009-3485639
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2012-04-10T00:00:00Z'
+  retrieved_at: '2026-10-23T15:07:08Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: cb2cf618ef37cba74881c230e6dc50c2fc85f7ff00385f8aec70309c6ae9730f
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 254741bad8dd4da4ba082e595c3cf1ab971052e224e105459662b64fd550d6df
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:07:08Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Avaliação de Conhecimentos
+- Ensino Básico
+- Ensino Secundário
+- JURI Nacional
+- JURI Nacional de Exames
+- Regulamento
+- Sistema Educativo
 relationships:
 - type: amended_by
   target: pt:dre:1089021:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:2224480:por
+  label: "Alterados a al. g) do nº 1.6, o nº 5.6, a al. g) do nº 10.4, os nºs 17, 18.3, 18.4, 18.5, 18.7, 19.1, 19.1.1 e 19.1.2,\
+    \ e os quadros I e II do Regulamento dos Exames do Ensino Básico; e, alterados os nºs 3.2, 16.5, 16.6, 20.1.2, 20.1.3,\
+    \ 20.5, 20.6, 20.7, 33.1, 33.4, 36.2.1 e 36.5, e os quadros I e IV do Regulamento dos Exames do Ensino Secundário, constantes,\
+    \ respectivamente, dos anexos II e III do DN 19/2008 de 19-Mar, com a redacção do presente diploma, pelo DN.7/2010.16.03.2010.SEAED-ME,\
+    \ DR.IIS [52] de 16.03.2010, que os republicou na redacção actual\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/despacho-normativo/7-2010-2224480
+  date: '2010-03-16'
+- type: amended_by
+  target: pt:dre:965091:por
+  label: "Alterados os nºs 1.6, 10.3, 10.4, 18.5, 19.1.2 do Regulamento dos Exames do Ensino Básico constantes do anexo ii,\
+    \ bem como os nºs 33.2 e 36.2.1, constantes do Regulamento dos Exames do Ensino Secundário, constantes do anexo iii, e\
+    \ os quadros i e ii anexos ao anexo ii, assim como os quadros i e iv constantes do anexo iii, todos do DN 19/2008, 19-Mar,\
+    \ na redacção do presente despacho, pelo DN.7/2011.05.04.2011.SEAED-ME, DR.IIS [67] de 05.04.2011\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/despacho-normativo/7-2011-965091
+  date: '2011-04-05'
+- type: cites
+  target: pt:dre:210801:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:338986:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:386871:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:386872:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:432450:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:551873:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:618310:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:641762:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:652897:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:1089021:por
+  label: "Revogado o DN 19/2008 de 19-mar, na redacção do presente diploma, pelo DN.6/2012.10.04.2012.SEEBS-MECI, DR.IIS [71]\
+    \ de 10.04.2012\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/despacho-normativo/6-2012-1089021
+  date: '2012-04-10'
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:07:08Z'
   warnings: []
   errors: []
 ---
 
-# Despacho Normativo n.º 10/2009
+# Despacho normativo n.º 10/2009
 
 O despacho normativo n.º 19/2008, de 19 de Março, veio aprovar os Regulamentos do Júri Nacional de Exames e dos Exames dos Ensinos Básico e Secundário. Estando no presente ano lectivo estabilizado o currículo destes níveis de ensino, verifica-se ser necessário actualizar apenas algumas das disposições do acima referido despacho normativo.
 
@@ -262,7 +328,7 @@ g) Tenham iniciado o ano lectivo com 15 anos de idade, no ensino básico, e tenh
 
 Exames nacionais (*) de Língua Portuguesa e de Matemática do 3.º ciclo do ensino básico
 
-[([ver documento original](https://files.diariodarepublica.pt/2s/2009/02/035000000/0693706950.pdf))](https://files.diariodarepublica.pt/2s/2009/02/035000000/0693706950.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/2s/2009/02/035000000/0693706950.pdf)
 
 (*) Todos os exames têm tolerância de trinta minutos.
 
@@ -488,19 +554,19 @@ Exames de equivalência à frequência
 
 A) Componente de formação geral
 
-[([ver documento original](https://files.diariodarepublica.pt/2s/2009/02/035000000/0693706950.pdf))](https://files.diariodarepublica.pt/2s/2009/02/035000000/0693706950.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/2s/2009/02/035000000/0693706950.pdf)
 
 B) Componente de formação específica
 
-[([ver documento original](https://files.diariodarepublica.pt/2s/2009/02/035000000/0693706950.pdf))](https://files.diariodarepublica.pt/2s/2009/02/035000000/0693706950.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/2s/2009/02/035000000/0693706950.pdf)
 
 C) Componente de formação técnica dos cursos gerais (exame no final de cada bloco/ano)
 
-[([ver documento original](https://files.diariodarepublica.pt/2s/2009/02/035000000/0693706950.pdf))](https://files.diariodarepublica.pt/2s/2009/02/035000000/0693706950.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/2s/2009/02/035000000/0693706950.pdf)
 
 D) Componente de formação técnica dos cursos tecnológicos
 
-[([ver documento original](https://files.diariodarepublica.pt/2s/2009/02/035000000/0693706950.pdf))](https://files.diariodarepublica.pt/2s/2009/02/035000000/0693706950.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/2s/2009/02/035000000/0693706950.pdf)
 
 QUADRO IV
 
@@ -512,19 +578,19 @@ Provas de equivalência à frequência - tipos de provas a realizar em cada disc
 
 A) Cursos científico-humanísticos
 
-[([ver documento original](https://files.diariodarepublica.pt/2s/2009/02/035000000/0693706950.pdf))](https://files.diariodarepublica.pt/2s/2009/02/035000000/0693706950.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/2s/2009/02/035000000/0693706950.pdf)
 
 Nota. - A componente prática das provas escritas com componente prática tem uma tolerância de trinta minutos.
 
 B) Cursos tecnológicos
 
-[([ver documento original](https://files.diariodarepublica.pt/2s/2009/02/035000000/0693706950.pdf))](https://files.diariodarepublica.pt/2s/2009/02/035000000/0693706950.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/2s/2009/02/035000000/0693706950.pdf)
 
 Nota. - A componente prática das provas escritas com componente prática tem uma tolerância de trinta minutos.
 
 C) Cursos de ensino artístico especializado
 
-[([ver documento original](https://files.diariodarepublica.pt/2s/2009/02/035000000/0693706950.pdf))](https://files.diariodarepublica.pt/2s/2009/02/035000000/0693706950.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/2s/2009/02/035000000/0693706950.pdf)
 
 QUADRO V
 
@@ -534,7 +600,7 @@ Planos curriculares aprovados pelo [Decreto-Lei n.º 74/2004](https://diariodare
 
 Prova escrita com componente prática - percentagens a atribuir à componente prática e à componente escrita
 
-[([ver documento original](https://files.diariodarepublica.pt/2s/2009/02/035000000/0693706950.pdf))](https://files.diariodarepublica.pt/2s/2009/02/035000000/0693706950.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/2s/2009/02/035000000/0693706950.pdf)
 
 QUADRO VI
 
@@ -544,7 +610,7 @@ Planos curriculares aprovados pelo [Decreto-Lei n.º 74/2004](https://diariodare
 
 Provas de equivalência à frequência: júri nas provas P e EP
 
-[([ver documento original](https://files.diariodarepublica.pt/2s/2009/02/035000000/0693706950.pdf))](https://files.diariodarepublica.pt/2s/2009/02/035000000/0693706950.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/2s/2009/02/035000000/0693706950.pdf)
 
 QUADRO VII
 
@@ -554,6 +620,6 @@ Planos de estudo aprovados pelo [Decreto-Lei n.º 74/2004](https://diariodarepub
 
 Exames finais nacionais*: tipo de prova a realizar em cada disciplina e respectiva duração
 
-[([ver documento original](https://files.diariodarepublica.pt/2s/2009/02/035000000/0693706950.pdf))](https://files.diariodarepublica.pt/2s/2009/02/035000000/0693706950.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/2s/2009/02/035000000/0693706950.pdf)
 
 10 de Fevereiro de 2009. - O Secretário de Estado da Educação, Valter Victorino Lemos.

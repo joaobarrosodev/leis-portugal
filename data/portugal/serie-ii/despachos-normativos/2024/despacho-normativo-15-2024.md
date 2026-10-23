@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/2s/2024/10/206000000/0019300225.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -46,18 +46,18 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/despacho-normativo/15-2024-892306461
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2026-02-11T00:00:00Z'
+  retrieved_at: '2026-10-23T15:09:05Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: aceb904055a647debac2216d5531a9490536805a86195285ab4b261950f33eff
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 65bc62473cf9544bc84d9bc9ef66aa3b1c1862d327177568dc12b07080dee204
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:09:05Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -70,16 +70,28 @@ relationships:
   target: pt:dre:1045579708:por
   label: Última alteração registada na importação inicial
   source: null
+- type: cites
+  target: pt:dre:3639904:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:640339:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:692654:por
+  label: null
+  source: null
 article_structure:
   article_count: 77
-  section_count: 28
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  section_count: 25
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:09:05Z'
   warnings: []
   errors: []
 ---
@@ -104,7 +116,7 @@ Nos termos da alínea c) do n.º 2 do artigo 27.º e do n.º 1 do artigo 69.º d
 
 ## ANEXO — Alteração aos Estatutos do Instituto Politécnico de Santarém
 
-## TÍTULO I
+TÍTULO I
 
 DISPOSIÇÕES GERAIS
 
@@ -236,7 +248,7 @@ e) A interdição da frequência da instituição até cinco anos.
 
 3 - O IPSantarém adota como dia do Instituto o dia 6 de junho.
 
-## TÍTULO II
+TÍTULO II
 
 ESTRUTURA
 
@@ -1430,7 +1442,7 @@ iii) Coordenador de área, de gabinete ou de núcleo, que correspondem a cargo d
 
 5 - O disposto no presente artigo carece de densificação, através de estatutos e regulamentos, a aprovar pelo presidente do IPSantarém, sob proposta, respetivamente, dos diretores das Escolas, do administrador do Instituto e do dirigente dos SAS.
 
-## TÍTULO III
+TÍTULO III
 
 DISPOSIÇÕES FINAIS E TRANSITÓRIAS
 
@@ -1475,3 +1487,5 @@ O IPSantarém e as suas unidades orgânicas são isentos, nos termos da lei, de 
 ###### Artigo 77.º — Entrada em vigor
 
 Os presentes estatutos entram em vigor no dia seguinte ao da sua publicação no Diário da República.
+
+318241908

@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/2s/2014/12/247000000/3233832338.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -46,36 +46,52 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/resolucao/38-2014-65984016
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2014-12-23T00:00:00Z'
+  retrieved_at: '2026-10-23T15:15:28Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: b32183bb112a17f65a495cf04bed203c24e3aa8ffc46d1284368d6304572da5d
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 944ae3dca451fa331b73c35b4dfc34b9cb739958c645552df974b45b8b1b8d5a
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:15:28Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
-relationships: []
+subjects:
+- Fiscalização
+- Madeira.região Autónoma
+- Prestação de Contas
+- Tribunal de Contas
+relationships:
+- type: cites
+  target: pt:dre:1273704:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:193663:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:3183835:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:15:28Z'
   warnings: []
   errors: []
 ---
@@ -114,6 +130,8 @@ Relação nominal dos responsáveis, com indicações do período a que se repor
 
 7 - Dispensar ainda da prestação de contas as entidades referidas nas alíneas a) e g) do n.º 2 do artigo 2.º da [Lei n.º 98/97](https://diariodarepublica.pt/dr/detalhe/lei/98-1997-193663), cujo valor anual, de receita ou de despesa, seja inferior a 2.500.000,00(euro).
 
-**Publique-se na 2.ª série do Diário da República e na 2.ª série do Jornal Oficial da Região Autónoma da Madeira, nos termos do artigo 9.º, n.º 2, alínea e), e n.º 3, da referida [Lei n.º 98/97](https://diariodarepublica.pt/dr/detalhe/lei/98-1997-193663).**
+Publique-se na 2.ª série do Diário da República e na 2.ª série do Jornal Oficial da Região Autónoma da Madeira, nos termos do artigo 9.º, n.º 2, alínea e), e n.º 3, da referida [Lei n.º 98/97](https://diariodarepublica.pt/dr/detalhe/lei/98-1997-193663).
 
 15 de dezembro de 2014. - O Conselheiro Presidente, Guilherme d'Oliveira Martins.
+
+208306001

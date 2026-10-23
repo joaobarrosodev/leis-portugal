@@ -21,7 +21,7 @@ publication:
   reference: Diário da República n.º 17/2008, 1º Suplemento, Série II de 2008-01-24
   number: '17'
   series: II
-  supplement: 1º Suplemento
+  supplement: null
   pages: 3610-(2) a 3610-(8)
   pdf_url: https://files.diariodarepublica.pt/2s/2008/01/017000001/0000200008.pdf
 entry_into_force_dates: []
@@ -48,30 +48,96 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/despacho-normativo/4-a-2008-3062988
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2013-05-24T00:00:00Z'
+  retrieved_at: '2026-10-23T15:06:55Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: bc5aa83975631670b756c3ba252ac218e39c537dd741b89a067fef4f80118f40
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 786583e3c01c47a14398d07763dab781f90400b5c1f5bf2a7ab11c163b59e7b6
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:06:55Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Administração Pública
+- Ajuda Comunitária
+- Ajudas de Custo
+- Bolsa de Formação
+- Bolsa de Formação Profissional
+- Feader
+- FEDER
+- Formação Profissional
+- Formador
+- FSE
+- Função Pública
+- Gestão Administrativa
+- Mediador
+- Pessoal Administrativo
+- Pessoal Dirigente
+- Pessoal Técnico
+- QCA III
+- Subsídio de Alojamento
+- Subsídio de Refeição
+- Subsídio de Transporte
 relationships:
 - type: amended_by
   target: pt:dre:1173337:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:2123972:por
+  label: "Alterados os arts. 3º, 6º, 8º, 9º, 12º, 14º, 16º, 17º, 19º e 21.º e o anexo I do presente diploma e republicado\
+    \ pelo DN.12/2009.17.03.2009.MAOTDR, DR.IIS [53] de 17.03.2009\0009\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/despacho-normativo/12-2009-2123972
+  date: '2009-03-17'
+- type: amended_by
+  target: pt:dre:2088047:por
+  label: "Alterado o art. 17º do presente diploma, na redacção - com republicação - do DN 12/2009, de 17-Mar, pelo DN.12/2010.21.05.2010.MEID,\
+    \ DR.IIS [99] de 21.05.2010\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/despacho-normativo/12-2010-2088047
+  date: '2010-05-21'
+- type: amended_by
+  target: pt:dre:1332327:por
+  label: "Alterados os arts. 1.º, 6.º ( na redacção do DN 12/2009, de 17-Mar ), 7.º, 8.º, 9.º ( renumerado ), 12.º, 16.º (\
+    \ os quatro últimos na redacção do DN 12/2009, de 17-Mar ), 17.º ( na redacção do DN 12/2009, de 17-Mar e do DN 12/2010,\
+    \ de 21-Mai ) , 20.º, 21.º ( renumerado, na redacção do DN 12/2009, de 17-Mar ) , 27.º e o nº 1 do anexo I ( na redacção\
+    \ do DN 12/2009, de 17-Mar ) e revogados os n.os 2, 5, 6 e 11 do art. 12.º, o n.º 4 do art. 20.º, o art. 24.º e o anexo\
+    \ ii do presente DN, republicado pelo DN.2/2011.11.02.2011.MEID, DR.IIS [30] de 11.02.2011\01\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/despacho-normativo/2-2011-1332327
+  date: '2011-02-11'
+- type: amended_by
+  target: pt:dre:2055562:por
+  label: "Alterados os art.s 1º (na redação do DN 2/2011, de 11-fev), 3º (na redação do DN 12/2009, de 17-mar), 4º, 7º (o\
+    \ último na redação do DN 2/2011, de 11-fev), 8º, 9º (ambos na redação do DN 12/2009, de 17-mar, e do DN 2/2011, de 11-fev),\
+    \ 11º, 12º, 16º (os dois últimos na redação do DN 12/2009, de 17-mar, e do DN 2/2011, de 11-fev) 17º (na redação do DN\
+    \ 12/2009, de 17-mar, do DN 12/2010, de 21-maio, e do DN 2/2011, de 11-fev), 20º (na redação do DN 2/2011, de 11-fev),\
+    \ 21º (na redação do DN 12/2009, de 17-mar, e do DN 2/2011, de 11-fev), 22º, 23º, 25º e 27º (o último na redação do DN\
+    \ 2/2011, de 11-fev) bem como o anexo I (na redação do DN 12/2009, de 17-mar, e do DN 2/2011, de 11-fev) revogados o nº\
+    \ 2 do art. 8º, nº 5 do art. 9º, nº 9 do art. 12º e nº 9 do art. 17º e republicado, pelo DN.12/2012.21.05.2012.MEE, DR.IIS\
+    \ [98] de 21.05.2012\02\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/despacho-normativo/12-2012-2055562
+  date: '2012-05-21'
+- type: amended_by
+  target: pt:dre:2877021:por
+  label: "Alterado o art. 12º (na redação do DN 12/2009, de 17-mar, do DN 2/2011, de 11-fev e do DN 12/2012, de 21-maio) do\
+    \ presente diploma, pelo DN.16/2012.02.08.2012.MEE, DR.IIS [149] de 02.08.2012, republicado pelo DN 12/2012, de 21-maio\0\
+    \0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/despacho-normativo/16-2012-2877021
+  date: '2012-08-02'
+- type: amended_by
+  target: pt:dre:1173337:por
+  label: "Alterado o art. 3.º (na redação do DN 12/2009, de 17-mar e do DN 12/2012, de 21-mai) e aditados os arts. 9º-A e\
+    \ 14º-A ao presente diploma, pelo DN.6/2013.24.05.2013.MEE, DR.IIS [100] de 24.05.2013\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/despacho-normativo/6-2013-1173337
+  date: '2013-05-24'
 - type: cites
   target: celex:31985D0368
   label: null
@@ -88,21 +154,33 @@ relationships:
   target: celex:32006R1081
   label: null
   source: null
+- type: cites
+  target: pt:dre:197489:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:426483:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:562176:por
+  label: null
+  source: null
 article_structure:
   article_count: 30
   section_count: 6
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:06:55Z'
   warnings: []
   errors: []
 ---
 
-# Despacho Normativo n.º 4-A/2008
+# Despacho normativo n.º 4-A/2008
 
 O [Decreto Regulamentar n.º 84-A/2007](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/84-a-2007-426483), de 10 de Dezembro, veio introduzir alterações no quadro normativo que enquadra a gestão do Fundo Social Europeu (FSE) no âmbito do período de programação 2007-2013.
 
@@ -502,11 +580,11 @@ O presente diploma produz efeitos a partir da data de entrada em vigor do [Decre
 
 I - Valores máximos elegíveis das bolsas para jovens que frequentem acções de qualificação inicial de dupla certificação:
 
-[([ver documento original](https://files.diariodarepublica.pt/2s/2008/01/017000001/0000200008.pdf))](https://files.diariodarepublica.pt/2s/2008/01/017000001/0000200008.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/2s/2008/01/017000001/0000200008.pdf)
 
 II - Custos máximos dos projectos formativos na base real:
 
-[([ver documento original](https://files.diariodarepublica.pt/2s/2008/01/017000001/0000200008.pdf))](https://files.diariodarepublica.pt/2s/2008/01/017000001/0000200008.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/2s/2008/01/017000001/0000200008.pdf)
 
 III - Outras Regras de Elegibilidade:
 

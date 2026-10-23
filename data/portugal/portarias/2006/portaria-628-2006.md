@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2006/06/120b00/44844501.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/628/2006/06/23/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/628-2006-359492
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2006-06-23T00:00:00Z'
+  retrieved_at: '2026-10-23T15:15:17Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: c40654ed135d7081d9801c288ea3dc25cd6a022c37ebbe7a7191afd32528ea47
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 072cdc67f469b2c77df5f10487ff201498a227738088d0255860e9b7512e2429
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:15:17Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,8 +66,8 @@ reuse:
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
 - Arquivo
-- Instituto Portuário e dos Transportes Marítimos
 - Conservação de Documentos
+- Instituto Portuário e dos Transportes Marítimos
 - Microfilmagem
 - Prazo de Conservação
 relationships:
@@ -75,16 +75,30 @@ relationships:
   target: eli:http://data.dre.pt/eli/dec-lei/121/1992/07/02/p/dre
   label: null
   source: http://data.dre.pt/eli/dec-lei/121/1992/07/02/p/dre
+- type: cites
+  target: pt:dre:291844:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:356515:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:166569090:por
+  label: Revogada, a partir de 06.08.2021, pelo(a) Portaria n.º 139/2021 - Diário da República n.º 130/2021, Série I de 2021-07-07
+    nos termos do seu art. 2.º
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/139-2021-166569090
+  date: '2021-07-07'
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:15:17Z'
   warnings: []
   errors: []
 ---
@@ -109,7 +123,7 @@ Manda o Governo, pelos Ministros das Obras Públicas, Transportes e Comunicaçõ
 
 Em 18 de Maio de 2006.
 
-**O Ministro das Obras Públicas, Transportes e Comunicações, Mário Lino Soares Correia. - A Ministra da Cultura, Maria Isabel da Silva Pires de Lima.**
+O Ministro das Obras Públicas, Transportes e Comunicações, Mário Lino Soares Correia. - A Ministra da Cultura, Maria Isabel da Silva Pires de Lima.
 
 REGULAMENTO ARQUIVÍSTICO DO INSTITUTO PORTUÁRIO E DOS TRANSPORTES MARÍTIMOS, I. P.
 
@@ -255,7 +269,7 @@ Compete ao IAN/TT a inspecção sobre a execução do disposto no presente Regul
 
 ## ANEXO I — Tabela de selecção de documentos
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2006/06/120b00/44844501.pdf))](https://files.diariodarepublica.pt/1s/2006/06/120b00/44844501.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2006/06/120b00/44844501.pdf)
 
 Siglas:
 
@@ -309,6 +323,6 @@ UE - União Europeia.
 
 ## ANEXO II — Auto de entrega e guia de remessa
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2006/06/120b00/44844501.pdf))](https://files.diariodarepublica.pt/1s/2006/06/120b00/44844501.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2006/06/120b00/44844501.pdf)
 
-## ANEXO III — [([ver documento original](https://files.diariodarepublica.pt/1s/2006/06/120b00/44844501.pdf))](https://files.diariodarepublica.pt/1s/2006/06/120b00/44844501.pdf)
+## ANEXO III — [(ver documento original)](https://files.diariodarepublica.pt/1s/2006/06/120b00/44844501.pdf)

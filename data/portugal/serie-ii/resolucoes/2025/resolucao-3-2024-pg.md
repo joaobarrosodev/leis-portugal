@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/2s/2025/01/002000000/0023000234.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -46,40 +46,65 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/resolucao/3-2025-901997664
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2025-04-16T00:00:00Z'
+  retrieved_at: '2026-10-23T15:16:23Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 78dc6e57ad10667526f8f31cbba792bb11da327072ec3329cd859a5cdcb97db5
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 5e297583ca5b9be6c9e342f908daf4eda69bd858c80478d4ce1a3b192c918ea2
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:16:23Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Aquisição de Bens e Serviços
+- Autarquia Local
+- Contrato de Construção
+- Delegação de Competências
+- Fiscalização
+- Instrução Processual
+- Plataforma Eletrónica
+- Tribunal de Contas
+- Visto do Tribunal de Contas
 relationships:
 - type: amended_by
   target: pt:dre:915241660:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amends
+  target: pt:numero:resolucao:3/2022
+  label: Altera os artigos 3.º, 14.º, 15.º 19.º, 29.º, 30.º, 31.º e 34.º e adita o artigo 3.º -A às Instruções 1/2022, aprovadas
+    no ANEXO I, bem como altera as Cláusulas 7.ª, 12.ª, 24.ª e 26.ª das Condições Gerais de Utilização da Plataforma eContas
+    do Tribunal de Contas, em sede de Fiscalização Prévia e Concomitante, aprovadas no ANEXO II, ambos os anexos da Resolução
+    n.º 3/2022-PG, de 8 de abril, Diário da República n.º 70/2022, Série II
+  source: null
+  date: '2022-04-08'
+- type: cites
+  target: pt:dre:114696642:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:193663:por
+  label: null
+  source: null
 article_structure:
   article_count: 9
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:16:23Z'
   warnings: []
   errors: []
 ---
@@ -285,3 +310,5 @@ Cláusula 26.ª
 5 - A versão consolidada das Instruções 1/2022, na redação que lhe foi conferida pela presente Resolução estará disponível no sítio do Tribunal de Contas na Internet.
 
 12 de dezembro de 2024. - A Presidente, Filipa Urbano Calvão.
+
+318506584

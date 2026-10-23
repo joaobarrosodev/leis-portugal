@@ -1,7 +1,7 @@
 ---
 schema_version: '1.0'
 id: pt:dre:3222896:por
-title: Resolução n.º 60/2000(2.ªsérie)
+title: Resolução n.º 60/2000 (2.ª série)
 short_title: null
 summary: null
 jurisdiction: portugal
@@ -46,41 +46,68 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/resolucao/60-2000-3222896
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2000-05-29T00:00:00Z'
+  retrieved_at: '2026-10-23T15:10:09Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 63f58b7d5f1f3925b8d407a7bf86e802d40ee1209d7ab461ffee1b319ca9240a
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 89c4c63e01c3b26849a67f0e6b7e1e8fa6b056489db014bbd9cb07b072c8adc9
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:10:09Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
-relationships: []
+subjects:
+- Comissão Nacional do EURO
+- Coordenador
+- Definição de Competências
+- Diretor Geral
+- EURO
+- Nomeação
+- Presidente
+relationships:
+- type: cites
+  target: pt:dre:196953:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:197117:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:391578:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:550586:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:677069:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:10:09Z'
   warnings: []
   errors: []
 ---
 
-# Resolução n.º 60/2000(2.ªsérie)
+# Resolução n.º 60/2000 (2.ª série)
 
 Resolução n.º 60/2000 (2.ª série). - Na sequência das propostas contidas no Livro Verde da Comissão Europeia sobre a introdução da moeda única, em que se recomendava que "a todos os níveis das administração públicas nacionais sejam instituídos grupos de trabalho incumbidos de analisar e planear as medidas legislativas e administrativas necessárias para garantir uma introdução harmoniosa da moeda única", foram criadas estruturas operacionais com vista à preparação atempada do sector financeiro e da Administração Pública para a transição para o euro.
 

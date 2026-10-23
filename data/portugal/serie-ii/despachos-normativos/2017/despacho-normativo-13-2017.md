@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/2s/2017/09/183000000/2076520781.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -46,40 +46,75 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/despacho-normativo/13-2017-108189384
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2021-06-16T00:00:00Z'
+  retrieved_at: '2026-10-23T15:08:15Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: f30275437bf7e263165c5e8beef92299ac6465ef2392d8392aa0ec6db3db40e5
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 84358a51f5280e3559842bc94f18e630e124a632fbb91b3f94079578c4b16518
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:08:15Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Ensino Superior
+- Estatuto
+- Homologação
+- Universidade do Minho
 relationships:
 - type: amended_by
   target: pt:dre:165201923:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:165201923:por
+  label: Homologadas as alterações aos Estatutos da Universidade do Minho, que são republicados, homologados pelo DN 14/2016
+    de 28-nov, na versão republicada pelo presente diploma, pelo(a) Despacho Normativo n.º 15/2021 - Diário da República n.º
+    115/2021, Série II de 2021-06-16
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/despacho-normativo/15-2021-165201923
+  date: '2021-06-16'
+- type: cites
+  target: pt:dre:105263349:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:355494:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:419197:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:618318:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:640339:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:73115727:por
+  label: null
+  source: null
 article_structure:
   article_count: 139
   section_count: 33
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:08:15Z'
   warnings: []
   errors: []
 ---
@@ -1278,7 +1313,7 @@ c) Por representantes do pessoal não docente e não investigador, até 10 %.
 
 ###### Artigo 87.º — Presidente da Unidade
 
-**O Presidente da Unidade é o órgão uninominal que superiormente dirige e representa a Unidade.**
+O Presidente da Unidade é o órgão uninominal que superiormente dirige e representa a Unidade.
 
 ###### Artigo 88.º — Competências do Presidente da Unidade
 
@@ -1969,3 +2004,5 @@ Os casos omissos e as dúvidas suscitados na aplicação dos presentes Estatutos
 ###### Artigo 139.º — Entrada em vigor dos Estatutos
 
 Os presentes Estatutos entram em vigor cinco dias após a sua publicação no Diário da República.
+
+310748655

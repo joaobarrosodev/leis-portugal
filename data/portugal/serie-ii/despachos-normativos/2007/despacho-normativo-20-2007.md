@@ -46,45 +46,111 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/despacho-normativo/20-2007-3506417
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2012-06-27T00:00:00Z'
+  retrieved_at: '2026-10-23T15:06:34Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 96df94f219d8409fb5a15381daa2e65a4f19d6448da9261ae4843a2d9b5cc6fa
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 4e75c05ba57ad333a4fb84aebcff184c87e86615ea2db7981c9f5a8e75fe8a87
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:06:34Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Apoio ao Investimento
+- Dotação Orçamental
+- Plano Estratégico Nacional de Turismo
+- Programa de Intervenção do Turismo
+- Projeto de Investimento
+- Regulamento
+- Turismo
 relationships:
 - type: amended_by
   target: pt:dre:3286468:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:1393989:por
+  label: "Aditado o nº 4 ao art. 8º do Regulamento da Linha de Apoio II - Eventos para a Projecção do Destino Portugal do\
+    \ Programa de Intervenção Turística (Anexo n.º 2), aprovado pelo presente despacho, pelo DN.9/2008.13.02.2008.SETU-MEI,\
+    \ DR.IIS [31] de 13.02.2008\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/despacho-normativo/9-2008-1393989
+  date: '2008-02-13'
+- type: amended_by
+  target: pt:dre:1871181:por
+  label: "Aditado o nº 5 ao art. 3.º do Regulamento da Linha de Apoio I - (anexo n.º 1), aprovado pelo presente despacho,\
+    \ bem como é aditado o nº 5 ao art. 8º e alterado o nº 1 do art. 12º e republicado o Regulamento da Linha de Apoio II\
+    \ (anexo n.º 2), do citado Regulamento, na redacção do DN 9/2008 de 13-Fev, pelo DN.49/2008.24.09.2008.SETU-MEI, DR.IIS\
+    \ [185] de 24.09.2008\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/despacho-normativo/49-2008-1871181
+  date: '2008-09-24'
+- type: amended_by
+  target: pt:dre:1503931:por
+  label: "Prorrogada até 2010, para efeitos de apresentação de candidaturas, a vigência das Linhas de Apoio I e II do PIT,\
+    \ distribuída pelos anos de execução do Programa a dotação orçamental do PIT fixada no n.º 3.1, do presente diploma, bem\
+    \ como alterados os arts. 1.º, 6.º, 9.º e 10.º e revogado o art. 21.º do Regulamento da Linha de Apoio I (anexo n.º 1),\
+    \ alterados os arts. 1.º, 6.º, 8.º (este na redacção do DN 9/2008, de 13-Fev e do DN 49/2008, de 24-Set) e 11.º (anterior\
+    \ 12.º) do Regulamento da Linha de Apoio II (anexo n.º 2) e republicados na íntegra os Regulamentos, pelo DN.30/2009.25.08.2009.SETU-MEI,\
+    \ DR.IIS [164] de 25.08.2009\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/despacho-normativo/30-2009-1503931
+  date: '2009-08-25'
+- type: amended_by
+  target: pt:dre:2502964:por
+  label: "Criada a Linha de Apoio III - Criação e Requalificação de Centros de Congressos (anexo), prorrogado até 2012, para\
+    \ efeitos de apresentação de candidaturas, a vigência das Linhas de Apoio I, II e III do PIT, distribui pelos anos de\
+    \ execução do Programa a dotação orçamental do PIT fixada no n.º 3.1 do presente diploma, bem como alterado o art. 1º\
+    \ do Regulamento da Linha de Apoio I ( na redacção do DN 30/2009, de 25-Ago) e alterado o art. 1º do Regulamento da Linha\
+    \ de Apoio II (na redacção do DN 30/2009, de 25-Ago), pelo DN.15/2010.17.06.2010.SETU-MEID, DR.IIS [116] de 17.06.2010\0\
+    \0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/despacho-normativo/15-2010-2502964
+  date: '2010-06-17'
+- type: amended_by
+  target: pt:dre:2832767:por
+  label: "Suspenso o prazo da apresentação de candidaturas à linha de apoio ii do Programa de Intervenção do Turismo (PIT)\
+    \ - «Eventos para a projecção do destino Portugal» -, estabelecido no art. 11.º do Regulamento da Linha de Apoio II do\
+    \ PIT, aprovado pelo presente diploma, na redacção do anexo n.º 2 do DN 30/2009, de 25-Ago, pelo DN.13/2011.12.09.2011.SET-MEE,\
+    \ DR.IIS [175] de 12.09.2011\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/despacho-normativo/13-2011-2832767
+  date: '2011-09-12'
+- type: amended_by
+  target: pt:dre:3286468:por
+  label: "Determinada a extinção da linha de apoio II Eventos para a Projecção do Destino Portugal do Programa de Intervenção\
+    \ Turística aprovada pelo presente despacho normativo, na redação do DN 9/2008, de 13-fev, DN 49/2008 de 24-set, DN 30/2009,\
+    \ de 25-ago, e DN 15/2010 de 17-jun, pelo DN.14/2012.27.06.2012.SET-MEE, DR.IIS [123] de 27.06.2012, que revoga todas\
+    \ as disposições correspondentes.\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/despacho-normativo/14-2012-3286468
+  date: '2012-06-27'
+- type: cites
+  target: pt:dre:520229:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:520987:por
+  label: null
+  source: null
 article_structure:
   article_count: 40
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:06:34Z'
   warnings: []
   errors: []
 ---
 
-# Despacho Normativo n.º 20/2007
+# Despacho normativo n.º 20/2007
 
 Através do presente diploma é criado o Programa de Intervenção do Turismo (PIT), que responde a dois imperativos da política definida para o sector do turismo. Por um lado, o Programa incentiva as intervenções prioritárias de interesse público que visem a qualificação da oferta em complemento do investimento empresarial. Por outro, o Programa estimula as opções de investimento público na actividade de organização e divulgação de eventos de grande dimensão que contribuam para a promoção da imagem de Portugal enquanto destino turístico.
 
@@ -250,7 +316,7 @@ Os incentivos a conceder revestem natureza não reembolsável e não são cumul�
 
 1 - Sem prejuízo do disposto na alínea c) do n.º 1 do artigo 6.º e no artigo seguinte, os incentivos a conceder aos projectos correspondem a uma percentagem do investimento elegível, determinada em função da respectiva localização e do mérito evidenciado, nos termos seguintes:
 
-[([ver documento original](https://files.diariodarepublica.pt/2s/2007/05/092000000/1256212567.pdf))](https://files.diariodarepublica.pt/2s/2007/05/092000000/1256212567.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/2s/2007/05/092000000/1256212567.pdf)
 
 2 - As taxas referidas no número anterior são acrescidas de uma majoração de 5 pontos percentuais se os projectos de investimento apresentarem alguma das despesas elegíveis enumeradas nas alíneas d) a f) e l) do n.º 1 do artigo 7.º, desde que essas despesas, consoante o caso, contribuam de forma significativa para a valorização do projecto em termos ambientais ou de inovação tecnológica e não decorram do cumprimento de obrigações de natureza legal.
 
@@ -380,7 +446,7 @@ No ano de 2007, podem ser objecto de candidatura projectos cuja execução se te
 
 Nos termos do n.º 3 do artigo 2.º, os pólos turísticos abrangem os seguintes municípios:
 
-[([ver documento original](https://files.diariodarepublica.pt/2s/2007/05/092000000/1256212567.pdf))](https://files.diariodarepublica.pt/2s/2007/05/092000000/1256212567.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/2s/2007/05/092000000/1256212567.pdf)
 
 ## ANEXO N.º 2 — Regulamento da Linha de Apoio II - Eventos para a Projecção do Destino Portugal do Programa de Intervenção Turística
 

@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/2s/2024/01/005000000/0004900114.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -46,18 +46,18 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/resolucao/3-2024-836161933
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2024-01-08T00:00:00Z'
+  retrieved_at: '2026-10-23T15:16:19Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 759fd538dc04f6286a67bf9ed10061a63ca5e7836dfa38581dcb1ef54fcd8d21
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: d0a099de0c6a6ab95665b753df791dc696e43930503241c4c099d3cccbd4fe89
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:16:19Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -65,17 +65,33 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects: []
-relationships: []
+relationships:
+- type: cites
+  target: pt:dre:193663:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:204865488:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:3647619:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:694226:por
+  label: null
+  source: null
 article_structure:
-  article_count: 224
-  section_count: 48
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  article_count: 168
+  section_count: 52
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:16:19Z'
   warnings: []
   errors: []
 ---
@@ -144,7 +160,9 @@ Juiz relator
 
 No âmbito das competências dos juízes relatores da 1.ª Secção cabem as genéricas de tramitação, de instrução e de decisão dos processos de fiscalização prévia e concomitante, que não se incluam nas previstas nos artigos 77.º, n.os 1, 2 e 3 da LOPTC.
 
-###### Artigo 109.º-A — Relato de auditoria
+Artigo 109.º-A
+
+Relato de auditoria
 
 1 - O resultado do trabalho da ação de fiscalização concomitante deve consubstanciar-se num relato de auditoria.
 
@@ -152,13 +170,17 @@ No âmbito das competências dos juízes relatores da 1.ª Secção cabem as gen
 
 3 - Antes de ser remetido para exercício do princípio do contraditório, o relato é enviado aos Juízes adjuntos para, querendo, se pronunciarem em cinco dias úteis.
 
-###### Artigo 110.º-A — Projeto de relatório de auditoria
+Artigo 110.º-A
+
+Projeto de relatório de auditoria
 
 1 - O texto dos relatórios de auditoria é fixado pelo Tribunal, em Subsecção, ou em Plenário da 1.ª Secção.
 
 2 - Quando haja lugar a aprovação do relatório em subsecção, os Juízes adjuntos são aqueles que já tiveram uma primeira intervenção no processo.
 
-###### Artigo 121.º-A — Relato de auditoria, anteprojeto, projeto e relatório de auditoria
+Artigo 121.º-A
+
+Relato de auditoria, anteprojeto, projeto e relatório de auditoria
 
 1 - Os resultados do trabalho dos auditores consubstanciam-se num relato de auditoria.
 
@@ -194,7 +216,9 @@ Os artigos 3.º, 4.º, 5.º, 12.º, 13.º, 14.º, 15.º, 16.º, 17.º, 18.º, 19
 
 3 - (Anterior n.º 2.)
 
-###### Artigo 4.º — [...]
+Artigo 4.º
+
+[...]
 
 1 - As sessões do Plenário Geral, da Comissão Permanente e da 1.ª, 2.ª e 3.ª Secções são secretariadas pelo Diretor-Geral ou pelo Subdiretor-Geral da sede que o substitui nas suas faltas e impedimentos, os quais podem intervir a solicitação do Presidente ou de qualquer Juiz para prestarem esclarecimentos sobre os assuntos inscritos na agenda.
 
@@ -204,7 +228,9 @@ Os artigos 3.º, 4.º, 5.º, 12.º, 13.º, 14.º, 15.º, 16.º, 17.º, 18.º, 19
 
 4 - [...]
 
-###### Artigo 5.º — [...]
+Artigo 5.º
+
+[...]
 
 1 - [...]
 
@@ -222,7 +248,9 @@ d) Permanência dos dirigentes por um número máximo de 3 comissões de serviç
 
 e) Não prejudicar a estabilidade e normal funcionamento dos Serviços de Apoio, designadamente assegurando-se que as alterações de Juiz Conselheiro da área e da equipa dirigente não sejam coincidentes.
 
-###### Artigo 12.º — Quadros Ético e Deontológico
+Artigo 12.º
+
+Quadros Ético e Deontológico
 
 1 - Os juízes e o pessoal dos Serviços de Apoio orientam-se pelos valores, princípios e requisitos previstos no Código de Ética da INTOSAI, na Carta Ética do Tribunal de Contas e, respetivamente, nos Códigos de Conduta dos Juízes Conselheiros do Tribunal de Contas e dos Serviços de Apoio do Tribunal de Contas.
 
@@ -240,11 +268,15 @@ b) Comissão de Ética dos Serviços de Apoio, que integra o Provedor de Ética.
 
 6 - As entidades que celebram contratos com o Tribunal de Contas e seus servi, quer para a realização de tarefas de apoio às suas funções de controlo quer para o fornecimento de obras, bens ou serviços, estão igualmente sujeitas ao respeito por princípios éticos consistentes com os valores institucionais acima referidos.
 
-###### Artigo 13.º — Estratégia de Comunicação
+Artigo 13.º
+
+Estratégia de Comunicação
 
 O Tribunal de Contas define uma estratégia de comunicação, adequada ao cumprimento do seu mandato, com observância dos princípios da transparência, da prestação de contas e da proteção de dados pessoais, designadamente através da divulgação do resultado dos seus relatórios, decisões e demais atos em tempo oportuno.
 
-###### Artigo 14.º — [...]
+Artigo 14.º
+
+[...]
 
 1 - Os atos do Tribunal são publicitados, depois de notificados ou comunicados aos interessados, quando a tal haja lugar, em conformidade com os princípios que informam a comunicação do Tribunal, exceto quando se delibere, por motivos ponderosos, a limitação do âmbito da publicitação.
 
@@ -252,7 +284,9 @@ O Tribunal de Contas define uma estratégia de comunicação, adequada ao cumpri
 
 3 - Cabe à Secretaria a responsabilidade de, no cumprimento das diretrizes do Tribunal, assegurar os procedimentos relativos à ocultação de dados pessoais, quando for caso disso.
 
-###### Artigo 15.º — [...]
+Artigo 15.º
+
+[...]
 
 [...]
 
@@ -260,13 +294,17 @@ a) A organização e a prestação das contas ao Tribunal de Contas;
 
 b) [...]
 
-###### Artigo 16.º — [...]
+Artigo 16.º
+
+[...]
 
 1 - As instruções a que se refere o artigo anterior, necessárias à concretização da competência do Tribunal de Certificação da Conta Geral do Estado, prevista no artigo 66.º, n.º 6, da Lei de Enquadramento Orçamental, podem elencar as matérias com relevância para o processo de consolidação, relativamente às quais é pertinente a existência de uma verificação específica, de modo a que a sua inclusão possa ser concretamente equacionada nos contratos de prestação de serviços que devam ser celebrados obrigatoriamente com os revisores oficiais de contas ou sociedades de revisores oficiais de contas ou auditores externos, nos termos dos Estatutos da Ordem dos Revisores Oficiais de Contas e das normas jurídicas estatutárias, contabilísticas e financeiras aplicáveis às diversas entidades contabilísticas em questão.
 
 2 - [...]
 
-###### Artigo 17.º — [...]
+Artigo 17.º
+
+[...]
 
 1 - O Tribunal de Contas dispõe de um sistema de informação e tecnologias integrado e interativo, com vista a garantir a desmaterialização, digitalização, automatização e transformação digital dos seus processos, incluindo a organização, instrução, tramitação e gestão dos mesmos em plataforma eletrónica e o reforço da utilização de ferramentas digitais nas atividades de fiscalização.
 
@@ -292,7 +330,9 @@ i) O cumprimento das disposições legais e regulamentares e das orientações d
 
 j) Um nível elevado de cibersegurança.
 
-###### Artigo 18.º — [...]
+Artigo 18.º
+
+[...]
 
 1 - O sistema de informação é regulamentado pelo Presidente tendo em conta as orientações gerais definidas pelo Plenário Geral, e deverá contemplar, designadamente:
 
@@ -306,7 +346,9 @@ d) [Anterior alínea e).]
 
 2 - A regulamentação deve garantir que os processos jurisdicionais de efetivação de responsabilidades financeiras inseridos no sistema de informação integrado e interativo, enquanto estiverem pendentes, apenas podem ser acedidos pelos juízes e pelos funcionários da Secretaria exclusivamente afetos ao apoio processual desse tipo de processos.
 
-###### Artigo 19.º — Acompanhamento do Sistema de Informação e Tecnologias
+Artigo 19.º
+
+Acompanhamento do Sistema de Informação e Tecnologias
 
 1 - O sistema de informação é acompanhado permanentemente por uma Comissão presidida por um Juiz Conselheiro eleito pelo Plenário Geral, para um mandato de 3 anos, por um Procurador-Geral Adjunto, pelos responsáveis pelos Departamento dos Sistemas e Tecnologias de Informação (DSTI) e Centro de Inovação, Tecnologia e Metodologias (CITM) e por um técnico dos Serviços de Apoio nomeado pelo Presidente.
 
@@ -330,7 +372,9 @@ g) [Anterior alínea h).]
 
 4 - A Comissão apresenta ao Plenário Geral anualmente um relatório da atividade desenvolvida.
 
-###### Artigo 21.º — [...]
+Artigo 21.º
+
+[...]
 
 1 - O Tribunal de Contas dispõe de um sistema de gestão da qualidade (SGQ), transversal às suas várias áreas de atuação, e adequado às orientações internacionais que, em termos de controlo de qualidade, são aplicáveis aos tribunais de contas e instituições congéneres, por forma a controlar e garantir a qualidade dos trabalhos desenvolvidos e a manter uma elevada reputação e credibilidade institucional.
 
@@ -346,7 +390,9 @@ d) Incorporação no SGQ dos elementos preconizados nas normas internacionais so
 
 3 - Na conceção e operacionalização do SGQ é ponderada a criação de uma comissão de garantia da qualidade, cuja constituição assegure a independência do acompanhamento e avaliação da qualidade dos trabalhos desenvolvidos no âmbito do mandato de controlo do Tribunal.
 
-###### Artigo 22.º — [...]
+Artigo 22.º
+
+[...]
 
 1 - [...]
 
@@ -364,7 +410,9 @@ e) [...]
 
 f) Outras normas e orientações técnicas, nomeadamente as aprovadas no âmbito da INTOSAI, da EUROSAI e da IFAC, ou no âmbito do Comité de Contacto dos Presidentes dos Tribunais de Contas e Auditores Gerais da União Europeia.
 
-###### Artigo 23.º — [...]
+Artigo 23.º
+
+[...]
 
 1 - Funciona no Tribunal uma Comissão de Normas de Auditoria (CNA), que é apoiada por um secretariado permanente, a constituir por despacho do Presidente, e pode ser assistida por grupos de trabalho especializados.
 
@@ -380,7 +428,9 @@ f) Outras normas e orientações técnicas, nomeadamente as aprovadas no âmbito
 
 7 - A Comissão de Normas de Auditoria elabora anualmente um relatório da atividade desenvolvida o qual deverá ser apresentado ao Plenário Geral.
 
-###### Artigo 24.º — Normas e manuais de Auditoria, de Verificação Interna de Contas e de outras ações de controlo
+Artigo 24.º
+
+Normas e manuais de Auditoria, de Verificação Interna de Contas e de outras ações de controlo
 
 1 - Para reforço da credibilidade, do profissionalismo, da transparência, da eficácia e do impacto da atividade de controlo do Tribunal e para o fortalecimento da independência da instituição, é adotada pelo Tribunal uma estratégia de permanente identificação, atualização e implementação das normas profissionais de auditoria, de verificação interna de contas ou outras, que se mostrem as melhores alinhadas com os mais elevados padrões de qualidade.
 
@@ -396,11 +446,15 @@ c) Os requisitos e procedimentos para consideração do trabalho de outros audit
 
 d) [Anterior alínea d) do n.º 1.]
 
-###### Artigo 25.º — [...]
+Artigo 25.º
+
+[...]
 
 Nos termos e para os efeitos do disposto no artigo 75.º, alínea g), da LOPTC, o Plenário Geral, sob proposta do Presidente, das Secções do Tribunal (na Sede e Regiões Autónomas) ou da CNA pode deliberar a aplicação das normas, dos manuais de auditoria e demais instrumentos de controlo e verificação, aprovada nos termos do artigo 78.º, n.º 1, alínea d), da LOPTC, às ações de fiscalização sucessiva e concomitante da responsabilidade da 1.ª Secção e das Secções Regionais.
 
-###### Artigo 26.º — [...]
+Artigo 26.º
+
+[...]
 
 1 - A tramitação processual, que segue o previsto na Lei de Organização e Processo do Tribunal de Contas, neste Regulamento e, subsidiariamente, no Código de Processo Civil, é efetuada eletronicamente, por regra, e decorre integrada no sistema de informação e tecnologias do Tribunal.
 
@@ -408,7 +462,9 @@ Nos termos e para os efeitos do disposto no artigo 75.º, alínea g), da LOPTC, 
 
 3 - (Anterior n.º 2.)
 
-###### Artigo 27.º — [...]
+Artigo 27.º
+
+[...]
 
 1 - Estão sujeitos a distribuição, nos termos previstos no n.º 3 do artigo 26.º do presente Regulamento, os seguintes processos e procedimentos:
 
@@ -440,13 +496,17 @@ e) As ações propostas e os recursos interpostos em que se requer a intervenç�
 
 3 - [...]
 
-###### Artigo 29.º — [...]
+Artigo 29.º
+
+[...]
 
 1 - Os recursos dos atos administrativos relativos ao concurso e nomeação dos Juízes são distribuídos, por sorteio, entre os Juízes da 1.ª e da 3.ª Secções.
 
 2 - Os recursos extraordinários para fixação de jurisprudência e os recursos dos atos administrativos relativos à disciplina dos Juízes são distribuídos, por sorteio, pelos Juízes da 1.ª e 3.ª Secções e Secções Regionais.
 
-###### Artigo 32.º — [...]
+Artigo 32.º
+
+[...]
 
 1 - (Anterior corpo do artigo.)
 
@@ -482,13 +542,17 @@ c) 2.ª Secção.
 
 7 - Quando não existir nenhum juiz da 3.ª Secção disponível, na escolha do relator é respeitada a ordem de preferência constante do número anterior e, sendo necessário, realizado sorteio nos termos do n.º 4 para designação do relator entre juízes da mesma alínea do n.º 6.
 
-###### Artigo 36.º — [...]
+Artigo 36.º
+
+[...]
 
 1 - Antes do início dos trabalhos há um período, designado por "antes da ordem do dia", para troca de impressões sobre matérias não constantes da agenda.
 
 2 - [...]
 
-###### Artigo 43.º — Projetos de decisão e deliberações em acórdãos
+Artigo 43.º
+
+Projetos de decisão e deliberações em acórdãos
 
 1 - [...]
 
@@ -498,13 +562,17 @@ c) 2.ª Secção.
 
 4 - [...]
 
-###### Artigo 44.º — [...]
+Artigo 44.º
+
+[...]
 
 1 - [...]
 
 2 - A discussão pública e a decisão dos projetos relativos a processos ou a relatórios é iniciada com as alegações do Ministério Público, caso esteja presente, seguindo-se apresentação do projeto final de acórdão ou do relatório pelo respetivo Juiz relator e a intervenção dos juízes adjuntos.
 
-###### Artigo 46.º — [...]
+Artigo 46.º
+
+[...]
 
 1 - [...]
 
@@ -524,7 +592,9 @@ c) 2.ª Secção.
 
 9 - Nos casos previstos no artigo 84.º, n.º 2, da LOPTC, em simultâneo com o envio do processo à sessão plenária para decisão, é determinada a notificação ao Ministério Público do teor dos relatórios com dúvidas de legalidade e das decisões tomadas em sessão diária de visto que tenham sido produzidos naquele processo, podendo aquele pronunciar-se por escrito antes da data da sessão da subsecção ou oralmente nesta data.
 
-###### Artigo 47.º — [...]
+Artigo 47.º
+
+[...]
 
 [...]
 
@@ -542,13 +612,17 @@ f) Aprovar orientações sobre outras necessidades de cada área de responsabili
 
 g) [...]
 
-###### Artigo 48.º — [...]
+Artigo 48.º
+
+[...]
 
 1 - [...]
 
 2 - (Revogado.)
 
-###### Artigo 51.º — [...]
+Artigo 51.º
+
+[...]
 
 [...]
 
@@ -584,7 +658,9 @@ o) [...]
 
 p) [...]
 
-###### Artigo 52.º — [...]
+Artigo 52.º
+
+[...]
 
 1 - Ao Juiz da área compete velar pela boa execução da sua componente do plano estratégico trienal e do programa anual de fiscalização, bem como sobre os resultados atingidos, e informar regularmente o Plenário da 2.ª Secção sobre esta execução.
 
@@ -592,13 +668,17 @@ p) [...]
 
 3 - Nenhum Juiz deve permanecer na mesma área de responsabilidade por período superior a seis anos, sem prejuízo, sendo caso disso, de completar o plano trienal que esteja em vigor.
 
-###### Artigo 53.º — [...]
+Artigo 53.º
+
+[...]
 
 1 - (Anterior corpo do artigo.)
 
 2 - Finda a substituição, o novo Juiz titular assume todos os trabalhos em curso na Área de Responsabilidade, com exceção dos relatos que já estejam em fase de audição ou contraditório, salvo se outra solução de consenso for estabelecida entre o juiz substituto e o novo Juiz da área.
 
-###### Artigo 61.º — [...]
+Artigo 61.º
+
+[...]
 
 1 - As subsecções são constituídas por um colégio de três Juízes, sendo um relator e adjuntos os Juízes seguintes na ordem de precedência, sem prejuízo do estabelecido no número seguinte.
 
@@ -608,7 +688,9 @@ p) [...]
 
 4 - [...]
 
-###### Artigo 63.º — [...]
+Artigo 63.º
+
+[...]
 
 1 - No caso de ausência ou falta do relator, o Presidente, a requerimento ou oficiosamente, pode decidir com fundamento em urgência ou perigo na demora que o processo seja concluso ao Juiz seguinte na ordem de precedência da Secção.
 
@@ -620,7 +702,9 @@ p) [...]
 
 5 - O hiato temporal entre a cessação de funções do antigo juiz e o início de funções do novo juiz da Secção aplicam-se as regras sobre ausência e falta de juízes.
 
-###### Artigo 65.º — [...]
+Artigo 65.º
+
+[...]
 
 1 - [...]
 
@@ -630,29 +714,39 @@ p) [...]
 
 4 - A agenda também é disponibilizada por via eletrónica ao Diretor-Geral e Subdiretores-Gerais da sede do Tribunal.
 
-###### Artigo 66.º — [...]
+Artigo 66.º
+
+[...]
 
 1 - Os julgamentos da 3.ª Secção em 1.ª instância realizam-se preferencialmente às quartas-feiras.
 
 2 - (Revogado.)
 
-###### Artigo 68.º — [...]
+Artigo 68.º
+
+[...]
 
 1 - No último dia útil de cada semana é afixada, nos lugares de estilo do Tribunal, e divulgada na intranet, a tabela da 3.ª Secção, relativa à sessão plenária e às audiências de julgamento em 1.ª Instância, para a semana seguinte.
 
 2 - [...]
 
-###### Artigo 69.º — [...]
+Artigo 69.º
+
+[...]
 
 1 - [...]
 
 2 - (Revogado.)
 
-###### Artigo 70.º — Assessores
+Artigo 70.º
+
+Assessores
 
 Para coadjuvar os juízes podem ser nomeados ou requisitados assessores, nos termos da lei e de regulamento a aprovar pelo Presidente do Tribunal donde conste, designadamente, a forma de recrutamento, a modalidade de relação jurídica de emprego público a adotar e respetivo período de duração, o número máximo a recrutar, bem como os requisitos de experiência, formação e conhecimentos adequados.
 
-###### Artigo 72.º — Coletivo
+Artigo 72.º
+
+Coletivo
 
 1 - O coletivo é constituído, nos termos do artigo 42.º da LOPTC, pelo Presidente do Tribunal de Contas, que preside, e pelos Juízes das Secções Regionais do Tribunal de Contas, com a presença do representante do Ministério Público.
 
@@ -660,7 +754,9 @@ Para coadjuvar os juízes podem ser nomeados ou requisitados assessores, nos ter
 
 3 - [...]
 
-###### Artigo 78.º — [...]
+Artigo 78.º
+
+[...]
 
 1 - [...]
 
@@ -674,7 +770,9 @@ d) [...]
 
 2 - [...]
 
-###### Artigo 79.º — Competência regulamentar, de planeamento e de programação
+Artigo 79.º
+
+Competência regulamentar, de planeamento e de programação
 
 1 - [...]
 
@@ -686,7 +784,9 @@ b) [...]
 
 c) [...]
 
-###### Artigo 81.º — [...]
+Artigo 81.º
+
+[...]
 
 1 - [...]
 
@@ -716,29 +816,39 @@ c) Homologar as contas objeto de verificação interna de contas, quando estas s
 
 d) [...]
 
-###### Artigo 107.º — [...]
+Artigo 107.º
+
+[...]
 
 Nas ações de fiscalização concomitante, a tramitação e qualquer diligência ordenada por despacho do relator ou por deliberação da subsecção ou plenário são asseguradas pelo departamento de fiscalização concomitante e apuramento de responsabilidades financeiras.
 
-###### Artigo 110.º — [...]
+Artigo 110.º
+
+[...]
 
 1 - Nas ações de fiscalização concomitante procede-se à audição das entidades em causa e dos eventuais responsáveis, nos termos da lei aplicável, fazendo-se menção do seu teor no respetivo projeto de relatório.
 
 2 - [...]
 
-###### Artigo 111.º — Relatório e Decisão final
+Artigo 111.º
+
+Relatório e Decisão final
 
 1 - [...]
 
 2 - A decisão é sempre notificada à entidade e respetivos responsáveis.
 
-###### Artigo 114.º — [...]
+Artigo 114.º
+
+[...]
 
 1 - Concluídos os anteprojetos relativos às parcelas do Relatório e Parecer, ou logo que tal se torne conveniente, os Juízes das áreas de responsabilidade da Conta Geral do Estado fixam o texto de projeto.
 
 2 - [...]
 
-###### Artigo 115.º — [...]
+Artigo 115.º
+
+[...]
 
 1 - [...]
 
@@ -750,7 +860,9 @@ Nas ações de fiscalização concomitante, a tramitação e qualquer diligênci
 
 5 - (Revogado.)
 
-###### Artigo 121.º — Início do procedimento
+Artigo 121.º
+
+Início do procedimento
 
 1 - A preparação e elaboração dos relatórios de auditoria inicia-se com a abertura dos respetivos processos.
 
@@ -768,7 +880,9 @@ e) Entidades auditadas;
 
 f) Identificação dos regimes jurídicos, financeiros e de relato contabilístico aplicáveis à entidade auditada, em particular, as disposições que estabelecem as responsabilidades pela preparação, aprovação e prestação das contas e pela manutenção do controlo interno relevante, se aplicável.
 
-###### Artigo 122.º — [...]
+Artigo 122.º
+
+[...]
 
 1 - Antes de solicitar o agendamento e com a antecedência mínima de 5 dias úteis em relação ao dia da sessão prevista para a sua apreciação, deve o Juiz relator ordenar a distribuição, pelo Presidente e por todos os Juízes que devam intervir, dos projetos de relatório e dos anexos que considere necessários ao esclarecimento de decisão.
 
@@ -776,7 +890,9 @@ f) Identificação dos regimes jurídicos, financeiros e de relato contabilísti
 
 3 - Nos casos referidos no n.º 2, a sessão realiza-se, em princípio, decorridos que sejam 10 dias úteis após o despacho que decidiu o alargamento da discussão.
 
-###### Artigo 126.º — [...]
+Artigo 126.º
+
+[...]
 
 1 - [...]
 
@@ -784,7 +900,9 @@ f) Identificação dos regimes jurídicos, financeiros e de relato contabilísti
 
 3 - Quando seja necessário substituir algum dos juízes adjuntos referidos nos números anteriores, segue-se a ordem de precedência que estiver em vigor à data da decisão de substituição.
 
-###### Artigo 128.º — [...]
+Artigo 128.º
+
+[...]
 
 1 - A verificação interna de contas incide sobre as contas incluídas no respetivo programa anual de verificação interna de contas o qual faz parte integrante do programa anual de fiscalização da 2.ª Secção e do programa anual de fiscalização de cada Secção Regional.
 
@@ -822,7 +940,9 @@ e) Apreciar os relatórios de fiscais únicos, de conselhos fiscais, de revisore
 
 13 - A decisão de homologação pode ser revogada quando haja conhecimento superveniente de factos com impacto nas demonstrações financeiras.
 
-###### Artigo 130.º — Apuramento de responsabilidades por infrações processuais e procedimentais
+Artigo 130.º
+
+Apuramento de responsabilidades por infrações processuais e procedimentais
 
 1 - [...]
 
@@ -840,7 +960,9 @@ c) [...]
 
 5 - [...]
 
-###### Artigo 138.º — [...]
+Artigo 138.º
+
+[...]
 
 1 - [...]
 
@@ -848,7 +970,9 @@ c) [...]
 
 3 - [...]
 
-###### Artigo 144.º — [...]
+Artigo 144.º
+
+[...]
 
 1 - A Secretaria assegura o apoio administrativo e processual inerente ao funcionamento do Plenário Geral, da Comissão Permanente, das Secções Especializadas e das Secções Regionais, nos termos da LOPTC, do Regulamento do Tribunal, do Código de Processo Civil, do [Decreto-Lei n.º 440/99](https://diariodarepublica.pt/dr/detalhe/decreto-lei/440-1999-694226), de 2 de novembro, e dos regulamentos de organização e funcionamento dos Serviços de Apoio da Sede e das Regiões Autónomas.
 
@@ -866,7 +990,9 @@ d) [...]
 
 4 - [...]
 
-###### Artigo 147.º — [...]
+Artigo 147.º
+
+[...]
 
 1 - [...]
 
@@ -952,7 +1078,9 @@ g) [...]
 
 6 - [...]
 
-###### Artigo 155.º — [...]
+Artigo 155.º
+
+[...]
 
 1 - As notificações são efetuadas, sempre que possível, por via eletrónica, de acordo com as regras estabelecidas no âmbito dos sistemas de informação e plataformas eletrónicas do Tribunal, sem prejuízo do disposto no número seguinte.
 
@@ -976,7 +1104,7 @@ A presente Resolução entra em vigor no dia seguinte ao da sua publicação no 
 
 É republicado, em anexo, o Regulamento do Tribunal de Contas, com as alterações aprovadas pela presente Resolução.
 
-**Publique-se no Diário da República, nos termos do artigo 9.º, n.º 2, alínea d) da Lei de Organização e Processo do Tribunal de Contas.**
+Publique-se no Diário da República, nos termos do artigo 9.º, n.º 2, alínea d) da Lei de Organização e Processo do Tribunal de Contas.
 
 15 de dezembro de 2023. - O Presidente, José F. F. Tavares.
 
@@ -984,7 +1112,7 @@ A presente Resolução entra em vigor no dia seguinte ao da sua publicação no 
 
 Republicação do Regulamento do Tribunal de Contas
 
-# PARTE I — Disposições gerais
+## PARTE I — Disposições gerais
 
 ### CAPÍTULO I — Disposições Comuns
 
@@ -1440,7 +1568,7 @@ c) 2.ª Secção.
 
 7 - Quando não existir nenhum juiz da 3.ª Secção disponível, na escolha do relator é respeitada a ordem de preferência constante do número anterior e, sendo necessário, realizado sorteio nos termos do n.º 4 para designação do relator entre juízes da mesma alínea do n.º 6.
 
-# PARTE II — Organização e funcionamento
+## PARTE II — Organização e funcionamento
 
 ### CAPÍTULO I — Funcionamento do Plenário Geral
 
@@ -1986,7 +2114,7 @@ d) Julgar justificada a apresentação extemporânea das contas.
 
 2 - A colocação transitória de Juiz na Secção Regional processar-se-á de harmonia com o disposto no n.º 6 do artigo 18.º da LOPTC.
 
-# PARTE III — Procedimentos
+## PARTE III — Procedimentos
 
 ### CAPÍTULO I — Procedimentos gerais
 
@@ -2044,7 +2172,7 @@ d) Julgar justificada a apresentação extemporânea das contas.
 
 ###### Artigo 88.º — Plano Trienal
 
-**O Presidente define, por despacho, os procedimentos e o calendário a seguir para a elaboração do Plano Trienal, com respeito pelo disposto no artigo 37.º da LOPTC e em conformidade com os princípios estabelecidos no artigo 20.º deste Regulamento.**
+O Presidente define, por despacho, os procedimentos e o calendário a seguir para a elaboração do Plano Trienal, com respeito pelo disposto no artigo 37.º da LOPTC e em conformidade com os princípios estabelecidos no artigo 20.º deste Regulamento.
 
 ###### Artigo 89.º — Plano Anual
 
@@ -2762,7 +2890,7 @@ e) Proceder ao registo da correspondência saída e recebida e conduzir a que sa
 
 f) Executar os demais serviços ou tarefas que lhe forem distribuídos.
 
-# PARTE IV — Disposições finais
+## PARTE IV — Disposições finais
 
 ###### Artigo 153.º — Informação procedimental
 
@@ -2795,3 +2923,5 @@ São revogados o Regulamento Geral do Tribunal de Contas aprovado pelo Plenário
 ###### Artigo 157.º — Entrada em vigor
 
 O presente Regulamento entra em vigor no dia seguinte ao da sua publicação no Diário da República.
+
+317183424

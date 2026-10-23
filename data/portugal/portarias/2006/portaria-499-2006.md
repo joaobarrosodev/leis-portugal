@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/499/2006/05/31/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/499-2006-286952
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2006-05-31T00:00:00Z'
+  retrieved_at: '2026-10-23T15:14:29Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 839888e18bf7a0b80c692833dd22b4f42cbe4c401d548a9d43c483b1ca7e5ccb
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: bfcff5e978709b97f8394595a9ed71b5508812be3ae201fb2a1752ffe732dac7
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:14:29Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,10 +67,10 @@ reuse:
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
 - Cobrança de Impostos
-- Documento de Cobrança
-- Impresso
-- Imposto de Camionagem
 - Contribuições e Impostos
+- Documento de Cobrança
+- Imposto de Camionagem
+- Impresso
 - Regulamento
 relationships:
 - type: cites
@@ -89,16 +89,32 @@ relationships:
   target: eli:http://data.dre.pt/eli/port/922/1999/10/20/p/dre
   label: null
   source: http://data.dre.pt/eli/port/922/1999/10/20/p/dre
+- type: cites
+  target: pt:dre:165664:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:218496:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:250664:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:667499:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:14:29Z'
   warnings: []
   errors: []
 ---
@@ -115,6 +131,6 @@ Manda o Governo, pelo Ministro de Estado e das Finanças, nos termos do artigo 2
 
 2.º É revogado o n.º 2.º da [Portaria n.º 922/99](https://diariodarepublica.pt/dr/detalhe/portaria/922-1999-667499), de 20 de Outubro.
 
-**O Ministro de Estado e das Finanças, Fernando Teixeira dos Santos, em 17 de Maio de 2006.**
+O Ministro de Estado e das Finanças, Fernando Teixeira dos Santos, em 17 de Maio de 2006.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2006/05/105b00/36143615.pdf))](https://files.diariodarepublica.pt/1s/2006/05/105b00/36143615.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2006/05/105b00/36143615.pdf)

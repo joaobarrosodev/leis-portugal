@@ -26,7 +26,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/2s/2015/08/168000000/2482924830.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -48,45 +48,70 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/despacho-normativo/17-2015-70133477
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2017-05-19T00:00:00Z'
+  retrieved_at: '2026-10-23T15:07:59Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: b56cc8a2f02d3fcf1c4c62b7991a7f0d96977cfbf0a9f9ddf13145a87c39825b
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: e084420028ea7ada68e1f340e1b4daa98616bdb9a2e3b5cb95c414417bec657e
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:07:59Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Atribuição de Verba
+- Financiamento
+- Plano Nacional contra a Violência Doméstica
+- Protecção à Vítima
+- Segurança Social
+- Tráfico de Pessoas
+- Violência Doméstica
+- Vítima
 relationships:
 - type: amended_by
   target: pt:dre:107036322:por
   label: Última alteração registada na importação inicial
   source: null
+- type: cites
+  target: pt:dre:146936:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:278879:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:667323:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:107036322:por
+  label: Revogado pelo(a) Despacho Normativo n.º 3/2017 - Diário da República n.º 97/2017, Série II de 2017-05-19
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/despacho-normativo/3-2017-107036322
+  date: '2017-05-19'
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:07:59Z'
   warnings: []
   errors: []
 ---
 
-# Despacho Normativo n.º 17/2015
+# Despacho normativo n.º 17/2015
 
 O [Decreto-Lei n.º 56/2006](https://diariodarepublica.pt/dr/detalhe/decreto-lei/56-2006-667323), de 15 de março, alterado pelos Decretos-Leis n.os [44/2011](https://diariodarepublica.pt/dr/detalhe/decreto-lei/44-2011-278879), de 24 de março, e [106/2011](https://diariodarepublica.pt/dr/detalhe/decreto-lei/106-2011-146936), de 21 de outubro, regula a forma de distribuição dos resultados líquidos dos jogos sociais explorados pela Santa Casa da Misericórdia de Lisboa.
 
@@ -123,3 +148,5 @@ Nestes termos, considerando o disposto no n.º 4 do artigo 3.º e no artigo 6.º
 11 - Para além do disposto no presente despacho normativo, o apoio a outras ações e projetos de combate à violência doméstica ou a outras ações no âmbito da cidadania e igualdade de género, só pode ser atribuído sob proposta da Comissão para a Cidadania e a Igualdade de Género, fundamentada na sua necessidade para a implementação dos Planos Nacionais aprovados.
 
 24 de agosto de 2015. - O Ministro da Presidência e dos Assuntos Parlamentares, Luís Maria de Barros Serra Marques Guedes.
+
+208901952

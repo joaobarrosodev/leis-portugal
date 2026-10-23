@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/493/2005/05/24/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/493-2005-222034
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2005-05-24T00:00:00Z'
+  retrieved_at: '2026-10-23T15:06:42Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 8a29bd11493aa552985d4d9a70ff5151c5ae62e993d4ad55c75b94d27e003420
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: c215edd169e76ef14ca6dfb74b9d8f1386f49d54d89e59e3d5a2b76cf88da30e
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:06:42Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -65,29 +65,41 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
+- Condições de Higiene e Segurança no Trabalho
 - Contrato Coletivo de Trabalho
 - Convenção Coletiva de Trabalho
 - Escola de Condução
 - Festru
-- Veículo
-- Condições de Higiene e Segurança no Trabalho
 - Regulamento de Extensão
 - Trabalhador por Conta de Outrem
+- Veículo
 relationships:
 - type: cites
   target: eli:http://data.dre.pt/eli/lei/35/2004/07/29/p/dre
   label: null
   source: http://data.dre.pt/eli/lei/35/2004/07/29/p/dre
+- type: cites
+  target: pt:dre:325514:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:502399:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:549249:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:06:42Z'
   warnings: []
   errors: []
 ---
@@ -150,4 +162,4 @@ b) Às relações de trabalho entre empregadores filiados na associação de emp
 
 2.º A presente portaria entra em vigor no 5.º dia após a sua publicação no Diário da República.
 
-**O Ministro do Trabalho e da Solidariedade Social, José António Fonseca Vieira da Silva, em 28 de Abril de 2005.**
+O Ministro do Trabalho e da Solidariedade Social, José António Fonseca Vieira da Silva, em 28 de Abril de 2005.

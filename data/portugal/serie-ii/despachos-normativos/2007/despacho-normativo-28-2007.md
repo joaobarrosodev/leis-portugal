@@ -47,41 +47,76 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/despacho-normativo/28-2007-2870912
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2007-08-03T00:00:00Z'
+  retrieved_at: '2026-10-23T15:06:39Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 4742bf86bd16eeabff1828e833de499343b5f7cad0a5ab3363c4038a55c0cb92
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: a5bf57dce72cf78fc235f670579581b73905d4d1a45d1206198799568a642eb9
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:06:39Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
-relationships: []
+subjects:
+- Avaliação de Conhecimentos
+- Diploma
+- Ensino Básico
+relationships:
+- type: cites
+  target: pt:dre:303126:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:307436:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:316875:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:338986:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:354678:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:358301:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:432450:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:625437:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:06:39Z'
   warnings: []
   errors: []
 ---
 
-# Despacho Normativo n.º 28/2007
+# Despacho normativo n.º 28/2007
 
 O [Decreto-Lei n.º 6/2001](https://diariodarepublica.pt/dr/detalhe/decreto-lei/6-2001-338986), de 18 de Janeiro, rectificado pela [Declaração de Rectificação n.º 4-A/2001](https://diariodarepublica.pt/dr/detalhe/declaracao-rectificacao/4-a-2001-303126), de 28 de Fevereiro, e alterado pelo [Decreto-Lei n.º 209/2002](https://diariodarepublica.pt/dr/detalhe/decreto-lei/209-2002-432450), de 17 de Outubro, estabelece os princípios orientadores da organização e da gestão curricular do ensino básico, prevendo na alínea b) do n.º 4 do artigo 13.º a realização de exames nacionais no 9.º ano, nas disciplinas de Língua Portuguesa e de Matemática.
 

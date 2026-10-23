@@ -20,12 +20,12 @@ publication:
   reference: Diário da República n.º 66/2023, 1º Suplemento, Série II de 2023-04-03
   number: '66'
   series: II
-  supplement: 1º Suplemento
+  supplement: null
   pages: 415-(7) a 415-(56)
   pdf_url: https://files.diariodarepublica.pt/2s/2023/04/066000001/0000700056.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -47,44 +47,168 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/despacho-normativo/4-b-2023-211393783
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2023-06-02T00:00:00Z'
+  retrieved_at: '2026-10-23T15:09:04Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: d09ed1f93efeed9b90297bddac012d9fd650196229232645efc6a49e2b6431d8
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 87a3d3c468598102246c1e6465d55147717fc01e85d3d50080a6935ce852a314
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:09:04Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Avaliação de Conhecimentos
+- Ensino Básico
+- Ensino Cooperativo
+- Ensino Secundário
+- Exame
+- JURI Nacional de Exames
+- Prova de Ingresso
+- Prova Geral de Acesso
 relationships:
 - type: amended_by
   target: pt:dre:213868819:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amends
+  target: pt:numero:despacho-normativo:1-D/2016
+  label: Altera, a partir de 4 de abril de 2023, os artigos 2.º, 3.º, 4.º e 5.º do Regulamento do Júri Nacional de Exames,
+    aprovado pelo Despacho Normativo n.º 1-D/2016, de 4 de março, Diário da República n.º 45/2016, 3º Suplemento, Série II
+  source: null
+  date: '2016-03-04'
 - type: cites
   target: celex:32016R0679
   label: null
   source: null
+- type: cites
+  target: pt:dre:107791610:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:115652961:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:115652962:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:116640900:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:120329893:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:123815982:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:124353902:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:129970449:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:159994003:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:174840:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:181066881:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:185829850:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:208462726:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:211340864:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:259964:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:490957:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:516044:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:544383:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:628859:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:632418:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:66041468:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:73046241:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:73798876:por
+  label: null
+  source: null
+- type: repeals
+  target: pt:numero:despacho-normativo:3-A/2020
+  label: Revoga, a partir de 4 de abril de 2023, nos termos do n.º 6 do presente diploma, o Despacho Normativo n.º 3-A/2020,
+    de 5 de março, Diário da República n.º 46/2020, 1º Suplemento, Série II
+  source: null
+  date: '2020-03-05'
+- type: repeals
+  target: pt:numero:despacho-normativo:10-A/2021
+  label: Revoga, a partir de 4 de abril de 2023, o Despacho Normativo n.º 10-A/2021, de 22 de março, Diário da República n.º
+    56/2021, 2º Suplemento, Série II
+  source: null
+  date: '2021-03-22'
+- type: repeals
+  target: pt:numero:despacho-normativo:7-A/2022
+  label: Revoga, a partir de 4 de abril de 2023, o Despacho Normativo n.º 7-A/2022, de 24 de março, Diário da República n.º
+    59/2022, 1º Suplemento, Série II
+  source: null
+  date: '2022-03-24'
 article_structure:
-  article_count: 62
+  article_count: 59
   section_count: 9
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:09:04Z'
   warnings: []
   errors: []
 ---
@@ -131,7 +255,9 @@ Considerando o previsto no artigo 28.º do [Decreto-Lei n.º 54/2018](https://di
 
 10 - Pode ainda ser afeto pelos diretores dos agrupamentos de escolas e escolas não agrupadas ou pela direção regional de educação, no caso das Regiões Autónomas, sob proposta dos coordenadores das delegações regionais do JNE, o pessoal não docente julgado indispensável para assegurar os serviços das delegações regionais e dos agrupamentos do JNE.
 
-###### Artigo 3.º — [...]
+Artigo 3.º
+
+[...]
 
 1 - [...]
 
@@ -163,13 +289,13 @@ g) Os restantes elementos das equipas dos agrupamentos do JNE têm dispensa da c
 
 8 - [...]
 
-###### Artigo 4.º
+Artigo 4.º
 
 1 - É da responsabilidade do JNE coordenar e planificar o processo de realização e classificação das provas de avaliação externa dos ensinos básico e secundário, bem como das provas de equivalência à frequência e das provas e exames a nível de escola, ao abrigo das disposições legais e regulamentares aplicáveis.
 
 2 - Cabe ainda ao JNE a reapreciação e reclamação das provas finais de ciclo, dos exames finais nacionais, das provas de equivalência à frequência, das provas a nível de escola dos ensinos básico e secundário e dos exames a nível de escola equivalentes a nacionais.
 
-###### Artigo 5.º
+Artigo 5.º
 
 1 - [...]
 
@@ -1473,13 +1599,13 @@ QUADRO I
 
 Prazos de inscrição para as provas de equivalência à frequência dos 1.º, 2.º e 3.º ciclos, provas finais e provas a nível de escola do 3.º ciclo do ensino básico - 2023
 
-[([ver documento original](https://files.diariodarepublica.pt/2s/2023/04/066000001/0000700056.pdf))](https://files.diariodarepublica.pt/2s/2023/04/066000001/0000700056.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/2s/2023/04/066000001/0000700056.pdf)
 
 QUADRO II
 
 Prazos de inscrição para os exames finais nacionais, provas de equivalência à frequência e provas a nível de escola do ensino secundário - 2023
 
-[([ver documento original](https://files.diariodarepublica.pt/2s/2023/04/066000001/0000700056.pdf))](https://files.diariodarepublica.pt/2s/2023/04/066000001/0000700056.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/2s/2023/04/066000001/0000700056.pdf)
 
 QUADRO III
 
@@ -1487,7 +1613,7 @@ Provas de aferição do ensino básico - 2023
 
 Tipo de prova e respetiva duração
 
-[([ver documento original](https://files.diariodarepublica.pt/2s/2023/04/066000001/0000700056.pdf))](https://files.diariodarepublica.pt/2s/2023/04/066000001/0000700056.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/2s/2023/04/066000001/0000700056.pdf)
 
 QUADRO IV
 
@@ -1495,7 +1621,7 @@ Provas finais do ensino básico - 2023
 
 Tipo de prova e respetiva duração
 
-[([ver documento original](https://files.diariodarepublica.pt/2s/2023/04/066000001/0000700056.pdf))](https://files.diariodarepublica.pt/2s/2023/04/066000001/0000700056.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/2s/2023/04/066000001/0000700056.pdf)
 
 QUADRO V
 
@@ -1505,19 +1631,19 @@ Tabela A - 1.º Ciclo do Ensino Básico
 
 Tipo de prova e respetiva duração
 
-[([ver documento original](https://files.diariodarepublica.pt/2s/2023/04/066000001/0000700056.pdf))](https://files.diariodarepublica.pt/2s/2023/04/066000001/0000700056.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/2s/2023/04/066000001/0000700056.pdf)
 
 Tabela B - 2.º Ciclo do Ensino Básico
 
 Tipo de prova e respetiva duração
 
-[([ver documento original](https://files.diariodarepublica.pt/2s/2023/04/066000001/0000700056.pdf))](https://files.diariodarepublica.pt/2s/2023/04/066000001/0000700056.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/2s/2023/04/066000001/0000700056.pdf)
 
 Tabela C - 3.º Ciclo do Ensino Básico
 
 Tipo de provas e respetiva duração
 
-[([ver documento original](https://files.diariodarepublica.pt/2s/2023/04/066000001/0000700056.pdf))](https://files.diariodarepublica.pt/2s/2023/04/066000001/0000700056.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/2s/2023/04/066000001/0000700056.pdf)
 
 QUADRO VI
 
@@ -1525,7 +1651,7 @@ Exames finais nacionais do ensino secundário - 2023
 
 Tipo de prova e respetiva duração
 
-[([ver documento original](https://files.diariodarepublica.pt/2s/2023/04/066000001/0000700056.pdf))](https://files.diariodarepublica.pt/2s/2023/04/066000001/0000700056.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/2s/2023/04/066000001/0000700056.pdf)
 
 QUADRO VII
 
@@ -1533,13 +1659,13 @@ Provas de equivalência à frequência dos cursos científico-humanísticos do e
 
 Tipo de prova e respetiva duração
 
-[([ver documento original](https://files.diariodarepublica.pt/2s/2023/04/066000001/0000700056.pdf))](https://files.diariodarepublica.pt/2s/2023/04/066000001/0000700056.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/2s/2023/04/066000001/0000700056.pdf)
 
 QUADRO VIII
 
 Ponderação das componentes escrita e prática das provas de equivalência à frequência dos cursos científico-humanísticos e dos cursos artísticos especializados do ensino secundário - 2023
 
-[([ver documento original](https://files.diariodarepublica.pt/2s/2023/04/066000001/0000700056.pdf))](https://files.diariodarepublica.pt/2s/2023/04/066000001/0000700056.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/2s/2023/04/066000001/0000700056.pdf)
 
 QUADRO IX
 
@@ -1547,4 +1673,6 @@ Provas de equivalência à frequência dos cursos artísticos especializados - 2
 
 Tipo de prova e respetiva duração
 
-[([ver documento original](https://files.diariodarepublica.pt/2s/2023/04/066000001/0000700056.pdf))](https://files.diariodarepublica.pt/2s/2023/04/066000001/0000700056.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/2s/2023/04/066000001/0000700056.pdf)
+
+316338595

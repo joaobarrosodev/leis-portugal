@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1986/07/15600/16731676.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -47,40 +47,73 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/14-1986-228216
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2006-10-31T00:00:00Z'
+  retrieved_at: '2026-10-23T15:17:21Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: ad40a76baaeceb7508f6f3d8d4fdc97a6003c4cd67d07b96254f44ca260e429a
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 14a2c5fbacb2becf22a6a15dcbe207832298351ccef3fde8ba62d3234af0c084
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:17:21Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Açores
+- Licenciamento
+- Máquinas de Jogo
 relationships:
 - type: amended_by
   target: pt:dre:546019:por
   label: Última alteração registada na importação inicial
   source: null
+- type: cites
+  target: pt:dre:328845:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:386001:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:400797:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:561853:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:622164:por
+  label: null
+  source: null
+- type: corrected_by
+  target: pt:dre:477589:por
+  label: Rectificado pela DECL.DD4521.08.10.1986.PCM, DR.IS [252]3ºSupl de 31.10.1986
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/declaracao/1986-477589
+  date: '1986-10-08'
+- type: repealed_by
+  target: pt:dre:339835:por
+  label: "Revogado pelo DLR.28/2000/A.2000.07.10.ALR-RAA, DR.IS-A [184] de 10/Ago/2000\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-legislativo-regional/28-2000-339835
+  date: '2000-07-10'
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 7
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:17:21Z'
   warnings: []
   errors: []
 ---
@@ -105,9 +138,9 @@ A Assembleia Regional dos Açores decreta, nos termos da alínea a) do artigo 22
 
 ### CAPÍTULO I — Âmbito de aplicação
 
-###### Artigo 1.º O licenciamento de exploração e registo de máquinas automáticas, mecânicas e eléctricas ou electrónicas de diversão e a respectiva exploração e prática regem-se pelo presente diploma.
+Artigo 1.º O licenciamento de exploração e registo de máquinas automáticas, mecânicas e eléctricas ou electrónicas de diversão e a respectiva exploração e prática regem-se pelo presente diploma.
 
-###### Art. 2.º - 1 - Consideram-se máquinas de diversão aquelas que, não pagando prémios em dinheiro, fichas ou coisas com valor económico, desenvolvem jogos cujos resultados dependem exclusiva ou fundamentalmente da perícia do utilizador.
+Art. 2.º - 1 - Consideram-se máquinas de diversão aquelas que, não pagando prémios em dinheiro, fichas ou coisas com valor económico, desenvolvem jogos cujos resultados dependem exclusiva ou fundamentalmente da perícia do utilizador.
 
 2 - É permitido que ao utilizador seja concedido o prolongamento da utilização gratuita da máquina face à pontuação obtida.
 
@@ -115,15 +148,15 @@ A Assembleia Regional dos Açores decreta, nos termos da alínea a) do artigo 22
 
 ### CAPÍTULO II — Registo das máquinas
 
-###### Art. 3.º - 1 - Nenhuma máquina submetida ao regime deste diploma pode ser posta em exploração sem registo prévio na Região, ainda que já tenha sido registada noutro ou noutros locais do País.
+Art. 3.º - 1 - Nenhuma máquina submetida ao regime deste diploma pode ser posta em exploração sem registo prévio na Região, ainda que já tenha sido registada noutro ou noutros locais do País.
 
 2 - Não podem ser registadas máquinas cuja decoração ou tipo de jogo sejam contrários à moral pública.
 
-###### Art. 4.º - 1 - O registo é requerido pelo proprietário da máquina ao Secretário Regional da Administração Pública.
+Art. 4.º - 1 - O registo é requerido pelo proprietário da máquina ao Secretário Regional da Administração Pública.
 
 2 - Deverá ser apresentado um requerimento para cada máquina, do qual constará a identificação completa e o número fiscal de contribuinte do requerente, bem como a identificação da máquina pela respectiva marca, número de fabrico e descrição do funcionamento.
 
-###### Art. 5.º - 1 - Os requerimentos de registo são instruídos com os seguintes documentos:
+Art. 5.º - 1 - Os requerimentos de registo são instruídos com os seguintes documentos:
 
 Máquinas importadas:
 
@@ -147,21 +180,21 @@ h) Declaração de que a máquina a registar não está abrangida pelo n.º 3 do
 
 2 - Quando se tratar de máquina já registada noutro local do País, será apenas necessária a apresentação do documento comprovativo do registo anterior, cujo cancelamento se promoverá, e da declaração a que se referem as alíneas e) e h) do n.º 1.
 
-###### Art. 6.º - 1 - Preenchidos os requisitos exigidos no artigo anterior, o Secretário Regional da Administração Pública mandará emitir o título de registo, que deverá acompanhar sempre a máquina a que respeita.
+Art. 6.º - 1 - Preenchidos os requisitos exigidos no artigo anterior, o Secretário Regional da Administração Pública mandará emitir o título de registo, que deverá acompanhar sempre a máquina a que respeita.
 
 2 - O título de registo deverá conter os elementos identificativos referidos no n.º 2 do artigo 4.º
 
-###### Art. 7.º - 1 - Em caso de transmissão de propriedade de uma máquina, deverá ser requerido o averbamento da transmissão no registo no prazo de quinze dias.
+Art. 7.º - 1 - Em caso de transmissão de propriedade de uma máquina, deverá ser requerido o averbamento da transmissão no registo no prazo de quinze dias.
 
 2 - O requerimento de averbamento, subscrito pelo proprietário constante do registo e pelo adquirente, conterá a identificação completa deste e o seu número fiscal de contribuinte e, acompanhado do título de registo da máquina transmitida, será dirigido ao Secretário Regional da Administração Pública.
 
 ### CAPÍTULO III — Licença de exploração
 
-###### Art. 8.º A exploração das máquinas de jogo a que se refere o presente diploma carece de licença a conceder pelo Secretário Regional da Administração Pública.
+Art. 8.º A exploração das máquinas de jogo a que se refere o presente diploma carece de licença a conceder pelo Secretário Regional da Administração Pública.
 
-###### Art. 9.º Não é permitida a exploração de máquinas em pavilhões temporários ou em feiras ambulantes nem em recintos que não sejam exclusivamente dedicados à exploração de jogos.
+Art. 9.º Não é permitida a exploração de máquinas em pavilhões temporários ou em feiras ambulantes nem em recintos que não sejam exclusivamente dedicados à exploração de jogos.
 
-###### Art. 10.º - 1 - O requerimento da licença deverá conter a identificação completa do interessado e o seu número fiscal de contribuinte.
+Art. 10.º - 1 - O requerimento da licença deverá conter a identificação completa do interessado e o seu número fiscal de contribuinte.
 
 2 - Do requerimento deverão constar o número de máquinas e respectivas características, bem como a localização e a descrição do recinto onde se fará a exploração.
 
@@ -175,31 +208,31 @@ c) Documento comprovativo do pagamento dos encargos devidos às instituições d
 
 d) Alvará camarário da licença sanitária, que será devolvido.
 
-###### Art. 11.º - 1 - O Secretário Regional da Administração Pública consultará a câmara municipal e a junta de freguesia da área da situação do recinto quanto à conveniência da concessão da licença de exploração.
+Art. 11.º - 1 - O Secretário Regional da Administração Pública consultará a câmara municipal e a junta de freguesia da área da situação do recinto quanto à conveniência da concessão da licença de exploração.
 
 2 - O despacho será fundamentado quando não for concordante com qualquer dos pareceres referidos no número anterior.
 
-###### Art. 12.º O Secretário Regional da Administração Pública pode recusar a concessão ou renovação da licença de exploração sempre que tal medida se justifique para protecção à infância e juventude e prevenção da criminalidade e da ordem e tranquilidade públicas.
+Art. 12.º O Secretário Regional da Administração Pública pode recusar a concessão ou renovação da licença de exploração sempre que tal medida se justifique para protecção à infância e juventude e prevenção da criminalidade e da ordem e tranquilidade públicas.
 
-###### Art. 13.º Se o despacho for de deferimento, a licença de exploração só poderá ser emitida após a apresentação de fotocópia autenticada da licença de recinto, passada pelos serviços competentes da Secretaria Regional da Educação e Cultura nos termos da legislação em vigor sobre autorização de recintos e de espectáculos e divertimentos públicos.
+Art. 13.º Se o despacho for de deferimento, a licença de exploração só poderá ser emitida após a apresentação de fotocópia autenticada da licença de recinto, passada pelos serviços competentes da Secretaria Regional da Educação e Cultura nos termos da legislação em vigor sobre autorização de recintos e de espectáculos e divertimentos públicos.
 
-###### Art. 14.º - 1 - A licença de exploração mencionará expressamente a entidade exploradora, a localização do recinto e o ano para que é válida, bem como o número de máquinas autorizadas e respectivas características.
+Art. 14.º - 1 - A licença de exploração mencionará expressamente a entidade exploradora, a localização do recinto e o ano para que é válida, bem como o número de máquinas autorizadas e respectivas características.
 
 2 - A licença deverá ser afixada no interior do recinto em lugar bem visível.
 
-###### Art. 15.º As licenças de exploração são anuais e expiram sempre em 31 de Dezembro.
+Art. 15.º As licenças de exploração são anuais e expiram sempre em 31 de Dezembro.
 
-###### Art. 16.º Os detentores de licença de exploração que pretendam continuar a sua actividade no ano seguinte deverão requerer nova licença, em conformidade com os requisitos constantes do artigo 10.º deste diploma, até 30 de Setembro do ano a que respeitam as licenças concedidas.
+Art. 16.º Os detentores de licença de exploração que pretendam continuar a sua actividade no ano seguinte deverão requerer nova licença, em conformidade com os requisitos constantes do artigo 10.º deste diploma, até 30 de Setembro do ano a que respeitam as licenças concedidas.
 
-###### Art. 17.º - 1 - Se durante o período de validade de uma licença de exploração o seu interessado pretender explorar mais máquinas no recinto a que ela respeita, poderá ser-lhe passada nova licença, mediante requerimento, para o número total de máquinas que pretende explorar.
+Art. 17.º - 1 - Se durante o período de validade de uma licença de exploração o seu interessado pretender explorar mais máquinas no recinto a que ela respeita, poderá ser-lhe passada nova licença, mediante requerimento, para o número total de máquinas que pretende explorar.
 
 2 - O requerimento e a concessão da licença referidos no número anterior devem obedecer aos requisitos previstos nos artigos 8.º, 10.º, 11.º e 13.º
 
 ### CAPÍTULO IV — Recintos
 
-###### Art. 18.º O período de funcionamento dos recintos em que se explorem as máquinas de jogo referidas neste diploma não excederá o compreendido entre as 10 e as 23 horas.
+Art. 18.º O período de funcionamento dos recintos em que se explorem as máquinas de jogo referidas neste diploma não excederá o compreendido entre as 10 e as 23 horas.
 
-###### Art. 19.º - 1 - Não é permitida a permanência de menores de 16 anos nos recintos em que se explorem máquinas de jogo.
+Art. 19.º - 1 - Não é permitida a permanência de menores de 16 anos nos recintos em que se explorem máquinas de jogo.
 
 2 - Não é igualmente permitida a frequência de pessoas que perturbem o funcionamento do estabelecimento ou o sossego e tranquilidade dos vizinhos.
 
@@ -211,7 +244,7 @@ b) O nome do proprietário.
 
 4 - As proibições previstas nos n.os 1 e 2 devem ser afixadas no interior do recinto em lugar bem visível.
 
-###### Art. 20.º Nos recintos em que se explorem máquinas de jogo é proibido:
+Art. 20.º Nos recintos em que se explorem máquinas de jogo é proibido:
 
 a) Instalar e utilizar aparelhos de rádio, de televisão ou quaisquer outros de amplificação sonora;
 
@@ -219,17 +252,17 @@ b) Utilizar máquinas de jogo possuidoras de amplificação sonora em termos de 
 
 c) Vender ou consumir quaisquer espécies de comidas ou bebidas.
 
-###### Art. 21.º Sem prejuízo do disposto na legislação mencionada no artigo 13.º, os recintos aos quais se refere o presente diploma não podem comunicar com estabelecimentos comerciais ou parte de prédio que seja objecto de qualquer exploração.
+Art. 21.º Sem prejuízo do disposto na legislação mencionada no artigo 13.º, os recintos aos quais se refere o presente diploma não podem comunicar com estabelecimentos comerciais ou parte de prédio que seja objecto de qualquer exploração.
 
 ### CAPÍTULO V — Taxas
 
-###### Art. 22.º Os actos requeridos nos termos deste diploma estão sujeitos ao pagamento das taxas previstas na tabela anexa, as quais constituem receita da Região.
+Art. 22.º Os actos requeridos nos termos deste diploma estão sujeitos ao pagamento das taxas previstas na tabela anexa, as quais constituem receita da Região.
 
-###### Art. 23.º O montante das taxas referidas no artigo anterior poderá ser alterado por portaria conjunta dos Secretários Regionais das Finanças, da Administração Pública e da Educação e Cultura.
+Art. 23.º O montante das taxas referidas no artigo anterior poderá ser alterado por portaria conjunta dos Secretários Regionais das Finanças, da Administração Pública e da Educação e Cultura.
 
 ### CAPÍTULO VI — Contra-ordenações e coimas
 
-###### Art. 24.º - 1 - As infracções ao presente diploma constituem contra-ordenação e serão punidas nos termos seguintes:
+Art. 24.º - 1 - As infracções ao presente diploma constituem contra-ordenação e serão punidas nos termos seguintes:
 
 a) Máquinas em exploração sem registo - coima de 70000$00 a 150000$00 e registo compulsivo, sendo a taxa agravada em 100%;
 
@@ -259,7 +292,7 @@ l) Outras situações não expressamente referidas - coima de 7500$00 a 20000$00
 
 4 - Os recursos judiciais contra a aplicação de uma coima, nos casos previstos no n.º 1, só terão seguimento após o prévio depósito do quantitativo da coima.
 
-###### Art. 25.º - 1 - Para efeitos deste diploma consideram-se responsáveis, relativamente às contra-ordenações verificadas:
+Art. 25.º - 1 - Para efeitos deste diploma consideram-se responsáveis, relativamente às contra-ordenações verificadas:
 
 a) O proprietário da máquina, no caso previsto pela alínea a) do n.º 1 do artigo 24.º;
 
@@ -267,15 +300,15 @@ b) O proprietário ou explorador de máquinas ou do recinto, nas demais situaç�
 
 2 - Quando, por qualquer circunstância, se mostre impossível a identificação do proprietário de máquinas encontradas em exploração, considera-se responsável pelas contra-ordenações o proprietário ou explorador do recinto onde as mesmas se encontrem.
 
-###### Art. 26.º A aplicação das coimas compete ao Secretário Regional da Administração Pública e o produto das mesmas constitui receita da Região.
+Art. 26.º A aplicação das coimas compete ao Secretário Regional da Administração Pública e o produto das mesmas constitui receita da Região.
 
 ### CAPÍTULO VII — Disposições finais
 
-###### Art. 27.º - 1 - Os requerimentos a que se referem os artigos 4.º, 7.º, 10.º, 16.º e 17.º do presente diploma devem obter decisão dentro dos 30 dias seguintes à apresentação dos pedidos feita directamente na Secretaria Regional da Administração Pública.
+Art. 27.º - 1 - Os requerimentos a que se referem os artigos 4.º, 7.º, 10.º, 16.º e 17.º do presente diploma devem obter decisão dentro dos 30 dias seguintes à apresentação dos pedidos feita directamente na Secretaria Regional da Administração Pública.
 
 2 - O prazo referido no número anterior será, todavia, alargado para 45 dias quando os mesmos pedidos forem entregues em qualquer delegação da Secretaria Regional da Administração Pública.
 
-###### Art. 28.º Considera-se fora de exploração toda a máquina que, embora em condições de funcionamento, preencha cumulativamente os seguintes requisitos:
+Art. 28.º Considera-se fora de exploração toda a máquina que, embora em condições de funcionamento, preencha cumulativamente os seguintes requisitos:
 
 a) Esteja desligada da corrente;
 
@@ -283,20 +316,20 @@ b) Tenha as ranhuras de introdução das moedas vedadas exteriormente;
 
 c) Exiba sobre o painel do jogo um dístico contendo «Fora de exploração».
 
-###### Art. 29.º Compete à Polícia de Segurança Pública fiscalizar a observância deste diploma, instruir os respectivos processos de contra-ordenação e, quando for caso disso, proceder à apreensão de máquinas e à execução da medida de encerramento.
+Art. 29.º Compete à Polícia de Segurança Pública fiscalizar a observância deste diploma, instruir os respectivos processos de contra-ordenação e, quando for caso disso, proceder à apreensão de máquinas e à execução da medida de encerramento.
 
-###### Art. 30.º É revogado o [Decreto Legislativo Regional n.º 36/84/A](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/36-1984-400797), de 20 de Novembro.
+Art. 30.º É revogado o [Decreto Legislativo Regional n.º 36/84/A](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/36-1984-400797), de 20 de Novembro.
 
 Aprovado pela Assembleia Regional dos Açores, na Horta, em 5 de Março de 1986.
 
-**O Presidente da Assembleia Regional, José Guilherme Reis Leite.**
+O Presidente da Assembleia Regional, José Guilherme Reis Leite.
 
-**Assinado em Angra do Heroísmo em 20 de Junho de 1986.**
+Assinado em Angra do Heroísmo em 20 de Junho de 1986.
 
-**Publique-se.**
+Publique-se.
 
-**O Ministro da República para a Região Autónoma dos Açores, Tomás George Conceição Silva.**
+O Ministro da República para a Região Autónoma dos Açores, Tomás George Conceição Silva.
 
 ## ANEXO — Tabela de taxas
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1986/07/15600/16731676.pdf))](https://files.diariodarepublica.pt/1s/1986/07/15600/16731676.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1986/07/15600/16731676.pdf)

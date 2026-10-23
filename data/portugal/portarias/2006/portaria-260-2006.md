@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/260/2006/03/14/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/260-2006-667477
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2023-10-11T00:00:00Z'
+  retrieved_at: '2026-10-23T15:12:59Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 9c13212358f99aa270d325830a874176ba35eacae99728bd9b0b0ff9aa02f6f6
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 44389b43d7d7094767664f9cc95dac4de40c60be2f4952c027ebeaae1a859f39
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:12:59Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,22 +66,35 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
+- Avaliação de Conhecimentos
 - Certificação Profissional
-- Plano de Estudos
 - Diploma
 - Ensino Cooperativo
 - Ensino Oficial
 - Ensino Particular
 - Ensino Tecnológico
-- Exame
 - Estágio de Formação
-- Avaliação de Conhecimentos
+- Exame
+- Plano de Estudos
 - Regulamento
 relationships:
 - type: amended_by
   target: pt:dre:222645050:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:247710:por
+  label: "Alterados os arts. 19.º e 21.º da Port 550-A/2004, de 21-Mai, na redacção dada pelo presente diploma, pela PORT.207/2008.25.02.2008.ME,\
+    \ DR.IS [39] de 25.02.2008\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/207-2008-247710
+  date: '2008-02-25'
+- type: amends
+  target: pt:numero:portaria:550-A/2004
+  label: "Altera os artigos 3.º, 11.º, 13.º, 15.º, 17.º, 19.º, 20.º, 21.º, 24.º, 25.º, 31.º, 32.º e 34.º bem como os n.ºs\
+    \ 2, 8 e 9 do anexo II, o anexo III e revoga o anexo IV todos da Portaria n.º 550-A/2004, de 21 de Maio DR.IS-B [119]Supl\0\
+    \0"
+  source: null
+  date: '2004-05-21'
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/24/2006/02/06/p/dre
   label: null
@@ -102,16 +115,36 @@ relationships:
   target: eli:http://data.dre.pt/eli/port/550-a/2004/05/21/p/dre
   label: null
   source: http://data.dre.pt/eli/port/550-a/2004/05/21/p/dre
+- type: cites
+  target: pt:dre:210801:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:238847:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:252206:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:547021:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:551873:por
+  label: null
+  source: null
 article_structure:
-  article_count: 13
+  article_count: 1
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:12:59Z'
   warnings: []
   errors: []
 ---
@@ -162,7 +195,9 @@ c) A Língua Estrangeira I, como disciplina facultativa, a que se refere a alín
 
 7 - ...
 
-###### Artigo 11.º — Produção, tratamento e análise de informação sobre as aprendizagens dos alunos
+Artigo 11.º
+
+Produção, tratamento e análise de informação sobre as aprendizagens dos alunos
 
 1 - ...
 
@@ -194,11 +229,15 @@ f) ...
 
 6 - ...
 
-###### Artigo 13.º — Modalidades de avaliação
+Artigo 13.º
+
+Modalidades de avaliação
 
 As modalidades de avaliação são as referidas no artigo 11.º do [Decreto-Lei n.º 74/2004](https://diariodarepublica.pt/dr/detalhe/decreto-lei/74-2004-210801), de 26 de Março, com as alterações introduzidas pelo [Decreto-Lei n.º 24/2006](https://diariodarepublica.pt/dr/detalhe/decreto-lei/24-2006-551873), de 6 de Fevereiro.
 
-###### Artigo 15.º — Avaliação sumativa
+Artigo 15.º
+
+Avaliação sumativa
 
 1 - ...
 
@@ -206,7 +245,9 @@ As modalidades de avaliação são as referidas no artigo 11.º do [Decreto-Lei 
 
 3 - A avaliação sumativa consubstancia-se exclusivamente na modalidade de avaliação sumativa interna.
 
-###### Artigo 17.º — Avaliação sumativa interna integrada no processo de ensino-aprendizagem
+Artigo 17.º
+
+Avaliação sumativa interna integrada no processo de ensino-aprendizagem
 
 1 - ...
 
@@ -226,7 +267,9 @@ c) Decisão, conforme os casos, sobre a progressão nas disciplinas ou transiç�
 
 6 - ...
 
-###### Artigo 19.º — Provas de equivalência à frequência
+Artigo 19.º
+
+Provas de equivalência à frequência
 
 1 - São definidos no anexo III o tipo e a duração das provas de equivalência à frequência.
 
@@ -272,15 +315,21 @@ e) Não tendo estado matriculados no ensino público ou no ensino particular e c
 
 17 - ...
 
-###### Artigo 20.º — Avaliação sumativa externa
+Artigo 20.º
+
+Avaliação sumativa externa
 
 (Revogado.)
 
-###### Artigo 21.º — Candidatos com necessidades educativas especiais de carácter prolongado
+Artigo 21.º
+
+Candidatos com necessidades educativas especiais de carácter prolongado
 
 Os candidatos com necessidades educativas especiais de carácter prolongado, devidamente comprovadas, quando realizam provas de equivalência à frequência podem beneficiar de condições especiais de avaliação, ao abrigo da legislação em vigor sobre necessidades educativas especiais.
 
-###### Artigo 24.º — Classificação final das disciplinas e áreas não disciplinares
+Artigo 24.º
+
+Classificação final das disciplinas e áreas não disciplinares
 
 1 - A classificação final das disciplinas e das áreas não disciplinares é obtida da seguinte forma:
 
@@ -292,7 +341,9 @@ b) ...
 
 3 - A classificação final em qualquer disciplina pode também obter-se pelo recurso à realização exclusiva de provas de equivalência à frequência, nos termos definidos no presente diploma, sendo a classificação final, em caso de aprovação, a obtida na prova de equivalência à frequência.
 
-###### Artigo 25.º — Classificação final de curso
+Artigo 25.º
+
+Classificação final de curso
 
 1 - A classificação final de curso é o resultado da aplicação da seguinte fórmula:
 
@@ -308,7 +359,9 @@ PAT = classificação obtida na prova de aptidão tecnológica.
 
 2 - ...
 
-###### Artigo 31.º — Conclusão e certificação
+Artigo 31.º
+
+Conclusão e certificação
 
 1 - ...
 
@@ -330,7 +383,9 @@ c) Um certificado de qualificação profissional de nível 3, referindo o curso 
 
 7 - ...
 
-###### Artigo 32.º — Situações especiais de classificação
+Artigo 32.º
+
+Situações especiais de classificação
 
 1 - ...
 
@@ -380,7 +435,9 @@ d) (Revogada.)
 
 e) (Revogada.)
 
-###### Artigo 34.º — Reclamações e recursos
+Artigo 34.º
+
+Reclamações e recursos
 
 As decisões referentes às provas de equivalência à frequência são passíveis de impugnação administrativa nos termos legais.»
 

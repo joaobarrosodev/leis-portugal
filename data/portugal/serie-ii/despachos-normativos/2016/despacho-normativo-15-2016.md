@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/2s/2016/12/243000000/3707637079.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,45 +46,113 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/despacho-normativo/15-2016-105579672
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2026-08-13T00:00:00Z'
+  retrieved_at: '2026-10-23T15:08:09Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: dd18b9b596b4bbd5f36cc150f24047f7bab15f4e588b9d5be1aacb52707604d5
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 8225c0be4fac6a19f8ceb4e03fbb11f5c26fe221d1cca4bafb1d0bcb14214988
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:08:09Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Assinatura Digital
+- Certificação Electrónica
+- Definição de Competências
+- Diário da República
+- Diploma Legal
+- Documento Eletrónico
+- Imprensa Nacional-Casa da Moeda
+- Jornal Oficial
+- Legística
+- Modernização Administrativa
+- Pagamento
+- Página na Internet
+- Plataforma Eletrónica
+- Publicação Electrónica
+- Publicitação
+- Regulamentação de Atos Legislativos
+- Regulamento
+- Serviço Público
 relationships:
 - type: amended_by
   target: pt:dre:1157675424:por
   label: Última alteração registada na importação inicial
   source: null
+- type: cites
+  target: pt:dre:105371771:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:1116545:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:1142925:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:179293:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:234316:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:25345900:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:259425:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:544577:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:548239:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:603950:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:73105225:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:205457496:por
+  label: Revogado, a partir de 1 de janeiro de 2023, pelo(a) Despacho Normativo n.º 16/2022 - Diário da República n.º 251/2022,
+    Série II de 2022-12-30 nos termos do n.º 3 deste
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/despacho-normativo/16-2022-205457496
+  date: '2022-12-30'
 article_structure:
   article_count: 20
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:08:09Z'
   warnings: []
   errors: []
 ---
 
-# Despacho Normativo n.º 15/2016
+# Despacho normativo n.º 15/2016
 
 A criação do novo serviço, universal e gratuito, de acesso exclusivamente eletrónico ao Diário da República, pelo [Decreto-Lei n.º 83/2016](https://diariodarepublica.pt/dr/detalhe/decreto-lei/83-2016-105371771), de 16 de dezembro, impõe uma reformulação do respetivo Regulamento de Publicação de Atos, de modo a adequar o procedimento de publicação às novidades tecnológicas que permitem um acesso mais livre, fácil e intuitivo por parte dos cidadãos e das empresas que passam a aceder a várias novas funcionalidades de consulta e de utilização.
 
@@ -437,3 +505,5 @@ A INCM deve promover a divulgação do presente Regulamento a todas as entidades
 ###### Artigo 20.º — Entrada em vigor
 
 O presente Regulamento, incluindo a nova tabela de preços aprovada pelo conselho de administração da INCM e submetida a homologação do membro do Governo responsável pela edição do Diário da República, entra em vigor no dia seguinte ao da publicação do presente despacho normativo.
+
+210103464

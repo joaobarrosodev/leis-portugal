@@ -47,41 +47,59 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/despacho-normativo/37-2008-3187868
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2008-08-11T00:00:00Z'
+  retrieved_at: '2026-10-23T15:06:55Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: f17b1b6166e339d85a1292ec1d15eaad3bf5053cb848847236ec38d2a5799157
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: afac3225e5cd5912b3a82b6a8a13d52fe0515ad44d70d94160637b9608deb0a2
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:06:55Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
-relationships: []
+subjects:
+- Diploma
+- Educação dos Adultos
+- Ensino Secundário
+- Ensino Técnico
+- Equivalência de Habilitações Literárias
+- Plano de Estudos
+relationships:
+- type: cites
+  target: pt:dre:210801:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:238851:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:538602:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:06:55Z'
   warnings: []
   errors: []
 ---
 
-# Despacho Normativo n.º 37/2008
+# Despacho normativo n.º 37/2008
 
 O despacho normativo n.º 1/2008, publicado no Diário da República, 2.ª série, n.º 5, de 8 de Janeiro de 2008, estabeleceu o modo de atribuição e reconhecimento de equivalência entre disciplinas e áreas de formação integradas em planos de estudos de cursos de nível secundário de educação aprovados previamente à produção de efeitos do [Decreto-Lei n.º 74/2004](https://diariodarepublica.pt/dr/detalhe/decreto-lei/74-2004-210801), de 26 de Março, e disciplinas e áreas de formação constantes dos planos de estudos dos cursos do ensino secundário recorrente por módulos capitalizáveis.
 

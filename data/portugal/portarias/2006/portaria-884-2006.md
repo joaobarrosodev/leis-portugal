@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/884/2006/09/01/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/884-2006-540418
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2010-08-19T00:00:00Z'
+  retrieved_at: '2026-10-23T15:16:53Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 82aab9973846b00dbc189a299faf3492a8e9230a510f891daffcc85397194193
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: d0fc446382a86b4265768f8c23b0055dd640c581d42f0bc23a318b44d9a4c6ad
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:16:53Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -74,6 +74,12 @@ relationships:
   target: pt:dre:343623:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:343623:por
+  label: "Anexados, vários prédios rústicos, à zona de caça associativa dos Fusos, concessionada pela Port 1007/2005 de 06-Out,\
+    \ alterada pelo presente diploma, pela PORT.743/2010.19.08.2010.MADRP, DR.IS [161] de 19.08.2010\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/743-2010-343623
+  date: '2010-08-19'
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/201/2005/11/24/p/dre
   label: null
@@ -86,16 +92,28 @@ relationships:
   target: eli:http://data.dre.pt/eli/port/1007/2005/10/06/p/dre
   label: null
   source: http://data.dre.pt/eli/port/1007/2005/10/06/p/dre
+- type: cites
+  target: pt:dre:157794:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:480704:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:481498:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:16:53Z'
   warnings: []
   errors: []
 ---
@@ -120,4 +138,4 @@ Manda o Governo, pelo Ministro da Agricultura, do Desenvolvimento Rural e das Pe
 
 Pelo Ministro da Agricultura, do Desenvolvimento Rural e das Pescas, Rui Nobre Gonçalves, Secretário de Estado do Desenvolvimento Rural e das Florestas, em 14 de Agosto de 2006.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2006/09/16900/64936494.pdf))](https://files.diariodarepublica.pt/1s/2006/09/16900/64936494.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2006/09/16900/64936494.pdf)

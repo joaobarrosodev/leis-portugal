@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/202/2006/02/24/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/202-2006-694029
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2006-02-24T00:00:00Z'
+  retrieved_at: '2026-10-23T15:12:38Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 3b340c2df8c98a1c00868c976f64713479ab5036327aa4a75c78671c323b1662
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: cfc2fc6a72f6533aa92c5addd62133a6617845c319c5848e8952a9cb91646d49
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:12:38Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,10 +66,10 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Associação de Agricultores
-- Contrato Coletivo de Trabalho
 - Alentejo
+- Associação de Agricultores
 - Condições de Higiene e Segurança no Trabalho
+- Contrato Coletivo de Trabalho
 - Regulamento de Extensão
 - Relações de Trabalho
 - Tabela Salarial
@@ -77,13 +77,13 @@ relationships: []
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:12:38Z'
   warnings: []
   errors: []
 ---
@@ -124,4 +124,4 @@ b) Às relações de trabalho entre empregadores filiados na associação de emp
 
 A presente portaria entra em vigor no 5.º dia após a sua publicação no Diário da República.
 
-**O Ministro do Trabalho e da Solidariedade Social, José António Fonseca Vieira da Silva, em 31 de Janeiro de 2006.**
+O Ministro do Trabalho e da Solidariedade Social, José António Fonseca Vieira da Silva, em 31 de Janeiro de 2006.

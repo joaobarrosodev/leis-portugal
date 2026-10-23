@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/2s/2014/10/197000000/2599525996.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -46,36 +46,80 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/resolucao/28-2014-58270693
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2014-10-13T00:00:00Z'
+  retrieved_at: '2026-10-23T15:15:24Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 550ce2bfe8d526373a8841c3224f4b931231024010a7fd96bcd6a7f167396dfd
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 2fa823c0dcfdee8c15e2d4b9c1e27fb046ab4daab93de2fa33afc15283836d46
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:15:24Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
-relationships: []
+subjects:
+- Centro Hospitalar do Médio TEJO
+- Conselho de Administração
+- Nomeação
+- Vogal
+relationships:
+- type: cites
+  target: pt:dre:191077:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:469067:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:498125:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:498720:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:500215:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:520259:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:542993:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:544415:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:553924:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:57701290:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:15:24Z'
   warnings: []
   errors: []
 ---
@@ -111,3 +155,5 @@ Atividade Profissional: Na Administração Regional de Saúde de Lisboa e Vale d
 (até 31.05.94) exerceu funções de Administrador Hospitalar de 3.ª classe, em regime de prestação de serviços a convite da Comissão Instaladora, no âmbito da preparação da abertura daquela unidade hospitalar. No Hospital de Nossa Senhora do Rosário - Barreiro (05.05.92 até 31.12.93) exerceu as funções de Administrador Hospitalar de 3.ª classe, assegurando a coordenação da área de Apoio Geral, dos Serviços Hoteleiros e de apoio ao Serviço de Aprovisionamento, assumindo a sua direção nas ausências e impedimentos do seu responsável.
 
 Outras atividades: Contratado pela Escola Nacional de Saúde Pública para coordenar e organizar a presença da Escola na EXPOSAÚDE que decorreu na FIL, de 21 a 24.10.93. Em 1997 integrou o grupo Regional do Norte do projeto "Sonho", nomeado pela ARS Norte com o objetivo de dotar os hospitais de um sistema de informação que permitisse efetuar a gestão de doentes e a interligação com outras instituições de saúde. Exerceu nos anos letivos de 1999/2000, 2000/2001 e 2001/2002 as funções de docente da cadeira de Gestão, do Curso do Complemento de Formação em Enfermagem, na Escola Superior de Enfermagem Dr. José Timóteo Montalvão Machado, em Chaves.
+
+208145825

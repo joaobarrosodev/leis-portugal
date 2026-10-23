@@ -46,40 +46,63 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/resolucao/5-2003-1912983
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2006-01-12T00:00:00Z'
+  retrieved_at: '2026-10-23T15:11:51Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 973b5ab241ffd61d9f4ab891571726e0172edb6c4082211a576b76500f6f71b1
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: f980e3346d95b0b55d7317e499a1971d642765e44bbdce8255157442c8ad7b39
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:11:51Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Comissão de Acompanhamento
+- Crime
+- Encarregado de Missão
+- Ministério da Justiça
+- Nomeação
+- Processo Penal
+- Vigilância Electrónica
 relationships:
 - type: amended_by
   target: pt:dre:545658:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:545658:por
+  label: "Prorrogada a nomeação do actual encarregado da missão, licenciado Nuno Manuel Franco Peres Caiado, nomeado pelo\
+    \ presente diploma, pela RES.17/2006.12.01.2006.PCM, DR.IS-B [20] de 27.01.2006\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/resolucao-conselho-ministros/17-2006-545658
+  date: '2006-01-12'
+- type: amended_by
+  target: pt:dre:522793:por
+  label: "Prorrogada a nomeação do actual encarregado da estrutura de missão, pela RES.8/2007.21.12.2006.PCM, DR.IS [10] de\
+    \ 15.01.2007\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/resolucao-conselho-ministros/8-2007-522793
+  date: '2006-12-21'
+- type: cites
+  target: pt:dre:238800:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:11:51Z'
   warnings: []
   errors: []
 ---

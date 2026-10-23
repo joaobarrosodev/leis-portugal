@@ -20,12 +20,12 @@ publication:
   reference: Diário da República n.º 29/2016, 1º Suplemento, Série II de 2016-02-11
   number: '29'
   series: II
-  supplement: 1º Suplemento
+  supplement: null
   pages: 5054-(2) a 5054-(15)
   pdf_url: https://files.diariodarepublica.pt/2s/2016/02/029000001/0000200015.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -47,30 +47,59 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/despacho-normativo/1-b-2016-73576679
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2019-01-18T00:00:00Z'
+  retrieved_at: '2026-10-23T15:08:04Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: d684883661fb7e75faa1401a3245d047bb02773af599b1f0980d596cb0aafa11
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 26e536fbae990c1112f7382bfa22d7b6874dc5ccb9c231dcf2d1092ab88ebfe8
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:08:04Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Agricultura
+- IFAP
+- Política Agrícola Comum
+- Regulamento CE
 relationships:
 - type: amended_by
   target: pt:dre:118010891:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:74385175:por
+  label: Alterados os anexos I, II e III do DN 6/2015, de 20-fev, na redação do presente diploma pelo(a) Despacho Normativo
+    n.º 4/2016 - Diário da República n.º 89/2016, Série II de 2016-05-09
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/despacho-normativo/4-2016-74385175
+  date: '2016-05-09'
+- type: amended_by
+  target: pt:dre:105658698:por
+  label: Alterados, com efeitos a 01.01.2017, o art. 2.º e os anexos I, II e III do DN 6/2015 de 20-fev, na redação do presente
+    diploma, pelo(a) Despacho Normativo n.º 15-B/2016 - Diário da República n.º 249/2016, 2º Suplemento, Série II de 2016-12-29
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/despacho-normativo/15-b-2016-105658698
+  date: '2016-12-29'
+- type: amended_by
+  target: pt:dre:114541492:por
+  label: Alterados o art. 2.º e os anexos I, II e III do DN 6/2015, de 20-fev, na redação do presente diploma pelo(a) Despacho
+    Normativo n.º 3/2018 - Diário da República n.º 13/2018, Série II de 2018-01-18
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/despacho-normativo/3-2018-114541492
+  date: '2018-01-18'
+- type: amended_by
+  target: pt:dre:118010891:por
+  label: Alterados, com efeitos a 19.01.2019 e com aplicação a partir de 01.01.2015 o art. 2.º e os respetivos anexos I, II
+    e III DN 6/2015, de 20-fev, na redação do presente diploma, pelo(a) Despacho Normativo n.º 1/2019 - Diário da República
+    n.º 13/2019, Série II de 2019-01-18
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/despacho-normativo/1-2019-118010891
+  date: '2019-01-18'
 - type: cites
   target: celex:31980L0068
   label: null
@@ -175,21 +204,113 @@ relationships:
   target: celex:32014R0640
   label: null
   source: null
+- type: cites
+  target: pt:dre:148432:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:174836:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:178512:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:1852624:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:226977:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:2516432:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:320080:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:340237:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:358491:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:397360:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:454810:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:469068:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:490409:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:522981:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:531828:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:539227:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:559021:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:583786:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:608175:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:626229:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:629400:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:693250:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:72991304:por
+  label: null
+  source: null
 article_structure:
-  article_count: 13
+  article_count: 3
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:08:04Z'
   warnings: []
   errors: []
 ---
 
-# Despacho Normativo n.º 1-B/2016
+# Despacho normativo n.º 1-B/2016
 
 O Despacho normativo n.º 6/2015, de 20 de fevereiro, estabeleceu os requisitos legais de gestão (RLG) e as normas mínimas para as boas condições agrícolas e ambientais das terras (BCAA) no âmbito da condicionalidade, nos termos do Regulamento (UE) n.º 1306/2013, do Parlamento Europeu e do Conselho, de 17 de dezembro de 2013.
 
@@ -265,7 +386,9 @@ v) [...]
 
 x)«Elementos lineares e ou de paisagem», os elementos lineares e ou de paisagem a integrar na área útil da parcela, de acordo com o artigo 9.º do Regulamento (UE) n.º 640/2014, da Comissão, de 11 de março, definidos no anexo V do presente despacho, do qual faz parte integrante.
 
-###### Artigo 5.º — [...]
+Artigo 5.º
+
+[...]
 
 1 - [...]
 
@@ -309,7 +432,9 @@ As superfícies ocupadas com choupo, salgueiro e a espécie Paulownia tomentosa,
 
 3 - [...]
 
-## ANEXO II — [...]
+ANEXO II
+
+[...]
 
 I - [...]
 
@@ -705,7 +830,9 @@ II - [...]
 
 RLG 14 - [...]
 
-## ANEXO III — [...]
+ANEXO III
+
+[...]
 
 A - [...]
 
@@ -755,7 +882,9 @@ BCAA 7 - [...]
 
 (1) (Anterior (23)).»
 
-###### Artigo 4.º — Aditamento ao despacho normativo n.º 6/2015, de 20 de fevereiro
+Artigo 4.º
+
+Aditamento ao despacho normativo n.º 6/2015, de 20 de fevereiro
 
 É aditado ao despacho normativo n.º 6/2015, de 20 de fevereiro, alterado pelo despacho normativo n.º 16/2015, de 25 de agosto, o anexo V, com a seguinte redação:
 
@@ -817,7 +946,9 @@ Elementos lineares e ou de paisagem
 
 6.1 - Árvores de interesse público, de acordo com a alínea s) do artigo 2.º do presente despacho.»
 
-###### Artigo 5.º — Norma revogatória
+Artigo 5.º
+
+Norma revogatória
 
 São revogados:
 
@@ -827,29 +958,39 @@ b) O artigo 4.º;
 
 c) O n.º 2 do artigo 5.º
 
-###### Artigo 6.º — Republicação
+Artigo 6.º
+
+Republicação
 
 1 - É republicado, em anexo ao presente despacho normativo, do qual faz parte integrante, o despacho normativo n.º 6/2015, de 20 de fevereiro, com a redação atual.
 
 2 - Para efeitos de republicação, onde se lê «Ministro da Agricultura e do Mar», deve ler-se «Ministro da Agricultura, Florestas e Desenvolvimento Rural».
 
-###### Artigo 7.º — Entrada em vigor e produção de efeitos
+Artigo 7.º
+
+Entrada em vigor e produção de efeitos
 
 O presente despacho entra em vigor no dia seguinte ao da sua publicação e produz efeitos a partir de 1 de janeiro de 2016.
 
 11 de fevereiro de 2016. - O Ministro da Agricultura, Florestas e Desenvolvimento Rural, Luís Manuel Capoulas Santos.
 
-## ANEXO — Republicação do despacho normativo n.º 6/2015, de 20 de fevereiro
+ANEXO
+
+Republicação do despacho normativo n.º 6/2015, de 20 de fevereiro
 
 (a que se refere o n.º 1 do artigo 6.º)
 
-###### Artigo 1.º — Âmbito de aplicação
+Artigo 1.º
+
+Âmbito de aplicação
 
 1 - O presente despacho estabelece os requisitos legais de gestão e as normas mínimas para as boas condições agrícolas e ambientais das terras, nos termos e para os efeitos do disposto no artigo 93.º do Regulamento (UE) n.º 1306/2013, do Parlamento Europeu e do Conselho, de 17 de dezembro de 2013.
 
 2 - Nas Regiões Autónomas, os requisitos legais de gestão e as normas mínimas para as boas condições agrícolas e ambientais das terras são estabelecidos pelos órgãos de governo próprios.
 
-###### Artigo 2.º — Definições
+Artigo 2.º
+
+Definições
 
 Para efeitos de aplicação do disposto no presente despacho, entende-se por:
 
@@ -907,7 +1048,9 @@ v) «Óleo usado», qualquer óleo que se tenha tornado impróprio para o uso a 
 
 x) «Elementos lineares e ou de paisagem», os elementos lineares e ou de paisagem a integrar na área útil da parcela, de acordo com o artigo 9.º do Regulamento (UE) n.º 640/2014, da Comissão, de 11 de março, definidos no anexo V do presente despacho, do qual faz parte integrante.
 
-###### Artigo 3.º — Regras em matéria de condicionalidade e de prados e pastagens permanentes
+Artigo 3.º
+
+Regras em matéria de condicionalidade e de prados e pastagens permanentes
 
 1 - A lista de indicadores relativos aos requisitos legais de gestão (RLG) é a constante do anexo II ao presente despacho, do qual faz parte integrante.
 
@@ -919,15 +1062,21 @@ x) «Elementos lineares e ou de paisagem», os elementos lineares e ou de paisag
 
 5 - As orientações técnicas referidas no número anterior devem ser objeto de pronúncia da Comissão Consultiva da Condicionalidade ao abrigo do disposto no artigo 9.º da [Portaria n.º 36/2005](https://diariodarepublica.pt/dr/detalhe/portaria/36-2005-626229), de 17 de janeiro, alterada pelas Portarias n.º 438/2006, de 8 de maio e 46/2013, de 4 de fevereiro.
 
-###### Artigo 4.º — (Revogado.)
+Artigo 4.º
 
-###### Artigo 5.º — Entrada em vigor e aplicação
+(Revogado.)
+
+Artigo 5.º
+
+Entrada em vigor e aplicação
 
 1 - O presente despacho entra em vigor no dia seguinte ao da sua publicação e aplica-se a partir de 1 e janeiro de 2015.
 
 2 - (Revogado.)
 
-## ANEXO I — [a que se refere a alínea a) do artigo 2.º]
+ANEXO I
+
+[a que se refere a alínea a) do artigo 2.º]
 
 Ocupações culturais
 
@@ -1097,7 +1246,9 @@ Incluem-se as zonas apaúladas, turfeiras, sapais, salinas e zonas intermarés c
 
 Incluem-se as superfícies que não estão contempladas nos níveis anteriores, nomeadamente as culturas permanentes ou as culturas protegidas que não apresentam condições para a colheita e em que a superfície se encontra ocupada maioritariamente por vegetação arbustiva, mais de 50 % da superfície da parcela, com altura superior a 50 cm.
 
-## ANEXO II — (a que se refere o n.º 1 do artigo 3.º)
+ANEXO II
+
+(a que se refere o n.º 1 do artigo 3.º)
 
 Requisitos legais de gestão
 
@@ -1647,7 +1798,9 @@ RLG 14 - Requisitos das zonas classificadas como de proteção às captações d
 
 1.2 - São cumpridas as restrições definidas na legislação em vigor relativamente às zonas de proteção alargada das captações de águas subterrâneas para abastecimento público.
 
-## ANEXO III — (a que se refere o n.º 2 do artigo 3.º)
+ANEXO III
+
+(a que se refere o n.º 2 do artigo 3.º)
 
 Boas condições agrícolas e ambientais das terras
 
@@ -1753,9 +1906,13 @@ c) Árvores de interesse público localizadas nas parcelas de superfície agríc
 
 (1) Vegetação arbustiva - vegetação lenhosa espontânea com altura superior a 50 cm, com exceção nas superfícies com «Sobreiros destinados à produção de cortiça» onde deve ser considerada a altura de 100 cm.»
 
-## ANEXO IV — (Revogado pelo despacho normativo n.º 16/2015, de 18 de agosto)
+ANEXO IV
 
-## ANEXO V — (a que se refere a alínea x) do artigo 2.º)
+(Revogado pelo despacho normativo n.º 16/2015, de 18 de agosto)
+
+ANEXO V
+
+(a que se refere a alínea x) do artigo 2.º)
 
 Elementos lineares e ou de paisagem
 
@@ -1810,3 +1967,5 @@ Elementos lineares e ou de paisagem
 6 - Elementos lineares e ou paisagem a integrar na área útil da parcela sem limite:
 
 6.1 - Árvores de interesse público, de acordo com a alínea s) do artigo 2.º do presente despacho.
+
+209347022

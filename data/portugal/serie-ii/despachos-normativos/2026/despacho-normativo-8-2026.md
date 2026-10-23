@@ -49,36 +49,70 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/despacho-normativo/8-2026-1138561632
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2026-06-26T00:00:00Z'
+  retrieved_at: '2026-10-23T15:09:19Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 39ae2cecc510acb4c2700ea878786b8bf6229cf8e46042c4105adf4a2d661085
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: c28d9efbab639ab6ea4dd7ed1945803a29a741e45c3df5c40f4c1e08de5fcf19
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:09:19Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
-relationships: []
+subjects:
+- Alojamento local
+- Formulário Eletrónico
+- Página na Internet
+- Política Social
+- Regulamentação de Atos Legislativos
+- Situação de Calamidade
+- Turismo
+relationships:
+- type: amends
+  target: pt:numero:despacho-normativo:1-A/2026
+  label: Prorroga, a partir de 27 de junho de 2026, até 30 de setembro de 2026, nos termos do n.º 2 do artigo 1.º do presente
+    diploma, a vigência do programa «O Turismo Acolhe», criado pelo Despacho Normativo n.º 1-A/2026, de 9 de fevereiro, Diário
+    da República n.º 27/2026, Suplemento, Série II
+  source: null
+  date: '2026-02-09'
+- type: cites
+  target: pt:dre:1034985574:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:1043313553:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:1066940121:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:1082603676:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:926483751:por
+  label: null
+  source: null
 article_structure:
   article_count: 2
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:09:19Z'
   warnings: []
   errors: []
 ---
@@ -110,3 +144,5 @@ Assim, nos termos da alínea b) do n.º 5 do artigo 15.º do [Decreto-Lei n.º 8
 O presente despacho normativo entra em vigor no dia seguinte à data da sua publicação.
 
 19 de junho de 2026. - O Secretário de Estado do Turismo, Comércio e Serviços, Pedro Manuel Monteiro Machado.
+
+320015196

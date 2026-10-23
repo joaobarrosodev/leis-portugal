@@ -1,7 +1,7 @@
 ---
 schema_version: '1.0'
 id: pt:dre:1255941:por
-title: Resolução n.º 14/2001(2.ªsérie)
+title: Resolução n.º 14/2001 (2.ª série)
 short_title: null
 summary: null
 jurisdiction: portugal
@@ -46,41 +46,52 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/resolucao/14-2001-1255941
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2001-01-15T00:00:00Z'
+  retrieved_at: '2026-10-23T15:10:36Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: c9897bbd303a1548caeed76e2681c86d58cbc33b7ae8d024b5f0411539845add
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: bb1add4946a8b38b4eef4900b5a8483359551e67ab6db708e2b0a50231ed155b
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:10:36Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
-relationships: []
+subjects:
+- Aquisição de Bens e Serviços
+- Fiscalização
+- Ifadap
+- Ministério da Defesa Nacional
+- Pesca
+- Sificap
+- Transferência de Verbas
+relationships:
+- type: cites
+  target: pt:dre:667092:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:10:36Z'
   warnings: []
   errors: []
 ---
 
-# Resolução n.º 14/2001(2.ªsérie)
+# Resolução n.º 14/2001 (2.ª série)
 
 Resolução n.º 14/2001 (2.ª série). - Através da [Resolução do Conselho de Ministros n.º 121/99](https://diariodarepublica.pt/dr/detalhe/resolucao-conselho-ministros/121-1999-667092), de 16 de Outubro, foi deliberado que "as acções de competência dos organismos integrados no Ministério da Defesa Nacional (MDN) previstas no Programa de Expansão-Integração-Consolidação dos Sistemas de Fiscalização e Controlo da Actividade da Pesca, traduzem-se (sic) ... no pagamento da 4.ª e última prestação da aquisição de dois helicópteros com raio de acção adequado à extensão e largura da zona económica exclusiva nacional e devidamente compatibilizados com os sistemas SIFICAP e MONICAP".
 

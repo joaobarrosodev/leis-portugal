@@ -46,36 +46,51 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/resolucao/41-2012-2745925
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2012-10-29T00:00:00Z'
+  retrieved_at: '2026-10-23T15:14:58Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 2123e73558b8dbd7aaec9e8c1ef8cd8cff514392432c12b2d8e796c6730017f6
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 10c036df49d8192635c5565206cc640967df191253a67cc13a95725c85e00cec
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:14:58Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
-relationships: []
+subjects:
+- Conselho de Administração
+- Inatel
+- Nomeação
+- Presidente
+- Vice-presidente
+- Vogal
+relationships:
+- type: cites
+  target: pt:dre:456211:por
+  label: null
+  source: null
+- type: corrected_by
+  target: pt:dre:3436934:por
+  label: "Retificado o anexo, pela DECL-RECT.1629/2012.26.12.2012.SG-PCM, DR.IIS [249] de 26.12.2012\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/declaracao-retificacao/1629-2012-3436934
+  date: '2012-12-26'
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:14:58Z'
   warnings: []
   errors: []
 ---
@@ -107,3 +122,5 @@ José Manuel da Costa Soares, licenciado em Engenharia Civil pela Faculdade de E
 Álvaro da Silva Amorim de Sousa Carneiro, mestre em Sociologia do Trabalho, doutorando em Ciências do Trabalho no ISCE, detentor de várias pós-graduações, eleito vereador da Câmara Municipal de Lisboa, professor universitário do ISCTE-IUL (convidado), técnico superior na Câmara Municipal de Cascais, membro do Conselho Científico e Diretivo do OPBPL - ISCTE-IUL, tem obras publicadas, membro de várias associações, condecorado e tem um louvor por serviços prestados na Câmara Municipal de Lisboa. Possuidor de várias ações de formação tem desenvolvido múltiplas iniciativas, ações e atividades em instituições sociais, culturais e desportivas.
 
 Jacinta do Rosário Fernandes Oliveira Santos, licenciada em Filosofia, pela Faculdade de Letras da Universidade do Porto (1984), pós-graduada em Comunicação e Marketing Político, pelo Instituto Superior de Ciências Sociais e Políticas, Universidade Técnica de Lisboa (2011/2012) e Mestranda em Ciência Política no mesmo Instituto. Foi produtora, realizadora e apresentadora de programas no Grupo Renascença. Foi responsável pela coordenação, produção e apresentação da programação cultural no âmbito da «Porto 2001, Capital Europeia da Cultura» no mesmo Grupo de Comunicação. Produziu em articulação com organismos públicos (autarquias) e privados (empresas) eventos de âmbito recreativo e cultural. Exerceu ainda a atividade de consultoria e assessoria em comunicação.
+
+19932012

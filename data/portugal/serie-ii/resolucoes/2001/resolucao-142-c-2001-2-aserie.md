@@ -1,7 +1,7 @@
 ---
 schema_version: '1.0'
 id: pt:dre:1414175:por
-title: Resolução n.º 142-C/2001(2.ªsérie)
+title: Resolução n.º 142-C/2001 (2.ª série)
 short_title: null
 summary: null
 jurisdiction: portugal
@@ -19,7 +19,7 @@ publication:
   reference: Diário da República n.º 283/2001, 1º Suplemento, Série II de 2001-12-07
   number: '283'
   series: II
-  supplement: 1º Suplemento
+  supplement: null
   pages: 20400-(2) a 20400-(3)
   pdf_url: https://files.diariodarepublica.pt/2s/2001/12/283000001/0000200003.pdf
 entry_into_force_dates: []
@@ -46,45 +46,59 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/resolucao/142-c-2001-1414175
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2006-11-30T00:00:00Z'
+  retrieved_at: '2026-10-23T15:10:39Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: de484eab51e2e5f2708a5d950f0d0d251c49c50102856ff9bff379029bc40bfb
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 8a1bee26262c178b2e3aed06a617d3baefbba244b946c3cef1043139515d4007
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:10:39Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Conselho Diretivo
+- Instituto de Seguros de Portugal
+- Nomeação
+- Vice-presidente
 relationships:
 - type: amended_by
   target: pt:dre:2278508:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:2278508:por
+  label: "Renovado o mandato do nomeado pelo presente diploma, pela RES.105/2006.30.11.2006.PCM, DR.IIS [242] de 19.12.2006\0\
+    \0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/resolucao/105-2006-2278508
+  date: '2006-11-30'
+- type: cites
+  target: pt:dre:603511:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:10:39Z'
   warnings: []
   errors: []
 ---
 
-# Resolução n.º 142-C/2001(2.ªsérie)
+# Resolução n.º 142-C/2001 (2.ª série)
 
 Resolução n.º 142-C/2001 (2.ª série). - Nos termos do artigo 9.º do Estatuto do Instituto de Seguros de Portugal, aprovado pelo [Decreto-Lei n.º 289/2001](https://diariodarepublica.pt/dr/detalhe/decreto-lei/289-2001-603511), de 13 de Novembro, compete ao Conselho de Ministros, sob proposta do Ministro das Finanças, nomear os membros do conselho directivo do Instituto de Seguros de Portugal (ISP) de entre pessoas com reconhecida idoneidade, independência e competência no âmbito das atribuições do ISP.
 

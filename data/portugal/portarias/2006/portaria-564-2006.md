@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/564/2006/06/12/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/564-2006-346719
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2009-04-16T00:00:00Z'
+  retrieved_at: '2026-10-23T15:14:53Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 6c856d3f62dd0d75e50e415582883663d37a3715529864aa44ef931d328e92fd
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 66f3cec6e95957178002339f7d8ec323aec761f24e30fbf2e06a7d2ef7102764
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:14:53Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -73,20 +73,31 @@ relationships:
   target: pt:dre:603883:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:603883:por
+  label: "Extinta a zona de caça municipal de Corte Sines, concessionada pela Port 1172/2003, de 02-Out, alterada pelo presente\
+    \ diploma, e concessionada, pelo período de 6 anos, a zona de caça associativa de Corvos e Corte Sines, pela PORT.416/2009.16.04.2009.MAOTDR,\
+    \ DR.IS [74] de 16.04.2009\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/416-2009-603883
+  date: '2009-04-16'
 - type: cites
   target: eli:http://data.dre.pt/eli/port/1172/2003/10/02/p/dre
   label: null
   source: http://data.dre.pt/eli/port/1172/2003/10/02/p/dre
+- type: cites
+  target: pt:dre:484099:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:14:53Z'
   warnings: []
   errors: []
 ---
@@ -111,4 +122,4 @@ Manda o Governo, pelo Ministro da Agricultura, do Desenvolvimento Rural e das Pe
 
 Pelo Ministro da Agricultura, do Desenvolvimento Rural e das Pescas, Rui Nobre Gonçalves, Secretário de Estado do Desenvolvimento Rural e das Florestas, em 24 de Maio de 2006.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2006/06/113b00/41714171.pdf))](https://files.diariodarepublica.pt/1s/2006/06/113b00/41714171.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2006/06/113b00/41714171.pdf)

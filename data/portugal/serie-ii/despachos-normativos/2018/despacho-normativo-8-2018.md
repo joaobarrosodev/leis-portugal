@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/2s/2018/05/095000000/1393613936.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -47,18 +47,18 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/despacho-normativo/8-2018-115333142
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2018-05-17T00:00:00Z'
+  retrieved_at: '2026-10-23T15:08:25Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: e484690967c32e71a975c0409e164d8c8b75c3a5f94e00e22da5858052a19db5
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: ea6b035638531b2b570558359cdae80ec13dbf982a405af2c00a4f448952b8c5
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:08:25Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,17 +66,21 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects: []
-relationships: []
+relationships:
+- type: cites
+  target: pt:dre:114982014:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:08:25Z'
   warnings: []
   errors: []
 ---
@@ -94,3 +98,5 @@ Considerando que não se trata de matéria que afete de modo direto e imediato d
 Determino, ao abrigo do artigo 6.º do [Regulamento n.º 207/2018](https://diariodarepublica.pt/dr/detalhe/regulamento/207-2018-114982014), que o mesmo seja excecionalmente aplicável para o cálculo e pagamento da remuneração pelo número total de horas de serviço docente efetivamente prestado por investigadores da Nova Medical School - Faculdade de Ciências Médicas da Universidade Nova de Lisboa na unidade orgânica com a qual têm o seu vínculo no ano letivo de 2017/2018.
 
 3 de maio de 2018. - O Reitor, Professor Doutor João de Deus Sàágua.
+
+311323243

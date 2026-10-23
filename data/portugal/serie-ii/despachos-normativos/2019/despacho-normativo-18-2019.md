@@ -29,7 +29,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/2s/2019/06/117000000/1807018071.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -51,40 +51,103 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/despacho-normativo/18-2019-122630001
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2022-09-29T00:00:00Z'
+  retrieved_at: '2026-10-23T15:08:30Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 0ef5fd85965d57d9a2ddb334d5e03fee4c9240eab8889fb36ed47eb0be6fc0f9
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 219649f8b54e88fffd2b3023bc7abfe94592829d38fdd843c285d3fbc1ae6f4d
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:08:30Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Administrador
+- CMVM
+- Comissão para a Cidadania e a Igualdade de Género
+- Comissão para a Igualdade no Trabalho e no Emprego
+- Comunicações
+- Cotação na Bolsa
+- Direção Geral das Autarquias Locais
+- Direcção Geral da Administração e do Emprego Público
+- Empresa
+- Empresa Pública
+- Igualdade de Oportunidades
+- Igualdade de Tratamento
+- Plataforma de Interoperabilidade da Administração Pública
+- Sector Empresarial Local
+- Setor Empresarial do Estado
 relationships:
 - type: amended_by
   target: pt:dre:201616992:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:142961499:por
+  label: Prorrogados até 25.11.2020, o termo do prazo previsto no n.º 4 do art. 3.º, para comunicação dos planos para a igualdade
+    relativos a 2021 e até 20.02.2021, o prazo previsto no n.º 2 do art. 5.º, para publicação das recomendações sobre os planos
+    para a igualdade do presente diploma, pelo(a) Despacho Normativo n.º 10-A/2020 - Diário da República n.º 180/2020, 1º
+    Suplemento, Série II de 2020-09-15
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/despacho-normativo/10-a-2020-142961499
+  date: '2020-09-15'
+- type: amended_by
+  target: pt:dre:171441511:por
+  label: Prorrogados, com efeitos a 10.09.2021, os prazos previstos no n.º 4 do art. 3.º e no n.º 2 do art. 5.º pelo(a) Despacho
+    Normativo n.º 23-A/2021 - Diário da República n.º 180/2021, 2º Suplemento, Série II de 2021-09-15
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/despacho-normativo/23-a-2021-171441511
+  date: '2021-09-15'
+- type: amended_by
+  target: pt:dre:201616992:por
+  label: Prorrogados, com efeitos a 10.09.2022, os prazos previstos no n.º 4 do art. 3.º e no n.º 2 do art. 5.º pelo(a) Despacho
+    Normativo n.º 12/2022 - Diário da República n.º 189/2022, Série II de 2022-09-29
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/despacho-normativo/12-2022-201616992
+  date: '2022-09-29'
+- type: cites
+  target: pt:dre:106929977:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:106929978:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:107791612:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:108170420:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:114223792:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:122285097:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:73320492:por
+  label: null
+  source: null
 article_structure:
   article_count: 7
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:08:30Z'
   warnings: []
   errors: []
 ---
@@ -188,3 +251,5 @@ c) Matriz de verificação da execução do plano para a igualdade e do cumprime
 O presente despacho normativo entra em vigor no dia seguinte ao da sua publicação.
 
 17 de junho de 2019. - A Secretária de Estado para a Cidadania e a Igualdade, Rosa Filomena Brás Lopes Monteiro. - 17 de junho de 2019. - O Secretário de Estado Adjunto e das Finanças, Ricardo Emanuel Martins Mourinho Félix. - 14 de junho de 2019. - A Secretária de Estado da Administração e do Emprego Público, Maria de Fátima de Jesus Fonseca. - 17 de junho de 2019. - O Secretário de Estado do Tesouro, Álvaro António da Costa Novo. - 14 de junho de 2019. - O Secretário de Estado das Autarquias Locais, Carlos Manuel Soares Miguel. - 14 de junho de 2019. - O Secretário de Estado do Emprego, Miguel Filipe Pardal Cabrita.
+
+312383542

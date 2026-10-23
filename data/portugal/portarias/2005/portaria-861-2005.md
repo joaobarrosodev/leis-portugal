@@ -48,18 +48,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/861/2005/09/21/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/861-2005-148413
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2005-09-21T00:00:00Z'
+  retrieved_at: '2026-10-23T15:08:51Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 3c445f0759e686d37108272af37eeb86a128f760e50f4afbbad499c9c206af09
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: f8c3c37eeea93093e57d55b8bdd6eaa6d32fddf6fd425f6f5f35365beee52199
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:08:51Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -92,16 +92,36 @@ relationships:
   target: eli:http://data.dre.pt/eli/port/794/2003/08/13/p/dre
   label: null
   source: http://data.dre.pt/eli/port/794/2003/08/13/p/dre
+- type: cites
+  target: pt:dre:288047:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:434640:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:480704:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:603031:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:660091:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:08:51Z'
   warnings: []
   errors: []
 ---

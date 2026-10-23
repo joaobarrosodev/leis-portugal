@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/2s/2015/04/083000000/1051710517.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -46,36 +46,68 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/resolucao/27-2015-67084319
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2015-04-29T00:00:00Z'
+  retrieved_at: '2026-10-23T15:15:37Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 9a452f5d3d8bda1a00268a3f6f30652ad5dd9943640e2fe81f16b5d92e8c2359
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 973b7b0d3feed85aa5dfe298ba617cec41f4b694a081ff66c1572cf0172e3179
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:15:37Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
-relationships: []
+subjects:
+- Conselho Diretivo
+- Fundação para a Ciência e a Tecnologia
+- Nomeação
+- Presidente
+relationships:
+- type: cites
+  target: pt:dre:25676932:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:260419:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:498124:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:520259:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:543034:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:544415:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:603476:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:15:37Z'
   warnings: []
   errors: []
 ---
@@ -125,3 +157,5 @@ Assumiu responsabilidades na área editorial, sendo editora do Journal of Biolog
 Participou na avaliação de várias instituições científicas internacionais, nomeadamente o European Molecular Biology Laboratory (EMBL) em Hamburgo (Alemanha) e o Laboratório Max-IV em Lund (Suécia). Organizou o processo de adesão de Portugal ao ESRF European Synchrotron Radiation Facility (ESRF). Coordenou a adesão de Portugal ao INSTRUCT, projeto europeu do European Strategy Forum on Research Infrastructures (ESFRI). Foi membro de comissões de avaliação científica do European Research Council (ERC), da Academy of Finland e de comissões de avaliação de propostas para sincrotrões europeus, nomeadamente o ESRF, o EMBL-Hamburgo e a Swiss Light Source (SLS).
 
 Foi nomeada, em 2015, para integrar o conjunto de 20 mulheres distinguidas na Exposição "Mulheres na Ciência" organizada pela Agência Ciência Viva. Distinguida, em 2008, com o Prémio Câmara Pestana atribuído pelo Instituto Câmara Pestana da Universidade de Lisboa. Distinguida pela Editorial Verbo na publicação Annuallia 2005-2006 e agraciada com "Medalhas de Honra" atribuídas pelos municípios de Oeiras em 2007 e Vila Nova de Famalicão em 2006. Distinguida com o Prémio "Estimulo à Excelência" atribuído pelo Ministério da Ciência, Tecnologia e Ensino Superior, em 2004. Galardoada, em 2004, com a Medalha Europeia em Química Bio-Inorgânica (EUROBIC Medal). Eleita membro da European Molecular Biology Organization (EMBO) em 2000.
+
+208592419

@@ -46,36 +46,49 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/resolucao/15-2011-1727455
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2011-08-24T00:00:00Z'
+  retrieved_at: '2026-10-23T15:14:42Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 10bc8e07d9fea33aa897a90cdfb9b117fd7ac552e915ccf2eee72db260e679c9
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 8ac4d08672c841ed3166bb6b24ba9b77a69f974dbb611701b24b225483ddd31f
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:14:42Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
-relationships: []
+subjects:
+- Conselho de Administração
+- Nomeação
+- Presidente
+- Serviços Partilhados do Ministério da Saúde
+- Vogal
+relationships:
+- type: cites
+  target: pt:dre:520259:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:611341:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:14:42Z'
   warnings: []
   errors: []
 ---
@@ -229,3 +242,5 @@ Curso pós-graduado em Direito dos Contratos Públicos, pelo Instituto de Ciênc
 II - Actividade profissional:
 
 Consultora jurídica, nas seguintes áreas de actuação: direito da saúde e da bioética; direito administrativo; direito da função pública; direito farmacêutico e contratação pública, entre 2000 e 2008; Advogada estagiária da sociedade Madeira de Brito, Sá e Cunha, Parente Esteves e Filipa Névoa Associados (2000-2001) e da sociedade de advogados Barrocas e Alves Pereira (2001-2002); Advogada associada da sociedade Barrocas Sarmento Neves, RL, entre 2003 e 2008; Assessora jurídica do Departamento de Conservação de Edifícios e Obras Diversas da Câmara Municipal de Lisboa, entre 2002 e 2004; Formadora do Centro de Estudos de Formação Autárquica, nas disciplinas de Organização do Estado e da Administração e de Procedimento Administrativo e Defesa dos Administrados, entre 2002 e 2005; Assessora jurídica do conselho de administração do Centro Hospitalar Lisboa Norte, E. P. E., desde Novembro de 2008; Directora do Serviço de Gestão de Compras do Centro Hospitalar Lisboa Norte, E. P. E., desde Fevereiro de 2009; Administradora do Centro Hospitalar Lisboa Norte, E. P. E, desde 1 de Fevereiro 2010; Docente na Universidade Atlântica, na disciplina de Direito da Saúde, desde 2008.
+
+15202011

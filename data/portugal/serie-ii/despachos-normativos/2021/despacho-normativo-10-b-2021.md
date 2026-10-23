@@ -20,12 +20,12 @@ publication:
   reference: Diário da República n.º 72/2021, 2º Suplemento, Série II de 2021-04-14
   number: '72'
   series: II
-  supplement: 2º Suplemento
+  supplement: null
   pages: 362-(4) a 362-(18)
   pdf_url: https://files.diariodarepublica.pt/2s/2021/04/072000002/0000400018.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -47,36 +47,110 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/despacho-normativo/10-b-2021-161433525
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2021-04-14T00:00:00Z'
+  retrieved_at: '2026-10-23T15:08:40Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 93e22e9ea03477bb1ba265c8265276ec3cbd3dbeced598827a6e6f09783cce39
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 5abcba85d3eca0f3c7d15fd7b8fa610eef6b257d3855f5ddac807c007b4144cb
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:08:40Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
-relationships: []
+subjects:
+- Administração do Ensino
+- Definição de Competências
+- Direção Geral dos Estabelecimentos Escolares
+- Educação Pré-escolar
+- Ensino Básico
+- Ensino Cooperativo
+- Ensino Doméstico
+- Ensino Oficial
+- Ensino Particular
+- Ensino Secundário
+- Estabelecimento de Ensino
+- Fiscalização
+- Gestão Escolar
+- Inspecção Geral da Educação e Ciência
+- Matrícula
+- Ministério da Educação e Ciência
+- Prazo
+- REDE Escolar
+relationships:
+- type: cites
+  target: pt:dre:107516544:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:107791610:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:115093805:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:115652961:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:115811903:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:124680588:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:128154291:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:132136109:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:146781088:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:179057:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:469001:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:516044:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:561219:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:69927755:por
+  label: null
+  source: null
 article_structure:
-  article_count: 30
+  article_count: 26
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:08:40Z'
   warnings: []
   errors: []
 ---
@@ -135,7 +209,9 @@ Os artigos 5.º, 6.º, 8.º, 9.º e 16.º do [Despacho Normativo n.º 6/2018](ht
 
 13 - ...
 
-###### Artigo 6.º — [...]
+Artigo 6.º
+
+[...]
 
 1 - Sem prejuízo dos prazos específicos estabelecidos no presente despacho normativo, os períodos para matrícula e respetivas renovações e os prazos que destes dependam são fixados em despacho que defina o calendário de matrículas e renovações.
 
@@ -151,7 +227,9 @@ Os artigos 5.º, 6.º, 8.º, 9.º e 16.º do [Despacho Normativo n.º 6/2018](ht
 
 7 - (Revogado.)
 
-###### Artigo 8.º — [...]
+Artigo 8.º
+
+[...]
 
 1 - Salvo nos casos previstos no artigo 9.º, a renovação de matrícula opera de forma automática, sem necessidade de apresentação de qualquer pedido, sendo o processo de renovação assegurado pelos estabelecimentos de educação e de ensino nos termos do n.º 2 do artigo 7.º
 
@@ -163,7 +241,7 @@ Os artigos 5.º, 6.º, 8.º, 9.º e 16.º do [Despacho Normativo n.º 6/2018](ht
 
 5 - A renovação automática de matrícula referida no n.º 1 não exclui a obrigação dos encarregados de educação e, quando maiores de idade, dos alunos de manterem os seus dados pessoais atualizados junto do estabelecimento de educação ou de ensino, devendo fazê-lo fora dos períodos fixados para pedidos de matrícula e de renovação de matrícula.
 
-###### Artigo 9.º
+Artigo 9.º
 
 Renovação de matrícula com transição de ciclo, alteração de estabelecimento, de encarregado de educação, de curso ou de percurso formativo ou dependente de escolha de disciplinas
 
@@ -183,7 +261,9 @@ Renovação de matrícula com transição de ciclo, alteração de estabelecimen
 
 8 - ...
 
-###### Artigo 16.º — [...]
+Artigo 16.º
+
+[...]
 
 1 - Os estabelecimentos de educação e ensino devem garantir que os processos de aplicação dos critérios de prioridades nas matrículas, de decisão de atribuição de vaga e a consequente circulação dos processos dos alunos pelas preferências manifestadas, quando se justificar, estão terminados até à data da divulgação das listas de crianças e alunos relativas à matrícula ou à renovação de matrícula, tal como fixada no despacho que define o calendário de matrículas e renovações mencionado no artigo 6.º
 
@@ -642,3 +722,5 @@ V - Disposições finais e transitórias
 1 - O serviço do Ministério da Educação responsável pela gestão do Portal das Matrículas disponibiliza, no referido portal [portaldasmatriculas.edu.gov.pt], um manual de utilização para os efeitos previstos no presente despacho normativo no qual constará, também, o endereço eletrónico de contacto preferencial e a linha direta de helpdesk.
 
 2 - As competências atribuídas ao diretor do agrupamento de escolas ou escola não agrupada no presente despacho normativo podem ser delegadas e subdelegadas no subdiretor e nos adjuntos.
+
+314148168

@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/2s/2021/07/137000000/0007500100.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -46,18 +46,18 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/despacho-normativo/20-2021-167491822
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2023-05-10T00:00:00Z'
+  retrieved_at: '2026-10-23T15:08:48Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 7bdd897f90f99f2248491aa56ff871a8a0009fd4dce3c7ea4bbfa14c43452b11
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 621674b0cfefb9776b9f7308683beda5f33fea4104d7dc0edd2678d1dd29c56d
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:08:48Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -70,16 +70,24 @@ relationships:
   target: pt:dre:212849933:por
   label: Última alteração registada na importação inicial
   source: null
+- type: cites
+  target: pt:dre:640339:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:865861:por
+  label: null
+  source: null
 article_structure:
   article_count: 74
   section_count: 22
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:08:48Z'
   warnings: []
   errors: []
 ---
@@ -1230,18 +1238,20 @@ Os presentes Estatutos entram em vigor no dia seguinte ao da sua publicação no
 
 Brasão
 
-[([ver documento original](https://files.diariodarepublica.pt/2s/2021/07/137000000/0007500100.pdf))](https://files.diariodarepublica.pt/2s/2021/07/137000000/0007500100.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/2s/2021/07/137000000/0007500100.pdf)
 
 Brasão de Armas: de ouro, livro de prata, aberto, encadernado de púrpura e realçado de negro, tendo na folha da dextra um coração de vermelho e na da sinistra uma coroa real de azul forrada de vermelho, entre cruz pátea de azul, cruz de Ordem de São João de Jerusalém, dita de Rodes, dita de Malta, de verde, em chefe, e candeia de negro, realçada de prata e acesa de vermelho e ouro, em campanha. Coroa académica de prata, com sua pedraria. Listel branco, com a legenda a negro: «ESCOLA SUPERIOR DE ENFERMAGEM DO PORTO».
 
 Bandeira
 
-[([ver documento original](https://files.diariodarepublica.pt/2s/2021/07/137000000/0007500100.pdf))](https://files.diariodarepublica.pt/2s/2021/07/137000000/0007500100.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/2s/2021/07/137000000/0007500100.pdf)
 
 Bandeira: verde, lisa. Cordão e borlas de ouro e verde. Haste e lança de prata.
 
 Selo
 
-[([ver documento original](https://files.diariodarepublica.pt/2s/2021/07/137000000/0007500100.pdf))](https://files.diariodarepublica.pt/2s/2021/07/137000000/0007500100.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/2s/2021/07/137000000/0007500100.pdf)
 
 Selo: circular, tendo ao centro a representação das figuras do escudo, sem indicação de metais e esmaltes em volta, com a legenda «ESCOLA SUPERIOR DE ENFERMAGEM DO PORTO».
+
+314368375

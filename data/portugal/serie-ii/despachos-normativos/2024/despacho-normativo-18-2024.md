@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/2s/2024/12/235000000/0006300064.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -47,36 +47,56 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/despacho-normativo/18-2024-898866988
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2024-12-04T00:00:00Z'
+  retrieved_at: '2026-10-23T15:09:09Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: fc0429ee8900eb05943831106df5219858a93d43516223a0663192ead898aed5
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 6321bb54fca70d0462f91f7057d594f1a255003dc3cbef328cf6fd136c77ecbc
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:09:09Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
-relationships: []
+subjects:
+- Carreira Profissional
+- Contingentação
+- Investigação Criminal
+- Polícia Judiciária
+- Racionalização de Efectivos
+- Regulamentação de Atos Legislativos
+relationships:
+- type: cites
+  target: pt:dre:124680595:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:211573144:por
+  label: null
+  source: null
+- type: repeals
+  target: pt:numero:despacho-normativo:5/2023
+  label: Revoga, a partir de 5 de dezembro de 2024, nos termos do artigo 5.º do presente diploma, o Despacho Normativo n.º
+    5/2023, de 11 de abril, Diário da República n.º 71/2023, Série II
+  source: null
+  date: '2023-04-11'
 article_structure:
   article_count: 6
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:09:09Z'
   warnings: []
   errors: []
 ---
@@ -115,7 +135,7 @@ O presente despacho normativo estabelece as regras a atender na apresentação, 
 
 ###### Artigo 3.º — Apreciação dos pedidos de passagem à disponibilidade
 
-1 - As situações previstas nos n.<sup>os</sup>1 a 4 do artigo anterior são prioritárias e apreciadas de imediato.
+1 - As situações previstas nos n.os1 a 4 do artigo anterior são prioritárias e apreciadas de imediato.
 
 2 - A apreciação dos pedidos apresentados ao abrigo do n.º 5 do artigo anterior tem lugar no final de cada semestre do ano civil, sendo concedida prioridade, sucessivamente, a situações de:
 
@@ -133,7 +153,7 @@ e) Situação de saúde de cônjuge ou de pessoa com quem viva em união de fact
 
 1 - A colocação na situação de disponibilidade é efetuada de acordo com a modalidade solicitada, por integração nas quotas percentuais estabelecidas para o respetivo ano.
 
-2 - As situações de disponibilidade previstas nos n.<sup>os</sup>1 a 4 do artigo 2.º são estabelecidas por despacho do diretor nacional da Polícia Judiciária.
+2 - As situações de disponibilidade previstas nos n.os1 a 4 do artigo 2.º são estabelecidas por despacho do diretor nacional da Polícia Judiciária.
 
 3 - Nas situações previstas na alínea b) do n.º 1 do artigo 82.º do EPPJ, a passagem à disponibilidade é determinada por despacho do membro do Governo responsável pela área da justiça, com produção de efeitos na data prevista no despacho ou, na sua ausência, no último dia do mês seguinte ao da data do despacho.
 
@@ -146,3 +166,5 @@ e) Situação de saúde de cônjuge ou de pessoa com quem viva em união de fact
 O presente despacho normativo entra em vigor no dia seguinte ao da sua publicação.
 
 26 de novembro de 2024. - A Ministra da Justiça, Rita Alarcão Júdice.
+
+318402239

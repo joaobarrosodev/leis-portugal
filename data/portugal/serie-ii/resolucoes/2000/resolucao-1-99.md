@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/2s/2000/02/040000000/0330003301.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -46,18 +46,18 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/resolucao/1-2000-1800684
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2000-02-17T00:00:00Z'
+  retrieved_at: '2026-10-23T15:09:30Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: a8ba55b4f57a3b4c5c211f136e1b99c00e4fbd5394b670f92865c94662adda51
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: b85d013c64e4c9d4d10f0a0081fbf323f0357664a6b6b77a238ad195b56d2f93
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:09:30Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -65,17 +65,25 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects: []
-relationships: []
+relationships:
+- type: cites
+  target: pt:dre:193663:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:547238:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:09:30Z'
   warnings: []
   errors: []
 ---
@@ -112,6 +120,6 @@ Câmara Municipal de Santa Cruz da Graciosa.
 
 Mais deverão remeter àquela Secção Regional, até 15 de Fevereiro, informação sobre as suas previsões de gestão de pessoal para o ano em causa, e até 30 de Abril, 31 de Julho e 31 de Outubro, informação sobre a actualização dessas previsões e sobre a respectiva execução, abrangendo todas elas, nomeadamente: referência aos concursos de admissão e promoção de pessoal previstos e em curso, indicação de outras admissões previstas e concretizadas, nota sobre reclassificações, transições e integrações em previsão ou execução, nomeadamente as contratações, concursos e nomeações para a regularização de pessoal com vínculos precários, bem como referência aos contratos de prestação de serviços, incluindo tarefas e avenças, em execução e preparação.
 
-**Publique-se na 2.ª série do Diário da República, e na 2.ª série do Jornal Oficial da Região Autónoma dos Açores, nos termos do artigo 9.º, n.os 2, alínea e), e 3, da [Lei n.º 98/97](https://diariodarepublica.pt/dr/detalhe/lei/98-1997-193663), e comunique-se às entidades seleccionadas.**
+Publique-se na 2.ª série do Diário da República, e na 2.ª série do Jornal Oficial da Região Autónoma dos Açores, nos termos do artigo 9.º, n.os 2, alínea e), e 3, da [Lei n.º 98/97](https://diariodarepublica.pt/dr/detalhe/lei/98-1997-193663), e comunique-se às entidades seleccionadas.
 
 14 de Dezembro de 1999. - O Conselheiro Presidente, Alfredo José de Sousa.

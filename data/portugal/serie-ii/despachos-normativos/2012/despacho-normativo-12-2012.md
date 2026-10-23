@@ -48,30 +48,61 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/despacho-normativo/12-2012-2055562
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2013-05-24T00:00:00Z'
+  retrieved_at: '2026-10-23T15:07:37Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: b8de2383c25e1a586eb23325beb3c1a5416498162197aac8bc7551600f331374
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 947e7ba06876a48a0f1dd428215af429d8a1114122ee170d414e742b39e87548
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:07:37Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Administração Pública
+- Ajuda Comunitária
+- Ajudas de Custo
+- Bolsa de Formação
+- Bolsa de Formação Profissional
+- Feader
+- FEDER
+- Formação Profissional
+- Formador
+- FSE
+- Gestão Administrativa
+- Mediador
+- Pessoal Administrativo
+- Pessoal Dirigente
+- Pessoal Técnico
+- QCA III
+- Subsídio de Alojamento
+- Subsídio de Refeição
+- Subsídio de Transporte
 relationships:
 - type: amended_by
   target: pt:dre:1173337:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:2877021:por
+  label: "Alterado o art. 12º do DN 4-A/2008, de 24-jan, na redação e republicado pelo presente diploma, pelo DN.16/2012.02.08.2012.MEE,\
+    \ DR.IIS [149] de 02.08.2012\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/despacho-normativo/16-2012-2877021
+  date: '2012-08-02'
+- type: amended_by
+  target: pt:dre:1173337:por
+  label: "Alterado o art. 3.º do DN 4-A/2008, de 24-jan, na redação do presente diploma, pelo DN.6/2013.24.05.2013.MEE, DR.IIS\
+    \ [100] de 24.05.2013\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/despacho-normativo/6-2013-1173337
+  date: '2013-05-24'
 - type: cites
   target: celex:32001R0068
   label: null
@@ -88,21 +119,89 @@ relationships:
   target: celex:32009R0396
   label: null
   source: null
+- type: cites
+  target: pt:dre:1332327:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:197489:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:2088047:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:2123972:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:307840:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:308078:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:335683:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:344942:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:406171:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:426483:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:443898:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:449178:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:449458:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:488852:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:609990:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:652702:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:677047:por
+  label: null
+  source: null
 article_structure:
-  article_count: 51
+  article_count: 36
   section_count: 6
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:07:37Z'
   warnings: []
   errors: []
 ---
 
-# Despacho Normativo n.º 12/2012
+# Despacho normativo n.º 12/2012
 
 O despacho normativo n.º 4-A/2008, de 24 de janeiro, com a redação que lhe foi dada pelos despachos normativos n.os [12/2009](https://diariodarepublica.pt/dr/detalhe/despacho-normativo/12-2009-2123972), de 17 de março, [12/2010](https://diariodarepublica.pt/dr/detalhe/despacho-normativo/12-2010-2088047), de 21 de maio, e [2/2011](https://diariodarepublica.pt/dr/detalhe/despacho-normativo/2-2011-1332327), de 11 de fevereiro, veio fixar, para o período de programação 2007-2013, a natureza e os limites máximos dos custos elegíveis no âmbito do cofinanciamento pelo Fundo Social Europeu (FSE), pelo Fundo Europeu do Desenvolvimento Regional (FEDER), pelo Fundo Europeu Agrícola de Desenvolvimento Rural (FEADER) e pelo Fundo Europeu das Pescas (FEP), quando estes últimos desenvolvam ações de natureza idêntica às abrangidas pelo âmbito de aplicação do artigo 3.º do Regulamento (CE) n.º 1081/2006, do Parlamento Europeu e do Conselho, de 31 de julho, alterado pelo Regulamento (CE) n.º 396/2009, do Parlamento Europeu e do Conselho, de 6 de maio.
 
@@ -126,25 +225,33 @@ Os artigos 1.º, 3.º, 4.º, 7.º, 8.º, 9.º, 11.º, 12.º, 16.º, 17.º, 20.º
 
 4 - ...
 
-###### Artigo 3.º — [...]
+Artigo 3.º
+
+[...]
 
 1 - ...
 
 2 - Quando se trate de projetos de especial complexidade ou especificidade, pode ser fixado um ordenamento mais adequado para os encargos definidos no número anterior, assim como uma natureza de despesas mais específica, adequada a esses projetos, através de despacho do Ministro da Economia e do Emprego.
 
-###### Artigo 4.º — [...]
+Artigo 4.º
+
+[...]
 
 1 - A decisão de aprovação das candidaturas discrimina os valores aprovados segundo a estrutura de custos aplicável em cada uma das modalidades de custos elegíveis.
 
 2 - ...
 
-###### Artigo 7.º — [...]
+Artigo 7.º
+
+[...]
 
 1 - ...
 
 2 - Podem ainda ser elegíveis, a título excecional e a autorizar pela autoridade de gestão, caso a caso, os encargos com formandos referentes a alojamento ou os decorrentes da atribuição de um segundo subsídio de refeição, considerando o disposto nos n.os 18, 19, 20, 21 e 22 do artigo 12.º
 
-###### Artigo 8.º — [...]
+Artigo 8.º
+
+[...]
 
 1 - As bolsas para material de estudo são atribuídas a jovens que frequentem ações de qualificação inicial de dupla certificação, em função do grau de carência económica do formando, aferido pelo escalão de rendimento fixado para efeitos de atribuição de abono de família, regulamentado nos termos do [Decreto-Lei n.º 176/2003](https://diariodarepublica.pt/dr/detalhe/decreto-lei/176-2003-652702), de 2 de agosto, retificado pela Declaração de Retificação n.º 11-G/2003, de 30 de setembro, alterado pelos Decretos-Leis n.os [41/2006](https://diariodarepublica.pt/dr/detalhe/decreto-lei/41-2006-677047), de 21 de fevereiro, [308-A/2007](https://diariodarepublica.pt/dr/detalhe/decreto-lei/308-a-2007-406171), de 5 de setembro, [87/2008](https://diariodarepublica.pt/dr/detalhe/decreto-lei/87-2008-449178), de 28 de maio, [245/2008](https://diariodarepublica.pt/dr/detalhe/decreto-lei/245-2008-443898), de 18 de dezembro, [201/2009](https://diariodarepublica.pt/dr/detalhe/decreto-lei/201-2009-488852), de 28 de agosto, [70/2010](https://diariodarepublica.pt/dr/detalhe/decreto-lei/70-2010-335683), de 16 de junho, [116/2010](https://diariodarepublica.pt/dr/detalhe/decreto-lei/116-2010-308078), de 22 de outubro, e pela [Lei n.º 55-A/2010](https://diariodarepublica.pt/dr/detalhe/lei/55-a-2010-344942), de 31 de dezembro.
 
@@ -172,7 +279,9 @@ Os artigos 1.º, 3.º, 4.º, 7.º, 8.º, 9.º, 11.º, 12.º, 16.º, 17.º, 20.º
 
 13 - As bolsas previstas no presente artigo são cumuláveis com as pensões por invalidez, de sobrevivência, de viuvez e de orfandade atribuídas pela Segurança Social, sem prejuízo do definido na legislação em vigor para a Pensão Social de Invalidez.
 
-###### Artigo 9.º — [...]
+Artigo 9.º
+
+[...]
 
 1 - As bolsas de formação são atribuídas a pessoas desempregadas com idade igual ou superior a 23 anos, não podendo o valor máximo mensal elegível ultrapassar o valor de 35 % do IAS.
 
@@ -200,7 +309,9 @@ Nhf = número de horas de formação frequentadas pelo formando.
 
 8 - A bolsa prevista no presente artigo é cumulável com as pensões por invalidez, de sobrevivência, de viuvez e de orfandade atribuídas pela Segurança Social, sem prejuízo do definido na legislação em vigor para a Pensão Social de Invalidez.
 
-###### Artigo 11.º — [...]
+Artigo 11.º
+
+[...]
 
 1 - ...
 
@@ -226,7 +337,9 @@ n = número de horas semanais do período normal de trabalho.
 
 7 - Para as empresas em processos de recuperação judicial ou administrativa, empresas de setores de atividade em reestruturação, empresas abrangidas por legislação enquadradora da formação de reconversão ou em situações análogas poderão, ainda, em situações excecionais e devidamente fundamentadas, ser fixadas condições diversas das previstas no presente artigo, por despacho do Ministro da Economia e do Emprego.
 
-###### Artigo 12.º — [...]
+Artigo 12.º
+
+[...]
 
 1 - É elegível o subsídio de refeição de montante igual ao atribuído aos trabalhadores que exercem funções públicas nos dias em que o período de formação seja igual ou superior a três horas e, no caso dos formandos ativos empregados, quando esse período de formação, de duração igual ou superior a três horas, decorra fora do seu período normal de trabalho.
 
@@ -272,7 +385,9 @@ n = número de horas semanais do período normal de trabalho.
 
 22 - Nas situações previstas nos dois números anteriores, o somatório dos apoios pode, excecionalmente, atingir a totalidade do valor corresponde ao IAS.
 
-###### Artigo 16.º — [...]
+Artigo 16.º
+
+[...]
 
 1 - ...
 
@@ -294,7 +409,9 @@ b) Para ações de formação dos níveis de qualificação 1, 2, 3 e 4, o valor
 
 8 - ...
 
-###### Artigo 17.º — [...]
+Artigo 17.º
+
+[...]
 
 1 - O valor máximo elegível da remuneração dos formadores internos permanentes não pode exceder a remuneração a que esses formadores tenham direito por força da sua relação laboral com a entidade beneficiária ou com os centros e estruturas de formação das mesmas, calculado de acordo com a seguinte fórmula:
 
@@ -334,7 +451,9 @@ n = número máximo de horas semanais de formação efetiva compreendidas no per
 
 9 - (Revogado.)
 
-###### Artigo 20.º — [...]
+Artigo 20.º
+
+[...]
 
 1 - O valor máximo elegível dos custos com consultores externos é determinado em função de valores padrão, nos termos definidos nas alíneas seguintes:
 
@@ -366,7 +485,9 @@ n = número máximo de horas semanais de consultoria compreendidas no período n
 
 7 - ...
 
-###### Artigo 21.º — Pessoal dirigente, técnico, administrativo, mediador sociocultural e outro pessoal
+Artigo 21.º
+
+Pessoal dirigente, técnico, administrativo, mediador sociocultural e outro pessoal
 
 1 - O custo horário máximo elegível do pessoal dirigente, técnico, administrativo, mediador sociocultural e outro pessoal, quando vinculado, não pode exceder o custo obtido a partir da remuneração a que esse pessoal tenha direito por força da sua relação laboral com a entidade empregadora, calculado de acordo com a fórmula constante do n.º 1 do artigo 17.º
 
@@ -376,7 +497,9 @@ n = número máximo de horas semanais de consultoria compreendidas no período n
 
 4 - ...
 
-###### Artigo 22.º — [...]
+Artigo 22.º
+
+[...]
 
 1 - ...
 
@@ -384,7 +507,9 @@ n = número máximo de horas semanais de consultoria compreendidas no período n
 
 3 - O financiamento dos encargos com transporte obedece às regras e montantes estabelecidos para idênticas despesas dos trabalhadores que exercem funções públicas.
 
-###### Artigo 23.º — [...]
+Artigo 23.º
+
+[...]
 
 1 - ...
 
@@ -408,11 +533,15 @@ n = número máximo de horas semanais de consultoria compreendidas no período n
 
 11 - ...
 
-###### Artigo 25.º — [...]
+Artigo 25.º
+
+[...]
 
 Os custos máximos de projetos não formativos são definidos através de despacho do Ministro da Economia e do Emprego, ou por despacho da Ministra da Agricultura, do Mar, do Ambiente e do Ordenamento do Território quando financiados pelo FEADER.
 
-###### Artigo 27.º — [...]
+Artigo 27.º
+
+[...]
 
 Podem ser fixadas condições diversas ou autorizado o financiamento de montantes distintos dos previstos no presente diploma, por despacho do Ministro da Economia e do Emprego ou, quando estejam em causa projetos financiados pelo FEADER, por despacho do Ministro da Economia e do Emprego e da Ministra da Agricultura, do Mar, do Ambiente e do Ordenamento do Território, nas seguintes situações:
 
@@ -430,7 +559,7 @@ O anexo i do despacho normativo n.º 4-A/2008, de 24 de janeiro, com a redação
 
 I - [...]
 
-[([ver documento original](https://files.diariodarepublica.pt/2s/2012/05/098000000/1776217772.pdf))](https://files.diariodarepublica.pt/2s/2012/05/098000000/1776217772.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/2s/2012/05/098000000/1776217772.pdf)
 
 II - [...]»
 
@@ -906,7 +1035,7 @@ O presente diploma produz efeitos a partir da data de entrada em vigor do [Decre
 
 ## ANEXO I — I - Custos máximos dos projetos formativos na base real
 
-[([ver documento original](https://files.diariodarepublica.pt/2s/2012/05/098000000/1776217772.pdf))](https://files.diariodarepublica.pt/2s/2012/05/098000000/1776217772.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/2s/2012/05/098000000/1776217772.pdf)
 
 II - Outras regras de elegibilidade
 
@@ -935,3 +1064,5 @@ d) Prémios, multas, sanções financeiras, juros devedores, despesas de câmbio
 e) Aquisição de mobiliário, equipamento, viaturas, infraestruturas, bens imóveis e terrenos.
 
 ## ANEXO II — (Revogado.)
+
+206081523

@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2006/03/047b00/17061710.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/219/2006/03/07/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/219-2006-693457
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2007-03-30T00:00:00Z'
+  retrieved_at: '2026-10-23T15:12:45Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: b5bd7061577f478dd3153b65f0efdac6388d89546b25f55241fb34c7d7033f11
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 544650c0efd0f200a8bd09cf27dea3a6222061439369ba88d747abcfbe531e23
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:12:45Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,9 +67,9 @@ reuse:
 subjects:
 - Assistência Médica
 - Consulta Médica
-- Serviço Nacional de Saúde
-- Pagamento
 - Meios Complementares de Diagnóstico
+- Pagamento
+- Serviço Nacional de Saúde
 - Serviços de Urgência
 - TAXA Moderadora
 - Utente
@@ -86,16 +86,29 @@ relationships:
   target: eli:http://data.dre.pt/eli/port/103/2004/01/23/p/dre
   label: null
   source: http://data.dre.pt/eli/port/103/2004/01/23/p/dre
+- type: cites
+  target: pt:dre:608929:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:652284:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:494033:por
+  label: "Revogada a partir de 01.04.2007 pela PORT.395-A/2007.30.03.2007.MS, DR.IS [64-Supl] de 30.03.2007\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/395-a-2007-494033
+  date: '2007-03-30'
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:12:45Z'
   warnings: []
   errors: []
 ---

@@ -47,41 +47,57 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/despacho-normativo/30-2010-1064080
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2010-12-31T00:00:00Z'
+  retrieved_at: '2026-10-23T15:07:29Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 195b044f4564606dfbabef7b29926da61d113437ab10bf613d7f9c29eda8d9f9
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: ea4e18b08e78c40c39c16dd68941fa4f7ceac28c3575b2106621027b6f8579e1
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:07:29Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
-relationships: []
+subjects:
+- ÁREA Metropolitana
+- Lisboa
+- Passe Social
+- Porto
+- Preço
+- Titulo de Transporte
+- Transporte de Passageiros
+- Transporte Ferroviário
+- Transporte Fluvial
+- Transporte Público
+- Transporte Rodoviário
+- Transporte Urbano
+relationships:
+- type: cites
+  target: pt:dre:469604:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:07:29Z'
   warnings: []
   errors: []
 ---
 
-# Despacho Normativo n.º 30/2010
+# Despacho normativo n.º 30/2010
 
 Nos termos e ao abrigo do disposto na alínea b) do n.º 2 do artigo 10.º do [Decreto-Lei n.º 8/93](https://diariodarepublica.pt/dr/detalhe/decreto-lei/8-1993-469604), de 11 de Janeiro, determina-se o seguinte:
 
@@ -98,3 +114,5 @@ b) Área Metropolitana do Porto: assinatura andante nas modalidades normal, 10/1
 4 - Os preços dos títulos de transporte decorrentes da aplicação do presente despacho podem ser aplicados pelos operadores a partir de 1 de Janeiro de 2011.
 
 20 de Dezembro de 2010. - O Ministro de Estado e das Finanças, Fernando Teixeira dos Santos. - O Ministro da Economia, da Inovação e do Desenvolvimento, José António Fonseca Vieira da Silva. - O Ministro das Obras Públicas, Transportes e Comunicações, António Augusto da Ascenção Mendonça.
+
+204102814

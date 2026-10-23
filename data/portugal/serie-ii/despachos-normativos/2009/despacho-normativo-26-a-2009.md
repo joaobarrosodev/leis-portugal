@@ -19,12 +19,12 @@ publication:
   reference: Diário da República n.º 137/2009, 2º Suplemento, Série II de 2009-07-17
   number: '137'
   series: II
-  supplement: 2º Suplemento
+  supplement: null
   pages: 28250-(4) a 28250-(4)
   pdf_url: https://files.diariodarepublica.pt/2s/2009/07/137000002/0000400004.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,25 +46,36 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/despacho-normativo/26-a-2009-2819044
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2010-02-03T00:00:00Z'
+  retrieved_at: '2026-10-23T15:07:14Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 16df340b22e06971a9818ae59e0e75ca8b675d3e4daf62fd71793500eb407943
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 0366b1904d2c20c5dcf6c04237fe0bd98460ea2b16b94a35a45f052006f857ec
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:07:14Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Agricultor
+- Agricultura
+- Ajuda Comunitária
+- Exploração Agrícola
+- Financiamento
+- Instituto Nacional de Intervenção e Garantia Agrícola
+- Jovem Agricultor
+- Pagamento
+- Política Agrícola Comum
+- Produção Agrícola
+- Sistema Integrado de Gestão e Controlo
 relationships:
 - type: amended_by
   target: pt:dre:617116:por
@@ -74,21 +85,34 @@ relationships:
   target: celex:32009R0073
   label: null
   source: null
+- type: cites
+  target: pt:dre:561979:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:594508:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:617116:por
+  label: "Revogado, a partir de 04.02.2010, pela PORT.68/2010.03.02.2010.MADRP, DR.IS [23] de 03.02.2010\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/68-2010-617116
+  date: '2010-02-03'
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:07:14Z'
   warnings: []
   errors: []
 ---
 
-# Despacho Normativo n.º 26-A/2009
+# Despacho normativo n.º 26-A/2009
 
 O [Despacho Normativo n.º 42/2004](https://diariodarepublica.pt/dr/detalhe/despacho-normativo/42-2004-561979), publicado no Diário da República, 1.ª série-B, de 26 de Outubro de 2004, estabelece o método de cálculo e os critérios de rectificação do montante de referência e do número de direitos a atribuir aos agricultores que se candidatem à reserva nacional no âmbito do regime do pagamento único, nos termos do disposto na [Portaria n.º 1202/2004](https://diariodarepublica.pt/dr/detalhe/portaria/1202-2004-594508), de 17 de Setembro, que estabelece as regras nacionais complementares relativas à aplicação do regime de pagamento único em Portugal.
 
@@ -112,7 +136,7 @@ Ao [Despacho Normativo n.º 42/2004](https://diariodarepublica.pt/dr/detalhe/des
 
 3 - O número de direitos a atribuir é igual ao número de hectares elegíveis referido no n.º 2 do presente artigo.
 
-###### Artigo 5.º-C
+Artigo 5.º-C
 
 1 - O cálculo do valor unitário dos direitos de pagamento único aos agricultores que se encontram nas condições previstas no n.º 11.º-A da [Portaria n.º 1202/2004](https://diariodarepublica.pt/dr/detalhe/portaria/1202-2004-594508), de 17 de Setembro, é efectuado da seguinte forma:
 
@@ -137,3 +161,5 @@ Entrada em vigor
 O presente despacho normativo entra em vigor no dia seguinte ao da sua publicação.
 
 8 de Julho de 2009. - O Ministro da Agricultura, do Desenvolvimento Rural e das Pescas, Jaime de Jesus Lopes Silva.
+
+202048485

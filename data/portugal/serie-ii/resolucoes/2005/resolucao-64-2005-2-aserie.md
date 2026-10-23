@@ -1,7 +1,7 @@
 ---
 schema_version: '1.0'
 id: pt:dre:2174988:por
-title: Resolução n.º 64/2005(2.ªsérie)
+title: Resolução n.º 64/2005 (2.ª série)
 short_title: null
 summary: null
 jurisdiction: portugal
@@ -46,45 +46,59 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/resolucao/64-2005-2174988
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2007-06-22T00:00:00Z'
+  retrieved_at: '2026-10-23T15:13:06Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 5b9b3a4b6299e82923b2796b6d71cae7bc12368b37d5f660dbd18e2f0c058ed9
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 40ced2e71c6c5a8508a74a5763cb1706f277c19c805d61d2bc59b4a221fc6ca3
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:13:06Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Conselho Económico e Social
+- Nomeação
+- Representante do Governo
+- Setor Empresarial do Estado
 relationships:
 - type: amended_by
   target: pt:dre:1751841:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:1751841:por
+  label: "Aceite o pedido de renúncia da engenheira Natércia Magalhães Rego Cabral, pela RES.27/2007.22.06.2007.PCM, DR.IIS\
+    \ [119] de 22.06.2007\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/resolucao/27-2007-1751841
+  date: '2007-06-22'
+- type: cites
+  target: pt:dre:674430:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:13:06Z'
   warnings: []
   errors: []
 ---
 
-# Resolução n.º 64/2005(2.ªsérie)
+# Resolução n.º 64/2005 (2.ª série)
 
 Resolução n.º 64/2005 (2.ª série). - Nos termos das alíneas c) e i) do n.º 1 e do n.º 5 do artigo 3.º da [Lei n.º 108/91](https://diariodarepublica.pt/dr/detalhe/lei/108-1991-674430), de 17 de Agosto, cabe ao Conselho de Ministros, através de resolução, designar oito representantes do Governo e um representante do sector empresarial do Estado no Conselho Económico e Social, bem como os respectivos suplentes.
 

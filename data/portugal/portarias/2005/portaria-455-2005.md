@@ -48,18 +48,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/455/2005/05/02/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/455-2005-534445
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2005-05-02T00:00:00Z'
+  retrieved_at: '2026-10-23T15:06:27Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 78957832e6215877282cc6da58cd002558205eaa119bf6f5ee041884971d8d76
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 566f208cfac1a77d3df0ed4e1df3b71d39406fe57689e1007bdaccbb4838e408
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:06:27Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,13 +67,13 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Gás Natural
+- Apoio ao Investimento
 - Energia não Poluente
 - Energia Renovável
-- Apoio ao Investimento
-- Projeto de Investimento
+- Gás Natural
 - Medida de Apoio ao Aproveitamento do Potencial Energético e Racionalização de Consumos
 - Produção de Energia Elétrica
+- Projeto de Investimento
 - Recursos Energéticos
 - Regulamento
 - Sistema de Incentivos a Modernização Empresarial
@@ -94,16 +94,32 @@ relationships:
   target: eli:http://data.dre.pt/eli/resolconsmin/101/2003/08/08/p/dre
   label: null
   source: http://data.dre.pt/eli/resolconsmin/101/2003/08/08/p/dre
+- type: cites
+  target: pt:dre:223462:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:277120:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:510266:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:647110:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:06:27Z'
   warnings: []
   errors: []
 ---
@@ -138,7 +154,9 @@ d) ...
 
 2 - Para efeitos do presente Regulamento, são considerados projectos nacionais os constantes do n.º 1 do presente artigo, com excepção dos previstos na alínea d) quando sejam apresentados pelas concessionárias de distribuição de gás natural PORTGÁS, LUSITANIAGÁS, LISBOAGÁS, SETGÁS e TRANSGÁS e pela licenciada MEDIGÁS, que serão considerados como projectos desconcentrados.
 
-###### Artigo 12.º — [...]
+Artigo 12.º
+
+[...]
 
 1 - ...
 
@@ -212,7 +230,9 @@ c) ...
 
 d) ...
 
-## ANEXO A — Situação económica e financeira equilibrada e cobertura do projecto por capitais próprios
+ANEXO A
+
+Situação económica e financeira equilibrada e cobertura do projecto por capitais próprios
 
 1 - ...
 
@@ -246,7 +266,9 @@ iv) ...
 
 12 - Mediante proposta do gestor, devidamente fundamentada, pode o Ministro de Estado, das Actividades Económicas e do Trabalho ajustar os limites referidos nos n.os 1 e 3 anteriores e na alínea iii) do n.º 11.
 
-## ANEXO D — Taxas máximas do incentivo
+ANEXO D
+
+Taxas máximas do incentivo
 
 1 - ...
 
@@ -256,4 +278,4 @@ iv) ...
 
 Em 3 de Março de 2005.
 
-**O Ministro de Estado, das Actividades Económicas e do Trabalho, Álvaro Roque de Pinho Bissaya Barreto. - O Ministro das Finanças e da Administração Pública, António José de Castro Bagão Félix. - O Ministro do Ambiente e do Ordenamento do Território, Luís José de Mello e Castro Guedes.**
+O Ministro de Estado, das Actividades Económicas e do Trabalho, Álvaro Roque de Pinho Bissaya Barreto. - O Ministro das Finanças e da Administração Pública, António José de Castro Bagão Félix. - O Ministro do Ambiente e do Ordenamento do Território, Luís José de Mello e Castro Guedes.

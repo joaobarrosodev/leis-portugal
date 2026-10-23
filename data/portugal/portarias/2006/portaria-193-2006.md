@@ -48,18 +48,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/193/2006/02/23/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/193-2006-676646
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2008-08-13T00:00:00Z'
+  retrieved_at: '2026-10-23T15:12:36Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: b4043ad0dec422557fbd5b6fe76d53e3ddae244a825d9a69ab8dea333497a02a
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 5b67b528f56db0ec83d52e7dafe14efb0dadc65e42e8349be14d48ebdc03bcce
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:12:36Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,14 +67,26 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- CAÇA
 - Aljustrel
+- CAÇA
 - ZONA de CAÇA
 relationships:
 - type: amended_by
   target: pt:dre:455595:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:540417:por
+  label: "Substituída a planta anexa ao presente diploma, pela Port.883/2006.01.09.2006.MADRP, DR.IS [169] de 01.09.2006\0\
+    \0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/883-2006-540417
+  date: '2006-09-01'
+- type: amended_by
+  target: pt:dre:455595:por
+  label: "Anexados vários prédios rústicos à zona de caça concessionada pelo presente diploma, na redacção da Portaria 883/2006,\
+    \ de 01 de Setembro, pela PORT.864/2008.13.08.2008.MADRP, DR.IS [156] de 13.08.2008\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/864-2008-455595
+  date: '2008-08-13'
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/201/2005/11/24/p/dre
   label: null
@@ -83,16 +95,24 @@ relationships:
   target: eli:http://data.dre.pt/eli/dec-lei/202/2004/08/18/p/dre
   label: null
   source: http://data.dre.pt/eli/dec-lei/202/2004/08/18/p/dre
+- type: cites
+  target: pt:dre:480704:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:481498:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:12:36Z'
   warnings: []
   errors: []
 ---

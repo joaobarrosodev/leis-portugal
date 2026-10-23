@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/2s/2008/03/056000000/1207412098.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -47,45 +47,213 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/despacho-normativo/19-2008-3651541
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2012-04-10T00:00:00Z'
+  retrieved_at: '2026-10-23T15:06:49Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: bc7710f23c220ac2a0dfd09c499c5d1991971d906059c9c85575e746c1e1faa3
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 6cff7bec8d96a59206435f44a13af65f2e5c1522263347102107f043c6e59a92
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:06:49Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Avaliação de Conhecimentos
+- Ensino Básico
+- Ensino Secundário
+- JURI Nacional
+- JURI Nacional de Exames
+- Regulamento
+- Sistema Educativo
 relationships:
 - type: amended_by
   target: pt:dre:1089021:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:2721136:por
+  label: "Alterada (para 120 minutos) a duração da prova de exame de Português como língua não materna constante do quadro\
+    \ I do anexo II do presente diploma, pelo DN.28/2008.27.05.2008.SEE-ME, DR.IIS [101] de 27.05.2008\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/despacho-normativo/28-2008-2721136
+  date: '2008-05-27'
+- type: amended_by
+  target: pt:dre:3485639:por
+  label: "Alterada a al. g) do n.º 1.6, o n.º 5.6, a al. g) do n.º 10.3, os n.ºs 10.4, 17, 18.1, 18.3, 18.4, 18.5, 18.6.1,\
+    \ 18.6.6, 18.7, 19.1, 19.1.1, 19.1.2 e 19.1.4 constantes do anexo ii, alterado o quadro i anexo ao anexo ii (alterado\
+    \ pelo DN 28/2008, de 27-Mai), alterada a al. b) do quadro ii anexo ao anexo ii, alterada a al. f) do n.º 1.6.2, e os\
+    \ n.ºs 3.2, 16.5, 16.6, 20.1.2, 20.1.3, 20.5, 20.6., 20.7, 33.1, 33.2, 33.3, 33.4, 36.2.1, 36.5, 37 e 38 constantes do\
+    \ anexo iii, alterados os quadros i, iv, v, vi e vii constantes do anexo iii, aditados os n.ºs 17.2, 18.4.1 e 18.9 ao\
+    \ anexo ii e aditado o n.º 16.6.1 ao anexo iii, pelo DN.10/2009.19.02.2009.SEE-ME, DR.IIS [35] de 19.02.2009\009\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/despacho-normativo/10-2009-3485639
+  date: '2009-02-19'
+- type: amended_by
+  target: pt:dre:2224480:por
+  label: "Alterados os nºs 2. 3 e 2.4, a al. a) do nº 3.1, a al. d) do nº 4.1, os nº 5.1 e 6.3 do Regulamento do Júri Nacional\
+    \ de Exames, constante do anexo I; - assim como são alterados os nºs 1.1 e 1.2, as als. a), c), d), e) e f) do nº 1.5,\
+    \ o nº 1.5.1, as als. e), f) e g) do nº 1.6 (com a redacção constante do DN 10/2009 de 19-Fev), os nºs 5. 2. 5.3, 5.5,\
+    \ 5.6 (com a redacção constante do DN 10/2009 de 19-Fev), 6.1 e 6.2, as als. e), f) e g) (com a redacção constante do\
+    \ DN 10/2009 de 19-Fev) do nº 10.3, o nº 10.4 (com a redacção constante do DN 10/2009 de 19-Fev), as als. c) e f) do nº\
+    \ 12.2, os nºs 14.2, 14.8, 14.9, 15.1, 15.3, 16.7, 17(com a redacção constante do DN 10/2009 de 19-Fev), 17.1, 18, 18.2,\
+    \ 18.3, 18.4, 18.5 (os últimos três com a redacção constante do DN 10/2009 de 19-Fev), 18.6, 18.7 (com a redacção constante\
+    \ do DN 10/2009 de 19-Fev), 18.8, 19.1, 19.1.1, 19.1.2 (os últimos três com a redacção constante do DN 10/2009 de 19-Fev),\
+    \ 19.1.3, 20.2, 23.3, 24.1, 24.4, 24.5, 25.2, 25.7, 26.3, 26.7, 26.9, 26.10 e 27.2, e os quadros I (com a redacção constante\
+    \ dos DN 28/2008 de 27-Mai e 10/2009 de 19-Fev) e II, todos do Regulamento dos Exames do Ensino Básico, constante do anexo\
+    \ II, ao qual são aditados: a al. h) o nº 1.6, o nº 5.7, a al. h) o nº 10.3, o nº 16.8, com as als. a) e b), os nºs 17.2,\
+    \ 17.3, 17.4, 17.5, 17.6, 18.3.1, 18.3.2, 18.3.3, 18.3.4, 18.3.5, 18.3.6 e 18.3.7; - alterados, também, os nºs 1.1, 1.2,\
+    \ 1.3, 1.4, 3.1, 3.2 (com a redacção constante do DN 10/2009 de 19-Fev), 3.3, 4.1, 4.2, 4.3, 5.2, 7.1, 7.1.1, 7.1.2, 8.1,\
+    \ 10.1, 10.2, 11.1, 12, 12.1, 12.1.1, 12.2, 12.3, 13.1, 14.2, 14.3, 14.5, 16.1, 16.4, 16.5, 16.6 (os últimos dois com\
+    \ a redacção constante do DN 10/2009 de 19-Fev), 16.7, 16.8, 17.1, 17.4, 18.2, 18.3, 18.4, 18.5, 18.7, 18.9, 18.10, 19.2,\
+    \ 20.1, 20.1.1, 20.1.2, 20.1.3 (os últimos dois com a redacção constante do DN 10/2009 de 19-Fev), 20.2, 20.3, 20.4, 20.5,\
+    \ 20.6, 20.7 (os últimos três com a redacção constante do DN 10/2009 de 19-Fev), 20.8, 20.9, 21.1, 21.2, 22.3, 23.1, 24.1,\
+    \ 24.2, 25.1, 25.2, 25.3, 25.5, 26.2, 27.3, 28.3, 29.1, 29.3, 29.4, 29.5, 30.4, 30.5, 30.6, 30.7, 32.2, 33.1, 33.4 (os\
+    \ últimos dois com a redacção constante do DN 10/2009 de 19-Fev), 34, 34.1, 34.2, 34.2.1, 34.2.2, 34.3, 34.5, 34.7, 34.9,\
+    \ 35, 35.1, 35.2, 35.2.2, 35.3, 35.4, 35.6, 35.7, 36, 36.1, 36.2, 36.2.1 (com a redacção constante do DN 10/2009 de 19-Fev),\
+    \ 36.2.2, 36.3, 36.4, 36.5 (com a redacção constante do DN 10/2009 de 19-Fev), 36.7, 36.8, 38, 40.3, 40.4, 40.5, 40.6,\
+    \ 42.1, 43.2, 45.1 e 45.2, e os quadros I (com a redacção constante do DN 10/2009 de 19-Fev), II, III e IV (com a redacção\
+    \ constante do DN 10/2009 de 19-Fev), todos do Regulamento dos Exames do Ensino Secundário, constante do anexo III, ao\
+    \ qual são aditados: os nºs 1.4.1, 1.4.2, 5.2.1, 5.2.2, 7.1.3, 7.1.4, 7.1.5, 10.3, 12.3.1, 16.6.1, 33.5 e 33.6; tudo pelo\
+    \ DN.7/2010.16.03.2010.SEAED-ME, DR.IIS [52] de 16.03.2010, que republicou os referidos Regulamentos na respectiva redacção\
+    \ actual. \0l. \0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/despacho-normativo/7-2010-2224480
+  date: '2010-03-16'
+- type: amended_by
+  target: pt:dre:1042950:por
+  label: "Alterado o n.º 1.2 do Regulamento do Júri Nacional de Exames, constante do anexo i do presente despacho normativo,\
+    \ pelo DN.4/2011.24.02.2011.SEAED-ME, DR.IIS [39] de 24.02.2011\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/despacho-normativo/4-2011-1042950
+  date: '2011-02-24'
+- type: amended_by
+  target: pt:dre:965091:por
+  label: "Alterados os nºs 3.6, 4.2, 5.2 e 6.4 do Regulamento do Júri Nacional de Exames constante do anexo i, bem como os\
+    \ nºs 1.6 (na redacção dos DN 10/2009, de 19-Fev, e 7/2010, de 16-Mar), 3.3, 10.3, 10.4 (os dois últimos na redacção dos\
+    \ DN 10/2009, de 19-Fev, e 7/2010, de 16-Mar), 12.2, 14.2, 15.1, 15.3 (todos na redacção do DN 7/2010, de 16-Mar), 18.5,\
+    \ 19.1.2 (ambos na redacção dos DN 10/2009, de 19-Fev, e 7/2010, de 16-Mar), 26.7, 26.9 e 26.10 (na redacção do DN 7/2010,\
+    \ de 16-Mar) do Regulamento dos Exames do Ensino Básico constantes do anexo ii, alterados ainda os nºs 1.2, 1.3 (ambos\
+    \ na redacção do DN 7/2010, de 16-Mar), 1.4.2 (aditado pelo DN 7/2010, de 16-Mar), 3.1, 7.1.2, 12.1.1(todos na redacção\
+    \ do DN 7/2010, de 16-Mar), 14.4, 20.3, 21.1, 22.3 (os três últimos na redacção do DN 7/2010, de 16-Mar), 31.7, 31.8,\
+    \ 31.9, 33.2 (o último na na redacção do DN 10/2009, de 19-Fev), 36.2.1 (na redacção do DN 10/2009, de 19-Fev e do DN\
+    \ 7/2010, de 16-Mar) e 45.1(na redacção do DN 7/2010, de 16-Mar), do Regulamento dos Exames do Ensino Secundário, constantes\
+    \ do anexo iii, alterados também os quadros i e ii anexos ao anexo ii (na redacção do DN 10/2009, de 19-Fev e do DN 7/2010,\
+    \ de 16-Mar), alterados ainda os quadros i (na redacção dos DN 10/2009, de 19-Fev, e 7/2010, de 16-Mar), iii (7/2010,\
+    \ de 16-Mar) e iv (na redacção dos DN 10/2009, de 19-Fev, e 7/2010, de 16-Mar) todos anexos ao anexo iii, aditados os\
+    \ nºs 1.7, 2.4 e 10.10 ao Regulamento dos Exames do Ensino Básico, constante do anexo ii, e als. a) e b) do n.º 1.3 bem\
+    \ como os nºs 1.5 e 6.2 ao Regulamento dos Exames do Ensino Secundário, constantes do anexo iii, aditada ainda a al. d)\
+    \ do quadro i (constante do anexo C) ao Regulamento dos Exames do Ensino Secundário, constante do anexo iii, e, por fim,\
+    \ revogada a al. d) do n.º 4.1 do Regulamento do Júri Nacional de Exames, constante do anexo i, o n.º 20.2 do Regulamento\
+    \ dos Exames do Ensino Básico, constante do anexo ii, e os n.os 26.2 e 34.8 do Regulamento dos Exames do Ensino Secundário,\
+    \ constantes do anexo ii, todos do presente despacho, republicado pelo DN.7/2011.05.04.2011.SEAED-ME, DR.IIS [67] de 05.04.2011\0\
+    011\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/despacho-normativo/7-2011-965091
+  date: '2011-04-05'
+- type: cites
+  target: pt:dre:179543:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:210801:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:3103818:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:3274830:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:338986:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:357349:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:386871:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:403296:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:405681:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:432450:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:457204:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:527406:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:545651:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:551873:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:587624:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:618310:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:628859:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:641762:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:652897:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:668953:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:1089021:por
+  label: "Revogado o presente diploma, na redacção do DN 28/2008, de 27-maio, DN 10/2009, de 19-fev, DN 7/2010, de 16-mar,\
+    \ DN 4/2011, de 24-fev, e DN 7/2011, de 05-abr, pelo DN.6/2012.10.04.2012.SEEBS-MECI, DR.IIS [71] de 10.04.2012\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/despacho-normativo/6-2012-1089021
+  date: '2012-04-10'
 article_structure:
   article_count: 0
   section_count: 9
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:06:49Z'
   warnings: []
   errors: []
 ---
 
-# Despacho Normativo n.º 19/2008
+# Despacho normativo n.º 19/2008
 
 A Lei Orgânica do Ministério da Educação - [Decreto-Lei n.º 213/2006](https://diariodarepublica.pt/dr/detalhe/decreto-lei/213-2006-545651), de 27 de Outubro - determina que o Júri Nacional de Exames tem por missão, em matéria de avaliação das aprendizagens, coordenar e planificar os exames nacionais e equivalentes, provas de equivalência à frequência e provas de aferição nos anos terminais dos 1.º e 2.º ciclos, sendo necessário proceder a alguns ajustamentos no Regulamento do Júri Nacional de Exames.
 
@@ -295,7 +463,7 @@ b) Classificação de frequência inferior a 3 em três disciplinas, excepto se 
 
 3.4 - As provas dos exames nacionais de Língua Portuguesa e de Matemática são cotadas na escala percentual de 0 a 100, sendo a classificação final da prova expressa na escala de níveis de 1 a 5, de acordo com a seguinte tabela:
 
-[([ver documento original](https://files.diariodarepublica.pt/2s/2008/03/056000000/1207412098.pdf))](https://files.diariodarepublica.pt/2s/2008/03/056000000/1207412098.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/2s/2008/03/056000000/1207412098.pdf)
 
 3.5 - O Júri Nacional de Exames (JNE) pode enviar às escolas, durante todo o processo de exames, as orientações que considerar pertinentes para garantir a qualidade deste processo.
 
@@ -689,7 +857,7 @@ QUADRO I
 
 Exames nacionais de língua portuguesa e de matemática do 3.º ciclo do ensino básico
 
-[([ver documento original](https://files.diariodarepublica.pt/2s/2008/03/056000000/1207412098.pdf))](https://files.diariodarepublica.pt/2s/2008/03/056000000/1207412098.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/2s/2008/03/056000000/1207412098.pdf)
 
 Nota. - Os alunos do 3.º ciclo do ensino básico referidos nas alíneas a), b), c), d) e f) do n.º 10.3. do Regulamento dos Exames do Ensino Básico realizam os exames nacionais de Língua Portuguesa e de Matemática como autopropostos, sendo submetidos obrigatoriamente a uma prova oral na disciplina de Língua Portuguesa.
 
@@ -699,11 +867,11 @@ Exames de equivalência à frequência dos 2.º e 3.º ciclos
 
 2.º ciclo do ensino básico
 
-[([ver documento original](https://files.diariodarepublica.pt/2s/2008/03/056000000/1207412098.pdf))](https://files.diariodarepublica.pt/2s/2008/03/056000000/1207412098.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/2s/2008/03/056000000/1207412098.pdf)
 
 3.º ciclo do ensino básico
 
-[([ver documento original](https://files.diariodarepublica.pt/2s/2008/03/056000000/1207412098.pdf))](https://files.diariodarepublica.pt/2s/2008/03/056000000/1207412098.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/2s/2008/03/056000000/1207412098.pdf)
 
 ## ANEXO III — Regulamento dos exames do ensino secundário
 
@@ -1333,21 +1501,21 @@ Planos curriculares aprovados pelo [Decreto-Lei n.º 286/89](https://diariodarep
 
 A) Componente de formação geral
 
-[([ver documento original](https://files.diariodarepublica.pt/2s/2008/03/056000000/1207412098.pdf))](https://files.diariodarepublica.pt/2s/2008/03/056000000/1207412098.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/2s/2008/03/056000000/1207412098.pdf)
 
 B) Componente de formação específica
 
-[([ver documento original](https://files.diariodarepublica.pt/2s/2008/03/056000000/1207412098.pdf))](https://files.diariodarepublica.pt/2s/2008/03/056000000/1207412098.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/2s/2008/03/056000000/1207412098.pdf)
 
 C) Componente de formação técnica dos cursos gerais
 
 (exame no final de cada bloco/ano)
 
-[([ver documento original](https://files.diariodarepublica.pt/2s/2008/03/056000000/1207412098.pdf))](https://files.diariodarepublica.pt/2s/2008/03/056000000/1207412098.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/2s/2008/03/056000000/1207412098.pdf)
 
 D) Componente de formação técnica dos cursos tecnológicos
 
-[([ver documento original](https://files.diariodarepublica.pt/2s/2008/03/056000000/1207412098.pdf))](https://files.diariodarepublica.pt/2s/2008/03/056000000/1207412098.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/2s/2008/03/056000000/1207412098.pdf)
 
 QUADRO II
 
@@ -1357,11 +1525,11 @@ Planos curriculares aprovados pelo [Decreto-Lei n.º 286/89](https://diariodarep
 
 A) Componente de formação geral
 
-[([ver documento original](https://files.diariodarepublica.pt/2s/2008/03/056000000/1207412098.pdf))](https://files.diariodarepublica.pt/2s/2008/03/056000000/1207412098.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/2s/2008/03/056000000/1207412098.pdf)
 
 B) Componente de formação específica
 
-[([ver documento original](https://files.diariodarepublica.pt/2s/2008/03/056000000/1207412098.pdf))](https://files.diariodarepublica.pt/2s/2008/03/056000000/1207412098.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/2s/2008/03/056000000/1207412098.pdf)
 
 QUADRO III
 
@@ -1371,11 +1539,11 @@ Exames finais de âmbito nacional (*)
 
 A) Componente de formação geral
 
-[([ver documento original](https://files.diariodarepublica.pt/2s/2008/03/056000000/1207412098.pdf))](https://files.diariodarepublica.pt/2s/2008/03/056000000/1207412098.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/2s/2008/03/056000000/1207412098.pdf)
 
 B) Componente de formação específica
 
-[([ver documento original](https://files.diariodarepublica.pt/2s/2008/03/056000000/1207412098.pdf))](https://files.diariodarepublica.pt/2s/2008/03/056000000/1207412098.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/2s/2008/03/056000000/1207412098.pdf)
 
 QUADRO IV
 
@@ -1389,7 +1557,7 @@ Tipos de provas a realizar em cada disciplina e área não disciplinar e respect
 
 A) Cursos científico-humanísticos
 
-[([ver documento original](https://files.diariodarepublica.pt/2s/2008/03/056000000/1207412098.pdf))](https://files.diariodarepublica.pt/2s/2008/03/056000000/1207412098.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/2s/2008/03/056000000/1207412098.pdf)
 
 QUADRO IV
 
@@ -1403,7 +1571,7 @@ Tipos de provas a realizar em cada disciplina e área não disciplinar e respect
 
 B) Cursos tecnológicos
 
-[([ver documento original](https://files.diariodarepublica.pt/2s/2008/03/056000000/1207412098.pdf))](https://files.diariodarepublica.pt/2s/2008/03/056000000/1207412098.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/2s/2008/03/056000000/1207412098.pdf)
 
 QUADRO IV
 
@@ -1417,7 +1585,7 @@ Tipos de provas a realizar em cada disciplina e área não disciplinar e respect
 
 C) Cursos de ensino artístico especializado
 
-[([ver documento original](https://files.diariodarepublica.pt/2s/2008/03/056000000/1207412098.pdf))](https://files.diariodarepublica.pt/2s/2008/03/056000000/1207412098.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/2s/2008/03/056000000/1207412098.pdf)
 
 QUADRO V
 
@@ -1427,7 +1595,7 @@ Planos curriculares aprovados pelo [Decreto-Lei n.º 74/2004](https://diariodare
 
 Prova escrita com componente prática - Percentagens a atribuir à componente prática e à componente escrita
 
-[([ver documento original](https://files.diariodarepublica.pt/2s/2008/03/056000000/1207412098.pdf))](https://files.diariodarepublica.pt/2s/2008/03/056000000/1207412098.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/2s/2008/03/056000000/1207412098.pdf)
 
 QUADRO VI
 
@@ -1437,7 +1605,7 @@ Planos curriculares aprovados pelo [Decreto-Lei n.º 74/2004](https://diariodare
 
 Provas de equivalência à frequência: Júri nas provas P e EP
 
-[([ver documento original](https://files.diariodarepublica.pt/2s/2008/03/056000000/1207412098.pdf))](https://files.diariodarepublica.pt/2s/2008/03/056000000/1207412098.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/2s/2008/03/056000000/1207412098.pdf)
 
 J - Júri
 
@@ -1451,4 +1619,4 @@ Planos de estudo aprovados pelo [Decreto-Lei n.º 74/2004](https://diariodarepub
 
 Exames finais nacionais: Tipo de prova a realizar em cada disciplina e respectiva duração
 
-[([ver documento original](https://files.diariodarepublica.pt/2s/2008/03/056000000/1207412098.pdf))](https://files.diariodarepublica.pt/2s/2008/03/056000000/1207412098.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/2s/2008/03/056000000/1207412098.pdf)

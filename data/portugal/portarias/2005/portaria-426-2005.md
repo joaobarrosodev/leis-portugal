@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2005/04/074b00/30073008.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/426/2005/04/15/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/426-2005-547043
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2009-08-07T00:00:00Z'
+  retrieved_at: '2026-10-23T15:06:17Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: cd22f7b2db7ae66d7aedd9e3143162bea61fa9cf37a94def1438c4309653f1f0
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 190ffaed4687572b94583e664e719dacde74818ca8c82da809cd65a1c2d3e225
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:06:17Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,17 +66,17 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Assistência Médica
 - Administração Regional de Saúde
-- Política de Saúde
-- Serviço Nacional de Saúde
-- Exame Médico
-- Sistema Integrado de Gestão de Inscritos para Cirurgia
-- Preço
-- Cuidados Médicos
-- Regulamento
-- Estabelecimento Hospitalar
+- Assistência Médica
 - Cirurgia
+- Cuidados Médicos
+- Estabelecimento Hospitalar
+- Exame Médico
+- Política de Saúde
+- Preço
+- Regulamento
+- Serviço Nacional de Saúde
+- Sistema Integrado de Gestão de Inscritos para Cirurgia
 - Tabela de Cuidados de Saúde
 relationships:
 - type: amended_by
@@ -95,16 +95,34 @@ relationships:
   target: eli:http://data.dre.pt/eli/resolconsmin/79/2004/06/24/p/dre
   label: null
   source: http://data.dre.pt/eli/resolconsmin/79/2004/06/24/p/dre
+- type: cites
+  target: pt:dre:200421:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:271255:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:534439:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:494003:por
+  label: "Revogada, a partir de 12.08.2009 e com efeitos desde 01.07.2009, pela PORT.852/2009.07.08.2009.MS, DR.IS [152] de\
+    \ 07.08.2009\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/852-2009-494003
+  date: '2009-08-07'
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:06:17Z'
   warnings: []
   errors: []
 ---
@@ -183,4 +201,4 @@ n) Electrocardiograma.
 
 12.º A alínea b) do n.º 98.º do Regulamento do Sistema Integrado de Gestão de Inscritos para Cirurgia, aprovado pela [Portaria n.º 1450/2004](https://diariodarepublica.pt/dr/detalhe/portaria/1450-2004-534439), de 25 de Novembro, passa a ter a seguinte redacção: «Falta aos episódios pré-operatórios ou à intervenção proposta, sem justificar a falta com motivo plausível, ou à terceira vez mesmo apresentando motivos plausíveis;».
 
-**O Ministro da Saúde, Luís Filipe da Conceição Pereira, em 1 de Fevereiro de 2005.**
+O Ministro da Saúde, Luís Filipe da Conceição Pereira, em 1 de Fevereiro de 2005.

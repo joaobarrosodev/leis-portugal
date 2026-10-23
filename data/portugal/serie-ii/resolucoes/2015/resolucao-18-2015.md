@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/2s/2015/03/055000000/0684006841.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -47,36 +47,83 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/resolucao/18-2015-66796984
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2015-03-19T00:00:00Z'
+  retrieved_at: '2026-10-23T15:15:32Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 9aaacbc7402d59bb5e6ea6453193fbe86be8faec4ea2bd2d9b870457fa56c6ee
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 2c6e713d0b913991963738575602ff042932951c7051a009872f5467d5c3ab32
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:15:32Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
-relationships: []
+subjects:
+- Acumulação de Funções
+- Conselho de Administração
+- Instituto Português de Oncologia de Francisco Gentil
+- Nomeação
+- Presidente
+- Primeiro-ministro
+- Vogal
+relationships:
+- type: cites
+  target: pt:dre:191077:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:469067:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:498125:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:498720:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:500215:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:520259:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:542993:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:544415:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:553924:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:57701290:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:15:32Z'
   warnings: []
   errors: []
 ---
@@ -194,3 +241,5 @@ Membro do Conselho Geral do HSJ, na qualidade de representante do grupo profissi
 Integrou vários grupos de trabalho no âmbito do Ministério da Saúde. Integrou vários grupos de trabalho institucionais e interinstitucionais.
 
 Membro do Júri do «Prémio de Investigação Marina Diniz de Sousa». Membro do Conselho Consultivo da Escola Superior de Enfermagem de Francisco Gentil (2003-2006). Membro de júri de diversos concursos na área da contratação e promoção de pessoal. Membro de júri de diferentes procedimentos de aquisição de material de consumo clínico, de equipamentos e ainda de assistência técnica. Colaboração como docente com diversas Escolas Superiores de Enfermagem, designadamente integrando júris de atribuição de título de Especialista na área de Enfermagem.
+
+208506575

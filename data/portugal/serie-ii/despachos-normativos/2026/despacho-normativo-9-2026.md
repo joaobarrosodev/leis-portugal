@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/2s/2026/08/150000000/0004600050.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -47,18 +47,18 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/despacho-normativo/9-2026-1154310743
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2026-08-05T00:00:00Z'
+  retrieved_at: '2026-10-23T15:09:19Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 6863b1f8f8ed99b7288a0c742520d997737cc373faec98c7a0b82d17f73cd3ab
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 97f6a7b755816ecd31a5937ee8d828365efb3319106a2c9b3b8ca382331ed0a4
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:09:19Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,17 +66,21 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects: []
-relationships: []
+relationships:
+- type: cites
+  target: pt:dre:908074086:por
+  label: null
+  source: null
 article_structure:
   article_count: 11
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:09:19Z'
   warnings: []
   errors: []
 ---
@@ -143,7 +147,7 @@ São beneficiários do presente aviso as câmara municipais e as juntas de fregu
 
 1 - São condições de elegibilidade dos projetos:
 
-a) Destinarem-se à criação ou qualificação de refúgios climáticos, que cumpram os requisitos constantes nos n.<sup>os</sup>2 e 3 do artigo 1.º;
+a) Destinarem-se à criação ou qualificação de refúgios climáticos, que cumpram os requisitos constantes nos n.os2 e 3 do artigo 1.º;
 
 b) Estarem integrados, ou comprometerem-se a integrar, a Rede de Refúgios Climáticos - «Stay Cool»;
 
@@ -262,3 +266,5 @@ e) Equipamentos administrativos.
 1 - Sem prejuízo do disposto no número anterior, às matérias não definidas no presente regulamento são aplicáveis as disposições constantes na [Portaria n.º 50/2025/1](https://diariodarepublica.pt/dr/detalhe/portaria/50-2025-908074086), de 20 de fevereiro, e respetivo regulamento anexo.
 
 2 - Não se aplicam às candidaturas ao presente aviso de concurso a condição prevista na alínea f) do n.º 1 do artigo 5.º do regulamento anexo à portaria a que se refere o número anterior.
+
+320028790

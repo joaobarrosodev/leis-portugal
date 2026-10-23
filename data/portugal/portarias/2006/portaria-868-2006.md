@@ -26,7 +26,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2006/08/16600/62786282.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -48,18 +48,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/868/2006/08/29/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/868-2006-540826
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2009-02-05T00:00:00Z'
+  retrieved_at: '2026-10-23T15:16:46Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: a415501367738fddf56d2096c5cde5cf1b1fb892c16b6a91601a9c7bc055b875
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: f30fdbc81632de023827bf810ad2f7b515b5219f47d7498c4aada44944ad37a0
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:16:46Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,14 +67,14 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Embarcação
+- Artes de Pesca
 - Direcção Geral das Pescas e Aquicultura
+- Embarcação
 - Fiscalização
-- Pesca
 - Instituto da Conservação da Natureza
 - Licença de Pesca
+- Pesca
 - Pesca Desportiva
-- Artes de Pesca
 - ZONA de Pesca
 relationships:
 - type: amended_by
@@ -89,16 +89,34 @@ relationships:
   target: eli:http://data.dre.pt/eli/dec-lei/246/2000/09/29/p/dre
   label: null
   source: http://data.dre.pt/eli/dec-lei/246/2000/09/29/p/dre
+- type: cites
+  target: pt:dre:235911:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:553876:por
+  label: null
+  source: null
+- type: corrected_by
+  target: pt:dre:541799:por
+  label: "Rectificada pela DECL-RECT.70/2006.25.09.2006.PCM, DR.IS [191] de 03.10.2006\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/declaracao-rectificacao/70-2006-541799
+  date: '2006-09-25'
+- type: repealed_by
+  target: pt:dre:601553:por
+  label: "Revogada pela PORT.144/2009.05.02.2009.PCM, DR.IS [25] de 05.02.2009\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/144-2009-601553
+  date: '2009-02-05'
 article_structure:
   article_count: 17
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:16:46Z'
   warnings: []
   errors: []
 ---
@@ -209,7 +227,7 @@ g) A menos de 100 m da zona de qualquer esgoto.
 
 ###### Artigo 9.º — Restrições à captura
 
-**O Ministro da Agricultura, do Desenvolvimento Rural e das Pescas pode, mediante despacho, estabelecer a interdição ou restrição do exercício da pesca lúdica dirigida a certas espécies em certas áreas e durante certos períodos, por razões de ordem biológica ou outras.**
+O Ministro da Agricultura, do Desenvolvimento Rural e das Pescas pode, mediante despacho, estabelecer a interdição ou restrição do exercício da pesca lúdica dirigida a certas espécies em certas áreas e durante certos períodos, por razões de ordem biológica ou outras.
 
 ###### Artigo 10.º — Troféus de pesca
 
@@ -313,12 +331,12 @@ Mamíferos marinhos (todas as espécies).
 
 ## ANEXO II — Lista das espécies a que se refere o artigo 10.º
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2006/08/16600/62786282.pdf))](https://files.diariodarepublica.pt/1s/2006/08/16600/62786282.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2006/08/16600/62786282.pdf)
 
 ## ANEXO III — Medição do tamanho dos peixes, crustáceos e moluscos a que se refere o n.º 2 do artigo 9.º
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2006/08/16600/62786282.pdf))](https://files.diariodarepublica.pt/1s/2006/08/16600/62786282.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2006/08/16600/62786282.pdf)
 
 ## ANEXO IV — Mapa de registo de espécies constantes do anexo II, a que se refere o artigo 14.º
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2006/08/16600/62786282.pdf))](https://files.diariodarepublica.pt/1s/2006/08/16600/62786282.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2006/08/16600/62786282.pdf)

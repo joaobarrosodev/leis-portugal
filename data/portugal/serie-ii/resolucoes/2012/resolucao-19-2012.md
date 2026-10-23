@@ -46,40 +46,78 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/resolucao/19-2012-2085679
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2022-10-25T00:00:00Z'
+  retrieved_at: '2026-10-23T15:14:51Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 0f1ecbc58b1cc635544a8a2c6eab8036d39bbc88a21c1c902d510a2a947eeea5
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 00e6883c5f304fb666b610c353592441b1fe96f7a6cb2d156b2d71b1f3255368
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:14:51Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Conselho Nacional do Ambiente e do Desenvolvimento Sustentavel
+- Ministério da Agricultura do Mar do Ambiente e do Ordenamento do Território
+- Nomeação
 relationships:
 - type: amended_by
   target: pt:dre:202619622:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:73631652:por
+  label: Renovada a comissão de serviço de José Lima Santos e Maria Teresa Lencastre de Melo Breyner Andresen pelo(a) Resolução
+    n.º 5/2016 - Diário da República n.º 34/2016, Série II de 2016-02-18
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/resolucao/5-2016-73631652
+  date: '2016-02-18'
+- type: amended_by
+  target: pt:dre:121748969:por
+  label: Renovado, com efeitos a 01.03.2019, por um período de três anos, o mandato de Maria Teresa Lencastre de Melo Breyner
+    Andresen como membro do Conselho Nacional do Ambiente e do Desenvolvimento Sustentável, pelo(a) Resolução do Conselho
+    de Ministros n.º 63/2019 - Diário da República n.º 64/2019, Série I de 2019-04-01
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/resolucao-conselho-ministros/63-2019-121748969
+  date: '2019-04-01'
+- type: amended_by
+  target: pt:dre:202619622:por
+  label: Renovado, com efeitos a 30.09.2022, o mandato de Maria Teresa Lencastre de Melo Breyner Andresen pelo(a) Resolução
+    do Conselho de Ministros n.º 99/2022 - Diário da República n.º 206/2022, Série I de 2022-10-25
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/resolucao-conselho-ministros/99-2022-202619622
+  date: '2022-10-25'
+- type: cites
+  target: pt:dre:195800:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:248004:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:281197:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:544386:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:14:51Z'
   warnings: []
   errors: []
 ---
@@ -163,3 +201,5 @@ A principal área de investigação e docência são a valoração económica do
 Foi, entre 2000 e 2003, diretor do Gabinete de Planeamento e Política Agroalimentar do Ministério da Agricultura, o organismo competente em matéria de conceção e avaliação de políticas, bem como dos Assuntos Europeus e relações internacionais do mesmo ministério. Neste período, participou diretamente (e apoiou a coordenação nacional) nas negociações da reforma da PAC de 2003. É membro do Conselho Nacional do Ambiente e Desenvolvimento Sustentável (CNADS), desde 2006.
 
 É autor de diversas publicações científicas, entre as quais: Santos, J. L. (2010). «The Environmental Crisis and the Future of Agriculture» in: Ribeiro, A. P. (Ed.). Environment at the Crossroads. Carcanet Press and the Fundação Calouste Gulbenkian; Santos, J. L. (2009). «The role of Land Use in an Era of Global Challenge» Paper presented at the EEAC WG Ag./Land Use Seminar Land use in an Era of Global Change, Scotland House, Brussels, 5th June 2009; Santos, J. L. (2007). Transferring landscape values: how and how accurately? In: Navrud, Stale and Richard Ready (ed.) Environmental value transfer. Issues and Methods. Dordrecht, The Netherlands: Springer: 45-76; Santos, J. L. (2000). Problems and Potential in Valuing Multiple Outputs: Externality and Public-good non-commodity Outputs from Agriculture. OCDE - Towards Policies for Rural Amenities - Valuing Public Goods and Externalities, Paris, OCDE: 41-79; Santos, J. L. (1998). The Economic Valuation of Landscape Change: Theory and Policies for Land Use and Conservation. Cheltenham: Edward Elgar Publishers, 286 pp. book.
+
+8652012

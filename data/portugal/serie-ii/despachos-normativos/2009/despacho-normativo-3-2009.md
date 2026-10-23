@@ -46,41 +46,72 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/despacho-normativo/3-2009-2635825
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2009-01-27T00:00:00Z'
+  retrieved_at: '2026-10-23T15:07:15Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 1806d453c9ae69252e832602654aff127592e22788abfd22a15c1b307526098b
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 8ffac4dc9826faccb1f2cd289d10cff153de8b24b5cf2d585df556cf994fa03a
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:07:15Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
-relationships: []
+subjects:
+- Ensino Superior Politécnico
+- Estatuto
+- Instituto Politécnico do Cávado e do AVE
+relationships:
+- type: cites
+  target: pt:dre:208255:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:539416:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:541447:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:550586:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:571177:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:640339:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:667773:por
+  label: null
+  source: null
 article_structure:
   article_count: 44
   section_count: 6
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:07:15Z'
   warnings: []
   errors: []
 ---
 
-# Despacho Normativo n.º 3/2009
+# Despacho normativo n.º 3/2009
 
 Considerando que o Instituto Politécnico do Cávado e do Ave se encontra em regime de instalação;
 
@@ -342,7 +373,7 @@ b) A comissão instaladora.
 
 ###### Artigo 13.º — (Presidente)
 
-**O presidente do IPCA é o órgão superior de governo e de representação externa do Instituto e é livremente nomeado e exonerado pelo ministro da tutela nos termos do n.º 2 do artigo 38.º do RJIES, de entre as pessoas nas condições previstas nos n.os 4 e 5 do artigo 86.º do RJIES.**
+O presidente do IPCA é o órgão superior de governo e de representação externa do Instituto e é livremente nomeado e exonerado pelo ministro da tutela nos termos do n.º 2 do artigo 38.º do RJIES, de entre as pessoas nas condições previstas nos n.os 4 e 5 do artigo 86.º do RJIES.
 
 ###### Artigo 14.º — (Competências do presidente)
 

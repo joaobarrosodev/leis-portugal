@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/2s/2013/06/111000000/1888818895.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,45 +46,95 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/despacho-normativo/7-2013-1170202
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2014-05-26T00:00:00Z'
+  retrieved_at: '2026-10-23T15:07:49Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: f26cc1cc0b40f276e68aecde14cca3e1a38b64d4462e9367e62d376858d686c3
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 5398b509524fa46942375c5ac3adc019962c44041a922513445fd94757b917a1
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:07:49Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Administração do Ensino
+- Agrupamento de Escolas
+- Autonomia Pedagógica
+- Conselho Geral
+- Conselho Pedagógico
+- Contratação de Docentes
+- Currículo Nacional
+- Definição de Competências
+- Direito de Participação
+- Diretor
+- Educação Pré-escolar
+- Ensino
+- Ensino Básico
+- Ensino Cooperativo
+- Ensino Oficial
+- Ensino Particular
+- Ensino Secundário
+- Estabelecimento de Ensino
+- Estatuto da Carreira Docente
+- Estatuto da Carreira dos Educadores de Infância e dos Professores dos Ensinos Básico e Secundário
+- Estudante
+- Gestão Escolar
+- Horário Escolar
+- Ministério da Educação e Ciência
+- Pessoal de Apoio Educativo
+- Pessoal Docente
+- Recrutamento de Pessoal
+- Sistema Educativo
 relationships:
 - type: amended_by
   target: pt:dre:25702576:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:3540315:por
+  label: "Dada nova redação ao nº 5 do art. 13º pelo DN.7-A/2013.10.07.2013.MECI, DR.IIS [131-Supl] de 10.07.2013\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/despacho-normativo/7-a-2013-3540315
+  date: '2013-07-10'
+- type: cites
+  target: pt:dre:178527:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:249866:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:3375642:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:25702576:por
+  label: "Revogado pelo DN.6/2014.26.05.2014.MECI, DR.IIS [100] de 26.05.2014\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/despacho-normativo/6-2014-25702576
+  date: '2014-05-26'
 article_structure:
   article_count: 20
   section_count: 5
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:07:49Z'
   warnings: []
   errors: []
 ---
 
-# Despacho Normativo n.º 7/2013
+# Despacho normativo n.º 7/2013
 
 O presente despacho visa atualizar e desenvolver os mecanismos de exercício da autonomia pedagógica e organizativa de cada escola e harmonizá-los com os princípios consagrados no regime jurídico de autonomia, administração e gestão dos estabelecimentos públicos da educação pré-escolar e dos ensinos básico e secundário. Pretende, também, conferir maior flexibilidade na organização das atividades letivas, aumentar a eficiência na distribuição do serviço e valorizar os resultados escolares, tendo em atenção a experiência da aplicação do [Despacho Normativo n.º 13-A/2012](https://diariodarepublica.pt/dr/detalhe/despacho-normativo/13-a-2012-3375642), de 5 de junho.
 
@@ -612,15 +662,15 @@ Resultados da avaliação sumativa externa
 
 Escola com exames nos ensinos básico e secundário
 
-[([ver documento original](https://files.diariodarepublica.pt/2s/2013/06/111000000/1888818895.pdf))](https://files.diariodarepublica.pt/2s/2013/06/111000000/1888818895.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/2s/2013/06/111000000/1888818895.pdf)
 
 Escola com exames no ensino secundário
 
-[([ver documento original](https://files.diariodarepublica.pt/2s/2013/06/111000000/1888818895.pdf))](https://files.diariodarepublica.pt/2s/2013/06/111000000/1888818895.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/2s/2013/06/111000000/1888818895.pdf)
 
 Escola com exames no ensino básico
 
-[([ver documento original](https://files.diariodarepublica.pt/2s/2013/06/111000000/1888818895.pdf))](https://files.diariodarepublica.pt/2s/2013/06/111000000/1888818895.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/2s/2013/06/111000000/1888818895.pdf)
 
 No ensino básico considera-se a escala de 1 (um) a 5 (cinco) e no ensino secundário a escala de 0 (zero) a 200 (duzentos).
 
@@ -632,7 +682,7 @@ TABELA 2
 
 Diferenças entre avaliação sumativa interna e avaliação sumativa externa
 
-[([ver documento original](https://files.diariodarepublica.pt/2s/2013/06/111000000/1888818895.pdf))](https://files.diariodarepublica.pt/2s/2013/06/111000000/1888818895.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/2s/2013/06/111000000/1888818895.pdf)
 
 No ensino básico considera-se a escala de 1 (um) a 5 (cinco) e no ensino secundário a escala de 0 (zero) a 200 (duzentos).
 
@@ -646,15 +696,15 @@ Comparação da variação anual das classificações de exame de cada escola co
 
 Escola ou Agrupamento com exames nos ensinos básico e secundário
 
-[([ver documento original](https://files.diariodarepublica.pt/2s/2013/06/111000000/1888818895.pdf))](https://files.diariodarepublica.pt/2s/2013/06/111000000/1888818895.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/2s/2013/06/111000000/1888818895.pdf)
 
 Escola ou Agrupamento com exames no ensino secundário
 
-[([ver documento original](https://files.diariodarepublica.pt/2s/2013/06/111000000/1888818895.pdf))](https://files.diariodarepublica.pt/2s/2013/06/111000000/1888818895.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/2s/2013/06/111000000/1888818895.pdf)
 
 Escola ou Agrupamento com exames no ensino básico
 
-[([ver documento original](https://files.diariodarepublica.pt/2s/2013/06/111000000/1888818895.pdf))](https://files.diariodarepublica.pt/2s/2013/06/111000000/1888818895.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/2s/2013/06/111000000/1888818895.pdf)
 
 Os parâmetros A(índice n) e B(índice n) (n = 1, 2, 3, 4, 5, 6) dependem da variação anual das classificações de exame de cada escola relativamente à variação anual da média nacional, sendo esta definida como na Tabela 1.
 
@@ -715,3 +765,5 @@ e) Nas disciplinas de caráter laboratorial da componente de formação científ
 f) Sem prejuízo do disposto na alínea seguinte, nas disciplinas de caráter laboratorial, oficinal, informático ou artístico da componente de formação técnica dos cursos profissionais, na totalidade da carga horária semanal, quando o número de alunos for superior a 15;
 
 g) Nas disciplinas da componente de formação técnica dos cursos profissionais de música, deve ser observado o disposto para as disciplinas congéneres do ensino artístico especializado, nos regimes articulado e integrado, na legislação específica aplicável.
+
+207019277

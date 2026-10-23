@@ -47,36 +47,72 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/despacho-normativo/2-2023-207062864
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2023-02-07T00:00:00Z'
+  retrieved_at: '2026-10-23T15:09:00Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: fa521cc28b7ec3ec1f52beca5e2382f5d4792d46d024ccd0c2ef6ab7955223cb
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: de65342b91372e35a908b0d8219f8a24f79c4cedeceeffaf6eeb0ecfff34586b
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:09:00Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
-relationships: []
+subjects:
+- Apoio ao Investimento
+- Aquisição de Bens e Serviços
+- Desenvolvimento Económico
+- Desenvolvimento Social
+- Financiamento
+- Instituto do Turismo de Portugal
+relationships:
+- type: amends
+  target: pt:numero:despacho-normativo:14/2022
+  label: Altera, a partir de 8 de fevereiro de 2023, o artigo 6.º do Despacho Normativo n.º 14/2022, de 18 de outubro, Diário
+    da República n.º 201/2022, Série II
+  source: null
+  date: '2022-10-18'
+- type: cites
+  target: pt:dre:177307815:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:178510:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:200360506:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:201509700:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:202294034:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:205312555:por
+  label: null
+  source: null
 article_structure:
   article_count: 2
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:09:00Z'
   warnings: []
   errors: []
 ---
@@ -110,3 +146,5 @@ A apresentação de candidaturas decorre no âmbito de um procedimento concursal
 O presente despacho entra em vigor no dia seguinte ao da sua publicação.
 
 31 de janeiro de 2023. - O Secretário de Estado do Turismo, Comércio e Serviços, Nuno Jorge Cardona Fazenda de Almeida.
+
+316119173

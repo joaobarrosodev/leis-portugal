@@ -26,7 +26,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/2s/2010/06/124000000/3550035515.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -48,41 +48,80 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/despacho-normativo/18-2010-3226579
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2010-06-29T00:00:00Z'
+  retrieved_at: '2026-10-23T15:07:24Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 2c663c31944f500644eb6a5888f607c753461f833882cbdb87f05147702b46e0
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: f1487396916a48332adba5ac350f360d8cd23c5a1970487a02e82dc3ea7a299b
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:07:24Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
-relationships: []
+subjects:
+- Acção de Formação
+- Deficiente
+- Instituto do Emprego e Formação Profissional
+- Programa de Emprego e Apoio à Qualificação das Pessoas com Deficiências e Incapacidades
+- Regulamento
+- Subsídio
+relationships:
+- type: cites
+  target: pt:dre:1990656:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:3062988:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:325295:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:426483:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:488826:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:491685:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:628017:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:69905653:por
+  label: Revogado pelo Despacho n.º 8376-B/2015 - Diário da República n.º 147/2015, 1º Suplemento, Série II de 2015-07-30
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/despacho/8376-b-2015-69905653
+  date: '2015-07-30'
 article_structure:
   article_count: 113
   section_count: 31
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:07:24Z'
   warnings: []
   errors: []
 ---
 
-# Despacho Normativo n.º 18/2010
+# Despacho normativo n.º 18/2010
 
 Com a aprovação do novo Programa de Emprego e Apoio à Qualificação das Pessoas com Deficiências e Incapacidades, instituído pelo [Decreto-Lei n.º 290/2009](https://diariodarepublica.pt/dr/detalhe/decreto-lei/290-2009-491685), de 12 de Outubro, o Governo cumpriu o compromisso assumido com os parceiros sociais no acordo tripartido para um novo sistema de regulação das relações laborais, das políticas de emprego e da protecção social em Portugal, no sentido de lhes apresentar um conjunto de medidas para reforçar as políticas activas de emprego para pessoas com deficiências.
 
@@ -1469,3 +1508,5 @@ c) Comparticipação nas despesas com a retribuição e as contribuições para 
 3. 2 - O promotor deve proceder à devolução do termo de aceitação relativo à candidatura apresentada no prazo de 15 dias consecutivos, contados a partir do dia seguinte ao da data da recepção da notificação, sob pena de caducidade da decisão, salvo situações devidamente justificadas.
 
 3. 3 - A concessão dos apoios financeiros aos centros de emprego protegido é precedida da celebração de acordo de cooperação entre os promotores e o IEFP, I. P., conforme modelo a aprovar pelo IEFP, I. P.
+
+203404327

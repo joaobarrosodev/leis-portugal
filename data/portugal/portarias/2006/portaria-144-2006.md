@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2006/02/036b00/13001305.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/144/2006/02/20/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/144-2006-676832
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2010-12-06T00:00:00Z'
+  retrieved_at: '2026-10-23T15:12:18Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 86a6b48183aeddceff1c44a0f9c841e24098f97a3d01f281857a55ac1f23f479
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: fe401f91d8893af698ba51adc88024628c86406543706c93eb5251a73e58a1db
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:12:18Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -65,20 +65,27 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Crustáceo
-- Mar Territorial
 - Albufeiras
-- Pesca
-- Licenciamento
-- Recursos do Mar
-- Molusco
 - Cartão de Apanhador
+- Crustáceo
+- Licenciamento
+- Mar Territorial
+- Molusco
+- Pesca
+- Recursos do Mar
 - Regulamento da Apanha
 relationships:
 - type: amended_by
   target: pt:dre:306657:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:306657:por
+  label: "Alterados os arts. 4.º, 10.º, 13.º, 15.º e 18.º e os n.os ii e v do anexo i do Regulamento da Apanha aprovado pela\
+    \ Port. 1102-B/2000, de 22-Nov, na redacção do presente diploma, pela PORT.1228/2010.06.12.2010.MADRP, DR.IS [235] de\
+    \ 06.12.2010\00\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/1228-2010-306657
+  date: '2010-12-06'
 - type: cites
   target: eli:http://data.dre.pt/eli/decregul/7/2000/05/30/p/dre
   label: null
@@ -87,16 +94,28 @@ relationships:
   target: eli:http://data.dre.pt/eli/port/1102-b/2000/11/22/p/dre
   label: null
   source: http://data.dre.pt/eli/port/1102-b/2000/11/22/p/dre
+- type: cites
+  target: pt:dre:284919:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:292958:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:420460:por
+  label: null
+  source: null
 article_structure:
-  article_count: 32
+  article_count: 23
   section_count: 3
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:12:18Z'
   warnings: []
   errors: []
 ---
@@ -131,17 +150,23 @@ Os artigos 1.º, 4.º, 6.º, 7.º, 10.º, 12.º, 13.º, 15.º, 17.º e 18.º do 
 
 2 - ...
 
-###### Artigo 4.º — [...]
+Artigo 4.º
+
+[...]
 
 1 - ...
 
 2 - A apanha de espécies animais marinhas com fins científicos por outras pessoas singulares ou colectivas depende de autorização da Direcção-Geral das Pescas e Aquicultura (DGPA), ouvido o Instituto Nacional de Investigação Agrária e das Pescas (INIAP), a requerimento dos interessados, devendo ser dado conhecimento dessa autorização à autoridade marítima local.
 
-###### Artigo 6.º — Zonas e período de operação
+Artigo 6.º
+
+Zonas e período de operação
 
 A apanha com fins comerciais só pode ser exercida nas zonas da capitania da área de residência do titular da licença e nas capitanias limítrofes, do nascer ao pôr-do-sol.
 
-###### Artigo 7.º — [...]
+Artigo 7.º
+
+[...]
 
 1 - Na apanha de espécies animais marinhas com fins comerciais só podem ser utilizados os seguintes utensílios ou instrumentos:
 
@@ -165,7 +190,9 @@ h) Outros utensílios ou instrumentos de uso marcadamente local, cujas caracter�
 
 3 - Os apanhadores poderão ser portadores de dispositivo, tipo bolsa, que sirva exclusivamente para o transporte do resultado da apanha.
 
-###### Artigo 10.º — Medidas de gestão
+Artigo 10.º
+
+Medidas de gestão
 
 1 - Em águas oceânicas e águas interiores marítimas é fixado, entre 1 de Maio e 15 de Junho de cada ano, um período de interdição de apanha por motivos biológicos relativamente a todas as espécies de moluscos bivalves.
 
@@ -175,13 +202,17 @@ a) Proibir a apanha de qualquer das espécies referidas no anexo I ao presente R
 
 b) Fixar máximos de captura por espécies e contingentes das licenças referidas no n.º 2 do artigo 5.º
 
-###### Artigo 12.º — [...]
+Artigo 12.º
+
+[...]
 
 1 - Às espécies que podem ser objecto da apanha com fins comerciais aplica-se o disposto no artigo 48.º do [Decreto Regulamentar n.º 43/87](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/43-1987-420460), de 17 de Julho, na redacção dada pelo [Decreto Regulamentar n.º 7/2000](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/7-2000-292958), de 30 de Maio.
 
 2 - A apanha de espécimes com tamanho inferior ao referido no número anterior apenas poderá ser realizada, para repovoamento de estabelecimentos de aquicultura, por titulares da licença prevista no artigo 14.º do presente Regulamento, previamente autorizados pela DGPA para o efeito.
 
-###### Artigo 13.º — [...]
+Artigo 13.º
+
+[...]
 
 1 - O cartão de apanhador, de modelo a aprovar pela DGPA, é concedido por este organismo aos indivíduos maiores de 16 anos.
 
@@ -199,7 +230,9 @@ e) Atestado de residência.
 
 3 - ...
 
-###### Artigo 15.º — [...]
+Artigo 15.º
+
+[...]
 
 1 - ...
 
@@ -209,13 +242,17 @@ e) Atestado de residência.
 
 4 - A renovação da licença está condicionada ao cumprimento dos critérios e condições a fixar nos termos do artigo 74.º-A do [Decreto Regulamentar n.º 43/87](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/43-1987-420460), de 17 de Julho, na redacção dada pelo [Decreto Regulamentar n.º 7/2000](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/7-2000-292958), de 30 de Maio.
 
-###### Artigo 17.º — [...]
+Artigo 17.º
+
+[...]
 
 1 - Por solicitação do respectivo titular, a DGPA substituirá, no prazo de 90 dias a contar do termo do prazo referido no número seguinte, as licenças de mariscadores emitidas pelas autoridades marítimas para águas interiores não marítimas, pelos documentos referidos nos artigos 13.º e 15.º do presente Regulamento.
 
 2 - O pedido de substituição das licenças de mariscadores referidas no número anterior será feito dentro do prazo de 90 dias após a entrada em vigor do presente Regulamento, findo o qual não conferem ao seu titular qualquer legitimidade para o exercício da actividade.
 
-###### Artigo 18.º — [...]
+Artigo 18.º
+
+[...]
 
 As competências atribuídas nos artigos 4.º, 13.º, 15.º, 16.º e 17.º à DGPA consideram-se cometidas aos órgãos de governo próprio das Regiões Autónomas.»
 

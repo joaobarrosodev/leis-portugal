@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/2s/2025/08/166000000/0001800061.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -46,18 +46,18 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/despacho-normativo/10-2025-933551306
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2025-08-29T00:00:00Z'
+  retrieved_at: '2026-10-23T15:09:10Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 179ac78bbd7619e34ce19bc7b9769645ddd3ef5591dbfe20e5a3ec07448404ca
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 2df5406ec284db18d4096d4287943dd2d9138ad99e5cc2be14fa4e23dec5b81a
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:09:10Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -65,17 +65,49 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects: []
-relationships: []
+relationships:
+- type: cites
+  target: pt:dre:3456229:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:355494:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:556606:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:607760:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:640339:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:67288124:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:894487443:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:918122811:por
+  label: null
+  source: null
 article_structure:
   article_count: 88
   section_count: 23
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:09:10Z'
   warnings: []
   errors: []
 ---
@@ -118,7 +150,7 @@ Nos termos da alínea c) do n.º 2 do artigo 27.º e do n.º 1 do artigo 69.º d
 
 ## ANEXO — Estatutos da Universidade do Porto
 
-A Universidade do Porto encetou nos últimos anos um processo de reflexão sobre os Estatutos da Universidade, iniciado com propostas formuladas pelo anterior Conselho Geral. Dando continuidade a esse trabalho de aperfeiçoamento e consolidação do modelo de governação da Universidade do Porto, o Conselho Geral da Universidade, nos termos do artigo 68.º, n.<sup>os</sup>2 a 4, e do artigo 82.º, n.º 1, alínea c), do Regime Jurídico das Instituições de Ensino Superior (RJIES), aprovou a presente revisão aos Estatutos, fundamentada principalmente nos seguintes objetivos:
+A Universidade do Porto encetou nos últimos anos um processo de reflexão sobre os Estatutos da Universidade, iniciado com propostas formuladas pelo anterior Conselho Geral. Dando continuidade a esse trabalho de aperfeiçoamento e consolidação do modelo de governação da Universidade do Porto, o Conselho Geral da Universidade, nos termos do artigo 68.º, n.os2 a 4, e do artigo 82.º, n.º 1, alínea c), do Regime Jurídico das Instituições de Ensino Superior (RJIES), aprovou a presente revisão aos Estatutos, fundamentada principalmente nos seguintes objetivos:
 
 1 - Alinhamento com o RJIES: assegurando a conformidade com o regime vigente e a adequação ao modelo de governação fundacional da Universidade do Porto. Este processo visa consolidar a autonomia da Universidade, respeitando as normas estabelecidas e o papel do Conselho de Curadores na ratificação das alterações propostas.
 
@@ -412,7 +444,7 @@ d) Oito personalidades externas de reconhecido mérito, não pertencentes à Uni
 
 5 - Os membros a que se refere a alínea d) do n.º 1 são cooptados pelo conjunto dos membros referidos nas alíneas a), b) e c), nos termos do artigo 25.º
 
-6 - As eleições referidas nos n.<sup>os</sup>2, 3 e 4, bem como a cooptação referida no número anterior, são efetuadas de acordo com regulamento próprio aprovado pelo Conselho Geral.
+6 - As eleições referidas nos n.os2, 3 e 4, bem como a cooptação referida no número anterior, são efetuadas de acordo com regulamento próprio aprovado pelo Conselho Geral.
 
 7 - O Conselho Geral tem um Presidente eleito, por maioria absoluta, de entre os membros a que se refere a alínea d) do n.º 1 deste artigo.
 
@@ -482,7 +514,7 @@ b) Propor ao governo o elenco de curadores da Universidade do Porto, ouvidos o R
 
 c) Aprovar o seu Regimento;
 
-d) Pronunciar-se sobre as alterações aos Estatutos aprovadas pelo n.º 1 do artigo 3.º do [Decreto-Lei n.º 96/2009](https://diariodarepublica.pt/dr/detalhe/decreto-lei/96-2009-607760) de 27 de abril, e propor as alterações aos presentes Estatutos nos termos dos n.<sup>os</sup>2 a 4 do artigo 4.º;
+d) Pronunciar-se sobre as alterações aos Estatutos aprovadas pelo n.º 1 do artigo 3.º do [Decreto-Lei n.º 96/2009](https://diariodarepublica.pt/dr/detalhe/decreto-lei/96-2009-607760) de 27 de abril, e propor as alterações aos presentes Estatutos nos termos dos n.os2 a 4 do artigo 4.º;
 
 e) Organizar o procedimento de eleição e eleger o Reitor, nos termos da lei, destes Estatutos e de Regulamento próprio;
 
@@ -600,7 +632,7 @@ c) Quem incorra em outras inelegibilidades previstas na lei.
 
 12 - O novo Reitor toma posse perante o Conselho Geral.
 
-13 - No caso de não haver candidaturas ou de não ter sido eleito nenhum dos candidatos nos termos dos n.<sup>os</sup>6 a 10 deste artigo, será aberto novo processo eleitoral que decorrerá nos mesmos termos dos pontos anteriores.
+13 - No caso de não haver candidaturas ou de não ter sido eleito nenhum dos candidatos nos termos dos n.os6 a 10 deste artigo, será aberto novo processo eleitoral que decorrerá nos mesmos termos dos pontos anteriores.
 
 ###### Artigo 33.º — Duração do mandato
 
@@ -868,7 +900,7 @@ b) Cinco representantes do pessoal não docente e não investigador.
 
 ###### Artigo 51.º — Eleição dos membros do Senado
 
-A eleição dos membros do Senado referidos no n.º 2 do artigo anterior realiza-se segundo regulamento próprio, aprovado pelo Reitor, respeitando o estabelecido nos n.<sup>os</sup>3 e 4 do mesmo artigo.
+A eleição dos membros do Senado referidos no n.º 2 do artigo anterior realiza-se segundo regulamento próprio, aprovado pelo Reitor, respeitando o estabelecido nos n.os3 e 4 do mesmo artigo.
 
 ###### Artigo 52.º — Competências do Senado
 
@@ -1997,3 +2029,5 @@ The International Group of Ex Libris Users.
 The International Organisation for Research Information.
 
 Vasco da Gama CoLab - Armazenamento de Energia.
+
+319466353

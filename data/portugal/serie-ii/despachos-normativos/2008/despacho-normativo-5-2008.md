@@ -46,41 +46,57 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/despacho-normativo/5-2008-2711952
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2008-02-11T00:00:00Z'
+  retrieved_at: '2026-10-23T15:07:00Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 840a3b9fa3605c92c1a08cf5160b8bcd9d09989e90085e19c6d70544016d01f4
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: d70c5ad261793217a222157ece03eec6fd2f08b6ee196ca93a5d01d52e0a4db1
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:07:00Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
-relationships: []
+subjects:
+- Infarmed
+- Ministério da Saúde
+- Orgânica
+- Regulamento
+relationships:
+- type: cites
+  target: pt:dre:520191:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:603478:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:636710:por
+  label: null
+  source: null
 article_structure:
   article_count: 13
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:07:00Z'
   warnings: []
   errors: []
 ---
 
-# Despacho Normativo n.º 5/2008
+# Despacho normativo n.º 5/2008
 
 A Lei Orgânica da Autoridade Nacional do Medicamento e Produtos da Saúde, I. P, adiante designado por INFARMED, I. P., aprovada pelo [Decreto-Lei n.º 269/2007](https://diariodarepublica.pt/dr/detalhe/decreto-lei/269-2007-636710), de 26 de Julho, determinou que a sua organização interna seria prevista nos seus estatutos, os quais foram aprovados pela Portaria n.º 810/2007, de 27 de Julho.
 

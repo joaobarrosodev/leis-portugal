@@ -47,40 +47,93 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/resolucao/27-2012-915813
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2013-12-03T00:00:00Z'
+  retrieved_at: '2026-10-23T15:14:53Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: f99d6c7dd4dad32cd2a87f71f63570ce8a081e929d9e7a310f2f146da635600c
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 98e5b61cddd577e8c56844e00056750f3fabedb647a7336a95b4947a128fb2f8
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:14:53Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Administração Central
+- Administração Local
+- Administração Pública
+- Administração Regional
+- Comissão de Recrutamento e Selecção para a Administração Pública
+- Pessoal Dirigente
+- Profissão Independente
+- Recrutamento de Pessoal
+- Vogal
 relationships:
 - type: amended_by
   target: pt:dre:2585680:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:2585680:por
+  label: "Mantidos em funções os restantes vogais não permanentes da CReSAP e os respetivos suplentes referidos no presente\
+    \ diploma, pela RES.27/2013.03.12.2013.PCM, DR.IIS [234] de 03.12.2013\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/resolucao/27-2013-2585680
+  date: '2013-12-03'
+- type: amended_by
+  target: pt:dre:1047662:por
+  label: "Cessação de funçoes de Cristina Maria Augusto Ribeiro pelo DESP.3116/2014.25.02.2014.SEAP-MF, DR.IIS [39] de 25.02.2014\0\
+    \0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/despacho/3116-2014-1047662
+  date: '2014-02-25'
+- type: amended_by
+  target: pt:dre:67119309:por
+  label: Cessadas as funções dos representantes do Ministério da Justiça pelo Despacho n.º 4372/2015 - Diário da República
+    n.º 84/2015, Série II de 2015-04-30
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/despacho/4372-2015-67119309
+  date: '2015-04-30'
+- type: amended_by
+  target: pt:dre:67267070:por
+  label: Alteradas as nomeações feitas, no tocante ao Ministério da Justiça, pelo Despacho n.º 5253/2015 - Diário da República
+    n.º 98/2015, Série II de 2015-05-21
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/despacho/5253-2015-67267070
+  date: '2015-05-21'
+- type: amended_by
+  target: pt:dre:67458309:por
+  label: Alterados os nomeados, em relaçao ao Mninistério da Educaçao e Ciência, pelo Despacho n.º 6479/2015 - Diário da República
+    n.º 112/2015, Série II de 2015-06-11
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/despacho/6479-2015-67458309
+  date: '2015-06-11'
+- type: amended_by
+  target: pt:dre:69889548:por
+  label: Cessam funções os nomeados do Ministério da Agricultura e do Mar, pelo(a) Despacho n.º 8263/2015 - Diário da República
+    n.º 146/2015, Série II de 2015-07-29
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/despacho/8263-2015-69889548
+  date: '2015-07-29'
+- type: cites
+  target: pt:dre:145045:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:2999926:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:14:53Z'
   warnings: []
   errors: []
 ---
@@ -286,3 +339,5 @@ Pedro Jorge de Almeida Ferreira, Chefe de divisão dos Serviços de Gestão de R
 4 - Determinar que a presente resolução produz efeitos desde 19 de maio de 2012, ficando por esta forma ratificados todos os atos que tenham sido praticados pela CReSAP.
 
 21 de junho de 2012. - Pelo Primeiro-Ministro, Vítor Louçã Rabaça Gaspar, Ministro de Estado e das Finanças.
+
+11852012

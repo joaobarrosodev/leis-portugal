@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1987/06/14000/23712372.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,40 +46,61 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/8-1987-419443
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2006-10-31T00:00:00Z'
+  retrieved_at: '2026-10-23T15:17:38Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: a56f4741cba0d5a93b2cb8a6d8330681476a8c3d819582ea194f5a54bd573b68
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: bd4a68c84061ecbef91af7adeabf39e8ffbae9b100a7a15fab425f1f624dbe97
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:17:38Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Açores
+- Orgânica
+- Proteção Civil
+- Serviço Nacional de Protecção Civil
 relationships:
 - type: amended_by
   target: pt:dre:546002:por
   label: Última alteração registada na importação inicial
   source: null
+- type: cites
+  target: pt:dre:379327:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:568702:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:660517:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:145612:por
+  label: "Revogado pelo DLR.7/99/A.1999.02.26.ALR-RAA DR.IS-A [66] DE 19/MAR/1999\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-legislativo-regional/7-1999-145612
+  date: '1999-02-26'
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:17:38Z'
   warnings: []
   errors: []
 ---
@@ -98,9 +119,9 @@ Considerando ainda o n.º 3 do artigo 70.º da [Lei n.º 29/82](https://diarioda
 
 A Assembleia Regional dos Açores decreta, nos termos da alínea a) do artigo 229.º da Constituição da República Portuguesa, o seguinte:
 
-###### Artigo 1.º A responsabilidade pela protecção civil cabe, ao nível da Região, ao Governo Regional, através do seu Presidente, que poderá delegar no Secretário Regional da Administração Pública, e, ao nível local, ao presidente da câmara respectiva.
+Artigo 1.º A responsabilidade pela protecção civil cabe, ao nível da Região, ao Governo Regional, através do seu Presidente, que poderá delegar no Secretário Regional da Administração Pública, e, ao nível local, ao presidente da câmara respectiva.
 
-###### Art. 2.º São campos de acção fundamentais da protecção civil:
+Art. 2.º São campos de acção fundamentais da protecção civil:
 
 a) A autoprotecção;
 
@@ -120,7 +141,7 @@ h) A orientação e o controle dos movimentos de populações;
 
 i) A protecção de edifícios, monumentos e outros bens culturais e materiais.
 
-###### Art. 3.º São missões da protecção civil:
+Art. 3.º São missões da protecção civil:
 
 a) A avaliação constante dos riscos naturais, tecnológicos e outros;
 
@@ -136,9 +157,9 @@ f) A reabilitação das áreas afectadas, repondo as condições mínimas de sob
 
 g) A salvaguarda de vidas e bens.
 
-###### Art. 4.º O funcionamento da protecção civil na Região é assegurado por estruturas de direcção e controle, a nível regional e local, por organismos e entidades que, por lei, desempenhem as acções de protecção civil e por todos os outros que para elas concorram.
+Art. 4.º O funcionamento da protecção civil na Região é assegurado por estruturas de direcção e controle, a nível regional e local, por organismos e entidades que, por lei, desempenhem as acções de protecção civil e por todos os outros que para elas concorram.
 
-###### Art. 5.º - 1 - As estruturas de direcção e controle destinam-se a garantir a execução permanente e coordenada das atribuições que se inserem nos campos de acção ou prosseguem os objectivos e missões próprios da protecção civil.
+Art. 5.º - 1 - As estruturas de direcção e controle destinam-se a garantir a execução permanente e coordenada das atribuições que se inserem nos campos de acção ou prosseguem os objectivos e missões próprios da protecção civil.
 
 2 - As estruturas de direcção e controle são as seguintes:
 
@@ -146,7 +167,7 @@ a) A nível de Região, o Serviço Regional de Protecção Civil dos Açores (SR
 
 b) A nível local, a Comissão Local de Protecção Civil (CLPCA).
 
-###### Art. 6.º - 1 - É criado o Conselho Regional de Protecção Civil (CRPCA), órgão consultivo do Presidente do Governo ou do Secretário Regional da Administração Pública, caso tenha havido a delegação prevista no artigo 1.º, destinado a:
+Art. 6.º - 1 - É criado o Conselho Regional de Protecção Civil (CRPCA), órgão consultivo do Presidente do Governo ou do Secretário Regional da Administração Pública, caso tenha havido a delegação prevista no artigo 1.º, destinado a:
 
 a) Harmonizar as actividades dos vários intervenientes na protecção civil;
 
@@ -158,11 +179,11 @@ d) Emitir parecer sobre o plano anual das actividades da protecção civil elabo
 
 2 - O CRPCA terá a composição a definir pelo Governo Regional.
 
-###### Art. 7.º O SRPCA é uma pessoa colectiva de direito público dotada de autonomia administrativa e financeira, dispondo de património próprio.
+Art. 7.º O SRPCA é uma pessoa colectiva de direito público dotada de autonomia administrativa e financeira, dispondo de património próprio.
 
-###### Art. 8.º Com vista ao cumprimento das missões próprias da protecção civil nos Açores, compete ao SRPCA superintender e assegurar a coordenação geral dos estudos, planos e programas a elaborar e das acções a executar pelos departamentos regionais, pelas autarquias locais e pelos vários organismos que concorrem para a protecção civil e garantir as relações com o Serviço Nacional de Protecção Civil (SNPC), com o Serviço Regional de Protecção Civil da Madeira e com os serviços do Estado na Região.
+Art. 8.º Com vista ao cumprimento das missões próprias da protecção civil nos Açores, compete ao SRPCA superintender e assegurar a coordenação geral dos estudos, planos e programas a elaborar e das acções a executar pelos departamentos regionais, pelas autarquias locais e pelos vários organismos que concorrem para a protecção civil e garantir as relações com o Serviço Nacional de Protecção Civil (SNPC), com o Serviço Regional de Protecção Civil da Madeira e com os serviços do Estado na Região.
 
-###### Art. 9.º O SRPCA terá os seguintes órgãos e serviços:
+Art. 9.º O SRPCA terá os seguintes órgãos e serviços:
 
 a) Órgãos:
 
@@ -174,32 +195,32 @@ b) Serviços:
 
 De carácter operativo e de apoio.
 
-###### Art. 10.º - 1 - Ao presidente do SRPCA compete genericamente coordenar, orientar e superintender as actividades do serviço.
+Art. 10.º - 1 - Ao presidente do SRPCA compete genericamente coordenar, orientar e superintender as actividades do serviço.
 
 2 - O presidente do SRPCA é equiparado a director regional, sendo nomeado por despacho do Presidente do Governo ou do Secretário Regional da Administração Pública, caso tenha havido a delegação prevista no artigo 1.º
 
-###### Art. 11.º Ao CECORPC compete genericamente coordenar e assegurar os meios e acções necessários a desenvolver em ordem a evitar as catástrofes iminentes ou a minimizar os seus efeitos, quando ocorram.
+Art. 11.º Ao CECORPC compete genericamente coordenar e assegurar os meios e acções necessários a desenvolver em ordem a evitar as catástrofes iminentes ou a minimizar os seus efeitos, quando ocorram.
 
-###### Art. 12.º O CECORPC será activado, na ocorrência ou iminência de sinistros, catástrofes ou calamidades públicas, pelo Presidente do Governo Regional, que poderá delegar tal competência no Secretário Regional da Administração Pública ou, na sua ausência, noutro membro do Governo Regional.
+Art. 12.º O CECORPC será activado, na ocorrência ou iminência de sinistros, catástrofes ou calamidades públicas, pelo Presidente do Governo Regional, que poderá delegar tal competência no Secretário Regional da Administração Pública ou, na sua ausência, noutro membro do Governo Regional.
 
-###### Art. 13.º - 1 - As comissões locais de protecção civil (CLPCA) são as estruturas descentralizadas de direcção e controle de funcionamento da protecção civil e funcionam, em cada município, na dependência do respectivo presidente da câmara, a quem compete accionar e executar localmente as missões de protecção civil.
+Art. 13.º - 1 - As comissões locais de protecção civil (CLPCA) são as estruturas descentralizadas de direcção e controle de funcionamento da protecção civil e funcionam, em cada município, na dependência do respectivo presidente da câmara, a quem compete accionar e executar localmente as missões de protecção civil.
 
 2 - Caso seja necessário ou conveniente, as comissões locais de protecção civil poderão ser coordenadas directamente por um adjunto municipal para a protecção civil, nomeado pelo Secretário Regional da Administração Pública, sob proposta do presidente do SRPCA e ouvido o respectivo presidente da câmara municipal.
 
-###### Art. 14.º Para a execução da política de protecção civil, todos os departamentos regionais e autarquias colaborarão na elaboração e no desenvolvimento dos planos e programas globais de protecção civil, realizando as acções que, no âmbito da sua actividade, derivam de tais planos e programas.
+Art. 14.º Para a execução da política de protecção civil, todos os departamentos regionais e autarquias colaborarão na elaboração e no desenvolvimento dos planos e programas globais de protecção civil, realizando as acções que, no âmbito da sua actividade, derivam de tais planos e programas.
 
-###### Art. 15.º - 1 - É revogado o [Decreto Regional n.º 21/81/A](https://diariodarepublica.pt/dr/detalhe/decreto-regional/21-1981-568702), de 10 de Novembro.
+Art. 15.º - 1 - É revogado o [Decreto Regional n.º 21/81/A](https://diariodarepublica.pt/dr/detalhe/decreto-regional/21-1981-568702), de 10 de Novembro.
 
 2 - O [Decreto Regulamentar Regional n.º 10/84/A](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/10-1984-660517), de 9 de Fevereiro, mantém-se em vigor até à regulamentação prevista no artigo seguinte em tudo o que não contrarie o presente diploma.
 
-###### Art. 16.º O Governo Regional elaborará, no prazo de 60 dias, a regulamentação necessária para concretização e desenvolvimento dos princípios e normas do presente diploma.
+Art. 16.º O Governo Regional elaborará, no prazo de 60 dias, a regulamentação necessária para concretização e desenvolvimento dos princípios e normas do presente diploma.
 
 Aprovado pela Assembleia Regional dos Açores, na Horta, em 9 de Abril de 1987.
 
-**O Presidente da Assembleia Regional, José Guilherme Reis Leite.**
+O Presidente da Assembleia Regional, José Guilherme Reis Leite.
 
-**Assinado em Angra do Heroísmo em 20 de Maio de 1987.**
+Assinado em Angra do Heroísmo em 20 de Maio de 1987.
 
-**Publique-se.**
+Publique-se.
 
-**O Ministro da República para a Região Autónoma dos Açores, Vasco Joaquim da Rocha Vieira.**
+O Ministro da República para a Região Autónoma dos Açores, Vasco Joaquim da Rocha Vieira.

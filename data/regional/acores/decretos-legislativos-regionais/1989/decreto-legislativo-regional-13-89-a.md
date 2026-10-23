@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1989/07/17200/29642965.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -47,40 +47,58 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/13-1989-618919
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2020-01-22T00:00:00Z'
+  retrieved_at: '2026-10-23T15:17:53Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 5d8cabe7f658bed5a61e51f769fde0d02e5f5a1db4920957acbbaa80b17cbe59
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 5b8d2abc6b1e4c3a193ee3b6a33282a4f5c196e2bc6eaf2fabe5c17434750063
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:17:53Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Açores
+- Instituto de Alimentação e Mercados Agrícolas
+- Instituto Regional de Produtos Agro-Alimentares
+- Orgânica
 relationships:
 - type: amended_by
   target: pt:dre:128355821:por
   label: Última alteração registada na importação inicial
   source: null
+- type: cites
+  target: pt:dre:616416:por
+  label: null
+  source: null
+- type: corrected_by
+  target: pt:dre:575546:por
+  label: Rectificado o art. 4º pela DECL.DD3411.1990.03.20.PCM, DR.IS [76]Supl
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/declaracao/1990-575546
+  date: '1990-03-20'
+- type: repealed_by
+  target: pt:dre:128355821:por
+  label: Revogado pelo(a) Decreto Legislativo Regional n.º 3/2020/A - Diário da República n.º 15/2020, Série I de 2020-01-22
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-legislativo-regional/3-2020-128355821
+  date: '2020-01-22'
 article_structure:
-  article_count: 4
+  article_count: 3
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:17:53Z'
   warnings: []
   errors: []
 ---
@@ -97,9 +115,9 @@ Assim, nestes termos:
 
 A Assembleia Regional dos Açores, usando da faculdade conferida pela alínea a) do artigo 229.º da Constituição da República Portuguesa e da alínea c) do n.º 1 do artigo 32.º do Estatuto Político-Administrativo da Região Autónoma dos Açores, decreta o seguinte:
 
-###### Artigo 1.º O Instituto Regional de Produtos Agro-Alimentares (IRPA), criado pelo [Decreto Legislativo Regional n.º 1/86/A](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/1-1986-616416), de 7 de Janeiro, passa a designar-se Instituto de Alimentação e Mercados Agrícolas (IAMA).
+Artigo 1.º O Instituto Regional de Produtos Agro-Alimentares (IRPA), criado pelo [Decreto Legislativo Regional n.º 1/86/A](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/1-1986-616416), de 7 de Janeiro, passa a designar-se Instituto de Alimentação e Mercados Agrícolas (IAMA).
 
-###### Art. 2.º Os artigos 2.º e 4.º e as alíneas b), c) e d) do artigo 6.º do [Decreto Legislativo Regional n.º 1/86/A](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/1-1986-616416), de 7 de Janeiro, passam a ter a seguinte redacção:
+Art. 2.º Os artigos 2.º e 4.º e as alíneas b), c) e d) do artigo 6.º do [Decreto Legislativo Regional n.º 1/86/A](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/1-1986-616416), de 7 de Janeiro, passam a ter a seguinte redacção:
 
 ###### Artigo 2.º — Atribuições
 
@@ -147,16 +165,16 @@ j) ...
 
 k) Um representante dos sindicatos do sector agro-alimentar.
 
-###### Art. 3.º O IAMA disporá dos serviços que se mostrem necessários à prossecução das suas atribuições, conforme for definido na sua lei orgânica, a aprovar por decreto regulamentar regional.
+Art. 3.º O IAMA disporá dos serviços que se mostrem necessários à prossecução das suas atribuições, conforme for definido na sua lei orgânica, a aprovar por decreto regulamentar regional.
 
-###### Art. 4.º Os saldos apurados no final de cada gerência relativamente às receitas inscritas no orçamento da Região Autónoma dos Açores a favor do IAMA poderão ser despendidos no ano ou anos económicos.
+Art. 4.º Os saldos apurados no final de cada gerência relativamente às receitas inscritas no orçamento da Região Autónoma dos Açores a favor do IAMA poderão ser despendidos no ano ou anos económicos.
 
 Aprovado pela Assembleia Regional dos Açores, na Horta, em 11 de Maio de 1989.
 
-**O Presidente da Assembleia Regional, José Guilherme Reis Leite.**
+O Presidente da Assembleia Regional, José Guilherme Reis Leite.
 
-**Assinado em Angra do Heroísmo em 10 de Julho de 1989.**
+Assinado em Angra do Heroísmo em 10 de Julho de 1989.
 
-**Publique-se.**
+Publique-se.
 
-**O Ministro da República para a Região Autónoma dos Açores, Vasco Joaquim Rocha Vieira.**
+O Ministro da República para a Região Autónoma dos Açores, Vasco Joaquim Rocha Vieira.

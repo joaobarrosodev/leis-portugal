@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/2s/2000/02/036000000/0297502981.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -46,18 +46,18 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/resolucao/30-2000-1670248
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2000-02-12T00:00:00Z'
+  retrieved_at: '2026-10-23T15:09:59Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: b59229aed4590f5368a54a10f07941b7e6e85bd8607ffb315aaee0e383e2005e
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: e74211a4e0bf5fc1152b01bfec2db95770f86adcd0d74f89c866d846752803f2
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:09:59Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -65,17 +65,33 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects: []
-relationships: []
+relationships:
+- type: cites
+  target: pt:dre:197076:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:308514:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:406527:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:621136:por
+  label: null
+  source: null
 article_structure:
   article_count: 31
-  section_count: 11
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  section_count: 18
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:09:59Z'
   warnings: []
   errors: []
 ---
@@ -104,7 +120,9 @@ A estrutura orgânica da Faculdade compreende os Serviços Administrativos, os S
 
 Os Serviços Administrativos da Faculdade são dirigidos pelo respectivo director de serviços, desenvolvem as suas actividades nos domínios dos assuntos académicos, dos recursos humanos, de expediente e arquivo e compreendem as seguintes secções: Alunos de Licenciatura, Alunos de Pós-Graduação, Recursos Humanos e ainda Expediente e Arquivo.
 
-###### Artigo 4.º — Secção de Alunos de Licenciatura
+###### Artigo 4.º
+
+#### Secção de Alunos de Licenciatura
 
 À Secção de Alunos de Licenciatura compete:
 
@@ -124,7 +142,9 @@ g) Preparar elementos relativos a alunos para responder às solicitações do In
 
 h) Assegurar em geral todas as demais tarefas respeitantes ao serviço dos alunos de licenciatura.
 
-###### Artigo 5.º — Secção de Alunos de Pós-Graduação
+###### Artigo 5.º
+
+#### Secção de Alunos de Pós-Graduação
 
 À Secção de Alunos de Pós-Graduação compete:
 
@@ -144,7 +164,9 @@ g) Preparar elementos relativos a alunos para responder às solicitações do In
 
 h) Assegurar em geral todas as demais tarefas respeitantes ao serviço dos alunos de pós-graduação.
 
-###### Artigo 6.º — Secção de Recursos Humanos
+###### Artigo 6.º
+
+#### Secção de Recursos Humanos
 
 À Secção de Recursos Humanos compete:
 
@@ -172,7 +194,9 @@ l) Promover a divulgação das acções de formação e aperfeiçoamento do pess
 
 m) Assegurar em geral todas as demais tarefas administrativas respeitantes ao pessoal.
 
-###### Artigo 7.º — Secção de Expediente e Arquivo
+###### Artigo 7.º
+
+#### Secção de Expediente e Arquivo
 
 À Secção de Expediente e Arquivo compete:
 
@@ -194,7 +218,9 @@ f) Assegurar em geral todas as demais tarefas administrativas respeitantes ao ex
 
 Os Serviços Financeiros da Faculdade são dirigidos pelo respectivo director de serviços, desenvolvem as suas actividades nos domínios dos assuntos de contabilidade, finanças e património e compreendem, além do Gabinete de Gestão Financeira e da Tesouraria, as seguintes secções: Contabilidade, Compras e Economato e a de Inventário e Património.
 
-###### Artigo 9.º — Secção de Contabilidade
+###### Artigo 9.º
+
+#### Secção de Contabilidade
 
 À Secção de Contabilidade compete:
 
@@ -242,7 +268,9 @@ f) Transferir para os cofres do Estado, dentro dos prazos legais, as respectivas
 
 g) Manter rigorosamente actualizada a escrita da Tesouraria, de modo a ser possível verificar em qualquer momento a exactidão dos fundos em cofre e em depósito.
 
-###### Artigo 11.º — Secção de Compras e Economato
+###### Artigo 11.º
+
+#### Secção de Compras e Economato
 
 À Secção de Compras e Economato compete:
 
@@ -256,7 +284,9 @@ d) Manter actualizado o arquivo relativo ao expediente da Secção;
 
 e) Assegurar em geral todas as demais tarefas respeitantes a compras e aquisições.
 
-###### Artigo 12.º — Secção de Inventário e Património
+###### Artigo 12.º
+
+#### Secção de Inventário e Património
 
 À Secção de Inventário e Património compete:
 
@@ -488,4 +518,4 @@ O presente Regulamento entra em vigor a partir do dia 1 do mês seguinte ao da s
 
 ## ANEXO — Quadro de pessoal não docente
 
-[([ver documento original](https://files.diariodarepublica.pt/2s/2000/02/036000000/0297502981.pdf))](https://files.diariodarepublica.pt/2s/2000/02/036000000/0297502981.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/2s/2000/02/036000000/0297502981.pdf)

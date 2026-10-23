@@ -19,12 +19,12 @@ publication:
   reference: Diário da República n.º 249/2016, 1º Suplemento, Série II de 2016-12-29
   number: '249'
   series: II
-  supplement: 1º Suplemento
+  supplement: null
   pages: 37704-(4) a 37704-(4)
   pdf_url: https://files.diariodarepublica.pt/2s/2016/12/249000001/0000400004.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -46,36 +46,54 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/resolucao/36-a-2016-105657292
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2016-12-29T00:00:00Z'
+  retrieved_at: '2026-10-23T15:15:58Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: dd3d9694417db2f0fb3a5b180975cdb17687874c62e31b3df0170b56ee1121d5
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: ebe5720e9a7d90235f99796c8b2c835cf79f9b0bdf15012c68b4ad4dc1de2069
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:15:58Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
-relationships: []
+subjects:
+- CMVM
+- Conselho de Administração
+- Mandato
+- Nomeação
+- Vogal
+relationships:
+- type: amended_by
+  target: pt:dre:146241062:por
+  label: Alterado pelo(a) Despacho n.º 10280/2020 - Diário da República n.º 208/2020, Série II de 2020-10-26
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/despacho/10280-2020-146241062
+  date: '2020-10-26'
+- type: cites
+  target: pt:dre:499499:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:66108236:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:15:58Z'
   warnings: []
   errors: []
 ---
@@ -111,3 +129,5 @@ Ingressou na Comissão do Mercado de Valores Mobiliários (CMVM) em 2002, desemp
 Advogado desde 2003 (com a inscrição atualmente suspensa).
 
 Orador regular em conferências e autor de múltiplas publicações nas áreas do Direito dos Valores Mobiliários, do Direito das Sociedades e do governo das organizações. Docente convidado no curso de pós-graduação em Direito dos Valores Mobiliários promovido pelo Instituto dos Valores Mobiliários da Faculdade de Direito da Universidade de Lisboa.
+
+210136529

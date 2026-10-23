@@ -46,45 +46,68 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/despacho-normativo/49-2008-1871181
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2012-06-27T00:00:00Z'
+  retrieved_at: '2026-10-23T15:06:59Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 5d040be5b91259980d97fa20bf304dd3aa9063eb22065f8364ab686786376a69
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 2735fce710bad9fa0196928a1070ca7196f88485afbe1893f048fb32ae2aa8cc
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:06:59Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Dotação Orçamental
+- Programa de Intervenção do Turismo
+- Regulamento
+- Turismo
 relationships:
 - type: amended_by
   target: pt:dre:3286468:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:1503931:por
+  label: "Prorrogada até 2010, para efeitos de apresentação de candidaturas, a vigência das Linhas de Apoio I e II do PIT,\
+    \ distribuída pelos anos de execução do Programa a dotação orçamental do PIT fixada no n.º 3.1 do DN 20/2007, de 14-Mai,\
+    \ bem como alterado o art. 8.º do Regulamento da Linha de Apoio II (anexo n.º 2), na redacção do presente diploma, e repubicado\
+    \ na íntegra o mencionado regulamento, pelo DN.30/2009.25.08.2009.SETU-MEI, DR.IIS [164] de 25.08.2009\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/despacho-normativo/30-2009-1503931
+  date: '2009-08-25'
+- type: amended_by
+  target: pt:dre:3286468:por
+  label: "Determinada a extinção da linha de apoio II Eventos para a Projecção do Destino Portugal do Programa de Intervenção\
+    \ Turística, aprovada pelo DN 20/2007, de 7-mai, na redação do presente despacho normativo, pelo DN.14/2012.27.06.2012.SET-MEE,\
+    \ DR.IIS [123] de 27.06.2012, que revoga todas as disposições correspondentes. \0 \0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/despacho-normativo/14-2012-3286468
+  date: '2012-06-27'
+- type: cites
+  target: pt:dre:3506417:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:06:59Z'
   warnings: []
   errors: []
 ---
 
-# Despacho Normativo n.º 49/2008
+# Despacho normativo n.º 49/2008
 
 O Programa de Intervenção do Turismo (PIT) foi criado através do despacho normativo n.º 20/2007, de 7 de Maio, publicado no Diário da República, 2.ª série, n.º 92, de 14 de Maio de 2007, e estrutura-se em duas linhas de apoio: I - Território, destinos e produtos turísticos e II - Eventos para a projecção do destino Portugal.
 
@@ -102,7 +125,7 @@ Ao abrigo do disposto no n.º 4.2 do [Despacho Normativo n.º 20/2007](https://d
 
 ## ANEXO — Pólos turísticos
 
-[([ver documento original](https://files.diariodarepublica.pt/2s/2008/09/185000000/4017940180.pdf))](https://files.diariodarepublica.pt/2s/2008/09/185000000/4017940180.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/2s/2008/09/185000000/4017940180.pdf)
 
 3 - É aditado ao artigo 3.º do Regulamento da Linha de Apoio I - Território, Destinos e Produtos Turísticos do Programa de Intervenção Turística (anexo n.º 1), aprovado pelo despacho normativo n.º 20/2007, de 7 de Maio, o n.º 5, com a seguinte redacção:
 

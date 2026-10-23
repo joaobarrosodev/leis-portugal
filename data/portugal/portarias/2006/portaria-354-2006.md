@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2006/04/072b00/27562757.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/354/2006/04/11/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/354-2006-651682
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2011-06-16T00:00:00Z'
+  retrieved_at: '2026-10-23T15:13:35Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 4f30c64fed85f341eabe13208796ef7eb87cd77ebd1e37642b87d5b5804e3915
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: dc592faba81a3d2e28400cc65979079f4e3f1fef41835c30a7cd465822a41f37
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:13:35Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -79,16 +79,26 @@ relationships:
   target: celex:32001L0029
   label: null
   source: http://data.europa.eu/eli/dir/2001/29/oj
+- type: corrected_by
+  target: pt:dre:632453:por
+  label: "Rectificada pela DECL-RECT.28/2006.08.05.2006.PCM, DR.IS-B [93] de 15.05.2006\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/declaracao-rectificacao/28-2006-632453
+  date: '2006-05-08'
+- type: repealed_by
+  target: pt:dre:670000:por
+  label: "Revogada, a partir de 16.07.2011, pela PORT.238/2011.16.06.2011.MFAP, DR.IS [115] de 16.06.2011\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/238-2011-670000
+  date: '2011-06-16'
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:13:35Z'
   warnings: []
   errors: []
 ---
@@ -127,7 +137,7 @@ Manda o Governo, pela Ministra da Cultura, o seguinte:
 
 4.º A presente portaria entra em vigor 30 dias após a sua publicação.
 
-**A Ministra da Cultura, Maria Isabel da Silva Pires de Lima, em 14 de Março de 2006.**
+A Ministra da Cultura, Maria Isabel da Silva Pires de Lima, em 14 de Março de 2006.
 
 ## ANEXO I — Inspecção de direito de autor e dos direitos conexos
 

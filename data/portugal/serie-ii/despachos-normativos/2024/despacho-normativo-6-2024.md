@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/2s/2024/03/058000000/0019000233.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -46,18 +46,18 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/despacho-normativo/6-2024-856476484
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2024-03-21T00:00:00Z'
+  retrieved_at: '2026-10-23T15:09:10Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: f266879031c14138a8bf8c23a8a92900ecf6db44a9500c733aef47cfa7e6fb0d
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 3ffc22c6389af11ed7a55c143e8584524652c346126d92692114d6a430d9d081
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:09:10Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -65,17 +65,33 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects: []
-relationships: []
+relationships:
+- type: cites
+  target: pt:dre:3109299:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:565377:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:603476:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:640339:por
+  label: null
+  source: null
 article_structure:
   article_count: 101
   section_count: 32
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:09:10Z'
   warnings: []
   errors: []
 ---
@@ -122,7 +138,7 @@ Procedeu-se à divulgação e discussão do projeto de alteração, nos termos d
 
 Foi emitido parecer pelo conselho académico do Instituto Politécnico de Leiria, nos termos do n.º 5 do artigo 16.º dos Estatutos do Politécnico de Leiria.
 
-Assim, consensualizadas as propostas mais relevantes e ponderados e acolhidos muitos dos contributos recebidos durante a fase da consulta pública, o conselho geral do Politécnico de Leiria, por deliberação tomada em 11 de dezembro de 2023, aprova os novos Estatutos do Politécnico de Leiria, nos termos dos n.<sup>os</sup>2 a 4 do artigo 68.º, da alínea c) do n.º 1 do artigo 82.º ambos da [Lei n.º 62/2007](https://diariodarepublica.pt/dr/detalhe/lei/62-2007-640339), de 10 de setembro, na sua redação atual e da alínea c) do n.º 1 do artigo 16.º dos Estatutos do Politécnico de Leiria.
+Assim, consensualizadas as propostas mais relevantes e ponderados e acolhidos muitos dos contributos recebidos durante a fase da consulta pública, o conselho geral do Politécnico de Leiria, por deliberação tomada em 11 de dezembro de 2023, aprova os novos Estatutos do Politécnico de Leiria, nos termos dos n.os2 a 4 do artigo 68.º, da alínea c) do n.º 1 do artigo 82.º ambos da [Lei n.º 62/2007](https://diariodarepublica.pt/dr/detalhe/lei/62-2007-640339), de 10 de setembro, na sua redação atual e da alínea c) do n.º 1 do artigo 16.º dos Estatutos do Politécnico de Leiria.
 
 Estatutos do Instituto Politécnico de Leiria
 
@@ -398,7 +414,7 @@ b) Eleger o seu secretário, por maioria absoluta dos membros em efetividade de 
 
 c) Aprovar o seu regimento;
 
-d) Aprovar as alterações dos Estatutos, nos termos dos n.<sup>os</sup>2 a 4 do artigo 68.º da [Lei n.º 62/2007](https://diariodarepublica.pt/dr/detalhe/lei/62-2007-640339), de 10 de setembro, na sua redação atual;
+d) Aprovar as alterações dos Estatutos, nos termos dos n.os2 a 4 do artigo 68.º da [Lei n.º 62/2007](https://diariodarepublica.pt/dr/detalhe/lei/62-2007-640339), de 10 de setembro, na sua redação atual;
 
 e) Aprovar o regulamento aplicável à eleição dos membros do conselho geral, bem como ao processo de cooptação dos membros a que se refere alínea c) do n.º 2 do artigo anterior.
 
@@ -660,7 +676,7 @@ b) Redistribuir os recursos orçamentais entre unidades orgânicas.
 
 9 - Carece, igualmente, de parecer favorável do conselho académico a aplicação de sanções disciplinares graves a quem haja sido candidato a cargos eletivos no Politécnico de Leiria e suas unidades.
 
-10 - O presidente pode delegar, nos vice-presidentes, nos pró-presidentes, nos dirigentes dos serviços e nos órgãos de gestão da Instituição ou das suas unidades orgânicas, as competências que se revelem necessárias a uma gestão mais eficiente, com exceção dos casos previstos nos n.<sup>os</sup>7 a 9 do presente artigo quanto à matéria prevista na alínea l) do n.º 1.
+10 - O presidente pode delegar, nos vice-presidentes, nos pró-presidentes, nos dirigentes dos serviços e nos órgãos de gestão da Instituição ou das suas unidades orgânicas, as competências que se revelem necessárias a uma gestão mais eficiente, com exceção dos casos previstos nos n.os7 a 9 do presente artigo quanto à matéria prevista na alínea l) do n.º 1.
 
 11 - O presidente deve designar os vice-presidentes que o substituem nas ausências ou impedimentos para o exercício do cargo.
 
@@ -1064,7 +1080,7 @@ c) Elaborar os estatutos, ouvidos os órgãos da escola, e submetê-los a aprova
 
 d) Exercer em permanência funções de administração corrente;
 
-e) Nomear o secretário da escola ou propor abertura de concurso para diretor de serviços da escola, tendo em consideração os n.<sup>os</sup>6 e 7 do artigo 56.º;
+e) Nomear o secretário da escola ou propor abertura de concurso para diretor de serviços da escola, tendo em consideração os n.os6 e 7 do artigo 56.º;
 
 f) Dirigir os serviços próprios da escola e aprovar os necessários regulamentos;
 
@@ -1164,7 +1180,7 @@ b) Quatro ou cinco representantes das unidades de investigação associadas à e
 
 4 - No conjunto dos membros a que se refere a alínea a) do n.º 1 do presente artigo devem existir, pelo menos, 25 % de professores coordenadores ou professores coordenadores principais, de carreira.
 
-5 - Quando o número de pessoas elegíveis for inferior ao mínimo estabelecido nos n.<sup>os</sup>3 e 4 do presente artigo, o número de membros que integram o conselho é igual ao conjunto das mesmas.
+5 - Quando o número de pessoas elegíveis for inferior ao mínimo estabelecido nos n.os3 e 4 do presente artigo, o número de membros que integram o conselho é igual ao conjunto das mesmas.
 
 6 - Podem ser cooptados para o conselho técnico-científico membros convidados, de entre professores ou investigadores de carreira de outras instituições ou personalidades de reconhecida competência no âmbito da missão da instituição, caso em que o número de membros do conselho pode ser alargado até 25.
 
@@ -1358,7 +1374,7 @@ e) Dar parecer sobre todos os assuntos para que seja consultada.
 
 1 - O coordenador de cursos não conferentes de grau, nomeadamente cursos de pós-graduação, é nomeado pelo diretor, de entre os professores titulares do grau de doutor ou especialistas de reconhecida experiência e competência profissional na área de formação fundamental do curso, ou outros docentes com experiência relevante nas áreas técnico-científicas dos cursos, ouvidos o conselho técnico-científico e o conselho pedagógico.
 
-2 - As competências e exercício de funções do coordenador de curso não conferente de grau são definidas nos estatutos da escola, sendo aplicável o disposto nos n.<sup>os</sup>2 a 6 do artigo 71.º, com as devidas adaptações.
+2 - As competências e exercício de funções do coordenador de curso não conferente de grau são definidas nos estatutos da escola, sendo aplicável o disposto nos n.os2 a 6 do artigo 71.º, com as devidas adaptações.
 
 #### SECÇÃO VI — COORDENAÇÃO DE DEPARTAMENTO OU ESTRUTURA COM FUNÇÕES EQUIVALENTES, QUANDO PREVISTOS NOS RESPETIVOS ESTATUTOS
 
@@ -1661,3 +1677,5 @@ A gestão dos serviços aos estudantes, como cantinas e residências, pode ser c
 ###### Artigo 101.º — Entrada em vigor
 
 Os presentes Estatutos entram em vigor no dia seguinte ao da sua publicação no Diário da República, podendo ser revistos ou alterados nos termos da lei.
+
+317454856

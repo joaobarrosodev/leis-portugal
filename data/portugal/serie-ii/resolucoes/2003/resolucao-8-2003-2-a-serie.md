@@ -46,40 +46,62 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/resolucao/8-2003-2045352
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2005-05-12T00:00:00Z'
+  retrieved_at: '2026-10-23T15:12:01Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 1627935882cadcd82f48be065bf5eaf83cf01260ee6826e88e153a16f23c6146
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 8700649de3ecf5e33819ada2f271b4e8ebf8e8b1e7745730702f36b3e840bd64
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:12:01Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Conselho de Administração
+- Exoneração
+- Instituto de Formação Turística
+- Nomeação
+- Presidente
+- Vogal
 relationships:
 - type: amended_by
   target: pt:dre:2354681:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:2303888:por
+  label: "Exonerado o nomeado pelo DC.252/2005.28.02.2005.PCM, DR.IIS [55] de 18.03.2005\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/despacho-conjunto/252-2005-2303888
+  date: '2005-02-28'
+- type: amended_by
+  target: pt:dre:2354681:por
+  label: "Exonerado o presidente do conselho directivo, Dr. Francisco António Dias Vieira e confirmada a nomeação da vogal\
+    \ do conselho directivo Dr.ª Maria Teresa Lourenço da Silva Leal Ferreira, ambos pela RES.28/2005(2ªSérie).12.05.2005.PCM,\
+    \ DR.IIS [108] de 06.06.2005\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/resolucao/28-2005-2354681
+  date: '2005-05-12'
+- type: cites
+  target: pt:dre:626254:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:12:01Z'
   warnings: []
   errors: []
 ---

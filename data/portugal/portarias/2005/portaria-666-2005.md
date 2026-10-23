@@ -48,18 +48,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/666/2005/08/12/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/666-2005-243710
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2009-07-07T00:00:00Z'
+  retrieved_at: '2026-10-23T15:07:43Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: e5e496b50d463d720f8517c658d7a1642eee5b051ca17f49d68e4e1df27d90da
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 0e399bce00de7f896d2c900f510a5bf1d3fe4c1e025008d936405b10ab3b3253
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:07:43Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -75,6 +75,18 @@ relationships:
   target: pt:dre:492234:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:640100:por
+  label: "Anexados e desanexados vários prédios rústicos à zona de caça pela PORT.1083/2007.05.09.2007.MADRP, DR.IS [171]\
+    \ de 05.09.2007\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/1083-2007-640100
+  date: '2007-09-05'
+- type: amended_by
+  target: pt:dre:492234:por
+  label: "Desanexados vários prédios rústicos da zona de caça concessionada pela presente portaria, na redacção da Port. 1083/2007,\
+    \ de 05-Set., pela PORT.715/2009.07.07.2009.MADRP, DR.IS [129] de 07.07.2009\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/715-2009-492234
+  date: '2009-07-07'
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/202/2004/08/18/p/dre
   label: null
@@ -95,16 +107,36 @@ relationships:
   target: eli:http://data.dre.pt/eli/port/45/2004/01/14/p/dre
   label: null
   source: http://data.dre.pt/eli/port/45/2004/01/14/p/dre
+- type: cites
+  target: pt:dre:434640:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:480704:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:534644:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:536243:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:603031:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:07:43Z'
   warnings: []
   errors: []
 ---

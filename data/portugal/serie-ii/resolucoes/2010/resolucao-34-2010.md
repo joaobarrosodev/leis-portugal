@@ -46,36 +46,49 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/resolucao/34-2010-1278572
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2010-12-23T00:00:00Z'
+  retrieved_at: '2026-10-23T15:14:37Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 3bf966b59c69f2a5cc116e62c7c38ecd50e4e4f4f20ee275a035459b3847cca2
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 1b3ffb4e6749bb0e22830514f1d673caac0c3deefca9601827cefc1262ee86c5
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:14:37Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
-relationships: []
+subjects:
+- Contabilidade Pública
+- Fiscalização
+- Madeira.região Autónoma
+- Programa
+- Secção Regional do Tribunal de Contas
+relationships:
+- type: cites
+  target: pt:dre:1935068:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:193663:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:14:37Z'
   warnings: []
   errors: []
 ---
@@ -110,6 +123,8 @@ Relação nominal dos responsáveis, com indicações do período a que se repor
 
 6) Ficam ainda dispensadas da prestação de contas as entidades referidas nas alíneas a) e g) do n.º 2 do artigo 2.º da LOPTC cujo valor anual, de receita ou de despesa, seja inferior a (euro) 2.500.000,00.
 
-**Publique-se na 2.ª série do Diário da República e na 2.ª série do Jornal Oficial da Região Autónoma da Madeira, nos termos do artigo 9.º, n.º 2, alínea e), e n.º 3, da referida [Lei n.º 98/97](https://diariodarepublica.pt/dr/detalhe/lei/98-1997-193663).**
+Publique-se na 2.ª série do Diário da República e na 2.ª série do Jornal Oficial da Região Autónoma da Madeira, nos termos do artigo 9.º, n.º 2, alínea e), e n.º 3, da referida [Lei n.º 98/97](https://diariodarepublica.pt/dr/detalhe/lei/98-1997-193663).
 
 Lisboa, 15 de Dezembro de 2010. - O Conselheiro Presidente, Guilherme d'Oliveira Martins.
+
+204071646

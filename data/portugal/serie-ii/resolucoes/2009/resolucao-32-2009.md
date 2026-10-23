@@ -46,36 +46,45 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/resolucao/32-2009-3474038
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2009-12-29T00:00:00Z'
+  retrieved_at: '2026-10-23T15:14:25Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: f0114a0308516879213395d1041ac90809a7f3b0521a215017831be33ac0fe98
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 100a923b1f29bb6927409925f1c605c3a707bf06af6c1250122e238c2c661675
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:14:25Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
-relationships: []
+subjects:
+- Açores
+- Fiscalização
+- Organismo do Estado
+- Prestação de Contas
+- Secção Regional do Tribunal de Contas
+relationships:
+- type: cites
+  target: pt:dre:193663:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:14:25Z'
   warnings: []
   errors: []
 ---
@@ -104,6 +113,8 @@ Relação nominal dos responsáveis, relativa ao período a que se reporta a pre
 
 4 - As freguesias devem organizar e documentar as contas nos termos das Instruções aplicáveis, e mantê-las em arquivo no prazo fixado no artigo 70.º da LOPTC.
 
-**Publique-se na 2.ª série do Diário da República e na 2.ª série do Jornal Oficial da Região Autónoma dos Açores, nos termos do artigo 9.º, n.º 2, alínea e), e n.º 3 da LOPTC.**
+Publique-se na 2.ª série do Diário da República e na 2.ª série do Jornal Oficial da Região Autónoma dos Açores, nos termos do artigo 9.º, n.º 2, alínea e), e n.º 3 da LOPTC.
 
 Lisboa, 16 de Dezembro de 2009. - O Conselheiro Presidente, (Guilherme d'Oliveira Martins).
+
+202703815

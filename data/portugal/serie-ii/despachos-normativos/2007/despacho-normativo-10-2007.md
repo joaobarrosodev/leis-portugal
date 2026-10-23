@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/2s/2007/01/019000000/0223702237.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -47,45 +47,77 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/despacho-normativo/10-2007-2860760
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2011-03-15T00:00:00Z'
+  retrieved_at: '2026-10-23T15:06:33Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 0fc73b9018a64af22001150208536f14eb5970225442bf05043ddc300ae8b0cb
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 7d42fa867ea06afdc1b78ba04a3507897b67408fde115444af6e09268b11b82a
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:06:33Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Administração Regional de Saúde
+- Assistência Médica
+- Assistência Medicamentosa
+- Carreira Profissional
+- Cuidados de Enfermagem
+- Cuidados Médicos
+- Definição de Competências
+- Ensino Médico
+- Médico
+- Mobilidade de Pessoal
+- Pessoal Administrativo
+- Pessoal de Enfermagem
+- Regulamento
+- Remuneração
+- Saúde Pública
+- Serviço Nacional de Saúde
+- Sistema Retributivo
+- Unidade de Saúde Familiar
 relationships:
 - type: amended_by
   target: pt:dre:2222704:por
   label: Última alteração registada na importação inicial
   source: null
+- type: cites
+  target: pt:dre:331179:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:683669:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:2222704:por
+  label: "Revogado o DN 9/2006, de 16-Fev, DR.IS-B [34], na redacção do presente diploma, pelo DN.5/2011.15.03.2011.SEADS-MS,\
+    \ DR.IIS [52] de 15.03.2011\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/despacho-normativo/5-2011-2222704
+  date: '2011-03-15'
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:06:33Z'
   warnings: []
   errors: []
 ---
 
-# Despacho Normativo n.º 10/2007
+# Despacho normativo n.º 10/2007
 
 Dando cumprimento ao n.º 2 do [Despacho Normativo n.º 9/2006](https://diariodarepublica.pt/dr/detalhe/despacho-normativo/9-2006-683669), de 12 de Janeiro, publicado no Diário da República em 16 de Fevereiro de 2006, que aprovou o Regulamento para o Lançamento e Implementação das Unidades de Saúde Familiar, e no sentido de agilizar o funcionamento das USF e a sua articulação com os centros de saúde e administrações regionais de saúde, mostra-se necessário, em presença da experiência entretanto obtida, que se proceda a algumas adaptações ao mencionado Regulamento.
 

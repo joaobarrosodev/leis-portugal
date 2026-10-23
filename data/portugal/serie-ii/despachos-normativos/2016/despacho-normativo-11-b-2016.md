@@ -21,12 +21,12 @@ publication:
   reference: Diário da República n.º 209/2016, 3º Suplemento, Série II de 2016-10-31
   number: '209'
   series: II
-  supplement: 3º Suplemento
+  supplement: null
   pages: 32628-(20) a 32628-(22)
   pdf_url: https://files.diariodarepublica.pt/2s/2016/10/209000003/0002000022.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -48,30 +48,62 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/despacho-normativo/11-b-2016-75639805
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2020-01-16T00:00:00Z'
+  retrieved_at: '2026-10-23T15:08:08Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: b81bdfd026fe4c7b69759d4061934e8068e5e97e21d4396e9df3532af1645fa9
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: a39c192fc9f76674f7ac22d522d467b653daef0f232258f8805006641b39bdae
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:08:08Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Agricultor
+- Agricultura
+- Comissão CE
+- Definição de Competências
+- Exploração Pecuária
+- Financiamento
+- Fiscalização
+- IFAP
+- Página na Internet
+- Prémio
+- Regime de Apoio
+- Regulamento CE
 relationships:
 - type: amended_by
   target: pt:dre:128154338:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:114848824:por
+  label: Alterado, a partir de 13.03.2018, e com efeitos a 01.01.2018, o art. 10.º do DN 14/2014, de 29-out, na redação do
+    presente diploma, pelo(a) Despacho Normativo n.º 5/2018 - Diário da República n.º 50/2018, Série II de 2018-03-12
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/despacho-normativo/5-2018-114848824
+  date: '2018-03-12'
+- type: amended_by
+  target: pt:dre:125046940:por
+  label: Alterado, a partir de 01.01.2020 e sem prejuízo do disposto no n.º 2 do art. 3.º, o art. 8.º do DN 14/2014, de 29-out,
+    na versão republicada pelo presente diploma, pelo(a) Despacho Normativo n.º 22/2019 - Diário da República n.º 189/2019,
+    Série II de 2019-10-02
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/despacho-normativo/22-2019-125046940
+  date: '2019-10-02'
+- type: amended_by
+  target: pt:dre:128154338:por
+  label: Alterado, a partir de 01.01.2020 e sem prejuízo do disposto no n.º 2 do art. 4.º, o art. 8.º do DN 14/2014, de 29-out,
+    na redação do presente diploma, pelo(a) Despacho Normativo n.º 1/2020 - Diário da República n.º 11/2020, Série II de 2020-01-16,
+    e procede á sua republicação
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/despacho-normativo/1-2020-128154338
+  date: '2020-01-16'
 - type: cites
   target: celex:32000R1760
   label: null
@@ -104,21 +136,29 @@ relationships:
   target: celex:32016R0141
   label: null
   source: null
+- type: cites
+  target: pt:dre:66343883:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:74926159:por
+  label: null
+  source: null
 article_structure:
-  article_count: 27
+  article_count: 23
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:08:08Z'
   warnings: []
   errors: []
 ---
 
-# Despacho Normativo n.º 11-B/2016
+# Despacho normativo n.º 11-B/2016
 
 O despacho normativo n.º 14/2014, de 29 de outubro, alterado pelos despachos normativos n.os [4/2015](https://diariodarepublica.pt/dr/detalhe/despacho-normativo/4-2015-66343883), de 27 de janeiro, 1-A/2016, de 11 de fevereiro, e [5/2016](https://diariodarepublica.pt/dr/detalhe/despacho-normativo/5-2016-74926159), de 13 de julho, estabeleceu as normas complementares de execução dos regimes de apoio associado «animais», previstos nos artigos 52.º a 55.º do Regulamento (UE) n.º 1307/2013, do Parlamento Europeu e do Conselho, de 17 de dezembro, e nos artigos 51.º a 55.º do Regulamento Delegado (UE) n.º 639/2014, da Comissão, de 11 de março.
 
@@ -142,7 +182,9 @@ Os artigos 7.º a 10.º e 12.º do despacho normativo n.º 14/2014, de 29 de out
 
 Para efeitos do disposto no artigo anterior, considera-se período de retenção o período compreendido entre 1 de janeiro a 30 de abril de cada ano, para os bovinos, ovinos e caprinos.
 
-###### Artigo 8.º — [...]
+Artigo 8.º
+
+[...]
 
 1 - O prémio por vaca em aleitamento referido na alínea a) do n.º 1 do artigo 3.º é concedido ao agricultor em função do efetivo das vacas em aleitamento elegíveis registadas no Sistema Nacional de Informação e Registo Animal (SNIRA), que sejam detidas na exploração durante o período de retenção referido no artigo 7.º
 
@@ -150,7 +192,9 @@ Para efeitos do disposto no artigo anterior, considera-se período de retenção
 
 3 - ...
 
-###### Artigo 9.º — [...]
+Artigo 9.º
+
+[...]
 
 1 - O prémio referido na alínea b) do n.º 1 do artigo 3.º é concedido ao agricultor em função do efetivo das ovelhas e ou cabras elegíveis, registadas no SNIRA, que sejam detidas na exploração durante o período de retenção referido no artigo 7.º
 
@@ -160,7 +204,9 @@ a) ...
 
 b) ...
 
-###### Artigo 10.º — [...]
+Artigo 10.º
+
+[...]
 
 1 - O prémio por vaca leiteira referido na alínea c) do n.º 1 do artigo 3.º é concedido ao agricultor em função do efetivo das vacas leiteiras elegíveis, registadas no SNIRA, que sejam detidas na exploração durante o período de retenção referido no artigo 7.º
 
@@ -174,7 +220,9 @@ c)...
 
 3 - ...
 
-###### Artigo 12.º — Candidatura
+Artigo 12.º
+
+Candidatura
 
 1 - Os agricultores que pretendam candidatar-se aos regimes de apoio associado 'animais' referidos no n.º 1 do artigo 3.º devem apresentar a candidatura respetiva, através de um dos seguintes procedimentos:
 
@@ -366,7 +414,7 @@ Armoricaine,
 
 Bretonne pie noire,
 
-Fries-Hollands (FH), Française frisonne pie noire (FFPN), Friesian-Holstein, Holstein, Black and White Friesian, Red and White Friesian, Frisona española, Frisona Italiana, Zwartbonten van België/pie noire de Belgique, Sortbroget dansk mælkerace (SDM), Deutsche Schwarzbunte, Schwarzbunte Milchrasse (SMR), [([ver documento original](https://files.diariodarepublica.pt/2s/2016/10/209000003/0002000022.pdf))](https://files.diariodarepublica.pt/2s/2016/10/209000003/0002000022.pdf), Magyar Holstein-Friz, Dutch Black and White, Estonian Holstein, Estonian Native, Estonian Red, British Friesian, [([ver documento original](https://files.diariodarepublica.pt/2s/2016/10/209000003/0002000022.pdf))](https://files.diariodarepublica.pt/2s/2016/10/209000003/0002000022.pdf), German Red and White, Holstein Black and White, Red Holstein,
+Fries-Hollands (FH), Française frisonne pie noire (FFPN), Friesian-Holstein, Holstein, Black and White Friesian, Red and White Friesian, Frisona española, Frisona Italiana, Zwartbonten van België/pie noire de Belgique, Sortbroget dansk mælkerace (SDM), Deutsche Schwarzbunte, Schwarzbunte Milchrasse (SMR), [(ver documento original)](https://files.diariodarepublica.pt/2s/2016/10/209000003/0002000022.pdf), Magyar Holstein-Friz, Dutch Black and White, Estonian Holstein, Estonian Native, Estonian Red, British Friesian, [(ver documento original)](https://files.diariodarepublica.pt/2s/2016/10/209000003/0002000022.pdf), German Red and White, Holstein Black and White, Red Holstein,
 
 Groninger Blaarkop,
 
@@ -390,10 +438,12 @@ Pohjoissuomenkarja.
 
 Valores unitários indicativos dos regimes de apoio associado
 
-[([ver documento original](https://files.diariodarepublica.pt/2s/2016/10/209000003/0002000022.pdf))](https://files.diariodarepublica.pt/2s/2016/10/209000003/0002000022.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/2s/2016/10/209000003/0002000022.pdf)
 
 ## ANEXO III — (a que se refere o n.º 3 do artigo 15.º)
 
 Limiares garantidos e envelopes financeiros disponíveis
 
-[([ver documento original](https://files.diariodarepublica.pt/2s/2016/10/209000003/0002000022.pdf))](https://files.diariodarepublica.pt/2s/2016/10/209000003/0002000022.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/2s/2016/10/209000003/0002000022.pdf)
+
+100000139

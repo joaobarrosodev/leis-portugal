@@ -27,7 +27,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2006/01/009b00/03160319.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -49,18 +49,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/42/2006/01/12/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/42-2006-169054
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2010-02-03T00:00:00Z'
+  retrieved_at: '2026-10-23T15:14:01Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 7c4be9d9af4711f2d31a927c996583069b8e59be36ddfe81f5d8b4ce1f9b5cb7
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 49afbe8dc70306bb352e091705d9877e8d1e2343d03e9389f3b73e2f2a1b5267
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:14:01Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -68,26 +68,59 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Ajuda Comunitária
-- Financiamento
-- Desenvolvimento Rural
-- Gado Bovino
-- Pagamento
-- Instituto Nacional de Intervenção e Garantia Agrícola
-- Exploração Agrícola
-- Orientação Agrícola
-- Política Agrícola Comum
 - Agricultor
+- Agricultura
+- Ajuda Comunitária
+- Desenvolvimento Rural
+- Exploração Agrícola
+- Financiamento
+- Gado Bovino
+- Ifadap
+- Instituto Nacional de Intervenção e Garantia Agrícola
+- Orientação Agrícola
+- Pagamento
+- Pecuária
+- Política Agrícola Comum
 - Produção Agrícola
 - Regulamento
-- Pecuária
-- Agricultura
-- Ifadap
 relationships:
 - type: amended_by
   target: pt:dre:617116:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:544874:por
+  label: "Alteradas as als. a) e b) do n.º 2.º, o n.º 8.º e o n.º 2 do n.º 12.º da Port 1202/2004, de 17-Set, com a redacção\
+    \ conferida no presente diploma, pela PORT.1257/2006.27.10.2006.MADRP, DR.IS [223] de 20.11.2006\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/1257-2006-544874
+  date: '2006-10-27'
+- type: amended_by
+  target: pt:dre:386600:por
+  label: "Alterados o n.º8 e o n.º 10 e o n.º 17 da Port 1202/2004, de 17-Set, na redacção do presente diploma, pela PORT.36/2008.11.01.2008.MADRP,\
+    \ DR.IS [8] de 11.01.2008\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/36-2008-386600
+  date: '2008-01-11'
+- type: amended_by
+  target: pt:dre:449472:por
+  label: "Alterados os nos. 1 e 2 do nº 4, os nos. 1 e 8 do nº 4-A, o nº 2 do nº 8, o nº 7 do nº 10, o nº 2 do nº 12, as als.\
+    \ a) e c) do nº 1 do nº 13 e o nº 3 do nº 18º da Port 1202/2004, de 17-Set, na redacção do presente diploma, pela PORT.410/2008.09.06.2008.MADRP,\
+    \ DR.IS [110] de 09.06.2008\008\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/410-2008-449472
+  date: '2008-06-09'
+- type: amended_by
+  target: pt:dre:418663:por
+  label: "Alterados o n.º 1 e a al. a) do n.º 2 do n.º 4.º, o n.º 10 do n.º 12.º e a al. c) do n.º 1 do n.º 13.º da Port 1202/2004,\
+    \ de 17-Set , na redacção do presente diploma, pela PORT.353-D/2009.03.04.2009.MADRP, DR.IS [66-Supl] de 03.04.2009\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/353-d-2009-418663
+  date: '2009-04-03'
+- type: amends
+  target: pt:numero:portaria:1202/2004
+  label: "Altera o nº 2º (na redacção da Port 616/2005, de 27-Jul), nº 1 do nº 4º, nº 4º-A (ambos na redacção da Port 206/2005,\
+    \ de 22-Fev), nº 2 do nº 6º (na redacção da Port 616/2005, de 27-Jul), nº 8º, nºs 3, 4 e 6 do nº 10º (o último na redacção\
+    \ da Port 206/2005, de 22-Fev), nº 12º, o nº 13º (o último na redacção da Port 206/2005, de 22-Fev) e nº 18º, adita os\
+    \ nºs 19º, 20º e 21º e revoga o nº 2 do nº 8º da Portaria n.º 1202/2004, de 17-Set, DR.IS-B [220]\00]\0"
+  source: null
+  date: '2004-09-17'
 - type: cites
   target: celex:32003R1782
   label: null
@@ -104,16 +137,32 @@ relationships:
   target: celex:32004R1973
   label: null
   source: http://data.europa.eu/eli/reg/2004/1973/oj
+- type: corrected_by
+  target: pt:dre:693455:por
+  label: "Rectificada pela DECL-RECT.13/2006.16.02.2006.PCM, DR.IS-B [47] de 07.03.2006\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/declaracao-rectificacao/13-2006-693455
+  date: '2006-02-16'
+- type: repealed_by
+  target: pt:dre:659942:por
+  label: "Revogado o n.º 21.º da Port 1202/2004, de 17-Set, na redacção do presente diploma, pela PORT.424/2006.02.05.2006.MADRP,\
+    \ DR.IS-B [84] de 02.05.2006\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/424-2006-659942
+  date: '2006-05-02'
+- type: repealed_by
+  target: pt:dre:617116:por
+  label: "Revogada, a partir de 04.02.2010, pela PORT.68/2010.03.02.2010.MADRP, DR.IS [23] de 03.02.2010\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/68-2010-617116
+  date: '2010-02-03'
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:14:01Z'
   warnings: []
   errors: []
 ---

@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/2s/2008/07/134000000/3102431032.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -46,18 +46,18 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/resolucao/22-2008-1569596
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2008-11-27T00:00:00Z'
+  retrieved_at: '2026-10-23T15:14:08Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 88b63acce01ca801a7e46b9cbef15087e68d4fd5b8c5578ba1d9c4f3f6aad988
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 0cb5aa855e7f1dc228a0adbc2c7f2ac044c2b575600e3f14731d5b485518809e
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:14:08Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -70,16 +70,44 @@ relationships:
   target: pt:dre:2406916:por
   label: Última alteração registada na importação inicial
   source: null
+- type: cites
+  target: pt:dre:1747478:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:249844:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:2823809:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:541856:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:656107:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:676606:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:692654:por
+  label: null
+  source: null
 article_structure:
   article_count: 47
   section_count: 7
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:14:08Z'
   warnings: []
   errors: []
 ---
@@ -224,7 +252,7 @@ c) Como rendimento mínimo bastante considera-se o equivalente ao Rendimento Soc
 
 1 - O rendimento anual do agregado familiar é apurado com base na soma da totalidade dos rendimentos mensais auferidos (RMS) pelos membros do agregado familiar do estudante, independentemente da sua origem ou natureza, da seguinte forma:
 
-[([ver documento original](https://files.diariodarepublica.pt/2s/2008/07/134000000/3102431032.pdf))](https://files.diariodarepublica.pt/2s/2008/07/134000000/3102431032.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/2s/2008/07/134000000/3102431032.pdf)
 
 2 - A determinação dos rendimentos, para efeitos de atribuição de bolsa de estudo, é feita de acordo com os critérios definidos nos artigos seguintes.
 

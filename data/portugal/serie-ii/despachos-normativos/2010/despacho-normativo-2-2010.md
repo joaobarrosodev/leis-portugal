@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/2s/2010/01/020000000/0436704373.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,30 +46,66 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/despacho-normativo/2-2010-3670078
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2015-02-27T00:00:00Z'
+  retrieved_at: '2026-10-23T15:07:25Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: ce79c2e2a5de5425076100b4147821afb5c2c298161c722d91a46109a21e3c77
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 9d73fe268392a879e2145b7d1b3b89639f2c51c625aa1919faf7c93347b04ca0
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:07:25Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Agricultor
+- Agricultura
+- Azeite
+- Azeitona
+- Comércio
+- Controlo de Qualidade
+- Espécie Protegida
+- Exploração Pecuária
+- Financiamento
+- Gado Bovino
+- Gado Caprino
+- Gado Ovino
+- IFAP
+- Lacticínios
+- Produto Agrícola
+- Proteção do Ambiente
+- Regulamento CE
+- Subsídio
 relationships:
 - type: amended_by
   target: pt:dre:66619896:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:1410996:por
+  label: "Altera os arts 4.º, 5.º, 7.º, 9.º, 14.º, 18.º, 23.º, 26.º, 27.º, 29.º, 30.º e 31.º, bem como o anexo i, adita um\
+    \ art.º31.º-A e revoga o n.º 3 do art. 9.º pelo DN.7/2012.11.04.2012.SEA-MAMAOT, DR.IIS [72] de 11.04.2012\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/despacho-normativo/7-2012-1410996
+  date: '2012-04-11'
+- type: amended_by
+  target: pt:dre:1945608:por
+  label: "Alterados os art.s 25.º, 30.º e 31.º-A (os dois últimos na redação do DN 7/2012, de 11-abr ), do presente despacho,\
+    \ pelo DN.3/2013.28.01.2013.SEA-MAMAOT, DR.IIS [19] de 28.01.2013\0013\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/sem-diploma/2000-1945608
+  date: '2013-01-28'
+- type: amended_by
+  target: pt:dre:2856276:por
+  label: "Alterados os art.s 25.º, 30.º e 31.º-A (os dois últimos na redação do DN 7/2012, de 11-abr), do presente despacho,\
+    \ pelo DN.3/2013.28.01.2013.SEA-MAMAOT, DR.IIS [19] de 28.01.2013\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/despacho-normativo/3-2013-2856276
+  date: '2013-01-28'
 - type: cites
   target: celex:31986R1764
   label: null
@@ -102,21 +138,46 @@ relationships:
   target: celex:32009R1122
   label: null
   source: null
+- type: cites
+  target: pt:dre:218303:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:372216:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:541853:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:566004:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:568359:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:66619896:por
+  label: Revogado, a partir de 28.02.2015, pelo(a) Portaria n.º 57/2015 - Diário da República n.º 41/2015, Série I de 2015-02-27
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/57-2015-66619896
+  date: '2015-02-27'
 article_structure:
   article_count: 36
   section_count: 12
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:07:25Z'
   warnings: []
   errors: []
 ---
 
-# Despacho Normativo n.º 2/2010
+# Despacho normativo n.º 2/2010
 
 O Regulamento (CE) n.º 73/2009, do Conselho, de 19 de Janeiro, que estabelece as regras comuns para os regimes de apoio directo aos agricultores no âmbito da Política Agrícola Comum, prevê no seu artigo 68.º a possibilidade de os Estados membros concederem um apoio específico aos agricultores, que deve ser coerente com outras medidas de apoio comunitário em vigor.
 
@@ -492,7 +553,7 @@ A - Sectores das culturas arvenses e do arroz
 
 Para cada tipo de produto os parâmetros de qualidade devem apresentar valores inferiores ou iguais aos valores fixados na tabela no que se refere ao teor de humidade, percentagem de grãos partidos, percentagem de impurezas e valores superiores ou iguais aos valores fixados na tabela no que se refere ao peso específico:
 
-[([ver documento original](https://files.diariodarepublica.pt/2s/2010/01/020000000/0436704373.pdf))](https://files.diariodarepublica.pt/2s/2010/01/020000000/0436704373.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/2s/2010/01/020000000/0436704373.pdf)
 
 No caso do trigo duro, para além dos parâmetros atrás referidos devem ser usadas sementes certificadas das seguintes variedades reconhecidas, como sendo de alta qualidade para o fabrico de sêmola e de massas tradicionais reconhecidas no quadro dos procedimentos constantes do anexo v: Achille; Ariesol; Avispa; Baliduro; Beldur, Bronte; Cantico; Carioca, Celta; Cimbel, Colosseo; Concadoro; Core; Donduro; Duilio; Hélvio; Hipasano, Imhotep; Italo; Khandur; Krucialle; Marialva; Molino; PR22D89, Preco; San carlo; Severo; Sorrento, Silur; Simeto; Vítrico; Vitronero; Vitrosol.
 
@@ -544,7 +605,7 @@ c) Estarem autorizados para a produção de azeite ou azeitona de mesa DOP/IGP p
 
 ## ANEXO III — Processo de aprovação, obrigações e situações de exclusão dos primeiros transformadores de tomate para indústria
 
-# Parte A - Processo de aprovação dos primeiros transformadores de tomate para indústria
+Parte A - Processo de aprovação dos primeiros transformadores de tomate para indústria
 
 1 - Até ao dia 15 de Outubro do ano civil anterior ao que respeita o apoio específico à melhoria da qualidade do tomate para transformação, os primeiros transformadores devem apresentar junto do IFAP, I. P., um pedido de aprovação acompanhado dos seguintes elementos:
 
@@ -560,7 +621,7 @@ c) Elementos, a definir pelo IFAP, I. P., que comprovem que a empresa de transfo
 
 4 - Anualmente e até ao dia 31 de Dezembro, o IFAP, I. P., publica no respectivo sítio na Internet a lista dos primeiros transformadores aprovados que cumprem as condições para a celebração de contratos de transformação.
 
-# Parte B - Termos do contrato entre a organização de produtores reconhecida e o primeiro transformador de tomate de indústria aprovado
+Parte B - Termos do contrato entre a organização de produtores reconhecida e o primeiro transformador de tomate de indústria aprovado
 
 1 - O contrato de transformação referido no artigo 16.º do presente diploma é celebrado entre um primeiro transformador aprovado nas condições previstas na parte A do presente anexo e uma organização de produtores reconhecida que represente o requerente do apoio específico.
 
@@ -576,7 +637,7 @@ c) Um compromisso do requerente de entregar ao primeiro transformador a quantida
 
 d) Os nomes e os endereços, referidos na alínea a), dos requerentes em causa, bem como as espécies, as superfícies e as quantidades referidas na alínea b), para cada requerente em causa.
 
-# Parte C - Obrigações dos primeiros transformadores de tomate para indústria
+Parte C - Obrigações dos primeiros transformadores de tomate para indústria
 
 1 - As exigências mínimas de qualidade são as previstas no Regulamento (CE) n.º 1764/86, da Comissão, para os produtos transformados à base de tomate referidos no artigo 2.º do Regulamento (CE) n.º 1535/2003, da Comissão.
 
@@ -594,7 +655,7 @@ c) As quantidades de cada produto acabado obtidas diariamente.
 
 5 - Os primeiros transformadores aprovados devem ainda manter à disposição das autoridades nacionais de controlo as informações relacionadas com todos os elementos constantes do contrato.
 
-# Parte D - Situações de exclusão dos primeiros transformadores de tomate para indústria
+Parte D - Situações de exclusão dos primeiros transformadores de tomate para indústria
 
 1 - Quando se constate que a quantidade de tomate admitida à transformação no âmbito de contratos não foi totalmente transformada nos produtos referidos no artigo 2.º do Regulamento (CE) n.º 1535/2003, da Comissão, a aprovação do primeiro transformador pode ser suspensa.
 
@@ -675,3 +736,5 @@ IQ = 0,4 P + 0,3 PA + 0,3 MH
 16 - O GPP emite circular com a lista de variedades certificadas e elegíveis ao apoio específico à qualidade do trigo duro.
 
 17 - Aos serviços prestados no âmbito do presente anexo são aplicáveis as tabelas de preços anexas ao despacho n.º 13 432/2003, publicado no Diário da República, 2.ª série, n.º 156, de 9 de Julho de 2003.
+
+202836818

@@ -21,12 +21,12 @@ publication:
   reference: Diário da República n.º 146/2015, 3º Suplemento, Série II de 2015-07-29
   number: '146'
   series: II
-  supplement: 3º Suplemento
+  supplement: null
   pages: 20990-(33) a 20990-(34)
   pdf_url: https://files.diariodarepublica.pt/2s/2015/07/146000003/0003300034.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -48,45 +48,79 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/despacho-normativo/14-a-2015-69905647
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2023-12-12T00:00:00Z'
+  retrieved_at: '2026-10-23T15:07:58Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 7de837f21812c4b244ea0127edc64a4ea4ba509095acfced9c2d9afd871e94ba
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: fdc1f7a446523b4b47bb9e88a173874c0a531bdace07cbd604d4349ec95b0477
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:07:58Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Comparticipação do Estado
+- Cuidados Médicos
+- Deficiente Mental
+- Instituto da Segurança Social
+- Prestações da Segurança Social
+- Saúde Mental
+- Segurança Social
 relationships:
 - type: amended_by
   target: pt:dre:229911837:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:158238387:por
+  label: Determinada a manutenção em vigor do presente diploma pelo(a) Portaria n.º 45/2021 - Diário da República n.º 38/2021,
+    Série I de 2021-02-24, nos termos do n.º 2 do art. 15.º
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/45-2021-158238387
+  date: '2021-02-24'
+- type: cites
+  target: pt:dre:178491:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:280268:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:335683:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:616776:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:229911837:por
+  label: Revogado pelo Despacho n.º 12678/2023 - Diário da República n.º 238/2023, Série II de 2023-12-12
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/despacho/12678-2023-229911837
+  date: '2023-12-12'
 article_structure:
   article_count: 12
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:07:58Z'
   warnings: []
   errors: []
 ---
 
-# Despacho Normativo n.º 14-A/2015
+# Despacho normativo n.º 14-A/2015
 
 A saúde mental constitui uma das prioridades das políticas sociais e de saúde do XIX Governo Constitucional, cujo programa inclui a criação de novas respostas de cuidados continuados integrados de saúde mental, em articulação com a segurança social, em função dos diferentes níveis de autonomia das pessoas com doença mental grave.
 
@@ -158,17 +192,17 @@ n - é o número de elementos que constituem o agregado familiar à data da inst
 
 a) Unidades residenciais, com exceção da residência autónoma:
 
-[([ver documento original](https://files.diariodarepublica.pt/2s/2015/07/146000003/0003300034.pdf))](https://files.diariodarepublica.pt/2s/2015/07/146000003/0003300034.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/2s/2015/07/146000003/0003300034.pdf)
 
 b)Residências autónomas: corresponde a 50 % do RC.
 
 c) Unidades sócio-ocupacionais:
 
-[([ver documento original](https://files.diariodarepublica.pt/2s/2015/07/146000003/0003300034.pdf))](https://files.diariodarepublica.pt/2s/2015/07/146000003/0003300034.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/2s/2015/07/146000003/0003300034.pdf)
 
 d) Equipas de apoio domiciliário:
 
-[([ver documento original](https://files.diariodarepublica.pt/2s/2015/07/146000003/0003300034.pdf))](https://files.diariodarepublica.pt/2s/2015/07/146000003/0003300034.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/2s/2015/07/146000003/0003300034.pdf)
 
 4 - Na residência de treino de autonomia com complemento de unidade sócio-ocupacional e na residência de apoio moderado com complemento de unidade sócio-ocupacional o encargo do utente corresponde ao diferencial entre o valor apurado nos termos da alínea a) e da alínea c).
 
@@ -251,3 +285,5 @@ d) Quando forem prestadas falsas declarações.
 O presente despacho normativo produz efeitos a partir do dia seguinte ao da publicação.
 
 23 de julho de 2015. - O Secretário de Estado da Solidariedade e da Segurança Social, Agostinho Correia Branquinho.
+
+208832154

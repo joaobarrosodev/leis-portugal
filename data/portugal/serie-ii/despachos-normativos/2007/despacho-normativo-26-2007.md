@@ -47,41 +47,53 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/despacho-normativo/26-2007-887367
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2007-07-06T00:00:00Z'
+  retrieved_at: '2026-10-23T15:06:38Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 7d8afa1b5f5d46841d83de226949b3bdcf568ff2e388bde7f80e849f09d35114
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 22a1219e26419c6e20badc0b74443ae7e603a229e46f46fc062a1ee650434e7d
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:06:38Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
-relationships: []
+subjects:
+- Associação Humanitária dos Bombeiros Voluntários
+- Autarquia Local
+- Autoridade Nacional de Protecção Civil
+- Bombeiro
+- Fundo de Proteção Social do Bombeiro
+- Liga dos Bombeiros Portugueses
+- Santa Casa da Misericórdia
+- Transferência de Verbas
+relationships:
+- type: cites
+  target: pt:dre:667323:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:06:38Z'
   warnings: []
   errors: []
 ---
 
-# Despacho Normativo n.º 26/2007
+# Despacho normativo n.º 26/2007
 
 O [Decreto-Lei n.º 56/2006](https://diariodarepublica.pt/dr/detalhe/decreto-lei/56-2006-667323), de 15 de Março, prevê, na alínea a) do n.º 2 do artigo 3.º, que 2,8% dos resultados líquidos da exploração dos jogos sociais explorados pela Santa Casa da Misericórdia de Lisboa se destinem à protecção civil, emergência e socorro, nomeadamente ao apoio às associações de bombeiros voluntários.
 

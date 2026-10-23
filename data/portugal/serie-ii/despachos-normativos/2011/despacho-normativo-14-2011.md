@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/2s/2011/11/222000000/4572345728.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,45 +46,137 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/despacho-normativo/14-2011-2794350
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2012-12-06T00:00:00Z'
+  retrieved_at: '2026-10-23T15:07:33Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: afb160f246bf6f93beba675b81dc24afb89bd584dffcc5368f2b712062da704f
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: a0109df74fc3772a8b641bc05def337bb1379bc0f18dcc9f77fa576a7fefb7c6
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:07:33Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Avaliação de Conhecimentos
+- Diploma
+- Ensino Básico
+- Sistema Educativo
 relationships:
 - type: amended_by
   target: pt:dre:1847070:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amends
+  target: pt:numero:despacho-normativo:1/2005
+  label: "Altera n.os 25, 40, 41( na redacção do D.N. 6/2010, de 19-Fev), 42 ( na redacção do D.N.18/2006, 14-Mar), 43 ( na\
+    \ redacção do D.N. 6/2010, de 19-Fev), 43.1, 43.2 ( os dois últimos na redacção dos D.N 18/2006, de 14-Mar. e 6/2010,\
+    \ de 19-Fev ), 43.3, 44, 45, 46 ( na redacção do D.N. 18/2006,14-Mar),47, 48,( na redacção dos D.N 18/2006, de 14-Mar,\
+    \ 5/2007, de 10-Jan e 6/2010, de 19-Fev ) 49 ( na redacção dos D.N. 18/2006, de 14-Mar, 5/2007, de 10-Jan, 6/2010, de\
+    \ 19-Fev e 9/2010, de 01-Mar), 51 ( na redacção dos D.N. 18/2006, de 14-Mar e 6/2010, de 19-Fev) , 54 ( na redacção do\
+    \ D.N.6/2010, de 19-Fev), 57, 60, 61, 65 ( na redacção do D.N. 18/2006, de 14-Mar), 76, 77 ( na redacção do D.N. 6/2010,\
+    \ de 19-Fev) e 82 ( na redacção do D.N.6/2010, de 19-Fev), adita os n.os 33.1, 43.4, 81.1 e 81.2 e revoga os n.os 58,\
+    \ 59, 78, 79, 79.1, 79.2, 79.3 e 79.4, todos do Despacho Normativo n.º 1/2005, de 05-Jan, DR IS-B [3] e procede à respectiva\
+    \ republicação\0\0"
+  source: null
+  date: '2005-01-05'
+- type: cites
+  target: pt:dre:248489:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:338986:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:344274:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:3473397:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:386871:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:393272:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:405481:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:432450:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:457204:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:488826:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:582996:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:587624:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:628017:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:669549:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:787125:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:829810:por
+  label: null
+  source: null
+- type: corrected_by
+  target: pt:dre:2402127:por
+  label: "Rectificado o n.º 46 pela DECL-RECT.1847/2011.02.12.2011.SEEBS-MECI, DR.IIS [231] de 02.12.2011\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/declaracao-rectificacao/1847-2011-2402127
+  date: '2011-12-02'
+- type: repealed_by
+  target: pt:dre:1847070:por
+  label: "Revogado o DN 1/2005, de 05-jan, na redação do presente despacho normativo, pelo DN.24-A/2012.06.12.2012.MECI, DR.IIS\
+    \ [236-2ºSupl] de 06.12.2012\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/despacho-normativo/24-a-2012-1847070
+  date: '2012-12-06'
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:07:33Z'
   warnings: []
   errors: []
 ---
 
-# Despacho Normativo n.º 14/2011
+# Despacho normativo n.º 14/2011
 
 O [Decreto-Lei n.º 94/2011](https://diariodarepublica.pt/dr/detalhe/decreto-lei/94-2011-669549), de 3 de Agosto, introduziu um ajustamento na organização curricular, e alargou a avaliação das aprendizagens ao 2.º ciclo do ensino básico através da implementação de provas finais.
 
@@ -629,3 +721,5 @@ c) Despacho n.º 11/SEEI/96, de 1 de Abril;
 d) [Despacho Normativo n.º 30/2001](https://diariodarepublica.pt/dr/detalhe/despacho-normativo/30-2001-393272), de 19 de Julho;
 
 e) Despacho n.º 5020/2002, de 6 de Março.
+
+205351373

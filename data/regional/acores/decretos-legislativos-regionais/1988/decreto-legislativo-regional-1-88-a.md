@@ -46,36 +46,69 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/1-1988-583809
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1988-01-12T00:00:00Z'
+  retrieved_at: '2026-10-23T15:17:39Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 8f10dd9f1f508db76d833650a01883ef1b01344ec7b41a142690e5dabbd806bf
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: d2c43b8b0f85e092d4e9fc3682d28b99a886b34bee089ffb9ffc6a80c3962e1f
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:17:39Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
-relationships: []
+subjects:
+- Açores
+- Orgânica
+- Serviços Sociais Universitários
+- Universidade dos Açores
+relationships:
+- type: cites
+  target: pt:dre:183426:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:367855:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:421795:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:474080:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:655084:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:682232:por
+  label: null
+  source: null
+- type: corrected_by
+  target: pt:dre:398852:por
+  label: Rectificado pela DECL.DD988.1988.02.19.PCM,DR.IS [49]2º Supl de 29/Fev/1988
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/declaracao/1988-398852
+  date: '1988-02-19'
 article_structure:
-  article_count: 25
+  article_count: 31
   section_count: 6
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:17:39Z'
   warnings: []
   errors: []
 ---
@@ -88,7 +121,9 @@ Publicado o [Decreto-Lei n.º 132/80](https://diariodarepublica.pt/dr/detalhe/de
 
 Assim, a Assembleia Regional dos Açores decreta, nos termos da alínea b) do artigo 229.º da Constituição, o seguinte:
 
-### CAPÍTULO I — Artigo 1.º
+### CAPÍTULO I
+
+###### Artigo 1.º
 
 Natureza
 
@@ -98,7 +133,9 @@ Os Serviços Sociais da Universidade dos Açores, adiante designados SSUA, são 
 
 Os SSUA têm por fim a concessão de auxílios económicos e a prestação de serviços a estudantes, nos termos e condições que foram fixados no contexto da política de acção social escolar superiormente definida.
 
-### CAPÍTULO II — Artigo 3.º
+### CAPÍTULO II
+
+###### Artigo 3.º
 
 Órgãos
 
@@ -204,7 +241,9 @@ j) Promover, nos termos legais, a venda em hasta pública de material considerad
 
 l) Promover a organização e permanente actualização do inventário e cadastro dos bens móveis e imóveis pertencentes ou afectos aos SSUA.
 
-### CAPÍTULO III — Artigo 9.º
+### CAPÍTULO III
+
+###### Artigo 9.º
 
 Dos serviços
 
@@ -418,13 +457,17 @@ d) Organizar os autos de abate e inutilização dos bens deteriorados e sem valo
 
 e) Promover a entrega à entidade competente dos móveis considerados inúteis.
 
-### CAPÍTULO IV — Artigo 23.º
+### CAPÍTULO IV
+
+###### Artigo 23.º
 
 Isenções
 
 Os SSUA gozam das vantagens e isenções previstas para as pessoas colectivas de utilidade pública.
 
-### CAPÍTULO V — Artigo 24.º
+### CAPÍTULO V
+
+###### Artigo 24.º
 
 Grupos profissionais
 
@@ -488,7 +531,9 @@ c) Os lugares de cozinheiro principal são recrutados de entre cozinheiros de 1.
 
 2 - O acesso à classe imediatamente superior depende da prestação de cinco anos de bom e efectivo serviço na categoria imediatamente inferior.
 
-### CAPÍTULO VI — Artigo 30.º
+### CAPÍTULO VI
+
+###### Artigo 30.º
 
 Integração do pessoal a prestar serviço nos SSUA
 
@@ -520,10 +565,10 @@ O pessoal não vinculado à função pública que, encontrando-se a prestar serv
 
 Aprovado pela Assembleia Regional dos Açores, na Horta, em 4 de Dezembro de 1987.
 
-**O Presidente da Assembleia Regional, José Guilherme Reis Leite.**
+O Presidente da Assembleia Regional, José Guilherme Reis Leite.
 
-**Assinado em Angra do Heroísmo em 22 de Dezembro de 1987.**
+Assinado em Angra do Heroísmo em 22 de Dezembro de 1987.
 
-**Publique-se.**
+Publique-se.
 
-**O Ministro da República para a Região Autónoma dos Açores, Vasco Joaquim da Rocha Vieira.**
+O Ministro da República para a Região Autónoma dos Açores, Vasco Joaquim da Rocha Vieira.

@@ -46,40 +46,83 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/resolucao/2-2012-2450888
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2015-09-22T00:00:00Z'
+  retrieved_at: '2026-10-23T15:14:52Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 3f1c8d908dfe3c30864419668a74618f18f55bd99423903a4c9839c98b0413ff
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 0fc7b48625f06ad516d2499e1a75a2ce1badf16eec97f0502905585a01795cf9
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:14:52Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Conselho Económico e Social
+- Nomeação
+- Representante do Governo
+- Setor Empresarial do Estado
 relationships:
 - type: amended_by
   target: pt:dre:70341749:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:3466003:por
+  label: "Exonerados o Dr. Rui Macieira e a Dr.ª Manuela dos Santos Proença, pela RES.14/2012.28.03.2012.PCM, DR.IIS [63]\
+    \ de 28.03.2012\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/resolucao/14-2012-3466003
+  date: '2012-03-28'
+- type: amended_by
+  target: pt:dre:1572002:por
+  label: "Exonerado Adelino Filipe Saraiva da Cunha, do cargo para o qual foi designado, pela RES.26/2012.12.07.2012.PCM,\
+    \ DR.IIS [134] de 12.07.2012\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/resolucao/26-2012-1572002
+  date: '2012-07-12'
+- type: amended_by
+  target: pt:dre:58958233:por
+  label: Exonerado, com efeitos a 05-11-2014, o Prof. Doutor João Carvalho das Neves, como representante suplente do Governo
+    no CES, pelo(a) Resolução n.º 36/2014 - Diário da República n.º 226/2014, Série II de 2014-11-21
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/resolucao/36-2014-58958233
+  date: '2014-11-21'
+- type: amended_by
+  target: pt:dre:66936953:por
+  label: Exonerados o Prof. Doutor João Rodrigo Reis Carvalho Leão e o Prof. Doutor Ricardo Manuel de Magalhães Pinheiro Alves
+    como representantes efetivo e suplente do Governo, respetivamente, no Conselho Económico e Social (CES) pelo(a) Resolução
+    n.º 22/2015 - Diário da República n.º 68/2015, Série II de 2015-04-08
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/resolucao/22-2015-66936953
+  date: '2015-04-08'
+- type: amended_by
+  target: pt:dre:70341749:por
+  label: Exonerada, com efeitos a 10.09.2015, Mariana Ribeiro Ferreira, como representante efetiva do Governo no Conselho
+    Económico e Social (CES), pelo(a) Resolução n.º 41/2015 - Diário da República n.º 185/2015, Série II de 2015-09-22
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/resolucao/41-2015-70341749
+  date: '2015-09-22'
+- type: cites
+  target: pt:dre:610688:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:674430:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:14:52Z'
   warnings: []
   errors: []
 ---
@@ -215,3 +258,5 @@ Desde 16 Agosto 2011 - Directora-Geral do Tesouro e das Finanças; Desde Julho 2
 Dr. Joaquim José de Oliveira Reis, nasceu em 16 de Março de 1958. Licenciado em Economia pelo ISEG (1983). Foi Director Financeiro e Administrador da Socifa Beta (1989-1991), Director e Chefe da Sala de Intermediação Financeira da Socifa Beta (1992/1993), Director-Geral da Central de Investimentos (1993/1998); Administrador da Central de Investimentos (1998/2003); Administrador da Lisbon Brokers-Espanha (2003/2005). Foi Presidente do Conselho de Administração da OTLIS (2005/2007), Administrador da Transtejo (2005/2006), Presidente do Conselho de Administração do Metropolitano de Lisboa e da Ferconsult (2006), Presidente da Assembleia de Metros da UITP (União Internacional do Transporte Público) e Vice-Presidente da UITP (2006). É Presidente do Conselho de Administração da Parpública (desde Maio de 2010) e Administrador não-executivo da AdP (desde Junho de 2010).
 
 Foi designado Membro do Conselho Geral e de Supervisão da EDP, em representação da Parpública, em 28 de Abril de 2011.
+
+92012

@@ -46,45 +46,64 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/despacho-normativo/11-2011-3227400
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2019-09-11T00:00:00Z'
+  retrieved_at: '2026-10-23T15:07:30Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 8522973052c9b6e472a2250e62e7cbbe2fb5baff6386b7b8855a2d5634896848
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: a8f87b2cc3bc82250daec0e81e9707d1c44c7a7df47a5d185b093a58c56faa76
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:07:30Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Ensino Superior
+- Estatuto
+- Homologação
+- Iscte
 relationships:
 - type: amended_by
   target: pt:dre:124609184:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:124609184:por
+  label: Homologadas as alterações aos Estatutos do ISCTE - Instituto Universitário de Lisboa homologados pelo DN 18/2009
+    de 08-mai, na redação do presente diploma, pelo(a) Despacho Normativo n.º 20/2019 - Diário da República n.º 174/2019,
+    Série II de 2019-09-11 que procede à republicação dos estatutos
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/despacho-normativo/20-2019-124609184
+  date: '2019-09-11'
+- type: cites
+  target: pt:dre:607751:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:640339:por
+  label: null
+  source: null
 article_structure:
   article_count: 76
   section_count: 18
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:07:30Z'
   warnings: []
   errors: []
 ---
 
-# Despacho Normativo n.º 11/2011
+# Despacho normativo n.º 11/2011
 
 Considerando o disposto no n.º 2 do artigo 3.º do [Decreto-Lei n.º 95/2009](https://diariodarepublica.pt/dr/detalhe/decreto-lei/95-2009-607751), de 27 de Abril, que estabelece que os Estatutos do ISCTE - Instituto Universitário de Lisboa são aprovados por uma assembleia com a composição prevista no artigo 172.º da [Lei n.º 62/2007](https://diariodarepublica.pt/dr/detalhe/lei/62-2007-640339), de 10 de Setembro (regime jurídico das instituições de ensino superior), e sujeitos a homologação do Ministro da Ciência, Tecnologia e Ensino Superior, nos termos do artigo 132.º da mesma lei;
 
@@ -1201,3 +1220,5 @@ Sempre que os órgãos para o efeito competentes procedam a alterações na estr
 ###### Artigo 76.º — Entrada em vigor
 
 Os presentes Estatutos entram em vigor no dia seguinte ao da sua publicação no Diário da República.
+
+204822492

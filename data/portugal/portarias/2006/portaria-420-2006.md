@@ -48,18 +48,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/420/2006/05/02/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/420-2006-659938
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2008-06-24T00:00:00Z'
+  retrieved_at: '2026-10-23T15:14:01Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 266cce344e929aff3dc2832ed6558524a3d38d08aab4724dc0daa8ab6cc81b08
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 566ff6f8c16f84c1b89c5c4e79678cb0c2a61acef4040d7341761c33d4f958ad
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:14:01Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -75,6 +75,18 @@ relationships:
   target: pt:dre:456193:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:627791:por
+  label: "Anexados vários prédios rústicos à zona de caça atribuída pela Port 40/2002, de 10-Jan, alterada pelo presente diploma,\
+    \ pela PORT.1586/2007.14.12.2007.MAOTDR, DR.IS [241] de 14.12.2007\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/1586-2007-627791
+  date: '2007-12-14'
+- type: amended_by
+  target: pt:dre:456193:por
+  label: "Renovada por seis anos a concessão da zona de caça atribuída pela Port 40/2002, de 10-Jan, alterada pelo presente\
+    \ diploma e pela Port 1586/2007, de 14-Dez, pela PORT.499/2008.24.06.2008.MAOTDR, DR.IS [120] de 24.06.2008\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/499-2008-456193
+  date: '2008-06-24'
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/201/2005/11/24/p/dre
   label: null
@@ -87,16 +99,28 @@ relationships:
   target: eli:http://data.dre.pt/eli/port/40/2002/01/10/p/dre
   label: null
   source: http://data.dre.pt/eli/port/40/2002/01/10/p/dre
+- type: cites
+  target: pt:dre:480704:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:481498:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:585184:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:14:01Z'
   warnings: []
   errors: []
 ---
@@ -121,4 +145,4 @@ Manda o Governo, pelos Ministros do Ambiente, do Ordenamento do Território e do
 
 Pelo Ministro do Ambiente, do Ordenamento do Território e do Desenvolvimento Regional, Humberto Delgado Ubach Chaves Rosa, Secretário de Estado do Ambiente, em 4 de Abril de 2006. - Pelo Ministro da Agricultura, do Desenvolvimento Rural e das Pescas, Rui Nobre Gonçalves, Secretário de Estado do Desenvolvimento Rural e das Florestas, em 2 de Março de 2006.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2006/05/084b00/31473148.pdf))](https://files.diariodarepublica.pt/1s/2006/05/084b00/31473148.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2006/05/084b00/31473148.pdf)

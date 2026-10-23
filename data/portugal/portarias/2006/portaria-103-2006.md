@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2006/02/026b00/08810889.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/103/2006/02/06/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/103-2006-551843
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2011-08-08T00:00:00Z'
+  retrieved_at: '2026-10-23T15:09:53Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 727912c68d60af34df59af3a529c9a745bd29c610abcb6f03e1359c463d3f0b0
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: a8d4ae0c002b2e57eec4e76fb24e20f26e5a4357b628ba5c70aae0ab8c97b1b4
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:09:53Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -68,18 +68,51 @@ reuse:
 subjects:
 - Abate de Árvores
 - Árvore
-- Doença Vegetal
 - Direcção Geral dos Recursos Florestais
+- Doença Vegetal
 - Exploração Florestal
 - Pinheiro
-- Proteção Fitossanitária
 - Plantula
 - Produto em Madeira
+- Proteção Fitossanitária
 relationships:
 - type: amended_by
   target: pt:dre:669979:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:538824:por
+  label: "Alterado o n.º 6 e os anexos I, II e III do presente diploma, pela Port.815/2006.16.08.2006.MADRP, DR.IS [157] de\
+    \ 16.08.2006\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/815-2006-538824
+  date: '2006-08-16'
+- type: amended_by
+  target: pt:dre:1524457:por
+  label: "Alterada a composição da faixa de contenção fitossanitária constante do anexo I do presente diploma, em conformidade\
+    \ com o estipulado no nº 1 do seu art 6º, na redacção da Port 815/2006 de 16-Ago, pelo DESP.24251/2006.14.11.2006.DGRF-MADRP,\
+    \ DR.IIS [228] de 27.11.2006\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/despacho/24251-2006-1524457
+  date: '2006-11-14'
+- type: amended_by
+  target: pt:dre:518777:por
+  label: "Alterado o artigo 2.º, o art. 6.º e o anexo I (estes últimos na redacção da Port 815/2006 de 16-Ago) todos do presente\
+    \ diploma, com a alteração da composição da faixa de contenção fitossanitária, constante do anexo I pelo Desp 24251/2006\
+    \ de 27-Nov, pela PORT.321/2007.23.03.2007.MADRP, DR.IS [59] de 23.03.2007\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/321-2007-518777
+  date: '2007-03-23'
+- type: amended_by
+  target: pt:dre:687622:por
+  label: "Aditados um art. 8º-A e um art. 11º-A bem como áreas aos anexos II e III pela PORT.305-A/2008.21.04.2008.MADRP,\
+    \ DR.IS [78-Supl] de 21.04.2008\08\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/305-a-2008-687622
+  date: '2008-04-21'
+- type: amended_by
+  target: pt:dre:456870:por
+  label: "Alterados os art.s 8º-A e 11º-A (ambos aditados pela Port 305-A, de 21-Abr) e revogadas todas as disposições relativas\
+    \ à delimitação das zonas previstas no presente diploma, pela PORT.553-B/2008.27.06.2008.MADRP, DR.IS [123-3ºSupl] de\
+    \ 27.06.2008\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/553-b-2008-456870
+  date: '2008-06-27'
 - type: cites
   target: celex:32001D0218
   label: null
@@ -92,16 +125,28 @@ relationships:
   target: celex:32003D0127
   label: null
   source: http://data.europa.eu/eli/dec/2003/127/oj
+- type: repealed_by
+  target: pt:dre:3000129:por
+  label: "Revogados os anexos I, II e III do presente diploma, com as alterações constantes da Port 815/2006 de 16-Ago, do\
+    \ Desp 24251/2006 de 27-Nov, e das Port 321/2007 de 23-Mar e 305-A/2008 de 21-Abr, pelo DESP.15752/2008.06.06.2008.DGRF-MADRP,\
+    \ DR.IIS [109] de 06.06.2008\08\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/despacho/15752-2008-3000129
+  date: '2008-06-06'
+- type: repealed_by
+  target: pt:dre:669979:por
+  label: "Revogada, a partir de 13.08.2011, pelo DEC LEI.95/2011.08.08.2011.MAMAOT, DR.IS [151] de 08.08.2011\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/95-2011-669979
+  date: '2011-08-08'
 article_structure:
   article_count: 15
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:09:53Z'
   warnings: []
   errors: []
 ---

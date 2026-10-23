@@ -47,40 +47,62 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/2-1988-283099
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1993-12-14T00:00:00Z'
+  retrieved_at: '2026-10-23T15:17:43Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 05f4e771bc251300717b45a1577a1d58ef0ac906c913ac6ecc967a18062ee76d
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 4c583b003c138a21a5dd707ae67cf1b3c4f13246f46f24ec818cb1fde6369fc5
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:17:43Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Açores
+- Estatuto
+- SATA AIR Açores-serviço Açoreano de Transportes Aéreos
 relationships:
 - type: amended_by
   target: pt:dre:533269:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:533269:por
+  label: Aditado o art. 6.º-A, alterado o art. 9.º e revogado o n.º 2 do art. 7.º do Estatudo da SATA Air Açores, aprovado
+    pelo presente diploma, pelo(a) Decreto Legislativo Regional n.º 16/93/A - Diário da República n.º 290/1993, Série I-A
+    de 1993-12-14
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-legislativo-regional/16-1993-533269
+  date: '1993-12-14'
+- type: cites
+  target: pt:dre:462576:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:502786:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:659899:por
+  label: null
+  source: null
 article_structure:
-  article_count: 32
+  article_count: 31
   section_count: 13
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:17:43Z'
   warnings: []
   errors: []
 ---
@@ -95,23 +117,23 @@ Considerando, por outro lado, as alterações introduzidas naquele diploma pelo 
 
 A Assembleia Regional dos Açores, nos termos da alínea b) do artigo 229.º da Constituição, decreta o seguinte:
 
-###### Artigo 1.º A empresa pública Serviço Açoriano de Transportes Aéreos SATA, E. P., criada pelo [Decreto-Lei n.º 490/80](https://diariodarepublica.pt/dr/detalhe/decreto-lei/490-1980-462576), de 17 de Outubro, passa a designar-se SATA Air Açores - Serviço Açoriano de Transportes Aéreos, E. P.
+Artigo 1.º A empresa pública Serviço Açoriano de Transportes Aéreos SATA, E. P., criada pelo [Decreto-Lei n.º 490/80](https://diariodarepublica.pt/dr/detalhe/decreto-lei/490-1980-462576), de 17 de Outubro, passa a designar-se SATA Air Açores - Serviço Açoriano de Transportes Aéreos, E. P.
 
-###### Art. 2.º É aprovado o novo estatuto da SATA Air Açores, que segue em anexo ao presente diploma.
+Art. 2.º É aprovado o novo estatuto da SATA Air Açores, que segue em anexo ao presente diploma.
 
-###### Art. 3.º As futuras alterações ao estatuto anexo serão aprovadas por diploma regulamentar do Governo Regional.
+Art. 3.º As futuras alterações ao estatuto anexo serão aprovadas por diploma regulamentar do Governo Regional.
 
-###### Art. 4.º O presente diploma entra em vigor na data da sua publicação, produzindo, porém, efeitos, quanto à nova designação, SATA Air Açores, a partir de 17 de Março de 1987.
+Art. 4.º O presente diploma entra em vigor na data da sua publicação, produzindo, porém, efeitos, quanto à nova designação, SATA Air Açores, a partir de 17 de Março de 1987.
 
 Aprovado pela Assembleia Regional dos Açores, na Horta, em 4 de Dezembro de 1987.
 
-**O Presidente da Assembleia Regional, José Guilherme Reis Leite.**
+O Presidente da Assembleia Regional, José Guilherme Reis Leite.
 
-**Assinado em Angra do Heroísmo em 18 de Janeiro de 1988.**
+Assinado em Angra do Heroísmo em 18 de Janeiro de 1988.
 
-**Publique-se.**
+Publique-se.
 
-**O Ministro da República para a Região Autónoma dos Açores, Vasco Joaquim Rocha Vieira.**
+O Ministro da República para a Região Autónoma dos Açores, Vasco Joaquim Rocha Vieira.
 
 ## ANEXO — Estatuto da SATA Air Açores - Serviço Açoreano de Transportes Aéreos, E. P.
 

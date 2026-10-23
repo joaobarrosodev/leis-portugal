@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/2s/2020/06/124000000/0014300145.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -47,25 +47,40 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/despacho-normativo/6-2020-136804683
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2020-06-29T00:00:00Z'
+  retrieved_at: '2026-10-23T15:08:40Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: fc99ee1fca41b9f8f9cf9eb0fbba0e0a36d6fb166bb71cc225ab27bb9555d5a8
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: fffbcd7fd77b3aee1dd53366cde6305c6874a0dcd63e6782559dfc49fcc61b6f
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:08:40Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Agricultura
+- Ajuda Comunitária
+- Balcão 2020
+- Comissão CE
+- Financiamento
+- Fiscalização
+- Gabinete de Planeamento Políticas e Administração Geral
+- IFAP
+- Página na Internet
+- Política Agrícola Comum
+- Política de Produção Agrícola
+- Produção Agrícola
+- Publicidade
+- Regime de Apoio
+- Regulamento CE
 relationships:
 - type: cites
   target: celex:32013R1307
@@ -75,16 +90,24 @@ relationships:
   target: celex:32014R0639
   label: null
   source: null
+- type: cites
+  target: pt:dre:58625348:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:66258481:por
+  label: null
+  source: null
 article_structure:
   article_count: 4
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:08:40Z'
   warnings: []
   errors: []
 ---
@@ -129,7 +152,7 @@ Valores unitários indicativos dos regimes de apoio associado «animais»
 
 (a que se refere o artigo 2.º)
 
-[([ver documento original](https://files.diariodarepublica.pt/2s/2020/06/124000000/0014300145.pdf))](https://files.diariodarepublica.pt/2s/2020/06/124000000/0014300145.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/2s/2020/06/124000000/0014300145.pdf)
 
 ## ANEXO II
 
@@ -137,7 +160,7 @@ Limiares garantidos e envelopes financeiros disponíveis dos regimes de apoio as
 
 (a que se refere o artigo 2.º)
 
-[([ver documento original](https://files.diariodarepublica.pt/2s/2020/06/124000000/0014300145.pdf))](https://files.diariodarepublica.pt/2s/2020/06/124000000/0014300145.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/2s/2020/06/124000000/0014300145.pdf)
 
 ## ANEXO III
 
@@ -145,7 +168,7 @@ Valores unitários indicativos dos regimes de apoio associado «superfícies»
 
 (a que se refere o artigo 3.º)
 
-[([ver documento original](https://files.diariodarepublica.pt/2s/2020/06/124000000/0014300145.pdf))](https://files.diariodarepublica.pt/2s/2020/06/124000000/0014300145.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/2s/2020/06/124000000/0014300145.pdf)
 
 ## ANEXO IV
 
@@ -153,4 +176,6 @@ Limiares garantidos e envelopes financeiros disponíveis dos regimes de apoio as
 
 (a que se refere o artigo 3.º)
 
-[([ver documento original](https://files.diariodarepublica.pt/2s/2020/06/124000000/0014300145.pdf))](https://files.diariodarepublica.pt/2s/2020/06/124000000/0014300145.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/2s/2020/06/124000000/0014300145.pdf)
+
+313334506

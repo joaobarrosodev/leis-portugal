@@ -46,36 +46,58 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/resolucao/35-2012-3135836
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2012-09-04T00:00:00Z'
+  retrieved_at: '2026-10-23T15:14:57Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: effabf28c672f140929c4f04ee4fc348499b6502a19071716fcf730306c9477d
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 87796bce9ea58563207a87fab197de893aa4d23fffb8f5b48ea1e3afdcee7aad
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:14:57Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
-relationships: []
+subjects:
+- Conselho Diretivo
+- Instituto de Seguros de Portugal
+- Nomeação
+- Presidente
+- Vice-presidente
+- Vogal
+relationships:
+- type: cites
+  target: pt:dre:520259:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:544415:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:603511:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:647508:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:14:57Z'
   warnings: []
   errors: []
 ---
@@ -84,7 +106,7 @@ validation:
 
 Nos termos do disposto no artigo 9.º dos Estatutos do Instituto de Seguros de Portugal (ISP), aprovados em anexo ao [Decreto-Lei n.º 289/2001](https://diariodarepublica.pt/dr/detalhe/decreto-lei/289-2001-603511), de 13 de novembro, alterado pelo [Decreto-Lei n.º 195/2002](https://diariodarepublica.pt/dr/detalhe/decreto-lei/195-2002-647508), de 29 de setembro, o presidente e demais membros do conselho diretivo são nomeados por resolução do Conselho de Ministros, sob proposta do Ministro das Finanças, para um mandato de cinco anos, renovável uma vez por igual período, de entre pessoas com reconhecida idoneidade, independência e competência.
 
-**O presidente, Fernando Dias Nogueira, nomeado pela resolução n.º 95/2006, publicada no Diário da República, 2.ª série, de 2 de outubro de 2006, o vice-presidente, António Manuel da Silva Osório, e o vogal Rodrigo Fernandes Homem de Lucena nomeados pela resolução n.º 105/2006, publicada no Diário da República, 2.ª série, de 19 de dezembro de 2006, e o vogal Rui Carlos Alvarez Carp nomeado pela resolução n.º 35/2007, publicada no Diário da República, 2.ª série, de 24 de julho de 2007, terminaram os seus mandatos, pelo que cumpre proceder à nomeação dos novos membros daquele Instituto.**
+O presidente, Fernando Dias Nogueira, nomeado pela resolução n.º 95/2006, publicada no Diário da República, 2.ª série, de 2 de outubro de 2006, o vice-presidente, António Manuel da Silva Osório, e o vogal Rodrigo Fernandes Homem de Lucena nomeados pela resolução n.º 105/2006, publicada no Diário da República, 2.ª série, de 19 de dezembro de 2006, e o vogal Rui Carlos Alvarez Carp nomeado pela resolução n.º 35/2007, publicada no Diário da República, 2.ª série, de 24 de julho de 2007, terminaram os seus mandatos, pelo que cumpre proceder à nomeação dos novos membros daquele Instituto.
 
 Foi ouvida, nos termos do n.º 3 do artigo 13.º do Estatuto do Gestor Público, aprovado pelo [Decreto-Lei n.º 71/2007](https://diariodarepublica.pt/dr/detalhe/decreto-lei/71-2007-520259), de 27 de março, republicado em anexo ao [Decreto-Lei n.º 8/2012](https://diariodarepublica.pt/dr/detalhe/decreto-lei/8-2012-544415), de 18 de janeiro, e retificado pela Declaração de Retificação n.º 2/2012, de 25 de janeiro, a Comissão de Recrutamento e Seleção para a Administração Pública, que se pronunciou favoravelmente sobre as designações constantes da presente resolução.
 
@@ -215,3 +237,5 @@ Desde 2009 - Membro do Subcomité Executivo da International ActuarialAssociatio
 2008-2009 - Vice-Presidente do International Education Program Comittee da International Actuarial;
 
 Desde 2005 - Delegate do Instituto dos Atuários Portugueses nos Comités de Educação do Groupe Consultatif Actuarial Européen e na International Actuarial Association.
+
+15552012

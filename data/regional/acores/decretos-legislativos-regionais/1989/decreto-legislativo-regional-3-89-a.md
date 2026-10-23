@@ -46,36 +46,48 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/3-1989-625653
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1989-04-26T00:00:00Z'
+  retrieved_at: '2026-10-23T15:17:55Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: a0688a025db2c838014975df96369e91a6e921afc303adc6a3ff6f075a03e8e0
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 57017412c86d537fd47a796ffd4f4183c6d5f563a150732c0e31bf7887425203
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:17:55Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
-relationships: []
+subjects:
+- Açores
+- Função Pública
+- Remuneração
+- Remuneração Acessória
+relationships:
+- type: cites
+  target: pt:dre:419650:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:428661:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:17:55Z'
   warnings: []
   errors: []
 ---
@@ -90,22 +102,22 @@ Em consequência dos resultados da execução do Orçamento do Estado para 1988,
 
 Assim, a Assembleia Regional dos Açores decreta, nos termos da alínea a) do artigo 229.º da Constituição, o seguinte:
 
-###### Artigo 1.º Aos funcionários e agentes da administração regional autónoma dos Açores e dos institutos públicos que revistam a natureza de serviços personalizados ou de fundos públicos é atribuída uma remuneração extraordinária e eventual.
+Artigo 1.º Aos funcionários e agentes da administração regional autónoma dos Açores e dos institutos públicos que revistam a natureza de serviços personalizados ou de fundos públicos é atribuída uma remuneração extraordinária e eventual.
 
-###### Art. 2.º O montante da remuneração a que se refere o artigo anterior corresponderá a 1,5% das remunerações base sem diuturnidades a que houve direito no ano de 1988.
+Art. 2.º O montante da remuneração a que se refere o artigo anterior corresponderá a 1,5% das remunerações base sem diuturnidades a que houve direito no ano de 1988.
 
-###### Art. 3.º - 1 - A remuneração reportar-se-á, para todos os efeitos legais, ao mês de Dezembro do ano de 1988, ocorrendo o respectivo abono no mês seguinte ao de entrada em vigor do orçamento da Região Autónoma dos Açores.
+Art. 3.º - 1 - A remuneração reportar-se-á, para todos os efeitos legais, ao mês de Dezembro do ano de 1988, ocorrendo o respectivo abono no mês seguinte ao de entrada em vigor do orçamento da Região Autónoma dos Açores.
 
 2 - O pagamento será efectuado em numerário.
 
-###### Art. 4.º O presente diploma não se aplica aos titulares dos cargos a que se refere o [Decreto Legislativo Regional n.º 10/87/A](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/10-1987-419650), de 24 de Junho, bem como ao pessoal abrangido pelos Decretos Regionais n.os 9/82/A, de 14 de Junho, e 9/80/A, de 5 de Abril.
+Art. 4.º O presente diploma não se aplica aos titulares dos cargos a que se refere o [Decreto Legislativo Regional n.º 10/87/A](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/10-1987-419650), de 24 de Junho, bem como ao pessoal abrangido pelos Decretos Regionais n.os 9/82/A, de 14 de Junho, e 9/80/A, de 5 de Abril.
 
 Aprovado pela Assembleia Regional dos Açores, na Horta, em 18 de Março de 1989.
 
-**O Presidente da Assembleia Regional, José Guilherme Reis Leite.**
+O Presidente da Assembleia Regional, José Guilherme Reis Leite.
 
-**Assinado em Angra do Heroísmo em 5 de Abril de 1989.**
+Assinado em Angra do Heroísmo em 5 de Abril de 1989.
 
-**Publique-se.**
+Publique-se.
 
-**O Ministro da República para a Região Autónoma dos Açores, Vasco Joaquim Rocha Vieira.**
+O Ministro da República para a Região Autónoma dos Açores, Vasco Joaquim Rocha Vieira.

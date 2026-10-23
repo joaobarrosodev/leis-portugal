@@ -47,30 +47,55 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/despacho-normativo/1-2014-1622480
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2014-03-03T00:00:00Z'
+  retrieved_at: '2026-10-23T15:07:49Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: b8ed2cbace97229c6becedc77a3d28cc67257096c69460f504c2d6457279fff6
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 32b21f0c0984231c4e0a45ddc5f98b2ff4574fef1c58a82dfa18b184707094c0
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:07:49Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Apicultura
+- Comissão de Acompanhamento
+- Definição de Competências
+- Direção Geral de Alimentação e Veterinária
+- Direcção Regional de Agricultura e Pescas
+- Dotação Orçamental
+- Financiamento
+- Fiscalização
+- Gabinete de Planeamento e Políticas
+- IFAP
+- Instituto Nacional de Investigação Agrária e Veterinária
+- MEL
+- Página na Internet
+- Prazo
+- Programa Apicola Nacional
+- Publicitação
+- Região Autónoma
+- Regulamento CE
+- Transferência de Verbas
 relationships:
 - type: amended_by
   target: pt:dre:2049273:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:2049273:por
+  label: "Alterados os arts. 3.º e 17.º e os anexos I, II, III, IV, V, VI e VII republicados pelo DN.4/2014.03.03.2014.SEAG-MAGM,\
+    \ DR.IIS [43] de 03.03.2014\04\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/despacho-normativo/4-2014-2049273
+  date: '2014-03-03'
 - type: cites
   target: celex:32004R0917
   label: null
@@ -83,21 +108,25 @@ relationships:
   target: celex:32013R0768
   label: null
   source: null
+- type: cites
+  target: pt:dre:481729:por
+  label: null
+  source: null
 article_structure:
   article_count: 27
   section_count: 6
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:07:49Z'
   warnings: []
   errors: []
 ---
 
-# Despacho Normativo n.º 1/2014
+# Despacho normativo n.º 1/2014
 
 No âmbito do Regulamento (CE) n.º 1234/2007, do Conselho, de 22 de outubro, que estabelece uma organização comum dos mercados agrícolas e disposições específicas para certos produtos, e do Regulamento (CE) n.º 917/2004, da Comissão, de 29 de abril, foi aprovado, a coberto da Decisão da Comissão C (2010) 6102 final, de 14 de setembro de 2010, o Programa Apícola Nacional para Portugal, relativo ao período de 2011-2013, o qual foi complementarmente regulamentado pelo despacho normativo n.º 27/2010, publicado no Diário da República, 2.ª série, de 24 de novembro.
 
@@ -395,31 +424,31 @@ O presente despacho entra em vigor no dia seguinte ao da sua publicação.
 
 (a que se refere o artigo 4.º)
 
-[([ver documento original](https://files.diariodarepublica.pt/2s/2014/01/002000000/0010500115.pdf))](https://files.diariodarepublica.pt/2s/2014/01/002000000/0010500115.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/2s/2014/01/002000000/0010500115.pdf)
 
 ## ANEXO II — Obrigações dos beneficiários
 
 (a que se refere o n.º 2 artigo 5.º)
 
-[([ver documento original](https://files.diariodarepublica.pt/2s/2014/01/002000000/0010500115.pdf))](https://files.diariodarepublica.pt/2s/2014/01/002000000/0010500115.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/2s/2014/01/002000000/0010500115.pdf)
 
 ## ANEXO III — Despesas elegíveis
 
 (a que se refere o artigo 6.º)
 
-[([ver documento original](https://files.diariodarepublica.pt/2s/2014/01/002000000/0010500115.pdf))](https://files.diariodarepublica.pt/2s/2014/01/002000000/0010500115.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/2s/2014/01/002000000/0010500115.pdf)
 
 ## ANEXO IV — Critérios de hierarquização das candidaturas
 
 (a que se referem o n.º 3 do artigo 9.º e o n.º 2 do artigo 11.º)
 
-[([ver documento original](https://files.diariodarepublica.pt/2s/2014/01/002000000/0010500115.pdf))](https://files.diariodarepublica.pt/2s/2014/01/002000000/0010500115.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/2s/2014/01/002000000/0010500115.pdf)
 
 ## ANEXO V — Dotação orçamental global do PAN 2014-1016
 
 (a que se refere o artigo 10.º)
 
-[([ver documento original](https://files.diariodarepublica.pt/2s/2014/01/002000000/0010500115.pdf))](https://files.diariodarepublica.pt/2s/2014/01/002000000/0010500115.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/2s/2014/01/002000000/0010500115.pdf)
 
 Nota. - Inclui a comparticipação comunitária.
 
@@ -427,10 +456,12 @@ Nota. - Inclui a comparticipação comunitária.
 
 (a que se refere o artigo 14.º)
 
-[([ver documento original](https://files.diariodarepublica.pt/2s/2014/01/002000000/0010500115.pdf))](https://files.diariodarepublica.pt/2s/2014/01/002000000/0010500115.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/2s/2014/01/002000000/0010500115.pdf)
 
 ## ANEXO VII — Reduções e exclusões
 
 (a que se refere o artigo 19.º)
 
-[([ver documento original](https://files.diariodarepublica.pt/2s/2014/01/002000000/0010500115.pdf))](https://files.diariodarepublica.pt/2s/2014/01/002000000/0010500115.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/2s/2014/01/002000000/0010500115.pdf)
+
+207479852

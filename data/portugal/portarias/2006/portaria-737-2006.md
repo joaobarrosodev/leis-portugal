@@ -26,7 +26,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2006/07/14400/53565357.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -48,18 +48,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/737/2006/07/27/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/737-2006-539229
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2007-11-08T00:00:00Z'
+  retrieved_at: '2026-10-23T15:15:58Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 8f0da2e24f5ed9a09ed48a586719998a9f7fde9d9990a7e2654b16ae7a4c805d
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 9369e9bb17afe29b6fab8e35d6735d1beb20df93490eddcbe26a220c3ba47b8b
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:15:58Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,20 +67,20 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Companhia Aérea
-- Transporte Aéreo
-- Estudante
-- Lisboa
-- Funchal
-- Ponta Delgada
-- Preço
-- Madeira.região Autónoma
-- SATA
 - Açores
+- Companhia Aérea
+- Estudante
+- Funchal
+- Lisboa
+- Madeira.região Autónoma
+- Ponta Delgada
+- Porto
+- Preço
+- SATA
 - Subsídio
 - TAP
 - Tarifa Aérea
-- Porto
+- Transporte Aéreo
 relationships:
 - type: amended_by
   target: pt:dre:629378:por
@@ -94,16 +94,21 @@ relationships:
   target: eli:http://data.dre.pt/eli/port/638/2005/08/04/p/dre
   label: null
   source: http://data.dre.pt/eli/port/638/2005/08/04/p/dre
+- type: repealed_by
+  target: pt:dre:629378:por
+  label: "Revogada pela PORT.1444/2007.08.11.2007.MFAP, DR.IS [215] de 08.11.2007\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/1444-2007-629378
+  date: '2007-11-08'
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:15:58Z'
   warnings: []
   errors: []
 ---
@@ -134,7 +139,7 @@ Manda o Governo, pelos Ministros de Estado e das Finanças e das Obras Públicas
 
 3.º As tarifas PEX de ida e volta a aplicar nas ligações entre os Açores e o continente e entre os Açores e o Funchal são as seguintes:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2006/07/14400/53565357.pdf))](https://files.diariodarepublica.pt/1s/2006/07/14400/53565357.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2006/07/14400/53565357.pdf)
 
 4.º Os residentes há pelo menos seis meses na Região Autónoma dos Açores, nas ilhas com ligação directa ao continente ou ao Funchal, bem como os residentes na Região Autónoma da Madeira, beneficiarão de um desconto de 33% sobre o valor da tarifa pública de classe económica sem restrições.
 
@@ -142,13 +147,13 @@ Manda o Governo, pelos Ministros de Estado e das Finanças e das Obras Públicas
 
 6.º As tarifas de residentes na Região Autónoma dos Açores e na Região Autónoma da Madeira, para viagens de ida e volta entre os Açores e o Funchal, bem como as tarifas de estudantes cujo domicílio ou estabelecimento de ensino se situe no território da Região Autónoma dos Açores e, respectivamente, frequentem estabelecimento de ensino ou residam noutra parcela do território nacional são as seguintes:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2006/07/14400/53565357.pdf))](https://files.diariodarepublica.pt/1s/2006/07/14400/53565357.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2006/07/14400/53565357.pdf)
 
 7.º No ano de 2006, o valor do subsídio é de (euro) 87 por viagem de ida e volta.
 
 8.º As tarifas de carga a aplicar nas ligações entre Lisboa/Porto e a Região Autónoma dos Açores e entre o Funchal e a Região Autónoma dos Açores são as seguintes:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2006/07/14400/53565357.pdf))](https://files.diariodarepublica.pt/1s/2006/07/14400/53565357.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2006/07/14400/53565357.pdf)
 
 9.º As restantes condições tarifárias constantes da Comunicação da Comissão (2005/C 304/06), de 1 de Dezembro, mantêm-se inalteradas.
 
@@ -158,4 +163,4 @@ Manda o Governo, pelos Ministros de Estado e das Finanças e das Obras Públicas
 
 Em 5 de Julho de 2006.
 
-**O Ministro de Estado e das Finanças, Fernando Teixeira dos Santos. - O Ministro das Obras Públicas, Transportes e Comunicações, Mário Lino Soares Correia.**
+O Ministro de Estado e das Finanças, Fernando Teixeira dos Santos. - O Ministro das Obras Públicas, Transportes e Comunicações, Mário Lino Soares Correia.

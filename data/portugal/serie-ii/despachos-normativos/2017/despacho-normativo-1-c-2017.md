@@ -19,12 +19,12 @@ publication:
   reference: Diário da República n.º 80/2017, 1º Suplemento, Série II de 2017-04-24
   number: '80'
   series: II
-  supplement: 1º Suplemento
+  supplement: null
   pages: 7836-(2) a 7836-(14)
   pdf_url: https://files.diariodarepublica.pt/2s/2017/04/080000001/0000200014.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -46,41 +46,61 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/despacho-normativo/1-c-2017-106930349
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2017-04-24T00:00:00Z'
+  retrieved_at: '2026-10-23T15:08:15Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: eaa40c5611cd6bb8cd22864911b9891e7306940fd70326628e38878b5badc15a
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 4b10810eb3dc52f5ef9575ac8aae0670ffe1909ca89c6aeebb48a8a510d93bc1
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:08:15Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
-relationships: []
+subjects:
+- Ensino Superior
+- Estatuto
+- Homologação
+- Universidade de Aveiro
+relationships:
+- type: cites
+  target: pt:dre:3293883:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:3456228:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:620717:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:640339:por
+  label: null
+  source: null
 article_structure:
-  article_count: 73
+  article_count: 59
   section_count: 22
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:08:15Z'
   warnings: []
   errors: []
 ---
 
-# Despacho Normativo n.º 1-C/2017
+# Despacho normativo n.º 1-C/2017
 
 Os Estatutos da Universidade de Aveiro foram homologados pelo [Despacho Normativo n.º 18-A/2009](https://diariodarepublica.pt/dr/detalhe/despacho-normativo/18-a-2009-3456228), de 30 de abril, publicado no Diário da República n.º 93, 2.ª série, de 14 de maio, e alterados pelo [Despacho Normativo n.º 23/2012](https://diariodarepublica.pt/dr/detalhe/despacho-normativo/23-2012-3293883), de 19 de outubro, publicado no Diário da República n.º 208, 2.ª série, de 26 de outubro;
 
@@ -116,7 +136,9 @@ São alterados os artigos 5.º, 13.º, 16.º, 17.º, 25.º, 27.º, 28.º, 31.º,
 
 3 - [...].
 
-###### Artigo 13.º — [...]
+Artigo 13.º
+
+[...]
 
 1 - [...].
 
@@ -128,7 +150,9 @@ São alterados os artigos 5.º, 13.º, 16.º, 17.º, 25.º, 27.º, 28.º, 31.º,
 
 5 - [anterior n.º 4].
 
-###### Artigo 16.º — [...]
+Artigo 16.º
+
+[...]
 
 1 - [...]:
 
@@ -154,7 +178,9 @@ c) [...].
 
 4 - [...].
 
-###### Artigo 17.º — [...]
+Artigo 17.º
+
+[...]
 
 1 - [...]:
 
@@ -176,13 +202,17 @@ d) [...].
 
 6 - [...].
 
-###### Artigo 25.º — [...]
+Artigo 25.º
+
+[...]
 
 1 - [...].
 
 2 - O Reitor pode convocar para participar nas reuniões, sem direito a voto, dirigentes das unidades e serviços previstos no n.º 1 do artigo 8.º e representantes dos estudantes e do pessoal técnico, administrativo e de gestão.
 
-###### Artigo 27.º — [...]
+Artigo 27.º
+
+[...]
 
 1 - A Universidade dispõe de um Conselho Científico único ao abrigo do n.º 3 do artigo 80.º do RJIES, em função da sua natureza binária, mas por essência universitária, e do modelo de organização que adota, considerando-se como professores de carreira os professores catedráticos, associados e auxiliares, no âmbito do subsistema universitário, e os professores coordenadores principais, coordenadores e adjuntos, no subsistema politécnico, e como restantes docentes todos os demais de ambos os subsistemas.
 
@@ -212,7 +242,9 @@ d) [...].
 
 4 - [...].
 
-###### Artigo 28.º — [...]
+Artigo 28.º
+
+[...]
 
 1 - [...]:
 
@@ -250,19 +282,25 @@ b) [...].
 
 3 - [...].
 
-###### Artigo 31.º — Conselho para a Cooperação
+Artigo 31.º
+
+Conselho para a Cooperação
 
 1 - O Conselho para a Cooperação é o órgão consultivo de apoio ao Reitor, que tem como competência promover a reflexão e contribuir para a definição de políticas em matéria de cooperação entre a Universidade e a envolvente económica, social e cultural.
 
 2 - O Conselho, presidido pelo Reitor, é composto por um máximo de 15 membros, nomeados e exonerados pelo Reitor, que define o prazo e regime dos mandatos e as demais regras enquadradoras.
 
-###### Artigo 32.º — Conselho de Ética e Deontologia
+Artigo 32.º
+
+Conselho de Ética e Deontologia
 
 1 - [anterior artigo 31.º, n.º 1].
 
 2 - [anterior artigo 31.º, n.º 2].
 
-###### Artigo 33.º — [...]
+Artigo 33.º
+
+[...]
 
 1 - [...].
 
@@ -276,7 +314,9 @@ c) [...].
 
 3 - [...].
 
-###### Artigo 37.º — [...]
+Artigo 37.º
+
+[...]
 
 1 - [...].
 
@@ -294,7 +334,9 @@ b) [...].
 
 6 - [...].
 
-###### Artigo 39.º — [...]
+Artigo 39.º
+
+[...]
 
 1 - O Conselho da Unidade, com 11 a 25 membros no total, é presidido pelo Diretor e composto por representantes pertencentes e eleitos pelos seguintes grupos:
 
@@ -326,7 +368,9 @@ f) [...].
 
 5 - [...].
 
-###### Artigo 41.º — [...]
+Artigo 41.º
+
+[...]
 
 1 - [...].
 
@@ -352,7 +396,9 @@ d) [...].
 
 8 - [...].
 
-###### Artigo 48.º — [...]
+Artigo 48.º
+
+[...]
 
 1 - Os Serviços de Ação Social são os serviços vocacionados para assegurar as funções da ação social escolar, nomeadamente o acesso à alimentação em cantinas e bares, o alojamento, o acesso a serviços de saúde, a atribuição de bolsas de estudo, o apoio às atividades desportivas e culturais e outros apoios educativos, e regem-se pelo regime específico constante de regulamento a aprovar pelo Reitor, sob proposta do respetivo dirigente, nos termos legais pertinentes e dos presentes Estatutos.
 
@@ -366,7 +412,9 @@ d) [...].
 
 6 - [...].
 
-###### Artigo 50.º — [...]
+Artigo 50.º
+
+[...]
 
 1 - [...].
 
@@ -378,11 +426,15 @@ d) [...].
 
 5 - [...].
 
-###### Artigo 54.º — [...]
+Artigo 54.º
+
+[...]
 
 Os presentes Estatutos entram em vigor no dia seguinte à sua publicação no Diário da República.
 
-## ANEXO II — [...]
+ANEXO II
+
+[...]
 
 [...]:
 
@@ -450,7 +502,9 @@ Em decorrência das alterações e aditamento constantes dos artigos anteriores 
 
 Estatutos da Universidade de Aveiro
 
-### CAPÍTULO I — Artigo 1.º
+### CAPÍTULO I
+
+###### Artigo 1.º
 
 Objeto
 
@@ -1344,11 +1398,11 @@ Logótipos em uso:
 
 Original conforme Despacho Normativo supra identificado:
 
-[([ver documento original](https://files.diariodarepublica.pt/2s/2017/04/080000001/0000200014.pdf))](https://files.diariodarepublica.pt/2s/2017/04/080000001/0000200014.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/2s/2017/04/080000001/0000200014.pdf)
 
 Logótipo renovado:
 
-[([ver documento original](https://files.diariodarepublica.pt/2s/2017/04/080000001/0000200014.pdf))](https://files.diariodarepublica.pt/2s/2017/04/080000001/0000200014.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/2s/2017/04/080000001/0000200014.pdf)
 
 ## ANEXO II — Unidades orgânicas de ensino e investigação a que se refere o n.º 8 do artigo 8.º
 
@@ -1405,3 +1459,5 @@ b) grupUNAVE - Inovação e Serviços, Lda., sociedade comercial por quotas, con
 c) Instituto do Ambiente e Desenvolvimento, associação privada sem fins lucrativos, constituída em 9 de novembro de 1992;
 
 d) Laboratório Industrial da Qualidade, associação privada sem fins lucrativos, constituída em 28 de fevereiro de 1990.
+
+310444215

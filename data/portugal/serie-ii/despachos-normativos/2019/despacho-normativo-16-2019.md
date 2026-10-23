@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/2s/2019/06/107000000/1700817009.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -47,36 +47,65 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/despacho-normativo/16-2019-122497599
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2019-06-04T00:00:00Z'
+  retrieved_at: '2026-10-23T15:08:29Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 79fe2b432692c7b4d068502e51c66220b8ca128fd7e1a60815feedaad1f7de2a
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 92219deea43243ced24a22c22fe20d0890ceddb7595398ead2721f1976283cfc
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:08:29Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
-relationships: []
+subjects:
+- Educação Pré-escolar
+- Ensino Artístico
+- Ensino Básico
+- Ensino Cooperativo
+- Ensino Oficial
+- Ensino Particular
+- Ensino Profissional
+- Ensino Secundário
+- Estabelecimento de Ensino
+- Gestão Escolar
+- Horário de Funcionamento
+- Horário Escolar
+- Sistema de Ensino
+relationships:
+- type: cites
+  target: pt:dre:115552668:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:117537583:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:73203129:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:73203130:por
+  label: null
+  source: null
 article_structure:
-  article_count: 5
+  article_count: 3
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:08:29Z'
   warnings: []
   errors: []
 ---
@@ -133,7 +162,9 @@ Os artigos 6.º, 7.º e 11.º do [Despacho Normativo n.º 10-A/2018](https://dia
 
 16 - (Anterior n.º 13.)
 
-###### Artigo 7.º — [...]
+Artigo 7.º
+
+[...]
 
 1 - [...].
 
@@ -147,7 +178,9 @@ Os artigos 6.º, 7.º e 11.º do [Despacho Normativo n.º 10-A/2018](https://dia
 
 6 - Para efeitos da redução prevista nos n.os 1, 7 e 10 do artigo anterior, devem as escolas, no âmbito da sua autonomia, ter em consideração critérios de continuidade pedagógica, a necessidade de promoção da equidade e do sucesso escolar, bem como as condições das infraestruturas escolares, assegurando condições de acompanhamento adequado aos alunos cujo relatório técnico-pedagógico identifique como medida de acesso à aprendizagem e à inclusão a necessidade de a turma que o aluno frequenta ser reduzida.
 
-###### Artigo 11.º — [...]
+Artigo 11.º
+
+[...]
 
 1 - Ressalvados os efeitos já produzidos no ano letivo 2018/2019, a progressiva redução do número de alunos por turma prevista no n.º 1 do artigo 4.º e no n.º 1 do artigo 5.º aplicar-se-á do seguinte modo:
 
@@ -172,3 +205,5 @@ b) No ano letivo 2021/2022, ao 12.º ano de escolaridade e ao 3.º ano do ciclo 
 O presente despacho normativo entra em vigor no dia seguinte ao da sua publicação.
 
 31 de maio de 2019. - A Secretária de Estado Adjunta e da Educação, Alexandra Ludomila Ribeiro Fernandes Leitão. - O Secretário de Estado da Educação, João Miguel Marques da Costa.
+
+312349506

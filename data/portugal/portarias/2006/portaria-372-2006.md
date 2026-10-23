@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/372/2006/04/18/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/372-2006-650281
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2006-04-18T00:00:00Z'
+  retrieved_at: '2026-10-23T15:13:39Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 46572dc1dee3c20ba41a312b68c3a042279b3651c2c6aafdac490112d03c10a2
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 15a0a6c145126ccaaacf286cb671add69810833482a049f81d151abf28c3e07f
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:13:39Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -65,9 +65,9 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Sociedade Anónima
 - Centro Hospitalar da COVA da Beira
 - Quadro de Pessoal
+- Sociedade Anónima
 relationships:
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/11/1993/01/15/p/dre
@@ -81,16 +81,28 @@ relationships:
   target: eli:http://data.dre.pt/eli/dec-lei/426/1999/10/21/p/dre
   label: null
   source: http://data.dre.pt/eli/dec-lei/426/1999/10/21/p/dre
+- type: cites
+  target: pt:dre:438187:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:586006:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:667359:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:13:39Z'
   warnings: []
   errors: []
 ---
@@ -113,8 +125,8 @@ Manda o Governo, pelos Ministros de Estado e das Finanças e da Saúde, o seguin
 
 2.º Os lugares constantes do quadro de pessoal a que se refere a presente portaria são a extinguir à medida que vagarem, da base para o topo.
 
-**O Ministro de Estado e das Finanças, Fernando Teixeira dos Santos, em 22 de Março de 2006. - Pelo Ministro da Saúde, Carmen Madalena da Costa Gomes e Cunha Pignatelli, Secretária de Estado Adjunta e da Saúde, em 30 de Dezembro de 2005.**
+O Ministro de Estado e das Finanças, Fernando Teixeira dos Santos, em 22 de Março de 2006. - Pelo Ministro da Saúde, Carmen Madalena da Costa Gomes e Cunha Pignatelli, Secretária de Estado Adjunta e da Saúde, em 30 de Dezembro de 2005.
 
 MAPA ANEXO
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2006/04/076b00/28092813.pdf))](https://files.diariodarepublica.pt/1s/2006/04/076b00/28092813.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2006/04/076b00/28092813.pdf)

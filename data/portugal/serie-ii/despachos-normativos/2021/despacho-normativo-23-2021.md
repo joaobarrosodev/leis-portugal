@@ -26,7 +26,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/2s/2021/08/155000000/0004400044.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -48,36 +48,59 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/despacho-normativo/23-2021-169359148
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2021-08-11T00:00:00Z'
+  retrieved_at: '2026-10-23T15:08:48Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: f61a38955d2dad2412ce319a6e7bcd9db778093c52f035425eeacf5cacbd34cb
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: aaf42ebc5266140738a6cc9aba9e575ef23211ce23abcc8e10dfe5527ecacba6
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:08:48Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
-relationships: []
+subjects:
+- Autarquia Local
+- Câmara Municipal
+- Comunicações
+- Comunicações Eletrónicas
+- Direito de Voto
+- Eleição Autárquica
+- Internet
+- Ministério da Administração Interna
+- Plataforma Eletrónica
+- Resultado Eleitoral
+- Secretaria Geral
+relationships:
+- type: cites
+  target: pt:dre:114561388:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:115312061:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:642011:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:08:48Z'
   warnings: []
   errors: []
 ---
@@ -115,3 +138,5 @@ h) Número de votos obtidos por cada lista.
 6 - Na difusão dos resultados do escrutínio provisório, os órgãos de comunicação social devem indicar expressamente que se trata de resultados provisórios fornecidos pela SGMAI-AE.
 
 30 de julho de 2021. - A Ministra da Modernização do Estado e da Administração Pública, Alexandra Ludomila Ribeiro Fernandes Leitão. - O Secretário de Estado Adjunto e da Administração Interna, Antero Luís.
+
+314463622

@@ -47,40 +47,54 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/33-1984-400423
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1995-02-21T00:00:00Z'
+  retrieved_at: '2026-10-23T15:17:08Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 77f4b6fc98e089ca0487e5439f3d22bc4827c1800e96cf25ded5bd59d509ff20
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: fbaa11e1e532a0d5ef895cb34f202ff324289c9b232ff1d2516eb3358ea550f8
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:17:08Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Açores
+- Administração Central
+- Administração Local
+- Definição de Competências
+- Investimento Público
 relationships:
 - type: amended_by
   target: pt:dre:173684:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:173684:por
+  label: "Aditado um art. 6º, pelo DLR.4/95/A.1995.02.21.ALR-RAA, DR.IS-A [75] de 29/Mar/1995\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-legislativo-regional/4-1995-173684
+  date: '1995-02-21'
+- type: cites
+  target: pt:dre:661094:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:17:08Z'
   warnings: []
   errors: []
 ---
@@ -97,24 +111,24 @@ Importa, assim, estender o regime em causa à Região, considerando devidamente 
 
 Assim, a Assembleia Regional dos Açores decreta, nos termos da alínea b) do artigo 229.º da Constituição, o seguinte:
 
-###### Artigo 1.º O regime do [Decreto-Lei n.º 77/84](https://diariodarepublica.pt/dr/detalhe/decreto-lei/77-1984-661094), de 8 Março, aplica-se à Região Autónoma dos Açores com as adaptações constantes dos artigos seguintes.
+Artigo 1.º O regime do [Decreto-Lei n.º 77/84](https://diariodarepublica.pt/dr/detalhe/decreto-lei/77-1984-661094), de 8 Março, aplica-se à Região Autónoma dos Açores com as adaptações constantes dos artigos seguintes.
 
-###### Art. 2.º - 1 - As competências previstas na alínea c), nos n.os 2) e 3) da alínea d), na alínea e) e na alínea g) do artigo 8.º do [Decreto-Lei n.º 77/84](https://diariodarepublica.pt/dr/detalhe/decreto-lei/77-1984-661094), de 8 de Março, serão exercidas pela administração regional autónoma, sem prejuízo de futuramente poderem vir a ser exercidas pelos municípios, nos termos do artigo 12.º do referido diploma legal.
+Art. 2.º - 1 - As competências previstas na alínea c), nos n.os 2) e 3) da alínea d), na alínea e) e na alínea g) do artigo 8.º do [Decreto-Lei n.º 77/84](https://diariodarepublica.pt/dr/detalhe/decreto-lei/77-1984-661094), de 8 de Março, serão exercidas pela administração regional autónoma, sem prejuízo de futuramente poderem vir a ser exercidas pelos municípios, nos termos do artigo 12.º do referido diploma legal.
 
 2 - A competência prevista no n.º 1) da alínea b) do artigo 8.º será exercida pelos municípios, em cooperação técnica e financeira com a administração regional autónoma, de acordo com o preceituado na lei das finanças locais.
 
-###### Art. 3.º É da competência dos municípios a construção de sedes para as juntas de freguesia, bem como a reparação e conservação dos estabelecimentos do ensino primário.
+Art. 3.º É da competência dos municípios a construção de sedes para as juntas de freguesia, bem como a reparação e conservação dos estabelecimentos do ensino primário.
 
-###### Art. 4.º É da competência das juntas de freguesia garantir a manutenção e o funcionamento dos cemitérios das áreas rurais.
+Art. 4.º É da competência das juntas de freguesia garantir a manutenção e o funcionamento dos cemitérios das áreas rurais.
 
-###### Art. 5.º As referências feitas, bem como as competências atribuídas pelo [Decreto-Lei n.º 77/84](https://diariodarepublica.pt/dr/detalhe/decreto-lei/77-1984-661094), de 8 de Março, ao Governo da República ou aos seus serviços, consideram-se reportadas e serão exercidas, na Região, pelo Governo Regional, através dos seus departamentos.
+Art. 5.º As referências feitas, bem como as competências atribuídas pelo [Decreto-Lei n.º 77/84](https://diariodarepublica.pt/dr/detalhe/decreto-lei/77-1984-661094), de 8 de Março, ao Governo da República ou aos seus serviços, consideram-se reportadas e serão exercidas, na Região, pelo Governo Regional, através dos seus departamentos.
 
 Aprovado pela Assembleia Regional dos Açores em 12 de Setembro de 1984.
 
-**O Presidente da Assembleia Regional dos Açores, Álvaro Monjardino.**
+O Presidente da Assembleia Regional dos Açores, Álvaro Monjardino.
 
-**Assinado em Angra do Heroísmo em 18 de Outubro de 1984.**
+Assinado em Angra do Heroísmo em 18 de Outubro de 1984.
 
-**Publique-se.**
+Publique-se.
 
-**O Ministro da República para a Região Autónoma dos Açores, Tomás George Conceição Silva.**
+O Ministro da República para a Região Autónoma dos Açores, Tomás George Conceição Silva.

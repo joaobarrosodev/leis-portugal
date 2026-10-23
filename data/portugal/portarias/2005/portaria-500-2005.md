@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/500/2005/06/02/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/500-2005-220160
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2006-09-11T00:00:00Z'
+  retrieved_at: '2026-10-23T15:06:45Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: ba6f135b3596188c733e1c3e0fd2753e1507523f7ac33adb0957d74f017695e1
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 4078313b092c4b27bf64102d28d71a74e450257c73dd3216868d1ff944253700
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:06:45Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,19 +66,42 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Financiamento
-- Apoio ao Investimento
-- Projeto de Investimento
-- Instituto Nacional de Intervenção e Garantia Agrícola
-- Ruris
-- Produção Agrícola
-- Regulamento de Aplicação da Intervenção Medidas Agro-ambientais
 - Agricultura
+- Apoio ao Investimento
+- Financiamento
+- Instituto Nacional de Intervenção e Garantia Agrícola
+- Produção Agrícola
+- Projeto de Investimento
+- Regulamento de Aplicação da Intervenção Medidas Agro-ambientais
+- Ruris
 relationships:
 - type: amended_by
   target: pt:dre:540048:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:676839:por
+  label: "Permitida a prorrogação por mais um ano das candidaturas, cujo termo tenha ocorrido em 2005, aos beneficiários com\
+    \ candidaturas à ajudas previstas no Regulamento de Aplicação da Intervenção \"Medidas Agro-Ambientais\", aprovado pela\
+    \ Port 1212/2003 de 16-Out, com a redacção constante do presente diploma, pela PORT.143/2006.20.02.2006.MADRP, DR.IS-B\
+    \ [36] de 20.02.2006 \0 \0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/143-2006-676839
+  date: '2006-02-20'
+- type: amended_by
+  target: pt:dre:540048:por
+  label: "Permitida a transferência para os herdeiros dos beneficiários falecidos em 2005 ou em 2006 das ajudas previstas\
+    \ no Regulamento de Aplicação aprovado pela Port 1212/003 de 16-Out, com a redacção do presente diploma, pela PORT.949/2006.11.09.2006.MADRP,\
+    \ DR.IS [175] de 11.09.2006\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/949-2006-540048
+  date: '2006-09-11'
+- type: amends
+  target: pt:numero:portaria:1212/2003
+  label: "Altera os artigos 3.º, 8.º, 9.º, 10.º, 13.º, 14.º, 17.º, 24.º, 25.º, 34.º, 41.º, 58.º, 65.º, 75.º, 89.º, 90.º, 91.º\
+    \ e 92.º e os anexos II e III do Regulamento de Aplicação da Intervenção Medidas Agro-Ambientais, aprovado pela Portaria\
+    \ n.º 1212/2003, de 16-Out, DR.IS-B [240], com as alterações introduzidas pelas Portarias 360/2004, de 7-Abr, e 254/2005,\
+    \ de 14-Mar \0 \0"
+  source: null
+  date: '2003-10-16'
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/64/2004/03/22/p/dre
   label: null
@@ -99,16 +122,36 @@ relationships:
   target: eli:http://data.dre.pt/eli/port/360/2004/04/07/p/dre
   label: null
   source: http://data.dre.pt/eli/port/360/2004/04/07/p/dre
+- type: cites
+  target: pt:dre:218360:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:476278:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:481352:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:541267:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:575307:por
+  label: null
+  source: null
 article_structure:
-  article_count: 17
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:06:45Z'
   warnings: []
   errors: []
 ---
@@ -183,11 +226,15 @@ z) «Cultura permanente estreme» - parcela ocupada por uma única espécie de �
 
 2 - ...
 
-###### Artigo 8.º — [...]
+Artigo 8.º
+
+[...]
 
 Podem beneficiar das ajudas previstas neste capítulo os produtores agrícolas que revistam a natureza pública ou privada e os seareiros no caso de culturas hortícolas, horto-industriais e arroz no âmbito das medidas referidas nas alíneas a) e b) do artigo anterior.
 
-###### Artigo 9.º — [...]
+Artigo 9.º
+
+[...]
 
 ...
 
@@ -215,7 +262,9 @@ l) ...
 
 m) Figueiras - 80 árvores/ha.
 
-###### Artigo 10.º — [...]
+Artigo 10.º
+
+[...]
 
 1 - ...
 
@@ -251,7 +300,9 @@ d) ...
 
 7 - ...
 
-###### Artigo 13.º — [...]
+Artigo 13.º
+
+[...]
 
 ...
 
@@ -269,7 +320,9 @@ f) ...
 
 g) Kiwi - 400 plantas fêmeas/ha.
 
-###### Artigo 14.º — [...]
+Artigo 14.º
+
+[...]
 
 1 - ...
 
@@ -301,7 +354,9 @@ d) ...
 
 6 - Para efeitos de candidatura de uma área de tomate ou de qualquer outra solanácea, nomeadamente batata ou pimento, excepto se conduzidas sob forçagem, não são elegíveis parcelas que no ano anterior tenham sido cultivadas com solanáceas.
 
-###### Artigo 17.º — [...]
+Artigo 17.º
+
+[...]
 
 1 - ...
 
@@ -335,7 +390,9 @@ o) Pinhal para produção de pinhão - 61 árvores/ha ou mais de 30 árvores/ha 
 
 2 - ...
 
-###### Artigo 24.º — [...]
+Artigo 24.º
+
+[...]
 
 ...
 
@@ -359,7 +416,9 @@ i) Vinha - 1000 cepas/ha;
 
 j) Olival - 61 oliveiras/ha.
 
-###### Artigo 25.º — [...]
+Artigo 25.º
+
+[...]
 
 1 - Podem beneficiar das ajudas previstas nesta subsecção os beneficiários que explorem uma área de, pelo menos, 0,50 ha com culturas permanentes (pomar, vinha, olival ou kiwi).
 
@@ -367,7 +426,9 @@ j) Olival - 61 oliveiras/ha.
 
 3 - ...
 
-###### Artigo 34.º — [...]
+Artigo 34.º
+
+[...]
 
 1 - ...
 
@@ -421,7 +482,9 @@ f) ...
 
 8 - Exceptuam-se do disposto na alínea b) do n.º 1 as parcelas candidatas a outras medidas previstas no presente Regulamento excepto no caso das parcelas candidatas à medida «Luta química» aconselhada ou nas situações de acumulação previstas no artigo 94.º
 
-###### Artigo 41.º — [...]
+Artigo 41.º
+
+[...]
 
 ...
 
@@ -429,11 +492,15 @@ a) Os produtores agrícolas que revistam a natureza pública ou privada, no caso
 
 b) ...
 
-###### Artigo 58.º — [...]
+Artigo 58.º
+
+[...]
 
 Podem beneficiar das ajudas previstas neste capítulo os produtores agrícolas que revistam a natureza pública ou privada.
 
-###### Artigo 65.º — [...]
+Artigo 65.º
+
+[...]
 
 1 - ...
 
@@ -449,7 +516,9 @@ b) Quando consociado deve constituir, pelo menos, 80% do povoamento, considerand
 
 3 - ...
 
-###### Artigo 75.º — [...]
+Artigo 75.º
+
+[...]
 
 ...
 
@@ -457,7 +526,9 @@ a) Os produtores agrícolas que revistam a natureza pública ou privada e órgã
 
 b) Os produtores agrícolas que revistam a natureza pública ou privada, no caso da medida referida na alínea b) do artigo anterior.
 
-###### Artigo 89.º — [...]
+Artigo 89.º
+
+[...]
 
 1 - ...
 
@@ -481,7 +552,9 @@ a) Comunicar ao INGA o caso de força maior e as respectivas provas, por escrito
 
 b) Manter, nos anos subsequentes, as condições de acesso que determinaram a concessão das ajudas e cumprir os compromissos assumidos, pelo período remanescente.
 
-###### Artigo 90.º — [...]
+Artigo 90.º
+
+[...]
 
 1 - ...
 
@@ -519,7 +592,9 @@ g) ...
 
 8 - Os beneficiários seareiros devem, no momento da confirmação anual a que se refere a alínea c) do n.º 1 do artigo anterior, proceder à identificação das parcelas arrendadas para a respectiva campanha agrícola, não se lhe aplicando relativamente a estas parcelas o disposto no n.º 6 e na alínea b) do n.º 1 do artigo 91.º
 
-###### Artigo 91.º — [...]
+Artigo 91.º
+
+[...]
 
 1 - ...
 
@@ -545,7 +620,9 @@ d) ...
 
 4 - Sempre que o beneficiário não tenha podido respeitar os compromissos devido aos casos de força maior referidos no n.º 2, conservará o seu direito à totalidade da ajuda do ano em que o facto ocorreu, excepto se foi impedido de iniciar o cumprimento dos compromissos.
 
-###### Artigo 92.º — [...]
+Artigo 92.º
+
+[...]
 
 1 - ...
 
@@ -585,11 +662,11 @@ b) ...
 
 ## ANEXO II — [...]
 
-[(ver tabela no documento original)](https://files.diariodarepublica.pt/1s/2005/06/106b00/35983601.pdf)
+[[(ver tabela no documento original)](https://files.diariodarepublica.pt/1s/2005/06/106b00/35983601.pdf)](https://files.diariodarepublica.pt/1s/2005/06/106b00/35983601.pdf)
 
 ## ANEXO III — [...]
 
-[(ver tabela no documento original)](https://files.diariodarepublica.pt/1s/2005/06/106b00/35983601.pdf)
+[[(ver tabela no documento original)](https://files.diariodarepublica.pt/1s/2005/06/106b00/35983601.pdf)](https://files.diariodarepublica.pt/1s/2005/06/106b00/35983601.pdf)
 
 2.º O disposto no presente diploma aplica-se às candidaturas e confirmações apresentadas na presente campanha.
 

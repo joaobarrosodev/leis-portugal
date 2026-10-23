@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/210/2006/03/03/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/210-2006-693070
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2006-03-03T00:00:00Z'
+  retrieved_at: '2026-10-23T15:12:41Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: bfc4a6bf8ccb9cd80c06ac59bc50f8138ec0fc4c980a5905acd1e85c3f5be756
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 2f3be8557d8eebc9ca8f2814499b7c7b4e9db1c32b18ed1f21878864fb99da0e
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:12:41Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -65,8 +65,8 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Julgado de Paz
 - Instalação de Serviços
+- Julgado de Paz
 - Regulamento Interno
 - Trofa
 relationships:
@@ -78,16 +78,24 @@ relationships:
   target: eli:http://data.dre.pt/eli/lei/78/2001/07/13/p/dre
   label: null
   source: http://data.dre.pt/eli/lei/78/2001/07/13/p/dre
+- type: cites
+  target: pt:dre:388220:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:468998:por
+  label: null
+  source: null
 article_structure:
   article_count: 15
-  section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  section_count: 1
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:12:41Z'
   warnings: []
   errors: []
 ---
@@ -150,7 +158,9 @@ O Julgado de Paz do Concelho da Trofa fica sediado na Rua de Heliodoro Salgado, 
 
 2 - Nas ausências e impedimentos do juiz de paz-coordenador, este é substituído pelo que, de entre os restantes juízes de paz que exerçam funções no Julgado de Paz, tenha obtido melhor classificação no concurso de recrutamento e selecção.
 
-###### Artigo 4.º — Secção
+###### Artigo 4.º
+
+#### Secção
 
 O Julgado de Paz dispõe de uma única secção, a qual é dirigida pelo juiz de paz competente para a coordenação do Julgado de Paz.
 

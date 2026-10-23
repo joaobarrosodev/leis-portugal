@@ -27,7 +27,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/2s/2015/06/112000000/1542215423.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -49,25 +49,32 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/despacho-normativo/9-2015-67458359
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2015-06-11T00:00:00Z'
+  retrieved_at: '2026-10-23T15:08:04Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 6bb859db7e19acc6a41a4af6e2248f25b0f6a7b164e24a8aae89acac63b3b253
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 15cf52d6c2781deb1527de06d76d6cdec25c48b809cc3e97d29e9c632ca094d8
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:08:04Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Açores
+- Alimentação
+- Direção Geral de Alimentação e Veterinária
+- Direcção Regional de Agricultura e Pescas
+- Higiene Alimentar
+- Madeira.região Autónoma
+- Produto Alimentar
 relationships:
 - type: cites
   target: celex:31998L0034
@@ -93,21 +100,37 @@ relationships:
   target: celex:32012R1151
   label: null
   source: null
+- type: cites
+  target: pt:dre:2208340:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:522389:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:544386:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:570704:por
+  label: null
+  source: null
 article_structure:
   article_count: 9
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:08:04Z'
   warnings: []
   errors: []
 ---
 
-# Despacho Normativo n.º 9/2015
+# Despacho normativo n.º 9/2015
 
 O Regulamento (CE) n.º 852/2004 relativo à higiene dos géneros alimentícios, e o Regulamento (CE) n.º 853/2004 que estabelece regras específicas de higiene aplicáveis aos géneros alimentícios de origem animal, ambos do Parlamento Europeu e do Conselho, de 29 de abril, bem como o Regulamento (CE) n.º 2074/2005, da Comissão, de 5 de dezembro, que prevê a possibilidade de derrogações às normas do Regulamento (CE) n.º 852/2004 no que respeita aos alimentos com características tradicionais, estabelecem, entre outros, as condições que permitem aos Estados membros conceder determinadas adaptações às exigências legalmente fixadas em matéria de higiene.
 
@@ -240,3 +263,5 @@ g) A forma como as adaptações ou derrogações solicitadas pelo requerente per
 É revogado o Despacho normativo n.º 38/2008, de 4 de julho de 2008, publicado na 2.ª série do Diário da República, n.º 156, de 13 de agosto.
 
 3 de junho de 2015. - A Ministra da Agricultura e do Mar, Maria de Assunção Oliveira Cristas Machado da Graça.
+
+208702108

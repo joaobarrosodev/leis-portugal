@@ -27,7 +27,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/2s/2024/11/223000000/0004000041.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -49,18 +49,18 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/despacho-normativo/16-2024-896828794
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2025-03-11T00:00:00Z'
+  retrieved_at: '2026-10-23T15:09:07Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: ee3bfd7e27abb6d7d250fa1a5ed61dce64fa1af963c23ae7bdecb49f1c4f5627
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 5be9c8c3e3ffcef1c31f41bba60b5b78da2e95fe96e2594e419d4b1a11e50de9
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:09:07Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -73,6 +73,12 @@ relationships:
   target: pt:dre:910517151:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:910517151:por
+  label: Alterado, a partir de 12 de março de 2025, com efeitos a 1 de janeiro de 2025, o n.º 5 pelo(a) Portaria n.º 94-A/2025/1
+    - Diário da República n.º 49/2025, Suplemento, Série I de 2025-03-11
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/94-a-2025-910517151
+  date: '2025-03-11'
 - type: cites
   target: celex:32013R1408
   label: null
@@ -81,16 +87,24 @@ relationships:
   target: celex:32019R0316
   label: null
   source: null
+- type: cites
+  target: pt:dre:864224972:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:889277040:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:09:07Z'
   warnings: []
   errors: []
 ---
@@ -126,3 +140,5 @@ Ao abrigo do disposto nos artigos 15.º e 27.º do [Decreto-Lei n.º 32/2024](ht
 10 - O presente despacho normativo entra em vigor no dia seguinte ao da sua publicação.
 
 8 de novembro de 2024. - O Ministro Adjunto e da Coesão Territorial, Manuel Castro Almeida. - O Ministro da Agricultura e Pescas, José Manuel Fernandes.
+
+318348959

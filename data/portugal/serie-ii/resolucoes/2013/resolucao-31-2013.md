@@ -47,36 +47,79 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/resolucao/31-2013-3648478
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2013-12-16T00:00:00Z'
+  retrieved_at: '2026-10-23T15:15:12Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 08d2e695b1b61972ce1d0e9dc75a648f892d2c6be9b1efbd7ed1640e6e5cf2a2
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 07e69b9fc4bff1c85f584832e91f23e1c6f7b0fb0d7dcc04d6855fb3325b3e25
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:15:12Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
-relationships: []
+subjects:
+- Administração Financeira do Estado
+- Conta de Gerência
+- Gestão Financeira
+- Internet
+- Prestação de Contas
+- Publicitação
+- Tribunal de Contas
+relationships:
+- type: cites
+  target: pt:dre:1273704:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:1630311:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:193663:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:2211650:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:310379:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:328400:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:344407:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:540821:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:570120:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:15:12Z'
   warnings: []
   errors: []
 ---
@@ -155,8 +198,10 @@ c) Os depósitos e aplicações fora da IGCP (v.g. em instituições bancárias)
 
 14 - O disposto na presente resolução aplica-se às contas relativas ao ano económico de 2013 e gerências partidas de 2014.
 
-**Publique-se na 2.ª série do Diário da República, nos termos do artigo 9.º, n.º 2, alínea d), da [Lei n.º 98/97](https://diariodarepublica.pt/dr/detalhe/lei/98-1997-193663), de 26 de agosto.**
+Publique-se na 2.ª série do Diário da República, nos termos do artigo 9.º, n.º 2, alínea d), da [Lei n.º 98/97](https://diariodarepublica.pt/dr/detalhe/lei/98-1997-193663), de 26 de agosto.
 
 (1) De acordo com as Instruções do Tribunal de Contas n.º 1/2010 - 2.ª S, publicadas no Diário da República, 2.ª série, n.º 249, de 27 de dezembro.
 
 28 de novembro de 2013. - O Conselheiro Presidente, Guilherme d'Oliveira Martins.
+
+207449266

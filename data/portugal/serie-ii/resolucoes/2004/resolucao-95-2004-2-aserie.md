@@ -1,7 +1,7 @@
 ---
 schema_version: '1.0'
 id: pt:dre:2850943:por
-title: Resolução n.º 95/2004(2.ªsérie)
+title: Resolução n.º 95/2004 (2.ª série)
 short_title: null
 summary: null
 jurisdiction: portugal
@@ -46,45 +46,70 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/resolucao/95-2004-2850943
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2006-01-12T00:00:00Z'
+  retrieved_at: '2026-10-23T15:12:41Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 427bd82e047da64fd20d3d9a28e050d2e34fe8218d9f36d31b59161c88e658e4
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 047b2e1303fef986b4c2c53924ca642953ffb85810e038cf59e232f6255a2aad
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:12:41Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Conselho Diretivo
+- Instituto de Gestão do Crédito Público
+- Nomeação
+- Presidente
 relationships:
 - type: amended_by
   target: pt:dre:2632781:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:2632781:por
+  label: "Exonerado pela RES.2/2006(2ªSérie).12.01.2006.PCM, DR.IIS [18] de 25.01.2006\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/resolucao/2-2006-2632781
+  date: '2006-01-12'
+- type: cites
+  target: pt:dre:229486:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:241644:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:492268:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:693818:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:12:41Z'
   warnings: []
   errors: []
 ---
 
-# Resolução n.º 95/2004(2.ªsérie)
+# Resolução n.º 95/2004 (2.ª série)
 
 Resolução n.º 95/2004 (2.ª série). - Considerando que o presidente do conselho directivo do Instituto de Gestão do Crédito Público (IGCP) foi nomeado para o exercício de funções governamentais;
 

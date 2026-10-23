@@ -47,40 +47,115 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/5-1987-421795
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2005-04-11T00:00:00Z'
+  retrieved_at: '2026-10-23T15:17:38Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 3e25adad01a05a2db067cb3f85bfcf3f86aed3a53ea9c0660fd4b03af3282767
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 6abf4339da220ad3ec03783a09ba665a6637e8708f77b45faea37f200a79ad37
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:17:38Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Açores
+- Administração Regional
+- Admissão de Pessoal
+- Gestão de Recursos Humanos
+- Mobilidade de Pessoal
+- Reestruturação de Serviços
 relationships:
 - type: amended_by
   target: pt:dre:534776:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:373581:por
+  label: "Alterado na redacção que confere na adaptação da al. a) do nº 1 do art. 14º do Dec Lei 41/84, de 03-Fev, e aditado\
+    \ ao presente diploma o nº 4 ao art. 2º, pelo DLR.21/88/A.1988.04.15.ARA, DR.IS [102] de 03/Mai/1988\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-legislativo-regional/21-1988-373581
+  date: '1988-04-15'
+- type: cites
+  target: pt:dre:179990:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:183214:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:228464:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:311470:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:311595:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:324311:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:367853:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:367855:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:431188:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:439438:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:468070:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:502786:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:660287:por
+  label: null
+  source: null
+- type: corrected_by
+  target: pt:dre:239629:por
+  label: Rectificado pela DECL.DD4369.07.07.1987.PCM, DR.IS [199-Supl] de 31.08.1987
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/declaracao/1987-239629
+  date: '1987-07-07'
+- type: repealed_by
+  target: pt:dre:534776:por
+  label: "Revogados a partir de 01.06.2005 os arts. 2º a 4º e 10º pelo DLR.1/2005/A.11.04.2005.AL-RAA, DR.IS-A [89] de 09.05.2005\0\
+    \0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-legislativo-regional/1-2005-534776
+  date: '2005-04-11'
 article_structure:
   article_count: 36
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:17:38Z'
   warnings: []
   errors: []
 ---
@@ -609,12 +684,12 @@ O presente diploma entra em vigor 30 dias após a sua publicação.
 
 Aprovado pela Assembleia Regional dos Açores, na Horta, em 20 de Março de 1987.
 
-**O Presidente da Assembleia Regional, José Guilherme Reis Leite.**
+O Presidente da Assembleia Regional, José Guilherme Reis Leite.
 
-**Assinado em Angra do Heroísmo em 6 de Maio de 1987.**
+Assinado em Angra do Heroísmo em 6 de Maio de 1987.
 
-**Publique-se.**
+Publique-se.
 
-**O Ministro da República para a Região Autónoma dos Açores, Vasco Joaquim da Rocha Vieira.**
+O Ministro da República para a Região Autónoma dos Açores, Vasco Joaquim da Rocha Vieira.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1987/05/12000/20912098.pdf))](https://files.diariodarepublica.pt/1s/1987/05/12000/20912098.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1987/05/12000/20912098.pdf)

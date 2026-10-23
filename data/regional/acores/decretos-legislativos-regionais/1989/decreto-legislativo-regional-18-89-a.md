@@ -47,36 +47,39 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/18-1989-550047
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1989-11-03T00:00:00Z'
+  retrieved_at: '2026-10-23T15:17:53Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 7ea0e43b4c5cd1730d21042fae6169dde453b91035aa9a78169a069fb6350a03
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 9a776d5384bb58220c3aa05c90cb09f536e9e87bb806d15145419460ee409ca9
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:17:53Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Açores
+- Ensino de Condução
+- Escola de Condução
 relationships: []
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:17:53Z'
   warnings: []
   errors: []
 ---
@@ -91,18 +94,18 @@ Torna-se, assim, necessário alterar o referido diploma, com o objectivo de aten
 
 Assim, nos termos da alínea a) do n.º 1 do artigo 229.º da Constituição da República Portuguesa, a Assembleia Legislativa Regional dos Açores decreta o seguinte:
 
-###### Artigo único. O artigo 2.º do Decreto Legislativo Regional n.º 13/86/A, de 3 de Abril, passa a ter a seguinte redacção:
+Artigo único. O artigo 2.º do Decreto Legislativo Regional n.º 13/86/A, de 3 de Abril, passa a ter a seguinte redacção:
 
-###### Art. 2.º - 1 - Na Região Autónoma dos Açores, nos concelhos cuja população não atinja o nível legalmente fixado, apenas poderá ser autorizada a instalação de uma escola de condução.
+Art. 2.º - 1 - Na Região Autónoma dos Açores, nos concelhos cuja população não atinja o nível legalmente fixado, apenas poderá ser autorizada a instalação de uma escola de condução.
 
 2 - Por despacho do secretário regional da tutela, sob proposta do director regional de Transportes Terrestres, poderão ser concedidos alvarás, independentemente do condicionalismo escola/população, desde que tal se mostre adequado à configuração apresentada pela procura previsível.
 
 Aprovado pela Assembleia Legislativa Regional dos Açores, na Horta, em 28 de Setembro de 1989.
 
-**O Presidente da Assembleia Legislativa Regional, José Guilherme Reis Leite.**
+O Presidente da Assembleia Legislativa Regional, José Guilherme Reis Leite.
 
-**Assinado em Angra do Heroísmo em 19 de Outubro de 1989.**
+Assinado em Angra do Heroísmo em 19 de Outubro de 1989.
 
-**Publique-se.**
+Publique-se.
 
-**O Ministro da República para a Região Autónoma dos Açores, Vasco Joaquim Rocha Vieira.**
+O Ministro da República para a Região Autónoma dos Açores, Vasco Joaquim Rocha Vieira.

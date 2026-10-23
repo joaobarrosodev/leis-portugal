@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/539/2005/06/22/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/539-2005-226455
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2005-06-22T00:00:00Z'
+  retrieved_at: '2026-10-23T15:06:57Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 8c0ed090446884b3f850172613e168db000c3fe1cf8103d4ce7aef95c38fb096
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 8d36302224194bf5f5082ab9a672af57fe597c62216d6f95646f3b457ad8174e
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:06:57Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,11 +66,11 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Doença Animal
 - Direção Geral de Veterinária
 - Direcção Regional de Agricultura
-- Instituto Nacional de Intervenção e Garantia Agrícola
+- Doença Animal
 - Gado Ovino
+- Instituto Nacional de Intervenção e Garantia Agrícola
 - Ruris
 relationships:
 - type: cites
@@ -80,13 +80,13 @@ relationships:
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:06:57Z'
   warnings: []
   errors: []
 ---
@@ -121,4 +121,4 @@ b) Desistir da ajuda a que se candidataram, não havendo neste caso lugar à dev
 
 5.º O presente diploma entra em vigor no dia seguinte à data da sua publicação.
 
-**O Ministro da Agricultura, do Desenvolvimento Rural e das Pescas, Jaime de Jesus Lopes Silva, em 25 de Maio de 2005.**
+O Ministro da Agricultura, do Desenvolvimento Rural e das Pescas, Jaime de Jesus Lopes Silva, em 25 de Maio de 2005.

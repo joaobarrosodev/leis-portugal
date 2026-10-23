@@ -47,45 +47,55 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/despacho-normativo/18-2012-3267354
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2012-08-16T00:00:00Z'
+  retrieved_at: '2026-10-23T15:07:39Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 6966312e348d546ee4c3371aa058897d09b504be41c4fd0c0aaaaec5c53825df
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 342b2737a9956135cb14d6fb7fbbadc2827ad7f56143df1da13f51622cc2c96f
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:07:39Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Cooperativa Agrícola
+- Direcção Regional de Agricultura e Pescas
+- Instituto da Vinha e do Vinho
+- Vinha
+- Vinho
+- Vitivinicultor
 relationships:
 - type: cites
   target: celex:32007R1234
   label: null
   source: null
+- type: cites
+  target: pt:dre:1023319:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:07:39Z'
   warnings: []
   errors: []
 ---
 
-# Despacho Normativo n.º 18/2012
+# Despacho normativo n.º 18/2012
 
 A Portaria n.º 741/2009, de 10 de julho, constituiu, nos termos do artigo 85.º-J do Regulamento (CE) n.º 1234/2007, do Conselho, de 22 de outubro, com as alterações introduzidas pelo [Regulamento n.º 491/2009](https://diariodarepublica.pt/dr/detalhe/regulamento/491-2009-1023319), do Conselho, de 25 de maio, uma reserva de direitos de plantação no território do continente, cujas normas complementares de execução devem ser implementadas por despacho normativo do membro do Governo responsável pela área da agricultura, de acordo com o disposto no n.º 1 do artigo 3.º da referida portaria.
 
@@ -106,3 +116,5 @@ Assim, nos termos do disposto no n.º 1 do artigo 3.º da Portaria n.º 741/2009
 6 - O presente despacho entra em vigor no dia seguinte ao da sua publicação.
 
 8 de agosto de 2012. - O Secretário de Estado da Agricultura, José Diogo Santiago de Albuquerque.
+
+206315662

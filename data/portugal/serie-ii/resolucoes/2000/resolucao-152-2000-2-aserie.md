@@ -1,7 +1,7 @@
 ---
 schema_version: '1.0'
 id: pt:dre:1651610:por
-title: Resolução n.º 152/2000(2.ªsérie)
+title: Resolução n.º 152/2000 (2.ª série)
 short_title: null
 summary: null
 jurisdiction: portugal
@@ -46,45 +46,64 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/resolucao/152-2000-1651610
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2002-01-17T00:00:00Z'
+  retrieved_at: '2026-10-23T15:09:50Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 8c3894798ddef81e4ae90fd0e9fca38a9900348c7f8c44f86fcb6c51f211ff70
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: e403652aa244ab9c925aafa6a4cfbb3c15aba46ae9f81ac1fb676ebad5d5040c
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:09:50Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Conselho de Administração
+- Exoneração
+- IAPMEI
+- Nomeação
+- Presidente
+- Vogal
 relationships:
 - type: amended_by
   target: pt:dre:2719826:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:2719826:por
+  label: "Exonerado Manuel Roque da Torre Martins pela RES.12/2002(2ªSÉRIE).2002.01.17.PCM, DR.IIS [29] de 4/Fev/2002\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/resolucao/12-2002-2719826
+  date: '2002-01-17'
+- type: cites
+  target: pt:dre:354114:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:534596:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:09:50Z'
   warnings: []
   errors: []
 ---
 
-# Resolução n.º 152/2000(2.ªsérie)
+# Resolução n.º 152/2000 (2.ª série)
 
 Resolução n.º 152/2000 (2.ª série). - Os membros do conselho de administração do Instituto de Apoio às Pequenas e Médias Empresas e ao Investimento (IAPMEI) são, de acordo com o artigo 7.º do [Decreto-Lei n.º 387/88](https://diariodarepublica.pt/dr/detalhe/decreto-lei/387-1988-354114), de 25 de Outubro, com a redacção que lhe foi dada pelo [Decreto-Lei n.º 129/99](https://diariodarepublica.pt/dr/detalhe/decreto-lei/129-1999-534596), de 21 de Abril, nomeados pelo Conselho de Ministros, sob proposta do Ministro da Economia.
 

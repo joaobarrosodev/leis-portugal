@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/2s/2020/09/176000000/0002900036.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -47,40 +47,88 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/despacho-normativo/10-2020-142111051
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2021-04-23T00:00:00Z'
+  retrieved_at: '2026-10-23T15:08:35Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 3568e2ca501df2e692ff8a766583a5f365bcda01e3187a2d93a792411bc9b575
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: b97db1011f5a26636b27e356d7f42d31f07a93a9aa062d3193ea63263868a94f
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:08:35Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Auxílio de Minimis
+- Doença Infecciosa
+- Empresa
+- Epidemia
+- Estabelecimento Hoteleiro
+- Financiamento
+- Formulário Eletrónico
+- IAPMEI
+- Indústria Hoteleira
+- Infraestrutura Turística
+- Instituto do Turismo de Portugal
+- Linha de Crédito
+- Microempresa
+- Página na Internet
+- Regime de Apoio
+- Tesouraria
+- Turismo
 relationships:
 - type: amended_by
   target: pt:dre:162021993:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:153493528:por
+  label: Alterados os arts. 1.º, 2.º, 3.º, 4.º 5.º, 6.º, 7.º, 8.º, 10.º e anexo do DN 4/2020 de 25-mar, na versão alterada
+    e republicada pelo presente, pelo(a) Despacho Normativo n.º 1/2021 - Diário da República n.º 6/2021, Série II de 2021-01-11,
+    que o republicou em anexo com as altrerações ora introduzidas
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/despacho-normativo/1-2021-153493528
+  date: '2021-01-11'
+- type: cites
+  target: pt:dre:107596686:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:127648461:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:130600838:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:178510:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:629439:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:67098359:por
+  label: null
+  source: null
 article_structure:
-  article_count: 21
+  article_count: 17
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:08:35Z'
   warnings: []
   errors: []
 ---
@@ -111,7 +159,9 @@ A dotação máxima disponível para financiamento das operações ao abrigo da 
 
 [...]
 
-###### Artigo 4.º — Condições de elegibilidade
+Artigo 4.º
+
+Condições de elegibilidade
 
 1 - Têm acesso à presente linha de apoio financeiro as microempresas que, à data da candidatura, reúnam as seguintes condições:
 
@@ -133,7 +183,9 @@ g) Encontrarem-se em atividade efetiva.
 
 3 - ...
 
-###### Artigo 5.º — Intensidade, natureza e limite do apoio financeiro
+Artigo 5.º
+
+Intensidade, natureza e limite do apoio financeiro
 
 1 - O apoio financeiro a conceder ao abrigo da presente linha reveste a natureza de apoio reembolsável, sem quaisquer juros remuneratórios associados, sem prejuízo do disposto no n.º 3 do presente artigo.
 
@@ -143,7 +195,9 @@ g) Encontrarem-se em atividade efetiva.
 
 [...]
 
-###### Artigo 7.º — Apresentação de candidaturas
+Artigo 7.º
+
+Apresentação de candidaturas
 
 As candidaturas são apresentadas em contínuo, através de formulário disponível no portal do Turismo de Portugal, I. P., acompanhado dos seguintes documentos:
 
@@ -157,7 +211,9 @@ d) Comprovativo do IBAN da entidade promotora da candidatura para a realização
 
 [...]
 
-###### Artigo 9.º — Decisão e formalização
+Artigo 9.º
+
+Decisão e formalização
 
 1 - ...
 
@@ -165,7 +221,9 @@ d) Comprovativo do IBAN da entidade promotora da candidatura para a realização
 
 3 - A não assinatura do Termo de Aceitação, por razões imputáveis à entidade beneficiária, no prazo de 10 dias úteis contados da data de notificação de atribuição do apoio financeiro, determina a caducidade do direito ao mesmo.
 
-###### Artigo 10.º — Obrigações das entidades beneficiárias
+Artigo 10.º
+
+Obrigações das entidades beneficiárias
 
 São obrigações das entidades beneficiárias:
 
@@ -185,7 +243,9 @@ g) ...
 
 h) Manter a atividade durante todo o período de reembolso do financiamento concedido.
 
-## ANEXO — [...]
+ANEXO
+
+[...]
 
 90040 - Exploração de salas de espetáculos e atividades conexas (1)
 
@@ -235,7 +295,9 @@ O presente despacho entra em vigor no dia seguinte ao da sua assinatura.
 
 11 de agosto de 2020. - A Secretária de Estado do Turismo, Rita Baptista Marques.
 
-## ANEXO — Artigo 1.º
+## ANEXO
+
+###### Artigo 1.º
 
 Criação, objeto e objetivos
 
@@ -418,3 +480,5 @@ O presente despacho entra em vigor no dia seguinte ao da sua assinatura.
 Notas
 
 (1) Atividades enquadráveis, desde que desenvolvidas por empresas de animação turística e registadas no Registo Nacional dos Agentes de Animação Turística (RNAAT).
+
+313521779

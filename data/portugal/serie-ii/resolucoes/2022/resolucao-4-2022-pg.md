@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/2s/2022/04/068000000/0024600256.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -47,18 +47,18 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/resolucao/4-2022-181704620
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2022-04-06T00:00:00Z'
+  retrieved_at: '2026-10-23T15:16:18Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: f0bd750914dffef7efea10697c42d00303a32e24712e9529a2ff4812245fa359
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: a58d77880d9555249d0797a3f213604b028baa6a020d1098f6381652b8fd9e72
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:16:18Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,17 +66,37 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects: []
-relationships: []
+relationships:
+- type: cites
+  target: pt:dre:1082850:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:156848060:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:178845:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:193663:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:542996:por
+  label: null
+  source: null
 article_structure:
   article_count: 22
   section_count: 6
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:16:18Z'
   warnings: []
   errors: []
 ---
@@ -97,7 +117,7 @@ c) O Despacho Regulamentar n.º 1/2019-JC/SRMTC, de 28 de outubro de 2019, publi
 
 3 - A presente Resolução entra em vigor no dia 02 de maio de 2022.
 
-**Publique-se, nos termos da alínea d) do n.º 2 e do n.º 3 do artigo 9.º da LOPTC:**
+Publique-se, nos termos da alínea d) do n.º 2 e do n.º 3 do artigo 9.º da LOPTC:
 
 a) Na 2.ª série do Diário da República;
 
@@ -107,7 +127,7 @@ c) No Jornal Oficial da Região Autónoma da Madeira.
 
 29 de março de 2022. - O Presidente, José F.F. Tavares.
 
-## ANEXO À RESOLUÇÃO N.º 4/2022 - PG
+ANEXO À RESOLUÇÃO N.º 4/2022 - PG
 
 Instruções 2/2022
 
@@ -291,19 +311,19 @@ Em tudo quanto não estiver regulado nas presentes instruções, é subsidiariam
 
 [a que se referem os números 1 dos artigos 3.º e 7.º]
 
-[([ver documento original](https://files.diariodarepublica.pt/2s/2022/04/068000000/0024600256.pdf))](https://files.diariodarepublica.pt/2s/2022/04/068000000/0024600256.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/2s/2022/04/068000000/0024600256.pdf)
 
 ## ANEXO II — Informação de cabimento
 
 [a que se refere o n.º 1 do artigo 4.º]
 
-[([ver documento original](https://files.diariodarepublica.pt/2s/2022/04/068000000/0024600256.pdf))](https://files.diariodarepublica.pt/2s/2022/04/068000000/0024600256.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/2s/2022/04/068000000/0024600256.pdf)
 
 ## ANEXO III — Informação de compromisso
 
 [a que se refere o n.º 1 do artigo 4.º]
 
-[([ver documento original](https://files.diariodarepublica.pt/2s/2022/04/068000000/0024600256.pdf))](https://files.diariodarepublica.pt/2s/2022/04/068000000/0024600256.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/2s/2022/04/068000000/0024600256.pdf)
 
 ## ANEXO IV — Informação de controlo dos fundos disponíveis
 
@@ -311,4 +331,6 @@ Em tudo quanto não estiver regulado nas presentes instruções, é subsidiariam
 
 (Nos termos e para os efeitos do artigo 5.º da [Lei n.º 8/2012](https://diariodarepublica.pt/dr/detalhe/lei/8-2012-542996), de 21.02, e do artigo 7.º do [Decreto-Lei n.º 127/2012](https://diariodarepublica.pt/dr/detalhe/decreto-lei/127-2012-178845), de 21.06)
 
-[([ver documento original](https://files.diariodarepublica.pt/2s/2022/04/068000000/0024600256.pdf))](https://files.diariodarepublica.pt/2s/2022/04/068000000/0024600256.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/2s/2022/04/068000000/0024600256.pdf)
+
+315185965

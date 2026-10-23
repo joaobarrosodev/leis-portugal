@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/2s/2010/03/055000000/1353113536.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,30 +46,57 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/despacho-normativo/8-2010-2298374
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2015-02-27T00:00:00Z'
+  retrieved_at: '2026-10-23T15:07:30Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 46e4540d76cfbd6ba9e5988a35adeccbd3960c358a4f48ab4aaee05140638f7d
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 5f563e46957220e003f062e39cbcaf34d2ed58eb3734b41e0a69cdf4b6bbca34
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:07:30Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Agricultor
+- Ajuda Comunitária
+- Atividade Agrícola
+- Financiamento
+- Fiscalização
+- IFAP
+- Política Agrícola
+- Política Agrícola Comum
 relationships:
 - type: amended_by
   target: pt:dre:66619896:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:851247:por
+  label: "Alterado o art. 18º, pelo DN.28/2010.10.12.2010.MADRP, DR.IIS [238] de 10.12.2010\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/despacho-normativo/28-2010-851247
+  date: '2010-12-10'
+- type: amended_by
+  target: pt:dre:2856276:por
+  label: "Alterado o art. 16.º e aditado o cap. III-A, com a designação «Medida agroambiental de apoio à manutenção de raças\
+    \ autóctones», que engloba os art.s 20.º-A, 20.º-B, 20.º-C e 20.º-D, pelo DN.3/2013.28.01.2013.SEA-MAMAOT, DR.IIS [19]\
+    \ de 28.01.2013\03\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/despacho-normativo/3-2013-2856276
+  date: '2013-01-28'
+- type: amended_by
+  target: pt:dre:1127147:por
+  label: "Dada nova redação aos arts. 2.º, 5.º, 7.º e 25.º ; e remetidas para «subparcela» as referências feitas a «parcela»\
+    \ nos arts. 3.º, 6.º, 11.º, 14.º e 18.º e no anexo IV deste diploma pelo DN.4/2013.30.01.2013.SEA-MAMAOT, DR.IIS [21]\
+    \ de 30.01.2013\03\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/despacho-normativo/4-2013-1127147
+  date: '2013-01-30'
 - type: cites
   target: celex:32006R1975
   label: null
@@ -86,21 +113,40 @@ relationships:
   target: celex:32009R1122
   label: null
   source: null
+- type: cites
+  target: pt:dre:349146:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:620106:por
+  label: null
+  source: null
+- type: corrected_by
+  target: pt:dre:1175814:por
+  label: "Rectificadas as als. a) e b) do art. 2º e o art. 13º pela DECL-RECT.1013/2010.24.05.2010.SG-MADRP, DR.IIS [100]\
+    \ de 24.05.2010\00\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/declaracao-rectificacao/1013-2010-1175814
+  date: '2010-05-24'
+- type: repealed_by
+  target: pt:dre:66619896:por
+  label: Revogado, a partir de 28.02.2015, pelo(a) Portaria n.º 57/2015 - Diário da República n.º 41/2015, Série I de 2015-02-27
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/57-2015-66619896
+  date: '2015-02-27'
 article_structure:
   article_count: 26
   section_count: 11
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:07:30Z'
   warnings: []
   errors: []
 ---
 
-# Despacho Normativo n.º 8/2010
+# Despacho normativo n.º 8/2010
 
 O Regulamento (CE) n.º 73/2009, do Conselho, de 19 de Janeiro, que estabelece as regras comuns para os regimes de apoio directo aos agricultores no âmbito da Política Agrícola Comum, prevê, no seu artigo 68.º, a possibilidade de os Estados membros concederem um apoio específico aos agricultores, o qual deve ser coerente com outras medidas de apoio comunitárias em vigor.
 
@@ -440,4 +486,6 @@ Guarda, Celorico da Beira, Pinhel, Trancoso, Manteigas, Seia, Meda, Almeida, Sab
 
 (a que se refere o artigo 25.º)
 
-[([ver documento original](https://files.diariodarepublica.pt/2s/2010/03/055000000/1353113536.pdf))](https://files.diariodarepublica.pt/2s/2010/03/055000000/1353113536.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/2s/2010/03/055000000/1353113536.pdf)
+
+203028869

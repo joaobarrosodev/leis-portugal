@@ -26,7 +26,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/2s/2015/05/098000000/1291712917.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -48,40 +48,71 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/resolucao/32-2015-67267065
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2018-07-16T00:00:00Z'
+  retrieved_at: '2026-10-23T15:15:38Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: e86cc64d0e1c140e02dca6b88998b99d1e5f53ca63333d0f1d0c8406eea02546
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: ea25655cd850fc7dca5bdf54e6d9d5f96ed50beaeee305ab789e4fdfdb8a545b
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:15:38Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Açores
+- Autarquia Local
+- Câmara Municipal
+- Comité das Regiões
+- Conselho da União Europeia
+- Lisboa
+- Madeira.região Autónoma
+- Mandato
+- Nomeação
+- Região Autónoma
 relationships:
 - type: amended_by
   target: pt:dre:115698903:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:106415322:por
+  label: Alterado, com efeitos a 05.01.2017, o n.º 2 da Res. 3/2015 de 13-jan, na redação da presente resolução, pelo(a) Resolução
+    do Conselho de Ministros n.º 27/2017 - Diário da República n.º 28/2017, Série I de 2017-02-08
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/resolucao-conselho-ministros/27-2017-106415322
+  date: '2017-02-08'
+- type: amended_by
+  target: pt:dre:115698903:por
+  label: Substituída, com efeitos a 05.07.2018, a composição do Comité das Regiões, fixada pela Res 3/2015 de 13-jan da PCM,
+    alterada pelo presente diploma, pelo(a) Resolução do Conselho de Ministros n.º 93/2018 - Diário da República n.º 135/2018,
+    Série I de 2018-07-16
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/resolucao-conselho-ministros/93-2018-115698903
+  date: '2018-07-16'
+- type: cites
+  target: pt:dre:66145313:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:66145339:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:15:38Z'
   warnings: []
   errors: []
 ---
@@ -157,3 +188,5 @@ l) [...].
 2 - Determinar que a presente resolução produz efeitos no dia da sua aprovação.
 
 7 de maio de 2015. - O Primeiro-Ministro, Pedro Passos Coelho.
+
+208644542

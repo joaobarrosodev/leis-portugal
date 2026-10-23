@@ -20,12 +20,12 @@ publication:
   reference: Diário da República n.º 122/2005, 1º Suplemento, Série I-B de 2005-06-28
   number: '122'
   series: I
-  supplement: 1º Suplemento
+  supplement: null
   pages: 4028-(2) a 4028-(7)
   pdf_url: https://files.diariodarepublica.pt/1s/2005/06/122b01/00020007.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/563-a/2005/06/28/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/563-a-2005-536063
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2025-03-27T00:00:00Z'
+  retrieved_at: '2026-10-23T15:07:06Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: bd249408580ceee1535cad71b0ab56ffd992f5e13104119fa74fcf2f0c248216
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 94f8f438d8f16100f1546201d93b64c9335be30c3438b0877b66dcb6872e9480
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:07:06Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,34 +67,34 @@ reuse:
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
 - Andorra
+- Anguila
 - Antilhas Holandesas
 - Aruba
-- Suíça
+- Benefícios Fiscais
 - Cobrança de Impostos
-- Política Fiscal
+- Contribuições e Impostos
 - Declaração de Rendimentos
-- União Europeia
-- Impresso
+- Documento Eletrónico
 - Guernsey
 - ILHA de MAN
+- Ilhas Caimão
 - Ilhas Turks e Caicos
 - Ilhas Virgens Britanicas
-- Contribuições e Impostos
+- Impresso
 - IRS
 - Jersey
 - Juros
-- Documento Eletrónico
+- Liechtenstein
 - Mónaco
 - Monserrate
 - Nacional das Comunidades
+- Política Fiscal
 - Poupança
-- Ilhas Caimão
-- Benefícios Fiscais
 - Residente no Estrangeiro
 - SAN Marino
+- Suíça
 - Tributação
-- Liechtenstein
-- Anguila
+- União Europeia
 relationships:
 - type: amended_by
   target: pt:dre:912653926:por
@@ -104,16 +104,22 @@ relationships:
   target: celex:32003L0048
   label: null
   source: http://data.europa.eu/eli/dir/2003/48/oj
+- type: repealed_by
+  target: pt:dre:912653926:por
+  label: Revogada, a partir de 1 de julho de 2025, pelo(a) Decreto-Lei n.º 49/2025 - Diário da República n.º 61/2025, Série
+    I de 2025-03-27
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/49-2025-912653926
+  date: '2025-03-27'
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:07:06Z'
   warnings: []
   errors: []
 ---
@@ -210,6 +216,6 @@ o) Ilhas Turks e Caicos;
 
 p) Ilhas Virgens Britânicas.
 
-**O Ministro de Estado e das Finanças, Luís Manuel Moreira de Campos e Cunha, em 20 de Junho de 2005.**
+O Ministro de Estado e das Finanças, Luís Manuel Moreira de Campos e Cunha, em 20 de Junho de 2005.
 
 [(ver modelos no documento original)](https://files.diariodarepublica.pt/1s/2005/06/122b01/00020007.pdf)

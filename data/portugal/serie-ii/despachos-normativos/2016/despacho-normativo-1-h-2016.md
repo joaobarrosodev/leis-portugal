@@ -21,12 +21,12 @@ publication:
   reference: Diário da República n.º 73/2016, 2º Suplemento, Série II de 2016-04-14
   number: '73'
   series: II
-  supplement: 2º Suplemento
+  supplement: null
   pages: 12314-(4) a 12314-(5)
   pdf_url: https://files.diariodarepublica.pt/2s/2016/04/073000002/0000400005.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -48,45 +48,110 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/despacho-normativo/1-h-2016-74163183
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2018-06-19T00:00:00Z'
+  retrieved_at: '2026-10-23T15:08:05Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 1532d01839225f7fc513b9740d82ecd5d015aaf06afd55293c823ce064e851a3
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 772865f14a0893ad801d145b9c44a35af3f3b6c39389b94c0ab046dec999d84f
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:08:05Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Definição de Competências
+- Direção Geral dos Estabelecimentos Escolares
+- Educação dos Adultos
+- Educação Pré-escolar
+- Ensino Básico
+- Ensino Secundário
+- Estabelecimento de Ensino
+- Fiscalização
+- Gestão Escolar
+- Matrícula
 relationships:
 - type: amended_by
   target: pt:dre:115552668:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:106888047:por
+  label: Alterados os arts. 6.º, 8.º, 9.º 19.º, 20.º e 22.º do DN n.º 7-B/2015, de 07-mai, na redação do presente diploma,
+    e republicado pelo(a) Despacho Normativo n.º 1-B/2017 - Diário da República n.º 75/2017, 1º Suplemento, Série II de 2017-04-17
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/despacho-normativo/1-b-2017-106888047
+  date: '2017-04-17'
+- type: cites
+  target: pt:dre:179057:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:488826:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:561219:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:66041468:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:67175402:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:67664945:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:70095687:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:73203129:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:73203130:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:115093805:por
+  label: Revogado, a partir de 13.04.2018, o DN 7-B/2015 de 07-mai, na redação do presente diploma, pelo(a) Despacho Normativo
+    n.º 6/2018 - Diário da República n.º 72/2018, Série II de 2018-04-12, que manteve, contudo, transitoriamente em vigor
+    nos termos do disposto no seu art. 20.º, os arts. 17.º a 23.º e 25.º daquele despacho.
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/despacho-normativo/6-2018-115093805
+  date: '2018-04-12'
+- type: repealed_by
+  target: pt:dre:115552668:por
+  label: Revogados, a partir de 20.06.2018. os arts. 17.º a 23.º e 25.º do DN 7-B/2015 de 07-maio, alterado pelo presente,
+    pelo(a) Despacho Normativo n.º 10-A/2018 - Diário da República n.º 116/2018, 1º Suplemento, Série II de 2018-06-19
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/despacho-normativo/10-a-2018-115552668
+  date: '2018-06-19'
 article_structure:
-  article_count: 10
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:08:05Z'
   warnings: []
   errors: []
 ---
 
-# Despacho Normativo n.º 1-H/2016
+# Despacho normativo n.º 1-H/2016
 
 O [Decreto-Lei n.º 176/2012](https://diariodarepublica.pt/dr/detalhe/decreto-lei/176-2012-179057), de 2 de agosto, que regula o regime de matrícula e de frequência no âmbito da escolaridade obrigatória das crianças e dos jovens entre os 6 e os 18 anos, determina no n.º 2 do artigo 12.º que a informação necessária ao controlo do cumprimento do dever de matrícula é disponibilizada pelos serviços centrais com competência na área da estatística da educação.
 
@@ -128,7 +193,9 @@ Ao abrigo do disposto no n.º 4 do artigo 7.º e no artigo 12.º do [Decreto-Lei
 
 9 - A frequência de estabelecimentos de ensino particular e cooperativo com contrato de associação, na parte do apoio financeiro outorgado pelo Estado, é a correspondente à área geográfica de implantação da oferta abrangida pelo respetivo contrato.
 
-###### Artigo 6.º — [...]
+Artigo 6.º
+
+[...]
 
 1 - O pedido de matrícula é apresentado via internet na aplicação informática disponível no Portal das Escolas [www.portaldasescolas.pt], com o recurso à autenticação através de cartão de cidadão.
 
@@ -160,7 +227,9 @@ Ao abrigo do disposto no n.º 4 do artigo 7.º e no artigo 12.º do [Decreto-Lei
 
 15 - No ato de matrícula, os estabelecimentos de educação e de ensino recolhem o número de identificação fiscal (NIF) de todas as crianças e jovens, no caso de o terem atribuído, e o número de identificação da segurança social (NISS) das crianças e jovens beneficiários da prestação social de abono de família que seja pago pela segurança social.
 
-###### Artigo 8.º — [...]
+Artigo 8.º
+
+[...]
 
 1 - Na educação pré-escolar, no ensino básico e no ensino secundário, em qualquer uma das suas ofertas educativas e sem prejuízo do número seguinte, a renovação de matrícula realiza-se automaticamente no estabelecimento de educação e de ensino frequentado pela criança ou pelo aluno no ano escolar anterior àquele em que se pretende inscrever, procedendo os serviços ao registo eletrónico da matrícula na aplicação informática disponível no Portal das Escolas [www.portaldasescolas.pt].
 
@@ -180,7 +249,9 @@ Ao abrigo do disposto no n.º 4 do artigo 7.º e no artigo 12.º do [Decreto-Lei
 
 9 - (Revogado.)
 
-###### Artigo 9.º — [...]
+Artigo 9.º
+
+[...]
 
 1 - Na educação pré-escolar, as vagas existentes em cada estabelecimento de educação, para matrícula ou renovação de matrícula, são preenchidas de acordo com as seguintes prioridades:
 
@@ -194,7 +265,9 @@ Ao abrigo do disposto no n.º 4 do artigo 7.º e no artigo 12.º do [Decreto-Lei
 
 3 - [...].
 
-###### Artigo 18.º — [...]
+Artigo 18.º
+
+[...]
 
 1 - [...].
 
@@ -202,7 +275,9 @@ Ao abrigo do disposto no n.º 4 do artigo 7.º e no artigo 12.º do [Decreto-Lei
 
 3 - A redução de grupo prevista no número anterior fica dependente do acompanhamento e permanência destas crianças no grupo em pelo menos 60 % do tempo curricular.
 
-###### Artigo 19.º — [...]
+Artigo 19.º
+
+[...]
 
 1 - [...].
 
@@ -214,7 +289,9 @@ Ao abrigo do disposto no n.º 4 do artigo 7.º e no artigo 12.º do [Decreto-Lei
 
 5 - A redução de turmas prevista no número anterior fica dependente do acompanhamento e permanência destes alunos na turma em pelo menos 60 % do tempo curricular.
 
-###### Artigo 20.º — [...]
+Artigo 20.º
+
+[...]
 
 1 - [...].
 
@@ -224,7 +301,9 @@ Ao abrigo do disposto no n.º 4 do artigo 7.º e no artigo 12.º do [Decreto-Lei
 
 4 - A redução de turmas prevista no número anterior fica dependente do acompanhamento e permanência destes alunos na turma em pelo menos 60 % do tempo curricular.
 
-###### Artigo 22.º — [...]
+Artigo 22.º
+
+[...]
 
 1 - [...].
 
@@ -236,7 +315,9 @@ Ao abrigo do disposto no n.º 4 do artigo 7.º e no artigo 12.º do [Decreto-Lei
 
 5 - A constituição ou a continuidade, a título excecional, de turmas com número superior ao estabelecido nos artigos 19.º a 21.º carece de autorização do conselho pedagógico, mediante análise de proposta fundamentada do diretor do estabelecimento de educação e de ensino.
 
-###### Artigo 23.º — [...]
+Artigo 23.º
+
+[...]
 
 1 - A definição do período de funcionamento dos estabelecimentos de educação e de ensino, incluindo atividades letivas e não letivas, deve ter sempre em consideração o número de turmas a acolher, sem prejuízo do disposto no n.º 4 do artigo 2.º da [Portaria n.º 644-A/2015](https://diariodarepublica.pt/dr/detalhe/portaria/644-a-2015-70095687), de 24 de agosto, nos casos da educação pré-escolar e do 1.º ciclo do ensino básico.
 
@@ -248,7 +329,9 @@ Ao abrigo do disposto no n.º 4 do artigo 7.º e no artigo 12.º do [Decreto-Lei
 
 5 - [...].
 
-###### Artigo 25.º — [...]
+Artigo 25.º
+
+[...]
 
 1 - [...].
 
@@ -256,7 +339,9 @@ Ao abrigo do disposto no n.º 4 do artigo 7.º e no artigo 12.º do [Decreto-Lei
 
 3 - Compete à Inspeção-Geral da Educação e Ciência, em articulação com a DGEstE, proceder à verificação do cumprimento, pelos estabelecimentos do ensino particular e cooperativo com contrato de associação, da respetiva área geográfica de implantação da oferta abrangida pelo contrato outorgado.
 
-###### Artigo 26.º — [...]
+Artigo 26.º
+
+[...]
 
 1 - O serviço do Ministério da Educação responsável pela gestão do Portal das Escolas disponibiliza, no referido portal [www.portaldasescolas.pt], um manual de utilização da aplicação informática para os efeitos previstos no presente despacho normativo do qual constará também o endereço eletrónico de contacto preferencial e a linha direta de helpdesk.
 
@@ -267,3 +352,5 @@ Ao abrigo do disposto no n.º 4 do artigo 7.º e no artigo 12.º do [Decreto-Lei
 3 - O presente despacho entra em vigor no dia seguinte ao da sua publicação.
 
 13 de abril de 2016. - A Secretária de Estado Adjunta e da Educação, Alexandra Ludomila Ribeiro Fernandes Leitão. - O Secretário de Estado da Educação, João Miguel Marques da Costa.
+
+209509339

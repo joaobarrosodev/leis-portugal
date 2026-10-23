@@ -48,18 +48,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/442/2006/05/10/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/442-2006-655340
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2007-06-06T00:00:00Z'
+  retrieved_at: '2026-10-23T15:14:09Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 054fa6ec3489582051f9003567c8f8c8dbeb4bf32a2fd7dca8e784a005031a8e
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 2870cd18cb553c8bc3eae3e21fbd34520be8e9b1de60d307e07620f2e187e23b
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:14:09Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,22 +67,28 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Financiamento
 - Campanha Vinícola
 - Definição de Competências
-- Projeto de Investimento
-- Instituto Nacional de Intervenção e Garantia Agrícola
+- Financiamento
+- Ifadap
 - Instituto da Vinha e do Vinho
+- Instituto Nacional de Intervenção e Garantia Agrícola
 - Política Agrícola Comum
+- Projeto de Investimento
 - Regime de Apoio
 - Regulamento CE
-- Ifadap
 - Vinha
 relationships:
 - type: amended_by
   target: pt:dre:638147:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:638147:por
+  label: "Alterado o nº 19º do presente diploma, com a redacção constante da Port 471/2007 de 18-Abr, pela PORT.691/2007.06.06.2007.MADRP,\
+    \ DR.IS [109] de 06.06.2007\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/691-2007-638147
+  date: '2007-06-06'
 - type: cites
   target: celex:31970R0729
   label: null
@@ -99,16 +105,30 @@ relationships:
   target: celex:32000R1227
   label: null
   source: http://data.europa.eu/eli/reg/2000/1227/oj
+- type: repealed_by
+  target: pt:dre:539217:por
+  label: "Revogada a al. c) do nº 8º e aditado o nº 12º-A ao presente diploma pela PORT.735/2006.25.07.2006.MADRP, DR.IS [142]\
+    \ de 25.07.2006, que mantém em vigor o período de recepção de candidaturas previsto no nº 14º deste diploma, até ao 15º\
+    \ dia contado da data de publicação da citada Portaria 735/2006 (09.08.2006) \0 \0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/735-2006-539217
+  date: '2006-07-25'
+- type: repealed_by
+  target: pt:dre:519417:por
+  label: "Revogado o presente diploma, sem prejuízo do cumprimento das obrigações dele decorrentes pelos beneficiários das\
+    \ candidaturas aprovadas ao abrigo das suas disposições, pela PORT.471/2007.18.04.2007.MADRP, DR.IS [76] de 18.04.2007\0\
+    \0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/471-2007-519417
+  date: '2007-04-18'
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:14:09Z'
   warnings: []
   errors: []
 ---
@@ -323,7 +343,7 @@ e) Às comissões vitivinícolas regionais (CVR) e às entidades certificadoras 
 
 31.º A presente portaria entra em vigor no dia seguinte ao da sua publicação.
 
-**O Ministro da Agricultura, do Desenvolvimento Rural e das Pescas, Jaime de Jesus Lopes Silva, em 20 de Abril de 2006.**
+O Ministro da Agricultura, do Desenvolvimento Rural e das Pescas, Jaime de Jesus Lopes Silva, em 20 de Abril de 2006.
 
 ## ANEXO I — (a que se refere o n.º 7.º)
 
@@ -373,7 +393,7 @@ iv) Construção de muros em gabião - (euro) 42,50/m2.
 
 2 - Plantação da vinha:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2006/05/090b00/33263330.pdf))](https://files.diariodarepublica.pt/1s/2006/05/090b00/33263330.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2006/05/090b00/33263330.pdf)
 
 3 - Os valores unitários da ajuda correspondentes à acção «Plantação da vinha» são reduzidos em 10% relativamente às áreas reestruturadas com base em direitos de replantação adquiridos por transferência e os de replantação emitidos antes de 1 de Agosto de 2000.
 
@@ -391,4 +411,4 @@ iv) Permitam a recuperação de parcelas instaladas na Região Demarcada do Dour
 
 ## ANEXO III — (a que se refere o n.º 17.º)
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2006/05/090b00/33263330.pdf))](https://files.diariodarepublica.pt/1s/2006/05/090b00/33263330.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2006/05/090b00/33263330.pdf)

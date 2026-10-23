@@ -19,12 +19,12 @@ publication:
   reference: Diário da República n.º 171/2014, 1º Suplemento, Série II de 2014-09-05
   number: '171'
   series: II
-  supplement: 1º Suplemento
+  supplement: null
   pages: 23252-(2) a 23252-(2)
   pdf_url: https://files.diariodarepublica.pt/2s/2014/09/171000001/0000200002.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -46,36 +46,63 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/resolucao/23-a-2014-56474685
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2014-09-05T00:00:00Z'
+  retrieved_at: '2026-10-23T15:15:22Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 2d0b4a6bf976a272f10a3973bba38fbd7349ebd129be4bbeefdef9169e75cd29
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: baa9a25e7838e59295cb3bc26f8feb5cd1a50a9f5a57b937ea321373a19a7142
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:15:22Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
-relationships: []
+subjects:
+- Administrador
+- Banco de Portugal
+- Nomeação
+relationships:
+- type: cites
+  target: pt:dre:164212:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:225375:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:314946:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:503027:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:517844:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:553879:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:15:22Z'
   warnings: []
   errors: []
 ---
@@ -147,3 +174,5 @@ Atividade Profissional:
 - Orador em várias conferências e seminários e autor de diversos artigos técnicos e científicos sobre reforma do Estado, administração pública, sistemas de proteção social, emissão monetária, planeamento estratégico e gestão de recursos humanos.
 
 - Foi Assistente Universitário no Instituto Superior de Gestão entre 1998 e 2003, no âmbito da Licenciatura em Gestão de Empresas e das Pós-Graduações em Fiscalidade e Assessoria de Empresa.
+
+208075233

@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/769/2006/08/07/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/769-2006-538633
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2013-11-29T00:00:00Z'
+  retrieved_at: '2026-10-23T15:16:10Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 52eb0f64282cca9efebd007fe3e4a87283d4a4028e83a20b917aa82642979b66
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 9e1b0b328bf250acee5b4f33cc6c6fa3bf8d5f77c11217e4e54b4e4850ce4d49
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:16:10Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,13 +66,36 @@ reuse:
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
 - Pesca
-- Regulamento
 - Pesca por ARTE de Arrasto
+- Regulamento
 relationships:
 - type: amended_by
   target: pt:dre:484165:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:541607:por
+  label: "Alterado o art. 2º do presente diploma, pela PORT.1067/2006.28.09.2006.MADRP, DR.IS [188] de 28.09.2006\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/1067-2006-541607
+  date: '2006-09-28'
+- type: amended_by
+  target: pt:dre:246303:por
+  label: "Alterado o art. 10º do Regulamento, na redacção do presente diploma (que republicou o Regulamento), pela PORT.254/2008.07.04.2008.MADRP,\
+    \ DR.IS [68] de 07.04.2008\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/254-2008-246303
+  date: '2008-04-07'
+- type: amended_by
+  target: pt:dre:287632:por
+  label: "Alterados os arts. 7.º e 10º do Regulamento da Pesca por Arte de Arrasto aprovado pela Port. n.º 1102-E/2000, de\
+    \ 22-Nov, na redacção do presente diploma, pela PORT.189/2011.10.05.2011.MADRP, DR.IS [90] de 10.05.2011\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/189-2011-287632
+  date: '2011-05-10'
+- type: amended_by
+  target: pt:dre:484165:por
+  label: "Alterado o art. 17º do Regulamento da Pesca por Arte de Arrasto, aprovado pela Port. 1102-E/2000, de 22-nov, na\
+    \ redação do presente diploma pela PORT.349/2013.29.11.2013.MAGM, DR.IS [232] de 29.11.2013\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/349-2013-484165
+  date: '2013-11-29'
 - type: cites
   target: celex:31998R0850
   label: null
@@ -82,15 +105,15 @@ relationships:
   label: null
   source: http://data.dre.pt/eli/port/1102-e/2000/11/22/p/dre
 article_structure:
-  article_count: 43
-  section_count: 3
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  article_count: 1
+  section_count: 0
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:16:10Z'
   warnings: []
   errors: []
 ---
@@ -133,7 +156,9 @@ Arrasto de fundo
 
 4 - O arrasto pelo fundo com portas é caracterizado por ser uma arte de arrasto em que a boca, provida de asas, se mantém aberta na horizontal pela acção de portas e na vertical por meio de flutuadores e lastros.
 
-###### Artigo 7.º — Classes de malhagens
+Artigo 7.º
+
+Classes de malhagens
 
 1 - Na zona económica exclusiva (ZEE) nacional é proibida a utilização de redes de arrasto, excepto nas seguintes condições:
 
@@ -143,7 +168,9 @@ b) ...
 
 ...
 
-###### Artigo 8.º — Áreas de exercício da pesca
+Artigo 8.º
+
+Áreas de exercício da pesca
 
 1 - A pesca com arte de arrasto não pode ser exercida a menos de 6 milhas da costa, com excepção:
 
@@ -155,7 +182,9 @@ b) Do arrasto de vara e das embarcações previstas no artigo 3.º do presente d
 
 3 - Às embarcações que, à data de entrada em vigor do presente diploma, se encontram registadas na Capitania de Cascais e licenciadas para arrasto de fundo com portas não se aplica o disposto no número anterior, podendo operar por fora da linha de base recta entre os cabos Raso e Espichel, mas nunca a menos de 6 milhas de distância à costa.
 
-###### Artigo 10.º — Licenciamento
+Artigo 10.º
+
+Licenciamento
 
 1 - ...
 
@@ -165,13 +194,17 @@ b) Do arrasto de vara e das embarcações previstas no artigo 3.º do presente d
 
 4 - As embarcações referidas no número anterior ficam obrigadas a dispor de equipamento de monitorização contínua e, bem assim, ao preenchimento do diário de pesca.
 
-###### Artigo 15.º — Limites operacionais
+Artigo 15.º
+
+Limites operacionais
 
 1 - ...
 
 2 - Os pescadores licenciados para ganchorra de mão apenas poderão exercer esta modalidade na área de jurisdição da capitania da respectiva residência e nas capitanias limítrofes.
 
-###### Artigo 17.º — Características da ganchorra rebocada por embarcação
+Artigo 17.º
+
+Características da ganchorra rebocada por embarcação
 
 1 - A largura máxima da boca da ganchorra não pode exceder 2 m quando utilizada na Zona Ocidental Norte e 1 m quando utilizada na Zona Ocidental Sul e na Zona Sul.
 
@@ -187,55 +220,81 @@ d) A largura máxima não pode exceder 1,5 m quando utilizada na Zona Ocidental 
 
 ...
 
-###### Artigo 19.º — Embarcações utilizadas na pesca com ganchorra
+Artigo 19.º
+
+Embarcações utilizadas na pesca com ganchorra
 
 1 - ...
 
 2 - Exceptuam-se do disposto no número anterior as embarcações que, à data de 31 de Dezembro de 1999, se encontravam autorizadas para a pesca com ganchorra, não podendo, contudo, relativamente às mesmas, verificar-se qualquer novo aumento de potência.
 
-###### Artigo 23.º — Espécies alvo
+Artigo 23.º
+
+Espécies alvo
 
 A pesca com a arte de arrasto de vara só pode ser exercida quando dirigida à captura de camarões-negros (Crangon spp.) e camarões das espécies Pandalus montagui e Palaemon spp.
 
-###### Artigo 29.º — Proibição de outras artes de pesca
+Artigo 29.º
+
+Proibição de outras artes de pesca
 
 Durante uma mesma viagem, as embarcações licenciadas para o exercício da pesca dirigida ao camarão não podem utilizar, nem ter a bordo, qualquer outra arte de pesca.
 
-## ANEXO — Classes de malhagens, espécies alvo e percentagens de captura exigidas
+ANEXO
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2006/08/15100/56215628.pdf))](https://files.diariodarepublica.pt/1s/2006/08/15100/56215628.pdf)
+Classes de malhagens, espécies alvo e percentagens de captura exigidas
 
-###### Artigo 2.º — Norma revogatória
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2006/08/15100/56215628.pdf)
+
+Artigo 2.º
+
+Norma revogatória
 
 São revogados o n.º 2 do artigo 13.º e o n.º 2 do artigo 20.º do Regulamento da Pesca por Arte de Arrasto, aprovado pela Portaria n.º 1102-E/2000, de 22 de Novembro, e o n.º 6.º da Portaria n.º 1142/2004, de 13 de Setembro.
 
-###### Artigo 3.º — Norma transitória
+Artigo 3.º
+
+Norma transitória
 
 O regime transitório previsto no artigo 30.º, n.os 2 e 3, do Regulamento da Pesca por Arte de Arrasto, aprovado pela Portaria n.º 1102-E/2000, com as alterações que lhe foram sendo sucessivamente feitas pelas Portarias n.os 419-B/2001 e 1423-B/2003, mantém-se em vigor até ao final do ano de 2007, retroagindo esta disposição a 1 de Janeiro de 2006.
 
-###### Artigo 4.º — Cartão de pescador apeado
+Artigo 4.º
+
+Cartão de pescador apeado
 
 A autorização para o exercício da pesca e utilização de artes sem auxílio de embarcação é titulada por cartão, nos moldes estabelecidos nos artigos 13.º e 14.º do Regulamento da Apanha, aprovado pela Portaria n.º 1102-B/2000, de 22 de Novembro, com as alterações introduzidas pela Portaria n.º 144/2006, de 20 de Fevereiro.
 
-###### Artigo 5.º — Publicação do Regulamento da Pesca por Arte de Arrasto
+Artigo 5.º
+
+Publicação do Regulamento da Pesca por Arte de Arrasto
 
 É publicado em anexo o Regulamento da Pesca por Arte de Arrasto, aprovado pela Portaria n.º 1102-E/2000, de 22 de Novembro, com as alterações que lhe foram introduzidas pelas Portarias n.os 419-B/2001, de 18 de Abril, e 1423-B/2003, de 31 de Dezembro, e pela presente portaria.
 
 Pelo Ministro da Agricultura, do Desenvolvimento Rural e das Pescas, Luís Medeiros Vieira, Secretário de Estado Adjunto, da Agricultura e das Pescas, em 17 de Julho de 2006.
 
-## ANEXO — REGULAMENTO DA PESCA POR ARTE DE ARRASTO
+ANEXO
 
-### CAPÍTULO I — Disposições gerais
+REGULAMENTO DA PESCA POR ARTE DE ARRASTO
 
-###### Artigo 1.º — Objecto
+CAPÍTULO I
+
+Disposições gerais
+
+Artigo 1.º
+
+Objecto
 
 O presente Regulamento estabelece o regime do exercício da pesca por arte de arrasto.
 
-###### Artigo 2.º — Definição da arte
+Artigo 2.º
+
+Definição da arte
 
 Por pesca por arte de arrasto entende-se qualquer método de pesca que utiliza estruturas rebocadas essencialmente compostas por bolsa, em geral grande, e podendo ser prolongada para os lados por «asas» relativamente pequenas.
 
-###### Artigo 3.º — Tipos
+Artigo 3.º
+
+Tipos
 
 A pesca com arte de arrasto pode ser exercida com artes que se integrem num dos seguintes grupos:
 
@@ -245,7 +304,9 @@ b) Arrasto de fundo;
 
 c) Arrasto pelágico.
 
-###### Artigo 4.º — Ganchorra
+Artigo 4.º
+
+Ganchorra
 
 1 - Por ganchorra entende-se a arte de arrasto pequena ou de média dimensão, sem asas, cuja boca é limitada por estrutura totalmente rígida e que se destina à captura de bivalves, os quais ficam retidos em grelha metálica ou saco de rede que se liga à boca.
 
@@ -253,7 +314,9 @@ c) Arrasto pelágico.
 
 3 - A ganchorra de mão é caracterizada por ser uma ganchorra de pequena dimensão destinada a operar por acção directa da mão humana, sem auxílio de embarcação e em zonas só acessíveis na baixa-mar.
 
-###### Artigo 5.º — Arrasto de fundo
+Artigo 5.º
+
+Arrasto de fundo
 
 1 - Por arrasto de fundo entende-se a arte de arrasto de média ou grande dimensão, sempre rebocada por embarcação, que se desloca sobre o fundo e em contacto com ele.
 
@@ -263,11 +326,15 @@ c) Arrasto pelágico.
 
 4 - O arrasto pelo fundo com portas é caracterizado por ser uma arte de arrasto em que a boca, provida de asas, se mantém aberta na horizontal pela acção de portas e na vertical por meio de flutuadores e lastros.
 
-###### Artigo 6.º — Arrasto pelágico
+Artigo 6.º
+
+Arrasto pelágico
 
 Por arrasto pelágico entende-se uma arte rebocada, normalmente de grande dimensão, operando a meia-água ou subsuperfície, não dispondo de protecção na sua estrutura que lhe permita contactos com o fundo sem sofrer avarias graves.
 
-###### Artigo 7.º — Classes de malhagens
+Artigo 7.º
+
+Classes de malhagens
 
 1 - Na zona económica exclusiva (ZEE) nacional é proibida a utilização de redes de arrasto, excepto nas seguintes condições:
 
@@ -283,7 +350,9 @@ b) A composição das capturas efectuadas com essa rede e mantidas a bordo deve 
 
 5 - O disposto neste artigo não se aplica à pesca com ganchorra.
 
-###### Artigo 8.º — Áreas de exercício da pesca
+Artigo 8.º
+
+Áreas de exercício da pesca
 
 1 - A pesca com arte de arrasto não pode ser exercida a menos de 6 milhas da costa, com excepção:
 
@@ -295,11 +364,15 @@ b) Do arrasto de vara e das embarcações previstas no artigo 3.º do presente d
 
 3 - Às embarcações que, à data de entrada em vigor do presente diploma, se encontram registadas na Capitania de Cascais e licenciadas para arrasto de fundo com portas não se aplica o disposto no número anterior, podendo operar por fora da linha de base recta entre os cabos Raso e Espichel, mas nunca a menos de 6 milhas de distância da costa.
 
-###### Artigo 9.º — Fixação de dispositivos às redes
+Artigo 9.º
+
+Fixação de dispositivos às redes
 
 De acordo com o artigo 16.º do Regulamento (CE) n.º [850/98](http://data.europa.eu/eli/reg/1998/850/oj?locale=pt), de 30 de Março, é proibida a fixação de dispositivos que possam obstruir as malhas de qualquer parte de uma rede ou grelha ou reduzir-lhe as dimensões.
 
-###### Artigo 10.º — Licenciamento
+Artigo 10.º
+
+Licenciamento
 
 1 - Sem prejuízo do disposto no número seguinte, as embarcações de arrasto só podem ser licenciadas para uma das classes de malhagem referidas no anexo do presente Regulamento.
 
@@ -309,9 +382,13 @@ De acordo com o artigo 16.º do Regulamento (CE) n.º [850/98](http://data.europ
 
 4 - As embarcações referidas no número anterior ficam obrigadas a dispor de equipamento de monitorização contínua e, bem assim, ao preenchimento do diário de pesca.
 
-### CAPÍTULO II — Pesca com ganchorra
+CAPÍTULO II
 
-###### Artigo 11.º — Zonas de operação
+Pesca com ganchorra
+
+Artigo 11.º
+
+Zonas de operação
 
 Para efeitos do exercício da pesca com ganchorra, as águas territoriais adjacentes ao continente são divididas nas seguintes zonas de operação:
 
@@ -321,13 +398,17 @@ b) Zona Ocidental Sul - delimitada a norte pelo paralelo que passa por Pedrógã
 
 c) Zona Sul - delimitada a norte pela linha de costa e pelo paralelo que passa pelo farol do cabo de São Vicente (37º 01' 17" N.), conforme aplicável, e a este pelos limites do mar territorial.
 
-###### Artigo 12.º — Limites interiores das zonas de operação
+Artigo 12.º
+
+Limites interiores das zonas de operação
 
 1 - O exercício da pesca com ganchorra rebocada por embarcação só é permitido em profundidades superiores a 2,5 m no momento.
 
 2 - Sem prejuízo do disposto no número anterior, a pesca com ganchorra rebocada por embarcação não pode ser exercida a menos de 300 m da linha da costa em áreas concessionadas durante a época balnear.
 
-###### Artigo 13.º — Contingentes
+Artigo 13.º
+
+Contingentes
 
 1 - Por portaria do membro do Governo responsável pelo sector das pescas serão fixados para cada zona de operação em função do estado dos recursos:
 
@@ -343,17 +424,23 @@ e) Outros condicionalismos específicos.
 
 2 - (Revogado.)
 
-###### Artigo 14.º — Outras artes autorizadas
+Artigo 14.º
+
+Outras artes autorizadas
 
 A utilização de quaisquer outras artes de pesca pelas embarcações licenciadas para o exercício da pesca com ganchorra só é permitida desde que para tanto licenciadas e apenas durante os períodos em que a pesca com ganchorra esteja interdita por motivos de conservação de recursos ou de protecção da saúde pública, com excepção dos aparelhos de anzol.
 
-###### Artigo 15.º — Limites operacionais
+Artigo 15.º
+
+Limites operacionais
 
 1 - As embarcações licenciadas para o exercício da pesca com ganchorra só podem exercer esta modalidade dentro dos limites da zona de operação em que se localize o respectivo porto de registo.
 
 2 - Os pescadores licenciados para ganchorra de mão apenas poderão exercer esta modalidade na área de jurisdição da capitania da respectiva residência e nas capitanias limítrofes.
 
-###### Artigo 16.º — Características da ganchorra de mão
+Artigo 16.º
+
+Características da ganchorra de mão
 
 1 - As características da boca da ganchorra de mão são as seguintes:
 
@@ -383,7 +470,9 @@ c) Rede - malhagem mínima de 25 mm.
 
 6 - A medição da malhagem referida nas alíneas b) e c) do n.º 3 é efectuada nos termos do n.º 2 do artigo 50.º do Decreto Regulamentar n.º 43/87, de 17 de Julho, na redacção dada pelo Decreto Regulamentar n.º 7/2000, de 30 de Maio.
 
-###### Artigo 17.º — Características da ganchorra rebocada por embarcação
+Artigo 17.º
+
+Características da ganchorra rebocada por embarcação
 
 1 - A largura máxima da boca da ganchorra não pode exceder 2 m quando utilizada na Zona Ocidental Norte e 1 m quando utilizada na Zona Ocidental Sul e na Zona Sul.
 
@@ -417,11 +506,15 @@ e) Largura máxima das estruturas elevatórias ou patins - 1,5 cm na parte anter
 
 f) O espaçamento entre barras é de 27 mm para a captura dirigida à ameijola, de 12 mm para a captura dirigida à amêijoa-branca e pé-de-burrinho, 8 mm para a captura dirigida à conquilha e 9 mm para a captura dirigida à navalha e longueirão, com uma tolerância de (mais ou menos) 0,5 mm, desde que, em média, em cada uma das faces da grelha não seja ultrapassado o valor aqui fixado para o espaçamento entre barras.
 
-###### Artigo 18.º — Medição da malhagem
+Artigo 18.º
+
+Medição da malhagem
 
 A determinação do vazio da malha ou retículo é feita nos termos do artigo 50.º do Decreto Regulamentar n.º 43/87, de 17 de Julho, na redacção dada pelo Decreto Regulamentar n.º 7/2000, de 30 de Maio.
 
-###### Artigo 19.º — Embarcações utilizadas na pesca com ganchorra
+Artigo 19.º
+
+Embarcações utilizadas na pesca com ganchorra
 
 1 - Só podem ser licenciadas para o exercício da pesca com ganchorra as embarcações registadas na pesca local ou costeira desde que não excedam os seguintes limites de potência:
 
@@ -433,13 +526,17 @@ c) Zona Sul - 73,5 kW.
 
 2 - Exceptuam-se do disposto no número anterior as embarcações que, à data de 31 de Dezembro de 1999, se encontravam autorizadas para a pesca com ganchorra, não podendo, contudo, relativamente às mesmas, verificar-se qualquer novo aumento de potência.
 
-###### Artigo 20.º — Número de ganchorras por embarcação
+Artigo 20.º
+
+Número de ganchorras por embarcação
 
 1 - As embarcações licenciadas para o exercício da pesca com ganchorra não podem operar simultaneamente com mais de duas daquelas artes.
 
 2 - (Revogado.)
 
-###### Artigo 21.º — Interdição do exercício da pesca
+Artigo 21.º
+
+Interdição do exercício da pesca
 
 1 - O período de interdição para captura de todas as espécies de moluscos bivalves e para todas as zonas de operação é fixado, por motivos biológicos, entre 1 de Maio e 15 de Junho de cada ano.
 
@@ -447,17 +544,25 @@ c) Zona Sul - 73,5 kW.
 
 3 - No período previsto no n.º 1, é permitido capturar até 5 kg diários de conquilha por pescador devidamente licenciado para utilização de ganchorra de mão.
 
-###### Artigo 22.º — Capturas interditas
+Artigo 22.º
+
+Capturas interditas
 
 Na pesca com ganchorra, caso sejam capturados peixes ou crustáceos, deverão ser imediatamente devolvidos ao mar.
 
-### CAPÍTULO III — Arrasto de vara
+CAPÍTULO III
 
-###### Artigo 23.º — Âmbito e espécies alvo
+Arrasto de vara
+
+Artigo 23.º
+
+Âmbito e espécies alvo
 
 A pesca com a arte de arrasto de vara só pode ser dirigida à captura de camarões-negros (Crangon spp.) e camarões das espécies Pandalus montagui e Palaemon spp.
 
-###### Artigo 24.º — Caracterização das artes
+Artigo 24.º
+
+Caracterização das artes
 
 A rede de arrasto de vara obedece às seguintes características:
 
@@ -467,13 +572,17 @@ b) Altura máxima do patim ou da abertura, na vertical, da boca da rede - 0,65 m
 
 c) (Revogada.)
 
-###### Artigo 25.º — Embarcações
+Artigo 25.º
+
+Embarcações
 
 1 - Só podem ser licenciadas para o uso da arte de arrasto de vara as embarcações que à data da entrada em vigor do presente diploma possuam licença para o uso de redes camaroeiras ou de pilado.
 
 2 - A potência motriz máxima das embarcações que utilizam a arte de arrasto de vara é fixada em 56 kW, com excepção das embarcações referidas no número anterior que, embora possuindo potência superior, já vinham sendo licenciadas, não podendo, contudo, relativamente às mesmas, verificar-se qualquer novo aumento.
 
-###### Artigo 26.º — Área de actuação
+Artigo 26.º
+
+Área de actuação
 
 1 - Sem prejuízo do disposto no número seguinte, a pesca com redes de arrasto de vara só pode ser exercida nas áreas de jurisdição das capitanias dos portos de Caminha à Figueira da Foz e até à distância de 1,5 milhas da costa.
 
@@ -481,21 +590,29 @@ c) (Revogada.)
 
 3 - Poderão ser fixadas outras áreas ou períodos de interdição da actividade com esta arte, por despacho do membro do Governo responsável pelo sector das pescas, tendo em conta as informações científicas disponíveis sobre o estado e a evolução dos recursos biológicos.
 
-###### Artigo 27.º — Período hábil de pesca
+Artigo 27.º
+
+Período hábil de pesca
 
 1 - A pesca com rede de arrasto de vara com classe de malhagem de 20 mm a 31 mm só pode ser exercida de 1 de Outubro a 31 de Março.
 
 2 - A pesca com rede de arrasto de vara com classe de malhagem de 32 mm a 54 mm só pode ser exercida de 1 de Julho a 31 de Maio.
 
-###### Artigo 28.º — Licenciamento
+Artigo 28.º
+
+Licenciamento
 
 Só podem ser licenciadas para a pesca com arrasto de vara, com uma das classes de malhagem referidas no anexo (20 mm a 31 mm ou 32 mm a 54 mm), embarcações de pesca que não disponham cumulativamente de licença para armadilhas destinadas à captura de camarão-branco-legítimo ou rede de levantar «sombreira».
 
-###### Artigo 29.º — Proibição de outras artes de pesca
+Artigo 29.º
+
+Proibição de outras artes de pesca
 
 Durante uma mesma viagem, as embarcações licenciadas para o exercício da pesca dirigida ao camarão não podem utilizar, nem ter a bordo, qualquer outra arte de pesca.
 
-###### Artigo 30.º — Disposições transitórias
+Artigo 30.º
+
+Disposições transitórias
 
 1 - As embarcações que, à data da entrada em vigor do presente diploma, utilizem redes de arrasto de vara ou redes camaroeiras ou do pilado, com portas, com características distintas das referidas no artigo 24.º deverão, até ao final do ano 2001, realizar as necessárias adaptações de modo a darem cumprimento àquele, com excepção das embarcações referidas no número seguinte.
 
@@ -505,6 +622,8 @@ Durante uma mesma viagem, as embarcações licenciadas para o exercício da pesc
 
 4 - O prazo referido no n.º 2 poderá ser antecipado caso imperativos de conservação dos recursos assim o determinem.
 
-## ANEXO — Classes de malhagens, espécies alvo e percentagens de captura exigidas
+ANEXO
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2006/08/15100/56215628.pdf))](https://files.diariodarepublica.pt/1s/2006/08/15100/56215628.pdf)
+Classes de malhagens, espécies alvo e percentagens de captura exigidas
+
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2006/08/15100/56215628.pdf)

@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/2s/2014/11/218000000/2834228342.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -46,36 +46,66 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/resolucao/31-2014-58827976
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2014-11-11T00:00:00Z'
+  retrieved_at: '2026-10-23T15:15:24Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 94456203eed92c5562e0072339793def2e241ef7f6c3088bc1279e9d54f34773
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: d39bafeebc2f8df5c8b9ab579d609a74775cd4ec6eb13f7062a63b08dadaa6c4
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:15:24Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
-relationships: []
+subjects:
+- Castelo de Paiva
+- Esposende
+- Estarreja
+- Figueira de Castelo Rodrigo
+- Fundão
+- Idanha-a-nova
+- Lousada
+- MAIA
+- Olhão
+- Oliveira de Azeméis
+- Ordenamento do Território
+- Plano de Emergência
+- Plano Muncipal de Emergência de Protecção Civil
+- Prazo
+- Proteção Civil
+- são JOÃO da Madeira
+- Sertã
+- Setúbal
+- Terras de Bouro
+- VILA do Conde
+- VILA NOVA de Famalicão
+- VILA NOVA de Poiares
+relationships:
+- type: cites
+  target: pt:dre:3086255:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:537862:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:15:24Z'
   warnings: []
   errors: []
 ---
@@ -93,3 +123,5 @@ Assim, nos termos da citada norma da Lei de Bases de Proteção Civil, e no resp
 2 - Aprovar os Planos Municipais de Emergência de Proteção Civil de Castelo de Paiva, Esposende, Estarreja, Fundão, Idanha-a-Nova, Maia, São João da Madeira, Terras de Bouro e Vila do Conde, com a recomendação que os mesmos sejam revistos no prazo máximo de 1 ano.
 
 28 de julho de 2014. - Pelo Presidente da Comissão Nacional de Proteção Civil, João Pinho de Almeida.
+
+208209337

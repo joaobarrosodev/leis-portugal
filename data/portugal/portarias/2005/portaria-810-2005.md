@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2005/09/174b00/55055506.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/810/2005/09/09/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/810-2005-142347
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2008-03-04T00:00:00Z'
+  retrieved_at: '2026-10-23T15:08:33Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: d9378bb16d84dbb5a839868595bd2738fe2bae54961ab697dab63e623a5dbfb9
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: c820b822d802579e3e43b89fcf3cc4a99f8be984c4ee39716d859851d41c2eeb
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:08:33Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,21 +66,21 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Processo Declarativo
-- Processo Civil
+- Cobrança de Dívidas
 - Código das Custas Judiciais
 - Contrato
-- Impresso
-- Pagamento
-- Injunção
-- Execução de Sentença
-- Titulo Executivo
-- Cobrança de Dívidas
-- Regime Jurídico
-- Execução por Dívidas
-- Processo de Execução
-- Secretaria Judicial
 - Custas Judiciais
+- Execução de Sentença
+- Execução por Dívidas
+- Impresso
+- Injunção
+- Pagamento
+- Processo Civil
+- Processo de Execução
+- Processo Declarativo
+- Regime Jurídico
+- Secretaria Judicial
+- Titulo Executivo
 - Transacção Comercial
 - Tribunal da Relação
 relationships:
@@ -88,6 +88,11 @@ relationships:
   target: pt:dre:482157:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:443142:por
+  label: "Alterado o art. 1º pela PORT.728-A/2006.24.07.2006.MJ, DR.IS [141-Supl] de 24.07.2006\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/728-a-2006-443142
+  date: '2006-07-24'
 - type: cites
   target: eli:http://data.dre.pt/el
   label: null
@@ -128,16 +133,73 @@ relationships:
   target: eli:http://data.dre.pt/eli/declrectif/16-a/1998/09/30/p/dre
   label: null
   source: http://data.dre.pt/eli/declrectif/16-a/1998/09/30/p/dre
+- type: cites
+  target: pt:dre:189484:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:216094:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:216097:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:220944:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:233745:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:243102:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:339847:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:424101:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:513628:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:540216:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:556239:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:566629:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:569313:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:482157:por
+  label: "Revogada a partir de 05.03.2008 pela PORT.220-A/2008.04.03.2008.MFAP, DR.IS [45-Supl] de 04.03.2008\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/220-a-2008-482157
+  date: '2008-03-04'
 article_structure:
   article_count: 5
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:08:33Z'
   warnings: []
   errors: []
 ---
@@ -176,6 +238,6 @@ São revogados a [Portaria n.º 233/2003](https://diariodarepublica.pt/dr/detalh
 
 A presente portaria entra em vigor no dia 15 de Setembro de 2005.
 
-**O Ministro da Justiça, Alberto Bernardes Costa, em 1 de Setembro de 2005.**
+O Ministro da Justiça, Alberto Bernardes Costa, em 1 de Setembro de 2005.
 
 ## ANEXO — [(ver modelo no documento original)](https://files.diariodarepublica.pt/1s/2005/09/174b00/55055506.pdf)

@@ -26,7 +26,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2005/01/015b00/05240527.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -48,18 +48,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/58/2005/01/21/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/58-2005-625413
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2011-07-27T00:00:00Z'
+  retrieved_at: '2026-10-23T15:07:12Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: c1c73206d5394845ac92dcbd3b588edf3355d9acff43c7c468b899e1a26cc70d
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 83f258fd56d1f42f2b8ff6f4df50347033bea4cfda022ae9acd695f5ce64216e
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:07:12Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,14 +67,14 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Equipamento de Elevação
 - Certificado de Aptidão Profissional
-- Instituto do Emprego e Formação Profissional
-- Diploma
-- Curso Profissional
-- Material de Obras Públicas
-- Homologação
 - Condutor
+- Curso Profissional
+- Diploma
+- Equipamento de Elevação
+- Homologação
+- Instituto do Emprego e Formação Profissional
+- Material de Obras Públicas
 - Obras Públicas
 - Qualificação Profissional
 relationships:
@@ -86,16 +86,27 @@ relationships:
   target: celex:31985D0368
   label: null
   source: http://data.europa.eu/eli/dec/1985/368/oj
+- type: corrected_by
+  target: pt:dre:579099:por
+  label: "Rectificada pela DECL-RECT.23/2005.07.03.2005.PCM, DR.IS-B [57] de 22.03.2005\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/declaracao-rectificacao/23-2005-579099
+  date: '2005-03-07'
+- type: repealed_by
+  target: pt:dre:669541:por
+  label: "Revogada a presente portaria, com produção de efeitos a 30.10.2011, rectificada pela Decl Rect 23/2005, de 22-Mar,\
+    \ pelo DEC LEI.92/2011.27.07.2011.MTSSO, DR.IS [143] de 27.07.2011\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/92-2011-669541
+  date: '2011-07-27'
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:07:12Z'
   warnings: []
   errors: []
 ---
@@ -388,6 +399,6 @@ Entrada em vigor
 
 A presente portaria entra em vigor decorridos 90 dias após a data da sua publicação.
 
-**O Secretário de Estado Adjunto e do Trabalho, Luís Miguel Pais Antunes, em 9 de Dezembro de 2004.**
+O Secretário de Estado Adjunto e do Trabalho, Luís Miguel Pais Antunes, em 9 de Dezembro de 2004.
 
 ## ANEXO — [(ver modelo no documento original)](https://files.diariodarepublica.pt/1s/2005/01/015b00/05240527.pdf)

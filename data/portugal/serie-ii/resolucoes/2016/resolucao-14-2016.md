@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/2s/2016/06/108000000/1778117782.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -47,36 +47,93 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/resolucao/14-2016-74612745
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2016-06-06T00:00:00Z'
+  retrieved_at: '2026-10-23T15:15:49Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 322ecb3cb866d57534273ff8bdd7651f47218e1ab332815e0c5c99c93ee0aacf
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 892de97e4c3f12eb3228e3927b804b1874334661a8a6c7a5957a9970e80979f7
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:15:49Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
-relationships: []
+subjects:
+- Conselho de Administração
+- Hospital do Professor Doutor Fernando da Fonseca
+- Nomeação
+- Presidente
+- Vogal
+relationships:
+- type: cites
+  target: pt:dre:191077:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:452762:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:469067:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:498125:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:498720:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:500215:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:520259:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:542993:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:544415:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:553924:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:57701290:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:66325236:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:70139963:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:15:49Z'
   warnings: []
   errors: []
 ---
@@ -124,3 +181,5 @@ A contratualização nos serviços de saúde ACSS/APDH (2013); New Frontiers for
 Experiência profissional em administração hospitalar: 2014 a 2016: Vogal do conselho de administração do Instituto de Oftalmologia Dr. Gama Pinto; de 2013 a 2014 - administradora hospitalar no Centro Hospitalar de Lisboa Ocidental; de 2010 a 2013 - vogal do conselho de administração do Centro Hospitalar de Lisboa Norte; de 2006 a 2010 - Administração Regional de Saúde de Lisboa e Vale do Tejo; de 2008 a 2010 - coordenadora da equipa de projeto «Parcerias Público Privadas» da ARSLVT para o acompanhamento dos novos hospitais de Lisboa: Todos-os-Santos, IPO Lisboa, Loures, Seixal, Cascais e Vila Franca de Xira; de 2006 a 2008 - assessora do conselho de administração da ARSLVT e colaboradora da Agência de Contratualização dos Serviços de Saúde da ARSLVT; de 1999 a 2006 - administradora hospitalar no Instituto Português de Oncologia de Lisboa de Francisco Gentil (IPOLFG); de 1998 a 1999 - administradora hospitalar no Hospital Curry Cabral; de 1994 a 1998 - administradora hospitalar no Hospital Dr. Fernando Fonseca (Amadora-Sintra).
 
 Outra atividade profissional: membro da Comissão Científica do Prémio Boas Práticas em Saúde (2013 e 2014); membro da Comissão Nacional para a Redução da Taxa de Cesarianas (2013); formadora em Gestão Hospitalar, no curso de Engenharia Biomédica (IST) e no curso de Medicina (FML); coordenadora do Grupo de Trabalho para a definição do programa funcional do Hospital do Seixal (2009); coordenadora do Grupo de Trabalho para a definição do perfil e dimensionamento do Hospital do Seixal (2008); integrou o Grupo de Trabalho para a construção do manual de elaboração de planos funcionais de hospitais de alta resolução (2006); membro do Grupo de Trabalho referente à gestão de informação no âmbito da acreditação do Instituto pela Joint Commission International (IPOLFG 2005); coordenadora do Grupo de Trabalho para a implementação do PACS (Arquitetura de Comunicação e Arquivo de Imagens Digitais) (IPOLFG 2005).
+
+209632694

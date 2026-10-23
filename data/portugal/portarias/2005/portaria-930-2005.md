@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/930/2005/09/28/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/930-2005-149662
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2005-09-28T00:00:00Z'
+  retrieved_at: '2026-10-23T15:09:13Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: dc0d97f54697853bc22637c58898bce8cd027346a55f8f7034158e35112b77f7
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: d3719d065d81757efc8af9bc2fb28f7d9214daaf621ca550741298e4bf30120c
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:09:13Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,25 +66,29 @@ reuse:
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
 - Especificação Técnica
-- Veículo
 - Trabalhador Rural
 - Transporte de Mercadorias
 - Transporte de Passageiros
+- Veículo
 relationships:
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/221/2004/11/18/p/dre
   label: null
   source: http://data.dre.pt/eli/dec-lei/221/2004/11/18/p/dre
+- type: cites
+  target: pt:dre:531385:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:09:13Z'
   warnings: []
   errors: []
 ---

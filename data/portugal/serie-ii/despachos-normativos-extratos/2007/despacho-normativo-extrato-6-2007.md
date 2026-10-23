@@ -46,41 +46,57 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/despacho-normativo-extracto/6-2007-2375073
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2007-01-12T00:00:00Z'
+  retrieved_at: '2026-10-23T15:09:20Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 9e5e52db3069f106b7eaec9378c658bc5b5c6e9834184944071b4ba1b0538a89
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: cce3b3074200a765c4b5be27bfa1cb408e19a9f0ec709d9558d2914d43c01330
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:09:20Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
-relationships: []
+subjects:
+- Estatuto
+- Évora
+- Universidade
+- Universidade de Évora
+relationships:
+- type: cites
+  target: pt:dre:228606:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:355494:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:547017:por
+  label: null
+  source: null
 article_structure:
   article_count: 77
-  section_count: 15
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  section_count: 13
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:09:20Z'
   warnings: []
   errors: []
 ---
 
-# Despacho Normativo (extracto) n.º 6/2007
+# Despacho normativo (extracto) n.º 6/2007
 
 Considerando os Estatutos da Universidade de Évora, homologados pelo [Despacho Normativo n.º 84/89](https://diariodarepublica.pt/dr/detalhe/despacho-normativo/84-1989-547017), de 31 de Agosto;
 
@@ -426,7 +442,9 @@ o) Ocupar-se dos restantes assuntos que lhe forem cometidos por lei, pelos prese
 
 5 - Podem participar nas reuniões do senado, sem direito a voto, elementos a ele estranhos, nos termos do respectivo regimento.
 
-###### Artigo 19.º — Secção Disciplinar
+###### Artigo 19.º
+
+#### Secção Disciplinar
 
 1 - Para efeitos de exercício do poder disciplinar é constituída uma secção permanente do senado universitário.
 
@@ -1224,11 +1242,11 @@ c) A Divisão de Gestão de Contratos. Esta divisão inclui um sector de apoio �
 
 a) A Divisão de Estudos Graduados, integrando as seguintes secções:
 
-#### Secção de Matrículas, Inscrições e Mobilidade;
+Secção de Matrículas, Inscrições e Mobilidade;
 
-#### Secção de Registo e Certificação Escolares;
+Secção de Registo e Certificação Escolares;
 
-#### Secção de Serviços Gerais e Arquivo.
+Secção de Serviços Gerais e Arquivo.
 
 b) A Divisão de Estudos Pós-graduados;
 
@@ -1384,7 +1402,7 @@ Os presentes Estatutos entram em vigor no dia imediato ao da sua publicação em
 
 ## ANEXO I — Modelo do emblema e selo da Universidade a que se refere o artigo 4.º
 
-[([ver documento original](https://files.diariodarepublica.pt/2s/2007/01/009000000/0102801039.pdf))](https://files.diariodarepublica.pt/2s/2007/01/009000000/0102801039.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/2s/2007/01/009000000/0102801039.pdf)
 
 ## ANEXO II
 
@@ -1392,14 +1410,14 @@ Modelo do traje académico da Universidade,
 
 a que se refere o artigo 5.º
 
-[([ver documento original](https://files.diariodarepublica.pt/2s/2007/01/009000000/0102801039.pdf))](https://files.diariodarepublica.pt/2s/2007/01/009000000/0102801039.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/2s/2007/01/009000000/0102801039.pdf)
 
 Insígnia da Universidade
 
 Cordão simples
 
-[([ver documento original](https://files.diariodarepublica.pt/2s/2007/01/009000000/0102801039.pdf))](https://files.diariodarepublica.pt/2s/2007/01/009000000/0102801039.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/2s/2007/01/009000000/0102801039.pdf)
 
 Cordão duplo
 
-[([ver documento original](https://files.diariodarepublica.pt/2s/2007/01/009000000/0102801039.pdf))](https://files.diariodarepublica.pt/2s/2007/01/009000000/0102801039.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/2s/2007/01/009000000/0102801039.pdf)

@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/429/2006/05/03/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/429-2006-660325
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2006-05-03T00:00:00Z'
+  retrieved_at: '2026-10-23T15:14:04Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: b4786f236adb45e26c0fa9b579946ca93d4a233a4ce4e98a2a2c8b41c63346b9
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: a5feb181e5bccef95711ba46635f0e5a445ed71d98ffacd67d894882eb4c4553
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:14:04Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -68,20 +68,28 @@ reuse:
 subjects:
 - Código do IRS
 - Desvalorização da Moeda
+- IRC
 - IRS
 - Moeda
-- IRC
-relationships: []
+relationships:
+- type: cites
+  target: pt:dre:518992:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:519003:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:14:04Z'
   warnings: []
   errors: []
 ---
@@ -96,10 +104,10 @@ Assim:
 
 Manda o Governo, pelo Secretário de Estado dos Assuntos Fiscais, que os coeficientes de desvalorização da moeda a aplicar aos bens e direitos alienados durante o ano de 2006 cujo valor deva ser actualizado nos termos dos artigos 44.º do CIRC e 50.º do CIRS, para efeitos de determinação da matéria colectável dos referidos impostos, sejam os constantes do quadro anexo.
 
-**O Secretário de Estado dos Assuntos Fiscais, João José Amaral Tomaz, em 5 de Abril de 2006.**
+O Secretário de Estado dos Assuntos Fiscais, João José Amaral Tomaz, em 5 de Abril de 2006.
 
 ## ANEXO
 
 Quadro de actualização dos coeficientes de desvalorização da moeda a que se referem os artigos 44.º do CIRC e 50.º do CIRS.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2006/05/085b00/32103210.pdf))](https://files.diariodarepublica.pt/1s/2006/05/085b00/32103210.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2006/05/085b00/32103210.pdf)

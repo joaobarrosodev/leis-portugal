@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/2s/2021/10/202000000/0001500022.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -47,36 +47,58 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/despacho-normativo/26-2021-172942287
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2021-10-18T00:00:00Z'
+  retrieved_at: '2026-10-23T15:08:53Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: aa813faf3f272717875fdeaeba355ef6645a773df60221a1d91e6c739b6b047b
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 73dc5a330a17ce392bbce323c175da2cdfce8ddc23fd9fd209137a54ee75659b
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:08:53Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
-relationships: []
+subjects:
+- Definição de Competências
+- Dotação Orçamental
+- Estratégia para o Turismo 2027
+- Instituto de Turismo de Portugal
+- Página na Internet
+- Plano Reativar o Turismo | Construir o Futuro
+- Projeto
+- Regulamentação de Atos Legislativos
+- Subsídio não Reembolsável
+- Turismo
+relationships:
+- type: cites
+  target: pt:dre:105652694:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:127648461:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:165228578:por
+  label: null
+  source: null
 article_structure:
   article_count: 16
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:08:53Z'
   warnings: []
   errors: []
 ---
@@ -219,7 +241,7 @@ b) Eventos enquadráveis na alínea b) do n.º 1 do artigo 4.º: 50 % do respeti
 
 c) Nos eventos enquadráveis na alínea c) do n.º 1 do artigo 4.º: o valor base do apoio a conceder é aferido pelo enquadramento do projeto num dos escalões da seguinte matriz, em função do número de dormidas por ele geradas, a suportar em 75 % pelo Turismo de Portugal, I. P., e em 25 % pelas entidades referidas no n.º 2 do artigo 5.º, sempre que, em relação a esta última parte, se tratem de candidaturas por estas apresentadas ou que destas tenham obtido o parecer positivo a que se refere o n.º 3 do artigo 11.º:
 
-[([ver documento original](https://files.diariodarepublica.pt/2s/2021/10/202000000/0001500022.pdf))](https://files.diariodarepublica.pt/2s/2021/10/202000000/0001500022.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/2s/2021/10/202000000/0001500022.pdf)
 
 3 - O valor base do apoio referido na alínea c) do número anterior pode ser acrescido das seguintes majorações, a suportar exclusivamente pelo Turismo de Portugal, I. P.:
 
@@ -368,3 +390,5 @@ c) No âmbito da verificação física dos projetos, é conferida ao Turismo de 
 O presente despacho entra em vigor no dia seguinte ao da sua publicação.
 
 11 de outubro de 2021. - A Secretária de Estado do Turismo, Rita Baptista Marques.
+
+314642243

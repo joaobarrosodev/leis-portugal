@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/2s/2019/09/178000000/0008100083.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -46,40 +46,78 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/despacho-normativo/21-2019-124750394
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2019-09-17T00:00:00Z'
+  retrieved_at: '2026-10-23T15:08:33Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 8bc11979ac97a72c0e86a326ccb9204f588962f972ee1acb129b45a96984b7a2
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: a2ff6b2ad84eb3acb946e961599c7575a3575d3c5db5849cb7f936848dcf6fce
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:08:33Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Construção Civil
+- Definição de Competências
+- Edifício Público
+- Eurocódigo Estrutural
+- Indústria da Construção
+- Laboratório Nacional de Engenharia Civil
+- Licenciamento de Obras
+- Normalização
+- Obras de Conservação e Restauro
+- Obras Particulares
+- Obras Públicas
+- Prédio Urbano
+- Reabilitação
+- Regulamento Geral das Edificações Urbanas
+- Renovação Urbana
+- Segurança dos Edifícios
+- Sismo
+- Urbanismo
 relationships:
+- type: amended_by
+  target: pt:dre:128277202:por
+  label: Divulgadas as alterações às normas mencionadas nos Anexos I, II e III pelo(a) Aviso n.º 963/2020 - Diário da República
+    n.º 13/2020, Série II de 2020-01-20
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/aviso/963-2020-128277202
+  date: '2020-01-20'
+- type: amended_by
+  target: pt:dre:181454177:por
+  label: Divulgada a alteração à norma mencionada no Anexo I, pelo(a) Aviso n.º 6653/2022 - Diário da República n.º 64/2022,
+    Série II de 2022-03-31
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/aviso/6653-2022-181454177
+  date: '2022-03-31'
 - type: cites
   target: celex:32011R0305
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:123279819:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:500018:por
   label: null
   source: null
 article_structure:
   article_count: 7
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:08:33Z'
   warnings: []
   errors: []
 ---
@@ -191,3 +229,5 @@ d) NP EN 1993-1-8:2010 - Eurocódigo 3 - Projeto de estruturas de aço - Parte 1
 e) NP EN 1993-1-9:2010 - Eurocódigo 3 - Projeto de estruturas de aço - Parte 1-9: Fadiga;
 
 f) NP EN 1993-1-10:2010 - Eurocódigo 3: Projeto de estruturas de aço - Parte 1-10: Tenacidade dos materiais e propriedades segundo a espessura.
+
+312571462

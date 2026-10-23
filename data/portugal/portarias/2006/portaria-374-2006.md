@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/374/2006/04/18/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/374-2006-650280
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2006-11-20T00:00:00Z'
+  retrieved_at: '2026-10-23T15:13:42Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 6accdc42da1f0da2c94ced687f60bcdd35bdad47a04a04c2874b9f59dd9a8324
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: b4dfcb648769b0a821c4b8a901406f721f08b458bba46f17c39a00cac23c2110
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:13:42Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -74,6 +74,12 @@ relationships:
   target: pt:dre:544978:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:544978:por
+  label: "Excluídos vários prédios rústicos da zona de caça criada pela Port 996/2005, de 06-Out e alterada no presente diploma,\
+    \ pela PORT.1261/2006.20.11.2006.MADRP, DR.IS [223] de 20.11.2006\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/1261-2006-544978
+  date: '2006-11-20'
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/201/2005/11/24/p/dre
   label: null
@@ -86,16 +92,28 @@ relationships:
   target: eli:http://data.dre.pt/eli/port/996/2005/10/06/p/dre
   label: null
   source: http://data.dre.pt/eli/port/996/2005/10/06/p/dre
+- type: cites
+  target: pt:dre:157803:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:480704:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:481498:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:13:42Z'
   warnings: []
   errors: []
 ---
@@ -116,4 +134,4 @@ Com fundamento no disposto nos n.os 1 e 2 do artigo 57.º e na alínea c) do art
 
 Pelo Ministro da Agricultura, do Desenvolvimento Rural e das Pescas, Rui Nobre Gonçalves, Secretário de Estado do Desenvolvimento Rural e das Florestas, em 28 de Março de 2006.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2006/04/076b00/28142814.pdf))](https://files.diariodarepublica.pt/1s/2006/04/076b00/28142814.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2006/04/076b00/28142814.pdf)

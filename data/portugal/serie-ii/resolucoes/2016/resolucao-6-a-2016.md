@@ -19,12 +19,12 @@ publication:
   reference: Diário da República n.º 49/2016, 1º Suplemento, Série II de 2016-03-10
   number: '49'
   series: II
-  supplement: 1º Suplemento
+  supplement: null
   pages: 8660-(2) a 8660-(3)
   pdf_url: https://files.diariodarepublica.pt/2s/2016/03/049000001/0000200003.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -46,18 +46,18 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/resolucao/6-a-2016-73833506
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2016-03-10T00:00:00Z'
+  retrieved_at: '2026-10-23T15:16:02Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: b66bd3e272408366485a382bab740379fb593069552e8e429c1b8f3439582ac4
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 30ba9e030369bb560cc35022e65915efa7429a3b32eb95db7c4615f77905401c
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:16:02Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -65,17 +65,65 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects: []
-relationships: []
+relationships:
+- type: cites
+  target: pt:dre:191077:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:469067:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:498125:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:498720:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:500215:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:520259:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:542993:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:544415:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:553924:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:57701290:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:66325236:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:70139963:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:16:02Z'
   warnings: []
   errors: []
 ---
@@ -189,3 +237,5 @@ Coordenadora da Sala de Emergência «Trauma Room», do Hospital S. José, de 19
 Outras atividades
 
 Membro de vários júris de concursos de pessoal; Membro de várias comissões técnicas e grupos de trabalho no Hospital S. José e noutras Instituições. Formadora em vários cursos de formação profissional, promovidos por Hospitais, CS e ESE (nas áreas de: Qualidade dos Cuidados, Sistemas de Informação em Enfermagem, Padrões de Qualidade dos Cuidados de Enfermagem, Gestão de Serviços). Presidente da Comissão de Especialidade em Enfermagem Médico-Cirúrgica e Membro do Conselho de Enfermagem da Ordem dos Enfermeiros, de 1999 a 2004.
+
+209424418

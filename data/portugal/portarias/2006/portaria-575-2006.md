@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2006/06/116b00/43344336.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/575/2006/06/19/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/575-2006-345171
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2022-01-20T00:00:00Z'
+  retrieved_at: '2026-10-23T15:14:57Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 5bcef8219ada8477cbd15b55bd0a755d7cab1338f2d98d1570380beef2aa39cd
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 36023f682e714224895e9a9b015cec687647b7b5c4b6962bab526581c5820418
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:14:57Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -77,16 +77,34 @@ relationships:
   target: eli:http://data.dre.pt/eli/decregul/7/2000/05/30/p/dre
   label: null
   source: http://data.dre.pt/eli/decregul/7/2000/05/30/p/dre
+- type: cites
+  target: pt:dre:292958:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:420460:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:572895:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:177875734:por
+  label: Revogado o Regulamento de Pesca na Ria de Aveiro aprovado pela Port 563/90, de 19-jul, na redação do presente diploma,
+    pelo(a) Portaria n.º 51/2022 - Diário da República n.º 14/2022, Série I de 2022-01-20
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/51-2022-177875734
+  date: '2022-01-20'
 article_structure:
-  article_count: 5
+  article_count: 4
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:14:57Z'
   warnings: []
   errors: []
 ---
@@ -141,7 +159,9 @@ j) ...
 
 l) ...
 
-###### Artigo 9.º — [...]
+Artigo 9.º
+
+[...]
 
 1 - Podem ser fixados períodos de defeso para cada uma das espécies, por despacho do membro do Governo que tutela as pescas, mediante proposta da Direcção-Geral das Pescas e Aquicultura, ouvidos o Instituto Nacional de Investigação Agrária e das Pescas e a Capitania do Porto de Aveiro.»
 

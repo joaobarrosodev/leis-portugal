@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/2s/2024/12/243000001/0000200010.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -46,36 +46,59 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/resolucao/4-2024-900164452
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2024-12-16T00:00:00Z'
+  retrieved_at: '2026-10-23T15:16:19Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 50096a1a5efe273496a95bfc97ad6dd2a0fa495f900c03e9bfdd699e809d79ba
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: fbdb439ef9fd4a190b4b5f526ca09b0d72e1127ba1215c0165d57c2dc41850d4
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:16:19Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
-relationships: []
+subjects:
+- Contratação Pública
+- Contrato
+- Documento Eletrónico
+- Fiscalização
+- Fundos CE
+- Portugal
+- Tribunal de Contas
+relationships:
+- type: cites
+  target: pt:dre:114696642:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:163728569:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:193663:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:898553932:por
+  label: null
+  source: null
 article_structure:
   article_count: 23
   section_count: 5
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:16:19Z'
   warnings: []
   errors: []
 ---
@@ -102,7 +125,7 @@ b) Os formulários, mapas e modelos necessários à operacionalização da Plata
 
 4 - A presente Resolução entra em vigor no dia da sua publicação.
 
-**Publique-se, nos termos da alínea d) do n.º 2 e do n.º 3 do artigo 9.º da LOPTC:**
+Publique-se, nos termos da alínea d) do n.º 2 e do n.º 3 do artigo 9.º da LOPTC:
 
 a) Na 2.ª série do Diário da República;
 
@@ -230,7 +253,7 @@ Para completa instrução dos processos ou para o seu esclarecimento, podem ser 
 
 ###### Artigo 12.º — Prazos para remessa do processo e de resposta
 
-1 - Sempre que o ato ou contrato produzir efeitos antes da decisão do Tribunal de Contas, a proferir no âmbito do processo de fiscalização prévia especial, aplicam-se os prazos de remessa inicial e de resposta definidos nos n.<sup>os</sup>2 e 3 do artigo 81.º e no n.º 2 do artigo 82.º da LOPTC, aplicáveis ex vi do n.º 1 do artigo 17.º-A da [Lei n.º 30/2021](https://diariodarepublica.pt/dr/detalhe/lei/30-2021-163728569), de 21 de maio.
+1 - Sempre que o ato ou contrato produzir efeitos antes da decisão do Tribunal de Contas, a proferir no âmbito do processo de fiscalização prévia especial, aplicam-se os prazos de remessa inicial e de resposta definidos nos n.os2 e 3 do artigo 81.º e no n.º 2 do artigo 82.º da LOPTC, aplicáveis ex vi do n.º 1 do artigo 17.º-A da [Lei n.º 30/2021](https://diariodarepublica.pt/dr/detalhe/lei/30-2021-163728569), de 21 de maio.
 
 2 - A fim de possibilitar a contagem dos prazos referidos no número anterior, o ato ou contrato sujeito a fiscalização prévia especial deve indicar a data, ainda que previsível, do início da respetiva produção de efeitos.
 
@@ -377,3 +400,5 @@ A Plataforma eContas encontra-se disponível no sítio da Internet com o endere�
 2 - Para efeitos do número anterior a entidade fiscalizada deve submeter o requerimento de remessa para fiscalização prévia especial, no qual deve identificar o contrato de fiscalização prévia a que visa suceder.
 
 3 - Com a abertura do processo de fiscalização prévia especial, o processo de fiscalização prévia associado, de acordo com a identificação efetuada no requerimento, é arquivado e os ficheiros que o integram são automaticamente carregados naquele processo de fiscalização prévia especial.
+
+318462755

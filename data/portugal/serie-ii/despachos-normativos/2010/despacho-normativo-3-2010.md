@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/2s/2010/02/021000000/0454504547.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,30 +46,50 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/despacho-normativo/3-2010-1124172
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2015-02-27T00:00:00Z'
+  retrieved_at: '2026-10-23T15:07:29Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 463444781ed7f39d25ea591996bea8fb4dad9d35f46e7e5f63df8b78d671d676
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 4e350d7efd8f81a44eea734043691f65b4a51c580db2eb0e9917c534120515b0
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:07:29Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Agricultor
+- Agricultura
+- Exploração Agrícola
+- Exploração Florestal
+- Financiamento
+- Proteção do Ambiente
+- Recursos Hídricos
+- Saúde Pública
 relationships:
 - type: amended_by
   target: pt:dre:66619896:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:2235067:por
+  label: "Alterados o art. 2.º e os anexos I e II do DN 7/2005, de 01-fev, na redação do presente diploma, pelo DN.4/2012.02.04.2012.SEA-MAMAOT,\
+    \ DR.IIS [66] de 02.04.2012\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/despacho-normativo/4-2012-2235067
+  date: '2012-04-02'
+- type: amended_by
+  target: pt:dre:3661173:por
+  label: "Alterados o art. 2.º e os anexos I e II do DN 7/2005 de 01-fev, na redação do presente despacho normativo, pelo\
+    \ DN.2/2014.29.01.2014.SEAG-MAGM, DR.IIS [20] de 29.01.2014\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/despacho-normativo/2-2014-3661173
+  date: '2014-01-29'
 - type: cites
   target: celex:32009R0073
   label: null
@@ -78,21 +98,52 @@ relationships:
   target: celex:32009R1122
   label: null
   source: null
+- type: cites
+  target: pt:dre:230365:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:340237:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:620106:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:629400:por
+  label: null
+  source: null
+- type: corrected_by
+  target: pt:dre:2142528:por
+  label: "Rectificado o art. 2.º [deve passar a ler-se «São aditadas as alíneas aa), bb) e cc) do artigo 2.º, o n.º 1.1.6\
+    \ do anexo i a que se refere a alínea a) do artigo 2.º e os n.os 30, 31, 32 e 33 do anexo ii a que se refere o artigo\
+    \ 3.º do despacho normativo n.º 7/2005, com a seguinte redacção:»] do presente despacho, que alterou o DN 7/2005 de 01-Fev,\
+    \ nas redacções dos DN 33/2005 de 28-Jun, 24/2008 de 23-Abr, 14/2009 de 02-Abr, pela DECL-RECT.319/2010.18.02.2010.SG-MADRP,\
+    \ DR.IIS [34] de 18.02.2010\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/declaracao-rectificacao/319-2010-2142528
+  date: '2010-02-18'
+- type: repealed_by
+  target: pt:dre:66619896:por
+  label: Revogado, a partir de 28.02.2015, o DN 7/2005 de 01-fev, alterado pelo presente diploma, pelo(a) Portaria n.º 57/2015
+    - Diário da República n.º 41/2015, Série I de 2015-02-27
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/57-2015-66619896
+  date: '2015-02-27'
 article_structure:
   article_count: 4
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:07:29Z'
   warnings: []
   errors: []
 ---
 
-# Despacho Normativo n.º 3/2010
+# Despacho normativo n.º 3/2010
 
 O Regulamento (CE) n.º 73/2009, do Conselho, de 19 de Janeiro, que estabelece regras comuns para os regimes de apoio directo aos agricultores no âmbito da política agrícola comum, procedeu no domínio da condicionalidade a um ajustamento do respectivo âmbito, especialmente no que se refere às boas condições agrícolas e ambientais.
 
@@ -214,7 +265,9 @@ bb) 'Bosquete' formação vegetal com área igual ou inferior a 0,50 ha, dominad
 
 cc) 'Árvores de interesse público' árvores isoladas ou agrupadas classificadas ao abrigo do artigo 1.º do [Decreto-Lei n.º 28468](https://diariodarepublica.pt/dr/detalhe/decreto-lei/28468-1938-230365), de 15 de Fevereiro de 1938.
 
-## ANEXO I — [...]
+ANEXO I
+
+[...]
 
 1 - ...
 
@@ -248,7 +301,9 @@ cc) 'Árvores de interesse público' árvores isoladas ou agrupadas classificada
 
 1.4.3 - ...
 
-## ANEXO II — [...]
+ANEXO II
+
+[...]
 
 1 - ...
 
@@ -379,3 +434,5 @@ b) O comprovativo da comunicação de utilização do recurso hídrico nos casos
 O presente despacho normativo entra em vigor no dia seguinte ao da sua publicação.
 
 22 de Janeiro de 2010. - O Ministro da Agricultura, do Desenvolvimento Rural e das Pescas, António Manuel Soares Serrano.
+
+202837514

@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/851/2006/08/23/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/851-2006-540628
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2006-08-23T00:00:00Z'
+  retrieved_at: '2026-10-23T15:16:40Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 5e698ccad8f53c39334d8a3284750e588e291a61cdb0ce0481b1c1bc22649008
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 1bb287f1dd0bc5127f140cc170376a7fea8f29e98f2da5adecd711b396a761d6
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:16:40Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,13 +66,13 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
+- Contratação Pública
 - Contrato Administrativo
 - Criação de Lugares
-- Secretaria Geral
 - Pessoal Técnico Superior
 - Presidência do Conselho de Ministros
 - Quadro de Pessoal
-- Contratação Pública
+- Secretaria Geral
 relationships:
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/245/1995/09/14/p/dre
@@ -86,16 +86,36 @@ relationships:
   target: eli:http://data.dre.pt/eli/leiorg/4/2004/11/06/p/dre
   label: null
   source: http://data.dre.pt/eli/leiorg/4/2004/11/06/p/dre
+- type: cites
+  target: pt:dre:183013:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:373663:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:547070:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:547652:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:563987:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:16:40Z'
   warnings: []
   errors: []
 ---
@@ -120,4 +140,4 @@ Manda o Governo, pelo Ministro de Estado e das Finanças e pelo Secretário de E
 
 Em 28 de Julho de 2006.
 
-**O Ministro de Estado e das Finanças, Fernando Teixeira dos Santos. - O Secretário de Estado da Presidência do Conselho de Ministros, Jorge Lacão Costa.**
+O Ministro de Estado e das Finanças, Fernando Teixeira dos Santos. - O Secretário de Estado da Presidência do Conselho de Ministros, Jorge Lacão Costa.

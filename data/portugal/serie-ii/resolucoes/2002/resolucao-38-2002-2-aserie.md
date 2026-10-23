@@ -1,7 +1,7 @@
 ---
 schema_version: '1.0'
 id: pt:dre:1157748:por
-title: Resolução n.º 38/2002(2.ªsérie)
+title: Resolução n.º 38/2002 (2.ª série)
 short_title: null
 summary: null
 jurisdiction: portugal
@@ -46,45 +46,89 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/resolucao/38-2002-1157748
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2005-03-31T00:00:00Z'
+  retrieved_at: '2026-10-23T15:11:21Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: c889783a6420c41ba3ccee73708572da37d8a90942ca280fa779fe15f1f4b338
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 527457e592f893ef38431eec41508c550a2d96dac1f17eb2feb021faa2ba450c
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:11:21Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Aveiro
+- Beja
+- Braga
+- Bragança
+- Castelo Branco
+- Coimbra
+- Évora
+- Exoneração
+- Faro
+- Governador Civil
+- Guarda
+- Leiria
+- Lisboa
+- Nomeação
+- Portalegre
+- Porto
+- Santarém
+- Setúbal
+- Viana do Castelo
+- Vice-governador Civil
+- Vila Real
+- Viseu
 relationships:
 - type: amended_by
   target: pt:dre:2768180:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:2092857:por
+  label: "Exonerado Luís Cirilo Amorim de Campos Carvalho, pela RES.34/2003(2ªSÉRIE).2003.04.03.PCM DR.IIS [99] DE 29/ABR/2003\0\
+    \0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/resolucao/34-2003-2092857
+  date: '2003-04-03'
+- type: amended_by
+  target: pt:dre:1440968:por
+  label: "Exonerado o Dr. José Pereira Lopes pela RES.40/2003(2ªSÉRIE).2003.06.03.PCM DR.IIS [142] de 23/Jun/2003\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/resolucao/40-2003-1440968
+  date: '2003-06-03'
+- type: amended_by
+  target: pt:dre:2768180:por
+  label: "Exonerados os governadores civis de Aveiro, Beja, Bragança, Coimbra, Évora, Faro, Guarda, Leiria, Portalegre, Porto,\
+    \ Santarém, Setúbal, Viana do Castelo, Vila Real e Viseu nomeados pelo presente diploma, pelo RES.7-A/2005(2ªSérie).31.03.2005.PCM,\
+    \ DR.IIS [66-Supl] de 05.04.2005\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/resolucao/7-a-2005-2768180
+  date: '2005-03-31'
+- type: cites
+  target: pt:dre:584790:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:11:21Z'
   warnings: []
   errors: []
 ---
 
-# Resolução n.º 38/2002(2.ªsérie)
+# Resolução n.º 38/2002 (2.ª série)
 
 Resolução n.º 38/2002 (2.ª série). - Nos termos da alínea a) do artigo 199.º da Constituição, o Conselho de Ministros resolve:
 

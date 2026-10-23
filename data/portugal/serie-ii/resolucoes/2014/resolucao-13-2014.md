@@ -46,36 +46,80 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/resolucao/13-2014-25690244
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2014-04-01T00:00:00Z'
+  retrieved_at: '2026-10-23T15:15:18Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 53f926813fb69147994b8422dcf24110352a82abb94561f4d91c47ab12e1bd70
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 68b66c77689a5df68e693e27ca42d346aca584eb9a3ea6875b8eb8e39c54c609
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:15:18Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
-relationships: []
+subjects:
+- Centro Hospitalar Lisboa Norte
+- Conselho de Administração
+- Nomeação
+- Vogal
+relationships:
+- type: cites
+  target: pt:dre:191077:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:248228:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:469067:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:498125:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:498720:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:500215:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:520259:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:542993:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:544415:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:553924:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:15:18Z'
   warnings: []
   errors: []
 ---
@@ -119,3 +163,5 @@ Desempenho de Funções: Administrador no Hospital Egas Moniz, S. A., de 7 de ab
 Atividade académica e científica: Arguente convidado de júris da ENSP em trabalhos finais do Curso de Especialização em Administração Hospitalar desde, 2007; Orientador institucional de estágios da ENSP do curso de especialização em Administração Hospitalar, desde 2006; Preletor convidado da ESTSL no curso superior de Fisioterapia na área da Gestão dos Serviços de Saúde, desde 2002; Docente convidado da pós-graduação em Gestão de Serviços de Saúde da Universidade Moderna na unidade curricular de Estatística Aplicada à Gestão dos Serviços de Saúde em 2004; Estudo das desigualdades socioeconómicas em saúde em Portugal com trabalhos apresentados e publicados em reuniões e publicações de economia da saúde com a coautoria do Prof. João Pereira da ENSP; Integrou os órgãos sociais da Associação Portuguesa de Economia da Saúde de 2005 a 2008 com participação na organização de eventos científicos.
 
 Participação em grupos de trabalho: Coordenou o grupo de trabalho criado para a revisão do Regulamento de Transporte de Doentes por via terrestre e congregou a participação de vários especialistas dos Ministérios da Administração Interna e da Saúde, bem como de representantes da Liga de Bombeiros Portugueses; Participou nas visitas de avaliação aos pontos da rede de urgência realizado pela Comissão para a Reavaliação da Rede Nacional de Emergência e Urgência; Participou no grupo de trabalho para o desenvolvimento e promoção da cirurgia de ambulatório - Unidade de Missão Hospitais, S. A. - com apresentação pública dos resultados em dezembro de 2005, no INFARMED, Lisboa, e divulgação através do site dos Hospitais, S. A.
+
+207730238

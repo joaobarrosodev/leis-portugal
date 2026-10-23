@@ -46,40 +46,65 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/resolucao/24-2011-3647619
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2024-01-08T00:00:00Z'
+  retrieved_at: '2026-10-23T15:14:43Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 0e1e235177d558e5294a2d2b5d4e50175c843957844ce5f121c8031809213577
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 558ae490f6de9a403be5b96fc219955e4ee85d848e41edaab4a8963b9939b42f
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:14:43Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Açores
+- Madeira.região Autónoma
+- Regulamento Interno
+- Secção Regional do Tribunal de Contas
+- Tribunal de Contas
 relationships:
 - type: amended_by
   target: pt:dre:836161933:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:2915740:por
+  label: "Constituida uma equipa de projeto e de auditoria no âmbito do Departamento de Apoio Técnico-Operativo da Secção\
+    \ Regional dos Açores do Tribunal de Contas, cujo Regulamento Interno foi aprovado pela presente Resolução, retificada\
+    \ pela Decl-Ret 1995/2011 de 30-dez, pelo DESP.2095/2014.10.02.2014.TC, DR.IIS [28] de 10.02.2014\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/despacho/2095-2014-2915740
+  date: '2014-02-10'
+- type: cites
+  target: pt:dre:193663:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:694226:por
+  label: null
+  source: null
+- type: corrected_by
+  target: pt:dre:3478588:por
+  label: "Rectificada pela DECL-RECT.1995/2011.30.12.2011.TC, DR.IIS [250] de 30.12.2011\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/declaracao-rectificacao/1995-2011-3478588
+  date: '2011-12-30'
 article_structure:
   article_count: 44
   section_count: 12
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:14:43Z'
   warnings: []
   errors: []
 ---
@@ -100,7 +125,7 @@ b) O Regulamento da Secção Regional da Madeira do Tribunal de Contas, aprovado
 
 3 - A presente Resolução entra em vigor no dia 1 do mês seguinte ao da sua publicação no Diário da República.
 
-**Publique-se na 2.ª série do Diário da República e na 2.ª série dos Jornais Oficiais das Regiões Autónomas dos Açores e da Madeira.**
+Publique-se na 2.ª série do Diário da República e na 2.ª série dos Jornais Oficiais das Regiões Autónomas dos Açores e da Madeira.
 
 14 de Dezembro de 2011. - O Conselheiro Presidente, Guilherme d' Oliveira Martins.
 
@@ -647,3 +672,5 @@ Nos processos autónomos de multa, previamente à decisão o juiz ouve o respons
 1 - Segundo as orientações do juiz, o subdirector-geral, por despacho interno, providencia pelas condições de acesso e instalação dos cidadãos que pretendam assistir à audiência, bem como o acesso e permanência condigna dos intervenientes processuais, antes da entrada na sala da audiência.
 
 2 - Nos casos de audiência de produção de prova em que, nos termos da lei, haja lugar a inquirição por videoconferência, deverá a secretaria da Secção Regional onde foi instaurado o processo providenciar pela realização dessa diligência nos termos da lei.
+
+205470395

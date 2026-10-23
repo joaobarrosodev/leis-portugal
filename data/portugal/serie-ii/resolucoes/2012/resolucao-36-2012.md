@@ -47,36 +47,78 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/resolucao/36-2012-1321230
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2012-09-05T00:00:00Z'
+  retrieved_at: '2026-10-23T15:14:57Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 6984d778a3cc500382a629126465362352288ea35665b94666320235e80803b3
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 9ef47335d473a51fc511291e5fcc6f7b0a5b8e23d72d355e5a8919af3f24aa58
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:14:57Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
-relationships: []
+subjects:
+- Conselho de Administração
+- Exoneração
+- Lisboa
+- Metropolitano
+- Metropolitano de Lisboa
+- Nomeação
+- Presidente
+- Vogal
+relationships:
+- type: amended_by
+  target: pt:dre:496748:por
+  label: "Exonerado, com efeitos a 06.06.2013, José Manuel Silva Rodrigues do cargo de presidente do conselho de administração\
+    \ do Metropolitano de Lisboa, E.P.E. pela RES.40/2013.18.06.2013.PCM, DR.IS [115] de 18.06.2013\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/resolucao-conselho-ministros/40-2013-496748
+  date: '2013-06-18'
+- type: cites
+  target: pt:dre:1451287:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:146536:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:243747:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:520259:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:544415:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:553385:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:669541:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:14:57Z'
   warnings: []
   errors: []
 ---
@@ -254,3 +296,5 @@ g) 1986-1987: Responsável pela área financeira e administrativa da LACTICER;
 h) 1986: Desenvolvimento de programas de formação profissional na área da gestão administrativa e financeira para deficientes, junto do IEFP - Instituto de Emprego e Formação Profissional;
 
 i) 1985: Técnica de Contabilidade da TELAPLAS.
+
+15582012

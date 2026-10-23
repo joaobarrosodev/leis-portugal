@@ -49,18 +49,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/162/2006/02/22/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/162-2006-676187
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2010-08-12T00:00:00Z'
+  retrieved_at: '2026-10-23T15:12:25Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: ac0613033aa8c197b3c1a00161f69850c3bf346cef24a7deb76954111f24f278
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 1616e803c7a2d67eb348ff2744ff0de53355b405261ce6dacfd16caaa22f1bb5
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:12:25Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -76,6 +76,24 @@ relationships:
   target: pt:dre:342857:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:546216:por
+  label: "Anexados vários prédios rústicos à zona de caça atribuída na Port 843/2000 de 26-Set , com as alterações constantes\
+    \ do presente diploma, pela PORT.1196/2006.07.11.2006.MAOTDR, DR.IS [214] de 07.11.2006\06\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/1196-2006-546216
+  date: '2006-11-07'
+- type: amended_by
+  target: pt:dre:628814:por
+  label: "Anexados vários prédios rústicos à zona de caça concessionada pela Port 843/2000 de 26-Set, alterada pelo presente\
+    \ diploma, pela PORT.1576/2007.12.12.2007.MAOTDR, DR.IS [239] de 12.12.2007\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/1576-2007-628814
+  date: '2007-12-12'
+- type: amended_by
+  target: pt:dre:342857:por
+  label: "Renovada por dez anos a concessão da zona de caça atribuída pela Port 843/2000, de 26-Set, alterada pelo presente\
+    \ diploma, pela PORT.680/2010.12.08.2010.MADRP, DR.IS [156] de 12.08.2010\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/680-2010-342857
+  date: '2010-08-12'
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/201/2005/11/24/p/dre
   label: null
@@ -92,16 +110,32 @@ relationships:
   target: eli:http://data.dre.pt/eli/port/991/2002/08/07/p/dre
   label: null
   source: http://data.dre.pt/eli/port/991/2002/08/07/p/dre
+- type: cites
+  target: pt:dre:184692:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:480704:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:481498:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:560407:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:12:25Z'
   warnings: []
   errors: []
 ---

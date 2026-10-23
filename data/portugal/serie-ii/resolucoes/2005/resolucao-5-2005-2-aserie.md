@@ -1,7 +1,7 @@
 ---
 schema_version: '1.0'
 id: pt:dre:1635190:por
-title: Resolução n.º 5/2005(2.ªsérie)
+title: Resolução n.º 5/2005 (2.ª série)
 short_title: null
 summary: null
 jurisdiction: portugal
@@ -46,41 +46,54 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/resolucao/5-2005-1635190
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2005-01-21T00:00:00Z'
+  retrieved_at: '2026-10-23T15:12:57Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 9a2177b094883fb2d894eb4b330e203f24ac70ee0f4f201de080955c5518123c
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: a393494fbae54255057988e05818a811d27611338ed62e7e613a3141dc8b4421
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:12:57Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
-relationships: []
+subjects:
+- Ajuste Direto
+- Aquisição de Bens e Serviços
+- Combustível
+- Contrato
+- Delegação de Competências
+- Forças Armadas
+- Governo XVI
+- Ministro de Estado da Defesa Nacional e dos Assuntos do Mar
+- Primeiro-ministro
+relationships:
+- type: cites
+  target: pt:dre:311259:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:12:57Z'
   warnings: []
   errors: []
 ---
 
-# Resolução n.º 5/2005(2.ªsérie)
+# Resolução n.º 5/2005 (2.ª série)
 
 Resolução n.º 5/2005 (2.ª série). - O Ministério da Defesa Nacional pretende celebrar vários contratos de fornecimento de combustíveis e lubrificantes de operação, a utilizar em bens militares de natureza operacional dos ramos das Forças Armadas Portuguesas, na medida em que os contratos actualmente em vigor caducam a 31 de Dezembro de 2004.
 

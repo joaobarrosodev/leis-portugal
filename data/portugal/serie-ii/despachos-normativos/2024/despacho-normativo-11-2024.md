@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/2s/2024/04/074000000/0022100254.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -46,36 +46,75 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/despacho-normativo/11-2024-860479516
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2024-04-15T00:00:00Z'
+  retrieved_at: '2026-10-23T15:09:05Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 22d6015d35e35fa6601f20ade73a445b1f546f0a686e67a32707ae931c493561
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 291af331241964197dd7efb71ca76c8efd5a8229f0843e0228a68460d82bf1e3
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:09:05Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
-relationships: []
+subjects:
+- Estatuto
+- Homologação
+- Universidade de Coimbra
+relationships:
+- type: amends
+  target: pt:numero:despacho-normativo:43/2008
+  label: Homologa, a partir de 16 de abril de 2024, com efeitos a 17 de abril de 2021, as alterações aos artigos 26.º e 66.º
+    dos Estatutos da Universidade de Coimbra, e republica no anexo ii ao presente despacho normativo, os Estatutos da Universidade
+    de Coimbra, na sua versão consolidada, homologados pelo Despacho Normativo n.º 43/2008, de 1 de setembro, Diário da República
+    n.º 168/2008, Série II
+  source: null
+  date: '2008-09-01'
+- type: cites
+  target: pt:dre:121246168:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:161518656:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:1782382:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:355494:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:556606:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:603476:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:640339:por
+  label: null
+  source: null
 article_structure:
-  article_count: 81
+  article_count: 82
   section_count: 22
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:09:05Z'
   warnings: []
   errors: []
 ---
@@ -844,7 +883,7 @@ b) A terceira votação, se necessária, incide apenas sobre o candidato mais vo
 
 2 - Após procedimento administrativo e com fundamento em causa devidamente justificada, o Conselho Geral, ouvido o Senado, pode destituir o Reitor, mediante deliberação aprovada por maioria de dois terços dos seus membros em efetividade de funções.
 
-3 - As deliberações referidas nos n.<sup>os</sup>1 e 2 só podem ser votadas em reuniões convocadas especificamente para o efeito.
+3 - As deliberações referidas nos n.os1 e 2 só podem ser votadas em reuniões convocadas especificamente para o efeito.
 
 ###### Artigo 49.º — Competência
 
@@ -968,7 +1007,7 @@ d) Dois trabalhadores não docentes e não investigadores.
 
 a) A alteração dos Estatutos da Universidade, nos termos do disposto na alínea h) do n.º 1 do artigo 41.º;
 
-b) O exercício pelo Reitor das competências referidas nas alíneas p), q) e u) do n.º 1 do artigo 49.º, nos termos do disposto nos n.<sup>os</sup>3 e 4 desse mesmo artigo.
+b) O exercício pelo Reitor das competências referidas nas alíneas p), q) e u) do n.º 1 do artigo 49.º, nos termos do disposto nos n.os3 e 4 desse mesmo artigo.
 
 2 - Para coadjuvar o Reitor no exercício do poder disciplinar, nomeadamente quando se trate da aplicação das sanções disciplinares previstas nas alíneas c), d) e e) do n.º 5 do artigo 75.º da [Lei n.º 62/2007](https://diariodarepublica.pt/dr/detalhe/lei/62-2007-640339), de 10 de setembro, é constituída uma comissão especializada do Senado presidida pelo Reitor e composta por um docente ou investigador, um estudante e um trabalhador não docente e não investigador, eleitos pelos respetivos pares no Senado.
 
@@ -1340,19 +1379,23 @@ c) Tribunal Universitário Judicial Europeu.
 
 Os presentes Estatutos entram em vigor cinco dias úteis após a sua publicação no Diário da República.
 
-## ANEXO I
+## ANEXO I — ![](https://diariodarepublica.pt/DR224_00006712_317518919-A-WEB-RESOURCES/IMAGE/ZZZZZZ.JPG)
 
 Selo da Universidade de Coimbra
 
-![](https://files.diariodarepublica.pt/images/860479516/860451442.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/860479516/860451442.png) |
+| --- |
 
 Bandeira da Universidade de Coimbra
 
-![](https://files.diariodarepublica.pt/images/860479516/860451443.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/860479516/860451443.png) |
+| --- |
 
 Hino da Universidade de Coimbra
 
-## ANEXO II — Artigo 1.º
+## ANEXO II
+
+###### Artigo 1.º
 
 Qualificação dos cargos dirigentes das unidades e serviços centrais
 
@@ -1379,3 +1422,5 @@ d) O cargo de Chefe de Gabinete do Reitor é qualificado como cargo de direção
 3 - Verificada a existência, na Unidade Orgânica, de trabalhadores não docentes nem investigadores em número igual ou superior a 100, os Estatutos das Unidades Orgânicas de Ensino e Investigação da Universidade de Coimbra podem prever, por cada grupo adicional de 50 trabalhadores não docentes nem investigadores, o cargo de Coordenador Adjunto, qualificado como cargo de direção intermédia de 2.º grau.
 
 4 - As competências e demais critérios aplicáveis aos cargos previstos no presente artigo são expressamente fixadas no Regulamento dos Cargos Dirigentes da Universidade de Coimbra, a aprovar pelo Reitor.
+
+317518919

@@ -47,36 +47,55 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/resolucao/26-2010-1483241
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2010-08-06T00:00:00Z'
+  retrieved_at: '2026-10-23T15:14:33Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: ad1cad717315f151d9a8312e5217e38a62b97d9ed2b68bf60efd7509c9b6433d
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: de7f0e12be6c11d59afc9881aec9cf82040a02a6c6654cbd8b86a6ddc0274827
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:14:33Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
-relationships: []
+subjects:
+- Conselho de Administração
+- Nomeação
+- Presidente
+- Serviços Partilhados do Ministério da Saúde
+- Vogal
+relationships:
+- type: amended_by
+  target: pt:dre:1785259:por
+  label: "Tornada pública a exoneração de José Alberto Cardoso Marques e de Maria Joaquina Rodrigues Sobral de Matos, pela\
+    \ DECL.238/2011.01.09.2011.SG-MS, DR.IIS [168] de 01.09.2011\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/declaracao/238-2011-1785259
+  date: '2011-09-01'
+- type: cites
+  target: pt:dre:520259:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:611341:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:14:33Z'
   warnings: []
   errors: []
 ---
@@ -96,3 +115,5 @@ Nos termos do artigo 7.º dos Estatutos da SPMS - Serviços Partilhados do Minis
 2 - Estabelecer que a presente resolução produz efeitos desde 1 de Junho de 2010.
 
 16 de Julho de 2010. - O Primeiro-Ministro, José Sócrates Carvalho Pinto de Sousa.
+
+17732010

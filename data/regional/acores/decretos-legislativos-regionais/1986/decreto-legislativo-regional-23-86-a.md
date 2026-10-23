@@ -47,36 +47,50 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/23-1986-221112
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1986-11-03T00:00:00Z'
+  retrieved_at: '2026-10-23T15:17:22Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 81a8461a760872dc2dcd49cc72b3130c2950e376a1237f3955d2e9a3b7cc43ff
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 7135cc61aef88887b01e99629cdf3744a29552ab719a3467e374e995b006402c
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:17:22Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
-relationships: []
+subjects:
+- Açores
+- Contribuições da Segurança Social
+- Patronato
+- Segurança Social
+- TAXA Social Unica
+- Trabalhador por Conta de Outrem
+relationships:
+- type: cites
+  target: pt:dre:402909:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:569905:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:17:22Z'
   warnings: []
   errors: []
 ---
@@ -91,20 +105,20 @@ Considerando que o artigo 20.º do referido [Decreto-Lei n.º 140-D/86](https://
 
 A Assembleia Regional dos Açores decreta, nos termos da alínea b) do artigo 229.º da Constituição, o seguinte:
 
-###### Artigo único. Nos termos do artigo 20.º do [Decreto-Lei n.º 140-D/86](https://diariodarepublica.pt/dr/detalhe/decreto-lei/140-d-1986-569905), de 14 de Junho, são introduzidas, nos respectivos artigos 12.º e 19.º, as seguintes adaptações:
+Artigo único. Nos termos do artigo 20.º do [Decreto-Lei n.º 140-D/86](https://diariodarepublica.pt/dr/detalhe/decreto-lei/140-d-1986-569905), de 14 de Junho, são introduzidas, nos respectivos artigos 12.º e 19.º, as seguintes adaptações:
 
-###### Art. 12.º - 1 - Os contribuintes do regime geral de segurança social cuja actividade não tenha fim lucrativo poderão beneficiar da redução da taxa de contribuições sobre as remunerações por trabalho que lhes seja prestado a partir da entrada em vigor do presente diploma, nos termos a regulamentar por portaria do Secretário Regional dos Assuntos Sociais.
+Art. 12.º - 1 - Os contribuintes do regime geral de segurança social cuja actividade não tenha fim lucrativo poderão beneficiar da redução da taxa de contribuições sobre as remunerações por trabalho que lhes seja prestado a partir da entrada em vigor do presente diploma, nos termos a regulamentar por portaria do Secretário Regional dos Assuntos Sociais.
 
 2 - ...
 
-###### Art. 19.º Do total de contribuições arrecadadas pela aplicação das taxas referidas no presente diploma, constituem receitas próprias do serviço competente da Secretaria Regional do Trabalho as correspondentes ao montante decorrente da incidência da percentagem de 5,4% sobre as remunerações por trabalho prestado, a transferir mensalmente pelo Centro de Gestão Financeira da Segurança Social para o Orçamento da Região Autónoma dos Açores.
+Art. 19.º Do total de contribuições arrecadadas pela aplicação das taxas referidas no presente diploma, constituem receitas próprias do serviço competente da Secretaria Regional do Trabalho as correspondentes ao montante decorrente da incidência da percentagem de 5,4% sobre as remunerações por trabalho prestado, a transferir mensalmente pelo Centro de Gestão Financeira da Segurança Social para o Orçamento da Região Autónoma dos Açores.
 
 Aprovado pela Assembleia Regional dos Açores, na Horta, em 3 de Setembro de 1986.
 
-**O Presidente da Assembleia Regional, José Guilherme Reis Leite.**
+O Presidente da Assembleia Regional, José Guilherme Reis Leite.
 
-**Assinado em Angra do Heroísmo em 10 de Outubro de 1986.**
+Assinado em Angra do Heroísmo em 10 de Outubro de 1986.
 
-**Publique-se.**
+Publique-se.
 
-**O Ministro da República para a Região Autónoma dos Açores, Vasco Joaquim Rocha Vieira.**
+O Ministro da República para a Região Autónoma dos Açores, Vasco Joaquim Rocha Vieira.

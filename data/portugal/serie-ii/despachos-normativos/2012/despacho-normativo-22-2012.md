@@ -46,45 +46,82 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/despacho-normativo/22-2012-1252503
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2016-10-31T00:00:00Z'
+  retrieved_at: '2026-10-23T15:07:40Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: a084288273342d7e2876083ed8f5984d2ce5705d2d22bd17452e70f18db501fa
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 7f0a47982194676911226e069833a1d483d28b3a84b494d6a1529a7e95f6dbfc
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:07:40Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Ensino Superior
+- Estatuto
+- Universidade de Trás-os-montes e ALTO Douro
 relationships:
 - type: amended_by
   target: pt:dre:75629981:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:75629981:por
+  label: Homologada a alteração dos Estatutos da Universidade de Trás-os-Montes e Alto Douro, pelo(a) Despacho Normativo n.º
+    11-A/2016 - Diário da República n.º 209/2016, 1º Suplemento, Série II de 2016-10-31
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/despacho-normativo/11-a-2016-75629981
+  date: '2016-10-31'
+- type: cites
+  target: pt:dre:145863:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:196889:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:355494:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:370006:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:556606:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:618294:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:640339:por
+  label: null
+  source: null
 article_structure:
   article_count: 124
   section_count: 38
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:07:40Z'
   warnings: []
   errors: []
 ---
 
-# Despacho Normativo n.º 22/2012
+# Despacho normativo n.º 22/2012
 
 Pelo despacho normativo n.º 63/2008, publicado no Diário da República, 2.ª série, n.º 237, de 9 de dezembro de 2008, foram homologados os Estatutos da Universidade de Trás-os-Montes e Alto Douro.
 
@@ -918,7 +955,7 @@ d) Pronunciar-se sobre todos os assuntos que lhe sejam presentes pelo presidente
 
 ###### Artigo 63.º — Eleição do presidente
 
-**O presidente da escola é eleito pela assembleia de entre os professores e investigadores da escola, nos termos do regulamento da escola.**
+O presidente da escola é eleito pela assembleia de entre os professores e investigadores da escola, nos termos do regulamento da escola.
 
 ###### Artigo 64.º — Competência do presidente
 
@@ -1564,11 +1601,11 @@ Os presentes Estatutos entram em vigor no dia seguinte ao da sua publicação no
 
 ## ANEXO N.º 1 — Símbolo da UTAD
 
-[([ver documento original](https://files.diariodarepublica.pt/2s/2012/10/204000000/3480734822.pdf))](https://files.diariodarepublica.pt/2s/2012/10/204000000/3480734822.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/2s/2012/10/204000000/3480734822.pdf)
 
 ## ANEXO N.º 2 — Logótipo da UTAD
 
-[([ver documento original](https://files.diariodarepublica.pt/2s/2012/10/204000000/3480734822.pdf))](https://files.diariodarepublica.pt/2s/2012/10/204000000/3480734822.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/2s/2012/10/204000000/3480734822.pdf)
 
 Acompanhando a tendência verificada em outras Universidades Europeias, a UTAD enriqueceu a sua simbologia, juntando ao brasão, tão apreciado, o logótipo, que foi apresentado pela primeira vez em dezembro no Fórum Estudante 1996.
 
@@ -1578,7 +1615,7 @@ Motivo principal do logótipo, o leão «parlante», evocativo do Reino Cristão
 
 ## ANEXO N.º 3 — Traje académico
 
-[([ver documento original](https://files.diariodarepublica.pt/2s/2012/10/204000000/3480734822.pdf))](https://files.diariodarepublica.pt/2s/2012/10/204000000/3480734822.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/2s/2012/10/204000000/3480734822.pdf)
 
 ## ANEXO N.º 4 — Dos gabinetes das estruturas especializadas
 
@@ -1647,3 +1684,5 @@ c) Departamento de Genética e Biotecnologia;
 d) Departamento de Geologia;
 
 e) Departamento de Química.
+
+206447499

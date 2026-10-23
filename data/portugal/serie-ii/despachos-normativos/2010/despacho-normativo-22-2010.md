@@ -47,45 +47,70 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/despacho-normativo/22-2010-2570789
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2014-08-20T00:00:00Z'
+  retrieved_at: '2026-10-23T15:07:25Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 60566835f10463121cdd534ecaef1c6d5a084b5085e29c91b70f886adfc5b542
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 9478d4289a41a9c2de802543dc61e1cf825d3602072cb51e1f46c7554ff83ef5
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:07:25Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- CAÇA
+- Licença de Caça
+- Taxa
+- ZONA de CAÇA
 relationships:
 - type: amended_by
   target: pt:dre:56305486:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:56305486:por
+  label: Alterados os n.os 2 e 4 pelo(a) Despacho Normativo n.º 11/2014 - Diário da República n.º 159/2014, Série II de 2014-08-20
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/despacho-normativo/11-2014-56305486
+  date: '2014-08-20'
+- type: cites
+  target: pt:dre:396926:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:480704:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:481498:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:611687:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:07:25Z'
   warnings: []
   errors: []
 ---
 
-# Despacho Normativo n.º 22/2010
+# Despacho normativo n.º 22/2010
 
 Nos termos do disposto no n.º 5 do artigo 23.º do [Decreto-Lei n.º 202/2004](https://diariodarepublica.pt/dr/detalhe/decreto-lei/202-2004-480704), de 18 de Agosto, com a redacção que lhe foi conferida pelo [Decreto-Lei n.º 201/2005](https://diariodarepublica.pt/dr/detalhe/decreto-lei/201-2005-481498), de 24 de Novembro, e com a alteração do [Decreto-Lei n.º 9/2009](https://diariodarepublica.pt/dr/detalhe/decreto-lei/9-2009-396926), de 9 de Janeiro, e da [Portaria n.º 1119/2001](https://diariodarepublica.pt/dr/detalhe/portaria/1119-2001-611687), de 21 de Setembro, e no uso das competências delegadas pelo Ministro da Agricultura, do Desenvolvimento Rural e das Pescas, pelo despacho n.º 78/2010, de 5 de Janeiro, e delegadas pela Ministra do Ambiente e do Ordenamento do Território pelo despacho n.º 932/2010, de 14 de Janeiro, determina-se que:
 
@@ -150,3 +175,5 @@ c) Troféu de 156 a 163 pontos: (euro) 1470;
 d) Troféu superior a 163 pontos: (euro) 2150.
 
 2 de Setembro de 2010. - O Secretário de Estado das Florestas e Desenvolvimento Rural, Rui Pedro de Sousa Barreiro. - O Secretário de Estado do Ambiente, Humberto Delgado Ubach Chaves Rosa.
+
+203667132

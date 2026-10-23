@@ -26,7 +26,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/2s/2015/01/013000000/0200402006.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -48,30 +48,75 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/despacho-normativo/2-2015-66258481
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2021-02-04T00:00:00Z'
+  retrieved_at: '2026-10-23T15:08:00Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 44a356208ecc9983fab33c4baabf88d0624ed786efba7705e69b014c43f1d121
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: cb44b2a759f7c1b9af76631b1f8c55d86c24c7c5a929e314aa84f608ae7c133c
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:08:00Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Agricultura
+- Ajuda Comunitária
+- Financiamento
+- IFAP
+- Política Agrícola Comum
+- Regulamento CE
 relationships:
 - type: amended_by
   target: pt:dre:156397445:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:73576678:por
+  label: Alterada a redação do art. 12.º pelo(a) Despacho Normativo n.º 1-A/2016 - Diário da República n.º 29/2016, 1º Suplemento,
+    Série II de 2016-02-11
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/despacho-normativo/1-a-2016-73576678
+  date: '2016-02-11'
+- type: amended_by
+  target: pt:dre:74926159:por
+  label: Alterado, com efeitos a 12.02.2016, o artigo 12.º (na redação do DN 1-A/2016 de 11-fev) do presente diploma, pelo(a)
+    Despacho Normativo n.º 5/2016 - Diário da República n.º 133/2016, Série II de 2016-07-13
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/despacho-normativo/5-2016-74926159
+  date: '2016-07-13'
+- type: amended_by
+  target: pt:dre:106536967:por
+  label: Alterado o art. 12.º pelo(a) Despacho Normativo n.º 1-A/2017 - Diário da República n.º 41/2017, 2º Suplemento, Série
+    II de 2017-02-27
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/despacho-normativo/1-a-2017-106536967
+  date: '2017-02-27'
+- type: amended_by
+  target: pt:dre:136804683:por
+  label: A título excecional, no ano de 2020, são aplicáveis aos regimes de apoio associado «superfícies» os valores unitários
+    indicativos, bem como os limiares garantidos e os envelopes financeiros disponíveis, constantes, respetivamente, dos anexos
+    iii e iv do presente despacho normativo, nos termos do art. 3.º do presente diploma, previstos no atual diploma, pelo(a)
+    Despacho Normativo n.º 6/2020 - Diário da República n.º 124/2020, Série II de 2020-06-29
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/despacho-normativo/6-2020-136804683
+  date: '2020-06-29'
+- type: amended_by
+  target: pt:dre:156397445:por
+  label: Alterados, a partir de 01.01.2021 e sem prejuízo do disposto no n.º 2 do art. 6.º, os arts. 10.º e 12.º e anexos
+    II e III e aditado o art. 2.º-A ao presente diploma, pelo(a) Despacho Normativo n.º 6/2021 - Diário da República n.º 24/2021,
+    Série II de 2021-02-04, e procede á sua republicação
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/despacho-normativo/6-2021-156397445
+  date: '2021-02-04'
+- type: amended_by
+  target: pt:dre:178809173:por
+  label: Alterado, com efeitos a 01.01.2022, os anexos ii e iii do presente despacho normativo, pelo(a) Despacho Normativo
+    n.º 4/2022 - Diário da República n.º 27/2022, Série II de 2022-02-08
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/despacho-normativo/4-2022-178809173
+  date: '2022-02-08'
 - type: cites
   target: celex:32013R1306
   label: null
@@ -96,21 +141,29 @@ relationships:
   target: celex:32014R0809
   label: null
   source: null
+- type: cites
+  target: pt:dre:3670078:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:57995547:por
+  label: null
+  source: null
 article_structure:
   article_count: 16
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:08:00Z'
   warnings: []
   errors: []
 ---
 
-# Despacho Normativo n.º 2/2015
+# Despacho normativo n.º 2/2015
 
 Os regimes de apoio associado, de aplicação voluntária pelos Estados-membros, têm a sua aplicação circunscrita a uma lista fechada de setores e produções, com vista a apoiar determinados setores ou tipos específicos de agricultura, que se defrontem com dificuldades e que sejam especialmente importantes por motivos de natureza económica, social ou ambiental.
 
@@ -234,7 +287,7 @@ As aprovações dos primeiros transformadores de tomate para indústria concedid
 
 Processo de aprovação, obrigações e situações de exclusão dos primeiros transformadores de tomate para indústria
 
-# Parte A - Processo de aprovação dos primeiros transformadores de tomate para indústria
+Parte A - Processo de aprovação dos primeiros transformadores de tomate para indústria
 
 1 - Até ao dia 15 de outubro do ano civil anterior ao que respeita o pagamento específico por superfície ao tomate para transformação, os primeiros transformadores devem apresentar junto do IFAP, I. P., um pedido de aprovação acompanhado dos seguintes elementos:
 
@@ -246,7 +299,7 @@ c) Declaração que ateste que a empresa de transformação tem capacidade admin
 
 2 - A aprovação dos primeiros transformadores é concedida anualmente pelo IFAP, I. P., que publica, até ao dia 31 de dezembro, no respetivo sítio na Internet a lista dos primeiros transformadores aprovados que cumprem as condições para a celebração de contratos de transformação.
 
-# Parte B - Termos do contrato de transformação
+Parte B - Termos do contrato de transformação
 
 1 - O contrato de transformação referido no artigo 9.º do presente despacho é celebrado entre um primeiro transformador aprovado nas condições previstas na Parte A do presente anexo, e o agricultor ou a OP de que o agricultor seja membro.
 
@@ -260,7 +313,7 @@ c) Um compromisso do agricultor de entregar ao primeiro transformador a quantida
 
 3 - No caso de contrato celebrado entre uma OP e um primeiro transformador aprovado, o mesmo deve ainda especificar os nomes, os números de identificação fiscal (NIF) e os endereços, referidos na alínea a) do número anterior, e as quantidades referidas na alínea b), para cada membro da OP que pretenda receber o apoio previsto no presente despacho.
 
-# Parte C - Obrigações dos primeiros transformadores de tomate para indústria
+Parte C - Obrigações dos primeiros transformadores de tomate para indústria
 
 1 - Os primeiros transformadores aprovados emitem, até 31 de outubro, as declarações, por produtor, que atestem as quantidades entregues e aceites para transformação, devendo as mesmas indicar o NIF dos produtores e das OP, quando sejam parte no contrato de transformação, lote, quantidade e número do contrato.
 
@@ -270,7 +323,7 @@ c) Um compromisso do agricultor de entregar ao primeiro transformador a quantida
 
 4 - Para efeitos do disposto no presente despacho, os primeiros transformadores aprovados devem conservar durante cinco anos a contar do final de cada campanha de transformação, e disponibilizar às autoridades nacionais de controlo, sempre que solicitado, a prova do pagamento de todas as matérias-primas compradas no âmbito de contratos de transformação, a prova de pagamento de todas as vendas e compras de produto acabado, bem como as informações relacionadas com todos os elementos constantes do contrato.
 
-# Parte D - Situações de exclusão dos primeiros transformadores de tomate para indústria
+Parte D - Situações de exclusão dos primeiros transformadores de tomate para indústria
 
 Sem prejuízo das responsabilidades que judicialmente venham a ser apuradas, é definitivamente excluído do respetivo regime de apoio específico o primeiro transformador aprovado que, em conivência com o produtor ou a OP, preste falsas declarações ou não respeite as obrigações referidas na Parte C do presente anexo.
 
@@ -278,10 +331,12 @@ Sem prejuízo das responsabilidades que judicialmente venham a ser apuradas, é 
 
 Valores unitários indicativos dos regimes de apoio associado
 
-[([ver documento original](https://files.diariodarepublica.pt/2s/2015/01/013000000/0200402006.pdf))](https://files.diariodarepublica.pt/2s/2015/01/013000000/0200402006.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/2s/2015/01/013000000/0200402006.pdf)
 
 ## ANEXO III — (a que se refere o n.º 2 do artigo 12.º)
 
 Limiares garantidos e envelopes financeiros disponíveis
 
-[([ver documento original](https://files.diariodarepublica.pt/2s/2015/01/013000000/0200402006.pdf))](https://files.diariodarepublica.pt/2s/2015/01/013000000/0200402006.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/2s/2015/01/013000000/0200402006.pdf)
+
+208368349

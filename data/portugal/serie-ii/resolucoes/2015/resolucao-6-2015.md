@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/2s/2015/01/016000000/0239702398.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -46,36 +46,89 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/resolucao/6-2015-66305661
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2015-01-23T00:00:00Z'
+  retrieved_at: '2026-10-23T15:15:44Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 4b073ac6fd667ffe0a1142d807f292b847edb6b639a56892d8b9092cf067bee8
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 752fd7ef5a53d59c4f38aadff53c5a5cfdcc99f35d2fd121f7ed2e28f74298e8
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:15:44Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
-relationships: []
+subjects:
+- Conselho de Administração
+- Estabelecimento Hospitalar
+- Figueira da Foz
+- Hospital Distrital
+- Nomeação
+- Presidente
+- Vogal
+relationships:
+- type: cites
+  target: pt:dre:191077:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:469067:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:498125:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:498720:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:500215:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:520259:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:542993:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:544415:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:553924:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:57701290:por
+  label: null
+  source: null
+- type: corrected_by
+  target: pt:dre:66655611:por
+  label: Retificado o n.º 1 da presente resolução, pelo(a) Declaração de Retificação n.º 161/2015 - Diário da República n.º
+    45/2015, Série II de 2015-03-05
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/declaracao-retificacao/161-2015-66655611
+  date: '2015-03-05'
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:15:44Z'
   warnings: []
   errors: []
 ---
@@ -123,3 +176,5 @@ Administrador Hospitalar no Hospital Distrital da Figueira da Foz, 1988/1989. Me
 Membro de diversas Comissões e Grupos de Trabalho em diferentes áreas da saúde, ex:, Comissão de Luta Contra a Infeção Hospitalar, Hospital Distrital de Leiria, 1989/1990; Comissão de Ética do Hospital Distrital da Figueira da Foz, 1995/2001; Comissão de Ética do Hospital Distrital de Pombal, 2001/2010; Gabinete do Utente do Hospital Distrital de Pombal, 2001/2010; Representante do Hospital Distrital da Figueira da Foz no Programa HOPE (Hospitais para a Europa) organizado pelo Comité Permanente dos Hospitais da União Europeia, 1996/2000. Representante do Hospital Distrital de Lagos na Comissão Organizadora da Ação de Lançamento do I Congresso dos Hospitais Portugueses, outubro/1992. Membro/Fundador da Liga dos Amigos do Hospital Distrital de Lagos, 1993. Associado da Associação Portuguesa de Administradores Hospitalares, APAH. Associado da Associação Portuguesa de Economia a Saúde, APES. Membro do Lions Clube de Santa Catarina, Figueira da Foz, tendo já assumido, entre outros, os cargos de Secretário e Presidente do Clube e Presidente da Divisão 3, do Distrito Múltiplo 115, Centro/Sul dos Lions Clubes. Fundador e Membro da Direção da Associação FigueiraViva - Associação de Cooperação e Solidariedade para o Desenvolvimento da Figueira da Foz -, novembro de 1998. Fundador e Associado da Liga dos Amigos do Hospital Distrital da Figueira da Foz, EPE, janeiro de 2012. Foi-lhe atribuído público louvor pelo Diretor do Hospital Distrital de Lagos, publicado no D.R. II Série, nº 142, de 22.06.94 a página 6134.
 
 Anabela Martins Moreira Salgado Serra nasceu a 14/12/1959 em Lourenço Marques, Moçambique. Curso Geral de Enfermagem na Escola Técnica de Enfermagem, em Lisboa (1980). Curso de Especialização em Enfermagem de Saúde Infantil e Pediátrica na Escola Superior de Enfermagem Dr. Ângelo da Fonseca (1990); Mestrado em Ciências Empresariais, área de Gestão, Estratégia e Desenvolvimento Empresarial, dominante em Gestão de Recursos Humanos no INDEG-ISCTE, em Lisboa (2002); Pós-Graduação em Gestão de Hospitais e Serviços de Saúde na Universidade Moderna do Porto (2003). Iniciou o seu percurso profissional em 1981 - Hospital de Santa Maria, Pediatria 6 (Lisboa) como enfermeira; em 1986, mudou-se para o Serviço de Pediatria do Hospital Distrital da Figueira da Foz, onde fez concurso para enfermeira graduada (1988 - 19,25 valores) e enfermeira especialista (1991 - 17 valores). Em 1998 é transferida para o Serviço de Urgência, para assumir o cargo de enfermeira substituta do Enf.º Chefe. Em 2001 é transferida para o Departamento de Formação e nomeada sua Coordenadora. Com a passagem do Hospital a Sociedade Anónima é transferida para o Serviço de Pediatria em 2003, sendo nomeada Responsável do mesmo em 2004. Com a mudança do Conselho de Administração, em finais de 2006 é convidada a coordenar o Serviço de Esterilização. Faz concurso para enfermeira chefe, em 2009, tendo ficado em 1º lugar e, em dezembro de 2011, é nomeada Enf.ª Chefe da Consulta Externa, cargo que exerceu por pouco tempo por ter sido nomeada Enfermeira Diretora do HDFF, EPE, em janeiro de 2012, cargo que mantém atualmente. Integrou a Coordenação dos Serviços de Enfermagem desde 1996 até 2003. Participou no The HOPE Exchange Programme for Hospital Professionals (1999), em Madrid. Elaborou e apresentou vários trabalhos e conferências, nomeadamente um Poster, em conjunto com outra colega, intitulado "A Criança e a Dor", que ganhou o 2.º prémio dos temas livres, no Simpósio de Enfermagem "A Dor", Lisboa, em 1997, a Conferência «Interdisciplinaridade, Valores e Autonomia» integrada no IV Encontro de Enfermagem do Hospital D. Estefânia, Lisboa, em 2001. Foi formadora de vários cursos na área da Saúde (2002). Foi nomeada membro da Unidade Coordenadora Funcional da Criança e Adolescente da Figueira da Foz desde 2006 até hoje, tendo sido sua Coordenadora de 2010 a 2012; Já como Enfermeira Diretora, é nomeada, em 2012, como Coordenadora da Comissão de Combate ao Desperdício, em 2013, como Presidente da Comissão da Qualidade e Segurança do Doente e também como Gestora Local do Sistema Nacional de Notificação de Incidentes e Eventos Adversos. Foi ainda Presidente do Centro Cultural e Desportivo da Casa do Pessoal do HDFF, desde 2007 a 2012, e Presidente do Conselho Fiscal da Associação artística «Magenta».
+
+208379138

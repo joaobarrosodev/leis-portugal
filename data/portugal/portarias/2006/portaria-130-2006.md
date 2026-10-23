@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2006/02/032b00/11671179.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/130/2006/02/14/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/130-2006-684057
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2008-11-04T00:00:00Z'
+  retrieved_at: '2026-10-23T15:11:28Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 811b201e138f1c8d52475718b4e6a686d14da0a5de8b07791b1dbdb2031647ab
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: ad080ea5969ad5073433d4a60d58bc40c35b38afd36b25c90b030688e1a9f939
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:11:28Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -82,16 +82,29 @@ relationships:
   target: eli:http://data.dre.pt/eli/port/125/2005/01/31/p/dre
   label: null
   source: http://data.dre.pt/eli/port/125/2005/01/31/p/dre
+- type: cites
+  target: pt:dre:344965:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:620476:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:248009:por
+  label: "Revogada, a partir de 05.03.2008, pela PORT.190/2008.19.02.2008.MOPTC, DR.IS [35] de 19.02.2008\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/190-2008-248009
+  date: '2008-02-19'
 article_structure:
   article_count: 2
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:11:28Z'
   warnings: []
   errors: []
 ---
@@ -114,7 +127,7 @@ As taxas a cobrar pelo Instituto Portuário e dos Transportes Marítimos pela pr
 
 É revogada a tabela de taxas publicada em anexo à [Portaria n.º 125/2005](https://diariodarepublica.pt/dr/detalhe/portaria/125-2005-620476), de 31 de Janeiro.
 
-**O Ministro das Obras Públicas, Transportes e Comunicações, Mário Lino Soares Correia, em 19 de Outubro de 2005.**
+O Ministro das Obras Públicas, Transportes e Comunicações, Mário Lino Soares Correia, em 19 de Outubro de 2005.
 
 ## ANEXO — Tabela de taxas do Instituto Portuário e dos Transportes Marítimos - Serviços centrais
 
@@ -128,7 +141,7 @@ Pessoal do mar
 
 Náutica de recreio
 
-[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2006/02/032b00/11671179.pdf)
+[[[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2006/02/032b00/11671179.pdf)](https://files.diariodarepublica.pt/1s/2006/02/032b00/11671179.pdf)](https://files.diariodarepublica.pt/1s/2006/02/032b00/11671179.pdf)
 
 QUADRO N.º 2
 
@@ -136,7 +149,7 @@ Direcção de Actividades Sectoriais e Relações Internacionais
 
 Marinha do comércio
 
-[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2006/02/032b00/11671179.pdf)
+[[[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2006/02/032b00/11671179.pdf)](https://files.diariodarepublica.pt/1s/2006/02/032b00/11671179.pdf)](https://files.diariodarepublica.pt/1s/2006/02/032b00/11671179.pdf)
 
 QUADRO N.º 3
 
@@ -144,4 +157,4 @@ Direcção de Projecto e Gestão de Obras Portuárias
 
 Operação portuária e assuntos portuários
 
-[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2006/02/032b00/11671179.pdf)
+[[[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2006/02/032b00/11671179.pdf)](https://files.diariodarepublica.pt/1s/2006/02/032b00/11671179.pdf)](https://files.diariodarepublica.pt/1s/2006/02/032b00/11671179.pdf)

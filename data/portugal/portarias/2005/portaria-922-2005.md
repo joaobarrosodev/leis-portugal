@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/922/2005/09/27/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/922-2005-147393
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2011-01-06T00:00:00Z'
+  retrieved_at: '2026-10-23T15:09:12Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 5711db9bde8935800412545cae8e147a202980ed63e2b2c464a260c47612532d
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: fb6c8a9674f21f7bf12da49a5dbcd4ca7c76e95444e6b7b2d03cbcc7627b5a3e
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:09:12Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -74,6 +74,18 @@ relationships:
   target: pt:dre:485612:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:636925:por
+  label: "Excluída uma área de 395 ha da zona de caça concessionada pelo presente diploma, pela PORT.946/2007.14.08.2007.MADRP,\
+    \ DR.IS [156] de 14.08.2007\07\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/946-2007-636925
+  date: '2007-08-14'
+- type: amended_by
+  target: pt:dre:485612:por
+  label: "Excluída uma parte do prédio rústico denominado Trancoso da zona de caça municipal criada pelo presente diploma,\
+    \ posteriormente alterado pela Port 946/2007 de 14-Ago, pela PORT.10/2011.06.01.2011.MADRP, DR.IS [4] de 06.01.2011\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/10-2011-485612
+  date: '2011-01-06'
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/202/2004/08/18/p/dre
   label: null
@@ -86,16 +98,28 @@ relationships:
   target: eli:http://data.dre.pt/eli/port/45/2004/01/14/p/dre
   label: null
   source: http://data.dre.pt/eli/port/45/2004/01/14/p/dre
+- type: cites
+  target: pt:dre:434640:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:480704:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:603031:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:09:12Z'
   warnings: []
   errors: []
 ---

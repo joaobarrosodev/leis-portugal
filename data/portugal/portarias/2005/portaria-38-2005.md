@@ -26,7 +26,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2005/01/011b00/02950300.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -48,18 +48,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/38/2005/01/17/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/38-2005-626235
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2009-07-28T00:00:00Z'
+  retrieved_at: '2026-10-23T15:06:01Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: e01ad407b7fad137c901b9aa14e2be93947647b294f370415f89e367061b486d
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 7229a3ac1e288ecb2fd71484055a1d191829064102bf3199d71b61949148f84c
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:06:01Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,12 +67,12 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Plano de Estudos
 - Ensino Cooperativo
 - Ensino Particular
 - Ensino Profissional
-- Pedagogia Moderna
 - Instituto de Educação e Desenvolvimento
+- Pedagogia Moderna
+- Plano de Estudos
 relationships:
 - type: amended_by
   target: pt:dre:492986:por
@@ -82,16 +82,33 @@ relationships:
   target: eli:http://data.dre.pt/eli/dec-lei/74/2004/03/26/p/dre
   label: null
   source: http://data.dre.pt/eli/dec-lei/74/2004/03/26/p/dre
+- type: cites
+  target: pt:dre:210801:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:458182:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:503611:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:492986:por
+  label: "Revogada pela PORT.814/2009.28.07.2009.ME, DR.IS [144] de 28.07.2009\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/814-2009-492986
+  date: '2009-07-28'
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:06:01Z'
   warnings: []
   errors: []
 ---
@@ -152,22 +169,22 @@ Comunicação Social.
 
 12.º É revogado o despacho n.º 177/ME/96, de 11 de Setembro.
 
-**A Ministra da Educação, Maria do Carmo Félix da Costa Seabra, em 10 de Dezembro de 2004.**
+A Ministra da Educação, Maria do Carmo Félix da Costa Seabra, em 10 de Dezembro de 2004.
 
 ## ANEXO — INED - Instituto de Educação e Desenvolvimento
 
 Curso tecnológico de Desenho de Projecto, Engenharia e Arquitectura
 
-[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2005/01/011b00/02950300.pdf)
+[[[[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2005/01/011b00/02950300.pdf)](https://files.diariodarepublica.pt/1s/2005/01/011b00/02950300.pdf)](https://files.diariodarepublica.pt/1s/2005/01/011b00/02950300.pdf)](https://files.diariodarepublica.pt/1s/2005/01/011b00/02950300.pdf)
 
 Curso tecnológico de Informática de Gestão
 
-[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2005/01/011b00/02950300.pdf)
+[[[[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2005/01/011b00/02950300.pdf)](https://files.diariodarepublica.pt/1s/2005/01/011b00/02950300.pdf)](https://files.diariodarepublica.pt/1s/2005/01/011b00/02950300.pdf)](https://files.diariodarepublica.pt/1s/2005/01/011b00/02950300.pdf)
 
 Curso tecnológico de Electrónica
 
-[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2005/01/011b00/02950300.pdf)
+[[[[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2005/01/011b00/02950300.pdf)](https://files.diariodarepublica.pt/1s/2005/01/011b00/02950300.pdf)](https://files.diariodarepublica.pt/1s/2005/01/011b00/02950300.pdf)](https://files.diariodarepublica.pt/1s/2005/01/011b00/02950300.pdf)
 
 Curso tecnológico de Comunicação Social
 
-[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2005/01/011b00/02950300.pdf)
+[[[[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2005/01/011b00/02950300.pdf)](https://files.diariodarepublica.pt/1s/2005/01/011b00/02950300.pdf)](https://files.diariodarepublica.pt/1s/2005/01/011b00/02950300.pdf)](https://files.diariodarepublica.pt/1s/2005/01/011b00/02950300.pdf)

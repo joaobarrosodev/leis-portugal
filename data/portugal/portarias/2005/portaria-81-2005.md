@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/81/2005/01/25/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/81-2005-623607
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2007-01-30T00:00:00Z'
+  retrieved_at: '2026-10-23T15:08:33Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 91e1059077e24f1799849e297a6e0ac6692268d8ef1365290c6fed740d40b53c
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 0a89ed205d8b326c1022e44fd480c9184064d0da3acc3810f0531fb5cda8da8e
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:08:33Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -74,6 +74,11 @@ relationships:
   target: pt:dre:518228:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:518228:por
+  label: "Substituída a planta anexa pela PORT.143/2007.30.01.2007.MADRP, DR.IS [21] de 30.01.2007\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/143-2007-518228
+  date: '2007-01-30'
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/202/2004/08/18/p/dre
   label: null
@@ -90,16 +95,32 @@ relationships:
   target: eli:http://data.dre.pt/eli/port/473/2002/04/24/p/dre
   label: null
   source: http://data.dre.pt/eli/port/473/2002/04/24/p/dre
+- type: cites
+  target: pt:dre:287992:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:434640:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:480704:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:603031:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:08:33Z'
   warnings: []
   errors: []
 ---

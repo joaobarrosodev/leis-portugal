@@ -46,45 +46,65 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/despacho-normativo/17-2009-3576817
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2010-06-15T00:00:00Z'
+  retrieved_at: '2026-10-23T15:07:10Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 665b7dd319ffc209be40eed89961b5c3998883ba9921e4793dd9bb7acf62627c
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 55c77048d9fb77f334704ae4a92b9fd6ed1a53fbfd4c4f9aa4819d9a8bb517cb
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:07:10Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Estatuto
+- Homologação
+- Instituto Politécnico
+- Tomar
 relationships:
 - type: amended_by
   target: pt:dre:3339506:por
   label: Última alteração registada na importação inicial
   source: null
+- type: cites
+  target: pt:dre:367673:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:556606:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:640339:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:662339:por
+  label: null
+  source: null
 article_structure:
   article_count: 161
   section_count: 47
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:07:10Z'
   warnings: []
   errors: []
 ---
 
-# Despacho Normativo n.º 17/2009
+# Despacho normativo n.º 17/2009
 
 Considerando que, nos termos do n.º 1 do artigo 172.º da [Lei n.º 62/2007](https://diariodarepublica.pt/dr/detalhe/lei/62-2007-640339), de 10 de Setembro, as instituições de ensino superior devem proceder à revisão dos seus estatutos, de modo a conformá-los com o novo Regime Jurídico das Instituições de Ensino Superior;
 
@@ -1818,41 +1838,41 @@ As prestações de serviços ao exterior reger-se-ão por regulamento interno a 
 
 1.1 - Instituto Politécnico de Tomar
 
-[([ver documento original](https://files.diariodarepublica.pt/2s/2009/04/084000000/1730617329.pdf))](https://files.diariodarepublica.pt/2s/2009/04/084000000/1730617329.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/2s/2009/04/084000000/1730617329.pdf)
 
 1.2 - Instituto Politécnico de Tomar
 
-[([ver documento original](https://files.diariodarepublica.pt/2s/2009/04/084000000/1730617329.pdf))](https://files.diariodarepublica.pt/2s/2009/04/084000000/1730617329.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/2s/2009/04/084000000/1730617329.pdf)
 
 2 - Escolas
 
 Escola Superior de Tecnologia de Tomar
 
-[([ver documento original](https://files.diariodarepublica.pt/2s/2009/04/084000000/1730617329.pdf))](https://files.diariodarepublica.pt/2s/2009/04/084000000/1730617329.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/2s/2009/04/084000000/1730617329.pdf)
 
 Escola Superior de Gestão de Tomar
 
-[([ver documento original](https://files.diariodarepublica.pt/2s/2009/04/084000000/1730617329.pdf))](https://files.diariodarepublica.pt/2s/2009/04/084000000/1730617329.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/2s/2009/04/084000000/1730617329.pdf)
 
 Escola Superior de Tecnologia de Abrantes
 
-[([ver documento original](https://files.diariodarepublica.pt/2s/2009/04/084000000/1730617329.pdf))](https://files.diariodarepublica.pt/2s/2009/04/084000000/1730617329.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/2s/2009/04/084000000/1730617329.pdf)
 
 Escola Superior de Tecnologia de Tomar
 
-[([ver documento original](https://files.diariodarepublica.pt/2s/2009/04/084000000/1730617329.pdf))](https://files.diariodarepublica.pt/2s/2009/04/084000000/1730617329.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/2s/2009/04/084000000/1730617329.pdf)
 
 Escola Superior de Gestão de Tomar
 
-[([ver documento original](https://files.diariodarepublica.pt/2s/2009/04/084000000/1730617329.pdf))](https://files.diariodarepublica.pt/2s/2009/04/084000000/1730617329.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/2s/2009/04/084000000/1730617329.pdf)
 
 Escola Superior de Tecnologia de Abrantes
 
-[([ver documento original](https://files.diariodarepublica.pt/2s/2009/04/084000000/1730617329.pdf))](https://files.diariodarepublica.pt/2s/2009/04/084000000/1730617329.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/2s/2009/04/084000000/1730617329.pdf)
 
 3 - Serviços de Acção Social
 
-[([ver documento original](https://files.diariodarepublica.pt/2s/2009/04/084000000/1730617329.pdf))](https://files.diariodarepublica.pt/2s/2009/04/084000000/1730617329.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/2s/2009/04/084000000/1730617329.pdf)
 
 ## ANEXO II — Trajos Académicos
 
@@ -1860,11 +1880,11 @@ Trajos dos Professores
 
 Capa e Batina Fechada Tradicional
 
-[([ver documento original](https://files.diariodarepublica.pt/2s/2009/04/084000000/1730617329.pdf))](https://files.diariodarepublica.pt/2s/2009/04/084000000/1730617329.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/2s/2009/04/084000000/1730617329.pdf)
 
 Trajo dos Estudantes
 
-[([ver documento original](https://files.diariodarepublica.pt/2s/2009/04/084000000/1730617329.pdf))](https://files.diariodarepublica.pt/2s/2009/04/084000000/1730617329.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/2s/2009/04/084000000/1730617329.pdf)
 
 ## ANEXO III — Regulamento Disciplinar
 
@@ -2030,7 +2050,7 @@ A requerimento do instrutor do processo, o Presidente ou quem tiver a competênc
 
 ###### Artigo 15.º — Decisão disciplinar
 
-**O Presidente, ou quem tiver a competência delegada para o efeito, aprecia o relatório elaborado pelo instrutor e a resposta do estudante, no prazo máximo de um mês, a contar de data da recepção desta ou da data em que esta já não pode ser recebida, e, observadas as demais formalidades legais, procede à aplicação da sanção disciplinar.**
+O Presidente, ou quem tiver a competência delegada para o efeito, aprecia o relatório elaborado pelo instrutor e a resposta do estudante, no prazo máximo de um mês, a contar de data da recepção desta ou da data em que esta já não pode ser recebida, e, observadas as demais formalidades legais, procede à aplicação da sanção disciplinar.
 
 ###### Artigo 16.º — Garantias de defesa do estudante
 
@@ -2371,3 +2391,5 @@ Caso se tenha de garantir a eleição dos representantes de apenas um ou dois do
 ###### Artigo 22.º — Casos omissos e dúvidas de interpretação
 
 Os casos omissos e as dúvidas de interpretação são resolvidos por despacho do Presidente do Instituto.
+
+201718864

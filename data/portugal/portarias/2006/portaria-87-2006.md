@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/87/2006/01/24/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/87-2006-540187
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2006-01-24T00:00:00Z'
+  retrieved_at: '2026-10-23T15:16:46Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 494e3a528dc777827512d1444e6b7592a2262ce00f044148f0b477eae81f55b2
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 7c927e049bfb3c06684d24660ed292560f470c077a34092dfeef81b084a5bea7
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:16:46Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -80,16 +80,28 @@ relationships:
   target: eli:http://data.dre.pt/eli/lei/71/1998/11/03/p/dre
   label: null
   source: http://data.dre.pt/eli/lei/71/1998/11/03/p/dre
+- type: cites
+  target: pt:dre:223016:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:595121:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:667920:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:16:46Z'
   warnings: []
   errors: []
 ---
@@ -122,14 +134,14 @@ Manda o Governo, pelo Ministro do Trabalho e da Solidariedade Social, o seguinte
 
 6.º Em caso de extravio, destruição ou deterioração do cartão, será emitida uma segunda via, de que se fará indicação expressa, mantendo-se o número do cartão anterior.
 
-**O Ministro do Trabalho e da Solidariedade Social, José António Fonseca Vieira da Silva, em 21 de Dezembro de 2005.**
+O Ministro do Trabalho e da Solidariedade Social, José António Fonseca Vieira da Silva, em 21 de Dezembro de 2005.
 
 ## ANEXO I — Modelo do cartão
 
 Frente
 
-[(ver modelo no documento original)](https://files.diariodarepublica.pt/1s/2006/01/017b00/05520552.pdf)
+[[(ver modelo no documento original)](https://files.diariodarepublica.pt/1s/2006/01/017b00/05520552.pdf)](https://files.diariodarepublica.pt/1s/2006/01/017b00/05520552.pdf)
 
 Verso
 
-[(ver modelo no documento original)](https://files.diariodarepublica.pt/1s/2006/01/017b00/05520552.pdf)
+[[(ver modelo no documento original)](https://files.diariodarepublica.pt/1s/2006/01/017b00/05520552.pdf)](https://files.diariodarepublica.pt/1s/2006/01/017b00/05520552.pdf)

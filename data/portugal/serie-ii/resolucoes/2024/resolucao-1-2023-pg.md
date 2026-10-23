@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/2s/2024/01/010000000/0019400194.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -46,18 +46,18 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/resolucao/1-2024-836631088
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2024-01-15T00:00:00Z'
+  retrieved_at: '2026-10-23T15:16:19Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 712d02a651c53998415d28593410f194212c53c002534adcd222b48f77eff030
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: f6d698a24e96704db5115d5b5c9e5454fe2735319701b3d76af69b59e5439f52
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:16:19Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -69,13 +69,13 @@ relationships: []
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:16:19Z'
   warnings: []
   errors: []
 ---
@@ -96,6 +96,8 @@ O Plenário Geral do Tribunal de Contas, reunido em sessão de 15 de dezembro de
 
 6 - Os serviços com funções de Caixas do Tesouro prestam contas de acordo com a Instrução n.º 1/2021 - 2.ª Secção/SRA/SRM, publicada no Diário da República, 2.ª série, n.º 101, de 25 de maio.
 
-**Publique-se no Diário da República e no Jornal Oficial da Região Autónoma dos Açores, nos termos do artigo 9.º, n.os 2, alínea d), e 3, da Lei de Organização e Processo do Tribunal de Contas.**
+Publique-se no Diário da República e no Jornal Oficial da Região Autónoma dos Açores, nos termos do artigo 9.º, n.os 2, alínea d), e 3, da Lei de Organização e Processo do Tribunal de Contas.
 
 15 de dezembro de 2023. - O Presidente, José F. F. Tavares.
+
+317173201

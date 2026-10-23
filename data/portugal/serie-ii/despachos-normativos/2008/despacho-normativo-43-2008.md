@@ -46,45 +46,81 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/despacho-normativo/43-2008-1782382
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2026-02-12T00:00:00Z'
+  retrieved_at: '2026-10-23T15:06:58Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 1f454fe7973c2ce8fccebbd0e690a0916fc19e98a7c1ebbd1b8646e711b8fb0b
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: a17514a6fa1444b4691bfa0c3ae20c52de3dfb42e01f53924ebd2b69dc58243f
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:06:58Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Estatuto
+- Homologação
+- Universidade de Coimbra
 relationships:
 - type: amended_by
   target: pt:dre:1047219765:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:121246168:por
+  label: Homologadas as alterações aos arts. 16.º, 25.º e 29.º e o aditamento do anexo II aos Estatutos da Universidade de
+    Coimbra homologados pelo presente diploma, pelo(a) Despacho Normativo n.º 8/2019 - Diário da República n.º 55/2019, Série
+    II de 2019-03-19 que republica os referidos estatutos
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/despacho-normativo/8-2019-121246168
+  date: '2019-03-19'
+- type: amended_by
+  target: pt:dre:860479516:por
+  label: Homologadas, a partir de 16 de abril de 2024, com efeitos a 17 de abril de 2021, as alterações aos artigos 26.º e
+    66.º dos Estatutos da Universidade de Coimbra, e republicados no anexo ii , os Estatutos da Universidade de Coimbra, na
+    sua versão consolidada, homologados pelo, resente despacho normativo, pelo(a) Despacho Normativo n.º 11/2024 - Diário
+    da República n.º 74/2024, Série II de 2024-04-15, nos termos dos seus n.ºs 1 e 2
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/despacho-normativo/11-2024-860479516
+  date: '2024-04-15'
+- type: amended_by
+  target: pt:dre:1047219765:por
+  label: Homologadas as alterações aos Estatutos da Universidade de Coimbra pelo(a) Despacho Normativo n.º 2/2026 - Diário
+    da República n.º 30/2026, Série II de 2026-02-12
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/despacho-normativo/2-2026-1047219765
+  date: '2026-02-12'
+- type: cites
+  target: pt:dre:355494:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:556606:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:640339:por
+  label: null
+  source: null
 article_structure:
   article_count: 77
   section_count: 22
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:06:58Z'
   warnings: []
   errors: []
 ---
 
-# Despacho Normativo n.º 43/2008
+# Despacho normativo n.º 43/2008
 
 Considerando que, nos termos do n.º 1 do artigo 172.º da [Lei n.º 62/2007](https://diariodarepublica.pt/dr/detalhe/lei/62-2007-640339), de 10 de Setembro, as instituições de ensino superior devem proceder à revisão dos seus estatutos, de modo a conformá-los com o novo Regime Jurídico das Instituições de Ensino Superior;
 
@@ -1256,12 +1292,12 @@ c) Tribunal Universitário Judicial Europeu.
 
 Os presentes Estatutos entram em vigor cinco dias úteis após a sua publicação no Diário da República.
 
-## ANEXO — [([ver documento original](https://files.diariodarepublica.pt/2s/2008/09/168000000/3832938340.pdf))](https://files.diariodarepublica.pt/2s/2008/09/168000000/3832938340.pdf)
+## ANEXO — [(ver documento original)](https://files.diariodarepublica.pt/2s/2008/09/168000000/3832938340.pdf)
 
 Selo da Universidade de Coimbra.
 
-[([ver documento original](https://files.diariodarepublica.pt/2s/2008/09/168000000/3832938340.pdf))](https://files.diariodarepublica.pt/2s/2008/09/168000000/3832938340.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/2s/2008/09/168000000/3832938340.pdf)
 
 Bandeira da Universidade de Coimbra.
 
-[([ver documento original](https://files.diariodarepublica.pt/2s/2008/09/168000000/3832938340.pdf))](https://files.diariodarepublica.pt/2s/2008/09/168000000/3832938340.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/2s/2008/09/168000000/3832938340.pdf)

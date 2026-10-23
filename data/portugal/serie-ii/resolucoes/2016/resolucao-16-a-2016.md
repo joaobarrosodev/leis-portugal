@@ -19,12 +19,12 @@ publication:
   reference: Diário da República n.º 115/2016, 2º Suplemento, Série II de 2016-06-17
   number: '115'
   series: II
-  supplement: 2º Suplemento
+  supplement: null
   pages: 19118-(4) a 19118-(4)
   pdf_url: https://files.diariodarepublica.pt/2s/2016/06/115000002/0000400004.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -46,36 +46,71 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/resolucao/16-a-2016-74738642
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2016-06-17T00:00:00Z'
+  retrieved_at: '2026-10-23T15:15:49Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 0a13d967b8f5c1a13b47bcb353edfb3f1384f25cf2bb783d61b2170d9869b80a
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: bb24a800bfa00e3a261d1f1378a1f68d6239c51c607cd405e2e1836e2bb402c2
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:15:49Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
-relationships: []
+subjects:
+- Administrador
+- Banco de Portugal
+- Nomeação
+relationships:
+- type: cites
+  target: pt:dre:164212:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:225375:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:314946:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:503027:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:517844:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:553879:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:66868336:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:67289909:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:15:49Z'
   warnings: []
   errors: []
 ---
@@ -115,3 +150,5 @@ Síntese curricular
 Luís Augusto Máximo dos Santos
 
 Licenciado e Mestre em Direito, menção de Ciências Jurídico-Económicas, pela Faculdade de Direito da Universidade de Lisboa (FDUL). Presidente do Conselho de Administração do Banco Espírito Santo, S. A., desde 3 de agosto de 2014, designado pelo Banco de Portugal. Presidente da Comissão Liquidatária do Banco Privado Português, S. A., desde 2010, designado pelo Tribunal do Comércio de Lisboa, sob proposta do Banco de Portugal. Jurista do Banco de Portugal (1992-2010). Investigador do Centro de Investigação em Direito Europeu, Económico, Financeiro e Fiscal da FDUL. Docente do Instituto de Direito Económico, Fiscal e Financeiro da FDUL (2008-2015) e do Instituto de Direito Europeu FDUL (1986-2010). Docente da FDUL, tendo regido diversas disciplinas da área jurídico-económica (1985-1999). Árbitro, em matéria tributária, do Centro de Arbitragem Administrativa. Presidente do Grupo de Trabalho para a Reavaliação dos Benefícios Fiscais (2005). Membro do Grupo de Trabalho para a Revisão da Lei das Finanças Locais (2005-2006), da Estrutura de Coordenação da Reforma Fiscal (ECORFI) (2000-2001) e da Comissão de Estudo da Tributação das Instituições e Produtos Financeiros (1997-1998). Vogal do Conselho Superior da Magistratura (1999-2009) e do Conselho Superior dos Tribunais Administrativos e Fiscais (1997-1999), em ambos os casos eleito pela Assembleia da República. Tem diversos trabalhos (monografias e artigos) publicados nas áreas da sua especialidade.
+
+209671014

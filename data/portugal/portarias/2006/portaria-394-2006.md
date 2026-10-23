@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/394/2006/04/24/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/394-2006-661558
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2013-08-02T00:00:00Z'
+  retrieved_at: '2026-10-23T15:13:51Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 6914e516d6efafb50a2ea5f53258e0a1cd3e7a9f05d4b502fd6fcb3b6cec6df2
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 037b283c10218df49724375488e52126600bbd641cb0e3e895efd62f3a4a7c6b
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:13:51Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,18 +67,37 @@ reuse:
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
 - Ajuda Comunitária
-- Financiamento
-- Pesca
 - Apoio ao Investimento
 - Aquicultura
-- Regime de Apoio ao Desenvolvimento da Aquicultura
+- Financiamento
 - Intervenção Operacional Pescas
+- Pesca
+- Regime de Apoio ao Desenvolvimento da Aquicultura
 - Regulamento
 relationships:
 - type: amended_by
   target: pt:dre:498528:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:552352:por
+  label: "Alterado o art. 9º do Regulamento do Regime de Apoio ao Desenvolvimento da Aquicultura, anexo à Port 1083/2000 de\
+    \ 09-Nov, na redacção do presente diploma, pela PORT.1413/2006.18.12.2006.MADRP, DR.IS [241] de 18.12.2006\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/1413-2006-552352
+  date: '2006-12-18'
+- type: amended_by
+  target: pt:dre:522644:por
+  label: "Alterado o art. 9º do Regulamento do Regime de Apoio ao Desenvolvimento da Aquicultura, anexo à Port 1083/2000 de\
+    \ 09-Nov, pela PORT.89/2007.19.01.2007.MADRP, DR.IS [14] de 19.01.2007\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/89-2007-522644
+  date: '2007-01-19'
+- type: amended_by
+  target: pt:dre:498528:por
+  label: "Dada nova redação ao art. 9º do Regulamento do Regime de Apoio ao Desenvolvimento da Aquicultura, aprovado pela\
+    \ Port 1083/2000 de 09-nov, alterado pelo presente diploma, pela PORT.244/2013.02.08.2013.MAMAOT, DR.IS [148] de 02.08.2013\0\
+    \0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/244-2013-498528
+  date: '2013-08-02'
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/224/2000/09/09/p/dre
   label: null
@@ -95,16 +114,32 @@ relationships:
   target: eli:http://data.dre.pt/eli/port/56-i/2001/01/29/p/dre
   label: null
   source: http://data.dre.pt/eli/port/56-i/2001/01/29/p/dre
+- type: cites
+  target: pt:dre:163810:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:197552:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:577712:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:621958:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:13:51Z'
   warnings: []
   errors: []
 ---
@@ -137,4 +172,4 @@ Manda o Governo, pelo Ministro da Agricultura, do Desenvolvimento Rural e das Pe
 
 4.º Os beneficiários com operações já aprovadas e que não pretendam ficar abrangidos pelo disposto nos n.os 2.º e 3.º devem manifestar essa vontade, por escrito, junto do IFADAP, no prazo de 30 dias a contar da data da entrada em vigor da presente portaria.
 
-**O Ministro da Agricultura, do Desenvolvimento Rural e das Pescas, Jaime de Jesus Lopes Silva, em 5 de Abril de 2006.**
+O Ministro da Agricultura, do Desenvolvimento Rural e das Pescas, Jaime de Jesus Lopes Silva, em 5 de Abril de 2006.

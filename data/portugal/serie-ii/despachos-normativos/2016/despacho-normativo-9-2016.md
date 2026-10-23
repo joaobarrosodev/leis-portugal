@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/2s/2016/10/208000000/3231432316.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -47,45 +47,92 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/despacho-normativo/9-2016-75619707
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2022-08-08T00:00:00Z'
+  retrieved_at: '2026-10-23T15:08:14Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 3b39af10f6115c532f4288fc428d875556df248351c07ec858b93c7924a677aa
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 7f30798feb03ab49b25f356c114ac85fb259b861bda61ad7ecea309ff62f1e5d
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:08:14Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Apoio ao Investimento
+- Aquisição de Bens e Serviços
+- Definição de Competências
+- Dotação Orçamental
+- Financiamento
+- Instituto de Turismo de Portugal
+- Pagamento
+- Página na Internet
+- Programa Valorizar
+- Projeto
+- Turismo
 relationships:
 - type: amended_by
   target: pt:dre:187136682:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:107981322:por
+  label: Alterado o n.º 1 do art.16.º do presente diploma, pelo(a) Despacho Normativo n.º 8/2017 - Diário da República n.º
+    153/2017, Série II de 2017-08-09
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/despacho-normativo/8-2017-107981322
+  date: '2017-08-09'
+- type: amended_by
+  target: pt:dre:114152844:por
+  label: Alterado o art. 16.º (na redação do DN 8/2017 de 09-ago) do presente diploma pelo(a) Despacho Normativo n.º 19/2017
+    - Diário da República n.º 214/2017, Série II de 2017-11-07
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/despacho-normativo/19-2017-114152844
+  date: '2017-11-07'
+- type: amended_by
+  target: pt:dre:122014628:por
+  label: Alterado o n.º 1 do art. 16.º (na redação dos DN 8/2017 de 09-ago e 19/2017, de 07-nov) do presente diploma, pelo(a)
+    Despacho Normativo n.º 10/2019 - Diário da República n.º 68/2019, Série II de 2019-04-05
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/despacho-normativo/10-2019-122014628
+  date: '2019-04-05'
+- type: cites
+  target: pt:dre:178510:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:67098359:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:73716774:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:177307815:por
+  label: Revogado o presente diploma assim como toda a regulamentação referente às linhas de apoio financeiro criadas ao seu
+    abrigo pelo(a) Despacho Normativo n.º 1-A/2022 - Diário da República n.º 5/2022, 1º Suplemento, Série II de 2022-01-07
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/despacho-normativo/1-a-2022-177307815
+  date: '2022-01-07'
 article_structure:
   article_count: 17
   section_count: 5
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:08:14Z'
   warnings: []
   errors: []
 ---
 
-# Despacho Normativo n.º 9/2016
+# Despacho normativo n.º 9/2016
 
 Programa de Apoio à Valorização e Qualificação do Destino
 
@@ -262,3 +309,5 @@ d) Condenação do promotor ou de qualquer uma das demais entidades beneficiári
 O presente diploma entra em vigor no dia seguinte ao da sua publicação e vigora até 31 de dezembro de 2020.
 
 20 de outubro de 2016. - A Secretária de Estado do Turismo, Ana Manuel Jerónimo Lopes Correia Mendes Godinho.
+
+209960193

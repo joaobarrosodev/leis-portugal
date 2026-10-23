@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/2s/2019/09/175000000/0006500065.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -46,36 +46,75 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/resolucao/3-2019-124630626
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2019-09-12T00:00:00Z'
+  retrieved_at: '2026-10-23T15:16:08Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: bdd0b5dba155401c886a3fda4fbb152cf562ed56dc6af3f2d57d2b5a1ad01b56
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 8d668a5621bf3b6e5901765744aaf415ab0b57693f8a82b9e072b140c5fe823d
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:16:08Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
-relationships: []
+subjects:
+- Albergaria-a-velha
+- Alcanena
+- Almada
+- Amadora
+- Arruda dos Vinhos
+- Azambuja
+- Barragem
+- Barragem da Bravura
+- Castelo de VIDE
+- Castro Marim
+- Guarda
+- Idanha-a-nova
+- Lisboa
+- MIRA
+- Odivelas
+- Oeiras
+- Palmela
+- Plano de Emergência
+- Póvoa de Varzim
+- Proteção Civil
+- Sesimbra
+- Trofa
+- Viseu
+relationships:
+- type: cites
+  target: pt:dre:146220:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:537862:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:67163565:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:69927759:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:16:08Z'
   warnings: []
   errors: []
 ---
@@ -97,3 +136,5 @@ Assim, nos termos da citada norma da Lei de Bases de Proteção Civil e, no resp
 4 - Aprovar os Planos de Emergência Externos das barragens de Bravura, Idanha-a-Nova e Odivelas.
 
 4 de julho de 2019. - A Secretária da Comissão Nacional de Proteção Civil, Ana Freitas.
+
+312453526

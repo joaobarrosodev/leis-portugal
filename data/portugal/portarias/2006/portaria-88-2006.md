@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/88/2006/01/24/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/88-2006-540190
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2006-03-16T00:00:00Z'
+  retrieved_at: '2026-10-23T15:16:50Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 91d4246fd36e02c15973c9cebe4b8d60c932535b0b63484f6039133d0d2c2fda
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 3c3a9b42682429129422cfd56af6e9a51801abd8f05e6b5604b7b0a7f8233d6a
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:16:50Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,18 +66,24 @@ reuse:
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
 - Bacharelato
-- Plano de Estudos
+- Ensino Básico
 - Ensino Secundário
+- Ensino Superior
 - Licenciatura
 - Pessoal Docente
+- Plano de Estudos
 - Qualificação Profissional
-- Ensino Básico
-- Ensino Superior
 relationships:
 - type: amended_by
   target: pt:dre:667293:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:667293:por
+  label: "Aditados aos anexos I e II do presente diploma, os cursos de ensino superior reconhecidos como habilitação própria\
+    \ para a docência que constam dos anexos I e II da PORT.263/2006.16.03.2006.ME, DR.IS-B [54] de 16.03.2006\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/263-2006-667293
+  date: '2006-03-16'
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/194/1999/06/07/p/dre
   label: null
@@ -110,16 +116,73 @@ relationships:
   target: eli:http://data.dre.pt/eli/port/56-a/1998/02/05/p/dre
   label: null
   source: http://data.dre.pt/eli/port/56-a/1998/02/05/p/dre
+- type: cites
+  target: pt:dre:197317:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:222418:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:245336:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:300628:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:309481:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:325554:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:384386:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:518792:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:528853:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:618554:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:653145:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:660513:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:676663:por
+  label: null
+  source: null
+- type: corrected_by
+  target: pt:dre:667711:por
+  label: "Rectificada pela DECL-RECT.16/2006.10.03.2006.PCM, DR.IS-B [58] de 22.03.2006\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/declaracao-rectificacao/16-2006-667711
+  date: '2006-03-10'
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:16:50Z'
   warnings: []
   errors: []
 ---
@@ -158,8 +221,8 @@ Pela Ministra da Educação, Valter Victorino Lemos, Secretário de Estado da Ed
 
 ## ANEXO I — Cursos reconhecidos como habilitação própria para o 2.º ciclo do ensino básico
 
-[(ver mapa no documento original)](https://files.diariodarepublica.pt/1s/2006/01/017b00/05520575.pdf)
+[[(ver mapa no documento original)](https://files.diariodarepublica.pt/1s/2006/01/017b00/05520575.pdf)](https://files.diariodarepublica.pt/1s/2006/01/017b00/05520575.pdf)
 
 ## ANEXO II — Cursos reconhecidos como habilitação própria para o 3.º ciclo do ensino básico e para o ensino secundário
 
-[(ver mapa no documento original)](https://files.diariodarepublica.pt/1s/2006/01/017b00/05520575.pdf)
+[[(ver mapa no documento original)](https://files.diariodarepublica.pt/1s/2006/01/017b00/05520575.pdf)](https://files.diariodarepublica.pt/1s/2006/01/017b00/05520575.pdf)

@@ -19,12 +19,12 @@ publication:
   reference: Diário da República n.º 118/2015, 1º Suplemento, Série II de 2015-06-19
   number: '118'
   series: II
-  supplement: 1º Suplemento
+  supplement: null
   pages: 16564-(6) a 16564-(13)
   pdf_url: https://files.diariodarepublica.pt/2s/2015/06/118000001/0000600013.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,45 +46,79 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/despacho-normativo/10-a-2015-67552519
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2016-06-16T00:00:00Z'
+  retrieved_at: '2026-10-23T15:07:55Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: bf8171032f8a01b9e9118fbdfacdd3688d641df4bf3fb001ea0aabf52d81448b
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: ddbfe7f8035080c8472a53a84f74df3fa3ef303acd5a8615c4d511edcc2cee08
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:07:55Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Actividades de Complemento Curricular
+- Agrupamento de Escolas
+- Autonomia Administrativa
+- Autonomia Pedagógica
+- Conselho Pedagógico
+- Director Adjunto
+- Diretor
+- Educação Pré-escolar
+- Educador de Infância
+- Ensino Artístico
+- Ensino Básico
+- Ensino Oficial
+- Ensino Secundário
+- Estabelecimento de Ensino
+- Gestão Escolar
+- Horário de Trabalho
+- Horário Escolar
+- Pessoal Docente
+- Tempo de Serviço
+- TIC
 relationships:
 - type: amended_by
   target: pt:dre:74717238:por
   label: Última alteração registada na importação inicial
   source: null
+- type: cites
+  target: pt:dre:178527:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:249866:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:74717238:por
+  label: Revogado, a partir do ano escolar de 2016-2017, pelo(a) Despacho Normativo n.º 4-A/2016 - Diário da República n.º
+    114/2016, 1º Suplemento, Série II de 2016-06-16
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/despacho-normativo/4-a-2016-74717238
+  date: '2016-06-16'
 article_structure:
   article_count: 20
   section_count: 5
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:07:55Z'
   warnings: []
   errors: []
 ---
 
-# Despacho Normativo n.º 10-A/2015
+# Despacho normativo n.º 10-A/2015
 
 Prosseguindo a política estabelecida nos últimos despachos de organização do ano letivo, o presente despacho visa atualizar e melhorar as condições do exercício da autonomia pedagógica e organizativa de cada escola e harmonizá-los com os princípios consagrados no regime jurídico de autonomia, administração e gestão dos estabelecimentos públicos da educação pré-escolar e dos ensinos básico e secundário. Pretende, também, conferir ainda maior flexibilidade na organização das atividades letivas, aumentar a eficiência na distribuição do serviço e valorizar os resultados escolares, tendo em atenção a experiência da aplicação dos Despachos Normativos números 13-A/2012, de 5 de junho, 7/2013, de 11 de junho, 7-A/2013, de 10 de julho, e 6/2014, de 26 de maio.
 
@@ -504,7 +538,7 @@ ANEXOS
 
 A parcela Dir da componente para a gestão do crédito horário calcula-se de acordo com a seguinte tabela:
 
-[([ver documento original](https://files.diariodarepublica.pt/2s/2015/06/118000001/0000600013.pdf))](https://files.diariodarepublica.pt/2s/2015/06/118000001/0000600013.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/2s/2015/06/118000001/0000600013.pdf)
 
 O valor obtido para a parcela Dir é acrescido de:
 
@@ -560,15 +594,15 @@ Escola com provas finais ou exames nacionais
 
 nos ensinos básico e secundário
 
-[([ver documento original](https://files.diariodarepublica.pt/2s/2015/06/118000001/0000600013.pdf))](https://files.diariodarepublica.pt/2s/2015/06/118000001/0000600013.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/2s/2015/06/118000001/0000600013.pdf)
 
 Escola com exames nacionais no ensino secundário
 
-[([ver documento original](https://files.diariodarepublica.pt/2s/2015/06/118000001/0000600013.pdf))](https://files.diariodarepublica.pt/2s/2015/06/118000001/0000600013.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/2s/2015/06/118000001/0000600013.pdf)
 
 Escola com provas finais no ensino básico
 
-[([ver documento original](https://files.diariodarepublica.pt/2s/2015/06/118000001/0000600013.pdf))](https://files.diariodarepublica.pt/2s/2015/06/118000001/0000600013.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/2s/2015/06/118000001/0000600013.pdf)
 
 No ensino básico considera-se a escala de 1 (um) a 5 (cinco) e no ensino secundário a escala de 0 (zero) a 200 (duzentos).
 
@@ -580,7 +614,7 @@ TABELA 2
 
 Diferenças entre avaliação sumativa interna e avaliação sumativa externa
 
-[([ver documento original](https://files.diariodarepublica.pt/2s/2015/06/118000001/0000600013.pdf))](https://files.diariodarepublica.pt/2s/2015/06/118000001/0000600013.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/2s/2015/06/118000001/0000600013.pdf)
 
 No ensino básico considera-se a escala de 1 (um) a 5 (cinco) e no ensino secundário a escala de 0 (zero) a 200 (duzentos).
 
@@ -592,15 +626,15 @@ Comparação da variação anual das classificações de exame de cada escola co
 
 Escola com provas finais ou exames nacionais nos ensinos básico e secundário
 
-[([ver documento original](https://files.diariodarepublica.pt/2s/2015/06/118000001/0000600013.pdf))](https://files.diariodarepublica.pt/2s/2015/06/118000001/0000600013.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/2s/2015/06/118000001/0000600013.pdf)
 
 Escola com exames no ensino secundário
 
-[([ver documento original](https://files.diariodarepublica.pt/2s/2015/06/118000001/0000600013.pdf))](https://files.diariodarepublica.pt/2s/2015/06/118000001/0000600013.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/2s/2015/06/118000001/0000600013.pdf)
 
 Escola com provas finais no ensino básico
 
-[([ver documento original](https://files.diariodarepublica.pt/2s/2015/06/118000001/0000600013.pdf))](https://files.diariodarepublica.pt/2s/2015/06/118000001/0000600013.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/2s/2015/06/118000001/0000600013.pdf)
 
 Os parâmetros A(índice n) e B(índice n) (n = 1, 2, 3, 4, 5, 6) dependem da variação anual das classificações de provas finais ou exames de cada escola relativamente à variação anual da média nacional, sendo esta definida como na Tabela 1.
 
@@ -608,7 +642,7 @@ TABELA 4
 
 Comparação da variação anual das classificações de provas finais ou exames de cada escola com a variação anual nacional em três anos sucessivos
 
-[([ver documento original](https://files.diariodarepublica.pt/2s/2015/06/118000001/0000600013.pdf))](https://files.diariodarepublica.pt/2s/2015/06/118000001/0000600013.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/2s/2015/06/118000001/0000600013.pdf)
 
 Nota: Em qualquer das tabelas que constam deste Anexo D, a passagem de uma condição para a seguinte deve ser interpretada como «caso contrário, se».
 
@@ -634,13 +668,13 @@ A informação relativa ao número de turmas previstas para o ano letivo é apur
 
 O indicador de redução da percentagem de alunos em abandono ou risco de abandono (RA) é calculado com base no número de alunos que a escola reporte no final do ano letivo com uma das seguintes situações: abandonou, anulou a matrícula, ficou retido ou excluído da frequência por excesso de faltas, nos dois anos letivos anteriores àquele em que se aplica o valor respetivo. Este valor será apurado até ao dia 18 de agosto pela DGEEC, mediante o envio para o sistema MISI, por parte da escola, até ao dia 12 de agosto, dos dados de alunos, relativos ao final do ano letivo, ficando disponível para consulta na área reservada à escola, e é calculado de acordo com a tabela seguinte:
 
-[([ver documento original](https://files.diariodarepublica.pt/2s/2015/06/118000001/0000600013.pdf))](https://files.diariodarepublica.pt/2s/2015/06/118000001/0000600013.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/2s/2015/06/118000001/0000600013.pdf)
 
 ## ANEXO H
 
 A parcela GTIC é obtida a partir da diferença entre o número de horas que constam na tabela seguinte e o valor que resulta das horas da componente não letiva de estabelecimento dos docentes de quadro do Grupo de Recrutamento 550 (Informática).
 
-[([ver documento original](https://files.diariodarepublica.pt/2s/2015/06/118000001/0000600013.pdf))](https://files.diariodarepublica.pt/2s/2015/06/118000001/0000600013.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/2s/2015/06/118000001/0000600013.pdf)
 
 O valor de GTIC é igual a zero sempre que a referida diferença seja negativa.
 
@@ -697,3 +731,5 @@ e) Nas disciplinas de caráter laboratorial da componente de formação científ
 f) Sem prejuízo do disposto na alínea seguinte, nas disciplinas de caráter laboratorial, oficinal, informático ou artístico da componente de formação técnica dos cursos profissionais, na totalidade da carga horária semanal, quando o número de alunos for superior a 15;
 
 g) Nas disciplinas da componente de formação técnica dos cursos profissionais ou Vocacionais de música, deve ser observado o disposto para as disciplinas congéneres do ensino artístico especializado, nos regimes articulado e integrado, na legislação específica aplicável.
+
+208736178

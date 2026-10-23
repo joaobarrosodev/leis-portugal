@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/2s/2023/11/224000000/0002600027.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -47,18 +47,18 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria-extrato/680-2023-224432857
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2023-11-20T00:00:00Z'
+  retrieved_at: '2026-10-23T15:09:29Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 3c48ba6d8fd0a699cda714ab87f6dcd3ef7551aa20f740abd2c1b6b95330b643
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 14be2c83e40ed0f552ddba3a194eec497d0ce6be34a41988a05c312c56c8abb3
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:09:29Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,17 +66,49 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects: []
-relationships: []
+relationships:
+- type: cites
+  target: pt:dre:178845:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:183941536:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:207177836:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:212322848:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:311259:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:542996:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:66773610:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:67356343:por
+  label: null
+  source: null
 article_structure:
-  article_count: 3
+  article_count: 2
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:09:29Z'
   warnings: []
   errors: []
 ---
@@ -101,7 +133,7 @@ São alterados os artigos 1.º e 2.º da [Portaria n.º 190/2023](https://diario
 
 Fica a Autoridade Nacional de Segurança Rodoviária (ANSR) autorizada a assumir os encargos orçamentais relativos ao contrato de aquisição de serviços de tratamento de pedidos de infrator e recolha de peças processuais do arquivo intermédio, a celebrar até ao montante global de (euro) 585 840,60 (quinhentos e oitenta e cinco mil, oitocentos e quarenta euros e sessenta cêntimos), acrescido do IVA à taxa legal em vigor.
 
-###### Artigo 2.º
+Artigo 2.º
 
 Os encargos financeiros resultantes da aquisição referida no artigo anterior não poderão, em cada ano económico, exceder os seguintes montantes, aos quais acresce o valor do IVA nos termos legais:
 
@@ -118,3 +150,5 @@ d) 2026 - (euro) 162 733,50 (cento e sessenta e dois mil, setecentos e trinta e 
 A presente portaria entra em vigor no dia seguinte ao da sua publicação.
 
 9 de novembro de 2023. - A Secretária de Estado da Proteção Civil, Patrícia Alexandra Costa Gaspar.
+
+317044282

@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/183/2006/02/22/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/183-2006-676200
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2011-06-24T00:00:00Z'
+  retrieved_at: '2026-10-23T15:12:31Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 2757e2d38d1d5da0d3c36ec20fb3a43026257d33bc3b53a74b7218638bf9048b
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: bfe2469d2745a40e73fa3aa4a86ecb24b8774640f8240cb9c433aab4e4d16921
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:12:31Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -65,27 +65,45 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Médico
-- Formação Profissional
+- Avaliação de Conhecimentos
 - Concurso
+- Condições de Higiene e Segurança no Trabalho
 - Definição de Competências
 - Ensino Médico
-- Exame
-- Férias
-- Internato Médico
-- Faltas
-- Qualificação Profissional
 - Estágio de Formação
-- Avaliação de Conhecimentos
-- Regime de Pessoal
-- Condições de Higiene e Segurança no Trabalho
-- Regulamento
+- Exame
+- Faltas
+- Férias
+- Formação Profissional
+- Internato Médico
+- Médico
 - Mobilidade de Pessoal
+- Qualificação Profissional
+- Regime de Pessoal
+- Regulamento
 relationships:
 - type: amended_by
   target: pt:dre:670366:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:605505:por
+  label: "Aditada a área profissional de especialização de Medicina Desportiva ao elenco constante do anexo I pela PORT.302/2009.24.03.2009.MS,\
+    \ DR.IS [58] de 24.03.2009\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/302-2009-605505
+  date: '2009-03-24'
+- type: amended_by
+  target: pt:dre:343924:por
+  label: "Aditadas as áreas profissionais de especialização de cirurgia cardíaca e de cirurgia torácica, em substituição da\
+    \ área profissional de cirurgia cardiotorácica, ao elenco constante do anexo I, pela PORT.825/2010.30.08.2010.MS, DR.IS\
+    \ [168] de 30.08.2010\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/825-2010-343924
+  date: '2010-08-30'
+- type: amended_by
+  target: pt:dre:344396:por
+  label: "Dada nova redacção ao art. 75º pela PORT.839/2010.01.09.2010.MS, DR.IS [170] de 01.09.2010\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/839-2010-344396
+  date: '2010-09-01'
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/203/2004/08/18/p/dre
   label: null
@@ -98,16 +116,48 @@ relationships:
   target: eli:http://data.dre.pt/eli/port/695/1995/06/30/p/dre
   label: null
   source: http://data.dre.pt/eli/port/695/1995/06/30/p/dre
+- type: cites
+  target: pt:dre:380737:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:381297:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:399665:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:459419:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:476721:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:480703:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:670366:por
+  label: "Revogada, a partir de 01.07.2011, pela PORT.251/2011.24.06.2011.MS, DR.IS [120] de 24.06.2011, sem prejuízo do disposto\
+    \ nos seu nº 2 do art. 96º (mantém em vigor os programas de formação publicados ao abrigo do presente diploma, até à publicação\
+    \ da respectiva revisão), e no seu art. 97º (mantém em vigor o regime previsto nos arts. 46º a 50º da presente portaria,\
+    \ até à aprovação dos novos procedimentos da prova nacional). \0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/251-2011-670366
+  date: '2011-06-24'
 article_structure:
   article_count: 107
   section_count: 42
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:12:31Z'
   warnings: []
   errors: []
 ---

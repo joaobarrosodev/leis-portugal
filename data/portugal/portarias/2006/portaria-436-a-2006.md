@@ -20,7 +20,7 @@ publication:
   reference: Diário da República n.º 87/2006, 1º Suplemento, Série I-B de 2006-05-05
   number: '87'
   series: I
-  supplement: 1º Suplemento
+  supplement: null
   pages: 3254-(2) a 3254-(3)
   pdf_url: https://files.diariodarepublica.pt/1s/2006/05/087b01/00020003.pdf
 entry_into_force_dates: []
@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/436-a/2006/05/05/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/436-a-2006-242901
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2006-05-05T00:00:00Z'
+  retrieved_at: '2026-10-23T15:14:06Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: d36696902586510afbe83efb36bf218cbd9050e3cd00611796b118247acfeb95
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: b9cf38f198b79b631845fa285e69b8930de9a85f2dddf6ce57a3d18b35c01fdd
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:14:06Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,8 +67,8 @@ reuse:
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
 - Despesas de Deslocação
-- Remuneração
 - Processo de Execução
+- Remuneração
 - Solicitador
 relationships:
 - type: cites
@@ -83,16 +83,28 @@ relationships:
   target: eli:http://data.dre.pt/eli/port/708/2003/08/04/p/dre
   label: null
   source: http://data.dre.pt/eli/port/708/2003/08/04/p/dre
+- type: cites
+  target: pt:dre:220944:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:652972:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:661170:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:14:06Z'
   warnings: []
   errors: []
 ---
@@ -131,7 +143,9 @@ Os artigos 10.º e 13.º da [Portaria n.º 708/2003](https://diariodarepublica.p
 
 4 - Para os efeitos previstos no número anterior, deve o exequente ser previamente informado do custo provável da deslocação e de que, sendo o acto praticado por agente de execução da comarca em causa, não há lugar ao pagamento de tais despesas e ainda de que estas despesas de deslocação não integram as custas que o exequente tem a haver do executado.
 
-###### Artigo 13.º — [...]
+Artigo 13.º
+
+[...]
 
 1 - ...
 
@@ -159,4 +173,4 @@ Entrada em vigor
 
 A presente portaria entra em vigor no dia seguinte ao da sua publicação.
 
-**O Ministro da Justiça, Alberto Bernardes Costa, em 26 de Abril de 2006.**
+O Ministro da Justiça, Alberto Bernardes Costa, em 26 de Abril de 2006.

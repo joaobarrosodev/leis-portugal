@@ -47,41 +47,62 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/despacho-normativo/9-2012-1690206
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2012-04-12T00:00:00Z'
+  retrieved_at: '2026-10-23T15:07:44Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 8c8fc794b6d339e651765b2b37427de84dd18a8d52cd9c67c759516632da9ba8
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: cdf555b9c04f9de49e12a5c1ae7e04e3b45bbf217798f0811e0909808ddcec12
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:07:44Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
-relationships: []
+subjects:
+- Armador
+- Definição de Competências
+- Embarcação
+- Equipamento Marítimo
+- Financiamento
+- Instituto Portuário e dos Transportes Marítimos
+- Marinha Mercante
+- Projeto de Investimento
+- Subsídio não Reembolsável
+relationships:
+- type: cites
+  target: pt:dre:243769:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:453551:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:485060:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:07:44Z'
   warnings: []
   errors: []
 ---
 
-# Despacho Normativo n.º 9/2012
+# Despacho normativo n.º 9/2012
 
 No conjunto de medidas de apoio à marinha de comércio nacional incluem-se os projetos de investimento destinados à sua modernização. Tais medidas visam apoiar a introdução de novas tecnologias e transformações que contribuam para aumentar a capacidade competitiva dos navios de comércio nacionais, registados nos órgãos locais da Autoridade Marítima (registo convencional) e, bem assim, a proteção e segurança da navegação, a prevenção da poluição e a qualidade e fiabilidade do serviço prestado.
 
@@ -234,3 +255,5 @@ c) Em qualquer dos casos referidos nas alíneas anteriores a quantia é devida a
 a) Quando o proprietário ou locatário do navio objeto de subsídio registe em bandeira portuguesa (registo convencional) um navio equivalente destinado a substituir o navio objeto de subsídio;
 
 b) Quando o navio objeto de subsídio mantenha o seu registo em bandeira portuguesa (registo convencional) e o novo proprietário se obrigue às condições estipuladas no presente despacho.
+
+205954768

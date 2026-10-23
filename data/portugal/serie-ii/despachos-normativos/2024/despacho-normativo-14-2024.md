@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/2s/2024/09/180000000/0016700169.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -46,18 +46,18 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/despacho-normativo/14-2024-887971058
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2024-09-17T00:00:00Z'
+  retrieved_at: '2026-10-23T15:09:05Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 142bd1f2eab70ae9eb3805eec96dda9d3f648f4e1901cd544593cdb850ff2c91
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: e081a6031d1aa4d7561bcbd540434266c57171194726a4751dbeb60bfbed7741
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:09:05Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -65,17 +65,29 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects: []
-relationships: []
+relationships:
+- type: cites
+  target: pt:dre:126061002:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:1489836:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:640339:por
+  label: null
+  source: null
 article_structure:
   article_count: 1
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:09:05Z'
   warnings: []
   errors: []
 ---
@@ -114,36 +126,47 @@ O IPCB adota a simbologia abaixo, utilizada nos termos do Manual de Identidade d
 
 I. Instituto Politécnico de Castelo Branco (IPCB)
 
-![](https://files.diariodarepublica.pt/images/887971058/887971392.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/887971058/887971392.png) |
+| --- |
 
 II. Escola Superior Agrária de Castelo Branco (ESACB)
 
-![](https://files.diariodarepublica.pt/images/887971058/887971393.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/887971058/887971393.png) |
+| --- |
 
 III. Escola Superior de Artes Aplicadas (ESART)
 
-![](https://files.diariodarepublica.pt/images/887971058/887971394.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/887971058/887971394.png) |
+| --- |
 
 IV. Escola Superior de Educação de Castelo Branco (ESECB)
 
-![](https://files.diariodarepublica.pt/images/887971058/887971395.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/887971058/887971395.png) |
+| --- |
 
 V. Escola Superior de Gestão de Idanha-a-Nova (ESGIN)
 
-![](https://files.diariodarepublica.pt/images/887971058/887971396.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/887971058/887971396.png) |
+| --- |
 
 VI. Escola Superior de Saúde Dr. Lopes Dias (ESALD)
 
-![](https://files.diariodarepublica.pt/images/887971058/887971397.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/887971058/887971397.png) |
+| --- |
 
 VII. Escola Superior de Tecnologia de Castelo Branco
 
-![](https://files.diariodarepublica.pt/images/887971058/887971398.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/887971058/887971398.png) |
+| --- |
 
 VIII. Serviços de Ação Social (SAS)
 
-![](https://files.diariodarepublica.pt/images/887971058/887971399.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/887971058/887971399.png) |
+| --- |
 
 IX. Centro de Estudos e Desenvolvimento Regional (CEDER)
 
-![](https://files.diariodarepublica.pt/images/887971058/887971400.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/887971058/887971400.png) |
+| --- |
+
+318105082

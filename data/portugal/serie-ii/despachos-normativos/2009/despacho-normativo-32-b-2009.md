@@ -20,7 +20,7 @@ publication:
   reference: Diário da República n.º 185/2009, 1º Suplemento, Série II de 2009-09-23
   number: '185'
   series: II
-  supplement: 1º Suplemento
+  supplement: null
   pages: 38880-(2) a 38880-(2)
   pdf_url: https://files.diariodarepublica.pt/2s/2009/09/185000001/0000200002.pdf
 entry_into_force_dates: []
@@ -47,41 +47,57 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/despacho-normativo/32-b-2009-1233359
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2009-09-23T00:00:00Z'
+  retrieved_at: '2026-10-23T15:07:18Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: ac6983306dcb46cd6b084a568c7b72ffa574e3d4ee759e7d77856de8e9a3cd5b
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 67d28b4da9ed18cdbd935fe28e2e975a61a6f5447764d3ef4245732d7485bce8
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:07:18Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
-relationships: []
+subjects:
+- Açores
+- Autarquia Local
+- Definição de Competências
+- Direcção Geral de Administração Interna
+- Eleição Autárquica
+- GNR
+- Governador Civil
+- Instituto das Tecnologias de Informação na Justiça
+- Madeira.região Autónoma
+- Portugal Telecom
+- PSP
+- Resultado Eleitoral
+relationships:
+- type: cites
+  target: pt:dre:524039:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:07:18Z'
   warnings: []
   errors: []
 ---
 
-# Despacho Normativo n.º 32-B/2009
+# Despacho normativo n.º 32-B/2009
 
 Considerando o manifesto interesse no rápido conhecimento e difusão dos resultados da eleição dos órgãos das autarquias locais, apurados no escrutínio provisório, cuja organização e direcção cabem à Direcção-Geral de Administração Interna do Ministério da Administração Interna, nos termos do artigo 136.º da lei eleitoral dos órgãos das autarquias locais ([Lei Orgânica n.º 1/2001](https://diariodarepublica.pt/dr/detalhe/lei-organica/1-2001-524039), de 14 de Agosto), determina-se o seguinte:
 
@@ -116,3 +132,5 @@ c) Guarda Nacional Republicana e Polícia de Segurança Pública.
 7 - Na difusão dos resultados do escrutínio provisório, os órgãos de comunicação social devem indicar expressamente que se trata de resultados provisórios fornecidos pela Direcção-Geral de Administração Interna do Ministério da Administração Interna.
 
 22 de Setembro de 2009. - O Primeiro-Ministro, José Sócrates Carvalho Pinto de Sousa. - O Ministro da Administração Interna, Rui Carlos Pereira.
+
+900000074

@@ -48,36 +48,45 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/resolucao/4-2007-1636243
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2007-01-22T00:00:00Z'
+  retrieved_at: '2026-10-23T15:13:57Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 24986e2c82c10caa3964a82d1a924ae8d0ce82985685f5067a3b92483aac8ead
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 820d82f1a00cd455e44ae9b30ef6bed8f994d7fdf3c0e6fa7430df6c099d202f
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:13:57Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
-relationships: []
+subjects:
+- Entidade Reguladora dos Serviços Energéticos
+- Exoneração
+- Nomeação
+- Presidente
+- Vogal
+relationships:
+- type: cites
+  target: pt:dre:303200:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:13:57Z'
   warnings: []
   errors: []
 ---
@@ -86,7 +95,7 @@ validation:
 
 Os Estatutos da Entidade Reguladora dos Serviços Energéticos (ERSE), aprovados pelo [Decreto-Lei n.º 97/2002](https://diariodarepublica.pt/dr/detalhe/decreto-lei/97-2002-303200), de 12 de Abril, prevêem, no artigo 28.º, que o respectivo conselho de administração seja composto por um presidente e dois vogais, nomeados por resolução do Conselho de Ministros, pelo período de cinco anos.
 
-**O presidente do conselho de administração da ERSE, engenheiro António Jorge Viegas de Vasconcelos, nomeado inicialmente para o exercício do cargo nos termos da resolução do Conselho de Ministros n.º 7/97 (2.ª série), de 19 de Fevereiro, e posteriormente reconduzido no mesmo cargo nos termos da resolução do Conselho de Ministros n.º 23/2002 (2.ª série), de 27 de Fevereiro, solicitou a cessação do seu mandato, pelo que, nos termos do disposto no n.º 6 do artigo 30.º dos Estatutos da ERSE, importa proceder à nomeação do seu substituto.**
+O presidente do conselho de administração da ERSE, engenheiro António Jorge Viegas de Vasconcelos, nomeado inicialmente para o exercício do cargo nos termos da resolução do Conselho de Ministros n.º 7/97 (2.ª série), de 19 de Fevereiro, e posteriormente reconduzido no mesmo cargo nos termos da resolução do Conselho de Ministros n.º 23/2002 (2.ª série), de 27 de Fevereiro, solicitou a cessação do seu mandato, pelo que, nos termos do disposto no n.º 6 do artigo 30.º dos Estatutos da ERSE, importa proceder à nomeação do seu substituto.
 
 O Prof. Doutor Vítor Manuel da Silva Santos, nomeado para vogal do conselho de administração da ERSE nos termos da resolução do Conselho de Ministros n.º 38/2006 (2.ª série), de 5 de Maio, possui qualificações adequadas para o desempenho do cargo de presidente, comprovada experiência técnica e profissional e conhecimento do sector energético e do funcionamento da própria ERSE.
 

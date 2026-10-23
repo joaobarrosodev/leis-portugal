@@ -22,12 +22,12 @@ publication:
   reference: Diário da República n.º 212/2006, 1º Suplemento, Série I de 2006-11-03
   number: '212'
   series: I
-  supplement: 1º Suplemento
+  supplement: null
   pages: 7708-(2) a 7708-(8)
   pdf_url: https://files.diariodarepublica.pt/1s/2006/11/21201/00020008.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -49,18 +49,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/1192-a/2006/11/03/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/1192-a-2006-152703
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2013-07-12T00:00:00Z'
+  retrieved_at: '2026-10-23T15:10:52Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: feb8996ee7d273fdeb7a654de89c6b04102205597064262e23eaec89f9ab60fb
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 3a5eb7b06e4a0c345ace149a88cbbc90ccd9f845e96214742c563fc113b24b1f
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:10:52Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -69,21 +69,27 @@ reuse:
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
 - Actualização de Renda
-- Modernização Administrativa
-- Avaliação de Prédios
-- Obras de Conservação e Restauro
 - Arrendamento Urbano não Habitacional
+- Arrendamento Urbano para Habitação
+- Avaliação de Prédios
 - Impresso
 - Instituto Nacional de Habitação
-- Subsídio de Renda de CASA
+- Modernização Administrativa
+- Obras de Conservação e Restauro
 - Prédio Urbano
-- Arrendamento Urbano para Habitação
 - Rendimento Anual Bruto Corrigido
+- Subsídio de Renda de CASA
 relationships:
 - type: amended_by
   target: pt:dre:498078:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:632429:por
+  label: "Mantida em vigor, pelo DEC LEI.266-C/2012.31.12.2012.MAMAOT, DR.IS [252-2ºSupl] de 31.12.2012, nos termos do art.\
+    \ 6º.\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/266-c-2012-632429
+  date: '2012-12-31'
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/156/2006/08/08/p/dre
   label: null
@@ -112,16 +118,54 @@ relationships:
   target: eli:http://data.dre.pt/eli/port/1282/2003/11/13/p/dre
   label: null
   source: http://data.dre.pt/eli/port/1282/2003/11/13/p/dre
+- type: cites
+  target: pt:dre:445959:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:538614:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:538618:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:538619:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:538623:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:575727:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:667147:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:693853:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:498078:por
+  label: "Revogada pela PORT.226/2013.12.07.2013.PCM, DR.IS [133] de 12.07.2013, sem prejuízo do disposto no n.º 1 do art.\
+    \ 5º\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/226-2013-498078
+  date: '2013-07-12'
 article_structure:
   article_count: 8
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:10:52Z'
   warnings: []
   errors: []
 ---
@@ -246,4 +290,4 @@ Em 30 de Outubro de 2006.
 
 Pelo Ministro de Estado e da Administração Interna, Eduardo Arménio do Nascimento Cabrita, Secretário de Estado Adjunto e da Administração Local. - O Ministro de Estado e das Finanças, Fernando Teixeira dos Santos. - Pelo Ministro do Ambiente, do Ordenamento do Território e do Desenvolvimento Regional, João Manuel Machado Ferrão, Secretário de Estado do Ordenamento do Território e das Cidades. - Pelo Ministro do Trabalho e da Solidariedade Social, Pedro Manuel Dias de Jesus Marques, Secretário de Estado da Segurança Social.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2006/11/21201/00020008.pdf))](https://files.diariodarepublica.pt/1s/2006/11/21201/00020008.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2006/11/21201/00020008.pdf)

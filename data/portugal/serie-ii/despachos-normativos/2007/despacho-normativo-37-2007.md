@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/2s/2007/10/205000000/3072130721.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,25 +46,28 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/despacho-normativo/37-2007-2324730
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2008-11-25T00:00:00Z'
+  retrieved_at: '2026-10-23T15:06:43Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 2fe6e4494aec774ac4e03b14865821c7631f077d7ad04195a022b862f0b9aee7
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 4db7a72e15232cc26d0e9e447c3af5af248581f2d72105d5ce4b1abf8b626c4d
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:06:43Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Agricultura
+- Prémio
+- Trigo
 relationships:
 - type: amended_by
   target: pt:dre:2963597:por
@@ -74,21 +77,34 @@ relationships:
   target: celex:32004R1973
   label: null
   source: null
+- type: cites
+  target: pt:dre:541853:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:566004:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:2963597:por
+  label: "Revogado pelo DN.60/2008.25.11.2008.MADRP, DR.IIS [229] de 25.11.2008\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/despacho-normativo/60-2008-2963597
+  date: '2008-11-25'
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:06:43Z'
   warnings: []
   errors: []
 ---
 
-# Despacho Normativo n.º 37/2007
+# Despacho normativo n.º 37/2007
 
 O [Despacho Normativo n.º 45/2004](https://diariodarepublica.pt/dr/detalhe/despacho-normativo/45-2004-566004), de 28 de Outubro, estabeleceu as regras nacionais de aplicação previstas no capítulo 2 do Regulamento (CE) n.º 1973/2004, da Comissão, de 29 de Outubro, e nele se prevê que as variedades de trigo-duro sejam sujeitas no mínimo a dois anos de ensaios, após os quais se procede à determinação laboratorial dos parâmetros de qualidade.
 

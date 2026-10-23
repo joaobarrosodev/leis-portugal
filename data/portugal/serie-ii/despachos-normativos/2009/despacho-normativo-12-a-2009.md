@@ -19,7 +19,7 @@ publication:
   reference: Diário da República n.º 61/2009, 2º Suplemento, Série II de 2009-03-27
   number: '61'
   series: II
-  supplement: 2º Suplemento
+  supplement: null
   pages: 11910-(20) a 11910-(35)
   pdf_url: https://files.diariodarepublica.pt/2s/2009/03/061000002/0002000035.pdf
 entry_into_force_dates: []
@@ -46,45 +46,63 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/despacho-normativo/12-a-2009-1053611
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2019-03-14T00:00:00Z'
+  retrieved_at: '2026-10-23T15:07:09Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 5fa04ac2f7a7ebf1ce0dae387ea106260d5230725a7189256b16a4912ae12911
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 3531367be73f4d4d269b4ab9b3ac4dac7c236bb27645e966de32b4826f81b07b
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:07:09Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Estatuto
+- Homologação
+- Instituto Politécnico
+- Viseu
 relationships:
 - type: amended_by
   target: pt:dre:120999245:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:120999245:por
+  label: Homologadas as alterações aos Estatutos do Instituto Politécnico de Viseu, homologados pelo presente diploma, pelo(a)
+    Despacho Normativo n.º 7/2019 - Diário da República n.º 52/2019, Série II de 2019-03-14
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/despacho-normativo/7-2019-120999245
+  date: '2019-03-14'
+- type: cites
+  target: pt:dre:556606:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:640339:por
+  label: null
+  source: null
 article_structure:
   article_count: 125
   section_count: 39
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:07:09Z'
   warnings: []
   errors: []
 ---
 
-# Despacho Normativo n.º 12-A/2009
+# Despacho normativo n.º 12-A/2009
 
 Considerando que, nos termos do n.º 1 do artigo 172.º da [Lei n.º 62/2007](https://diariodarepublica.pt/dr/detalhe/lei/62-2007-640339), de 10 de Setembro, as instituições de ensino superior devem proceder à revisão dos seus estatutos, de modo a conformá-los com o novo Regime Jurídico das Instituições de Ensino Superior;
 
@@ -546,7 +564,7 @@ d) A votação final do Conselho Geral, por maioria absoluta e voto secreto.
 
 ###### Artigo 32.º — Estrutura da presidência
 
-**O Presidente aprova, por despacho, o regime interno da presidência, podendo, se considerar adequado ao bom funcionamento do Instituto, organizar a presidência por áreas de actividade.**
+O Presidente aprova, por despacho, o regime interno da presidência, podendo, se considerar adequado ao bom funcionamento do Instituto, organizar a presidência por áreas de actividade.
 
 ###### Artigo 33.º — Vice-presidentes
 
@@ -1022,7 +1040,7 @@ b) Outras competências que lhe sejam atribuídas pelos estatutos das escolas, n
 
 ###### Artigo 56.º — Regime da prestação de serviço
 
-**O Presidente e os vice-presidentes ficam dispensados da prestação de serviço docente sem prejuízo de, por sua iniciativa, o poderem prestar a título gracioso.**
+O Presidente e os vice-presidentes ficam dispensados da prestação de serviço docente sem prejuízo de, por sua iniciativa, o poderem prestar a título gracioso.
 
 ###### Artigo 57.º — Conselho Técnico-Científico
 
@@ -1696,7 +1714,7 @@ A requerimento do instrutor do processo, o Presidente do Instituto ou os preside
 
 ###### Artigo 112.º — Decisão disciplinar
 
-**O Presidente, ou quem tiver a competência delegada para o efeito, aprecia o relatório elaborado pelo instrutor e a resposta do estudante, no prazo máximo de um mês, a contar de data da recepção desta ou da data em que esta já não pode ser recebida e, observadas as demais formalidades legais, procede à aplicação da sanção disciplinar.**
+O Presidente, ou quem tiver a competência delegada para o efeito, aprecia o relatório elaborado pelo instrutor e a resposta do estudante, no prazo máximo de um mês, a contar de data da recepção desta ou da data em que esta já não pode ser recebida e, observadas as demais formalidades legais, procede à aplicação da sanção disciplinar.
 
 ###### Artigo 113.º — Garantias de defesa do estudante
 
@@ -1849,3 +1867,5 @@ c) Dois representantes do pessoal não docente.
 1 - Os presentes estatutos entram em vigor no dia seguinte ao da sua publicação no Diário da República, salvo o disposto no número seguinte.
 
 2 - Os actuais órgãos do Instituto mantêm-se em funcionamento ao abrigo dos estatutos anteriores até à tomada de posse dos novos órgãos.
+
+201599405

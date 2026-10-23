@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/2s/2025/03/043000002/0000400076.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -47,18 +47,18 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/despacho-normativo/2-a-2025-909652600
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2025-03-03T00:00:00Z'
+  retrieved_at: '2026-10-23T15:09:12Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 7ec23c604b77ee5b3aa6c6ee29809f6ce5ca19c9835565d87f7fa67d81f52082
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: bfe5e5af382a24f641531669d045e1683a2e70a34dac7abb3c1043e28d5a11ca
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:09:12Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -71,16 +71,72 @@ relationships:
   target: celex:32016R0679
   label: null
   source: null
+- type: cites
+  target: pt:dre:107791610:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:115652961:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:115652962:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:116640900:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:123815982:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:174840:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:259964:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:490957:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:516044:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:628859:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:66041468:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:853247354:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:856476488:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:863638718:por
+  label: null
+  source: null
 article_structure:
   article_count: 106
   section_count: 16
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:09:12Z'
   warnings: []
   errors: []
 ---
@@ -325,7 +381,7 @@ b) Os alunos abrangidos por medidas adicionais com adaptações curriculares sig
 
 2 - Nas provas ModA os itens de seleção são classificados de forma automática e os itens de construção são classificados pela equipa de avaliadores do IAVE.
 
-3 - A classificação da componente de produção e interação orais das provas ModA é da responsabilidade dos júris nomeados para o efeito, de acordo com o referido nos n.<sup>os</sup>11 e 12 do artigo 10.º
+3 - A classificação da componente de produção e interação orais das provas ModA é da responsabilidade dos júris nomeados para o efeito, de acordo com o referido nos n.os11 e 12 do artigo 10.º
 
 4 - Os agrupamentos de escolas e os estabelecimentos de ensino particular ou cooperativo que, para determinada prova, não possuam um número de professores suficiente para a constituição do júri de avaliação da componente de produção e interação orais de Inglês (45) e de PLNM (43/63), devem diligenciar no sentido de estabelecer uma associação com outras escolas, dando conhecimento da solução adotada à respetiva delegação regional do JNE.
 
@@ -443,7 +499,7 @@ c) Tenham faltado à 1.ª fase, mediante as condições referidas no n.º 1 do a
 
 2 - Nas provas finais do ensino básico os itens de seleção são classificados de forma automática e os itens de construção são classificados pela equipa de avaliadores do IAVE.
 
-3 - A classificação da componente de produção e interação orais das provas finais do ensino básico, quando aplicável, é da responsabilidade dos júris nomeados para o efeito, de acordo com o referido nos n.<sup>os</sup>4 e 5 do artigo 18.º
+3 - A classificação da componente de produção e interação orais das provas finais do ensino básico, quando aplicável, é da responsabilidade dos júris nomeados para o efeito, de acordo com o referido nos n.os4 e 5 do artigo 18.º
 
 ###### Artigo 20.º — Pautas de chamada
 
@@ -535,7 +591,7 @@ b) Um aluno se apresente à realização da prova final do ensino básico com um
 
 14 - A afixação referida no número anterior constitui o único meio oficial de comunicação dos resultados da reapreciação aos requerentes, sendo o prazo previsto no n.º 2 do artigo 26.º contado a partir da data da afixação.
 
-15 - Sem prejuízo dos procedimentos descritos nos n.<sup>os</sup>2 e 12, o processo de reapreciação das provas finais do ensino básico poderá ser efetuado, pelo professor relator, através do original das provas, em suporte papel, na sequência de adaptações na realização das provas finais.
+15 - Sem prejuízo dos procedimentos descritos nos n.os2 e 12, o processo de reapreciação das provas finais do ensino básico poderá ser efetuado, pelo professor relator, através do original das provas, em suporte papel, na sequência de adaptações na realização das provas finais.
 
 ###### Artigo 26.º — Processo de reclamação
 
@@ -557,7 +613,7 @@ b) Um aluno se apresente à realização da prova final do ensino básico com um
 
 9 - A quantia referida no n.º 2 do artigo 24.º é restituída ao requerente se a classificação da reclamação for superior à classificação inicial, no caso de não ter obtido provimento no processo de reapreciação. Nos restantes casos passa a constituir receita própria da escola.
 
-10 - Sem prejuízo dos procedimentos descritos nos n.<sup>os</sup>2 e 4, na sequência de adaptações na realização das provas finais do ensino básico, o processo de reclamação poderá ser efetuado, pelo professor especialista, através do original das provas, em suporte papel.
+10 - Sem prejuízo dos procedimentos descritos nos n.os2 e 4, na sequência de adaptações na realização das provas finais do ensino básico, o processo de reclamação poderá ser efetuado, pelo professor especialista, através do original das provas, em suporte papel.
 
 #### SECÇÃO IV — PROVAS DE EQUIVALÊNCIA À FREQUÊNCIA DO ENSINO BÁSICO
 
@@ -677,9 +733,9 @@ h) Deve ser estabelecido um calendário comum de provas, as quais devem ter luga
 
 i) Em cada uma das escolas são afixadas as pautas de chamada e de classificação correspondentes apenas aos respetivos alunos.
 
-8 - Os agrupamentos de escolas ou escolas não agrupadas e os estabelecimentos de ensino particular ou cooperativo que, para determinada prova, não possuam um número de professores suficiente para a constituição da equipa de elaboração e classificação dessa prova devem diligenciar no sentido de estabelecer uma associação com outras escolas, nos termos definidos nos n.<sup>os</sup>6 e 7, dando conhecimento da solução adotada à respetiva delegação regional do JNE.
+8 - Os agrupamentos de escolas ou escolas não agrupadas e os estabelecimentos de ensino particular ou cooperativo que, para determinada prova, não possuam um número de professores suficiente para a constituição da equipa de elaboração e classificação dessa prova devem diligenciar no sentido de estabelecer uma associação com outras escolas, nos termos definidos nos n.os6 e 7, dando conhecimento da solução adotada à respetiva delegação regional do JNE.
 
-9 - Em caso de impossibilidade de operacionalizar a associação referida no número anterior, deve a situação ser comunicada à respetiva delegação regional do JNE, a qual diligenciará no sentido de estabelecer a associação com outros estabelecimentos de ensino, de acordo com o previsto nos n.<sup>os</sup>6 e 7, ou, em casos excecionais, a implementação de solução considerada mais adequada a assegurar a qualidade científica e pedagógica da prova.
+9 - Em caso de impossibilidade de operacionalizar a associação referida no número anterior, deve a situação ser comunicada à respetiva delegação regional do JNE, a qual diligenciará no sentido de estabelecer a associação com outros estabelecimentos de ensino, de acordo com o previsto nos n.os6 e 7, ou, em casos excecionais, a implementação de solução considerada mais adequada a assegurar a qualidade científica e pedagógica da prova.
 
 10 - As escolas devem garantir a elaboração de duas provas de equivalência à frequência por cada disciplina constante da sua oferta curricular.
 
@@ -779,7 +835,7 @@ i) Em cada uma das escolas são afixadas as pautas de chamada e de classificaç�
 
 8 - Para os efeitos referidos no número anterior, entende-se por discrepância notória a diferença igual ou superior a 15 pontos percentuais entre a classificação resultante da classificação proposta pelo professor relator e a classificação inicial.
 
-9 - O segundo relator reaprecia a prova nos termos referidos no n.º 5 do artigo anterior e nos n.<sup>os</sup> 2 e 4 do presente artigo, com conhecimento da proposta do primeiro relator.
+9 - O segundo relator reaprecia a prova nos termos referidos no n.º 5 do artigo anterior e nos n.os 2 e 4 do presente artigo, com conhecimento da proposta do primeiro relator.
 
 10 - A classificação resultante da proposta do segundo professor relator passa a constituir a classificação final da prova, após homologação pelo Presidente do JNE.
 
@@ -793,7 +849,7 @@ i) Em cada uma das escolas são afixadas as pautas de chamada e de classificaç�
 
 15 - Por solicitação dos requerentes, a escola disponibiliza, sempre que possível, no próprio dia da afixação das classificações dos processos de reapreciação, cópia anonimizada, em suporte digital (formato pdf) ou em suporte papel, dos pareceres dos relatores e da grelha de reapreciação.
 
-16 - Sem prejuízo dos procedimentos descritos nos n.<sup>os</sup>2 e 12, o processo de reapreciação poderá ser efetuado através do original das provas, em suporte papel, por razões de adequação ao código de prova.
+16 - Sem prejuízo dos procedimentos descritos nos n.os2 e 12, o processo de reapreciação poderá ser efetuado através do original das provas, em suporte papel, por razões de adequação ao código de prova.
 
 17 - Pela reapreciação de cada prova, incluindo o parecer devidamente fundamentado referido no n.º 4, é devida ao professor relator a importância ilíquida de € 8,07 (oito euros e sete cêntimos).
 
@@ -819,7 +875,7 @@ i) Em cada uma das escolas são afixadas as pautas de chamada e de classificaç�
 
 10 - A quantia referida no n.º 1 do artigo 38.º é restituída ao requerente se a classificação da reclamação for superior à classificação inicial, no caso de não ter obtido provimento no processo de reapreciação. Nos restantes casos passa a constituir receita própria da escola.
 
-11 - Sem prejuízo dos procedimentos descritos nos n.<sup>os</sup>2 e 5, o processo de análise da reclamação poderá ser efetuado através do original das provas, em suporte papel, por razões de adequação ao código da prova.
+11 - Sem prejuízo dos procedimentos descritos nos n.os2 e 5, o processo de análise da reclamação poderá ser efetuado através do original das provas, em suporte papel, por razões de adequação ao código da prova.
 
 12 - Os especialistas que elaboram o parecer referido no n.º 7 recebem a importância ilíquida de € 16,13 (dezasseis euros e treze cêntimos) por cada reclamação.
 
@@ -981,7 +1037,7 @@ d) Nas adaptações ao processo de avaliação interna, designadamente em que co
 
 8 - O aluno realiza as provas de equivalência à frequência condicionalmente quando interpuser recurso da avaliação final do 3.º período letivo, ficando a validação e divulgação do resultado dependente de decisão favorável.
 
-9 - Nos casos previstos nos n.<sup>os</sup>7 e 8, a informação relativa à situação escolar dos alunos tem obrigatoriamente de ser suprida até à data de afixação das classificações das provas, sem prejuízo das disposições específicas aplicáveis a ofertas de educação e formação.
+9 - Nos casos previstos nos n.os7 e 8, a informação relativa à situação escolar dos alunos tem obrigatoriamente de ser suprida até à data de afixação das classificações das provas, sem prejuízo das disposições específicas aplicáveis a ofertas de educação e formação.
 
 ###### Artigo 48.º — Realização de provas do ensino básico em contexto hospitalar
 
@@ -1117,7 +1173,7 @@ d) À última escola em que tenham frequentado o seu curso artístico especializ
 
 6 - Os alunos autopropostos que se inscrevam para a realização de provas e exames para efeitos de melhoria da classificação final da disciplina e/ou da prova de ingresso estão sujeitos ao pagamento de € 3 (três euros) por disciplina, no ato da inscrição.
 
-7 - Os alunos que se inscrevam depois de expirados os prazos de inscrição definidos no quadro ii e os que alterem a opção prevista nos termos dos n.<sup>os</sup>7 e 8 do artigo 53.º estão sujeitos ao pagamento suplementar de € 25 (vinte e cinco euros), qualquer que seja o número de disciplinas, acrescido da propina de inscrição correspondente, quando aplicável.
+7 - Os alunos que se inscrevam depois de expirados os prazos de inscrição definidos no quadro ii e os que alterem a opção prevista nos termos dos n.os7 e 8 do artigo 53.º estão sujeitos ao pagamento suplementar de € 25 (vinte e cinco euros), qualquer que seja o número de disciplinas, acrescido da propina de inscrição correspondente, quando aplicável.
 
 8 - Os valores previstos no presente artigo constituem receita própria da escola.
 
@@ -1143,7 +1199,7 @@ e) Cursos de educação e formação de adultos (EFA);
 
 f) Outros cursos ou percursos de formação de nível secundário, designadamente cursos vocacionais.
 
-4 - De acordo com os Despachos n.<sup>os</sup>2285/2009, de 16 de janeiro, e 2007-B/2013, de 1 de fevereiro, são elaborados a nível de escola os exames das disciplinas bienais da componente de formação específica do curso científico-humanístico de Línguas e Humanidades de:
+4 - De acordo com os Despachos n.os2285/2009, de 16 de janeiro, e 2007-B/2013, de 1 de fevereiro, são elaborados a nível de escola os exames das disciplinas bienais da componente de formação específica do curso científico-humanístico de Línguas e Humanidades de:
 
 a) Alemão (801) - continuação;
 
@@ -1209,7 +1265,7 @@ iii) Uma das disciplinas, bienal ou trienal, da componente de formação especí
 
 13 - Para efeitos do disposto no presente artigo, sempre que o plano de inovação não apresente de forma autonomizada as disciplinas sujeitas a exames finais nacionais, procede-se à correspondência entre a disciplina agregadora e aquelas disciplinas que a integram, autonomizando-as para efeitos de atribuição de menção, classificação ou classificação interna final e respetiva classificação final da disciplina e de aprovação nos termos previstos na Portaria n.º 181/2019, de 11 de junho, na sua redação atual.
 
-14 - Os exames finais nacionais são obrigatoriamente realizados na 1.ª fase, sem prejuízo do disposto no n.º 15 do presente artigo e nos n.<sup>os</sup>1 e 2 do artigo 90.º
+14 - Os exames finais nacionais são obrigatoriamente realizados na 1.ª fase, sem prejuízo do disposto no n.º 15 do presente artigo e nos n.os1 e 2 do artigo 90.º
 
 15 - Podem realizar exames finais nacionais na 2.ª fase, nas disciplinas em que haja essa oferta, os alunos que:
 
@@ -1351,7 +1407,7 @@ Os exames a nível de escola de línguas estrangeiras equivalentes a exames fina
 
 8 - Para os efeitos referidos no número anterior, entende-se por discrepância notória a diferença igual ou superior a 25 pontos entre a classificação resultante da classificação proposta pelo professor relator e a classificação inicial.
 
-9 - O segundo relator reaprecia a prova nos termos referidos no n.º 5 do artigo anterior e nos n.<sup>os</sup> 2 e 4 do presente artigo, com conhecimento da proposta do primeiro relator.
+9 - O segundo relator reaprecia a prova nos termos referidos no n.º 5 do artigo anterior e nos n.os 2 e 4 do presente artigo, com conhecimento da proposta do primeiro relator.
 
 10 - A classificação resultante da proposta do segundo professor relator passa a constituir a classificação final da prova, após homologação pelo Presidente do JNE.
 
@@ -1365,7 +1421,7 @@ Os exames a nível de escola de línguas estrangeiras equivalentes a exames fina
 
 15 - Por solicitação dos requerentes, a escola disponibiliza, sempre que possível, no próprio dia da afixação das classificações do processo de reapreciação, cópia anonimizada, em suporte digital (formato pdf) ou em suporte papel, dos pareceres dos relatores e da grelha de reapreciação.
 
-16 - Sem prejuízo dos procedimentos descritos nos n.<sup>os</sup>2 e 12, o processo de reapreciação poderá ser efetuado através do original das provas, em suporte papel, por razões de adequação ao código de prova.
+16 - Sem prejuízo dos procedimentos descritos nos n.os2 e 12, o processo de reapreciação poderá ser efetuado através do original das provas, em suporte papel, por razões de adequação ao código de prova.
 
 17 - Pela reapreciação de cada prova, incluindo o parecer devidamente fundamentado referido no n.º 4, é devida ao professor relator a importância ilíquida de € 8,07 (oito euros e sete cêntimos).
 
@@ -1391,7 +1447,7 @@ Os exames a nível de escola de línguas estrangeiras equivalentes a exames fina
 
 10 - A quantia referida no n.º 1 do artigo 67.º é restituída ao requerente se a classificação da reclamação for superior à classificação inicial, no caso de não ter obtido provimento no processo de reapreciação. Nos restantes casos passa a constituir receita própria da escola.
 
-11 - Sem prejuízo dos procedimentos descritos nos n.<sup>os</sup>2 e 5, o processo de reclamação poderá ser efetuado de acordo com o n.º 16 do artigo 68.º
+11 - Sem prejuízo dos procedimentos descritos nos n.os2 e 5, o processo de reclamação poderá ser efetuado de acordo com o n.º 16 do artigo 68.º
 
 12 - Os especialistas que elaboram o parecer referido no n.º 7 recebem a importância ilíquida de € 16,13 (dezasseis euros e treze cêntimos) por cada processo de reclamação.
 
@@ -1501,9 +1557,9 @@ h) Deve ser estabelecido um calendário comum de provas, as quais devem ter luga
 
 i) Em cada uma das escolas são afixadas as pautas de chamada e de classificação correspondentes apenas aos respetivos alunos.
 
-8 - Os agrupamentos de escolas ou escolas não agrupadas e os estabelecimentos de ensino particular ou cooperativo que, para determinada prova, não possuam um número de professores suficiente para a constituição da equipa de elaboração e classificação dessa prova, devem diligenciar no sentido de estabelecer uma associação com outras escolas, nos termos definidos nos n.<sup>os</sup>6 e 7, dando conhecimento da solução adotada à respetiva delegação regional do JNE.
+8 - Os agrupamentos de escolas ou escolas não agrupadas e os estabelecimentos de ensino particular ou cooperativo que, para determinada prova, não possuam um número de professores suficiente para a constituição da equipa de elaboração e classificação dessa prova, devem diligenciar no sentido de estabelecer uma associação com outras escolas, nos termos definidos nos n.os6 e 7, dando conhecimento da solução adotada à respetiva delegação regional do JNE.
 
-9 - Em caso de impossibilidade de operacionalizar a associação referida no número anterior, deve a situação ser comunicada à respetiva delegação regional do JNE, a qual diligenciará no sentido de estabelecer a associação com outros estabelecimentos de ensino, de acordo com o previsto nos n.<sup>os</sup>6 e 7, ou, em casos excecionais, a implementação de solução considerada mais adequada a assegurar a qualidade científica e pedagógica da prova.
+9 - Em caso de impossibilidade de operacionalizar a associação referida no número anterior, deve a situação ser comunicada à respetiva delegação regional do JNE, a qual diligenciará no sentido de estabelecer a associação com outros estabelecimentos de ensino, de acordo com o previsto nos n.os6 e 7, ou, em casos excecionais, a implementação de solução considerada mais adequada a assegurar a qualidade científica e pedagógica da prova.
 
 10 - As escolas devem garantir a elaboração de duas provas de equivalência à frequência por cada disciplina constante da sua oferta curricular.
 
@@ -1601,7 +1657,7 @@ i) Em cada uma das escolas são afixadas as pautas de chamada e de classificaç�
 
 8 - Para os efeitos referidos no número anterior, entende-se por discrepância notória a diferença igual ou superior a 25 pontos entre a classificação resultante da classificação proposta pelo professor relator e a classificação inicial.
 
-9 - O segundo relator reaprecia a prova nos termos referidos no n.º 5 do artigo anterior e nos n.<sup>os</sup> 2 e 4 do presente artigo, com conhecimento da proposta do primeiro relator.
+9 - O segundo relator reaprecia a prova nos termos referidos no n.º 5 do artigo anterior e nos n.os 2 e 4 do presente artigo, com conhecimento da proposta do primeiro relator.
 
 10 - A classificação resultante da proposta do segundo professor relator passa a constituir a classificação final da prova, após homologação pelo Presidente do JNE.
 
@@ -1615,7 +1671,7 @@ i) Em cada uma das escolas são afixadas as pautas de chamada e de classificaç�
 
 15 - Por solicitação dos requerentes, a escola disponibiliza, sempre que possível, no próprio dia da afixação das classificações, cópia anonimizada, em suporte digital (formato pdf) ou em suporte papel, dos pareceres dos relatores e da grelha de reapreciação.
 
-16 - Sem prejuízo dos procedimentos descritos nos n.<sup>os</sup>2 e 12, o processo de reapreciação poderá ser efetuado através do original das provas, em suporte papel, por razões de adequação ao código de prova.
+16 - Sem prejuízo dos procedimentos descritos nos n.os2 e 12, o processo de reapreciação poderá ser efetuado através do original das provas, em suporte papel, por razões de adequação ao código de prova.
 
 17 - Pela reapreciação de cada prova, incluindo o parecer devidamente fundamentado referido no n.º 4, é devida ao professor relator a importância ilíquida de € 8,07 (oito euros e sete cêntimos).
 
@@ -1641,7 +1697,7 @@ i) Em cada uma das escolas são afixadas as pautas de chamada e de classificaç�
 
 10 - A quantia referida no n.º 1 do artigo 79.º é restituída ao requerente se a classificação da reclamação for superior à classificação inicial, no caso de não ter obtido provimento no processo de reapreciação. Nos restantes casos passa a constituir receita própria da escola.
 
-11 - Sem prejuízo dos procedimentos descritos nos n.<sup>os</sup>2 e 5, o processo de reclamação poderá ser efetuado de acordo com o n.º 16 do artigo 80.º
+11 - Sem prejuízo dos procedimentos descritos nos n.os2 e 5, o processo de reclamação poderá ser efetuado de acordo com o n.º 16 do artigo 80.º
 
 12 - Os especialistas que elaboram o parecer referido no n.º 7 recebem a importância ilíquida de € 16,13 (dezasseis euros e treze cêntimos) por cada reclamação.
 
@@ -1673,7 +1729,7 @@ b) Na 1.ª e na 2.ª fases, pelos alunos que obtiveram aprovação, no ano letiv
 
 8 - Não é permitida a realização de exames finais nacionais e provas de equivalência à frequência para melhoria de classificação em disciplinas cuja aprovação foi obtida em sistemas educativos estrangeiros.
 
-9 - Os exames prestados exclusivamente como provas de ingresso para acesso ao ensino superior só são considerados para a melhoria da classificação do curso do ensino secundário, para efeitos do concurso de acesso ao ensino superior, se forem observadas as condições referidas nos n.<sup>os</sup>7 e 8.
+9 - Os exames prestados exclusivamente como provas de ingresso para acesso ao ensino superior só são considerados para a melhoria da classificação do curso do ensino secundário, para efeitos do concurso de acesso ao ensino superior, se forem observadas as condições referidas nos n.os7 e 8.
 
 #### SECÇÃO V — ADAPTAÇÕES NA REALIZAÇÃO DE PROVAS DO ENSINO SECUNDÁRIO
 
@@ -1689,7 +1745,7 @@ b) Na 1.ª e na 2.ª fases, pelos alunos que obtiveram aprovação, no ano letiv
 
 5 - O processo de solicitação de aplicação de adaptações é constituído sob proposta do diretor de turma/conselho de turma.
 
-6 - A autorização para a aplicação de adaptações na realização de provas e exames é da responsabilidade do diretor da escola ou do Presidente do JNE, nos termos do disposto nos n.<sup>os</sup>5 e 6 do artigo 28.º do [Decreto-Lei n.º 54/2018](https://diariodarepublica.pt/dr/detalhe/decreto-lei/54-2018-115652961), de 6 de julho, na sua redação atual.
+6 - A autorização para a aplicação de adaptações na realização de provas e exames é da responsabilidade do diretor da escola ou do Presidente do JNE, nos termos do disposto nos n.os5 e 6 do artigo 28.º do [Decreto-Lei n.º 54/2018](https://diariodarepublica.pt/dr/detalhe/decreto-lei/54-2018-115652961), de 6 de julho, na sua redação atual.
 
 7 - As adaptações ao processo de avaliação são objeto de registo na Plataforma de Aplicação de Adaptações na Realização de Provas e Exames do Ensino Secundário.
 
@@ -1757,7 +1813,7 @@ f) Após a realização de cada prova pelos alunos, o enunciado e os respetivos 
 
 7 - As provas a nível de escola realizam-se sempre que possível nas datas estabelecidas no despacho que determina o calendário das provas e exames à mesma hora do exame final nacional correspondente.
 
-8 - Para efeito de melhoria de classificação final da disciplina, é válida a realização de provas a nível de escola, aplicando-se ainda, com as devidas adaptações, as regras previstas nos n.<sup>os</sup> 2, 3 e 6 do artigo 82.º, sem prejuízo do disposto no n.º 2 do artigo seguinte.
+8 - Para efeito de melhoria de classificação final da disciplina, é válida a realização de provas a nível de escola, aplicando-se ainda, com as devidas adaptações, as regras previstas nos n.os 2, 3 e 6 do artigo 82.º, sem prejuízo do disposto no n.º 2 do artigo seguinte.
 
 9 - A classificação das provas a nível de escola é da responsabilidade do JNE, devendo as mesmas ser enviadas ao respetivo agrupamento do JNE.
 
@@ -1847,7 +1903,7 @@ b) Ambas as componentes, ficando sem efeito a classificação obtida na componen
 
 10 - O aluno realiza a prova e/ou o exame condicionalmente quando interpuser recurso da avaliação final do 3.º período letivo, ficando a validação e divulgação do resultado dependente de decisão favorável.
 
-11 - Nos casos previstos nos n.<sup>os</sup>9 e 10, a informação relativa à situação escolar dos alunos tem obrigatoriamente de ser suprida até à data de afixação das classificações das provas e dos exames, sem prejuízo das disposições específicas aplicáveis a ofertas de educação e formação.
+11 - Nos casos previstos nos n.os9 e 10, a informação relativa à situação escolar dos alunos tem obrigatoriamente de ser suprida até à data de afixação das classificações das provas e dos exames, sem prejuízo das disposições específicas aplicáveis a ofertas de educação e formação.
 
 ###### Artigo 91.º — Realização de exames e provas do ensino secundário em contexto hospitalar
 
@@ -1971,9 +2027,9 @@ f) Os alunos inseridos no nível intermédio (B2) e no nível avançado realizam
 
 4 - Para a realização de provas realizadas em suporte eletrónico é permitido o uso do computador, observando-se todas as restantes restrições previstas no número anterior.
 
-5 - Os alunos do 9.º ano de escolaridade e os alunos do ensino secundário, antes do início da prova, devem confirmar, assinando em modelo próprio do JNE, que efetuaram a verificação e que não se encontram na posse de nenhum dos suportes ou equipamentos referidos nos n.<sup>os</sup>3 e 4.
+5 - Os alunos do 9.º ano de escolaridade e os alunos do ensino secundário, antes do início da prova, devem confirmar, assinando em modelo próprio do JNE, que efetuaram a verificação e que não se encontram na posse de nenhum dos suportes ou equipamentos referidos nos n.os3 e 4.
 
-6 - O não cumprimento do disposto nos n.<sup>os</sup>3, 4 e 5 constitui irregularidade, a qual determina a anulação da prova pelo diretor de escola, sem prejuízo de eventual aplicação de medidas disciplinares, de acordo com o Estatuto do Aluno e Ética Escolar, aprovado pela [Lei n.º 51/2012](https://diariodarepublica.pt/dr/detalhe/lei/51-2012-174840), de 5 de setembro.
+6 - O não cumprimento do disposto nos n.os3, 4 e 5 constitui irregularidade, a qual determina a anulação da prova pelo diretor de escola, sem prejuízo de eventual aplicação de medidas disciplinares, de acordo com o Estatuto do Aluno e Ética Escolar, aprovado pela [Lei n.º 51/2012](https://diariodarepublica.pt/dr/detalhe/lei/51-2012-174840), de 5 de setembro.
 
 7 - Os alunos que incorram em irregularidades que determinem a anulação da prova, estão obrigados a permanecer na sala até ao fim do tempo de duração da prova e, no caso da prova anulada se realizar em suporte papel, esta é arquivada na escola.
 
@@ -2039,11 +2095,11 @@ b) Por despacho do Ministro da Educação, ser decidida a anulação da prova co
 
 1 - De acordo com a alínea a) do n.º 2 do artigo 3.º da [Lei n.º 90/2001](https://diariodarepublica.pt/dr/detalhe/lei/90-2001-516044), de 20 de agosto, alterada pela [Lei n.º 60/2017](https://diariodarepublica.pt/dr/detalhe/lei/60-2017-107791610), de 1 de agosto, as grávidas, mães e pais estudantes podem requerer a realização em época especial de provas finais do ensino básico, exames finais nacionais, exames a nível de escola de línguas estrangeiras equivalentes a exames finais nacionais, provas de equivalência à frequência e provas a nível de escola.
 
-2 - Em conformidade com o previsto no artigo 13.º do [Decreto-Lei n.º 76/2018](https://diariodarepublica.pt/dr/detalhe/decreto-lei/76-2018-116640900), de 11 de outubro, os alunos militares em regimes de contrato (RC), de contrato especial (RCE) ou de voluntariado (RV) podem realizar exames nacionais na época especial se, pelos motivos previstos nos n.<sup>os</sup>3 e 4 do artigo 12.º do mesmo diploma legal, não puderem prestar provas de avaliação nas datas fixadas.
+2 - Em conformidade com o previsto no artigo 13.º do [Decreto-Lei n.º 76/2018](https://diariodarepublica.pt/dr/detalhe/decreto-lei/76-2018-116640900), de 11 de outubro, os alunos militares em regimes de contrato (RC), de contrato especial (RCE) ou de voluntariado (RV) podem realizar exames nacionais na época especial se, pelos motivos previstos nos n.os3 e 4 do artigo 12.º do mesmo diploma legal, não puderem prestar provas de avaliação nas datas fixadas.
 
 3 - O requerimento para realização de provas em época especial, dirigido ao Presidente do JNE, é entregue ao diretor da escola de inscrição, acompanhado do respetivo comprovativo e enviado pela escola ao JNE para despacho.
 
-4 - Às situações previstas no presente artigo é aplicável, com as necessárias adaptações, o disposto nos n.<sup>os</sup>7 a 12 do artigo anterior.
+4 - Às situações previstas no presente artigo é aplicável, com as necessárias adaptações, o disposto nos n.os7 a 12 do artigo anterior.
 
 ###### Artigo 101.º — Proteção de dados pessoais
 
@@ -2055,32 +2111,32 @@ QUADRO I
 
 Prazos de inscrição para as provas do ensino básico - 2025
 
-| Condições de admissão às provas de equivalência à frequência dos 1.º, 2.º e 3.º ciclos, provas finais e provas a nível de escola do 3.º ciclo do ensino básico | Condições de admissão às provas de equivalência à frequência dos 1.º, 2.º e 3.º ciclos, provas finais e provas a nível de escola do 3.º ciclo do ensino básico | Prazos de inscrição para a 1.ª fase | Prazos de inscrição para a 2.ª fase |
+| Condições de admissão às provas de equivalência à frequência dos 1.º, 2.º e 3.º ciclos, provas finais e provas a nível de escola do 3.º ciclo do ensino básico | Prazos de inscrição para a 1.ª fase | Prazos de inscrição para a 2.ª fase |  |
 | --- | --- | --- | --- |
 | Alunos internos | 1 - Frequentem o 9.º ano do ensino básico geral, incluindo os alunos de um PCA ao abrigo do artigo 7.º da Portaria n.º 181/2019, de 11 de junho, na sua redação atual, ou um curso artístico especializado (CAE). | Não necessitam de inscrição | Não aplicável |
-|  | 2 - Frequentem ou tenham concluído um PCA ao abrigo do Despacho Normativo n.º 1/2006, de 6 de janeiro, CEF nível 2, PIEF ou o ensino básico recorrente e que pretendam prosseguir estudos no ensino secundário, em cursos científico-humanísticos, excluindo os do ensino secundário recorrente. | De 6 a 19 de março | Não aplicável |
-|  | 2 - Frequentem ou tenham concluído um PCA ao abrigo do Despacho Normativo n.º 1/2006, de 6 de janeiro, CEF nível 2, PIEF ou o ensino básico recorrente e que pretendam prosseguir estudos no ensino secundário, em cursos científico-humanísticos, excluindo os do ensino secundário recorrente. |  |  |
+|  | 2 - Frequentem ou tenham concluído um PCA ao abrigo do Despacho Normativo n.º 1/2006, de 6 de janeiro, CEF nível 2, PIEF ou o ensino básico recorrente e que pretendam prosseguir estudos no ensino secundário, em cursos científico-humanísticos, excluindo os do ensino secundário recorrente. | De 6 a 19 de março |  |
+|  |  |  |  |
 | Alunos autopropostos | 3 - Estejam matriculados nas modalidades de ensino individual ou de ensino doméstico. |  | De 15 a 16 de julho (2.º e 3.º Ciclos) e de 21 a 22 de julho (1.º Ciclo) |
-|  | 4 - Estejam fora da escolaridade obrigatória, não se encontrem a frequentar qualquer escola e que: a) não tenham concluído o 1.º ciclo do ensino básico; b) ou sejam detentores do ciclo de estudo anterior. |  | De 15 a 16 de julho (2.º e 3.º Ciclos) e de 21 a 22 de julho (1.º Ciclo) |
+|  | 4 - Estejam fora da escolaridade obrigatória, não se encontrem a frequentar qualquer escola e que: a) não tenham concluído o 1.º ciclo do ensino básico; b) ou sejam detentores do ciclo de estudo anterior. |  |  |
 |  | 5 - Estejam fora da escolaridade obrigatória e que frequentem qualquer ano de escolaridade dos 2.º ou 3.º ciclos e tenham anulado a matrícula até ao 5.º dia útil do 3.º período letivo. | De 6 a 19 de março ou, após 19 de março, nos dois dias úteis após a anulação da matrícula |  |
 |  | 6 - Frequentem o 4.º ou o 6.º ano de escolaridade, completem, respetivamente, 14 ou 16 anos até ao final do ano escolar e não tenham obtido aprovação na avaliação interna final. | Dois dias após a afixação das pautas de avaliação interna final |  |
-|  | 7 - Estejam no 9.º ano e não reúnam condições de admissão como alunos internos para as provas finais do ensino básico da 1.ª fase, em resultado da avaliação sumativa interna final do 3.º período, realizam provas finais e provas de equivalência à frequência na 1.ª fase, podendo ainda realizar na 2.ª fase as provas que lhes permitam a aprovação de ciclo. | Dois dias após a afixação das pautas de avaliação interna final |  |
+|  | 7 - Estejam no 9.º ano e não reúnam condições de admissão como alunos internos para as provas finais do ensino básico da 1.ª fase, em resultado da avaliação sumativa interna final do 3.º período, realizam provas finais e provas de equivalência à frequência na 1.ª fase, podendo ainda realizar na 2.ª fase as provas que lhes permitam a aprovação de ciclo. |  |  |
 |  | 8 - Estejam no 9.º ano e tenham realizado na 1.ª fase provas finais, na qualidade de alunos internos, e não tenham obtido aprovação na avaliação sumativa final, com a ponderação das classificações obtidas nas provas finais realizadas. | Não aplicável |  |
 |  | 9 - Frequentem o 4.º ou o 6.º ano de escolaridade, completem, respetivamente, 14 ou 16 anos até ao final do ano escolar e tenham ficado retidos por faltas, por aplicação do previsto na alínea b) do n.º 4 do artigo 21.º da [Lei n.º 51/2012](https://diariodarepublica.pt/dr/detalhe/lei/51-2012-174840), de 5 de setembro ― Estatuto do Aluno e Ética Escolar (realizam provas de equivalência à frequência na 1.ª fase e, se aplicável, também na 2.ª fase). | Dois dias após a afixação das pautas de avaliação interna final |  |
 |  | 10 - Frequentem o 9.º ano de escolaridade e tenham ficado retidos por faltas, por aplicação do previsto na alínea b) do n.º 4 do artigo 21.º da [Lei n.º 51/2012](https://diariodarepublica.pt/dr/detalhe/lei/51-2012-174840), de 5 de setembro ― Estatuto do Aluno e Ética Escolar (realizam provas de equivalência à frequência na 1.ª fase e provas finais na 2.ª fase e, se aplicável, também provas de equivalência à frequência). |  |  |
 |  | 11 - Pretendam concluir disciplinas da componente de formação artística especializada de um CAE cujo ano terminal frequentaram sem aprovação. |  |  |
 |  | 12 - Não tendo estado matriculados, pretendam concluir disciplinas da componente de formação artística especializada de um CAE do ensino básico. | De 6 a 19 de março |  |
-|  | 13 - Frequentem ou tenham concluído um curso vocacional (no caso da Região Autónoma dos Açores), um curso EFA, um processo de RVCC ou outras ofertas educativas e formativas e pretendam prosseguir estudos nos cursos científico-humanísticos, excluindo os do ensino secundário recorrente. | De 6 a 19 de março |  |
+|  | 13 - Frequentem ou tenham concluído um curso vocacional (no caso da Região Autónoma dos Açores), um curso EFA, um processo de RVCC ou outras ofertas educativas e formativas e pretendam prosseguir estudos nos cursos científico-humanísticos, excluindo os do ensino secundário recorrente. |  |  |
 |  | 14 - Frequentem ou tenham concluído um CEF nível 2, PIEF ou o ensino básico recorrente e não tenham reunido condições para prosseguir estudos nos cursos científico-humanísticos, excluindo os do ensino secundário recorrente, após a 1.ª fase. | Não aplicável |  |
 
 QUADRO II
 
 Prazos de inscrição para provas e exames do ensino secundário - 2025
 
-| Condições de admissão a exames finais nacionais, exames a nível de escola de línguas estrangeiras equivalentes a exames finais nacionais, provas de equivalência à frequência e provas a nível de escola | Condições de admissão a exames finais nacionais, exames a nível de escola de línguas estrangeiras equivalentes a exames finais nacionais, provas de equivalência à frequência e provas a nível de escola | Prazos de inscrição para a 1.ª fase (com caráter obrigatório para todos os alunos) (a) | Prazos de inscrição para a 2.ª fase |
+| Condições de admissão a exames finais nacionais, exames a nível de escola de línguas estrangeiras equivalentes a exames finais nacionais, provas de equivalência à frequência e provas a nível de escola | Prazos de inscrição para a 1.ª fase (com caráter obrigatório para todos os alunos) (a) | Prazos de inscrição para a 2.ª fase |  |
 | --- | --- | --- | --- |
 | Alunos internos | 1 - Alunos dos CCH e dos planos próprios da via científica que pretendam obter aprovação em disciplinas cuja classificação final da disciplina (CFD) depende da realização de exame final nacional dos CCH. | De 6 a 19 de março | De 15 a 16 de julho |
-| Alunos internos | 2 - Alunos dos CCH e dos planos próprios da via científica que pretendam melhorar a classificação de disciplinas que dependem da realização de exame final nacional para o cálculo da CFD, concluídas no presente ano letivo. | Não aplicável |  |
+| 2 - Alunos dos CCH e dos planos próprios da via científica que pretendam melhorar a classificação de disciplinas que dependem da realização de exame final nacional para o cálculo da CFD, concluídas no presente ano letivo. | Não aplicável |  |  |
 | Alunos autopropostos | 3 - Pretendam obter aprovação em disciplinas que frequentaram até ao final do ano letivo, realizam provas de equivalência à frequência, as quais são substituídas por exames finais nacionais quando existe essa oferta. | Nos dois dias úteis seguintes ao da afixação das pautas de avaliação sumativa final do 3.º período letivo |  |
 |  | 4 - Tenham estado matriculados no ano terminal da disciplina a que respeita o exame ou prova e anulado a matrícula até ao final da penúltima semana do 3.º período letivo, para aprovação e, caso pretendam, para prova de ingresso. | De 6 a 19 de março ou, após 19 de março, nos dois dias úteis seguintes ao da anulação da matrícula |  |
 |  | 5 - Pretendam obter aprovação em disciplinas do mesmo curso ou de curso diferente do frequentado, nas quais não estejam matriculados, desde que estejam ou tenham estado matriculados no ano curricular em que essas disciplinas são terminais, para prova de ingresso e/ou complemento de currículo. | De 6 a 19 de março |  |
@@ -2133,16 +2189,16 @@ Tipo de prova e respetiva duração
 | Disciplina | Tipo de prova | Duração (minutos) | Tolerância (minutos) |
 | --- | --- | --- | --- |
 | Português (91) (a) | E | 90 | 30 |
-| Matemática (92) | E | 90 | 30 |
-| Português Língua Não Materna (93) - nível A2 (b) (c) | E + O | 75 + 15 | 30 |
-| Português Língua Não Materna (94) - nível B1 (b) | E + O | 75 + 15 | 30 |
-| Português Língua Segunda (95) (d) | E | 90 | 30 |
+| Matemática (92) | E | 90 |  |
+| Português Língua Não Materna (93) - nível A2 (b) (c) | E + O | 75 + 15 |  |
+| Português Língua Não Materna (94) - nível B1 (b) | E + O | 75 + 15 |  |
+| Português Língua Segunda (95) (d) | E | 90 |  |
 
 (a) As provas orais a realizar pelos alunos autopropostos referidos no quadro i, à exceção dos mencionados no n.º 13 do referido quadro, não devem ultrapassar a duração de 15 minutos e são abertas à assistência do público.
 
 (b) Provas a realizar apenas pelos alunos internos de PLNM e pelos alunos autopropostos de PLNM abrangidos pelas alíneas a) e c) do n.º 2 do artigo 5.º em substituição da prova final de Português (91).
 
-(c) Os alunos que estejam sinalizados como alunos de nível zero ou posicionados no nível de proficiência de iniciação (A1/A2) realizam obrigatoriamente a prova de PLNM (93), à exceção das situações previstas nos n.<sup>os</sup>9 e 10 do artigo 16.º
+(c) Os alunos que estejam sinalizados como alunos de nível zero ou posicionados no nível de proficiência de iniciação (A1/A2) realizam obrigatoriamente a prova de PLNM (93), à exceção das situações previstas nos n.os9 e 10 do artigo 16.º
 
 (d) A prova final de Português Língua Segunda (95) destina-se apenas a situações de surdez severa a profunda.
 
@@ -2166,7 +2222,7 @@ Tipo de prova e respetiva duração
 | Educação Física (47) (d) | P | 45 |
 | Cidadania e Desenvolvimento (48) (a) | O | 15 |
 
-(a) A duração da prova oral não deve ultrapassar os 15 minutos, sendo aberta à assistência do público. Estas provas são realizadas pelos alunos autopropostos referidos no quadro i, nos n.<sup>os</sup>3 e 4 e alunos do 4.º ano mencionados nos n.<sup>os</sup>6 e 9.
+(a) A duração da prova oral não deve ultrapassar os 15 minutos, sendo aberta à assistência do público. Estas provas são realizadas pelos alunos autopropostos referidos no quadro i, nos n.os3 e 4 e alunos do 4.º ano mencionados nos n.os6 e 9.
 
 (b) Provas a realizar apenas pelos alunos autopropostos de PLNM abrangidos pela alínea a) do n.º 2 do artigo 5.º e pelos alunos do 4.º ano mencionados no n.º 6 do quadro i.
 
@@ -2194,7 +2250,7 @@ Tipo de prova e respetiva duração
 | Cidadania e Desenvolvimento (65) (a) | O | 15 |
 | Tecnologias da Informação e Comunicação (66) | E | 90 |
 
-(a) A duração da prova oral não deve ultrapassar os 15 minutos, sendo aberta à assistência do público. Estas provas são realizadas pelos alunos autopropostos referidos no quadro i, nos n.<sup>os</sup>3 e 4 e alunos do 6.º ano mencionados nos n.<sup>os</sup>5, 6 e 9.
+(a) A duração da prova oral não deve ultrapassar os 15 minutos, sendo aberta à assistência do público. Estas provas são realizadas pelos alunos autopropostos referidos no quadro i, nos n.os3 e 4 e alunos do 6.º ano mencionados nos n.os5, 6 e 9.
 
 (b) Provas a realizar apenas pelos alunos autopropostos de PLNM abrangidos pela alínea a) do n.º 2 do artigo 5.º e pelos alunos do 6.º ano mencionados no n.º 6 do quadro i.
 
@@ -2220,7 +2276,7 @@ Tipo de provas e respetiva duração
 | Tecnologias da Informação e Comunicação (24) | E | 90 |
 | Educação Física (26) (b) | P | 45 |
 
-(a) A duração da prova oral não deve ultrapassar os 15 minutos, sendo aberta à assistência do público. Estas provas são realizadas pelos alunos autopropostos referidos no quadro i, nos n.<sup>os</sup>3 e 4 e alunos do 9.º ano mencionados nos n.<sup>os</sup>5, 7, 8 e 10.
+(a) A duração da prova oral não deve ultrapassar os 15 minutos, sendo aberta à assistência do público. Estas provas são realizadas pelos alunos autopropostos referidos no quadro i, nos n.os3 e 4 e alunos do 9.º ano mencionados nos n.os5, 7, 8 e 10.
 
 (b) A prova de equivalência à frequência de Educação Física do 9.º ano é realizada por todos os alunos, à exceção dos referidos no n.º 4 do quadro i.
 
@@ -2390,3 +2446,5 @@ Prova escrita (E), cuja realização implica um registo escrito ou um registo bi
 Prova oral (O), que implica, com eventual recurso a um guião, a produção e interação orais na presença de um júri e a utilização, por este, de um registo de observação do desempenho do aluno;
 
 Prova prática (P), que implica a realização de tarefas objeto de avaliação performativa, em situações de organização individual ou em grupo, a manipulação de materiais, instrumentos e equipamentos, com eventual produção escrita, que incide sobre o trabalho prático e/ou experimental produzido, implicando a presença de um júri e a utilização, por este, de um registo de observação do desempenho do aluno.
+
+318756801

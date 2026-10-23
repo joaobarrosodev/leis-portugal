@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/2s/2015/08/165000000/2431524315.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -47,30 +47,65 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/despacho-normativo/16-2015-70086440
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2019-01-18T00:00:00Z'
+  retrieved_at: '2026-10-23T15:07:59Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: fd545bca52f56d1331ced2b8730efd576117b8e86eabbff9891d5de958c0ddac
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 85f0c58b7ef7ae7d8cf7fd0dee9dc6a6b0d3ed975279abce5743714260be1854
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:07:59Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Agricultura
+- IFAP
+- Política Agrícola Comum
+- Regulamento CE
 relationships:
 - type: amended_by
   target: pt:dre:118010891:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:73576679:por
+  label: Alterados os anexos I e III do DN 6/2015, de 20-fev, na redação do presente diploma pelo(a) Despacho Normativo n.º
+    1-B/2016 - Diário da República n.º 29/2016, 1º Suplemento, Série II de 2016-02-11
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/despacho-normativo/1-b-2016-73576679
+  date: '2016-02-11'
+- type: amended_by
+  target: pt:dre:74385175:por
+  label: Alterados os anexos I e III do DN 6/2015, de 20-fev, na redação do presente diploma pelo(a) Despacho Normativo n.º
+    4/2016 - Diário da República n.º 89/2016, Série II de 2016-05-09
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/despacho-normativo/4-2016-74385175
+  date: '2016-05-09'
+- type: amended_by
+  target: pt:dre:105658698:por
+  label: Altera, com efeitos a 01.01.2017, os anexos I e III do DN 6/2015 de 20-fev, na redação do presente diploma, pelo(a)
+    Despacho Normativo n.º 15-B/2016 - Diário da República n.º 249/2016, 2º Suplemento, Série II de 2016-12-29
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/despacho-normativo/15-b-2016-105658698
+  date: '2016-12-29'
+- type: amended_by
+  target: pt:dre:114541492:por
+  label: Alterados os anexos I e III ao DN 6/2015, de 20-fev, na redação do presente diploma pelo(a) Despacho Normativo n.º
+    3/2018 - Diário da República n.º 13/2018, Série II de 2018-01-18
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/despacho-normativo/3-2018-114541492
+  date: '2018-01-18'
+- type: amended_by
+  target: pt:dre:118010891:por
+  label: Alterados, com efeitos a 19.01.2019 e com aplicação a partir de 01.01.2015 os respetivos anexos I e III DN 6/2015,
+    de 20-fev, na redação do presente diploma, pelo(a) Despacho Normativo n.º 1/2019 - Diário da República n.º 13/2019, Série
+    II de 2019-01-18
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/despacho-normativo/1-2019-118010891
+  date: '2019-01-18'
 - type: cites
   target: celex:32013R1306
   label: null
@@ -79,21 +114,25 @@ relationships:
   target: celex:32013R1307
   label: null
   source: null
+- type: cites
+  target: pt:dre:57995547:por
+  label: null
+  source: null
 article_structure:
   article_count: 4
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:07:59Z'
   warnings: []
   errors: []
 ---
 
-# Despacho Normativo n.º 16/2015
+# Despacho normativo n.º 16/2015
 
 O Despacho normativo n.º 6/2015, de 20 de fevereiro, estabeleceu os requisitos legais de gestão e as normas mínimas para as boas condições agrícolas e ambientais das terras no âmbito da condicionalidade, nos termos do Regulamento (UE) n.º 1306/2013, do Parlamento Europeu e do Conselho, de 17 de dezembro de 2013.
 
@@ -159,7 +198,9 @@ A superfície agrícola inserida ou não numa rotação, que não produziu qualq
 
 3 - [...].
 
-## ANEXO III — [...]
+ANEXO III
+
+[...]
 
 A - [...];
 
@@ -198,3 +239,5 @@ São revogados o n.º 3 do artigo 3.º e o anexo IV a que se refere o n.º 3 do 
 O presente despacho entra em vigor no dia seguinte ao da sua publicação.
 
 18 de agosto de 2015. - O Secretário de Estado da Agricultura, José Diogo Santiago de Albuquerque.
+
+208884692

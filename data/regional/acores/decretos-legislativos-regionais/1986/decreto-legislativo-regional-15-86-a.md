@@ -46,36 +46,47 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/15-1986-218937
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1986-08-09T00:00:00Z'
+  retrieved_at: '2026-10-23T15:17:21Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: d292912c97cdac42214fdd55bc357c0602d3b834dbc08555d9e5c54bbfa284c7
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 20f6af513692b772a219fda525d8d96d1cf2632b2f890b31bc47f501cfb95642
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:17:21Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
-relationships: []
+subjects:
+- Açores
+- Exame de Condução
+- Habilitações Literárias
+relationships:
+- type: cites
+  target: pt:dre:546814:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:546818:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:17:21Z'
   warnings: []
   errors: []
 ---
@@ -96,32 +107,32 @@ Assim:
 
 A Assembleia Regional dos Açores decreta, nos termos da alínea a) do artigo 229.º da Constituição da República Portuguesa, o seguinte:
 
-###### Artigo 1.º Poderão requerer a realização de prova oral, em substituição do teste escrito da prova teórica para obtenção de carta de condução, os candidatos a condutores que estejam abrangidos por uma das seguintes situações:
+Artigo 1.º Poderão requerer a realização de prova oral, em substituição do teste escrito da prova teórica para obtenção de carta de condução, os candidatos a condutores que estejam abrangidos por uma das seguintes situações:
 
 a) Possuírem a habilitação legal exigível, mas terem reprovado três vezes na prova teórica por testes escritos;
 
 b) Possuírem escassos conhecimentos de leitura e escrita ou não disporem deles.
 
-###### Art. 2.º - 1 - As provas orais referidas no artigo anterior serão requeridas e realizadas nas sedes das delegações de viação e transportes, admitindo-se duas repetições por cada candidato.
+Art. 2.º - 1 - As provas orais referidas no artigo anterior serão requeridas e realizadas nas sedes das delegações de viação e transportes, admitindo-se duas repetições por cada candidato.
 
 2 - A prova incidirá sobre o programa aplicável ao ensino teórico, constará do mesmo número de questões do teste escrito e terá idêntico critério de selecção.
 
-###### Art. 3.º O júri das provas referidas no artigo anterior terá a seguinte constituição:
+Art. 3.º O júri das provas referidas no artigo anterior terá a seguinte constituição:
 
 Engenheiro delegado de viação e transportes ou o seu substituto;
 
 Dois funcionários do quadro técnico da Direcção Regional de Transportes Terrestres ou, na sua falta, de funcionários do quadro administrativo habilitados com carta de condução.
 
-###### Art. 4.º As cartas de condução emitidas ao abrigo do disposto na alínea b) do artigo 1.º conterão obrigatoriamente menção do presente decreto legislativo regional.
+Art. 4.º As cartas de condução emitidas ao abrigo do disposto na alínea b) do artigo 1.º conterão obrigatoriamente menção do presente decreto legislativo regional.
 
-###### Art. 5.º Legislação especial estabelece as disposições aplicáveis aos candidatos a condutores de tractores agrícolas.
+Art. 5.º Legislação especial estabelece as disposições aplicáveis aos candidatos a condutores de tractores agrícolas.
 
 Aprovado pela Assembleia Regional dos Açores, na Horta, em 13 de Junho de 1986.
 
-**O Presidente da Assembleia Regional, José Guilherme Reis Leite.**
+O Presidente da Assembleia Regional, José Guilherme Reis Leite.
 
-**Assinado em Angra do Heroísmo em 22 de Julho de 1986.**
+Assinado em Angra do Heroísmo em 22 de Julho de 1986.
 
-**Publique-se.**
+Publique-se.
 
-**O Ministro da República para a Região Autónoma dos Açores, Vasco J. Rocha Vieira.**
+O Ministro da República para a Região Autónoma dos Açores, Vasco J. Rocha Vieira.

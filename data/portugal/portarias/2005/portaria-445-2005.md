@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/445/2005/04/29/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/445-2005-532425
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2006-05-18T00:00:00Z'
+  retrieved_at: '2026-10-23T15:06:25Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 3e7591030190e21b743a6b4ac1260aa5fcaca40a984568560c009608212388d5
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 752ccffe2e08113ee901dd4d62c240cca91d4814a0b457fa122978fa2d5268b0
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:06:25Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,14 +66,14 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Financiamento
-- FEDER
-- Inofor
-- FSE
 - Exploração Agrícola
 - Exploração Florestal
-- Regulamento
+- FEDER
+- Financiamento
+- FSE
+- Inofor
 - Programa AGRO
+- Regulamento
 relationships:
 - type: amended_by
   target: pt:dre:633529:por
@@ -88,15 +88,15 @@ relationships:
   label: null
   source: http://data.dre.pt/eli/port/385-a/2003/05/14/p/dre
 article_structure:
-  article_count: 14
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:06:25Z'
   warnings: []
   errors: []
 ---
@@ -153,11 +153,15 @@ Componente n.º 3 - estabelecimento de redes de mestres agricultores, de tutores
 
 iii) ...
 
-###### Artigo 6.º — [...]
+Artigo 6.º
+
+[...]
 
 Para efeito de aprovação dos pedidos de financiamento e, tendo em conta a classificação obtida na análise dos pedidos de financiamento, sempre que existirem restrições orçamentais face ao volume de pedidos recepcionados, podem ser definidas prioridades por despacho do Ministro da Agricultura, Pescas e Florestas, sob proposta do gestor do Programa AGRO.
 
-###### Artigo 9.º — [...]
+Artigo 9.º
+
+[...]
 
 ...
 
@@ -169,7 +173,9 @@ c) ...
 
 d) ...
 
-###### Artigo 10.º — Modalidades de acesso ao financiamento
+Artigo 10.º
+
+Modalidades de acesso ao financiamento
 
 1 - ...
 
@@ -179,7 +185,9 @@ d) ...
 
 4 - Os pedidos de financiamento das modalidades referidas no n.º 1 devem ser apresentados por acção, com excepção dos pedidos da acção n.º 7.3 que devem ser apresentados por subacção ou componente.
 
-###### Artigo 11.º — [...]
+Artigo 11.º
+
+[...]
 
 1 - ...
 
@@ -223,7 +231,9 @@ c) ...
 
 7 - ...
 
-###### Artigo 12.º — [...]
+Artigo 12.º
+
+[...]
 
 1 - As candidaturas são apresentadas via electrónica, no âmbito do SIIFSE - AGRO (Sistema Integrado de Informação do Fundo Social Europeu - AGRO).
 
@@ -265,7 +275,9 @@ d) Para projectos não integrados em planos da acção n.º 7.3, participações
 
 5 - ...
 
-###### Artigo 14.º — [...]
+Artigo 14.º
+
+[...]
 
 1 - ...
 
@@ -295,47 +307,63 @@ f) ...
 
 g) ...
 
-###### Artigo 21.º — [...]
+Artigo 21.º
+
+[...]
 
 1 - As candidaturas são apresentadas via electrónica, no âmbito do SIIFSE - AGRO (Sistema Integrado de Informação do Fundo Social Europeu - AGRO).
 
 2 - As candidaturas são submetidas aos organismos e nos períodos previstos no n.º 2 e na alínea d) do n.º 3, respectivamente, do artigo 12.º
 
-###### Artigo 36.º — [...]
+Artigo 36.º
+
+[...]
 
 1 - Podem ter acesso aos apoios previstos nesta secção, na qualidade de entidades formadoras, as seguintes entidades: organizações de agricultores dos diferentes níveis, sindicatos de trabalhadores do sector agrícola, associações profissionais, interprofissionais ou de desenvolvimento ligadas ao sector agrário ou ao mundo rural, organismos ou serviços do MAPF e centros de formação profissional e centros tecnológicos.
 
 2 - ...
 
-###### Artigo 37.º — [...]
+Artigo 37.º
+
+[...]
 
 1 - As candidaturas são apresentadas via electrónica, no âmbito do SIIFSE - AGRO (Sistema Integrado de Informação do Fundo Social Europeu - AGRO).
 
 2 - As candidaturas são submetidas aos organismos e nos períodos previstos no n.º 2 e na alínea d) do n.º 3, respectivamente, do artigo 12.º
 
-###### Artigo 44.º — [...]
+Artigo 44.º
+
+[...]
 
 1 - Podem ter acesso aos apoios previstos nesta secção as seguintes entidades: organizações de agricultores dos diferentes níveis, organismos ou serviços do MAPF e centros de formação profissional e centros tecnológicos.
 
 2 - ...
 
-###### Artigo 45.º — [...]
+Artigo 45.º
+
+[...]
 
 1 - As candidaturas são apresentadas via electrónica, no âmbito do SIIFSE - AGRO (Sistema Integrado de Informação do Fundo Social Europeu - AGRO).
 
 2 - As candidaturas são submetidas aos organismos e nos períodos previstos no n.º 2 e na alínea d) do n.º 3, respectivamente, do artigo 12.º
 
-###### Artigo 51.º — [...]
+Artigo 51.º
+
+[...]
 
 Podem ter acesso aos apoios previstos nesta secção, na qualidade de entidades formadoras, os organismos ou serviços do MAPF que reúnam os requisitos definidos no artigo 23.º do Decreto Regulamentar n.º 12-A/2000, de 15 de Setembro, e que apresentem um plano de actividades a desenvolver no âmbito do pedido.
 
-###### Artigo 52.º — [...]
+Artigo 52.º
+
+[...]
 
 1 - As candidaturas são apresentadas via electrónica, no âmbito do SIIFSE - AGRO (Sistema Integrado de Informação do Fundo Social Europeu - AGRO).
 
 2 - As candidaturas são submetidas à Unidade Técnica Central - Secretaria-Geral do MAPF e nos períodos previstos na alínea d) do n.º 3 do artigo 12.º
 
-###### Artigo 61.º — [...]
+Artigo 61.º
+
+[...]
 
 1 - O pedido de alteração aos elementos determinantes da aprovação do pedido de financiamento é apresentado via electrónica, no âmbito do SIIFSE - AGRO (Sistema Integrado de Informação do Fundo Social Europeu - AGRO), com a antecedência mínima de 30 dias em relação ao momento de ocorrência das alterações pretendidas.
 
@@ -345,7 +373,9 @@ Podem ter acesso aos apoios previstos nesta secção, na qualidade de entidades 
 
 4 - ...
 
-## ANEXO N.º 1 — I
+ANEXO N.º 1
+
+I
 
 [...]
 

@@ -48,18 +48,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/754/2006/08/02/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/754-2006-539415
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2007-04-13T00:00:00Z'
+  retrieved_at: '2026-10-23T15:16:05Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: dfbe6dd5d7e6cba7b8fdd69b453c05d89c4879398faa55593dd40a34de5c0e45
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: a0d448d10479a0a17acbb40a9837b65185be9ce380d5b60e52a05360bb21ba7c
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:16:05Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -69,19 +69,34 @@ reuse:
 subjects:
 - Concurso
 - Curso
+- Direção Geral do Ensino Superior
 - Ensino Cooperativo
 - Ensino Particular
+- Ensino Superior
 - Ensino Superior Politécnico
-- Direção Geral do Ensino Superior
+- Estabelecimento de Ensino
 - Numerus Clausus
 - Página na Internet
-- Estabelecimento de Ensino
-- Ensino Superior
 relationships:
 - type: amended_by
   target: pt:dre:519638:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:546193:por
+  label: "Alterado o anexo I (relativamente aos pares Universidade Lusófona de Humanidades e Tecnologias/Curso de Ciências\
+    \ da Comunicação e da Cultura, Instituto Superior de Novas Profissões/Curso de Relações Públicas e Publicidade, e Instituto\
+    \ Superior de Novas Profissões/Curso de Secretariado) pela PORT.1186/2006.02.11.2006.MCTES, DR.IS [211] de 02.11.2006\0\
+    \0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/1186-2006-546193
+  date: '2006-11-02'
+- type: amended_by
+  target: pt:dre:519638:por
+  label: "Aditados os pares estabelecimento/curso (InstitutoSuperior Miguel Torga - cursos Comunicação Empresarial e Informática)\
+    \ ao anexo I e (Instituto Superior de Educação e Ciências - curso Protecção Civil) ao anexo II, ambos do presente diploma,\
+    \ alterado pela Port 1186/2006 de 02-Nov, pela PORT.420/2007.13.04.2007.MCTES, DR.IS [73] de 13.04.2007\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/420-2007-519638
+  date: '2007-04-13'
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/158/2004/06/30/p/dre
   label: null
@@ -118,16 +133,52 @@ relationships:
   target: eli:http://data.dre.pt/eli/lei/37/1994/11/11/p/dre
   label: null
   source: http://data.dre.pt/eli/lei/37/1994/11/11/p/dre
+- type: cites
+  target: pt:dre:138571:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:150335:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:173481:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:199778:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:210421:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:512030:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:517468:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:533820:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:671387:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:16:05Z'
   warnings: []
   errors: []
 ---
@@ -178,16 +229,16 @@ Entrada em vigor
 
 Esta portaria entra em vigor no dia imediato ao da sua publicação.
 
-**O Ministro da Ciência, Tecnologia e Ensino Superior, José Mariano Rebelo Pires Gago, em 25 de Julho de 2006.**
+O Ministro da Ciência, Tecnologia e Ensino Superior, José Mariano Rebelo Pires Gago, em 25 de Julho de 2006.
 
 ## ANEXO I — Concursos institucionais
 
 Ensino universitário
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2006/08/14800/55075514.pdf))](https://files.diariodarepublica.pt/1s/2006/08/14800/55075514.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2006/08/14800/55075514.pdf)
 
 ## ANEXO II — Concursos institucionais
 
 Ensino politécnico
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2006/08/14800/55075514.pdf))](https://files.diariodarepublica.pt/1s/2006/08/14800/55075514.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2006/08/14800/55075514.pdf)

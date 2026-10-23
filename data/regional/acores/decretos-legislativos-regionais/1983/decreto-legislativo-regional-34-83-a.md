@@ -46,36 +46,39 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/34-1983-443726
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1983-11-15T00:00:00Z'
+  retrieved_at: '2026-10-23T15:16:58Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 8c30de99a8ef6c34b86ff82a782db3ec21f03c39d2f43e7c8de64f2fa34f081f
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 7299a614a392d6f179a01e413ebdd6bf400e6402b7a1eb5b4e587875140f68ae
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:16:58Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Açores
+- Angra do Heroísmo
+- Freguesia
 relationships: []
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:16:58Z'
   warnings: []
   errors: []
 ---
@@ -92,14 +95,14 @@ Tendo tal pretensão merecido parecer favorável da assembleia de freguesia resp
 
 A Assembleia Regional dos Açores decreta, nos termos da alínea a) do artigo 229.º da Constituição, o seguinte:
 
-###### Artigo único. A freguesia de São Sebastião, do concelho de Angra do Heroísmo, passa a designar-se vila de São Sebastião.
+Artigo único. A freguesia de São Sebastião, do concelho de Angra do Heroísmo, passa a designar-se vila de São Sebastião.
 
 Aprovado pela Assembleia Regional dos Açores em 16 de Setembro de 1983.
 
-**O Presidente da Assembleia Regional dos Açores, Álvaro Monjardino.**
+O Presidente da Assembleia Regional dos Açores, Álvaro Monjardino.
 
-**Assinado em Angra do Heroísmo em 3 de Novembro de 1983.**
+Assinado em Angra do Heroísmo em 3 de Novembro de 1983.
 
-**Publique-se.**
+Publique-se.
 
-**O Ministro da República para a Região Autónoma dos Açores, Tomás George Conceição Silva.**
+O Ministro da República para a Região Autónoma dos Açores, Tomás George Conceição Silva.

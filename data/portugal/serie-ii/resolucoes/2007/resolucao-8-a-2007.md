@@ -19,7 +19,7 @@ publication:
   reference: Diário da República n.º 45/2007, 4º Suplemento, Série II de 2007-03-05
   number: '45'
   series: II
-  supplement: 4º Suplemento
+  supplement: null
   pages: 5948-(90) a 5948-(90)
   pdf_url: https://files.diariodarepublica.pt/2s/2007/03/045000004/0009000090.pdf
 entry_into_force_dates: []
@@ -46,40 +46,55 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/resolucao/8-a-2007-2561587
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2010-04-19T00:00:00Z'
+  retrieved_at: '2026-10-23T15:14:03Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: ef482c86bc00181820fabc6daddd31ab8d43b0cc73b26b02d83ffbcb264e6e4f
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 1a012201cc7b24cfcd2ce8cd958cb4d4c4ff3483a04600eaf2af15c0d8bba0ef
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:14:03Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Conselho de Administração
+- Nomeação
+- Parque Escolar
+- Presidente
+- Vogal
 relationships:
 - type: amended_by
   target: pt:dre:1934392:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:1934392:por
+  label: "Renovados os mandatos do engenheiro João Miguel Dias Sintra Nunes, da Arquitecta Teresa Frederica Tojal de Valsassina\
+    \ Heitor e do Dr. José Rui Azedo Domingues dos Reis, pela RES.9/2010.19.04.2010.PCM, DR.IIS [75] de 19.04.2010\010\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/resolucao/9-2010-1934392
+  date: '2010-04-19'
+- type: cites
+  target: pt:dre:517859:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:14:03Z'
   warnings: []
   errors: []
 ---

@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/469/2005/05/05/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/469-2005-533829
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2005-05-05T00:00:00Z'
+  retrieved_at: '2026-10-23T15:06:32Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 25d074676ed7fb16bafb8c297f77c3e6c1e3b6ffc4f506eb29747e030907c743
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: a6e82deea49061c158d759a12bd41928a01ba493f06b0e2fbda82419e139cd5d
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:06:32Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,11 +66,11 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Ensino Artístico
 - Curso de Ensino de Música
+- Ensino Artístico
 - Escola Superior de Música
-- Lisboa
 - Habilitações Literárias
+- Lisboa
 - Música
 - Pessoal Docente
 relationships:
@@ -86,16 +86,32 @@ relationships:
   target: eli:http://data.dre.pt/eli/port/833/2000/09/22/p/dre
   label: null
   source: http://data.dre.pt/eli/port/833/2000/09/22/p/dre
+- type: cites
+  target: pt:dre:452686:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:558069:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:566825:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:591742:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:06:32Z'
   warnings: []
   errors: []
 ---
@@ -116,4 +132,4 @@ Ao abrigo do n.º 2 do artigo 11.º do [Decreto-Lei n.º 310/83](https://diariod
 
 2.º A presente portaria produz efeitos no dia imediato ao da sua publicação.
 
-**A Ministra da Educação, Maria do Carmo Félix da Costa Seabra, em 10 de Março de 2005.**
+A Ministra da Educação, Maria do Carmo Félix da Costa Seabra, em 10 de Março de 2005.

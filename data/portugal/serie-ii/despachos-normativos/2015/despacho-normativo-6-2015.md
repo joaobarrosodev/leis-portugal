@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/2s/2015/02/036000000/0458304590.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -47,30 +47,98 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/despacho-normativo/6-2015-66547565
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2021-02-03T00:00:00Z'
+  retrieved_at: '2026-10-23T15:08:00Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 0c13b8b267133bb4fcab5592947c5f538d705324a47982be4b973e837ea1e02a
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 794c2dc24919bb42a0b595418d47d8d047b50b1d4395dd2513934f6368401aed
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:08:00Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Agricultura
+- IFAP
+- Política Agrícola Comum
+- Regulamento CE
 relationships:
 - type: amended_by
   target: pt:dre:156295911:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:70086440:por
+  label: Alterados, a partir de 26.08.2015, o art. 3.º e os anexos I e III e revogados o n.º 3 do art 3.º e o anexo IV a que
+    se refere o n.º 3 do art 3.º, todos do presente diploma, pelo(a) Despacho Normativo n.º 16/2015 - Diário da República
+    n.º 165/2015, Série II de 2015-08-25
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/despacho-normativo/16-2015-70086440
+  date: '2015-08-25'
+- type: amended_by
+  target: pt:dre:73576679:por
+  label: Alterados os arts. 2.º e 5.º, os anexos I (este na redação do DN 16/2015, 28-ago), II e III (este último na redação
+    do DN 16/2015), aditado o anexo V e revogados as als. f), g) e h) do art. 2.º, art. 4.º e o n.º 2 do art. 5.º pelo(a)
+    Despacho Normativo n.º 1-B/2016 - Diário da República n.º 29/2016, 1º Suplemento, Série II de 2016-02-11, que o republica
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/despacho-normativo/1-b-2016-73576679
+  date: '2016-02-11'
+- type: amended_by
+  target: pt:dre:74385175:por
+  label: Alterados os anexos I (na redação do DN 16/2015, de 25-ago, e do DN 1-B/2016, de 11-fev), II (na redação do DN 1-B/2016,
+    de 11-fev) e III (na redação do DN 16/2015, de 25-ago, e do DN 1-B/2016, de 11-fev) do presente diploma pelo(a) Despacho
+    Normativo n.º 4/2016 - Diário da República n.º 89/2016, Série II de 2016-05-09
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/despacho-normativo/4-2016-74385175
+  date: '2016-05-09'
+- type: amended_by
+  target: pt:dre:105658698:por
+  label: Alterados, com efeitos a 01.01.2017, o art. 2.º (na redação do DN 1-B/2016 de 11-fev) e os anexos I (na redação dos
+    DNs. 16/2015 de 25-ago, 1-B/2016 de 11-fev e 4/2016 de 09-mai), II (na redação dos DNs. 1-B/2016 de 11-fev e 4/2016 de
+    09-mai), III (na redação dos DNs. 16/2015 de 25-ago, 1-B/2016 de 11 fev e 4/2016 de 09-mai) e V e revogados os n.ºs 1.4.1
+    e 1.4.2 do anexo I, o n.º 7, ponto A, nota de rodapé 5, da Área n.º 2.2 do requisito de legal de gestão n.º 4, os indicadores
+    1 e 4 do requisito legal de gestão n.º 7 e o indicador 2. e 2.1. do requisito legal de gestão n.º 12 do anexo II do presente
+    diploma, pelo(a) Despacho Normativo n.º 15-B/2016 - Diário da República n.º 249/2016, 2º Suplemento, Série II de 2016-12-29
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/despacho-normativo/15-b-2016-105658698
+  date: '2016-12-29'
+- type: amended_by
+  target: pt:dre:114541492:por
+  label: Alterados o art. 2.º (na redação dos DN 1-B/2016, de 11-fev e 15-B/2016, de 29-dez) do presente diploma, alterados
+    os respetivos anexos I (na redação dos DN 16/2015, de 25-ago, 1-B/2016, de 11-fev, 4/2016, de 09-mai e 15-B/2016, de 29-dez),
+    II (na redação dos DN 1-B/2016, de 11-fev, 4/2016, de 09-mai e 15-B/2016, de 29-dez), III (na redação dos DN 16/2015,
+    de 25-ago, 1-B/2016, de 11-fev, 4/2016, de 09-mai e 15-B/2016, de 29-dez) e V (na redação do DN 15-B/2016, de 29-dez)
+    e revogados o indicador 1.2 do requisito legal de gestão n.º 11 e o indicador 7.3 do requisito legal de gestão n.º 13,
+    ambos do Anexo II pelo(a) Despacho Normativo n.º 3/2018 - Diário da República n.º 13/2018, Série II de 2018-01-18
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/despacho-normativo/3-2018-114541492
+  date: '2018-01-18'
+- type: amended_by
+  target: pt:dre:118010891:por
+  label: Alterados, com efeitos a 19.01.2019 e com aplicação a partir de 01.01.2015 o art. 2.º (na redação dos DN 1-B/2016,
+    de 11-fev, 15-B/2016, de 29-dez e 3/2018, de 18-jan) os respetivos anexos I (na redação dos DN 16/2015, de 25-ago, 1-B/2016,
+    de 11-fev, 4/2016, de 09-mai, 15-B/2016, de 29-dez e 3/2018, de 18-jan), II (na redação dos DN 1-B/2016, de 11-fev, 4/2016,
+    de 09-mai, 15-B/2016, de 29-dez e 3/2018, de 18-jan), III (na redação dos DN 16/2015, de 25-ago, 1-B/2016, de 11-fev,
+    4/2016, de 09-mai, 15-B/2016, de 29-dez e 3/2018, de 18-jan) e revogado o ponto 8 da nota de rodapé (5) do requisito legal
+    de gestão n.º 4 no anexo ii do presente diploma, pelo(a) Despacho Normativo n.º 1/2019 - Diário da República n.º 13/2019,
+    Série II de 2019-01-18, e procedida à sua republicação
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/despacho-normativo/1-2019-118010891
+  date: '2019-01-18'
+- type: amended_by
+  target: pt:dre:128571990:por
+  label: Alterado, com efeitos a partir de 01.01.2020, o anexo II do presente diploma, na versão republicada pelo DN 1/2019
+    de 18-jan, pelo(a) Despacho Normativo n.º 2/2020 - Diário da República n.º 19/2020, Série II de 2020-01-28
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/despacho-normativo/2-2020-128571990
+  date: '2020-01-28'
+- type: amended_by
+  target: pt:dre:156295911:por
+  label: Alterado, com efeitos a partir de 01.01.2021, o anexo II do presente diploma, na versão republicada pelo DN 1/2019
+    de 18-jan, pelo(a) Despacho Normativo n.º 4/2021 - Diário da República n.º 23/2021, Série II de 2021-02-03
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/despacho-normativo/4-2021-156295911
+  date: '2021-02-03'
 - type: cites
   target: celex:31980L0068
   label: null
@@ -159,21 +227,113 @@ relationships:
   target: celex:32013R1308
   label: null
   source: null
+- type: cites
+  target: pt:dre:148432:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:174836:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:178512:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:1852624:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:226977:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:2516432:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:320080:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:340237:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:358491:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:397360:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:454810:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:469068:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:490409:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:522981:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:531828:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:539227:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:559021:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:57995547:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:583786:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:608175:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:626229:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:629400:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:693250:por
+  label: null
+  source: null
 article_structure:
   article_count: 5
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:08:00Z'
   warnings: []
   errors: []
 ---
 
-# Despacho Normativo n.º 6/2015
+# Despacho normativo n.º 6/2015
 
 Desde 2005 que o sistema da condicionalidade se encontra instituído, pelo que os agricultores que beneficiam de alguns apoios no âmbito da Política Agrícola Comum (PAC) estão sujeitos ao cumprimento de um conjunto de normas básicas em matéria de ambiente, alterações climáticas, boas condições agrícolas e ambientais dos solos, saúde pública, saúde animal, fitossanidade e bem-estar dos animais.
 
@@ -992,3 +1152,5 @@ b) o local deve apresentar piso impermeabilizado, preferencialmente com bacia de
 (22) Podem ser utilizados os registos já existentes para outros efeitos.
 
 (23) Vegetação arbustiva - vegetação lenhosa espontânea com altura superior a 50 cm, com exceção nas superfícies com "Sobreiros destinados à produção de cortiça" onde deve ser considerada a altura de 100 cm.
+
+208430256

@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/2s/2022/08/152000000/0006700069.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -46,36 +46,76 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/despacho-normativo/10-2022-187136682
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2022-08-08T00:00:00Z'
+  retrieved_at: '2026-10-23T15:08:55Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 3d752d0712799cd0868a8921efad102c57b5ffde19aac16525258b7e9396f2bb
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 4a7aecc5fe2b3a1239aa64a7d4b3031ca1da11d68bc6f4a9ab8ee6cecdb329b3
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:08:55Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
-relationships: []
+subjects:
+- Administração Central
+- Apoio ao Investimento
+- Aquisição de Bens e Serviços
+- Desenvolvimento Económico
+- Desenvolvimento Social
+- Dotação Orçamental
+- Financiamento
+- Fiscalização
+- Fundos CE
+- Instituto do Turismo de Portugal
+- Pequenas e Médias Empresas
+- PME
+- Política de Solos
+- Projeto de Investimento
+- Registo Nacional de Turismo
+- Turismo
+relationships:
+- type: cites
+  target: pt:dre:177307815:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:177307816:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:177307817:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:178510:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:184687800:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:75619707:por
+  label: null
+  source: null
 article_structure:
-  article_count: 6
+  article_count: 4
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:08:55Z'
   warnings: []
   errors: []
 ---
@@ -104,7 +144,9 @@ Pelo presente despacho são alterados os artigos 2.º, 7.º e 8.º do [Despacho 
 
 4 - A abertura dos avisos específicos ou o lançamento dos convites a que se refere o número anterior é da competência do membro do Governo com tutela sobre o setor do turismo, sob proposta do Turismo de Portugal, I. P., devendo dos mesmos constar informação relativa aos beneficiários, às tipologias de projeto a apoiar, à dotação, às condições de elegibilidade e de atribuição do financiamento, incluindo majorações, assim como aos critérios de seleção das operações.
 
-###### Artigo 7.º — Entidades beneficiárias
+Artigo 7.º
+
+Entidades beneficiárias
 
 1 - [...]
 
@@ -112,7 +154,9 @@ Pelo presente despacho são alterados os artigos 2.º, 7.º e 8.º do [Despacho 
 
 3 - [...]
 
-###### Artigo 8.º — Condições gerais de elegibilidade das entidades beneficiárias
+Artigo 8.º
+
+Condições gerais de elegibilidade das entidades beneficiárias
 
 Constituem condições gerais de elegibilidade das entidades beneficiárias as seguintes, cujo cumprimento é aferido à data da candidatura:
 
@@ -189,3 +233,5 @@ e) Não terem uma duração superior a 24 meses e iniciarem-se no prazo máximo 
 O presente despacho entra em vigor no dia seguinte ao da sua publicação e aplica-se também às candidaturas já apresentadas na mesma data que não tenham ainda decisão final por parte do Turismo de Portugal, I. P., ou que, tendo já uma decisão final de elegibilidade, os respetivos apoios não se encontrem ainda contratados.
 
 2 de agosto de 2022. - A Secretária de Estado do Turismo, Comércio e Serviços, Rita Baptista Marques.
+
+315580037

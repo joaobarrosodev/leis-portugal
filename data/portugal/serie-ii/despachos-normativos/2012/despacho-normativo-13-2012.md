@@ -47,45 +47,53 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/despacho-normativo/13-2012-2522481
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2012-05-31T00:00:00Z'
+  retrieved_at: '2026-10-23T15:07:38Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 9d2bb5a8ca18f8593b960ca99d1d1782aa261dda18fe380f42e1d042417d71b3
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 566538dcce3b18cf2c5e7a099ba7d61d16eacab1118986b6b1c7e3f66ed70aa2
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:07:38Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Ajuda não Reembolsável
+- GADO
+- SECA
+- Subsídio não Reembolsável
 relationships:
 - type: cites
   target: celex:32006R1857
   label: null
   source: null
+- type: cites
+  target: pt:dre:553946:por
+  label: null
+  source: null
 article_structure:
-  article_count: 9
+  article_count: 4
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:07:38Z'
   warnings: []
   errors: []
 ---
 
-# Despacho Normativo n.º 13/2012
+# Despacho normativo n.º 13/2012
 
 As condições climatéricas que têm atingido Portugal continental desde final do ano de 2011, com a quase total ausência de chuva, colocaram o território em situação de seca e de seca severa, em termos equiparáveis a calamidade natural.
 
@@ -117,13 +125,17 @@ Os artigos 1.º, 2.º, 3.º, 4.º, 5.º e 6.º do despacho normativo n.º 5/2012
 
 2 - São excluídos os produtores que sejam considerados empresas em dificuldade na aceção das orientações comunitárias relativas aos auxílios estatais de emergência e à reestruturação a empresas em dificuldade, publicadas no JO, n.º C 244, de 1 de outubro de 2004.
 
-###### Artigo 2.º — [...]
+Artigo 2.º
+
+[...]
 
 1 - A presente subvenção tem como montante global 20 milhões de euros.
 
 2 - ...
 
-###### Artigo 3.º — [...]
+Artigo 3.º
+
+[...]
 
 1 - ...
 
@@ -133,7 +145,9 @@ Os artigos 1.º, 2.º, 3.º, 4.º, 5.º e 6.º do despacho normativo n.º 5/2012
 
 4 - A ajuda concedida ao abrigo do presente despacho quando acumulada com outras contribuições financeiras nacionais ou comunitárias para as mesmas despesas elegíveis não pode ultrapassar a intensidade máxima de auxílio estabelecida no artigo 11.º do Regulamento (CE) n.º 1857/2006, da Comissão, de 15 de dezembro.
 
-###### Artigo 4.º — [...]
+Artigo 4.º
+
+[...]
 
 1 - ...
 
@@ -141,7 +155,9 @@ Os artigos 1.º, 2.º, 3.º, 4.º, 5.º e 6.º do despacho normativo n.º 5/2012
 
 3 - (Anterior n.º 2.)
 
-###### Artigo 5.º — [...]
+Artigo 5.º
+
+[...]
 
 1 - O pagamento incide sobre os elementos constantes da BD SNIRA à data de 9 de abril, tendo por base o número de bovinos na posse do produtor a 1 de fevereiro de 2012, bem como o número de ovinos e caprinos constantes da declaração de existências à data de 31 de dezembro de 2011.
 
@@ -149,7 +165,9 @@ Os artigos 1.º, 2.º, 3.º, 4.º, 5.º e 6.º do despacho normativo n.º 5/2012
 
 3 - ...
 
-###### Artigo 6.º — [...]
+Artigo 6.º
+
+[...]
 
 1 -Em caso de pagamento indevido por ato imputável ao agricultor, bem como em caso de não recuperação de auxílio anterior declarado incompatível, incumbe ao agricultor reembolsar o montante em questão acrescido de juros calculados relativamente ao período decorrido entre a notificação ao agricultor da obrigação de reembolso e o reembolso ou dedução efetivas.
 
@@ -244,3 +262,5 @@ Aberdeen-Angus.
 Cruzado de Aberdeen-Angus.
 
 Cruzado de Blonde.
+
+206140215

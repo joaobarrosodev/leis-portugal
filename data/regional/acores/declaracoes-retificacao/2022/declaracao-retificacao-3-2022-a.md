@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2022/06/12300/0001500016.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/declretif/3/2022/06/28/a/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/declaracao-retificacao/3-2022-185325081
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2022-06-28T00:00:00Z'
+  retrieved_at: '2026-10-23T15:16:35Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 60b55b2655f0a0c665bebb5bac27f4bf711c56cd9561e7c7413b1653bc2302b2
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: ffcc171e36d60948fd0a231fbb48aad90307ab821eb5ef01cf1b30f517513c1b
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:16:35Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,78 +66,78 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Reestruturação de Serviços
+- Açores
 - Centro de Oncologia dos Açores
-- Governo Regional
-- Direcção Regional das Pescas
+- Conselho do Governo Regional
 - Criação de Serviços
 - Definição de Competências
-- Direcção Regional dos Assuntos Culturais
+- DIREÇÃO REGIONAL DA AGRICULTURA
+- Direção Regional da Cooperação com o Poder Local
+- Direção Regional da Mobilidade
+- Direção Regional da Organização Planeamento e Emprego Público
+- Direção Regional da Solidariedade Social
+- Direção Regional das Comunicações e da Transição Digital
+- Direção Regional de Políticas Marítimas
+- Direção Regional do Ambiente e Alterações Climáticas
+- Direção Regional do Empreendedorismo e Competitividade
+- Direção Regional para a Promoção da Igualdade e Inclusão Social
 - Direcção Regional da Ciência e Tecnologia
-- Presidência do Governo Regional
 - Direcção Regional da Energia
 - Direcção Regional da Habitação
 - Direcção Regional da Juventude
+- Direcção Regional da Prevenção e Combate as Dependências
+- Direcção Regional das Pescas
+- Direcção Regional de Educação
 - Direcção Regional de Obras Públicas
 - Direcção Regional de Saúde
 - Direcção Regional do Desporto
-- Vice-presidência do Governo Regional
+- Direcção Regional do Orçamento e Tesouro
 - Direcção Regional do Planeamento e Fundos Estruturais
+- Direcção Regional dos Assuntos Culturais
 - Diretor Regional
-- Direção Regional da Solidariedade Social
 - Empresa Pública Regional
 - Entidade Reguladora dos Serviços de Águas e Resíduos dos Açores
 - Extinção de Serviços
-- Secretaria Geral
-- Inspecção Regional do Ambiente
-- Inspecção Regional das Pescas
-- Presidente do Governo Regional
-- Conselho do Governo Regional
+- Gestão de Recursos Humanos
+- Governo Regional
 - Inspecção Administrativa Regional
+- Inspecção Regional da Saúde
+- Inspecção Regional das Actividades Culturais
 - Inspecção Regional das Actividades Económicas
+- Inspecção Regional das Pescas
 - Inspecção Regional de Educação
+- Inspecção Regional do Ambiente
+- Inspecção Regional do Trabalho
 - Inspecção Regional do Turismo
 - Integração de Serviços
 - Integração de Trabalhadores
 - Laboratório Regional de Engenharia Civil
-- Direcção Regional de Educação
 - Orgânica
-- Direcção Regional do Orçamento e Tesouro
+- Presidência do Governo Regional
+- Presidente do Governo Regional
+- Reestruturação de Serviços
+- Secretaria Geral
 - Secretaria Regional
-- Inspecção Regional das Actividades Culturais
-- Direcção Regional da Prevenção e Combate as Dependências
-- Inspecção Regional da Saúde
-- Inspecção Regional do Trabalho
+- Secretaria Regional da Agricultura e Desenvolvimento Rural
+- Secretaria Regional da Juventude Qualificação Profissional e Emprego
+- Secretaria Regional da Saúde e Desporto
+- Secretaria Regional do Ambiente e Alterações Climáticas
+- Secretaria Regional do Mar e das Pescas
+- Secretaria Regional do Mar e Pescas
 - Secretário Regional
+- Secretário Regional da Educação e dos Assuntos Culturais
+- Secretário Regional da Juventude Qualificação Profissional e Emprego
+- Secretário Regional da Saúde e Desporto
 - Secretário Regional das Finanças Planeamento e Administração Pública
-- Gestão de Recursos Humanos
-- Açores
+- Secretário Regional do Ambiente e Alterações Climáticas
+- Secretário Regional do Turismo Mobilidade e Infraestruturas
+- SERVIÇO REGIONAL DE PROTEÇÃO CIVIL E BOMBEIROS DOS AÇORES
+- Subsecretário Regional da Presidência
 - Transferência de Competências
 - Transferência de Pessoal
 - Transferência Patrimonial
+- Vice-presidência do Governo Regional
 - Vice-presidente do Governo Regional
-- DIREÇÃO REGIONAL DA AGRICULTURA
-- SERVIÇO REGIONAL DE PROTEÇÃO CIVIL E BOMBEIROS DOS AÇORES
-- Secretaria Regional do Mar e Pescas
-- Secretaria Regional da Agricultura e Desenvolvimento Rural
-- Direção Regional do Ambiente e Alterações Climáticas
-- Subsecretário Regional da Presidência
-- Secretário Regional da Saúde e Desporto
-- Secretário Regional do Ambiente e Alterações Climáticas
-- Secretário Regional da Juventude Qualificação Profissional e Emprego
-- Secretaria Regional da Saúde e Desporto
-- Secretaria Regional do Ambiente e Alterações Climáticas
-- Secretaria Regional da Juventude Qualificação Profissional e Emprego
-- Direção Regional para a Promoção da Igualdade e Inclusão Social
-- Direção Regional da Cooperação com o Poder Local
-- Secretaria Regional do Mar e das Pescas
-- Secretário Regional da Educação e dos Assuntos Culturais
-- Secretário Regional do Turismo Mobilidade e Infraestruturas
-- Direção Regional das Comunicações e da Transição Digital
-- Direção Regional do Empreendedorismo e Competitividade
-- Direção Regional da Organização Planeamento e Emprego Público
-- Direção Regional de Políticas Marítimas
-- Direção Regional da Mobilidade
 relationships:
 - type: cites
   target: eli:http://data.dre.pt/eli/decregulreg/6/2022/04/29/a/dre
@@ -147,16 +147,24 @@ relationships:
   target: eli:http://data.dre.pt/eli/lei/74/1998/11/11/p/dre
   label: null
   source: http://data.dre.pt/eli/lei/74/1998/11/11/p/dre
+- type: cites
+  target: pt:dre:182727778:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:234316:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:16:35Z'
   warnings: []
   errors: []
 ---
@@ -268,3 +276,5 @@ deve ler-se:
 «A Inspeção Administrativa Regional, da Transparência e do Combate à Corrupção prevista na subalínea iv) da alínea b) do n.º 3».
 
 Ponta Delgada, 23 de junho de 2022. - O Presidente do Governo Regional, José Manuel Cabral Dias Bolieiro.
+
+115452421

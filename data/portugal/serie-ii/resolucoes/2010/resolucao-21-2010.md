@@ -46,40 +46,59 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/resolucao/21-2010-3338949
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2016-10-21T00:00:00Z'
+  retrieved_at: '2026-10-23T15:14:32Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: d0aa41d726946191176aa55402f36fb9d6c6607cc1de394756ead4042cb2a65a
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: beee1e248c32689f4f6d3a1ce90acedf3edf0bbeb0c9dfdc52f1699631c1d05a
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:14:32Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Mafra
+- Plano Muncipal de Emergência de Protecção Civil
+- Proteção Civil
+- Sintra
+- VALE de Cambra
 relationships:
 - type: amended_by
   target: pt:dre:75575494:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:75575494:por
+  label: Tornada pública a aprovação da 1.ª Revisão do Plano Municipal de Emergência de Proteção Civil de Vale de Cambra pelo(a)
+    Resolução n.º 32/2016 - Diário da República n.º 203/2016, Série II de 2016-10-21
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/resolucao/32-2016-75575494
+  date: '2016-10-21'
+- type: cites
+  target: pt:dre:3086255:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:537862:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:14:32Z'
   warnings: []
   errors: []
 ---
@@ -97,3 +116,5 @@ Aprovar os Planos Municipais de Emergência de Protecção Civil de Mafra, Sintr
 Os referidos Planos Municipais de Emergência de Protecção Civil entram em vigor no primeiro dia útil seguinte à publicação da presente Resolução no Diário da República, nos termos do n.º 12 do artigo 4.º da [Resolução n.º 25/2008](https://diariodarepublica.pt/dr/detalhe/resolucao/25-2008-3086255) de 18 de Julho, da Comissão Nacional de Protecção Civil.
 
 Lisboa, 31 de Maio de 2010. - O Presidente da Comissão Nacional de Protecção Civil, Vasco Franco.
+
+203337835

@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1988/07/16800/29522971.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -47,40 +47,111 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/27-1988-372620
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2011-04-20T00:00:00Z'
+  retrieved_at: '2026-10-23T15:17:44Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: c7ebfd8bfb84b60f8eae90863f5650d4480adb3902c4dd32d8f94be494f11681
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 2e905bdd8c15882afdc0f04e07ed1738897574a85d10e31c5ca50c09c37e322d
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:17:44Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Açores
+- Proteção do Ambiente
+- Reserva Florestal
 relationships:
 - type: amended_by
   target: pt:dre:277368:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:456515:por
+  label: "Reclassificada,nos termos do n.º 2 do art. 37.º do DLR 15/2007/A, de 25-Jun, como reserva natural, a reserva florestal\
+    \ natural parcial do pico da Vara, e como área protegida para a gestão de habitats ou espécies da Tronqueira e planalto\
+    \ dos Graminhais as reservas florestais naturais parciais da Atalhada e Graminhais e revogadas as als. f) do art. 1º e\
+    \ l), m) e n) do n.º 1 do art. 2º pelo DLR.19/2008/A.08.07.2008.AL-RAA, DR.IS [130] de 08.07.2008\08\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-legislativo-regional/19-2008-456515
+  date: '2008-07-08'
+- type: amended_by
+  target: pt:dre:456524:por
+  label: "Reclassificadas, nos termos do n.º 2 do art. 37.º do DLR 15/2007/A, de 25-Jun, como reservas naturais, as reservas\
+    \ florestais naturais parciais do Caveiro e Mistério da Prainha e como área protegida para a gestão de habitats ou espécies,\
+    \ a reserva florestal natural parcial da lagoa do Caiado, criadas pelo presente diploma, pelo DLR.20/2008/A.09.07.2008.AL-RAA,\
+    \ DR.IS [131] de 09.07.2008\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-legislativo-regional/20-2008-456524
+  date: '2008-07-09'
+- type: amended_by
+  target: pt:dre:439169:por
+  label: "Reclassificada como reservas naturais, as reservas florestais naturais parciais do Cabeço do Fogo e do Vulcão dos\
+    \ Capelinhos e revogadas a al. a) do art. 1.º e as als. a) e b) do n.º 1 do art. 2.º pelo DLR.46/2008/A.07.11.2008.AL-RAA,\
+    \ DR.IS [217] de 07.11.2008\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-legislativo-regional/46-2008-439169
+  date: '2008-11-07'
+- type: amended_by
+  target: pt:dre:278770:por
+  label: "Reclassificadas como Reserva Natural do Morro Alto e Pico da Sé, a Reserva Florestal Natural Parcial do Morro Alto\
+    \ e Pico da Sé, assim como Reserva Natural das Caldeiras Funda e Rasa, a Reserva Florestal Natural Parcial das Caldeiras\
+    \ Funda e Rasa; e revogadas a al. b) do art. 1º, e as als. d) e c) do nº 1 do art. 2º pelo DLR.8/2011/A.23.03.2011.AL-RAA,\
+    \ DR.IS [58] de 23.03.2011\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-legislativo-regional/8-2011-278770
+  date: '2011-03-23'
+- type: amended_by
+  target: pt:dre:277368:por
+  label: "Reclassificadas como reserva natural do Biscoito da Ferraria e Pico Alto e como reserva natural da serra de Santa\
+    \ Bárbara e Mistérios Negros e revogado o presente diploma, pelo DLR.11/2011/A.20.04.2011.AL-RAA, DR.IS [78] de 20.04.2011\0\
+    \0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-legislativo-regional/11-2011-277368
+  date: '2011-04-20'
+- type: cites
+  target: pt:dre:253434:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:420624:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:660527:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:526858:por
+  label: "Revogado o presente diploma e respectivos regulamentos, em tudo o que contrarie o disposto no DLR.24/2004/A.28.06.2004.ALR-RAA,\
+    \ DR.IS-A [164] de 14.07.2004, e demais legislação de enquadramento.\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-legislativo-regional/24-2004-526858
+  date: '2004-06-28'
+- type: repealed_by
+  target: pt:dre:635868:por
+  label: "Revogado, sem prejuízo da sua aplicação transitória às áreas classificadas na sua vigência até à aprovação dos diplomas\
+    \ que procedem à sua reclassificação, pelo DLR.15/2007/A.06.06.2007.AL-RAA, DR.IS [120] de 25.06.2007\07\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-legislativo-regional/15-2007-635868
+  date: '2007-06-06'
+- type: repealed_by
+  target: pt:dre:277642:por
+  label: "Revogadas a al. e) do art. 1º e as al.s i), j) e k) do nº 1 do art. 2º, pelo DLR.10/2011/A.28.03.2011.AL-RAA, DR.IS\
+    \ [61] de 28.03.2011\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-legislativo-regional/10-2011-277642
+  date: '2011-03-28'
 article_structure:
   article_count: 11
   section_count: 3
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:17:44Z'
   warnings: []
   errors: []
 ---
@@ -275,14 +346,14 @@ b) Os directores de serviços florestais territorialmente competentes no local d
 
 Aprovado pela Assembleia Regional dos Açores, na Horta, em 19 de Maio de 1988.
 
-**O Presidente da Assembleia Regional, José Guilherme Reis Leite.**
+O Presidente da Assembleia Regional, José Guilherme Reis Leite.
 
-**Assinado em Angra do Heroísmo em 23 de Junho de 1988.**
+Assinado em Angra do Heroísmo em 23 de Junho de 1988.
 
-**Publique-se.**
+Publique-se.
 
-**O Ministro da República para a Região Autónoma dos Açores, Vasco Joaquim Rocha Vieira.**
+O Ministro da República para a Região Autónoma dos Açores, Vasco Joaquim Rocha Vieira.
 
 Do Mapa I ao Mapa XVI
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1988/07/16800/29522971.pdf))](https://files.diariodarepublica.pt/1s/1988/07/16800/29522971.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1988/07/16800/29522971.pdf)

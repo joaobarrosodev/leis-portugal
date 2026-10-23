@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/2s/2021/07/139000000/0002800068.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -46,40 +46,69 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/despacho-normativo/21-2021-167839741
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2022-11-11T00:00:00Z'
+  retrieved_at: '2026-10-23T15:08:48Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 2bc3ba6513af5eddd59e31e34a8caa4b65e488a41d1eac0cf535f2d8a81bbe18
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 8fa501435d30bb4572ae58675f49782bb148f6860d8fc1b8e1a42209b061cc75
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:08:48Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Administrador
+- Coimbra
+- Conselho Consultivo
+- Conselho de Gestão
+- Conselho Geral
+- Estatuto
+- Fiscal Único
+- Gestão de Recursos Humanos
+- Gestão Financeira
+- Homologação
+- Presidente
+- Simbolo de Identificação
+- Vice-presidente
 relationships:
 - type: amended_by
   target: pt:dre:203337803:por
   label: Última alteração registada na importação inicial
   source: null
+- type: cites
+  target: pt:dre:120999244:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:138960584:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:2013971:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:640339:por
+  label: null
+  source: null
 article_structure:
   article_count: 100
   section_count: 26
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:08:48Z'
   warnings: []
   errors: []
 ---
@@ -1855,3 +1884,5 @@ Os dirigentes previstos nos artigos 36.º e 84.º dos presentes estatutos que se
 ###### Artigo 91.º — Entrada em vigor e revisão dos estatutos
 
 Os presentes estatutos entram em vigor no dia seguinte ao da sua publicação no Diário da República, podendo ser revistos ou alterados nos termos da lei.
+
+314397916

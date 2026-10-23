@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/2s/2026/08/156000000/0027600276.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -46,18 +46,18 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/declaracao-retificacao/696-2026-1157675430
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2026-08-13T00:00:00Z'
+  retrieved_at: '2026-10-23T15:06:04Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 9995479219be6cbf1b7f29ebb2dbc847d14de0d3cb02f5f6fd0036a3426796db
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 36ed8569f58fd5c43bec66a2a50fc35437de7d361d3c3600e23c0ae5d9130d1b
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:06:04Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -65,17 +65,21 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects: []
-relationships: []
+relationships:
+- type: cites
+  target: pt:dre:1138174404:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:06:04Z'
   warnings: []
   errors: []
 ---
@@ -85,3 +89,5 @@ validation:
 Para os devidos efeitos torna-se público que se procede à seguinte alteração ao [Aviso n.º 15729/2026/2](https://diariodarepublica.pt/dr/detalhe/aviso/15729-2026-1138174404), publicado no Diário da República, 2.ª série, n.º 120, de 24 de junho de 2026, pelo que onde se lê «por meu despacho datado de 12 de junho de 2023» deve ler-se «por meu despacho datado de 12 de junho de 2026».
 
 4 de agosto de 2026. - A Presidente da Câmara Municipal, Clarisse Maria Gaudino Veredas Campos.
+
+320030630

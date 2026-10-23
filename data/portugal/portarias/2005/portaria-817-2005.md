@@ -48,18 +48,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/817/2005/09/13/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/817-2005-142709
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2007-02-26T00:00:00Z'
+  retrieved_at: '2026-10-23T15:08:36Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: e169da11b12ee79d1abfac7c2bbbd339e01c828c74cd11ed2784d13e21565ea7
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 54f6494fa49a9a0db5db3843f9bdbd66fb5ec7e5fff21687a05f8680f2655c52
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:08:36Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,9 +67,9 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Jogos de Fortuna e Azar
 - Estabelecimento de Jogos
 - Inspecção Geral de Jogos
+- Jogos de Fortuna e Azar
 - Máquinas de Jogo
 - ZONA de JOGO
 relationships:
@@ -97,16 +97,46 @@ relationships:
   target: eli:http://data.dre.pt/eli/port/894/2002/07/29/p/dre
   label: null
   source: http://data.dre.pt/eli/port/894/2002/07/29/p/dre
+- type: cites
+  target: pt:dre:145222:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:196901:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:316160:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:550804:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:582040:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:627205:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:518846:por
+  label: "Revogadas as regras de execução das mesmas modalidades de jogo constantes da PORT.217/2007.26.02.2007.MEI, DR.IS\
+    \ [40] de 26.02.2007\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/217-2007-518846
+  date: '2007-02-26'
 article_structure:
   article_count: 0
-  section_count: 22
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  section_count: 19
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:08:36Z'
   warnings: []
   errors: []
 ---
@@ -141,7 +171,7 @@ Manda o Governo, pelo Secretário de Estado do Turismo, o seguinte:
 
 3.º A presente portaria entra em vigor no 30.º dia posterior à data da sua publicação.
 
-**O Secretário de Estado do Turismo, Bernardo Luís Amador Trindade, em 3 de Agosto de 2005.**
+O Secretário de Estado do Turismo, Bernardo Luís Amador Trindade, em 3 de Agosto de 2005.
 
 ## ANEXO
 
@@ -619,7 +649,7 @@ Total 4 ou total 10 - 2 para 1.
 
 Os pagamentos em relação aos totais saídos são os seguintes:
 
-[(ver tabela no documento original)](https://files.diariodarepublica.pt/1s/2005/09/176b00/55295554.pdf)
+[[[[(ver tabela no documento original)](https://files.diariodarepublica.pt/1s/2005/09/176b00/55295554.pdf)](https://files.diariodarepublica.pt/1s/2005/09/176b00/55295554.pdf)](https://files.diariodarepublica.pt/1s/2005/09/176b00/55295554.pdf)](https://files.diariodarepublica.pt/1s/2005/09/176b00/55295554.pdf)
 
 As apostas nestas chances têm de ser múltiplas dos mínimos fixados.
 
@@ -1045,7 +1075,7 @@ Com excepção do primeiro, antes de cada lance e depois de anunciado «nada mai
 
 Apenas mais uma carta poderá ser adicionada às duas inicialmente distribuídas a cada grupo, sendo a primeira para o grupo do ponto e observando-se a seguinte tabela:
 
-[(ver tabela no documento original)](https://files.diariodarepublica.pt/1s/2005/09/176b00/55295554.pdf)
+[[[[(ver tabela no documento original)](https://files.diariodarepublica.pt/1s/2005/09/176b00/55295554.pdf)](https://files.diariodarepublica.pt/1s/2005/09/176b00/55295554.pdf)](https://files.diariodarepublica.pt/1s/2005/09/176b00/55295554.pdf)](https://files.diariodarepublica.pt/1s/2005/09/176b00/55295554.pdf)
 
 14 - Quando, durante qualquer das distribuições inicial ou adicional, se verifique lapso, deve ser este imediatamente corrigido. O lance, porém, será considerado nulo se for de todo impossível corrigir-se o lapso.
 
@@ -1117,7 +1147,7 @@ Com excepção do primeiro, antes de cada lance e depois de anunciado «nada mai
 
 Apenas mais uma carta poderá ser adicionada às duas inicialmente distribuídas a cada grupo, sendo a primeira para o grupo do ponto e observando-se a seguinte tabela:
 
-[(ver tabela no documento original)](https://files.diariodarepublica.pt/1s/2005/09/176b00/55295554.pdf)
+[[[[(ver tabela no documento original)](https://files.diariodarepublica.pt/1s/2005/09/176b00/55295554.pdf)](https://files.diariodarepublica.pt/1s/2005/09/176b00/55295554.pdf)](https://files.diariodarepublica.pt/1s/2005/09/176b00/55295554.pdf)](https://files.diariodarepublica.pt/1s/2005/09/176b00/55295554.pdf)
 
 14 - Quando, durante qualquer das distribuições inicial ou adicional, se verifique lapso, deve ser este imediatamente corrigido. O lance, porém, será considerado nulo se for de todo impossível corrigir-se o lapso.
 
@@ -1321,7 +1351,7 @@ c) Se tiver bacará, um ou dois, tira uma terceira carta para si, salvo se o pon
 
 d) Se tiver três, quatro, cinco ou seis e se o ponto não tiver abatido, tirará ou não, conforme o ponto tenha ou não pedido carta e, tendo pedido carta, consoante a pontuação da terceira carta, de acordo com a seguinte tabela:
 
-[(ver tabela no documento original)](https://files.diariodarepublica.pt/1s/2005/09/176b00/55295554.pdf)
+[[[[(ver tabela no documento original)](https://files.diariodarepublica.pt/1s/2005/09/176b00/55295554.pdf)](https://files.diariodarepublica.pt/1s/2005/09/176b00/55295554.pdf)](https://files.diariodarepublica.pt/1s/2005/09/176b00/55295554.pdf)](https://files.diariodarepublica.pt/1s/2005/09/176b00/55295554.pdf)
 
 68 - A terceira carta extraída do sabot, quando nesse sentido houver pedido do ponto, será entregue com a pontuação à vista de todos os jogadores, mesmo se o ponto tiver descoberto antes uma das cartas que lhe foram distribuídas.
 
@@ -1499,7 +1529,9 @@ d) O último golpe do sabot não é válido se nele não estiverem seis cartas, 
 
 107 - O jogo prolongar-se-á, para além da hora oficial do encerramento, até ao esgotamento do sabot, desde que este tenha sido iniciado vinte minutos antes daquela hora.
 
-#### SECÇÃO II — Póquer sintético
+SECÇÃO II
+
+Póquer sintético
 
 1 - O póquer sintético é um jogo de fortuna ou azar não bancado, onde se tem por objectivo alcançar a maior combinação possível com cinco cartas, sendo duas de cada jogador e três das cinco comuns que o pagador vai descobrindo nas distintas fases do jogo.
 
@@ -1701,9 +1733,13 @@ d) Se, quando da distribuição das cartas pelo pagador, alguma se virar.
 
 66 - Quando o pagador convida os jogadores a abrirem o jogo, o jogador que deitar as cartas para a mesa sem as descobrir perde o direito ao POT.
 
-## TÍTULO III — Máquinas automáticas
+TÍTULO III
 
-### CAPÍTULO ÚNICO — Máquinas automáticas
+Máquinas automáticas
+
+CAPÍTULO ÚNICO
+
+Máquinas automáticas
 
 1 - O jogo de máquinas automáticas pode ser praticado em aparelhos de funcionamento mecânico, eléctrico, electromecânico ou electrónico com alguma das seguintes características:
 

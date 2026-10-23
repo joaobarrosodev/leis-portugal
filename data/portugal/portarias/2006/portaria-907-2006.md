@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/907/2006/09/04/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/907-2006-539998
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2009-09-09T00:00:00Z'
+  retrieved_at: '2026-10-23T15:17:01Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: c813da6b79e928e9af8dbc0d46c6c27a891fa1a02adc4bfe883ee902de2d4335
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: e93c06f04841f94bf92cc6d1af2903f49b21cc7ba50b824b7e419fa505fb3fbb
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:17:01Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,14 +66,21 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- CAÇA
 - Beja
+- CAÇA
 - ZONA de CAÇA
 relationships:
 - type: amended_by
   target: pt:dre:489982:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:489982:por
+  label: "Renovada, pelo período de seis anos, a partir de 12.08.2009, a concessão da zona de caça e respectiva transferência\
+    \ de gestão atribuídas pela Port 789/2003 de 11-Ago, com as alterações constantes do presente diploma, e anexados outros\
+    \ terrenos cinegéticos à mesma zona de caça, pela PORT.1014/2009.09.09.2009.MADRP, DR.IS [175] de 09.09.2009 \0 \0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/1014-2009-489982
+  date: '2009-09-09'
 - type: cites
   target: eli:http://data.dre.pt/eli/port/1161/2004/09/14/p/dre
   label: null
@@ -82,16 +89,24 @@ relationships:
   target: eli:http://data.dre.pt/eli/port/789/2003/08/11/p/dre
   label: null
   source: http://data.dre.pt/eli/port/789/2003/08/11/p/dre
+- type: cites
+  target: pt:dre:617327:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:660686:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:17:01Z'
   warnings: []
   errors: []
 ---
@@ -114,4 +129,4 @@ Manda o Governo, pelo Ministro da Agricultura, do Desenvolvimento Rural e das Pe
 
 Pelo Ministro da Agricultura, do Desenvolvimento Rural e das Pescas, Rui Nobre Gonçalves, Secretário de Estado do Desenvolvimento Rural e das Florestas, em 18 de Agosto de 2006.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2006/09/17000/65156515.pdf))](https://files.diariodarepublica.pt/1s/2006/09/17000/65156515.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2006/09/17000/65156515.pdf)

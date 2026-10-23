@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/517/2005/06/09/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/517-2005-227400
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2005-06-09T00:00:00Z'
+  retrieved_at: '2026-10-23T15:06:50Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 2d51bb06aafcbdf1be1228c8fb875f012ae4dbd1fa1ce5bfaabf9850135da095
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 86d351388b5b5ed27f9511d9869831911a2666c16ee8e8f9cf85501dbc55ec5f
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:06:50Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,24 +67,28 @@ reuse:
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
 - Cartão de Identificação
-- Pessoal Dirigente
-- Pessoal de Gabinete
 - Ministério da Ciência Tecnologia e Ensino Superior
+- Pessoal de Gabinete
+- Pessoal Dirigente
 relationships:
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/75/2005/04/04/p/dre
   label: null
   source: http://data.dre.pt/eli/dec-lei/75/2005/04/04/p/dre
+- type: cites
+  target: pt:dre:563009:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:06:50Z'
   warnings: []
   errors: []
 ---
@@ -119,8 +123,8 @@ Modelo n.º 2 - para uso do restante pessoal dos serviços e dos órgãos consul
 
 8.º O cartão deve ser sempre exibido de forma bem visível perante as autoridades a quem haja necessidade de recorrer e no momento da entrada dos locais a visitar.
 
-**O Ministro da Ciência, Tecnologia e Ensino Superior, José Mariano Rebelo Pires Gago, em 6 de Maio de 2005.**
+O Ministro da Ciência, Tecnologia e Ensino Superior, José Mariano Rebelo Pires Gago, em 6 de Maio de 2005.
 
-## ANEXO I — [(ver modelo no documento original)](https://files.diariodarepublica.pt/1s/2005/06/111b00/36903691.pdf)
+## ANEXO I — [[(ver modelo no documento original)](https://files.diariodarepublica.pt/1s/2005/06/111b00/36903691.pdf)](https://files.diariodarepublica.pt/1s/2005/06/111b00/36903691.pdf)
 
-## ANEXO II — [(ver modelo no documento original)](https://files.diariodarepublica.pt/1s/2005/06/111b00/36903691.pdf)
+## ANEXO II — [[(ver modelo no documento original)](https://files.diariodarepublica.pt/1s/2005/06/111b00/36903691.pdf)](https://files.diariodarepublica.pt/1s/2005/06/111b00/36903691.pdf)

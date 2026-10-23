@@ -48,30 +48,41 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/despacho-normativo/26-2008-3577409
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2010-07-15T00:00:00Z'
+  retrieved_at: '2026-10-23T15:06:50Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: e829eb732f70ccdebaf14c0fb9e7fc9ccf9c87d9c40673e070b55a8d3e9c0310
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: a76814aed3290188c3d86ff73e84d281bc809f08b29414c86b3a385ea312920d
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:06:50Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Ajuda Comunitária
+- Financiamento
+- Pagamento
+- Produto Hortícola
+- Regulamento CE
+- Taxa
 relationships:
 - type: amended_by
   target: pt:dre:862719:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:2265646:por
+  label: "Alterado o art. 2º pelo DN.1/2009.07.01.2009.MADRP, DR.IIS [4] de 07.01.2009\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/despacho-normativo/1-2009-2265646
+  date: '2009-01-07'
 - type: cites
   target: celex:32003R1782
   label: null
@@ -84,21 +95,47 @@ relationships:
   target: celex:32007R1182
   label: null
   source: null
+- type: cites
+  target: pt:dre:240029:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:243706:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:507250:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:525608:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:643075:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:862719:por
+  label: "Revogado a art. 2.º do presente diploma, na redacção do DN 1/2009, de 07-Jan, pelo DN.20/2010.15.07.2010.MADRP,\
+    \ DR.IIS [136] de 15.07.2010\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/despacho-normativo/20-2010-862719
+  date: '2010-07-15'
 article_structure:
   article_count: 5
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:06:50Z'
   warnings: []
   errors: []
 ---
 
-# Despacho Normativo n.º 26/2008
+# Despacho normativo n.º 26/2008
 
 O Regulamento (CE) n.º 1782/2003, do Conselho, de 29 de Setembro, que estabelece as regras comuns para os regimes de apoio directo no âmbito da política agrícola comum e institui determinados regimes de apoio aos agricultores, estipula que os Estados membros devem tomar algumas decisões relativamente a opções decorrentes da aplicação do regime de pagamento único (RPU).
 

@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/2s/2008/07/138000000/3195031952.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,40 +46,50 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/resolucao/25-2008-3086255
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2015-05-07T00:00:00Z'
+  retrieved_at: '2026-10-23T15:14:08Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 350b9cd62ba81d58b7948e9e8ab7fcaad5d3fba42f7fd698f071643150a20448
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: bfb5e44214bf20fa309cfb90c8ff904bc3ac5f7dc20d8f81a1c88197ea529f97
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:14:08Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Autoridade Nacional de Protecção Civil
+- Ordenamento do Território
+- Plano de Emergência
+- Proteção Civil
 relationships:
 - type: amended_by
   target: pt:dre:67163565:por
   label: Última alteração registada na importação inicial
   source: null
+- type: repealed_by
+  target: pt:dre:67163565:por
+  label: Revogada, a partir de 6 de junho de 2015, pelo(a) Resolução n.º 30/2015 - Diário da República n.º 88/2015, Série
+    II de 2015-05-07
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/resolucao/30-2015-67163565
+  date: '2015-05-07'
 article_structure:
   article_count: 10
   section_count: 3
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:14:08Z'
   warnings: []
   errors: []
 ---
@@ -274,7 +284,7 @@ x) Fontes de informação utilizadas na elaboração do plano.
 
 ## ANEXO — Índice do plano
 
-# Parte I - Enquadramento geral do plano:
+Parte I - Enquadramento geral do plano:
 
 1 - Introdução.
 
@@ -296,7 +306,7 @@ x) Fontes de informação utilizadas na elaboração do plano.
 
 8 - Programa de exercícios.
 
-# Parte II - Organização da resposta:
+Parte II - Organização da resposta:
 
 1 - Conceito de actuação:
 
@@ -324,7 +334,7 @@ x) Fontes de informação utilizadas na elaboração do plano.
 
 3.2.2 - Fase de reabilitação.
 
-# Parte III - Áreas de intervenção:
+Parte III - Áreas de intervenção:
 
 1 - Administração de meios e recursos.
 
@@ -346,7 +356,7 @@ x) Fontes de informação utilizadas na elaboração do plano.
 
 10 - Protocolos.
 
-# Parte IV - Informação complementar:
+Parte IV - Informação complementar:
 
 #### Secção I:
 

@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1984/04/08800/12221228.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,40 +46,79 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/15-1984-654687
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2005-12-19T00:00:00Z'
+  retrieved_at: '2026-10-23T15:17:03Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 0265d21bc857c2f59bb7372350e90af2b9f7ef88b89fd0acdf8928830470db47
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 83aa30fd33bf7acc91bf3ae268832f19937a5c867277941fdacf34171bbb2e7f
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:17:03Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Açores
+- Gabinete da ZONA Classificada de Angra do Heroísmo
+- Imóvel Classificado
+- Património Cultural
+- Património Mundial
 relationships:
 - type: amended_by
   target: pt:dre:168043:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:346709:por
+  label: "Alterada a epígrafe do Cap. VIII e os arts. 1.º 2.º, 4.º, 5.º, 6.º, 10.º, 12.º, 14.º, 16.º, 17.º, 18.º, 22.º, 23.º,\
+    \ 24.º, 25.º, 27.º, 28.º, 29.º, 30.º, 31.º, 35.º, 39.º, 41.º, 42.º, 43.º e 44.º; aditados os arts. 2.º-A, 6.º-A, 6.º-B,\
+    \ 31.º-A, 31.º-B, 42.º-A, 45.º-A 45.º-B e 45.º-C e revogados o n.º 3 do art. 8.º, o n.º 4 do art. 15.º, o n.º 5 do art.\
+    \ 17.º, o n.º 3 do art. 23.º, o n.º 2 do art. 27.º e o n.º 3 do art. 42.º e os arts. 40.º e 45.º todos do presente diploma,\
+    \ pelo DLR.29/99/A.1999.07.09.ALR-RAA DR.IS-A [177] DE 31/JUL/1999\09\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-legislativo-regional/29-1999-346709
+  date: '1999-07-09'
+- type: amended_by
+  target: pt:dre:168043:por
+  label: "Extinto o gabinete da zona classificada de Angra do Heroísmo criada pelo presente diploma e determinado que o seu\
+    \ património seja integrado na Direcção Regional da Cultura pelo DRR.3/2006/A.19.12.2005.PG-RAA, DR.IS-B [7] de 10.01.2006\
+    \ nos termos dos seus nºs 2 e 3 do art. 2.º\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-regulamentar-regional/3-2006-168043
+  date: '2005-12-19'
+- type: cites
+  target: pt:dre:678425:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:678860:por
+  label: null
+  source: null
+- type: corrected_by
+  target: pt:dre:607290:por
+  label: Rectificado pelo DECL.DD5569.23.05.1984.PCM, DR.IS [126-2SUPL] de 31.05.1984
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/declaracao/1984-607290
+  date: '1984-05-23'
+- type: repealed_by
+  target: pt:dre:218504:por
+  label: "Revogado pelo DLR.15/2004/A.12.03.2004.ALR-RAA, DR.IS-A [82] de 06.04.2004\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-legislativo-regional/15-2004-218504
+  date: '2004-03-12'
 article_structure:
   article_count: 45
   section_count: 8
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:17:03Z'
   warnings: []
   errors: []
 ---
@@ -458,12 +497,12 @@ O Governo Regional, em conjunto com a respectiva Câmara Municipal, tornará as 
 
 Aprovado pela Assembleia Regional dos Açores em 31 de Janeiro de 1984.
 
-**O Presidente da Assembleia Regional dos Açores, Álvaro Monjardino.**
+O Presidente da Assembleia Regional dos Açores, Álvaro Monjardino.
 
-**Assinado em Angra do Heroísmo em 22 de Março de 1984.**
+Assinado em Angra do Heroísmo em 22 de Março de 1984.
 
-**Publique-se.**
+Publique-se.
 
-**O Ministro da República para a Região Autónoma dos Açores, Tomás George Conceição Silva.**
+O Ministro da República para a Região Autónoma dos Açores, Tomás George Conceição Silva.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1984/04/08800/12221228.pdf))](https://files.diariodarepublica.pt/1s/1984/04/08800/12221228.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1984/04/08800/12221228.pdf)

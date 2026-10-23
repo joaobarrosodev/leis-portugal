@@ -46,25 +46,34 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/despacho-normativo/4-2014-2049273
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2014-03-03T00:00:00Z'
+  retrieved_at: '2026-10-23T15:07:53Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: e8386974409fd4a63774f5994cb22a2ddf5a2972fe6bdd53b6cf75d8b37db3e8
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 147df71af1e5b7e8dd062564a6bc776ddb5da33bca0dcbae7a8eff057020b900
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:07:53Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Apicultura
+- Definição de Competências
+- Direcção Regional de Agricultura e Pescas
+- Financiamento
+- IFAP
+- MEL
+- Prazo
+- Programa Apicola Nacional
+- Regulamento CE
 relationships:
 - type: cites
   target: celex:32004R0917
@@ -74,21 +83,25 @@ relationships:
   target: celex:32007R1234
   label: null
   source: null
+- type: cites
+  target: pt:dre:1622480:por
+  label: null
+  source: null
 article_structure:
-  article_count: 6
+  article_count: 2
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:07:53Z'
   warnings: []
   errors: []
 ---
 
-# Despacho Normativo n.º 4/2014
+# Despacho normativo n.º 4/2014
 
 O despacho normativo n.º 1/2014, de 3 de janeiro, estabeleceu as regras nacionais complementares de aplicação do Programa Apícola Nacional (PAN) relativo ao triénio de 2014-2016.
 
@@ -118,7 +131,9 @@ Os artigos 3.º e 17.º do [Despacho Normativo n.º 1/2014](https://diariodarepu
 
 6 - [...]
 
-###### Artigo 17.º — [...]
+Artigo 17.º
+
+[...]
 
 1 - [...]
 
@@ -136,88 +151,124 @@ Os anexos I, II, III, IV, V, VI e VII do [Despacho Normativo n.º 1/2014](https:
 
 [...]
 
-[([ver documento original](https://files.diariodarepublica.pt/2s/2014/03/043000000/0618906200.pdf))](https://files.diariodarepublica.pt/2s/2014/03/043000000/0618906200.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/2s/2014/03/043000000/0618906200.pdf)
 
-## ANEXO II — [...]
-
-[([ver documento original](https://files.diariodarepublica.pt/2s/2014/03/043000000/0618906200.pdf))](https://files.diariodarepublica.pt/2s/2014/03/043000000/0618906200.pdf)
-
-## ANEXO III — [...]
-
-[([ver documento original](https://files.diariodarepublica.pt/2s/2014/03/043000000/0618906200.pdf))](https://files.diariodarepublica.pt/2s/2014/03/043000000/0618906200.pdf)
-
-## ANEXO IV — [...]
-
-[([ver documento original](https://files.diariodarepublica.pt/2s/2014/03/043000000/0618906200.pdf))](https://files.diariodarepublica.pt/2s/2014/03/043000000/0618906200.pdf)
-
-## ANEXO V — Dotação orçamental global do PAN 2014-2016
+ANEXO II
 
 [...]
 
-## ANEXO VI — [...]
+[(ver documento original)](https://files.diariodarepublica.pt/2s/2014/03/043000000/0618906200.pdf)
 
-[([ver documento original](https://files.diariodarepublica.pt/2s/2014/03/043000000/0618906200.pdf))](https://files.diariodarepublica.pt/2s/2014/03/043000000/0618906200.pdf)
+ANEXO III
 
-## ANEXO VII — [...]
+[...]
 
-[([ver documento original](https://files.diariodarepublica.pt/2s/2014/03/043000000/0618906200.pdf))](https://files.diariodarepublica.pt/2s/2014/03/043000000/0618906200.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/2s/2014/03/043000000/0618906200.pdf)
 
-###### Artigo 3.º — Republicação
+ANEXO IV
+
+[...]
+
+[(ver documento original)](https://files.diariodarepublica.pt/2s/2014/03/043000000/0618906200.pdf)
+
+ANEXO V
+
+Dotação orçamental global do PAN 2014-2016
+
+[...]
+
+ANEXO VI
+
+[...]
+
+[(ver documento original)](https://files.diariodarepublica.pt/2s/2014/03/043000000/0618906200.pdf)
+
+ANEXO VII
+
+[...]
+
+[(ver documento original)](https://files.diariodarepublica.pt/2s/2014/03/043000000/0618906200.pdf)
+
+Artigo 3.º
+
+Republicação
 
 São republicados em anexo ao presente despacho, do qual faz parte integrante, os anexos do [Despacho Normativo n.º 1/2014](https://diariodarepublica.pt/dr/detalhe/despacho-normativo/1-2014-1622480), de 3 de janeiro.
 
-###### Artigo 4.º — Período adicional de candidaturas
+Artigo 4.º
+
+Período adicional de candidaturas
 
 Para a campanha de 2014, é aberto novo período para apresentação de candidaturas ou alteração das já apresentadas em janeiro, com a duração de 10 dias úteis a contar da data de entrada em vigor do presente despacho.
 
-###### Artigo 5.º — Entrada em vigor
+Artigo 5.º
+
+Entrada em vigor
 
 O presente despacho entra em vigor no dia seguinte ao da sua publicação.
 
 24 de fevereiro de 2014. - O Secretário de Estado da Agricultura, José Diogo Santiago de Albuquerque.
 
-## ANEXO — (a que se refere o artigo 3.º)
+ANEXO
+
+(a que se refere o artigo 3.º)
 
 Republicação dos anexos do [Despacho Normativo n.º 1/2014](https://diariodarepublica.pt/dr/detalhe/despacho-normativo/1-2014-1622480), de 3 de janeiro
 
-## ANEXO I — Condições de acesso
+ANEXO I
+
+Condições de acesso
 
 (a que se refere o artigo 4.º)
 
-[([ver documento original](https://files.diariodarepublica.pt/2s/2014/03/043000000/0618906200.pdf))](https://files.diariodarepublica.pt/2s/2014/03/043000000/0618906200.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/2s/2014/03/043000000/0618906200.pdf)
 
-## ANEXO II — Obrigações dos beneficiários
+ANEXO II
+
+Obrigações dos beneficiários
 
 (a que se refere o n.º 2 do artigo 5.º)
 
-[([ver documento original](https://files.diariodarepublica.pt/2s/2014/03/043000000/0618906200.pdf))](https://files.diariodarepublica.pt/2s/2014/03/043000000/0618906200.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/2s/2014/03/043000000/0618906200.pdf)
 
-## ANEXO III — Despesas elegíveis
+ANEXO III
+
+Despesas elegíveis
 
 (a que se refere o artigo 6.º)
 
-[([ver documento original](https://files.diariodarepublica.pt/2s/2014/03/043000000/0618906200.pdf))](https://files.diariodarepublica.pt/2s/2014/03/043000000/0618906200.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/2s/2014/03/043000000/0618906200.pdf)
 
-## ANEXO IV — Critérios de hierarquização das candidaturas
+ANEXO IV
+
+Critérios de hierarquização das candidaturas
 
 (a que se referem o n.º 3 do artigo 9.º e o n.º 2 do artigo 11.º)
 
-[([ver documento original](https://files.diariodarepublica.pt/2s/2014/03/043000000/0618906200.pdf))](https://files.diariodarepublica.pt/2s/2014/03/043000000/0618906200.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/2s/2014/03/043000000/0618906200.pdf)
 
-## ANEXO V — Dotação orçamental global do PAN 2014-2016
+ANEXO V
+
+Dotação orçamental global do PAN 2014-2016
 
 (a que se refere o artigo 10.º)
 
-[([ver documento original](https://files.diariodarepublica.pt/2s/2014/03/043000000/0618906200.pdf))](https://files.diariodarepublica.pt/2s/2014/03/043000000/0618906200.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/2s/2014/03/043000000/0618906200.pdf)
 
-## ANEXO VI — Nível e limites das ajudas
+ANEXO VI
+
+Nível e limites das ajudas
 
 (a que se refere o artigo 14.º)
 
-[([ver documento original](https://files.diariodarepublica.pt/2s/2014/03/043000000/0618906200.pdf))](https://files.diariodarepublica.pt/2s/2014/03/043000000/0618906200.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/2s/2014/03/043000000/0618906200.pdf)
 
-## ANEXO VII — Reduções e exclusões
+ANEXO VII
+
+Reduções e exclusões
 
 (a que se refere o artigo 19.º)
 
-[([ver documento original](https://files.diariodarepublica.pt/2s/2014/03/043000000/0618906200.pdf))](https://files.diariodarepublica.pt/2s/2014/03/043000000/0618906200.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/2s/2014/03/043000000/0618906200.pdf)
+
+207650753

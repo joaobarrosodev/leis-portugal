@@ -19,12 +19,12 @@ publication:
   reference: Diário da República n.º 124/2005, 1º Suplemento, Série I-B de 2005-06-30
   number: '124'
   series: I
-  supplement: 1º Suplemento
+  supplement: null
   pages: 4066-(2) a 4066-(2)
   pdf_url: https://files.diariodarepublica.pt/1s/2005/06/124b01/00020002.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/572-a/2005/06/30/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/572-a-2005-398574
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2006-03-29T00:00:00Z'
+  retrieved_at: '2026-10-23T15:07:08Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: ef9e08f5f9c2de9b1e038631324ff304c4d9e65f09529ddd51644bd5fecf9196
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 517456d7345db9ad6d76f25c98e990c79adfb54ec44e232454d2b8c7217e0e08
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:07:08Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -65,10 +65,10 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- IVA
 - Inspecção de Veículos
-- Veículo
+- IVA
 - Preço
+- Veículo
 relationships:
 - type: amended_by
   target: pt:dre:671615:por
@@ -82,16 +82,29 @@ relationships:
   target: eli:http://data.dre.pt/eli/port/1468/2004/12/20/p/dre
   label: null
   source: http://data.dre.pt/eli/port/1468/2004/12/20/p/dre
+- type: cites
+  target: pt:dre:218507:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:655940:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:671615:por
+  label: "Revogada pela PORT.309/2006.29.03.2006.MAI, DR.IS-B [63] de 29.03.2006\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/309-2006-671615
+  date: '2006-03-29'
 article_structure:
   article_count: 3
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:07:08Z'
   warnings: []
   errors: []
 ---

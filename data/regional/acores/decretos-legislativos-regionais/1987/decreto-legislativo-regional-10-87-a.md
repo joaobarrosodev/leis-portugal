@@ -46,40 +46,58 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/10-1987-419650
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1994-07-07T00:00:00Z'
+  retrieved_at: '2026-10-23T15:17:30Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: dab060b4306d408dfcc0ccf0a6e4d9f3a232430b4dfe6b8e8323bb631b6ae51a
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 1d0f260a3c7e7e063b946d57c5cc4581e30989ba91425ad91873b0a184416efd
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:17:30Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Açores
+- Cargo Público
+- Membros do Governo
+- Parlamentar
 relationships:
 - type: amended_by
   target: pt:dre:291222:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:1945608:por
+  label: "ALTERADOS OS ARTIGOS 5 E 6 PELO DECRETO LEGISLATIVO REGIONAL 18/94/A, DE 14 DE JUNHO, PUBLICADO NO DR.IS-A, 155,\
+    \ DE 940707.\040707."
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/sem-diploma/2000-1945608
+  date: '1994-07-07'
+- type: cites
+  target: pt:dre:325545:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:666494:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:17:30Z'
   warnings: []
   errors: []
 ---
@@ -98,19 +116,19 @@ Na Região Autónoma da Madeira também já se aplica, com ligeiras adaptações
 
 Assim, a Assembleia Regional dos Açores decreta, nos termos da alínea a) do artigo 229.º da Constituição, o seguinte:
 
-###### Artigo 1.º - 1 - É aplicado aos titulares dos cargos políticos da Região o disposto na [Lei n.º 4/85](https://diariodarepublica.pt/dr/detalhe/lei/4-1985-325545), de 9 de Abril, com as adaptações constantes do presente diploma.
+Artigo 1.º - 1 - É aplicado aos titulares dos cargos políticos da Região o disposto na [Lei n.º 4/85](https://diariodarepublica.pt/dr/detalhe/lei/4-1985-325545), de 9 de Abril, com as adaptações constantes do presente diploma.
 
 2 - Para efeitos do presente diploma, são titulares dos cargos políticos da Região os deputados à Assembleia Regional e os membros do Governo Regional.
 
-###### Art. 2.º - 1 - Os preceitos da [Lei n.º 4/85](https://diariodarepublica.pt/dr/detalhe/lei/4-1985-325545) que não forem expressamente modificados no presente diploma aplicam-se integralmente na Região.
+Art. 2.º - 1 - Os preceitos da [Lei n.º 4/85](https://diariodarepublica.pt/dr/detalhe/lei/4-1985-325545) que não forem expressamente modificados no presente diploma aplicam-se integralmente na Região.
 
 2 - Entende-se que a situação do Presidente da Assembleia Regional, do Presidente do Governo Regional, dos membros do Governo Regional e dos deputados à Assembleia Regional é, em princípio, equiparada à dos titulares dos cargos análogos da República, salvo o disposto nos artigos seguintes.
 
-###### Art. 3.º O Presidente da Assembleia Regional e o Presidente do Governo Regional têm estatuto idêntico ao do Ministro da República.
+Art. 3.º O Presidente da Assembleia Regional e o Presidente do Governo Regional têm estatuto idêntico ao do Ministro da República.
 
-###### Art. 4.º Os secretários regionais e os subsecretários regionais têm remunerações idênticas aos secretários de Estado e aos subsecretários de Estado, respectivamente.
+Art. 4.º Os secretários regionais e os subsecretários regionais têm remunerações idênticas aos secretários de Estado e aos subsecretários de Estado, respectivamente.
 
-###### Art. 5.º - 1 - Os deputados à Assembleia Regional percebem mensalmente um vencimento correspondente ao dos deputados à Assembleia da República, menos a diferença entre a letra A e a letra B dos vencimentos do funcionalismo público.
+Art. 5.º - 1 - Os deputados à Assembleia Regional percebem mensalmente um vencimento correspondente ao dos deputados à Assembleia da República, menos a diferença entre a letra A e a letra B dos vencimentos do funcionalismo público.
 
 2 - Cada grupo parlamentar poderá ter dois vice-presidentes; mais um, caso ultrapasse o número de vinte deputados.
 
@@ -118,26 +136,26 @@ Assim, a Assembleia Regional dos Açores decreta, nos termos da alínea a) do ar
 
 4 - É proibida a acumulação de abonos por vários títulos.
 
-###### Art. 6.º - 1 - O regime de ajudas de custo dos deputados à Assembleia Regional é idêntico ao dos deputados à Assembleia da República, distinguindo-se a situação dos que residam na ilha onde se realizam as reuniões ou fora dela.
+Art. 6.º - 1 - O regime de ajudas de custo dos deputados à Assembleia Regional é idêntico ao dos deputados à Assembleia da República, distinguindo-se a situação dos que residam na ilha onde se realizam as reuniões ou fora dela.
 
 2 - Na contagem dos dias ter-se-á em conta, como factor correctivo, a duração exacta da deslocação dos deputados da ilha onde residam, por motivos de trabalhos do plenário, das comissões ou outras admitidas pelo Estatuto dos Deputados, derivada das contingências dos transportes na Região.
 
-###### Art. 7.º - 1 - Fica salvaguardado o disposto noutros diplomas acerca de transportes.
+Art. 7.º - 1 - Fica salvaguardado o disposto noutros diplomas acerca de transportes.
 
 2 - Fica também salvaguardado o disposto noutros diplomas acerca dos regimes de afectação, e suas consequências, dos deputados à Assembleia Regional.
 
-###### Art. 8.º O tempo de exercício de funções mencionadas na [Lei n.º 4/85](https://diariodarepublica.pt/dr/detalhe/lei/4-1985-325545) por titulares dos cargos políticos da Região é acumulado ao tempo cumprido no desempenho daquelas.
+Art. 8.º O tempo de exercício de funções mencionadas na [Lei n.º 4/85](https://diariodarepublica.pt/dr/detalhe/lei/4-1985-325545) por titulares dos cargos políticos da Região é acumulado ao tempo cumprido no desempenho daquelas.
 
-###### Art. 9.º O presente diploma produz efeitos a partir da data da publicação da [Lei n.º 9/87](https://diariodarepublica.pt/dr/detalhe/lei/9-1987-666494), de 26 de Março.
+Art. 9.º O presente diploma produz efeitos a partir da data da publicação da [Lei n.º 9/87](https://diariodarepublica.pt/dr/detalhe/lei/9-1987-666494), de 26 de Março.
 
-###### Art. 10.º Fica o Governo autorizado a introduzir as modificações necessárias à execução do presente diploma no orçamento da Região em vigor.
+Art. 10.º Fica o Governo autorizado a introduzir as modificações necessárias à execução do presente diploma no orçamento da Região em vigor.
 
 Aprovado pela Assembleia Regional dos Açores, na Horta, em 10 de Abril de 1987.
 
-**O Presidente da Assembleia Regional dos Açores, José Guilherme Reis Leite.**
+O Presidente da Assembleia Regional dos Açores, José Guilherme Reis Leite.
 
-**Assinado em Angra do Heroísmo em 1 de Junho de 1987.**
+Assinado em Angra do Heroísmo em 1 de Junho de 1987.
 
-**Publique-se.**
+Publique-se.
 
-**O Ministro da República para a Região Autónoma dos Açores, Vasco Joaquim Rocha Vieira.**
+O Ministro da República para a Região Autónoma dos Açores, Vasco Joaquim Rocha Vieira.

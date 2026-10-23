@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/467/2005/05/05/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/467-2005-533832
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2009-12-21T00:00:00Z'
+  retrieved_at: '2026-10-23T15:06:32Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 1173b4f26855534d8aff76a22838cfd049e01ccfaaafd9f8ed7a8c74c4f90050
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 5e1ec835a7f73718bfdf0c6681a152dbcdb242fb073b238a605200a99bd67fe2
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:06:32Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -74,20 +74,32 @@ relationships:
   target: pt:dre:481935:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:481935:por
+  label: "Renovada, por um período de seis anos, a zona de caça municipal de Penedo de São João criada pela Port 1039/2003,\
+    \ de 19-Set, alterada pelo presente diploma, bem como a transferência de gestão, pelo mesmo período, e anexados à citada\
+    \ zona de caça vários terrenos cinegéticos sitos nas freguesias de Anreade, Cárquere, Freixil, Miomães e São Romão de\
+    \ Aregos, pela PORT.1435/2009.21.12.2009.MADRP, DR.IS [245] de 21.12.2009\09\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/1435-2009-481935
+  date: '2009-12-21'
 - type: cites
   target: eli:http://data.dre.pt/eli/port/1039/2003/09/19/p/dre
   label: null
   source: http://data.dre.pt/eli/port/1039/2003/09/19/p/dre
+- type: cites
+  target: pt:dre:496698:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:06:32Z'
   warnings: []
   errors: []
 ---

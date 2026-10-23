@@ -21,7 +21,7 @@ publication:
   reference: Diário da República n.º 7/2013, 1º Suplemento, Série II de 2013-01-10
   number: '7'
   series: II
-  supplement: 1º Suplemento
+  supplement: null
   pages: 1554-(2) a 1554-(2)
   pdf_url: https://files.diariodarepublica.pt/2s/2013/01/007000001/0000200002.pdf
 entry_into_force_dates: []
@@ -48,41 +48,51 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/despacho-normativo/1-a-2013-2058828
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2013-01-10T00:00:00Z'
+  retrieved_at: '2026-10-23T15:07:45Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: d75cad46aa380c1cf01fb491ff602a85dd00e2ef7512279c01d7e6bc8344a556
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: ef8160feb378549ddd291624c222346425b18f560952777b8d23c6fbbea59a84
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:07:45Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
-relationships: []
+subjects:
+- Autoridade Tributária e Aduaneira
+- Declaração de Rendimentos
+- IRS
+- Ministério da Solidariedade e da Segurança Social
+- Recolha de Dados
+- Segurança Social
+relationships:
+- type: cites
+  target: pt:dre:632448:por
+  label: null
+  source: null
 article_structure:
   article_count: 3
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:07:45Z'
   warnings: []
   errors: []
 ---
 
-# Despacho Normativo n.º 1-A/2013
+# Despacho normativo n.º 1-A/2013
 
 A [Lei n.º 66-B/2012](https://diariodarepublica.pt/dr/detalhe/lei/66-b-2012-632448), de 31 de dezembro, que aprovou o Orçamento do Estado para 2013, alterou o artigo 119.º do Código do IRS, determinando que as entidades devedoras de rendimentos do trabalho dependente passam a estar obrigadas a entregar mensalmente uma declaração de modelo oficial, referente àqueles rendimentos e respetivas retenções de imposto, de contribuições obrigatórias para regimes de proteção social e subsistemas legais de saúde, bem como de quotizações sindicais relativas ao mês anterior.
 
@@ -107,3 +117,5 @@ b) Efetuar a entrega de acordo com os procedimentos indicados nas referidas pág
 O presente despacho normativo entra em vigor no dia seguinte ao da sua publicação.
 
 2 de janeiro de 2013. - O Ministro de Estado e das Finanças, Vítor Louçã Rabaça Gaspar. - O Ministro da Solidariedade e da Segurança Social, Luís Pedro Russo da Mota Soares.
+
+206663314

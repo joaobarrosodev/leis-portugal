@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/2s/2019/03/055000000/0829308306.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -46,40 +46,75 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/despacho-normativo/8-2019-121246168
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2024-07-11T00:00:00Z'
+  retrieved_at: '2026-10-23T15:08:35Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 6a3144bb1b2d49037d1e6f4272f88d15cc72db7f7a7f3acdbcfb8832bd126563
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: d876b9048403761364c557df1c921f01c13660273b92932b25198a859493a626
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:08:35Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Estatuto
+- Homologação
+- Universidade de Coimbra
 relationships:
 - type: amended_by
   target: pt:dre:871617560:por
   label: Última alteração registada na importação inicial
   source: null
+- type: cites
+  target: pt:dre:114453109:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:115312061:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:1782382:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:2693578:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:355494:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:556606:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:603476:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:640339:por
+  label: null
+  source: null
 article_structure:
-  article_count: 87
+  article_count: 84
   section_count: 22
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:08:35Z'
   warnings: []
   errors: []
 ---
@@ -136,7 +171,9 @@ São alterados os artigos 16.º, 25.º e 29.º dos Estatutos da Universidade de 
 
 4 - Podem ser criados, nos Estatutos das unidades orgânicas, cargos de direção intermédia, de acordo com a qualificação constante do anexo ii aos presentes Estatutos.
 
-###### Artigo 25.º — [...]
+Artigo 25.º
+
+[...]
 
 1 - [...]
 
@@ -146,7 +183,9 @@ São alterados os artigos 16.º, 25.º e 29.º dos Estatutos da Universidade de 
 
 4 - Podem ser criados, nos Regulamentos Orgânicos das unidades e serviços, cargos de direção intermédia, de acordo com a qualificação deles constantes.
 
-###### Artigo 29.º — [...]
+Artigo 29.º
+
+[...]
 
 A Universidade de Coimbra integra ainda, na dependência direta do Reitor, serviços de apoio ao funcionamento dos seus órgãos de governo, que incluem um Chefe de Gabinete.»
 
@@ -156,7 +195,9 @@ O «anexo» aos Estatutos da Universidade de Coimbra passa a designar-se «anexo
 
 «ANEXO II
 
-###### Artigo 1.º — Qualificação dos cargos dirigentes das unidades e serviços centrais
+Artigo 1.º
+
+Qualificação dos cargos dirigentes das unidades e serviços centrais
 
 1 - Os cargos previstos nos artigos 27.º, 28.º e 29.º dos presentes Estatutos têm a seguinte qualificação:
 
@@ -172,7 +213,9 @@ d) O cargo de Chefe de Gabinete do Reitor é qualificado como cargo de direção
 
 3 - A qualificação dos demais cargos dirigentes previstos nos diplomas orgânicos ou regulamentares da Universidade de Coimbra obedece ao estatuído na [Lei n.º 2/2004](https://diariodarepublica.pt/dr/detalhe/lei/2-2004-603476), de 15 de janeiro, que aprova o estatuto do pessoal dirigente dos serviços e organismos da administração central, local e regional do Estado, na sua redação atual.
 
-###### Artigo 2.º — Qualificação dos cargos dirigentes das Unidades Orgânicas
+Artigo 2.º
+
+Qualificação dos cargos dirigentes das Unidades Orgânicas
 
 1 - Os Estatutos das Unidades Orgânicas de Ensino e Investigação e das Unidades Orgânicas de Investigação da Universidade de Coimbra podem prever o cargo de coordenador executivo, qualificado como cargo de direção intermédia de 2.º grau.
 
@@ -1358,17 +1401,19 @@ c) Tribunal Universitário Judicial Europeu.
 
 Os presentes Estatutos entram em vigor cinco dias úteis após a sua publicação no Diário da República.
 
-## ANEXO I — [([ver documento original](https://files.diariodarepublica.pt/2s/2019/03/055000000/0829308306.pdf))](https://files.diariodarepublica.pt/2s/2019/03/055000000/0829308306.pdf)
+## ANEXO I — [(ver documento original)](https://files.diariodarepublica.pt/2s/2019/03/055000000/0829308306.pdf)
 
 Selo da Universidade de Coimbra.
 
-[([ver documento original](https://files.diariodarepublica.pt/2s/2019/03/055000000/0829308306.pdf))](https://files.diariodarepublica.pt/2s/2019/03/055000000/0829308306.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/2s/2019/03/055000000/0829308306.pdf)
 
 Bandeira da Universidade de Coimbra.
 
-[([ver documento original](https://files.diariodarepublica.pt/2s/2019/03/055000000/0829308306.pdf))](https://files.diariodarepublica.pt/2s/2019/03/055000000/0829308306.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/2s/2019/03/055000000/0829308306.pdf)
 
-## ANEXO II — Artigo 1.º
+## ANEXO II
+
+###### Artigo 1.º
 
 Qualificação dos cargos dirigentes das unidades e serviços centrais
 
@@ -1395,3 +1440,5 @@ d) O cargo de Chefe de Gabinete do Reitor é qualificado como cargo de direção
 3 - Verificada a existência, na Unidade Orgânica, de trabalhadores não docentes nem investigadores em número igual ou superior a 100, os Estatutos das Unidades Orgânicas de Ensino e Investigação da Universidade de Coimbra podem prever, por cada grupo adicional de 50 trabalhadores não docentes nem investigadores, o cargo de Coordenador Adjunto, qualificado como cargo de direção intermédia de 2.º grau.
 
 4 - As competências e demais critérios aplicáveis aos cargos previstos no presente artigo são expressamente fixadas no Regulamento dos Cargos Dirigentes da Universidade de Coimbra, a aprovar pelo Reitor.
+
+312099468

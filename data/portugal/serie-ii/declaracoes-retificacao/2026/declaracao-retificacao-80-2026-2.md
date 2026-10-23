@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/2s/2026/02/022000000/0043200432.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -47,18 +47,18 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/declaracao-retificacao/80-2026-1031758717
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2026-02-02T00:00:00Z'
+  retrieved_at: '2026-10-23T15:06:14Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: b1226cca21305cae26016f5641272134849c3922e81f053c9f5ee49af8a0fbd1
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: f553c6c51be818f6fc2421fc12c8c7e6fc78431dc5486968b060326896b26c04
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:06:14Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -70,13 +70,13 @@ relationships: []
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:06:14Z'
   warnings: []
   errors: []
 ---
@@ -86,3 +86,5 @@ validation:
 Por ter saído com inexatidão no Edital n.º 1555/2025, publicado no Diário da República, 2.ª série, n.º 177, de 15 de setembro de 2025, a indicação da área disciplinar do concurso documental para recrutamento de um(a) professor(a) adjunto(a), retifica-se que onde se lê «Engenharia Informática - Desenvolvimento de Aplicações Web - Multiplaforma e Multidispositivo» deve ler-se «Engenharia Informática - Desenvolvimento de Aplicações Web - Multiplataforma e Multidispositivo».
 
 7 de janeiro de 2026. - O Presidente, Carlos Manuel da Silva Rabadão.
+
+319957206

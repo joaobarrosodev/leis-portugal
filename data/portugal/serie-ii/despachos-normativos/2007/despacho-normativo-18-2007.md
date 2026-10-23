@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/2s/2007/04/073000000/0964909651.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,30 +46,78 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/despacho-normativo/18-2007-1685832
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2008-07-17T00:00:00Z'
+  retrieved_at: '2026-10-23T15:06:35Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 14f4bf6da1e97a895e7435723018100cc9c373037080cf46a39e9dce19372eb2
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 36a673f45933cbac8c85672d843a3d688b333f8355f70cc83043f2bef3508d7c
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:06:35Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Açores
+- Agricultor
+- Agricultura
+- Algodão
+- Arroz
+- Azeite
+- Beterraba
+- Fabrico Industrial
+- Financiamento
+- Fruticultura
+- Gado Bovino
+- Gado Caprino
+- Gado Ovino
+- Instituto Nacional de Intervenção e Garantia Agrícola
+- Lacticínios
+- Legume de Fruto
+- Madeira.região Autónoma
+- Orientação Agrícola
+- Política Agrícola Comum
+- Produção Animal
+- Produção Leiteira
+- Produção Vegetal
+- Produto Agrícola
+- Projeto de Investimento
+- Regulamento CE
+- Sistema Integrado de Gestão e Controlo
+- Sistema Nacional de Identificação e Registo de Bovinos
+- Tabaco
+- Tomate
+- Trigo
+- Vinha
 relationships:
 - type: amended_by
   target: pt:dre:3508130:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:2241567:por
+  label: "Alterados os capítulos II e V pelo DN.21/2007.27.04.2007.MADRP, DR.IIS [95] de 17.05.2007\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/despacho-normativo/21-2007-2241567
+  date: '2007-04-27'
+- type: amended_by
+  target: pt:dre:850859:por
+  label: "Aditado o n.º 1.1.5 ao capítulo I, pelo DN.35-A/2007.27.09.2007.MADRP, DR.IIS [187-2ºSupl] de 27.09.2007\07\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/despacho-normativo/35-a-2007-850859
+  date: '2007-09-27'
+- type: amended_by
+  target: pt:dre:2437035:por
+  label: "Prorrogado, nos termos dos nºs 1 e 2, até 30.06.2007, para a Região Autónoma dos Açores, e até 31.05.2007 para a\
+    \ Região Autónoma da Madeira, o prazo previsto no presente despacho, pelo DN.15/2008.03.03.2008.MADRP, DR.IIS [44] de\
+    \ 03.03.2008\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/despacho-normativo/15-2008-2437035
+  date: '2008-03-03'
 - type: cites
   target: celex:32003R1782
   label: null
@@ -82,21 +130,51 @@ relationships:
   target: celex:32006R0247
   label: null
   source: null
+- type: cites
+  target: pt:dre:234168:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:465231:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:539227:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:546872:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:620106:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:1552405:por
+  label: "Revogado, a partir de 15.03.2008, pelo DN.18-A/2008.10.03.2008.MADRP, DR.IIS [49-Supl] de 10.03.2008\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/despacho-normativo/18-a-2008-1552405
+  date: '2008-03-10'
+- type: repealed_by
+  target: pt:dre:3150612:por
+  label: "Revogado, a partir de 25.03.2007, pelo DN.20/2008.20.03.2008.MADRP, DR.IIS [57] de 20.03.2008\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/despacho-normativo/20-2008-3150612
+  date: '2008-03-20'
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:06:35Z'
   warnings: []
   errors: []
 ---
 
-# Despacho Normativo n.º 18/2007
+# Despacho normativo n.º 18/2007
 
 O Regulamento (CE) n.º 1782/2003, do Conselho, de 29 de Setembro, que estabelece regras comuns para os regimes de apoio directo no âmbito da política agrícola comum e institui determinados regimes de apoio aos agricultores, financiados pelo FEAGA a partir de 2007, obriga à criação de um sistema integrado de gestão e de controlo (SIGC). De entre os vários elementos obrigatórios que o SIGC inclui constam os pedidos de ajudas que os agricultores devem apresentar anualmente.
 

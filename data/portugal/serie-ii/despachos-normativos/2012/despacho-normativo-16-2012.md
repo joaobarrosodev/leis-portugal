@@ -48,25 +48,32 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/despacho-normativo/16-2012-2877021
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2013-05-24T00:00:00Z'
+  retrieved_at: '2026-10-23T15:07:39Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: f086f1280c28f25a96d63cae2af1ac3ca6d3f4c075aa3b1b5bba1971b4e2e35f
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 84c146ab960801932fc90a8f8395cc399ed300c96b0fef5ad745762889a8d756
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:07:39Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Agricultor
+- Ajuda Comunitária
+- Feader
+- FEDER
+- Formação Profissional
+- FSE
+- Pesca
 relationships:
 - type: amended_by
   target: pt:dre:1173337:por
@@ -80,21 +87,41 @@ relationships:
   target: celex:32009R0396
   label: null
   source: null
+- type: cites
+  target: pt:dre:1332327:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:2055562:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:2088047:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:2123972:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:426483:por
+  label: null
+  source: null
 article_structure:
   article_count: 2
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:07:39Z'
   warnings: []
   errors: []
 ---
 
-# Despacho Normativo n.º 16/2012
+# Despacho normativo n.º 16/2012
 
 O despacho normativo n.º 4-A/2008, de 24 de janeiro, com a redação que lhe foi dada pelos despachos normativos n.os [12/2009](https://diariodarepublica.pt/dr/detalhe/despacho-normativo/12-2009-2123972), de 17 de março, [12/2010](https://diariodarepublica.pt/dr/detalhe/despacho-normativo/12-2010-2088047), de 21 de maio, [2/2011](https://diariodarepublica.pt/dr/detalhe/despacho-normativo/2-2011-1332327), de 11 de fevereiro e [12/2012](https://diariodarepublica.pt/dr/detalhe/despacho-normativo/12-2012-2055562), de 21 de maio, veio fixar, para o período de programação 2007-2013, a natureza e os limites máximos dos custos elegíveis no âmbito do cofinanciamento pelo Fundo Social Europeu (FSE), pelo Fundo Europeu do Desenvolvimento Regional (FEDER), pelo Fundo Europeu Agrícola de Desenvolvimento Rural (FEADER) e pelo Fundo Europeu das Pescas (FEP), quando estes últimos desenvolvam ações de natureza idêntica às abrangidas pelo âmbito de aplicação do artigo 3.º do Regulamento (CE) n.º 1081/2006, do Parlamento Europeu e do Conselho, de 31 de julho, alterado pelo Regulamento (CE) n.º 396/2009, do Parlamento Europeu e do Conselho, de 6 de maio.
 
@@ -159,3 +186,5 @@ O artigo 12.º do despacho normativo n.º 4-A/2008, de 24 de janeiro, com a reda
 O presente diploma entra em vigor no dia seguinte ao da sua publicação.
 
 19 de julho de 2012. - O Ministro da Economia e do Emprego, Álvaro Santos Pereira. - A Ministra da Agricultura, do Mar, do Ambiente e do Ordenamento do Território, Maria de Assunção Oliveira Cristas Machado da Graça. - O Ministro da Solidariedade e da Segurança Social, Luís Pedro Russo da Mota Soares.
+
+206284801

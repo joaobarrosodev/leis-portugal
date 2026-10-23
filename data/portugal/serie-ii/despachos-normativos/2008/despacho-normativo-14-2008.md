@@ -46,25 +46,36 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/despacho-normativo/14-2008-2437034
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2008-03-03T00:00:00Z'
+  retrieved_at: '2026-10-23T15:06:46Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 60b7834f545dce09dbc736ead70f8b43bbe920fdc0f26f596f0c6dded158eb3c
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 66c6fde1c93d6c8d169467aa6c3428ed95e82d1f6e6bae18d13c8617ad3ae350
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:06:46Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Agricultor
+- Ajuda Comunitária
+- Azeite
+- Azeitona
+- Definição de Competências
+- Financiamento
+- IFAP
+- Lagar
+- Olivicultura
+- Política Agrícola Comum
+- Regulamento CE
 relationships:
 - type: cites
   target: celex:32003R1782
@@ -73,13 +84,13 @@ relationships:
 article_structure:
   article_count: 6
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:06:46Z'
   warnings: []
   errors: []
 ---
@@ -142,4 +153,4 @@ As referências feitas no Despacho Normativo n.º 11/2006, de 3 de Outubro, ao I
 
 ## ANEXO — (a que se referem o n.º 1 do artigo 3.º e o n.º 1 do artigo 9.º)
 
-[([ver documento original](https://files.diariodarepublica.pt/2s/2008/03/044000000/0855908560.pdf))](https://files.diariodarepublica.pt/2s/2008/03/044000000/0855908560.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/2s/2008/03/044000000/0855908560.pdf)

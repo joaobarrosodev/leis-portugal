@@ -20,12 +20,12 @@ publication:
   reference: Diário da República n.º 231/2006, 1º Suplemento, Série I de 2006-11-30
   number: '231'
   series: I
-  supplement: 1º Suplemento
+  supplement: null
   pages: 8184-(2) a 8184-(6)
   pdf_url: https://files.diariodarepublica.pt/1s/2006/11/23101/00020006.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/1357-a/2006/11/30/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/1357-a-2006-621545
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2008-01-03T00:00:00Z'
+  retrieved_at: '2026-10-23T15:11:50Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: a9d5a966efdfed5d62ecebec3d8c4e231d47d037b782a3db301f20156b0e1097
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 319a102749420613401fb441c3f0ad570dd6655072a304fa5023210a2b134080
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:11:50Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -71,13 +71,12 @@ subjects:
 - Cálculo de Pensões
 - Complemento por Dependência
 - Complemento Social de Pensão
-- Pensão por Incapacidade Permanente para o Trabalho
-- Trabalhador Rural
+- Doença Profissional
 - Pensão de Invalidez
 - Pensão de Orfandade
-- Pensão de Velhice
 - Pensão de Reforma
-- Doença Profissional
+- Pensão de Velhice
+- Pensão por Incapacidade Permanente para o Trabalho
 - Pensão Unificada
 - Prestações da Segurança Social
 - Proteção Social
@@ -85,6 +84,7 @@ subjects:
 - Regime Especial de Segurança Social
 - Regime Geral da Segurança Social
 - Segurança Social
+- Trabalhador Rural
 relationships:
 - type: amended_by
   target: pt:dre:386795:por
@@ -130,16 +130,96 @@ relationships:
   target: eli:http://data.dre.pt/eli/resolconsmin/141/2006/10/25/p/dre
   label: null
   source: http://data.dre.pt/eli/resolconsmin/141/2006/10/25/p/dre
+- type: cites
+  target: pt:dre:163242:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:278032:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:372671:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:372855:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:376024:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:405483:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:451634:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:464207:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:489988:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:545778:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:616263:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:653127:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:678456:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:686801:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:691622:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:692186:por
+  label: null
+  source: null
+- type: corrected_by
+  target: pt:dre:522830:por
+  label: "Rectificada pela DECL-RECT.10/2007.19.01.2007.PCM, DR.IS [19] de 26.01.2007\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/declaracao-rectificacao/10-2007-522830
+  date: '2007-01-19'
+- type: repealed_by
+  target: pt:dre:386795:por
+  label: "Revogada, a partir de 08.01.2008, pela PORT.9/2008.03.01.2008.MFAP, DR.IS [2] de 03.01.2008\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/9-2008-386795
+  date: '2008-01-03'
+- type: repeals
+  target: pt:numero:portaria:1316/2005
+  label: "Revoga a Portaria n.º 1316/2005, de 22 de Dezembro, DR.IS-B [244], e substitui e actualiza a tabela anexa àquele\
+    \ diploma\0\0"
+  source: null
+  date: '2005-12-22'
 article_structure:
   article_count: 0
   section_count: 7
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:11:50Z'
   warnings: []
   errors: []
 ---
@@ -222,7 +302,7 @@ Valor mínimo de pensão dos pensionistas de invalidez e de velhice
 
 2 - Aos pensionistas de invalidez e de velhice do regime geral com carreira contributiva relevante para a taxa de formação da pensão igual ou superior a 15 anos são garantidos os valores mínimos de pensão constantes da tabela seguinte:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2006/11/23101/00020006.pdf))](https://files.diariodarepublica.pt/1s/2006/11/23101/00020006.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2006/11/23101/00020006.pdf)
 
 3 - Os valores mínimos fixados nos n.os 1 e 2 deste número:
 
@@ -406,4 +486,4 @@ TABELA ANEXA
 
 Actualização de pensões para efeitos de cúmulo
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2006/11/23101/00020006.pdf))](https://files.diariodarepublica.pt/1s/2006/11/23101/00020006.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2006/11/23101/00020006.pdf)

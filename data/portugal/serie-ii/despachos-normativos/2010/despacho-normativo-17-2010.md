@@ -48,41 +48,55 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/despacho-normativo/17-2010-3284367
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2010-06-28T00:00:00Z'
+  retrieved_at: '2026-10-23T15:07:24Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: e6405bd2bd37cafd08374817f2d33102fbb5b43771a2ffbad6fd1eb58f22d8a9
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: e31c764296903770986efdd55cd4001e1723e84a2436873ec47f0e65283fa084
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:07:24Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
-relationships: []
+subjects:
+- Lisboa
+- Porto
+- Preço
+- Preço Máximo
+- Transporte de Passageiros
+- Transporte Ferroviário
+- Transporte Fluvial
+- Transporte Público
+- Transporte Rodoviário
+- Transporte Urbano
+relationships:
+- type: cites
+  target: pt:dre:469604:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:07:24Z'
   warnings: []
   errors: []
 ---
 
-# Despacho Normativo n.º 17/2010
+# Despacho normativo n.º 17/2010
 
 Nos termos e ao abrigo do disposto na alínea b) do n.º 2 do artigo 10.º do [Decreto-Lei n.º 8/93](https://diariodarepublica.pt/dr/detalhe/decreto-lei/8-1993-469604), de 11 de Janeiro, determina-se o seguinte:
 
@@ -95,3 +109,5 @@ Nos termos e ao abrigo do disposto na alínea b) do n.º 2 do artigo 10.º do [D
 4 - Os preços dos títulos de transporte decorrentes da aplicação do presente despacho podem ser aplicados pelos operadores a partir de 1 de Julho de 2010.
 
 11 de Junho de 2010. - O Ministro de Estado e das Finanças, Fernando Teixeira dos Santos. - O Ministro da Economia, da Inovação e do Desenvolvimento, José António Fonseca Vieira da Silva. - O Ministro das Obras Públicas, Transportes e Comunicações, António Augusto da Ascenção Mendonça.
+
+203398512

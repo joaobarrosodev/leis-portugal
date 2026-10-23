@@ -47,41 +47,59 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/despacho-normativo/19-2012-2624346
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2012-08-17T00:00:00Z'
+  retrieved_at: '2026-10-23T15:07:39Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 836bdc06ae2942e5b28893c31c592aa918d1427ef0c1d65716246795e393820f
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: dc700c9430a62cec87231a2dbc07c0bb794f5e7ffbe70e50fe7d684e4286e7db
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:07:39Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
-relationships: []
+subjects:
+- Avaliação do Pessoal
+- Educador de Infância
+- Ensino Básico
+- Ensino Secundário
+- Pessoal Docente
+- Progressão na Carreira
+relationships:
+- type: cites
+  target: pt:dre:227271:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:542994:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:542995:por
+  label: null
+  source: null
 article_structure:
   article_count: 13
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:07:39Z'
   warnings: []
   errors: []
 ---
 
-# Despacho Normativo n.º 19/2012
+# Despacho normativo n.º 19/2012
 
 O sistema de avaliação do desempenho do pessoal docente consagrado no Estatuto da Carreira dos Educadores de Infância e dos Professores dos Ensinos Básico e Secundário, na redação dada pelo [Decreto-Lei n.º 41/2012](https://diariodarepublica.pt/dr/detalhe/decreto-lei/41-2012-542994), de 21 de fevereiro, e prevista no [Decreto Regulamentar n.º 26/2012](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/26-2012-542995), de 21 de fevereiro, é um instrumento estratégico na gestão de recursos humanos, no quadro de um modelo de reconhecimento e promoção do mérito, que visa a melhoria da qualidade do serviço educativo e da aprendizagem dos alunos, bem como a valorização e o desenvolvimento pessoal e profissional dos docentes.
 
@@ -220,3 +238,5 @@ A reclamação e o recurso regem-se pelo disposto nos artigos 24.º e 25.º do [
 O presente diploma entra em vigor no dia seguinte ao da sua publicação.
 
 9 de setembro de 2012. - O Secretário de Estado do Ensino e da Administração Escolar, João Casanova de Almeida.
+
+206318902

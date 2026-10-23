@@ -26,7 +26,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/2s/2007/01/007000000/0074100742.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -48,45 +48,99 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/despacho-normativo/5-2007-787125
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2012-12-06T00:00:00Z'
+  retrieved_at: '2026-10-23T15:06:44Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 99e84cd2333715c9a35a2ed66af3ef7314e220b65cacbba20227500af97657a2
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 4c76bcd6f65aafde38ea216a1a181d4d7fe050d04aa4e4e28abeb1a28e1ae3e2
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:06:44Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Avaliação de Conhecimentos
+- Diploma
+- Ensino Básico
+- Sistema Educativo
 relationships:
 - type: amended_by
   target: pt:dre:1847070:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:3473397:por
+  label: "Alterados os nºs. 48 e 49 do DN 1/2005, de 05-Jan, na redacção do presente diploma, pelo DN.6/2010.19.02.2010.SEAED-ME,\
+    \ DR.IIS [35] de 19.02.2010, que o republica\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/despacho-normativo/6-2010-3473397
+  date: '2010-02-19'
+- type: amended_by
+  target: pt:dre:1113776:por
+  label: "Alterado o nº 49 do DN 1/2005, de 05-Jan, na redacção do presente despacho, pelo DN.9/2010.01.04.2010.SEAED-ME,\
+    \ DR.IIS [64] de 01.04.2010\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/despacho-normativo/9-2010-1113776
+  date: '2010-04-01'
+- type: amended_by
+  target: pt:dre:2794350:por
+  label: "Alterados os nºs 48 e 49 do Despacho Normativo n.º 1/2005, de 05-Jan, na redacção do presente diploma, pelo DN.14/2011.18.11.2011.SEEBS-MECI,\
+    \ DR.IIS [222] de 18.11.2011\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/despacho-normativo/14-2011-2794350
+  date: '2011-11-18'
+- type: cites
+  target: pt:dre:338986:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:432450:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:457204:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:582996:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:587624:por
+  label: null
+  source: null
+- type: corrected_by
+  target: pt:dre:3385904:por
+  label: "Rectificado o DN 6/2010, de 19-Fev, na parte em que republica o art. 48.º do DN 1/2005, de 05-Jan, alterado pelo\
+    \ presente diploma, pela DECL-RECT.406/2010.02.03.2010.SEAED-ME, DR.IIS [42] de 02.03.2010\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/declaracao-rectificacao/406-2010-3385904
+  date: '2010-03-02'
+- type: repealed_by
+  target: pt:dre:1847070:por
+  label: "Revogado o DN 1/2005, de 05-jan, na redação do presente despacho normativo, pelo DN.24-A/2012.06.12.2012.MECI, DR.IIS\
+    \ [236-2ºSupl] de 06.12.2012\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/despacho-normativo/24-a-2012-1847070
+  date: '2012-12-06'
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:06:44Z'
   warnings: []
   errors: []
 ---
 
-# Despacho Normativo n.º 5/2007
+# Despacho normativo n.º 5/2007
 
 O Programa do XVII Governo Constitucional atribui prioridade à alteração do sistema de avaliação dos alunos, de modo a assegurar a articulação adequada e eficaz entre os programas de apoio à recuperação dos alunos com dificuldades na aprendizagem e a aplicação de critérios rigorosos na transição entre fases ou anos de escolaridade e na conclusão de ciclos de estudos.
 

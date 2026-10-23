@@ -19,12 +19,12 @@ publication:
   reference: Diário da República n.º 114/2016, 1º Suplemento, Série II de 2016-06-16
   number: '114'
   series: II
-  supplement: 1º Suplemento
+  supplement: null
   pages: 18966-(2) a 18966-(6)
   pdf_url: https://files.diariodarepublica.pt/2s/2016/06/114000001/0000200006.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,45 +46,114 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/despacho-normativo/4-a-2016-74717238
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2018-07-06T00:00:00Z'
+  retrieved_at: '2026-10-23T15:08:10Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 2aacb66685f415f178c1e4699e56d91d8de6e993eae8172c1673b613a4ae6601
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: b083bc1d9d2374084a3690f9de6263ce3cf3c26f7e985a6285714e4342a7bff2
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:08:10Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Actividades de Complemento Curricular
+- Agrupamento de Escolas
+- Definição de Competências
+- Educação Pré-escolar
+- Ensino Artístico
+- Ensino Básico
+- Ensino Oficial
+- Ensino Secundário
+- Escola Profissional
+- Escolaridade Obrigatória
+- Estabelecimento de Ensino
+- Estudante
+- Gestão Escolar
+- Horário Escolar
+- Pessoal Docente
 relationships:
 - type: amended_by
   target: pt:dre:115652972:por
   label: Última alteração registada na importação inicial
   source: null
+- type: cites
+  target: pt:dre:178527:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:178548:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:249866:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:411815:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:484160:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:497860:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:502866:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:542994:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:64297587:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:67575963:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:70095687:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:74007250:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:115652972:por
+  label: Revogado a partir do ano escolar de 2018-2019 pelo(a) Despacho Normativo n.º 10-B/2018 - Diário da República n.º
+    129/2018, 1º Suplemento, Série II de 2018-07-06
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/despacho-normativo/10-b-2018-115652972
+  date: '2018-07-06'
 article_structure:
   article_count: 18
   section_count: 6
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:08:10Z'
   warnings: []
   errors: []
 ---
 
-# Despacho Normativo n.º 4-A/2016
+# Despacho normativo n.º 4-A/2016
 
 A organização do ano letivo, regulada pelo presente despacho, tem como finalidade primordial a disponibilização aos alunos das melhores condições de aprendizagem, contribuindo para atingir os objetivos e as metas definidos no Programa do XXI Governo Constitucional, nomeadamente a promoção do sucesso educativo de todos os alunos ao longo dos 12 anos de escolaridade.
 
@@ -148,7 +217,7 @@ i) Ajustamento do horário dos docentes às necessidades escolares que ocorram a
 
 2 - A definição do número de adjuntos é efetuada nos seguintes termos:
 
-[([ver documento original](https://files.diariodarepublica.pt/2s/2016/06/114000001/0000200006.pdf))](https://files.diariodarepublica.pt/2s/2016/06/114000001/0000200006.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/2s/2016/06/114000001/0000200006.pdf)
 
 Nas escolas com mais de 2200 crianças e alunos, o número de adjuntos do diretor pode ser de 3, independentemente dos níveis de educação e ensino existentes.
 
@@ -158,7 +227,7 @@ Nas escolas com mais de 2200 crianças e alunos, o número de adjuntos do direto
 
 1 - Para o exercício dos cargos de subdiretor, adjunto e coordenador de estabelecimento é atribuído um crédito de horas específico calculado de acordo com o número de alunos, nos seguintes termos:
 
-[([ver documento original](https://files.diariodarepublica.pt/2s/2016/06/114000001/0000200006.pdf))](https://files.diariodarepublica.pt/2s/2016/06/114000001/0000200006.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/2s/2016/06/114000001/0000200006.pdf)
 
 2 - Compete ao diretor proceder à distribuição do crédito de horas, salvaguardando um mínimo de atividades letivas a distribuir ao subdiretor, aos adjuntos e ao coordenador de estabelecimento, no caso de ser educador ou docente do 1.º ciclo do ensino básico, de forma a viabilizar a avaliação do desempenho.
 
@@ -467,3 +536,5 @@ CH = 3 x n.º de turmas-50 % do total de horas do artigo 79.º do ECD
 O presente despacho entra em vigor a partir do ano escolar de 2016-2017.
 
 15 de junho de 2016. - A Secretária de Estado Adjunta e da Educação, Alexandra Ludomila Ribeiro Fernandes Leitão. - O Secretário de Estado da Educação, João Miguel Marques da Costa.
+
+209663214

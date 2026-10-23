@@ -48,18 +48,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/679/2005/08/12/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/679-2005-243720
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2005-08-12T00:00:00Z'
+  retrieved_at: '2026-10-23T15:07:47Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: e744b9127363a97c2c98f864d197f1582155ed4b5eb1636b30219cfcc73bd6e4
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 85a60504191ec9065a5a9d41c1efada7cc75fb4e8d97365a5c68a3c3066940b2
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:07:47Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,29 +67,33 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Turismo
-- Contrato Coletivo de Trabalho
-- Indústria Hoteleira
 - Condições de Higiene e Segurança no Trabalho
-- Regulamento de Extensão
+- Contrato Coletivo de Trabalho
 - Indústria Alimentar
+- Indústria Hoteleira
+- Regulamento de Extensão
 - Tabela Salarial
 - Trabalhador
+- Turismo
 relationships:
 - type: cites
   target: eli:http://data.dre.pt/eli/lei/35/2004/07/29/p/dre
   label: null
   source: http://data.dre.pt/eli/lei/35/2004/07/29/p/dre
+- type: cites
+  target: pt:dre:502399:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:07:47Z'
   warnings: []
   errors: []
 ---
@@ -144,4 +148,4 @@ c) A extensão determinada na alínea a) anterior não se aplica às empresas fi
 
 A presente portaria entra em vigor no 5.º dia após a sua publicação no Diário da República.
 
-**O Ministro do Trabalho e da Solidariedade Social, José António Fonseca Vieira da Silva, em 22 de Julho de 2005.**
+O Ministro do Trabalho e da Solidariedade Social, José António Fonseca Vieira da Silva, em 22 de Julho de 2005.

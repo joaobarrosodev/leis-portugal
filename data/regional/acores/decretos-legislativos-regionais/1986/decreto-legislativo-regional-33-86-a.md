@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1986/12/29600/38173818.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -47,40 +47,58 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/33-1986-210598
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1997-07-02T00:00:00Z'
+  retrieved_at: '2026-10-23T15:17:28Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 72eb165d74fba288c20daaf8870b6ff8331134e1f2308b3e279a9e09a0f4ac0d
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: ee89d63eb2c18d582c916289c520ea862e65d2a87a608f922755fe8edb634c8b
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:17:28Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Açores
+- Associação de Agricultores
+- Cooperativa Agrícola
+- Instituto de Apoio Comercial à Agricultura Pecuária e Silvicultura
+- Jovem Agricultor
 relationships:
 - type: amended_by
   target: pt:dre:147775:por
   label: Última alteração registada na importação inicial
   source: null
+- type: cites
+  target: pt:dre:383039:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:455408:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:147775:por
+  label: "Revogado pelo DLR.12/97/A.1997.07.02.ALR-RAA DR.IS-A [165] de 19.07.1997\07\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-legislativo-regional/12-1997-147775
+  date: '1997-07-02'
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:17:28Z'
   warnings: []
   errors: []
 ---
@@ -97,9 +115,9 @@ Há, no entanto, que prosseguir o caminho iniciado por aquele diploma legal, nom
 
 Assim, a Assembleia Regional dos Açores, ao abrigo da alínea a) do artigo 229.º da Constituição da República Portuguesa, decreta o seguinte:
 
-###### Artigo 1.º O direito do uso e fruição dos bens que pertenceram aos extintos grémios da lavoura poderá ser concedido às associações do sector agro-silvo-pecuário, nos termos definidos no presente diploma.
+Artigo 1.º O direito do uso e fruição dos bens que pertenceram aos extintos grémios da lavoura poderá ser concedido às associações do sector agro-silvo-pecuário, nos termos definidos no presente diploma.
 
-###### Art. 2.º - 1 - As associações interessadas deverão solicitar a concessão mediante requerimento dirigido ao Secretário Regional da Agricultura e Pescas.
+Art. 2.º - 1 - As associações interessadas deverão solicitar a concessão mediante requerimento dirigido ao Secretário Regional da Agricultura e Pescas.
 
 2 - O direito será concedido às associações do sector agro-silvo-pecuário segundo a ordem de preferência seguinte:
 
@@ -115,19 +133,19 @@ e) Agrupamento de jovens agricultores com, pelo menos, vinte membros.
 
 3 - A associação requerente deverá mostrar capacidade para cumprir o disposto na alínea a) do artigo 3.º, do [Decreto Regional n.º 11/79/A](https://diariodarepublica.pt/dr/detalhe/decreto-regional/11-1979-383039), de 8 de Maio, e comprometer-se expressamente a realizar os fins ali previstos.
 
-###### Art. 3.º - 1 - O direito de uso e fruição concedido ao abrigo deste diploma poderá abranger bens móveis e imóveis, bem como os direitos emergentes dos contratos de arrendamento.
+Art. 3.º - 1 - O direito de uso e fruição concedido ao abrigo deste diploma poderá abranger bens móveis e imóveis, bem como os direitos emergentes dos contratos de arrendamento.
 
 2 - O concessionário obrigar-se-á a conservar os bens sobre que incida o direito concedido.
 
-###### Art. 4.º - 1 - A concessão do direito referido no presente diploma será autorizada por resolução do Governo Regional e concretizada mediante auto assinado pelo Secretário Regional da Agricultura e Pescas e pelos representantes legais da associação concessionária.
+Art. 4.º - 1 - A concessão do direito referido no presente diploma será autorizada por resolução do Governo Regional e concretizada mediante auto assinado pelo Secretário Regional da Agricultura e Pescas e pelos representantes legais da associação concessionária.
 
 2 - No auto de concessão serão estabelecidos os direitos e as obrigações da entidade concessionária, designadamente os previstos neste diploma e na legislação complementar, bem como os necessários à sua boa execução em caso concreto, nomeadamente os respeitantes ao activo e ao passivo do estabelecimento a que os bens se encontrem afectos.
 
-###### Art. 5.º - 1 - O pessoal afecto aos estabelecimentos cujo uso e fruição seja concedido nos termos deste diploma poderá continuar a prestar serviço nos mesmos, sob as ordens e no interesse da entidade concessionária, sendo suportados por esta os encargos correspondentes.
+Art. 5.º - 1 - O pessoal afecto aos estabelecimentos cujo uso e fruição seja concedido nos termos deste diploma poderá continuar a prestar serviço nos mesmos, sob as ordens e no interesse da entidade concessionária, sendo suportados por esta os encargos correspondentes.
 
 2 - Os funcionários do quadro do IACAPS que fiquem na situação prevista no número anterior poderão manter o seu vínculo àquele Instituto.
 
-###### Art. 6.º - 1 - O direito de uso e fruição previsto neste diploma cessará pelos seguintes motivos:
+Art. 6.º - 1 - O direito de uso e fruição previsto neste diploma cessará pelos seguintes motivos:
 
 a) Desistência da entidade concessionária;
 
@@ -135,14 +153,14 @@ b) Não cumprimento pela mesma das obrigações previstas neste diploma e no act
 
 2 - A verificação dos factos previstos na alínea b) do número anterior será apurada através de inquérito ordenado pelo Secretário Regional da Agricultura e Pescas.
 
-###### Art. 7.º É revogado o [Decreto Legislativo Regional n.º 28/83/A](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/28-1983-455408), de 22 de Agosto.
+Art. 7.º É revogado o [Decreto Legislativo Regional n.º 28/83/A](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/28-1983-455408), de 22 de Agosto.
 
 Aprovado pela Assembleia Regional dos Açores, na Horta, em 16 de Outubro de 1986.
 
-**O Presidente da Assembleia Regional, José Guilherme Reis Leite.**
+O Presidente da Assembleia Regional, José Guilherme Reis Leite.
 
-**Assinado em Angra do Heroísmo em 26 de Novembro de 1986.**
+Assinado em Angra do Heroísmo em 26 de Novembro de 1986.
 
-**Publique-se.**
+Publique-se.
 
-**O Ministro da República para a Região Autónoma dos Açores, Vasco Joaquim da Rocha Vieira.**
+O Ministro da República para a Região Autónoma dos Açores, Vasco Joaquim da Rocha Vieira.

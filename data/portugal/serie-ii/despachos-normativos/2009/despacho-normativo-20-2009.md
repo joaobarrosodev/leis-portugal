@@ -46,45 +46,63 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/despacho-normativo/20-2009-2067151
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2014-11-10T00:00:00Z'
+  retrieved_at: '2026-10-23T15:07:13Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: f16dd7ecda6cda4383d9495b2bc4c2f65e9a6bc1a803ac29c5e4a355b3d0acce
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 839d37156f84a0556cab72da059e07f0c2afe0a0289fb4e57e1cf734251add5d
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:07:13Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Estatuto
+- Homologação
+- Instituto Politécnico
+- Lisboa
 relationships:
 - type: amended_by
   target: pt:dre:58814735:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:58814735:por
+  label: Homologadas as alterações aos arts. 7.º e 16.º dos Estatutos pelo(a) Despacho Normativo n.º 16/2014 - Diário da República
+    n.º 217/2014, Série II de 2014-11-10
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/despacho-normativo/16-2014-58814735
+  date: '2014-11-10'
+- type: cites
+  target: pt:dre:430025:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:640339:por
+  label: null
+  source: null
 article_structure:
-  article_count: 55
+  article_count: 56
   section_count: 12
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:07:13Z'
   warnings: []
   errors: []
 ---
 
-# Despacho Normativo n.º 20/2009
+# Despacho normativo n.º 20/2009
 
 Considerando que, nos termos do n.º 1 do artigo 172.º da [Lei n.º 62/2007](https://diariodarepublica.pt/dr/detalhe/lei/62-2007-640339), de 10 de Setembro, as instituições de ensino superior devem proceder à revisão dos seus estatutos, de modo a conformá-los com o novo Regime Jurídico das Instituições de Ensino Superior;
 
@@ -954,7 +972,9 @@ b) Qualquer membro do Conselho Geral.
 
 Os presentes Estatutos entram em vigor no dia seguinte ao da sua publicação no Diário da República.
 
-## ANEXO — Artigo 1.º
+## ANEXO
+
+###### Artigo 1.º
 
 Escolas e Institutos Superiores
 
@@ -981,3 +1001,5 @@ h) Instituto Superior de Engenharia de Lisboa.
 1 - O IPL promove o estabelecimento de acordos de cooperação e consórcios com outras instituições de ensino superior, designadamente para a realização de programas de pós-graduação.
 
 2 - O IPL promove o estabelecimento de acordos de cooperação e consórcios com a Universidade de Lisboa e com as faculdades e os institutos que a integram, com vista à criação de uma comunidade científica comum institucionalizada. [O n.º 2 do artigo 2.º do anexo não foi homologado por se tratar de matéria que não se integra no âmbito da reserva de estatuto, por determinar uma obrigatoriedade discriminatória de outras instituições de ensino superior e por não estar conforme com os princípios e orientações em matéria de organização da rede.]
+
+201807526

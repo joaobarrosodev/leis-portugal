@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/757/2005/08/31/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/757-2005-248255
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2009-05-13T00:00:00Z'
+  retrieved_at: '2026-10-23T15:08:15Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: aee6d0f20a2b65630cffd385d145fb2ca44a655f96615ebb4c7465c7d14f1e9a
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: a30fb46760d4337ffc7a9b60f867390afd65cac7e106b38cecb27c51b10bbc05
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:08:15Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -74,6 +74,25 @@ relationships:
   target: pt:dre:608725:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:546184:por
+  label: "Anexados e desanexados vários prédios rústicos à zona de caça criada pela Port 722-U/92 de 15-Jul, com as alterações\
+    \ constantes do presente diploma, pela PORT.1170/2006.02.11.2006.MADRP, DR.IS [211] de 02.11.2006\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/1170-2006-546184
+  date: '2006-11-02'
+- type: amended_by
+  target: pt:dre:439155:por
+  label: "Anexados vários prédios rústicos à zona de caça atribuída pela Port 722-U/92, de 15-Jul, alterada pela Port 1403/95,\
+    \ de 23-Nov, pela Port 947/97, de 12-Set, pela Port 1079/2002, de 22-Ago, pelo presente diploma e pela Port 1170/2006,\
+    \ de 02-Nov, pela PORT.1262/2008.05.11.2008.MADRP, DR.IS [215] de 05.11.2008\08\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/1262-2008-439155
+  date: '2008-11-05'
+- type: amended_by
+  target: pt:dre:608725:por
+  label: "Anexados vários prédios rústicos à zona de caça concessionada pela Port 722-U/92, de 15-Jul, alterada pelo presente\
+    \ diploma, pela PORT.506/2009.13.05.2009.MADRP, DR.IS [92] de 13.05.2009\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/506-2009-608725
+  date: '2009-05-13'
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/202/2004/08/18/p/dre
   label: null
@@ -110,16 +129,52 @@ relationships:
   target: eli:http://data.dre.pt/eli/port/947/1997/09/12/p/dre
   label: null
   source: http://data.dre.pt/eli/port/947/1997/09/12/p/dre
+- type: cites
+  target: pt:dre:172508:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:434640:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:480704:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:534644:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:536243:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:603031:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:617696:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:650319:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:692451:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:08:15Z'
   warnings: []
   errors: []
 ---

@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/2s/2007/01/002000000/0009300093.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -46,18 +46,18 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/despacho-normativo/1-2007-1623482
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2007-01-03T00:00:00Z'
+  retrieved_at: '2026-10-23T15:06:33Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 68f7cbef2e5a107542bf2d00e7f014a17d38739d5d53cfb0b429e54164ee0e77
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 9c988d9c76727b85f8dab57deba6cc99f22cba5fd7f3437fec460b92c5a223c4
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:06:33Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -74,21 +74,29 @@ relationships:
   target: celex:32004R0917
   label: null
   source: null
+- type: cites
+  target: pt:dre:143080:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:534992:por
+  label: null
+  source: null
 article_structure:
   article_count: 1
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:06:33Z'
   warnings: []
   errors: []
 ---
 
-# Despacho Normativo n.º 1/2007
+# Despacho normativo n.º 1/2007
 
 O Despacho normativo n.º 13/2006, publicado no Diário da República, 2.ª série, n.º 200, de 17 de Outubro de 2006, veio alterar o prazo de envio ao Instituto Nacional de Intervenção e Garantia Agrícola (INGA) das candidaturas às ajudas atribuídas no quadro do Programa Apícola Nacional pelos organismos competentes, fixado no n.º 2 do artigo 9.º do [Despacho Normativo n.º 30/2005](https://diariodarepublica.pt/dr/detalhe/despacho-normativo/30-2005-534992), publicado no Diário da República, 1.ª série, n.º 88, de 6 de Maio de 2005, com a nova redacção que lhe foi dada pelo artigo 1.º do [Despacho Normativo n.º 43/2005](https://diariodarepublica.pt/dr/detalhe/despacho-normativo/43-2005-143080), publicado no Diário da República, 1.ª série, n.º 175, de 12 de Setembro de 2005.
 

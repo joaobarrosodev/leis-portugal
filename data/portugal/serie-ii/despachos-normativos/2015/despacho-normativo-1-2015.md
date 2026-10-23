@@ -26,7 +26,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/2s/2015/01/003000000/0017200177.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -48,41 +48,103 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/despacho-normativo/1-2015-66030796
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2015-01-06T00:00:00Z'
+  retrieved_at: '2026-10-23T15:07:55Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 19a1c1b4ffcdca2772ff31ef81e6f28b3dbc833ed56c0aa0835b2643e042d9a8
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 709d39f5c5c0a44e54acf2421574f4ef173bf3aa6671c8c1746f92bb2b114c84
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:07:55Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
-relationships: []
+subjects:
+- Avaliação de Conhecimentos
+- Diploma
+- Ensino Cooperativo
+- Ensino Oficial
+- Ensino Particular
+- Ensino Profissional
+- Ensino Secundário
+- Ensino Tecnológico
+- Habilitações Literárias
+relationships:
+- type: cites
+  target: pt:dre:178548:por
+  label: null
+  source: null
+- type: corrected_by
+  target: pt:dre:66263556:por
+  label: Retificado o n.º 3 do art. 17.º pelo(a) Declaração de Retificação n.º 59/2015 - Diário da República n.º 14/2015,
+    Série II de 2015-01-21
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/declaracao-retificacao/59-2015-66263556
+  date: '2015-01-21'
+- type: repealed_by
+  target: pt:dre:124220739:por
+  label: Revogado pelo(a) Portaria n.º 267/2019 - Diário da República n.º 163/2019, Série I de 2019-08-27
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/267-2019-124220739
+  date: '2019-08-27'
+- type: repealed_by
+  target: pt:dre:124220740:por
+  label: Revogado pelo(a) Portaria n.º 268/2019 - Diário da República n.º 163/2019, Série I de 2019-08-27
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/268-2019-124220740
+  date: '2019-08-27'
+- type: repealed_by
+  target: pt:dre:124220741:por
+  label: Revogado pelo(a) Portaria n.º 269/2019 - Diário da República n.º 163/2019, Série I de 2019-08-27
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/269-2019-124220741
+  date: '2019-08-27'
+- type: repealed_by
+  target: pt:dre:124220742:por
+  label: Revogado pelo(a) Portaria n.º 270/2019 - Diário da República n.º 163/2019, Série I de 2019-08-27
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/270-2019-124220742
+  date: '2019-08-27'
+- type: repealed_by
+  target: pt:dre:124220744:por
+  label: Revogado, a partir de 28.08.2019, o presente diploma, pelo(a) Portaria n.º 272/2019 - Diário da República n.º 163/2019,
+    Série I de 2019-08-27
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/272-2019-124220744
+  date: '2019-08-27'
+- type: repealed_by
+  target: pt:dre:124220745:por
+  label: Revogado, a partir de 28.08.2019, o presente diploma, pelo(a) Portaria n.º 273/2019 - Diário da República n.º 163/2019,
+    Série I de 2019-08-27
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/273-2019-124220745
+  date: '2019-08-27'
+- type: repealed_by
+  target: pt:dre:124539910:por
+  label: Revogado pelo(a) Portaria n.º 294/2019 - Diário da República n.º 172/2019, Série I de 2019-09-09 nos termos do disposto
+    no seu art. 42.º
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/294-2019-124539910
+  date: '2019-09-09'
+- type: repealed_by
+  target: pt:dre:124539911:por
+  label: Revogado, a partir de 10.09.2019, pelo(a) Portaria n.º 295/2019 - Diário da República n.º 172/2019, Série I de 2019-09-09
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/295-2019-124539911
+  date: '2019-09-09'
 article_structure:
   article_count: 28
   section_count: 7
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:07:55Z'
   warnings: []
   errors: []
 ---
 
-# Despacho Normativo n.º 1/2015
+# Despacho normativo n.º 1/2015
 
 O [Decreto-Lei n.º 139/2012](https://diariodarepublica.pt/dr/detalhe/decreto-lei/139-2012-178548), de 5 de julho, na sua redação atual, estabelece os princípios orientadores da organização, da gestão e do desenvolvimento dos currículos dos ensinos básico e secundário, bem como da avaliação e certificação dos conhecimentos adquiridos e das capacidades desenvolvidas pelos alunos, aplicáveis às diversas ofertas curriculares do ensino básico e do ensino secundário, ministradas em estabelecimentos de ensino público, particular e cooperativo. Importa, neste momento, materializar a execução dos princípios enunciados naquele diploma legal, definindo as regras de avaliação e certificação dos alunos que frequentam os cursos científico-tecnológicos com planos próprios do nível secundário de educação, uma das modalidades de ensino profissionalizante de dupla certificação.
 
@@ -605,3 +667,5 @@ c) No ano letivo de 2015/2016 no 12.º ano de escolaridade.
 2 - Para os alunos que, no ano letivo de 2014/2015, vão ingressar no 10.º ano de cursos científico-tecnológicos com planos próprios já existentes, ou em cursos desta natureza que entretanto sejam criados, o presente diploma é de aplicação imediata.
 
 18 de dezembro de 2014. - O Secretário de Estado do Ensino Básico e Secundário, Fernando José Egídio Reis.
+
+208323247

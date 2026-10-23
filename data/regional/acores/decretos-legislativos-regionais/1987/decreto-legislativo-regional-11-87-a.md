@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1987/06/14400/24472451.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,40 +46,92 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/11-1987-419795
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2010-10-22T00:00:00Z'
+  retrieved_at: '2026-10-23T15:17:31Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 782ff408e1afe67d06323f46cff6f897f0ee2ca22cf48750dfa00c239b870954
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 43001a9ae8a734750a087139731215f704735acc2038670f01180b4fd538b057
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:17:31Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Açores
+- Orgânica
+- Segurança Social
 relationships:
 - type: amended_by
   target: pt:dre:308079:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:232972:por
+  label: "Alterado o quadro de pessoal anexo ao presente diploma, pelo DRR.43/96/A.1996.08.07.SRSSS-RAA DR.IS-B [233] DE 08/OUT/1996\0\
+    \0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-regulamentar-regional/43-1996-232972
+  date: '1996-08-07'
+- type: amended_by
+  target: pt:dre:417398:por
+  label: "Alterados os arts. 4º, nº 2 do art. 12º, 13º, nº 1 do art. 14º e 18º, pelo DLR.24/97/A.1997.11.25.ALR-RAA DR.IS-A\
+    \ [290]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-legislativo-regional/24-1997-417398
+  date: '1997-11-25'
+- type: amended_by
+  target: pt:dre:405695:por
+  label: "Alterado o art. 9º e revogada a al. a) do nº 1 do art. 19º, na redacção do DLR 24/97/A, de 17-Dez, republicando-o\
+    \ em anexo pelo DLR.39/2002/A.2002.11.29.ALR-RAA, DR.IS-A [292] de 18/Dez/2002\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-legislativo-regional/39-2002-405695
+  date: '2002-11-29'
+- type: amended_by
+  target: pt:dre:308079:por
+  label: "Fundido no Instituto para o Desenvolvimento Social dos Açores, I. P. R. A. (IDSA), o Instituto de Gestão de Regimes\
+    \ da Segurança Social (IGRSS) com o Instituto de Acção Social (IAS), e determinada a sucessão pelo Instituto de Gestão\
+    \ Financeira dos Açores, I.P.R.A (IGFSSA) do Centro de Gestão Financeira da Segurança Social, previstos no presente diploma,\
+    \ com as alterações introduzidas pelos DLR 24/97/A de 17-Dez e 39/2002/A de 18-Dez, que é revogado, a partir de 23.10.2010,\
+    \ pelo DLR.28/2010/A.22.10.2010.AL-RAA, DR.IS [206] de 22.10.2010, sem prejuízo do disposto no nº 3 do seu art. 27º, e\
+    \ que determinou a transferência para o IDSA dos direitos e das obrigações de que eram titulares ou beneficiários o Instituto\
+    \ de Gestão de Regimes da Segurança Social e o Instituto de Acção Social, e dos arquivos, acervos documentais e bases\
+    \ de dados que lhes digam respeito, nomeadamente em razão das competências, pessoal e património; assim como a transferência\
+    \ para o IGSSA dos direitos e das obrigações de que era titular ou beneficiário o Centro de Gestão Financeira da Segurança\
+    \ Social, ao qual sucedeu, e respectivos arquivos, acervos documentais e bases de dados que lhe digam respeito, nomeadamente\
+    \ em razão das competências, pessoal e património. \0io. \0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-legislativo-regional/28-2010-308079
+  date: '2010-10-22'
+- type: cites
+  target: pt:dre:276602:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:304997:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:329860:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:382393:por
+  label: null
+  source: null
 article_structure:
   article_count: 31
-  section_count: 11
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  section_count: 12
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:17:31Z'
   warnings: []
   errors: []
 ---
@@ -108,7 +160,9 @@ A Assembleia Regional dos Açores, nos termos do artigo 229.º, alínea b), da C
 
 4 - As instituições regionais de segurança social estão sujeitas à tutela do Secretário Regional dos Assuntos Sociais e a sua acção é coordenada pela Direcção Regional de Segurança Social (DRSS).
 
-## TÍTULO II — CAPÍTULO I
+## TÍTULO II
+
+### CAPÍTULO I
 
 Centro de Gestão Financeira da Segurança Social
 
@@ -506,10 +560,10 @@ d) Outras despesas previstas por lei.
 
 Aprovado pela Assembleia Regional dos Açores, na Horta, em 9 de Abril de 1987.
 
-**O Presidente da Assembleia Regional, José Guilherme Reis Leite.**
+O Presidente da Assembleia Regional, José Guilherme Reis Leite.
 
-**Assinado em Angra do Heroísmo em 19 de Maio de 1987.**
+Assinado em Angra do Heroísmo em 19 de Maio de 1987.
 
-**Publique-se.**
+Publique-se.
 
-**O Ministro da República para a Região Autónoma dos Açores, Vasco Joaquim Rocha Vieira.**
+O Ministro da República para a Região Autónoma dos Açores, Vasco Joaquim Rocha Vieira.

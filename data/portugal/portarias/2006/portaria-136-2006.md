@@ -50,18 +50,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/136/2006/02/20/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/136-2006-676823
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2008-06-09T00:00:00Z'
+  retrieved_at: '2026-10-23T15:11:49Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 2f5e00159022b06bd05989a676964e974948dd8b3d407564ab0a30cfe5bae750
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 83324d40017daee0241a72ef8c475d0a2d6db338f0ca8edc7095a2a2c1474870
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:11:49Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -77,6 +77,24 @@ relationships:
   target: pt:dre:449675:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:518601:por
+  label: "Desanexados vários prédios rústicos da zona de caça associativa dos Medronhais, concessionada pelo presente diploma,\
+    \ pela PORT.312/2007.21.03.2007.MADRP, DR.IS [57] de 21.03.2007\07\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/312-2007-518601
+  date: '2007-03-21'
+- type: amended_by
+  target: pt:dre:641758:por
+  label: "Anexados vários prédios rústicos à zona de caça atribuída pelo presente diploma, alterada pela Port 312/2007, de\
+    \ 21-Mar, pela PORT.1318/2007.04.10.2007.MAOTDR, DR.IS [192] de 04.10.2007\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/1318-2007-641758
+  date: '2007-10-04'
+- type: amended_by
+  target: pt:dre:449675:por
+  label: "Desanexados vários prédios rústicos da zona de caça atribuída pelo presente diploma, alterada pela Port 312/2007,\
+    \ de 21-Mar e pela Port 1318/2007, de 04-Out, pela PORT.411/2008.09.06.2008.MADRP, DR.IS [110] de 09.06.2008\08\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/411-2008-449675
+  date: '2008-06-09'
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/201/2005/11/24/p/dre
   label: null
@@ -89,16 +107,28 @@ relationships:
   target: eli:http://data.dre.pt/eli/port/803/2003/08/13/p/dre
   label: null
   source: http://data.dre.pt/eli/port/803/2003/08/13/p/dre
+- type: cites
+  target: pt:dre:480704:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:481498:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:660121:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:11:49Z'
   warnings: []
   errors: []
 ---

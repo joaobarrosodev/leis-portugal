@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/2s/2008/07/137000000/3172731727.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -47,45 +47,87 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/despacho-normativo/34-2008-3508130
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2009-01-28T00:00:00Z'
+  retrieved_at: '2026-10-23T15:06:54Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 68c1e162e70cb1954d1efabd69c112d1e96dcca4d7932e1313cfbee3de34bac2
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 7e0b6db068380145406bb8556db441e8440b22a834c6c404bfec50486f76d357
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:06:54Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Abate de Animais
+- Açores
+- Agricultor
+- Agricultura
+- Arroz
+- Banana
+- Beterraba
+- Direcção Regional de Agricultura e Pescas
+- Feaga
+- Financiamento
+- Fruticultura
+- Gado Bovino
+- Gado Caprino
+- IFAP
+- Legume de Fruto
+- Pastagens
+- Política Agrícola Comum
+- Prémio ao Abate
+- Proder
+- Produção Animal
+- Produção Leiteira
+- Produção Vegetal
+- Produto Agrícola
+- Projeto de Investimento
+- Sistema Integrado de Gestão e Controlo
+- Tabaco
+- Tomate
+- Trigo
+- Vinha
 relationships:
 - type: amended_by
   target: pt:dre:2859095:por
   label: Última alteração registada na importação inicial
   source: null
+- type: cites
+  target: pt:dre:1552405:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:1685832:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:2859095:por
+  label: "Revogado, a partir de 02.02.2009, pelo DN.4/2009.28.01.2009.SEAAGP-MADRP, DR.IIS [19] de 28.01.2009\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/despacho-normativo/4-2009-2859095
+  date: '2009-01-28'
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:06:54Z'
   warnings: []
   errors: []
 ---
 
-# Despacho Normativo n.º 34/2008
+# Despacho normativo n.º 34/2008
 
 O despacho normativo n.º 18-A/2008, de 10 de Março, definiu as competências, as metodologias, a tramitação, os procedimentos e os períodos de candidatura que devem ser respeitados pelos intervenientes na apresentação do pedido único (PU) de ajudas para o ano de 2008.
 

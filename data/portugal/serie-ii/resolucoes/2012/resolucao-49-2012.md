@@ -46,40 +46,70 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/resolucao/49-2012-1017182
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2017-10-25T00:00:00Z'
+  retrieved_at: '2026-10-23T15:15:02Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 5566a7fe3074a7adc91d9e2083daa0668afdb06fe9268e822959db06ab957283
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: e34cc33d64e4075d9de93ab1c717089ac09d66a43bc502d15d1a32739202d2b0
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:15:02Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Amares
+- Belmonte
+- Braga
+- Condeixa-a-nova
+- Crato
+- Estremoz
+- Faro
+- Fornos de Algodres
+- Ílhavo
+- Lagoa
+- Loures
+- Meda
+- Montijo
+- Oleiros
+- Pinhel
+- Plano de Emergência
+- Proteção Civil
+- Soure
+- Valongo
+- Vinhais
 relationships:
 - type: amended_by
   target: pt:dre:114089162:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:114089162:por
+  label: Tornada pública a aprovação da 1.ª Revisão do Plano Municipal de Emergência de Proteção Civil de Valongo publicitado
+    pela presente resolução, pelo(a) Resolução n.º 3/2017 - Diário da República n.º 206/2017, Série II de 2017-10-25
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/resolucao/3-2017-114089162
+  date: '2017-10-25'
+- type: cites
+  target: pt:dre:3086255:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:15:02Z'
   warnings: []
   errors: []
 ---
@@ -101,3 +131,5 @@ Assim, nos termos e ao abrigo do disposto nos n.os 1 e 2 do artigo 7.º da Porta
 Nos termos doo n.º 12 doo artigo 4.º da [Resolução n.º 25/2008](https://diariodarepublica.pt/dr/detalhe/resolucao/25-2008-3086255), de 18 de julho, da Comissão Nacional de Proteção Civil, os Planos Municipais de Emergência de Proteção Civil agora aprovados entram em vigor no 1.º d dia útil seguinte à publicação da presente resolução no Diário da República.
 
 12 de novembro de 2012. - O Presidente da Comissão Nacional de Proteção Civil, Miguel Macedo.
+
+206563474

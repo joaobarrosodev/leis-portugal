@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/2s/2019/09/175000000/0006600066.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -46,36 +46,78 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/resolucao/4-2019-124630627
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2019-09-12T00:00:00Z'
+  retrieved_at: '2026-10-23T15:16:09Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 579d0ff76a05b47106adbcea8da2f21b2ce5c6aaf1786546c9cddf05ec2ac754
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 1935b967b5c01037a0ceb170a2ef1486b95fc9a06c655e485efd6bc7b417ac04
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:16:09Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
-relationships: []
+subjects:
+- Arronches
+- Benavente
+- Braga
+- Cascais
+- Castro Verde
+- Celorico de Basto
+- Góis
+- Guimarães
+- Ílhavo
+- Lourinhã
+- Mação
+- Mafra
+- Mealhada
+- Mogadouro
+- Plano de Emergência
+- Proteção Civil
+- Santa Comba DÃO
+- são JOÃO da Madeira
+- Sintra
+- Soure
+- Tabua
+- Tondela
+- Trancoso
+- Viana do Alentejo
+- Vila Franca de Xira
+- VILA NOVA de Paiva
+relationships:
+- type: cites
+  target: pt:dre:146220:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:537862:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:67163565:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:69927759:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:16:09Z'
   warnings: []
   errors: []
 ---
@@ -93,3 +135,5 @@ Assim, nos termos da citada norma da Lei de Bases de Proteção Civil e, no resp
 2 - Aprovar os Planos Municipais de Arronches, Benavente, Castro Verde, Guimarães, Ílhavo, Lourinhã, Mafra, Mealhada, Mogadouro, São João da Madeira, Sintra, Tábua e Vila Franca de Xira com a recomendação da realização de uma revisão intercalar ao fim de 3 anos da sua vigência.
 
 23 de julho de 2019. - A Secretária da Comissão Nacional de Proteção Civil, Ana Freitas.
+
+312474554

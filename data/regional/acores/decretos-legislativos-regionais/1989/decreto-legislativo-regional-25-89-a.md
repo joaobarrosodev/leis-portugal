@@ -19,7 +19,7 @@ publication:
   reference: Diário da República n.º 299/1989, 4º Suplemento, Série I de 1989-12-30
   number: '299'
   series: I
-  supplement: 4º Suplemento
+  supplement: null
   pages: 5668-(53) a 5668-(58)
   pdf_url: https://files.diariodarepublica.pt/1s/1989/12/29904/00530058.pdf
 entry_into_force_dates: []
@@ -46,40 +46,57 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/25-1989-262100
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1990-12-27T00:00:00Z'
+  retrieved_at: '2026-10-23T15:17:55Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 4f366a4d1fd68c10683e1e018a746c1e63e95b0b39a46aea7c476f287cbdff83
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: f2ddd902f6b09a46376fca157a7b35c13d7c42a1cefc8eeaefc094c4eaca50bb
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:17:55Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Açores
+- Orçamento Regional
 relationships:
 - type: amended_by
   target: pt:dre:274446:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:274446:por
+  label: "Alterada a al. a) do art. 4.º bem como os programas de investimento de cada secretaria regional constantes dos mapas\
+    \ I a V em anexo e determinada a manutenção em vigor das disposições que não forem contrariadas pelo DLR.21/90/A.27.12.1990.ALR-RAA,\
+    \ DR.IS [297-2ºSupl] de 27.12.1990\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-legislativo-regional/20-1990-274446
+  date: '1990-12-27'
+- type: cites
+  target: pt:dre:496889:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:498732:por
+  label: null
+  source: null
 article_structure:
   article_count: 9
   section_count: 4
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:17:55Z'
   warnings: []
   errors: []
 ---
@@ -156,14 +173,14 @@ O presente decreto legislativo regional produz efeitos a partir de 1 de Janeiro 
 
 Aprovado pela Assembleia Legislativa Regional dos Açores, na Horta, em 24 de Novembro de 1989.
 
-**O Presidente da Assembleia Legislativa Regional, José Guilherme Reis Leite.**
+O Presidente da Assembleia Legislativa Regional, José Guilherme Reis Leite.
 
-**Assinado em Angra do Heroísmo em 18 de Dezembro de 1989.**
+Assinado em Angra do Heroísmo em 18 de Dezembro de 1989.
 
-**Publique-se.**
+Publique-se.
 
-**O Ministro da República para a Região Autónoma dos Açores, Vasco Joaquim Rocha Vieira.**
+O Ministro da República para a Região Autónoma dos Açores, Vasco Joaquim Rocha Vieira.
 
 Do MAPA I ao MAPA V
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1989/12/29904/00530058.pdf))](https://files.diariodarepublica.pt/1s/1989/12/29904/00530058.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1989/12/29904/00530058.pdf)

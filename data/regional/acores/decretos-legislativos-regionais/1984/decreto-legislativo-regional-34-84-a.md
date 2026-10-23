@@ -46,36 +46,47 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/34-1984-400812
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1984-11-13T00:00:00Z'
+  retrieved_at: '2026-10-23T15:17:08Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 1f3d7f4ba48d92fef6532d7d1e0afca4014cc27c32da983a0f1874ce0693c257
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 85dc26f89cbe929b166c5289707536d8293b6b4ce9548ae62c961627aeeb0bca
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:17:08Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
-relationships: []
+subjects:
+- Açores
+- Autarquia Local
+- Finanças Locais
+relationships:
+- type: cites
+  target: pt:dre:476532:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:661712:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:17:08Z'
   warnings: []
   errors: []
 ---
@@ -90,20 +101,20 @@ Portanto, e se bem que não se definam desde já no presente diploma os indicado
 
 Assim, a Assembleia Regional dos Açores decreta, nos termos da alínea b) do artigo 229.º da Constituição, o seguinte:
 
-###### Artigo 1.º O regime do [Decreto-Lei n.º 98/84](https://diariodarepublica.pt/dr/detalhe/decreto-lei/98-1984-661712), de 29 de Março, aplica-se à Região Autónoma dos Açores com as adaptações constantes dos artigos seguintes.
+Artigo 1.º O regime do [Decreto-Lei n.º 98/84](https://diariodarepublica.pt/dr/detalhe/decreto-lei/98-1984-661712), de 29 de Março, aplica-se à Região Autónoma dos Açores com as adaptações constantes dos artigos seguintes.
 
-###### Art. 2.º As referências feitas, bem como as competências atribuídas pelo [Decreto-Lei n.º 98/84](https://diariodarepublica.pt/dr/detalhe/decreto-lei/98-1984-661712), de 29 de Março, ao Governo da República ou aos seus departamentos serão exercidas e consideram-se reportadas, na Região, ao Governo Regional e aos respectivos departamentos.
+Art. 2.º As referências feitas, bem como as competências atribuídas pelo [Decreto-Lei n.º 98/84](https://diariodarepublica.pt/dr/detalhe/decreto-lei/98-1984-661712), de 29 de Março, ao Governo da República ou aos seus departamentos serão exercidas e consideram-se reportadas, na Região, ao Governo Regional e aos respectivos departamentos.
 
-###### Art. 3.º - 1 - O Governo Regional poderá aprovar esquemas de cooperação técnica e financeira com as autarquias locais para prossecução de políticas e programas de desenvolvimento regional, de incentivo ao associativismo autárquico, de actuações consideradas de carácter supramunicipal, designadamente investimentos no sector do saneamento básico, bem como para a implementação de políticas globais ou sectores inovatórios ou que impliquem reconversão estrutural de sectores sociais e económicos.
+Art. 3.º - 1 - O Governo Regional poderá aprovar esquemas de cooperação técnica e financeira com as autarquias locais para prossecução de políticas e programas de desenvolvimento regional, de incentivo ao associativismo autárquico, de actuações consideradas de carácter supramunicipal, designadamente investimentos no sector do saneamento básico, bem como para a implementação de políticas globais ou sectores inovatórios ou que impliquem reconversão estrutural de sectores sociais e económicos.
 
 2 - As bases das políticas referidas no número anterior serão previamente definidas por decreto da Assembleia Regional e os correspondentes programas de investimento constarão do plano regional.
 
 Aprovado pela Assembleia Regional dos Açores em 12 de Setembro de 1984.
 
-**O Presidente da Assembleia Regional, Álvaro Monjardino.**
+O Presidente da Assembleia Regional, Álvaro Monjardino.
 
-**Assinado em Angra do Heroísmo em 19 de Outubro de 1984.**
+Assinado em Angra do Heroísmo em 19 de Outubro de 1984.
 
-**Publique-se.**
+Publique-se.
 
-**O Ministro da República para a Região Autónoma dos Açores, Tomás George Conceição Silva.**
+O Ministro da República para a Região Autónoma dos Açores, Tomás George Conceição Silva.

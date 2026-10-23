@@ -19,12 +19,12 @@ publication:
   reference: Diário da República n.º 111/2021, 2º Suplemento, Série II de 2021-06-09
   number: '111'
   series: II
-  supplement: 2º Suplemento
+  supplement: null
   pages: 501-(2) a 501-(32)
   pdf_url: https://files.diariodarepublica.pt/2s/2021/06/111000002/0000200032.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -46,18 +46,18 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/despacho-normativo/14-b-2021-164955314
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2021-06-09T00:00:00Z'
+  retrieved_at: '2026-10-23T15:08:47Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 49987ac049068dc5819b598537ff6fbb35759f90c6846e4754918420d21f9972
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: d266c5933999e4fbac3aedf78b9905a4d50807e2850f7237b7fe24144c5d091a
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:08:47Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -65,17 +65,37 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects: []
-relationships: []
+relationships:
+- type: cites
+  target: pt:dre:2932987:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:556606:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:640339:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:692654:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:74338005:por
+  label: null
+  source: null
 article_structure:
   article_count: 81
   section_count: 22
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:08:47Z'
   warnings: []
   errors: []
 ---
@@ -1451,3 +1471,5 @@ Os presentes estatutos entram em vigor no dia seguinte ao da sua publicação no
 ###### Artigo 81.º — Revogação
 
 Com a entrada em vigor dos presentes estatutos, consideram-se revogados os estatutos aprovados pelo [Despacho Normativo n.º 39/2008](https://diariodarepublica.pt/dr/detalhe/despacho-normativo/39-2008-2932987), de 30 de julho, do Ministro da Ciência, Tecnologia e Ensino Superior, publicados no Diário da República, 2.ª série, n.º 157, de 14 de agosto de 2008, sem prejuízo do disposto nos artigos 78.º e 79.º dos presentes estatutos.
+
+314294308

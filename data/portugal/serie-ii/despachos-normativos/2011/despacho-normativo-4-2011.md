@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/2s/2011/02/039000000/0958809588.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,45 +46,101 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/despacho-normativo/4-2011-1042950
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2012-04-10T00:00:00Z'
+  retrieved_at: '2026-10-23T15:07:34Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 505a489ed3cb8cf4f11f159376d0940a42cc21a9c634a71fc25ca428495e935d
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 846b301794db63dd2875b1e1ae237da1697b352830a9ff12cfc1990232b11bec
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:07:34Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Avaliação de Conhecimentos
+- Ensino Artístico
+- Ensino Básico
+- Ensino Técnico Profissional
+- Ensino Tecnológico
+- Equivalência de Habilitações Literárias
+- Exame
+- Plano de Estudos
+- Regulamento
+- Sistema Educativo
 relationships:
 - type: amended_by
   target: pt:dre:1089021:por
   label: Última alteração registada na importação inicial
   source: null
+- type: cites
+  target: pt:dre:210801:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:2224480:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:338986:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:3485639:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:386871:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:386872:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:432450:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:551873:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:628017:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:636712:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:1089021:por
+  label: "Revogado o DN 19/2008 de 19-mar, na redacção do presente diploma, pelo DN.6/2012.10.04.2012.SEEBS-MECI, DR.IIS [71]\
+    \ de 10.04.2012\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/despacho-normativo/6-2012-1089021
+  date: '2012-04-10'
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:07:34Z'
   warnings: []
   errors: []
 ---
 
-# Despacho Normativo n.º 4/2011
+# Despacho normativo n.º 4/2011
 
 Nos termos da Lei Orgânica do Ministério da Educação, o júri nacional de exames tem por missão coordenar a planificação dos exames nacionais, das provas de equivalência à frequência e provas de aferição, bem como elaborar relatórios decorrentes da realização de exames e provas.
 
@@ -113,3 +169,5 @@ e) [...]»
 2 - O presente despacho entra em vigor no dia seguinte ao da sua publicação.
 
 17 de Fevereiro de 2011. - O Secretário de Estado Adjunto e da Educação, José Alexandre da Rocha Ventura Silva.
+
+204368503

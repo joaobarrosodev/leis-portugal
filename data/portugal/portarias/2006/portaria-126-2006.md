@@ -48,18 +48,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/126/2006/02/09/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/126-2006-553618
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2006-02-09T00:00:00Z'
+  retrieved_at: '2026-10-23T15:11:13Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: a4196c54a4f69a4e751d47d12c3100ece4bc1447a5ee61b7c3c4cdeaea7286f2
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: e5aec4356eaeb34ea76a710f2309af0b1fae9742e728b9e6174b50ab0c1710c3
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:11:13Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,21 +67,21 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Indústria de Carnes
 - Belmonte
+- Comércio
+- Condições de Higiene e Segurança no Trabalho
 - Contrato Coletivo de Trabalho
+- Contrato de Trabalho
 - Covilhã
+- Indústria de Carnes
 - Lisboa
 - Oleiros
 - Penamacor
 - Portimão
 - Proença-a-nova
-- Contrato de Trabalho
-- Condições de Higiene e Segurança no Trabalho
 - Regulamento de Extensão
 - Remuneração
 - Sertã
-- Comércio
 - VILA de REI
 relationships:
 - type: cites
@@ -92,16 +92,24 @@ relationships:
   target: eli:http://data.dre.pt/eli/lei/12/2004/03/30/p/dre
   label: null
   source: http://data.dre.pt/eli/lei/12/2004/03/30/p/dre
+- type: cites
+  target: pt:dre:195799:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:217164:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:11:13Z'
   warnings: []
   errors: []
 ---
@@ -164,4 +172,4 @@ Sendo de comércio a retalho não alimentar, pertençam a empresa ou grupo que t
 
 A presente portaria entra em vigor no 5.º dia após a sua publicação no Diário da República.
 
-**O Ministro do Trabalho e da Solidariedade Social, José António Fonseca Vieira da Silva, em 18 de Janeiro de 2006.**
+O Ministro do Trabalho e da Solidariedade Social, José António Fonseca Vieira da Silva, em 18 de Janeiro de 2006.

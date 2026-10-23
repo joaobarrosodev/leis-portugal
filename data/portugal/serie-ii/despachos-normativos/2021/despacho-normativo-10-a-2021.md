@@ -20,12 +20,12 @@ publication:
   reference: Diário da República n.º 56/2021, 2º Suplemento, Série II de 2021-03-22
   number: '56'
   series: II
-  supplement: 2º Suplemento
+  supplement: null
   pages: 242-(2) a 242-(38)
   pdf_url: https://files.diariodarepublica.pt/2s/2021/03/056000002/0000200038.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -47,25 +47,37 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/despacho-normativo/10-a-2021-159994003
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2023-04-03T00:00:00Z'
+  retrieved_at: '2026-10-23T15:08:40Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: d9ac5fd34f372ec8e693f3e6058c6e30687806f9269a9b996c432f1f95ca75ac
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 7324d82aea978cf411b59e183f26f860007e013b2f8aeb58a607ef7b413d209d
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:08:40Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Avaliação de Conhecimentos
+- Ensino Básico
+- Ensino Cooperativo
+- Ensino no Estrangeiro
+- Ensino Oficial
+- Ensino Particular
+- Ensino Secundário
+- Equivalência de Habilitações Literárias
+- Exame
+- Prova de Ingresso
+- Prova Geral de Acesso
+- Regulamento
 relationships:
 - type: amended_by
   target: pt:dre:211393783:por
@@ -75,16 +87,122 @@ relationships:
   target: celex:32016R0679
   label: null
   source: null
+- type: cites
+  target: pt:dre:107791610:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:115652961:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:115652962:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:116640900:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:123815982:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:124353902:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:124680588:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:128154291:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:129970449:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:132133788:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:148599583:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:157360559:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:159869158:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:174840:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:178548:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:259964:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:490957:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:497860:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:516044:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:544383:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:628859:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:632418:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:64297587:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:66041468:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:74007250:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:211393783:por
+  label: Revogado, a partir de 4 de abril de 2023, pelo(a) Despacho Normativo n.º 4-B/2023 - Diário da República n.º 66/2023,
+    1º Suplemento, Série II de 2023-04-03
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/despacho-normativo/4-b-2023-211393783
+  date: '2023-04-03'
 article_structure:
   article_count: 45
   section_count: 9
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:08:40Z'
   warnings: []
   errors: []
 ---
@@ -1011,13 +1129,13 @@ QUADRO I
 
 Prazos de inscrição para as provas de equivalência à frequência dos 1.º, 2.º e 3.º ciclos do ensino básico - 2021
 
-[([ver documento original](https://files.diariodarepublica.pt/2s/2021/03/056000002/0000200038.pdf))](https://files.diariodarepublica.pt/2s/2021/03/056000002/0000200038.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/2s/2021/03/056000002/0000200038.pdf)
 
 QUADRO II
 
 Prazos de inscrição para os exames finais nacionais e provas de equivalência à frequência do ensino secundário - 2021
 
-[([ver documento original](https://files.diariodarepublica.pt/2s/2021/03/056000002/0000200038.pdf))](https://files.diariodarepublica.pt/2s/2021/03/056000002/0000200038.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/2s/2021/03/056000002/0000200038.pdf)
 
 QUADRO III
 
@@ -1027,19 +1145,19 @@ TABELA A - 1.º Ciclo do Ensino Básico
 
 Tipo de prova e respetiva duração
 
-[([ver documento original](https://files.diariodarepublica.pt/2s/2021/03/056000002/0000200038.pdf))](https://files.diariodarepublica.pt/2s/2021/03/056000002/0000200038.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/2s/2021/03/056000002/0000200038.pdf)
 
 TABELA B - 2.º Ciclo do Ensino Básico
 
 Tipo de prova e respetiva duração
 
-[([ver documento original](https://files.diariodarepublica.pt/2s/2021/03/056000002/0000200038.pdf))](https://files.diariodarepublica.pt/2s/2021/03/056000002/0000200038.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/2s/2021/03/056000002/0000200038.pdf)
 
 TABELA C - 3.º Ciclo do Ensino Básico
 
 Tipo de provas e respetiva duração
 
-[([ver documento original](https://files.diariodarepublica.pt/2s/2021/03/056000002/0000200038.pdf))](https://files.diariodarepublica.pt/2s/2021/03/056000002/0000200038.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/2s/2021/03/056000002/0000200038.pdf)
 
 Nota. - Nos 1.º, 2.º e 3.º ciclos do ensino básico, as provas de equivalência à frequência podem ser de um dos seguintes tipos, de acordo com as características de cada disciplina e em função de parâmetros previamente definidos:
 
@@ -1055,7 +1173,7 @@ Exames finais nacionais do ensino secundário - 2021
 
 Tipo de prova e respetiva duração
 
-[([ver documento original](https://files.diariodarepublica.pt/2s/2021/03/056000002/0000200038.pdf))](https://files.diariodarepublica.pt/2s/2021/03/056000002/0000200038.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/2s/2021/03/056000002/0000200038.pdf)
 
 QUADRO V
 
@@ -1063,13 +1181,13 @@ Provas de equivalência à frequência dos cursos científico-humanísticos do e
 
 Tipo de prova e respetiva duração
 
-[([ver documento original](https://files.diariodarepublica.pt/2s/2021/03/056000002/0000200038.pdf))](https://files.diariodarepublica.pt/2s/2021/03/056000002/0000200038.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/2s/2021/03/056000002/0000200038.pdf)
 
 QUADRO VI
 
 Ponderação das componentes escrita, oral e prática das provas de equivalência à frequência dos cursos científico-humanísticos e dos cursos artísticos especializados do ensino secundário - 2021
 
-[([ver documento original](https://files.diariodarepublica.pt/2s/2021/03/056000002/0000200038.pdf))](https://files.diariodarepublica.pt/2s/2021/03/056000002/0000200038.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/2s/2021/03/056000002/0000200038.pdf)
 
 QUADRO VII
 
@@ -1077,7 +1195,7 @@ Provas de equivalência à frequência dos cursos artísticos especializados - 2
 
 Tipo de prova e respetiva duração
 
-[([ver documento original](https://files.diariodarepublica.pt/2s/2021/03/056000002/0000200038.pdf))](https://files.diariodarepublica.pt/2s/2021/03/056000002/0000200038.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/2s/2021/03/056000002/0000200038.pdf)
 
 Nota. - No ensino Secundário, as provas de equivalência à frequência podem ser de um dos seguintes tipos, de acordo com as características de cada disciplina e em função de parâmetros previamente definidos:
 
@@ -1086,3 +1204,5 @@ Prova escrita (E), cuja realização implica um registo escrito ou um registo bi
 Prova oral (O), que implica, com eventual recurso a um guião, a produção e interação orais na presença de um júri e a utilização, por este, de um registo de observação do desempenho do aluno;
 
 Prova prática (P), que implica a realização de tarefas objeto de avaliação performativa, em situações de organização individual ou em grupo, a manipulação de materiais, instrumentos e equipamentos, com eventual produção escrita, que incide sobre o trabalho prático e ou experimental produzido, implicando a presença de um júri e a utilização, por este, de um registo de observação do desempenho do aluno.
+
+314093185

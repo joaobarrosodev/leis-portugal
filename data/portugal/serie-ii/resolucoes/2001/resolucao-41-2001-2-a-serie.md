@@ -46,40 +46,64 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/resolucao/41-2001-1688616
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2002-11-07T00:00:00Z'
+  retrieved_at: '2026-10-23T15:10:51Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: edd16fbaccbba0c3e3427cd0bae67383f2b233c39683e635150339771a0ef197
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 774a1d800419eaa47fe7d6ff2f420b48fab4038ef76c5f407890c03c0be065b7
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:10:51Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Acumulação de Empregos
+- Administrador Delegado
+- Conselho de Administração
+- Instituto das Estradas de Portugal
+- Instituto para a Conservação e Exploração da REDE Rodoviária
+- Instituto para a Construção Rodoviária
+- Nomeação
+- Presidente
+- Vice-presidente
+- Vogal
 relationships:
 - type: amended_by
   target: pt:dre:890915:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:890915:por
+  label: "Exoneradas as personalidades nomeadas pelo presente diploma, pela RES.76-A/2002(2ªSÉRIE).2002.11.07.PCM DR.IIS [258]SUPL\
+    \ DE 08/NOV/2002\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/resolucao/76-a-2002-890915
+  date: '2002-11-07'
+- type: cites
+  target: pt:dre:393003:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:618336:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:10:51Z'
   warnings: []
   errors: []
 ---

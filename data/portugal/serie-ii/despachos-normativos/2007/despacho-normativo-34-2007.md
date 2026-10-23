@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/2s/2007/09/181000000/2741227414.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -47,45 +47,80 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/despacho-normativo/34-2007-1310678
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2023-12-12T00:00:00Z'
+  retrieved_at: '2026-10-23T15:06:39Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 970ab9bf9f3782c4cfd49f22fd645d500a4fb3eba24ed314f85b5e9fa5492f45
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 41a9a575fe2c7704aef37a50a3b69b65c2a3c6fc110fc372fea576632e59157b
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:06:39Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Comparticipação do Estado
+- Cuidados de Enfermagem
+- Cuidados Médicos
+- Rede
+- Segurança Social
 relationships:
 - type: amended_by
   target: pt:dre:229911837:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:2753305:por
+  label: Alterado o art. 3.º pelo DESP.23613/2009.28.10.2009.SESS-MTSSO, DR.IIS [209] de 28.10.2009
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/despacho/23613-2009-2753305
+  date: '2009-10-28'
+- type: amended_by
+  target: pt:dre:335685:por
+  label: "Determinada a suspensão, durante o ano de 2010, do n.º 5 do art. 6.º do presente diploma, não ocorrendo a actualização\
+    \ de rendimentos aí prevista, pela PORT.326/2010.16.06.2010.MFAP, DR.IS [115] de 16.06.2010\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/326-2010-335685
+  date: '2010-06-16'
+- type: amended_by
+  target: pt:dre:158238387:por
+  label: Determinada a manutenção em vigor do presente diploma pelo(a) Portaria n.º 45/2021 - Diário da República n.º 38/2021,
+    Série I de 2021-02-24, nos termos do n.º 2 do art. 15.º
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/45-2021-158238387
+  date: '2021-02-24'
+- type: cites
+  target: pt:dre:353934:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:406172:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:229911837:por
+  label: Revogado pelo Despacho n.º 12678/2023 - Diário da República n.º 238/2023, Série II de 2023-12-12
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/despacho/12678-2023-229911837
+  date: '2023-12-12'
 article_structure:
   article_count: 14
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:06:39Z'
   warnings: []
   errors: []
 ---
 
-# Despacho Normativo n.º 34/2007
+# Despacho normativo n.º 34/2007
 
 As unidades e equipas de cuidados que constituem a Rede Nacional de Cuidados Continuados Integrados, criada pelo [Decreto-Lei n.º 101/2006](https://diariodarepublica.pt/dr/detalhe/decreto-lei/101-2006-353934), de 6 de Junho, obedecem a uma tipologia de serviços cujo modelo de intervenção vem responder adequadamente à pessoa em situação de dependência, permitindo melhorar o acesso à prestação dos cuidados de saúde e ou de apoio social.
 

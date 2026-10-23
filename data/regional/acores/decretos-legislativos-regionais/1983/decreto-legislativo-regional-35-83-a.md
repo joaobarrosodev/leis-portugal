@@ -46,40 +46,51 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/35-1983-443729
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2010-11-09T00:00:00Z'
+  retrieved_at: '2026-10-23T15:16:58Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 9fa7384065cf9b298ed67131fee646a1f75e23973fe179a4594844ea435f5e73
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 922dc1148f8ebbe6948686b36845a06815fc8d3dd695854f86ecde02d9a056b3
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:16:58Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Açores
+- Financiamento
+- Frota de Pesca
+- Pesca
 relationships:
 - type: amended_by
   target: pt:dre:309040:por
   label: Última alteração registada na importação inicial
   source: null
+- type: repealed_by
+  target: pt:dre:309040:por
+  label: "Revogado, a partir de 09.12.2010, o DRG 18/81/A de 27-Out, com as alterações que lhe foram introduzidas pelo presente\
+    \ diploma, sem prejuízo das obrigações assumidas durante a sua vigência, pelo DLR.29/2010/A.09.11.2010.AL-RAA, DR.IS [217]\
+    \ de 09.11.2010\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-legislativo-regional/29-2010-309040
+  date: '2010-11-09'
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:16:58Z'
   warnings: []
   errors: []
 ---
@@ -96,9 +107,9 @@ Por outro lado, julga-se necessário assegurar a cobertura financeira do custo t
 
 Assim, a Assembleia Regional dos Açores decreta, nos termos da alínea a) do artigo 229.º da Constituição, o seguinte:
 
-###### Artigo 1.º O artigo 2.º do Decreto Regional n.º 18/81/A, de 27 de Outubro, passa a ter a seguinte redacção:
+Artigo 1.º O artigo 2.º do Decreto Regional n.º 18/81/A, de 27 de Outubro, passa a ter a seguinte redacção:
 
-###### Art. 2.º - 1 - Aos projectos de investimento considerados de interesse para o aumento e reconversão da frota pesqueira industrial da Região o Governo Regional poderá conceder auxílios financeiros, nas seguintes modalidades:
+Art. 2.º - 1 - Aos projectos de investimento considerados de interesse para o aumento e reconversão da frota pesqueira industrial da Região o Governo Regional poderá conceder auxílios financeiros, nas seguintes modalidades:
 
 a) Subsídio e compensação de juros aos projectos mencionados na alínea a) do n.º 2 do artigo anterior;
 
@@ -106,16 +117,16 @@ b) Compensação de juros aos restantes projectos.
 
 2 - O Governo Regional poderá ainda promover a realização de projectos de investimento destinados a permitir que pescadores da Região tenham acesso, pela primeira vez, à propriedade de embarcações de pesca industrial e a assegurar o financiamento de tais projectos, até à integralidade do respectivo custo, em condições análogas às estabelecidas no presente diploma.
 
-###### Art. 2.º O artigo 4.º do Decreto Regional n.º 18/81/A, de 27 de Outubro, passa a ter a redacção seguinte:
+Art. 2.º O artigo 4.º do Decreto Regional n.º 18/81/A, de 27 de Outubro, passa a ter a redacção seguinte:
 
-###### Art. 4.º Para o financiamento dos projectos de investimento auxiliados nos termos deste diploma, os beneficiários deverão contribuir com capitais próprios nunca inferiores a 15% do respectivo custo total, salvo nos casos previstos no n.º 2 do artigo 2.º
+Art. 4.º Para o financiamento dos projectos de investimento auxiliados nos termos deste diploma, os beneficiários deverão contribuir com capitais próprios nunca inferiores a 15% do respectivo custo total, salvo nos casos previstos no n.º 2 do artigo 2.º
 
 Aprovado pela Assembleia Regional dos Açores em 16 de Setembro de 1983.
 
-**O Presidente da Assembleia Regional dos Açores, Álvaro Monjardino.**
+O Presidente da Assembleia Regional dos Açores, Álvaro Monjardino.
 
-**Assinado em Angra do Heroísmo em 3 de Novembro de 1983.**
+Assinado em Angra do Heroísmo em 3 de Novembro de 1983.
 
-**Publique-se.**
+Publique-se.
 
-**O Ministro da República para a Região Autónoma dos Açores, Tomás George Conceição Silva.**
+O Ministro da República para a Região Autónoma dos Açores, Tomás George Conceição Silva.

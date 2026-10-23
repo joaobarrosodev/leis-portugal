@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/2s/2008/04/080000000/1855018557.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,30 +46,75 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/despacho-normativo/24-2008-2294370
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2015-02-27T00:00:00Z'
+  retrieved_at: '2026-10-23T15:06:50Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 420e2d6700d070bc1f7eb15bb74900b095ee32ab9783eb71ab7e52ef50187aae
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 37af3ddcde1e49a1dcec9d642ca53cc15ea2d617eccd1fce64e99ef3e9bcfc7e
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:06:50Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Açores
+- Agricultor
+- Controlo Sanitário
+- Exploração Agrícola
+- Financiamento
+- Fiscalização
+- Madeira.região Autónoma
+- Pagamento
+- Pecuária
+- Proteção do Ambiente
+- Proteção Fitossanitária
+- Saúde Pública
+- Subsídio
 relationships:
 - type: amended_by
   target: pt:dre:66619896:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:1151622:por
+  label: "Alteradas as als. i) e q) do art. 2.º e os nºs. 1.3 e 1.4.1 do anexo I do DN 7/2005, de 01-Fev, na redacção do presente\
+    \ diploma, pelo DN.14/2009.02.04.2009.MADRP, DR.IIS [65] de 02.04.2009\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/despacho-normativo/14-2009-1151622
+  date: '2009-04-02'
+- type: amended_by
+  target: pt:dre:1124172:por
+  label: "Alterada a al. p) do art. 2.º, aditadas as als. aa), bb) e cc) do art. 2.º e o n.º 1.1.6 do anexo i a que se refere\
+    \ a al. a) do art. 2.º e os n.ºs 30, 31, 32 e [33] do anexo ii a que se refere o art. 3.º e revogado o n.º 1.4.1 do anexo\
+    \ i do DN 7/2005, de 01-Fev DR.IS-B [22], republicado pelo presente diploma, pelo DN.3/2010.01.02.2010.MADRP, DR.IIS [21]\
+    \ de 01.02.2010\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/despacho-normativo/3-2010-1124172
+  date: '2010-02-01'
+- type: amended_by
+  target: pt:dre:3337344:por
+  label: "Alterados os nºs 19, 21 e 26 do anexo ii a que se refere o art. 3º do DN 7/2005, de 01-Fev, na redacção do presente\
+    \ despacho normativo, pelo DN.10/2011.15.06.2011.MADRP, DR.IIS [114] de 15.06.2011\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/despacho-normativo/10-2011-3337344
+  date: '2011-06-15'
+- type: amended_by
+  target: pt:dre:2235067:por
+  label: "Alterados os arts. 2.º e 4º e os anexos I e II do DN 7/2005, de 01-fev, na redação do presente diploma, pelo DN.4/2012.02.04.2012.SEA-MAMAOT,\
+    \ DR.IIS [66] de 02.04.2012\02\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/despacho-normativo/4-2012-2235067
+  date: '2012-04-02'
+- type: amended_by
+  target: pt:dre:3661173:por
+  label: "Alterados o art. 2.º e os anexos I e II do DN 7/2005 de 01-fev, na redação do presente despacho normativo, pelo\
+    \ DN.2/2014.29.01.2014.SEAG-MAGM, DR.IIS [20] de 29.01.2014\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/despacho-normativo/2-2014-3661173
+  date: '2014-01-29'
 - type: cites
   target: celex:32003R1782
   label: null
@@ -82,21 +127,67 @@ relationships:
   target: celex:32005R1698
   label: null
   source: null
+- type: cites
+  target: pt:dre:173369:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:226977:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:234168:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:358491:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:594308:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:620106:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:626229:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:659564:por
+  label: null
+  source: null
+- type: corrected_by
+  target: pt:dre:2142528:por
+  label: "Rectificado o art. 2.º [deve passar a ler-se «São aditadas as alíneas aa), bb) e cc) do artigo 2.º, o n.º 1.1.6\
+    \ do anexo i a que se refere a alínea a) do artigo 2.º e os n.os 30, 31, 32 e 33 do anexo ii a que se refere o artigo\
+    \ 3.º do despacho normativo n.º 7/2005, com a seguinte redacção:»] do DN 3/2010, de 01-Fev, que alterou o DN 7/2005 de\
+    \ 01-Fev, na redacção do presente despacho, pela DECL-RECT.319/2010.18.02.2010.SG-MADRP, DR.IIS [34] de 18.02.2010\010\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/declaracao-rectificacao/319-2010-2142528
+  date: '2010-02-18'
+- type: repealed_by
+  target: pt:dre:66619896:por
+  label: Revogado, a partir de 28.02.2015, o DN 7/2005 de 01-fev, alterado pelo presente diploma, pelo(a) Portaria n.º 57/2015
+    - Diário da República n.º 41/2015, Série I de 2015-02-27
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/57-2015-66619896
+  date: '2015-02-27'
 article_structure:
-  article_count: 5
+  article_count: 3
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:06:50Z'
   warnings: []
   errors: []
 ---
 
-# Despacho Normativo n.º 24/2008
+# Despacho normativo n.º 24/2008
 
 O Regulamento (CE) n.º 1782/2003, do Conselho, de 29 de Setembro, que estabeleceu o princípio da condicionalidade, impõe determinadas obrigações aos agricultores que beneficiem de ajudas a título de todos os regimes de pagamentos directos, ou seja, os agricultores têm que satisfazer determinadas condições em matéria de saúde pública, saúde animal, fitossanidade, ambiente e bem estar animal, assim como, assegurar que as terras agrícolas, em especial as que já não são utilizadas para fins produtivos, sejam mantidas em boas condições agrícolas e ambientais.
 
@@ -406,7 +497,7 @@ e) O disposto na alínea c) não é aplicável às parcelas com culturas forrage
 
 a) As parcelas com culturas forrageiras e com pastagem permanente em superfície agrícola ou em culturas sob coberto de espaço florestal arborizado, integradas em exploração agrícola com um encabeçamento pecuário igual ou superior a 0,15 CN/ha, de acordo com a seguinte tabela de conversão:
 
-[([ver documento original](https://files.diariodarepublica.pt/2s/2008/04/080000000/1855018557.pdf))](https://files.diariodarepublica.pt/2s/2008/04/080000000/1855018557.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/2s/2008/04/080000000/1855018557.pdf)
 
 b) As parcelas inseridas em baldios;
 
@@ -464,17 +555,19 @@ f) As parcelas inseridas em baldios;
 
 14 de Abril de 2008. - Pelo Ministro da Agricultura, do Desenvolvimento Rural e das Pescas, o Secretário de Estado do Desenvolvimento Rural e das Florestas, Ascenso Luís Seixas Simões.
 
-## ANEXO — [Despacho Normativo n.º 7/2005](https://diariodarepublica.pt/dr/detalhe/despacho-normativo/7-2005-620106)
+ANEXO
+
+[Despacho Normativo n.º 7/2005](https://diariodarepublica.pt/dr/detalhe/despacho-normativo/7-2005-620106)
 
 (republicação)
 
-###### Artigo 1.º
+Artigo 1.º
 
 1 - O presente despacho estabelece os requisitos mínimos para as boas condições agrícolas e ambientais, nos termos e para os efeitos do disposto no artigo 5.º do Regulamento (CE) n.º 1782/2003, do Conselho, de 29 de Setembro, no Regulamento (CE) n.º 796/2004, da Comissão, de 21 de Abril, e no artigo 2.º da [Portaria n.º 36/2005](https://diariodarepublica.pt/dr/detalhe/portaria/36-2005-626229), de 17 de Janeiro.
 
 2 - Nas Regiões Autónomas, os requisitos mínimos para as boas condições agrícolas e ambientais são estabelecidos pelos órgãos de governo próprios, com excepção das regras relativas às pastagens permanentes em que é aplicável o disposto no presente despacho.
 
-###### Artigo 2.º
+Artigo 2.º
 
 Para efeitos de aplicação do disposto no presente despacho, entende-se por:
 
@@ -766,7 +859,7 @@ e) O disposto na alínea c) não é aplicável às parcelas com culturas forrage
 
 a) As parcelas com culturas forrageiras e com pastagem permanente em superfície agrícola ou em culturas sob coberto de espaço florestal arborizado, integradas em exploração agrícola com um encabeçamento pecuário igual ou superior a 0,15 CN/ha, de acordo com a seguinte tabela de conversão:
 
-[([ver documento original](https://files.diariodarepublica.pt/2s/2008/04/080000000/1855018557.pdf))](https://files.diariodarepublica.pt/2s/2008/04/080000000/1855018557.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/2s/2008/04/080000000/1855018557.pdf)
 
 b) As parcelas inseridas em baldios;
 

@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/2s/2025/01/009000000/0007300135.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -46,36 +46,100 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/despacho-normativo/1-2025-903136143
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2025-01-14T00:00:00Z'
+  retrieved_at: '2026-10-23T15:09:10Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 2598588418e82aaa73882981005188960d439b1a48247b42dbbb8afd2a232925
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 64ceeca9e61a75e52d811b98513711bf442143ce4777996173fe1b44ada614ab
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:09:10Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
-relationships: []
+subjects:
+- Estatuto
+- Homologação
+- Instituto Politécnico
+- Instituto Politécnico do Cávado e do AVE
+relationships:
+- type: amends
+  target: pt:numero:despacho-normativo:1-A/2019
+  label: Homologa a alteração aos artigos 1.º, 4.º, 5.º, 7.º, 8.º, 13.º, 14.º, 16.º, 17.º, 18.º, 22.º, 24.º, 25.º, 26.º, 27.º,
+    32.º, 33.º, 38.º, 41.º, 43.º, 45.º, 47.º, 49.º, 51.º, 52.º, 60.º, 63.º, 70.º, 76.º, 84.º, 87.º, 88.º e 93.º e a republicação
+    dos Estatutos do Instituto Politécnico do Cávado e do Ave, aprovados em anexo ao Despacho Normativo n.º 1-A/2019, de 14
+    de junho, Diário da República n.º 113/2019, 1º Suplemento, Série II
+  source: null
+  date: '2019-06-14'
+- type: cites
+  target: pt:dre:115924013:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:116068879:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:122574727:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:178149623:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:211573083:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:2431937:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:540661:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:571177:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:579479:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:58752409:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:640339:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:692654:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:70684031:por
+  label: null
+  source: null
 article_structure:
-  article_count: 129
+  article_count: 97
   section_count: 26
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:09:10Z'
   warnings: []
   errors: []
 ---
@@ -114,7 +178,9 @@ Objeto
 
 Os presentes Estatutos constituem a norma fundamental de organização interna e de funcionamento do estabelecimento de ensino Politécnico do Cávado e do Ave, com a denominação em língua inglesa de Polytechnic University of Cávado and Ave, adiante designado por IPCA, de acordo com os artigos 67.º e 132.º do Regime Jurídico das Instituições de Ensino Superior, aprovado pela [Lei n.º 62/2007](https://diariodarepublica.pt/dr/detalhe/lei/62-2007-640339), de 10 de setembro, adiante designado por RJIES.
 
-###### Artigo 4.º — Atribuições
+Artigo 4.º
+
+Atribuições
 
 1 - [...]
 
@@ -180,7 +246,9 @@ v) Promover a ligação e proximidade com os antigos estudantes do IPCA, designa
 
 w) Assegurar os serviços de ação social previstos na lei.
 
-###### Artigo 5.º — Graus, diplomas e habilitações
+Artigo 5.º
+
+Graus, diplomas e habilitações
 
 1 - O IPCA pode conferir os graus de licenciado, de mestre, de doutor e os diplomas de técnico superior profissional, nos termos da lei.
 
@@ -194,7 +262,9 @@ c) [...]
 
 3 - [...]
 
-###### Artigo 7.º — Cooperação institucional
+Artigo 7.º
+
+Cooperação institucional
 
 1 - O IPCA pode estabelecer com outras instituições acordos de associação ou de cooperação para o incentivo à mobilidade de estudantes, de docentes, de administrativos e técnicos para a prossecução de parcerias e projetos comuns nas áreas de ensino que ministra, nomeadamente no apoio à investigação e prestação de serviços à comunidade e a realização de cursos não conferentes de grau académico, mediante a celebração de protocolo e sem prejuízo da sua responsabilidade científica e pedagógica, nos termos do n.º 1 do artigo 16.º do RJIES.
 
@@ -210,7 +280,9 @@ c) [...]
 
 7 - Os acordos e parcerias referidos nos números anteriores estão sujeitos à aprovação do presidente do IPCA.
 
-###### Artigo 8.º — Consórcios
+Artigo 8.º
+
+Consórcios
 
 1 - [...]
 
@@ -222,7 +294,9 @@ c) [...]
 
 5 - O IPCA pode participar em consórcios, sem personalidade jurídica, nos termos do [Decreto-Lei n.º 231/81](https://diariodarepublica.pt/dr/detalhe/decreto-lei/231-1981-579479), de 28 de julho, na redação atual, de investigação e desenvolvimento com empresas e entidades, públicas ou privadas, mediante protocolo/contrato, designadamente em sede de candidaturas a fundos públicos e outros, por proposta do presidente do IPCA, aprovado pelo conselho de gestão.
 
-###### Artigo 13.º — Modelo de organização
+Artigo 13.º
+
+Modelo de organização
 
 1 - [...]
 
@@ -268,7 +342,9 @@ f) Escola Superior de Desporto, Bem-Estar e Sistemas Biomédicos (ESDBESB).
 
 13 - [...]
 
-###### Artigo 14.º — Órgãos do IPCA
+Artigo 14.º
+
+Órgãos do IPCA
 
 1 - [...]
 
@@ -292,7 +368,9 @@ e) Provedor do estudante.
 
 3 - [...]
 
-###### Artigo 16.º — Competência do conselho geral
+Artigo 16.º
+
+Competência do conselho geral
 
 1 - [...]
 
@@ -348,7 +426,9 @@ j) [...]
 
 6 - [...]
 
-###### Artigo 17.º — Competência do presidente do conselho geral
+Artigo 17.º
+
+Competência do presidente do conselho geral
 
 1 - [...]
 
@@ -370,7 +450,9 @@ h) [...]
 
 2 - O presidente do conselho geral não interfere no exercício das competências dos demais órgãos da instituição, não lhe cabendo, em caso algum, representá-la nem se pronunciar em seu nome.
 
-###### Artigo 18.º — Constituição do conselho geral e entrada em funcionamento
+Artigo 18.º
+
+Constituição do conselho geral e entrada em funcionamento
 
 1 - [...]
 
@@ -392,7 +474,9 @@ h) [...]
 
 10 - [...]
 
-###### Artigo 22.º — Eleição do membro representante do pessoal não docente
+Artigo 22.º
+
+Eleição do membro representante do pessoal não docente
 
 1 - O representante do pessoal não docente será eleito uninominalmente pelo colégio eleitoral único constituído pelo universo do pessoal não docente e não investigador funcional e hierarquicamente dependente do IPCA.
 
@@ -400,7 +484,9 @@ h) [...]
 
 3 - [...]
 
-###### Artigo 24.º — Organização das eleições
+Artigo 24.º
+
+Organização das eleições
 
 1 - [...]
 
@@ -416,7 +502,9 @@ h) [...]
 
 7 - [...]
 
-###### Artigo 25.º — Cadernos eleitorais
+Artigo 25.º
+
+Cadernos eleitorais
 
 1 - [...]
 
@@ -430,7 +518,9 @@ h) [...]
 
 6 - Os diretores das escolas e o administrador do IPCA remeterão ao presidente do IPCA, com urgência, as reclamações, instruídas com a informação havida por conveniente, relativamente aos cadernos dos professores, dos investigadores, dos estudantes e do pessoal não docente, respetivamente.
 
-###### Artigo 26.º — Candidaturas
+Artigo 26.º
+
+Candidaturas
 
 1 - [...]
 
@@ -442,7 +532,9 @@ h) [...]
 
 5 - [...]
 
-###### Artigo 27.º — Constituição das mesas de voto
+Artigo 27.º
+
+Constituição das mesas de voto
 
 1 - [...]
 
@@ -464,7 +556,9 @@ c) Uma mesa para a eleição dos estudantes no campus do IPCA e em cada polo ond
 
 7 - [...]
 
-###### Artigo 32.º — Eleição
+Artigo 32.º
+
+Eleição
 
 1 - [...]
 
@@ -510,13 +604,17 @@ c) [...]
 
 13 - [...]
 
-###### Artigo 33.º — Duração do mandato
+Artigo 33.º
+
+Duração do mandato
 
 1 - O mandato da(o) presidente do IPCA tem a duração de quatro anos, nos termos do artigo 87.º do RJIES.
 
 2 - [...]
 
-###### Artigo 38.º — Competência do presidente do IPCA
+Artigo 38.º
+
+Competência do presidente do IPCA
 
 1 - [...]
 
@@ -608,7 +706,9 @@ d) [...]
 
 6 - O presidente pode delegar nos vice-presidentes, nos pró-presidentes, no administrador do IPCA, no diretor dos serviços de ação social, nos órgãos de gestão do IPCA e nos diretores das unidades orgânicas as competências que se revelem necessárias a uma gestão mais eficiente, com exceção das alíneas m) a r) do n.º 2 do presente artigo.
 
-###### Artigo 41.º — Administrador do IPCA
+Artigo 41.º
+
+Administrador do IPCA
 
 1 - [...]
 
@@ -634,7 +734,9 @@ d) [...]
 
 8 - [...]
 
-###### Artigo 43.º — Funcionamento do conselho de diretores das escolas
+Artigo 43.º
+
+Funcionamento do conselho de diretores das escolas
 
 1 - [...]
 
@@ -642,7 +744,9 @@ d) [...]
 
 3 - [...]
 
-###### Artigo 45.º — Natureza, composição e funcionamento do conselho académico
+Artigo 45.º
+
+Natureza, composição e funcionamento do conselho académico
 
 1 - [...]
 
@@ -664,7 +768,9 @@ f) [...]
 
 4 - [...]
 
-###### Artigo 47.º — Composição e funcionamento
+Artigo 47.º
+
+Composição e funcionamento
 
 1 - [...]
 
@@ -700,7 +806,9 @@ i) Responsável pelos serviços académicos.
 
 8 - [...]
 
-###### Artigo 49.º — Provedor do estudante
+Artigo 49.º
+
+Provedor do estudante
 
 1 - [...]
 
@@ -738,7 +846,9 @@ h) [...]
 
 10 - [...]
 
-###### Artigo 51.º — Autonomia académica
+Artigo 51.º
+
+Autonomia académica
 
 1 - [...]
 
@@ -748,7 +858,9 @@ h) [...]
 
 4 - (Revogado.)
 
-###### Artigo 52.º — Autonomia administrativa e estatutária
+Artigo 52.º
+
+Autonomia administrativa e estatutária
 
 1 - [...]
 
@@ -760,7 +872,9 @@ h) [...]
 
 5 - [...]
 
-###### Artigo 60.º — Competência do conselho técnico-científico
+Artigo 60.º
+
+Competência do conselho técnico-científico
 
 1 - [...]
 
@@ -830,7 +944,9 @@ b) [...]
 
 4 - [...]
 
-###### Artigo 63.º — Estrutura
+Artigo 63.º
+
+Estrutura
 
 1 - [...]
 
@@ -844,7 +960,9 @@ b) [...]
 
 6 - Sem prejuízo do disposto no n.º 3, a Escola Técnica Superior Profissional pode ministrar cursos de formação pós-graduada, cursos e atividades formativas de especialização e de aprendizagem ao longo da vida.
 
-###### Artigo 70.º — Serviços
+Artigo 70.º
+
+Serviços
 
 1 - [...]
 
@@ -854,7 +972,9 @@ b) [...]
 
 4 - [...]
 
-###### Artigo 76.º — Mapa de pessoal
+Artigo 76.º
+
+Mapa de pessoal
 
 1 - [...]
 
@@ -864,7 +984,9 @@ b) [...]
 
 4 - [...]
 
-###### Artigo 84.º — Autonomia disciplinar
+Artigo 84.º
+
+Autonomia disciplinar
 
 1 - [...]
 
@@ -900,13 +1022,17 @@ e) [...]
 
 10 - [...]
 
-###### Artigo 87.º — Património imobiliário
+Artigo 87.º
+
+Património imobiliário
 
 1 - O património imobiliário do IPCA é constituído pelos imóveis constantes de aviso publicado na 2.ª série do Diário da República.
 
 2 - Os imóveis do IPCA devem ser objeto de registo predial.
 
-###### Artigo 88.º — Adequação dos Estatutos e de regulamentos
+Artigo 88.º
+
+Adequação dos Estatutos e de regulamentos
 
 1 - Com a entrada em vigor dos presentes Estatutos deve proceder-se à alteração dos estatutos das escolas e dos regulamentos existentes, pelos órgãos competentes para adequar aos estatutos do IPCA e à lei.
 
@@ -914,7 +1040,9 @@ e) [...]
 
 3 - [...]
 
-###### Artigo 93.º — Revisão dos Estatutos
+Artigo 93.º
+
+Revisão dos Estatutos
 
 1 - [...]
 
@@ -2418,7 +2546,7 @@ d) Professores adjuntos e assistentes convidados contratados ao abrigo do ECPDES
 
 6 - Os docentes desta carreira serão contratados para lecionarem nos cursos técnicos superiores profissionais, sem prejuízo de poderem, residualmente, lecionar em cursos de licenciatura ou mestrados no âmbito da colaboração da ETESP com as outras escolas do IPCA.
 
-7 - Os docentes integrados na carreira de pessoal docente de outras escolas, em regime de contrato de trabalho em funções públicas, podem, nos termos dos n.<sup>os</sup> 4 e 5 do artigo 38.º, sem perder o seu estatuto e carreira, ser afetos a esta escola e lecionar nos cursos técnicos superiores profissionais.
+7 - Os docentes integrados na carreira de pessoal docente de outras escolas, em regime de contrato de trabalho em funções públicas, podem, nos termos dos n.os 4 e 5 do artigo 38.º, sem perder o seu estatuto e carreira, ser afetos a esta escola e lecionar nos cursos técnicos superiores profissionais.
 
 ###### Artigo 65.º — Carreira do pessoal docente especialista da escola técnica superior profissional
 
@@ -2765,3 +2893,5 @@ b) Qualquer membro do conselho geral.
 ###### Artigo 94.º — Entrada em vigor
 
 Os presentes Estatutos entram em vigor no dia seguinte ao da sua publicação no Diário da República.
+
+318544095

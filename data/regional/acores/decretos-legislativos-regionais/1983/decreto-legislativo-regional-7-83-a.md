@@ -46,36 +46,46 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/7-1983-310456
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1983-03-17T00:00:00Z'
+  retrieved_at: '2026-10-23T15:16:59Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: c8b59d12ff1e6e45d055b632c03c837dc0b164e0df02655cfe1a5a63ae73f569
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 64c9e892d6946051185d370e98189df6209cfadce8d9c73b17e93e9e599d3484
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:16:59Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
-relationships: []
+subjects:
+- Açores
+- Exame de Condução
+relationships:
+- type: cites
+  target: pt:dre:375391:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:601315:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:16:59Z'
   warnings: []
   errors: []
 ---
@@ -92,16 +102,16 @@ Considerando a necessidade de ordenar, numa perspectiva territorial, a legitimid
 
 A Assembleia Regional dos Açores decreta, nos termos da alínea a) do artigo 229.º da Constituição da República, o seguinte:
 
-###### Artigo único. - 1 - Na Região Autónoma dos Açores serão admitidos ao exame referido no artigo 49.º do Código da Estrada, mediante proposta da escola de condução com sede na área de jurisdição da delegação de viação e transportes onde o exame for requerido, os indivíduos que, preenchendo os requisitos exigidos nas alíneas a) a d) do n.º 1 do artigo 47.º do mesmo Código, o requeiram na delegação de viação e transportes da área da sua residência ou do seu domicílio legal ou profissional.
+Artigo único. - 1 - Na Região Autónoma dos Açores serão admitidos ao exame referido no artigo 49.º do Código da Estrada, mediante proposta da escola de condução com sede na área de jurisdição da delegação de viação e transportes onde o exame for requerido, os indivíduos que, preenchendo os requisitos exigidos nas alíneas a) a d) do n.º 1 do artigo 47.º do mesmo Código, o requeiram na delegação de viação e transportes da área da sua residência ou do seu domicílio legal ou profissional.
 
 2 - Os indivíduos que residam ou tenham domicílio legal ou profissional em ilha onde não exista nenhuma escola de condução poderão requerer a admissão ao exame referido no número anterior em qualquer das delegações existentes na Região.
 
 Aprovado pela Assembleia Regional dos Açores em 2 de Fevereiro de 1983.
 
-**O Presidente da Assembleia Regional dos Açores, Álvaro Monjardino.**
+O Presidente da Assembleia Regional dos Açores, Álvaro Monjardino.
 
-**Assinado em Angra do Heroísmo em 1 de Março de 1983.**
+Assinado em Angra do Heroísmo em 1 de Março de 1983.
 
-**Publique-se.**
+Publique-se.
 
-**O Ministro da República para a Região Autónoma dos Açores, Tomás George Conceição Silva.**
+O Ministro da República para a Região Autónoma dos Açores, Tomás George Conceição Silva.

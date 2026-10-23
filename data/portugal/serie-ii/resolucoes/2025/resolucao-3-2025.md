@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/2s/2025/05/100000000/0009200097.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -47,36 +47,47 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/resolucao/3-2025-919368493
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2025-05-26T00:00:00Z'
+  retrieved_at: '2026-10-23T15:16:23Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 561b4adef26755be57e98370d7396f4856452087ce6b8182956017e56c330f8d
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 47e99ac770b6a5d8389808de7d22c91dcb045449a732432076e51dc63f35bccc
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:16:23Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
-relationships: []
+subjects:
+- Comissão Nacional de Protecção Civil
+- Proteção Civil
+- Siops
+relationships:
+- type: cites
+  target: pt:dre:205450974:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:885385211:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:16:23Z'
   warnings: []
   errors: []
 ---
@@ -85,7 +96,7 @@ validation:
 
 De acordo com o disposto no n.º 1 do artigo 17.º do Anexo ao [Decreto-Lei n.º 90-A/2022](https://diariodarepublica.pt/dr/detalhe/decreto-lei/90-a-2022-205450974), de 30 de dezembro, compete à Comissão Nacional de Proteção Civil aprovar a diretiva operacional referente ao estado de prontidão especial do Sistema Integrado de Operações de Proteção e Socorro.
 
-Assim, no respeito pelo disposto nos n.<sup>os</sup>1 e 2 do artigo 7.º da Portaria n.º 302/2008, de 18 de abril, a Comissão Nacional de Proteção Civil, em reunião ordinária realizada em 23 de abril de 2025, deliberou:
+Assim, no respeito pelo disposto nos n.os1 e 2 do artigo 7.º da Portaria n.º 302/2008, de 18 de abril, a Comissão Nacional de Proteção Civil, em reunião ordinária realizada em 23 de abril de 2025, deliberou:
 
 1 - Aprovar a diretiva operacional nacional relativa ao estado de prontidão especial para as entidades integrantes do Sistema Integrado de Operações de Proteção e Socorro (SIOPS), a qual constitui anexo à presente resolução, da qual faz parte integrante;
 
@@ -180,9 +191,9 @@ TABELA N.º 3
 
 Matriz de risco
 
-| Grau de Probabilidade | Residual | Reduzido | Moderado | Elevado | Crítico |
+| Grau de Probabilidade | Grau de Gravidade |  |  |  |  |
 | --- | --- | --- | --- | --- | --- |
-| Grau de Probabilidade | Grau de Gravidade | Grau de Gravidade | Grau de Gravidade | Grau de Gravidade | Grau de Gravidade |
+| Residual | Reduzido | Moderado | Elevado | Crítico |  |
 | Confirmado | Moderado | Moderado | Muito elevado | Extremo | Extremo |
 | Elevado | Moderado | Moderado | Muito elevado | Extremo | Extremo |
 | Médio-alto | Baixo | Moderado | Elevado | Muito elevado | Extremo |
@@ -243,3 +254,7 @@ Grau de prontidão e de mobilização
 9 - Disposições complementares
 
 As entidades integrantes do SIOPS estabelecem, através de regulamentação interna, as medidas setoriais a implementar em cada nível do EPE do SIOPS.
+
+319030312
+
+.Tbl1 { border-collapse:collapse; border-width:0px; border-style:none; } .Tbl2 { min-height:26px; } .Tbl3 { border-bottom-color:rgb(0,0,0); border-top-color:rgb(0,0,0); border-left-width:0px; border-top-width:1px; border-right-width:1px; border-top-style:solid; border-bottom-width:1px; border-bottom-style:solid; border-right-style:solid; border-right-color:rgb(0,0,0); border-left-style:solid; vertical-align:middle; } .Tbl4 { text-align:center; } .Tbl5 { border-bottom-color:rgb(0,0,0); border-top-color:rgb(0,0,0); border-left-width:1px; border-top-width:1px; border-right-width:1px; border-top-style:solid; border-left-color:rgb(0,0,0); border-bottom-width:1px; border-bottom-style:solid; border-right-style:solid; border-right-color:rgb(0,0,0); border-left-style:solid; vertical-align:middle; } .Tbl6 { border-bottom-color:rgb(0,0,0); border-top-color:rgb(0,0,0); border-left-width:1px; border-top-width:1px; border-right-width:0px; border-top-style:solid; border-left-color:rgb(0,0,0); border-bottom-width:1px; border-bottom-style:solid; border-right-style:solid; border-left-style:solid; vertical-align:middle; } .Tbl7 { min-height:18px; } .Tbl8 { border-bottom-color:rgb(0,0,0); border-top-color:rgb(0,0,0); border-left-width:0px; border-top-width:1px; border-right-width:1px; border-top-style:solid; border-bottom-width:1px; border-bottom-style:solid; border-right-style:solid; border-right-color:rgb(0,0,0); border-left-style:solid; vertical-align:top; } .Tbl10 { border-bottom-color:rgb(0,0,0); border-top-color:rgb(0,0,0); border-left-width:1px; border-top-width:1px; border-right-width:1px; border-top-style:solid; border-left-color:rgb(0,0,0); border-bottom-width:1px; border-bottom-style:solid; border-right-style:solid; border-right-color:rgb(0,0,0); border-left-style:solid; vertical-align:top; } .Tbl11 { border-bottom-color:rgb(0,0,0); border-top-color:rgb(0,0,0); border-left-width:1px; border-top-width:1px; border-right-width:0px; border-top-style:solid; border-left-color:rgb(0,0,0); border-bottom-width:1px; border-bottom-style:solid; border-right-style:solid; border-left-style:solid; vertical-align:top; } .Tbl12 { min-height:89px; } .Tbl13 { border-top-color:rgb(0,0,0); border-left-width:0px; border-top-width:1px; border-right-width:1px; border-top-style:solid; border-bottom-width:0px; border-bottom-style:solid; border-right-style:solid; border-right-color:rgb(0,0,0); border-left-style:solid; vertical-align:top; } .Tbl14 { border-top-color:rgb(0,0,0); border-left-width:1px; border-top-width:1px; border-right-width:0px; border-top-style:solid; border-left-color:rgb(0,0,0); border-bottom-width:0px; border-bottom-style:solid; border-right-style:solid; border-left-style:solid; vertical-align:top; } .Tbl15 { min-height:158px; } .Tbl16 { border-bottom-color:rgb(0,0,0); border-left-width:0px; border-top-width:0px; border-right-width:1px; border-top-style:solid; border-bottom-width:1px; border-bottom-style:solid; border-right-style:solid; border-right-color:rgb(0,0,0); border-left-style:solid; vertical-align:top; } .Tbl17 { border-bottom-color:rgb(0,0,0); border-left-width:1px; border-top-width:0px; border-right-width:0px; border-top-style:solid; border-left-color:rgb(0,0,0); border-bottom-width:1px; border-bottom-style:solid; border-right-style:solid; border-left-style:solid; vertical-align:top; } .Tbl18 { min-height:247px; } .Tbl19 { min-height:230px; } .Tbl20 { min-height:221px; } .Tbl21 { text-align:justify; text-align-last:justify; } .Tbl22 { min-height:17px; } .Tbl23 { border-bottom-color:rgb(0,0,0); border-top-color:rgb(0,0,0); border-left-width:1px; border-top-width:1px; border-right-width:0px; border-top-style:solid; border-left-color:rgb(0,0,0); border-bottom-width:1px; border-bottom-style:solid; border-right-style:solid; border-right-color:rgb(0,0,0); border-left-style:solid; vertical-align:middle; } .Tbl24 { min-height:101px; } .Tbl25 { min-height:37px; }

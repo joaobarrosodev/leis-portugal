@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/2s/2025/05/093000000/0005800062.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -46,40 +46,71 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/despacho-normativo/8-2025-918122811
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2025-05-21T00:00:00Z'
+  retrieved_at: '2026-10-23T15:09:15Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: e1abfdd6d6595aa84c3c67fe7ee7540c7321920750f581e4bba78b924f0e4ee1
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 233117a13ae521b0b06826cee7c98397840279903ea01044f7916dcc766c1b81
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:09:15Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Estatuto
+- Homologação
+- Universidade do Porto
 relationships:
 - type: amended_by
   target: pt:dre:918700465:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amends
+  target: pt:numero:despacho-normativo:18-B/2009
+  label: Homologa as alterações aos Estatutos da Universidade do Porto, homologados pelo Despacho Normativo n.º 18-B/2009,
+    de 14 de maio, Diário da República n.º 93/2009, 1º Suplemento, Série II
+  source: null
+  date: '2009-05-14'
+- type: cites
+  target: pt:dre:3456229:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:640339:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:67288124:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:894487443:por
+  label: null
+  source: null
+- type: corrected_by
+  target: pt:dre:918700465:por
+  label: Retificado o artigo 2.º (Aditamento) das alterações aos Estatutos da Universidade do Porto pelo(a) Declaração de
+    Retificação n.º 494/2025/2 - Diário da República n.º 97/2025, Série II de 2025-05-21
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/declaracao-retificacao/494-2025-918700465
+  date: '2025-05-21'
 article_structure:
-  article_count: 6
+  article_count: 3
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:09:15Z'
   warnings: []
   errors: []
 ---
@@ -160,7 +191,9 @@ h) [...]
 
 4 - O Estabelecimento de Ensino da Universidade do Porto integra uma escola de ensino politécnico que compartilha do seu regime jurídico, incluindo a autonomia e governo próprio.
 
-###### Artigo 63.º — Estrutura dos órgãos
+Artigo 63.º
+
+Estrutura dos órgãos
 
 1 - [...]
 
@@ -182,7 +215,9 @@ f) [...]
 
 4 - Todas as designações, composição e competências atribuídas ao conselho científico pelos presentes Estatutos, são substituídas nos termos do número anterior, quando aplicadas à escola de ensino politécnico.
 
-###### Artigo 67.º — Conselho Científico
+Artigo 67.º
+
+Conselho Científico
 
 1 - [...]
 
@@ -264,7 +299,9 @@ b) [...]
 
 8 - (Anterior n.º 7.)
 
-###### Artigo 85.º — Modelo Organizativo
+Artigo 85.º
+
+Modelo Organizativo
 
 1 - [...]
 
@@ -307,3 +344,5 @@ c) Continuidade dos graus académicos atribuídos antes da sua integração e da
 ###### Artigo 3.º — Produção de efeitos
 
 As alterações e o aditamento ao Estabelecimento de Ensino da Universidade do Porto produzem os seus efeitos a partir do dia seguinte ao dia da publicação no Diário da República, sem prejuízo da eficácia da integração da ESEP, nos termos do 13.º, n.º 2, do [Decreto-Lei n.º 83/2024](https://diariodarepublica.pt/dr/detalhe/decreto-lei/83-2024-894487443), de 31 de outubro.
+
+319039297

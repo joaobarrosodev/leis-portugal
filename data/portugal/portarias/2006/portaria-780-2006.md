@@ -26,7 +26,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2006/08/15300/57285730.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -48,18 +48,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/780/2006/08/09/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/780-2006-538601
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2012-08-13T00:00:00Z'
+  retrieved_at: '2026-10-23T15:16:15Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 589710dff605922487752d09fc33d2eb1e24755c8690752caef598d0334f88ac
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 4188e0871f44dc61f87abaf1eecb7346e6601d9cf7f58ad3968674f3dc13d434
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:16:15Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,21 +67,33 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Ensino Artístico
 - Aprendizagem Profissional
-- Plano de Estudos
+- Avaliação de Conhecimentos
+- Ensino Artístico
 - Ensino Cooperativo
 - Ensino Oficial
 - Ensino Particular
-- Exame
 - Ensino Secundário
 - Estágio de Formação
-- Avaliação de Conhecimentos
+- Exame
+- Plano de Estudos
 relationships:
 - type: amended_by
   target: pt:dre:430060:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:449676:por
+  label: "Alterados os arts. 14º, 25º, 30º e 38º da Port 550-B/2004, de 21-Maio, na redacção do presente diploma, pela PORT.414/2008.09.06.2008.ME,\
+    \ DR.IS [110] de 09.06.2008\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/414-2008-449676
+  date: '2008-06-09'
+- type: amended_by
+  target: pt:dre:494520:por
+  label: "Alterado o anexo I da Port 550-B/2004 de 21-Mai, com as alterações que lhe foram introduzidas pelo presente diploma,\
+    \ pela PORT.649/2009.09.06.2009.ME, DR.IS [111] de 09.06.2009\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/649-2009-494520
+  date: '2009-06-09'
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/24/2006/02/06/p/dre
   label: null
@@ -98,16 +110,43 @@ relationships:
   target: eli:http://data.dre.pt/eli/port/550-b/2004/05/21/p/dre
   label: null
   source: http://data.dre.pt/eli/port/550-b/2004/05/21/p/dre
+- type: cites
+  target: pt:dre:210801:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:238848:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:252206:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:551873:por
+  label: null
+  source: null
+- type: corrected_by
+  target: pt:dre:541792:por
+  label: "Rectificada pela DECL-RECT.69/2006.21.09.2006.PCM, DR.IS [191] de 03.10.2006\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/declaracao-rectificacao/69-2006-541792
+  date: '2006-09-21'
+- type: repealed_by
+  target: pt:dre:430060:por
+  label: "Revogada a Port 550-B/2004, de 21-maio, na redacção do presente diploma, pela PORT.243-A/2012.13.08.2012.MECI, DR.IS\
+    \ [156-Supl] de 13.08.2012\02\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/243-a-2012-430060
+  date: '2012-08-13'
 article_structure:
-  article_count: 8
+  article_count: 1
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:16:15Z'
   warnings: []
   errors: []
 ---
@@ -150,7 +189,9 @@ c) (Revogada.)
 
 6 - ...
 
-###### Artigo 18.º — Avaliação sumativa
+Artigo 18.º
+
+Avaliação sumativa
 
 1 - ...
 
@@ -172,11 +213,15 @@ b) Através da PAA;
 
 c) Através de provas de equivalência à frequência.
 
-###### Artigo 19.º — Avaliação sumativa interna
+Artigo 19.º
+
+Avaliação sumativa interna
 
 (Revogado.)
 
-###### Artigo 25.º — Provas de equivalência à frequência
+Artigo 25.º
+
+Provas de equivalência à frequência
 
 1 - ...
 
@@ -218,11 +263,15 @@ e) Não tendo estado matriculados no ensino público ou no ensino particular e c
 
 15 - ...
 
-###### Artigo 26.º — Avaliação sumativa externa
+Artigo 26.º
+
+Avaliação sumativa externa
 
 (Revogado.)
 
-###### Artigo 30.º — Classificação final das disciplinas
+Artigo 30.º
+
+Classificação final das disciplinas
 
 1 - ...
 
@@ -230,7 +279,9 @@ e) Não tendo estado matriculados no ensino público ou no ensino particular e c
 
 3 - A classificação final em qualquer disciplina pode também obter-se pelo recurso à realização exclusiva de provas de equivalência à frequência, conforme os casos, nos termos definidos no presente diploma, sendo a classificação final, em caso de aprovação, a obtida na prova.
 
-###### Artigo 38.º — Situações especiais de classificação
+Artigo 38.º
+
+Situações especiais de classificação
 
 1 - ...
 
@@ -276,7 +327,9 @@ d) (Revogada.)
 
 e) (Revogada.)
 
-###### Artigo 40.º — Reclamações e recursos
+Artigo 40.º
+
+Reclamações e recursos
 
 As decisões referentes às provas de equivalência à frequência são passíveis de impugnação administrativa nos termos legais.»
 
@@ -286,8 +339,8 @@ As decisões referentes às provas de equivalência à frequência são passíve
 
 4 - A presente portaria entra em vigor no dia posterior à sua publicação.
 
-**O Secretário de Estado da Educação, Valter Victorino Lemos, em 24 de Julho de 2006.**
+O Secretário de Estado da Educação, Valter Victorino Lemos, em 24 de Julho de 2006.
 
 ## ANEXO I — Provas de equivalência à frequência
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2006/08/15300/57285730.pdf))](https://files.diariodarepublica.pt/1s/2006/08/15300/57285730.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2006/08/15300/57285730.pdf)

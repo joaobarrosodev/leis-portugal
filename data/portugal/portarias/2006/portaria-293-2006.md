@@ -49,18 +49,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/293/2006/03/22/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/293-2006-667718
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2009-05-27T00:00:00Z'
+  retrieved_at: '2026-10-23T15:13:11Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: b96d5ec778f6dece594149d4608ac010aa1ed9b39be81113c922bc53ccdc7410
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: ff0f904c4daffe9c225f516fa7e09d098b0499ed5269b5232339230bb2d1627d
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:13:11Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -76,6 +76,14 @@ relationships:
   target: pt:dre:494207:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:494207:por
+  label: "Renovada, por um período de seis anos e com efeitos a partir de 14.09.2009, a concessão da zona de caça atribuída\
+    \ pela Port 979/2003 de 13-Set, bem como, por igual período, a transferência de gestão, com as alterações constantes do\
+    \ presente diploma, e anexados vários prédios rústicos à mesma zona de caça, pela PORT.566/2009.27.05.2009.MADRP, DR.IS\
+    \ [102] de 27.05.2009\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/566-2009-494207
+  date: '2009-05-27'
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/201/2005/11/24/p/dre
   label: null
@@ -96,16 +104,36 @@ relationships:
   target: eli:http://data.dre.pt/eli/port/979/2003/09/13/p/dre
   label: null
   source: http://data.dre.pt/eli/port/979/2003/09/13/p/dre
+- type: cites
+  target: pt:dre:208775:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:393380:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:480704:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:481498:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:503262:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:13:11Z'
   warnings: []
   errors: []
 ---

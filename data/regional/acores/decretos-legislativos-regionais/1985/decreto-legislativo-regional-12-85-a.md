@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1985/10/24100/34383439.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -47,40 +47,58 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/12-1985-177652
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1991-08-26T00:00:00Z'
+  retrieved_at: '2026-10-23T15:17:11Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: b56b27f01d5430f0003337fb58ade2e143a23ff79722a4ca50563b89a5556058
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 5cb605048e757ce7c5db4814f07ca03d647706c594c43c1b1bcf508727126bb4
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:17:11Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Açores
+- Planeamento Regional
+- Plano Regional
 relationships:
 - type: amended_by
   target: pt:dre:403117:por
   label: Última alteração registada na importação inicial
   source: null
+- type: cites
+  target: pt:dre:668511:por
+  label: null
+  source: null
+- type: corrected_by
+  target: pt:dre:546415:por
+  label: Rectificado pela DECL.DD5201.27.12.1985.PCM, DR.IS [301-2.º Supl] de 31.12.1985
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/declaracao/1985-546415
+  date: '1985-12-27'
+- type: repealed_by
+  target: pt:dre:403117:por
+  label: "Revogado o presente diploma, rectificado pela Decl DD5201, de 22-Dez de 1985, pelo DLR.12/91/A.26.08.1991.ALR-RAA,\
+    \ DR.IS-A [195] de 26.08.1991\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-legislativo-regional/12-1991-403117
+  date: '1991-08-26'
 article_structure:
-  article_count: 7
+  article_count: 6
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:17:11Z'
   warnings: []
   errors: []
 ---
@@ -99,7 +117,7 @@ Assim:
 
 A Assembleia Regional dos Açores decreta, nos termos da alínea a) do artigo 229.º da Constituição, o seguinte:
 
-###### Artigo 1.º Os artigos 4.º, 5.º, 6.º e 7.º do [Decreto Legislativo Regional n.º 21/83/A](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/21-1983-668511), de 28 de Junho, passam a ter a seguinte redacção:
+Artigo 1.º Os artigos 4.º, 5.º, 6.º e 7.º do [Decreto Legislativo Regional n.º 21/83/A](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/21-1983-668511), de 28 de Junho, passam a ter a seguinte redacção:
 
 ###### Artigo 4.º — (Elaboração e conteúdo do Plano)
 
@@ -137,13 +155,13 @@ As câmaras municipais remeterão ao Governo Regional, até 15 de Outubro:
 
 a) No caso do plano de médio prazo, os planos de investimento ou, na sua falta, a listagem quantificada dos investimentos que se propõem executar naquele ano.
 
-###### Art. 2.º O artigo 17.º do [Decreto Legislativo Regional n.º 21/83/A](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/21-1983-668511), de 28 de Junho, passa a ter a seguinte redacção:
+Art. 2.º O artigo 17.º do [Decreto Legislativo Regional n.º 21/83/A](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/21-1983-668511), de 28 de Junho, passa a ter a seguinte redacção:
 
 ###### Artigo 17.º — (Apresentação do Plano Regional pelo Governo Regional)
 
 O Governo Regional apresentará à Assembleia Regional dos Açores, até 25 de Outubro de cada ano, a proposta do Plano Regional ou Planos Regionais que lhe competir elaborar.
 
-###### Art. 3.º É aditado ao [Decreto Legislativo Regional n.º 21/83/A](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/21-1983-668511), de 28 de Junho, o artigo 21.º, com a seguinte redacção:
+Art. 3.º É aditado ao [Decreto Legislativo Regional n.º 21/83/A](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/21-1983-668511), de 28 de Junho, o artigo 21.º, com a seguinte redacção:
 
 ###### Artigo 21.º — (Eleição para os órgãos de governo próprio)
 
@@ -151,10 +169,10 @@ Se a realização de eleições para os órgãos de Governo próprio da Região 
 
 Aprovado pela Assembleia Regional dos Açores, na Horta, em 17 de Setembro de 1985.
 
-**O Presidente da Assembleia Regional, José Guilherme Reis Leite.**
+O Presidente da Assembleia Regional, José Guilherme Reis Leite.
 
-**Assinado em Angra do Heroísmo em 2 de Outubro de 1985.**
+Assinado em Angra do Heroísmo em 2 de Outubro de 1985.
 
-**Publique-se.**
+Publique-se.
 
-**O Ministro da República para a Região Autónoma dos Açores, Tomás George Conceição Silva.**
+O Ministro da República para a Região Autónoma dos Açores, Tomás George Conceição Silva.

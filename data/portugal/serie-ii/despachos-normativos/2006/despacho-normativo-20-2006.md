@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/2s/2006/12/238000000/2870928709.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,25 +46,35 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/despacho-normativo/20-2006-846672
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2007-10-24T00:00:00Z'
+  retrieved_at: '2026-10-23T15:06:29Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 3a9e30146cef0034bd344c4e1902b457e6220abd44bdbba65a885c272f549fc9
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: d079e71619edaeeaac04768d258c8a860e512c0708848a5af48f58789f4971a5
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:06:29Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Agricultura
+- Apoio ao Investimento
+- Arroz
+- Cereal
+- Financiamento
+- Instituto Nacional de Intervenção e Garantia Agrícola
+- Política Agrícola Comum
+- Regulamento
+- Subsídio
+- Trigo
 relationships:
 - type: amended_by
   target: pt:dre:2324730:por
@@ -78,21 +88,34 @@ relationships:
   target: celex:32004R1973
   label: null
   source: null
+- type: cites
+  target: pt:dre:541853:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:566004:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:2324730:por
+  label: "Revogado a partir de 29.10.2007, pelo DN.37/2007.24.10.2007.MADRP, DR.IIS [205] de 24.10.2007\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/despacho-normativo/37-2007-2324730
+  date: '2007-10-24'
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:06:29Z'
   warnings: []
   errors: []
 ---
 
-# Despacho Normativo n.º 20/2006
+# Despacho normativo n.º 20/2006
 
 O [Despacho Normativo n.º 45/2004](https://diariodarepublica.pt/dr/detalhe/despacho-normativo/45-2004-566004), de 28 de Outubro, estabeleceu as regras nacionais de aplicação previstas no capítulo 2 do Regulamento (CE) n.º 1973/2004, da Comissão, de 29 de Outubro, relativamente aos procedimentos a adoptar para efeitos do estabelecimento da lista de variedades de trigo-duro elegíveis para o prémio específico à qualidade, instituído pelo Regulamento (CE) n.º 1782/2003, do Conselho, de 29 de Setembro.
 

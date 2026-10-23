@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/2s/2015/03/063000000/0784807849.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -46,36 +46,85 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/resolucao/20-2015-66880224
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2015-03-31T00:00:00Z'
+  retrieved_at: '2026-10-23T15:15:34Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 8fa3e98d04f0adc3c436f140c82caa5f02104fc5be4d230e2b41d946d724f3f8
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: c2a49a3036298d721f48ec21374f2c296f33077ec885917de53a26a1cc6afb20
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:15:34Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
-relationships: []
+subjects:
+- Centro Hospitalar do Baixo Vouga
+- Conselho de Administração
+- Nomeação
+- Presidente
+- Vogal
+relationships:
+- type: cites
+  target: pt:dre:191077:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:278890:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:469067:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:498125:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:498720:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:500215:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:520259:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:542993:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:544415:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:553924:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:57701290:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:15:34Z'
   warnings: []
   errors: []
 ---
@@ -137,3 +186,5 @@ Paulo Manuel da Graça Ferreira, nascido a 26/08/1969, em S. Julião da Figueira
 Carlos Jorge Cardoso Simões, nasceu a 16/6/1962 em Ribeiradio - Oliveira de Frades - Viseu. Habilitações Académicas: em dezembro de 1985, concluiu o Curso Geral de Enfermagem; Em dezembro de 1990, atribuída a equivalência ao Grau de Bacharel em Enfermagem; Em julho de 1999, concluiu o C. de Estudos Superiores Especializados em Enfermagem na Comunidade, confere o Título de Especialista e o Grau Académico de Licenciatura; Em junho de 2003, concluiu Curso de Mestrado em Sociopsicologia da Saúde, que lhe confere o Grau Académico de Mestre; Em 12 de julho de 2003, concluiu o C. F. Especializada Supervisão de Estágios Clínicos; Em 2007, iniciou o Doutoramento em Ciências da Saúde na Universidade de Aveiro. Formação na área da gestão: 19.º PADIS - Programa de Alta Direção de Instituições de Saúde, organizado pele AESE, Escola de Direção e Negócios com colaboração científica da Clínica de Navarra.
 
 Experiência profissional: Em janeiro de 1986, iniciou funções no Centro de Saúde de Ílhavo; Em novembro de 1986, iniciou funções como Enfermeiro do Trabalho, na F.P.VA; Em fevereiro de 1987 iniciou funções no H. D. Aveiro; Em setembro de 1987, tomou posse como Enfermeiro de grau I; Em dezembro de 1988, iniciou funções como Enfermeiro, na Fábrica da Renault; Em maio de 1991, tomou posse como Enfermeiro Graduado H. Distrital de Aveiro; Em dezembro de 1991, iniciou funções nos Bombeiros Voluntários Velhos de Aveiro; Em setembro de 1999, iniciou funções, como Formador, no I.E.F.P. - Aveiro; Colabora com Escolas Superiores de Enfermagem na formação e orientação de Alunos; Em março de 2001 tomou posse como Enfermeiro Especialista no H. Infante D. Pedro; Desde 2002 colabora como docente na E. S. de Saúde da Universidade de Aveiro; É formador da Escola nacional de Bombeiros Nacional de Bombeiros; Em novembro de 2007 iniciou funções como Enf. Chefe no Serviço Urgências do HIP; de 19 de setembro de 2008 a 23 de fevereiro de 2012 exerceu funções como Enfermeiro Adjunto da Direção de Enfermagem do Hospital Infante D. Pedro - Aveiro; Desde 24 de fevereiro de 2012, exerce funções como Enfermeiro Diretor do Centro Hospitalar do Baixo Vouga; Tem participado desde 1985, em vários congressos, cursos, seminários, palestras, reuniões científicas, etc., tendo proferido várias comunicações orais. É autor de alguns trabalhos de investigação e publicou alguns artigos científicos.
+
+208532243

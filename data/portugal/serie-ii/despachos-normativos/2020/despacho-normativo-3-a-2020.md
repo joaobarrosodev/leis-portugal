@@ -20,12 +20,12 @@ publication:
   reference: Diário da República n.º 46/2020, 1º Suplemento, Série II de 2020-03-05
   number: '46'
   series: II
-  supplement: 1º Suplemento
+  supplement: null
   pages: 611-(3) a 611-(46)
   pdf_url: https://files.diariodarepublica.pt/2s/2020/03/046000001/0000300046.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -47,25 +47,39 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/despacho-normativo/3-a-2020-129970449
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2023-04-03T00:00:00Z'
+  retrieved_at: '2026-10-23T15:08:39Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 073e5b88f58f35906cef859d49174bba1d1b37bdd6289a55ce5596d52edd2117
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: b26b8c2e199a33a1af067a96bf41ce858c9ebfad19092cca89857a5d07f14fb2
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:08:39Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Avaliação de Conhecimentos
+- Ensino Básico
+- Ensino Cooperativo
+- Ensino no Estrangeiro
+- Ensino Oficial
+- Ensino Particular
+- Ensino Secundário
+- Equivalência de Habilitações Literárias
+- Exame
+- JURI Nacional de Exames
+- Prova de Aferição
+- Prova de Ingresso
+- Prova Geral de Acesso
+- Regulamento
 relationships:
 - type: amended_by
   target: pt:dre:211393783:por
@@ -75,16 +89,128 @@ relationships:
   target: celex:32016R0679
   label: null
   source: null
+- type: cites
+  target: pt:dre:107636120:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:107791610:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:115652961:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:115652962:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:116640900:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:120329893:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:122609690:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:123815982:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:124353902:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:124680588:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:128154291:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:174840:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:178548:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:210801:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:259964:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:490957:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:497860:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:516044:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:544383:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:628859:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:632418:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:64297587:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:66041468:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:73798876:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:74007250:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:159994003:por
+  label: Revogados os n.ºs 2 a 5 do presente diploma pelo(a) Despacho Normativo n.º 10-A/2021 - Diário da República n.º 56/2021,
+    2º Suplemento, Série II de 2021-03-22
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/despacho-normativo/10-a-2021-159994003
+  date: '2021-03-22'
+- type: repealed_by
+  target: pt:dre:211393783:por
+  label: Revogado, a partir de 4 de abril de 2023, pelo(a) Despacho Normativo n.º 4-B/2023 - Diário da República n.º 66/2023,
+    1º Suplemento, Série II de 2023-04-03, nos termos do seu n.º 6
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/despacho-normativo/4-b-2023-211393783
+  date: '2023-04-03'
 article_structure:
-  article_count: 53
+  article_count: 51
   section_count: 9
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:08:39Z'
   warnings: []
   errors: []
 ---
@@ -133,13 +259,17 @@ e) Os restantes elementos das equipas dos agrupamentos do JNE têm dispensa da c
 
 8 - ...
 
-###### Artigo 4.º — [...]
+Artigo 4.º
+
+[...]
 
 1 - É da responsabilidade do JNE coordenar e planificar o processo de realização e classificação das provas de avaliação externa dos ensinos básico e secundário, bem como das provas de equivalência à frequência e das provas e exames a nível de escola de línguas estrangeiras equivalentes a exames nacionais, ao abrigo das disposições legais e regulamentares aplicáveis.
 
 2 - ...
 
-###### Artigo 5.º — [...]
+Artigo 5.º
+
+[...]
 
 1 - Ao JNE compete, designadamente:
 
@@ -1303,86 +1433,88 @@ d) Requerimento para aplicação de adaptações, assinado pelo encarregado de e
 
 QUADRO I
 
-Prazos de inscrição para as provas de equivalência à frequência dos 1.º, 2.º e 3.º ciclos e provas finais do 3.º ciclo do ensino básico - 2020
+Prazos de inscrição para as provas de equivalência à frequência dos 1.º, 2.º e 3.º ciclos e provas finais do 3.º ciclo do ensino básico - 2020
 
-[([ver documento original](https://files.diariodarepublica.pt/2s/2020/03/046000001/0000300046.pdf))](https://files.diariodarepublica.pt/2s/2020/03/046000001/0000300046.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/2s/2020/03/046000001/0000300046.pdf)
 
 QUADRO II
 
-Prazos de inscrição para os exames finais nacionais e provas de equivalência à frequência do ensino secundário - 2020
+Prazos de inscrição para os exames finais nacionais e provas de equivalência à frequência do ensino secundário - 2020
 
-[([ver documento original](https://files.diariodarepublica.pt/2s/2020/03/046000001/0000300046.pdf))](https://files.diariodarepublica.pt/2s/2020/03/046000001/0000300046.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/2s/2020/03/046000001/0000300046.pdf)
 
 QUADRO III
 
-Provas de aferição do ensino básico - 2020
+Provas de aferição do ensino básico - 2020
 
 Tipo de prova e respetiva duração
 
-[([ver documento original](https://files.diariodarepublica.pt/2s/2020/03/046000001/0000300046.pdf))](https://files.diariodarepublica.pt/2s/2020/03/046000001/0000300046.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/2s/2020/03/046000001/0000300046.pdf)
 
 QUADRO IV
 
-Provas finais do ensino básico 2020
+Provas finais do ensino básico  2020
 
 Tipo de prova e respetiva duração
 
-[([ver documento original](https://files.diariodarepublica.pt/2s/2020/03/046000001/0000300046.pdf))](https://files.diariodarepublica.pt/2s/2020/03/046000001/0000300046.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/2s/2020/03/046000001/0000300046.pdf)
 
 QUADRO V
 
-Provas de equivalência à frequência dos 1.º, 2.º e 3.º ciclos - 2020
+Provas de equivalência à frequência dos 1.º, 2.º e 3.º ciclos - 2020
 
-Tabela A - 1.º Ciclo do Ensino Básico
-
-Tipo de prova e respetiva duração
-
-[([ver documento original](https://files.diariodarepublica.pt/2s/2020/03/046000001/0000300046.pdf))](https://files.diariodarepublica.pt/2s/2020/03/046000001/0000300046.pdf)
-
-Tabela B - 2.º Ciclo do Ensino Básico
+Tabela A - 1.º Ciclo do Ensino Básico
 
 Tipo de prova e respetiva duração
 
-[([ver documento original](https://files.diariodarepublica.pt/2s/2020/03/046000001/0000300046.pdf))](https://files.diariodarepublica.pt/2s/2020/03/046000001/0000300046.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/2s/2020/03/046000001/0000300046.pdf)
 
-Tabela C - 3.º Ciclo do Ensino Básico
+Tabela B - 2.º Ciclo do Ensino Básico
+
+Tipo de prova e respetiva duração
+
+[(ver documento original)](https://files.diariodarepublica.pt/2s/2020/03/046000001/0000300046.pdf)
+
+Tabela C - 3.º Ciclo do Ensino Básico
 
 Tipo de provas e respetiva duração
 
-[([ver documento original](https://files.diariodarepublica.pt/2s/2020/03/046000001/0000300046.pdf))](https://files.diariodarepublica.pt/2s/2020/03/046000001/0000300046.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/2s/2020/03/046000001/0000300046.pdf)
 
 QUADRO VI
 
-Exames finais nacionais do ensino secundário - 2020
+Exames finais nacionais do ensino secundário - 2020
 
 Tipo de prova e respetiva duração
 
-[([ver documento original](https://files.diariodarepublica.pt/2s/2020/03/046000001/0000300046.pdf))](https://files.diariodarepublica.pt/2s/2020/03/046000001/0000300046.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/2s/2020/03/046000001/0000300046.pdf)
 
 QUADRO VII
 
-Exames a nível de escola equivalentes a exames nacionais para efeitos de conclusão do ensino secundário - 2020
+Exames a nível de escola equivalentes a exames nacionais para efeitos de conclusão do ensino secundário - 2020
 
-[([ver documento original](https://files.diariodarepublica.pt/2s/2020/03/046000001/0000300046.pdf))](https://files.diariodarepublica.pt/2s/2020/03/046000001/0000300046.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/2s/2020/03/046000001/0000300046.pdf)
 
 QUADRO VIII
 
-Provas de equivalência à frequência dos cursos científico-humanísticos do ensino secundário - 2020
+Provas de equivalência à frequência dos cursos científico-humanísticos do ensino secundário - 2020
 
 Tipo de prova e respetiva duração
 
-[([ver documento original](https://files.diariodarepublica.pt/2s/2020/03/046000001/0000300046.pdf))](https://files.diariodarepublica.pt/2s/2020/03/046000001/0000300046.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/2s/2020/03/046000001/0000300046.pdf)
 
 QUADRO IX
 
-Ponderação das componentes escrita e prática das provas de equivalência à frequência dos cursos científico-humanísticos e dos cursos artísticos especializados do ensino secundário - 2020
+Ponderação das componentes escrita e prática das provas de equivalência à frequência dos cursos científico-humanísticos e dos cursos artísticos especializados do ensino secundário - 2020
 
-[([ver documento original](https://files.diariodarepublica.pt/2s/2020/03/046000001/0000300046.pdf))](https://files.diariodarepublica.pt/2s/2020/03/046000001/0000300046.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/2s/2020/03/046000001/0000300046.pdf)
 
 QUADRO X
 
-Provas de equivalência à frequência dos cursos artísticos especializados 2020
+Provas de equivalência à frequência dos cursos artísticos especializados  2020
 
 Tipo de prova e respetiva duração
 
-[([ver documento original](https://files.diariodarepublica.pt/2s/2020/03/046000001/0000300046.pdf))](https://files.diariodarepublica.pt/2s/2020/03/046000001/0000300046.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/2s/2020/03/046000001/0000300046.pdf)
+
+313090729

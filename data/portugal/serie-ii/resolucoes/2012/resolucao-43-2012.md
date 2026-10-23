@@ -46,36 +46,53 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/resolucao/43-2012-2846677
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2012-11-21T00:00:00Z'
+  retrieved_at: '2026-10-23T15:14:58Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 324ddcc62db023c5ddf2cb8525bc21dc9090b565ac0fa777ddb333eb028c2b30
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: aa2fbaadfecae7ab3dc0d592d1c464c1ac1e66bc5e3c232ae431f8d3994fdd05
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:14:58Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
-relationships: []
+subjects:
+- Acumulação de Empregos
+- Conselho Diretivo
+- Entidade Reguladora da Saúde
+- Nomeação
+- Vogal
+relationships:
+- type: cites
+  target: pt:dre:494213:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:520259:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:544415:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:14:58Z'
   warnings: []
   errors: []
 ---
@@ -115,3 +132,5 @@ Desde 2004, é assistente convidado da Faculdade de Economia do Porto, lecionand
 Autor e coautor de diversas publicações («Cartel: Quando uma conversa é uma conspiração contra o público», em coautoria, Revista da Faculdade de Direito da Universidade do Porto, em publicação; Handbuch der Europäischen Aktiengesellschaft - Societas Europaea, em coautoria, 2005, C. F. Müller Verlag, Heidelberg, pp. 868-884; «As ofertas públicas de aquisição e a sua regulamentação na Europa comunitária», in Prémio Dr. João Lopes Cardoso - Trabalhos Premiados II, 2004, Livraria Almedina, Coimbra; «O Tratado de Nice: um 'Nice Treaty'? Para que Estados membros?», em coautoria, in Temas de Integração, n.os 12 e 13, 2002, Livraria Almedina, Coimbra, pp. 173-198, «Anatomia do alargamento da Europa comunitária aos países de leste e do Mediterrâneo», em coautoria, in Revista da UFP, n.º 5, setembro de 2000, Edições da Universidade Fernando Pessoa, pp. 331-350).
 
 Conferencista em diversas conferências ou palestras sobre concorrência, regulação e direito da saúde e professor convidado para lecionar Sistemas de Saúde (Políticas e Reformas do Sistema de Saúde) na pós-graduação em Gestão e Administração de Serviços de Saúde para Enfermeiros da CESPU e Direito da Concorrência no curso breve de Direito da Concorrência da Faculdade de Direito da Universidade do Porto.
+
+21602012

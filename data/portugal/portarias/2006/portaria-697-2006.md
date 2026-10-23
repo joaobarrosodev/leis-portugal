@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2006/07/13100/48114821.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/697/2006/07/10/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/697-2006-537255
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2011-02-17T00:00:00Z'
+  retrieved_at: '2026-10-23T15:15:43Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 87dac5eabb446369e621fb3a14acf5daff510aeb0f64796760bd446b0c3347f6
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 3ed6c7a829c71a44bca7813433d5f35295d8fba10f98e54535775fe412b2ff18
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:15:43Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,16 +66,16 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Embarcação
-- Pilotagem
-- Instituto Portuário e dos Transportes Marítimos
-- Controlo Aduaneiro
 - Autoridade Portuária
-- Regulamento de Tarifas da Delegação dos Portos do Centro
-- TAXA de Pilotagem
-- Regulamento
+- Controlo Aduaneiro
+- Embarcação
+- Instituto Portuário e dos Transportes Marítimos
+- Pilotagem
 - Portos
+- Regulamento
+- Regulamento de Tarifas da Delegação dos Portos do Centro
 - Taxa
+- TAXA de Pilotagem
 - TAXA de Prestação de Serviços
 relationships:
 - type: amended_by
@@ -86,16 +86,25 @@ relationships:
   target: eli:http://data.dre.pt/eli/dec-lei/273/2000/11/09/p/dre
   label: null
   source: http://data.dre.pt/eli/dec-lei/273/2000/11/09/p/dre
+- type: cites
+  target: pt:dre:621964:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:279847:por
+  label: "Revogada pela PORT.77/2011.17.02.2011.MFAP, DR.IS [34] de 17.02.2011\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/77-2011-279847
+  date: '2011-02-17'
 article_structure:
   article_count: 32
   section_count: 10
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:15:43Z'
   warnings: []
   errors: []
 ---
@@ -114,7 +123,7 @@ Manda o Governo, pelo Ministro das Obras Públicas, Transportes e Comunicações
 
 2.º O presente Regulamento entra em vigor no dia 1 de Agosto de 2006.
 
-**O Ministro das Obras Públicas, Transportes e Comunicações, Mário Lino Soares Correia, em 21 de Junho de 2006.**
+O Ministro das Obras Públicas, Transportes e Comunicações, Mário Lino Soares Correia, em 21 de Junho de 2006.
 
 ## ANEXO — REGULAMENTO DE TARIFAS DA DELEGAÇÃO DOS PORTOS DO CENTRO DO INSTITUTO PORTUÁRIO E DOS TRANSPORTES MARÍTIMOS, I. P.
 
@@ -232,7 +241,7 @@ QT = quantidade de carga em toneladas.
 
 5 - O valor das taxas unitárias máximas (U1) e mínimas (U2), representadas por UT nos navios-tanques, por UC nos navios porta-contentores, por UR nos navios ro-ro e por UZ nas restantes embarcações e navios, é fixado de acordo com o quadro seguinte:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2006/07/13100/48114821.pdf))](https://files.diariodarepublica.pt/1s/2006/07/13100/48114821.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2006/07/13100/48114821.pdf)
 
 6 - Quando, durante a sua permanência em porto, um navio mude de sujeito passivo das taxas aplicáveis, sem interrupção das operações programadas, o valor da TUP correspondente ao movimento total de mercadorias é rateado pelos intervenientes, na proporção da tonelagem movimentada.
 
@@ -240,7 +249,7 @@ QT = quantidade de carga em toneladas.
 
 8 - Quando não forem cumpridos os rendimentos considerados aceitáveis para a realização das operações por motivos não imputáveis à autoridade portuária, esta deve estabelecer o momento em que se esgota o TLP previsto no número anterior, comunicando antecipadamente o facto ao sujeito passivo das taxas, sendo a TUP agravada de acordo com a tabela seguinte, em função do tempo adicional necessário à conclusão das operações:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2006/07/13100/48114821.pdf))](https://files.diariodarepublica.pt/1s/2006/07/13100/48114821.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2006/07/13100/48114821.pdf)
 
 9 - Durante o período em dias resultante da diferença entre TU4 e TU3 é ainda devida, cumulativamente com a TUP agravada, a taxa prevista nos n.os 12 e 13 do presente artigo, consoante a situação aplicável.
 
@@ -262,7 +271,7 @@ TAi = número de períodos indivisíveis de acostagem no período de referência
 
 FAi = factor específico desse período, de acordo com a seguinte tabela:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2006/07/13100/48114821.pdf))](https://files.diariodarepublica.pt/1s/2006/07/13100/48114821.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2006/07/13100/48114821.pdf)
 
 13 - Para efeitos dos n.os 4, 8 e 11 do presente artigo, a parcela da TUP/navio a cobrar às embarcações e navios armados para viagem, quando fundeados, é igual a:
 
@@ -278,11 +287,11 @@ TFi = número de períodos indivisíveis de uso de fundeadouro no período de re
 
 FFi = factor específico desse período, de acordo com a seguinte tabela:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2006/07/13100/48114821.pdf))](https://files.diariodarepublica.pt/1s/2006/07/13100/48114821.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2006/07/13100/48114821.pdf)
 
 14 - Para efeitos dos n.os 4 e 11 do presente artigo, a parcela da TUP/navio a cobrar às embarcações e navios não armados para viagem, quando fundeados, é igual a:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2006/07/13100/48114821.pdf))](https://files.diariodarepublica.pt/1s/2006/07/13100/48114821.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2006/07/13100/48114821.pdf)
 
 15 - Para efeitos dos n.os 4 e 11, a parcela da TUP/navio a cobrar às embarcações ou navios para reparação em cais especializados ou estaleiros será igual a:
 
@@ -308,7 +317,7 @@ TE = tempo total de estacionamento em dias indivisíveis.
 
 17 - Às embarcações de tráfego fluvial ou local do tipo carga, passageiros, pesca ou rebocadores pode ser cobrada TUP/navio em avença, por períodos indivisíveis de tempo TVi, em dias, cujo valor será igual a:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2006/07/13100/48114821.pdf))](https://files.diariodarepublica.pt/1s/2006/07/13100/48114821.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2006/07/13100/48114821.pdf)
 
 18 - Às embarcações de recreio e às afectas a actividades marítimo-turísticas pode ser cobrada TUP/navio em avença, por períodos indivisíveis de tempo TVi, em dias, cujo valor deve ser igual a:
 
@@ -326,7 +335,7 @@ FVi = factor específico do período de avençamento, de acordo com o n.º 19 de
 
 19 - A tabela de períodos de avençamento e de factores específicos, para efeitos dos números anteriores, é a seguinte:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2006/07/13100/48114821.pdf))](https://files.diariodarepublica.pt/1s/2006/07/13100/48114821.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2006/07/13100/48114821.pdf)
 
 20 - As embarcações a que se referem os n.os 17 e 18, quando fundeadas ou acostadas em locais que lhes sejam especificamente destinados, ficam sujeitas às normas e tarifas específicas desses locais, caso as mesmas se encontrem fixadas.
 
@@ -368,7 +377,7 @@ iii) REF18 = 7,5%, se o navio tiver feito 18 ou mais escalas.
 
 Nos casos em que se aplique a TUP/carga, as cargas que utilizem o porto estão sujeitas às taxas unitárias seguintes, fixadas por categorias de carga de acordo com a classificação NST/R:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2006/07/13100/48114821.pdf))](https://files.diariodarepublica.pt/1s/2006/07/13100/48114821.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2006/07/13100/48114821.pdf)
 
 ### CAPÍTULO III — Pilotagem
 
@@ -376,11 +385,11 @@ Nos casos em que se aplique a TUP/carga, as cargas que utilizem o porto estão s
 
 1 - A tarifa de pilotagem (PJ) inclui seis pacotes (J) e é calculada por manobra pela fórmula:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2006/07/13100/48114821.pdf))](https://files.diariodarepublica.pt/1s/2006/07/13100/48114821.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2006/07/13100/48114821.pdf)
 
 2 - Para cada serviço de pilotagem é estabelecido o tempo máximo de duração previsível, em condições normais de tempo e mar, que a seguir se indica:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2006/07/13100/48114821.pdf))](https://files.diariodarepublica.pt/1s/2006/07/13100/48114821.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2006/07/13100/48114821.pdf)
 
 ###### Artigo 13.º — Reduções
 
@@ -434,7 +443,7 @@ c) Se o navio pilotado manobrar só com recurso à força de tracção de reboca
 
 1 - A tarifa de reboque (RJi) é estabelecida por classes de GT dos navios, sendo as respectivas taxas fixadas por operação e por rebocador, de acordo com a tabela seguinte:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2006/07/13100/48114821.pdf))](https://files.diariodarepublica.pt/1s/2006/07/13100/48114821.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2006/07/13100/48114821.pdf)
 
 2 - As taxas aplicáveis beneficiam da redução RRA = 25% caso os rebocadores se atrasem mais de Tasr = 30 m. em relação à hora para que o serviço foi requisitado e confirmado pelos respectivos serviços de autoridade portuária.
 
@@ -458,7 +467,7 @@ c) Se o navio pilotado manobrar só com recurso à força de tracção de reboca
 
 1 - A tarifa de amarração, desamarração e correr ao longo do cais é estabelecida por classe de GT do navio, sendo as respectivas taxas fixadas por operação, de acordo com a seguinte tabela, considerando a taxa de referência A0 = (euro) 24,2000:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2006/07/13100/48114821.pdf))](https://files.diariodarepublica.pt/1s/2006/07/13100/48114821.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2006/07/13100/48114821.pdf)
 
 2 - As taxas aplicáveis beneficiarão da redução RAA = 25%, caso as equipas de amarração e desamarração se atrasem mais de Tasa = 30 m. em relação à hora para que o serviço foi requisitado e confirmado pelos respectivos serviços de autoridade portuária.
 
@@ -502,11 +511,11 @@ c) Se o navio pilotado manobrar só com recurso à força de tracção de reboca
 
 1 - Pela armazenagem de cargas a descoberto ou a coberto, em terraplenos ou armazéns, excepto contentores, unidades ro-ro e as cargas previstas no artigo seguinte, são devidas, por cada fracção indivisível de 10 m2 e por dia indivisível, as seguintes taxas:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2006/07/13100/48114821.pdf))](https://files.diariodarepublica.pt/1s/2006/07/13100/48114821.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2006/07/13100/48114821.pdf)
 
 2 - Pela armazenagem de contentores e unidades ro-ro em terraplenos e terminais são devidas, por unidade e dia indivisível, as taxas seguintes:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2006/07/13100/48114821.pdf))](https://files.diariodarepublica.pt/1s/2006/07/13100/48114821.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2006/07/13100/48114821.pdf)
 
 3 - Pela armazenagem de contentores e unidades ro-ro em áreas cobertas nos terraplenos (telheiros ou abrigos) são devidas taxas duplas das estabelecidas no n.º 2 sem qualquer isenção, considerando-se o primeiro período de tarifação extensivo aos dias de isenção previstos para a armazenagem a descoberto.
 
@@ -532,7 +541,7 @@ c) Se o navio pilotado manobrar só com recurso à força de tracção de reboca
 
 1 - Pelo uso de equipamentos de combate à poluição, a incêndios e de conservação do ambiente são devidas, por unidade e por período de tempo indivisível, segundo o tipo, as taxas constantes da tabela seguinte:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2006/07/13100/48114821.pdf))](https://files.diariodarepublica.pt/1s/2006/07/13100/48114821.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2006/07/13100/48114821.pdf)
 
 2 - As taxas estabelecidas no número anterior não contemplam o fornecimento do pessoal e meios necessários à colocação do equipamento em serviço e à sua operação e levantamento nem os custos referentes à limpeza do material após utilização, os quais são debitados de acordo com as tarifas de uso de equipamento e de fornecimento de pessoal ou pelo valor facturado por prestador de serviços acrescido de 20%.
 
@@ -542,7 +551,7 @@ c) Se o navio pilotado manobrar só com recurso à força de tracção de reboca
 
 1 - Pelo uso de equipamentos de manobra e transporte marítimo são devidas, por unidade e por período de tempo indivisível, segundo o tipo, as taxas constantes da tabela seguinte:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2006/07/13100/48114821.pdf))](https://files.diariodarepublica.pt/1s/2006/07/13100/48114821.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2006/07/13100/48114821.pdf)
 
 2 - Para efeitos de aplicação das taxas referidas no presente artigo, a contagem de tempo faz-se de acordo com as seguintes regras:
 
@@ -564,7 +573,7 @@ b) Tcem = 4 h., em caso de desistência.
 
 1 - Pelo uso de equipamentos de manobra e transporte terrestre são devidas, por unidade e por período de tempo indivisível, segundo o tipo, as taxas constantes da tabela seguinte:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2006/07/13100/48114821.pdf))](https://files.diariodarepublica.pt/1s/2006/07/13100/48114821.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2006/07/13100/48114821.pdf)
 
 2 - O equipamento requisitado e não utilizado é considerado à ordem até ao cancelamento do pedido ou ao início da respectiva utilização, sendo nestes casos as taxas aplicáveis sujeitas à redução ROT = 40%.
 
@@ -592,13 +601,13 @@ i) Desembarque do contentor do navio directamente para o cais ou veículo de tra
 
 ii) Carga do cais para o veículo de transporte.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2006/07/13100/48114821.pdf))](https://files.diariodarepublica.pt/1s/2006/07/13100/48114821.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2006/07/13100/48114821.pdf)
 
 3 - Aos contentores desembarcados para posterior embarque para outros portos (baldeação) e que durante a estadia não saiam do porto nem tenham manipulação da sua carga é aplicada uma taxa correspondente à soma das taxas devidas pelo desembarque e pelo embarque desses contentores, com a redução REH3 = 20%.
 
 4 - Sempre que a movimentação vertical ou horizontal de contentores implique a execução de operações não englobadas nos pacotes definidos no número anterior são devidas taxas aplicáveis de acordo com a seguinte tabela, por unidade movimentada, considerando a taxa de referência EH estabelecida no n.º 2:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2006/07/13100/48114821.pdf))](https://files.diariodarepublica.pt/1s/2006/07/13100/48114821.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2006/07/13100/48114821.pdf)
 
 5 - Pode, por motivos justificados, a autoridade portuária autorizar a descarga ou carga de contentores com meios de bordo dos navios ou outros externos ao porto, sendo nestes casos praticada a redução REH1 de 85% sobre as taxas estabelecidas nos n.os 2 e 4 do presente artigo.
 
@@ -634,7 +643,7 @@ A tarifa de fornecimentos é devida pelo fornecimento de recursos humanos e de b
 
 Pelo fornecimento de pessoal, incluindo a sua deslocação da base ao local da prestação de serviço, a prestação do mesmo e o regresso à base são devidas as seguintes taxas, expressas em euros por homem e por hora, segundo a qualificação profissional:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2006/07/13100/48114821.pdf))](https://files.diariodarepublica.pt/1s/2006/07/13100/48114821.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2006/07/13100/48114821.pdf)
 
 ###### Artigo 30.º — Fornecimento de energia eléctrica e água
 

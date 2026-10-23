@@ -46,49 +46,69 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/despacho-normativo/13-2006-1461207
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2009-08-25T00:00:00Z'
+  retrieved_at: '2026-10-23T15:06:28Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 6a7c100cbece2ee0138c82b2826c48ab45e230dfb7f5d4ffcf2ec42b53020362
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 8e0ddf4b01f571da844907e58e7723f34e3e9674f969d7b038fd18be829c6f15
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:06:28Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Açores
+- Ajuda Comunitária
+- Apicultura
+- Comércio
+- Comissão de Acompanhamento
+- Produção
+- Produto em Madeira
+- Programa Apicola Nacional
+- Região Autónoma
 relationships:
 - type: amended_by
   target: pt:dre:1503930:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:1503930:por
+  label: "Fixado em 30.09.2009, o termo final do prazo para a execução financeira e material dos projectos apoiados ao abrigo\
+    \ das diversas medidas do Subprograma n.º 1 regulado pelo DN 8-A/2004, de 18-Fev, cuja aprovação ocorreu no âmbito da\
+    \ fase aberta pelo presente diploma, pelo DN.29/2009.25.08.2009.SETU-MEI, DR.IIS [164] de 25.08.2009\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/despacho-normativo/29-2009-1503930
+  date: '2009-08-25'
 - type: cites
   target: celex:32004R0797
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:534992:por
   label: null
   source: null
 article_structure:
   article_count: 3
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:06:28Z'
   warnings: []
   errors: []
 ---
 
-# Despacho Normativo n.º 13/2006
+# Despacho normativo n.º 13/2006
 
 O [Despacho Normativo n.º 30/2005](https://diariodarepublica.pt/dr/detalhe/despacho-normativo/30-2005-534992), de 6 de Maio, estabeleceu as regras complementares de aplicação do Programa Apícola Nacional para o triénio de 2005-2007, aprovado pela Decisão da Comissão C (2004) 3181, de 25 de Agosto.
 

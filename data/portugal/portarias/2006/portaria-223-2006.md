@@ -48,18 +48,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/223/2006/03/08/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/223-2006-687036
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2010-12-15T00:00:00Z'
+  retrieved_at: '2026-10-23T15:12:46Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 23249bc55c5e36b4f1a896370d8f4c67573cf6df3da3ccbea4fa04782b87a927
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 193a80a953c88b778b664f1612b3e4dc5630b991eb1947f76dc2e1bea8b8554a
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:12:46Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -75,6 +75,18 @@ relationships:
   target: pt:dre:306953:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:603556:por
+  label: "Alterado o nº 1º do presente diploma, que renova a concessão da zona de caça atribuída pela Port 148/2000, de 14-Mar,\
+    \ pela PORT.366/2009.07.04.2009.MADRP, DR.IS [68] de 07.04.2009\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/366-2009-603556
+  date: '2009-04-07'
+- type: amended_by
+  target: pt:dre:306953:por
+  label: "Anexado um prédio rústico à zona de caça criada pela Port 148/2000, de 14-Mar, renovada pela presente portaria,\
+    \ pela PORT.1254/2010.15.12.2010.MADRP, DR.IS [241] de 15.12.2010\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/1254-2010-306953
+  date: '2010-12-15'
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/201/2005/11/24/p/dre
   label: null
@@ -91,16 +103,32 @@ relationships:
   target: eli:http://data.dre.pt/eli/port/148/2000/03/14/p/dre
   label: null
   source: http://data.dre.pt/eli/port/148/2000/03/14/p/dre
+- type: cites
+  target: pt:dre:284322:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:411853:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:480704:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:481498:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:12:46Z'
   warnings: []
   errors: []
 ---

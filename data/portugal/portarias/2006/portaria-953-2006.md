@@ -48,18 +48,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/953/2006/09/12/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/953-2006-540024
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2009-06-05T00:00:00Z'
+  retrieved_at: '2026-10-23T15:17:16Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 23fa97655b28efb4977e6ea2e05c4ce385319e2ada8e2d85be6821bdf26d7c3d
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 3ace13840294e23b4baf37e9dde5b4784cb3360ff7266b9429308933b3fe52db
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:17:16Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,16 +67,16 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Financiamento
-- Silvicultura
-- Arborização
-- Projeto de Investimento
-- Exploração Florestal
-- Regulamento de Aplicação das Acções 3.1 e 3.2-apoio à Silvicultura e Restabelecimento do Potencial de Produção Silvícola
-- Rede Nacional de Áreas Protegidas
-- Programa AGRO
 - Agricultura
+- Arborização
+- Exploração Florestal
+- Financiamento
 - Política Florestal
+- Programa AGRO
+- Projeto de Investimento
+- Rede Nacional de Áreas Protegidas
+- Regulamento de Aplicação das Acções 3.1 e 3.2-apoio à Silvicultura e Restabelecimento do Potencial de Produção Silvícola
+- Silvicultura
 relationships:
 - type: amended_by
   target: pt:dre:592170:por
@@ -98,16 +98,32 @@ relationships:
   target: eli:http://data.dre.pt/eli/port/456/2006/05/16/p/dre
   label: null
   source: http://data.dre.pt/eli/port/456/2006/05/16/p/dre
+- type: cites
+  target: pt:dre:220892:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:358491:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:531186:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:631650:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:17:16Z'
   warnings: []
   errors: []
 ---
@@ -168,4 +184,4 @@ Nota. - ...
 
 4.º O presente diploma entra em vigor no dia seguinte ao da publicação.
 
-**O Ministro da Agricultura, do Desenvolvimento Rural e das Pescas, Jaime de Jesus Lopes Silva, em 21 de Agosto de 2006.**
+O Ministro da Agricultura, do Desenvolvimento Rural e das Pescas, Jaime de Jesus Lopes Silva, em 21 de Agosto de 2006.

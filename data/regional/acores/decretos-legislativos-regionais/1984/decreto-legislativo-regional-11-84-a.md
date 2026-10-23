@@ -47,36 +47,44 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/11-1984-660525
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1984-02-08T00:00:00Z'
+  retrieved_at: '2026-10-23T15:17:00Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: eacbd201f9949d0349f7b0443cd807d58c411cc7404af8836c8d4ecf3c33c74b
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: cbb876258e90d8633baf29a86813ec4676c722423641e750b13cb88e503d37a5
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:17:00Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
-relationships: []
+subjects:
+- Açores
+- Câmara Municipal
+- Gratificação
+- Tesouraria da Fazenda Pública
+relationships:
+- type: cites
+  target: pt:dre:157034:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:17:00Z'
   warnings: []
   errors: []
 ---
@@ -99,14 +107,14 @@ Considerando, finalmente, que a gratificação reveste a mesma natureza das remu
 
 A Assembleia Regional dos Açores decreta, nos termos da alínea a) do artigo 229.º da Constituição, o seguinte:
 
-###### Artigo 1.º As câmaras municipais da Região Autónoma dos Açores cujos serviços de tesouraria são assegurados pelas tesourarias da Fazenda Pública abonarão uma gratificação mensal igual a 30% do valor correspondente à letra de vencimento do tesoureiro de um município da mesma categoria, a qual será distribuída mensalmente pelo pessoal da respectiva tesouraria na proporção do vencimento base a que nesse período cada um tiver direito.
+Artigo 1.º As câmaras municipais da Região Autónoma dos Açores cujos serviços de tesouraria são assegurados pelas tesourarias da Fazenda Pública abonarão uma gratificação mensal igual a 30% do valor correspondente à letra de vencimento do tesoureiro de um município da mesma categoria, a qual será distribuída mensalmente pelo pessoal da respectiva tesouraria na proporção do vencimento base a que nesse período cada um tiver direito.
 
-###### Art. 2.º O presente diploma entra em vigor no dia 1 do mês seguinte ao da sua publicação.
+Art. 2.º O presente diploma entra em vigor no dia 1 do mês seguinte ao da sua publicação.
 
 Aprovado pela Assembleia Regional dos Açores em 7 de Dezembro de 1983.
 
-**O Presidente da Assembleia Regional dos Açores, Álvaro Monjardino.**
+O Presidente da Assembleia Regional dos Açores, Álvaro Monjardino.
 
-**Assinado em Angra do Heroísmo em 20 de Janeiro de 1984.**
+Assinado em Angra do Heroísmo em 20 de Janeiro de 1984.
 
-**O Ministro da República para a Região Autónoma dos Açores, Tomás George Conceição Silva.**
+O Ministro da República para a Região Autónoma dos Açores, Tomás George Conceição Silva.

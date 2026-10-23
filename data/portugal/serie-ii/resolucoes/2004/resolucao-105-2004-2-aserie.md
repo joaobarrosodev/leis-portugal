@@ -1,7 +1,7 @@
 ---
 schema_version: '1.0'
 id: pt:dre:1063132:por
-title: Resolução n.º 105/2004(2.ªsérie)
+title: Resolução n.º 105/2004 (2.ª série)
 short_title: null
 summary: null
 jurisdiction: portugal
@@ -46,45 +46,77 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/resolucao/105-2004-1063132
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2005-05-12T00:00:00Z'
+  retrieved_at: '2026-10-23T15:12:06Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 4e5094506465d2527cd6bacf4149bb7e0a5ffdd3d8d03a7c5b8c35b1722e68cc
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 8245a03f23086df5a6ec110c920ad02149259995b9c97d5912e75f27364dca78
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:12:06Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Conselho Diretivo
+- Exoneração
+- IAPMEI
+- ICEP
+- Nomeação
+- Presidente
+- Vogal
 relationships:
 - type: amended_by
   target: pt:dre:2354681:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:2354681:por
+  label: "Exonerados pela RES.28/2005(2ªSérie).12.05.2005.PCM, DR.IIS [108] de 06.06.2005\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/resolucao/28-2005-2354681
+  date: '2005-05-12'
+- type: cites
+  target: pt:dre:217518:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:354114:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:361880:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:532862:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:551625:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:12:06Z'
   warnings: []
   errors: []
 ---
 
-# Resolução n.º 105/2004(2.ªsérie)
+# Resolução n.º 105/2004 (2.ª série)
 
 Resolução n.º 105/2004 (2.ª série). - O ICEP-Portugal (ICEP) e o Instituto de Apoio às Pequenas e Médias Empresas e ao Investimento (IAPMEI) são, ambos, institutos, sob a tutela do Ministro de Estado, das Actividades Económicas e do Trabalho, com actividade decisiva na área da dinamização da economia.
 

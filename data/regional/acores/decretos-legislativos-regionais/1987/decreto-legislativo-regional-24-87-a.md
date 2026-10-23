@@ -47,40 +47,54 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/24-1987-498743
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2012-03-01T00:00:00Z'
+  retrieved_at: '2026-10-23T15:17:35Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: e5de6db1df6bd4d446b3dc301a199480245af326b3cf2e770f136c2d3b2523c3
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 0e37f646bdc21469f628a4c611aabfb0ab73b5912b81a482e9ca8dffe372b9f8
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:17:35Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Açores
+- Agro-turismo
+- Turismo
+- Turismo de Habitação
+- Turismo Rural
 relationships:
 - type: amended_by
   target: pt:dre:542440:por
   label: Última alteração registada na importação inicial
   source: null
+- type: cites
+  target: pt:dre:219132:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:542440:por
+  label: "Revogado, nos termos do art. 72º, pelo DLR.7/2012/A.01.03.2012.AL-RAA, DR.IS [44] de 01.03.2012\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-legislativo-regional/7-2012-542440
+  date: '2012-03-01'
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:17:35Z'
   warnings: []
   errors: []
 ---
@@ -95,24 +109,24 @@ Uma vez que o quadro legal estabelecido se afigura adequado, é objectivo do pre
 
 Assim, a Assembleia Regional dos Açores decreta, nos termos da alínea b) do artigo 229.º da Constituição, o seguinte:
 
-###### Artigo 1.º É aplicável à Região Autónoma dos Açores o regime estabelecido para o turismo de habitação, turismo rural e agro-turismo pelo [Decreto-Lei n.º 256/86](https://diariodarepublica.pt/dr/detalhe/decreto-lei/256-1986-219132), de 27 de Agosto.
+Artigo 1.º É aplicável à Região Autónoma dos Açores o regime estabelecido para o turismo de habitação, turismo rural e agro-turismo pelo [Decreto-Lei n.º 256/86](https://diariodarepublica.pt/dr/detalhe/decreto-lei/256-1986-219132), de 27 de Agosto.
 
-###### Art. 2.º A Direcção Regional de Turismo é o organismo competente para organizar e manter actualizado na Região o registo das propriedades privadas afectas à prática do turismo de habitação, turismo rural e agro-turismo, praticando todos os actos previstos na lei a ele necessários.
+Art. 2.º A Direcção Regional de Turismo é o organismo competente para organizar e manter actualizado na Região o registo das propriedades privadas afectas à prática do turismo de habitação, turismo rural e agro-turismo, praticando todos os actos previstos na lei a ele necessários.
 
-###### Art. 3.º A Direcção Regional de Turismo solicitará parecer, sobre os processos que na matéria lhe forem presentes, ao órgão local de turismo da área onde se situem os prédios afectos à prática das modalidades de turismo previstas no presente diploma.
+Art. 3.º A Direcção Regional de Turismo solicitará parecer, sobre os processos que na matéria lhe forem presentes, ao órgão local de turismo da área onde se situem os prédios afectos à prática das modalidades de turismo previstas no presente diploma.
 
-###### Art. 4.º Os investimentos necessários às obras e melhoramentos de propriedades consideradas pela Direcção Regional de Turismo aptas para inscrição em turismo de habitação, turismo rural ou agro-turismo, bem como os relativos à conservação das casas inscritas, poderão ser abrangidos pelo sistema de incentivos existente na Região para empreendimentos turísticos.
+Art. 4.º Os investimentos necessários às obras e melhoramentos de propriedades consideradas pela Direcção Regional de Turismo aptas para inscrição em turismo de habitação, turismo rural ou agro-turismo, bem como os relativos à conservação das casas inscritas, poderão ser abrangidos pelo sistema de incentivos existente na Região para empreendimentos turísticos.
 
-###### Art. 5.º O licenciamento e fiscalização das unidades afectas ao exercício das actividades turísticas que se contemplam no presente diploma cabe exclusivamente à Direcção Regional de Turismo, que dará conhecimento à câmara municipal das unidades autorizadas.
+Art. 5.º O licenciamento e fiscalização das unidades afectas ao exercício das actividades turísticas que se contemplam no presente diploma cabe exclusivamente à Direcção Regional de Turismo, que dará conhecimento à câmara municipal das unidades autorizadas.
 
-###### Art. 6.º As famílias envolvidas nas formas de turismo previstas neste diploma proporcionarão aos visitantes o ambiente de cordialidade e respeito que é típico do povo açoriano.
+Art. 6.º As famílias envolvidas nas formas de turismo previstas neste diploma proporcionarão aos visitantes o ambiente de cordialidade e respeito que é típico do povo açoriano.
 
 Aprovado pela Assembleia Regional dos Açores, na Horta, em 30 de Setembro de 1987.
 
-**O Presidente da Assembleia Regional, José Guilherme Reis Leite.**
+O Presidente da Assembleia Regional, José Guilherme Reis Leite.
 
-**Assinado em Angra do Heroísmo em 19 de Novembro de 1987.**
+Assinado em Angra do Heroísmo em 19 de Novembro de 1987.
 
-**Publique-se.**
+Publique-se.
 
-**O Ministro da República para a Região Autónoma dos Açores, Vasco Joaquim do Rocha Vieira.**
+O Ministro da República para a Região Autónoma dos Açores, Vasco Joaquim do Rocha Vieira.

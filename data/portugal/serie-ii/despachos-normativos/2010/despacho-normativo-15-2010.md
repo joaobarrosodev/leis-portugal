@@ -46,45 +46,70 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/despacho-normativo/15-2010-2502964
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2012-06-27T00:00:00Z'
+  retrieved_at: '2026-10-23T15:07:23Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: e2b9b6afb81160f7ebb2a3e5947e61ceb5f249b6fe707fb1a76ab330a4bef748
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 464b1d3bd6f4970b1439732e53e270c2484c4d7b9892cbea08c3cef73d8786be
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:07:23Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Apoio ao Investimento
+- Dotação Orçamental
+- Plano Estratégico Nacional de Turismo
+- Programa de Intervenção do Turismo
+- Projeto de Investimento
+- Regulamento
+- Turismo
 relationships:
 - type: amended_by
   target: pt:dre:3286468:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:3286468:por
+  label: "Determinada a extinção da linha de apoio II Eventos para a Projecção do Destino Portugal do Programa de Intervenção\
+    \ Turística, aprovada pelo DN 20/2007, de 7-mai, na redação do presente despacho normativo, pelo DN.14/2012.27.06.2012.SET-MEE,\
+    \ DR.IIS [123] de 27.06.2012, que revoga todas as disposições correspondentes.\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/despacho-normativo/14-2012-3286468
+  date: '2012-06-27'
+- type: cites
+  target: pt:dre:520987:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:3550269:por
+  label: "Revogado, a partir de 20.04.2012 e na parte referente à linha de apoio iii do Programa de Intervenção do Turismo\
+    \ (PIT) - Criação e Requalificação de Centros de Congressos, pelo DN.11/2012.02.05.2012.SET-MEE, DR.IIS [85] de 02.05.2012\0\
+    \0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/despacho-normativo/11-2012-3550269
+  date: '2012-05-02'
 article_structure:
   article_count: 19
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:07:23Z'
   warnings: []
   errors: []
 ---
 
-# Despacho Normativo n.º 15/2010
+# Despacho normativo n.º 15/2010
 
 O Programa de Intervenção do Turismo (PIT) foi criado através do despacho normativo n.º 20/2007, de 7 de Maio, publicado no Diário da República, 2.ª série, n.º 92, de 14 de Maio de 2007, o qual foi objecto de alterações pelo despacho normativo n.º 9/2008, de 28 de Dezembro, publicado no Diário da República, 2.ª série, n.º 31, de 13 de Fevereiro de 2008, pelo despacho normativo n.º 49/2008, de 24 de Setembro, publicado no Diário da República, 2.ª série, n.º 185, de 24 de Setembro de 2008, e pelo despacho normativo n.º 30/2009, de 18 de Agosto, publicado no Diário da República, 2.ª série, n.º 164, de 25 de Agosto de 2009.
 
@@ -371,3 +396,5 @@ a) A verificação financeira do projecto tem por base a declaração de despesa
 b) A verificação física do projecto tem por base a realização de visitas técnicas e vistorias.
 
 2 - Sem prejuízo do disposto na alínea a) do número anterior, o Turismo de Portugal, I. P., pode solicitar ao promotor, sempre que o entenda necessário, o envio dos documentos justificativos do pagamento das despesas realizadas.
+
+203366347

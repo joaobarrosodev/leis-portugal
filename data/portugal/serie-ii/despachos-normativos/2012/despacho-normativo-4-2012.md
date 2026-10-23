@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/2s/2012/04/066000000/1188311889.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,30 +46,46 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/despacho-normativo/4-2012-2235067
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2015-02-27T00:00:00Z'
+  retrieved_at: '2026-10-23T15:07:44Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: e0a81df331e3ad08bb96e319964e67911bc7657eed5cd8e4300b2165456b3107
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 0ed95ab3a9776082994fcd24f1aa9cdba4b0b903802216b1616cddf9b105034f
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:07:44Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Agricultor
+- Agricultura
+- Controlo Sanitário
+- Exploração Agrícola
+- Financiamento
+- Fiscalização
+- Proteção do Ambiente
+- Proteção Fitossanitária
+- Regulamento CE
+- Saúde Pública
 relationships:
 - type: amended_by
   target: pt:dre:66619896:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:3661173:por
+  label: "Alterados o art. 2.º e os anexos I e II do DN 7/2005 de 01-fev, na redação do presente despacho normativo, pelo\
+    \ DN.2/2014.29.01.2014.SEAG-MAGM, DR.IIS [20] de 29.01.2014\014\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/despacho-normativo/2-2014-3661173
+  date: '2014-01-29'
 - type: cites
   target: celex:32003R1782
   label: null
@@ -94,21 +110,83 @@ relationships:
   target: celex:32009R1122
   label: null
   source: null
+- type: cites
+  target: pt:dre:1124172:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:1151622:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:226977:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:2294370:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:230365:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:332749:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:3337344:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:340237:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:358491:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:397360:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:469068:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:620106:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:626229:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:629400:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:66619896:por
+  label: Revogado, a partir de 28.02.2015, o DN 7/2005 de 01-fev, alterado pelo presente diploma, pelo(a) Portaria n.º 57/2015
+    - Diário da República n.º 41/2015, Série I de 2015-02-27
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/57-2015-66619896
+  date: '2015-02-27'
 article_structure:
-  article_count: 10
+  article_count: 9
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:07:44Z'
   warnings: []
   errors: []
 ---
 
-# Despacho Normativo n.º 4/2012
+# Despacho normativo n.º 4/2012
 
 O Regulamento (CE) n.º 73/2009, do Conselho, de 19 de janeiro, que estabelece as regras comuns para os regimes de apoio direto aos agricultores no âmbito da política agrícola comum, reforçou o quadro relativo às boas condições agrícolas e ambientais com a introdução de norma obrigatória relativa ao estabelecimento de faixas de proteção ao longo de cursos de água, a fim de proteger este recurso contra a poluição e as escorrências, permitindo ainda aos Estados-Membros definir, a nível nacional, os requisitos mínimos aplicáveis a partir de 2012.
 
@@ -176,11 +254,13 @@ bb)...
 
 cc)...
 
-###### Artigo 4.º
+Artigo 4.º
 
 A superfície agrícola e a superfície com culturas sob coberto de espaço arborizado nas quais sejam instaladas culturas temporárias, devem evidenciar ter sido objeto das operações culturais adequadas à instalação da cultura, segundo as normas locais.
 
-## ANEXO I — [...]
+ANEXO I
+
+[...]
 
 1 - ...
 
@@ -258,7 +338,9 @@ As superfícies ocupadas com várias espécies de árvores em que nenhuma delas 
 
 4.4.2 - Outras Superfícies: Incluem-se as superfícies que não estão contempladas nos níveis anteriores, nomeadamente as culturas permanentes ou as culturas protegidas que não apresentam condições para a colheita e em que a superfície se encontra ocupada maioritariamente por formações lenhosas espontâneas, mais de 50 % da superfície da parcela, com altura superior a 50 cm.
 
-## ANEXO II — [...]
+ANEXO II
+
+[...]
 
 1 - ...
 
@@ -618,7 +700,7 @@ e) O disposto na alínea c) não é aplicável às parcelas com culturas forrage
 
 a) As parcelas com culturas forrageiras e com pastagem permanente em superfície agrícola, em culturas sob coberto de espaço arborizado ou em povoamento de sobreiros destinados à produção de cortiça, integradas em exploração agrícola com um encabeçamento pecuário igual ou superior a 0,15 CN/ha, de acordo com a seguinte tabela de conversão:
 
-[([ver documento original](https://files.diariodarepublica.pt/2s/2012/04/066000000/1188311889.pdf))](https://files.diariodarepublica.pt/2s/2012/04/066000000/1188311889.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/2s/2012/04/066000000/1188311889.pdf)
 
 b) As parcelas inseridas em baldios;
 
@@ -707,3 +789,5 @@ c) Nas parcelas com IQFP igual a 1, o controlo da vegetação só pode ser reali
 d) Nas parcelas com IQFP igual ou superior a 2, o controlo da vegetação só pode ser realizado com moto roçadora ou corta-matos.
 
 35 - «Faixa de proteção nas parcelas adjacentes a massas de água» - A aplicação de fertilizantes nas parcelas de superfície agrícola e de superfície agroflorestal, com exceção das parcelas de espaço agroflorestal não arborizado com aproveitamento forrageiro e de culturas sob coberto de povoamento misto, adjacentes a rios e águas de transição, definidos como massas de água superficiais no âmbito da [Lei n.º 58/2005](https://diariodarepublica.pt/dr/detalhe/lei/58-2005-469068), de 29 de dezembro (Lei da Água), albufeiras de águas públicas de serviço público e lagoas ou lagos de águas públicas, deve cumprir o disposto nas alíneas a) a d) do artigo 6.º da Portaria n.º 83/2010, de 10 de fevereiro.
+
+205922715

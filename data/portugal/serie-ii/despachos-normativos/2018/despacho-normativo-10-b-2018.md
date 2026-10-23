@@ -20,12 +20,12 @@ publication:
   reference: Diário da República n.º 129/2018, 1º Suplemento, Série II de 2018-07-06
   number: '129'
   series: II
-  supplement: 1º Suplemento
+  supplement: null
   pages: 18770-(2) a 18770-(7)
   pdf_url: https://files.diariodarepublica.pt/2s/2018/07/129000001/0000200007.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -47,40 +47,164 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/despacho-normativo/10-b-2018-115652972
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2026-02-26T00:00:00Z'
+  retrieved_at: '2026-10-23T15:08:24Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: d5844297aa4a4cc91e1453c8b687315f8e3dd3644a2008c98a243c03cb8b0b4c
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: f4da8898efa7339c938479f10785bf960b4ad3a8c749702b934a54f4ae63a2a2
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:08:24Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Definição de Competências
+- Educação Pré-escolar
+- Ensino Artístico
+- Ensino Básico
+- Ensino Oficial
+- Ensino Profissional
+- Ensino Secundário
+- Escolaridade Obrigatória
+- Estabelecimento de Ensino
+- Estudante
+- Gestão Escolar
+- Horário de Trabalho
+- Horário Escolar
+- Orgânica
+- Pessoal Dirigente
+- Pessoal Docente
+- Sistema de Ensino
 relationships:
 - type: amended_by
   target: pt:dre:1060895765:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:138461849:por
+  label: Mantidas em vigor as regras de organização do ano letivo nos estabelecimentos públicos de educação pré-escolar e
+    dos ensinos básico e secundário, previstas no presente diploma pelo(a) Resolução do Conselho de Ministros n.º 53-D/2020
+    - Diário da República n.º 139/2020, 2º Suplemento, Série I de 2020-07-20
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/resolucao-conselho-ministros/53-d-2020-138461849
+  date: '2020-07-20'
+- type: amended_by
+  target: pt:dre:166569087:por
+  label: Determinada a manutenção em vigor das regras de organização do ano letivo nos estabelecimentos públicos de educação
+    pré-escolar e dos ensinos básico e secundário previstas no presente diploma pelo(a) Resolução do Conselho de Ministros
+    n.º 90/2021 - Diário da República n.º 130/2021, Série I de 2021-07-07, nos termos do n.º 13
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/resolucao-conselho-ministros/90-2021-166569087
+  date: '2021-07-07'
+- type: amended_by
+  target: pt:dre:186522362:por
+  label: Mantidas em vigor, com as especificidades constantes da Resolução do Conselho de Ministros n.º 66/2022, de 22 de
+    julho, e na Resolução do Conselho de Ministros n.º 90/2021, de 7 de julho, as regras de organização do ano letivo nos
+    estabelecimentos públicos de educação pré-escolar e dos ensinos básico e secundário, previstas diploma; e estabelecido
+    que, no ano letivo de 2022/2023, ficam excecionalmente abrangidos pelas tutorias previstas no art. 12.º deste despacho
+    os alunos dos 2.º e 3.º ciclos do ensino básico e do ensino secundário que, no ano letivo de 2021/2022, não transitam
+    para o ano de escolaridade seguinte, pelo(a) Resolução do Conselho de Ministros n.º 66/2022 - Diário da República n.º
+    141/2022, Série I de 2022-07-22
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/resolucao-conselho-ministros/66-2022-186522362
+  date: '2022-07-22'
+- type: amended_by
+  target: pt:dre:215874382:por
+  label: Estabelecido que se mantêm em vigor as regras de organização do ano letivo nos estabelecimentos públicos de educação
+    pré-escolar e dos ensinos básico e secundário, previstas no presente despacho normativo, pelo(a) Resolução do Conselho
+    de Ministros n.º 80-B/2023 - Diário da República n.º 138/2023, 2º Suplemento, Série I de 2023-07-18, com as especificidades
+    constantes desta, nos termos do seu n.º 14.
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/resolucao-conselho-ministros/80-b-2023-215874382
+  date: '2023-07-18'
+- type: amended_by
+  target: pt:dre:891337590:por
+  label: Mantidas em vigor as regras de organização do ano letivo nos estabelecimentos públicos de educação pré-escolar e
+    dos ensinos básico e secundário, previstas no presente diploma pelo(a) Resolução do Conselho de Ministros n.º 140/2024
+    - Diário da República n.º 202/2024, Série I de 2024-10-17
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/resolucao-conselho-ministros/140-2024-891337590
+  date: '2024-10-17'
+- type: amended_by
+  target: pt:dre:1060895765:por
+  label: Mantidas em vigor as regras de organização do ano letivo nos estabelecimentos públicos de educação pré-escolar e
+    dos ensinos básico e secundário pelo(a) Resolução do Conselho de Ministros n.º 41/2026 - Diário da República n.º 40/2026,
+    Série I de 2026-02-26, com as especificidades constantes nesta
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/resolucao-conselho-ministros/41-2026-1060895765
+  date: '2026-02-26'
+- type: cites
+  target: pt:dre:107963568:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:178527:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:178548:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:249866:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:411815:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:484160:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:497860:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:502866:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:542994:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:64297587:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:66041468:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:70095687:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:74007250:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:74277007:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:74717230:por
+  label: null
+  source: null
 article_structure:
   article_count: 18
   section_count: 6
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:08:24Z'
   warnings: []
   errors: []
 ---
@@ -145,7 +269,7 @@ j) Ajustamento do horário dos docentes às necessidades escolares que ocorram a
 
 2 - A definição do número de adjuntos é efetuada nos seguintes termos:
 
-[([ver documento original](https://files.diariodarepublica.pt/2s/2018/07/129000001/0000200007.pdf))](https://files.diariodarepublica.pt/2s/2018/07/129000001/0000200007.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/2s/2018/07/129000001/0000200007.pdf)
 
 3 - O diretor pode designar como adjunto um docente que pertença a nível de educação ou ensino diferente daquele que determinou a fixação do respetivo número.
 
@@ -153,7 +277,7 @@ j) Ajustamento do horário dos docentes às necessidades escolares que ocorram a
 
 1 - Para o exercício dos cargos de subdiretor, adjunto e coordenador de estabelecimento é atribuído um crédito de horas específico calculado de acordo com o número de alunos, nos seguintes termos:
 
-[([ver documento original](https://files.diariodarepublica.pt/2s/2018/07/129000001/0000200007.pdf))](https://files.diariodarepublica.pt/2s/2018/07/129000001/0000200007.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/2s/2018/07/129000001/0000200007.pdf)
 
 2 - Compete ao diretor proceder à distribuição do crédito de horas, salvaguardando um mínimo de atividades letivas a distribuir ao subdiretor, aos adjuntos e ao coordenador de estabelecimento, no caso de ser educador ou docente do 1.º ciclo do ensino básico, de forma a viabilizar a avaliação do desempenho.
 
@@ -534,3 +658,5 @@ No ano letivo 2018-2019, o número de horas estimadas para as deslocações sema
 O presente despacho entra em vigor a partir do ano escolar de 2018-2019.
 
 4 de julho de 2018. - A Secretária de Estado Adjunta e da Educação, Alexandra Ludomila Ribeiro Fernandes Leitão. - O Secretário de Estado da Educação, João Miguel Marques da Costa.
+
+311483365

@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/2s/2021/03/043000000/0003900046.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -46,40 +46,99 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/despacho-normativo/8-2021-158698071
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2022-06-03T00:00:00Z'
+  retrieved_at: '2026-10-23T15:08:55Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: dc93d2d74073fc06c1b4b095e9999b96a5b6beaa73c31fb35a4c8cafc72c99f8
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: aa1677d45cca91cebcfb4da3d1935f4247f84613fe25e40f746dbea5e0bb0e55
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:08:55Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Controlo Sanitário
+- Doença Infecciosa
+- Empresa
+- Empréstimo
+- Epidemia
+- Estabelecimento Hoteleiro
+- Financiamento
+- Indústria Hoteleira
+- Infraestrutura Turística
+- Instituto do Turismo de Portugal
+- Linha de Crédito
+- Microempresa
+- Moratória
+- Pequenas e Médias Empresas
+- PME
+- Política de Emprego
+- Prorrogação de Prazo
+- Reembolso
+- Regime de Apoio
+- Saúde Pública
+- Subsídio não Reembolsável
+- Tesouraria
+- Turismo
 relationships:
 - type: amended_by
   target: pt:dre:184357069:por
   label: Última alteração registada na importação inicial
   source: null
+- type: cites
+  target: pt:dre:107596686:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:127648461:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:130600838:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:131193418:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:142111051:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:153493528:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:178510:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:629439:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:67098359:por
+  label: null
+  source: null
 article_structure:
-  article_count: 19
+  article_count: 17
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:08:55Z'
   warnings: []
   errors: []
 ---
@@ -112,7 +171,9 @@ Dotação orçamental
 
 A dotação máxima disponível para financiamento das operações ao abrigo da presente linha de apoio financeiro é de (euro) 120 000 000 (cento e vinte milhões), assegurada com recurso ao saldo de gerência do Turismo de Portugal, I. P.
 
-###### Artigo 4.º — Condições de elegibilidade
+Artigo 4.º
+
+Condições de elegibilidade
 
 1 - ...
 
@@ -136,13 +197,17 @@ h) Não ter sido objeto de um processo de insolvência, nos termos do Código da
 
 3 - Podem aceder à presente linha de apoio as empresas que estejam impossibilitadas de exercer efetivamente a atividade por determinação expressa das autoridades públicas competentes no contexto das medidas de combate à propagação da doença COVID-19.
 
-###### Artigo 5.º — Intensidade, natureza e limite do apoio financeiro
+Artigo 5.º
+
+Intensidade, natureza e limite do apoio financeiro
 
 ...
 
 5 - Ao valor do prémio de desempenho calculado nos termos dos n.os 3 e 4 do presente artigo pode acrescer o montante de (euro) 250 (duzentos e cinquenta) por empresa, se esta, à data da verificação da sua atribuição, demonstrar ter obtido o selo 'Estabelecimento Clean & Safe' e participar em, pelo menos, uma das ações de formação ministradas pelo Turismo de Portugal, I. P., no decurso do ano de 2021 a respeito da implementação do referido selo.
 
-###### Artigo 6.º — Condições do financiamento
+Artigo 6.º
+
+Condições do financiamento
 
 ...
 
@@ -160,7 +225,9 @@ h) Não ter sido objeto de um processo de insolvência, nos termos do Código da
 
 19 de fevereiro de 2021. - A Secretária de Estado do Turismo, Rita Baptista Marques.
 
-## ANEXO I — Artigo 1.º
+## ANEXO I
+
+###### Artigo 1.º
 
 Criação, objeto e objetivos
 
@@ -359,3 +426,5 @@ O presente despacho entra em vigor no dia seguinte ao da sua assinatura.
 Notas
 
 (1) Atividades enquadráveis, desde que desenvolvidas por empresas de animação turística e registadas no Registo Nacional dos Agentes de Animação Turística (RNAAT).
+
+313998708

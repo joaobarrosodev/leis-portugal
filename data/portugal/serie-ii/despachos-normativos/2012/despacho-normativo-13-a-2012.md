@@ -19,12 +19,12 @@ publication:
   reference: Diário da República n.º 109/2012, 2º Suplemento, Série II de 2012-06-05
   number: '109'
   series: II
-  supplement: 2º Suplemento
+  supplement: null
   pages: 20564-(4) a 20564-(9)
   pdf_url: https://files.diariodarepublica.pt/2s/2012/06/109000002/0000400009.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,45 +46,92 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/despacho-normativo/13-a-2012-3375642
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2013-06-11T00:00:00Z'
+  retrieved_at: '2026-10-23T15:07:38Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: b1825b58a8685a62d61debb5644fa74e5d9eee76421d8417b6e5bf4a2eafb94a
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 9e1a37ed5044054175460ff105b29469366b77ece2f53ada1e12df339ef42c0c
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:07:38Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Administração do Ensino
+- Agrupamento de Escolas
+- Autonomia Pedagógica
+- Concurso
+- Conselho Administrativo
+- Conselho Geral
+- Conselho Pedagógico
+- Contratação de Docentes
+- Definição de Competências
+- Direito de Participação
+- Diretor
+- Educação Pré-escolar
+- Eleição
+- Ensino
+- Ensino Básico
+- Ensino Cooperativo
+- Ensino Oficial
+- Ensino Particular
+- Estabelecimento de Ensino
+- Estatuto da Carreira Docente
+- Estatuto da Carreira dos Educadores de Infância e dos Professores dos Ensinos Básico e Secundário
+- Estudante
+- Gestão
+- Gestão Escolar
+- Horário Escolar
+- Mandato
+- Pessoal de Apoio Educativo
+- Pessoal Docente
+- Presidente
+- Recrutamento de Pessoal
+- Regime Jurídico
+- Transferência de Competências
 relationships:
 - type: amended_by
   target: pt:dre:1170202:por
   label: Última alteração registada na importação inicial
   source: null
+- type: cites
+  target: pt:dre:249866:por
+  label: null
+  source: null
+- type: corrected_by
+  target: pt:dre:1435866:por
+  label: "Retificado o n.º 3 e n.º 8 do art. 4.º, n.º 7 do art. 6.º, e arts. 17.º e 19.º, pela DECL-RECT.973/2012.31.07.2012.MECI,\
+    \ DR.IIS [147] de 31.07.2012\02\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/declaracao-retificacao/973-2012-1435866
+  date: '2012-07-31'
+- type: repealed_by
+  target: pt:dre:1170202:por
+  label: "Revogado pelo DN.7/2013.11.06.2013.MECI, DR.IIS [111] de 11.06.2013\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/despacho-normativo/7-2013-1170202
+  date: '2013-06-11'
 article_structure:
   article_count: 20
   section_count: 5
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:07:38Z'
   warnings: []
   errors: []
 ---
 
-# Despacho Normativo n.º 13-A/2012
+# Despacho normativo n.º 13-A/2012
 
 O presente despacho visa estabelecer os mecanismos de exercício da autonomia pedagógica e organizativa de cada escola e harmonizá-los com os princípios consagrados no regime jurídico de autonomia, administração e gestão dos estabelecimentos públicos da educação pré-escolar e dos ensinos básico e secundário. Pretende, também, conferir maior flexibilidade na organização das atividades letivas, aumentar a eficiência na distribuição do serviço e valorizar os resultados escolares.
 
@@ -498,7 +545,7 @@ TABELA N.º 1
 
 Resultados da avaliação sumativa externa
 
-[([ver documento original](https://files.diariodarepublica.pt/2s/2012/06/109000002/0000400009.pdf))](https://files.diariodarepublica.pt/2s/2012/06/109000002/0000400009.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/2s/2012/06/109000002/0000400009.pdf)
 
 O valor de CE(índice bas) é expresso na escala de 0 (zero) a 5 (cinco) e corresponde à média das classificações dos exames nacionais do ensino básico obtida pela totalidade dos alunos internos.
 
@@ -508,7 +555,7 @@ TABELA N.º 2
 
 Diferenças entre avaliação sumativa interna e avaliação sumativa externa
 
-[([ver documento original](https://files.diariodarepublica.pt/2s/2012/06/109000002/0000400009.pdf))](https://files.diariodarepublica.pt/2s/2012/06/109000002/0000400009.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/2s/2012/06/109000002/0000400009.pdf)
 
 O valor de CIF(índice bas) é expresso na escala de 0 (zero) a 5 (cinco) e corresponde à média das classificações internas de frequência obtida pela totalidade dos alunos.
 
@@ -520,15 +567,15 @@ Comparação da variação anual das classificações de exame de cada escola ou
 
 Escola ou agrupamento com exames nos ensinos básico e secundário
 
-[([ver documento original](https://files.diariodarepublica.pt/2s/2012/06/109000002/0000400009.pdf))](https://files.diariodarepublica.pt/2s/2012/06/109000002/0000400009.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/2s/2012/06/109000002/0000400009.pdf)
 
 Escola ou agrupamento com exames no ensino secundário
 
-[([ver documento original](https://files.diariodarepublica.pt/2s/2012/06/109000002/0000400009.pdf))](https://files.diariodarepublica.pt/2s/2012/06/109000002/0000400009.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/2s/2012/06/109000002/0000400009.pdf)
 
 Escola ou agrupamento com exames no ensino básico
 
-[([ver documento original](https://files.diariodarepublica.pt/2s/2012/06/109000002/0000400009.pdf))](https://files.diariodarepublica.pt/2s/2012/06/109000002/0000400009.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/2s/2012/06/109000002/0000400009.pdf)
 
 Os valores de CE(índice bas n) e de CE(índice bas n - 1) correspondem ao valor de CE(índice bas) do próprio ano e do ano anterior, respetivamente.
 
@@ -585,3 +632,5 @@ Oficina de Artes;
 Oficina Multimédia B;
 
 d) Na disciplina de Geometria Descritiva A da componente de formação específica dos cursos científico-humanísticos no tempo semanal de lecionação correspondente a cinquenta minutos, no máximo, quando o número de alunos da turma for superior a 24.
+
+206162604

@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/551/2006/06/08/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/551-2006-346118
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2008-08-18T00:00:00Z'
+  retrieved_at: '2026-10-23T15:14:48Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 1421d22276f6d95856b14fea77e531fd39afcf88df35de55c83b887a6f9642dc
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 2b42f8bdf5bb7afcae4922fcfe40f0cdf598265d09acbe3b5e7ab243bfb44848
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:14:48Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -74,6 +74,13 @@ relationships:
   target: pt:dre:455448:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:455448:por
+  label: "Transferida para o Clube de Caçadores da Herdade da Sesmaria Nova e outras, a zona de caça atribuída pela Port 724/98,\
+    \ de 09-Set, alterada pelo presente diploma, anexados vários prédios rústicos e renovada por um perído de 12 anos a concessão\
+    \ daquela zona de caça, pela PORT.904/2008.18.08.2008.MADRP, DR.IS [158] de 18.08.2008\0008\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/904-2008-455448
+  date: '2008-08-18'
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/201/2005/11/24/p/dre
   label: null
@@ -86,16 +93,28 @@ relationships:
   target: eli:http://data.dre.pt/eli/port/724/1998/09/09/p/dre
   label: null
   source: http://data.dre.pt/eli/port/724/1998/09/09/p/dre
+- type: cites
+  target: pt:dre:243881:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:480704:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:481498:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:14:48Z'
   warnings: []
   errors: []
 ---
@@ -120,4 +139,4 @@ Manda o Governo, pelo Ministro da Agricultura, do Desenvolvimento Rural e das Pe
 
 Pelo Ministro da Agricultura, do Desenvolvimento Rural e das Pescas, Rui Nobre Gonçalves, Secretário de Estado do Desenvolvimento Rural e das Florestas, em 24 de Maio de 2006.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2006/06/111b00/41014102.pdf))](https://files.diariodarepublica.pt/1s/2006/06/111b00/41014102.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2006/06/111b00/41014102.pdf)

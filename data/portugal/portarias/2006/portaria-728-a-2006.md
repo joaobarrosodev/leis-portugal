@@ -19,12 +19,12 @@ publication:
   reference: Diário da República n.º 141/2006, 1º Suplemento, Série I de 2006-07-24
   number: '141'
   series: I
-  supplement: 1º Suplemento
+  supplement: null
   pages: 5226-(2) a 5226-(3)
   pdf_url: https://files.diariodarepublica.pt/1s/2006/07/14101/00020003.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/728-a/2006/07/24/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/728-a-2006-443142
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2008-03-04T00:00:00Z'
+  retrieved_at: '2026-10-23T15:15:54Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 8f967a3aefbed69a1975522ff24f76d2ae8e10672356b29f406223b073989c5e
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: a7c8c34bc74952b08dcec2f6b1543d35504abec811a5dd432758934ac3c84b81
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:15:54Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -65,18 +65,18 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Processo Declarativo
-- Processo Civil
-- Pagamento
-- Injunção
-- Documento Eletrónico
-- Internet
-- Prestações Pecuniárias
-- Regime Jurídico
-- Execução por Dívidas
-- Processo de Execução
-- Secretaria Judicial
 - Custas Judiciais
+- Documento Eletrónico
+- Execução por Dívidas
+- Injunção
+- Internet
+- Pagamento
+- Prestações Pecuniárias
+- Processo Civil
+- Processo de Execução
+- Processo Declarativo
+- Regime Jurídico
+- Secretaria Judicial
 - Tribunal Judicial
 - VILA NOVA de GAIA
 relationships:
@@ -124,16 +124,73 @@ relationships:
   target: eli:http://data.dre.pt/eli/declrectif/16-a/1998/09/30/p/dre
   label: null
   source: http://data.dre.pt/eli/declrectif/16-a/1998/09/30/p/dre
+- type: cites
+  target: pt:dre:142346:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:142347:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:189484:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:220944:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:233745:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:243102:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:339847:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:424101:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:513628:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:540216:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:556239:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:566629:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:569313:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:482157:por
+  label: "Revogada a partir de 05.03.2008 pela PORT.220-A/2008.04.03.2008.MFAP, DR.IS [45-Supl] de 04.03.2008\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/220-a-2008-482157
+  date: '2008-03-04'
 article_structure:
   article_count: 5
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:15:54Z'
   warnings: []
   errors: []
 ---
@@ -200,4 +257,4 @@ A presente portaria produz efeitos desde o dia 25 de Julho de 2006.
 
 A presente portaria entra em vigor no dia seguinte ao da sua publicação.
 
-**O Ministro da Justiça, Alberto Bernardes Costa, em 20 de Julho de 2006.**
+O Ministro da Justiça, Alberto Bernardes Costa, em 20 de Julho de 2006.

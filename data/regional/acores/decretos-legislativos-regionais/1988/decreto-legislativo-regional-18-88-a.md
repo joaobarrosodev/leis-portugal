@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1988/04/09100/14891489.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,40 +46,69 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/18-1988-285149
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2003-05-22T00:00:00Z'
+  retrieved_at: '2026-10-23T15:17:43Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 96cb65b6b2cfe295b010970f79ab330434352c08d07b1c53aa5e4a3cfde182e3
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 2d1964a95af3fd29dd577644d0f8af80813e7d81c53774b9e4ad1112b56be1be
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:17:43Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Açores
+- Colocação de Professores
+- Concurso
+- Contrato de Trabalho
+- Ensino Preparatório
+- Pessoal Docente
 relationships:
 - type: amended_by
   target: pt:dre:683641:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:534455:por
+  label: "Alterado na redacção que confere na adaptação dos arts. 16º, 46º e 58º do Dec Lei 18/88, de 21-Jan, pelo DLR.3/96/A.1996.02.29.ALR-RAA,\
+    \ DR.IS-A [63] de 14/Mar/1996\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-legislativo-regional/3-1996-534455
+  date: '1996-02-29'
+- type: cites
+  target: pt:dre:182661:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:196179:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:506397:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:683641:por
+  label: "Revogado pelo DLR.27/2003/A.2003.05.22.ALR-RAA DR.IS-A [133] de 09/Jun/2003\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-legislativo-regional/27-2003-683641
+  date: '2003-05-22'
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:17:43Z'
   warnings: []
   errors: []
 ---
@@ -94,19 +123,19 @@ Considerando que importa garantir a unidade do sistema relativo ao processo de c
 
 A Assembleia Regional dos Açores decreta, nos termos da alínea b) do artigo 229.º da Constituição, o seguinte:
 
-###### Artigo 1.º O regime do [Decreto-Lei n.º 18/88](https://diariodarepublica.pt/dr/detalhe/decreto-lei/18-1988-506397), de 21 de Janeiro, aplica-se à Região Autónoma dos Açores, com as adaptações constantes do presente diploma.
+Artigo 1.º O regime do [Decreto-Lei n.º 18/88](https://diariodarepublica.pt/dr/detalhe/decreto-lei/18-1988-506397), de 21 de Janeiro, aplica-se à Região Autónoma dos Açores, com as adaptações constantes do presente diploma.
 
-###### Art. 2.º - 1 - As disposições do [Decreto-Lei n.º 18/88](https://diariodarepublica.pt/dr/detalhe/decreto-lei/18-1988-506397), de 21 de Janeiro, que determinem a obrigação de os docentes concorrerem a todas as escolas de, pelo menos, uma zona reportam-se a todos os estabelecimentos de ensino da Região Autónoma dos Açores.
+Art. 2.º - 1 - As disposições do [Decreto-Lei n.º 18/88](https://diariodarepublica.pt/dr/detalhe/decreto-lei/18-1988-506397), de 21 de Janeiro, que determinem a obrigação de os docentes concorrerem a todas as escolas de, pelo menos, uma zona reportam-se a todos os estabelecimentos de ensino da Região Autónoma dos Açores.
 
 2 - Para efeitos do disposto no número anterior, são estabelecimentos de ensino da Região Autónoma dos Açores os que vierem a constar em mapa anexo ao aviso de abertura de concurso.
 
-###### Art. 3.º Os candidatos a que se referem os artigos 10.º e 52.º do [Decreto-Lei n.º 18/88](https://diariodarepublica.pt/dr/detalhe/decreto-lei/18-1988-506397), de 21 de Janeiro, indicarão os estabelecimentos de ensino por ordem de prioridades.
+Art. 3.º Os candidatos a que se referem os artigos 10.º e 52.º do [Decreto-Lei n.º 18/88](https://diariodarepublica.pt/dr/detalhe/decreto-lei/18-1988-506397), de 21 de Janeiro, indicarão os estabelecimentos de ensino por ordem de prioridades.
 
-###### Art. 4.º O prazo de reclamações referido no n.º 2 do artigo 14.º e no n.º 2 do artigo 58.º do [Decreto-Lei n.º 18/88](https://diariodarepublica.pt/dr/detalhe/decreto-lei/18-1988-506397), de 21 de Janeiro, será de doze dias em relação aos candidatos que exerçam funções no estrangeiro, como cooperantes, em Macau, na Região Autónoma da Madeira ou no continente.
+Art. 4.º O prazo de reclamações referido no n.º 2 do artigo 14.º e no n.º 2 do artigo 58.º do [Decreto-Lei n.º 18/88](https://diariodarepublica.pt/dr/detalhe/decreto-lei/18-1988-506397), de 21 de Janeiro, será de doze dias em relação aos candidatos que exerçam funções no estrangeiro, como cooperantes, em Macau, na Região Autónoma da Madeira ou no continente.
 
-###### Art. 5.º Os artigos 15.º, n.º 4, 46.º, n.º 1, alíneas c) e e), e 58.º, n.º 4, do [Decreto-Lei n.º 18/88](https://diariodarepublica.pt/dr/detalhe/decreto-lei/18-1988-506397), de 21 de Janeiro, passam a ter a seguinte redacção:
+Art. 5.º Os artigos 15.º, n.º 4, 46.º, n.º 1, alíneas c) e e), e 58.º, n.º 4, do [Decreto-Lei n.º 18/88](https://diariodarepublica.pt/dr/detalhe/decreto-lei/18-1988-506397), de 21 de Janeiro, passam a ter a seguinte redacção:
 
-###### Art. 15.º - 1 - ...
+Art. 15.º - 1 - ...
 
 2 - ...
 
@@ -114,7 +143,7 @@ A Assembleia Regional dos Açores decreta, nos termos da alínea b) do artigo 22
 
 4 - As desistências de parte das preferências manifestadas implicam a perda de vínculo por parte dos candidatos e alteração da respectiva prioridade, se a ela tiverem direito.
 
-###### Art. 46.º - 1 - ...
+Art. 46.º - 1 - ...
 
 a) ...
 
@@ -126,7 +155,7 @@ d) ...
 
 e) Os candidatos colocados na ilha de São Miguel poderão ainda beneficiar da colocação a que se refere a alínea c), desde que estejam providos em estabelecimento de ensino situado no concelho de Nordeste.
 
-###### Art. 58.º - 1 - ...
+Art. 58.º - 1 - ...
 
 2 - ...
 
@@ -138,14 +167,14 @@ e) Os candidatos colocados na ilha de São Miguel poderão ainda beneficiar da c
 
 6 - ...
 
-###### Art. 6.º É revogada a legislação regional em contrário, nomeadamente os Decretos Legislativos Regionais n.os [8/85/A](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/8-1985-182661), de 9 de Julho, e [10/86/A](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/10-1986-196179), de 31 de Março.
+Art. 6.º É revogada a legislação regional em contrário, nomeadamente os Decretos Legislativos Regionais n.os [8/85/A](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/8-1985-182661), de 9 de Julho, e [10/86/A](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/10-1986-196179), de 31 de Março.
 
 Aprovado pela Assembleia Regional dos Açores, na Horta, em 9 de Março de 1988.
 
-**O Presidente da Assembleia Regional, José Guilherme Reis Leite.**
+O Presidente da Assembleia Regional, José Guilherme Reis Leite.
 
-**Assinado em Angra do Heroísmo em 31 de Março de 1988.**
+Assinado em Angra do Heroísmo em 31 de Março de 1988.
 
-**Publique-se.**
+Publique-se.
 
-**O Ministro da República para a Região Autónoma dos Açores, Vasco Joaquim Rocha Vieira.**
+O Ministro da República para a Região Autónoma dos Açores, Vasco Joaquim Rocha Vieira.

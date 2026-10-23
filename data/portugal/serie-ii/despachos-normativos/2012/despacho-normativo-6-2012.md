@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/2s/2012/04/071000000/1272912749.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -47,45 +47,156 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/despacho-normativo/6-2012-1089021
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2013-04-08T00:00:00Z'
+  retrieved_at: '2026-10-23T15:07:44Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 62c93cf73ad323b179d47d7864664a9356482ac0b1f8b8f88ce42645200d2528
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: ec7fc94ee69b587794d38126d48d605c6c1ae3082d7623d53aaa083d7c9ea82a
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:07:44Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Avaliação de Conhecimentos
+- Ensino Básico
+- Ensino Secundário
+- JURI Nacional de Exames
+- Regulamento
+- Sistema Educativo
 relationships:
 - type: amended_by
   target: pt:dre:1828803:por
   label: Última alteração registada na importação inicial
   source: null
+- type: cites
+  target: pt:dre:145195:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:210801:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:248489:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:276832:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:2794350:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:338986:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:344274:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:3473397:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:386871:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:386872:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:405481:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:432450:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:457204:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:482392:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:490957:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:542849:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:544383:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:551873:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:587624:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:628017:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:628859:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:636712:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:652897:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:669549:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:787125:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:1828803:por
+  label: "Revogado pelo DN.5/2013.08.04.2013.MECI, DR.IIS [68] de 08.04.2013\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/despacho-normativo/5-2013-1828803
+  date: '2013-04-08'
 article_structure:
   article_count: 0
   section_count: 16
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:07:44Z'
   warnings: []
   errors: []
 ---
 
-# Despacho Normativo n.º 6/2012
+# Despacho normativo n.º 6/2012
 
 A Direção-Geral da Educação (DGE), do Ministério da Educação e Ciência, cuja orgânica foi aprovada pelo [Decreto-Lei n.º 14/2012](https://diariodarepublica.pt/dr/detalhe/decreto-lei/14-2012-544383), de 20 de janeiro, integra o Júri Nacional de Exames (JNE), o qual tem por missão coordenar e planificar o processo de avaliação externa da aprendizagem.
 
@@ -321,7 +432,7 @@ b) Pela não aceitação da justificação, não sendo permitida ao aluno a pres
 
 5.2 - As provas finais de ciclo são cotadas na escala percentual de 0 a 100, sendo a classificação final da prova expressa na escala de níveis de 1 a 5, de acordo com a seguinte tabela:
 
-[([ver documento original](https://files.diariodarepublica.pt/2s/2012/04/071000000/1272912749.pdf))](https://files.diariodarepublica.pt/2s/2012/04/071000000/1272912749.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/2s/2012/04/071000000/1272912749.pdf)
 
 5.3 - A classificação final a atribuir às disciplinas de Língua Portuguesa e de Matemática é calculada de acordo com a seguinte fórmula arredondada às unidades:
 
@@ -1163,7 +1274,7 @@ Provas finais de Língua Portuguesa e de Matemática dos 2.º e 3.º ciclos do e
 
 Tipo de prova em cada disciplina e respetiva duração
 
-[([ver documento original](https://files.diariodarepublica.pt/2s/2012/04/071000000/1272912749.pdf))](https://files.diariodarepublica.pt/2s/2012/04/071000000/1272912749.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/2s/2012/04/071000000/1272912749.pdf)
 
 (*) Todas as provas finais dos 2.º e 3.º ciclos têm tolerância de trinta minutos.
 
@@ -1177,13 +1288,13 @@ Exames de equivalência à frequência dos 2.º e 3.º ciclos
 
 Tipo de prova em cada disciplina e respetiva duração
 
-[([ver documento original](https://files.diariodarepublica.pt/2s/2012/04/071000000/1272912749.pdf))](https://files.diariodarepublica.pt/2s/2012/04/071000000/1272912749.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/2s/2012/04/071000000/1272912749.pdf)
 
 3.º ciclo do ensino básico
 
 Tipos de provas em cada disciplina e respetiva duração
 
-[([ver documento original](https://files.diariodarepublica.pt/2s/2012/04/071000000/1272912749.pdf))](https://files.diariodarepublica.pt/2s/2012/04/071000000/1272912749.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/2s/2012/04/071000000/1272912749.pdf)
 
 QUADRO III
 
@@ -1197,21 +1308,21 @@ Tipo de prova em cada disciplina e respetiva duração
 
 A) Cursos científico-humanísticos
 
-[([ver documento original](https://files.diariodarepublica.pt/2s/2012/04/071000000/1272912749.pdf))](https://files.diariodarepublica.pt/2s/2012/04/071000000/1272912749.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/2s/2012/04/071000000/1272912749.pdf)
 
 B) Cursos tecnológicos
 
-[([ver documento original](https://files.diariodarepublica.pt/2s/2012/04/071000000/1272912749.pdf))](https://files.diariodarepublica.pt/2s/2012/04/071000000/1272912749.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/2s/2012/04/071000000/1272912749.pdf)
 
 Nota. - A componente prática das provas escritas com componente prática tem uma tolerância de 30 minutos.
 
 C) Cursos de ensino artístico especializado
 
-[([ver documento original](https://files.diariodarepublica.pt/2s/2012/04/071000000/1272912749.pdf))](https://files.diariodarepublica.pt/2s/2012/04/071000000/1272912749.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/2s/2012/04/071000000/1272912749.pdf)
 
 D) Cursos científico-humanísticos do ensino recorrente - Portaria n.º 380/2010, de 24 de junho
 
-[([ver documento original](https://files.diariodarepublica.pt/2s/2012/04/071000000/1272912749.pdf))](https://files.diariodarepublica.pt/2s/2012/04/071000000/1272912749.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/2s/2012/04/071000000/1272912749.pdf)
 
 QUADRO IV
 
@@ -1221,7 +1332,7 @@ Planos curriculares aprovados pelo [Decreto-Lei n.º 74/2004](https://diariodare
 
 Prova escrita com componente prática - Percentagens a atribuir à componente prática e à componente escrita
 
-[([ver documento original](https://files.diariodarepublica.pt/2s/2012/04/071000000/1272912749.pdf))](https://files.diariodarepublica.pt/2s/2012/04/071000000/1272912749.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/2s/2012/04/071000000/1272912749.pdf)
 
 QUADRO V
 
@@ -1231,7 +1342,7 @@ Planos curriculares aprovados pelo [Decreto-Lei n.º 74/2004](https://diariodare
 
 Provas de equivalência à frequência: Júri nas provas P e EP
 
-[([ver documento original](https://files.diariodarepublica.pt/2s/2012/04/071000000/1272912749.pdf))](https://files.diariodarepublica.pt/2s/2012/04/071000000/1272912749.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/2s/2012/04/071000000/1272912749.pdf)
 
 QUADRO VI
 
@@ -1243,4 +1354,6 @@ Exames finais nacionais
 
 Tipo de prova em cada disciplina e respetiva duração
 
-[([ver documento original](https://files.diariodarepublica.pt/2s/2012/04/071000000/1272912749.pdf))](https://files.diariodarepublica.pt/2s/2012/04/071000000/1272912749.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/2s/2012/04/071000000/1272912749.pdf)
+
+205926506

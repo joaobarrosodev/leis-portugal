@@ -46,45 +46,83 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/despacho-normativo/48-2008-3142499
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2019-10-09T00:00:00Z'
+  retrieved_at: '2026-10-23T15:06:59Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: d7a65d382bd354ffc972518ab1c8fe499b91ee4c712e610077cda7ff7579a636
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 42b996dbeeb68de131464e32ec869f948ef3d3a2b0c06835161cb60fb37b0331
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:06:59Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Estatuto
+- Guarda
+- Homologação
+- Instituto Politécnico
 relationships:
 - type: amended_by
   target: pt:dre:125139102:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:125139102:por
+  label: Homologada a alteração ao art 80.º dos Estatutos do Instituto Politécnico da Guarda homologados pelo presente diploma,
+    pelo(a) Despacho Normativo n.º 23/2019 - Diário da República n.º 194/2019, Série II de 2019-10-09
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/despacho-normativo/23-2019-125139102
+  date: '2019-10-09'
+- type: cites
+  target: pt:dre:367673:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:540661:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:550586:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:556606:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:609807:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:640339:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:662339:por
+  label: null
+  source: null
 article_structure:
   article_count: 128
-  section_count: 48
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  section_count: 47
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:06:59Z'
   warnings: []
   errors: []
 ---
 
-# Despacho Normativo n.º 48/2008
+# Despacho normativo n.º 48/2008
 
 Considerando que, nos termos do n.º 1 do artigo 172.º da [Lei n.º 62/2007](https://diariodarepublica.pt/dr/detalhe/lei/62-2007-640339), de 10 de Setembro, as instituições de ensino superior devem proceder à revisão dos seus estatutos, de modo a conformá-los com o novo regime jurídico das instituições de ensino superior;
 
@@ -166,7 +204,7 @@ O IPG tem sede na cidade da Guarda.
 
 2 - As unidades orgânicas adoptam a simbologia do IPG com inserção entre o símbolo e a expressão "Instituto Politécnico da Guarda", da denominação da respectiva unidade orgânica, conforme consta do anexo I a estes estatutos.
 
-## TITULO II
+TITULO II
 
 Estrutura
 
@@ -1802,7 +1840,7 @@ A requerimento do instrutor do processo, o Presidente do Instituto ou os directo
 
 ###### Artigo 118.º — Decisão disciplinar
 
-**O Presidente, ou quem tiver a competência delegada para o efeito, aprecia o relatório elaborado pelo instrutor e a resposta do estudante, no prazo máximo de um mês, a contar de data da recepção desta ou da data em que esta já não pode ser recebida e, observadas as demais formalidades legais, procede à aplicação da sanção disciplinar.**
+O Presidente, ou quem tiver a competência delegada para o efeito, aprecia o relatório elaborado pelo instrutor e a resposta do estudante, no prazo máximo de um mês, a contar de data da recepção desta ou da data em que esta já não pode ser recebida e, observadas as demais formalidades legais, procede à aplicação da sanção disciplinar.
 
 ###### Artigo 119.º — Garantias de defesa do estudante
 
@@ -1940,27 +1978,27 @@ Os presentes Estatutos entram em vigor no dia seguinte ao da sua publicação no
 
 I.1 - Instituto Politécnico da Guarda:
 
-[([ver documento original](https://files.diariodarepublica.pt/2s/2008/09/171000000/3865538673.pdf))](https://files.diariodarepublica.pt/2s/2008/09/171000000/3865538673.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/2s/2008/09/171000000/3865538673.pdf)
 
 I.2 - Escolas Superiores:
 
-[([ver documento original](https://files.diariodarepublica.pt/2s/2008/09/171000000/3865538673.pdf))](https://files.diariodarepublica.pt/2s/2008/09/171000000/3865538673.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/2s/2008/09/171000000/3865538673.pdf)
 
 I.3.1 - Serviços de Acção Social:
 
-[([ver documento original](https://files.diariodarepublica.pt/2s/2008/09/171000000/3865538673.pdf))](https://files.diariodarepublica.pt/2s/2008/09/171000000/3865538673.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/2s/2008/09/171000000/3865538673.pdf)
 
 I.3.2 - Biblioteca:
 
-[([ver documento original](https://files.diariodarepublica.pt/2s/2008/09/171000000/3865538673.pdf))](https://files.diariodarepublica.pt/2s/2008/09/171000000/3865538673.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/2s/2008/09/171000000/3865538673.pdf)
 
 I.4 - Unidades de Ensino à Distância - UED:
 
-[([ver documento original](https://files.diariodarepublica.pt/2s/2008/09/171000000/3865538673.pdf))](https://files.diariodarepublica.pt/2s/2008/09/171000000/3865538673.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/2s/2008/09/171000000/3865538673.pdf)
 
 I.5 - Unidades de Investigação para o Desenvolvimento do Interior - UDI:
 
-[([ver documento original](https://files.diariodarepublica.pt/2s/2008/09/171000000/3865538673.pdf))](https://files.diariodarepublica.pt/2s/2008/09/171000000/3865538673.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/2s/2008/09/171000000/3865538673.pdf)
 
 Norma Texto:
 

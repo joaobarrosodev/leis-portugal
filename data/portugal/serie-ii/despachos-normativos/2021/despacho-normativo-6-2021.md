@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/2s/2021/02/024000000/0007700084.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -47,25 +47,31 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/despacho-normativo/6-2021-156397445
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2021-02-04T00:00:00Z'
+  retrieved_at: '2026-10-23T15:08:54Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 14d8e72afba7a543fbbef82abff4cfe8bcbaa6e6b529ecaf9ad787af6b61b4af
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 54b4d3899895ef392367f59d09eaf29517528cca107a9b41109763357d42dc0b
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:08:54Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Agricultura
+- Ajuda Comunitária
+- Financiamento
+- IFAP
+- Política Agrícola Comum
+- Regulamento CE
 relationships:
 - type: cites
   target: celex:32013R1306
@@ -95,16 +101,34 @@ relationships:
   target: celex:32020R2220
   label: null
   source: null
+- type: cites
+  target: pt:dre:3670078:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:66258481:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:74926159:por
+  label: null
+  source: null
+- type: corrected_by
+  target: pt:dre:169107945:por
+  label: Retificado o anexo III pelo(a) Declaração de Retificação n.º 546/2021 - Diário da República n.º 151/2021, Série II
+    de 2021-08-05
+  source: null
+  date: '2021-08-05'
 article_structure:
-  article_count: 24
+  article_count: 23
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:08:54Z'
   warnings: []
   errors: []
 ---
@@ -141,7 +165,9 @@ Candidaturas
 
 As candidaturas aos regimes de apoio referidos no n.º 1 do artigo 4.º são formalizadas nos termos e prazos anualmente definidos no regulamento de candidatura e pagamento das ajudas, apoios, prémios e outras subvenções a efetuar pelo IFAP, I. P., no âmbito das medidas definidas a nível nacional e europeu para a agricultura, assuntos marítimos e pescas e setores conexos, aprovado pela Portaria n.º 58/2017, de 6 de fevereiro.
 
-###### Artigo 12.º — Pagamento
+Artigo 12.º
+
+Pagamento
 
 1 - [...]
 
@@ -159,13 +185,13 @@ Os anexos II e III do [Despacho Normativo n.º 2/2015](https://diariodarepublica
 
 Valores unitários indicativos dos regimes de apoio associado
 
-[([ver documento original](https://files.diariodarepublica.pt/2s/2021/02/024000000/0007700084.pdf))](https://files.diariodarepublica.pt/2s/2021/02/024000000/0007700084.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/2s/2021/02/024000000/0007700084.pdf)
 
 ## ANEXO III — (a que se refere o n.º 2 do artigo 12.º)
 
 Limiares garantidos e envelopes financeiros disponíveis
 
-[([ver documento original](https://files.diariodarepublica.pt/2s/2021/02/024000000/0007700084.pdf))](https://files.diariodarepublica.pt/2s/2021/02/024000000/0007700084.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/2s/2021/02/024000000/0007700084.pdf)
 
 ###### Artigo 4.º — Aditamento ao [Despacho Normativo n.º 2/2015](https://diariodarepublica.pt/dr/detalhe/despacho-normativo/2-2015-66258481), de 20 de janeiro
 
@@ -305,7 +331,7 @@ As aprovações dos primeiros transformadores de tomate para indústria concedid
 
 Processo de aprovação, obrigações e situações de exclusão dos primeiros transformadores de tomate para indústria
 
-# Parte A - Processo de aprovação dos primeiros transformadores de tomate para indústria
+Parte A - Processo de aprovação dos primeiros transformadores de tomate para indústria
 
 1 - Até ao dia 15 de outubro do ano civil anterior ao que respeita o pagamento específico por superfície ao tomate para transformação, os primeiros transformadores devem apresentar junto do IFAP, I. P., um pedido de aprovação acompanhado dos seguintes elementos:
 
@@ -317,7 +343,7 @@ c) Declaração que ateste que a empresa de transformação tem capacidade admin
 
 2 - A aprovação dos primeiros transformadores é concedida anualmente pelo IFAP, I. P., que publica, até ao dia 31 de dezembro, no respetivo sítio na Internet a lista dos primeiros transformadores aprovados que cumprem as condições para a celebração de contratos de transformação.
 
-# Parte B - Termos do contrato de transformação
+Parte B - Termos do contrato de transformação
 
 1 - O contrato de transformação referido no artigo 9.º do presente despacho é celebrado entre um primeiro transformador aprovado nas condições previstas na Parte A do presente anexo, e o agricultor ou a OP de que o agricultor seja membro.
 
@@ -331,7 +357,7 @@ c) Um compromisso do agricultor de entregar ao primeiro transformador a quantida
 
 3 - No caso de contrato celebrado entre uma OP e um primeiro transformador aprovado, o mesmo deve ainda especificar os nomes, os números de identificação fiscal (NIF) e os endereços, referidos na alínea a) do número anterior, e as quantidades referidas na alínea b), para cada membro da OP que pretenda receber o apoio previsto no presente despacho.
 
-# Parte C - Obrigações dos primeiros transformadores de tomate para indústria
+Parte C - Obrigações dos primeiros transformadores de tomate para indústria
 
 1 - Os primeiros transformadores aprovados emitem, até 31 de outubro, as declarações, por produtor, que atestem as quantidades entregues e aceites para transformação, devendo as mesmas indicar o NIF dos produtores e das OP, quando sejam parte no contrato de transformação, lote, quantidade e número do contrato.
 
@@ -341,7 +367,7 @@ c) Um compromisso do agricultor de entregar ao primeiro transformador a quantida
 
 4 - Para efeitos do disposto no presente despacho, os primeiros transformadores aprovados devem conservar durante cinco anos a contar do final de cada campanha de transformação, e disponibilizar às autoridades nacionais de controlo, sempre que solicitado, a prova do pagamento de todas as matérias-primas compradas no âmbito de contratos de transformação, a prova de pagamento de todas as vendas e compras de produto acabado, bem como as informações relacionadas com todos os elementos constantes do contrato.
 
-# Parte D - Situações de exclusão dos primeiros transformadores de tomate para indústria
+Parte D - Situações de exclusão dos primeiros transformadores de tomate para indústria
 
 Sem prejuízo das responsabilidades que judicialmente venham a ser apuradas, é definitivamente excluído do respetivo regime de apoio específico o primeiro transformador aprovado que, em conivência com o produtor ou a OP, preste falsas declarações ou não respeite as obrigações referidas na Parte C do presente anexo.
 
@@ -349,10 +375,12 @@ Sem prejuízo das responsabilidades que judicialmente venham a ser apuradas, é 
 
 Valores unitários indicativos dos regimes de apoio associado
 
-[([ver documento original](https://files.diariodarepublica.pt/2s/2021/02/024000000/0007700084.pdf))](https://files.diariodarepublica.pt/2s/2021/02/024000000/0007700084.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/2s/2021/02/024000000/0007700084.pdf)
 
 ## ANEXO III — (a que se refere o n.º 2 do artigo 12.º)
 
 Limiares garantidos e envelopes financeiros disponíveis
 
-[([ver documento original](https://files.diariodarepublica.pt/2s/2021/02/024000000/0007700084.pdf))](https://files.diariodarepublica.pt/2s/2021/02/024000000/0007700084.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/2s/2021/02/024000000/0007700084.pdf)
+
+313928391

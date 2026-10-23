@@ -26,7 +26,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/2s/2011/04/067000000/1570415735.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -48,45 +48,173 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/despacho-normativo/7-2011-965091
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2012-04-10T00:00:00Z'
+  retrieved_at: '2026-10-23T15:07:35Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: c5b0386167b598468157a50dc92031615d002df57fd6cb135d1652abaaa16d0e
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 1a6d3f312242b87822db0c9eeffa0f0c375b625dddc1ee5fcf925f32af8c71eb
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:07:35Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Avaliação de Conhecimentos
+- Ensino Artístico
+- Ensino Básico
+- Ensino Técnico Profissional
+- Ensino Tecnológico
+- Equivalência de Habilitações Literárias
+- Exame
+- Plano de Estudos
+- Regulamento
+- Sistema Educativo
 relationships:
 - type: amended_by
   target: pt:dre:1089021:por
   label: Última alteração registada na importação inicial
   source: null
+- type: cites
+  target: pt:dre:1042950:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:210801:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:2224480:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:238850:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:248489:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:338986:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:344274:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:3473397:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:3485639:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:3651541:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:386871:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:386872:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:405481:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:432450:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:457204:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:482392:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:488826:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:490957:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:545651:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:551873:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:582996:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:587624:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:628017:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:628859:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:636712:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:641762:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:652897:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:787125:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:1089021:por
+  label: "Revogado o DN 19/2008 de 19-mar, na redacção do presente diploma, pelo DN.6/2012.10.04.2012.SEEBS-MECI, DR.IIS [71]\
+    \ de 10.04.2012\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/despacho-normativo/6-2012-1089021
+  date: '2012-04-10'
 article_structure:
   article_count: 0
   section_count: 9
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:07:35Z'
   warnings: []
   errors: []
 ---
 
-# Despacho Normativo n.º 7/2011
+# Despacho normativo n.º 7/2011
 
 A Lei Orgânica do Ministério da Educação - [Decreto-Lei n.º 213/2006](https://diariodarepublica.pt/dr/detalhe/decreto-lei/213-2006-545651), de 27 de Outubro - determina que o Júri Nacional de Exames tem por missão, em matéria de avaliação das aprendizagens, coordenar e planificar os exames nacionais, provas a nível de escola para alunos com necessidades educativas especiais de carácter permanente, provas de equivalência à frequência e provas de aferição nos anos terminais dos 1.º e 2.º ciclos do ensino básico.
 
@@ -308,7 +436,7 @@ QUADRO I
 
 Exames nacionais (*) de Língua Portuguesa e de Matemática do 3.º ciclo do ensino básico
 
-[([ver documento original](https://files.diariodarepublica.pt/2s/2011/04/067000000/1570415735.pdf))](https://files.diariodarepublica.pt/2s/2011/04/067000000/1570415735.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/2s/2011/04/067000000/1570415735.pdf)
 
 (*) Todos os exames têm tolerância de trinta minutos.
 
@@ -320,11 +448,11 @@ Exames de equivalência à frequência dos 2.º e 3.º ciclos
 
 2.º ciclo do ensino básico
 
-[([ver documento original](https://files.diariodarepublica.pt/2s/2011/04/067000000/1570415735.pdf))](https://files.diariodarepublica.pt/2s/2011/04/067000000/1570415735.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/2s/2011/04/067000000/1570415735.pdf)
 
 3.º ciclo do ensino básico
 
-[([ver documento original](https://files.diariodarepublica.pt/2s/2011/04/067000000/1570415735.pdf))](https://files.diariodarepublica.pt/2s/2011/04/067000000/1570415735.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/2s/2011/04/067000000/1570415735.pdf)
 
 ## ANEXO B — (a que se refere o n.º 5)
 
@@ -340,11 +468,11 @@ Tipos de provas a realizar em cada disciplina e área não disciplinar e respect
 
 A) Cursos científico-humanísticos
 
-[([ver documento original](https://files.diariodarepublica.pt/2s/2011/04/067000000/1570415735.pdf))](https://files.diariodarepublica.pt/2s/2011/04/067000000/1570415735.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/2s/2011/04/067000000/1570415735.pdf)
 
 B) Cursos tecnológicos
 
-[([ver documento original](https://files.diariodarepublica.pt/2s/2011/04/067000000/1570415735.pdf))](https://files.diariodarepublica.pt/2s/2011/04/067000000/1570415735.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/2s/2011/04/067000000/1570415735.pdf)
 
 Nota. - A componente prática das provas escritas com componente prática tem uma tolerância de 30 minutos.
 
@@ -356,7 +484,7 @@ Planos curriculares aprovados pelo [Decreto-Lei n.º 74/2004](https://diariodare
 
 Provas de equivalência à frequência: Júri nas provas P E EP
 
-[([ver documento original](https://files.diariodarepublica.pt/2s/2011/04/067000000/1570415735.pdf))](https://files.diariodarepublica.pt/2s/2011/04/067000000/1570415735.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/2s/2011/04/067000000/1570415735.pdf)
 
 QUADRO IV
 
@@ -364,7 +492,7 @@ Planos de estudo aprovados pelo [Decreto-Lei n.º 74/2004](https://diariodarepub
 
 (a que se refere o n.º 8 do Regulamento dos Exames do Ensino Secundário)
 
-[([ver documento original](https://files.diariodarepublica.pt/2s/2011/04/067000000/1570415735.pdf))](https://files.diariodarepublica.pt/2s/2011/04/067000000/1570415735.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/2s/2011/04/067000000/1570415735.pdf)
 
 ## ANEXO C — (a que se refere o n.º 8)
 
@@ -380,7 +508,7 @@ Tipos de provas a realizar em cada disciplina e área não disciplinar e respect
 
 D) Cursos científico-humanísticos do ensino recorrente - Portaria n.º 380/2010, de 24 de Junho
 
-[([ver documento original](https://files.diariodarepublica.pt/2s/2011/04/067000000/1570415735.pdf))](https://files.diariodarepublica.pt/2s/2011/04/067000000/1570415735.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/2s/2011/04/067000000/1570415735.pdf)
 
 ## ANEXO D — (a que se refere o n.º 11)
 
@@ -582,7 +710,7 @@ b) Classificação de frequência inferior a 3 em três disciplinas, excepto se 
 
 3.4 - As provas dos exames nacionais de Língua Portuguesa e de Matemática são cotadas na escala percentual de 0 a 100, sendo a classificação final da prova expressa na escala de níveis de 1 a 5, de acordo com a seguinte tabela:
 
-[([ver documento original](https://files.diariodarepublica.pt/2s/2011/04/067000000/1570415735.pdf))](https://files.diariodarepublica.pt/2s/2011/04/067000000/1570415735.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/2s/2011/04/067000000/1570415735.pdf)
 
 3.5 - O JNE pode enviar às escolas, durante todo o processo de exames, as orientações que considerar pertinentes para garantir a qualidade deste processo.
 
@@ -998,7 +1126,7 @@ QUADRO I
 
 Exames nacionais(*) de Língua Portuguesa e de Matemática do 3.º ciclo do ensino básico
 
-[([ver documento original](https://files.diariodarepublica.pt/2s/2011/04/067000000/1570415735.pdf))](https://files.diariodarepublica.pt/2s/2011/04/067000000/1570415735.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/2s/2011/04/067000000/1570415735.pdf)
 
 QUADRO II
 
@@ -1006,11 +1134,11 @@ Exames de equivalência à frequência dos 2.º e 3.º ciclos
 
 2.º Ciclo do Ensino Básico
 
-[([ver documento original](https://files.diariodarepublica.pt/2s/2011/04/067000000/1570415735.pdf))](https://files.diariodarepublica.pt/2s/2011/04/067000000/1570415735.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/2s/2011/04/067000000/1570415735.pdf)
 
 3.º ciclo do ensino básico
 
-[([ver documento original](https://files.diariodarepublica.pt/2s/2011/04/067000000/1570415735.pdf))](https://files.diariodarepublica.pt/2s/2011/04/067000000/1570415735.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/2s/2011/04/067000000/1570415735.pdf)
 
 ## ANEXO III — Regulamento dos Exames do Ensino Secundário
 
@@ -1608,21 +1736,21 @@ Tipos de provas a realizar em cada disciplina e área não disciplinar e respect
 
 A) Cursos científico-humanísticos
 
-[([ver documento original](https://files.diariodarepublica.pt/2s/2011/04/067000000/1570415735.pdf))](https://files.diariodarepublica.pt/2s/2011/04/067000000/1570415735.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/2s/2011/04/067000000/1570415735.pdf)
 
 B) Cursos tecnológicos
 
-[([ver documento original](https://files.diariodarepublica.pt/2s/2011/04/067000000/1570415735.pdf))](https://files.diariodarepublica.pt/2s/2011/04/067000000/1570415735.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/2s/2011/04/067000000/1570415735.pdf)
 
 Nota. - A componente prática das provas escritas com componente prática tem uma tolerância de 30 minutos.
 
 C) Cursos de ensino artístico especializado
 
-[([ver documento original](https://files.diariodarepublica.pt/2s/2011/04/067000000/1570415735.pdf))](https://files.diariodarepublica.pt/2s/2011/04/067000000/1570415735.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/2s/2011/04/067000000/1570415735.pdf)
 
 D) Cursos científico-humanísticos do ensino recorrente - Portaria n.º 380/2010, de 24 de Junho
 
-[([ver documento original](https://files.diariodarepublica.pt/2s/2011/04/067000000/1570415735.pdf))](https://files.diariodarepublica.pt/2s/2011/04/067000000/1570415735.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/2s/2011/04/067000000/1570415735.pdf)
 
 QUADRO II
 
@@ -1632,7 +1760,7 @@ Planos curriculares aprovados pelo [Decreto-Lei n.º 74/2004](https://diariodare
 
 Prova escrita com componente prática - Percentagens a atribuir à componente prática e à componente escrita
 
-[([ver documento original](https://files.diariodarepublica.pt/2s/2011/04/067000000/1570415735.pdf))](https://files.diariodarepublica.pt/2s/2011/04/067000000/1570415735.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/2s/2011/04/067000000/1570415735.pdf)
 
 QUADRO III
 
@@ -1642,7 +1770,7 @@ Planos curriculares aprovados pelo [Decreto-Lei n.º 74/2004](https://diariodare
 
 Provas de equivalência à frequência: Júri nas provas P E EP
 
-[([ver documento original](https://files.diariodarepublica.pt/2s/2011/04/067000000/1570415735.pdf))](https://files.diariodarepublica.pt/2s/2011/04/067000000/1570415735.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/2s/2011/04/067000000/1570415735.pdf)
 
 QUADRO IV
 
@@ -1650,4 +1778,6 @@ Planos de estudo aprovados pelo [Decreto-Lei n.º 74/2004](https://diariodarepub
 
 (a que se refere o n.º 8 do Regulamento dos Exames do Ensino Secundário)
 
-[([ver documento original](https://files.diariodarepublica.pt/2s/2011/04/067000000/1570415735.pdf))](https://files.diariodarepublica.pt/2s/2011/04/067000000/1570415735.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/2s/2011/04/067000000/1570415735.pdf)
+
+204517681

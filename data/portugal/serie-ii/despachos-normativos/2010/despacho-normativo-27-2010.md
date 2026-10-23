@@ -46,30 +46,58 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/despacho-normativo/27-2010-1511427
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2013-01-23T00:00:00Z'
+  retrieved_at: '2026-10-23T15:07:28Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 882ee98159f4a0976acbe9573905099bfa4b5cd43250c3562c9c2dc237f45714
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 5daf140dd4ea961ad9bdbdda727f288eb2bf7ee7dd7e6fde196150a76645d9d6
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:07:28Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Apicultura
+- Comissão de Acompanhamento
+- Definição de Competências
+- Direção Geral de Veterinária
+- Direcção Regional de Agricultura e Pescas
+- Financiamento
+- Gabinete de Planeamento e Políticas
+- IFAP
+- Instituto Nacional de Recursos Biológicos
+- MEL
+- Ministério da Agricultura Desenvolvimento Rural e Pescas
+- Programa Apicola Nacional
+- Transferência de Verbas
 relationships:
 - type: amended_by
   target: pt:dre:3182253:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:2628886:por
+  label: "Aditado o nº6 ao art. 26º do presente diploma, pelo DN.1/2011.26.01.2011.MADRP, DR.IIS [18] de 26.01.2011\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/despacho-normativo/1-2011-2628886
+  date: '2011-01-26'
+- type: amended_by
+  target: pt:dre:2086569:por
+  label: "Aditado o nº 7 ao art. 26º pelo DN.9/2011.23.05.2011.MADRP, DR.IIS [99] de 23.05.2011\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/despacho-normativo/9-2011-2086569
+  date: '2011-05-23'
+- type: amended_by
+  target: pt:dre:3182253:por
+  label: "Alterados os art.s 15.º, 18.º, 19.º e 25.º, pelo DN.2/2013.23.01.2013.SEA-MAMAOT, DR.IIS [16] de 23.01.2013\03\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/despacho-normativo/2-2013-3182253
+  date: '2013-01-23'
 - type: cites
   target: celex:32004R0917
   label: null
@@ -82,21 +110,25 @@ relationships:
   target: celex:32007R1234
   label: null
   source: null
+- type: cites
+  target: pt:dre:481729:por
+  label: null
+  source: null
 article_structure:
   article_count: 27
   section_count: 6
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:07:28Z'
   warnings: []
   errors: []
 ---
 
-# Despacho Normativo n.º 27/2010
+# Despacho normativo n.º 27/2010
 
 No âmbito do Regulamento (CE) n.º 1234/2007, do Conselho, de 22 de Outubro, que estabelece uma organização comum dos mercados agrícolas e disposições específicas para certos produtos e do Regulamento (CE) n.º 917/2004, da Comissão, de 29 de Abril, que fixou as normas de execução relativas às acções no domínio da apicultura, incumbe à Comissão aprovar os programas apícolas nacionais estabelecidos por cada Estado membro por um período de três anos. O Programa Apícola Nacional, aprovado por Decisão da Comissão para o triénio anterior para Portugal, foi complementarmente regulamentado através do despacho normativo n.º 23/2008, publicado no Diário da República, 2.ª série, n.º 77, de 18 de Abril de 2008, encontrando-se em fase de encerramento. Para o triénio de 2011-2013, a Decisão da Comissão C (2010) 6102 final, de 14 de Setembro de 2010, aprovou um novo programa apícola nacional relativamente ao qual se torna agora necessário estabelecer as respectivas regras de aplicação. Procede-se também a algumas adaptações em aspectos operacionais, relativamente ao regime vigente no triénio anterior, com vista a alcançar uma maior eficácia na execução do novo programa e a contribuir para a melhoria da produção e comercialização dos produtos da apicultura através da profissionalização do sector e de incentivos à concentração da oferta. Assim, ao abrigo do disposto no Regulamento (CE) n.º 1234/2007, do Conselho, de 22 de Outubro, e do Regulamento (CE) n.º 917/2004, da Comissão, de 29 de Abril, determino o seguinte:
 
@@ -454,12 +486,14 @@ O presente diploma entra em vigor no dia seguinte ao da sua publicação.
 
 ## ANEXO I — (a que se referem os artigos 4.º e 6.º)
 
-[([ver documento original](https://files.diariodarepublica.pt/2s/2010/11/228000000/5746857478.pdf))](https://files.diariodarepublica.pt/2s/2010/11/228000000/5746857478.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/2s/2010/11/228000000/5746857478.pdf)
 
 ## ANEXO II — (limites das ajudas em euros a que se refere o artigo 16.º)
 
-[([ver documento original](https://files.diariodarepublica.pt/2s/2010/11/228000000/5746857478.pdf))](https://files.diariodarepublica.pt/2s/2010/11/228000000/5746857478.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/2s/2010/11/228000000/5746857478.pdf)
 
 ## ANEXO III — (critérios a que se refere o artigo 14.º)
 
-[([ver documento original](https://files.diariodarepublica.pt/2s/2010/11/228000000/5746857478.pdf))](https://files.diariodarepublica.pt/2s/2010/11/228000000/5746857478.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/2s/2010/11/228000000/5746857478.pdf)
+
+203953395

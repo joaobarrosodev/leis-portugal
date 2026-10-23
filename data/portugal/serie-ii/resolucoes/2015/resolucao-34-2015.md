@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/2s/2015/06/122000000/1700517005.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -46,36 +46,80 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/resolucao/34-2015-67583556
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2015-06-25T00:00:00Z'
+  retrieved_at: '2026-10-23T15:15:39Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 91e83f35bb17940ea2a7933c70c773c44223865bc71618fb743e65b68d03fcac
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: f52f99bc6a5f455885d750ec6b29e97d60f4665a51b9c5251b19fa8880c406f2
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:15:39Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
-relationships: []
+subjects:
+- Conselho de Administração
+- Director Clínico
+- Hospital de Santa Maria Maior
+- Nomeação
+relationships:
+- type: cites
+  target: pt:dre:191077:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:469067:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:498125:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:498720:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:500215:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:520259:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:542993:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:544415:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:553924:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:57701290:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:15:39Z'
   warnings: []
   errors: []
 ---
@@ -111,3 +155,5 @@ Rui Nuno Machado Guimarães, 38 anos, casado, 3 filhos, médico anestesiologista
 Habilitações Académicas: Licenciatura em Medicina na Faculdade de Medicina Universidade de Coimbra (1994-2000); Pós-Graduação em Climatologia e Hidrologia na Faculdade de Medicina da Universidade de Coimbra (2000-2001); Mestrado em Saúde Ocupacional na Faculdade de Medicina da Universidade de Coimbra (2001-2004); Pós-Graduação em Gestão de Unidades de Saúde na Escola de Economia e Gestão da Universidade do Minho (2013-2014).
 
 Experiência Profissional: Coordenador Grupo de Trabalho do Doente Crítico no âmbito da Comissão de Acompanhamento da Informatização Clínica dos Serviços Partilhados do Ministério da Saúde (2015); Assistente Hospitalar do Serviço de Anestesiologia do Hospital de São Marcos - Braga (2006-2015); Organizador e formador no InANESTESIA (desde 2011); Responsável pela organização das TERTÚLIAS DE ANESTESIOLOGIA (desde 2010); Coordenador da Unidade Funcional de Formação do Serviço Anestesiologia do Hospital de Braga (2010-2015); Membro da Direção da Sociedade Portuguesa de Anestesiologia (desde 2009); Membro do Conselho Científico do Comité Europeu para a Educação em Anestesiologia da European Society of Anesthesiology (desde 2009); Médico da VMER do INEM do Hospital de São Teotónio e posteriormente Hospital de São Marcos (2003-2011); Coordenador do Conselho Nacional do Médico Interno da Ordem dos Médicos (2003-2009); Vice-Chairmen Medical Training, Continuing Professional Development and Quality Improvement Subcommittee do Standing Committee of European Doctors (2009); Presidente do European Juniors Doctors (2005-2009); Presidente da Comissão Organizadora dos II, III e XIII Congresso Nacional de Medicina/IV Congresso Nacional do Médico Interno (2005-2007); Presidente da comissão organizadora do I MostrEM - Mostra de Especialidades Médicas (2006); Médico do Internato Complementar de Anestesiologia no Hospital de São Teotónio (2003-2006); Docente da Universidade Católica Portuguesa (2001-2006); Médico no SPA Termal de Alcafache e Termas do Carvalhal (2002-2005); Docente convidado a colaborar na Escola Superior de Enfermagem da Escola Superior de Saúde de Viseu (2003-2006); Membro da comissão de médicos internos do Hospital de São Teotónio (2001-2003); médico do Internato Geral no Hospital de São Teotónio (2001-2002); Membro do Conselho Executivo do Congresso Pensar Portugal (2000); Membro do Senado da Universidade de Coimbra (1999-2001); Membro da Assembleia de Representantes da Faculdade de Medicina da Universidade de Coimbra (1997-1999); Membro do Conselho Diretivo da Faculdade de Medicina da Universidade de Coimbra (1997-1999).
+
+208734493

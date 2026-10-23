@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/2s/2014/09/177000000/2382923836.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -47,45 +47,87 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/despacho-normativo/13-2014-56751860
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2015-09-22T00:00:00Z'
+  retrieved_at: '2026-10-23T15:07:50Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: f8254726b30fff1780f4b02657e36837e6a1930438c83890571e5b9246b21f05
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 89af3c3ef6a0d8a81846b172cb4a22c7f8bb35e7776a69daea75d3ff181d613c
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:07:50Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Acreditação
+- Avaliação de Conhecimentos
+- Ensino Básico
+- Ensino Cooperativo
+- Ensino Oficial
+- Ensino Particular
+- Estabelecimento de Ensino
+- Estudante
+- Insucesso Escolar
+- Regulamento
+- Sistema Educativo
 relationships:
 - type: amended_by
   target: pt:dre:70361634:por
   label: Última alteração registada na importação inicial
   source: null
+- type: cites
+  target: pt:dre:174840:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:178548:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:386871:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:497860:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:504756:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:587624:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:70361634:por
+  label: Revogado, a partir de 23.09.201, exceto o disposto na al. b) do n.º 2 do seu art 13.º para os alunos que se encontram
+    em 2015-2016 matriculados e a frequentar o 4.º ano, pelo(a) Despacho Normativo n.º 17-A/2015 - Diário da República n.º
+    185/2015, 1º Suplemento, Série II de 2015-09-22
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/despacho-normativo/17-a-2015-70361634
+  date: '2015-09-22'
 article_structure:
   article_count: 29
   section_count: 7
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:07:50Z'
   warnings: []
   errors: []
 ---
 
-# Despacho Normativo n.º 13/2014
+# Despacho normativo n.º 13/2014
 
 O [Decreto-Lei n.º 139/2012](https://diariodarepublica.pt/dr/detalhe/decreto-lei/139-2012-178548), de 5 de julho, estabelece os princípios orientadores da organização, da gestão e do desenvolvimento dos currículos dos ensinos básico e secundário, bem como da avaliação e certificação dos conhecimentos adquiridos e capacidades desenvolvidas pelos alunos, aplicáveis às diversas ofertas curriculares do ensino básico e do ensino secundário, ministradas em estabelecimentos do ensino público, particular e cooperativo. Com a publicação do [Decreto-Lei n.º 91/2013](https://diariodarepublica.pt/dr/detalhe/decreto-lei/91-2013-497860), de 10 de julho, procedeu-se a alguns ajustamentos naquele Decreto-Lei de modo a integrar no currículo componentes que reforcem o desempenho dos alunos e que proporcionem um maior desenvolvimento das suas capacidades, e, simultaneamente, reforcem a autonomia pedagógica e organizativa dos estabelecimentos de ensino no que respeita à gestão curricular.
 
@@ -641,7 +683,7 @@ ANEXOS
 
 Prova em cada disciplina e respetiva duração
 
-[([ver documento original](https://files.diariodarepublica.pt/2s/2014/09/177000000/2382923836.pdf))](https://files.diariodarepublica.pt/2s/2014/09/177000000/2382923836.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/2s/2014/09/177000000/2382923836.pdf)
 
 ## ANEXO II — Provas de equivalência à frequência dos 2.º e 3.º ciclos
 
@@ -649,19 +691,19 @@ Prova em cada disciplina e respetiva duração
 
 Prova em cada disciplina e respetiva duração
 
-[([ver documento original](https://files.diariodarepublica.pt/2s/2014/09/177000000/2382923836.pdf))](https://files.diariodarepublica.pt/2s/2014/09/177000000/2382923836.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/2s/2014/09/177000000/2382923836.pdf)
 
 3.º ciclo do ensino básico
 
 Prova em cada disciplina e respetiva duração
 
-[([ver documento original](https://files.diariodarepublica.pt/2s/2014/09/177000000/2382923836.pdf))](https://files.diariodarepublica.pt/2s/2014/09/177000000/2382923836.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/2s/2014/09/177000000/2382923836.pdf)
 
 ## ANEXO III — Provas finais dos 1.º, 2.º e 3.º ciclos do ensino básico (*)
 
 Prova em cada disciplina e respetiva duração
 
-[([ver documento original](https://files.diariodarepublica.pt/2s/2014/09/177000000/2382923836.pdf))](https://files.diariodarepublica.pt/2s/2014/09/177000000/2382923836.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/2s/2014/09/177000000/2382923836.pdf)
 
 (*) Todas as provas finais dos 1.º, 2.º e 3.º ciclos têm tolerância de trinta minutos.
 
@@ -669,11 +711,11 @@ Nota. - Os alunos dos 1.º, 2.º e 3.º ciclos do ensino básico referidos nas a
 
 ## ANEXO IV — Tabela de conversão a que se refere o n.º 8 do artigo 9.º
 
-[([ver documento original](https://files.diariodarepublica.pt/2s/2014/09/177000000/2382923836.pdf))](https://files.diariodarepublica.pt/2s/2014/09/177000000/2382923836.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/2s/2014/09/177000000/2382923836.pdf)
 
 ## ANEXO V — Tabela de conversão a que se refere o n.º 14 do artigo 10.º
 
-[([ver documento original](https://files.diariodarepublica.pt/2s/2014/09/177000000/2382923836.pdf))](https://files.diariodarepublica.pt/2s/2014/09/177000000/2382923836.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/2s/2014/09/177000000/2382923836.pdf)
 
 ## ANEXO VI — Procedimentos Específicos a observar no Desenvolvimento da Prova Extraordinária de Avaliação (PEA)
 
@@ -692,3 +734,5 @@ Nota. - Os alunos dos 1.º, 2.º e 3.º ciclos do ensino básico referidos nas a
 7 - Caso o aluno não compareça à prestação da prova extraordinária de avaliação, não lhe poderá ser atribuída qualquer classificação na disciplina em causa, devendo o conselho de turma avaliar a situação, tendo em conta o percurso global do aluno.
 
 8 - Após a realização da PEA, é necessário proceder-se a uma reunião extraordinária do conselho de turma para ratificação das classificações do aluno.
+
+208086436

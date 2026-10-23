@@ -48,18 +48,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/229/2006/03/10/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/229-2006-667078
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2006-03-10T00:00:00Z'
+  retrieved_at: '2026-10-23T15:12:48Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: e9ac828f0b8ed9ed75b0ea876c9fb716c36aeba3f6544d38027bb00d98a87b35
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: cb448c8205399ad88bb510a9cd52bb554db6b0aa60461a6e19a71ba9cb8b3e12
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:12:48Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -69,15 +69,15 @@ reuse:
 subjects:
 - Actualização de Pensões
 - Administração Central
-- Função Pública
+- Administração Local
+- Administração Pública
+- Administração Regional
 - Ajudas de Custo
-- Pessoal Dirigente
+- Caixa Geral de Aposentações
 - Deslocação ao Estrangeiro
 - Deslocação em Serviço
-- Regulamentação de Atos Legislativos
-- Administração Pública
-- Caixa Geral de Aposentações
-- Remuneração Acessória
+- Função Pública
+- Funcionário Público
 - Membros do Governo
 - Missão Oficial
 - Pensão de Aposentação
@@ -85,11 +85,11 @@ subjects:
 - Pensão de Preço de Sangue
 - Pensão de Reforma
 - Pensionista
+- Pessoal Dirigente
 - Proteção Social
-- Administração Local
+- Regulamentação de Atos Legislativos
 - Remuneração
-- Funcionário Público
-- Administração Regional
+- Remuneração Acessória
 - Subsídio de Férias
 - Subsídio de Refeição
 - Subsídio de Transporte
@@ -111,16 +111,44 @@ relationships:
   target: eli:http://data.dre.pt/eli/dec-lei/61/1992/04/15/p/dre
   label: null
   source: http://data.dre.pt/eli/dec-lei/61/1992/04/15/p/dre
+- type: cites
+  target: pt:dre:176328:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:200862:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:291808:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:375267:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:466655:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:484656:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:643282:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:12:48Z'
   warnings: []
   errors: []
 ---
@@ -243,4 +271,4 @@ b) Em 1,5%, as pensões de aposentação, reforma e invalidez até (euro) 3500 e
 
 18.º A presente portaria produz efeitos desde 1 de Janeiro de 2006.
 
-**O Ministro de Estado e das Finanças, Fernando Teixeira dos Santos, em 10 de Fevereiro de 2006.**
+O Ministro de Estado e das Finanças, Fernando Teixeira dos Santos, em 10 de Fevereiro de 2006.

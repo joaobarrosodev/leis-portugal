@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/2s/2009/04/064000000/1233212335.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,45 +46,102 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/despacho-normativo/13-2009-1142925
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2016-12-21T00:00:00Z'
+  retrieved_at: '2026-10-23T15:07:09Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: fe62f57a2d4bc7bd6a98dc21e95ce92d803e17fb1269a73655c4e157a6805a14
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: bc8404a7e3703f250510947266907022f9e1b8f68c159271d7c2d005ba820c46
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:07:09Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Assinatura Digital
+- Cejur
+- Certificação Electrónica
+- Diário da República
+- Diploma Legal
+- Imprensa Nacional-Casa da Moeda
+- Pagamento
+- Publicação Electrónica
+- Publicitação
+- Regulamento
+- Serviço Público
 relationships:
 - type: amended_by
   target: pt:dre:105579672:por
   label: Última alteração registada na importação inicial
   source: null
+- type: cites
+  target: pt:dre:1116545:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:234316:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:323949:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:357350:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:453975:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:521257:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:548239:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:548241:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:623841:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:640909:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:105579672:por
+  label: Revogado, a partir de 22.12.2016, o DN 35-A/2008 de 29-jul, na redação do presente Despacho, pelo(a) Despacho Normativo
+    n.º 15/2016 - Diário da República n.º 243/2016, Série II de 2016-12-21
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/despacho-normativo/15-2016-105579672
+  date: '2016-12-21'
 article_structure:
-  article_count: 17
+  article_count: 14
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:07:09Z'
   warnings: []
   errors: []
 ---
 
-# Despacho Normativo n.º 13/2009
+# Despacho normativo n.º 13/2009
 
 Atenta a entrada em vigor do Regime Jurídico do Contrato de Trabalho em Funções Públicas, aprovado pela [Lei n.º 59/2008](https://diariodarepublica.pt/dr/detalhe/lei/59-2008-453975), de 11 de Setembro, torna-se necessário proceder a algumas alterações pontuais ao Regulamento de Publicação de Actos no Diário da República, aprovado pelo [Despacho Normativo n.º 35-A/2008](https://diariodarepublica.pt/dr/detalhe/despacho-normativo/35-a-2008-1116545), de 28 de Julho, publicado no Diário da República, 2.ª série, n.º 145, de 29 de Julho de 2008, adequando-o às novas exigências em matéria de organização das partes da 2.ª série e de tipos de actos.
 
@@ -140,7 +197,9 @@ L - ...
 
 8 - (Anterior n.º 7.)
 
-###### Artigo 7.º — [...]
+Artigo 7.º
+
+[...]
 
 1 - Os actos publicados nas partes A a J3 da 2.ª série do Diário da República distribuem-se pelos seguintes tipos, aos quais é atribuída numeração distinta, independentemente da parte em que se integrem:
 
@@ -226,7 +285,9 @@ ao) [Anterior alínea ah).]
 
 5 - ...
 
-###### Artigo 9.º — [...]
+Artigo 9.º
+
+[...]
 
 1 - ...
 
@@ -236,7 +297,9 @@ ao) [Anterior alínea ah).]
 
 4 - ...
 
-###### Artigo 10.º — [...]
+Artigo 10.º
+
+[...]
 
 1 - ...
 
@@ -521,3 +584,5 @@ Salvo nos casos expressamente previstos na lei, não é admitida a publicação 
 ###### Artigo 14.º — Divulgação do Regulamento
 
 A Imprensa Nacional-Casa da Moeda, S. A., deve promover a divulgação do presente Regulamento a todas as entidades emitentes de actos sujeitos a publicação no Diário da República, bem como anunciá-lo no sítio da Internet onde a edição electrónica do Diário da República é disponibilizada.
+
+6872009

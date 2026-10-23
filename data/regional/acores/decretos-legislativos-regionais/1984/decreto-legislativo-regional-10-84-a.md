@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1984/02/03200/03980404.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,40 +46,70 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/10-1984-660527
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1990-01-18T00:00:00Z'
+  retrieved_at: '2026-10-23T15:17:00Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 078a4d2ecbf5fa00df7938cc0a818b0cbc9af024d82e1174c8c8b9ff97f2f902
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 1b3d69fb8980b36a7a85a4a75cc2a4c835dfc8eaae95b2e773cddfff51590212
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:17:00Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Açores
+- CAÇA
+- Carta de Caçador
+- Comissão Venatória
+- Fiscalização
+- Licença de Caça
+- Reserva de CAÇA
 relationships:
 - type: amended_by
   target: pt:dre:333542:por
   label: Última alteração registada na importação inicial
   source: null
+- type: cites
+  target: pt:dre:312807:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:378965:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:547241:por
+  label: null
+  source: null
+- type: corrected_by
+  target: pt:dre:631578:por
+  label: Rectificado pela DECL.DD2400.1984.03.16.PCM DR.IS [77]2ºSupl. de 31/Mar/1984
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/declaracao/1984-631578
+  date: '1984-03-16'
+- type: repealed_by
+  target: pt:dre:333542:por
+  label: "Revogado o presente diploma a partir de 01.07.1990, pelo DLR.3/90/A.18.01.1990.ALR-RAA, DR.IS [15] de 18.01.1990\0\
+    0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-legislativo-regional/3-1990-333542
+  date: '1990-01-18'
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 23
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:17:00Z'
   warnings: []
   errors: []
 ---
@@ -134,17 +164,17 @@ A Assembleia Regional dos Açores decreta, nos termos da alínea a) do artigo 22
 
 #### SECÇÃO I — Disposições gerais
 
-###### Artigo 1.º O exercício da caça na Região Autónoma dos Açores rege-se pelo disposto no presente decreto legislativo regional e na respectiva regulamentação.
+Artigo 1.º O exercício da caça na Região Autónoma dos Açores rege-se pelo disposto no presente decreto legislativo regional e na respectiva regulamentação.
 
-###### Art. 2.º A caça é a ocupação ou apreensão dos animais bravios que se encontram em estado de liberdade natural e que não vivem habitualmente sob as águas.
+Art. 2.º A caça é a ocupação ou apreensão dos animais bravios que se encontram em estado de liberdade natural e que não vivem habitualmente sob as águas.
 
-###### Art. 3.º Considera-se exercício da caça toda a actividade que tenha por fim aquela ocupação ou apreensão, designadamente os actos de esperar, procurar, perseguir, apanhar ou matar aqueles animais.
+Art. 3.º Considera-se exercício da caça toda a actividade que tenha por fim aquela ocupação ou apreensão, designadamente os actos de esperar, procurar, perseguir, apanhar ou matar aqueles animais.
 
-###### Art. 4.º - 1 - A todas as pessoas é facultado o direito de exercer a caça, desde que se conformem com as normas legais, regulamentares e resultantes de convenções internacionais.
+Art. 4.º - 1 - A todas as pessoas é facultado o direito de exercer a caça, desde que se conformem com as normas legais, regulamentares e resultantes de convenções internacionais.
 
 2 - Consideram-se caçadores todos aqueles que praticam actos de caça, qualquer que seja o modo por que os exerçam, exceptuados os batedores.
 
-###### Art. 5.º - 1 - O caçador apropria-se do animal pelo facto da sua ocupação ou apreensão, mas adquire direito a ele logo que o ferir, mantendo esse direito enquanto for em sua perseguição.
+Art. 5.º - 1 - O caçador apropria-se do animal pelo facto da sua ocupação ou apreensão, mas adquire direito a ele logo que o ferir, mantendo esse direito enquanto for em sua perseguição.
 
 2 - Considera-se ocupado ou apreendido o animal que for morto pelo caçador ou apanhado peles seus cães ou aves de presa durante o acto venatório.
 
@@ -156,17 +186,17 @@ A Assembleia Regional dos Açores decreta, nos termos da alínea a) do artigo 22
 
 Pessoas que podem exercer a caça
 
-###### Art. 6.º - 1 - O exercício do direito de caçar está sujeito a requisitos pessoais e a limitações quanto ao modo, ao tempo, aos processos e às espécies cinegéticas.
+Art. 6.º - 1 - O exercício do direito de caçar está sujeito a requisitos pessoais e a limitações quanto ao modo, ao tempo, aos processos e às espécies cinegéticas.
 
 2 - Os requisitos pessoais são os que constarem de lei de aplicação nacional.
 
 3 - As limitações referidas no n.º 1 são as constantes deste decreto legislativo regional e da sua regulamentação.
 
-###### Art. 7.º - 1 - Os caçadores podem ser ajudados por auxiliares, com a função de conduzir os cães para que estes procurem ou persigam a caça, que eles próprios podem levantar e afuroar, denominados batedores, ou de transportar mantimentos, armas descarregadas ou caça abatida, designados por secretários, não podendo estes, porém, praticar quaisquer actos de caça ou exercer as funções de batedores.
+Art. 7.º - 1 - Os caçadores podem ser ajudados por auxiliares, com a função de conduzir os cães para que estes procurem ou persigam a caça, que eles próprios podem levantar e afuroar, denominados batedores, ou de transportar mantimentos, armas descarregadas ou caça abatida, designados por secretários, não podendo estes, porém, praticar quaisquer actos de caça ou exercer as funções de batedores.
 
 2 - Podem ainda os caçadores fazer-se acompanhar de cães, furões e aves de presa.
 
-###### Art. 8.º - 1 - Os agentes de autoridade com competência para a fiscalização da caça não podem exercer a mesma durante os períodos de exercício das suas funções, salvo se estiverem autorizados pelos dirigentes dos respectivos serviços, mas não podendo, nesse caso, usar fardamento.
+Art. 8.º - 1 - Os agentes de autoridade com competência para a fiscalização da caça não podem exercer a mesma durante os períodos de exercício das suas funções, salvo se estiverem autorizados pelos dirigentes dos respectivos serviços, mas não podendo, nesse caso, usar fardamento.
 
 2 - Os membros das comissões venatórias, quando no exercício da caça, mantêm a competência para efectuar a respectiva fiscalização.
 
@@ -176,25 +206,25 @@ Pessoas que podem exercer a caça
 
 #### SECÇÃO I — Disposições gerais
 
-###### Art. 9.º Os indivíduos a quem é lícito caçar nos termos deste diploma só poderão fazê-lo se forem titulares da carta de caçador e estiverem munidos das licenças legalmente exigidas.
+Art. 9.º Os indivíduos a quem é lícito caçar nos termos deste diploma só poderão fazê-lo se forem titulares da carta de caçador e estiverem munidos das licenças legalmente exigidas.
 
-###### Art. 10.º Podem ser dispensados da carta de caçador e das licenças os estrangeiros com estatuto especial ou não residentes em território nacional e os cidadãos nacionais residentes no estrangeiro, de acordo com convenções internacionais, lei geral da República ou normas regulamentares.
+Art. 10.º Podem ser dispensados da carta de caçador e das licenças os estrangeiros com estatuto especial ou não residentes em território nacional e os cidadãos nacionais residentes no estrangeiro, de acordo com convenções internacionais, lei geral da República ou normas regulamentares.
 
 #### SECÇÃO II — Carta de caçador
 
-###### Art. 11.º Na Região, a obtenção da carta de caçador rege-se pelo presente diploma e pela sua regulamentação, sem prejuízo do disposto no n.º 2 do artigo 6.º
+Art. 11.º Na Região, a obtenção da carta de caçador rege-se pelo presente diploma e pela sua regulamentação, sem prejuízo do disposto no n.º 2 do artigo 6.º
 
-###### Art. 12.º A carta de caçador ou respectiva revalidação é concedida pelo director regional dos Recursos Florestais e requerida através do serviço da direcção regional com jurisdição na área da residência do requerente.
+Art. 12.º A carta de caçador ou respectiva revalidação é concedida pelo director regional dos Recursos Florestais e requerida através do serviço da direcção regional com jurisdição na área da residência do requerente.
 
-###### Art. 13.º - 1 - A obtenção da carta de caçador poderá ficar dependente de um exame a realizar pelo candidato, de acordo com a regulamentação a aprovar pelo Governo Regional.
+Art. 13.º - 1 - A obtenção da carta de caçador poderá ficar dependente de um exame a realizar pelo candidato, de acordo com a regulamentação a aprovar pelo Governo Regional.
 
 2 - O titular da carta de caçador que seja condenado por infracção às disposições legais sobre a caça poderá, em termos a regulamentar, ser submetido ao exame referido no número anterior, como condição de manutenção da carta.
 
 #### SECÇÃO III — Licença para o exercício da caça
 
-###### Art. 14.º O exercício da caça, seja qual for o processo utilizado, depende da posse de licença anual de caça e das demais licenças exigidas, consoante as circunstâncias.
+Art. 14.º O exercício da caça, seja qual for o processo utilizado, depende da posse de licença anual de caça e das demais licenças exigidas, consoante as circunstâncias.
 
-###### Art. 15.º A licença de caça reveste as seguintes modalidades:
+Art. 15.º A licença de caça reveste as seguintes modalidades:
 
 a) Licença regional;
 
@@ -202,25 +232,25 @@ b) Licença de ilha;
 
 c) Licença de caça sem espingarda.
 
-###### Art. 16.º As licenças de caça previstas no artigo anterior poderão incluir, desde que devidamente expresso, o direito de utilização de auxiliares ou de certos processos ou instrumentos de caça relativamente aos quais seja exigido licenciamento especial.
+Art. 16.º As licenças de caça previstas no artigo anterior poderão incluir, desde que devidamente expresso, o direito de utilização de auxiliares ou de certos processos ou instrumentos de caça relativamente aos quais seja exigido licenciamento especial.
 
-###### Art. 17.º É proibido possuir ou transportar furões ou dar guarida a estes animais ou andar munido dos mesmos sem alguma das licenças a que se refere o artigo 15.º
+Art. 17.º É proibido possuir ou transportar furões ou dar guarida a estes animais ou andar munido dos mesmos sem alguma das licenças a que se refere o artigo 15.º
 
 ### CAPÍTULO III — Locais de caça
 
-###### Art. 18.º A caça pode ser exercida em todos os terrenos, no mar, nas áreas de jurisdição marítima e nas águas interiores, observadas as condições e restrições convencionais e legais.
+Art. 18.º A caça pode ser exercida em todos os terrenos, no mar, nas áreas de jurisdição marítima e nas águas interiores, observadas as condições e restrições convencionais e legais.
 
-###### Art. 19.º O proprietário, o possuidor ou os respectivos representantes podem opor-se ao exercício da caça nos seus terrenos por quem não exibir a competente licença de caça e não estiver devidamente autorizado a caçar naqueles terrenos, quando a autorização seja necessária.
+Art. 19.º O proprietário, o possuidor ou os respectivos representantes podem opor-se ao exercício da caça nos seus terrenos por quem não exibir a competente licença de caça e não estiver devidamente autorizado a caçar naqueles terrenos, quando a autorização seja necessária.
 
-###### Art. 20.º - 1 - É proibido caçar em todas as áreas onde os actos venatórios constituem perigo para a vida, a saúde ou a tranquilidade das pessoas ou risco de graves danos para os bens, designadamente nos povoados, nos terrenos anexos a instituições de saúde, de assistência, de ensino e de carácter científico, a estabelecimentos militares e a centros de comunicações, nos aeroportos, aeródromos, recintos desportivos, parques, locais de recreio público e estradas.
+Art. 20.º - 1 - É proibido caçar em todas as áreas onde os actos venatórios constituem perigo para a vida, a saúde ou a tranquilidade das pessoas ou risco de graves danos para os bens, designadamente nos povoados, nos terrenos anexos a instituições de saúde, de assistência, de ensino e de carácter científico, a estabelecimentos militares e a centros de comunicações, nos aeroportos, aeródromos, recintos desportivos, parques, locais de recreio público e estradas.
 
 2 - É proibido caçar com espingarda nas áreas onde essa forma de exercício da caça apresente os inconvenientes referidos no número anterior, nomeadamente na faixa periférica de 250 m dos locais ali previstos.
 
 3 - A lei que criar reservas naturais ou zonas protegidas poderá estabelecer limitações especiais do exercício da caça.
 
-###### Art. 21.º O Governo Regional promoverá a regulamentação do artigo anterior, da qual constarão designadamente os mecanismos adequados a corrigir, quando necessário, a densidade das espécies nalguma das áreas referidas.
+Art. 21.º O Governo Regional promoverá a regulamentação do artigo anterior, da qual constarão designadamente os mecanismos adequados a corrigir, quando necessário, a densidade das espécies nalguma das áreas referidas.
 
-###### Art. 22.º - 1 - É proibido caçar sem autorização dos proprietários, possuidores ou respectivos representantes:
+Art. 22.º - 1 - É proibido caçar sem autorização dos proprietários, possuidores ou respectivos representantes:
 
 a) Nos terrenos murados ou vedados, nos quintais, parques ou jardins anexos a casas de habitação; com utilização de espingarda, em quaisquer terrenos que circundem estas e nos situados numa área de 250 m de raio;
 
@@ -236,27 +266,27 @@ e) Nas propriedades ou partes de propriedade não abrangidas pelas alíneas ante
 
 3 - Os terrenos de pastagem permanente não ficam abrangidos pelo disposto na alínea a) do n.º 1, podendo ficar abrangidos pela alínea e) do mesmo número.
 
-###### Art. 23.º- 1 - Nos terrenos e matas propriedade do Governo Regional e entidades públicas submetidos ao regime florestal e ou sob administração directa da Direcção Regional dos Recursos Florestais só é permitido caçar, desde que sinalizados, mediante autorização especial gratuita, cuja concessão obedeça a critérios gerais, abrangendo todos os caçadores.
+Art. 23.º- 1 - Nos terrenos e matas propriedade do Governo Regional e entidades públicas submetidos ao regime florestal e ou sob administração directa da Direcção Regional dos Recursos Florestais só é permitido caçar, desde que sinalizados, mediante autorização especial gratuita, cuja concessão obedeça a critérios gerais, abrangendo todos os caçadores.
 
 2 - É da competência da Direcção Regional dos Recursos Florestais a concessão da licença mencionada no número anterior, bem como a elaboração dos calendários venatórios para aqueles terrenos, ouvido para este efeito o parecer da comissão venatória da respectiva ilha.
 
 ### CAPÍTULO IV — Períodos venatórios
 
-###### Art. 24.º - 1 - A caça só pode ser exercida na época geral e nos períodos especiais fixados para a caça de certas espécies ou em determinadas circunstâncias, salvas as excepções previstas na lei.
+Art. 24.º - 1 - A caça só pode ser exercida na época geral e nos períodos especiais fixados para a caça de certas espécies ou em determinadas circunstâncias, salvas as excepções previstas na lei.
 
 2 - É considerado período de defeso o que se situa fora da época geral da caça ou dos períodos venatórios especiais.
 
-###### Art. 25.º Os proprietários ou possuidores de prédios murados ou vedados por forma a que os coelhos não possam sair e entrar livremente podem dar-lhes caça em qualquer altura e por qualquer forma.
+Art. 25.º Os proprietários ou possuidores de prédios murados ou vedados por forma a que os coelhos não possam sair e entrar livremente podem dar-lhes caça em qualquer altura e por qualquer forma.
 
 ### CAPÍTULO V — Processos de caça
 
-###### Art. 26.º - 1 - A caça só pode ser exercida pelos processos autorizados em regulamento e nele se estabelecerão as limitações ao uso dos processos e meios admitidos para aplicação genérica ou consoante as espécies cinegéticas e as circunstâncias de tempo e de lugar.
+Art. 26.º - 1 - A caça só pode ser exercida pelos processos autorizados em regulamento e nele se estabelecerão as limitações ao uso dos processos e meios admitidos para aplicação genérica ou consoante as espécies cinegéticas e as circunstâncias de tempo e de lugar.
 
 2 - Quando a diminuição da densidade de qualquer espécie cinegética aconselhar a sua protecção, poderá o Secretário Regional da Agricultura e Pescas estabelecer limitações aos processos ou meios de exercício da respectiva caça, incluindo a proibição de determinados tipos de armas de fogo.
 
 ### CAPÍTULO VI — Espécies cinegéticas
 
-###### Art. 27.º - 1 - Para efeitos do disposto no presente diploma, são consideradas espécies cinegéticas que na Região podem ser objecto de caça, tendo em atenção os respectivos condicionalismos, as seguintes:
+Art. 27.º - 1 - Para efeitos do disposto no presente diploma, são consideradas espécies cinegéticas que na Região podem ser objecto de caça, tendo em atenção os respectivos condicionalismos, as seguintes:
 
 O coelho (Orytolagus cuniculus L.);
 
@@ -274,33 +304,33 @@ A perdiz (Alectoris rufa L.).
 
 3 - Poderão ser definidas, por portaria do Secretário Regional da Agricultura e Pescas, outras espécies cuja caça venha a ser permitida, com excepção do pato real na ilha das Flores.
 
-###### Art. 28.º São proibidas a captura e a destruição dos ninhos, ovos e crias de qualquer espécie, salvo os casos previstos neste diploma, designadamente quanto ao pardal.
+Art. 28.º São proibidas a captura e a destruição dos ninhos, ovos e crias de qualquer espécie, salvo os casos previstos neste diploma, designadamente quanto ao pardal.
 
-###### Art. 29.º - 1 - Quando a diminuição da densidade de qualquer espécie cinegética aconselhar a sua protecção, poderá o Secretário Regional da Agricultura e Pescas proibir a respectiva caça ou limitar o número de exemplares dessa espécie que cada caçador possa abater diariamente.
+Art. 29.º - 1 - Quando a diminuição da densidade de qualquer espécie cinegética aconselhar a sua protecção, poderá o Secretário Regional da Agricultura e Pescas proibir a respectiva caça ou limitar o número de exemplares dessa espécie que cada caçador possa abater diariamente.
 
 2 - As proibições e limitações fixarão a área a elas sujeitas e a respectiva duração.
 
 3 - As áreas onde estiver proibida a caça ou sujeitas a outras limitações serão tornadas públicas por edital das comissões venatórias, não carecendo de sinalização.
 
-###### Art. 30.º A captura de espécies, incluindo a captura para anilhagem ou quaisquer outros objectivos de estudo, cuja caça esteja proibida ou limitada, bem como dos respectivos ninhos e ovos, destinados a institutos de investigação, organismos de fins científicos ou didácticos, museus e instituições similares, só pode ser autorizada pelo Secretário Regional da Agricultura e Pescas.
+Art. 30.º A captura de espécies, incluindo a captura para anilhagem ou quaisquer outros objectivos de estudo, cuja caça esteja proibida ou limitada, bem como dos respectivos ninhos e ovos, destinados a institutos de investigação, organismos de fins científicos ou didácticos, museus e instituições similares, só pode ser autorizada pelo Secretário Regional da Agricultura e Pescas.
 
 ### CAPÍTULO VII — Defesa contra animais que se tornem nocivos
 
-###### Art. 31.º - 1 - É permitido a todo o tempo, nos termos do presente diploma e da sua regulamentação, destruir os animais que se tornem nocivos à agricultura, à caça e à pecuária.
+Art. 31.º - 1 - É permitido a todo o tempo, nos termos do presente diploma e da sua regulamentação, destruir os animais que se tornem nocivos à agricultura, à caça e à pecuária.
 
 2 - O direito previsto no número anterior pode ser exercido, independentemente da carta de caçador e de licenças de caça, nos terrenos em que os animais causem prejuízos.
 
-###### Art. 32.º - 1 - Os directores de serviços da Direcção Regional dos Recursos Florestais ou os administradores florestais poderão autorizar, em época de defeso, as providências necessárias à correcção da densidade das espécies cinegéticas, incluindo o uso de processos de caça não permitidos, com excepção da utilização de produtos tóxicos, nos terrenos em que elas estejam a provocar prejuízos à agricultura ou à silvicultura.
+Art. 32.º - 1 - Os directores de serviços da Direcção Regional dos Recursos Florestais ou os administradores florestais poderão autorizar, em época de defeso, as providências necessárias à correcção da densidade das espécies cinegéticas, incluindo o uso de processos de caça não permitidos, com excepção da utilização de produtos tóxicos, nos terrenos em que elas estejam a provocar prejuízos à agricultura ou à silvicultura.
 
 2 - As entidades referidas no número anterior poderão ouvir os serviços de agricultura e a comissão venatória da respectiva ilha, sem prejuízo para a celeridade da autorização.
 
-###### Art. 33.º - 1 - Os pombos mansos que forem encontrados a causar prejuízos em quaisquer propriedades podem ser abatidos, por processos legalmente autorizados, pelos proprietários ou possuidores das áreas prejudicadas ou a pedido daqueles.
+Art. 33.º - 1 - Os pombos mansos que forem encontrados a causar prejuízos em quaisquer propriedades podem ser abatidos, por processos legalmente autorizados, pelos proprietários ou possuidores das áreas prejudicadas ou a pedido daqueles.
 
 2 - Os pardais podem ser abatidos e destruídos os seus ninhos em qualquer época do ano.
 
 ### CAPÍTULO VIII — Reservas de caça
 
-###### Art. 34.º - 1 - Para protecção e fomento das espécies cinegéticas e prossecução de fins científicos serão constituídas reservas de caça, cujo regime será estabelecido na respectiva regulamentação.
+Art. 34.º - 1 - Para protecção e fomento das espécies cinegéticas e prossecução de fins científicos serão constituídas reservas de caça, cujo regime será estabelecido na respectiva regulamentação.
 
 2 - As reservas de caça podem ser integrais (reservas zoológicas) ou parciais (zonas de protecção).
 
@@ -312,9 +342,9 @@ A perdiz (Alectoris rufa L.).
 
 ### CAPÍTULO IX — Criação artificial de caça
 
-###### Art. 35.º Poderão ser instalados postos de criação artificial de caça, destinados à criação de espécies cinegéticas para fomento ou exploração industrial.
+Art. 35.º Poderão ser instalados postos de criação artificial de caça, destinados à criação de espécies cinegéticas para fomento ou exploração industrial.
 
-###### Art. 36.º - 1 - Os postos explorados por entidades privadas ficam sujeitos a inspecção sanitário da Direcção Regional de Veterinária.
+Art. 36.º - 1 - Os postos explorados por entidades privadas ficam sujeitos a inspecção sanitário da Direcção Regional de Veterinária.
 
 2 - Poderão ser encerrados os postos que não funcionem nas indispensáveis condições de sanidade ou que, por qualquer razão, deixem de reunir as condições necessárias ao seu funcionamento.
 
@@ -322,25 +352,25 @@ A perdiz (Alectoris rufa L.).
 
 ### CAPÍTULO X — Comércio e transporte de caça
 
-###### Art. 37.º - 1 - É proibido o comércio de espécies cinegéticas, com excepção das produzidas em postos de criação artificial de caça.
+Art. 37.º - 1 - É proibido o comércio de espécies cinegéticas, com excepção das produzidas em postos de criação artificial de caça.
 
 2 - Será permitida a comercialização de coelho bravo mediante regulamentação específica.
 
-###### Art. 38.º - 1 - Por razões de prevenção sanitário e de adequação ao meio físico da Região, a importação de exemplares vivos de qualquer espécie cinegética fica condicionada a autorização do Secretário Regional da Agricultura e Pescas, precedendo parecer da Direcção Regional de Veterinária.
+Art. 38.º - 1 - Por razões de prevenção sanitário e de adequação ao meio físico da Região, a importação de exemplares vivos de qualquer espécie cinegética fica condicionada a autorização do Secretário Regional da Agricultura e Pescas, precedendo parecer da Direcção Regional de Veterinária.
 
 2 - Serão apreendidos todos os exemplares de espécies que forem encontrados em violação do disposto no número anterior, qualquer que seja o local onde se encontrem.
 
-###### Art. 39.º - 1 - Durante o exercício da caça, o caçador e os seus ajudantes, em conjunto, não podem transportar um número de peças de cada espécie superior ao limite máximo diário que seja permitido caçar na área onde se encontrem.
+Art. 39.º - 1 - Durante o exercício da caça, o caçador e os seus ajudantes, em conjunto, não podem transportar um número de peças de cada espécie superior ao limite máximo diário que seja permitido caçar na área onde se encontrem.
 
 2 - Fora do exercício da caça, os caçadores não poderão ser portadores, por si ou nos meios de transporte em que se desloquem, de um número de exemplares de espécies cinegéticas superior aos limites diários autorizados.
 
 ### CAPÍTULO XI — Cães
 
-###### Art. 40.º Os cães de caça, mesmo que atrelados, não podem ser levados nas épocas de defeso para os terrenos frequentados por caça.
+Art. 40.º Os cães de caça, mesmo que atrelados, não podem ser levados nas épocas de defeso para os terrenos frequentados por caça.
 
-###### Art. 41.º Não podem ser utilizados no exercício da caça quaisquer cães que nas respectivas licenças sejam classificados como de guarda, de luxo, ou rateiros, nem os caçadores se podem fazer acompanhar dos mesmos durante o acto venatório.
+Art. 41.º Não podem ser utilizados no exercício da caça quaisquer cães que nas respectivas licenças sejam classificados como de guarda, de luxo, ou rateiros, nem os caçadores se podem fazer acompanhar dos mesmos durante o acto venatório.
 
-###### Art. 42.º - 1 - Nenhum guardador de gado poderá fazer-se acompanhar por mais de 1 cão por cada 20 cabeças de gado ou fracção deste número que conduzir ou guardar, excepto nas ilhas e explorações onde exista a criação de gado bravo.
+Art. 42.º - 1 - Nenhum guardador de gado poderá fazer-se acompanhar por mais de 1 cão por cada 20 cabeças de gado ou fracção deste número que conduzir ou guardar, excepto nas ilhas e explorações onde exista a criação de gado bravo.
 
 2 - Não podem os guardadores de gado ou pastores, porém, em nenhum caso, perseguir qualquer espécie de caça com o auxílio dos seus cães de gado.
 
@@ -350,27 +380,27 @@ A perdiz (Alectoris rufa L.).
 
 #### SECÇÃO I — Infracções
 
-###### Art. 43.º - 1 - A caça em época de defeso, a caça de espécies proibidas, a caça em locais proibidos ou com emprego de meios não permitidos constituem contra-ordenações puníveis com coima de 20000$00 a 50000$00 e acarretam sempre a interdição do direito de caçar, bem como a perda dos instrumentos e produtos da infracção.
+Art. 43.º - 1 - A caça em época de defeso, a caça de espécies proibidas, a caça em locais proibidos ou com emprego de meios não permitidos constituem contra-ordenações puníveis com coima de 20000$00 a 50000$00 e acarretam sempre a interdição do direito de caçar, bem como a perda dos instrumentos e produtos da infracção.
 
 2 - Para efeitos do número anterior não se consideram instrumentos de infracção os veículos e animais utilizados.
 
-###### Art. 44.º Considera-se caça de espécies proibidas:
+Art. 44.º Considera-se caça de espécies proibidas:
 
 a) A caça de qualquer animal em local onde não seja permitida a caça da respectiva espécie, salvo se praticada sob a autorização prevista no artigo 30.º;
 
 b) A caça exercida com inobservância do limite de exemplares a abater em cada dia, estabelecido no n.º 1 do artigo 29.º
 
-###### Art. 45.º As infracções à disciplina da caça, prevista no presente decreto legislativo regional e na sua regulamentação, que não constam do artigo 43.º são puníveis com coima de 1000$00 a 20000$00.
+Art. 45.º As infracções à disciplina da caça, prevista no presente decreto legislativo regional e na sua regulamentação, que não constam do artigo 43.º são puníveis com coima de 1000$00 a 20000$00.
 
-###### Art. 46.º A aplicação das coimas é da competência do director regional dos Recursos Florestais.
+Art. 46.º A aplicação das coimas é da competência do director regional dos Recursos Florestais.
 
 #### SECÇÃO II — Responsabilidade civil
 
-###### Art. 47.º A responsabilidade civil por danos causados no exercício da caça é regulada nos termos gerais.
+Art. 47.º A responsabilidade civil por danos causados no exercício da caça é regulada nos termos gerais.
 
 ### CAPÍTULO XIII — Fiscalização
 
-###### Art. 48.º - 1 - A polícia e a fiscalização da caça competem a todas as autoridades administrativas e policiais e, em especial, aos funcionários e agentes da Direcção Regional dos Recursos Florestais, com funções de polícia florestais, membros das comissões venatórias, guardas hidráulicos e vigilantes da Secretaria Regional do Equipamento Social, Polícia de Segurança Pública, Polícia Marítima e Guarda Fiscal ou outros agentes da autoridade que venham a ser indicados em regulamento.
+Art. 48.º - 1 - A polícia e a fiscalização da caça competem a todas as autoridades administrativas e policiais e, em especial, aos funcionários e agentes da Direcção Regional dos Recursos Florestais, com funções de polícia florestais, membros das comissões venatórias, guardas hidráulicos e vigilantes da Secretaria Regional do Equipamento Social, Polícia de Segurança Pública, Polícia Marítima e Guarda Fiscal ou outros agentes da autoridade que venham a ser indicados em regulamento.
 
 2 - As autoridades administrativas e policiais, bem como os seus agentes, deverão, no âmbito das respectivas funções, prestar o auxílio de que as demais entidades competentes careçam para a fiscalização do cumprimento do disposto no presente diploma.
 
@@ -378,7 +408,7 @@ b) A caça exercida com inobservância do limite de exemplares a abater em cada 
 
 ### CAPÍTULO XIV — Competência dos serviços
 
-###### Art. 49.º - 1 - Constituem atribuições da Secretaria Regional da Agricultura e Pescas, a serem exercidas através da Direcção Regional dos Recursos Florestais:
+Art. 49.º - 1 - Constituem atribuições da Secretaria Regional da Agricultura e Pescas, a serem exercidas através da Direcção Regional dos Recursos Florestais:
 
 a) O fomento e a protecção do património cinegético regional em colaboração com o Departamento de Ecologia da Universidade dos Açores;
 
@@ -390,17 +420,17 @@ d) A aplicação de coimas pelas infracções à disciplina da caça.
 
 2 - Nos conselhos onde não haja serviços da Direcção Regional dos Recursos Florestais as licenças anuais poderão, em termos a regulamentar, ser requeridas nas câmaras municipais e concedidas pelo respectivo presidente.
 
-###### Art. 50.º Poderá ser criado, no âmbito da Secretaria Regional da Agricultura e Pescas, um órgão de natureza consultiva, com atribuições relativas às matérias relacionadas com a defesa do património cinegético e outras abrangidas pelo presente diploma.
+Art. 50.º Poderá ser criado, no âmbito da Secretaria Regional da Agricultura e Pescas, um órgão de natureza consultiva, com atribuições relativas às matérias relacionadas com a defesa do património cinegético e outras abrangidas pelo presente diploma.
 
 ### CAPÍTULO XV — Comissões venatórias
 
-###### Art. 51.º - 1 - A Região Autónoma dos Açores constitui uma região venatória.
+Art. 51.º - 1 - A Região Autónoma dos Açores constitui uma região venatória.
 
 2 - Em cada ilha existirá uma comissão venatória com a designação correspondente.
 
-###### Art. 52.º As comissões venatórias visam contribuir para o equilíbrio entre as actividades cinegética, agrícola, pecuária e florestal, tendo em vista a defesa do ambiente e a conservação dos recursos naturais.
+Art. 52.º As comissões venatórias visam contribuir para o equilíbrio entre as actividades cinegética, agrícola, pecuária e florestal, tendo em vista a defesa do ambiente e a conservação dos recursos naturais.
 
-###### Art. 53.º Compete, designadamente, às comissões venatórias:
+Art. 53.º Compete, designadamente, às comissões venatórias:
 
 a) Propor à Direcção Regional dos Recursos Florestais as medidas que considerem úteis ao ordenamento, gestão, defesa e fomento dos recursos cinegéticos;
 
@@ -412,30 +442,30 @@ d) Estimular a cooperação com os organismo dedicados ao desenvolvimento dos re
 
 e) Emitir parecer sobre assuntos cinegéticos, por sua iniciativa ou a solicitação de quaisquer entidades oficiais.
 
-###### Art. 54.º As comissões venatórias são constituídas por representantes dos caçadores, dos agricultores e da Direcção Regional dos Recursos Florestais.
+Art. 54.º As comissões venatórias são constituídas por representantes dos caçadores, dos agricultores e da Direcção Regional dos Recursos Florestais.
 
 ### CAPÍTULO XVI — Disposições finais e transitórias
 
-###### Art. 55.º Os postos de criação artificial de caça em funcionamento na data da entrada em vigor do presente diploma deverão regularizar a sua situação no prazo de 3 meses a contar da data da entrada em vigor da respectiva regulamentação, ou, na falta desta, no prazo que lhes for fixado pelas entidades com competência de fiscalização sanitário.
+Art. 55.º Os postos de criação artificial de caça em funcionamento na data da entrada em vigor do presente diploma deverão regularizar a sua situação no prazo de 3 meses a contar da data da entrada em vigor da respectiva regulamentação, ou, na falta desta, no prazo que lhes for fixado pelas entidades com competência de fiscalização sanitário.
 
-###### Art. 56.º Consideram-se caducas as autorizações concedidas até à publicação do presente diploma para a captura de espécies cinegéticas fora das condições normais do exercício da caça, devendo os interessados solicitar nova autorização nos termos deste diploma.
+Art. 56.º Consideram-se caducas as autorizações concedidas até à publicação do presente diploma para a captura de espécies cinegéticas fora das condições normais do exercício da caça, devendo os interessados solicitar nova autorização nos termos deste diploma.
 
-###### Art. 57.º - 1 - Aos possuidores de licença de caça que abranja todo o País é mantido, salvo disposição em contrário, o direito de caçar na Região.
+Art. 57.º - 1 - Aos possuidores de licença de caça que abranja todo o País é mantido, salvo disposição em contrário, o direito de caçar na Região.
 
 2 - A licença constante do número anterior pode ser concedido na Região aos possuidores da carta de caçador válida.
 
-###### Art. 58.º As importâncias das taxas devidas pela concessão da carta de caçador, revalidações, autorizações especiais de caça e licenças, bem como das coimas pagas por infracções às disposições sobre caça, constituem receita da Região.
+Art. 58.º As importâncias das taxas devidas pela concessão da carta de caçador, revalidações, autorizações especiais de caça e licenças, bem como das coimas pagas por infracções às disposições sobre caça, constituem receita da Região.
 
-###### Art. 59.º O Governo Regional publicará os regulamentos necessários à execução do disposto no presente diploma.
+Art. 59.º O Governo Regional publicará os regulamentos necessários à execução do disposto no presente diploma.
 
-###### Art. 60.º Fica revogado o [Decreto Regional n.º 17/79/A](https://diariodarepublica.pt/dr/detalhe/decreto-regional/17-1979-378965), de 18 de Agosto.
+Art. 60.º Fica revogado o [Decreto Regional n.º 17/79/A](https://diariodarepublica.pt/dr/detalhe/decreto-regional/17-1979-378965), de 18 de Agosto.
 
 Aprovado pela Assembleia Regional dos Açores em 5 de Dezembro de 1983.
 
-**O Presidente da Assembleia Regional dos Açores, Álvaro Monjardino.**
+O Presidente da Assembleia Regional dos Açores, Álvaro Monjardino.
 
-**Assinado em Angra do Heroísmo em 16 de Janeiro de 1984.**
+Assinado em Angra do Heroísmo em 16 de Janeiro de 1984.
 
-**Publique-se.**
+Publique-se.
 
-**O Ministro da República para a Região Autónoma dos Açores, Tomás George Conceição Silva.**
+O Ministro da República para a Região Autónoma dos Açores, Tomás George Conceição Silva.

@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/2s/2021/04/081000000/0001700018.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -47,36 +47,74 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/despacho-normativo/12-2021-162166474
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2021-04-27T00:00:00Z'
+  retrieved_at: '2026-10-23T15:08:46Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 68cc26847cb4138ad0ecf0a60baa45357de8fa0361c6366205e7195a1da37c01
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: f8b1fd739f05f5c02ba8f1287e58cc6644d48884a377e58433a61aa64ec88a50
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:08:46Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
-relationships: []
+subjects:
+- Auxílio de Minimis
+- Doença Infecciosa
+- Empresa
+- Epidemia
+- Financiamento
+- Formulário Eletrónico
+- IAPMEI
+- Indústria Hoteleira
+- Infraestrutura Turística
+- Instituto do Turismo de Portugal
+- Linha de Crédito
+- Microempresa
+- Regime de Apoio
+- Saúde Pública
+- Tesouraria
+- Turismo
+relationships:
+- type: amended_by
+  target: pt:dre:178860622:por
+  label: Mantida a aplicação, a partir de 10.02.2022, do disposto no n.º 2 do art. 1.º e no art. 2.º do presente diploma pelo(a)
+    Despacho Normativo n.º 5/2022 - Diário da República n.º 28/2022, Série II de 2022-02-09
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/despacho-normativo/5-2022-178860622
+  date: '2022-02-09'
+- type: cites
+  target: pt:dre:127648461:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:130600838:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:178510:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:67098359:por
+  label: null
+  source: null
 article_structure:
   article_count: 3
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:08:46Z'
   warnings: []
   errors: []
 ---
@@ -114,3 +152,5 @@ Assim, ao abrigo do disposto no n.º 2 do artigo 1.º e nas alíneas a) e e) do 
 O presente despacho entra em vigor no dia imediatamente seguinte ao da sua publicação.
 
 19 de abril de 2021. - A Secretária de Estado do Turismo, Rita Baptista Marques.
+
+314163744

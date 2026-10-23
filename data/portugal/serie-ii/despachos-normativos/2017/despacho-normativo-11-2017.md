@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/2s/2017/08/163000000/1845218456.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,36 +46,48 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/despacho-normativo/11-2017-108041528
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2017-08-24T00:00:00Z'
+  retrieved_at: '2026-10-23T15:08:15Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: fa804c490cd8a6e6ca80efb6a6ad1919303ec02802f9a0a475b32263e51db26f
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: fa7fbf3d257b4ec320fcb9fbfc5125b382a85f4223f06f368ccb2b926cd75397
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:08:15Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
-relationships: []
+subjects:
+- Ensino Superior
+- Estatuto
+- Homologação
+- Universidade dos Açores
+relationships:
+- type: cites
+  target: pt:dre:640339:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:75129592:por
+  label: null
+  source: null
 article_structure:
-  article_count: 13
+  article_count: 4
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:08:15Z'
   warnings: []
   errors: []
 ---
@@ -124,7 +136,9 @@ Os artigos 42.º, 78.º, 82.º, 83.º, 85.º, 87.º, 91.º, 95.º, 98.º e 105.�
 
 6 - [...].
 
-###### Artigo 78.º — [...]
+Artigo 78.º
+
+[...]
 
 1 - [...].
 
@@ -214,7 +228,9 @@ ad) [...].
 
 5 - [...].
 
-###### Artigo 82.º — [...]
+Artigo 82.º
+
+[...]
 
 1 - [...].
 
@@ -264,7 +280,9 @@ e) [...].
 
 7 - [...].
 
-###### Artigo 83.º — [...]
+Artigo 83.º
+
+[...]
 
 1 - Compete aos conselhos científico e técnico-científico, no respetivo subsistema:
 
@@ -304,7 +322,9 @@ q) [Anterior alínea p)].
 
 2 - Os conselhos científico e técnico-científico podem delegar competências no respetivo presidente e nas comissões científicas e técnico-científicas das unidades orgânicas.
 
-###### Artigo 85.º — [...]
+Artigo 85.º
+
+[...]
 
 1 - [...].
 
@@ -320,7 +340,9 @@ d) Por docentes e investigadores da unidade orgânica de ensino e investigação
 
 3 - [...].
 
-###### Artigo 87.º — [...]
+Artigo 87.º
+
+[...]
 
 1 - Ao conselho pedagógico compete:
 
@@ -356,7 +378,9 @@ g) Desempenhar as demais funções que lhe sejam atribuídas pela lei, pelos est
 
 2 - O conselho pedagógico pode delegar competências no seu presidente e nas comissões pedagógicas das unidades orgânicas.
 
-###### Artigo 91.º — Competências do diretor de curso
+Artigo 91.º
+
+Competências do diretor de curso
 
 Compete ao diretor do curso, designadamente:
 
@@ -376,7 +400,9 @@ g) Propor medidas de melhoramento para o funcionamento do curso;
 
 h) [Anterior alínea f)].
 
-###### Artigo 95.º — [...]
+Artigo 95.º
+
+[...]
 
 1 - [...].
 
@@ -398,7 +424,9 @@ d) [...].
 
 6 - [...].
 
-###### Artigo 98.º — [...]
+Artigo 98.º
+
+[...]
 
 1 - [...].
 
@@ -442,7 +470,9 @@ r) [Anterior alínea q)].
 
 3 - [...].
 
-###### Artigo 105.º — [...]
+Artigo 105.º
+
+[...]
 
 [...].
 
@@ -472,7 +502,9 @@ l) [...]
 
 m) [...].
 
-## ANEXO II — Traje académico, insígnias doutorais, elementos heráldicos e modelos de diploma
+ANEXO II
+
+Traje académico, insígnias doutorais, elementos heráldicos e modelos de diploma
 
 1.º
 
@@ -482,11 +514,11 @@ O traje académico dos professores da Universidade dos Açores é a beca, que ob
 
 Traje académico
 
-[([ver documento original](https://files.diariodarepublica.pt/2s/2017/08/163000000/1845218456.pdf))](https://files.diariodarepublica.pt/2s/2017/08/163000000/1845218456.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/2s/2017/08/163000000/1845218456.pdf)
 
 (frente)
 
-[([ver documento original](https://files.diariodarepublica.pt/2s/2017/08/163000000/1845218456.pdf))](https://files.diariodarepublica.pt/2s/2017/08/163000000/1845218456.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/2s/2017/08/163000000/1845218456.pdf)
 
 (costas)
 
@@ -498,15 +530,15 @@ As insígnias doutorais são constituídas por barrete e capelo. O barrete tem a
 
 Barrete
 
-[([ver documento original](https://files.diariodarepublica.pt/2s/2017/08/163000000/1845218456.pdf))](https://files.diariodarepublica.pt/2s/2017/08/163000000/1845218456.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/2s/2017/08/163000000/1845218456.pdf)
 
 Capelo
 
-[([ver documento original](https://files.diariodarepublica.pt/2s/2017/08/163000000/1845218456.pdf))](https://files.diariodarepublica.pt/2s/2017/08/163000000/1845218456.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/2s/2017/08/163000000/1845218456.pdf)
 
 (frente)
 
-[([ver documento original](https://files.diariodarepublica.pt/2s/2017/08/163000000/1845218456.pdf))](https://files.diariodarepublica.pt/2s/2017/08/163000000/1845218456.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/2s/2017/08/163000000/1845218456.pdf)
 
 (costas)
 
@@ -518,23 +550,23 @@ A Universidade dos Açores adota elementos heráldicos de acordo com as seguinte
 
 a) Brasão de armas - Escudo nacional de prata com açor de púrpura acompanhado em ponta de quatro faixas de azul e prata; Chefe de azul com sol nascente de ouro acompanhado de nove estrelas do mesmo metal, dispostas em semicírculo. No topo do chefe um listel de cor branca com o lema "SICUT AURORA SCIENTIA LUCET". Na base do escudo um listel de cor púrpura com a designação "UNIVERSIDADE DOS AÇORES" inscrita em branco;
 
-[([ver documento original](https://files.diariodarepublica.pt/2s/2017/08/163000000/1845218456.pdf))](https://files.diariodarepublica.pt/2s/2017/08/163000000/1845218456.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/2s/2017/08/163000000/1845218456.pdf)
 
 b) Bandeira - Em pano de seda, toda de cor branca, com as dimensões da bandeira da Região Autónoma dos Açores, nos precisos termos do Decreto Regulamentar n.º 13/79/A, publicado no Diário da República, 1.ª série, n.º 114, de 18 de maio de 1979. Quando adequado, designadamente para hastear no exterior, o pano da bandeira pode ser noutro tecido. Ao centro da bandeira é colocado o brasão de armas da Universidade;
 
-[([ver documento original](https://files.diariodarepublica.pt/2s/2017/08/163000000/1845218456.pdf))](https://files.diariodarepublica.pt/2s/2017/08/163000000/1845218456.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/2s/2017/08/163000000/1845218456.pdf)
 
 c) Selo branco - escudete a preto e branco como síntese de brasão de armas circundado pelo lema na parte superior e pela designação da Universidade dos Açores na parte inferior que, na impressão a selo, resulta em dois níveis de relevo no papel.
 
-[([ver documento original](https://files.diariodarepublica.pt/2s/2017/08/163000000/1845218456.pdf))](https://files.diariodarepublica.pt/2s/2017/08/163000000/1845218456.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/2s/2017/08/163000000/1845218456.pdf)
 
 d) Emblema - De cor preta, branca, azul, prata ou ouro, o seu centro é construído a partir do corpo do Brasão de Armas, limitado por duas circunferências entre as quais se inscrevem o lema "SICUT AURORA SCIENTIA LUCET", na parte superior, e a designação "UNIVERSIDADE DOS AÇORES" na parte inferior.
 
-[([ver documento original](https://files.diariodarepublica.pt/2s/2017/08/163000000/1845218456.pdf))](https://files.diariodarepublica.pt/2s/2017/08/163000000/1845218456.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/2s/2017/08/163000000/1845218456.pdf)
 
 e) Ex-líbris - Respeita a forma circular do emblema, sem as circunferências que o delimitam, com a representação convencional das cores heráldicas.
 
-[([ver documento original](https://files.diariodarepublica.pt/2s/2017/08/163000000/1845218456.pdf))](https://files.diariodarepublica.pt/2s/2017/08/163000000/1845218456.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/2s/2017/08/163000000/1845218456.pdf)
 
 4.º
 
@@ -544,7 +576,7 @@ Marcas, símbolos e logótipos
 
 2 - O símbolo resulta da desconstrução do emblema heráldico, com a remoção do lema e das representações das estrelas, do sol e do mar. O açor é redesenhado com triângulos multidimensionais, simbolizando a natureza tripolar da Universidade dos Açores, num fundo circular, para acompanhar a forma do emblema de origem.
 
-[([ver documento original](https://files.diariodarepublica.pt/2s/2017/08/163000000/1845218456.pdf))](https://files.diariodarepublica.pt/2s/2017/08/163000000/1845218456.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/2s/2017/08/163000000/1845218456.pdf)
 
 3 - O logótipo resulta da composição do acrónimo "UAc" colocado sobre a designação "Universidade dos Açores".
 
@@ -591,3 +623,5 @@ i) Exercer outras funções que lhe sejam delegadas ou solicitadas pelos órgão
 ###### Artigo 4.º — Norma revogatória
 
 É revogado o n.º 4 do artigo 42.º
+
+310693526

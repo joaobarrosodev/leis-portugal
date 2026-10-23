@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/2s/2015/08/157000000/2293522935.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -46,45 +46,90 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/despacho-normativo/15-2015-70000765
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2016-04-04T00:00:00Z'
+  retrieved_at: '2026-10-23T15:07:58Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 9fea6957384c987ef73539bb0f95171949cc1e1e98e18f7d6894372026fede31
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 7381f3b9accfc59a1d6e8fdadfe6c3a6a645d05d21c9e9aa7a889d73336f3890
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:07:58Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Acesso à Educação
+- Bolsa de Estudos
+- Ensino Superior
+- Programa
+- Regulamento
 relationships:
 - type: amended_by
   target: pt:dre:74032159:por
   label: Última alteração registada na importação inicial
   source: null
+- type: cites
+  target: pt:dre:1496400:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:222418:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:245336:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:483892:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:488826:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:55021795:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:57769847:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:640339:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:653145:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:656107:por
+  label: null
+  source: null
 article_structure:
   article_count: 2
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:07:58Z'
   warnings: []
   errors: []
 ---
 
-# Despacho Normativo n.º 15/2015
+# Despacho normativo n.º 15/2015
 
 Nos termos do artigo 9.º do Regulamento do Programa Retomar, aprovado pelo [Despacho Normativo n.º 8-A/2014](https://diariodarepublica.pt/dr/detalhe/despacho-normativo/8-a-2014-55021795) (2.ª série), de 17 de julho, e alterado pelo [Despacho Normativo n.º 13-A/2014](https://diariodarepublica.pt/dr/detalhe/despacho-normativo/13-a-2014-57769847) (2.ª série), de 1 de outubro, o requerimento de atribuição da bolsa Retomar deve ser submetido entre 1 de abril e 31 de julho.
 
@@ -119,3 +164,5 @@ O artigo 9.º do Regulamento do Programa Retomar, aprovado pelo [Despacho Normat
 As alterações constantes do presente despacho produzem efeitos a partir da data da sua assinatura.
 
 31 de julho de 2015. - O Secretário de Estado do Ensino Superior, José Alberto Nunes Ferreira Gomes.
+
+208844167

@@ -48,18 +48,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/595/2005/07/15/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/595-2005-238375
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2006-05-08T00:00:00Z'
+  retrieved_at: '2026-10-23T15:07:17Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: a501929bff5fa358cba2c0352705281ad61126f2688e6af7d04a5590a2776d41
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 0fb54b5de24067497cd460c42c9835820aab9aafbd41ba98bdf7c46b62434ab3
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:07:17Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -68,22 +68,100 @@ reuse:
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
 - Bacharelato
-- Plano de Estudos
+- Castelo Branco
 - Ensino Oficial
+- Ensino Superior
 - Ensino Superior Politécnico
 - Escola Superior de Artes Aplicadas
 - Escola Superior de Teatro e Cinema
-- Lisboa
+- Estabelecimento de Ensino
 - Instituto Politécnico
 - Licenciatura
-- Castelo Branco
-- Estabelecimento de Ensino
-- Ensino Superior
+- Lisboa
+- Plano de Estudos
 relationships:
 - type: amended_by
   target: pt:dre:659159:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:596345:por
+  label: "Aprovado o plano de estudos do curso bietápico de licenciatura em Direcção e Gestão Hoteleira, ministrado pela Escola\
+    \ Superior de Gestão de Idanha-a-Nova, do Instituto Politécnico de Castelo Branco, criado pelo presente diploma, pela\
+    \ PORT.1110/2005.26.10.2005.MCTES, DR.IS-B [206] de 26.10.2005\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/1110-2005-596345
+  date: '2005-10-26'
+- type: amended_by
+  target: pt:dre:596346:por
+  label: "Aprovado o plano de estudos do curso bietápico de licenciatura em Artes Plásticas e Multimédia, ministrado pela\
+    \ Escola Superior de Educação do Instituto Politécnico de Santarém, criado pelo presente diploma, pela PORT.1111/2005.26.10.2005.MCTES,\
+    \ DR.IS-B [206] de 26.10.2005\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/1111-2005-596346
+  date: '2005-10-26'
+- type: amended_by
+  target: pt:dre:481686:por
+  label: "Desdobrado em várias opções, o 1º e o 2º ciclo do curso bietápico de licenciatura em Desporto e Lazer, ministrado\
+    \ pela Escola Superior de Educação do Instituto Politécnico de Coimbra, criado pelo presente diploma, e aprovado o respectivo\
+    \ plano de estudos pela PORT.1206/2005.25.11.2005.MCTES, DR.IS-B [227] de 25.11.2005\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/1206-2005-481686
+  date: '2005-11-25'
+- type: amended_by
+  target: pt:dre:481692:por
+  label: "Desdobrado em 1º e 2º ciclos, o curso bietápico de licenciatura em Arte e Design, ministrado pela Escola Superior\
+    \ Educação do Instituto Politécnico de Coimbra, criado pelo presente diploma, pela PORT.1216/2005.25.11.2005.MCTES, DR.IS-B\
+    \ [227] de 25.11.2005\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/1216-2005-481692
+  date: '2005-11-25'
+- type: amended_by
+  target: pt:dre:481697:por
+  label: "Desdobrado em dois ramos, o curso bietápico de licenciatura em Biotecnologia, ministrado pela Escola Superior Agrária\
+    \ do Instituto Politécnico de Coimbra, criado pelo presente diploma, pela PORT.1211/2005.25.11.2005.MCTES, DR.IS-B [227]\
+    \ de 25.11.2005\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/1211-2005-481697
+  date: '2005-11-25'
+- type: amended_by
+  target: pt:dre:481710:por
+  label: "Aprovado o plano de estudos do curso bietápico de licenciatura em Agricultura Biológica ministrado pela Escola Superior\
+    \ Agrária do Instituto Politécnico de Coimbra, criado pelo presente diploma, pela PORT.1193/2005.25.11.2005.MCTES, DR.IS-B\
+    \ [227] de 25.11.2005\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/1193-2005-481710
+  date: '2005-11-25'
+- type: amended_by
+  target: pt:dre:482783:por
+  label: "Desdobrado em dois ramos (Administração e Contabilidade Autárquica e Administração e Contabilidade dos Serviços\
+    \ e Organismos Públicos) o 2º ciclo do curso bietápico de licenciatura em Contabilidade e Gestão Pública, ministrado pelo\
+    \ Instituto Politécnico de Coimbra, autorizado pelo presente diploma, pela PORT.1241/2005.28.11.2005.MCTES, DR.IS-B [228]\
+    \ de 28.11.2005, que aprova os planos de estudos do citado curso.\0.\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/1241-2005-482783
+  date: '2005-11-28'
+- type: amended_by
+  target: pt:dre:676821:por
+  label: "Aprovado o plano de estudos do curso bietápico de licenciatura em Segurança e Qualidade no Trabalho ministrado pela\
+    \ Escola Superior de Tecnologia e Gestão de Felgueiras do Instituto Politécnico do Porto, criado pelo presente diploma,\
+    \ pela PORT.160/2006.20.02.2006.MCTES, DR.IS-B [36] de 20.02.2006\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/160-2006-676821
+  date: '2006-02-20'
+- type: amended_by
+  target: pt:dre:676822:por
+  label: "Aprovado o plano de estudos do curso bietápico de licenciatura em Engenharia Agrotecnológica ministrado pela Escola\
+    \ Superior Agrária do Instituto Politécnico de Viseu, criado pelo presente diploma, pela PORT.152/2006.20.02.2006.MCTES,\
+    \ DR.IS-B [36] de 20.02.2006\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/152-2006-676822
+  date: '2006-02-20'
+- type: amended_by
+  target: pt:dre:676833:por
+  label: "Aprovado o plano de estudos do curso bietápico de licenciatura em Comunicação Empresarial ministrado pelo Instituto\
+    \ Superior de Contabilidade e Administração do Instituto Politécnico do Porto, criado pelo presente diploma, pela PORT.161/2006.20.02.2006.MCTES,\
+    \ DR.IS-B [36] de 20.02.2006\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/161-2006-676833
+  date: '2006-02-20'
+- type: amended_by
+  target: pt:dre:661553:por
+  label: "Desdobrado em duas opções (Gestão Hoteleira e Gestão Hospitalar) o curso de Gestão e Administração Hoteleira ministrado\
+    \ no Instituto Politécnico do Porto e aprovado o respectivo plano de estudos, pela PORT.396/2006.24.04.2006.MCTES, DR.IS-B\
+    \ [80] de 24.04.2006\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/396-2006-661553
+  date: '2006-04-24'
 - type: cites
   target: eli:http://data.dre.pt/eli/lei/20/1992/08/14/p/dre
   label: null
@@ -124,16 +202,72 @@ relationships:
   target: eli:http://data.dre.pt/eli/resolconsmin/116/2002/10/02/p/dre
   label: null
   source: http://data.dre.pt/eli/resolconsmin/116/2002/10/02/p/dre
+- type: cites
+  target: pt:dre:147873:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:273991:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:283353:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:348548:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:429593:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:429596:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:453184:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:510269:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:544409:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:556606:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:561983:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:593710:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:644708:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:694180:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:07:17Z'
   warnings: []
   errors: []
 ---
@@ -238,7 +372,7 @@ Entrada em vigor
 
 Esta portaria entra em vigor no dia imediato ao da sua publicação.
 
-**O Ministro da Ciência, Tecnologia e Ensino Superior, José Mariano Rebelo Pires Gago, em 5 de Julho de 2005.**
+O Ministro da Ciência, Tecnologia e Ensino Superior, José Mariano Rebelo Pires Gago, em 5 de Julho de 2005.
 
 ## ANEXO I
 
@@ -256,9 +390,9 @@ B + L - bacharelato e licenciatura (cursos bietápicos de licenciatura).
 
 4 - A col. «Duração» indica a duração do curso em semestres. Quando se trata de cursos bietápicos de licenciatura, indica a duração do 1.º ciclo seguida da duração do 2.º ciclo.
 
-[(ver tabela no documento original)](https://files.diariodarepublica.pt/1s/2005/07/135b00/42694272.pdf)
+[[[(ver tabela no documento original)](https://files.diariodarepublica.pt/1s/2005/07/135b00/42694272.pdf)](https://files.diariodarepublica.pt/1s/2005/07/135b00/42694272.pdf)](https://files.diariodarepublica.pt/1s/2005/07/135b00/42694272.pdf)
 
-## ANEXO II — [(ver tabela no documento original)](https://files.diariodarepublica.pt/1s/2005/07/135b00/42694272.pdf)
+## ANEXO II — [[[(ver tabela no documento original)](https://files.diariodarepublica.pt/1s/2005/07/135b00/42694272.pdf)](https://files.diariodarepublica.pt/1s/2005/07/135b00/42694272.pdf)](https://files.diariodarepublica.pt/1s/2005/07/135b00/42694272.pdf)
 
 ## ANEXO III
 
@@ -268,4 +402,4 @@ B + L - bacharelato e licenciatura (cursos bietápicos de licenciatura).
 
 3 - A col. «Duração» indica a duração do 1.º ciclo seguida da duração do 2.º ciclo, em semestres, do curso bietápico de licenciatura.
 
-[(ver tabela no documento original)](https://files.diariodarepublica.pt/1s/2005/07/135b00/42694272.pdf)
+[[[(ver tabela no documento original)](https://files.diariodarepublica.pt/1s/2005/07/135b00/42694272.pdf)](https://files.diariodarepublica.pt/1s/2005/07/135b00/42694272.pdf)](https://files.diariodarepublica.pt/1s/2005/07/135b00/42694272.pdf)

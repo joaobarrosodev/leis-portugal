@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/2s/2024/12/248000000/0010000108.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -46,18 +46,18 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/resolucao/4-2024-901014351
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2024-12-23T00:00:00Z'
+  retrieved_at: '2026-10-23T15:16:21Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 0382e782a8a5bb6a35391d71104b3d7686e316d4d7a16d63ff6f6a69ef0e9b38
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 6c248e464af9f2de4b73cf38ce2abec7e179f21d51d2dfd51ffd6665426572fb
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:16:21Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -65,24 +65,100 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects: []
-relationships: []
+relationships:
+- type: cites
+  target: pt:dre:105606613:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:114696642:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:115312061:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:116068878:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:120620996:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:123813677:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:140431167:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:163991832:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:174825:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:182727790:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:185224662:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:193663:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:3180171:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:499528:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:640339:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:66689602:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:70262478:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:835864042:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:839477381:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:16:21Z'
   warnings: []
   errors: []
 ---
 
 # Resolução n.º 4/2024
 
-Ao abrigo do disposto nos artigos 40.º e 51.º da Lei de Organização e Processo do Tribunal de Contas (<sup>1</sup>), doravante designada como LOPTC, o Tribunal de Contas, em reunião do Plenário da 2.ªSecção, de 5 de dezembro de 2024, delibera o seguinte:
+Ao abrigo do disposto nos artigos 40.º e 51.º da Lei de Organização e Processo do Tribunal de Contas (1), doravante designada como LOPTC, o Tribunal de Contas, em reunião do Plenário da 2.ªSecção, de 5 de dezembro de 2024, delibera o seguinte:
 
 Prestação e Remessa de Contas
 
@@ -92,7 +168,7 @@ a) Relativamente ao exercício de 2024; e
 
 b) Em caso de substituição de responsáveis durante o ano de 2025, relativamente ao exercício ocorrido até essa substituição.
 
-2 - Para efeitos da alínea b) do número anterior e nos termos dos n.<sup>os</sup>2 e 3 do artigo 52.º da LOPTC, considera-se ocorrer substituição de responsáveis quando seja(m) substituído(s):
+2 - Para efeitos da alínea b) do número anterior e nos termos dos n.os2 e 3 do artigo 52.º da LOPTC, considera-se ocorrer substituição de responsáveis quando seja(m) substituído(s):
 
 a) O único responsável;
 
@@ -102,15 +178,15 @@ c) Algum ou alguns dos gerentes de administrações colegiais com fundamento em 
 
 3 - As contas devem ser prestadas nos seguintes prazos legais:
 
-a) As contas prestadas por anos económicos das entidades públicas a que se refere o artigo 65.º da Lei de Enquadramento Orçamental (LEO) (<sup>2</sup>) são entregues ao Tribunal de Contas até 31 de março do ano seguinte ao ano económico a que respeitam, conforme previsto nesse preceito legal;
+a) As contas prestadas por anos económicos das entidades públicas a que se refere o artigo 65.º da Lei de Enquadramento Orçamental (LEO) (2) são entregues ao Tribunal de Contas até 31 de março do ano seguinte ao ano económico a que respeitam, conforme previsto nesse preceito legal;
 
 b) As contas prestadas por anos económicos das restantes entidades são remetidas ao Tribunal até ao dia 30 de abril do ano seguinte àquele a que respeitam, nos termos do disposto no artigo 52.º, n.º 4, da LOPTC;
 
 c) As contas consolidadas são remetidas até 30 de junho do ano seguinte àquele a que respeitam, de acordo com o preceituado no artigo 52.º, n.º 4, da LOPTC;
 
-d) As contas prestadas por substituição de responsáveis são remetidas no prazo de 45 dias a contar da data dessa substituição, por força do estabelecido no artigo 52.º, n.<sup>os</sup> 2, 3 e 5 da LOPTC.
+d) As contas prestadas por substituição de responsáveis são remetidas no prazo de 45 dias a contar da data dessa substituição, por força do estabelecido no artigo 52.º, n.os 2, 3 e 5 da LOPTC.
 
-4 - O incumprimento dos prazos de prestação de contas é suscetível de fazer incorrer o responsável ou responsáveis no ilícito previsto no artigo 66.º, n.º 1, alínea a), da LOPTC, o qual é sancionável com multa, nos termos dos n.<sup>os</sup> 2 e 3 do mesmo artigo.
+4 - O incumprimento dos prazos de prestação de contas é suscetível de fazer incorrer o responsável ou responsáveis no ilícito previsto no artigo 66.º, n.º 1, alínea a), da LOPTC, o qual é sancionável com multa, nos termos dos n.os 2 e 3 do mesmo artigo.
 
 5 - A falta de prestação de contas ao Tribunal constitui uma infração financeira tipificada no artigo 65.º, n.º 1, alínea n), da LOPTC, sancionável com aplicação de multa ao respetivo responsável ou responsáveis, nos termos do n.º 2 e seguintes do mesmo artigo, podendo ainda ser determinada a realização de auditoria, conforme previsto no artigo 52.º, n.º 7, da mesma lei.
 
@@ -130,7 +206,7 @@ O regime contabilístico aplicável para a prestação de contas de cada entidad
 
 9 - Os serviços com funções de Caixas do Tesouro prestam contas de acordo com a [Instrução n.º 1/2021](https://diariodarepublica.pt/dr/detalhe/instrucao/1-2021-163991832) - 2.ª Secção/SRA/SRM, publicada no Diário da República, 2.ª série, n.º 101, de 25 de maio.
 
-10 - As empresas locais estão obrigadas à prestação eletrónica de contas de acordo com a [Instrução n.º 1/2019](https://diariodarepublica.pt/dr/detalhe/instrucao/1-2019-120620996) - PG, devendo prestar a conta no regime contabilístico que lhes é legalmente aplicável no período de relato, designadamente em função da sua reclassificação no setor das administrações públicas (<sup>3</sup>).
+10 - As empresas locais estão obrigadas à prestação eletrónica de contas de acordo com a [Instrução n.º 1/2019](https://diariodarepublica.pt/dr/detalhe/instrucao/1-2019-120620996) - PG, devendo prestar a conta no regime contabilístico que lhes é legalmente aplicável no período de relato, designadamente em função da sua reclassificação no setor das administrações públicas (3).
 
 11 - As entidades contabilísticas autónomas previstas no artigo 30.º do [Decreto-Lei n.º 17/2024](https://diariodarepublica.pt/dr/detalhe/decreto-lei/17-2024-839477381), de 29 de janeiro, «Ação Governativa» e «Gestão Administrativa e Financeira» estão obrigadas a prestar contas ao Tribunal de Contas, nos seguintes termos:
 
@@ -200,7 +276,7 @@ A coluna designada «Modalidade de adjudicação» designa-se «Procedimento de 
 
 Também as contas prestadas em SNC, ESNL e IFRS devem vir instruídas com a Certificação Legal de Contas se ultrapassarem os limites legalmente estabelecidos para o efeito, designadamente os previstos no artigo 262.º do Código das Sociedades Comerciais.
 
-As contas das empresas locais devem, atento o disposto no artigo 25.º, n.º 6, alínea k), da [Lei n.º 50/2012](https://diariodarepublica.pt/dr/detalhe/lei/50-2012-174825), de 31 de agosto (<sup>4</sup>), ser sempre instruídas com a respetiva Certificação Legal de Contas.
+As contas das empresas locais devem, atento o disposto no artigo 25.º, n.º 6, alínea k), da [Lei n.º 50/2012](https://diariodarepublica.pt/dr/detalhe/lei/50-2012-174825), de 31 de agosto (4), ser sempre instruídas com a respetiva Certificação Legal de Contas.
 
 23 - Sem prejuízo do disposto no n.º 2 do artigo 78.º da [Lei n.º 82/2023](https://diariodarepublica.pt/dr/detalhe/lei/82-2023-835864042), de 29 de dezembro, as demonstrações financeiras previsionais que sejam elaboradas pelas entidades da administração local que prestam contas em SNC-AP devem ser remetidas aquando da prestação de contas na plataforma eletrónica.
 
@@ -222,19 +298,19 @@ Informação, devidamente documentada, sobre a eventual audição de serviços/e
 
 Transparência
 
-29 - Com vista a assegurar o princípio da transparência da gestão financeira, orçamental e patrimonial, e sem prejuízo do legalmente estabelecido, designadamente, no artigo 79.º, n.<sup>os</sup> 1 e 2, da [Lei n.º 73/2013](https://diariodarepublica.pt/dr/detalhe/lei/73-2013-499528), de 3 de setembro (<sup>5</sup>), e ainda nos artigos 16.º, n.º 3, e 43.º, n.º 2, alínea i) da [Lei n.º 50/2012](https://diariodarepublica.pt/dr/detalhe/lei/50-2012-174825), de 31 de dezembro, o Tribunal incentiva as entidades sujeitas à prestação de contas a divulgar na sua página eletrónica os respetivos documentos de prestação de contas bem como outros documentos relevantes para uma maior clareza e transparência da sua atividade.
+29 - Com vista a assegurar o princípio da transparência da gestão financeira, orçamental e patrimonial, e sem prejuízo do legalmente estabelecido, designadamente, no artigo 79.º, n.os 1 e 2, da [Lei n.º 73/2013](https://diariodarepublica.pt/dr/detalhe/lei/73-2013-499528), de 3 de setembro (5), e ainda nos artigos 16.º, n.º 3, e 43.º, n.º 2, alínea i) da [Lei n.º 50/2012](https://diariodarepublica.pt/dr/detalhe/lei/50-2012-174825), de 31 de dezembro, o Tribunal incentiva as entidades sujeitas à prestação de contas a divulgar na sua página eletrónica os respetivos documentos de prestação de contas bem como outros documentos relevantes para uma maior clareza e transparência da sua atividade.
 
-**Publique-se na 2.ª série do Diário da República, nos termos do artigo 9.º, n.º 2, alínea d) da LOPTC.**
+Publique-se na 2.ª série do Diário da República, nos termos do artigo 9.º, n.º 2, alínea d) da LOPTC.
 
-(<sup>1</sup>) [Lei n.º 98/97](https://diariodarepublica.pt/dr/detalhe/lei/98-1997-193663), de 26 de agosto, na sua atual redação, resultante da republicação feita pela [Lei n.º 20/2015](https://diariodarepublica.pt/dr/detalhe/lei/20-2015-66689602), de 9 de março, e das alterações introduzidas pelas Leis n.º 42/2016, de 28 de dezembro, n.º 2/2020, de 31 de março, n.º 27-A/2020, de 24 de julho, n.º 12/2022, de 27 de junho e n.º 56/2023, de 06 de outubro.
+(1) [Lei n.º 98/97](https://diariodarepublica.pt/dr/detalhe/lei/98-1997-193663), de 26 de agosto, na sua atual redação, resultante da republicação feita pela [Lei n.º 20/2015](https://diariodarepublica.pt/dr/detalhe/lei/20-2015-66689602), de 9 de março, e das alterações introduzidas pelas Leis n.º 42/2016, de 28 de dezembro, n.º 2/2020, de 31 de março, n.º 27-A/2020, de 24 de julho, n.º 12/2022, de 27 de junho e n.º 56/2023, de 06 de outubro.
 
-(<sup>2</sup>) Na redação resultante da republicação feita pela [Lei n.º 41/2020](https://diariodarepublica.pt/dr/detalhe/lei/41-2020-140431167), de 18 de agosto, alterada pela [Lei n.º 10-B/2022](https://diariodarepublica.pt/dr/detalhe/lei/10-b-2022-182727790), de 28 de abril.
+(2) Na redação resultante da republicação feita pela [Lei n.º 41/2020](https://diariodarepublica.pt/dr/detalhe/lei/41-2020-140431167), de 18 de agosto, alterada pela [Lei n.º 10-B/2022](https://diariodarepublica.pt/dr/detalhe/lei/10-b-2022-182727790), de 28 de abril.
 
-(<sup>3</sup>) Se a prestação de contas ocorrer em SNC, o regime contabilístico associado será SNC - Empresas Locais. Se a prestação ocorrer em SNC-AP, o regime contabilístico será SNC-AP - Sistema de Normalização Contabilística - Administrações Públicas ([Decreto-Lei n.º 192/2015](https://diariodarepublica.pt/dr/detalhe/decreto-lei/192-2015-70262478)) e a forma de entrega deverá ser «Entidades Reclassificadas do Setor Empresarial Local».
+(3) Se a prestação de contas ocorrer em SNC, o regime contabilístico associado será SNC - Empresas Locais. Se a prestação ocorrer em SNC-AP, o regime contabilístico será SNC-AP - Sistema de Normalização Contabilística - Administrações Públicas ([Decreto-Lei n.º 192/2015](https://diariodarepublica.pt/dr/detalhe/decreto-lei/192-2015-70262478)) e a forma de entrega deverá ser «Entidades Reclassificadas do Setor Empresarial Local».
 
-(<sup>4</sup>) Considerando as sucessivas alterações, a última das quais através da [Lei n.º 12/2022](https://diariodarepublica.pt/dr/detalhe/lei/12-2022-185224662), de 27 de junho.
+(4) Considerando as sucessivas alterações, a última das quais através da [Lei n.º 12/2022](https://diariodarepublica.pt/dr/detalhe/lei/12-2022-185224662), de 27 de junho.
 
-(<sup>5</sup>) Na redação conferida pela [Lei n.º 51/2018](https://diariodarepublica.pt/dr/detalhe/lei/51-2018-116068878), de 16 de agosto.
+(5) Na redação conferida pela [Lei n.º 51/2018](https://diariodarepublica.pt/dr/detalhe/lei/51-2018-116068878), de 16 de agosto.
 
 5 de dezembro de 2024. - O Vice-Presidente, por substituição, António Martins.
 
@@ -242,15 +318,18 @@ Transparência
 
 Demonstração de execução orçamental da receita - Versão simplificada
 
-![](https://files.diariodarepublica.pt/images/901014351/901016268.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/901014351/901016268.png) |
+| --- |
 
 Demonstração de execução orçamental da despesa - Versão simplificada
 
-![](https://files.diariodarepublica.pt/images/901014351/901016269.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/901014351/901016269.png) |
+| --- |
 
 [cf. n.º 19 b)]
 
-![](https://files.diariodarepublica.pt/images/901014351/901016270.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/901014351/901016270.png) |
+| --- |
 
 (cf. n.º 20)
 
@@ -258,7 +337,8 @@ Mapa da contratação Administrativa - Setor Empresarial Local
 
 (modelo 38 da [Instrução n.º 1/2019](https://diariodarepublica.pt/dr/detalhe/instrucao/1-2019-120620996)-PG)
 
-![](https://files.diariodarepublica.pt/images/901014351/901016271.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/901014351/901016271.png) |
+| --- |
 
 (cf. n.º 25)
 
@@ -266,7 +346,8 @@ Formulário relativo à Certificação Legal de Contas
 
 Modelo 6 - Certificação Legal de Contas
 
-![](https://files.diariodarepublica.pt/images/901014351/901016272.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/901014351/901016272.png) |
+| --- |
 
 Notas:
 
@@ -288,4 +369,7 @@ iii) Na circunstância de a CLC expressar uma opinião de auditoria modificada (
 
 Transações e saldos com entidades integradas nos subsectores da Administração Central e da Segurança Social
 
-![](https://files.diariodarepublica.pt/images/901014351/901016273.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/901014351/901016273.png) |
+| --- |
+
+318458551

@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/435/2005/04/21/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/435-2005-549466
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2005-04-21T00:00:00Z'
+  retrieved_at: '2026-10-23T15:06:22Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 0ac3b691f937b065a7b8f97298ef43bc46009f13534d56512714cd9a18eb7fd8
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: fb5e3312ed55d9b443d559b216ea43199d20f32b7eaed09fc6594d78c4f69d8b
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:06:22Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -71,8 +71,8 @@ subjects:
 - Ensino Oficial
 - Ensino Particular
 - Escola Superior de Música
-- Lisboa
 - Habilitações Literárias
+- Lisboa
 - Pessoal Docente
 - Qualificação Profissional
 relationships:
@@ -88,16 +88,32 @@ relationships:
   target: eli:http://data.dre.pt/eli/port/833/2000/09/22/p/dre
   label: null
   source: http://data.dre.pt/eli/port/833/2000/09/22/p/dre
+- type: cites
+  target: pt:dre:452686:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:558069:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:566825:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:591742:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:06:22Z'
   warnings: []
   errors: []
 ---
@@ -120,4 +136,4 @@ Manda o Governo, pela Ministra da Educação, o seguinte:
 
 2.º A presente portaria produz efeitos no dia imediato ao da sua publicação.
 
-**A Ministra da Educação, Maria do Carmo Félix da Costa Seabra, em 10 de Março de 2005.**
+A Ministra da Educação, Maria do Carmo Félix da Costa Seabra, em 10 de Março de 2005.

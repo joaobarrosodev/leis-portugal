@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/867/2006/08/28/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/867-2006-540804
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2014-01-23T00:00:00Z'
+  retrieved_at: '2026-10-23T15:16:46Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 2603c63f9403cf99b60bff40aaf10cc971bbc1f6ad134313956e525593067ad8
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 43ef88d81c791f1f42157ea2499e9d5a465bdb4eb2a07451a40dcf29bce8eccd
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:16:46Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -65,29 +65,97 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Totobola
-- Totoloto
-- Jogos de Fortuna e Azar
+- Apostas Mútuas Desportivas
 - Concurso
 - Contrato
+- Departamento de Jogos
 - Euromilhões
+- Jogos de Fortuna e Azar
+- Joker
 - Lisboa
+- Lotaria Nacional
 - Mediador dos Jogos Sociais do Estado
+- Regulamento
+- Regulamento do Totobola
+- Regulamento do Totoloto
 - Regulamento dos Mediadores dos Jogos Sociais do Estado
-- Apostas Mútuas Desportivas
 - Santa Casa da Misericórdia
 - Serviço de Mediação
-- Regulamento
-- Lotaria Nacional
-- Regulamento do Totobola
-- Departamento de Jogos
-- Joker
-- Regulamento do Totoloto
+- Totobola
+- Totoloto
 relationships:
 - type: amended_by
   target: pt:dre:571049:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:494193:por
+  label: "Suspenso, até 07.06.2009, o registo de apostas para cinco semanas consecutivas no JOKER previsto no Regulamento\
+    \ aprovado pela Port. 550/2001, de 31-Maio, na redacção do presente diploma, pela PORT.577/2009.01.06.2009.MTSSO, DR.IS\
+    \ [105] de 01.06.2009\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/577-2009-494193
+  date: '2009-06-01'
+- type: amended_by
+  target: pt:dre:491913:por
+  label: "Alterado o art. 15º do Regulamento do Joker aprovado pela Port 550/2001 de 31-Mai, com a redacção constante deste\
+    \ diploma, pela PORT.699/2009.02.07.2009.MTSSO, DR.IS [126] de 02.07.2009\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/699-2009-491913
+  date: '2009-07-02'
+- type: amended_by
+  target: pt:dre:493060:por
+  label: "Suspenso, até 06.09.2009, o registo de apostas para cinco semanas consecutivas no Totoloto, previsto no Regulamento\
+    \ aprovado pela Port 553/2001, de 31-Maio, na redacção da Port 1048/2001, de 01-Set, Port 1215/2003, de 16-Out, Port 256/2006,\
+    \ de 10-Mar e do presente diploma, pela PORT.833/2009.31.07.2009.MTSSO, DR.IS [147] de 31.07.2009\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/833-2009-493060
+  date: '2009-07-31'
+- type: amended_by
+  target: pt:dre:280488:por
+  label: "Alterado o art. 18º do Regulamento do EUROMILHÕES, aprovado pela Port 1267/2004, de 01-Out, na redacção da presente\
+    \ portaria, pela PORT.65/2011.04.02.2011.MTSSO, DR.IS [25] de 04.02.2011\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/65-2011-280488
+  date: '2011-02-04'
+- type: amended_by
+  target: pt:dre:277587:por
+  label: "Dada nova redacção ao art. 18º, a partir de 07.05.2011, do Regulamento do EUROMILHÕES, aprovado pela Port 1267/2004\
+    \ de 01-Out, alterado pelo presente diploma, pela PORT.127/2011.31.03.2011.MTSSO, DR.IS [64] de 31.03.2011\01\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/127-2011-277587
+  date: '2011-03-31'
+- type: amended_by
+  target: pt:dre:259419:por
+  label: "Alterados os art.s 17.º, 18.º do Regulamento do EUROMILHÕES, aprovado pela Port 1267/2004, de 01-out, na redação\
+    \ da presente Portaria, e republicado, pela PORT.113/2013.21.03.2013.MSSSOC, DR.IS [57] de 21.03.2013\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/113-2013-259419
+  date: '2013-03-21'
+- type: amended_by
+  target: pt:dre:259420:por
+  label: "Alterados os art.s 9.º, 11.º, 12.º, 13.º, 14.º, 15.º do Regulamento do Jóquer, aprovado pela Port 550/2001, de 31-maio,\
+    \ na redação da presente Portaria, e republicado, pela PORT.114/2013.21.03.2013.MSSSOC, DR.IS [57] de 21.03.2013\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/114-2013-259420
+  date: '2013-03-21'
+- type: amended_by
+  target: pt:dre:259421:por
+  label: "Alterados os arts. 7º e 8º do Regulamento da Lotaria Instantânea aprovado pela Port. 552/2001, de 31-mai, na redação\
+    \ do presente diploma, pela PORT.112/2013.21.03.2013.MSSSOC, DR.IS [57] de 21.03.2013\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/112-2013-259421
+  date: '2013-03-21'
+- type: amended_by
+  target: pt:dre:259403:por
+  label: "Dada nova redação ao art. 19º do Regulamento do TOTOBOLA, aprovado pela Port 39/2004 de 12-jan, alterado pelo presente\
+    \ diploma, pela PORT.116/2013.22.03.2013.MSSSOC, DR.IS [58] de 22.03.2013 \0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/116-2013-259403
+  date: '2013-03-22'
+- type: amended_by
+  target: pt:dre:260446:por
+  label: "Dada nova redação ao art 8º do Regulamento da Lotaria Instantânea, aprovado pela Port 552/2001 de 31-mai, alterado\
+    \ pelo presente diploma, pela PORT.148/2013.12.04.2013.MSSSOC, DR.IS [72] de 12.04.2013\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/148-2013-260446
+  date: '2013-04-12'
+- type: amended_by
+  target: pt:dre:571049:por
+  label: "Dada nova redação, a partir de 26.01.2014, ao art. 7º do Regulamento da Lotaria Instantânea aprovado pela Port 552/2001\
+    \ de 31-mai, alterado pelo presente diploma, pela PORT.15/2014.23.01.2014.MSESS, DR.IS [16] de 23.01.2014\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/15-2014-571049
+  date: '2014-01-23'
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/322/1991/08/26/p/dre
   label: null
@@ -128,16 +196,110 @@ relationships:
   target: eli:http://data.dre.pt/eli/port/698/2003/07/30/p/dre
   label: null
   source: http://data.dre.pt/eli/port/698/2003/07/30/p/dre
+- type: cites
+  target: pt:dre:209625:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:210422:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:241015:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:332245:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:332246:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:332247:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:332254:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:350143:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:403119:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:476174:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:476275:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:541384:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:551662:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:583067:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:632404:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:651879:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:667087:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:676813:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:693589:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:342655:por
+  label: "Revogada, a partir de 05.10.2010, a Port 551/2001 de 31-Mai, com a redacção conferida no presente diploma, pela\
+    \ PORT.1016/2010.04.10.2010.MTSSO, DR.IS [193] de 04.10.2010 \0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/1016-2010-342655
+  date: '2010-10-04'
+- type: repealed_by
+  target: pt:dre:1945608:por
+  label: "Revogadada, em 13.03.2011, a Port. 553/2001, de 03-Mai, na redacção da presente portaria, pela PORT.102/2011.11.03.2011.MTSSO,\
+    \ DR.IS [50] de 11.03.2011\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/sem-diploma/2000-1945608
+  date: '2011-03-11'
+- type: repealed_by
+  target: pt:dre:278178:por
+  label: "Revogada em 13.03.2011 a Port. 553/2001, de 03-Mai, na redacção da presente portaria, pela PORT.102/2011.11.03.2011.MTSSO,\
+    \ DR.IS [50] de 11.03.2011\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/102-2011-278178
+  date: '2011-03-11'
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:16:46Z'
   warnings: []
   errors: []
 ---
@@ -258,7 +420,9 @@ Os artigos 7.º e 8.º do Regulamento da Lotaria Instantânea, aprovado pela [Po
 
 2 - Os prémios de valor superior a (euro) 150 são pagos em qualquer balcão da instituição bancária definida pelo Departamento de Jogos da Santa Casa da Misericórdia de Lisboa.
 
-###### Artigo 8.º — [...]
+Artigo 8.º
+
+[...]
 
 1 - ...
 
@@ -434,4 +598,4 @@ g) ...
 
 Em 11 de Julho de 2006.
 
-**O Ministro do Trabalho e da Solidariedade Social, José António Fonseca Vieira da Silva. - O Ministro da Saúde, António Fernando Correia de Campos.**
+O Ministro do Trabalho e da Solidariedade Social, José António Fonseca Vieira da Silva. - O Ministro da Saúde, António Fernando Correia de Campos.

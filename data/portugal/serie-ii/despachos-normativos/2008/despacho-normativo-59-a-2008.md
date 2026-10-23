@@ -19,7 +19,7 @@ publication:
   reference: Diário da República n.º 225/2008, 1º Suplemento, Série II de 2008-11-19
   number: '225'
   series: II
-  supplement: 1º Suplemento
+  supplement: null
   pages: 47310-(2) a 47310-(12)
   pdf_url: https://files.diariodarepublica.pt/2s/2008/11/225000001/0000200012.pdf
 entry_into_force_dates: []
@@ -46,45 +46,82 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/despacho-normativo/59-a-2008-2013971
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2024-10-29T00:00:00Z'
+  retrieved_at: '2026-10-23T15:07:04Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: f4aeddce5ee616f8f18d0388a72a1e9ddcedeea82d9809b08ee4dcfd3b7af813
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 95072f1e62a361bbe56a65d76815473d92ce1eb48cdce6907f263554e6ed8b6e
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:07:04Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Administrador
+- Coimbra
+- Conselho Consultivo
+- Conselho de Gestão
+- Conselho Geral
+- Definição de Competências
+- Estatuto
+- Fiscal Único
+- Gestão de Recursos Humanos
+- Gestão Financeira
+- Homologação
+- Instituto Politécnico
+- Presidente
+- Simbolo de Identificação
+- Vice-presidente
 relationships:
 - type: amended_by
   target: pt:dre:893763470:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:120999244:por
+  label: Homologadas as alterações aos Estatutos do Instituto Politécnico de Coimbra, pelo(a) Despacho Normativo n.º 6/2019
+    - Diário da República n.º 52/2019, Série II de 2019-03-14
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/despacho-normativo/6-2019-120999244
+  date: '2019-03-14'
+- type: amended_by
+  target: pt:dre:138960584:por
+  label: Homologados e publicados em anexo as alterações aos arts. 10.º e 23.º dos Estatutos do Instituto Politécnico de Coimbra,
+    pelo(a) Despacho Normativo n.º 7/2020 - Diário da República n.º 145/2020, Série II de 2020-07-28
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/despacho-normativo/7-2020-138960584
+  date: '2020-07-28'
+- type: amended_by
+  target: pt:dre:167839741:por
+  label: Homologadas as alterações aos Estatutos do Instituto Politécnico de Coimbra pelo(a) Despacho Normativo n.º 21/2021
+    - Diário da República n.º 139/2021, Série II de 2021-07-20
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/despacho-normativo/21-2021-167839741
+  date: '2021-07-20'
+- type: cites
+  target: pt:dre:640339:por
+  label: null
+  source: null
 article_structure:
   article_count: 61
   section_count: 17
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:07:04Z'
   warnings: []
   errors: []
 ---
 
-# Despacho Normativo n.º 59-A/2008
+# Despacho normativo n.º 59-A/2008
 
 Considerando que, nos termos do n.º 1 do artigo 172.º da [Lei n.º 62/2007](https://diariodarepublica.pt/dr/detalhe/lei/62-2007-640339), de 10 de Setembro, as instituições de ensino superior devem proceder à revisão dos seus estatutos, de modo a conformá-los com o novo Regime Jurídico das Instituições de Ensino Superior;
 

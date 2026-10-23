@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/2s/2021/04/079000000/0003700042.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -47,40 +47,104 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/despacho-normativo/11-2021-162021993
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2022-06-03T00:00:00Z'
+  retrieved_at: '2026-10-23T15:08:42Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 629efdcd691936f0ddeb08f4da5e677804ccf486b01a5e1457b6f857cf463bae
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 45e19660971ade74cb0b0708e19d9a99c2ee0402464a1e629f569c93d413b305
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:08:42Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Auxílio de Minimis
+- Doença Infecciosa
+- Empresa
+- Epidemia
+- Estabelecimento Hoteleiro
+- Financiamento
+- Formulário Eletrónico
+- IAPMEI
+- Indústria Hoteleira
+- Infraestrutura Turística
+- Instituto do Turismo de Portugal
+- Linha de Crédito
+- Microempresa
+- Regime de Apoio
+- Saúde Pública
+- Tesouraria
+- Turismo
 relationships:
 - type: amended_by
   target: pt:dre:184357069:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:184357069:por
+  label: Altera, a partir de 04.06.2022, o art. 6.º do DN 4/2020 de 25-mar DR.IIS [60], na versão republicada pelo presente
+    e posteriormente alterada, pelo(a) Despacho Normativo n.º 9/2022 - Diário da República n.º 108/2022, Série II de 2022-06-03,
+    com efeitos nos termos do disposto nos n.ºs 1 e 2 do seu art. 2.º.
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/despacho-normativo/9-2022-184357069
+  date: '2022-06-03'
+- type: cites
+  target: pt:dre:107596686:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:127648461:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:130600838:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:131193418:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:142111051:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:153493528:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:158698071:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:178510:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:629439:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:67098359:por
+  label: null
+  source: null
 article_structure:
-  article_count: 14
+  article_count: 15
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:08:42Z'
   warnings: []
   errors: []
 ---
@@ -115,7 +179,9 @@ Intensidade, natureza e limite do apoio financeiro
 
 9 de abril de 2021. - A Secretária de Estado do Turismo, Rita Baptista Marques.
 
-## ANEXO I — Artigo 1.º
+## ANEXO I
+
+###### Artigo 1.º
 
 Criação, objeto e objetivos
 
@@ -316,3 +382,5 @@ O presente despacho entra em vigor no dia seguinte ao da sua assinatura.
 Notas
 
 (1) Atividades enquadráveis, desde que desenvolvidas por empresas de animação turística e registadas no Registo Nacional dos Agentes de Animação Turística (RNAAT).
+
+314140245

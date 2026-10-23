@@ -46,45 +46,91 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/despacho-normativo/19-2009-2245196
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2009-08-25T00:00:00Z'
+  retrieved_at: '2026-10-23T15:07:10Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 2f1daf0581dc67ac97d4d485fe08641dcb346aa40b44ec7855153d720f015d19
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 1b387ecac3f3f97b60e8e145423a92f66538da82bc17d429e58b20153245fd09
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:07:10Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Assistência Técnica
+- Financiamento
+- Instituto de Turismo de Portugal
+- Plano de Consolidação do Turismo
+- Programa de Intervenções para a Qualificação do Turismo
+- Projeto de Investimento
+- Promoção Turística
+- Prorrogação de Prazo
+- Regulamento de Execução do Subprograma Nº 6-assistência Técnica
+- Subsídio
+- Turismo
 relationships:
 - type: amended_by
   target: pt:dre:1503930:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:1503930:por
+  label: "Alterado o n.º 3 do art. 1.º do Regulamento de Execução do Subprograma n.º 6, «Assistência Técnica», do Programa\
+    \ de Intervenções para a Qualificação do Turismo (PIQTUR), publicado em anexo ao DN 20/2002, de 10-Abr, na redacção do\
+    \ presente diploma, pelo DN.29/2009.25.08.2009.SETU-MEI, DR.IIS [164] de 25.08.2009\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/despacho-normativo/29-2009-1503930
+  date: '2009-08-25'
+- type: cites
+  target: pt:dre:157992:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:2024519:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:239219:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:303269:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:430629:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:486138:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:486141:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:07:10Z'
   warnings: []
   errors: []
 ---
 
-# Despacho Normativo n.º 19/2009
+# Despacho normativo n.º 19/2009
 
 Pelo [Despacho Normativo n.º 36-A/2005](https://diariodarepublica.pt/dr/detalhe/despacho-normativo/36-a-2005-157992), publicado no Diário da República, 1.ª série-B, n.º 142, de 26 de Julho de 2005, foi determinado o encerramento de diversas medidas e subprogramas do Programa de Intervenções para a Qualificação do Turismo (PIQTUR), bem como a suspensão da apresentação de candidaturas ao subprograma n.º 1, «Estruturação, qualificação e diversificação da oferta», regulado pelo disposto no [Despacho Normativo n.º 8-A/2004](https://diariodarepublica.pt/dr/detalhe/despacho-normativo/8-a-2004-486138), de 18 de Fevereiro.
 
@@ -131,3 +177,5 @@ f)...
 4 - O presente despacho entra em vigor no dia seguinte à data da sua publicação.
 
 8 de Maio de 2009. - O Secretário de Estado do Turismo, Bernardo Luís Amador Trindade.
+
+201782173

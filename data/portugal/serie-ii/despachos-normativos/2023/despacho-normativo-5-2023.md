@@ -26,7 +26,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/2s/2023/04/071000000/0002600028.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -48,18 +48,18 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/despacho-normativo/5-2023-211573144
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2024-12-04T00:00:00Z'
+  retrieved_at: '2026-10-23T15:09:04Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 515761107ad079b21b8f6fc2437ad13accd121916f89fb6c345e742921835d17
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 11936eb0201c25038a3c52484710831fa471548b79d6f0c3acbfc4d046c3de93
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:09:04Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -72,16 +72,30 @@ relationships:
   target: pt:dre:898866988:por
   label: Última alteração registada na importação inicial
   source: null
+- type: cites
+  target: pt:dre:124680595:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:205557192:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:898866988:por
+  label: Revogado, a partir de 5 de dezembro de 2024, pelo(a) Despacho Normativo n.º 18/2024 - Diário da República n.º 235/2024,
+    Série II de 2024-12-04 nos termos do artigo 5.º deste
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/despacho-normativo/18-2024-898866988
+  date: '2024-12-04'
 article_structure:
   article_count: 7
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:09:04Z'
   warnings: []
   errors: []
 ---
@@ -173,3 +187,5 @@ b) De 25 % para as situações de disponibilidade em efetividade de serviço.
 O presente despacho normativo entra em vigor no dia seguinte ao da sua publicação e produz efeitos a 1 de janeiro de 2023.
 
 31 de março de 2023. - A Ministra da Justiça, Catarina Teresa Rola Sarmento e Castro.
+
+316340408

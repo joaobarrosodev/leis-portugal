@@ -46,36 +46,42 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/resolucao/13-2010-2236384
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2010-05-17T00:00:00Z'
+  retrieved_at: '2026-10-23T15:14:28Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 7012f2542ea1f10917f1a02b6c62f98c2cc76cdf30306896b8d41621a3c51764
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 4bdecd17597301d0e8bd99f8ac8ee7ba183312fe82f785dd061bcd6997f650e3
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:14:28Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
-relationships: []
+subjects:
+- Regulamento Interno
+- Tribunal de Contas
+relationships:
+- type: cites
+  target: pt:dre:193663:por
+  label: null
+  source: null
 article_structure:
-  article_count: 141
-  section_count: 19
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  article_count: 87
+  section_count: 18
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:14:28Z'
   warnings: []
   errors: []
 ---
@@ -98,7 +104,9 @@ Natureza e poderes
 
 3 - No exercício dos seus poderes, o Tribunal de Contas acompanha o acatamento das recomendações por si formuladas.
 
-###### Artigo 2.º — Missão e jurisdição
+Artigo 2.º
+
+Missão e jurisdição
 
 1 - O Tribunal de Contas tem por missão, nos termos da Constituição e da lei, fiscalizar a legalidade e regularidade das receitas e das despesas públicas, julgar as contas que a lei manda submeter-lhe, dar parecer sobre a Conta Geral do Estado e sobre as Contas das Regiões Autónomas, apreciar a gestão financeira e efectivar responsabilidades por infracções financeiras.
 
@@ -106,21 +114,29 @@ Natureza e poderes
 
 3 - (Revogado.)
 
-###### Artigo 3.º — Cooperação e coadjuvação
+Artigo 3.º
+
+Cooperação e coadjuvação
 
 1 - O Tribunal de Contas coopera com os demais órgãos de soberania e com as instituições homólogas, designadamente as da União Europeia e da Comunidade de Países de Língua Oficial Portuguesa, e respectivos Estados-Membros.
 
 2 - O Tribunal de Contas tem direito à coadjuvação de todas as entidades públicas e privadas e, em particular, à colaboração dos serviços, organismos e demais entidades incumbidas do controlo interno.
 
-###### Artigo 4.º — [...]
+Artigo 4.º
+
+[...]
 
 1 - Nos casos sujeitos à sua apreciação, o Tribunal de Contas assegura, nos termos da lei, o cumprimento do princípio do contraditório.
 
 2 - ...
 
-### Capítulo II — Caracterização e incumbências dos órgãos do Tribunal de Contas, Ministério Público e Serviços de Apoio
+Capítulo II
 
-###### Artigo 5.º — [...]
+Caracterização e incumbências dos órgãos do Tribunal de Contas, Ministério Público e Serviços de Apoio
+
+Artigo 5.º
+
+[...]
 
 1 - ...
 
@@ -134,7 +150,9 @@ Natureza e poderes
 
 6 - (Revogado.)
 
-###### Artigo 9.º — [...]
+Artigo 9.º
+
+[...]
 
 1 - A Comissão Permanente é um órgão do Tribunal, presidido pelo Presidente e constituído pelo Vice-Presidente, por um Juiz de cada Secção e, sempre que esteja em causa matéria da respectiva competência, pelos Juízes das Secções Regionais.
 
@@ -142,17 +160,23 @@ Natureza e poderes
 
 3 - ...
 
-###### Artigo 10.º — [...]
+Artigo 10.º
+
+[...]
 
 1 - O Presidente do Tribunal de Contas exerce as funções expressamente previstas na lei, competindo-lhe representar o Tribunal, garantir o eficaz funcionamento do Tribunal e dos seus órgãos, zelar pelo cumprimento das suas deliberações por parte dos Serviços de Apoio, promovendo, se necessário, as iniciativas legislativas e administrativas indispensáveis ao seu funcionamento.
 
 2 - (Revogado.)
 
-###### Artigo 11.º — [...]
+Artigo 11.º
+
+[...]
 
 O Vice-Presidente substitui o Presidente no exercício das suas competências, nas situações de vacatura, ausência ou impedimento, e exerce as competências que nele forem delegadas pelo Presidente.
 
-###### Artigo 13.º — [...]
+Artigo 13.º
+
+[...]
 
 1 - Os Juízes do Tribunal de Contas julgam e decidem apenas segundo a Constituição e a lei e não estão sujeitos a ordens ou instruções, salvo o dever de acatamento das decisões proferidas em via de recurso.
 
@@ -160,7 +184,9 @@ O Vice-Presidente substitui o Presidente no exercício das suas competências, n
 
 3 - Os Juízes do Tribunal de Contas têm direito à formação permanente e ao apoio técnico-operativo e instrumental que se mostre necessário ao desempenho das funções que lhes estão cometidas pela lei.
 
-###### Artigo 14.º — [...]
+Artigo 14.º
+
+[...]
 
 1 - A ordem de precedência dos Juízes é estabelecida anualmente em sessão do Plenário Geral, definindo a constituição das subsecções.
 
@@ -168,7 +194,9 @@ O Vice-Presidente substitui o Presidente no exercício das suas competências, n
 
 3 - ...
 
-###### Artigo 15.º — [...]
+Artigo 15.º
+
+[...]
 
 1 - ...
 
@@ -178,31 +206,43 @@ O Vice-Presidente substitui o Presidente no exercício das suas competências, n
 
 4 - A pedido do Juiz da Secção Regional, o Presidente pode nomear um Juiz da 1.ª ou da 3.ª Secção para o substituir durante as respectivas férias judiciais obtida a sua anuência.
 
-###### Artigo 17.º — [...]
+Artigo 17.º
+
+[...]
 
 1 - Ao Ministério Público junto do Tribunal de Contas incumbe defender a legalidade, exercendo, para o efeito, as competências previstas na lei.
 
 2 - Os Serviços de Apoio do Tribunal asseguram o apoio técnico e administrativo aos magistrados do Ministério Público.
 
-###### Artigo 18.º — Serviços de apoio
+Artigo 18.º
+
+Serviços de apoio
 
 O Tribunal de Contas dispõe de serviços de apoio técnico e administrativo indispensáveis ao exercício das suas funções, cuja organização e estrutura consta de decreto-lei.
 
-###### Artigo 19.º — [...]
+Artigo 19.º
+
+[...]
 
 O pessoal dos Serviços de Apoio depende hierarquicamente do Presidente e, funcionalmente, do Tribunal e de cada um dos seus membros, ou dos Magistrados do Ministério Público no que respeita aos funcionários do respectivo Serviço de Apoio Técnico e Administrativo.
 
-###### Artigo 20.º — [...]
+Artigo 20.º
+
+[...]
 
 1 - ...
 
 2 - (Revogado.)
 
-###### Artigo 23.º — [...]
+Artigo 23.º
+
+[...]
 
 O Tribunal de Contas dispõe de um sistema de informação gerido informaticamente, integrado em rede e interactivo.
 
-###### Artigo 24.º — [...]
+Artigo 24.º
+
+[...]
 
 O sistema tem por objectivo promover a eficiência e a eficácia do Tribunal, nomeadamente aos níveis da gestão e das atribuições, competindo-lhe garantir:
 
@@ -214,7 +254,9 @@ c) ...
 
 d) ...
 
-###### Artigo 25.º — [...]
+Artigo 25.º
+
+[...]
 
 O sistema de informação será regulamentado, tendo em conta as orientações gerais definidas pelo Plenário Geral, através de instruções aprovadas pelo Presidente, e deverá contemplar:
 
@@ -230,29 +272,39 @@ e) A definição de critérios gerais e níveis de competência relativos à dis
 
 f) A forma de publicitação dos actos do Tribunal.
 
-###### Artigo 27.º — [...]
+Artigo 27.º
+
+[...]
 
 1 - O Plenário Geral reúne sob convocatória do Presidente ou a solicitação de pelo menos um terço dos seus membros.
 
 2 - A solicitação deverá ser feita por escrito, dirigida ao Presidente, devendo a reunião ser convocada para os primeiros quinze dias seguintes.
 
-###### Artigo 28.º — [...]
+Artigo 28.º
+
+[...]
 
 1 - O Plenário Geral reunirá quatro vezes por ano, em sessões ordinárias, que terão lugar entre 1 e 31 de Maio, 15 e 30 de Junho, 15 e 30 de Outubro e entre 2 e 20 de Dezembro.
 
 2 - Poderá ainda o Plenário Geral reunir em sessões extraordinárias sempre que para tal for convocado.
 
-###### Artigo 30.º — [...]
+Artigo 30.º
+
+[...]
 
 1 - As sessões do Plenário Geral são presididas pelo Presidente do Tribunal, que dirige e orienta os trabalhos.
 
 2 - ...
 
-###### Artigo 31.º — [...]
+Artigo 31.º
+
+[...]
 
 O Ministério Público pode assistir às Sessões do Plenário Geral e intervirá nos termos definidos neste Regulamento.
 
-###### Artigo 32.º — [...]
+Artigo 32.º
+
+[...]
 
 1 - As sessões do Plenário Geral são secretariadas pelo Director-Geral ou, na sua falta ou ausência, pelo Subdirector-Geral, os quais poderão intervir a solicitação do Presidente ou de qualquer juiz para prestarem esclarecimentos sobre os assuntos inscritos na agenda.
 
@@ -260,13 +312,17 @@ O Ministério Público pode assistir às Sessões do Plenário Geral e intervir�
 
 3 -
 
-###### Artigo 33.º — [...]
+Artigo 33.º
+
+[...]
 
 1 - ...
 
 2 - Até 5 dias úteis antes da sessão, deve ser distribuída pelos Juízes e pelo Ministério Público uma cópia da agenda, salvo nos casos urgentes, devidamente justificados, em que o prazo será de 2 dias úteis.
 
-###### Artigo 35.º — [...]
+Artigo 35.º
+
+[...]
 
 1 - As sessões iniciam-se pela leitura e aprovação da acta da sessão anterior, seguindo-se a apresentação do expediente que o plenário tenha de conhecer e, finalmente, a apreciação e decisão dos processos e matérias inscritas na agenda.
 
@@ -274,13 +330,17 @@ O Ministério Público pode assistir às Sessões do Plenário Geral e intervir�
 
 3 - A acta da sessão dará conta da posição do Ministério Público, podendo fazê-lo por mera remissão para parecer escrito que tenha sido dado e que, nesse caso, será junto ao processo.
 
-###### Artigo 36.º — [...]
+Artigo 36.º
+
+[...]
 
 1 - A Comissão Permanente reúne a convocação do Presidente, por sua iniciativa ou a pedido fundamentado de qualquer dos seus membros com indicação dos assuntos a incluir na agenda.
 
 2 - A Comissão Permanente delibera sob proposta de qualquer dos seus membros.
 
-###### Artigo 37.º — [...]
+Artigo 37.º
+
+[...]
 
 1 - Estão sujeitos à distribuição os seguintes procedimentos:
 
@@ -302,19 +362,25 @@ e) ...
 
 5 - Compete ao relator apresentar no Plenário Geral a respectiva proposta da Comissão Permanente.
 
-###### Artigo 42.º — [...]
+Artigo 42.º
+
+[...]
 
 1 - O disposto na presente secção rege a formação e formulação de todas as deliberações, em tudo o que não esteja previsto nas disposições legais aplicáveis ou nos procedimentos especiais contemplados neste capítulo.
 
 2 - Regem-se, designadamente, pelo disposto nesta Secção, a constituição, pelo Plenário Geral, de Delegações Regionais, a aprovação de propostas de medidas legislativas e administrativas, a definição das linhas gerais de organização e funcionamento dos serviços de apoio técnico, incluindo os das Secções Regionais, a fixação do número de Juízes de cada Secção, e a aprovação de regulamentos internos e instruções do Tribunal que não sejam da competência de cada uma das Secções.
 
-###### Artigo 43.º — [...]
+Artigo 43.º
+
+[...]
 
 1 - O procedimento inicia-se por uma proposta de deliberação na qual se concretizarão o objecto, a forma e, se necessário, os fundamentos da deliberação a tomar e se incluirá, sempre que possível, um projecto de redacção da deliberação.
 
 2 - A proposta é dirigida ao Presidente do Tribunal acompanhada da documentação que se mostre pertinente.
 
-###### Artigo 44.º — [...]
+Artigo 44.º
+
+[...]
 
 1 - Para além do Presidente, as propostas de deliberação do Plenário Geral só podem ser apresentadas pela Comissão Permanente, pelas Secções Especializadas, pelas Secções Regionais, pelos Juízes e pelo Ministério Público.
 
@@ -322,7 +388,9 @@ e) ...
 
 3 - (Revogado.)
 
-###### Artigo 45.º — [...]
+Artigo 45.º
+
+[...]
 
 1 - O Presidente agendará oficiosamente as propostas da sua iniciativa ou que lhe forem apresentadas.
 
@@ -334,7 +402,9 @@ e) ...
 
 5 - As propostas de deliberação deverão ser apresentadas ao Presidente de modo a que possam ser agendadas, nos termos previstos no artigo 33.º, n.º 2.
 
-###### Artigo 48.º — [...]
+Artigo 48.º
+
+[...]
 
 1 - ...
 
@@ -344,19 +414,25 @@ e) ...
 
 4 - (Revogado.)
 
-###### Artigo 51.º — [...]
+Artigo 51.º
+
+[...]
 
 1 - As deliberações do Plenário Geral, após o seu registo, deverão ser, de imediato, notificadas ou comunicadas aos interessados e remetidas para publicação no Diário da República, se tal publicação for legalmente obrigatória ou determinada na deliberação.
 
 2 - A remessa para publicação no Diário da República ou difusão pelos meios de comunicação social de outras deliberações que o Plenário Geral entenda deverem ser publicadas ou divulgadas, será feita imediatamente após a sua notificação ou comunicação às entidades interessadas.
 
-###### Artigo 52.º — [...]
+Artigo 52.º
+
+[...]
 
 1 - O recurso extraordinário para fixação de jurisprudência é interposto, no prazo de 15 dias a contar do trânsito em julgado da decisão recorrida, em requerimento dirigido ao Presidente do Tribunal, no qual serão devidamente individualizadas, tanto a decisão recorrida, como a decisão anterior em oposição, bem como os fundamentos de facto e de direito em que assenta o recurso.
 
 2 - O recurso é distribuído por sorteio pelos Juízes da 1.ª ou da 3.ª Secção, consoante se trate de matéria de concessão ou recusa de visto ou de responsabilidade financeira, respectivamente, com exclusão do Juiz Relator da decisão recorrida.
 
-###### Artigo 53.º — [...]
+Artigo 53.º
+
+[...]
 
 1 - Na discussão e votação intervirão o Presidente e todos os Juízes membros do Plenário Geral, ainda que tenham sido relatores das decisões em confronto.
 
@@ -368,17 +444,23 @@ e) ...
 
 5 - (Revogado.)
 
-###### Artigo 54.º — [...]
+Artigo 54.º
+
+[...]
 
 O acórdão será rubricado pelo Relator em todas as folhas que não contenham a respectiva assinatura e assinado por todos os Juízes que intervieram na votação.
 
-###### Artigo 56.º — [...]
+Artigo 56.º
+
+[...]
 
 1 - O recurso é distribuído, por sorteio, entre os Juízes da 1.ª e da 3.ª Secção, com exclusão dos Juízes que tenham participado na decisão ou deliberação recorrida, os quais também não poderão intervir na respectiva discussão e votação.
 
 2 - (Revogado.)
 
-###### Artigo 59.º — [...]
+Artigo 59.º
+
+[...]
 
 1 - No início da discussão do projecto de Parecer, cada Juiz Relator fará uma exposição relativamente à parte que lhe competiu preparar e responderá às questões que lhe forem levantadas.
 
@@ -386,7 +468,9 @@ O acórdão será rubricado pelo Relator em todas as folhas que não contenham a
 
 3 - ...
 
-###### Artigo 63.º — [...]
+Artigo 63.º
+
+[...]
 
 1 - Até 31 de Março do ano anterior ao do início da vigência de um Plano Trienal, a Comissão Permanente elaborará e entregará ao Presidente para agendamento do Plenário Geral uma proposta de objectivos estratégicos para o triénio seguinte.
 
@@ -398,7 +482,9 @@ O acórdão será rubricado pelo Relator em todas as folhas que não contenham a
 
 5 - ...
 
-###### Artigo 64.º — [...]
+Artigo 64.º
+
+[...]
 
 1 - ...
 
@@ -414,7 +500,9 @@ O acórdão será rubricado pelo Relator em todas as folhas que não contenham a
 
 7 - O disposto neste artigo aplicar-se-á, com as devidas adaptações, à preparação e aprovação de propostas de alterações orçamentais.
 
-###### Artigo 65.º — [...]
+Artigo 65.º
+
+[...]
 
 1 - ...
 
@@ -426,7 +514,9 @@ O acórdão será rubricado pelo Relator em todas as folhas que não contenham a
 
 5 - ...
 
-###### Artigo 66.º — [...]
+Artigo 66.º
+
+[...]
 
 1 - Até 30 de Abril de cada ano, as Secções aprovarão o projecto de relatório anual das suas actividades a incluir no Relatório das Actividades do Tribunal do ano anterior.
 
@@ -434,7 +524,9 @@ O acórdão será rubricado pelo Relator em todas as folhas que não contenham a
 
 3 - O Plenário Geral para aprovação do Relatório Anual do Tribunal deverá ser convocado a tempo de o mesmo poder ser remetido às entidades e no prazo legalmente previstos.
 
-###### Artigo 67.º — [...]
+Artigo 67.º
+
+[...]
 
 1 - ...
 
@@ -442,7 +534,9 @@ O acórdão será rubricado pelo Relator em todas as folhas que não contenham a
 
 3 - Têm capacidade eleitoral activa todos os Juízes que componham o Plenário Geral.
 
-###### Artigo 68.º — [...]
+Artigo 68.º
+
+[...]
 
 1 - Os Juízes que pretendam ser candidatos à eleição deverão manifestar a sua disponibilidade, por escrito, ao Presidente, até 8 dias antes da data fixada para o Plenário Geral em que decorrerá a eleição.
 
@@ -452,7 +546,9 @@ O acórdão será rubricado pelo Relator em todas as folhas que não contenham a
 
 4 - ...
 
-###### Artigo 69.º — [...]
+Artigo 69.º
+
+[...]
 
 1 - ...
 
@@ -464,13 +560,17 @@ O acórdão será rubricado pelo Relator em todas as folhas que não contenham a
 
 5 - ...
 
-###### Artigo 70.º — [...]
+Artigo 70.º
+
+[...]
 
 1 - Não tendo sido candidato, o Juiz eleito poderá invocar razões justificativas para a não aceitação do cargo, procedendo-se, de imediato, a novo sufrágio.
 
 2 - (Revogado.)
 
-###### Artigo 72.º — [...]
+Artigo 72.º
+
+[...]
 
 1 - ...
 
@@ -478,7 +578,9 @@ O acórdão será rubricado pelo Relator em todas as folhas que não contenham a
 
 3 - (Revogado.)
 
-###### Artigo 76.º — [...]
+Artigo 76.º
+
+[...]
 
 1 - Haverá na Secretaria do Tribunal os seguintes livros de registo:
 
@@ -504,7 +606,9 @@ i) Resoluções diversas.
 
 3 -...
 
-###### Artigo 77.º — [...]
+Artigo 77.º
+
+[...]
 
 1 -...
 
@@ -524,27 +628,39 @@ São revogados os artigos 6.º, 7.º, 8.º, 22.º e 46.º do Regulamento Interno
 
 Dos procedimentos relativos à responsabilidade financeira
 
-###### Artigo 71.º — Âmbito
+Artigo 71.º
+
+Âmbito
 
 O disposto nos artigos seguintes aplica-se à tramitação dos procedimentos relativos à responsabilidade financeira emergente de processos de fiscalização prévia, fiscalização concomitante e fiscalização sucessiva.
 
-###### Artigo 72.º — Pagamento voluntário
+Artigo 72.º
+
+Pagamento voluntário
 
 Se o Relatório evidenciar eventuais responsabilidades financeiras, os responsáveis deverão ser informados de que poderão pôr termo ao procedimento através do pagamento voluntário das multas aplicáveis, pelo mínimo legal, e, sendo caso disso, das quantias a repor.
 
-###### Artigo 73.º — Vista ao Ministério Público
+Artigo 73.º
+
+Vista ao Ministério Público
 
 Fixado o texto do projecto de Relatório pelo Juiz Relator, será dada vista ao Ministério Público, para emissão de parecer, no prazo de cinco dias úteis.
 
-###### Artigo 74.º — Distribuição do projecto de Relatório
+Artigo 74.º
+
+Distribuição do projecto de Relatório
 
 Decorrido o prazo previsto no artigo anterior, o projecto de Relatório será distribuído aos Juízes adjuntos e ao Ministério Público, com a antecedência mínima de cinco dias úteis, relativamente à sessão para que venha a ser agendado.
 
-###### Artigo 75.º — Relevação de responsabilidades
+Artigo 75.º
+
+Relevação de responsabilidades
 
 O Relatório deverá contemplar a verificação dos pressupostos estabelecidos no n.º 8 do artigo 65.º da [Lei n.º 98/97](https://diariodarepublica.pt/dr/detalhe/lei/98-1997-193663), de 26 de Agosto, quando se decida relevar responsabilidades ou quando tal questão tenha sido suscitada no processo.
 
-###### Artigo 76.º — Aplicação de multas
+Artigo 76.º
+
+Aplicação de multas
 
 1 - As multas previstas no artigo 66.º da [Lei n.º 98/97](https://diariodarepublica.pt/dr/detalhe/lei/98-1997-193663), de 26 de Agosto, a aplicar aos processos mencionados no artigo 71.º são decididas pelo Juiz relator do processo.
 
@@ -610,7 +726,7 @@ Regulamento Geral do Tribunal de Contas
 
 ###### Artigo 7.º — Presidente
 
-**O Presidente do Tribunal de Contas exerce as funções expressamente previstas na lei, competindo-lhe representar o Tribunal, garantir o eficaz funcionamento do Tribunal e dos seus órgãos, zelar pelo cumprimento das suas deliberações por parte dos Serviços de Apoio, promovendo, se necessário, as iniciativas legislativas e administrativas indispensáveis ao seu funcionamento.**
+O Presidente do Tribunal de Contas exerce as funções expressamente previstas na lei, competindo-lhe representar o Tribunal, garantir o eficaz funcionamento do Tribunal e dos seus órgãos, zelar pelo cumprimento das suas deliberações por parte dos Serviços de Apoio, promovendo, se necessário, as iniciativas legislativas e administrativas indispensáveis ao seu funcionamento.
 
 ###### Artigo 8.º — Vice-presidente
 
@@ -1197,3 +1313,5 @@ i) Resoluções diversas.
 ###### Artigo 83.º — Entrada em vigor
 
 O presente Regulamento entra em vigor no décimo dia seguinte ao da sua publicação.
+
+203233896

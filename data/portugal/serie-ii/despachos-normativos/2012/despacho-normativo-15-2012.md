@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/2s/2012/07/127000000/2325723261.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,45 +46,88 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/despacho-normativo/15-2012-1916341
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2012-07-03T00:00:00Z'
+  retrieved_at: '2026-10-23T15:07:39Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 053dc7a5d875f7a01e8cb28f69b434f3dd8336f2a48812b75212d5831be2b9eb
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 862efaf5dc479e17910a9f6782d528a9278e97f25bb0cac6798a1bda3cb2314d
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:07:39Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Contrato
+- Direção Geral de Energia e Geologia
+- Eficiência Energética
+- Energia Elétrica
+- Organismo do Estado
+- Poupança de Energia
+- Regulamento
+- Sistema de Qualificação de Empresas de Serviços Energéticos
 relationships:
 - type: cites
   target: celex:31991L0308
   label: null
   source: null
+- type: cites
+  target: pt:dre:248178:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:249821:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:278903:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:376273:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:672458:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:672459:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:683219:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:183641013:por
+  label: Revogado, a partir de 19.05.2022, pelo(a) Despacho n.º 6227/2022 - Diário da República n.º 96/2022, Série II de 2022-05-18,
+    que manteve, contudo, transitoriamente em vigor a qualificação como ESE nos termos do Regulamento do SQESE aprovado pelo
+    presente diploma, até ao termo do prazo previsto no n.º 2 do art. 12.º.
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/despacho/6227-2022-183641013
+  date: '2022-05-18'
 article_structure:
   article_count: 13
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:07:39Z'
   warnings: []
   errors: []
 ---
 
-# Despacho Normativo n.º 15/2012
+# Despacho normativo n.º 15/2012
 
 O [Decreto-Lei n.º 29/2011](https://diariodarepublica.pt/dr/detalhe/decreto-lei/29-2011-278903), de 28 de fevereiro, veio estabelecer o regime jurídico aplicável à formação e execução dos contratos de desempenho energético que revistam a natureza de contratos de gestão de eficiência energética, a celebrar entre os serviços e organismos da Administração Pública direta, indireta e autónoma e as empresas de serviços energéticos, com vista à implementação de medidas de melhoria da eficiência energética dos edifícios públicos e equipamentos afetos à prestação de serviços públicos.
 
@@ -394,7 +437,7 @@ j) Não prestou, a qualquer título, direta ou indiretamente, assessoria ou apoi
 
 ... (nome, número de documento de identificação e morada), na qualidade de representante legal de (1)... (firma, número de identificação fiscal e sede ou, no caso de agrupamento interessado, firmas, números de identificação fiscal e sedes), tendo tomado conhecimento da aprovação do Regulamento do Sistema de Qualificação de Empresas de Serviços Energéticos, pelo Despacho Normativo n.º ..., publicado no Diário da República, n.º ..., 2.ª série, de..., e cuja aprovação foi publicitada por anúncio publicado no Jornal Oficial da União Europeia, de... e da consequente instituição do Sistema de Qualificação de Empresas de Serviços Energéticos, nos termos do disposto no [Decreto-Lei n.º 29/2011](https://diariodarepublica.pt/dr/detalhe/decreto-lei/29-2011-278903), de 28 de fevereiro, vem por este meio apresentar a lista com identificação do quadro de pessoal e colaboradores da Empresa de Serviços Energéticos (ESE) com relevância para efeitos do disposto no artigo 5.º das respetivas regras:
 
-[([ver documento original](https://files.diariodarepublica.pt/2s/2012/07/127000000/2325723261.pdf))](https://files.diariodarepublica.pt/2s/2012/07/127000000/2325723261.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/2s/2012/07/127000000/2325723261.pdf)
 
 ... (local),... (data),... [assinatura]
 
@@ -406,7 +449,7 @@ j) Não prestou, a qualquer título, direta ou indiretamente, assessoria ou apoi
 
 Eu, (nome) portador do Bilhete de Identidade/Cartão do Cidadão n.º (N.º BI/CC) emitido pelo (local), para efeitos de qualificação no Sistema de Qualificação de Empresas de Serviços Energéticos, para nos termos do disposto no [Decreto-Lei n.º 29/2011](https://diariodarepublica.pt/dr/detalhe/decreto-lei/29-2011-278903), de 28 de fevereiro, venho pela presente declarar que participei na execução de, pelo menos, quatro auditorias energéticas nos últimos dois anos, no território nacional ou noutro país membro da União Europeia, apresentando de seguida a informação resumida de cada um desses trabalhos:
 
-[([ver documento original](https://files.diariodarepublica.pt/2s/2012/07/127000000/2325723261.pdf))](https://files.diariodarepublica.pt/2s/2012/07/127000000/2325723261.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/2s/2012/07/127000000/2325723261.pdf)
 
 Mais declaro que, caso seja solicitado, facultarei cópia dos relatórios elaborados no âmbito das auditorias energéticas acima indicadas.
 
@@ -418,8 +461,10 @@ Mais declaro que, caso seja solicitado, facultarei cópia dos relatórios elabor
 
 Eu, (nome) portador do Bilhete de Identidade/Cartão do Cidadão n.º (N.º BI/CC) emitido pelo (local), venho pela presente declarar, para efeitos de qualificação no Sistema de Qualificação de Empresas de Serviços Energéticos, nos termos do disposto no [Decreto-Lei n.º 29/2011](https://diariodarepublica.pt/dr/detalhe/decreto-lei/29-2011-278903), de 28 de fevereiro, que participei na execução de, pelo menos, dois estudos e ou projetos respeitantes à implementação de medidas de melhoria da eficiência energética nos últimos três anos, no território nacional ou noutro país membro da União Europeia, apresentando de seguida a informação resumida de cada um desses trabalhos:
 
-[([ver documento original](https://files.diariodarepublica.pt/2s/2012/07/127000000/2325723261.pdf))](https://files.diariodarepublica.pt/2s/2012/07/127000000/2325723261.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/2s/2012/07/127000000/2325723261.pdf)
 
 Mais declaro que, caso seja solicitado, facultarei cópia de todos os estudos, projetos e demais elementos que evidenciem a realização dos trabalhos anteriormente descritos.
 
 ... (local),... (data),... [assinatura]
+
+206209722

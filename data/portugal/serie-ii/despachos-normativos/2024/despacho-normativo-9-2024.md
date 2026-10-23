@@ -27,7 +27,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/2s/2024/03/060000000/0021400218.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -49,40 +49,52 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/despacho-normativo/9-2024-857146463
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2024-03-25T00:00:00Z'
+  retrieved_at: '2026-10-23T15:09:10Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 855db571312185ce5d8bc9031f714916baea21fea4f22af12618b8bcb816ee1e
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: e78a5ad5f9119fcee29aae92744419c885ae742e93fc1fa8db83452a3b453350
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:09:10Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Compensação Financeira
+- Direção Geral de Alimentação e Veterinária
+- Doença Vegetal
+- Instituto da Conservação da Natureza e das Florestas
+- Prejuízo Financeiro
+- Produtor
+- Proteção Fitossanitária
+- Regulamentação de Atos Legislativos
 relationships:
 - type: cites
   target: celex:32031R2016
   label: null
   source: null
+- type: cites
+  target: pt:dre:142870334:por
+  label: null
+  source: null
 article_structure:
   article_count: 7
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:09:10Z'
   warnings: []
   errors: []
 ---
@@ -182,7 +194,7 @@ O presente despacho entra em vigor no dia seguinte ao da sua publicação.
 | I - Espécies ornamentais/florestais: |  |
 | 1 - Fase de plântula | 0,05 € |
 | 2 - Fase de replicado | 0,10 € |
-| 3 - Plantas, em alvéolos, com diâmetro até 5 cm ou em alvéolos com volume até 500 cm<sup>3</sup> | 0,35 € |
+| 3 - Plantas, em alvéolos, com diâmetro até 5 cm ou em alvéolos com volume até 500 cm3 | 0,35 € |
 | 4 - Plantas em vaso (volume em litros): |  |
 | 4.1 - Vasos até 0,5 l | 1,00 € |
 | 4.2 - Vasos até 2 l | 2,20 € |
@@ -222,7 +234,7 @@ O presente despacho entra em vigor no dia seguinte ao da sua publicação.
 
 1 - Percentagem de compensação:
 
-| Valor dos prejuízos | Percentagem de compensação |
+| Valor dos prejuízos | Percentagem<br>de compensação |
 | --- | --- |
 | Até 20 000 € | 100 % |
 | ≥ 20 000 € e ≤ 40 000 € | 30 % |
@@ -239,3 +251,7 @@ A - Componente até 20 000 €;
 B - Componente entre ≥ 20 000 € e ≤ 40 000 €;
 
 C - Componente > 40 000 €.
+
+317468586
+
+.Tbl1 { border-collapse:collapse; border-width:1px; border-color:rgb(0,0,0); } .Tbl2 { height:26px; } .Tbl3 { border-top-color:rgb(0,0,0); border-left-width:0px; border-top-width:1px; border-right-width:1px; border-top-style:solid; border-bottom-width:1px; border-bottom-style:solid; border-right-style:solid; border-right-color:rgb(0,0,0); border-left-style:solid; vertical-align:middle; } .Tbl4 { border-bottom-color:rgb(0,0,0); border-top-color:rgb(0,0,0); border-left-width:1px; border-top-width:1px; border-right-width:1px; border-top-style:solid; border-left-color:rgb(0,0,0); border-bottom-width:1px; border-bottom-style:solid; border-right-style:solid; border-left-style:solid; vertical-align:middle; } .Tbl5 { text-align:center; } .Tbl6 { min-height:19px; } .Tbl7 { border-bottom-color:rgb(0,0,0); border-top-color:rgb(0,0,0); border-left-width:1px; border-top-width:1px; border-right-width:1px; border-top-style:solid; border-bottom-width:1px; border-bottom-style:solid; border-right-style:solid; border-right-color:rgb(0,0,0); border-left-style:solid; } .Tbl9 { border-bottom-color:rgb(0,0,0); border-top-color:rgb(0,0,0); border-left-width:1px; border-top-width:1px; border-right-width:1px; border-top-style:solid; border-left-color:rgb(0,0,0); border-bottom-width:1px; border-bottom-style:solid; border-right-style:solid; border-left-style:solid; } .Tbl10 { border-bottom-color:rgb(0,0,0); border-top-color:rgb(0,0,0); border-left-width:1px; border-top-width:1px; border-right-width:1px; border-top-style:solid; border-bottom-width:1px; border-bottom-style:solid; border-right-style:solid; border-right-color:rgb(0,0,0); border-left-style:solid; vertical-align:middle; }

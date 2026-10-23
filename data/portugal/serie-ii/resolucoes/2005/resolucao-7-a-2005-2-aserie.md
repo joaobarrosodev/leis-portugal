@@ -1,7 +1,7 @@
 ---
 schema_version: '1.0'
 id: pt:dre:2768180:por
-title: Resolução n.º 7-A/2005(2.ªsérie)
+title: Resolução n.º 7-A/2005 (2.ª série)
 short_title: null
 summary: null
 jurisdiction: portugal
@@ -19,7 +19,7 @@ publication:
   reference: Diário da República n.º 66/2005, 1º Suplemento, Série II de 2005-04-05
   number: '66'
   series: II
-  supplement: 1º Suplemento
+  supplement: null
   pages: 5442-(2) a 5442-(2)
   pdf_url: https://files.diariodarepublica.pt/2s/2005/04/066000001/0000200002.pdf
 entry_into_force_dates: []
@@ -46,45 +46,123 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/resolucao/7-a-2005-2768180
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2009-11-26T00:00:00Z'
+  retrieved_at: '2026-10-23T15:13:07Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 5a1540ea8aba7d6cc20fa5424e6c97f966cdd04f99085320e613790b1b1b2424
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: e1bf661b50255915efb572fcf5cbbe25e8296ea21832bd3fb11c5846bd53713e
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:13:07Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Aveiro
+- Beja
+- Braga
+- Bragança
+- Castelo Branco
+- Coimbra
+- Évora
+- Exoneração
+- Faro
+- Governador Civil
+- Guarda
+- Leiria
+- Lisboa
+- Nomeação
+- Portalegre
+- Porto
+- Santarém
+- Setúbal
+- Viana do Castelo
+- Vila Real
+- Viseu
 relationships:
 - type: amended_by
   target: pt:dre:2003990:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:2550171:por
+  label: "Exonerado o governador civil de Évora, pela RES.68/2005(2ªSérie).26.10.2005.PCM, DR.IIS [217] de 11.11.2005 \0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/resolucao/68-2005-2550171
+  date: '2005-10-26'
+- type: amended_by
+  target: pt:dre:2514311:por
+  label: "Exonerado pela RES.30/2007.11.07.2007.PCM, DG.IIS [132] de 11.07.2007\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/resolucao/30-2007-2514311
+  date: '2007-07-11'
+- type: amended_by
+  target: pt:dre:2081881:por
+  label: "Exonerada a governadora civil de Setúbal, nomeada pelo presente diploma, pela RES.43/2007.02.10.2007.PCM, DR.IIS\
+    \ [190] de 02.10.2007\07\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/resolucao/43-2007-2081881
+  date: '2007-10-02'
+- type: amended_by
+  target: pt:dre:1805021:por
+  label: "Exonerada a governadora civil de Lisboa pela RES.6/2008.26.02.2008.PCM, DR.IIS [40] de 26.02.2008\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/resolucao/6-2008-1805021
+  date: '2008-02-26'
+- type: amended_by
+  target: pt:dre:3570790:por
+  label: "Exonerado o governador civil de Vila Real, pela RES.6/2009.04.02.2009.PCM, DR.IIS [24] de 04.02.2009\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/resolucao/6-2009-3570790
+  date: '2009-02-04'
+- type: amended_by
+  target: pt:dre:2267887:por
+  label: "Exonera Isabel Oneto e Paulo Oliveira Fonseca dos cargos de governador civil do Porto e de Santarém, respectivamente,\
+    \ pela RES.13-A/2009.09.06.2009.PCM, DR.IIS [111-Supl] de 09.06.2009\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/resolucao/13-a-2009-2267887
+  date: '2009-06-09'
+- type: amended_by
+  target: pt:dre:1503903:por
+  label: "Exonerado o governador civil de Aveiro, Carlos Filipe Neto Brandão, nomeado pela presente resolução, pela RES.16/2009.25.08.2009.PCM,\
+    \ DR.IIS [164] de 25.08.2009\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/resolucao/16-2009-1503903
+  date: '2009-08-25'
+- type: amended_by
+  target: pt:dre:1663849:por
+  label: "Exonerado Jorge Manuel Nogueira Gomes do cargo do Governador Civil de Bragança, para o qual foi nomeado pela presente\
+    \ resolução, pela RES.17/2009.27.08.2009.PCM, DR.IIS [166] de 27.08.2009\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/resolucao/17-2009-1663849
+  date: '2009-08-27'
+- type: amended_by
+  target: pt:dre:2003990:por
+  label: "Exonerado o Major-general Manuel Soares Monge do cargo de governador civil de Beja, licenciado Henrique José Lopes\
+    \ Fernandes, do cargo de governador civil de Coimbra, licenciada Maria do Carmo Pires Almeida Borges do cargo de governador\
+    \ civil da Guarda, licenciado Jaime da Conceição Cordas Estorninho, do cargo de governador civil de Portalegre e o licenciado\
+    \ José Joaquim Pita Guerreiro, do cargo de governador civil de Viana do Castelo, nomeados pela presente resolução, pela\
+    \ RES.24/2009.26.11.2009.PCM, DR.IIS [230] de 26.11.2009\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/resolucao/24-2009-2003990
+  date: '2009-11-26'
+- type: cites
+  target: pt:dre:584790:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:13:07Z'
   warnings: []
   errors: []
 ---
 
-# Resolução n.º 7-A/2005(2.ªsérie)
+# Resolução n.º 7-A/2005 (2.ª série)
 
 Resolução n.º 7-A/2005 (2.ª série). - Nos termos das alíneas d) e e) do artigo 199.º da Constituição, o Conselho de Ministros resolve:
 

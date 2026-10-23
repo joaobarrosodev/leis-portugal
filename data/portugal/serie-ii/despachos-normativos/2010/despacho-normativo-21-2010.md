@@ -46,45 +46,124 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/despacho-normativo/21-2010-2431937
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2019-06-14T00:00:00Z'
+  retrieved_at: '2026-10-23T15:07:25Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 5f417b8c8aa9090061e066c288eb4c34ea03b4575a1fa1d2214483cf3ba37394
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: e98dc26ec4800bc18d0619b41a62eb0d777e3f9ca6c97c8a6f011765e357eed0
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:07:25Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Estatuto
+- Instituto Politécnico
+- Instituto Politécnico do Cávado e do AVE
 relationships:
 - type: amended_by
   target: pt:dre:122574727:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:58752409:por
+  label: Homologadas as alterações aos Estatutos do Instituto Politécnico do Cávado e do Ave pelo(a) Despacho Normativo n.º
+    15/2014 - Diário da República n.º 214/2014, Série II de 2014-11-05, que os republica
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/despacho-normativo/15-2014-58752409
+  date: '2014-11-05'
+- type: amended_by
+  target: pt:dre:70684031:por
+  label: Homologadas as alterações aos Estatutos do Instituto Politécnico do Cávado e do Ave homologados pelo presente despacho
+    normativo, na redação do DN 15/2014 de 05-nov que os republicou, pelo(a) Despacho Normativo n.º 20/2015 - Diário da República
+    n.º 201/2015, Série II de 2015-10-14
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/despacho-normativo/20-2015-70684031
+  date: '2015-10-14'
+- type: amended_by
+  target: pt:dre:122574727:por
+  label: Homologada a revisão dos Estatutos do Instituto Politécnico do Cávado e do Ave publicados pelo presente Despacho,
+    na versão republicada dos Estatutos pelo DN 20/2015 de 14-out, pelo(a) Despacho Normativo n.º 1-A/2019 - Diário da República
+    n.º 113/2019, 1º Suplemento, Série II de 2019-06-14 que procede à sua republicação
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/despacho-normativo/1-a-2019-122574727
+  date: '2019-06-14'
+- type: cites
+  target: pt:dre:173757:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:227271:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:2635825:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:468663:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:479597:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:488490:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:516051:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:540661:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:556606:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:615030:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:637179:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:640339:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:667122:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:692654:por
+  label: null
+  source: null
 article_structure:
   article_count: 96
   section_count: 23
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:07:25Z'
   warnings: []
   errors: []
 ---
 
-# Despacho Normativo n.º 21/2010
+# Despacho normativo n.º 21/2010
 
 Considerando os estatutos provisórios do Instituto Politécnico do Cávado e do Ave aprovados pelo [Despacho Normativo n.º 3/2009](https://diariodarepublica.pt/dr/detalhe/despacho-normativo/3-2009-2635825), de 27 de Janeiro, ao abrigo do disposto na alínea a) do n.º 2 do artigo 38.º da [Lei n.º 62/2007](https://diariodarepublica.pt/dr/detalhe/lei/62-2007-640339), de 10 de Setembro (regime jurídico das instituições de ensino superior);
 
@@ -1847,3 +1926,5 @@ b) Qualquer membro do conselho geral.
 ###### Artigo 96.º — Entrada em vigor
 
 Os presentes estatutos entram em vigor no dia seguinte ao da sua publicação no Diário da República, salvo no que depender da entrada em funcionamento dos novos órgãos.
+
+203489484

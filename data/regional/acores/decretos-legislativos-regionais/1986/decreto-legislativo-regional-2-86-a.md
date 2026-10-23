@@ -47,36 +47,52 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/2-1986-616413
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1986-01-08T00:00:00Z'
+  retrieved_at: '2026-10-23T15:17:19Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: eee8f670444561d67d0ed5e498cd5357e1e3083482e2c7902bf168ebbd10d8a4
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 572f5a60b270a6947018140bcf16509c372ad1797ffd05c921b869a8316a9fc2
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:17:19Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
-relationships: []
+subjects:
+- Açores
+- Cargo Público
+- Controlo de Riqueza
+relationships:
+- type: cites
+  target: pt:dre:312432:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:661486:por
+  label: null
+  source: null
+- type: corrected_by
+  target: pt:dre:301839:por
+  label: Rectificado pela DECL.DD4654.05.03.1986.PCM, DR.IS [74]Supl de 31.03.1986
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/declaracao/1986-301839
+  date: '1986-03-05'
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:17:19Z'
   warnings: []
   errors: []
 ---
@@ -93,16 +109,16 @@ Esta obrigação, nos termos em que está imposta, obriga a deslocações e desp
 
 Assim, a Assembleia Regional dos Açores decreta, nos termos da alínea b) do artigo 229.º da Constituição da República Portuguesa, o seguinte:
 
-###### Artigo único. O n.º 2 do artigo 2.º do [Decreto Legislativo Regional n.º 12/84/A](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/12-1984-661486), de 20 de Fevereiro, passa a ter a seguinte redacção:
+Artigo único. O n.º 2 do artigo 2.º do [Decreto Legislativo Regional n.º 12/84/A](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/12-1984-661486), de 20 de Fevereiro, passa a ter a seguinte redacção:
 
 2 - As declarações serão entregues, contra recibo, no gabinete das entidades mencionadas no número anterior, que as remeterão ao Tribunal Constitucional.
 
 Aprovado pela Assembleia Regional dos Açores, na Horta, em 29 de Novembro de 1985.
 
-**O Presidente da Assembleia Regional, José Guilherme Reis Leite.**
+O Presidente da Assembleia Regional, José Guilherme Reis Leite.
 
-**Assinado em Angra do Heroísmo em 16 de Dezembro de 1985.**
+Assinado em Angra do Heroísmo em 16 de Dezembro de 1985.
 
-**Publique-se.**
+Publique-se.
 
-**O Ministro da República para a Região Autónoma dos Açores, Tomás George Conceição Silva.**
+O Ministro da República para a Região Autónoma dos Açores, Tomás George Conceição Silva.

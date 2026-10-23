@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/2s/2024/02/037000000/0014600191.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -47,18 +47,18 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/despacho-normativo/4-2024-853247354
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2024-05-03T00:00:00Z'
+  retrieved_at: '2026-10-23T15:09:09Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: b3902deedf89c25cca4b5b172fb9d1151c4db6cf12e3ff4bce597daf2e41c533
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: b735ea068eda91f48e74c812ff093c804ce7d15f08709b836891ddf1df65fdb3
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:09:09Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -71,20 +71,102 @@ relationships:
   target: pt:dre:863638718:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:863638718:por
+  label: Alterados, a partir de 4 de maio de 2025, os artigos 12.º, 24.º e 31.º do Regulamento pelo(a) Despacho Normativo
+    n.º 11-A/2024 - Diário da República n.º 86/2024, Suplemento, Série II de 2024-05-03
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/despacho-normativo/11-a-2024-863638718
+  date: '2024-05-03'
 - type: cites
   target: celex:32016R0679
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:107791610:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:115652961:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:115652962:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:116640900:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:123815982:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:124353902:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:1400595:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:174840:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:1762633:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:185829850:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:208462726:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:211393783:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:216154388:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:259964:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:490957:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:516044:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:544383:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:628859:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:66041468:por
   label: null
   source: null
 article_structure:
   article_count: 52
   section_count: 9
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:09:09Z'
   warnings: []
   errors: []
 ---
@@ -1307,9 +1389,9 @@ QUADRO I
 
 Prazos de inscrição para as provas do ensino básico - 2024
 
-|  |  |  |  |
+| Condições de admissão às provas de equivalência à frequência dos 1.º, 2.º e 3.º ciclos, provas finais e provas a nível de escola do 3.º ciclo do ensino básico | Prazos de inscrição para a 1.ª fase | Prazos de inscrição para a 2.ª fase |  |
 | --- | --- | --- | --- |
-| Condições de admissão às provas de equivalência à frequência dos 1.º, 2.º e 3.º ciclos, provas finais e provas a nível de escola do 3.º ciclo do ensino básico | Condições de admissão às provas de equivalência à frequência dos 1.º, 2.º e 3.º ciclos, provas finais e provas a nível de escola do 3.º ciclo do ensino básico | Prazos de inscrição para a 1.ª fase | Prazos de inscrição para a 2.ª fase |
+|  |  |  |  |
 | Alunos internos | 1 - Frequentem o 9.º ano do ensino básico geral, incluindo do PCA ao abrigo do artigo 7.º da Portaria n.º 181/2019, de 11 de junho, na sua redação atual, ou um curso artístico especializado (CAE). | Não necessitam de inscrição. | Não aplicável. |
 |  | 2 - Frequentem ou tenham concluído um PCA ao abrigo do Despacho Normativo n.º 1/2006, de 6 de janeiro, CEF nível 2, PIEF ou o ensino básico recorrente e que pretendam prosseguir estudos no ensino secundário, em cursos científico-humanísticos, excluindo os do ensino secundário recorrente. | De 26 de fevereiro a 8 de março. |  |
 | Alunos autopropostos. | 3 - Estejam matriculados nas modalidades de ensino individual ou de ensino doméstico. |  | De 8 a 10 de julho (2.º e 3.º ciclos) e de 17 a 18 de julho (1.º ciclo). |
@@ -1329,9 +1411,9 @@ QUADRO II
 
 Prazos de inscrição para provas e exames do ensino secundário - 2024
 
-|  |  |  |  |
+| Condições de admissão a exames finais nacionais, exames a nível de escola de línguas estrangeiras equivalentes a exames finais nacionais, provas de equivalência à frequência e provas a nível de escola | Prazos de inscrição para a 1.ª fase (com caráter obrigatório para todos os alunos)<br>(a) | Prazos de inscrição para a 2.ª fase |  |
 | --- | --- | --- | --- |
-| Condições de admissão a exames finais nacionais, exames a nível de escola de línguas estrangeiras equivalentes a exames finais nacionais, provas de equivalência à frequência e provas a nível de escola | Condições de admissão a exames finais nacionais, exames a nível de escola de línguas estrangeiras equivalentes a exames finais nacionais, provas de equivalência à frequência e provas a nível de escola | Prazos de inscrição para a 1.ª fase (com caráter obrigatório para todos os alunos) (a) | Prazos de inscrição para a 2.ª fase |
+|  |  |  |  |
 | Alunos internos | 1 - Alunos do 11.º ano que pretendam obter aprovação em disciplinas cuja classificação final da disciplina (CFD) depende da realização de exame final nacional dos CCH. | De 26 de fevereiro a 8 de março. |  |
 |  | 2 - Alunos do 11.º ano que pretendam melhorar a classificação de disciplinas dos CCH, que dependem da realização de exame final nacional para o cálculo da CFD, concluídas no presente ano letivo. | Não aplicável. |  |
 | Alunos Autopropostos. | 3 - Alunos do 11.º ano e do 12.º ano que pretendam realizar exames finais nacionais exclusivamente como provas de ingresso para efeitos de acesso ao ensino superior. | De 26 de fevereiro a 8 de março. | De 17 a 18 de julho. |
@@ -1357,9 +1439,9 @@ Provas de aferição do ensino básico - 2024
 
 Tipo de prova e respetiva duração
 
-|  |  |  |
+| Disciplina | Tipo de prova | Duração<br>(minutos) |
 | --- | --- | --- |
-| Disciplina | Tipo de prova | Duração (minutos) |
+|  |  |  |
 | Português e Estudo do Meio (25) - 2.º ano ... | E | 90 |
 | Matemática e Estudo do Meio (26) - 2.º ano ... | E | 90 |
 | Educação Artística (27) - 2.º ano ... | P | 135 |
@@ -1378,9 +1460,9 @@ Provas finais do ensino básico - 2024
 
 Tipo de prova e respetiva duração
 
-|  |  |  |  |
+| Disciplina | Tipo de prova | Duração<br>(minutos) | Tolerância<br>(minutos) |
 | --- | --- | --- | --- |
-| Disciplina | Tipo de prova | Duração (minutos) | Tolerância (minutos) |
+|  |  |  |  |
 | Português (91) (a) ... | E | 90 | 30 |
 | Matemática (92) ... | E | 90 |  |
 | Português Língua Não Materna (93) - nível A2 (b) (c) ... | E + O | 75 + 15 |  |
@@ -1403,9 +1485,9 @@ Tabela A - 1.º ciclo do ensino básico
 
 Tipo de prova e respetiva duração
 
-|  |  |  |
+| Disciplina | Tipo de prova | Duração<br>(minutos) |
 | --- | --- | --- |
-| Disciplina | Tipo de prova | Duração (minutos) |
+|  |  |  |
 | Português (41) (a) ... | E + O | 90 + 15 |
 | Matemática (42) ... | E | 90 |
 | Português Língua Não Materna (43) - nível A2 (a) (b) (c) ... | E + O | 90 + 15 |
@@ -1428,9 +1510,9 @@ Tabela B - 2.º ciclo do ensino básico
 
 Tipo de prova e respetiva duração
 
-|  |  |  |
+| Disciplina | Tipo de prova | Duração<br>(minutos) |
 | --- | --- | --- |
-| Disciplina | Tipo de prova | Duração (minutos) |
+|  |  |  |
 | Português (61) (a) ... | E + O | 90 + 15 |
 | Matemática (62) ... | E | 90 |
 | Português Língua Não Materna (63) - nível A2 (a) (b) (c) ... | E + O | 90 + 15 |
@@ -1457,11 +1539,11 @@ Tabela C - 3.º ciclo do ensino básico
 
 Tipo de provas e respetiva duração
 
-|  |  |  |
+| Disciplina | Tipo de prova | Duração<br>(minutos) |
 | --- | --- | --- |
-| Disciplina | Tipo de prova | Duração (minutos) |
+|  |  |  |
 | Língua Estrangeira I - Inglês (21) (a) ... | E + O | 90 + 15 |
-| Língua Estrangeira II (a): Espanhol (15) ... Francês (16) ... Alemão (09) ... | E + O | 90 + 15 |
+| Língua Estrangeira II (a):<br>Espanhol (15) ...<br>Francês (16) ...<br>Alemão (09) ... | E + O | 90 + 15 |
 | História (19) ... | E | 90 |
 | Geografia (18) ... | E | 90 |
 | Cidadania e Desenvolvimento (96) (a) ... | O | 15 |
@@ -1490,24 +1572,24 @@ Exames finais nacionais do ensino secundário - 2024
 
 Tipo de prova e respetiva duração
 
-|  |  |  |  |  |
+| Disciplina | Curso/ano | Tipo<br>de prova | Duração<br>(minutos) | Tolerância da prova/<br>componente escrita<br>(minutos) |
 | --- | --- | --- | --- | --- |
-| Disciplina | Curso/ano | Tipo de prova | Duração (minutos) | Tolerância da prova/ componente escrita (minutos) |
+|  |  |  |  |  |
 | Biologia e Geologia (702) ... | Científico-Humanístico de Ciências e Tecnologias/11.º | E | 120 | 30 |
 | Desenho A (706) ... | Científico-Humanístico de Artes Visuais/12.º | E | 150 |  |
 | Economia A (712) ... | Científico-Humanístico de Ciências Socioeconómicas/11.º | E | 120 |  |
 | Filosofia (714) ... | Científico-Humanístico/11.º ... | E | 120 |  |
 | Física e Química A (715) ... | Científico-Humanístico de Ciências e Tecnologias/11.º | E | 120 |  |
-| Geografia A (719) ... | Científico-Humanístico de Ciências Socioeconómicas/11.º Científico-Humanístico de Línguas e Humanidades/11.º | E | 120 |  |
-| Geometria Descritiva A (708) ... | Científico-Humanístico de Artes Visuais/11.º Científico-Humanístico de Ciências e Tecnologias/11.º | E | 150 |  |
+| Geografia A (719) ... | Científico-Humanístico de Ciências Socioeconómicas/11.º<br>Científico-Humanístico de Línguas e Humanidades/11.º | E | 120 |  |
+| Geometria Descritiva A (708) ... | Científico-Humanístico de Artes Visuais/11.º<br>Científico-Humanístico de Ciências e Tecnologias/11.º | E | 150 |  |
 | História A (623) ... | Científico-Humanístico de Línguas e Humanidades/12.º | E | 120 |  |
 | História B (723) ... | Científico-Humanístico de Ciências Socioeconómicas/11.º | E | 120 |  |
 | História da Cultura e das Artes (724) | Científico-Humanístico de Artes Visuais/11.º | E | 120 |  |
 | Latim A (732) ... | Científico-Humanístico de Línguas e Humanidades/11.º | E | 120 |  |
-| Língua Estrangeira II ou III (formação específica): Alemão (501 - iniciação) ... Espanhol (547 - iniciação) ... Espanhol (847 - continuação) ... Francês (517 - continuação) ... Mandarim (848 - iniciação) ... Italiano (849 - iniciação) ... | Científico-Humanístico de Línguas e Humanidades/11.º | E+O | 120 105 + 15 (máx.) |  |
-| Língua Estrangeira I (formação geral): Inglês (550 - continuação) ... | (a) | E+O | 120 105 + 15 (máx.) |  |
+| Língua Estrangeira II ou III (formação específica):<br>Alemão (501 - iniciação) ...<br>Espanhol (547 - iniciação) ...<br>Espanhol (847 - continuação) ...<br>Francês (517 - continuação) ...<br>Mandarim (848 - iniciação) ...<br>Italiano (849 - iniciação) ... | Científico-Humanístico de Línguas e Humanidades/11.º | E+O | 120<br>105 + 15 (máx.) |  |
+| Língua Estrangeira I (formação geral):<br>Inglês (550 - continuação) ... | (a) | E+O | 120<br>105 + 15 (máx.) |  |
 | Literatura Portuguesa (734) ... | Científico-Humanístico de Línguas e Humanidades/11.º | E | 120 |  |
-| Matemática A (635) ... | Científico-Humanístico de Ciências e Tecnologias/12.º Científico-Humanístico de Ciências Socioeconómicas/12.º | E | 150 |  |
+| Matemática A (635) ... | Científico-Humanístico de Ciências e Tecnologias/12.º<br>Científico-Humanístico de Ciências Socioeconómicas/12.º | E | 150 |  |
 | Matemática Aplicada às Ciências Sociais (835). | Científico-Humanístico de Línguas e Humanidades/11.º | E | 150 |  |
 | Matemática B (735) ... | Científico-Humanístico de Artes Visuais/11.º | E | 150 |  |
 | Português (639) ... | Científico-Humanísticos/12.º ... | E | 120 |  |
@@ -1524,12 +1606,12 @@ QUADRO VII
 
 Exames a nível de escola de línguas estrangeiras equivalentes a exames finais nacionais para efeitos de conclusão do ensino secundário - 2024
 
-|  |  |  |  |  |
+| Disciplina | Curso/ano | Tipo de prova | Duração<br>(minutos) | Tolerância da prova/<br>componente escrita<br>(minutos) |
 | --- | --- | --- | --- | --- |
-| Disciplina | Curso/ano | Tipo de prova | Duração (minutos) | Tolerância da prova/ componente escrita (minutos) |
-| Alemão (801 - continuação) ... | Científico-Humanístico de Línguas e Humanidades/11.º | E+O | 120 105 + 15 (máx.) | 30 |
-| Francês (317 - iniciação) ... | Científico-Humanístico de Línguas e Humanidades/11.º | E+O | 120 105 + 15 (máx.) |  |
-| Inglês (450 - iniciação) (a) ... | Científico-Humanístico de Línguas e Humanidades/11.º | E+O | 120 105 + 15 (máx.) |  |
+|  |  |  |  |  |
+| Alemão (801 - continuação) ... | Científico-Humanístico de Línguas e Humanidades/11.º | E+O | 120<br>105 + 15 (máx.) | 30 |
+| Francês (317 - iniciação) ... | Científico-Humanístico de Línguas e Humanidades/11.º | E+O | 120<br>105 + 15 (máx.) |  |
+| Inglês (450 - iniciação) (a) ... | Científico-Humanístico de Línguas e Humanidades/11.º | E+O | 120<br>105 + 15 (máx.) |  |
 |  |  |  |  |  |
 
 (a) Esta prova destina-se exclusivamente a alunos provenientes de sistemas educativos estrangeiros que não tenham frequentado a disciplina de Inglês como Língua Estrangeira I no seu percurso escolar equivalente ao ensino básico.
@@ -1540,9 +1622,9 @@ Provas de equivalência à frequência dos cursos científico-humanísticos do e
 
 Tipo de prova e respetiva duração
 
-|  |  |  |  |
+| Disciplina | Curso/ano | Tipo<br>de prova | Duração<br>(minutos) |
 | --- | --- | --- | --- |
-| Disciplina | Curso/ano | Tipo de prova | Duração (minutos) |
+|  |  |  |  |
 | Antropologia (304) ... | Científico-Humanísticos/12.º ... | E | 90 |
 | Aplicações Informáticas B (303) ... | Científico-Humanísticos /12.º ... | E | 90 |
 | Biologia (302) (a) ... | Ciências e Tecnologias /12.º ... | E+P | 90+90 |
@@ -1560,13 +1642,13 @@ Tipo de prova e respetiva duração
 | Língua Estrangeira I, II ou III (formação geral) (b) ... | Científico-Humanísticos /11.º ... | E+O | 90+25 |
 | Língua Estrangeira I, II ou III (formação específica)... | Científico-Humanísticos /12.º ... | E+O | 90+25 |
 | Literaturas de Língua Portuguesa (334) ... | Línguas e Humanidades/12.º ... | E | 90 |
-| Materiais e Tecnologias (313) ... | Artes Visuais/12.º ... Ciências e Tecnologias /12.º ... | E | 120 |
+| Materiais e Tecnologias (313) ... | Artes Visuais/12.º ...<br>Ciências e Tecnologias /12.º ... | E | 120 |
 | Oficina de Artes (316) ... | Artes Visuais/12.º ... | E | 120 |
 | Oficina de Design (346) ... | Artes Visuais/12.º ... | E | 120 |
 | Oficina de Multimédia B (318) ... | Artes Visuais/12.º ... | E | 120 |
 | Psicologia B (340) ... | Científico-Humanísticos /12.º ... | E | 90 |
 | Química (342) (a) ... | Ciências e Tecnologias /12.º ... | E+P | 90+90 |
-| Sociologia (344) ... | Línguas e Humanidades /12.º ... Ciências Socioeconómicas/12.º ... | E | 90 |
+| Sociologia (344) ... | Línguas e Humanidades /12.º ...<br>Ciências Socioeconómicas/12.º ... | E | 90 |
 | Teatro (348) ... | Científico-humanístico/12.º ... | P | 90 |
 |  |  |  |  |
 
@@ -1580,9 +1662,9 @@ Ponderação das componentes escrita e prática 2024
 
 Tabela A - Exames a nível de escola de línguas estrangeiras equivalentes a exames finais nacionais
 
-|  |  |  |  |
+| Disciplina | Curso | Componente escrita<br>% | Componente oral<br>% |
 | --- | --- | --- | --- |
-| Disciplina | Curso | Componente escrita % | Componente oral % |
+|  |  |  |  |
 | Alemão (801 - continuação) ... | Científico-Humanístico de Línguas e Humanidades ... | 80 | 20 |
 | Francês (317 - iniciação) ... | Científico-Humanístico de Línguas e Humanidades ... | 80 | 20 |
 | Inglês (450 - iniciação) (a) ... | Científico-Humanístico de Línguas e Humanidades ... | 80 | 20 |
@@ -1592,9 +1674,9 @@ Tabela A - Exames a nível de escola de línguas estrangeiras equivalentes a exa
 
 Tabela B - Provas de equivalência à frequência dos cursos científico-humanísticos e dos cursos artísticos especializados do ensino secundário
 
-|  |  |  |  |
+| Disciplina | Curso | Componente escrita<br>% | Componente prática<br>% |
 | --- | --- | --- | --- |
-| Disciplina | Curso | Componente escrita % | Componente prática % |
+|  |  |  |  |
 | Biologia ... | Científico-Humanístico de Ciências e Tecnologias ... | 70 | 30 |
 | Física ... | Científico-Humanístico de Ciências e Tecnologias ... | 70 | 30 |
 | Geologia ... | Científico-Humanístico de Ciências e Tecnologias ... | 70 | 30 |
@@ -1608,26 +1690,26 @@ Provas de equivalência à frequência dos cursos artísticos especializados - 2
 
 Tipo de prova e respetiva duração
 
-|  |  |  |  |
+| Disciplinas | Cursos | Tipo<br>de prova | Duração<br>(minutos) |
 | --- | --- | --- | --- |
-| Disciplinas | Cursos | Tipo de prova | Duração (minutos) |
-| Desenho A (206) ... | Comunicação Audiovisual/12.º ... Design de Comunicação/12.º ... Design de Produto/12.º ... Produção Artística/12.º ... | E | 150 |
-| Educação Física (311) ... | Comunicação Audiovisual/12.º ... Design de Comunicação/12.º ... Design de Produto/12.º ... Produção Artística/12.º ... Música/12.º ... Canto/12.º ... Canto Gregoriano/12.º ... | E+P | 90 + 90 |
-| Filosofia (161) ... | Comunicação Audiovisual/11.º ... Design de Comunicação/11.º ... Design de Produto/11.º ... Produção Artística/11.º ... Música/11.º ... Dança/11.º ... Canto/11.º ... Canto Gregoriano/11.º ... | E | 120 |
-| Física e Química Aplicadas (815) ... | Comunicação Audiovisual/12.º ... Design de Comunicação/12.º ... Design de Produto/12.º ... Produção Artística/12.º ... | E+P | 90+90 |
-| Geometria Descritiva A (808) ... | Design de Comunicação/12.º ... Design de Produto/12.º ... Produção Artística/12.º ... | E | 150 |
+|  |  |  |  |
+| Desenho A (206) ... | Comunicação Audiovisual/12.º ...<br>Design de Comunicação/12.º ...<br>Design de Produto/12.º ...<br>Produção Artística/12.º ... | E | 150 |
+| Educação Física (311) ... | Comunicação Audiovisual/12.º ...<br>Design de Comunicação/12.º ...<br>Design de Produto/12.º ...<br>Produção Artística/12.º ...<br>Música/12.º ...<br>Canto/12.º ...<br>Canto Gregoriano/12.º ... | E+P | 90 + 90 |
+| Filosofia (161) ... | Comunicação Audiovisual/11.º ...<br>Design de Comunicação/11.º ...<br>Design de Produto/11.º ...<br>Produção Artística/11.º ...<br>Música/11.º ...<br>Dança/11.º ...<br>Canto/11.º ...<br>Canto Gregoriano/11.º ... | E | 120 |
+| Física e Química Aplicadas (815) ... | Comunicação Audiovisual/12.º ...<br>Design de Comunicação/12.º ...<br>Design de Produto/12.º ...<br>Produção Artística/12.º ... | E+P | 90+90 |
+| Geometria Descritiva A (808) ... | Design de Comunicação/12.º ...<br>Design de Produto/12.º ...<br>Produção Artística/12.º ... | E | 150 |
 | Geometria Descritiva B (168) ... | Comunicação Audiovisual/12.º ... | E | 120 |
-| Gestão das Artes (821) ... | Comunicação Audiovisual/12.º ... Design de Comunicação/12.º ... Design de Produto/12.º ... Produção Artística/12.º ... | E | 120 |
-| História da Cultura e das Artes (824) ... | Comunicação Audiovisual/12.º ... Design de Comunicação/12.º ... Design de Produto/12.º ... Produção Artística/12.º ... | E | 120 |
+| Gestão das Artes (821) ... | Comunicação Audiovisual/12.º ...<br>Design de Comunicação/12.º ...<br>Design de Produto/12.º ...<br>Produção Artística/12.º ... | E | 120 |
+| História da Cultura e das Artes (824) ... | Comunicação Audiovisual/12.º ...<br>Design de Comunicação/12.º ...<br>Design de Produto/12.º ...<br>Produção Artística/12.º ... | E | 120 |
 | Imagem e Som A (749) ... | Comunicação Audiovisual/12.º ... | E | 120 |
-| Imagem e Som B (849) ... | Design de Comunicação/12.º ... Design de Produto/12.º ... Produção Artística/12.º ... | E | 120 |
-| Língua Estrangeira I, II ou III (a) ... | Comunicação Audiovisual/11.º ... Design de Comunicação/11.º ... Design de Produto/11.º ... Produção Artística/11.º ... Música/11.º ... Dança/11.º ... Canto/11.º ... Canto Gregoriano/11.º ... | E+O | 90+25 |
-| Matemática (935) ... | Comunicação Audiovisual/12.º ... Design de Comunicação/12.º ... Design de Produto/12.º ... Produção Artística/12.º ... | E | 120 |
-| Ofertas de Escola ... | Comunicação Audiovisual/12.º ... Design de Comunicação/12.º ... Design de Produto/12.º ... Produção Artística/12.º ... | E; E+P ou P (b) | 120 |
-| Português (139) ... | Comunicação Audiovisual/12.º ... Design de Comunicação/12.º ... Design de Produto/12.º ... Produção Artística/12.º ... Música/12.º ... Dança/12.º ... Canto/12.º ... Canto Gregoriano/12.º ... | E+O | 120+ 25 |
-| Português Língua Segunda ... | Comunicação Audiovisual/12.º ... Design de Comunicação/12.º ... Design de Produto/12.º ... Produção Artística/12.º ... Música/12.º ... Dança/12.º ... | E | 120 |
-| Português Língua Não Materna (738 - nível A2) (838 - nível B1). | Comunicação Audiovisual/12.º ... Design de Comunicação/12.º ... Design de Produto/12.º ... Produção Artística/12.º ... Música/12.º ... Dança/12.º ... Canto/12.º ... Canto Gregoriano/12.º ... | E+O | 90+25 |
-| Projeto e Tecnologias (c) ... | Comunicação Audiovisual/12.º ... Design de Comunicação/12.º ... Design de Produto /12.º ... Produção Artística/12.º ... | P | 120 |
+| Imagem e Som B (849) ... | Design de Comunicação/12.º ...<br>Design de Produto/12.º ...<br>Produção Artística/12.º ... | E | 120 |
+| Língua Estrangeira I, II ou III (a) ... | Comunicação Audiovisual/11.º ...<br>Design de Comunicação/11.º ...<br>Design de Produto/11.º ...<br>Produção Artística/11.º ...<br>Música/11.º ...<br>Dança/11.º ...<br>Canto/11.º ...<br>Canto Gregoriano/11.º ... | E+O | 90+25 |
+| Matemática (935) ... | Comunicação Audiovisual/12.º ...<br>Design de Comunicação/12.º ...<br>Design de Produto/12.º ...<br>Produção Artística/12.º ... | E | 120 |
+| Ofertas de Escola ... | Comunicação Audiovisual/12.º ...<br>Design de Comunicação/12.º ...<br>Design de Produto/12.º ...<br>Produção Artística/12.º ... | E; E+P<br>ou P (b) | 120 |
+| Português (139) ... | Comunicação Audiovisual/12.º ...<br>Design de Comunicação/12.º ...<br>Design de Produto/12.º ...<br>Produção Artística/12.º ...<br>Música/12.º ...<br>Dança/12.º ...<br>Canto/12.º ...<br>Canto Gregoriano/12.º ... | E+O | 120+ 25 |
+| Português Língua Segunda ... | Comunicação Audiovisual/12.º ...<br>Design de Comunicação/12.º ...<br>Design de Produto/12.º ...<br>Produção Artística/12.º ...<br>Música/12.º ...<br>Dança/12.º ... | E | 120 |
+| Português Língua Não Materna (738 - nível A2) (838 - nível B1). | Comunicação Audiovisual/12.º ...<br>Design de Comunicação/12.º ...<br>Design de Produto/12.º ...<br>Produção Artística/12.º ...<br>Música/12.º ...<br>Dança/12.º ...<br>Canto/12.º ...<br>Canto Gregoriano/12.º ... | E+O | 90+25 |
+| Projeto e Tecnologias (c) ... | Comunicação Audiovisual/12.º ...<br>Design de Comunicação/12.º ...<br>Design de Produto /12.º ...<br>Produção Artística/12.º ... | P | 120 |
 |  |  |  |  |
 
 (a) A prova de equivalência à frequência de Inglês (continuação) da componente de formação geral é substituída pelo exame final nacional de Inglês (550).
@@ -1651,3 +1733,5 @@ Prova escrita (E), cuja realização implica um registo escrito ou um registo bi
 Prova oral (O), que implica, com eventual recurso a um guião, a produção e interação orais na presença de um júri e a utilização, por este, de um registo de observação do desempenho do aluno;
 
 Prova prática (P), que implica a realização de tarefas objeto de avaliação performativa, em situações de organização individual ou em grupo, a manipulação de materiais, instrumentos e equipamentos, com eventual produção escrita, que incide sobre o trabalho prático e ou experimental produzido, implicando a presença de um júri e a utilização, por este, de um registo de observação do desempenho do aluno.
+
+317363293

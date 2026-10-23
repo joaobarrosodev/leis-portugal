@@ -47,45 +47,100 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/despacho-normativo/36-2007-1080892
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2008-06-05T00:00:00Z'
+  retrieved_at: '2026-10-23T15:06:41Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 9ac8f26f5a54498885dd1f2647adce7f0bcd52c88a925a2492c78ef6c9ab408b
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: ba7de4b690b1ac513f9130f76ed373eebf86de01c983137b0b06c6c95dadedbc
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:06:41Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Avaliação de Conhecimentos
+- Certificação Profissional
+- Currículo Nacional
+- Curso Tecnológico do Ensino Secundario
+- Diploma
+- Educação dos Adultos
+- Ensino Artístico
+- Ensino Oficial
+- Ensino Particular
+- Ensino Profissional
+- Ensino Secundário
+- Equivalência de Habilitações Literárias
+- Plano de Estudos
+- Política de Educação
+- Sistema de Ensino
+- Sistema Educativo
 relationships:
 - type: amended_by
   target: pt:dre:2353810:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:2353810:por
+  label: "Alterados os artigos 1.º, 2.º, 3.º, 7.º, 8.º, 10.º, 11.º, 12.º e 13.º, aditado o art. 11.º-A e os n.ºs 6 do artigo\
+    \ 1.º, os n.º 4 e 5 do artigo 3.º, e o n.º 6 do artigo 13.º, bem como é alterado o anexo, todos do presente despacho,\
+    \ pelo DN.29/2008.05.06.2008.SEE-ME, DR.IIS [108] de 05.06.2008, que o republica em anexo\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/despacho-normativo/29-2008-2353810
+  date: '2008-06-05'
+- type: cites
+  target: pt:dre:210801:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:252206:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:538593:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:538601:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:538602:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:652894:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:667373:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:667477:por
+  label: null
+  source: null
 article_structure:
   article_count: 16
   section_count: 4
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:06:41Z'
   warnings: []
   errors: []
 ---
 
-# Despacho Normativo n.º 36/2007
+# Despacho normativo n.º 36/2007
 
 O [Decreto-Lei n.º 74/2004](https://diariodarepublica.pt/dr/detalhe/decreto-lei/74-2004-210801), de 26 de Março, rectificado pela [Declaração de Rectificação n.º 44/2004](https://diariodarepublica.pt/dr/detalhe/declaracao-rectificacao/44-2004-252206), de 25 de Maio, com as alterações introduzidas pelos Decretos-Leis n.os 24/2006, de 6 de Fevereiro, rectificado pela [Declaração de Rectificação n.º 23/2006](https://diariodarepublica.pt/dr/detalhe/declaracao-rectificacao/23-2006-652894), de 7 de Abril, e 272/2007, de 26 de Julho, assenta num princípio estruturante que se traduz na flexibilidade de escolha do percurso formativo do aluno e que se consubstancia na possibilidade de organizar de forma diversificada o percurso individual de formação em cada curso e na possibilidade de o aluno reorientar o próprio trajecto formativo entre os diferentes cursos de nível secundário.
 
@@ -281,4 +336,4 @@ O presente despacho entra em vigor no dia seguinte ao da sua publicação.
 
 20 de Setembro de 2007. - O Secretário de Estado da Educação, Valter Victorino Lemos.
 
-## ANEXO — [([ver documento original](https://files.diariodarepublica.pt/2s/2007/10/193000000/2903629039.pdf))](https://files.diariodarepublica.pt/2s/2007/10/193000000/2903629039.pdf)
+## ANEXO — [(ver documento original)](https://files.diariodarepublica.pt/2s/2007/10/193000000/2903629039.pdf)

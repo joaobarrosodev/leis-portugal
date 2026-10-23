@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/2s/2014/07/146000000/1964619653.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -47,41 +47,55 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/despacho-normativo/9-2014-55034723
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2014-07-31T00:00:00Z'
+  retrieved_at: '2026-10-23T15:07:55Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 902d3ef6204ccbf6cff611ee6f4219a2b33ca99f00b5a619316d06f3bb032ab7
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 8c6a934f6719b08bb3e1ba956fa204d83447b3c4107d4497347b97d18981d54c
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:07:55Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
-relationships: []
+subjects:
+- Aquisição de Bens e Serviços
+- Código dos Contratos Públicos
+- Concurso Público
+- Contratação Pública
+- Contrato Administrativo
+- Garantia
+- Obras Públicas
+- Prazo
+- Prazo de Garantia
+- Prestação de Serviços
+relationships:
+- type: cites
+  target: pt:dre:248178:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:07:55Z'
   warnings: []
   errors: []
 ---
 
-# Despacho Normativo n.º 9/2014
+# Despacho normativo n.º 9/2014
 
 Nos termos do disposto no n.º 2 do artigo 397.º do Código dos Contratos Públicos (CCP), aprovado pelo [Decreto-Lei n.º 18/2008](https://diariodarepublica.pt/dr/detalhe/decreto-lei/18-2008-248178), de 29 de janeiro, o prazo de garantia das obras públicas varia entre 10, 5 e 2 anos, consoante o defeito da obra diga respeito, respetivamente, a elementos construtivos estruturais, elementos construtivos não estruturais ou instalações técnicas e equipamentos afetos à obra, mas dela autonomizáveis.
 
@@ -1502,3 +1516,5 @@ Equipamentos de segurança integrada e de gestão técnica centralizada (câmara
 Mobiliário urbano (bancos, papeleiras, estátuas, elementos artísticos, ...)
 
 Equipamento da rede de rega (controladores, eletroválvulas, ...)
+
+207982895

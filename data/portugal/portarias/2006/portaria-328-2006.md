@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2006/04/069b00/26622662.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/328/2006/04/06/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/328-2006-673037
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2006-04-06T00:00:00Z'
+  retrieved_at: '2026-10-23T15:13:23Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 58e7ba5e2da885dcfdfc8f61125f2ec3ec83df5a6b51c675a8302cd34e843674
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: e32d301d8b5d098f14f229c443b82b881cbf2a6360efb6589988b572606ebe93
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:13:23Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -68,11 +68,11 @@ reuse:
 subjects:
 - Departamento Central de Investigação e Ação Penal
 - Estatuto
-- Pessoal de Justiça
-- Procurador Geral Adjunto
-- Procurador da República
-- Quadro de Pessoal
 - Ministério Público
+- Pessoal de Justiça
+- Procurador da República
+- Procurador Geral Adjunto
+- Quadro de Pessoal
 relationships:
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/333/1999/08/20/p/dre
@@ -86,16 +86,33 @@ relationships:
   target: eli:http://data.dre.pt/eli/port/264/1999/04/12/p/dre
   label: null
   source: http://data.dre.pt/eli/port/264/1999/04/12/p/dre
+- type: cites
+  target: pt:dre:434000:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:448680:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:543371:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:128114252:por
+  label: Revogada pelo(a) Portaria n.º 9/2020 - Diário da República n.º 12/2020, Série I de 2020-01-17
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/9-2020-128114252
+  date: '2020-01-17'
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:13:23Z'
   warnings: []
   errors: []
 ---
@@ -126,4 +143,4 @@ Manda o Governo, pelo Ministro da Justiça, ao abrigo do disposto no artigo 46.�
 
 3.º É revogada a [Portaria n.º 264/99](https://diariodarepublica.pt/dr/detalhe/portaria/264-1999-543371), de 12 de Abril.
 
-**O Ministro da Justiça, Alberto Bernardes Costa, em 21 de Março de 2006.**
+O Ministro da Justiça, Alberto Bernardes Costa, em 21 de Março de 2006.

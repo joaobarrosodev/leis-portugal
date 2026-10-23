@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/2s/2015/06/112000000/1543015430.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,45 +46,76 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/despacho-normativo/10-2015-67459789
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2016-08-11T00:00:00Z'
+  retrieved_at: '2026-10-23T15:07:55Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 454276a22ab70be6efdc0d997a03cb5aed896e7ae178dcdee1ba501a3dae562f
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 65bd517ca2c064ba69ef08dd594fb1bb268faa3c918ed83530768f6cd1e80058
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:07:55Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Açores
+- Definição de Competências
+- Ensino Superior
+- Estatuto
+- Universidade dos Açores
 relationships:
 - type: amended_by
   target: pt:dre:75129592:por
   label: Última alteração registada na importação inicial
   source: null
+- type: cites
+  target: pt:dre:1196781:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:1496400:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:56385231:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:640339:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:67147892:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:75129592:por
+  label: Revogados os Estatutos da Universidade dos Açores homologados pelo DN 65-A/2008 de 22-dez, na redação do presente
+    Despacho Normativo, pelo(a) Despacho Normativo n.º 8/2016 - Diário da República n.º 154/2016, Série II de 2016-08-11
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/despacho-normativo/8-2016-75129592
+  date: '2016-08-11'
 article_structure:
-  article_count: 6
+  article_count: 3
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:07:55Z'
   warnings: []
   errors: []
 ---
 
-# Despacho Normativo n.º 10/2015
+# Despacho normativo n.º 10/2015
 
 Considerando a deliberação, de 21 de novembro de 2014, do Conselho Geral da Universidade dos Açores, no sentido da alteração dos seus Estatutos homologados pelo [Despacho Normativo n.º 65-A/2008](https://diariodarepublica.pt/dr/detalhe/despacho-normativo/65-a-2008-1196781), de 10 de dezembro, publicado no Diário da República, 2.ª série, n.º 246, de 22 de dezembro, e pelo [Despacho Normativo n.º 12/2014](https://diariodarepublica.pt/dr/detalhe/despacho-normativo/12-2014-56385231), de 25 de agosto, publicado no Diário da República, 2.ª série, n.º 168, de 2 de setembro;
 
@@ -102,7 +133,9 @@ Determino o seguinte:
 
 3 de junho de 2015. - O Secretário de Estado do Ensino Superior, José Alberto Nunes Ferreira Gomes.
 
-## ANEXO — Artigo 1.º
+## ANEXO
+
+###### Artigo 1.º
 
 Alteração aos Estatutos da Universidade dos Açores
 
@@ -120,7 +153,9 @@ Os artigos 27.º, 81.º, 85.º e o Anexo II dos Estatutos passam a ter a seguint
 
 4 - ...
 
-###### Artigo 81.º — [...]
+Artigo 81.º
+
+[...]
 
 1 - O Conselho da Escola é composto por:
 
@@ -140,11 +175,13 @@ d) Um representante dos trabalhadores não docentes e não investigadores.
 
 5 - ...
 
-###### Artigo 85.º — [...]
+Artigo 85.º
+
+[...]
 
 A comissão de gestão administrativa é constituída pelo diretor da escola, que preside com voto de qualidade, pelos diretores das secções, por um professor por ele designado e por um secretário, para o efeito indigitado de entre os quadros superiores da Universidade, ouvido o conselho de gestão.
 
-## ANEXO II
+ANEXO II
 
 A Universidade dos Açores compreende as seguintes escolas:
 
@@ -160,13 +197,17 @@ Escola Superior de Tecnologias.»
 
 Diretor de Secção
 
-###### Artigo 84.º-A — Eleição e substituição
+Artigo 84.º-A
+
+Eleição e substituição
 
 1 - O diretor de secção é eleito pelos docentes e investigadores da secção, de entre os professores e investigadores de carreira, pelo período de dois anos, renovável, até ao limite máximo de 8 anos.
 
 2 - O diretor da secção é substituído, nas suas faltas e impedimentos, pelo professor ou investigador que para o efeito houver designado.
 
-###### Artigo 84.º-B — Competência
+Artigo 84.º-B
+
+Competência
 
 Compete ao diretor da secção:
 
@@ -193,3 +234,5 @@ j) Executar as tarefas que lhe forem cometidas pelo diretor da escola.»
 ###### Artigo 3.º — Norma Revogatória
 
 É revogada a alínea b) do n.º 1 do artigo 81.º dos Estatutos.
+
+208704369

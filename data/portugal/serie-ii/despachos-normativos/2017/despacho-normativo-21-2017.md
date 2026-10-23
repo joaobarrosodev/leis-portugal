@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/2s/2017/12/234000000/2743127432.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -47,40 +47,80 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/despacho-normativo/21-2017-114311007
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2018-09-25T00:00:00Z'
+  retrieved_at: '2026-10-23T15:08:20Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: b0f53faa60a2fb3e5a8c79d623b76cbd52a8bd75eace102606db1a5be9e21e4d
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: daf1d74056ab2f99541685178e5a8372817e6b75f1f0a36ca5acaa557da159bb
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:08:20Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Apoio ao Investimento
+- Congresso
+- Definição de Competências
+- Desenvolvimento Local
+- Desenvolvimento Regional
+- Financiamento
+- Instituto do Turismo de Portugal
+- Programa de Apoio a Congressos e Eventos nos Concelhos Afetados pelos Incêndios de 2017
+- Programa Valorizar
+- Projeto de Investimento
+- Regulamento
+- Subsídio não Reembolsável
+- Turismo
 relationships:
 - type: amended_by
   target: pt:dre:116490434:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:116490434:por
+  label: Alterado o art. 2.º do Regulamento do Programa de Apoio a Congressos e Eventos constante do DN 9/2017, de 09-ago,
+    na redação do presente diploma pelo(a) Despacho Normativo n.º 12/2018 - Diário da República n.º 185/2018, Série II de
+    2018-09-25
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/despacho-normativo/12-2018-116490434
+  date: '2018-09-25'
+- type: cites
+  target: pt:dre:105652694:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:107981323:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:108055027:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:519402:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:75619707:por
+  label: null
+  source: null
 article_structure:
-  article_count: 11
+  article_count: 2
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:08:20Z'
   warnings: []
   errors: []
 ---
@@ -105,11 +145,15 @@ Programa de Apoio a Congressos e Eventos nos Concelhos Afetados pelos Incêndios
 
 Regulamento
 
-###### Artigo 1.º — Objeto
+Artigo 1.º
+
+Objeto
 
 O presente regulamento define os termos do programa de apoio financeiro à realização e captação de congressos e eventos de empresas ou outras entidades, que ocorram nos concelhos afetados pelos incêndios de 2017.
 
-###### Artigo 2.º — Requisitos de elegibilidade
+Artigo 2.º
+
+Requisitos de elegibilidade
 
 São suscetíveis de apoio os projetos de candidatura que preencham, além das condições de elegibilidade previstas no artigo 7.º do [Despacho Normativo n.º 16/2016](https://diariodarepublica.pt/dr/detalhe/despacho-normativo/16-2016-105652694), de 30/12, cumulativamente, os seguintes requisitos:
 
@@ -119,7 +163,9 @@ b) A sua localização ocorrer em concelho(s) afetados pelos incêndios de 2017;
 
 c) Ter enquadramento na matriz de apoio apresentada no artigo 4.º do presente regulamento.
 
-###### Artigo 3.º — Forma e natureza do apoio
+Artigo 3.º
+
+Forma e natureza do apoio
 
 1 - Os apoios a conceder à realização e captação destes projetos revestem a natureza de comparticipação financeira, de natureza não reembolsável.
 
@@ -141,21 +187,27 @@ g) Serviços de organização e gestão do congresso ou evento;
 
 h) Material de divulgação e campanha de comunicação.
 
-###### Artigo 4.º — Critérios de avaliação e intensidade do apoio
+Artigo 4.º
+
+Critérios de avaliação e intensidade do apoio
 
 1 - Os projetos são avaliados em função do número de participantes ou em função da ocupação individual do quarto que originam, nos termos definidos na seguinte matriz de apoio:
 
-[([ver documento original](https://files.diariodarepublica.pt/2s/2017/12/234000000/2743127432.pdf))](https://files.diariodarepublica.pt/2s/2017/12/234000000/2743127432.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/2s/2017/12/234000000/2743127432.pdf)
 
 2 - Os projetos que ocorram durante o período de inverno IATA beneficiam de uma majoração de 25 % sobre o valor resultante da aplicação dos critérios da matriz constante do número anterior.
 
 3 - O limite máximo da linha de apoio subjacente ao presente programa tem o valor de (euro) 200 000,00 (duzentos mil euros).
 
-###### Artigo 5.º — Contrato de concessão de apoio
+Artigo 5.º
+
+Contrato de concessão de apoio
 
 A concessão do apoio é objeto de contrato a celebrar entre o Turismo de Portugal, I. P. e o organizador do evento.
 
-###### Artigo 6.º — Obrigações das Partes
+Artigo 6.º
+
+Obrigações das Partes
 
 1 - Compete Turismo de Portugal, I. P.:
 
@@ -189,7 +241,9 @@ i) Assegurar que o apoio concedido é publicitado, nos termos definido em sede d
 
 j) Apresentar o relatório final do evento ao Turismo de Portugal, I. P., até três meses a contar do termo de realização do Congresso, acompanhado dos elementos referidos no n.º 2 da cláusula 4.ª do contrato e mapa de despesa certificado por um Revisor Oficial de Contas (ROC) ou por um Técnico Oficial de Contas (TOC).
 
-###### Artigo 7.º — Candidaturas e tramitação subsequente
+Artigo 7.º
+
+Candidaturas e tramitação subsequente
 
 1 - As candidaturas à concessão de apoio podem ser apresentadas a todo o tempo, durante o período de vigência do presente programa de apoio.
 
@@ -225,7 +279,9 @@ c) Demais elementos considerados críticos para a concessão do apoio.
 
 7 - O prazo de pagamento do apoio não deve ultrapassar o prazo de seis meses após a realização do evento.
 
-###### Artigo 8.º — Resolução do contrato
+Artigo 8.º
+
+Resolução do contrato
 
 1 - Os contratos de concessão de apoio podem ser unilateralmente resolvidos pelo Turismo de Portugal, I. P. em caso de:
 
@@ -239,7 +295,9 @@ d) Prestação de informações falsas ou de viciação de dados em sede de apre
 
 2 - A resolução do contrato implica a devolução dos montantes do apoio que eventualmente já tenham sido recebidos, no prazo de 60 dias úteis a contar da data da sua notificação, acrescido, a título de cláusula penal, do valor correspondente ao cálculo de juros contabilizados à taxa Euribor a seis meses, acrescida de três pontos percentuais, o qual é devido desde a perceção do correspondente apoio.
 
-###### Artigo 9.º — Período de vigência e monitorização
+Artigo 9.º
+
+Período de vigência e monitorização
 
 1 - O programa de apoio previsto no presente regulamento vigora desde a data da sua publicação até ao dia 31 de dezembro de 2018.
 
@@ -250,3 +308,5 @@ d) Prestação de informações falsas ou de viciação de dados em sede de apre
 O presente despacho entra imediatamente em vigor.
 
 27 de novembro de 2017. - A Secretária de Estado do Turismo, Ana Manuel Jerónimo Lopes Correia Mendes Godinho.
+
+310959693

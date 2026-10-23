@@ -47,25 +47,30 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/despacho-normativo/2-2013-3182253
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2013-01-23T00:00:00Z'
+  retrieved_at: '2026-10-23T15:07:45Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 13a86be93f72648b23186668d44be14e7d3619cb10e53f7e6c39940836644767
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 3152c2a064dc0780be0fb9091896bfe00e5d86d5c1f44fd2724aec4eb514b6d7
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:07:45Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Apicultura
+- Financiamento
+- IFAP
+- MEL
+- Transferência de Verbas
 relationships:
 - type: cites
   target: celex:32004R0917
@@ -76,15 +81,15 @@ relationships:
   label: null
   source: null
 article_structure:
-  article_count: 5
+  article_count: 2
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:07:45Z'
   warnings: []
   errors: []
 ---
@@ -117,7 +122,9 @@ c) [...].
 
 2 - [...].
 
-###### Artigo 18.º — [...]
+Artigo 18.º
+
+[...]
 
 1 - [...].
 
@@ -129,7 +136,9 @@ c) [...].
 
 5 - [...].
 
-###### Artigo 19.º — [...]
+Artigo 19.º
+
+[...]
 
 1 - [...].
 
@@ -139,7 +148,9 @@ c) [...].
 
 4 - Sem prejuízo do disposto nos números 2 e 3, para a campanha de 2013, o prazo máximo de remessa dos pedidos de pagamento ao IFAP, I.P., é o dia 31 de agosto, com exceção da medida 1B, em que a data limite de remessa é o dia 10 de setembro.
 
-###### Artigo 25.º — [...]
+Artigo 25.º
+
+[...]
 
 1 - [...].
 
@@ -156,3 +167,5 @@ c) [...].
 O presente despacho normativo entra em vigor no dia seguinte ao da sua publicação.
 
 16 de janeiro de 2013. - O Secretário de Estado da Agricultura, José Diogo Santiago de Albuquerque.
+
+206685436

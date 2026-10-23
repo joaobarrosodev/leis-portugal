@@ -19,12 +19,12 @@ publication:
   reference: Diário da República n.º 42/2016, 2º Suplemento, Série II de 2016-03-01
   number: '42'
   series: II
-  supplement: 2º Suplemento
+  supplement: null
   pages: 7400-(4) a 7400-(15)
   pdf_url: https://files.diariodarepublica.pt/2s/2016/03/042000002/0000400015.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -46,40 +46,71 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/despacho-normativo/1-a-2016-73769155
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2019-05-10T00:00:00Z'
+  retrieved_at: '2026-10-23T15:08:04Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: a94db89fb985d69ffe0be83cc78ba4c2c3a6e8b561444a75210e3838dd3d81ab
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: aba4923eaad90439fefc012c011db2c0ce6cfce466bca9634a0d4d841573e543
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:08:04Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Ensino Superior
+- Estatuto
+- Homologação
+- Universidade de Lisboa
 relationships:
 - type: amended_by
   target: pt:dre:122278100:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:122278100:por
+  label: Homologada as alterações aos Estatutos da Universidade de Lisboa homologados pelo DN 5-A/2013 de 19-abr, na versão
+    republicada dos Estatutos pelo presente Despacho, pelo(a) Despacho Normativo n.º 14/2019 - Diário da República n.º 90/2019,
+    Série II de 2019-05-10
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/despacho-normativo/14-2019-122278100
+  date: '2019-05-10'
+- type: cites
+  target: pt:dre:1864678:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:603476:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:632432:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:640339:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:69920316:por
+  label: null
+  source: null
 article_structure:
-  article_count: 76
-  section_count: 14
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  article_count: 66
+  section_count: 15
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:08:04Z'
   warnings: []
   errors: []
 ---
@@ -212,7 +243,9 @@ k) [Anterior alínea j)];
 
 l) [Anterior alínea k)].
 
-###### Artigo 9.º — [...]
+Artigo 9.º
+
+[...]
 
 1 - [...].
 
@@ -232,7 +265,9 @@ l) [Anterior alínea k)].
 
 9 - [...].
 
-###### Artigo 14.º — Serviços de Ação Social da Universidade de Lisboa
+Artigo 14.º
+
+Serviços de Ação Social da Universidade de Lisboa
 
 1 - Os Serviços de Ação Social da Universidade de Lisboa prestam apoio à comunidade académica da Universidade de Lisboa e a entidades externas. [Homologado no entendimento constante da alínea a) do n.º 1 do despacho homologatório]
 
@@ -244,7 +279,9 @@ l) [Anterior alínea k)].
 
 5 - [Revogado].
 
-###### Artigo 15.º — [...]
+Artigo 15.º
+
+[...]
 
 1 - [...].
 
@@ -252,7 +289,9 @@ l) [Anterior alínea k)].
 
 3 - [...].
 
-###### Artigo 19.º — [...]
+Artigo 19.º
+
+[...]
 
 1 - [...]:
 
@@ -278,7 +317,9 @@ h) [Anterior alínea g).]
 
 4 - [...].
 
-###### Artigo 26.º — [...]
+Artigo 26.º
+
+[...]
 
 1 - [...]:
 
@@ -326,13 +367,17 @@ r) [...].
 
 5 - [...].
 
-###### Artigo 28.º — [...]
+Artigo 28.º
+
+[...]
 
 1 - O Reitor pode delegar as competências que se revelem necessárias ao bom funcionamento da instituição nos membros da equipa reitoral e nos órgãos da Universidade, Escolas, Serviços de Ação Social e Unidades Especializadas ou nos seus dirigentes e em quaisquer outros agentes que entenda convenientes.
 
 2 - [...].
 
-###### Artigo 32.º — [...]
+Artigo 32.º
+
+[...]
 
 1 - [...].
 
@@ -386,7 +431,9 @@ Reorganização dos serviços e nomeação de pessoal dirigente
 
 Para efeitos de aplicação de legislação relativa à reorganização de serviços e à nomeação de pessoal dirigente, a massa salarial global dos dirigentes da Universidade de Lisboa e respetivas unidades orgânicas é a que resulta da soma da massa salarial global dos dirigentes da Universidade de Lisboa e do Instituto de Investigação Científica Tropical, à data da sua integração na Universidade. [Homologado nos termos constantes da alínea c) do n.º 1 do despacho homologatório]
 
-###### Artigo 3.º — [...]
+Artigo 3.º
+
+[...]
 
 1 - [...].
 
@@ -396,11 +443,15 @@ a) Pelo Reitor, no caso dos serviços da Universidade de Lisboa, nomeadamente da
 
 b) [...].
 
-###### Artigo 4.º — [...]
+Artigo 4.º
+
+[...]
 
 A estrutura concreta dos serviços da Universidade de Lisboa e das suas Escolas, designadamente o número, o grau e a qualificação dos cargos dirigentes, é definida tendo em conta a sua missão, dimensão, grau de complexidade, volume de trabalho e nível de responsabilidade. [Homologado no entendimento constante da alínea d) do n.º 1 do despacho homologatório]
 
-###### Artigo 5.º — [...]
+Artigo 5.º
+
+[...]
 
 [...]:
 
@@ -426,7 +477,9 @@ j) [...];
 
 k) [...].
 
-###### Artigo 6.º — [...]
+Artigo 6.º
+
+[...]
 
 Os serviços das Escolas são coordenados por dirigentes de acordo com a seguinte tipologia, devendo a sua organização concreta, designadamente no que respeita à categoria que detém ou a que é equiparado o pessoal dirigente, nos termos das alíneas seguintes, ser especificada nos estatutos a que alude o artigo 3.º: [Homologado no entendimento constante da alínea d) do n.º 1 do despacho homologatório]
 
@@ -1288,7 +1341,9 @@ b) Em qualquer momento, por deliberação de dois terços dos membros do Conselh
 
 ## ANEXO I — Organização e funcionamento dos serviços da Universidade de Lisboa e das suas Escolas
 
-### CAPÍTULO I — Parte geral
+### CAPÍTULO I
+
+## Parte geral
 
 ###### Artigo 1.º — Objeto
 
@@ -1392,7 +1447,9 @@ Aos titulares destes cargos cabe, para além das competências referidas nos reg
 
 Salvo para efeitos de recrutamento dos dirigentes previstos nas alíneas a) a g) do artigo 5.º e a) do artigo 6.º, em tudo o que não estiver especialmente previsto no presente anexo aplica-se o disposto no Estatuto do Pessoal Dirigente.
 
-## ANEXO II — Artigo 1.º
+## ANEXO II
+
+###### Artigo 1.º
 
 Escolas
 
@@ -1455,3 +1512,5 @@ f) Estádio Universitário de Lisboa; [Homologado no entendimento constante da a
 g) Instituto de Investigação Científica Tropical.
 
 ## ANEXO III — [Revogado]
+
+209398386

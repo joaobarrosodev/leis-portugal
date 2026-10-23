@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/733/2005/08/25/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/733-2005-245275
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2005-08-25T00:00:00Z'
+  retrieved_at: '2026-10-23T15:08:07Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 58a4b36043bbf03dec17eccb336fa1d00fbe4c9af41bdef3d27ee484b00979dd
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 0385716e6752bdb8b333e5dcb6cf69d295a9474ed76c5f64c7c983dd2c0b7e15
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:08:07Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,10 +66,10 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Plano de Estudos
 - Instituto Politécnico
 - Instituto Superior de Engenharia
 - Licenciatura
+- Plano de Estudos
 - Porto
 relationships:
 - type: cites
@@ -112,16 +112,80 @@ relationships:
   target: eli:http://data.dre.pt/eli/port/927/1992/09/24/p/d
   label: null
   source: http://data.dre.pt/eli/port/927/1992/09/24/p/d
+- type: cites
+  target: pt:dre:147873:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:222418:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:230534:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:230574:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:232340:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:273991:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:283353:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:348548:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:429593:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:429596:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:453184:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:556606:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:561983:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:593710:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:618519:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:653145:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:08:07Z'
   warnings: []
   errors: []
 ---
@@ -184,7 +248,7 @@ Produção de efeitos
 
 O disposto na presente portaria produz efeitos a partir do ano lectivo de 1998-1999, inclusive.
 
-**O Ministro da Ciência, Tecnologia e Ensino Superior, José Mariano Rebelo Pires Gago, em 4 de Agosto de 2005.**
+O Ministro da Ciência, Tecnologia e Ensino Superior, José Mariano Rebelo Pires Gago, em 4 de Agosto de 2005.
 
 Do ANEXO I ao ANEXO VI
 

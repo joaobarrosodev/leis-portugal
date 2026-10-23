@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/2s/2025/01/022000000/0011200158.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -46,18 +46,18 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/despacho-normativo/2-2025-905624756
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2026-01-29T00:00:00Z'
+  retrieved_at: '2026-10-23T15:09:10Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 1a9e276b126b189621a76b870049e8e567384b53deb7c94befeb83d1ce9fa6ff
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 72386e32dab858a30861636e475b5f120757e58ff2047720431dbbca940758b3
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:09:10Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -70,16 +70,48 @@ relationships:
   target: pt:dre:1028040973:por
   label: Última alteração registada na importação inicial
   source: null
+- type: cites
+  target: pt:dre:106930349:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:115312061:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:161518656:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:3293883:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:3456228:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:565377:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:620717:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:640339:por
+  label: null
+  source: null
 article_structure:
-  article_count: 88
-  section_count: 24
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  article_count: 66
+  section_count: 22
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:09:10Z'
   warnings: []
   errors: []
 ---
@@ -158,7 +190,9 @@ d) Unidade transversal de cooperação, o Instituto para a Cooperação.
 
 9 - As unidades orgânicas e as unidades transversais que constituem a Universidade constam do anexo ii aos presentes Estatutos e que deles se considera parte integrante, nele se elencando especificadamente as unidades transversais abrangidas pelo disposto no número anterior.
 
-###### Artigo 13.º — [...]
+Artigo 13.º
+
+[...]
 
 1 - [...]
 
@@ -174,7 +208,9 @@ d) Unidade transversal de cooperação, o Instituto para a Cooperação.
 
 7 - Os regulamentos eleitorais podem prever a utilização de meios telemáticos e ou a desmaterialização do procedimento preparatório ou de algumas das suas fases, incluindo a votação eletrónica, desde que sejam respeitados os princípios consignados no presente artigo e devidamente garantida a fidedignidade e segurança de todo o processo eleitoral, designadamente quanto à integridade e confidencialidade do voto.
 
-###### Artigo 14.º — [...]
+Artigo 14.º
+
+[...]
 
 1 - [...]
 
@@ -190,7 +226,9 @@ c) Realização das reuniões por meios telemáticos, incluindo a possibilidade 
 
 4 - [...]
 
-###### Artigo 16.º — [...]
+Artigo 16.º
+
+[...]
 
 1 - São órgãos de governo da Universidade:
 
@@ -216,7 +254,9 @@ c) [...]
 
 4 - O Provedor do Estudante e o Provedor do Trabalhador são órgãos independentes que têm por função a defesa e promoção dos direitos e interesses legítimos respetivamente dos estudantes e dos trabalhadores.
 
-###### Artigo 18.º — [...]
+Artigo 18.º
+
+[...]
 
 1 - [...]
 
@@ -268,7 +308,9 @@ i) [...]
 
 6 - [...]
 
-###### Artigo 23.º — [...]
+Artigo 23.º
+
+[...]
 
 1 - O Reitor é o órgão superior de governo e de representação externa da Universidade e preside ao Conselho de Gestão.
 
@@ -344,7 +386,9 @@ v) [...]
 
 7 - [...]
 
-###### Artigo 24.º — [...]
+Artigo 24.º
+
+[...]
 
 1 - No exercício das suas competências o Reitor é coadjuvado por Vice-Reitores e Pró-Reitores.
 
@@ -356,7 +400,9 @@ v) [...]
 
 5 - (Anterior n.º 4.)
 
-###### Artigo 27.º — Composição do Conselho Científico
+Artigo 27.º
+
+Composição do Conselho Científico
 
 1 - [...]
 
@@ -382,7 +428,9 @@ c) Há lugar a eleição por e de entre todos os coordenadores das unidades de i
 
 7 - A duração do mandato dos membros do Conselho Científico é de três anos, não podendo ser exercidos mais do que dois mandatos consecutivos, no caso dos membros eleitos, tendo, no caso dos representantes das unidades de investigação, o limite máximo que esteja fixado no regulamento da respetiva unidade de investigação.
 
-###### Artigo 29.º — Composição do Conselho Pedagógico
+Artigo 29.º
+
+Composição do Conselho Pedagógico
 
 1 - [...]
 
@@ -398,15 +446,21 @@ c) Há lugar a eleição por e de entre todos os coordenadores das unidades de i
 
 7 - A duração do mandato dos membros do Conselho Pedagógico é de três anos para os docentes e de dois anos para os estudantes, não podendo em qualquer caso ser exercidos mais do que dois mandatos consecutivos.
 
-###### Artigo 32.º — Conselho de Ética
+Artigo 32.º
+
+Conselho de Ética
 
 1 - O Conselho de Ética é o órgão consultivo e de apoio aos órgãos de governo nas matérias de ética e deontologia atinentes à realização das atribuições da Universidade, ao qual compete promover a reflexão e contribuir para a definição das diretrizes adequadas ao estabelecimento e consolidação de uma política de salvaguarda de princípios éticos e deontológicos, designadamente emitindo pareceres, quando tal lhe for solicitado, ou propondo, por iniciativa própria, a adoção de códigos de conduta.
 
 2 - O Conselho de Ética é composto por um máximo de 12 membros, em que se incluem personalidades internas e externas, livremente nomeadas e exoneradas pelo Conselho Geral, que define o prazo e regime dos mandatos e as demais regras enquadradoras.
 
-#### SECÇÃO VI — PROVEDOR DO ESTUDANTE E PROVEDOR DO TRABALHADOR
+SECÇÃO VI
 
-###### Artigo 34.º — [...]
+PROVEDOR DO ESTUDANTE E PROVEDOR DO TRABALHADOR
+
+Artigo 34.º
+
+[...]
 
 1 - [...]
 
@@ -422,7 +476,9 @@ c) Há lugar a eleição por e de entre todos os coordenadores das unidades de i
 
 7 - O Provedor tem estatuto protocolar de Pró-Reitor e aufere uma compensação remuneratória mensal pelo exercício das respetivas funções, fixada por despacho do Reitor e aferida em função do escalão superior da ajuda de custo fixada para a função pública.
 
-###### Artigo 36.º — [...]
+Artigo 36.º
+
+[...]
 
 1 - [...]
 
@@ -440,7 +496,9 @@ d) Comissão Pedagógica.
 
 4 - Excecionalmente e nos termos adiante previstos, quando não seja possível a respetiva constituição numa concreta unidade orgânica, as competências e funções dos órgãos a que se referem as alíneas c) e d) do número anterior são cometidas a formações restritas do Conselho da Unidade.
 
-###### Artigo 37.º — [...]
+Artigo 37.º
+
+[...]
 
 1 - O Diretor é o responsável superior a nível do departamento universitário e da escola politécnica, competindo-lhe a sua direção e representação, exercendo o cargo em dedicação exclusiva, sem prejuízo de, querendo, poder prestar serviço docente.
 
@@ -458,7 +516,9 @@ d) Comissão Pedagógica.
 
 8 - O mandato do Diretor tem a duração de quatro anos, podendo ser renovado uma única vez, por igual período.
 
-###### Artigo 39.º — [...]
+Artigo 39.º
+
+[...]
 
 1 - O Conselho da Unidade, com 11 a 25 membros no total, é presidido por um docente e composto por representantes pertencentes e eleitos pelos seguintes grupos:
 
@@ -490,15 +550,21 @@ b) Aprovar, sob proposta do Diretor, o documento de estratégia da Unidade, de a
 
 9 - Nos assuntos respeitantes às alíneas a) e c) do n.º 5, só têm direito de voto os membros pertencentes ao grupo do pessoal a que se refere a alínea a) do n.º 1.
 
-###### Artigo 42.º — [...]
+Artigo 42.º
+
+[...]
 
 1 - Para além das unidades referidas nos artigos anteriores, a Universidade pode ainda, como previsto no n.º 4 do artigo 8.º, criar outras unidades transversais de ensino e ou de ensino e investigação, como institutos de ensino e investigação e de estudos avançados em determinadas áreas de conhecimento ou de caráter interdisciplinar, ou para partilha e melhor aproveitamento e otimização da capacidade de intervenção institucional nesse contexto.
 
 2 - [...]
 
-#### SECÇÃO III — UNIDADES BÁSICAS E TRANSVERSAIS DE INVESTIGAÇÃO E OU DE COOPERAÇÃO
+SECÇÃO III
 
-###### Artigo 43.º — Caracterização e organização
+UNIDADES BÁSICAS E TRANSVERSAIS DE INVESTIGAÇÃO E OU DE COOPERAÇÃO
+
+Artigo 43.º
+
+Caracterização e organização
 
 1 - Unidades básicas de investigação e ou de cooperação são as que se situam no âmbito ou estão predominantemente adstritas a uma unidade orgânica de ensino e investigação, da qual em decorrência se consideram integrantes.
 
@@ -508,7 +574,9 @@ b) Aprovar, sob proposta do Diretor, o documento de estratégia da Unidade, de a
 
 4 - As unidades básicas e transversais de investigação e ou de cooperação regem-se por regulamento específico, a aprovar pelo Reitor, sob proposta do Coordenador ou Diretor da Unidade, no respeito do quadro estabelecido nos presentes Estatutos.
 
-###### Artigo 46.º — [...]
+Artigo 46.º
+
+[...]
 
 1 - [...]
 
@@ -518,7 +586,9 @@ b) Aprovar, sob proposta do Diretor, o documento de estratégia da Unidade, de a
 
 4 - O regime dos cargos de direção, coordenação e chefia de nível não-académico, designadamente a respetiva designação, qualificação, grau, competências e estatuto remuneratório, é estabelecido em regulamento específico, aplicando-se o regime de comissão de serviço do Código do Trabalho e, subsidiariamente, o instituído para os dirigentes da Administração Pública.
 
-###### Artigo 47.º — [...]
+Artigo 47.º
+
+[...]
 
 1 - [...]
 
@@ -530,7 +600,9 @@ b) Aprovar, sob proposta do Diretor, o documento de estratégia da Unidade, de a
 
 5 - O cargo de Administrador é equiparado para todos os efeitos, designadamente remuneratórios, a cargo de direção superior de primeiro grau, sendo os Adjuntos equiparados, nos mesmos termos, a cargo de direção superior de segundo grau.
 
-###### Artigo 48.º — [...]
+Artigo 48.º
+
+[...]
 
 1 - [...]
 
@@ -546,7 +618,9 @@ b) Aprovar, sob proposta do Diretor, o documento de estratégia da Unidade, de a
 
 7 - Os Serviços de Ação Social dispõem de um Conselho de Gestão, com competências administrativas e financeiras no seu âmbito próprio, órgão presidido pelo Reitor ou por Vice-Reitor por si designado, e em cuja composição se incluem necessariamente o dirigente a que se refere o n.º 4 e o responsável pela respetiva área financeira, podendo ainda ser convocados a participar nas respetivas reuniões, sem direito a voto, dirigentes das unidades e serviços previstos no n.º 1 do artigo 8.º e representantes dos estudantes e do pessoal técnico, administrativo e de gestão.
 
-## ANEXO II — Unidades a que se refere o n.º 9 do artigo 8.º
+ANEXO II
+
+Unidades a que se refere o n.º 9 do artigo 8.º
 
 I) Unidades orgânicas de ensino e investigação:
 
@@ -630,7 +704,9 @@ d) De cooperação:
 
 i) Instituto para a Cooperação.
 
-## ANEXO III — [...]
+ANEXO III
+
+[...]
 
 a) [...]
 
@@ -672,7 +748,9 @@ g) Outros assuntos que o Reitor considere pertinente submeter ao Conselho.
 
 3 - O Conselho de Diretores é composto pelo Reitor, que preside, e pelos Diretores das unidades orgânicas de ensino e investigação, podendo o Reitor, sempre que o considere conveniente, convidar para participar nas reuniões ou em parte delas, com voz mas sem direito a voto, membros da comunidade ou individualidades externas cujo concurso, designadamente pela sua especialização técnica ou conhecimentos nas matérias agendadas, seja pertinente à melhor tomada de decisão.
 
-###### Artigo 34.º-A — Natureza, competência e designação do Provedor do Trabalhador
+Artigo 34.º-A
+
+Natureza, competência e designação do Provedor do Trabalhador
 
 1 - O Provedor do Trabalhador tem como função a defesa e a promoção dos direitos e interesses legítimos dos trabalhadores da Universidade, competindo-lhe apreciar as queixas e as reclamações que nesse âmbito lhe sejam apresentadas, e atuar por iniciativa própria, dirigindo com base nos resultados apurados, as adequadas recomendações aos órgãos e entidades competentes.
 
@@ -682,7 +760,9 @@ g) Outros assuntos que o Reitor considere pertinente submeter ao Conselho.
 
 4 - Ao Provedor do Trabalhador aplicam-se, com as devidas adaptações, as disposições dos números 4 a 7 do artigo anterior, designadamente quanto ao estatuto, à duração do mandato e aos deveres, em relação ao exercício das respetivas funções, por parte dos órgãos, unidades e serviços.
 
-###### Artigo 39.º-A — Comissões Científicas e Comissões Pedagógicas
+Artigo 39.º-A
+
+Comissões Científicas e Comissões Pedagógicas
 
 1 - A composição da Comissão Científica, com 7 a 11 membros no total, deve replicar a do Conselho Científico da Universidade, no que respeita aos universos representados e, quanto possível, às proporções para o mesmo órgão estabelecidas, com as devidas adaptações e nos termos a definir no respetivo regulamento eleitoral.
 
@@ -694,23 +774,29 @@ g) Outros assuntos que o Reitor considere pertinente submeter ao Conselho.
 
 5 - O Diretor, ou quem tenha competência delegada na matéria, participa nas reuniões das Comissões Científicas e Comissões Pedagógicas, sem direito a voto.
 
-6 - Quando face às circunstâncias da unidade orgânica, designadamente a sua dimensão e especificidades, não seja possível reunir as condições requeridas nos n.<sup>os</sup>1 e 2 para a constituição de Comissão Científica e ou Comissão Pedagógica, as respetivas competências e funções são necessariamente cometidas a formações restritas do Conselho da Unidade a criar nesse âmbito, ao abrigo no n.º 7 do artigo 39.º, sob a designação de Secção Científica e ou Secção Pedagógica.
+6 - Quando face às circunstâncias da unidade orgânica, designadamente a sua dimensão e especificidades, não seja possível reunir as condições requeridas nos n.os1 e 2 para a constituição de Comissão Científica e ou Comissão Pedagógica, as respetivas competências e funções são necessariamente cometidas a formações restritas do Conselho da Unidade a criar nesse âmbito, ao abrigo no n.º 7 do artigo 39.º, sob a designação de Secção Científica e ou Secção Pedagógica.
 
 7 - Verificando-se a situação a que se refere o número anterior, deve tal ser contemplado no regulamento da unidade orgânica, bem como nele se definirem as condições necessárias ao cumprimento do disposto no n.º 6 do artigo 13.º
 
-###### Artigo 40.º-A — Instituto de Ensino e Aprendizagem
+Artigo 40.º-A
+
+Instituto de Ensino e Aprendizagem
 
 1 - O Instituto de Ensino e Aprendizagem é a unidade transversal de ensino que assume a coordenação das atividades de ensino da Universidade, bem como da inovação curricular e pedagógica, a nível do primeiro e segundo ciclos, cursos pós-secundários e cursos não conferentes de grau, interna e externamente, competindo-lhe ainda nesse âmbito realizar atividades, emitir pareceres e formular propostas a submeter aos órgãos competentes, designadamente sobre a qualidade e inovação curricular e pedagógica e admissão e experiência dos estudantes.
 
 2 - O Instituto de Ensino e Aprendizagem adota a estrutura e rege-se por regulamento específico aprovado pelo Reitor, nele se devendo prever um Conselho por si presidido.
 
-###### Artigo 44.º-A — Instituto para a Investigação
+Artigo 44.º-A
+
+Instituto para a Investigação
 
 1 - O Instituto para a Investigação é a unidade transversal de investigação que assume a coordenação integrada das atividades de investigação da Universidade, interna e externamente, competindo-lhe, nesse âmbito, debater e pronunciar-se sobre aspetos estratégicos, propor ações e iniciativas que promovam a inter e transdisciplinaridade e a internacionalização, emitir pareceres e formular propostas a submeter aos órgãos competentes, designadamente visando novas perspetivas de intervenção, incremento da visibilidade e captação de novas oportunidades de projeção nacional e internacional da Universidade.
 
 2 - O Instituto para a Investigação adota a estrutura e rege-se por regulamento específico aprovado pelo Reitor, nele se devendo prever um Conselho por si presidido e que integra necessariamente todos os diretores e coordenadores das unidades básicas e transversais de investigação.
 
-###### Artigo 44.º-B — Instituto para a Cooperação
+Artigo 44.º-B
+
+Instituto para a Cooperação
 
 1 - O Instituto para a Cooperação é a unidade transversal de cooperação que assume a coordenação integrada das atividades de cooperação Universidade-Sociedade, bem como a relação com as entidades externas e com os antigos estudantes, a proteção e transferência de tecnologia e do conhecimento, o empreendedorismo, as saídas profissionais, e o mecenato, competindo-lhe nesse âmbito, debater e pronunciar-se sobre aspetos estratégicos, propor ações e iniciativas que promovam contributos para a sociedade e a internacionalização, emitir pareceres e formular propostas a submeter aos órgãos competentes, designadamente visando novas perspetivas de intervenção, incremento da visibilidade e captação de novas oportunidades de projeção nacional e internacional da Universidade.
 
@@ -736,7 +822,9 @@ Em decorrência das alterações constantes dos artigos anteriores é republicad
 
 Estatutos da Universidade de Aveiro
 
-### CAPÍTULO I — Artigo 1.º
+### CAPÍTULO I
+
+###### Artigo 1.º
 
 Objeto
 
@@ -1432,7 +1520,7 @@ c) Dois estudantes.
 
 ###### Artigo 35.º — Caracterização
 
-1 - As unidades orgânicas de ensino e investigação são, de harmonia com o disposto nos n.<sup>os</sup>2 e 3 do artigo 8.º, os departamentos universitários, as escolas politécnicas e as secções autónomas, sendo-lhes reconhecida autonomia científica, pedagógica e cultural correspondentes ao seu âmbito de intervenção e gozam de autonomia de gestão mitigada nos termos previstos nos presentes Estatutos.
+1 - As unidades orgânicas de ensino e investigação são, de harmonia com o disposto nos n.os2 e 3 do artigo 8.º, os departamentos universitários, as escolas politécnicas e as secções autónomas, sendo-lhes reconhecida autonomia científica, pedagógica e cultural correspondentes ao seu âmbito de intervenção e gozam de autonomia de gestão mitigada nos termos previstos nos presentes Estatutos.
 
 2 - Os departamentos universitários e as escolas politécnicas são as unidades orgânicas de ensino e de investigação constitutivas da Universidade no âmbito, respetivamente, dos subsistemas de ensino universitário e politécnico e que correspondem a áreas do conhecimento caracterizadas pela sua afinidade e coerência, organizando-se em função de objetivos próprios e de metodologias e técnicas de ensino e investigação específicas.
 
@@ -1544,7 +1632,7 @@ b) Aprovar, sob proposta do Diretor, o documento de estratégia da Unidade, de a
 
 5 - O Diretor, ou quem tenha competência delegada na matéria, participa nas reuniões das Comissões Científicas e Comissões Pedagógicas, sem direito a voto.
 
-6 - Quando face às circunstâncias da unidade orgânica, designadamente a sua dimensão e especificidades, não seja possível reunir as condições requeridas nos n.<sup>os</sup>1 e 2 para a constituição de Comissão Científica e ou Comissão Pedagógica, as respetivas competências e funções são necessariamente cometidas a formações restritas do Conselho da Unidade a criar nesse âmbito, ao abrigo no n.º 7 do artigo 39.º, sob a designação de Secção Científica e ou Secção Pedagógica.
+6 - Quando face às circunstâncias da unidade orgânica, designadamente a sua dimensão e especificidades, não seja possível reunir as condições requeridas nos n.os1 e 2 para a constituição de Comissão Científica e ou Comissão Pedagógica, as respetivas competências e funções são necessariamente cometidas a formações restritas do Conselho da Unidade a criar nesse âmbito, ao abrigo no n.º 7 do artigo 39.º, sob a designação de Secção Científica e ou Secção Pedagógica.
 
 7 - Verificando-se a situação a que se refere o número anterior, deve tal ser contemplado no regulamento da unidade orgânica, bem como nele se definirem as condições necessárias ao cumprimento do disposto no n.º 6 do artigo 13.º
 
@@ -1738,11 +1826,13 @@ Bandeira, hábito talar e medalhas: conforme anexo i do [Despacho Normativo n.º
 
 Logótipos em uso: Original conforme Despacho Normativo supra identificado:
 
-![](https://files.diariodarepublica.pt/images/905624756/905627043.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/905624756/905627043.png) |
+| --- |
 
 Logótipo renovado:
 
-![](https://files.diariodarepublica.pt/images/905624756/905627044.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/905624756/905627044.png) |
+| --- |
 
 ## ANEXO II — Unidades a que se refere o n.º 9 do artigo 8.º
 
@@ -1837,3 +1927,5 @@ b) (Revogada.)
 c) Instituto do Ambiente e Desenvolvimento, associação privada sem fins lucrativos, constituída em 9 de novembro de 1992;
 
 d) Laboratório Industrial da Qualidade, associação privada sem fins lucrativos, constituída em 28 de fevereiro de 1990.
+
+318613252

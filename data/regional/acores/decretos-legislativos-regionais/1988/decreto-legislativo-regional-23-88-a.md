@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1988/05/10400/18941898.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,40 +46,78 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/23-1988-373600
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1998-07-17T00:00:00Z'
+  retrieved_at: '2026-10-23T15:17:44Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 554da6e65867a051a7d0df9040ec13daac8ee7c6060013516552284a201c84af
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 65b125f09ebdb2ce65c1e042ac6c86d73bc790fc5f8b4b5bd1e70c125b918ab9
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:17:44Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Açores
+- Educação Pré-escolar
+- Educador de Infância
+- Jardim de Infância
+- Regime Jurídico
 relationships:
 - type: amended_by
   target: pt:dre:431230:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:1945608:por
+  label: "ALTERADOS OS ARTIGOS 2, 4, 5, 6, 7, 8, 10, 12, 13, 14, 16, 17, 18, 21, 22 E 23, PELO DECRETO LEGISLATIVO REGIONAL\
+    \ 23/94/A, DE 24 DE JUNHO, DA ALR-RAA, PUBLICADO NO DR.IS-A, 181, DE 940806.\0E 940806."
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/sem-diploma/2000-1945608
+  date: '1994-08-06'
+- type: cites
+  target: pt:dre:222418:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:227192:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:378683:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:666494:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:679829:por
+  label: "Revogado o art. 4º, pelo DLR.8/91/A.1991.07.20.ALR-RAA, DR.IS-A [182] de 09.08.1991\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-legislativo-regional/8-1991-679829
+  date: '1991-07-20'
+- type: repealed_by
+  target: pt:dre:431230:por
+  label: "Revogado pelo DLR.14/98/A.1998.07.17.ALR-RAA DR.IS-A [178] de 04/Ago/1998, na redacção do DLR 23/94/A, de 06-Ago,\
+    \ à data da entrada em vigor do Decreto Regulamentar Regional previsto no nº 1 do art. 27º\0º\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-legislativo-regional/14-1998-431230
+  date: '1998-07-17'
 article_structure:
   article_count: 24
   section_count: 9
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:17:44Z'
   warnings: []
   errors: []
 ---
@@ -336,10 +374,10 @@ j) Sensibilizar as autarquias, organismos oficiais, instituições recreativas, 
 
 Aprovado pela Assembleia Regional dos Açores, na Horta, em 10 de Março de 1988.
 
-**O Presidente da Assembleia Regional, José Guilherme Reis Leite.**
+O Presidente da Assembleia Regional, José Guilherme Reis Leite.
 
-**Assinado em Angra do Heroísmo em 15 de Abril de 1988.**
+Assinado em Angra do Heroísmo em 15 de Abril de 1988.
 
-**Publique-se.**
+Publique-se.
 
-**O Ministro da República para a Região Autónoma dos Açores, Vasco Joaquim Rocha Vieira.**
+O Ministro da República para a Região Autónoma dos Açores, Vasco Joaquim Rocha Vieira.

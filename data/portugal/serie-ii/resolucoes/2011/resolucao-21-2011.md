@@ -46,36 +46,53 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/resolucao/21-2011-1026978
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2011-12-15T00:00:00Z'
+  retrieved_at: '2026-10-23T15:14:43Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 22b0ab0abe51b0de6ae9ae0085552c4925fc827934bc4561e1e1ce202c7ae6ba
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: d70977dc5d525aa41d82ec195cfe0d912cfc3b5991386c5db75496b55cf9a84b
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:14:43Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
-relationships: []
+subjects:
+- Conselho de Administração
+- Nomeação
+- Presidente
+- Teatro Nacional de DONA Maria II
+- Vogal
+relationships:
+- type: cites
+  target: pt:dre:197492:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:248178:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:521022:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:14:43Z'
   warnings: []
   errors: []
 ---
@@ -215,3 +232,5 @@ Setembro a Dezembro de 1994: estágio na área de cobranças no Grupo Aliança U
 Janeiro de 1995 a Abril de 1996: estágio na empresa TECOPAL - Assistência Técnica e Comercial de Máquinas Industriais de Pombal, Lda., Zona Industrial de Pombal, estágio, com duração de 12 meses, na área financeira, no âmbito do Programa Jovens Técnicos para a Indústria, tendo sido posteriormente contratada;
 
 Janeiro a Março de 2000: consultoria e apoio técnico aos Serviços Sociais da Câmara Municipal de Lisboa (SSCML), relativamente à aplicação do novo [Decreto-Lei n.º 18/2008](https://diariodarepublica.pt/dr/detalhe/decreto-lei/18-2008-248178) de 29 de Janeiro - Código dos Contratos Públicos.
+
+19842011

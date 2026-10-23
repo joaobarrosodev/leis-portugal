@@ -20,12 +20,12 @@ publication:
   reference: Diário da República n.º 66/2016, 1º Suplemento, Série II de 2016-04-05
   number: '66'
   series: II
-  supplement: 1º Suplemento
+  supplement: null
   pages: 11440-(3) a 11440-(10)
   pdf_url: https://files.diariodarepublica.pt/2s/2016/04/066000001/0000300010.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -47,45 +47,106 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/despacho-normativo/1-f-2016-74059570
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2018-08-03T00:00:00Z'
+  retrieved_at: '2026-10-23T15:08:05Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: d0c239bc19a62b09210474cd40ce6a6cd871c8947730a57e8b53ab02608951b3
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 9f4c796bd6dfe514f9f87fb0b2e97d83835b2a011056685e88a21d05f977962c
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:08:05Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Agrupamento de Escolas
+- Aprendizagem
+- Avaliação de Conhecimentos
+- Conselho de Docentes
+- Conselho de Turma
+- Definição de Competências
+- Ensino Básico
+- Ensino Doméstico
+- Ensino Individual
+- Ensino Oficial
+- Ensino Particular
+- Equivalência de Habilitações Literárias
+- Estabelecimento de Ensino
+- Estudante
+- Exame
+- Pessoal Docente
+- Prova de Aferição
+- Recurso
+- Regulamento
 relationships:
 - type: amended_by
   target: pt:dre:115886163:por
   label: Última alteração registada na importação inicial
   source: null
+- type: cites
+  target: pt:dre:174840:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:178548:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:249230:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:386871:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:497860:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:587624:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:64297587:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:66041468:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:74007250:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:115886163:por
+  label: Revogado, o presente diploma, pelo(a) Portaria n.º 223-A/2018 - Diário da República n.º 149/2018, 1º Suplemento,
+    Série I de 2018-08-03, nos termos dos seus arts. 50.º e 51.º
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/223-a-2018-115886163
+  date: '2018-08-03'
 article_structure:
   article_count: 36
   section_count: 10
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:08:05Z'
   warnings: []
   errors: []
 ---
 
-# Despacho Normativo n.º 1-F/2016
+# Despacho normativo n.º 1-F/2016
 
 O [Decreto-Lei n.º 17/2016](https://diariodarepublica.pt/dr/detalhe/decreto-lei/17-2016-74007250), de 4 de abril, que procede à terceira alteração ao [Decreto-Lei n.º 139/2012](https://diariodarepublica.pt/dr/detalhe/decreto-lei/139-2012-178548), de 5 de julho, redefine os princípios orientadores da avaliação das aprendizagens, afirmando a dimensão eminentemente formativa da avaliação, que se quer integrada e indutora de melhorias no ensino e na aprendizagem.
 
@@ -751,4 +812,6 @@ O presente despacho entra em vigor no dia seguinte ao da sua publicação.
 
 ## ANEXO I — (escala a que se se referem os artigos 14.º, n.º 4, e 18.º, n.º 9)
 
-[([ver documento original](https://files.diariodarepublica.pt/2s/2016/04/066000001/0000300010.pdf))](https://files.diariodarepublica.pt/2s/2016/04/066000001/0000300010.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/2s/2016/04/066000001/0000300010.pdf)
+
+209486513

@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/2s/2023/01/004000000/0018900189.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -46,18 +46,18 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/resolucao/6-2023-205744062
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2023-01-05T00:00:00Z'
+  retrieved_at: '2026-10-23T15:16:18Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: f6ef87c1f7342e74f73e0b939046871648d27a70179811d076daee97a86dfd3e
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 0a5eafe9e92b68d45b6a42500c9bc76e6a435adff5b795b8739c0d604bc1ef98
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:16:18Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -65,17 +65,25 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects: []
-relationships: []
+relationships:
+- type: cites
+  target: pt:dre:193663:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:205744061:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:16:18Z'
   warnings: []
   errors: []
 ---
@@ -94,6 +102,8 @@ O Plenário Geral do Tribunal de Contas, reunido em sessão de 15 de dezembro de
 
 3 - Não dispensar qualquer das entidades sujeitas à jurisdição e aos poderes de controlo financeiro da Secção Regional dos Açores do Tribunal de Contas da obrigação de remessa ao Tribunal de Contas dos documentos de prestação de contas relativos ao ano económico de 2022 e a gerências partidas de 2023, não acionando a faculdade prevista no n.º 4 do artigo 51.º da Lei de Organização e Processo do Tribunal de Contas.
 
-**Publique-se no Diário da República e no Jornal Oficial da Região Autónoma dos Açores, nos termos do artigo 9.º, n.os 2, alínea d), e 3, da Lei de Organização e Processo do Tribunal de Contas.**
+Publique-se no Diário da República e no Jornal Oficial da Região Autónoma dos Açores, nos termos do artigo 9.º, n.os 2, alínea d), e 3, da Lei de Organização e Processo do Tribunal de Contas.
 
 15 de dezembro de 2022. - O Presidente, José F. F. Tavares.
+
+315984447

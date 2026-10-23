@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/2s/2025/04/075000000/0005400085.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -46,18 +46,18 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/despacho-normativo/6-2025-915241630
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2025-08-21T00:00:00Z'
+  retrieved_at: '2026-10-23T15:09:14Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 55e0d33aae6b74d2018576f861cc2f364bd2f375d7ebd1a102bb766992fb0c1c
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: aec92865b96eb790dea58be535c2a47ab0c04611d3635cbfdbe87657afbde4fe
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:09:14Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -70,16 +70,40 @@ relationships:
   target: pt:dre:932849285:por
   label: Última alteração registada na importação inicial
   source: null
+- type: cites
+  target: pt:dre:1196782:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:124392062:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:357130:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:603476:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:640339:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:67590893:por
+  label: null
+  source: null
 article_structure:
   article_count: 78
   section_count: 27
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:09:14Z'
   warnings: []
   errors: []
 ---
@@ -1298,7 +1322,8 @@ ANEXOS
 
 ## ANEXO 01 — Símbolo da Universidade
 
-![](https://files.diariodarepublica.pt/images/915241630/915278711.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/915241630/915278711.png) |
+| --- |
 
 ## ANEXO 02
 
@@ -1380,6 +1405,8 @@ d) Estrutura especializada (Unidade de Desenvolvimento Experimental e Apoio ao E
 
 4 - O cargo de coordenador de estrutura de projeto é qualificado como cargo de direção intermédia de 3.º grau.
 
-5 - A qualificação dos cargos dirigentes previstos nos n.<sup>os</sup> 2, 3 e 4, obedece ao estatuído na [Lei n.º 2/2004](https://diariodarepublica.pt/dr/detalhe/lei/2-2004-603476), de 15 de janeiro, que aprova o estatuto do pessoal dirigente dos serviços e organismos da administração central, local e regional do Estado, na sua redação atual.
+5 - A qualificação dos cargos dirigentes previstos nos n.os 2, 3 e 4, obedece ao estatuído na [Lei n.º 2/2004](https://diariodarepublica.pt/dr/detalhe/lei/2-2004-603476), de 15 de janeiro, que aprova o estatuto do pessoal dirigente dos serviços e organismos da administração central, local e regional do Estado, na sua redação atual.
 
 6 - As competências e demais critérios aplicáveis aos cargos previstos no presente anexo são expressamente fixadas no regulamento orgânico da Universidade.
+
+318894761

@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/2s/2021/01/006000000/0002000028.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -47,40 +47,99 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/despacho-normativo/1-2021-153493528
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2021-04-23T00:00:00Z'
+  retrieved_at: '2026-10-23T15:08:40Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 43fada018e9a28a4264c2482e3477a346c09f8bb756d1a998c498cc6cdeddffa
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 1f5d6e66341676ef330682f56420fcfd81ab3cec7dde800fbe0f32f60ad9c770
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:08:40Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Controlo Sanitário
+- Doença Infecciosa
+- Empresa
+- Epidemia
+- Estabelecimento Hoteleiro
+- Financiamento
+- Indústria Hoteleira
+- Infraestrutura Turística
+- Instituto do Turismo de Portugal
+- Linha de Crédito
+- Microempresa
+- Pequenas e Médias Empresas
+- PME
+- Política de Emprego
+- Regime de Apoio
+- Saúde Pública
+- Tesouraria
+- Turismo
 relationships:
 - type: amended_by
   target: pt:dre:162021993:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:158698071:por
+  label: Diferida para 30 de junho de 2022 a data de início do reembolso dos empréstimos cujos períodos de carência terminem
+    até dia 31 de março de 2022, concedidos ao abrigo da Linha de Apoio às Micro e Pequenas Empresas do Turismo - COVID-19,
+    criada pelo DN 4/2020 de 20-mar, e alterados os 2.º, 4.º, 5.º e 6.º daquele diploma, na versão alterada e republicada
+    pelo presente, pelo(a) Despacho Normativo n.º 8/2021 - Diário da República n.º 43/2021, Série II de 2021-03-03, que o
+    republicou em anexo com as alterações ora introduzidas.
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/despacho-normativo/8-2021-158698071
+  date: '2021-03-03'
+- type: cites
+  target: pt:dre:107596686:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:127648461:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:130600838:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:131193418:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:142111051:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:178510:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:629439:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:67098359:por
+  label: null
+  source: null
 article_structure:
-  article_count: 23
+  article_count: 16
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:08:40Z'
   warnings: []
   errors: []
 ---
@@ -113,7 +172,9 @@ Criação, objeto e objetivos
 
 [...]
 
-###### Artigo 2.º — Dotação orçamental
+Artigo 2.º
+
+Dotação orçamental
 
 A dotação máxima disponível para financiamento das operações ao abrigo da presente linha de apoio financeiro é de (euro) 100 000 000 (cem milhões), assegurada com recurso ao saldo de gerência do Turismo de Portugal, I. P., repartida da seguinte forma:
 
@@ -121,7 +182,9 @@ a) Microempresas: (euro) 90 000 000 (noventa milhões);
 
 b) Pequenas empresas: (euro) 10 000 000 (dez milhões).
 
-###### Artigo 3.º — Entidades beneficiárias
+Artigo 3.º
+
+Entidades beneficiárias
 
 1 - São beneficiárias do apoio financeiro as micro e pequenas empresas com certificação eletrónica no portal do IAPMEI, I. P., nos termos do [Decreto-Lei n.º 372/2007](https://diariodarepublica.pt/dr/detalhe/decreto-lei/372-2007-629439), de 6 de novembro, alterado pelo [Decreto-Lei n.º 81/2017](https://diariodarepublica.pt/dr/detalhe/decreto-lei/81-2017-107596686), de 30 de junho, e pelo [Decreto-Lei n.º 13/2020](https://diariodarepublica.pt/dr/detalhe/decreto-lei/13-2020-131193418), de 7 de abril, conforme Recomendação n.º 2003/361/CE, da Comissão Europeia, de 6 de maio, que exerçam, em território nacional, as atividades turísticas incluídas nos códigos CAE-Ver.1 em anexo.
 
@@ -131,7 +194,9 @@ a) Microempresas: as empresas que empregam menos de 10 trabalhadores e cujo volu
 
 b) Pequenas empresas: as empresas que, não sendo microempresas, empregam menos de 50 trabalhadores e cujo volume de negócios ou balanço total anual não excede 10 milhões de euros.
 
-###### Artigo 4.º — Condições de elegibilidade
+Artigo 4.º
+
+Condições de elegibilidade
 
 1 - Têm acesso à presente linha de apoio financeiro as micro e pequenas empresas que, à data da candidatura, reúnam as seguintes condições:
 
@@ -153,7 +218,9 @@ g) Encontrarem-se em atividade efetiva, sem prejuízo do disposto no n.º 4 do p
 
 4 - Podem aceder à presente linha de apoio as empresas que estejam impossibilitadas de exercer efetivamente a atividade por determinação expressa das autoridades públicas competentes no contexto das medidas de combate à propagação da doença COVID 19.
 
-###### Artigo 5.º — Intensidade, natureza e limite do apoio financeiro
+Artigo 5.º
+
+Intensidade, natureza e limite do apoio financeiro
 
 [...]
 
@@ -163,13 +230,17 @@ g) Encontrarem-se em atividade efetiva, sem prejuízo do disposto no n.º 4 do p
 
 4 - A verificação do cumprimento do pressuposto de atribuição do prémio de desempenho a que se refere o número anterior é efetuada mediante declaração expressa prestada pela empresa, sem prejuízo dos mecanismos de controlo e de auditoria a desenvolver pelo Turismo de Portugal, I. P.
 
-###### Artigo 6.º — Condições do financiamento
+Artigo 6.º
+
+Condições do financiamento
 
 [...]
 
 3 - Para garantia do reembolso do apoio financeiro, um dos sócios da empresa mutuária deve prestar a respetiva fiança pessoal no momento da contratação do apoio.
 
-###### Artigo 7.º — Apresentação de candidaturas
+Artigo 7.º
+
+Apresentação de candidaturas
 
 1 - As candidaturas são apresentadas em contínuo, através de formulário disponível no portal do Turismo de Portugal, I. P., acompanhado dos seguintes documentos:
 
@@ -183,7 +254,9 @@ d) ...
 
 2 - Cada empresa pode apresentar mais do que uma candidatura, desde que respeitem um intervalo de tempo de 3 meses entre a data da aprovação da anterior e a data da submissão da nova candidatura.
 
-###### Artigo 8.º — Análise das candidaturas
+Artigo 8.º
+
+Análise das candidaturas
 
 [...]
 
@@ -193,7 +266,9 @@ d) ...
 
 [...]
 
-###### Artigo 10.º — Obrigações das entidades beneficiárias
+Artigo 10.º
+
+Obrigações das entidades beneficiárias
 
 1 - São obrigações das entidades beneficiárias:
 
@@ -215,7 +290,9 @@ h) Manter a atividade, salvaguardado o disposto no n.º 4 do artigo 4.º do pres
 
 2 - Com exceção da obrigação enunciada na alínea a) do número anterior, que deve ser observada pelo menos nos três meses completos após a aprovação do apoio, as demais obrigações devem ser observadas até ao reembolso do financiamento concedido.
 
-## ANEXO — CAE Enquadráveis
+ANEXO
+
+CAE Enquadráveis
 
 [...]
 
@@ -239,7 +316,9 @@ h) Manter a atividade, salvaguardado o disposto no n.º 4 do artigo 4.º do pres
 
 23 de dezembro de 2020. - A Secretária de Estado do Turismo, Rita Baptista Marques.
 
-## ANEXO — Artigo 1.º
+## ANEXO
+
+###### Artigo 1.º
 
 Criação, objeto e objetivos
 
@@ -444,3 +523,5 @@ O presente despacho entra em vigor no dia seguinte ao da sua assinatura.
 Notas
 
 (1) Atividades enquadráveis, desde que desenvolvidas por empresas de animação turística e registadas no Registo Nacional dos Agentes de Animação Turística (RNAAT).
+
+313843502

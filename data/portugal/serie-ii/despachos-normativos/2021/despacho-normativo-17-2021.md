@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/2s/2021/06/123000000/0004500078.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -46,18 +46,18 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/despacho-normativo/17-2021-165948845
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2021-06-28T00:00:00Z'
+  retrieved_at: '2026-10-23T15:08:48Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: de1bdfafd5d0039822a8b5119a1a63c6aa6426f5980854547b905030b80a4492
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 4bbe063d32944f3bcb5be2cf8252190fb14d22a3f76114d2f9ab7c33ce7b2a17
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:08:48Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -65,17 +65,33 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects: []
-relationships: []
+relationships:
+- type: cites
+  target: pt:dre:2663290:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:540661:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:556606:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:640339:por
+  label: null
+  source: null
 article_structure:
   article_count: 97
   section_count: 35
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:08:48Z'
   warnings: []
   errors: []
 ---
@@ -1486,32 +1502,34 @@ Os presentes estatutos entram em vigor no dia seguinte ao da sua publicação no
 
 I - Instituto Politécnico de Viana do Castelo
 
-[([ver documento original](https://files.diariodarepublica.pt/2s/2021/06/123000000/0004500078.pdf))](https://files.diariodarepublica.pt/2s/2021/06/123000000/0004500078.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/2s/2021/06/123000000/0004500078.pdf)
 
 II - Escola Superior de Educação
 
-[([ver documento original](https://files.diariodarepublica.pt/2s/2021/06/123000000/0004500078.pdf))](https://files.diariodarepublica.pt/2s/2021/06/123000000/0004500078.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/2s/2021/06/123000000/0004500078.pdf)
 
 III - Escola Superior Agrária
 
-[([ver documento original](https://files.diariodarepublica.pt/2s/2021/06/123000000/0004500078.pdf))](https://files.diariodarepublica.pt/2s/2021/06/123000000/0004500078.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/2s/2021/06/123000000/0004500078.pdf)
 
 IV - Escola Superior de Tecnologia e Gestão
 
-[([ver documento original](https://files.diariodarepublica.pt/2s/2021/06/123000000/0004500078.pdf))](https://files.diariodarepublica.pt/2s/2021/06/123000000/0004500078.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/2s/2021/06/123000000/0004500078.pdf)
 
 V - Escola Superior de Ciências Empresariais
 
-[([ver documento original](https://files.diariodarepublica.pt/2s/2021/06/123000000/0004500078.pdf))](https://files.diariodarepublica.pt/2s/2021/06/123000000/0004500078.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/2s/2021/06/123000000/0004500078.pdf)
 
 VI - Escola Superior de Saúde
 
-[([ver documento original](https://files.diariodarepublica.pt/2s/2021/06/123000000/0004500078.pdf))](https://files.diariodarepublica.pt/2s/2021/06/123000000/0004500078.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/2s/2021/06/123000000/0004500078.pdf)
 
 VII - Escola Superior de Desporto e Lazer
 
-[([ver documento original](https://files.diariodarepublica.pt/2s/2021/06/123000000/0004500078.pdf))](https://files.diariodarepublica.pt/2s/2021/06/123000000/0004500078.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/2s/2021/06/123000000/0004500078.pdf)
 
 VIII - Serviços de Ação Social
 
-[([ver documento original](https://files.diariodarepublica.pt/2s/2021/06/123000000/0004500078.pdf))](https://files.diariodarepublica.pt/2s/2021/06/123000000/0004500078.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/2s/2021/06/123000000/0004500078.pdf)
+
+314315651

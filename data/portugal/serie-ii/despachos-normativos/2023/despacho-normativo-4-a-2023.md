@@ -19,12 +19,12 @@ publication:
   reference: Diário da República n.º 47/2023, 1º Suplemento, Série II de 2023-03-07
   number: '47'
   series: II
-  supplement: 1º Suplemento
+  supplement: null
   pages: 480-(2) a 480-(13)
   pdf_url: https://files.diariodarepublica.pt/2s/2023/03/047000001/0000200013.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -46,18 +46,18 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/despacho-normativo/4-a-2023-208326737
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2025-04-08T00:00:00Z'
+  retrieved_at: '2026-10-23T15:09:02Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 9f82e86b39e3c87e84b674a4ea8e32718540d2e41fb36818b4fbc39c6851825d
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: f51e2919cd5d362d5b1409b10e93dec28025cd138e983a3b0b74245a97749d87
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:09:02Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -70,16 +70,39 @@ relationships:
   target: pt:dre:914194415:por
   label: Última alteração registada na importação inicial
   source: null
+- type: cites
+  target: pt:dre:121784694:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:177827:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:322723:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:480516:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:914194415:por
+  label: Revogado, a partir de 10 de abril de 2025, sem prejuízo de se manterem em vigor as normas estritamente necessárias
+    até à conclusão e encerramento de contas do programa de 2023, pelo(a) Despacho Normativo n.º 4/2025 - Diário da República
+    n.º 69/2025, Série II de 2025-04-08
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/despacho-normativo/4-2025-914194415
+  date: '2025-04-08'
 article_structure:
   article_count: 20
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:09:02Z'
   warnings: []
   errors: []
 ---
@@ -639,3 +662,5 @@ Envio da documentação referente à execução técnica do projeto, para os cas
 ... (assinatura do responsável da entidade de que depende o museu).
 
 ... (assinatura do diretor do museu).
+
+316234785

@@ -46,40 +46,76 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/resolucao/14-2011-2212515
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2022-04-08T00:00:00Z'
+  retrieved_at: '2026-10-23T15:14:41Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 1923860231378723332dece40cfa05143dcc0e86c257231a23536a3403e0dfeb
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 36b7cb14df00c6fcddbba54004982d7270feaadb20464b14bb6b31175ee83659
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:14:41Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Aquisição de Bens e Serviços
+- Aquisição de Imóveis
+- Autarquia Local
+- Contrato
+- Delegação de Competências
+- Fiscalização
+- Instrução Processual
+- Notificação
+- Obras Públicas
+- Visto do Tribunal de Contas
 relationships:
 - type: amended_by
   target: pt:dre:181847611:por
   label: Última alteração registada na importação inicial
   source: null
+- type: cites
+  target: pt:dre:193663:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:3583579:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:540821:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:609990:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:636951:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:181847611:por
+  label: Revogada, a partir de 02.05.2022, a presente resolução, pelo(a) Resolução n.º 3/2022-PG - Diário da República n.º
+    70/2022, Série II de 2022-04-08
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/resolucao/3-2022-181847611
+  date: '2022-04-08'
 article_structure:
   article_count: 25
   section_count: 4
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:14:41Z'
   warnings: []
   errors: []
 ---
@@ -450,13 +486,13 @@ A estrutura dos mapas constantes dos Anexos às presentes instruções está dis
 
 Com prévia anuência do TdC, mediante protocolo a celebrar entre a DGTC e entidades sujeitas a fiscalização prévia, poderão ser estabelecidas instruções específicas relativas à organização dos processos de fiscalização prévia visando a sua completa desmaterialização.
 
-## ANEXO I — [([ver documento original](https://files.diariodarepublica.pt/2s/2011/08/156000000/3349933503.pdf))](https://files.diariodarepublica.pt/2s/2011/08/156000000/3349933503.pdf)
+## ANEXO I — [(ver documento original)](https://files.diariodarepublica.pt/2s/2011/08/156000000/3349933503.pdf)
 
 Identificação nominal e funcional ...
 
 ... (assinatura)
 
-## ANEXO II — [([ver documento original](https://files.diariodarepublica.pt/2s/2011/08/156000000/3349933503.pdf))](https://files.diariodarepublica.pt/2s/2011/08/156000000/3349933503.pdf)
+## ANEXO II — [(ver documento original)](https://files.diariodarepublica.pt/2s/2011/08/156000000/3349933503.pdf)
 
 Identificação nominal e funcional ...
 
@@ -464,12 +500,14 @@ Identificação nominal e funcional ...
 
 ## ANEXO III — Apuramento da situação de endividamento
 
-[([ver documento original](https://files.diariodarepublica.pt/2s/2011/08/156000000/3349933503.pdf))](https://files.diariodarepublica.pt/2s/2011/08/156000000/3349933503.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/2s/2011/08/156000000/3349933503.pdf)
 
 Limites do endividamento
 
-[([ver documento original](https://files.diariodarepublica.pt/2s/2011/08/156000000/3349933503.pdf))](https://files.diariodarepublica.pt/2s/2011/08/156000000/3349933503.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/2s/2011/08/156000000/3349933503.pdf)
 
 Situação face aos limites
 
-[([ver documento original](https://files.diariodarepublica.pt/2s/2011/08/156000000/3349933503.pdf))](https://files.diariodarepublica.pt/2s/2011/08/156000000/3349933503.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/2s/2011/08/156000000/3349933503.pdf)
+
+205010508

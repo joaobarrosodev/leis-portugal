@@ -19,12 +19,12 @@ publication:
   reference: Diário da República n.º 75/2017, 1º Suplemento, Série II de 2017-04-17
   number: '75'
   series: II
-  supplement: 1º Suplemento
+  supplement: null
   pages: 7304-(2) a 7304-(8)
   pdf_url: https://files.diariodarepublica.pt/2s/2017/04/075000001/0000200008.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,45 +46,125 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/despacho-normativo/1-b-2017-106888047
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2018-06-19T00:00:00Z'
+  retrieved_at: '2026-10-23T15:08:14Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 5d1f41f36091744cdd94320b43fb1a60358567c599a6bb32afe978f12909f565
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 0afab84e7bece0abee1aebb3b0096bc58365fee8c76746ddb2dfe3a97a00d52c
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:08:14Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Definição de Competências
+- Direção Geral dos Estabelecimentos Escolares
+- Educação dos Adultos
+- Educação Pré-escolar
+- Ensino Básico
+- Ensino Cooperativo
+- Ensino Oficial
+- Ensino Particular
+- Ensino Secundário
+- Estabelecimento de Ensino
+- Fiscalização
+- Gestão Escolar
+- Horário Escolar
+- Inspecção Geral da Educação e Ciência
+- Matrícula
+- Mudança de Curso
+- Prazo
+- REDE Escolar
 relationships:
 - type: amended_by
   target: pt:dre:115552668:por
   label: Última alteração registada na importação inicial
   source: null
+- type: cites
+  target: pt:dre:105606612:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:179057:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:249230:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:386871:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:516044:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:561219:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:66041468:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:67175402:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:70095687:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:73203129:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:73203130:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:74163183:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:115093805:por
+  label: Revogado, a partir de 13.04.2018, o DN 7-B/2015 de 07-mai, na redação e republicação do presente diploma, pelo(a)
+    Despacho Normativo n.º 6/2018 - Diário da República n.º 72/2018, Série II de 2018-04-12, que manteve, contudo, transitoriamente
+    em vigor nos termos do disposto no seu art. 20.º, os arts. 17.º a 23.º e 25.º daquele despacho.
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/despacho-normativo/6-2018-115093805
+  date: '2018-04-12'
+- type: repealed_by
+  target: pt:dre:115552668:por
+  label: Revogados, a partir de 20.06.2018. os arts. 17.º a 23.º e 25.º do DN 7-B/2015 de 07-maio, na versão alterada e republicada
+    pelo presente, pelo(a) Despacho Normativo n.º 10-A/2018 - Diário da República n.º 116/2018, 1º Suplemento, Série II de
+    2018-06-19
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/despacho-normativo/10-a-2018-115552668
+  date: '2018-06-19'
 article_structure:
-  article_count: 34
+  article_count: 26
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:08:14Z'
   warnings: []
   errors: []
 ---
 
-# Despacho Normativo n.º 1-B/2017
+# Despacho normativo n.º 1-B/2017
 
 O regime de matrícula e de frequência no âmbito da escolaridade obrigatória das crianças e dos jovens entre os 6 e os 18 anos, regulado no [Decreto-Lei n.º 176/2012](https://diariodarepublica.pt/dr/detalhe/decreto-lei/176-2012-179057), de 2 de agosto, determina no n.º 2 do artigo 12.º que a informação necessária ao controlo do cumprimento do dever de matrícula é disponibilizada pelos serviços centrais com competência na área da estatística da educação.
 
@@ -144,7 +224,9 @@ Ao abrigo do disposto no n.º 4 do artigo 7.º e no artigo 12.º do [Decreto-Lei
 
 15 - [...].
 
-###### Artigo 8.º — [...]
+Artigo 8.º
+
+[...]
 
 1 - Na educação pré-escolar, no ensino básico e no ensino secundário, em qualquer uma das suas ofertas educativas e sem prejuízo do número seguinte, a renovação de matrícula realiza-se automaticamente no estabelecimento de educação e de ensino frequentado pela criança ou pelo aluno no ano escolar anterior àquele em que se pretende inscrever.
 
@@ -162,7 +244,9 @@ Ao abrigo do disposto no n.º 4 do artigo 7.º e no artigo 12.º do [Decreto-Lei
 
 8 - [...].
 
-###### Artigo 9.º — [...]
+Artigo 9.º
+
+[...]
 
 1 - Na educação pré-escolar, as vagas existentes em cada estabelecimento de educação, para matrícula ou renovação de matrícula, são preenchidas de acordo com as seguintes prioridades:
 
@@ -176,7 +260,9 @@ Ao abrigo do disposto no n.º 4 do artigo 7.º e no artigo 12.º do [Decreto-Lei
 
 3 - [...].
 
-###### Artigo 14.º — [...]
+Artigo 14.º
+
+[...]
 
 1 - Em cada estabelecimento de educação e de ensino são elaboradas e afixadas as listas de crianças e alunos que requereram ou a quem foi renovada a matrícula, de acordo com os seguintes prazos:
 
@@ -190,7 +276,9 @@ a) No dia 21 de julho, ou no 1.º dia útil imediatamente anterior, no caso da e
 
 b) No dia 29 de julho, ou no 1.º dia útil imediatamente anterior, no caso do ensino secundário.
 
-###### Artigo 15.º — [...]
+Artigo 15.º
+
+[...]
 
 1 - Sempre que se verifique a inexistência de vaga para a criança ou o aluno em todos os estabelecimentos de educação ou de ensino, de acordo com as preferências manifestadas, após a aplicação das prioridades referidas no presente despacho normativo, o pedido de matrícula ou a renovação de matrícula fica a aguardar decisão no estabelecimento de educação e de ensino indicado como última escolha, remetendo este o referido pedido aos serviços competentes do Ministério da Educação, para se encontrar a solução mais adequada imediatamente após afixação que por último ocorra das pautas dos exames.
 
@@ -198,7 +286,9 @@ b) No dia 29 de julho, ou no 1.º dia útil imediatamente anterior, no caso do e
 
 3 - [...].
 
-###### Artigo 19.º — [...]
+Artigo 19.º
+
+[...]
 
 1 - [...].
 
@@ -212,7 +302,9 @@ b) No dia 29 de julho, ou no 1.º dia útil imediatamente anterior, no caso do e
 
 6 - (Anterior n.º 5.)
 
-###### Artigo 20.º — [...]
+Artigo 20.º
+
+[...]
 
 1 - [...].
 
@@ -224,7 +316,9 @@ b) No dia 29 de julho, ou no 1.º dia útil imediatamente anterior, no caso do e
 
 5 - (Anterior n.º 4.)
 
-###### Artigo 21.º — [...]
+Artigo 21.º
+
+[...]
 
 1 - [...].
 
@@ -246,7 +340,9 @@ b) No dia 29 de julho, ou no 1.º dia útil imediatamente anterior, no caso do e
 
 10 - (Anterior n.º 8.)
 
-###### Artigo 22.º — [...]
+Artigo 22.º
+
+[...]
 
 1 - [...].
 
@@ -705,3 +801,5 @@ VI - Disposições finais
 1 - O serviço do Ministério da Educação responsável pela gestão do Portal das Escolas disponibiliza, no referido portal [www.portaldasescolas.pt], um manual de utilização da aplicação informática para os efeitos previstos no presente despacho normativo do qual constará também o endereço eletrónico de contacto preferencial e a linha direta de helpdesk.
 
 2 - As competências atribuídas ao diretor no presente despacho normativo podem ser delegadas e subdelegadas no subdiretor e nos adjuntos.
+
+310434317

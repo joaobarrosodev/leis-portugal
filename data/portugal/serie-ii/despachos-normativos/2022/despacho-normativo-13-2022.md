@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/2s/2022/10/201000000/0004300047.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -46,40 +46,81 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/despacho-normativo/13-2022-202294033
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2022-10-18T00:00:00Z'
+  retrieved_at: '2026-10-23T15:08:55Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: fe86c1d2ab2a6478a8b905dea2ac5ac74f1c14e32ad31cfd1fa90db021528572
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: d26ee00ab57958de7ecaf9dc771f32fdc3675476b5305f4f9c6058ae8dab4b88
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:08:55Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Auxílio de Minimis
+- Catástrofe
+- Celorico da Beira
+- Covilhã
+- Definição de Competências
+- Dotação Orçamental
+- Empresa
+- Financiamento
+- Gouveia
+- Guarda
+- Incêndio
+- Infraestrutura Turística
+- Instituto de Turismo de Portugal
+- Linha de Crédito
+- Manteigas
+- Microempresa
+- Pequenas e Médias Empresas
+- PME
+- Seia
+- Serra da Estrela
+- Turismo
 relationships:
 - type: cites
   target: celex:32013R1407
   label: null
   source: null
+- type: cites
+  target: pt:dre:178510:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:184687800:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:200360506:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:201509700:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:629439:por
+  label: null
+  source: null
 article_structure:
   article_count: 13
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:08:55Z'
   warnings: []
   errors: []
 ---
@@ -287,3 +328,5 @@ Notas
 (1) Enquadrável desde que pelo menos 50 % da atividade diga respeito a transporte de turistas.
 
 (2) Atividades enquadráveis, desde que desenvolvidas por empresas de animação turística e registadas no Registo Nacional dos Agentes de Animação Turística (RNAAT).
+
+315779647

@@ -1,7 +1,7 @@
 ---
 schema_version: '1.0'
 id: pt:dre:1497934:por
-title: Resolução n.º 65/2005(2.ªsérie)
+title: Resolução n.º 65/2005 (2.ª série)
 short_title: null
 summary: null
 jurisdiction: portugal
@@ -46,45 +46,60 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/resolucao/65-2005-1497934
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2007-11-29T00:00:00Z'
+  retrieved_at: '2026-10-23T15:13:05Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 471b2382dc2259fb600d3eb450a92e70085235f17c541f42f33b3f8c3c1e9a23
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: fdca046dee97e36b83917752ceddb2f7322012c498bd2e10a7cfa42f14e68d7e
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:13:05Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Conselho Diretivo
+- Entidade Reguladora da Saúde
+- Exoneração
+- Nomeação
+- Presidente
+- Vogal
 relationships:
 - type: amended_by
   target: pt:dre:628826:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:628826:por
+  label: "Renovados os mandatos dos vogais pela RES.176/2007.29.11.2007.PCM, DR.IS [230] de 29.11.2007\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/resolucao-conselho-ministros/176-2007-628826
+  date: '2007-11-29'
+- type: cites
+  target: pt:dre:429408:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:13:05Z'
   warnings: []
   errors: []
 ---
 
-# Resolução n.º 65/2005(2.ªsérie)
+# Resolução n.º 65/2005 (2.ª série)
 
 Resolução n.º 65/2005 (2.ª série). - O [Decreto-Lei n.º 309/2003](https://diariodarepublica.pt/dr/detalhe/decreto-lei/309-2003-429408), de 10 de Dezembro, criou a Entidade Reguladora da Saúde (ERS), pessoa colectiva de direito público, dotada de autonomia administrativa e financeira e de património próprio. Nos termos do mesmo diploma, é nomeado por resolução do Conselho de Ministros o conselho directivo, órgão colegial responsável pela definição da actuação da ERS e pela direcção dos respectivos serviços, composto por um presidente e dois vogais. Face aos pedidos de renúncia individual apresentados pelos membros do conselho directivo da ERS, importa proceder à sua nomeação.
 

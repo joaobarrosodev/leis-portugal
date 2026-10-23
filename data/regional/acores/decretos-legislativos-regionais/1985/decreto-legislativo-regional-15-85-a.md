@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1985/12/29800/42444244.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,40 +46,55 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/15-1985-169663
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1998-01-02T00:00:00Z'
+  retrieved_at: '2026-10-23T15:17:13Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: ab417ee350e219fc246b5c10f7f7192d198df62df4fbcd63710b4cc283575d2e
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: e8545b2064dced7c6188c1218c6e61640b2bc9740e1ef86822e4437145909c4c
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:17:13Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Açores
+- Educação Pré-escolar
+- Ensino Primário
+- Gestão Escolar
+- Gratificação
 relationships:
 - type: amended_by
   target: pt:dre:223029:por
   label: Última alteração registada na importação inicial
   source: null
+- type: corrected_by
+  target: pt:dre:406935:por
+  label: Rectificado pela DECL.DD4547.03.02.1986.PCM, DR.IS [49]2ºSupl de 28.02.1986
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/declaracao/1986-406935
+  date: '1986-02-03'
+- type: repealed_by
+  target: pt:dre:223029:por
+  label: "Revogado pelo DLR.2/98/A.1998.01.02.ALR-RAA DR.IS-A [23] DE 28/JAN/1998\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-legislativo-regional/2-1998-223029
+  date: '1998-01-02'
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:17:13Z'
   warnings: []
   errors: []
 ---
@@ -94,22 +109,22 @@ O despacho que determinou aquele sistema de gestão retirou a retribuição pelo
 
 Assim, a Assembleia Regional dos Açores, nos termos do artigo 229.º, alínea a), da Constituição, decreta o seguinte:
 
-###### Artigo 1.º Nas escolas que tenham até 5 lugares do ensino primário, da educação pré-escolar e da Telescola o director de escola receberá uma gratificação mensal de 4000$00.
+Artigo 1.º Nas escolas que tenham até 5 lugares do ensino primário, da educação pré-escolar e da Telescola o director de escola receberá uma gratificação mensal de 4000$00.
 
-###### Art. 2.º Nas escolas que tenham mais de 5 lugares ensino primário, da educação pré-escolar e da Telescola o director de escola receberá uma gratificação mensal de 4000$00, acrescida de 350$00 por cada lugar a mais.
+Art. 2.º Nas escolas que tenham mais de 5 lugares ensino primário, da educação pré-escolar e da Telescola o director de escola receberá uma gratificação mensal de 4000$00, acrescida de 350$00 por cada lugar a mais.
 
-###### Art. 3.º A gratificação prevista nos artigos 1.º e 2.º será actualizada sempre que se verifiquem aumentos na função pública, sendo a percentagem de aumento idêntica àquela que se verifique para a letra atribuída à última fase da carreira dos docentes do ensino primário.
+Art. 3.º A gratificação prevista nos artigos 1.º e 2.º será actualizada sempre que se verifiquem aumentos na função pública, sendo a percentagem de aumento idêntica àquela que se verifique para a letra atribuída à última fase da carreira dos docentes do ensino primário.
 
-###### Art. 4.º O director de escola dispensado de funções lectivas não receberá a gratificação prevista neste diploma.
+Art. 4.º O director de escola dispensado de funções lectivas não receberá a gratificação prevista neste diploma.
 
-###### Art. 5.º O presente diploma produz efeitos a partir de 1 de Janeiro de 1986.
+Art. 5.º O presente diploma produz efeitos a partir de 1 de Janeiro de 1986.
 
 Aprovado pela Assembleia Regional dos Açores em 31 de Outubro de 1985.
 
-**O Presidente da Assembleia Regional dos Açores, José Guilherme Reis Leite.**
+O Presidente da Assembleia Regional dos Açores, José Guilherme Reis Leite.
 
-**Assinado em Angra do Heroísmo em 6 de Dezembro de 1985.**
+Assinado em Angra do Heroísmo em 6 de Dezembro de 1985.
 
-**Publique-se.**
+Publique-se.
 
-**O Ministro da República para a Região Autónoma dos Açores, Tomás George Conceição Silva.**
+O Ministro da República para a Região Autónoma dos Açores, Tomás George Conceição Silva.

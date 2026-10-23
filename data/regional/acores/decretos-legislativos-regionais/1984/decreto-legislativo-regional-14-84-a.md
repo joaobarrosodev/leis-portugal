@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1984/02/04400/05800580.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,40 +46,54 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/14-1984-661496
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2011-03-28T00:00:00Z'
+  retrieved_at: '2026-10-23T15:17:03Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 8d04aca127af08543689263597869b8d717ff466a33c45bf845dc452175120e8
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 493222157559a7d3b936c4adc943657d367493cef45e2830c658ec8e73bac873
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:17:03Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Açores
+- Ilha de São Jorge
+- Proteção do Ambiente
+- Reserva Natural
 relationships:
 - type: amended_by
   target: pt:dre:277642:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:221486:por
+  label: "Alterado o art. 7º e revogados os arts 4º, 8º, 11º e 13º pelo DLR.27/86/A.1986.11.10.ARA DR.IS [272]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-legislativo-regional/27-1986-221486
+  date: '1986-11-10'
+- type: repealed_by
+  target: pt:dre:277642:por
+  label: "Revogado pelo DLR.10/2011/A.28.03.2011.AL-RAA, DR.IS [61] de 28.03.2011\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-legislativo-regional/10-2011-277642
+  date: '2011-03-28'
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:17:03Z'
   warnings: []
   errors: []
 ---
@@ -96,15 +110,15 @@ Considerando a necessidade da sua urgente protecção através da implementaçã
 
 A Assembleia Regional dos Açores decreta, nos termos da alínea a) do artigo 229.º da Constituição, o seguinte:
 
-###### Artigo 1.º É criada a reserva natural parcial da lagoa da caldeira de Santo Cristo, situada na freguesia da Ribeira Seca, concelho da Calheta, ilha de São Jorge.
+Artigo 1.º É criada a reserva natural parcial da lagoa da caldeira de Santo Cristo, situada na freguesia da Ribeira Seca, concelho da Calheta, ilha de São Jorge.
 
-###### Art. 2.º A reserva abrange a lagoa de Santo Cristo e uma faixa circundante de 30 m contados desde o nível da água, com referência à maré cheia.
+Art. 2.º A reserva abrange a lagoa de Santo Cristo e uma faixa circundante de 30 m contados desde o nível da água, com referência à maré cheia.
 
-###### Art. 3.º A criação da reserva visa evitar a extinção das amêijoas ali existentes, instituindo-se as medidas necessárias e convenientes para aquela finalidade.
+Art. 3.º A criação da reserva visa evitar a extinção das amêijoas ali existentes, instituindo-se as medidas necessárias e convenientes para aquela finalidade.
 
-###### Art. 4.º É vedada pelo período de 2 anos, a contar da publicação deste diploma, a apanha de amêijoas na área da reserva.
+Art. 4.º É vedada pelo período de 2 anos, a contar da publicação deste diploma, a apanha de amêijoas na área da reserva.
 
-###### Art. 5.º Na reserva é proibido:
+Art. 5.º Na reserva é proibido:
 
 a) O abandono ou depósito de detritos e de quaisquer materias;
 
@@ -114,7 +128,7 @@ c) A apanha de algas e outros exemplares da flora marítima;
 
 d) A introdução de animais não domésticos ou de espécies botânicas exóticas.
 
-###### Art. 6.º A reserva é administrada por uma comissão administrativa, presidida por um representante da Secretaria Regional da Agricultura e Pescas nomeado por esta, de que fazem parte representantes designados pelas seguintes entidades:
+Art. 6.º A reserva é administrada por uma comissão administrativa, presidida por um representante da Secretaria Regional da Agricultura e Pescas nomeado por esta, de que fazem parte representantes designados pelas seguintes entidades:
 
 Secretaria Regional do Equipamento Social;
 
@@ -122,28 +136,28 @@ Departamento Marítimo dos Açores;
 
 Câmara Municipal da Calheta.
 
-###### Art. 7.º As infracções ao presente diploma constituem contra-ordenações puníveis com coima de 5000$00 a 25000$00.
+Art. 7.º As infracções ao presente diploma constituem contra-ordenações puníveis com coima de 5000$00 a 25000$00.
 
-###### Art. 8.º A aplicação das coimas compete ao director regional das Pescas.
+Art. 8.º A aplicação das coimas compete ao director regional das Pescas.
 
-###### Art. 9.º A fiscalização do cumprimento do disposto neste diploma incumbe à Secretaria Regional da Agricultura e Pescas, à autoridade marítima e aos Serviços de Fiscalização Económica.
+Art. 9.º A fiscalização do cumprimento do disposto neste diploma incumbe à Secretaria Regional da Agricultura e Pescas, à autoridade marítima e aos Serviços de Fiscalização Económica.
 
-###### Art. 10.º As despesas emergentes da execução do disposto neste decreto legislativo regional serão suportadas pelo orçamento da Secretaria Regional da Agricultura e Pescas.
+Art. 10.º As despesas emergentes da execução do disposto neste decreto legislativo regional serão suportadas pelo orçamento da Secretaria Regional da Agricultura e Pescas.
 
-###### Art. 11.º A comissão administrativa será constituída no prazo de 30 dias a contar da data da publicação do presente diploma.
+Art. 11.º A comissão administrativa será constituída no prazo de 30 dias a contar da data da publicação do presente diploma.
 
-###### Art. 12.º O Governo Regional promoverá a regulamentação necessária à execução deste decreto legislativo regional.
+Art. 12.º O Governo Regional promoverá a regulamentação necessária à execução deste decreto legislativo regional.
 
-###### Art. 13.º - 1 - Este diploma será revisto no prazo de 18 meses.
+Art. 13.º - 1 - Este diploma será revisto no prazo de 18 meses.
 
 2 - O Governo Regional, pelos departamentos competentes, promoverá os estudos convenientes para a revisão referida no número anterior.
 
 Aprovado pela Assembleia Regional dos Açores em 6 de Dezembro de 1983.
 
-**O Presidente da Assembleia Regional, Álvaro Monjardino.**
+O Presidente da Assembleia Regional, Álvaro Monjardino.
 
-**Assinado em Angra do Heroísmo em 2 de Fevereiro de 1984.**
+Assinado em Angra do Heroísmo em 2 de Fevereiro de 1984.
 
-**Publique-se.**
+Publique-se.
 
-**O Ministro da República para a Região Autónoma dos Açores, Tomás George Conceição Silva.**
+O Ministro da República para a Região Autónoma dos Açores, Tomás George Conceição Silva.

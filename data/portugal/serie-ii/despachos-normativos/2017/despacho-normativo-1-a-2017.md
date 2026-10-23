@@ -20,12 +20,12 @@ publication:
   reference: Diário da República n.º 30/2017, 1º Suplemento, Série II de 2017-02-10
   number: '30'
   series: II
-  supplement: 1º Suplemento
+  supplement: null
   pages: 2736-(3) a 2736-(23)
   pdf_url: https://files.diariodarepublica.pt/2s/2017/02/030000001/0000300023.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -47,45 +47,206 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/despacho-normativo/1-a-2017-106436777
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2018-02-14T00:00:00Z'
+  retrieved_at: '2026-10-23T15:08:14Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 55816d1b2072ac4c907bf77a53a56765660644484c544db10f7775a6be8e08bd
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: fe87f48dcc5660d65bb4eb2845229a63eff43911a76173fc03319f519a3eba2f
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:08:14Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Avaliação de Conhecimentos
+- Concurso Nacional de Acesso
+- Concurso Nacional de Acesso e Ingresso
+- Currículo Nacional
+- Definição de Competências
+- Diploma
+- Direção Geral dos Estabelecimentos Escolares
+- Ensino Básico
+- Ensino Cooperativo
+- Ensino no Estrangeiro
+- Ensino Oficial
+- Ensino Particular
+- Ensino Português no Estrangeiro
+- Ensino Secundário
+- Equivalência de Habilitações Literárias
+- Estabelecimento de Ensino
+- Exame
+- JURI Nacional de Exames
+- Plano de Estudos
+- Prova de Aferição
+- Prova de Ingresso
+- Regulamento
+- Sistema Educativo
 relationships:
 - type: amended_by
   target: pt:dre:114698718:por
   label: Última alteração registada na importação inicial
   source: null
+- type: cites
+  target: pt:dre:1294329:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:1400595:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:174840:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:1762633:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:178548:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:210801:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:249230:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:259964:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:2824963:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:292692:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:292693:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:302500:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:302501:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:302502:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:3200631:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:3437405:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:386871:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:430060:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:430061:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:458607:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:490957:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:497860:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:587624:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:628859:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:64297587:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:66030796:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:66041468:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:67401230:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:67401231:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:70361628:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:73203130:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:74007250:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:74059570:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:114698718:por
+  label: Revogado, a partir de 15.02.2017 e com efeitos a partir do ano letivo de 2017/2018, o presente diploma, pelo(a) Despacho
+    Normativo n.º 4-A/2018 - Diário da República n.º 32/2018, 1º Suplemento, Série II de 2018-02-14
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/despacho-normativo/4-a-2018-114698718
+  date: '2018-02-14'
 article_structure:
   article_count: 46
   section_count: 11
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:08:14Z'
   warnings: []
   errors: []
 ---
 
-# Despacho Normativo n.º 1-A/2017
+# Despacho normativo n.º 1-A/2017
 
 O presente despacho normativo visa aprovar o Regulamento das provas de avaliação externa e das provas de equivalência à frequência dos ensinos básico e secundário, no quadro do regime de avaliação previsto no [Decreto-Lei n.º 139/2012](https://diariodarepublica.pt/dr/detalhe/decreto-lei/139-2012-178548), alterado pelos Decretos-Leis n.os [91/2013](https://diariodarepublica.pt/dr/detalhe/decreto-lei/91-2013-497860), de 10 de julho, [176/2014](https://diariodarepublica.pt/dr/detalhe/decreto-lei/176-2014-64297587), de 12 de dezembro, e [17/2016](https://diariodarepublica.pt/dr/detalhe/decreto-lei/17-2016-74007250), de 4 de abril, e demais legislação regulamentar.
 
@@ -1185,19 +1346,19 @@ QUADRO I
 
 Prazos de inscrição para as provas de equivalência à frequência dos 1.º e 2.º ciclos do ensino básico - 2017
 
-[([ver documento original](https://files.diariodarepublica.pt/2s/2017/02/030000001/0000300023.pdf))](https://files.diariodarepublica.pt/2s/2017/02/030000001/0000300023.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/2s/2017/02/030000001/0000300023.pdf)
 
 QUADRO II
 
 Prazos de inscrição para as provas finais e provas de equivalência à frequência do 3.º ciclo do ensino básico - 2017
 
-[([ver documento original](https://files.diariodarepublica.pt/2s/2017/02/030000001/0000300023.pdf))](https://files.diariodarepublica.pt/2s/2017/02/030000001/0000300023.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/2s/2017/02/030000001/0000300023.pdf)
 
 QUADRO III
 
 Prazos de inscrição para os exames finais nacionais e provas de equivalência à frequência do ensino secundário - 2017
 
-[([ver documento original](https://files.diariodarepublica.pt/2s/2017/02/030000001/0000300023.pdf))](https://files.diariodarepublica.pt/2s/2017/02/030000001/0000300023.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/2s/2017/02/030000001/0000300023.pdf)
 
 QUADRO IV
 
@@ -1205,7 +1366,7 @@ Provas de aferição do ensino básico - 2017
 
 Tipo de prova e respetiva duração
 
-[([ver documento original](https://files.diariodarepublica.pt/2s/2017/02/030000001/0000300023.pdf))](https://files.diariodarepublica.pt/2s/2017/02/030000001/0000300023.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/2s/2017/02/030000001/0000300023.pdf)
 
 QUADRO V
 
@@ -1213,7 +1374,7 @@ Provas finais do ensino básico - 2017
 
 Tipo de prova e respetiva duração
 
-[([ver documento original](https://files.diariodarepublica.pt/2s/2017/02/030000001/0000300023.pdf))](https://files.diariodarepublica.pt/2s/2017/02/030000001/0000300023.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/2s/2017/02/030000001/0000300023.pdf)
 
 Nota. - As provas orais a realizar pelos alunos autopropostos referidos no n.º 1 do artigo 5.º não devem ultrapassar a duração de 15 minutos e são abertas à assistência do público.
 
@@ -1225,19 +1386,19 @@ Tabela A - 1.º Ciclo do Ensino Básico
 
 Tipo de prova e respetiva duração
 
-[([ver documento original](https://files.diariodarepublica.pt/2s/2017/02/030000001/0000300023.pdf))](https://files.diariodarepublica.pt/2s/2017/02/030000001/0000300023.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/2s/2017/02/030000001/0000300023.pdf)
 
 Tabela B - 2.º Ciclo do Ensino Básico
 
 Tipo de prova e respetiva duração
 
-[([ver documento original](https://files.diariodarepublica.pt/2s/2017/02/030000001/0000300023.pdf))](https://files.diariodarepublica.pt/2s/2017/02/030000001/0000300023.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/2s/2017/02/030000001/0000300023.pdf)
 
 Tabela C - 3.º Ciclo do Ensino Básico
 
 Tipo de prova e respetiva duração
 
-[([ver documento original](https://files.diariodarepublica.pt/2s/2017/02/030000001/0000300023.pdf))](https://files.diariodarepublica.pt/2s/2017/02/030000001/0000300023.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/2s/2017/02/030000001/0000300023.pdf)
 
 Nota. - Nos 1.º, 2.º e 3.º ciclos do ensino básico, as provas de equivalência à frequência podem ser de um dos seguintes tipos, de acordo com as características de cada disciplina e em função de parâmetros previamente definidos:
 
@@ -1253,7 +1414,7 @@ Exames finais nacionais do ensino secundário - 2017
 
 Tipo de prova e respetiva duração
 
-[([ver documento original](https://files.diariodarepublica.pt/2s/2017/02/030000001/0000300023.pdf))](https://files.diariodarepublica.pt/2s/2017/02/030000001/0000300023.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/2s/2017/02/030000001/0000300023.pdf)
 
 QUADRO VIII
 
@@ -1261,7 +1422,7 @@ Exames a nível de escola equivalentes a exames finais nacionais para efeitos de
 
 Tipo de prova e respetiva duração
 
-[([ver documento original](https://files.diariodarepublica.pt/2s/2017/02/030000001/0000300023.pdf))](https://files.diariodarepublica.pt/2s/2017/02/030000001/0000300023.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/2s/2017/02/030000001/0000300023.pdf)
 
 QUADRO IX
 
@@ -1269,7 +1430,7 @@ Provas de equivalência à frequência dos cursos científico-humanísticos do e
 
 Tipo de prova e respetiva duração
 
-[([ver documento original](https://files.diariodarepublica.pt/2s/2017/02/030000001/0000300023.pdf))](https://files.diariodarepublica.pt/2s/2017/02/030000001/0000300023.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/2s/2017/02/030000001/0000300023.pdf)
 
 QUADRO X
 
@@ -1277,13 +1438,13 @@ Provas de equivalência à frequência dos cursos tecnológicos do ensino secund
 
 Tipo de prova e respetiva duração
 
-[([ver documento original](https://files.diariodarepublica.pt/2s/2017/02/030000001/0000300023.pdf))](https://files.diariodarepublica.pt/2s/2017/02/030000001/0000300023.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/2s/2017/02/030000001/0000300023.pdf)
 
 QUADRO XI
 
 Peso relativo das componentes escrita e prática das provas de equivalência à frequência dos cursos científico-humanísticos e cursos tecnológicos - 2017
 
-[([ver documento original](https://files.diariodarepublica.pt/2s/2017/02/030000001/0000300023.pdf))](https://files.diariodarepublica.pt/2s/2017/02/030000001/0000300023.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/2s/2017/02/030000001/0000300023.pdf)
 
 QUADRO XII
 
@@ -1291,4 +1452,6 @@ Provas de equivalência à frequência dos cursos do ensino artístico especiali
 
 Tipo de prova e respetiva duração
 
-[([ver documento original](https://files.diariodarepublica.pt/2s/2017/02/030000001/0000300023.pdf))](https://files.diariodarepublica.pt/2s/2017/02/030000001/0000300023.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/2s/2017/02/030000001/0000300023.pdf)
+
+310250009

@@ -19,7 +19,7 @@ publication:
   reference: Diário da República n.º 300/1987, 8º Suplemento, Série I de 1987-12-31
   number: '300'
   series: I
-  supplement: 8º Suplemento
+  supplement: null
   pages: 4440-(278) a 4440-(283)
   pdf_url: https://files.diariodarepublica.pt/1s/1987/12/30008/02780283.pdf
 entry_into_force_dates: []
@@ -46,36 +46,46 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/26-1987-406155
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1987-12-31T00:00:00Z'
+  retrieved_at: '2026-10-23T15:17:37Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 87d082da400c563560bfc27a0b1f902c6348086283ed6c439f657507b26b05bc
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 4d6eb83f0c3ff34edaa8fc43d4057894acbfce0fb304e2f907c507e8efcc8f33
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:17:37Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
-relationships: []
+subjects:
+- Açores
+- Orçamento Regional
+relationships:
+- type: cites
+  target: pt:dre:496889:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:666494:por
+  label: null
+  source: null
 article_structure:
   article_count: 9
   section_count: 4
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:17:37Z'
   warnings: []
   errors: []
 ---
@@ -150,12 +160,12 @@ O orçamento da Região Autónoma dos Açores será posto em execução pelo Gov
 
 Aprovado pela Assembleia Regional dos Açores, na Horta, em 3 de Dezembro de 1987.
 
-**O Presidente da Assembleia Regional dos Açores, José Guilherme Reis Leite.**
+O Presidente da Assembleia Regional dos Açores, José Guilherme Reis Leite.
 
-**Assinado em Angra do Heroísmo em 22 de Dezembro de 1987.**
+Assinado em Angra do Heroísmo em 22 de Dezembro de 1987.
 
-**Publique-se.**
+Publique-se.
 
-**O Ministro da República para a Região Autónoma dos Açores, Vasco Joaquim da Rocha Vieira.**
+O Ministro da República para a Região Autónoma dos Açores, Vasco Joaquim da Rocha Vieira.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1987/12/30008/02780283.pdf))](https://files.diariodarepublica.pt/1s/1987/12/30008/02780283.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1987/12/30008/02780283.pdf)

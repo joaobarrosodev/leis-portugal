@@ -47,25 +47,30 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/despacho-normativo/20-2010-862719
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2010-07-15T00:00:00Z'
+  retrieved_at: '2026-10-23T15:07:25Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 1b76eb8680347a69be5746e9147adb02d21c715b0b2beab47dae0cea18a9816f
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: b63ea355e88fe4e36e4b9863d32ccb84312a50e0e65818caa86174d660502b3f
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:07:25Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Ajuda Comunitária
+- Financiamento
+- Pagamento
+- Produto Hortícola
+- Taxa
 relationships:
 - type: cites
   target: celex:32003R1782
@@ -82,18 +87,18 @@ relationships:
 article_structure:
   article_count: 2
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:07:25Z'
   warnings: []
   errors: []
 ---
 
-# Despacho Normativo n.º 20/2010
+# Despacho normativo n.º 20/2010
 
 O Regulamento (CE) n.º 378/2007, do Conselho, de 27 de Março, que estabeleceu as regras de aplicação do regime de modulação voluntária dos pagamentos directos, conferiu a possibilidade aos Estados membros de aplicarem uma taxa de modulação voluntária a todos os pagamentos directos instituídos pelo Regulamento (CE) n.º 1782/2003, do Conselho, de 29 de Setembro.
 
@@ -114,3 +119,5 @@ Assim, ao abrigo do disposto no n.º 1 do artigo 1.º do Regulamento (CE) n.º 3
 O presente despacho normativo é aplicável desde 1 de Janeiro de 2010.
 
 6 de Julho de 2010. - O Ministro da Agricultura, do Desenvolvimento Rural e das Pescas, António Manuel Soares Serrano.
+
+203470156

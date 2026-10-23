@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/2s/2012/02/039000000/0658206583.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -47,49 +47,75 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/despacho-normativo/3-2012-1044402
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2015-06-04T00:00:00Z'
+  retrieved_at: '2026-10-23T15:07:43Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 8c91696a2a19f4d544b68ec6c94684d4bba194ef94cd4996741d4718cffbd895
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 24be7dd45699a8bf8242be511b4f604072eff8477784de1b07cc5d182dbcbae3
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:07:43Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Agricultor
+- Comércio
+- Cooperativa António Sérgio
+- Direcção Regional de Agricultura e Pescas
+- Organização de Produtores
+- Política Agrícola
+- Produção Agrícola
+- Produção Animal
+- Produtor
+- Vegetais
 relationships:
 - type: amended_by
   target: pt:dre:67401244:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:58958253:por
+  label: Suspensa a admissão de pedidos de reconhecimento e de pedidos de alteração dos títulos de reconhecimento de organizações
+    de produtores, previstos respetivamente nos arts. 8.º e 10.º do DN 11/2010, de 20-abr, na redação do presente diploma
+    pelo(a) Despacho n.º 14111/2014 - Diário da República n.º 226/2014, Série II de 2014-11-21
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/despacho/14111-2014-58958253
+  date: '2014-11-21'
 - type: cites
   target: celex:32007R1234
   label: null
   source: null
+- type: cites
+  target: pt:dre:1313203:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:67401244:por
+  label: Revogado pelo(a) Portaria n.º 169/2015 - Diário da República n.º 108/2015, Série I de 2015-06-04
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/169-2015-67401244
+  date: '2015-06-04'
 article_structure:
-  article_count: 8
+  article_count: 3
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:07:43Z'
   warnings: []
   errors: []
 ---
 
-# Despacho Normativo n.º 3/2012
+# Despacho normativo n.º 3/2012
 
 O Despacho normativo n.º 11/2010, de 20 de abril, estabelece as regras nacionais complementares de reconhecimento de organizações de produtores e de associações de organizações de produtores dos setores e produtos abrangidos pelo Regulamento (CE) n.º 1234/2007, do Conselho, de 22 de outubro (Regulamento «OCM Única», com exceção das frutas e produtos hortícolas).
 
@@ -125,7 +151,9 @@ Os artigos 4.º, 5.º, 6.º, 8.º, 16.º e 17.º do Despacho normativo n.º 11/2
 
 7 - ...
 
-###### Artigo 5.º — [...]
+Artigo 5.º
+
+[...]
 
 1 - São reconhecidas como organizações de produtores para os produtos, setores ou produtos dos setores assinalados no anexo I do presente diploma as entidades que detenham uma capacidade de armazenagem igual ou superior a 50 % do volume médio da produção comercializada, considerados os três anos anteriores.
 
@@ -137,7 +165,9 @@ Os artigos 4.º, 5.º, 6.º, 8.º, 16.º e 17.º do Despacho normativo n.º 11/2
 
 5 - (Anterior n.º 4.)
 
-###### Artigo 6.º — [...]
+Artigo 6.º
+
+[...]
 
 1 - ...
 
@@ -149,7 +179,9 @@ Os artigos 4.º, 5.º, 6.º, 8.º, 16.º e 17.º do Despacho normativo n.º 11/2
 
 5 - ...
 
-###### Artigo 8.º — [...]
+Artigo 8.º
+
+[...]
 
 1 - ...
 
@@ -177,13 +209,17 @@ h)...
 
 4 - ...
 
-###### Artigo 16.º — [...]
+Artigo 16.º
+
+[...]
 
 1 - Nas regiões autónomas as entidades competentes para a execução do disposto no presente despacho são designadas pelo respetivo Governo Regional.
 
 2 - Nas regiões autónomas, o número mínimo de membros produtores e o volume mínimo de produção para efeitos do n.º 4 do artigo 4.º do presente diploma, são estabelecidos pelos órgãos de governo próprio com competência na matéria.
 
-###### Artigo 17.º — [...]
+Artigo 17.º
+
+[...]
 
 1 - ...
 
@@ -204,3 +240,5 @@ As alterações ao Despacho normativo n.º 11/2010, de 20 de abril, introduzidas
 O presente despacho entra em vigor no dia seguinte ao da sua publicação.
 
 14 de fevereiro de 2012. - O Secretário de Estado da Agricultura, José Diogo Santiago de Albuquerque.
+
+205750111

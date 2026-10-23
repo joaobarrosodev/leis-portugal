@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/2s/2016/06/108000000/1778017781.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -46,36 +46,45 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/resolucao/13-2016-74612744
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2016-06-06T00:00:00Z'
+  retrieved_at: '2026-10-23T15:15:49Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: add7daf05b89899d59b9e81160fba538e810a8714bde13b84da89853f0ea9eae
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: ced62c1d958556f4dec50f9f047bac88c583c7e263deb0e35a009ee4d60f1b6c
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:15:49Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
-relationships: []
+subjects:
+- Agência de Avaliação e Acreditação do Ensino Superior
+- Conselho de Curadores
+- Nomeação
+- Presidente
+- Vogal
+relationships:
+- type: cites
+  target: pt:dre:629433:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:15:49Z'
   warnings: []
   errors: []
 ---
@@ -227,3 +236,5 @@ Participou na criação do Parque Natural de Montesinho, sendo o seu fundador e 
 A parte mais importante da sua atividade concretizou-se na criação e desenvolvimento do Instituto Politécnico de Bragança, assumindo os seguintes cargos: (i) presidente da comissão instaladora da Escola Superior Agrária de Bragança e ao mesmo tempo vogal da comissão instaladora do Instituto Politécnico de Bragança, desde 28 de janeiro de 1983 a 31 de março de 1988; (ii) de junho de 1988 a fevereiro de 1996, desempenhou as funções de presidente da comissão instaladora do Instituto Politécnico de Bragança e de presidente eleito até maio de 2006.
 
 A ação que desempenhou nestas funções orientou-se no sentido da dignificação do ensino superior politécnico, colocando-o em igualdade com o ensino universitário, promovendo a sua credibilização científica e técnica, a aposta no desenvolvimento regional e a sua internacionalização. Esta foi a estratégia seguida para conseguir que o Ensino Superior Politécnico pudesse atingir a valorização que este subsistema exige, nomeadamente no interior do país, onde a competitividade é mais acentuada, como é o caso do Instituto Politécnico de Bragança, que conseguiu atingir níveis de qualidade reconhecidos quer a nível nacional como internacional.
+
+209632953

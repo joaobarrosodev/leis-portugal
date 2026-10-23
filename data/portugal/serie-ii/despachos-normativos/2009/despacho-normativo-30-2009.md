@@ -46,45 +46,82 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/despacho-normativo/30-2009-1503931
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2012-06-27T00:00:00Z'
+  retrieved_at: '2026-10-23T15:07:15Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: da1b6405ddfab26c4a0748f5b2c178c792de6ebb12eaa31a28e8783051fb0585
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 37de128e2b0620a9fe6295501f21401153cd7b577c772018f095e8dd4e9bf992
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:07:15Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Apoio ao Investimento
+- Dotação Orçamental
+- Plano Estratégico Nacional de Turismo
+- Programa de Intervenção do Turismo
+- Projeto de Investimento
+- Regulamento
+- Turismo
 relationships:
 - type: amended_by
   target: pt:dre:3286468:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:2502964:por
+  label: "Alterados o art. 1º do Regulamento da Linha de Apoio I e o art. 1º do Regulamento da Linha de Apoio II, aprovados\
+    \ pelo DN 20/2007, de 14-Maio, na redacção do presente despacho normativo, pelo DN.15/2010.17.06.2010.SETU-MEID, DR.IIS\
+    \ [116] de 17.06.2010\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/despacho-normativo/15-2010-2502964
+  date: '2010-06-17'
+- type: amended_by
+  target: pt:dre:2832767:por
+  label: "Suspenso o prazo da apresentação de candidaturas à linha de apoio ii do Programa de Intervenção do Turismo (PIT)\
+    \ - «Eventos para a projecção do destino Portugal» -, estabelecido no art. 11.º do Regulamento da Linha de Apoio II do\
+    \ PIT, aprovado pelo DN 20/2007, de 14-Mai, na redacção do anexo n.º 2 do presente diploma, pelo DN.13/2011.12.09.2011.SET-MEE,\
+    \ DR.IIS [175] de 12.09.2011\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/despacho-normativo/13-2011-2832767
+  date: '2011-09-12'
+- type: amended_by
+  target: pt:dre:3286468:por
+  label: "Determinada a extinção da linha de apoio II Eventos para a Projecção do Destino Portugal do Programa de Intervenção\
+    \ Turística, aprovada pelo DN 20/2007, de 7-mai, na redação do presente despacho normativo, pelo DN.14/2012.27.06.2012.SET-MEE,\
+    \ DR.IIS [123] de 27.06.2012, que revoga todas as disposições correspondentes.\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/despacho-normativo/14-2012-3286468
+  date: '2012-06-27'
+- type: cites
+  target: pt:dre:520229:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:520987:por
+  label: null
+  source: null
 article_structure:
-  article_count: 43
+  article_count: 37
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:07:15Z'
   warnings: []
   errors: []
 ---
 
-# Despacho Normativo n.º 30/2009
+# Despacho normativo n.º 30/2009
 
 O Programa de Intervenção do Turismo (PIT) foi criado através do despacho normativo n.º 20/2007, de 7 de Maio, publicado no Diário da República, 2.ª série, n.º 92, de 14 de Maio de 2007, o qual foi objecto de alterações pelo despacho normativo n.º 9/2008, de 28 de Dezembro, publicado no Diário da República, 2.ª série, n.º 31, de 13 de Fevereiro de 2008, e pelo despacho normativo n.º 49/2008, de 24 de Setembro, publicado no Diário da República, 2.ª série, n.º 185, de 24 de Setembro de 2008.
 
@@ -112,7 +149,9 @@ Objecto
 
 2 - O regime de concessão de incentivos a que se refere o número anterior vigora até 2010, inclusive.
 
-###### Artigo 6.º — Condições de elegibilidade dos projectos
+Artigo 6.º
+
+Condições de elegibilidade dos projectos
 
 1 - ...
 
@@ -132,15 +171,19 @@ f)...
 
 3 - O cumprimento das condições de elegibilidade enunciadas no n.º 1 do presente artigo pode ser dispensado pelo membro do Governo com tutela sobre o turismo, a pedido devidamente fundamentado do promotor, se a excepcional relevância do projecto e as circunstâncias concretas respeitantes à sua realização o justificarem.
 
-###### Artigo 9.º — Natureza e cumulação dos incentivos
+Artigo 9.º
+
+Natureza e cumulação dos incentivos
 
 Os incentivos a conceder revestem a natureza não reembolsável e não são cumuláveis com apoios financeiros concedidos com recurso a verbas próprias do Turismo de Portugal, I. P. ou a verbas decorrentes das concessões do Jogo, salvo se, por motivos excepcionais e devidamente justificados pelo promotor, essa cumulação for autorizada pelo membro do Governo com tutela sobre o sector.
 
-###### Artigo 10.º — Intensidade dos incentivos
+Artigo 10.º
+
+Intensidade dos incentivos
 
 1 - Sem prejuízo do disposto no artigo seguinte, os incentivos a conceder correspondem a uma percentagem do investimento elegível, a fixar em função da localização do projecto e do mérito do mesmo, de acordo com as seguintes taxas mínimas e máximas:
 
-[([ver documento original](https://files.diariodarepublica.pt/2s/2009/08/164000000/3447334479.pdf))](https://files.diariodarepublica.pt/2s/2009/08/164000000/3447334479.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/2s/2009/08/164000000/3447334479.pdf)
 
 2 - A percentagem apurada em resultado do disposto no número anterior é acrescida de uma majoração de cinco pontos percentuais em relação às despesas elegíveis enumeradas nas alíneas d) a f) do n.º 1 do artigo 7.º, desde que essas despesas, consoante o caso, contribuam de forma significativa para a valorização do projecto em termos ambientais ou de inovação tecnológica e não decorram do cumprimento de obrigações de natureza legal.
 
@@ -158,7 +201,9 @@ Objecto
 
 2 - O regime de concessão de incentivos a que se refere o número anterior vigora até 2010, inclusive.
 
-###### Artigo 6.º — Critérios de avaliação e selecção dos projectos
+Artigo 6.º
+
+Critérios de avaliação e selecção dos projectos
 
 1 - ...
 
@@ -176,7 +221,9 @@ d) Localização do evento e calendário de realização do mesmo - pretende-se 
 
 4 - ...
 
-###### Artigo 8.º — Intensidade do Incentivo
+Artigo 8.º
+
+Intensidade do Incentivo
 
 1 - ...
 
@@ -196,7 +243,9 @@ d)...
 
 5 - O valor que resulta da aplicação da percentagem referida no número anterior será, nos termos da decisão de concessão, pago ao promotor contra a apresentação de comprovação documental da realização das acções de promoção e divulgação do evento acordadas com o Turismo de Portugal, I. P., ou, no caso de essas acções ficarem a cargo do Turismo de Portugal, I. P., retido, revertendo assim para aquele Instituto, no momento do primeiro pagamento de incentivo ao promotor.
 
-###### Artigo 11.º — Candidaturas
+Artigo 11.º
+
+Candidaturas
 
 1 - As candidaturas são apresentadas no ano que precede o da realização dos eventos, entre 1 de Setembro e 15 de Outubro, devendo ser enviadas pela Internet através do preenchimento de um formulário electrónico, disponível em www.turismodeportugal.pt.
 
@@ -348,7 +397,7 @@ Os incentivos a conceder revestem a natureza não reembolsável e não são cumu
 
 1 - Sem prejuízo do disposto no artigo seguinte, os incentivos a conceder correspondem a uma percentagem do investimento elegível, a fixar em função da localização do projecto e do mérito do mesmo, de acordo com as seguintes taxas mínimas e máximas:
 
-[([ver documento original](https://files.diariodarepublica.pt/2s/2009/08/164000000/3447334479.pdf))](https://files.diariodarepublica.pt/2s/2009/08/164000000/3447334479.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/2s/2009/08/164000000/3447334479.pdf)
 
 2 - A percentagem apurada em resultado do disposto no número anterior é acrescida de uma majoração de cinco pontos percentuais em relação às despesas elegíveis enumeradas nas alíneas d) a f) do n.º 1 do artigo 7.º, desde que essas despesas, consoante o caso, contribuam de forma significativa para a valorização do projecto em termos ambientais ou de inovação tecnológica e não decorram do cumprimento de obrigações de natureza legal.
 
@@ -472,7 +521,7 @@ b) A verificação física do projecto tem por base a realização de visitas t�
 
 Nos termos do n.º 3 do artigo 2.º, os pólos turísticos abrangem os seguintes municípios:
 
-[([ver documento original](https://files.diariodarepublica.pt/2s/2009/08/164000000/3447334479.pdf))](https://files.diariodarepublica.pt/2s/2009/08/164000000/3447334479.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/2s/2009/08/164000000/3447334479.pdf)
 
 ## ANEXO N.º 2 — Regulamento da Linha de Apoio II - Eventos para a Projecção do Destino Portugal do Programa de Intervenção Turística
 
@@ -661,3 +710,5 @@ Sem prejuízo de outros mecanismos que venham a ser contratualmente estipulados,
 a) A verificação financeira do projecto tem por base a declaração de despesa de investimento, subscrita por um revisor oficial de contas ou técnico oficial de contas, na qual este confirma o valor do investimento total do evento, a realização e pagamento das despesas relativas a fees, direitos de organização e promoção internacional, bem como a discriminação do montante das receitas e patrocínios.
 
 b) A verificação física do projecto tem por base a realização de vistorias técnicas aos locais de realização dos eventos.
+
+202210192

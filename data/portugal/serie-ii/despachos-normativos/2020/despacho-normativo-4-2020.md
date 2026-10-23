@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/2s/2020/03/060000000/0001800022.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -47,40 +47,132 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/despacho-normativo/4-2020-130600838
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2022-06-03T00:00:00Z'
+  retrieved_at: '2026-10-23T15:08:39Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 433ad96aa15bc1683ff15b2b221ae42223397c23f63166a66a4e095e72b3b3c3
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: f1658e55701ac537d7d43f290d255cfbd9ceeb951fb8ffd4c810331321b0f698
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:08:39Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Auxílio de Minimis
+- Definição de Competências
+- Doença Infecciosa
+- Empresa
+- Epidemia
+- Estabelecimento Hoteleiro
+- Financiamento
+- Formulário Eletrónico
+- IAPMEI
+- Indústria Hoteleira
+- Infraestrutura Turística
+- Instituto do Turismo de Portugal
+- Linha de Crédito
+- Microempresa
+- Regime de Apoio
+- Saúde Pública
+- Tesouraria
+- Turismo
 relationships:
 - type: amended_by
   target: pt:dre:184357069:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:142111051:por
+  label: Alterados, a partir de 12.08.2020, os arts. 2.º, 4.º, 5.º, 7.º, 9.º e 10.º e o Anexo do presente Despacho, que é
+    republicado, pelo(a) Despacho Normativo n.º 10/2020 - Diário da República n.º 176/2020, Série II de 2020-09-09 nos termos
+    do art. 3.º deste
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/despacho-normativo/10-2020-142111051
+  date: '2020-09-09'
+- type: amended_by
+  target: pt:dre:153493528:por
+  label: Alterados os arts. 1.º, 2.º, 3.º, 4.º 5.º, 6.º, 7.º, 8.º, 10.º e anexo do presente diploma, na versão alterada e
+    republicada pelo DN 10/2020 de 11-ago, pelo(a) Despacho Normativo n.º 1/2021 - Diário da República n.º 6/2021, Série II
+    de 2021-01-11, que o republicou em anexo com as altrerações ora introduzidas
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/despacho-normativo/1-2021-153493528
+  date: '2021-01-11'
+- type: amended_by
+  target: pt:dre:158698071:por
+  label: Diferida para 30 de junho de 2022 a data de início do reembolso dos empréstimos cujos períodos de carência terminem
+    até dia 31 de março de 2022, concedidos ao abrigo da Linha de Apoio às Micro e Pequenas Empresas do Turismo - COVID-19,
+    criada pelo presente diploma, e alterados os 2.º, 4.º, 5.º e 6.º deste mesmo diploma, na versão alterada e republicada
+    pelo DN 1/2021 de 11-jan, pelo(a) Despacho Normativo n.º 8/2021 - Diário da República n.º 43/2021, Série II de 2021-03-03,
+    que o republicou em anexo com as alterações ora introduzidas.
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/despacho-normativo/8-2021-158698071
+  date: '2021-03-03'
+- type: amended_by
+  target: pt:dre:162021993:por
+  label: Aditado o n.º 6 ao art. 5.º do presente despacho normativo e republicado em anexo, pelo(a) Despacho Normativo n.º
+    11/2021 - Diário da República n.º 79/2021, Série II de 2021-04-23
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/despacho-normativo/11-2021-162021993
+  date: '2021-04-23'
+- type: amended_by
+  target: pt:dre:162166474:por
+  label: Aditada uma CAE à lista de CAE constante do anexo ao presente diploma pelo(a) Despacho Normativo n.º 12/2021 - Diário
+    da República n.º 81/2021, Série II de 2021-04-27
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/despacho-normativo/12-2021-162166474
+  date: '2021-04-27'
+- type: amended_by
+  target: pt:dre:169354255:por
+  label: Reforçado o orçamento da Linha de Apoio às Micro e Pequenas Empresas do Turismo - COVID-19, criada pelo presente
+    diploma, pelo(a) Despacho Normativo n.º 22/2021 - Diário da República n.º 154/2021, Série II de 2021-08-10
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/despacho-normativo/22-2021-169354255
+  date: '2021-08-10'
+- type: amended_by
+  target: pt:dre:178860622:por
+  label: Reforçado, a partir de 10.02.2022, o orçamento da Linha de Apoio às Micro e Pequenas Empresas do Turismo - COVID-19,
+    criada pelo presente diploma pelo(a) Despacho Normativo n.º 5/2022 - Diário da República n.º 28/2022, Série II de 2022-02-09
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/despacho-normativo/5-2022-178860622
+  date: '2022-02-09'
+- type: amended_by
+  target: pt:dre:184357069:por
+  label: Alterado, a partir de 04.06.2022, o art. 6.º do presente despacho, na versão republicada pelo DN 11/2021 de 23-abr
+    e posteriormente alterada, pelo(a) Despacho Normativo n.º 9/2022 - Diário da República n.º 108/2022, Série II de 2022-06-03,
+    com efeitos nos termos do disposto nos n.ºs 1 e 2 do seu art. 2.º.
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/despacho-normativo/9-2022-184357069
+  date: '2022-06-03'
+- type: cites
+  target: pt:dre:107596686:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:127648461:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:178510:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:629439:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:67098359:por
+  label: null
+  source: null
 article_structure:
   article_count: 13
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:08:39Z'
   warnings: []
   errors: []
 ---
@@ -258,3 +350,5 @@ O presente despacho entra em vigor no dia seguinte ao da sua assinatura.
 Notas
 
 (1) Atividades enquadráveis, desde que desenvolvidas por empresas de animação turística.
+
+313132265

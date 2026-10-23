@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/98/2006/02/01/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/98-2006-545192
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2006-02-01T00:00:00Z'
+  retrieved_at: '2026-10-23T15:17:26Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 7d53c435fd10041240bb07d0305d05ea27299ab29da96a573e6f870c6136d522
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 449900cbfb60123351bdb17cdcb2281baa3240bbb5cd8f32a202d3b6734bc3a6
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:17:26Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,9 +67,9 @@ reuse:
 subjects:
 - Carreira Militar
 - Forças Armadas
+- Militar
 - Oficial do Quadro Permanente
 - Quadro Permanente das Forças Armadas
-- Militar
 relationships:
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/166/2005/09/23/p/dre
@@ -95,16 +95,44 @@ relationships:
   target: eli:http://data.dre.pt/eli/lei/25/2000/08/23/p/dre
   label: null
   source: http://data.dre.pt/eli/lei/25/2000/08/23/p/dre
+- type: cites
+  target: pt:dre:147857:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:233309:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:324143:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:392403:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:393000:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:426744:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:574568:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:17:26Z'
   warnings: []
   errors: []
 ---
@@ -125,6 +153,6 @@ Manda o Governo, pelo Ministro da Defesa Nacional, o seguinte:
 
 3.º A presente portaria entra em vigor 30 dias após a sua publicação.
 
-**O Ministro da Defesa Nacional, Luís Filipe Marques Amado, em 13 de Janeiro de 2006.**
+O Ministro da Defesa Nacional, Luís Filipe Marques Amado, em 13 de Janeiro de 2006.
 
 [(ver modelos no documento original)](https://files.diariodarepublica.pt/1s/2006/02/023b00/07780781.pdf)

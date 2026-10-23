@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/2s/2016/01/014000000/0227802279.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -47,36 +47,85 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/resolucao/3-2016-73223041
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2016-01-21T00:00:00Z'
+  retrieved_at: '2026-10-23T15:15:54Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: e96a6a4c116aeeb5509d443a69a99d0a6a7d5224c9ce88fb96cdcacae6b5ae3e
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: c6e19dad221430b1c0b47fb6f5ebaa5450fde81325354830a84e5c8042f8bc4a
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:15:54Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
-relationships: []
+subjects:
+- Conselho de Administração
+- Director Clínico
+- Nomeação
+- Unidade Local de Saúde de Matosinhos
+- Vogal
+relationships:
+- type: cites
+  target: pt:dre:191077:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:469067:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:498125:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:498720:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:500215:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:520259:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:542993:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:544415:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:553924:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:57701290:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:70139963:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:15:54Z'
   warnings: []
   errors: []
 ---
@@ -116,3 +165,5 @@ António Taveira Gomes, nascido em 29 de janeiro de 1962, licenciou-se em Medici
 É autor ou coautor de 41 publicações indexadas em revistas internacionais, 23 das quais por extenso, e de mais de duzentas publicações em revistas com arbitragem científica não indexadas, 22 das quais por extenso. Foi palestrante convidado 22 vezes, em vários eventos, de índole científica, organizativa ou pedagógica. Organizou ou coorganizou 8 congressos internacionais e venceu 4 prémios de mérito científico.
 
 É especialista de Cirurgia Geral desde 1996 (concluiu a especialidade com 19,8 valores), graduado desde dezembro de 2005. As áreas de maior dedicação são a cirurgia hepatobiliar e pancreática (com estágios de transplantação de fígado em Rennes, França) e a cirurgia endócrina. Seguiu a carreira médica hospitalar e coordenou várias comissões hospitalares no Centro Hospitalar de S. João onde foi Diretor do Internato Médico durante 4 anos. Chefiou uma equipa de urgência durante 5 anos até mudar para o Hospital Pedro Hispano, onde chefia igualmente uma equipa de urgência. Neste hospital, iniciou funções em 26 de abril de 2013 como diretor do Serviço de Cirurgia, e em março de 2014 foi nomeado cumulativamente diretor do Departamento de Cirurgia, funções que desempenha na atualidade.
+
+209279501

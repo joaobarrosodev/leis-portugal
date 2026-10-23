@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/2s/2021/01/002000000/0020400222.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -47,36 +47,75 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/resolucao/4-2020-152945113
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2021-01-05T00:00:00Z'
+  retrieved_at: '2026-10-23T15:16:14Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: cf33b1b2a8b38e05839bd0289293d2a1bcf5dcce24b1063d6588bf7ce31b43c1
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 067950691a6c2bb3790596cc9e3c2cca7b6cd8f51b78c45f332632d90e5ea619
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:16:14Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
-relationships: []
+subjects:
+- Documento Eletrónico
+- Estado de Emergência
+- Tribunal de Contas
+relationships:
+- type: cites
+  target: pt:dre:105637672:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:130893436:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:178845:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:193663:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:2212515:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:445741:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:542996:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:603950:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:66689602:por
+  label: null
+  source: null
 article_structure:
-  article_count: 31
+  article_count: 23
   section_count: 2
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:16:14Z'
   warnings: []
   errors: []
 ---
@@ -107,7 +146,9 @@ Os artigos 2.º, 4.º, 5.º, 6.º, 6.º-A, 7.º, 8.º, 9.º e 11.º da Resoluç�
 
 2 - [...]
 
-###### Artigo 4.º — [...]
+Artigo 4.º
+
+[...]
 
 1 - [...]
 
@@ -133,7 +174,9 @@ b) [...]
 
 4 - Caso o requerimento referido no n.º 1 do artigo 2.º seja formulado em documento anexo à mensagem de correio eletrónico, os elementos referidos na alínea b) do n.º 2, bem como os do n.º 3, podem constar apenas desse requerimento.
 
-###### Artigo 5.º — [...]
+Artigo 5.º
+
+[...]
 
 1 - Os ficheiros referidos na alínea b) do n.º 2 do artigo anterior têm de incluir uma extensão (Ex: aaa.pdf), o seu nome não pode exceder os 35 caracteres (incluindo espaços) nem conter nenhum dos seguintes caracteres: /, \, |,:, *, ?, ", (menor que), e (maior que).
 
@@ -161,7 +204,9 @@ g) [...]
 
 6 - (Anterior n.º 5.)
 
-###### Artigo 6.º — [...]
+Artigo 6.º
+
+[...]
 
 1 - Os ficheiros referidos na alínea b) do n.º 2 do artigo 4.º só podem ter os seguintes formatos:
 
@@ -187,7 +232,9 @@ c) O prazo de disponibilização para descarga (download) dos ficheiros pela DGT
 
 6 - Aos ficheiros compactados anexos à mensagem de correio eletrónico é aplicável o disposto na parte final da alínea b) do número anterior.
 
-###### Artigo 6.º-A — [...]
+Artigo 6.º-A
+
+[...]
 
 1 - A mensagem de correio eletrónico deve, obrigatoriamente, ter como anexos os ficheiros que contêm:
 
@@ -203,7 +250,9 @@ ii) Resposta a solicitação de elementos ou diligências instrutórias do Tribu
 
 3 - [...]
 
-###### Artigo 7.º — [...]
+Artigo 7.º
+
+[...]
 
 1 - O requerimento referido no n.º 1 do artigo 2.º deve ser assinado nos termos do disposto nos números 5 e 6 do artigo 3.º
 
@@ -215,7 +264,9 @@ ii) Resposta a solicitação de elementos ou diligências instrutórias do Tribu
 
 5 - (Anterior n.º 3.)
 
-###### Artigo 8.º — [...]
+Artigo 8.º
+
+[...]
 
 1 - [...]
 
@@ -225,13 +276,17 @@ ii) Resposta a solicitação de elementos ou diligências instrutórias do Tribu
 
 4 - A violação do disposto no artigo 3.º, no n.º 2 do artigo 6.º, nas alíneas a) e b) do n.º 5 do mesmo artigo, nos números 1 e 2 do artigo 6.º-A e no n.º 3 do artigo 7.º é impeditiva, consoante o caso, do registo de abertura ou de reabertura do processo referido no n.º 1 do presente artigo.
 
-###### Artigo 9.º — [...]
+Artigo 9.º
+
+[...]
 
 1 - À apresentação do requerimento referido no artigo 2.º e do documento indicado no n.º 4 do artigo 3.º privados da assinatura referida nos números 5 e 6 daquele artigo 3.º é aplicável, para todos os efeitos legais, o regime jurídico dos documentos eletrónicos e da assinatura eletrónica indicado no n.º 6 do artigo 3.º
 
 2 - Na falta do elemento certificador da validação cronológica da mensagem de correio eletrónico mencionado no n.º 4 do artigo 7.º, o requerimento considera-se apresentado na data e hora do ato de registo de entrada indicados no recibo comprovativo referido no n.º 2 do artigo anterior.
 
-###### Artigo 11.º — [...]
+Artigo 11.º
+
+[...]
 
 1 - [...]
 
@@ -487,40 +542,42 @@ A presente Resolução entra em vigor no 3.º dia após a sua publicação.
 
 (a que se refere o n.º 1 do artigo 14.º)
 
-[([ver documento original](https://files.diariodarepublica.pt/2s/2021/01/002000000/0020400222.pdf))](https://files.diariodarepublica.pt/2s/2021/01/002000000/0020400222.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/2s/2021/01/002000000/0020400222.pdf)
 
 ## ANEXO II — Informação de cabimento
 
 (a que se refere o n.º 2 do artigo 14.º)
 
-[([ver documento original](https://files.diariodarepublica.pt/2s/2021/01/002000000/0020400222.pdf))](https://files.diariodarepublica.pt/2s/2021/01/002000000/0020400222.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/2s/2021/01/002000000/0020400222.pdf)
 
 ## ANEXO III — Informação de compromisso
 
 (a que se refere o n.º 2 do artigo 14.º)
 
-[([ver documento original](https://files.diariodarepublica.pt/2s/2021/01/002000000/0020400222.pdf))](https://files.diariodarepublica.pt/2s/2021/01/002000000/0020400222.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/2s/2021/01/002000000/0020400222.pdf)
 
 ## ANEXO IV — Encargos orçamentais diferidos
 
 (a que se refere o n.º 2 do artigo 14.º)
 
-[([ver documento original](https://files.diariodarepublica.pt/2s/2021/01/002000000/0020400222.pdf))](https://files.diariodarepublica.pt/2s/2021/01/002000000/0020400222.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/2s/2021/01/002000000/0020400222.pdf)
 
 ## ANEXO V — Informação de controlo dos fundos disponíveis
 
 [a que se refere a alínea b) do n.º 3 do artigo 14.º]
 
-[([ver documento original](https://files.diariodarepublica.pt/2s/2021/01/002000000/0020400222.pdf))](https://files.diariodarepublica.pt/2s/2021/01/002000000/0020400222.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/2s/2021/01/002000000/0020400222.pdf)
 
 ## ANEXO VI — Endividamento - Mapa síntese
 
 (a que se refere o n.º 5 do artigo 14.º)
 
-[([ver documento original](https://files.diariodarepublica.pt/2s/2021/01/002000000/0020400222.pdf))](https://files.diariodarepublica.pt/2s/2021/01/002000000/0020400222.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/2s/2021/01/002000000/0020400222.pdf)
 
 ## ANEXO VII — Financiamento de Investimentos
 
 (a que se refere o n.º 6 do artigo 14.º)
 
-[([ver documento original](https://files.diariodarepublica.pt/2s/2021/01/002000000/0020400222.pdf))](https://files.diariodarepublica.pt/2s/2021/01/002000000/0020400222.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/2s/2021/01/002000000/0020400222.pdf)
+
+313829385

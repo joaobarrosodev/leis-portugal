@@ -1,7 +1,7 @@
 ---
 schema_version: '1.0'
 id: pt:dre:2576604:por
-title: Resolução n.º 54/2003(2.ªsérie)
+title: Resolução n.º 54/2003 (2.ª série)
 short_title: null
 summary: null
 jurisdiction: portugal
@@ -46,45 +46,78 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/resolucao/54-2003-2576604
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2011-02-18T00:00:00Z'
+  retrieved_at: '2026-10-23T15:11:55Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 3e9bdcbe7bac85637df63cc35a8c4941053388ec06060568c2b11c1c433c3846
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 8e798f00ca5791cdd022c39b758ba58380db8e459c5cfee3628ac5a488cb3257
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:11:55Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Conselho Diretivo
+- Instituto de Gestão do Crédito Público
+- Nomeação
+- Presidente
+- Vogal
 relationships:
 - type: amended_by
   target: pt:dre:3476075:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:1152818:por
+  label: "Renovado o mandato do licenciado António Abel Sancho Pontes Correia, pela RES.12/2007.01.02.2007.PCM, DR.IIS [65]\
+    \ de 02.04.2007\07\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/resolucao/12-2007-1152818
+  date: '2007-02-01'
+- type: amended_by
+  target: pt:dre:3476075:por
+  label: "Renovado o mandato do licenciado António Abel Sancho Pontes Correia, pela RES.3/2011.18.02.2011.PCM, DR.IIS [35]\
+    \ de 18.02.2011\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/resolucao/3-2011-3476075
+  date: '2011-02-18'
+- type: cites
+  target: pt:dre:229486:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:241644:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:492268:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:693818:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:11:55Z'
   warnings: []
   errors: []
 ---
 
-# Resolução n.º 54/2003(2.ªsérie)
+# Resolução n.º 54/2003 (2.ª série)
 
 Resolução n.º 54/2003 (2.ª série). - Nos termos do artigo 7.º dos Estatutos do Instituto de Gestão do Crédito Público (IGCP), aprovados pelo [Decreto-Lei n.º 160/96](https://diariodarepublica.pt/dr/detalhe/decreto-lei/160-1996-241644), de 4 de Setembro, com as alterações introduzidas pelos Decretos-Leis n.os [28/98](https://diariodarepublica.pt/dr/detalhe/decreto-lei/28-1998-229486), de 11 de Fevereiro, [2/99](https://diariodarepublica.pt/dr/detalhe/decreto-lei/2-1999-492268), de 4 de Janeiro, e [455/99](https://diariodarepublica.pt/dr/detalhe/decreto-lei/455-1999-693818), de 5 de Novembro, o presidente e os demais membros do conselho directivo deste Instituto são nomeados pelo Conselho de Ministros, sob proposta do Ministro das Finanças.
 

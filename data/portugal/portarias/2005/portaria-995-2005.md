@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/995/2005/10/06/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/995-2005-157802
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2007-04-16T00:00:00Z'
+  retrieved_at: '2026-10-23T15:09:42Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: d2db1f7762490b443713d22e92e08cf9453515e127171ed22e4bb240b2c9720c
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 85793fcfc9e2c507dbdda31b8cd20625179dd58f25ae9569a68fbcd614435951
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:09:42Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -74,20 +74,42 @@ relationships:
   target: pt:dre:519599:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:546040:por
+  label: "Excluídos vários prédios rústicos, da zona de caça de Vale de Sobreiras, criada pelo presente diploma, pela PORT.1205/2006.09.11.2006.MADRP,\
+    \ DR.IS [216] de 09.11.2006\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/1205-2006-546040
+  date: '2006-11-09'
+- type: amended_by
+  target: pt:dre:552373:por
+  label: "Alterado o nº 2º e substituída a planta anexa do presente diploma, com as alterações introduzidas pela Port 1205/2006\
+    \ de 09-Nov, pela PORT.1417/2006.20.12.2006.MADRP, DR.IS [243] de 20.12.2006\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/1417-2006-552373
+  date: '2006-12-20'
+- type: amended_by
+  target: pt:dre:519599:por
+  label: "Extinta a zona de caça municipal criada no presente diploma, com a redacção conferida nas Port 1205/2006 de 09-Nov\
+    \ e 1417/2006 de 20-Dez, pela PORT.423/2007.16.04.2007.MADRP, DR.IS [74] de 16.04.2007\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/423-2007-519599
+  date: '2007-04-16'
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/202/2004/08/18/p/dre
   label: null
   source: http://data.dre.pt/eli/dec-lei/202/2004/08/18/p/dre
+- type: cites
+  target: pt:dre:480704:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:09:42Z'
   warnings: []
   errors: []
 ---

@@ -46,41 +46,144 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/despacho-normativo/33-2009-1587219
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2009-09-25T00:00:00Z'
+  retrieved_at: '2026-10-23T15:07:18Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 5d934be56f10e51685a6bce4dd5791a1f88f666846b3524c0cdfa2a319cfa9c6
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 94a660a97ca96fcb891516fd53b9e016a7cb136fbc1209001b63f24a3770b6a3
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:07:18Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
-relationships: []
+subjects:
+- Águas Residuais
+- Regulamento
+- Sistema Multimunicipal de Abastecimento de ÁGUA e de Saneamento do Baixo Cávado e AVE
+relationships:
+- type: cites
+  target: pt:dre:141471:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:158443:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:158444:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:158445:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:160348:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:165240:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:223064:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:2407645:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:241638:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:324317:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:340237:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:365343:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:376273:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:406882:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:430457:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:431873:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:453550:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:469068:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:540820:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:625797:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:643281:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:665155:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:667756:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:667919:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:672144:por
+  label: null
+  source: null
 article_structure:
   article_count: 60
-  section_count: 12
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  section_count: 13
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:07:18Z'
   warnings: []
   errors: []
 ---
 
-# Despacho Normativo n.º 33/2009
+# Despacho normativo n.º 33/2009
 
 A Águas do Ave, S. A., é a concessionária do Sistema Multimunicipal de Abastecimento de Água e de Saneamento do Vale do Ave, criado pelo [Decreto-Lei n.º 135/2002](https://diariodarepublica.pt/dr/detalhe/decreto-lei/135-2002-160348), de 14 de Maio, e alargado pelo despacho n.º 24 673/2006, do Ministro do Ambiente, do Ordenamento do Território e do Desenvolvimento Regional, de 16 de Novembro, publicado no Diário da República, 2.ª série, n.º 231, de 30 de Novembro de 2006, para captação, tratamento e distribuição de água para consumo público e para recolha, tratamento e rejeição de efluentes dos municípios de Amarante, Amares, Cabeceiras de Basto, Celorico de Basto, Esposende, Fafe, Felgueiras, Guimarães, Lousada, Mondim de Basto, Póvoa de Lanhoso, Póvoa de Varzim, Santo Tirso, Terras de Bouro, Trofa, Vieira do Minho, Vila do Conde, Vila Nova de Famalicão, Vila Verde e Vizela, adiante designado por Sistema.
 
@@ -594,7 +697,9 @@ b) Interrupções no serviço de recolha de águas residuais por motivo de obras
 
 10 - Para efeitos do disposto no número anterior, a Concessionária indemnizará os Utentes, no caso de comprovadamente desse facto terem resultado prejuízos para os mesmos, de acordo com o disposto no Artigo 43.º do presente Regulamento.
 
-#### SECÇÃO II — Título de utilização de descarga de águas residuais no sistema
+#### SECÇÃO II
+
+## Título de utilização de descarga de águas residuais no sistema
 
 ###### Artigo 15.º — Apresentação de Requerimento
 
@@ -1404,4 +1509,6 @@ Na data da entrada em vigor do presente Regulamento todas as Autorizações de L
 
 Guimarães, 19 de Janeiro de 2009.
 
-[([ver documento original](https://files.diariodarepublica.pt/2s/2009/09/187000000/3910239130.pdf))](https://files.diariodarepublica.pt/2s/2009/09/187000000/3910239130.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/2s/2009/09/187000000/3910239130.pdf)
+
+202329733

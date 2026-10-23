@@ -46,25 +46,31 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/despacho-normativo/1-2009-2265646
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2010-07-15T00:00:00Z'
+  retrieved_at: '2026-10-23T15:07:08Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: e2e6f0c9300971fcccafbebebb721c4abd1a9f4ebf5e5a5b74f1fe164b1247ee
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 258d710482a85a0609c3a0aed82bdfbb358c13c88f30e53e82d3ce0f07dd690e
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:07:08Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Ajuda Comunitária
+- Financiamento
+- Pagamento
+- Produto Hortícola
+- Regulamento CE
+- Taxa
 relationships:
 - type: amended_by
   target: pt:dre:862719:por
@@ -78,21 +84,27 @@ relationships:
   target: celex:32007R0378
   label: null
   source: null
+- type: repealed_by
+  target: pt:dre:862719:por
+  label: "Revogado a art. 2.º do DN 26/2008, de 30-Abr, na redacção do presente diploma, pelo DN.20/2010.15.07.2010.MADRP,\
+    \ DR.IIS [136] de 15.07.2010\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/despacho-normativo/20-2010-862719
+  date: '2010-07-15'
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:07:08Z'
   warnings: []
   errors: []
 ---
 
-# Despacho Normativo n.º 1/2009
+# Despacho normativo n.º 1/2009
 
 O Regulamento (CE) n.º 378/2007, do Conselho, de 27 de Março, que estabelece as regras de aplicação do regime de modulação voluntária dos pagamentos directos, permite aos Estados membros que definam a taxa de modulação voluntária a aplicar a todos os pagamentos directos do anexo i do Regulamento (CE) n.º 1782/2003, do Conselho, durante o período compreendido entre 2007 e 2012. Neste contexto, o despacho normativo n.º 26/2008, publicado no Diário da República, 2.ª série, n.º 84, de 30 de Abril de 2008, estabeleceu a aplicação de uma taxa de 10 % a partir do ano civil de 2008 até 2012.
 
@@ -100,7 +112,7 @@ Contudo, tendo em consideração as alterações de conjuntura constatadas nos �
 
 Assim, ao abrigo do disposto no n.º 1 do artigo 1.º e no n.º 1 do artigo 2.º do Regulamento (CE) n.º 378/2007, do Conselho, de 27 de Março, determino o seguinte:
 
-###### Artigo único. O artigo 2.º do despacho normativo n.º 26/2008, publicado no Diário da República, 2.ª série, n.º 84, de 30 de Abril de 2008, passa a ter a seguinte redacção:
+Artigo único. O artigo 2.º do despacho normativo n.º 26/2008, publicado no Diário da República, 2.ª série, n.º 84, de 30 de Abril de 2008, passa a ter a seguinte redacção:
 
 «Artigo 2.º
 

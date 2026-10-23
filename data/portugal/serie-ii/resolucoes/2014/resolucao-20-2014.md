@@ -46,36 +46,82 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/resolucao/20-2014-25695994
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2014-06-09T00:00:00Z'
+  retrieved_at: '2026-10-23T15:15:22Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 24e6e470647ca261ed1762b36aae0629e32f9981b2f941ac2ead221607fe5a30
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 61364dae711d5d1808e9e29baaf55e31bdc8c007cf2e1f85bbe0527a35ce21d4
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:15:22Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
-relationships: []
+subjects:
+- Centro Hospitalar do Médio AVE
+- Conselho de Administração
+- Director Clínico
+- Enfermeiro-director
+- Nomeação
+- Vogal
+relationships:
+- type: cites
+  target: pt:dre:191077:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:191998:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:469067:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:498125:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:498720:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:500215:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:520259:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:542993:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:544415:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:553924:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:15:22Z'
   warnings: []
   errors: []
 ---
@@ -131,3 +177,5 @@ Atividade Profissional: Enfermeira Supervisora no Departamento de Recursos Human
 Formação e docência: Formadora/formanda, em ações de formação, cursos, congressos e seminários (desde 1980); membro de comissões científicas e organizadoras de eventos de Enfermagem (1995 a 2010); responsável pela orientação e avaliação de alunos em estágio clínico e de gestão/administração de Enfermagem (1980 a 2001); docente convidada da Escola Superior de Enfermagem de Calouste Gulbenkian de Braga e Faculdade de Ciências Humanas de Braga, da Universidade Católica Portuguesa (1992 e 1994).
 
 Outras atividades: Responsável pela tramitação dos procedimentos concursais de Enfermagem da ARSN, I. P. (2010 a 2014); júri de diversos procedimentos concursais de Enfermagem (2001 a 2014); júri de concursos de aquisição de bens e serviços, do H. S. Marcos (2001 a 2010); membro do grupo de trabalho de implementação do SIADAP, no H. S. Marcos (2008 a 2010); auditora do Sistema de Classificação de Doentes, do H. S. Marcos (2006 a 2009); membro do grupo de trabalho do Processo de Acreditação do H. S. Marcos, pelo King's Fund Health Quality Service (2001 a 2010); representante dos enfermeiros no Conselho Geral/Conselho Consultivo, do H. S. Marcos (1999 a 2009); membro efetivo dos Órgãos Sociais Nacionais da Ordem dos Enfermeiros (1999 a 2003); membro da Comissão Técnica de Avaliação do Desempenho dos Enfermeiros, do H. S. Marcos (1998 a 2009); membro da Comissão de Estudo para a reestruturação do Serviço de Urgência, do H. S. Marcos (1996 a 1997).
+
+207867615

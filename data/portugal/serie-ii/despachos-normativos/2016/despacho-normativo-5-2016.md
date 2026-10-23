@@ -26,7 +26,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/2s/2016/07/133000000/2146921469.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -48,30 +48,43 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/despacho-normativo/5-2016-74926159
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2019-10-02T00:00:00Z'
+  retrieved_at: '2026-10-23T15:08:10Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 21658f9feec76539ae55e978326a7eb9dc6fd00b9b1dfc93d2cb28a82b0e533a
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 596e106cf93a0933c9fd10fe3be1aaf86fb172234e6a85a003e4feb00a6f69c0
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:08:10Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Agricultura
+- Ajuda Comunitária
+- Comissão CE
+- Financiamento
+- IFAP
+- Política Agrícola Comum
+- Regulamento CE
 relationships:
 - type: amended_by
   target: pt:dre:125046940:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:106536967:por
+  label: Alterado o art. 15.º do DN 14/2014, de 29-out, na redação do presente diploma pelo(a) Despacho Normativo n.º 1-A/2017
+    - Diário da República n.º 41/2017, 2º Suplemento, Série II de 2017-02-27
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/despacho-normativo/1-a-2017-106536967
+  date: '2017-02-27'
 - type: cites
   target: celex:32014R0639
   label: null
@@ -80,21 +93,25 @@ relationships:
   target: celex:32016R0141
   label: null
   source: null
+- type: cites
+  target: pt:dre:66343883:por
+  label: null
+  source: null
 article_structure:
   article_count: 4
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:08:10Z'
   warnings: []
   errors: []
 ---
 
-# Despacho Normativo n.º 5/2016
+# Despacho normativo n.º 5/2016
 
 O Despacho normativo n.º 14/2014, de 29 de outubro e o Despacho normativo n.º 2/2015, de 20 de janeiro, ambos na atual redação, estabelecem as normas complementares de execução dos regimes de apoio associados, respetivamente, «animais» e «superfícies», apresentados por Portugal e aprovados pela Decisão de Execução da Comissão C (2015) 2806 final, de 4 de maio de 2015.
 
@@ -149,3 +166,5 @@ O artigo 12.º do Despacho normativo n.º 2/2015, de 20 de janeiro, alterado pel
 O presente despacho normativo entra em vigor no dia seguinte ao da sua publicação e produz efeitos à data de entrada em vigor do Despacho normativo n.º 1-A/2016, de 11 de fevereiro.
 
 6 de julho de 2016. - O Ministro da Agricultura, Florestas e Desenvolvimento Rural, Luís Manuel Capoulas Santos.
+
+209717599

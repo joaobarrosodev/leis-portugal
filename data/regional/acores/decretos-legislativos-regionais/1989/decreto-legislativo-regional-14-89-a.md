@@ -46,40 +46,54 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/14-1989-619320
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2015-08-17T00:00:00Z'
+  retrieved_at: '2026-10-23T15:17:53Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: c98dc7256304a7001c8f42b5ad37a3e87cde3edd7fd7b1b03b667240cec4b94d
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 9b35c54c26bf9a55ab4f370e12728ea3316734fc2c5c9572fff9bcc357fabb5a
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:17:53Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Açores
+- Dador de Sangue
+- Sangue Humano
 relationships:
 - type: amended_by
   target: pt:dre:70025058:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:186121:por
+  label: "Aditado o art. 12-A pelo DLR.3/2003/A.2003.02.10.ALR-RAA, DR.IS-A [49] de 27/Fev/2003\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-legislativo-regional/3-2003-186121
+  date: '2003-02-10'
+- type: repealed_by
+  target: pt:dre:70025058:por
+  label: Revogado (a partir de 18.08.2015) o presente diploma, na redação do DLR 3/2003/A de 27-fev pelo(a) Decreto Legislativo
+    Regional n.º 20/2015/A - Diário da República n.º 159/2015, Série I de 2015-08-17
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-legislativo-regional/20-2015-70025058
+  date: '2015-08-17'
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 5
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:17:53Z'
   warnings: []
   errors: []
 ---
@@ -100,25 +114,25 @@ Assim, a Assembleia Regional dos Açores decreta, nos termos da alínea a) do ar
 
 ### CAPÍTULO I — Princípios gerais
 
-###### Artigo 1.º A Região Autónoma dos Açores reconhece o mérito dos indivíduos que, por iniciativa própria, com sentido de causa pública e com espírito de abnegação e bem fazer, têm contribuído ou venham a contribuir com dávidas benévolas de sangue aos serviços de saúde.
+Artigo 1.º A Região Autónoma dos Açores reconhece o mérito dos indivíduos que, por iniciativa própria, com sentido de causa pública e com espírito de abnegação e bem fazer, têm contribuído ou venham a contribuir com dávidas benévolas de sangue aos serviços de saúde.
 
-###### Art. 2.º É um dever dos familiares dos utilizadores de sangue cooperar com os serviços de saúde no sentido de serem efectuados depósitos benévolos de sangue, sempre que se preveja a sua utilização.
+Art. 2.º É um dever dos familiares dos utilizadores de sangue cooperar com os serviços de saúde no sentido de serem efectuados depósitos benévolos de sangue, sempre que se preveja a sua utilização.
 
-###### Art. 3.º Para garantir o cumprimento do estabelecido no presente diploma, os serviços de saúde assegurarão o funcionamento dos bancos de sangue.
+Art. 3.º Para garantir o cumprimento do estabelecido no presente diploma, os serviços de saúde assegurarão o funcionamento dos bancos de sangue.
 
 ### CAPÍTULO II — Dadores de sangue
 
-###### Art. 4.º Cada serviço de saúde deve proceder ao registo, que manterá actualizado, dos dadores de sangue que residam na respectiva área de influência.
+Art. 4.º Cada serviço de saúde deve proceder ao registo, que manterá actualizado, dos dadores de sangue que residam na respectiva área de influência.
 
-###### Art. 5.º - 1 - Cada dador de sangue será portador de cartão de identificação, a passar pelo serviço de saúde responsável pelo respectivo registo.
+Art. 5.º - 1 - Cada dador de sangue será portador de cartão de identificação, a passar pelo serviço de saúde responsável pelo respectivo registo.
 
 2 - O modelo do cartão de identificação será aprovado por portaria do Secretário Regional da Saúde e Segurança Social.
 
-###### Art. 6.º - 1 - Cada dador de sangue deverá ser sujeito a exame médico periódico, da iniciativa e a cargo do serviço de saúde responsável pelo respectivo registo.
+Art. 6.º - 1 - Cada dador de sangue deverá ser sujeito a exame médico periódico, da iniciativa e a cargo do serviço de saúde responsável pelo respectivo registo.
 
 2 - O serviço de saúde deverá elaborar, para cada dador de sangue registado, uma ficha médica, que actualizará após cada exame.
 
-###### Art. 7.º - 1 - Para cumprimento do estabelecido no artigo 2.º do presente diploma, cada serviço de saúde diligenciará no sentido de ser efectuado o necessário depósito de sangue.
+Art. 7.º - 1 - Para cumprimento do estabelecido no artigo 2.º do presente diploma, cada serviço de saúde diligenciará no sentido de ser efectuado o necessário depósito de sangue.
 
 2 - A realização do depósito de sangue é da responsabilidade dos familiares do doente, podendo este, todavia, suprir esta obrigatoriedade por entreposto dador.
 
@@ -128,7 +142,7 @@ Assim, a Assembleia Regional dos Açores decreta, nos termos da alínea a) do ar
 
 5 - Considera-se agregado familiar, para efeitos do presente diploma, o cônjuge do dador e os familiares que estejam nas condições que a lei prevê para atribuição de abono de família.
 
-###### Art. 8.º - 1 - Aos dadores benévolos de sangue referidos no artigo 1.º e ao respectivo agregado familiar, tal como é definido no n.º 5 do artigo anterior, são reconhecidos os seguintes benefícios:
+Art. 8.º - 1 - Aos dadores benévolos de sangue referidos no artigo 1.º e ao respectivo agregado familiar, tal como é definido no n.º 5 do artigo anterior, são reconhecidos os seguintes benefícios:
 
 a) Isenção de pagamento de comparticipação na consulta externa, em qualquer serviço de saúde da Região;
 
@@ -138,66 +152,66 @@ c) Internamento gratuito, em regime de enfermaria;
 
 d) Assistência medicamentosa gratuita incluindo o regime ambulatório em termos a regulamentar.
 
-###### Art. 9.º - 1 - O pedido para concessão de benefícios deve ser formulado pelo dador, ou seu representante, e endereçado ao serviço de saúde em que está registado.
+Art. 9.º - 1 - O pedido para concessão de benefícios deve ser formulado pelo dador, ou seu representante, e endereçado ao serviço de saúde em que está registado.
 
 2 - Qualquer concessão de benefícios deve ser averbada em anexo ao cartão de identificação do dador, a que se refere o artigo 5.º deste diploma.
 
-###### Art. 10.º - - Perdem o direito aos benefícios a que se refere o artigo 8.º deste diploma os dadores que interromperem, por mais de 24 meses, a dávida de sangue.
+Art. 10.º - - Perdem o direito aos benefícios a que se refere o artigo 8.º deste diploma os dadores que interromperem, por mais de 24 meses, a dávida de sangue.
 
 2 - O preceituado no número anterior não é aplicável aos dadores que interrompam a dávida de sangue, por motivos que lhes não sejam imputáveis e aos que hajam completado 60 anos de idade ou aos que forem atingidos por doença impossibilitadora.
 
 3 - Quando se verificar a situação referida no n.º 1 do presente artigo, os membros do agregado familiar do dador perdem também o direito aos benefícios definidos no artigo 8.º
 
-###### Art. 11.º A concessão dos benefícios a que se referem os artigos anteriores deve efectivar-se no serviço de saúde onde o dador está registado, sem prejuízo da responsabilidade solidária dos outros serviços de saúde da Região, a que se poderá recorrer em caso de necessidade.
+Art. 11.º A concessão dos benefícios a que se referem os artigos anteriores deve efectivar-se no serviço de saúde onde o dador está registado, sem prejuízo da responsabilidade solidária dos outros serviços de saúde da Região, a que se poderá recorrer em caso de necessidade.
 
-###### Art. 12.º Se, na sequência de dávida de sangue, ocorrer uma situação mórbida com ela directamente correlacionada, serão, gratuitamente, assegurados ao dador todos os cuidados indispensáveis à reposição do seu estado de saúde.
+Art. 12.º Se, na sequência de dávida de sangue, ocorrer uma situação mórbida com ela directamente correlacionada, serão, gratuitamente, assegurados ao dador todos os cuidados indispensáveis à reposição do seu estado de saúde.
 
 ### CAPÍTULO III — Associações de dadores
 
-###### Art. 13.º - 1 - A Região reconhece a importância das associações de dadores de sangue, como entidades privilegiadas na defesa dos dadores, na dinamização da dávida de sangue e no esclarecimento das questões com ela relacionadas, pelo que a Secretaria Regional de Saúde e Segurança Social deverá incentivar a sua criação e apoiar o seu funcionamento.
+Art. 13.º - 1 - A Região reconhece a importância das associações de dadores de sangue, como entidades privilegiadas na defesa dos dadores, na dinamização da dávida de sangue e no esclarecimento das questões com ela relacionadas, pelo que a Secretaria Regional de Saúde e Segurança Social deverá incentivar a sua criação e apoiar o seu funcionamento.
 
 2 - Os serviços de saúde manterão com as associações de dadores uma especial articulação, garantindo, assim, o melhor relacionamento com os dadores e a maior eficácia no processo de doação de sangue.
 
 ### CAPÍTULO IV — Reconhecimento público
 
-###### Art. 14.º - 1 - Aos dadores de sangue referidos nos artigos 1.º e 2.º deste diploma poderá o Governo Regional, como recompensa ética, fazer reconhecer publicamente o valor dos actos praticados.
+Art. 14.º - 1 - Aos dadores de sangue referidos nos artigos 1.º e 2.º deste diploma poderá o Governo Regional, como recompensa ética, fazer reconhecer publicamente o valor dos actos praticados.
 
 2 - O reconhecimento público deverá efectivar-se através da concessão de medalha de dador de sangue, de diploma e de distintivo.
 
-###### Art. 15.º - 1 - A medalha de dador de sangue compreende os graus de medalha de ouro, medalha de prata e de medalha de cobre.
+Art. 15.º - 1 - A medalha de dador de sangue compreende os graus de medalha de ouro, medalha de prata e de medalha de cobre.
 
 2 - A medalha de ouro será concedida aos dadores que tenham completado 60 dávidas benévolas de sangue; a medalha de prata aos que tenham completado 40, e a medalha de cobre aos dadores que hajam completado 20 dádivas.
 
 3 - A medalha de dador de sangue será concedida por despacho do Secretário Regional da Saúde e Segurança Social mediante proposta dos serviços de saúde responsáveis pelo registo do dador.
 
-###### Art. 16.º - 1 - O diploma de dador de sangue será concedido aos indivíduos que tenham completado dez dádivas benévolas de sangue.
+Art. 16.º - 1 - O diploma de dador de sangue será concedido aos indivíduos que tenham completado dez dádivas benévolas de sangue.
 
 2 - O diploma de dador de sangue será concedido pelo Secretário Regional da Saúde e Segurança Social, por proposta do serviço de saúde responsável pelo registo do dador, devendo a sua atribuição ser publicitada nos órgãos de comunicação social.
 
-###### Art. 17.º - 1 - O distintivo de dador de sangue destina-se a galardoar os dadores benévolos, a partir da 3.ª doação, bem como os indivíduos que se tenham evidenciado por actividades que estimulem a doação de sangue.
+Art. 17.º - 1 - O distintivo de dador de sangue destina-se a galardoar os dadores benévolos, a partir da 3.ª doação, bem como os indivíduos que se tenham evidenciado por actividades que estimulem a doação de sangue.
 
 2 - O distintivo de dador de sangue será concedido pelo director regional de Saúde, mediante proposta do serviço de saúde responsável pelo registo do dador.
 
-###### Art. 18.º Os modelos das medalhas, diplomas e distintivos serão definidos por portaria do Secretário Regional da Saúde e Segurança Social.
+Art. 18.º Os modelos das medalhas, diplomas e distintivos serão definidos por portaria do Secretário Regional da Saúde e Segurança Social.
 
-###### Art. 19.º - 1 - A organização dos processos de atribuição das medalhas, diplomas ou distintivos é da competência do serviço de saúde em que o dador está registado, por iniciativa do serviço ou a pedido do dador.
+Art. 19.º - 1 - A organização dos processos de atribuição das medalhas, diplomas ou distintivos é da competência do serviço de saúde em que o dador está registado, por iniciativa do serviço ou a pedido do dador.
 
 2 - Do processo devem constar o número de doações efectivadas, as datas das colheitas, bem como informações necessárias à decisão a tomar.
 
-###### Art. 20.º A Secretaria Regional da Saúde e Segurança Social, através dos seus serviços competentes, organizará e manterá actualizado um registo das medalhas, diplomas e distintivos concedidos nos termos deste diploma.
+Art. 20.º A Secretaria Regional da Saúde e Segurança Social, através dos seus serviços competentes, organizará e manterá actualizado um registo das medalhas, diplomas e distintivos concedidos nos termos deste diploma.
 
 ### CAPÍTULO V — Disposições finais
 
-###### Art. 21.º Os encargos resultantes da concessão dos galardões referidos neste diploma serão suportados pelo Orçamento da Região Autónoma dos Açores.
+Art. 21.º Os encargos resultantes da concessão dos galardões referidos neste diploma serão suportados pelo Orçamento da Região Autónoma dos Açores.
 
-###### Art. 22.º O presente diploma entra em vigor com as portarias que aprovem modelos do cartão individual de identificação e das medalhas, diplomas e distintivos, a que se referem os artigos 5.º e 18.º, respectivamente.
+Art. 22.º O presente diploma entra em vigor com as portarias que aprovem modelos do cartão individual de identificação e das medalhas, diplomas e distintivos, a que se referem os artigos 5.º e 18.º, respectivamente.
 
 Aprovado pela Assembleia Regional dos Açores, na Horta, em 11 de Maio de 1989.
 
-**O Presidente da Assembleia Regional, José Guilherme Reis Leite.**
+O Presidente da Assembleia Regional, José Guilherme Reis Leite.
 
-**Assinado em Angra do Heroísmo em 6 de Julho de 1989.**
+Assinado em Angra do Heroísmo em 6 de Julho de 1989.
 
-**Publique-se.**
+Publique-se.
 
-**O Ministro da República para a Região Autónoma dos Açores, Vasco Joaquim Rocha Vieira.**
+O Ministro da República para a Região Autónoma dos Açores, Vasco Joaquim Rocha Vieira.

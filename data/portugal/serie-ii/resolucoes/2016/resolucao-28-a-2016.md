@@ -20,12 +20,12 @@ publication:
   reference: Diário da República n.º 195/2016, 1º Suplemento, Série II de 2016-10-11
   number: '195'
   series: II
-  supplement: 1º Suplemento
+  supplement: null
   pages: 30346-(2) a 30346-(2)
   pdf_url: https://files.diariodarepublica.pt/2s/2016/10/195000001/0000200002.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -47,36 +47,73 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/resolucao/28-a-2016-75503395
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2016-10-11T00:00:00Z'
+  retrieved_at: '2026-10-23T15:15:54Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: d01f579a90c914c318ae686966845b623c11eac7b6dc5ff1d71f165052fa886a
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: b99bc04288c89c1600352acc590d47d4a95190de70cb2152756533e723bbfda7
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:15:54Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
-relationships: []
+subjects:
+- Autarquia Local
+- Congresso
+- Congresso dos Poderes Locais e Regionais
+- Conselho da Europa
+- Delegação Portuguesa
+- Nomeação
+- Região Autónoma
+- Representação Portuguesa
+relationships:
+- type: amended_by
+  target: pt:dre:105784792:por
+  label: Alteradas as als. a), b), c) e d) do presente diploma pelo(a) Resolução do Conselho de Ministros n.º 22/2017 - Diário
+    da República n.º 15/2017, Série I de 2017-01-20
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/resolucao-conselho-ministros/22-2017-105784792
+  date: '2017-01-20'
+- type: amended_by
+  target: pt:dre:108125017:por
+  label: Alterada, com efeitos a 24.08.2017, a al. a) (na redação da Res 22/2017 de 20-jan PCM) do presente diploma pelo(a)
+    Resolução do Conselho de Ministros n.º 125/2017 - Diário da República n.º 175/2017, Série I de 2017-09-11
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/resolucao-conselho-ministros/125-2017-108125017
+  date: '2017-09-11'
+- type: amended_by
+  target: pt:dre:127582933:por
+  label: Alteradas, com efeitos a 19.12.2019, as als. a) (com a redação dada pelas Res 22/2017 de 20-jan e 125/2017 de 11-set,
+    ambas da PCM), b) e c) (as duas com a redação dada pela Res 22/2017 de 20-jan) todas do presente diploma pelo(a) Resolução
+    do Conselho de Ministros n.º 203/2019 - Diário da República n.º 250/2019, Série I de 2019-12-30
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/resolucao-conselho-ministros/203-2019-127582933
+  date: '2019-12-30'
+- type: cites
+  target: pt:dre:1091517:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:176907489:por
+  label: Revogada, a partir de 01.01.2022, pelo(a) Resolução do Conselho de Ministros n.º 202/2021 - Diário da República n.º
+    253/2021, Série I de 2021-12-31 nos termos do n.º 2 desta
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/resolucao-conselho-ministros/202-2021-176907489
+  date: '2021-12-31'
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:15:54Z'
   warnings: []
   errors: []
 ---
@@ -134,3 +171,5 @@ iii) Ricardo Bruno Antunes Machado Rio, Presidente da Câmara Municipal de Braga
 iv) Maria Elisabete Ferreira Correia de Matos, Vogal do Conselho Diretivo da Associação Nacional de Freguesias e Presidente da Assembleia de Freguesia de Torgueda.
 
 6 de outubro de 2016. - Pelo Primeiro-Ministro, Augusto Ernesto Santos Silva, Ministro dos Negócios Estrangeiros.
+
+209929454

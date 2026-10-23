@@ -27,7 +27,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/2s/2022/09/189000000/0001500016.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -49,36 +49,58 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/despacho-normativo/12-2022-201616992
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2022-09-29T00:00:00Z'
+  retrieved_at: '2026-10-23T15:08:55Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 89e9c55d1208e57be040f4be6797f9f37c05d9d9dbe782fbe917ef995f49201f
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 49949fc7b26f9e30d53457966a0effb2a9a063ff61d089cc8bd067fb8cad7b62
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:08:55Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
-relationships: []
+subjects:
+- CMVM
+- Comissão para a Cidadania e a Igualdade de Género
+- Comissão para a Igualdade no Trabalho e no Emprego
+- Cotação na Bolsa
+- Doença Infecciosa
+- Empresa
+- Empresa Pública
+- Epidemia
+- Igualdade de Oportunidades
+- Igualdade de Tratamento
+- Informação
+- Plano Nacional para a Igualdade
+- Plano Nacional para a Igualdade-cidadania e Género
+- Prorrogação de Prazo
+relationships:
+- type: cites
+  target: pt:dre:107791612:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:122630001:por
+  label: null
+  source: null
 article_structure:
   article_count: 4
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:08:55Z'
   warnings: []
   errors: []
 ---
@@ -110,3 +132,5 @@ O prazo previsto no n.º 2 do artigo 5.º do [Despacho Normativo n.º 18/2019](h
 O presente despacho normativo produz efeitos a 10 de setembro de 2022.
 
 14 de setembro de 2022. - A Secretária de Estado da Administração Pública, Inês Pacheco Ramires Ferreira. - 9 de setembro de 2022. - A Secretária de Estado da Igualdade e Migrações, Isabel Maria Duarte de Almeida Rodrigues. - 15 de setembro de 2022. - O Secretário de Estado do Tesouro, João Nuno Marques de Carvalho Mendes. - 13 de setembro de 2022. - O Secretário de Estado do Trabalho, Luís Miguel de Oliveira Fontes. - 20 de setembro de 2022. - O Secretário de Estado da Administração Local e Ordenamento do Território, Carlos Manuel Soares Miguel.
+
+315710017

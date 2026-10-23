@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/2s/2014/11/214000000/2788127895.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -46,45 +46,108 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/despacho-normativo/15-2014-58752409
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2015-10-14T00:00:00Z'
+  retrieved_at: '2026-10-23T15:07:50Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 0b678d08956ac758ef2d43693032965b3e77ecc9983c43567a4eee791f23fa4e
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 6d73fd50702f9a0f0dc407ca12c4f58adde940bd9c972bdf1f3066b256afc4e6
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:07:50Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Estatuto
+- Homologação
+- Instituto Politécnico
+- Instituto Politécnico do Cávado e do AVE
 relationships:
 - type: amended_by
   target: pt:dre:70684031:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:70684031:por
+  label: Homologadas as alterações aos Estatutos do Instituto Politécnico do Cávado e do Ave homologados pelo DN 21/2010 de
+    22-jul , na redação do presente despacho normativo, pelo(a) Despacho Normativo n.º 20/2015 - Diário da República n.º 201/2015,
+    Série II de 2015-10-14
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/despacho-normativo/20-2015-70684031
+  date: '2015-10-14'
+- type: cites
+  target: pt:dre:1496400:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:173757:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:227271:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:2431937:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:25676932:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:479597:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:516051:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:540661:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:556606:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:637179:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:640339:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:667122:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:692654:por
+  label: null
+  source: null
 article_structure:
   article_count: 92
   section_count: 20
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:07:50Z'
   warnings: []
   errors: []
 ---
 
-# Despacho Normativo n.º 15/2014
+# Despacho normativo n.º 15/2014
 
 Os Estatutos do Instituto Politécnico do Cávado e do Ave foram homologados pelo [Despacho Normativo n.º 21/2010](https://diariodarepublica.pt/dr/detalhe/despacho-normativo/21-2010-2431937), de 13 de julho, publicado no Diário da República n.º 141, 2.ª série, de 22 de julho de 2010;
 
@@ -1795,3 +1858,5 @@ b) Qualquer membro do conselho geral.
 ###### Artigo 92.º — Entrada em Vigor
 
 Os presentes estatutos entram em vigor no dia seguinte ao da sua publicação no Diário da República, salvo no que depender da entrada em funcionamento dos novos órgãos.
+
+208194514

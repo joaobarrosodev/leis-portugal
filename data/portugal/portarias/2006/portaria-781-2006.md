@@ -27,7 +27,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2006/08/15300/57305742.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -49,18 +49,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/781/2006/08/09/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/781-2006-538602
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2012-08-10T00:00:00Z'
+  retrieved_at: '2026-10-23T15:16:14Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: bff45f27efda19fa5f806c7451be4949392774e1b3b7dbab2c5cc8834b01552d
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 065ed61f08f4cf4a06648f825087ba6e10b920c46bb29245d9b099f09358017a
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:16:14Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -68,20 +68,26 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
+- Avaliação de Conhecimentos
+- Educação dos Adultos
 - Ensino Artístico
-- Plano de Estudos
 - Ensino Cooperativo
 - Ensino Oficial
 - Ensino Particular
 - Ensino Profissional
 - Exame
-- Educação dos Adultos
-- Avaliação de Conhecimentos
+- Plano de Estudos
 relationships:
 - type: amended_by
   target: pt:dre:175165:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:553883:por
+  label: "Dada nova redacção ao art. 32º da Port 550-E/2004 de 21-mai, alterado pelo presente diploma, pela PORT.91/2012.30.03.2012.MECI,\
+    \ DR.IS [65] de 30.03.2012 \0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/91-2012-553883
+  date: '2012-03-30'
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/24/2006/02/06/p/dre
   label: null
@@ -102,16 +108,42 @@ relationships:
   target: eli:http://data.dre.pt/eli/port/550-e/2004/05/21/p/dre
   label: null
   source: http://data.dre.pt/eli/port/550-e/2004/05/21/p/dre
+- type: cites
+  target: pt:dre:210801:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:238851:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:252206:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:551873:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:652894:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:175165:por
+  label: "Revogada, a partir de 15.08.2012, a Port 550-E/2004, de 21-maio, na redação do presente diploma e da Port 91/2012,\
+    \ de 30-mar, pela PORT.242/2012.10.08.2012.MECI, DR.IS [155] de 10.08.2012\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/242-2012-175165
+  date: '2012-08-10'
 article_structure:
-  article_count: 10
+  article_count: 1
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:16:14Z'
   warnings: []
   errors: []
 ---
@@ -164,7 +196,9 @@ Gestão do currículo
 
 14 - (Revogado.)
 
-###### Artigo 14.º — Modalidades de avaliação
+Artigo 14.º
+
+Modalidades de avaliação
 
 ...
 
@@ -178,7 +212,9 @@ d) Avaliação sumativa;
 
 e) (Revogada.)
 
-###### Artigo 18.º — Avaliação sumativa
+Artigo 18.º
+
+Avaliação sumativa
 
 1 - ...
 
@@ -190,7 +226,9 @@ a) A avaliação sumativa na modalidade de frequência presencial;
 
 b) A avaliação sumativa na modalidade de frequência não presencial.
 
-###### Artigo 19.º — Avaliação sumativa na modalidade de frequência presencial
+Artigo 19.º
+
+Avaliação sumativa na modalidade de frequência presencial
 
 1 - A avaliação sumativa na modalidade de frequência presencial caracteriza-se por:
 
@@ -228,7 +266,9 @@ b) ...
 
 12 - ...
 
-###### Artigo 20.º — Avaliação sumativa na modalidade de frequência não presencial
+Artigo 20.º
+
+Avaliação sumativa na modalidade de frequência não presencial
 
 1 - A avaliação sumativa na modalidade de frequência não presencial aplica-se, em cada disciplina, aos alunos inscritos nesta modalidade de frequência, bem como aos alunos na modalidade de frequência presencial, como avaliação de recurso, para efeitos de capitalização dos módulos em atraso.
 
@@ -304,7 +344,9 @@ f) ...
 
 24 - Os instrumentos de avaliação utilizados ficam arquivados na escola, incluindo os dos alunos na modalidade de frequência presencial que se tenham submetido às provas de avaliação sumativa na modalidade de frequência não presencial.
 
-###### Artigo 27.º — Provas de exame nacional na qualidade de autopropostos
+Artigo 27.º
+
+Provas de exame nacional na qualidade de autopropostos
 
 1 - (Revogado.)
 
@@ -320,7 +362,9 @@ f) ...
 
 7 - ...
 
-###### Artigo 29.º — Critérios de avaliação
+Artigo 29.º
+
+Critérios de avaliação
 
 1 - ...
 
@@ -332,7 +376,9 @@ f) ...
 
 5 - ...
 
-###### Artigo 30.º — Classificação final das disciplinas e área não disciplinar
+Artigo 30.º
+
+Classificação final das disciplinas e área não disciplinar
 
 1 - A classificação final de cada disciplina e da área não disciplinar resulta da média aritmética simples, arredondada às unidades, das classificações obtidas na totalidade dos módulos.
 
@@ -354,7 +400,9 @@ c) Nas provas de exame nacional;
 
 d) (Revogada.)
 
-###### Artigo 32.º — Melhoria de classificação
+Artigo 32.º
+
+Melhoria de classificação
 
 1 - ...
 
@@ -364,7 +412,9 @@ d) (Revogada.)
 
 4 - (Revogado.)
 
-###### Artigo 38.º — Conclusão e certificação
+Artigo 38.º
+
+Conclusão e certificação
 
 1 - A conclusão de um curso de ensino recorrente de nível secundário de educação é certificada através da emissão de:
 
@@ -392,8 +442,8 @@ c) ...
 
 4 - A presente portaria entra em vigor no dia seguinte ao da sua publicação.
 
-**O Secretário de Estado da Educação, Valter Victorino Lemos, em 24 de Julho de 2006.**
+O Secretário de Estado da Educação, Valter Victorino Lemos, em 24 de Julho de 2006.
 
 Do ANEXO N.º 2 ao ANEXO N.º 20
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2006/08/15300/57305742.pdf))](https://files.diariodarepublica.pt/1s/2006/08/15300/57305742.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2006/08/15300/57305742.pdf)

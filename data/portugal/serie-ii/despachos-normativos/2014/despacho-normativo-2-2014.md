@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/2s/2014/01/020000000/0287802880.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -47,25 +47,47 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/despacho-normativo/2-2014-3661173
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2015-02-27T00:00:00Z'
+  retrieved_at: '2026-10-23T15:07:52Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 5fbc41bf76794ac63d6989e8d93fef9e4b2561623753cb2d26f0414b7974d190
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 02b0c17941ed98306312db96fc8b7f0b7a63410617ea1189aba18971af52fb4b
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:07:52Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Açores
+- Agricultor
+- Agricultura
+- Águas Subterrâneas
+- Atividade Agrícola
+- Controlo Sanitário
+- Embalagem
+- Exploração Agrícola
+- Financiamento
+- Fiscalização
+- Madeira.região Autónoma
+- Pagamento
+- Poluição
+- Poluição da água
+- Produção Agrícola
+- Produto Fitofarmacêutico
+- Proteção do Ambiente
+- Proteção Fitossanitária
+- Regulamento CE
+- Saúde Pública
+- Subsídio
+- Substância Perigosa
 relationships:
 - type: amended_by
   target: pt:dre:66619896:por
@@ -91,21 +113,63 @@ relationships:
   target: celex:32013R1310
   label: null
   source: null
+- type: cites
+  target: pt:dre:1124172:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:1151622:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:178512:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:2235067:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:2294370:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:3337344:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:469068:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:490409:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:620106:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:66619896:por
+  label: Revogado, a partir de 28.02.2015, o DN 7/2005 de 01-fev, alterado pelo presente diploma, pelo(a) Portaria n.º 57/2015
+    - Diário da República n.º 41/2015, Série I de 2015-02-27
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/57-2015-66619896
+  date: '2015-02-27'
 article_structure:
   article_count: 3
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:07:52Z'
   warnings: []
   errors: []
 ---
 
-# Despacho Normativo n.º 2/2014
+# Despacho normativo n.º 2/2014
 
 A Diretiva 2000/60/CE, do Parlamento Europeu e do Conselho, de 23 de outubro, que estabelece um quadro de ação comunitária no domínio da política da água, determinou a revogação da Diretiva 80/68/CEE, do Conselho, de 17 de dezembro de 1979, relativa à proteção de águas subterrâneas contra a poluição causada por certas substâncias perigosas, com efeitos a partir de 22 de dezembro de 2013.
 
@@ -213,7 +277,9 @@ Os anexos I e II do [Despacho Normativo n.º 7/2005](https://diariodarepublica.p
 
 4 - [...]
 
-## ANEXO II — [...]
+ANEXO II
+
+[...]
 
 1 - [...]
 
@@ -316,3 +382,5 @@ b) O local deve apresentar piso impermeabilizado, preferencialmente com bacia de
 O presente despacho entra em vigor no dia seguinte ao da sua publicação.
 
 17 de janeiro de 2014. - O Secretário de Estado da Agricultura, José Diogo Santiago de Albuquerque.
+
+207549909

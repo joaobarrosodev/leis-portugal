@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/2s/2007/10/192000000/2892028921.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -46,18 +46,18 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/resolucao/44-2007-1535802
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2007-10-04T00:00:00Z'
+  retrieved_at: '2026-10-23T15:14:01Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 05fb8b551b4dcf4050ed4d910c77f96087d737adaecc6359df37f34ee17f2be4
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 9da18cb0cbf82dac432ee6557ad1c2d4ce0ffe3900fa46020e186ec60371c611
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:14:01Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -65,17 +65,21 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects: []
-relationships: []
+relationships:
+- type: cites
+  target: pt:dre:1747478:por
+  label: null
+  source: null
 article_structure:
-  article_count: 5
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:14:01Z'
   warnings: []
   errors: []
 ---
@@ -92,7 +96,7 @@ Regras técnicas
 
 As regras técnicas necessárias à aplicação do Regulamento [consultar regulamento (actualizado) de atribuição de bolsas de estudo despacho n.º 4183/2007 (2.ª série) de 6 de Março] são aprovadas pelo órgão legal e estatutariamente competente de cada instituição de ensino superior.
 
-###### Artigo 5.º do Regulamento - Aproveitamento escolar
+Artigo 5.º do Regulamento - Aproveitamento escolar
 
 Aproveitamento mínimo (estipulado de acordo com o n.º 2 do artigo 5.º):
 
@@ -100,7 +104,7 @@ A informação relativa ao aproveitamento mínimo de cada aluno é fornecida aos
 
 Na hipótese de discordância do aluno com tal informação caberá a este fazer prova com documento actualizado dos SA.
 
-###### Artigo 7.º-B - Condições para requerer atribuição de bolsa de estudo
+Artigo 7.º-B - Condições para requerer atribuição de bolsa de estudo
 
 N.º 3 - Situações especialmente graves com influência no aproveitamento escolar
 
@@ -110,7 +114,7 @@ Esta prerrogativa não poderá ser aplicada se o aluno não obtiver aproveitamen
 
 Deverão ser salvaguardados os casos dos estudantes portadores de deficiência, que serão analisados casuisticamente.
 
-###### Artigo 8.º - Agregado familiar do estudante
+Artigo 8.º - Agregado familiar do estudante
 
 N.º 2 - Agregado familiar unipessoal
 
@@ -118,7 +122,7 @@ Quando o aluno não comprove devidamente a situação de independência deverá 
 
 Se existir justificação para esta situação, sempre que o rendimento apresentado seja inferior ao valor da pensão social a vigorar no início do ano lectivo, imputar-se-á esse valor.
 
-###### Artigo 10.º - Rendimento anual
+Artigo 10.º - Rendimento anual
 
 N.os 1 e 2
 
@@ -222,7 +226,7 @@ Os devidos comprovativos das despesas adicionais de transportes serão as cópia
 
 Nas situações referentes a despesas de alojamento, previstas no artigo 19.º, alínea b), serão exigidos os contratos de arrendamento e ou os recibos das rendas.
 
-###### Artigo 21.º - Situações especiais não previstas
+Artigo 21.º - Situações especiais não previstas
 
 As situações com proposta de resolução ao abrigo do presente normativo deverão necessariamente ser submetidas a despacho do administrador.
 

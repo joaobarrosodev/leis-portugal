@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/506/2005/06/08/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/506-2005-228272
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2008-11-19T00:00:00Z'
+  retrieved_at: '2026-10-23T15:06:47Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: a455a1160b1a5833f2579205579432410cacaea875a2e7da700a6a12208c6d4d
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 4cf49de64ab28fc9b3455795b7634b58fc82a8242f0f2112e0849ec7d30f7662
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:06:47Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -74,6 +74,26 @@ relationships:
   target: pt:dre:439823:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:359484:por
+  label: "Excluídos vários prédios rústicos da zona de caça criada pelo presente diploma, pela PORT.602/2006.23.06.2006.MADRP,\
+    \ DR.IS-B [120] de 23.06.2006\06\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/602-2006-359484
+  date: '2006-06-23'
+- type: amended_by
+  target: pt:dre:519414:por
+  label: "Integrados os terrenos cinegéticos na zona de caça municipal de Luzianes Gare, concessionada pelo presente diploma,\
+    \ alterada pela Port 602/2006 de 23-Jun,e cujos limites constam da planta anexa pela PORT.466/2007.18.04.2007.MADRP, DR.IS\
+    \ [76] de 18.04.2007\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/466-2007-519414
+  date: '2007-04-18'
+- type: amended_by
+  target: pt:dre:439823:por
+  label: "Excluídos, vários prédios rústicos, da zona de caça municipal de Luzianes Gare, concessionada pelo presente diploma,\
+    \ alterado pelas Ports 602/2006 de 23-Jun e 466/2007 de 18-Abr, pela PORT.1330/2008.19.11.2008.MADRP, DR.IS [225] de 19.11.2008\0\
+    \0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/1330-2008-439823
+  date: '2008-11-19'
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/202/2004/08/18/p/dre
   label: null
@@ -86,16 +106,28 @@ relationships:
   target: eli:http://data.dre.pt/eli/port/45/2004/01/14/p/dre
   label: null
   source: http://data.dre.pt/eli/port/45/2004/01/14/p/dre
+- type: cites
+  target: pt:dre:434640:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:480704:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:603031:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:06:47Z'
   warnings: []
   errors: []
 ---

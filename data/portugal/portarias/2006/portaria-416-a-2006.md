@@ -20,12 +20,12 @@ publication:
   reference: Diário da República n.º 83/2006, 1º Suplemento, Série I-B de 2006-04-28
   number: '83'
   series: I
-  supplement: 1º Suplemento
+  supplement: null
   pages: 3134-(2) a 3134-(3)
   pdf_url: https://files.diariodarepublica.pt/1s/2006/04/083b01/00020003.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/416-a/2006/04/28/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/416-a-2006-457051
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2007-05-11T00:00:00Z'
+  retrieved_at: '2026-10-23T15:14:00Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 1ea6dc3cdbd49c31bf1e6335ad1a8c631762bbfa371c4d3b088b5060f38d2b40
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: b330acb02bb6c552181ae06c3daa144b77e1437f6a698e924fcfd05f1a3fb627
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:14:00Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,15 +67,21 @@ reuse:
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
 - Aeroporto
-- Avião
 - ANA
 - Aviação Civil
+- Avião
 - Taxa Aeroportuária
 relationships:
 - type: amended_by
   target: pt:dre:520657:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:353954:por
+  label: "Dada nova redacção ao nº 1 do presente diploma, pela PORT.518/2006.05.06.2006.MOPTC, DR.IS-B [108] de 05.06.2006\0\
+    \0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/518-2006-353954
+  date: '2006-06-05'
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/280/1999/07/26/p/dre
   label: null
@@ -96,16 +102,45 @@ relationships:
   target: eli:http://data.dre.pt/eli/port/620-a/2005/07/29/p/dre
   label: null
   source: http://data.dre.pt/eli/port/620-a/2005/07/29/p/dre
+- type: cites
+  target: pt:dre:203792:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:235924:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:333343:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:346481:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:353340:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:673617:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:520657:por
+  label: "Revogada pela PORT.592/2007.11.05.2007.MOPTC, DR.IS [91] de 11.05.2007\07\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/592-2007-520657
+  date: '2007-05-11'
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:14:00Z'
   warnings: []
   errors: []
 ---
@@ -134,11 +169,11 @@ Manda o Governo, pelo Ministro das Obras Públicas, Transportes e Comunicações
 
 1.º As taxas de tráfego a aplicar nos aeroportos do continente sob responsabilidade da empresa ANA - Aeroportos de Portugal, S. A., às quais acrescerá o IVA, são as constantes da seguinte tabela:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2006/04/083b01/00020003.pdf))](https://files.diariodarepublica.pt/1s/2006/04/083b01/00020003.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2006/04/083b01/00020003.pdf)
 
 Taxas de abertura de aeródromo
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2006/04/083b01/00020003.pdf))](https://files.diariodarepublica.pt/1s/2006/04/083b01/00020003.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2006/04/083b01/00020003.pdf)
 
 2.º O valor mínimo por operação aplicável às operações de aterragem e descolagem no Aeroporto de Lisboa efectuadas por aeronaves com massa máxima a descolagem (MMD) até 25 t não é aplicável aos serviços aéreos regulares em rotas objecto de imposição de obrigações modificadas de serviço público e aos voos de posição/ferry a eles associados nem às aeronaves constantes do anexo à presente portaria, ficando assim sujeitos ao pagamento do montante das taxas de aterragem e descolagem por tonelada.
 
@@ -146,7 +181,7 @@ Taxas de abertura de aeródromo
 
 4.º A presente portaria entra em vigor no dia seguinte ao da sua publicação.
 
-**O Ministro das Obras Públicas, Transportes e Comunicações, Mário Lino Soares Correia, em 20 de Abril de 2006.**
+O Ministro das Obras Públicas, Transportes e Comunicações, Mário Lino Soares Correia, em 20 de Abril de 2006.
 
 ## ANEXO — Lista das aeronaves às quais não se aplica o valor mínimo por operação
 

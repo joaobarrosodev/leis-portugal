@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/2s/2015/10/209000000/3082030821.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -46,36 +46,60 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/resolucao/42-2015-70804412
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2015-10-26T00:00:00Z'
+  retrieved_at: '2026-10-23T15:15:43Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 81314db7c43566ea07e5b5465b67edd4d587a6539a02e7617a4ae08ec8cc6b69
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: f33cbb1682558e1548b9cfb4fdf6a2454c9dedd4fb1a03e45d65b34bc226e6bb
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:15:43Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
-relationships: []
+subjects:
+- Agência de Avaliação e Acreditação do Ensino Superior
+- Avaliação das Instituições
+- Conselho de Administração
+- Ensino Oficial
+- Ensino Particular
+- Ensino Superior
+relationships:
+- type: cites
+  target: pt:dre:1457138:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:498487:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:629433:por
+  label: null
+  source: null
+- type: corrected_by
+  target: pt:dre:71020781:por
+  label: Retificado o n.º 3 e esclarecido tratar-se da versão definitiva da presente Resolução, pelo(a) Declaração de Retificação
+    n.º 1013/2015 - Diário da República n.º 224/2015, Série II de 2015-11-16 que procede à sua republicação
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/declaracao-retificacao/1013-2015-71020781
+  date: '2015-11-16'
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:15:43Z'
   warnings: []
   errors: []
 ---
@@ -117,3 +141,5 @@ b) De ciclos de estudos conferentes dos graus de mestre e de doutor em que não 
 7 - A presente resolução entra em vigor no dia seguinte ao da sua publicação e produz efeitos a partir do ano letivo de 2015-2016.
 
 6 de outubro de 2015. - O Presidente do Conselho de Administração, Alberto Manuel Sampaio de Castro Amaral.
+
+209026116

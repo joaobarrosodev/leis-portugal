@@ -49,18 +49,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/449/2006/05/12/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/449-2006-632187
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2010-06-24T00:00:00Z'
+  retrieved_at: '2026-10-23T15:14:11Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 6cf9c3a49cdfeac7cf1311e98de8ab7f63f48dd417f46ea01bb7e33d15e6af13
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: ff7f99b810dbacfa2f777e60abb11045d9a75ad072288e5cdaf469aaa6415a69
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:14:11Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -76,6 +76,19 @@ relationships:
   target: pt:dre:335208:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:608678:por
+  label: "Transferida para a AGROTEC - Unipessoal, Lda., a zona de caça atribuída pela Port 411/94, de 27-Jun, alterada pela\
+    \ Port 341/99, de 13-Maio, Port 252/2003, de 19-Mar e pelo presente diploma, pela PORT.529/2009.18.05.2009.MADRP, DR.IS\
+    \ [95] de 18.05.2009\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/529-2009-608678
+  date: '2009-05-18'
+- type: amended_by
+  target: pt:dre:335208:por
+  label: "Anexados vários prédios rústicos à zona de caça atribuída pelo presente diploma, pela PORT.378/2010.24.06.2010.MADRP,\
+    \ DR.IS [121] de 24.06.2010\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/378-2010-335208
+  date: '2010-06-24'
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/201/2005/11/24/p/dre
   label: null
@@ -104,16 +117,40 @@ relationships:
   target: eli:http://data.dre.pt/eli/port/911/1994/10/13/p/dre
   label: null
   source: http://data.dre.pt/eli/port/911/1994/10/13/p/dre
+- type: cites
+  target: pt:dre:184069:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:215479:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:290627:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:321707:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:480704:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:481498:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:14:11Z'
   warnings: []
   errors: []
 ---
@@ -140,4 +177,4 @@ Manda o Governo, pelo Ministro da Agricultura, do Desenvolvimento Rural e das Pe
 
 Pelo Ministro da Agricultura, do Desenvolvimento Rural e das Pescas, Rui Nobre Gonçalves, Secretário de Estado do Desenvolvimento Rural e das Florestas, em 24 de Abril de 2006.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2006/05/092b00/33623362.pdf))](https://files.diariodarepublica.pt/1s/2006/05/092b00/33623362.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2006/05/092b00/33623362.pdf)

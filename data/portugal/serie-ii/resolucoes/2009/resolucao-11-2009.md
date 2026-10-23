@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/2s/2009/04/078000000/1631316316.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -46,18 +46,18 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/resolucao/11-2009-874503
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2009-04-22T00:00:00Z'
+  retrieved_at: '2026-10-23T15:14:17Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 656ba50f6825a5822615ccbc76928243540c7921099a0b35098b8667f43ca989
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: a2af8c843c489504e34d34aa345b9c31cff9491f0d5dcf986cdb460e98cd85a3
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:14:17Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,15 +67,15 @@ reuse:
 subjects: []
 relationships: []
 article_structure:
-  article_count: 6
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:14:17Z'
   warnings: []
   errors: []
 ---
@@ -96,7 +96,7 @@ Ponto 2 do Despacho n.º 10324-D/97
 
 "As regras técnicas necessárias à aplicação do Regulamento* são aprovadas pelo órgão legal e estatutariamente competente de cada instituição de ensino superior"
 
-###### Artigo 5.º do Regulamento - Aproveitamento Escolar
+Artigo 5.º do Regulamento - Aproveitamento Escolar
 
 Aproveitamento Mínimo
 
@@ -104,7 +104,7 @@ A informação relativa ao aproveitamento mínimo de cada aluno é fornecida aos
 
 Na hipótese de discordância do aluno com tal informação caberá a este fazer prova com documento actualizado dos S. A.
 
-###### Artigo 7.º - B - Condições para requerer atribuição de Bolsa de Estudo
+Artigo 7.º - B - Condições para requerer atribuição de Bolsa de Estudo
 
 N.º 3 - Situações especialmente graves com influência no aproveitamento escolar
 
@@ -114,7 +114,7 @@ Esta prerrogativa não poderá ser aplicada se o aluno não obtiver aproveitamen
 
 Deverão ser salvaguardados os casos dos estudantes portadores de deficiência, que serão analisados casuisticamente.
 
-###### Artigo 8.º - Agregado Familiar do Estudante
+Artigo 8.º - Agregado Familiar do Estudante
 
 a. São considerados como elementos do agregado familiar os irmãos do candidato maiores, que tendo terminado ou interrompido a sua formação académica se encontrem em situação de desemprego e desde que inscritos no centro de emprego; caso contrário, poderão não ser considerados como elementos do agregado familiar do estudante;
 
@@ -124,7 +124,7 @@ c. Qualquer alteração da composição do agregado familiar subjacente à decla
 
 d. Quando o aluno não comprove devidamente a situação de independência deverá ser remetido para o agregado familiar de origem.
 
-###### Artigo 10.º - Rendimento Anual
+Artigo 10.º - Rendimento Anual
 
 Atento o n.º 1 do artigo 10.º, o Rendimento anual do agregado familiar resulta da soma dos rendimentos de todos os membros do agregado, calculado da seguinte forma:
 
@@ -376,7 +376,7 @@ A determinação do rendimento anual do agregado familiar é efectuada tendo com
 
 Após apresentação da candidatura, qualquer alteração à situação socioeconómica, ou académica, deve ser comunicada no prazo de 30 dias (1 mês) após a ocorrência.
 
-###### Artigo 16.º e 19.º, 1 - a) e b) - Complementos de Bolsa
+Artigo 16.º e 19.º, 1 - a) e b) - Complementos de Bolsa
 
 Dever-se-á entender que um estudante tem despesas acrescidas de transporte quando o valor gasto no mesmo exceder o do "passe de cidade", considerar-se-á o valor desse encargo até ao limite estipulado (25 % x RMMG).
 
@@ -384,7 +384,7 @@ Os devidos comprovativos das despesas adicionais de transportes serão as cópia
 
 Nas situações referentes a despesas de alojamento, previstas no artigo 19.º b) serão exigidos os contratos de arrendamento e ou os recibos das rendas.
 
-###### Artigo 21.º - Situações Especiais não Previstas
+Artigo 21.º - Situações Especiais não Previstas
 
 As situações com proposta de resolução ao abrigo do presente normativo deverão necessariamente ser submetidas a despacho do Administrador.
 
@@ -405,3 +405,5 @@ b. Limite igual à RMMG (Retribuição Mínima Mensal Garantida).
 * Consultar Regulamento (actualizado) de atribuição de bolsas de estudo - Despacho 4183/2007 (2.ª série) de 6 de Março.
 
 16 de Abril de 2009. - O Administrador para a Acção Social, Carlos Duarte Oliveira e Silva.
+
+201687574

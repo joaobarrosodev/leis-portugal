@@ -49,36 +49,41 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/29-1986-221505
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1986-12-04T00:00:00Z'
+  retrieved_at: '2026-10-23T15:17:27Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 729b522e8ba839a767b4e37079f0618ccb7175e23ea8f8847be77796fd1360ce
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 7020a4d2adee69c1f85afabdec6c25589acc2d3173984f91fd42d78a938a2bee
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:17:27Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Açores
+- Bombeiro
+- Entidade Empregadora Pública
+- Inspecção Regional de Bombeiros
+- Requisição de Pessoal
 relationships: []
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:17:27Z'
   warnings: []
   errors: []
 ---
@@ -95,22 +100,22 @@ Tendo em conta igualmente as dificuldades que por vezes se colocam àqueles volu
 
 A Assembleia Regional dos Açores decreta, nos termos da alínea a) do artigo 229.º da Constituição da República Portuguesa, o seguinte:
 
-###### Artigo 1.º Os funcionários e agentes das administrações central, regional e local e dos institutos públicos afectos ao serviço das associações de bombeiros voluntários podem ser requisitados pelo Secretário Regional da Administração Pública, sob proposta do inspector regional de Bombeiros, até ao máximo de 30 dias por ano, seguidos ou interpolados, a fim de participarem em actividades de relevante interesse público promovidas pela Inspecção Regional de Bombeiros na sua área de actuação, tais como reuniões e acções de formação.
+Artigo 1.º Os funcionários e agentes das administrações central, regional e local e dos institutos públicos afectos ao serviço das associações de bombeiros voluntários podem ser requisitados pelo Secretário Regional da Administração Pública, sob proposta do inspector regional de Bombeiros, até ao máximo de 30 dias por ano, seguidos ou interpolados, a fim de participarem em actividades de relevante interesse público promovidas pela Inspecção Regional de Bombeiros na sua área de actuação, tais como reuniões e acções de formação.
 
-###### Art. 2.º Os trabalhadores na situação prevista no artigo anterior consideram-se, para todos os efeitos legais, como exercendo efectivamente as funções no seu serviço de origem.
+Art. 2.º Os trabalhadores na situação prevista no artigo anterior consideram-se, para todos os efeitos legais, como exercendo efectivamente as funções no seu serviço de origem.
 
-###### Art. 3.º - 1 - Os trabalhadores por conta de outrem, do sector privado ou das empresas públicas, afectos ao serviço das associações de bombeiros voluntários poderão ser requisitados nos termos do artigo 1.º, cabendo o pagamento das remunerações a que tenham direito à Inspecção Regional de Bombeiros.
+Art. 3.º - 1 - Os trabalhadores por conta de outrem, do sector privado ou das empresas públicas, afectos ao serviço das associações de bombeiros voluntários poderão ser requisitados nos termos do artigo 1.º, cabendo o pagamento das remunerações a que tenham direito à Inspecção Regional de Bombeiros.
 
 2 - Da requisição a que se refere este artigo não poderá resultar qualquer prejuízo para o trabalhador requisitado.
 
-###### Art. 4.º A requisição prevista nos artigos anteriores depende sempre da anuência prévia da entidade empregadora, pública ou privada, e do respectivo trabalhador, podendo cessar a todo o tempo, designadamente em resultado do incumprimento por parte do trabalhador do regime a que esteja sujeita a sua participação nos cursos de formação referidos.
+Art. 4.º A requisição prevista nos artigos anteriores depende sempre da anuência prévia da entidade empregadora, pública ou privada, e do respectivo trabalhador, podendo cessar a todo o tempo, designadamente em resultado do incumprimento por parte do trabalhador do regime a que esteja sujeita a sua participação nos cursos de formação referidos.
 
 Aprovado pela Assembleia Regional dos Açores, na Horta, em 15 de Outubro de 1986.
 
-**O Presidente da Assembleia Regional, José Guilherme Reis Leite.**
+O Presidente da Assembleia Regional, José Guilherme Reis Leite.
 
-**Assinado em Angra do Heroísmo em 18 de Novembro de 1986.**
+Assinado em Angra do Heroísmo em 18 de Novembro de 1986.
 
-**Publique-se.**
+Publique-se.
 
-**O Ministro da República para a Região Autónoma dos Açores, Vasco Joaquim Rocha Vieira.**
+O Ministro da República para a Região Autónoma dos Açores, Vasco Joaquim Rocha Vieira.

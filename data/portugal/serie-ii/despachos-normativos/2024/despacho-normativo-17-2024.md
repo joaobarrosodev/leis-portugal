@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/2s/2024/11/226000000/0008800091.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -46,18 +46,18 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/despacho-normativo/17-2024-897217658
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2025-03-06T00:00:00Z'
+  retrieved_at: '2026-10-23T15:09:09Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 30f6e05a0df11e396df82cdd755498742aab6f65b949eafdc8a5e63ce4b77fa2
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 1c2863419d48eae80df4f1aac995b625949c6a599358952b812e168d5ab750c3
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:09:09Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -70,23 +70,31 @@ relationships:
   target: pt:dre:909730596:por
   label: Última alteração registada na importação inicial
   source: null
+- type: cites
+  target: pt:dre:122278100:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:640339:por
+  label: null
+  source: null
 article_structure:
   article_count: 2
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:09:09Z'
   warnings: []
   errors: []
 ---
 
 # Despacho Normativo n.º 17/2024
 
-Os Estatutos da Universidade de Lisboa encontram-se republicados, de forma consolidada, em anexo ao [Despacho Normativo n.º 14/2019](https://diariodarepublica.pt/dr/detalhe/despacho-normativo/14-2019-122278100) (2.ª série), de 10 de maio, alterados conforme publicado em anexo aos Despachos Normativos n.<sup>os</sup>8/2020 (2.ª série), de 4 de agosto, e 7/2024 (2.ª série), de 21 de março.
+Os Estatutos da Universidade de Lisboa encontram-se republicados, de forma consolidada, em anexo ao [Despacho Normativo n.º 14/2019](https://diariodarepublica.pt/dr/detalhe/despacho-normativo/14-2019-122278100) (2.ª série), de 10 de maio, alterados conforme publicado em anexo aos Despachos Normativos n.os8/2020 (2.ª série), de 4 de agosto, e 7/2024 (2.ª série), de 21 de março.
 
 Considerando que, nos termos do n.º 1 do artigo 69.º da [Lei n.º 62/2007](https://diariodarepublica.pt/dr/detalhe/lei/62-2007-640339), de 10 de setembro, que aprovou o Regime Jurídico das Instituições de Ensino Superior (RJIES), as alterações aos estatutos das instituições de ensino superior públicas carecem de homologação governamental através de despacho normativo do ministro da tutela;
 
@@ -301,3 +309,5 @@ f) [...]
 g) [...]
 
 h) Pavilhão de Portugal.»
+
+318350975

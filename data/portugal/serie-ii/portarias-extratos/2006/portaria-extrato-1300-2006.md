@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/2s/2006/09/178000000/1886018866.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,36 +46,55 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria-extracto/1300-2006-2573807
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2006-09-14T00:00:00Z'
+  retrieved_at: '2026-10-23T15:09:24Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 30000226a79ab50bfac7c9edd9243cf0cfdea01e8b810acd11773c029c33ea19
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 74744d71a00d08ec3376836c29a8c1c8c3a4e11f39f627819edfa9a897657f63
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:09:24Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
-relationships: []
+subjects:
+- Arquivo
+- Conservação de Documentos
+- Ministério da Economia e da Inovação
+- Regulamento
+- Regulamento Arquivistico
+- Secretaria Geral
+relationships:
+- type: cites
+  target: pt:dre:291844:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:356515:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:174614574:por
+  label: Revogada, a partir de 24.11.2021, pelo(a) Portaria n.º 256/2021 - Diário da República n.º 225/2021, Série I de 2021-11-19
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/256-2021-174614574
+  date: '2021-11-19'
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:09:24Z'
   warnings: []
   errors: []
 ---
@@ -230,16 +249,16 @@ Compete ao IAN/TT a inspecção sobre a execução do disposto no presente regul
 
 ## ANEXO I — Tabela de selecção de documentos
 
-[([ver documento original](https://files.diariodarepublica.pt/2s/2006/09/178000000/1886018866.pdf))](https://files.diariodarepublica.pt/2s/2006/09/178000000/1886018866.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/2s/2006/09/178000000/1886018866.pdf)
 
 ## ANEXO II — Auto de entrega
 
-[([ver documento original](https://files.diariodarepublica.pt/2s/2006/09/178000000/1886018866.pdf))](https://files.diariodarepublica.pt/2s/2006/09/178000000/1886018866.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/2s/2006/09/178000000/1886018866.pdf)
 
-## ANEXO III Guia de remessa
+ANEXO III Guia de remessa
 
-[([ver documento original](https://files.diariodarepublica.pt/2s/2006/09/178000000/1886018866.pdf))](https://files.diariodarepublica.pt/2s/2006/09/178000000/1886018866.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/2s/2006/09/178000000/1886018866.pdf)
 
 ## ANEXO IV — Auto de eliminação
 
-[([ver documento original](https://files.diariodarepublica.pt/2s/2006/09/178000000/1886018866.pdf))](https://files.diariodarepublica.pt/2s/2006/09/178000000/1886018866.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/2s/2006/09/178000000/1886018866.pdf)

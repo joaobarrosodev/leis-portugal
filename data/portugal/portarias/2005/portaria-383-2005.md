@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2005/04/066b00/28562858.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/383/2005/04/05/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/383-2005-562406
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2008-12-12T00:00:00Z'
+  retrieved_at: '2026-10-23T15:06:02Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 7c07ad19715d52a726dcfd3910d670034a2afccba31986ee7dc9a41ccec0e140
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 66d1545579ec6ea76b507ae1d4fde4618f140a1a85f0255182d53a523ca46b05
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:06:02Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -65,13 +65,13 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Transporte Ferroviário
 - Instituto Nacional do Transporte Ferroviário
 - Licenciamento
-- Transporte de Mercadorias
 - Prestação de Serviços
 - TAXA de Prestação de Serviços
+- Transporte de Mercadorias
 - Transporte de Passageiros
+- Transporte Ferroviário
 relationships:
 - type: amended_by
   target: pt:dre:444176:por
@@ -93,16 +93,37 @@ relationships:
   target: eli:http://data.dre.pt/eli/dec-lei/313/2002/12/23/p/dre
   label: null
   source: http://data.dre.pt/eli/dec-lei/313/2002/12/23/p/dre
+- type: cites
+  target: pt:dre:198922:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:349923:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:405295:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:466832:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:444176:por
+  label: "Revogada a partir de 13.12.2008 pelo DEC LEI.236/2008.12.12.2008.MOPTC, DR.IS [240] de 12.12.2008\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/236-2008-444176
+  date: '2008-12-12'
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:06:02Z'
   warnings: []
   errors: []
 ---
@@ -173,7 +194,7 @@ Não se consideram incluídos nos valores de taxas constantes da tabela anexa os
 
 Em 3 de Março de 2005.
 
-**O Ministro das Finanças e da Administração Pública, António José de Castro Bagão Félix. - Pelo Ministro das Obras Públicas, Transportes e Comunicações, Jorge Manuel Martins Borrego, Secretário de Estado dos Transportes e Comunicações.**
+O Ministro das Finanças e da Administração Pública, António José de Castro Bagão Félix. - Pelo Ministro das Obras Públicas, Transportes e Comunicações, Jorge Manuel Martins Borrego, Secretário de Estado dos Transportes e Comunicações.
 
 Tabela de taxas
 

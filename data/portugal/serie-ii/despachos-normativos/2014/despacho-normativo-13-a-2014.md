@@ -19,12 +19,12 @@ publication:
   reference: Diário da República n.º 189/2014, 1º Suplemento, Série II de 2014-10-01
   number: '189'
   series: II
-  supplement: 1º Suplemento
+  supplement: null
   pages: 25200-(2) a 25200-(2)
   pdf_url: https://files.diariodarepublica.pt/2s/2014/10/189000001/0000200002.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -46,18 +46,18 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/despacho-normativo/13-a-2014-57769847
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2016-04-04T00:00:00Z'
+  retrieved_at: '2026-10-23T15:07:50Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 8177efc726a3ef9e774b8d3f657bdae4197c8952c11bede1b9fa3f83bda61c0c
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 9124f627e5ae1dcca773352106a6baf041652d092e94ebf9471a640aeb4efbb2
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:07:50Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -70,21 +70,57 @@ relationships:
   target: pt:dre:74032159:por
   label: Última alteração registada na importação inicial
   source: null
+- type: cites
+  target: pt:dre:1496400:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:222418:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:245336:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:483892:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:488826:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:55021795:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:640339:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:653145:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:656107:por
+  label: null
+  source: null
 article_structure:
   article_count: 2
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:07:50Z'
   warnings: []
   errors: []
 ---
 
-# Despacho Normativo n.º 13-A/2014
+# Despacho normativo n.º 13-A/2014
 
 Nos termos do artigo 22.º do Regulamento do Programa Retomar, aprovado pelo [Despacho Normativo n.º 8-A/2014](https://diariodarepublica.pt/dr/detalhe/despacho-normativo/8-a-2014-55021795) (2.ª série), de 17 de julho, o prazo de submissão dos requerimentos de atribuição da bolsa Retomar para o ano letivo de 2014-2015 decorre entre 21 de julho e 30 de setembro.
 
@@ -117,3 +153,5 @@ Para o ano letivo de 2014-2015, o prazo de submissão do requerimento de atribui
 As alterações constantes do presente despacho produzem efeitos a partir da data da sua assinatura.
 
 30 de setembro de 2014. - O Secretário de Estado do Ensino Superior, José Alberto Nunes Ferreira Gomes.
+
+208126896

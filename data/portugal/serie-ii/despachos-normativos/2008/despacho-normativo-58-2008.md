@@ -46,45 +46,69 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/despacho-normativo/58-2008-1489836
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2019-11-12T00:00:00Z'
+  retrieved_at: '2026-10-23T15:07:03Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 0edecd64c1b5cf4cf7ab0f77b6c3fb26d7b3e1a42c8efe69c8e8cfe1ba4585e5
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 8efb6bc620de6d4fe9a798db35db63f2711e11b15fac81abb792ae39bf05e839
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:07:03Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Castelo Branco
+- Ensino Superior Politécnico
+- Estatuto
+- Homologação
+- Instituto Politécnico
 relationships:
 - type: amended_by
   target: pt:dre:126061002:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:126061002:por
+  label: Homologadas e publicadas em anexo as alterações aos arts. 27.º, 66.º e 72.º dos Estatutos do Instituto Politécnico
+    de Castelo Branco pelo(a) Despacho Normativo n.º 24/2019 - Diário da República n.º 217/2019, Série II de 2019-11-12
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/despacho-normativo/24-2019-126061002
+  date: '2019-11-12'
+- type: cites
+  target: pt:dre:556606:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:640339:por
+  label: null
+  source: null
+- type: corrected_by
+  target: pt:dre:3412582:por
+  label: "Rectificado pela DECL-RECT.78/2009.13.01.2009.SG-MCTES, DR.IIS [8] de 13.01.2009\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/declaracao-rectificacao/78-2009-3412582
+  date: '2009-01-13'
 article_structure:
   article_count: 92
   section_count: 25
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:07:03Z'
   warnings: []
   errors: []
 ---
 
-# Despacho Normativo n.º 58/2008
+# Despacho normativo n.º 58/2008
 
 Considerando que, nos termos do n.º 1 do artigo 172.º da [Lei n.º 62/2007](https://diariodarepublica.pt/dr/detalhe/lei/62-2007-640339), de 10 de Setembro, as instituições de ensino superior devem proceder à revisão dos seus estatutos, de modo a conformá-los com o novo Regime Jurídico das Instituições de Ensino Superior;
 
@@ -1360,4 +1384,4 @@ Os Estatutos do Instituto são revistos ou alterados nos termos da lei.
 
 Os presentes Estatutos entram em vigor no dia seguinte ao da sua publicação no Diário da República.
 
-## ANEXO — [([ver documento original](https://files.diariodarepublica.pt/2s/2008/11/216000000/4571645728.pdf))](https://files.diariodarepublica.pt/2s/2008/11/216000000/4571645728.pdf)
+## ANEXO — [(ver documento original)](https://files.diariodarepublica.pt/2s/2008/11/216000000/4571645728.pdf)

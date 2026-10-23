@@ -47,40 +47,56 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/12-1984-661486
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1986-01-08T00:00:00Z'
+  retrieved_at: '2026-10-23T15:17:01Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 113275fa814d87746c93871c9e6f3b3de3c0728258a93387622467b671f60fbc
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 3f1e91f426cfb4107b6fae6313992ada6bbbf6d658a86f72cf663de3569ad401
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:17:01Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Açores
+- Cargo Público
+- Controlo de Riqueza
 relationships:
 - type: amended_by
   target: pt:dre:616413:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:616413:por
+  label: "Alterado o nº 2 do art. 2º pelo DLR.2/86/A.1985.12.16.ARA DR.IS [6] de 08.01.1986\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-legislativo-regional/2-1986-616413
+  date: '1986-01-08'
+- type: cites
+  target: pt:dre:312432:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:441163:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:17:01Z'
   warnings: []
   errors: []
 ---
@@ -93,9 +109,9 @@ Assim:
 
 A Assembleia Regional dos Açores decreta, nos termos da alínea b) do artigo 229.º da Constituição, o seguinte:
 
-###### Artigo 1.º A [Lei n.º 4/83](https://diariodarepublica.pt/dr/detalhe/lei/4-1983-312432), de 2 de Abril, relativamente aos titulares de cargos políticos na Região Autónoma dos Açores, executar-se-á de acordo com o [Decreto Regulamentar n.º 74/83](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/74-1983-441163), de 6 de Outubro, sem prejuízo do disposto no artigo seguinte.
+Artigo 1.º A [Lei n.º 4/83](https://diariodarepublica.pt/dr/detalhe/lei/4-1983-312432), de 2 de Abril, relativamente aos titulares de cargos políticos na Região Autónoma dos Açores, executar-se-á de acordo com o [Decreto Regulamentar n.º 74/83](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/74-1983-441163), de 6 de Outubro, sem prejuízo do disposto no artigo seguinte.
 
-###### Art. 2.º - 1 - As declarações sobre o valor do património e rendimentos respeitantes aos titulares de cargos políticos na Região Autónoma dos Açores poderão também ser enviadas ao Tribunal Constitucional, com observância das regras do segredo de justiça, através das seguintes entidades:
+Art. 2.º - 1 - As declarações sobre o valor do património e rendimentos respeitantes aos titulares de cargos políticos na Região Autónoma dos Açores poderão também ser enviadas ao Tribunal Constitucional, com observância das regras do segredo de justiça, através das seguintes entidades:
 
 a) Presidente da Mesa da Assembleia Regional, relativamente ao cargo de deputado regional;
 
@@ -107,10 +123,10 @@ c) Secretário Regional da Administração Pública, relativamente aos restantes
 
 Aprovado pela Assembleia Regional dos Açores em 6 de Dezembro de 1983.
 
-**O Presidente da Assembleia Regional, Álvaro Monjardino.**
+O Presidente da Assembleia Regional, Álvaro Monjardino.
 
-**Assinado em Angra do Heroísmo em 2 de Fevereiro de 1984.**
+Assinado em Angra do Heroísmo em 2 de Fevereiro de 1984.
 
-**Publique-se.**
+Publique-se.
 
-**O Ministro da República para a Região Autónoma dos Açores, Tomás George Conceição Silva.**
+O Ministro da República para a Região Autónoma dos Açores, Tomás George Conceição Silva.

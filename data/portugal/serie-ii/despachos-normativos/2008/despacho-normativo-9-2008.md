@@ -46,40 +46,66 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/despacho-normativo/9-2008-1393989
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2012-06-27T00:00:00Z'
+  retrieved_at: '2026-10-23T15:07:06Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 2d00e3588412d22269f6f8739f01fd353ac2a153e945a57e9fd38b8b1a4f8441
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: d347f85beb4114fae3a9e81adea9a4b12839290a26c12d0b948e2ab01f4e604c
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:07:06Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Apoio ao Investimento
+- Dotação Orçamental
+- Plano Estratégico Nacional de Turismo
+- Turismo
 relationships:
 - type: amended_by
   target: pt:dre:3286468:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:1871181:por
+  label: "Aditado o nº 5 ao art. 8º, alterado o nº 1 do art. 12º e republicado o Regulamento da Linha de Apoio II (anexo n.º\
+    \ 2), aprovado pelo DN 20/2007, de 14-Mai, na redacção do presente despacho, pelo DN.49/2008.24.09.2008.SETU-MEI, DR.IIS\
+    \ [185] de 24.09.2008\008\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/despacho-normativo/49-2008-1871181
+  date: '2008-09-24'
+- type: amended_by
+  target: pt:dre:1503931:por
+  label: "Prorrogada até 2010, para efeitos de apresentação de candidaturas, a vigência das Linhas de Apoio I e II do PIT,\
+    \ distribuída pelos anos de execução do Programa a dotação orçamental do PIT fixada no n.º 3.1 do DN 20/2007, de 14-Mai,\
+    \ bem como alterado o art. 8.º do Regulamento da Linha de Apoio II (anexo n.º 2), na redacção do presente diploma, e repubicado\
+    \ na íntegra o mencionado regulamento, pelo DN.30/2009.25.08.2009.SETU-MEI, DR.IIS [164] de 25.08.2009\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/despacho-normativo/30-2009-1503931
+  date: '2009-08-25'
+- type: amended_by
+  target: pt:dre:3286468:por
+  label: "Determinada a extinção da linha de apoio II Eventos para a Projecção do Destino Portugal do Programa de Intervenção\
+    \ Turística aprovada pelo DN 20/2007, de 7-mai, na redação do presente despacho normativo, pelo DN.14/2012.27.06.2012.SET-MEE,\
+    \ DR.IIS [123] de 27.06.2012, que revoga todas as disposições correspondentes.\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/despacho-normativo/14-2012-3286468
+  date: '2012-06-27'
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:07:06Z'
   warnings: []
   errors: []
 ---

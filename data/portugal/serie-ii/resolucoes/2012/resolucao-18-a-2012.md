@@ -19,7 +19,7 @@ publication:
   reference: Diário da República n.º 84/2012, 1º Suplemento, Série II de 2012-04-30
   number: '84'
   series: II
-  supplement: 1º Suplemento
+  supplement: null
   pages: 15264-(2) a 15264-(3)
   pdf_url: https://files.diariodarepublica.pt/2s/2012/04/084000001/0000200003.pdf
 entry_into_force_dates: []
@@ -46,36 +46,45 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/resolucao/18-a-2012-2999926
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2012-04-30T00:00:00Z'
+  retrieved_at: '2026-10-23T15:14:50Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 50bc6867ca6fb9e52054e4c9a605ab49b26afae6e7c25204cf660559dbefbf28
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: de98eaf506b6d3381e1ac15b6f49fec1d751feaf259e81d202a6573ff96cb6ea
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:14:50Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
-relationships: []
+subjects:
+- Administração Pública
+- Comissão de Recrutamento e Selecção para a Administração Pública
+- Nomeação
+- Presidente
+- Vogal
+relationships:
+- type: cites
+  target: pt:dre:145045:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:14:50Z'
   warnings: []
   errors: []
 ---
@@ -114,7 +123,7 @@ Formação académica:
 
 Agregação (2002) em Antropologia e Sociologia pela Universidade Técnica de Lisboa (UTL). Disciplina Sociologia das Organizações;
 
-Doutoramento (1993) em Ciências Sociais, Sociologia, Instituto Superior de Ciências Sociais e Políticas (ISCSP), UTL. Tese: Fatores Organizacionais do Sistema Português de I&D;
+Doutoramento (1993) em Ciências Sociais, Sociologia, Instituto Superior de Ciências Sociais e Políticas (ISCSP), UTL. Tese: Fatores Organizacionais do Sistema Português de I&D
 
 Mestrado (1988) em Ciências Antropológicas pelo ISCSP, UTL. Dissertação: A Cultura Organizacional do INESC;
 
@@ -259,3 +268,5 @@ Foi monitora de Ações de Formação da Inspeção-Geral da Educação e das In
 Foi responsável pela publicação do Boletim do Gabinete Jurídico da IGE e, desde 1992, pelo Boletim IGE Informação, coordenando o seu conselho redatorial e sendo autora de vários textos, nomeadamente, da rubrica Quid Juris;
 
 Foi preletora de comunicações nos 2.º e 3.º Encontros INA, que decorreram na Fundação Gulbenkian e tiveram como tema, respetivamente, «Deontologia e Ética do Funcionalismo: O Funcionalismo, o Poder Político e o Cidadão» e «Autonomia, Controlo e Responsabilização na Administração Pública Portuguesa».
+
+7192012

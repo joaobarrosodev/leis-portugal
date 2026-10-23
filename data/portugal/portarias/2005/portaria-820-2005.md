@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/820/2005/09/13/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/820-2005-142706
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2006-02-28T00:00:00Z'
+  retrieved_at: '2026-10-23T15:08:37Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 64df05a83a8ee3001a54f29bd1aa78491ee6a10f65fa0a3bb807d8fc7b22cd79
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 9c66e0a5329d74cfd7dc17933d3556fd1e053d3f4c0eb4aacd54c6d124c9f3fb
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:08:37Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -68,7 +68,8 @@ reuse:
 subjects:
 - Angra do Heroísmo
 - Aveiro
-- Formação Profissional
+- Beja
+- Bragança
 - Ensino Oficial
 - Ensino Superior Politécnico
 - Escola Superior de Enfermagem Cidade do Porto
@@ -85,26 +86,37 @@ subjects:
 - Escola Superior de Enfermagem do DR Lopes DIAS
 - Escola Superior de Saúde
 - Formação Complementar
-- Lisboa
+- Formação Profissional
+- Guarda
 - Leiria
+- Lisboa
 - Numerus Clausus
 - Pessoal de Enfermagem
-- Setúbal
-- Beja
-- Vila Real
 - Ponta Delgada
 - Portalegre
 - Qualificação Profissional
 - Santarém
-- Bragança
-- Guarda
+- Setúbal
 - Viana do Castelo
+- Vila Real
 - Viseu
 relationships:
 - type: amended_by
   target: pt:dre:694238:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:472769:por
+  label: "Alterado o número de vagas para o curso de complemento de formação em Enfermagem ministrado pela Escola Superior\
+    \ de Saúde do Instituto Politécnico de Beja, constantes da Tabela anexa ao presente diploma, pela PORT.1338/2005.30.12.2005.MCTES,\
+    \ DR.IS-B [250] de 30.12.2005\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/1338-2005-472769
+  date: '2005-12-30'
+- type: amended_by
+  target: pt:dre:694238:por
+  label: "Alterado o anexo do presente diploma, pela PORT.207/2006.28.02.2006.MCTES, DR.IS-B [42] de 28.02.2006\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/207-2006-694238
+  date: '2006-02-28'
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/353/1999/09/03/p/dre
   label: null
@@ -113,16 +125,24 @@ relationships:
   target: eli:http://data.dre.pt/eli/resolconsmin/116/2002/10/02/p/dre
   label: null
   source: http://data.dre.pt/eli/resolconsmin/116/2002/10/02/p/dre
+- type: cites
+  target: pt:dre:582195:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:644708:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:08:37Z'
   warnings: []
   errors: []
 ---
@@ -151,7 +171,7 @@ Entrada em vigor
 
 Esta portaria entra em vigor no dia imediato ao da sua publicação.
 
-**O Ministro da Ciência, Tecnologia e Ensino Superior, José Mariano Rebelo Pires Gago, em 29 de Agosto de 2005.**
+O Ministro da Ciência, Tecnologia e Ensino Superior, José Mariano Rebelo Pires Gago, em 29 de Agosto de 2005.
 
 ## ANEXO — Cursos de complemento de formação em Enfermagem
 

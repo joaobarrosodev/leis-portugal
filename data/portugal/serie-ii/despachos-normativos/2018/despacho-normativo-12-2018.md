@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/2s/2018/09/185000000/2607626076.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -47,36 +47,85 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/despacho-normativo/12-2018-116490434
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2018-09-25T00:00:00Z'
+  retrieved_at: '2026-10-23T15:08:24Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 08f884a5b5dad26ffe4505ba02fa970479ec5e1ca3dc25c327a497f8362cefb5
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: dcc5152cc1cee39d8beac2154c11334d823af40c07ac14959688214e7532e4bd
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:08:24Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
-relationships: []
+subjects:
+- Apoio ao Investimento
+- Financiamento
+- Incêndio
+- Infraestrutura Turística
+- Linha de Crédito
+- Monchique
+- Operações de Tesouraria
+- Programa de Apoio a Congressos e Eventos nos Concelhos Afetados pelos Incêndios de 2017
+- Projeto de Investimento
+- Regulamento
+- Silves
+- Subsídio não Reembolsável
+- Turismo
+relationships:
+- type: cites
+  target: pt:dre:107981323:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:107981324:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:108055027:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:108195792:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:114248339:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:114311007:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:178510:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:67098359:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:75796596:por
+  label: null
+  source: null
 article_structure:
-  article_count: 5
+  article_count: 3
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:08:24Z'
   warnings: []
   errors: []
 ---
@@ -105,13 +154,17 @@ Intensidade, natureza e limite do financiamento
 
 3 - Para efeitos do disposto no número anterior, no caso de empresas constituídas no ano do incêndio, o limite máximo terá como base de cálculo o volume de negócios que resulte do balancete da entidade beneficiária a 30 de junho do mesmo ano.
 
-###### Artigo 5.º — Entidades beneficiárias
+Artigo 5.º
+
+Entidades beneficiárias
 
 1 - [...]
 
 2 - Podem ainda beneficiar da linha de crédito as empresas localizadas em concelhos limítrofes aos atingidos pelos incêndios, desde que as mesmas demonstrem uma quebra na procura face ao desempenho registado no ano anterior ao incêndio, ou, no caso de empresas constituídas no ano do incêndio, face ao desempenho registado no período anterior à ocorrência do incêndio.
 
-###### Artigo 6.º — Condições de elegibilidade
+Artigo 6.º
+
+Condições de elegibilidade
 
 1 - [...]
 
@@ -164,3 +217,5 @@ a) O prazo de análise e decisão das candidaturas localizadas nos concelhos de 
 b) As candidaturas acima mencionadas que venham a ser consideradas elegíveis não concorrem para a dotação prevista no n.º 8 do presente Aviso, sendo esta, assim, acrescida pelo valor global dos apoios a conceder às mesmas.»
 
 18 de setembro de 2018. - A Secretária de Estado do Turismo, Ana Manuel Jerónimo Lopes Correia Mendes Godinho.
+
+311662156

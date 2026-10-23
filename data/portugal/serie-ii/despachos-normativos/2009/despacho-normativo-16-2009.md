@@ -46,41 +46,53 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/despacho-normativo/16-2009-1821744
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2009-04-07T00:00:00Z'
+  retrieved_at: '2026-10-23T15:07:10Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: db8bebc7db152d2f89be24a29b2a0ab84c2d71acbd8717f7deb9fde2651db5eb
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: ab8ad5df3e4ebbab1d7146c5e31c74e1a3230b91adbe0c898208bd8791243e69
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:07:10Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
-relationships: []
+subjects:
+- Escola Superior de Enfermagem
+- Estatuto
+- Homologação
+- Lisboa
+relationships:
+- type: cites
+  target: pt:dre:505637:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:640339:por
+  label: null
+  source: null
 article_structure:
-  article_count: 62
+  article_count: 63
   section_count: 14
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:07:10Z'
   warnings: []
   errors: []
 ---
 
-# Despacho Normativo n.º 16/2009
+# Despacho normativo n.º 16/2009
 
 Considerando que, nos termos do n.º 1 do artigo 172.º da [Lei n.º 62/2007](https://diariodarepublica.pt/dr/detalhe/lei/62-2007-640339), de 10 de Setembro, as instituições de ensino superior devem proceder à revisão dos seus estatutos, de modo a conformá-los com o novo Regime Jurídico das Instituições de Ensino Superior;
 
@@ -310,9 +322,7 @@ f) Elaborar o respectivo plano e relatório de actividades científico-pedagógi
 
 4 - Os serviços são dirigidos pelo administrador, sob orientação do presidente da ESEL, com excepção daqueles que, pela sua especificidade, sejam coordenados por um técnico superior da respectiva área funcional.
 
-Artigo .23.º
-
-Unidades diferenciadas
+###### Artigo .23.º — Unidades diferenciadas
 
 1 - As unidades diferenciadas prosseguem objectivos específicos e concorrem para a missão e fins da ESEL.
 
@@ -460,7 +470,7 @@ c) Dar posse ao presidente da ESEL;
 
 ###### Artigo 33.º — Eleição
 
-**O presidente da ESEL é eleito pelo conselho geral de acordo com o regulamento aprovado por este, com observância do disposto no artigo 86.º da [Lei n.º 62/2007](https://diariodarepublica.pt/dr/detalhe/lei/62-2007-640339) de 10 de Setembro (RJIES), de entre os professores e investigadores da ESEL ou de outras instituições, nacionais ou estrangeiras, de ensino superior ou de investigação bem como individualidades de reconhecido mérito e relevante experiência profissional.**
+O presidente da ESEL é eleito pelo conselho geral de acordo com o regulamento aprovado por este, com observância do disposto no artigo 86.º da [Lei n.º 62/2007](https://diariodarepublica.pt/dr/detalhe/lei/62-2007-640339) de 10 de Setembro (RJIES), de entre os professores e investigadores da ESEL ou de outras instituições, nacionais ou estrangeiras, de ensino superior ou de investigação bem como individualidades de reconhecido mérito e relevante experiência profissional.
 
 ###### Artigo 34.º — Mandato
 
@@ -856,4 +866,6 @@ As referências feitas na legislação em vigor às Escolas Superiores de Enferm
 
 Os presentes Estatutos entram em vigor no dia seguinte ao da sua publicação no Diário da República.
 
-[([ver documento original](https://files.diariodarepublica.pt/2s/2009/04/068000000/1385113857.pdf))](https://files.diariodarepublica.pt/2s/2009/04/068000000/1385113857.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/2s/2009/04/068000000/1385113857.pdf)
+
+201627358

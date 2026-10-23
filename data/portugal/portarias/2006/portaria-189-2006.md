@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2006/02/039b00/15141515.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/189/2006/02/23/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/189-2006-676648
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2008-08-11T00:00:00Z'
+  retrieved_at: '2026-10-23T15:12:33Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: bcdc1edb3a9f2c40c674e72f8d25e590a1ddcc94d2ef654438fe07d613497a8c
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 42c7381bdaed6969e4bd744c533087033ef67eedcf9bec5b4b27e083d31dd485
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:12:33Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -73,6 +73,13 @@ relationships:
   target: pt:dre:455638:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:455638:por
+  label: "Extinta a zona de caça municipal de Vale da Teja, concessionada pela Port 1062/2003, de 25-Set, alterada pela Port\
+    \ 390/2004, de 16-Abr e pelo presente diploma, (revogadas a partir de 16.08.2008) e concessionada, pelo período de 12\
+    \ anos, a zona de caça associativa de Vale da Teja, pela PORT.838/2008.11.08.2008.MADRP, DR.IS [154] de 11.08.2008\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/838-2008-455638
+  date: '2008-08-11'
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/201/2005/11/24/p/dre
   label: null
@@ -89,16 +96,32 @@ relationships:
   target: eli:http://data.dre.pt/eli/port/390/2004/04/16/p/dre
   label: null
   source: http://data.dre.pt/eli/port/390/2004/04/16/p/dre
+- type: cites
+  target: pt:dre:223830:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:480704:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:481498:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:492435:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:12:33Z'
   warnings: []
   errors: []
 ---

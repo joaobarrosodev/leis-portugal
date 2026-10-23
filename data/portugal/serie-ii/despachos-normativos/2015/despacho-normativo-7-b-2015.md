@@ -21,12 +21,12 @@ publication:
   reference: Diário da República n.º 88/2015, 2º Suplemento, Série II de 2015-05-07
   number: '88'
   series: II
-  supplement: 2º Suplemento
+  supplement: null
   pages: 11272-(7) a 11272-(12)
   pdf_url: https://files.diariodarepublica.pt/2s/2015/05/088000002/0000700012.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -48,45 +48,162 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/despacho-normativo/7-b-2015-67175402
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2018-06-19T00:00:00Z'
+  retrieved_at: '2026-10-23T15:08:03Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 3b54b4fc8dad70b47dd37f0393c97569f9f8dbef9eaf73b69ae27951f134bd21
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 290742e7ca0fe451575c1e4dbfeead605d7307946627c8e03204c2cbc03732dc
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:08:03Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Definição de Competências
+- Direção Geral dos Estabelecimentos Escolares
+- Educação dos Adultos
+- Educação Pré-escolar
+- Ensino Básico
+- Ensino Cooperativo
+- Ensino Oficial
+- Ensino Particular
+- Ensino Secundário
+- Estabelecimento de Ensino
+- Fiscalização
+- Gestão Escolar
+- Horário Escolar
+- Inspecção Geral da Educação e Ciência
+- Matrícula
+- Mudança de Curso
+- Prazo
+- REDE Escolar
 relationships:
 - type: amended_by
   target: pt:dre:115552668:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:74163183:por
+  label: Alterada a redação dos arts. 3.º, 6.º, 8.º, 9.º, 18.º, 19.º, 20.º, 22.º, 23.º, 25.º e 26.º pelo(a) Despacho Normativo
+    n.º 1-H/2016 - Diário da República n.º 73/2016, 2º Suplemento, Série II de 2016-04-14
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/despacho-normativo/1-h-2016-74163183
+  date: '2016-04-14'
+- type: amended_by
+  target: pt:dre:106888047:por
+  label: Alterados os arts. 6.º, 8.º, 9.º (os três na redação do DN 1-H/2016, de 14-abr) 14.º, 15.º, 19.º, 20.º (os dois últimos
+    na redação do DN 1-H/2016, de 14-abr), 21.º e 22.º( este na redação do DN 1-H/2016, de 14-abr) do presente diploma, pelo(a)
+    Despacho Normativo n.º 1-B/2017 - Diário da República n.º 75/2017, 1º Suplemento, Série II de 2017-04-17, que procede
+    à sua republicação
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/despacho-normativo/1-b-2017-106888047
+  date: '2017-04-17'
+- type: cites
+  target: pt:dre:1074099:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:1148201:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:174840:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:178527:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:179057:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:222418:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:2257578:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:245336:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:249230:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:249866:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:386871:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:488826:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:489733:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:516044:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:59009007:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:653145:por
+  label: null
+  source: null
+- type: corrected_by
+  target: pt:dre:67521717:por
+  label: Retificado o n.º 1 do art. 10.º pelo(a) Declaração de Retificação n.º 511/2015 - Diário da República n.º 117/2015,
+    Série II de 2015-06-18
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/declaracao-retificacao/511-2015-67521717
+  date: '2015-06-18'
+- type: repealed_by
+  target: pt:dre:115093805:por
+  label: Revogado, a partir de 13.04.2018, o presente diploma, na redação do DN 1-H/2016 de 14-abr e na versão alterada e
+    republicada pelo DN 1-B/2017 de 17-abr, pelo(a) Despacho Normativo n.º 6/2018 - Diário da República n.º 72/2018, Série
+    II de 2018-04-12, que manteve, contudo, transitoriamente em vigor nos termos do disposto no seu art. 20.º, os arts. 17.º
+    a 23.º e 25.º do presente despacho.
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/despacho-normativo/6-2018-115093805
+  date: '2018-04-12'
+- type: repealed_by
+  target: pt:dre:115552668:por
+  label: Revogados, a partir de 20.06.2018. os arts. 17.º a 23.º e 25.º do presente despacho, alterado pelo DN 1-H/2016 de
+    14-abr, na versão alterada e republicada pelo DN 1-B/2017 de 17-abr, e mantidos transitoriamente em vigor pelo DN 6/2018
+    de 12-abr, pelo(a) Despacho Normativo n.º 10-A/2018 - Diário da República n.º 116/2018, 1º Suplemento, Série II de 2018-06-19
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/despacho-normativo/10-a-2018-115552668
+  date: '2018-06-19'
 article_structure:
   article_count: 28
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:08:03Z'
   warnings: []
   errors: []
 ---
 
-# Despacho Normativo n.º 7-B/2015
+# Despacho normativo n.º 7-B/2015
 
 No desenvolvimento do Programa do XIX Governo Constitucional têm vindo gradualmente a ser adotadas várias medidas de política educativa nos domínios da autonomia, administração e gestão das escolas, entre as quais figura o regime de matrícula e de frequência no âmbito da escolaridade obrigatória das crianças e dos jovens com idades compreendidas entre os seis e os 18 anos.
 
@@ -529,3 +646,5 @@ VI - Disposições finais
 O presente despacho normativo entra em vigor no dia seguinte ao da sua publicação.
 
 7 de maio de 2015. - O Secretário de Estado do Ensino e da Administração Escolar, João Casanova de Almeida. - O Secretário de Estado do Ensino Básico e Secundário, Fernando José Egídio Reis.
+
+208624065

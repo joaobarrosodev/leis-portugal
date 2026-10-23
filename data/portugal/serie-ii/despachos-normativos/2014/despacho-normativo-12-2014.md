@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/2s/2014/09/168000000/2274222744.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,45 +46,67 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/despacho-normativo/12-2014-56385231
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2016-08-11T00:00:00Z'
+  retrieved_at: '2026-10-23T15:07:50Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: a98fa9d0232351ef50d212e06207fcd92e6ec7773e35bf32c7856cc4055f07f5
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 1c55d49f347939570a02f9b22f92168cb7ad2c2ad0c5ff9bc900c8843ce6d210
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:07:50Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Ensino Superior
+- Estatuto
+- Homologação
+- Universidade dos Açores
 relationships:
 - type: amended_by
   target: pt:dre:75129592:por
   label: Última alteração registada na importação inicial
   source: null
+- type: cites
+  target: pt:dre:1196781:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:1496400:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:640339:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:75129592:por
+  label: Revogados os Estatutos da Universidade dos Açores homologados pelo DN 65-A/2008 de 22-dez, na redação do presente
+    Despacho Normativo, pelo(a) Despacho Normativo n.º 8/2016 - Diário da República n.º 154/2016, Série II de 2016-08-11
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/despacho-normativo/8-2016-75129592
+  date: '2016-08-11'
 article_structure:
-  article_count: 8
+  article_count: 5
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:07:50Z'
   warnings: []
   errors: []
 ---
 
-# Despacho Normativo n.º 12/2014
+# Despacho normativo n.º 12/2014
 
 Os Estatutos da Universidade dos Açores foram homologados pelo [Despacho Normativo n.º 65-A/2008](https://diariodarepublica.pt/dr/detalhe/despacho-normativo/65-a-2008-1196781), de 10 de dezembro, publicado no Diário da República, 2.ª série, n.º 246, de 22 de dezembro de 2008;
 
@@ -104,7 +126,9 @@ Determino:
 
 25 de agosto de 2014. - O Secretário de Estado do Ensino Superior, ao abrigo de competência delegada pelo [Despacho n.º 10368/2013](https://diariodarepublica.pt/dr/detalhe/despacho/10368-2013-1496400), de 31 de julho, publicado no Diário da República, 2.ª série, n.º 152, de 8 de agosto de 2013, José Alberto Nunes Ferreira Gomes.
 
-## ANEXO — Artigo 1.º
+## ANEXO
+
+###### Artigo 1.º
 
 Objeto
 
@@ -178,7 +202,9 @@ z) ...
 
 5 - O despacho a que se refere o número anterior fixará os direitos e deveres dos respetivos membros, quando aplicável.
 
-###### Artigo 104.º — [...]
+Artigo 104.º
+
+[...]
 
 1 - A Universidade compreende os serviços necessários para garantir o adequado apoio às atividades por si desenvolvidas, designadamente, nas áreas académica, financeira e patrimonial, de recursos humanos, de biblioteca e arquivo, de infraestruturas e de apoio aos órgãos de governo.
 
@@ -186,7 +212,9 @@ z) ...
 
 3 - A estrutura, a orgânica e o funcionamento dos serviços a que se refere o presente artigo e as competências específicas do seu pessoal dirigente são definidas nos respetivos regulamentos, a aprovar pelo reitor.
 
-###### Artigo 105.º — Estrutura dirigente da Universidade
+Artigo 105.º
+
+Estrutura dirigente da Universidade
 
 1 - O administrador da Universidade é equiparado, para efeitos remuneratórios, a cargo de direção superior de 2.º grau.
 
@@ -206,7 +234,9 @@ e) Os coordenadores de missão correspondem a cargos de direção intermédia de
 
 4 - Os titulares dos cargos de direção intermédia referidos nas alíneas c), d) e e) do número anterior têm direito a uma remuneração base mensal de, respetivamente, 60 %, 50 % e 40 % do padrão fixado para o cargo de Diretor-Geral.
 
-###### Artigo 114.º — [...]
+Artigo 114.º
+
+[...]
 
 1 - ...
 
@@ -236,7 +266,9 @@ Bolseiros
 
 Os bolseiros de investigação e os bolseiros de gestão científica que desenvolvam as suas atividades no âmbito da Universidade enquanto entidade financiadora e ou acolhedora beneficiam do acesso a espaços físicos, equipamentos e outras facilidades, mediante registo na instituição.
 
-###### Artigo 17.º-B — Colaboradores eventuais
+Artigo 17.º-B
+
+Colaboradores eventuais
 
 1 - São colaboradores eventuais aqueles que, não tendo vínculo jurídico-laboral à Universidade, nela exerçam atividades, designadamente, ao abrigo de protocolos, projetos de investigação e prestações de serviços.
 
@@ -249,3 +281,5 @@ São revogados os artigos 106.º, 107.º, 108.º, 109.º, 110.º, 111.º, 112.º
 ###### Artigo 5.º — Norma transitória
 
 Os atuais serviços da Universidade dos Açores mantêm-se em funcionamento até à criação dos novos serviços, nos termos do artigo 104.º
+
+208054465

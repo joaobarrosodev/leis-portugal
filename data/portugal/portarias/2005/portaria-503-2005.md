@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/503/2005/06/06/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/503-2005-220366
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2005-06-06T00:00:00Z'
+  retrieved_at: '2026-10-23T15:06:45Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 4dfecc488fcc585121b7e1b3fb83b17877ad8b177ad502cef54353994a90fe47
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 1fcd96df3dd80d66cdc189c9598f5c2c2e57d7f28e14a5f8a9db5751cb0241b9
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:06:45Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,15 +66,15 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Financiamento
+- Agricultura
 - Apoio ao Investimento
-- Instituto Nacional de Intervenção e Garantia Agrícola
 - Exploração Agrícola
-- Ruris
+- Financiamento
+- Ifadap
+- Instituto Nacional de Intervenção e Garantia Agrícola
 - Regulamento
 - Regulamento de Aplicação dos Planos Zonais
-- Agricultura
-- Ifadap
+- Ruris
 relationships:
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/64/2004/03/22/p/dre
@@ -84,16 +84,24 @@ relationships:
   target: eli:http://data.dre.pt/eli/port/176/2005/02/14/p/dre
   label: null
   source: http://data.dre.pt/eli/port/176/2005/02/14/p/dre
+- type: cites
+  target: pt:dre:541267:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:596290:por
+  label: null
+  source: null
 article_structure:
-  article_count: 11
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:06:45Z'
   warnings: []
   errors: []
 ---
@@ -120,7 +128,9 @@ Manda o Governo, pelo Ministro da Agricultura, do Desenvolvimento Rural e das Pe
 
 O âmbito geográfico de aplicação do presente regime de ajudas abrange as freguesias situadas no todo ou em parte na delimitação geográfica constante do anexo I deste Regulamento.
 
-###### Artigo 8.º — [...]
+Artigo 8.º
+
+[...]
 
 1 - ...
 
@@ -164,7 +174,9 @@ c) ...
 
 5 - ...
 
-###### Artigo 11.º — [...]
+Artigo 11.º
+
+[...]
 
 1 - ...
 
@@ -210,7 +222,9 @@ iii) ...
 
 4 - Para efeitos do disposto na alínea b) do número anterior, devem os beneficiários apresentar um plano de recuperação aprovado pela estrutura local de apoio, o qual pode ser revisto anualmente, devendo a sua alteração ser aprovada pela mesma entidade e apresentada aquando da confirmação anual subsequente.
 
-###### Artigo 12.º — [...]
+Artigo 12.º
+
+[...]
 
 1 - ...
 
@@ -242,7 +256,9 @@ d) ...
 
 7 - ...
 
-###### Artigo 14.º — [...]
+Artigo 14.º
+
+[...]
 
 1 - ...
 
@@ -336,7 +352,9 @@ ii) ...
 
 6 - ...
 
-###### Artigo 17.º — [...]
+Artigo 17.º
+
+[...]
 
 1 - ...
 
@@ -444,7 +462,9 @@ ii) Manter o bom estado sanitário do pomar.
 
 7 - ...
 
-###### Artigo 18.º — [...]
+Artigo 18.º
+
+[...]
 
 1 - ...
 
@@ -498,7 +518,9 @@ b) ...
 
 c) ...
 
-###### Artigo 20.º — [...]
+Artigo 20.º
+
+[...]
 
 1 - ...
 
@@ -550,7 +572,9 @@ b) ...
 
 5 - ...
 
-###### Artigo 23.º — [...]
+Artigo 23.º
+
+[...]
 
 1 - ...
 
@@ -586,7 +610,9 @@ m) ...
 
 5 - ...
 
-###### Artigo 24.º — [...]
+Artigo 24.º
+
+[...]
 
 1 - ...
 
@@ -620,7 +646,9 @@ b) ...
 
 c) ...
 
-###### Artigo 25.º — [...]
+Artigo 25.º
+
+[...]
 
 1 - ...
 
@@ -644,7 +672,9 @@ c) ...
 
 6 - ...
 
-###### Artigo 26.º — [...]
+Artigo 26.º
+
+[...]
 
 1 - ...
 
@@ -700,19 +730,19 @@ c) ...
 
 ## ANEXO I — [...]
 
-[(ver anexo no documento original)](https://files.diariodarepublica.pt/1s/2005/06/108b00/36143618.pdf)
+[[[(ver anexo no documento original)](https://files.diariodarepublica.pt/1s/2005/06/108b00/36143618.pdf)](https://files.diariodarepublica.pt/1s/2005/06/108b00/36143618.pdf)](https://files.diariodarepublica.pt/1s/2005/06/108b00/36143618.pdf)
 
 3.º No anexo IV do Regulamento de Aplicação dos Planos Zonais na intervenção «Medidas agro-ambientais», aprovado pela [Portaria n.º 176/2005](https://diariodarepublica.pt/dr/detalhe/portaria/176-2005-596290), de 14 de Fevereiro, a coluna referente aos compromissos, no âmbito da medida «Apoio às explorações agrícolas» do Plano Zonal do Parque Nacional da Peneda-Gerês, do Plano Zonal do Parque Natural de Montesinho, do Plano Zonal do Parque Natural da Serra da Estrela, do Plano Zonal do Parque Natural do Tejo Internacional e do Plano Zonal do Parque Natural das Serras de Aire e Candeeiros, passa a ter a seguinte redacção:
 
 ## ANEXO IV — [...]
 
-[(ver anexo no documento original)](https://files.diariodarepublica.pt/1s/2005/06/108b00/36143618.pdf)
+[[[(ver anexo no documento original)](https://files.diariodarepublica.pt/1s/2005/06/108b00/36143618.pdf)](https://files.diariodarepublica.pt/1s/2005/06/108b00/36143618.pdf)](https://files.diariodarepublica.pt/1s/2005/06/108b00/36143618.pdf)
 
 4.º O anexo V do Regulamento de Aplicação dos Planos Zonais na intervenção «Medidas agro-ambientais», aprovado pela [Portaria n.º 176/2005](https://diariodarepublica.pt/dr/detalhe/portaria/176-2005-596290), de 14 de Fevereiro, passa ter a seguinte redacção:
 
 ## ANEXO V — [...]
 
-[(ver anexo no documento original)](https://files.diariodarepublica.pt/1s/2005/06/108b00/36143618.pdf)
+[[[(ver anexo no documento original)](https://files.diariodarepublica.pt/1s/2005/06/108b00/36143618.pdf)](https://files.diariodarepublica.pt/1s/2005/06/108b00/36143618.pdf)](https://files.diariodarepublica.pt/1s/2005/06/108b00/36143618.pdf)
 
 5.º O disposto no presente diploma aplica-se às candidaturas apresentadas na presente campanha.
 

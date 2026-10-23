@@ -46,25 +46,30 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/despacho-normativo/60-2008-2963597
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2008-11-25T00:00:00Z'
+  retrieved_at: '2026-10-23T15:07:04Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 65633ddff2fb29087ce87281b090f5ba06b58c2598e131a5dc4a8a9caf5c794a
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 7b875e7204101a3151588ad318a6396da64a339b918dc227cbe7170db9e3f791
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:07:04Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Agricultura
+- Certificado de Qualidade
+- Lista
+- Prémio
+- Trigo
 relationships:
 - type: cites
   target: celex:32003R1782
@@ -74,21 +79,33 @@ relationships:
   target: celex:32004R1973
   label: null
   source: null
+- type: cites
+  target: pt:dre:2324730:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:541853:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:566004:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:07:04Z'
   warnings: []
   errors: []
 ---
 
-# Despacho Normativo n.º 60/2008
+# Despacho normativo n.º 60/2008
 
 O [Despacho Normativo n.º 45/2004](https://diariodarepublica.pt/dr/detalhe/despacho-normativo/45-2004-566004), de 28 de Outubro, estabeleceu as regras nacionais de aplicação previstas no capítulo 2 do Regulamento (CE) n.º 1973/2004, da Comissão, de 29 de Outubro, no que diz respeito aos procedimentos a observar, com vista ao estabelecimento da lista de variedades de trigo duro elegíveis para o prémio específico à qualidade criado pelo Regulamento (CE) n.º 1782/2003, do Conselho, de 29 de Setembro.
 

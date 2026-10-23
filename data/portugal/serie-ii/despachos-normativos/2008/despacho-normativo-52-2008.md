@@ -46,25 +46,29 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/despacho-normativo/52-2008-2417222
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2008-10-09T00:00:00Z'
+  retrieved_at: '2026-10-23T15:07:00Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 347950ee385d3876dae4dd3ab48849789f516877d423727ae4eb7873af6210eb
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 497f02fb23217223a1daf094dc936b9cde34268e82b49e0423dece5e3ec2cbee
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:07:00Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Açúcar
+- Financiamento
+- Ifadap
+- Produtor
 relationships:
 - type: cites
   target: celex:32006R0318
@@ -83,15 +87,15 @@ relationships:
   label: null
   source: null
 article_structure:
-  article_count: 3
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:07:00Z'
   warnings: []
   errors: []
 ---
@@ -118,7 +122,9 @@ Assim, ao abrigo do disposto no artigo 3.º do Regulamento (CE) n.º 320/2006, d
 
 3 - Os produtores que não tenham entregue beterraba sacarina nos termos do n.º 1 por motivos de força maior mantêm o direito à ajuda.
 
-###### Artigo 5.º — [...]
+Artigo 5.º
+
+[...]
 
 1 - Os valores da ajuda a atribuir para as campanhas de 2006-2007, 2007-2008 e 2008-2009 são de (euro) 899 820, (euro) 1 395 030 e (euro) 328 125, respectivamente.
 
@@ -142,7 +148,9 @@ Ajuda
 
 As empresas mencionadas na alínea a) do n.º 8 do artigo 3.º do Regulamento (CE) n.º 320/2006, recebem um montante de (euro) 12,92 por tonelada de açúcar renunciado.
 
-###### Artigo 5.º — [...]
+Artigo 5.º
+
+[...]
 
 1 - ...
 
@@ -152,7 +160,9 @@ As empresas mencionadas na alínea a) do n.º 8 do artigo 3.º do Regulamento (C
 
 4 - São também atribuídos nos termos do n.º 2 aos produtores de beterraba sacarina que se encontrem nas condições referidas na alínea b) do n.º 8 do artigo 3.º do Regulamento (CE) n.º 320/2006, os montantes retroactivos de (euro) 8 235 025 e de (euro) 3 662 880, respectivamente, a título das campanhas de comercialização 2006-2007 e 2007-2008.
 
-###### Artigo 6.º — [...]
+Artigo 6.º
+
+[...]
 
 ...
 

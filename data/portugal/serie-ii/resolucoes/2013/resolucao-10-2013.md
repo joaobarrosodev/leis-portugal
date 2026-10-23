@@ -46,36 +46,68 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/resolucao/10-2013-2316175
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2013-04-24T00:00:00Z'
+  retrieved_at: '2026-10-23T15:15:03Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 4537d0a85f0827efa2c8a32ec491b894e4ba868b4f145b5d21f837efd8f2a79c
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: e5f5f6669a3278bb6b8a1ec3b0a8da8848016dbf8066368e5be1c4014409a8da
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:15:03Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
-relationships: []
+subjects:
+- Conselho de Administração
+- Nomeação
+- Presidente
+- Serviços Partilhados do Ministério da Saúde
+relationships:
+- type: cites
+  target: pt:dre:146212:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:191077:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:520259:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:543034:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:544415:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:553924:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:611341:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:15:03Z'
   warnings: []
   errors: []
 ---
@@ -111,3 +143,5 @@ Percurso académico: Licenciatura em Medicina, Faculdade de Ciências Médicas d
 Grau de Especialista em Medicina Interna; Hospital Professor Doutor Fernando Fonseca (2011)
 
 Percurso profissional: Médico estagiário do Internato geral no Hospital Professor Doutor Fernando Fonseca (HFF) de janeiro de 2001 a setembro de 2002. Médico estagiário do Internado Complementar de Medicina Interna de junho 2005 a março de 2011. Trabalha médico no Centro de Bem-Estar Social de Queluz desde 2006 e como médico especialista de Medicina Interna desde abril 2011 no HFF. É Professor Auxiliar Convidado na Faculdade de Ciências da Saúde, Universidade da beira Interior, onde criou em 2005 e leciona atualmente a primeira formação obrigatória em Liderança e Gestão da Saúde para estudantes de medicina (2005-à data). Trabalha como Professor Convidado na Católica Lisbon School of Business and Economics - Universidade Católica Portuguesa, onde coordena desde 2007 os programas de executivos na área da Saúde (2007-à data). É coordenador da informação clinica e do Centro de Investigação e Criatividade em Informática do HFF (2009-à data). Indigitado como coordenador da Comissão para a Informatização Clinica do Ministério da Saúde por despacho do Senhor Secretário de Estado da Saúde (2011-à data); Coordenador do projeto epSOS e representante Nacional para eHealth Network (2012-à data).
+
+9772013

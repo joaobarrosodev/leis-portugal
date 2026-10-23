@@ -19,7 +19,7 @@ publication:
   reference: Diário da República n.º 77/2013, 1º Suplemento, Série II de 2013-04-19
   number: '77'
   series: II
-  supplement: 1º Suplemento
+  supplement: null
   pages: 13056-(2) a 13056-(13)
   pdf_url: https://files.diariodarepublica.pt/2s/2013/04/077000001/0000200013.pdf
 entry_into_force_dates: []
@@ -46,45 +46,91 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/despacho-normativo/5-a-2013-1864678
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2020-08-04T00:00:00Z'
+  retrieved_at: '2026-10-23T15:07:48Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 61d74dd907ba9765f1cd1a731bda5c3065ed016f0eab6d12a050727b2ee4b673
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 676bb721bec6a76328b4abffdccedde0d8bbf25136391dcef1dff6899edac034
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:07:48Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Ensino Superior
+- Estatuto
+- Homologação
+- Universidade de Lisboa
 relationships:
 - type: amended_by
   target: pt:dre:139459994:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:73769155:por
+  label: Homologadas as alterações aos Estatutos da Universidade de Lisboa pelo(a) Despacho Normativo n.º 1-A/2016 - Diário
+    da República n.º 42/2016, 2º Suplemento, Série II de 2016-03-01
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/despacho-normativo/1-a-2016-73769155
+  date: '2016-03-01'
+- type: amended_by
+  target: pt:dre:122278100:por
+  label: Homologadas as alterações aos Estatutos da Universidade de Lisboa homologados pelo presente Despacho, na versão republicada
+    dos Estatutos pelo DN 1-A/2016 de 01-mar, pelo(a) Despacho Normativo n.º 14/2019 - Diário da República n.º 90/2019, Série
+    II de 2019-05-10
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/despacho-normativo/14-2019-122278100
+  date: '2019-05-10'
+- type: amended_by
+  target: pt:dre:139459994:por
+  label: Homologados e publicados em anexo as alterações aos arts. 1.º, 5.º e 6.º do Anexo I dos Estatutos do Instituto Politécnico
+    de Coimbra,pelo(a) Despacho Normativo n.º 8/2020 - Diário da República n.º 150/2020, Série II de 2020-08-04
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/despacho-normativo/8-2020-139459994
+  date: '2020-08-04'
+- type: amended_by
+  target: pt:dre:1138561653:por
+  label: Alterado, a partir de 27 de junho de 2026, o artigo 5.º do anexo i aos Estatutos da Universidade de Lisboa, homologados
+    pelo presente despacho, pelo(a) Despacho n.º 8062/2026 - Diário da República n.º 122/2026, Série II de 2026-06-26
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/despacho/8062-2026-1138561653
+  date: '2026-06-25'
+- type: cites
+  target: pt:dre:632432:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:640339:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:69920316:por
+  label: Revogado, extinguindo por fusão o Instituto de Investigação Científica e Tropical, I.P. (IICT, I.P.) constante do
+    Dec Lei 18/2012, de 27-jan, e determinada a integração das suas atribuições, nos termos do artigo 3.º, respetivamente
+    na Universidade de Lisboa (UL) cujos Estatutos, foram homologados pelo presente Despacho e na Direção-Geral do Livro,
+    Arquivo e Bibliotecas (DGLAB), com a orgânica constante do Dec Lei 103/2012, de 16-maio, pelo(a) Decreto-Lei n.º 141/2015
+    - Diário da República n.º 148/2015, Série I de 2015-07-31
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/141-2015-69920316
+  date: '2015-07-31'
 article_structure:
-  article_count: 76
-  section_count: 18
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  article_count: 77
+  section_count: 19
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:07:48Z'
   warnings: []
   errors: []
 ---
 
-# Despacho Normativo n.º 5-A/2013
+# Despacho normativo n.º 5-A/2013
 
 Considerando que, nos termos do n.º 1 do artigo 69.º da [Lei n.º 62/2007](https://diariodarepublica.pt/dr/detalhe/lei/62-2007-640339), de 10 de setembro, os estatutos das instituições de ensino superior públicas e as suas alterações carecem de homologação governamental, a qual é dada ou recusada no prazo de 60 dias, por despacho normativo do ministro da tutela;
 
@@ -932,7 +978,9 @@ b) Em qualquer momento, por deliberação de dois terços dos membros do Conselh
 
 ## ANEXO I — Organização e Funcionamento dos Serviços da Universidade de Lisboa e das suas Escolas
 
-### Capítulo I — Parte Geral
+### Capítulo I
+
+## Parte Geral
 
 ###### Artigo 1.º — Objeto
 
@@ -1048,7 +1096,9 @@ As disposições constantes do presente anexo entram em vigor com a aprovação 
 
 Salvo para efeitos de recrutamento dos dirigentes previstos nas alíneas a) a g) do artigo 5.º e a) do artigo 6.º, em tudo o que não estiver especialmente previsto no presente anexo aplica-se o disposto no Estatuto do Pessoal Dirigente.
 
-## ANEXO II — Artigo 1.º
+## ANEXO II
+
+###### Artigo 1.º
 
 Escolas
 
@@ -1124,7 +1174,7 @@ O presente Regulamento contempla uma situação singular de criação de uma nov
 
 As funções habitualmente atribuídas ao Reitor são desempenhadas pelos reitores das duas Universidades e concretizadas através de despachos reitorais conjuntos.
 
-**O Presidente do Estádio Universitário de Lisboa foi ouvido na elaboração do presente regulamento.**
+O Presidente do Estádio Universitário de Lisboa foi ouvido na elaboração do presente regulamento.
 
 ### Capítulo I — Eleições
 
@@ -1329,3 +1379,5 @@ c) É eleito, em cada um dos círculos eleitorais, o candidato efetivo da lista 
 5 - Em tudo o mais as eleições decorrem de acordo com os princípios estabelecidos neste Regulamento, com as necessárias adaptações.
 
 6 - Até à eleição do Reitor o Senado é presidido rotativamente pelos Reitores da Universidade de Lisboa e da Universidade Técnica de Lisboa.
+
+206908907

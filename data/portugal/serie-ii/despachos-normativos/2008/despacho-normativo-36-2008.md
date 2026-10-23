@@ -46,45 +46,68 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/despacho-normativo/36-2008-2658980
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2012-10-04T00:00:00Z'
+  retrieved_at: '2026-10-23T15:06:55Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 9a3de3a9131a23076af07e189e86e112ef90b48ff3fbe4e4ead9b10f83a478b9
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: b27042b5bfc1f42b2524b92df6531e23012db6dd149f7ed4df1e1e1fcd9d6676
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:06:55Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Autonomia Universitária
+- Ensino Oficial
+- Ensino Superior
+- Estatuto
+- Estatuto das Universidades
+- Homologação
+- Universidade de Lisboa
 relationships:
 - type: amended_by
   target: pt:dre:1094974:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:2966364:por
+  label: "Homologada a alteração aos arts. 8º, 23º, 25º, 30º, 31º, 33º, 37º, 38º, 40º, 49º, 53º, 54º, 55º, 56º e 58º dos Estatutos\
+    \ da Universidade de Lisboa, pelo DN.15/2011.29.11.2011.SEES-MECI, DR.IIS [229] de 29.11.2011\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/despacho-normativo/15-2011-2966364
+  date: '2011-11-29'
+- type: amended_by
+  target: pt:dre:1094974:por
+  label: "Homologada a alteração do Anexo aos Estatutos da Universidade de Lisboa homologados pelo presente diploma e publicados\
+    \ em anexo pelo DN.21/2012.04.10.2012.SEES-MECI, DR.IIS [193] de 04.10.2012\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/despacho-normativo/21-2012-1094974
+  date: '2012-10-04'
+- type: cites
+  target: pt:dre:640339:por
+  label: null
+  source: null
 article_structure:
-  article_count: 63
+  article_count: 64
   section_count: 10
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:06:55Z'
   warnings: []
   errors: []
 ---
 
-# Despacho Normativo n.º 36/2008
+# Despacho normativo n.º 36/2008
 
 Considerando que nos termos do n.º 1 do artigo 172.º da [Lei n.º 62/2007](https://diariodarepublica.pt/dr/detalhe/lei/62-2007-640339), de 10 de Setembro, as instituições de ensino superior procedem à revisão dos seus estatutos de modo a conformá-los com o novo regime jurídico das instituições de ensino superior;
 
@@ -750,7 +773,9 @@ c) Qualquer membro do conselho geral.
 
 Os presentes estatutos entram em vigor cinco dias após a sua publicação no Diário da República.
 
-## ANEXO — Artigo 1.º
+## ANEXO
+
+###### Artigo 1.º
 
 Unidades orgânicas de ensino e investigação
 

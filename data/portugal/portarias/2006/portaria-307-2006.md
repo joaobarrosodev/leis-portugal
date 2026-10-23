@@ -48,18 +48,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/307/2006/03/28/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/307-2006-671919
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2006-03-28T00:00:00Z'
+  retrieved_at: '2026-10-23T15:13:15Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: d9d2d4ae1642e5dbe12d4c27f31263f0d34739d22fc21e4ef4b8dfe7ec14a146
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 90d7fbd707a1cbb060ca1c41d48cb2116fc5aecd8c50765bd981fe7c64506e4c
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:13:15Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -68,14 +68,14 @@ reuse:
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
 - Financiamento
-- Reconversão da Produção
-- Projeto de Investimento
 - Instituto Nacional de Intervenção e Garantia Agrícola
-- Tabaco
+- Modernização do Sector Agrícola
 - Política Agrícola Comum
 - Produção Agrícola
+- Projeto de Investimento
+- Reconversão da Produção
 - Regulamento CE
-- Modernização do Sector Agrícola
+- Tabaco
 relationships:
 - type: cites
   target: celex:31992R2075
@@ -104,13 +104,13 @@ relationships:
 article_structure:
   article_count: 2
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:13:15Z'
   warnings: []
   errors: []
 ---
@@ -151,4 +151,4 @@ Os n.os 2 e 3 do n.º 4.º e os n.os 1 e 2 do n.º 6.º da Portaria n.º 384/200
 
 A presente portaria entra em vigor no dia seguinte ao da sua publicação.
 
-**O Ministro da Agricultura, do Desenvolvimento Rural e das Pescas, Jaime de Jesus Lopes Silva, em 15 de Março de 2006.**
+O Ministro da Agricultura, do Desenvolvimento Rural e das Pescas, Jaime de Jesus Lopes Silva, em 15 de Março de 2006.

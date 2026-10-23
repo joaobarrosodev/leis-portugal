@@ -46,41 +46,70 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/despacho-normativo/33-2007-1518704
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2007-09-12T00:00:00Z'
+  retrieved_at: '2026-10-23T15:06:40Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 36cb489548b66ab0a5df82bf5456f35a35539405c167b1a84a7e2cff74681256
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: a3d12758ce05b07da1d0f7cb06fa16c6fc66dbbebc41fae9caed1a830c64016b
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:06:40Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
-relationships: []
+subjects:
+- Cortiça
+- Direcção Geral dos Recursos Florestais
+- Financiamento
+- Incêndio
+- Regime de Apoio
+relationships:
+- type: cites
+  target: pt:dre:240462:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:261882:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:562393:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:582224:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:607106:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:626252:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:06:40Z'
   warnings: []
   errors: []
 ---
 
-# Despacho Normativo n.º 33/2007
+# Despacho normativo n.º 33/2007
 
 A [Resolução do Conselho de Ministros n.º 8/2004](https://diariodarepublica.pt/dr/detalhe/resolucao-conselho-ministros/8-2004-582224), de 6 de Fevereiro, alargou o âmbito de aplicação da intervenção prevista no n.º 4 do anexo à [Resolução do Conselho de Ministros n.º 106-B/2003](https://diariodarepublica.pt/dr/detalhe/resolucao-conselho-ministros/106-b-2003-607106), de 11 de Agosto, à cortiça e sobreiros afectados pelos incêndios do Verão de 2003, tendo sido publicado, em sua execução, o [Despacho Normativo n.º 27/2004](https://diariodarepublica.pt/dr/detalhe/despacho-normativo/27-2004-261882), de 2 de Junho. Essa publicação permitiu que os produtores que formalizassem as suas candidaturas até 30 de Junho de 2004 pudessem beneficiar dos apoios concedidos se as acções a realizar não ultrapassassem o dia 30 de Setembro de 2008.
 

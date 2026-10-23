@@ -48,18 +48,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/471/2005/05/10/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/471-2005-693870
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2005-05-10T00:00:00Z'
+  retrieved_at: '2026-10-23T15:06:32Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 49da2848c9ff166530eff817a4290e33331f3540240427ee0d257e641f90671b
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 52d57c07ddbd137ff5a43ebcb50122781a0ae01dc4cf510bfe7ed88bdde294fb
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:06:32Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -103,16 +103,48 @@ relationships:
   target: eli:http://data.dre.pt/eli/port/754/2004/06/30/p/dre
   label: null
   source: http://data.dre.pt/eli/port/754/2004/06/30/p/dre
+- type: cites
+  target: pt:dre:193421:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:303162:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:434640:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:480704:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:517591:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:534644:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:536243:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:603031:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:06:32Z'
   warnings: []
   errors: []
 ---
@@ -141,6 +173,6 @@ Manda o Governo, pelo Ministro da Agricultura, do Desenvolvimento Rural e das Pe
 
 6.º É revogada a [Portaria n.º 754/2004](https://diariodarepublica.pt/dr/detalhe/portaria/754-2004-517591), de 30 de Junho.
 
-**O Ministro da Agricultura, do Desenvolvimento Rural e das Pescas, Jaime de Jesus Lopes Silva, em 8 de Abril de 2005.**
+O Ministro da Agricultura, do Desenvolvimento Rural e das Pescas, Jaime de Jesus Lopes Silva, em 8 de Abril de 2005.
 
 [(ver planta no documento original)](https://files.diariodarepublica.pt/1s/2005/05/090b00/33193320.pdf)

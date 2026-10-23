@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2005/08/149b00/45044506.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/637/2005/08/04/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/637-2005-240612
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2010-12-23T00:00:00Z'
+  retrieved_at: '2026-10-23T15:07:32Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: ee1fc47408776eb437328cd7ed9427d43f7aa572ec5ec2f57436c6256b47a0ca
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 1c42d7ed8fa4e6a8cb02991efeee3daab204e2b2ab22535b5aec3add2bd6f036
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:07:32Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,21 +66,34 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- PSP
 - Alvará
 - Armazenagem
-- Serviço Nacional de Bombeiros e Protecção Civil
 - Estabelecimento Industrial
 - Fabrico Industrial
 - Fundo de Fiscalização de Explosivos e Armamento
 - Licenciamento
 - Pirotecnia
+- PSP
+- Serviço Nacional de Bombeiros e Protecção Civil
 - Taxa
 relationships:
 - type: amended_by
   target: pt:dre:306471:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:582997:por
+  label: "Alterado o anexo III (tabela relativa às taxas para o Fundo de Fiscalização de Explosivos e Armamento) constante\
+    \ do presente diploma, pela PORT.1148/2005.09.11.2005.MAI, DR.IS-B [215] de 09.11.2005\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/1148-2005-582997
+  date: '2005-11-09'
+- type: amended_by
+  target: pt:dre:640579:por
+  label: "Alterado o anexo III (tabela relativa às taxas para o Fundo de Fiscalização de Explosivos e Armamento), a que se\
+    \ refere o nº 4º do presente diploma, alterado pela Port 1148/2005 de 09-Nov, pela PORT.1165/2007.13.09.2007.MAI, DR.IS\
+    \ [177] de 13.09.2007\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/1165-2007-640579
+  date: '2007-09-13'
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/139/2002/05/17/p/dre
   label: null
@@ -93,16 +106,48 @@ relationships:
   target: eli:http://data.dre.pt/eli/dec-lei/87/2005/05/23/p/dre
   label: null
   source: http://data.dre.pt/eli/dec-lei/87/2005/05/23/p/dre
+- type: cites
+  target: pt:dre:158636:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:521445:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:692396:por
+  label: null
+  source: null
+- type: corrected_by
+  target: pt:dre:143334:por
+  label: "Rectificada pela DECL-RECT.66/2005.07.09.2005.PCM, DR.IS-B [177] de 14.09.2005\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/declaracao-rectificacao/66-2005-143334
+  date: '2005-09-07'
+- type: repealed_by
+  target: pt:dre:306901:por
+  label: "Revogada a presente portaria, a partir de 01.01.2011, rectificada pela Decl Rect 66/2005, de 14-Set, e na redacção\
+    \ da Port 1148/2005, de 09-Nov, e da Port 1165/2007, de 13-Set, pela PORT.1231/2010.09.12.2010.MAI, DR.IS [237] de 09.12.2010\0\
+    \0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/1231-2010-306901
+  date: '2010-12-09'
+- type: repealed_by
+  target: pt:dre:306471:por
+  label: "Revogado, com efeitos a partir de 01.01.2011, o art. 3º da Port 1165/2007 de 13-Set, na alteração que introduziu\
+    \ ao anexo III - tabela relativa às taxas para o Fundo de de Fiscalização de Explosivos e Armamento - do presente diploma,\
+    \ posteriormente alterado pela Port 1148/2005 de 05-Nov, pela PORT.1307/2010.23.12.2010.MAI, DR.IS [247] de 23.12.2010\0\
+    \0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/1307-2010-306471
+  date: '2010-12-23'
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:07:32Z'
   warnings: []
   errors: []
 ---
@@ -161,7 +206,7 @@ Entrada em vigor
 
 O presente diploma entra em vigor no dia imediato ao da sua publicação.
 
-**O Secretário de Estado Adjunto e da Administração Interna, José Manuel Santos de Magalhães, em 23 de Junho de 2005.**
+O Secretário de Estado Adjunto e da Administração Interna, José Manuel Santos de Magalhães, em 23 de Junho de 2005.
 
 ## ANEXO I — [a que se refere a alínea b) do n.º 3.º]
 
@@ -169,17 +214,17 @@ Quadro dos factores de dimensão (FD) dos estabelecimentos fabris e de armazenag
 
 Estabelecimentos fabris
 
-[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2005/08/149b00/45044506.pdf)
+[[[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2005/08/149b00/45044506.pdf)](https://files.diariodarepublica.pt/1s/2005/08/149b00/45044506.pdf)](https://files.diariodarepublica.pt/1s/2005/08/149b00/45044506.pdf)
 
 Estabelecimentos de armazenagem
 
-[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2005/08/149b00/45044506.pdf)
+[[[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2005/08/149b00/45044506.pdf)](https://files.diariodarepublica.pt/1s/2005/08/149b00/45044506.pdf)](https://files.diariodarepublica.pt/1s/2005/08/149b00/45044506.pdf)
 
 ## ANEXO II — [a que se refere a alínea b) do n.º 3.º]
 
 Quadro de factores de serviço (FS) dos actos e procedimentos a aplicar para efeitos de cálculo das taxas
 
-[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2005/08/149b00/45044506.pdf)
+[[[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2005/08/149b00/45044506.pdf)](https://files.diariodarepublica.pt/1s/2005/08/149b00/45044506.pdf)](https://files.diariodarepublica.pt/1s/2005/08/149b00/45044506.pdf)
 
 ## ANEXO III — (a que se refere o n.º 4.º)
 

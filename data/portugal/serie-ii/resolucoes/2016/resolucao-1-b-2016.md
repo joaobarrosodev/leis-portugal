@@ -19,12 +19,12 @@ publication:
   reference: Diário da República n.º 9/2016, 1º Suplemento, Série II de 2016-01-14
   number: '9'
   series: II
-  supplement: 1º Suplemento
+  supplement: null
   pages: 1512-(2) a 1512-(3)
   pdf_url: https://files.diariodarepublica.pt/2s/2016/01/009000001/0000200003.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -46,36 +46,62 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/resolucao/1-b-2016-73163682
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2016-01-14T00:00:00Z'
+  retrieved_at: '2026-10-23T15:15:47Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: f92afe5c86a3e3596fc1983b39b0eea5fe7c666f7244dbe535cc7f29dfdc05fb
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: dbd247cd0028ebdba056a35289d5b56ad409642a84b4fd32c99df2fd4d1bc9f0
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:15:47Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
-relationships: []
+subjects:
+- Conselho Diretivo
+- Infarmed
+- Nomeação
+- Presidente
+- Vice-presidente
+- Vogal
+relationships:
+- type: cites
+  target: pt:dre:520259:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:542588:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:544415:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:553466:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:67356991:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:15:47Z'
   warnings: []
   errors: []
 ---
@@ -125,3 +151,5 @@ Outros elementos: Em abril 2004, foi-lhe atribuído o Prémio Almofariz «Person
 Hélder Dias Mota-Filipe
 
 Licenciado em Ciências Farmacêuticas e Doutor em Farmacologia. Professor associado da Faculdade de Farmácia da Universidade de Lisboa e responsável pelo Departamento de Sócio-Farmácia da Faculdade de Farmácia de Universidade de Lisboa. Presidente do INFARMED - Autoridade Nacional do Medicamento e Produtos de Saúde, I. P. desde 01/11/2015 e Vice-Presidente do INFARMED, I. P. entre 2005-2015. Membro do Conselho de Administração da Agência Europeia do Medicamento (EMA). Membro da HTA Network (Comissão Europeia). Membro do Comité Farmacêutico (Comissão Europeia). Especialista em Assuntos Regulamentares (Ordem dos Farmacêuticos). Perito da Agência Europeia do Medicamento (EMA). Membro da Comissão de Avaliação de Medicamentos (INFARMED, I. P.) (1996-2013). Membro da Comissão de Ética para a Investigação Clínica (2005). Membro do Comité de Medicamentos de Uso Humano (CHMP, EMA, Londres) (2011-2012), Responsável pela orientação de seis teses de doutoramento e mais de uma dezena de teses de mestrado nas áreas da farmacologia e da medicina experimental. Autor de mais de uma centena de publicações em revistas científicas internacionais com arbitragem científica nas áreas da farmacologia, da medicina experimental, da utilização de medicamentos e da ciência regulamentar e de mais de 300 comunicações em reuniões científicas nas áreas da farmacologia, da medicina experimental e da ciência regulamentar de medicamentos e produtos da saúde.
+
+209271474

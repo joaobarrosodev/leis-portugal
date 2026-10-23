@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/2s/2010/03/052000000/1237012410.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,45 +46,167 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/despacho-normativo/7-2010-2224480
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2012-04-10T00:00:00Z'
+  retrieved_at: '2026-10-23T15:07:30Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: d3e53fe352b89bb543f48713f5b60450d0949feb44d37f3c959d32d4dd236fdc
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: f1cccab6ce1faaf456668ad0c55e8d533a6576edf2d8688b4f311091b7eb37ef
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:07:30Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Avaliação de Conhecimentos
+- Ensino Artístico
+- Ensino Básico
+- Ensino Técnico Profissional
+- Ensino Tecnológico
+- Equivalência de Habilitações Literárias
+- Exame
+- Plano de Estudos
+- Regulamento
+- Sistema Educativo
 relationships:
 - type: amended_by
   target: pt:dre:1089021:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:965091:por
+  label: "Alterados os nºs 1.6, 10.3, 10.4, 12.2, 14.2, 15.1, 15.3, 18.5, 19.1.2 , 26.7, 26.9 e 26.10 do Regulamento dos Exames\
+    \ do Ensino Básico, constante do anexo ii, alterados ainda os nºs 1.2, 1.3, 1.4.2 (aditado pelo presente diploma), 3.1,\
+    \ 7.1.2, 12.1.1, 20.3, 21.1, 22.3, 36.2.1 e 45.1 do Regulamento dos Exames do Ensino Secundário, constante do anexo iii,\
+    \ alterados também os quadros i e ii anexos ao anexo ii e alterados ainda os quadros i, iii iv todos anexos ao anexo iii\
+    \ do DN 19/2008, de 19-Mar, na redacção do presente despacho, pelo DN.7/2011.05.04.2011.SEAED-ME, DR.IIS [67] de 05.04.2011\0\
+    11\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/despacho-normativo/7-2011-965091
+  date: '2011-04-05'
+- type: cites
+  target: pt:dre:210801:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:238850:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:3274830:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:338986:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:3473397:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:357349:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:3651541:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:386871:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:386872:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:432450:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:457204:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:482392:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:488826:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:490957:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:545651:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:551873:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:582996:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:587624:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:618310:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:628859:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:636712:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:641762:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:652897:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:787125:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:1089021:por
+  label: "Revogado o DN 19/2008 de 19-mar, na redacção do presente diploma, pelo DN.6/2012.10.04.2012.SEEBS-MECI, DR.IIS [71]\
+    \ de 10.04.2012\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/despacho-normativo/6-2012-1089021
+  date: '2012-04-10'
 article_structure:
   article_count: 0
-  section_count: 9
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  section_count: 0
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:07:30Z'
   warnings: []
   errors: []
 ---
 
-# Despacho Normativo n.º 7/2010
+# Despacho normativo n.º 7/2010
 
 A Lei Orgânica do Ministério da Educação - [Decreto-Lei n.º 213/2006](https://diariodarepublica.pt/dr/detalhe/decreto-lei/213-2006-545651), de 27 de Outubro -, determina que o júri nacional de exames tem por missão, em matéria de avaliação das aprendizagens, coordenar e planificar os exames nacionais, provas a nível de escola para alunos com necessidades educativas especiais de carácter permanente, provas de equivalência à frequência e provas de aferição nos anos terminais dos 1.º e 2.º ciclos.
 
@@ -708,7 +830,7 @@ b) Tenham obtido classificação inferior a 3 em três disciplinas, ou em duas d
 
 Exames nacionais(*) de Língua Portuguesa e de Matemática do 3.º ciclo do ensino básico
 
-[([ver documento original](https://files.diariodarepublica.pt/2s/2010/03/052000000/1237012410.pdf))](https://files.diariodarepublica.pt/2s/2010/03/052000000/1237012410.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/2s/2010/03/052000000/1237012410.pdf)
 
 Nota. - Os alunos do 3.º ciclo do ensino básico referidos nas alíneas a), b), c), d), g) e h) do n.º 10.3 do Regulamento dos Exames do Ensino Básico realizam exames nacionais de Língua Portuguesa e de Matemática como autopropostos, sendo submetidos, obrigatoriamente, a uma prova oral na disciplina de Língua Portuguesa e de Português Língua Não Materna (códigos 22, 28 e 29).
 
@@ -718,11 +840,11 @@ Exames de equivalência à frequência dos 2.º e 3.º ciclos
 
 2.º ciclo do ensino básico
 
-[([ver documento original](https://files.diariodarepublica.pt/2s/2010/03/052000000/1237012410.pdf))](https://files.diariodarepublica.pt/2s/2010/03/052000000/1237012410.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/2s/2010/03/052000000/1237012410.pdf)
 
 3.º ciclo do ensino básico
 
-[([ver documento original](https://files.diariodarepublica.pt/2s/2010/03/052000000/1237012410.pdf))](https://files.diariodarepublica.pt/2s/2010/03/052000000/1237012410.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/2s/2010/03/052000000/1237012410.pdf)
 
 5 - Os n.os 1.1, 1.2, 1.3, 1.4, 3.1, 3.2, 3.3, 4.1, 4.2, 4.3, 5.2, 7.1, 7.1.1, 7.1.2, 8.1, 10.1, 10.2, 11.1, 12, 12.1, 12.1.1, 12.2, 12.3, 13.1, 14.2, 14.3, 14.5, 16.1, 16.4, 16.5, 16.6, 16.7, 16.8, 17.1, 17.4, 18.2, 18.3, 18.4, 18.5, 18.7, 18.9, 18.10, 19.2, 20.1, 20.1.1, 20.1.2, 20.1.3, 20.2, 20.3, 20.4, 20.5, 20.6, 20.7, 20.8, 20.9, 21.1, 21.2, 22.3, 23.1, 24.1, 24.2, 25.1, 25.2, 25.3, 25.5, 26.2, 27.3, 28.3, 29.1, 29.3, 29.4, 29.5, 30.4, 30.5, 30.6, 30.7, 32.2, 33.1, 33.4, 34, 34.1, 34.2, 34.2.1, 34.2.2, 34.3, 34.5, 34.7, 34.9, 35, 35.1, 35.2, 35.2.2, 35.3, 35.4, 35.6, 35.7, 36, 36.1, 36.2, 36.2.1, 36.2.2, 36.3, 36.4, 36.5, 36.7, 36.8, 38, 40.3, 40.4, 40.5, 40.6, 42.1, 43.2, 45.1 e 45.2 constantes do anexo iii (Regulamento dos Exames do Ensino Secundário) ao despacho normativo n.º 19/2008, de 19 de Março, com a redacção conferida pelo despacho normativo n.º 10/2009, de 19 de Fevereiro, passam a ter a seguinte redacção:
 
@@ -1356,19 +1478,19 @@ Provas de equivalência à frequência: Tipos de provas a realizar em cada disci
 
 A) Cursos científico-humanísticos
 
-[([ver documento original](https://files.diariodarepublica.pt/2s/2010/03/052000000/1237012410.pdf))](https://files.diariodarepublica.pt/2s/2010/03/052000000/1237012410.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/2s/2010/03/052000000/1237012410.pdf)
 
 Provas de equivalência à frequência: tipos de provas a realizar em cada disciplina e área não disciplinar e respectiva duração (cursos tecnológicos)
 
 B) Cursos tecnológicos
 
-[([ver documento original](https://files.diariodarepublica.pt/2s/2010/03/052000000/1237012410.pdf))](https://files.diariodarepublica.pt/2s/2010/03/052000000/1237012410.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/2s/2010/03/052000000/1237012410.pdf)
 
 Provas de equivalência à frequência: tipos de provas a realizar em cada disciplina e área não disciplinar e respectiva duração
 
 C) Cursos de ensino artístico especializado
 
-[([ver documento original](https://files.diariodarepublica.pt/2s/2010/03/052000000/1237012410.pdf))](https://files.diariodarepublica.pt/2s/2010/03/052000000/1237012410.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/2s/2010/03/052000000/1237012410.pdf)
 
 QUADRO II
 
@@ -1378,7 +1500,7 @@ Planos curriculares aprovados pelo [Decreto-Lei n.º 74/2004](https://diariodare
 
 Prova escrita com componente prática - percentagens a atribuir à componente prática e à componente escrita
 
-[([ver documento original](https://files.diariodarepublica.pt/2s/2010/03/052000000/1237012410.pdf))](https://files.diariodarepublica.pt/2s/2010/03/052000000/1237012410.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/2s/2010/03/052000000/1237012410.pdf)
 
 QUADRO III
 
@@ -1388,7 +1510,7 @@ Planos curriculares aprovados pelo [Decreto-Lei n.º 74/2004](https://diariodare
 
 Provas de equivalência à frequência: júri nas provas P e EP
 
-[([ver documento original](https://files.diariodarepublica.pt/2s/2010/03/052000000/1237012410.pdf))](https://files.diariodarepublica.pt/2s/2010/03/052000000/1237012410.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/2s/2010/03/052000000/1237012410.pdf)
 
 QUADRO IV
 
@@ -1398,7 +1520,7 @@ Planos de estudo aprovados pelo [Decreto-Lei n.º 74/2004](https://diariodarepub
 
 Exames finais nacionais: tipo de prova a realizar em cada disciplina e respectiva duração
 
-[([ver documento original](https://files.diariodarepublica.pt/2s/2010/03/052000000/1237012410.pdf))](https://files.diariodarepublica.pt/2s/2010/03/052000000/1237012410.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/2s/2010/03/052000000/1237012410.pdf)
 
 8 - Os Regulamentos constantes, respectivamente, dos anexos i, ii e iii ao presente despacho e do qual fazem parte integrante aplicam-se a partir do presente ano lectivo 2009-2010, inclusive.
 
@@ -1406,9 +1528,13 @@ Exames finais nacionais: tipo de prova a realizar em cada disciplina e respectiv
 
 26 de Fevereiro de 2010. - O Secretário de Estado Adjunto e da Educação, José Alexandre da Rocha Ventura Silva.
 
-## ANEXO — Republicação do [Despacho Normativo n.º 19/2008](https://diariodarepublica.pt/dr/detalhe/despacho-normativo/19-2008-3651541), de 19 de Março
+ANEXO
 
-## ANEXO I — Regulamento do Júri Nacional de Exames
+Republicação do [Despacho Normativo n.º 19/2008](https://diariodarepublica.pt/dr/detalhe/despacho-normativo/19-2008-3651541), de 19 de Março
+
+ANEXO I
+
+Regulamento do Júri Nacional de Exames
 
 1 - Composição do Júri Nacional de Exames dos ensinos básico e secundário
 
@@ -1514,7 +1640,9 @@ c) Apresentar ao presidente do JNE os processos de reapreciação para serem suj
 
 6.4 - Os serviços prestados pelos membros do JNE e pelos coadjuvantes docentes e não docentes são remunerados conforme o estabelecido no orçamento dos exames a aprovar por despacho do membro do Governo competente.
 
-## ANEXO II — Regulamento dos Exames do Ensino Básico
+ANEXO II
+
+Regulamento dos Exames do Ensino Básico
 
 1 - Objecto, Âmbito e Destinatários
 
@@ -1564,7 +1692,9 @@ g) Tenham atingido, no 8.º ou 9.º ano de escolaridade, a idade limite da escol
 
 h) Tenham iniciado o ano lectivo com 15 anos de idade no ensino básico nos anos lectivos de 2009-2010 (8.º e 9.º anos) e 2010-2011 (9.º ano) e tenham anulado a matrícula até ao 5.º dia de aulas do 3.º período lectivo, candidatando-se aos exames do 3.º ciclo, na qualidade de autopropostos.
 
-#### SECÇÃO I — Exames Nacionais de Língua Portuguesa e de Matemática do 9.º ano
+SECÇÃO I
+
+Exames Nacionais de Língua Portuguesa e de Matemática do 9.º ano
 
 2 - Condições de admissão
 
@@ -1588,7 +1718,7 @@ b) Classificação de frequência inferior a 3 em três disciplinas, excepto se 
 
 3.4 - As provas dos exames nacionais de Língua Portuguesa e de Matemática são cotadas na escala percentual de 0 a 100, sendo a classificação final da prova expressa na escala de níveis de 1 a 5, de acordo com a seguinte tabela:
 
-[([ver documento original](https://files.diariodarepublica.pt/2s/2010/03/052000000/1237012410.pdf))](https://files.diariodarepublica.pt/2s/2010/03/052000000/1237012410.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/2s/2010/03/052000000/1237012410.pdf)
 
 3.5 - O Júri Nacional de Exames pode enviar às escolas, durante todo o processo de exames, as orientações que considerar pertinentes para garantir a qualidade deste processo.
 
@@ -1660,7 +1790,9 @@ b) Tenha obtido classificação inferior a 3 em três disciplinas, ou em duas di
 
 9.2 - Para efeitos do n.º 9.1., não é considerada a disciplina de Educação Moral e Religiosa.
 
-#### SECÇÃO II — Exames de Equivalência à Frequência
+SECÇÃO II
+
+Exames de Equivalência à Frequência
 
 10 - Condições de admissão
 
@@ -1808,7 +1940,9 @@ a) Tenham obtido classificação inferior a 3, em simultâneo, nas disciplinas d
 
 b) Tenham obtido classificação inferior a 3 em três disciplinas, ou em duas disciplinas e a menção de Não Satisfaz na área de projecto.
 
-#### SECÇÃO III — Exames de alunos com necessidades educativas especiais de carácter permanente
+SECÇÃO III
+
+Exames de alunos com necessidades educativas especiais de carácter permanente
 
 17 - Exames de Língua Portuguesa e de Matemática do 9.º ano de escolaridade
 
@@ -1866,7 +2000,9 @@ b) Tenham obtido classificação inferior a 3 em três disciplinas, ou em duas d
 
 19.1.3 - Os alunos a que se refere o n.º 18.1 podem requerer a dispensa de prova oral, se a deficiência assim o exigir, sendo, neste caso, a classificação final da disciplina a classificação obtida na componente escrita do exame.
 
-#### SECÇÃO IV — Disposições comuns
+SECÇÃO IV
+
+Disposições comuns
 
 20 - Serviço de exames
 
@@ -2000,7 +2136,7 @@ QUADRO I
 
 Exames nacionais(*) de língua Portuguesa e de Matemática do 3.º Ciclo do ensino básico
 
-[([ver documento original](https://files.diariodarepublica.pt/2s/2010/03/052000000/1237012410.pdf))](https://files.diariodarepublica.pt/2s/2010/03/052000000/1237012410.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/2s/2010/03/052000000/1237012410.pdf)
 
 Nota
 
@@ -2012,15 +2148,19 @@ Exames de equivalência à frequência dos 2.º e 3.º ciclos
 
 2.º ciclo do Ensino Básico
 
-[([ver documento original](https://files.diariodarepublica.pt/2s/2010/03/052000000/1237012410.pdf))](https://files.diariodarepublica.pt/2s/2010/03/052000000/1237012410.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/2s/2010/03/052000000/1237012410.pdf)
 
 3.º Ciclo do Ensino Básico
 
-[([ver documento original](https://files.diariodarepublica.pt/2s/2010/03/052000000/1237012410.pdf))](https://files.diariodarepublica.pt/2s/2010/03/052000000/1237012410.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/2s/2010/03/052000000/1237012410.pdf)
 
-## ANEXO III — Regulamento dos Exames do Ensino Secundário
+ANEXO III
 
-#### SECÇÃO I — Disposições Gerais
+Regulamento dos Exames do Ensino Secundário
+
+SECÇÃO I
+
+Disposições Gerais
 
 1 - Objecto, âmbito e destinatários
 
@@ -2054,11 +2194,13 @@ f) Os alunos dos cursos científico-humanísticos do ensino recorrente que tenha
 
 g) Os alunos dos cursos científico-humanísticos de ensino recorrente que pretendam obter aprovação em disciplina do mesmo curso ou de curso diferente do frequentado e na qual nunca tenham estado matriculados, desde que estejam ou tenham estado matriculados no ano curricular em que a disciplina é terminal.
 
-#### SECÇÃO II
+SECÇÃO II
 
 2 - (Revogado.)
 
-#### SECÇÃO III — Exames
+SECÇÃO III
+
+Exames
 
 Provas de equivalência à frequência dos cursos científico-humanísticos, tecnológicos e artísticos especializados
 
@@ -2180,7 +2322,9 @@ g) Após a realização de cada prova, os critérios de classificação devem se
 
 15.2 - O enunciado da prova escrita deve referir a cotação a atribuir a cada questão.
 
-#### SECÇÃO IV — Procedimentos para a realização dos exames
+SECÇÃO IV
+
+Procedimentos para a realização dos exames
 
 Inscrições
 
@@ -2444,7 +2588,9 @@ Reapreciação das provas
 
 32.7 - A decisão que recair sobre a reclamação é definitiva, não passível de qualquer outra impugnação administrativa.
 
-#### SECÇÃO V — Situações especiais de exame
+SECÇÃO V
+
+Situações especiais de exame
 
 Exames de candidatos com necessidades educativas especiais de carácter permanente
 
@@ -2604,19 +2750,19 @@ Provas de equivalência à frequência: Tipos de provas a realizar em cada disci
 
 A) Cursos científico-humanísticos
 
-[([ver documento original](https://files.diariodarepublica.pt/2s/2010/03/052000000/1237012410.pdf))](https://files.diariodarepublica.pt/2s/2010/03/052000000/1237012410.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/2s/2010/03/052000000/1237012410.pdf)
 
 Provas de equivalência à frequência: tipos de provas a realizar em cada disciplina e área não disciplinar e respectiva duração (cursos tecnológicos)
 
 B) Cursos Tecnológicos
 
-[([ver documento original](https://files.diariodarepublica.pt/2s/2010/03/052000000/1237012410.pdf))](https://files.diariodarepublica.pt/2s/2010/03/052000000/1237012410.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/2s/2010/03/052000000/1237012410.pdf)
 
 Provas de equivalência à frequência: Tipos de provas a realizar em cada disciplina e área não disciplinar e respectiva duração
 
 C) Cursos de ensino artístico especializado
 
-[([ver documento original](https://files.diariodarepublica.pt/2s/2010/03/052000000/1237012410.pdf))](https://files.diariodarepublica.pt/2s/2010/03/052000000/1237012410.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/2s/2010/03/052000000/1237012410.pdf)
 
 QUADRO II
 
@@ -2626,7 +2772,7 @@ Planos curriculares aprovados pelo [Decreto-Lei n.º 74/2004](https://diariodare
 
 Prova escrita com componente prática - percentagens a atribuir à componente prática e à componente escrita
 
-[([ver documento original](https://files.diariodarepublica.pt/2s/2010/03/052000000/1237012410.pdf))](https://files.diariodarepublica.pt/2s/2010/03/052000000/1237012410.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/2s/2010/03/052000000/1237012410.pdf)
 
 QUADRO III
 
@@ -2636,7 +2782,7 @@ Planos curriculares aprovados pelo decreto-lei n.º 74/2004, de 26 de março
 
 Provas de equivalência à frequência: júri nas provas P e EP
 
-[([ver documento original](https://files.diariodarepublica.pt/2s/2010/03/052000000/1237012410.pdf))](https://files.diariodarepublica.pt/2s/2010/03/052000000/1237012410.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/2s/2010/03/052000000/1237012410.pdf)
 
 QUADRO IV
 
@@ -2646,4 +2792,6 @@ Planos de estudo aprovados pelo [Decreto-Lei n.º 74/2004](https://diariodarepub
 
 Exames finais nacionais: tipo de prova a realizar em cada disciplina e respectiva duração
 
-[([ver documento original](https://files.diariodarepublica.pt/2s/2010/03/052000000/1237012410.pdf))](https://files.diariodarepublica.pt/2s/2010/03/052000000/1237012410.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/2s/2010/03/052000000/1237012410.pdf)
+
+202974834

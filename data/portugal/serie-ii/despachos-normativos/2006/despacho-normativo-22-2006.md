@@ -46,41 +46,61 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/despacho-normativo/22-2006-2968842
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2006-12-15T00:00:00Z'
+  retrieved_at: '2026-10-23T15:06:29Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 86cde41781d0d3ad3dbf1e0e889e325360e906d75929d7528e11bce1ed17edeb
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: f67547be5aa9fe679b73f0ee42fe29c12fcd61df06bd8c4c8abea62f3595e119
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:06:29Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
-relationships: []
+subjects:
+- Conselho Superior de Informações
+- Definição de Competências
+- Fiscalização
+- Informática
+- Política de Defesa
+- Presidência do Conselho de Ministros
+- Primeiro-ministro
+- Regimento
+- Segredo de Estado
+- Segredo Profissional
+- Segurança da Informação
+- Sistema de Informações da República Portuguesa
+relationships:
+- type: cites
+  target: pt:dre:373663:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:540825:por
+  label: null
+  source: null
 article_structure:
   article_count: 14
   section_count: 3
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:06:29Z'
   warnings: []
   errors: []
 ---
 
-# Despacho Normativo n.º 22/2006
+# Despacho normativo n.º 22/2006
 
 Nos termos do disposto no artigo 18.º da Lei Quadro do Sistema de Informações da República Portuguesa, aprovada pela [Lei n.º 30/84](https://diariodarepublica.pt/dr/detalhe/lei/30-1984-373663), de 5 de Setembro, na redacção da [Lei Orgânica n.º 4/2006](https://diariodarepublica.pt/dr/detalhe/lei-organica/4-2006-540825), de 6 de Novembro, é aprovado o anexo "Regimento do Conselho Superior de Informações", que faz parte integrante do presente despacho normativo.
 

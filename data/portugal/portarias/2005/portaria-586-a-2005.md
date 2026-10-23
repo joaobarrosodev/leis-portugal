@@ -20,12 +20,12 @@ publication:
   reference: Diário da República n.º 130/2005, 1º Suplemento, Série I-B de 2005-07-08
   number: '130'
   series: I
-  supplement: 1º Suplemento
+  supplement: null
   pages: 4208-(2) a 4208-(13)
   pdf_url: https://files.diariodarepublica.pt/1s/2005/07/130b01/00020013.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/586-a/2005/07/08/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/586-a-2005-157863
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2008-10-02T00:00:00Z'
+  retrieved_at: '2026-10-23T15:07:13Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: fefa26d91d2b69dee5f930966e45bd58eec223f63efcabe646ff6f8674622f42
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: f512a0fb3d27a7c96dfaef0d21fb41fed72bd2b2cc3be888cd744a27db6ef203
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:07:13Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,34 +66,34 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Deficiente
-- Subsídio de Alimentação
 - Apoio Técnico
-- Financiamento
-- Empresa
+- Avaliação do Pessoal
 - Bolsa de Estágio
-- Instituto do Emprego e Formação Profissional
-- Formação Profissional
 - Compensação Financeira
-- Entidade Patronal
-- Jovem
-- Ministério do Trabalho e da Solidariedade Social
-- Instituto de Turismo de Portugal
-- Ministério da Economia e da Inovação
-- Criação de Emprego
-- Estratégia de Lisboa
-- Posto de Trabalho
-- Primeiro Emprego
-- Emprego
-- Estágio de Formação
-- Programa Inov-jovem
-- Pequenas e Médias Empresas
 - Contrato de Trabalho
+- Criação de Emprego
+- Deficiente
+- Emprego
+- Empresa
+- Entidade Patronal
+- Estágio de Formação
+- Estratégia de Lisboa
+- Financiamento
+- Formação Profissional
+- IAPMEI
+- Instituto de Turismo de Portugal
+- Instituto do Emprego e Formação Profissional
+- Jovem
+- Ministério da Economia e da Inovação
+- Ministério do Trabalho e da Solidariedade Social
+- Pequenas e Médias Empresas
+- Posto de Trabalho
 - Prime
+- Primeiro Emprego
+- Programa Inov-jovem
 - Remuneração
 - Seguro de Acidentes de Trabalho
-- Avaliação do Pessoal
-- IAPMEI
+- Subsídio de Alimentação
 - Subsídio de Alojamento
 - Subsídio de Transporte
 - Subsídio não Reembolsável
@@ -107,16 +107,22 @@ relationships:
   target: eli:http://data.europa.eu/eli/reco/2003/361/oj
   label: null
   source: http://data.europa.eu/eli/reco/2003/361/oj
+- type: repealed_by
+  target: pt:dre:452957:por
+  label: "Revogada, sem prejuízo do disposto no artigo 9.º, pela PORT.1103/2008.02.10.2008.MNE, DR.IS [191] de 02.10.2008\0\
+    \0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/1103-2008-452957
+  date: '2008-10-02'
 article_structure:
   article_count: 49
   section_count: 10
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:07:13Z'
   warnings: []
   errors: []
 ---
@@ -395,7 +401,7 @@ Medida n.º 2, «Formação e estágios em PME»
 
 1 - A presente medida apoia o desenvolvimento de acções que integram processos de formação visando o reforço de competências em domínios específicos, complementados pela realização de estágios profissionais em PME para os destinatários do INOV-JOVEM.
 
-2 - No âmbito desta medida, são considerados como domínios específicos, nomeadamente, os seguintes: qualidade; gestão comercial/marketing e internacionalização; gestão da produção, inovação tecnológica e I&D; gestão de recursos humanos, higiene e segurança no trabalho; gestão da energia, eco-eficiência e ambiente, e gestão do design.
+2 - No âmbito desta medida, são considerados como domínios específicos, nomeadamente, os seguintes: qualidade; gestão comercial/marketing e internacionalização; gestão da produção, inovação tecnológica e I&D gestão de recursos humanos, higiene e segurança no trabalho; gestão da energia, eco-eficiência e ambiente, e gestão do design.
 
 3 - Por acção entende-se, no âmbito da presente medida, o conjunto integrado de três componentes de intervenção, desenvolvidas pela mesma entidade promotora, aplicado a um mesmo grupo de estagiários e empresas beneficiárias e orientado para um domínio específico.
 
@@ -725,7 +731,7 @@ O presente diploma entra em vigor no dia seguinte ao da sua publicação.
 
 Em 24 de Junho de 2005.
 
-**O Ministro da Economia e da Inovação, Manuel António Gomes de Almeida de Pinho. - O Ministro do Trabalho e da Solidariedade Social, José António Fonseca Vieira da Silva.**
+O Ministro da Economia e da Inovação, Manuel António Gomes de Almeida de Pinho. - O Ministro do Trabalho e da Solidariedade Social, José António Fonseca Vieira da Silva.
 
 ## ANEXO
 

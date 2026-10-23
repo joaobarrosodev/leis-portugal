@@ -46,41 +46,90 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/despacho-normativo/17-2006-2791126
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2006-11-17T00:00:00Z'
+  retrieved_at: '2026-10-23T15:06:28Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: ee078676628315e7266aa87f189c01a5f7075dbabae51ec73d1862c3e15a6f8f
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 42aaa7398add0c6f24d28e0e3ff3c64189d58eccbf93a64dd03dfe7dc041eb90
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:06:28Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
-relationships: []
+subjects:
+- Alteração Orçamental
+- Definição de Competências
+- Direcção Geral dos Recursos Florestais
+- Exploração Florestal
+- Financiamento
+- Fundo Florestal Permanente
+- Ifadap
+- Ordenamento Florestal
+- Política Florestal
+- Prevenção de Incêndios
+- Projeto de Investimento
+- Proteção da Floresta
+- Regulamento
+relationships:
+- type: cites
+  target: pt:dre:240023:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:272612:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:358491:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:517473:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:540001:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:541375:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:596347:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:633528:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:659156:por
+  label: null
+  source: null
 article_structure:
   article_count: 5
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:06:28Z'
   warnings: []
   errors: []
 ---
 
-# Despacho Normativo n.º 17/2006
+# Despacho normativo n.º 17/2006
 
 Altera o Regulamento do Programa de Apoios a Conceder pelo Fundo Florestal Permanente em 2005 e 2006, aprovado em anexo ao [Despacho Normativo n.º 35/2005](https://diariodarepublica.pt/dr/detalhe/despacho-normativo/35-2005-240023), de 25 de Julho.
 

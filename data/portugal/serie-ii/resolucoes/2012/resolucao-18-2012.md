@@ -46,36 +46,48 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/resolucao/18-2012-3033932
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2012-04-18T00:00:00Z'
+  retrieved_at: '2026-10-23T15:14:49Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: ae0a18c50f1848a8e7086f60185e57d851e2bc569488c8ad0651abcbe573eb98
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: bf590e9187b8fc57a2e91dfbe067b7b290ffd3faeca2fa624b91b9995cbd33aa
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:14:49Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
-relationships: []
+subjects:
+- Conselho Diretivo
+- Entidade Reguladora dos Serviços das Águas e dos Resíduos
+- Nomeação
+- Presidente
+relationships:
+- type: cites
+  target: pt:dre:3000685:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:491175:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:14:49Z'
   warnings: []
   errors: []
 ---
@@ -135,3 +147,5 @@ Fundou em 2001 e foi diretor durante dois anos da revista Ambiente 21, dirigida 
 É membro do Conselho Nacional da Água.
 
 Assumiu em 2003 a presidência do Instituto Regulador de Águas e Resíduos (IRAR), atualmente Entidade Reguladora dos Serviços de Águas e Resíduos, I. P. (ERSAR, I. P.), regulador dos serviços de abastecimento de água, de saneamento de águas residuais e de gestão de resíduos urbanos em todo o território de Portugal continental, abrangendo atualmente cerca de 500 entidades gestoras.
+
+6332012

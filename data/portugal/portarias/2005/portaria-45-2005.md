@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2005/01/012b00/04000402.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/45/2005/01/18/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/45-2005-625005
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2012-08-13T00:00:00Z'
+  retrieved_at: '2026-10-23T15:06:26Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 270033010c2cebd14550e0c3354ed5a249452f503b3282bbf8696f06a497c70c
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 1055bbd6e9063fee04cdbaf6cef762c6a00cc9515970683300981eb5b4e0cd66
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:06:26Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,10 +66,10 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Ensino Artístico
-- Bailado
-- Plano de Estudos
 - Academia de Dança Contemporânea de Setúbal
+- Bailado
+- Ensino Artístico
+- Plano de Estudos
 relationships:
 - type: amended_by
   target: pt:dre:430061:por
@@ -79,16 +79,45 @@ relationships:
   target: eli:http://data.dre.pt/eli/port/804/1997/09/02/p/dre
   label: null
   source: http://data.dre.pt/eli/port/804/1997/09/02/p/dre
+- type: cites
+  target: pt:dre:452686:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:458182:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:640368:por
+  label: null
+  source: null
+- type: corrected_by
+  target: pt:dre:578542:por
+  label: "Rectificada pela DECL-RECT.18/2005.09.03.2005.PCM, DR.IS-B [56] de 21.03.2005\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/declaracao-rectificacao/18-2005-578542
+  date: '2005-03-09'
+- type: repealed_by
+  target: pt:dre:491967:por
+  label: "Revogados, na área da dança, os anexos I e II (este último rectificado pela Decl Rect 18/2005, de 21-Mar), de acordo\
+    \ com a produção de efeitos fixada no art. 11.º, pela PORT.691/2009.25.06.2009.ME, DR.IS [121] de 25.06.2009\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/691-2009-491967
+  date: '2009-06-25'
+- type: repealed_by
+  target: pt:dre:430061:por
+  label: "Revogado presente diploma, na redação da Decl Ret 18/2005, de 09-mar, pela PORT.243-B/2012.13.08.2012.MECI, DR.IS\
+    \ [156-Supl] de 13.08.2012\02\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/243-b-2012-430061
+  date: '2012-08-13'
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:06:26Z'
   warnings: []
   errors: []
 ---
@@ -115,22 +144,22 @@ Manda o Governo, pelo Secretário de Estado da Educação, o seguinte:
 
 4.º A presente portaria entra em vigor no ano lectivo de 2004-2005.
 
-**O Secretário de Estado da Educação, Diogo Nuno de Gouveia Torres Feio, em 16 de Dezembro de 2004.**
+O Secretário de Estado da Educação, Diogo Nuno de Gouveia Torres Feio, em 16 de Dezembro de 2004.
 
 ## ANEXO I — Curso básico de Dança
 
 Grau elementar - 2.º ciclo do ensino básico
 
-[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2005/01/012b00/04000402.pdf)
+[[[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2005/01/012b00/04000402.pdf)](https://files.diariodarepublica.pt/1s/2005/01/012b00/04000402.pdf)](https://files.diariodarepublica.pt/1s/2005/01/012b00/04000402.pdf)
 
 ## ANEXO II — Curso básico de Dança
 
 Grau elementar - 3.º ciclo do ensino básico
 
-[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2005/01/012b00/04000402.pdf)
+[[[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2005/01/012b00/04000402.pdf)](https://files.diariodarepublica.pt/1s/2005/01/012b00/04000402.pdf)](https://files.diariodarepublica.pt/1s/2005/01/012b00/04000402.pdf)
 
 ## ANEXO III — Curso secundário de Dança
 
 Grau avançado
 
-[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2005/01/012b00/04000402.pdf)
+[[[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2005/01/012b00/04000402.pdf)](https://files.diariodarepublica.pt/1s/2005/01/012b00/04000402.pdf)](https://files.diariodarepublica.pt/1s/2005/01/012b00/04000402.pdf)

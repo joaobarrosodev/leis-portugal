@@ -26,7 +26,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/2s/2013/01/019000000/0426604267.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -48,25 +48,32 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/despacho-normativo/3-2013-2856276
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2015-02-27T00:00:00Z'
+  retrieved_at: '2026-10-23T15:07:45Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 1e4f4d8e66ad7e88eb2c11b15c660b7ef0f028b719894c3bae87268fbea1dd35
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: a6843c3d5acc2bdcbf1aff5169db2b21744c2dff31239f3b979aa63c074cca80
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:07:45Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Agricultor
+- Ajuda Comunitária
+- Atividade Agrícola
+- Financiamento
+- Fiscalização
+- Política Agrícola
+- Política Agrícola Comum
 relationships:
 - type: amended_by
   target: pt:dre:66619896:por
@@ -80,21 +87,31 @@ relationships:
   target: celex:32012R1270
   label: null
   source: null
+- type: cites
+  target: pt:dre:1313203:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:66619896:por
+  label: Revogado, a partir de 28.02.2015, o DN 2/2010 de 29-jan, alterado pelo presente diploma, pelo(a) Portaria n.º 57/2015
+    - Diário da República n.º 41/2015, Série I de 2015-02-27
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/57-2015-66619896
+  date: '2015-02-27'
 article_structure:
-  article_count: 12
+  article_count: 7
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:07:45Z'
   warnings: []
   errors: []
 ---
 
-# Despacho Normativo n.º 3/2013
+# Despacho normativo n.º 3/2013
 
 O Regulamento (CE) n.º 73/2009, do Conselho, de 19 de janeiro, estabelece as regras comuns para os regimes de apoio direto aos agricultores no âmbito da Política Agrícola Comum e institui determinados regimes de apoio, entre eles, o apoio específico previsto no capítulo 5.
 
@@ -124,7 +141,9 @@ c) Entre 76 e 100 vacas - (euro) 38 por vaca leiteira equivalente.
 
 2 - O limiar garantido para este pagamento é de 162 300 vacas leiteiras equivalentes, sendo o envelope financeiro indicativo de (euro) 7 590 000.
 
-###### Artigo 30.º — [...]
+Artigo 30.º
+
+[...]
 
 1 - [...]
 
@@ -134,7 +153,9 @@ c) Entre 76 e 100 vacas - (euro) 38 por vaca leiteira equivalente.
 
 4 - [Anterior n.º 3]
 
-###### Artigo 31.º-A — [...]
+Artigo 31.º-A
+
+[...]
 
 1 - [Anterior proémio].
 
@@ -162,11 +183,15 @@ Objetivo
 
 O apoio agroambiental previsto no presente capítulo tem como objetivo apoiar a manutenção de sistemas agropecuários baseados em raças autóctones, de forma a assegurar uma utilização sustentada de recursos genéticos, bem como contribuir para a preservação de um património genético relevante.
 
-###### Artigo 20.º-B — Área geográfica de aplicação
+Artigo 20.º-B
+
+Área geográfica de aplicação
 
 A área geográfica de aplicação da presente medida é Portugal continental.
 
-###### Artigo 20.º-C — Critérios de elegibilidade
+Artigo 20.º-C
+
+Critérios de elegibilidade
 
 Podem beneficiar do apoio previsto no presente capítulo os criadores de bovinos, ovinos e caprinos das seguintes raças autóctones:
 
@@ -176,7 +201,9 @@ b) Raças ovinas - Serra da Estrela e Churra da Terra Quente;
 
 c) Raças caprinas - Serrana.
 
-###### Artigo 20.º-D — Forma, nível e limites do apoio
+Artigo 20.º-D
+
+Forma, nível e limites do apoio
 
 1 - O presente apoio é atribuído aos criadores referidos no artigo anterior que a 1 de junho explorem fêmeas em linha pura, inscritas no Livro de Adultos (LA) como reprodutoras da raça, que tenham parido nos 18 meses anteriores e cujo último parto seja uma cria inscrita no livro genealógico, sob a seguinte forma:
 
@@ -207,3 +234,5 @@ No ano de 2012, os recursos financeiros previstos nos n.os 2 e 3 do artigo 2.ºd
 O presente despacho entra em vigor no dia seguinte ao da sua publicação e é aplicável apenas às candidaturas apresentadas no ano de 2012.
 
 21 de janeiro de 2013. - O Secretário de Estado da Agricultura, José Diogo Santiago de Albuquerque.
+
+206697781

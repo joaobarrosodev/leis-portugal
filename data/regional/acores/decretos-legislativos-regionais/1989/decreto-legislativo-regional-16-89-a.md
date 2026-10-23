@@ -46,40 +46,53 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/16-1989-618291
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2000-05-29T00:00:00Z'
+  retrieved_at: '2026-10-23T15:17:53Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: ccee9f4b9149bb60360181c17482b347582a948290557d697808c314d3044167
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: a22be16bb0a63608834c5e88f51fd0a88bde596d2542760610023dba9c066f75
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:17:53Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Açores
+- Proteção da Floresta
+- Proteção do Ambiente
+- Reserva Florestal
 relationships:
 - type: amended_by
   target: pt:dre:303583:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:303583:por
+  label: "Alterado o art. 4º pelo DLR.16/2000/A.2000.05.29.ALR-RAA,DR.IS-A [142] de 21/Jun/2000\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-legislativo-regional/16-2000-303583
+  date: '2000-05-29'
+- type: cites
+  target: pt:dre:420624:por
+  label: null
+  source: null
 article_structure:
   article_count: 8
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:17:53Z'
   warnings: []
   errors: []
 ---
@@ -198,20 +211,20 @@ O presente diploma será regulamentado num prazo não superior a 90 dias após a
 
 Aprovado pela Assembleia Regional dos Açores, na Horta, em 11 de Maio de 1989.
 
-**O Presidente da Assembleia Regional, José Guilherme Reis Leite.**
+O Presidente da Assembleia Regional, José Guilherme Reis Leite.
 
-**Assinado em Angra do Heroísmo em 27 de Junho de 1989.**
+Assinado em Angra do Heroísmo em 27 de Junho de 1989.
 
-**Publique-se.**
+Publique-se.
 
-**O Ministro da República para a Região Autónoma dos Açores, Vasco Joaquim Rocha Vieira.**
+O Ministro da República para a Região Autónoma dos Açores, Vasco Joaquim Rocha Vieira.
 
 Quadro a que se refere o artigo 1.º
 
 Reservas florestais de recreio
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1989/08/19900/36883701.pdf))](https://files.diariodarepublica.pt/1s/1989/08/19900/36883701.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1989/08/19900/36883701.pdf)
 
 Do MAPA I ao MAPA XXII
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1989/08/19900/36883701.pdf))](https://files.diariodarepublica.pt/1s/1989/08/19900/36883701.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1989/08/19900/36883701.pdf)

@@ -48,18 +48,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/982/2005/10/06/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/982-2005-157784
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2006-04-05T00:00:00Z'
+  retrieved_at: '2026-10-23T15:09:38Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: d308bc2572f9fba05a5807874889bbf84e642ab80be7b01fae1fb0d1fa8231b3
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 22b4a169d9ac5099d7cffceb7467312dd5d09265c600fc7baf3a3b91405b93cd
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:09:38Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -68,16 +68,23 @@ reuse:
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
 - Administração Regional de Saúde do Centro
-- Centro Regional de Saúde
 - Centro de Saúde
-- Pessoal Técnico Superior
+- Centro Regional de Saúde
 - Coimbra
+- Pessoal Técnico Superior
 - Quadro de Pessoal
 relationships:
 - type: amended_by
   target: pt:dre:673273:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:673273:por
+  label: "Alterado o quadro de pessoal da Administração Regional de Saúde do Centro (Sub-Região de Saúde de Coimbra) aprovado\
+    \ pela Port 772-B/96 de 31-Dez, com as alterações constantes do presente diploma, pela PORT.316/2006.05.04.2006.MFAP,\
+    \ DR.IS-B [68] de 05.04.2006\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/316-2006-673273
+  date: '2006-04-05'
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/11/1993/01/15/p/dre
   label: null
@@ -94,16 +101,32 @@ relationships:
   target: eli:http://data.dre.pt/eli/port/772-b/1996/12/31/p/dre
   label: null
   source: http://data.dre.pt/eli/port/772-b/1996/12/31/p/dre
+- type: cites
+  target: pt:dre:432183:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:541844:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:586006:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:622997:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:09:38Z'
   warnings: []
   errors: []
 ---
@@ -122,4 +145,4 @@ Manda o Governo, pelos Ministros de Estado e das Finanças e da Saúde, que seja
 
 Em 8 de Setembro de 2005.
 
-**O Ministro de Estado e das Finanças, Fernando Teixeira dos Santos. - Pelo Ministro da Saúde, Carmen Madalena da Costa Gomes e Cunha Pignatelli, Secretária de Estado Adjunta e da Saúde.**
+O Ministro de Estado e das Finanças, Fernando Teixeira dos Santos. - Pelo Ministro da Saúde, Carmen Madalena da Costa Gomes e Cunha Pignatelli, Secretária de Estado Adjunta e da Saúde.

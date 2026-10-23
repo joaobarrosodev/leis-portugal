@@ -26,7 +26,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/2s/2014/10/209000000/2733627338.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -48,30 +48,123 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/despacho-normativo/14-2014-58625348
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2021-02-03T00:00:00Z'
+  retrieved_at: '2026-10-23T15:07:50Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 10f6ba99405f977db8764176a0d8e1320262442ba7871d33b61fd06f4369a900
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 83809e0146a4fc9cd5725bb9c90c93417a602ed367a5255b1489e2d7c4346083
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:07:50Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Agricultor
+- Agricultura
+- Comissão CE
+- Definição de Competências
+- Exploração Pecuária
+- Financiamento
+- Fiscalização
+- IFAP
+- Pecuária
+- Prémio
+- Produção Agrícola
+- Regime de Apoio
+- Regulamento CE
 relationships:
 - type: amended_by
   target: pt:dre:156295912:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:66343883:por
+  label: Dada nova redação aos arts. 8.º, 10.º e 15.º pelo(a) Despacho Normativo n.º 4/2015 - Diário da República n.º 18/2015,
+    Série II de 2015-01-27
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/despacho-normativo/4-2015-66343883
+  date: '2015-01-27'
+- type: amended_by
+  target: pt:dre:73576678:por
+  label: Alterado o art. 15.º do presente diploma, na redação do DN 4/2015, de 27-jan pelo(a) Despacho Normativo n.º 1-A/2016
+    - Diário da República n.º 29/2016, 1º Suplemento, Série II de 2016-02-11
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/despacho-normativo/1-a-2016-73576678
+  date: '2016-02-11'
+- type: amended_by
+  target: pt:dre:74926159:por
+  label: Alterado, com efeitos a 12.02.2016, o art. 15.º (na redação dos DN 4/2015 de 27-jan e 1-A/2016 de 11-fev) do presente
+    diploma, pelo(a) Despacho Normativo n.º 5/2016 - Diário da República n.º 133/2016, Série II de 2016-07-13
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/despacho-normativo/5-2016-74926159
+  date: '2016-07-13'
+- type: amended_by
+  target: pt:dre:75639805:por
+  label: Alterados, a partir de 01.01.2017 e nos termos do n.º 2 do art. 5.º, os arts. 7.º, 8.º (o último na redação do DN
+    4/2015, de 27-jan), 9.º, 10.º (o último na redação do DN 4/2015, de 27-jan) e 12.º, revogado o n.º 2 do artigo 12.º do
+    presente despacho normativo, pelo(a) Despacho Normativo n.º 11-B/2016 - Diário da República n.º 209/2016, 3º Suplemento,
+    Série II de 2016-10-31 que procede à sua republicação
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/despacho-normativo/11-b-2016-75639805
+  date: '2016-10-31'
+- type: amended_by
+  target: pt:dre:106536967:por
+  label: Alterado o art. 15.º pelo(a) Despacho Normativo n.º 1-A/2017 - Diário da República n.º 41/2017, 2º Suplemento, Série
+    II de 2017-02-27
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/despacho-normativo/1-a-2017-106536967
+  date: '2017-02-27'
+- type: amended_by
+  target: pt:dre:114501478:por
+  label: Alterado, a partir de 01.01.2018, o art. 13.º pelo(a) Despacho Normativo n.º 2/2018 - Diário da República n.º 7/2018,
+    Série II de 2018-01-10
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/despacho-normativo/2-2018-114501478
+  date: '2018-01-10'
+- type: amended_by
+  target: pt:dre:114848824:por
+  label: Alterado, a partir de 13.03.2018, e com efeitos a 01.01.2018, o art. 10.º (na redação dos DN 4/2015, de 27-jan e
+    11-B/2016, de 31-out) do presente diploma, pelo(a) Despacho Normativo n.º 5/2018 - Diário da República n.º 50/2018, Série
+    II de 2018-03-12, republicado pelo DN 11-B/2016, de 31-out
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/despacho-normativo/5-2018-114848824
+  date: '2018-03-12'
+- type: amended_by
+  target: pt:dre:125046940:por
+  label: Alterado, a partir de 01.01.2020 e sem prejuízo do disposto no n.º 2 do art. 3.º, o art. 8.º do presente diploma,
+    pelo(a) Despacho Normativo n.º 22/2019 - Diário da República n.º 189/2019, Série II de 2019-10-02, republicado pelo DN
+    11-B/2016, de 31-out
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/despacho-normativo/22-2019-125046940
+  date: '2019-10-02'
+- type: amended_by
+  target: pt:dre:128154338:por
+  label: Alterado, a partir de 01.01.2020 e sem prejuízo do disposto no n.º 2 do art. 4.º, o art. 8.º do presente diploma,
+    ( na redação e versão republicada pelo DN 11-B/2016, de 31-out e do DN 22/2019 de 02-out) pelo(a) Despacho Normativo n.º
+    1/2020 - Diário da República n.º 11/2020, Série II de 2020-01-16 e procede à sua republicação
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/despacho-normativo/1-2020-128154338
+  date: '2020-01-16'
+- type: amended_by
+  target: pt:dre:136804683:por
+  label: A título excecional, no ano de 2020, são aplicáveis aos regimes de apoio associado «animais» os valores unitários
+    indicativos, bem como os limiares garantidos e os envelopes financeiros disponíveis, constantes, respetivamente, dos anexos
+    i e ii, nos termos do art. 2.º, previstos no presente diploma, pelo(a) Despacho Normativo n.º 6/2020 - Diário da República
+    n.º 124/2020, Série II de 2020-06-29
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/despacho-normativo/6-2020-136804683
+  date: '2020-06-29'
+- type: amended_by
+  target: pt:dre:156295912:por
+  label: Alterados, a partir de 01.01.2021 e sem prejuízo do disposto no n.º 2 do art. 4.º, os arts. 8.º e 12.º e anexos II
+    e III do presente diploma, na versão republicada pelo DN 1/2020, de 16-jan, pelo(a) Despacho Normativo n.º 5/2021 - Diário
+    da República n.º 23/2021, Série II de 2021-02-03
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/despacho-normativo/5-2021-156295912
+  date: '2021-02-03'
+- type: amended_by
+  target: pt:dre:178645032:por
+  label: Alterados o art. 12.º bem como os anexos ii e iii e revogado o art. 13.º do presente diploma, na versão republicada
+    pelo DN 1/2020, de 16-jan pelo(a) Despacho Normativo n.º 3/2022 - Diário da República n.º 25/2022, Série II de 2022-02-04
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/despacho-normativo/3-2022-178645032
+  date: '2022-02-04'
 - type: cites
   target: celex:32000R1760
   label: null
@@ -100,21 +193,25 @@ relationships:
   target: celex:32014R0809
   label: null
   source: null
+- type: cites
+  target: pt:dre:57995547:por
+  label: null
+  source: null
 article_structure:
   article_count: 18
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:07:50Z'
   warnings: []
   errors: []
 ---
 
-# Despacho Normativo n.º 14/2014
+# Despacho normativo n.º 14/2014
 
 Os regimes de apoio associado, de aplicação voluntária pelos Estados Membros, têm a sua aplicação circunscrita a uma lista fechada de setores e produções com vista a apoiar determinados setores ou tipos específicos de agricultura, que se defrontem com dificuldades e que sejam especialmente importantes por motivos de natureza económica, social ou ambiental.
 
@@ -278,16 +375,18 @@ As orientações e procedimentos necessários à execução dos presentes regime
 
 Lista das raças bovinas
 
-[([ver documento original](https://files.diariodarepublica.pt/2s/2014/10/209000000/2733627338.pdf))](https://files.diariodarepublica.pt/2s/2014/10/209000000/2733627338.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/2s/2014/10/209000000/2733627338.pdf)
 
 ## ANEXO II — (a que se refere o n.º 2 do artigo 15.º)
 
 Valores unitários indicativos dos regimes de apoio associado
 
-[([ver documento original](https://files.diariodarepublica.pt/2s/2014/10/209000000/2733627338.pdf))](https://files.diariodarepublica.pt/2s/2014/10/209000000/2733627338.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/2s/2014/10/209000000/2733627338.pdf)
 
 ## ANEXO III — (a que se refere o n.º 3 do artigo 15.º)
 
 Limiares garantidos e envelopes financeiros disponíveis
 
-[([ver documento original](https://files.diariodarepublica.pt/2s/2014/10/209000000/2733627338.pdf))](https://files.diariodarepublica.pt/2s/2014/10/209000000/2733627338.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/2s/2014/10/209000000/2733627338.pdf)
+
+208189744

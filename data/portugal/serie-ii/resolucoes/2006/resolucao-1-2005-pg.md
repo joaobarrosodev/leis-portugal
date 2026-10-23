@@ -46,36 +46,46 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/resolucao/1-2006-3195610
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2006-01-23T00:00:00Z'
+  retrieved_at: '2026-10-23T15:13:12Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 687e13013e9e38f8f2ab23b8cb297b60d8ea3f1d9832407b4728d7b94cb09430
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 71c220d8a16f96f97c09aab7137374da4612a8913e303f149bebc15d775dd561
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:13:12Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
-relationships: []
+subjects:
+- Açores
+- Controlo Financeiro
+- Fiscalização
+- Prestação de Contas
+- Programa
+- Tribunal de Contas
+relationships:
+- type: cites
+  target: pt:dre:193663:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:13:12Z'
   warnings: []
   errors: []
 ---
@@ -126,6 +136,6 @@ Serviços Municipalizados da Câmara Municipal de Angra do Heroísmo;
 
 Munícipio da Praia da Vitória.
 
-**Publique-se no 2.ª série do Diário da República e na 2.ª série do Jornal Oficial da Região Autónoma dos Açores, nos termos do artigo 9.º, n.os 2, alínea e), e 3, da [Lei n.º 98/97](https://diariodarepublica.pt/dr/detalhe/lei/98-1997-193663), de 26 de Agosto, e comunique-se às entidades seleccionadas.**
+Publique-se no 2.ª série do Diário da República e na 2.ª série do Jornal Oficial da Região Autónoma dos Açores, nos termos do artigo 9.º, n.os 2, alínea e), e 3, da [Lei n.º 98/97](https://diariodarepublica.pt/dr/detalhe/lei/98-1997-193663), de 26 de Agosto, e comunique-se às entidades seleccionadas.
 
 20 de Dezembro de 2005. - O Presidente, Guilherme d'Oliveira Martins.

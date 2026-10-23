@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/589/2005/07/12/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/589-2005-236771
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2005-07-12T00:00:00Z'
+  retrieved_at: '2026-10-23T15:07:16Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 84c331a606aea0758f01622d71db9d6286000657f5a53f2b50fc94422c910ae9
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 202a06d51da226a99e57511612c427f6875e7c11e4feb482a8db444b47b84323
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:07:16Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,9 +66,9 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Instalação de GÁS
 - Estatuto das Entidades Inspectoras das Redes e Ramais de Distribuição e Instalações de Gás
 - Fiscalização
+- Instalação de GÁS
 - Segurança dos Edifícios
 - Seguro Obrigatório de Responsabilidade Civil
 relationships:
@@ -76,16 +76,20 @@ relationships:
   target: eli:http://data.dre.pt/eli/port/362/2000/06/20/p/dre
   label: null
   source: http://data.dre.pt/eli/port/362/2000/06/20/p/dre
+- type: cites
+  target: pt:dre:303609:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:07:16Z'
   warnings: []
   errors: []
 ---
@@ -102,4 +106,4 @@ Manda o Governo, pelo Ministro da Economia e da Inovação, o seguinte:
 
 Único. O valor mínimo do seguro obrigatório de responsabilidade civil a celebrar pelas entidades inspectoras das redes e ramais de distribuição e instalações de gás a que se refere o n.º 2 do artigo 6.º do estatuto das entidades inspectoras das redes e ramais de distribuição e instalações de gás, aprovado pela [Portaria n.º 362/2000](https://diariodarepublica.pt/dr/detalhe/portaria/362-2000-303609), de 20 de Junho, é fixado em (euro) 1423933 para o ano civil de 2005.
 
-**O Ministro da Economia e da Inovação, Manuel António Gomes de Almeida de Pinho, em 17 de Junho de 2005.**
+O Ministro da Economia e da Inovação, Manuel António Gomes de Almeida de Pinho, em 17 de Junho de 2005.

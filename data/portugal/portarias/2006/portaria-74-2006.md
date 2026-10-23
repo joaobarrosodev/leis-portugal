@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2006/01/013b00/04190421.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/74/2006/01/18/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/74-2006-537657
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2006-01-18T00:00:00Z'
+  retrieved_at: '2026-10-23T15:15:59Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: d348fca42acde70cb6d4a8835ed6f3e8d22431f0064d73b5a1fa0e89289797e4
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 95da88998e7688d9c41b763346f21d0dfd450e2ba4b8fe8441e618a4a88a3efe
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:15:59Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,12 +66,12 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Licença de Emissão
 - Certificado de Aptidão Profissional
+- Ensino Técnico
 - Formação Profissional
 - Incompatibilidades
 - Instituto do Ambiente
-- Ensino Técnico
+- Licença de Emissão
 - Qualificação Profissional
 - Sistema Português de Ecogestão e Auditoria
 - Taxa
@@ -93,16 +93,37 @@ relationships:
   target: eli:http://data.dre.pt/eli/dec-lei/243-a/2004/12/31/p/dre
   label: null
   source: http://data.dre.pt/eli/dec-lei/243-a/2004/12/31/p/dre
+- type: cites
+  target: pt:dre:158604:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:209451:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:219293:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:469070:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:67590380:por
+  label: Revogada, a partir de 26.06.2015, pelo(a) Portaria n.º 188/2015 - Diário da República n.º 122/2015, Série I de 2015-06-25
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/188-2015-67590380
+  date: '2015-06-25'
 article_structure:
   article_count: 15
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:15:59Z'
   warnings: []
   errors: []
 ---
@@ -231,7 +252,7 @@ O verificador CELE não pode exercer a sua actividade em instalações detidas p
 
 ###### Artigo 11.º — Anulação do certificado de verificador CELE
 
-**O presidente do IA pode, por despacho fundamentado, anular o certificado de verificador CELE quando ocorra:**
+O presidente do IA pode, por despacho fundamentado, anular o certificado de verificador CELE quando ocorra:
 
 a) A prestação de falsas declarações no âmbito dos procedimentos de candidatura à qualificação, validação da qualificação e extensão da qualificação de verificador CELE;
 
@@ -269,4 +290,4 @@ A presente portaria produz efeitos a partir do dia 30 de Dezembro de 2005 e entr
 
 Em 3 de Janeiro de 2006.
 
-**O Ministro do Ambiente, do Ordenamento do Território e do Desenvolvimento Regional, Francisco Carlos da Graça Nunes Correia. - O Ministro da Economia e da Inovação, Manuel António Gomes de Almeida de Pinho.**
+O Ministro do Ambiente, do Ordenamento do Território e do Desenvolvimento Regional, Francisco Carlos da Graça Nunes Correia. - O Ministro da Economia e da Inovação, Manuel António Gomes de Almeida de Pinho.

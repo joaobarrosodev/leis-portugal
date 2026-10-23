@@ -49,45 +49,75 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/despacho-normativo/1-2013-1794107
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2017-06-09T00:00:00Z'
+  retrieved_at: '2026-10-23T15:07:44Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: d8d94eb233d036d52ddad8ebbe0df1326ccfb1854753fcdf32c7ee1de89a0089
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 8431a166d64d04351dc962f2f496e287ec16d2afcf7c81a8815f6e283c1d3c93
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:07:44Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Andebol
+- Basquetebol
+- Despesas de Deslocação
+- Desporto
+- Federação Desportiva
+- Financiamento
+- Futebol
+- Hóquei
+- Organização Desportiva
+- Patinagem Artística
+- Região Autónoma
+- Voleibol
 relationships:
 - type: amended_by
   target: pt:dre:107497627:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:107497627:por
+  label: Alterados, com efeitos a 01.07.2016, os arts. 3.º, 5.º, 7.º e o Anexo I e republicado o presente diploma pelo(a)
+    Despacho Normativo n.º 4/2017 - Diário da República n.º 112/2017, Série II de 2017-06-09
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/despacho-normativo/4-2017-107497627
+  date: '2017-06-09'
+- type: cites
+  target: pt:dre:1727456:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:2808467:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:667323:por
+  label: null
+  source: null
 article_structure:
   article_count: 14
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:07:44Z'
   warnings: []
   errors: []
 ---
 
-# Despacho Normativo n.º 1/2013
+# Despacho normativo n.º 1/2013
 
 A publicação do [Decreto-Lei n.º 56/2006](https://diariodarepublica.pt/dr/detalhe/decreto-lei/56-2006-667323), de 15 de março, veio alterar a forma de distribuição dos resultados líquidos dos jogos sociais explorados pela Santa Casa da Misericórdia de Lisboa. Em resultado, e ouvidas as federações desportivas respetivas, definiram-se princípios orientadores sobre a determinação do financiamento público para comparticipar os encargos com a deslocação, por via aérea entre o território continental e as Regiões Autónomas da Madeira e dos Açores, de equipas desportivas de clubes do continente que participavam em campeonatos nacionais e Taças de Portugal.
 
@@ -247,8 +277,10 @@ Os casos omissos são resolvidos pelo IPDJ, I. P.
 
 ## ANEXO I — Limites máximos de comparticipação por deslocação ida e volta de equipa
 
-[([ver documento original](https://files.diariodarepublica.pt/2s/2013/01/005000000/0078300785.pdf))](https://files.diariodarepublica.pt/2s/2013/01/005000000/0078300785.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/2s/2013/01/005000000/0078300785.pdf)
 
 ## ANEXO II — Número máximo de árbitros por deslocação objeto de apoio
 
-[([ver documento original](https://files.diariodarepublica.pt/2s/2013/01/005000000/0078300785.pdf))](https://files.diariodarepublica.pt/2s/2013/01/005000000/0078300785.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/2s/2013/01/005000000/0078300785.pdf)
+
+26732012

@@ -46,40 +46,57 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/resolucao/3-2009-2373186
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2009-02-26T00:00:00Z'
+  retrieved_at: '2026-10-23T15:14:23Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 99dfbfda75d1c39c8fdf2edf58c655dca3fc77468d6c12b2b5c20298b33c8d61
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: f6a57664eed593d2de4cea8d2d1e459a4e9dac5e912146f82767bfd107ac9fba
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:14:23Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Fiscalização
+- Junta de Freguesia
+- Madeira.região Autónoma
+- Organismo do Estado
+- Prestação de Contas
+- Programa
+- Secção Regional do Tribunal de Contas
+- Tribunal de Contas
 relationships:
 - type: amended_by
   target: pt:dre:1804438:por
   label: Última alteração registada na importação inicial
   source: null
+- type: cites
+  target: pt:dre:193663:por
+  label: null
+  source: null
+- type: corrected_by
+  target: pt:dre:1804438:por
+  label: "Rectificado pela DECL-RECT.602/2009.26.02.2009.TC, DR.IIS [40] de 26.02.2009\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/declaracao-rectificacao/602-2009-1804438
+  date: '2009-02-26'
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:14:23Z'
   warnings: []
   errors: []
 ---
@@ -108,6 +125,6 @@ Acta da reunião em que foi discutida e aprovada a conta;
 
 Relação nominal dos responsáveis, com indicações do período a que se reporta a conta e, ainda, dos respectivos vencimentos líquidos anuais.
 
-**Publique-se na 2.ª série do Diário da República e na 2.ª série do Jornal Oficial da Região Autónoma da Madeira, nos termos do artigo 9.º, n.º 2, alínea e), e n.º 3, da referida [Lei n.º 98/97](https://diariodarepublica.pt/dr/detalhe/lei/98-1997-193663).**
+Publique-se na 2.ª série do Diário da República e na 2.ª série do Jornal Oficial da Região Autónoma da Madeira, nos termos do artigo 9.º, n.º 2, alínea e), e n.º 3, da referida [Lei n.º 98/97](https://diariodarepublica.pt/dr/detalhe/lei/98-1997-193663).
 
 17 de Dezembro de 2008. - O Conselheiro Presidente, Guilherme d'Oliveira Martins.

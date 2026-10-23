@@ -20,7 +20,7 @@ publication:
   reference: Diário da República n.º 135/2009, 2º Suplemento, Série II de 2009-07-15
   number: '135'
   series: II
-  supplement: 2º Suplemento
+  supplement: null
   pages: 28070-(4) a 28070-(5)
   pdf_url: https://files.diariodarepublica.pt/2s/2009/07/135000002/0000400005.pdf
 entry_into_force_dates: []
@@ -47,49 +47,64 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/despacho-normativo/25-a-2009-3239103
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2009-09-30T00:00:00Z'
+  retrieved_at: '2026-10-23T15:07:14Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 1a5dda5b97ea8039007ca9915b0b2d68a76483d15dbe671408572a5767450e27
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 0d448f80740926f8e1e3c410be7ee8f75d3c8facac09470534ff28dbdf2f0833
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:07:14Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Direcção Regional de Agricultura e Pescas
+- Instituto da Vinha e do Vinho
+- Vinha
+- Vinho
+- Vistoria
+- Vitivinicultor
 relationships:
 - type: amended_by
   target: pt:dre:2078926:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:2078926:por
+  label: "Alterado pelo DN.34/2009.30.09.2009.MADRP, DR.IIS [190] de 30.09.2009\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/despacho-normativo/34-2009-2078926
+  date: '2009-09-30'
 - type: cites
   target: celex:32008R0479
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:333336:por
   label: null
   source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:07:14Z'
   warnings: []
   errors: []
 ---
 
-# Despacho Normativo n.º 25-A/2009
+# Despacho normativo n.º 25-A/2009
 
 A Portaria n.º 741/2009, de 10 de Julho, constituiu, nos termos do artigo 93.º do Regulamento (CE) n.º 479/2008, do Conselho, de 29 de Abril, uma reserva de direitos de plantação no território do continente, cujas normas complementares de execução, nesse âmbito, devem ser implementadas por despacho normativo do Ministro da Agricultura, de acordo com o n.º 1 do artigo 3.º da referida portaria.
 
@@ -155,11 +170,11 @@ b) Se, por repartição da área disponível pela totalidade das candidaturas, a
 
 i) A candidaturas de viticultores que tenham um património vitícola, por região, inferior às seguintes áreas:
 
-[([ver documento original](https://files.diariodarepublica.pt/2s/2009/07/135000002/0000400005.pdf))](https://files.diariodarepublica.pt/2s/2009/07/135000002/0000400005.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/2s/2009/07/135000002/0000400005.pdf)
 
 ii) A candidaturas de viticultores que tenham um património vitícola, por região, com áreas compreendidas nos seguintes escalões:
 
-[([ver documento original](https://files.diariodarepublica.pt/2s/2009/07/135000002/0000400005.pdf))](https://files.diariodarepublica.pt/2s/2009/07/135000002/0000400005.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/2s/2009/07/135000002/0000400005.pdf)
 
 iii) A candidaturas de viticultores que tenham um património vitícola superior aos limites máximos referidos na subalínea anterior;
 
@@ -182,3 +197,5 @@ c) Se, após a aplicação dos critérios estabelecidos na alínea anterior, a �
 19 - O presente despacho entra em vigor no dia seguinte ao da sua publicação.
 
 14 de Julho de 2009. - O Secretário de Estado Adjunto, da Agricultura e das Pescas, Luís Medeiros Vieira.
+
+202051408

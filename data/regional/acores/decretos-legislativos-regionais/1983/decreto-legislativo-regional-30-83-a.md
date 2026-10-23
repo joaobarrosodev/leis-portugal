@@ -46,36 +46,54 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/30-1983-441763
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1983-10-28T00:00:00Z'
+  retrieved_at: '2026-10-23T15:16:55Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 68b6eb9c1fe5ee3f409e9dbc87e8d385401cc679c1e475c518c959fbb41d5ffb
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 091f205b79b745348a8abd46f513ad20a7b01f299ea0d7eeef248198c884ef88
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:16:55Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
-relationships: []
+subjects:
+- Achado no MAR
+- Açores
+- Comissão de Análise
+- Contrato de Concessão
+- Mar Territorial
+- Património Cultural
+- Secretaria Regional da Educação e Cultura
+relationships:
+- type: amended_by
+  target: pt:dre:662758:por
+  label: "Declarada a inconstitucionalidade, com força obrigatória geral de todas as normas do presente diploma, pelo AC.280/90.1990.10.23.TCS\
+    \ DR.IS-A [1] DE 02/JAN/1991\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/acordao/280-1991-662758
+  date: '1990-10-23'
+- type: corrected_by
+  target: pt:dre:469980:por
+  label: Rectificado pela DECL.DD5605.29.11.1983.PCM, DR.IS [276]2ºSupl de 30.11.1983
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/declaracao/1983-469980
+  date: '1983-11-29'
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:16:55Z'
   warnings: []
   errors: []
 ---
@@ -180,10 +198,10 @@ A entidade concessionária prestará uma caução, como garantia do cumprimento 
 
 Aprovado em Plenário da Assembleia Regional dos Açores em 16 de Junho de 1983.
 
-**O Presidente da Assembleia Regional dos Açores, Álvaro Monjardino.**
+O Presidente da Assembleia Regional dos Açores, Álvaro Monjardino.
 
-**Assinado em Angra do Heroísmo em 17 de Outubro de 1983.**
+Assinado em Angra do Heroísmo em 17 de Outubro de 1983.
 
-**Publique-se.**
+Publique-se.
 
-**O Ministro da República para a Região Autónoma dos Açores, Tomás George Conceição Silva.**
+O Ministro da República para a Região Autónoma dos Açores, Tomás George Conceição Silva.

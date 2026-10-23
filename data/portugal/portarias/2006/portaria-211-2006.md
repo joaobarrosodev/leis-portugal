@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/211/2006/03/03/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/211-2006-693067
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2006-03-03T00:00:00Z'
+  retrieved_at: '2026-10-23T15:12:41Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 28a00140f7c26e5ad5f9017ea92e1e4ea21f79b661dcc395b3385a6573ee091c
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 82bf024ece83a5349c6c3414fbadcb74ec5c57213bd34b7ebe140d1271140433
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:12:41Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,26 +66,34 @@ reuse:
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
 - Comissão de Coordenação e Desenvolvimento Regional
+- Fardamento
 - Instituto da Conservação da Natureza
 - Proteção do Ambiente
 - Regulamento
-- Fardamento
 - Vigilante da Natureza
 relationships:
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/470/1999/11/06/p/dre
   label: null
   source: http://data.dre.pt/eli/dec-lei/470/1999/11/06/p/dre
+- type: cites
+  target: pt:dre:373597:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:693592:por
+  label: null
+  source: null
 article_structure:
   article_count: 15
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:12:41Z'
   warnings: []
   errors: []
 ---
@@ -112,7 +120,7 @@ Nos termos do disposto na alínea a) do artigo 8.º do [Decreto-Lei n.º 470/99]
 
 2.º É revogada a [Portaria n.º 285/88](https://diariodarepublica.pt/dr/detalhe/portaria/285-1988-373597), de 5 de Maio.
 
-**O Ministro do Ambiente, do Ordenamento do Território e do Desenvolvimento Regional, Francisco Carlos da Graça Nunes Correia, em 26 de Janeiro de 2006.**
+O Ministro do Ambiente, do Ordenamento do Território e do Desenvolvimento Regional, Francisco Carlos da Graça Nunes Correia, em 26 de Janeiro de 2006.
 
 ## ANEXO — REGULAMENTO DE UNIFORMES DOS VIGILANTES DA NATUREZA
 
@@ -376,4 +384,4 @@ Prova de cor
 
 Pantone exacrome com cobertura
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2006/03/045b00/16821690.pdf))](https://files.diariodarepublica.pt/1s/2006/03/045b00/16821690.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2006/03/045b00/16821690.pdf)

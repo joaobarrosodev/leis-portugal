@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/2s/2007/03/048000000/0622706249.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,45 +46,141 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/despacho-normativo/14-2007-3103818
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2008-03-19T00:00:00Z'
+  retrieved_at: '2026-10-23T15:06:34Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 61d94796d4e93228681b15cafc4a52da820d9d98ae7810a572e3daed237bdb64
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: a48c6bd08ca2627932e36f97a61aac1d10fe40b697278c62bafd1f5ab0e51e52
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:06:34Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Avaliação de Conhecimentos
+- Direcção Geral de Inovação e Desenvolvimento Curricular
+- Ensino Básico
+- Regulamento
+- Sistema Educativo
 relationships:
 - type: amended_by
   target: pt:dre:3651541:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:638711:por
+  label: "Alterado o tipo de prova a efectuar no exame final nacional da disciplina de Aplicações Informáticas B constante\
+    \ do quadro VII do anexo III do presente diploma pela PORT.673/2007.04.06.2007.ME, DR.IS [107] de 04.06.2007\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/673-2007-638711
+  date: '2007-06-04'
+- type: cites
+  target: pt:dre:179543:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:210801:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:220344:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:238847:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:238848:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:238850:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:338986:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:403296:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:405681:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:432450:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:457204:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:527406:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:545651:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:551873:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:587624:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:618310:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:652897:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:667373:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:668953:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:787125:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:3651541:por
+  label: "Revogado pelo DN.19/2008.19.03.2008.SEE-ME, DR.IIS [56] de 19.03.2008\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/despacho-normativo/19-2008-3651541
+  date: '2008-03-19'
 article_structure:
   article_count: 0
   section_count: 9
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:06:34Z'
   warnings: []
   errors: []
 ---
 
-# Despacho Normativo n.º 14/2007
+# Despacho normativo n.º 14/2007
 
 As medidas de aperfeiçoamento implementadas no sistema educativo português obrigaram a algumas alterações legislativas introduzidas no sistema de avaliação tanto no ensino básico, como no ensino secundário, com reflexos nos Regulamentos dos Exames dos Ensinos Básico e Secundário, permitindo clarificar os procedimentos que devem ser seguidos na avaliação sumativa externa e na certificação da conclusão desses níveis de ensino.
 
@@ -718,11 +814,11 @@ Exames de equivalência à frequência dos 2.º e 3.º ciclos
 
 2.º ciclo do ensino básico
 
-[([ver documento original](https://files.diariodarepublica.pt/2s/2007/03/048000000/0622706249.pdf))](https://files.diariodarepublica.pt/2s/2007/03/048000000/0622706249.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/2s/2007/03/048000000/0622706249.pdf)
 
 3.º ciclo do ensino básico
 
-[([ver documento original](https://files.diariodarepublica.pt/2s/2007/03/048000000/0622706249.pdf))](https://files.diariodarepublica.pt/2s/2007/03/048000000/0622706249.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/2s/2007/03/048000000/0622706249.pdf)
 
 ## ANEXO III — Regulamento dos Exames do Ensino Secundário
 
@@ -1458,19 +1554,19 @@ Exames de equivalência à frequência
 
 A) Componente de formação geral
 
-[([ver documento original](https://files.diariodarepublica.pt/2s/2007/03/048000000/0622706249.pdf))](https://files.diariodarepublica.pt/2s/2007/03/048000000/0622706249.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/2s/2007/03/048000000/0622706249.pdf)
 
 B) Componente de formação específica
 
-[([ver documento original](https://files.diariodarepublica.pt/2s/2007/03/048000000/0622706249.pdf))](https://files.diariodarepublica.pt/2s/2007/03/048000000/0622706249.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/2s/2007/03/048000000/0622706249.pdf)
 
 C) Componente de formação técnica dos cursos gerais
 
-[([ver documento original](https://files.diariodarepublica.pt/2s/2007/03/048000000/0622706249.pdf))](https://files.diariodarepublica.pt/2s/2007/03/048000000/0622706249.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/2s/2007/03/048000000/0622706249.pdf)
 
 D) Componente de formação técnica dos cursos tecnológicos
 
-[([ver documento original](https://files.diariodarepublica.pt/2s/2007/03/048000000/0622706249.pdf))](https://files.diariodarepublica.pt/2s/2007/03/048000000/0622706249.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/2s/2007/03/048000000/0622706249.pdf)
 
 QUADRO II
 
@@ -1588,19 +1684,19 @@ Provas de equivalência à frequência: Tipos de provas a realizar em cada disci
 
 Cursos científico-humanísticos
 
-[([ver documento original](https://files.diariodarepublica.pt/2s/2007/03/048000000/0622706249.pdf))](https://files.diariodarepublica.pt/2s/2007/03/048000000/0622706249.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/2s/2007/03/048000000/0622706249.pdf)
 
 Nota. - A componente prática das provas escritas com componente prática tem uma tolerância de trinta minutos.
 
 Cursos tecnológicos
 
-[([ver documento original](https://files.diariodarepublica.pt/2s/2007/03/048000000/0622706249.pdf))](https://files.diariodarepublica.pt/2s/2007/03/048000000/0622706249.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/2s/2007/03/048000000/0622706249.pdf)
 
 Nota. - A componente prática das provas escritas com componente prática tem uma tolerância de trinta minutos.
 
 Cursos de ensino artístico especializado
 
-[([ver documento original](https://files.diariodarepublica.pt/2s/2007/03/048000000/0622706249.pdf))](https://files.diariodarepublica.pt/2s/2007/03/048000000/0622706249.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/2s/2007/03/048000000/0622706249.pdf)
 
 QUADRO V
 
@@ -1610,7 +1706,7 @@ Planos curriculares aprovados pelo [Decreto-Lei n.º 74/2004](https://diariodare
 
 Prova escrita com componente prática - Percentagens a atribuir à componente prática e à componente escrita
 
-[([ver documento original](https://files.diariodarepublica.pt/2s/2007/03/048000000/0622706249.pdf))](https://files.diariodarepublica.pt/2s/2007/03/048000000/0622706249.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/2s/2007/03/048000000/0622706249.pdf)
 
 QUADRO VI
 
@@ -1620,7 +1716,7 @@ Planos curriculares aprovados pelo [Decreto-Lei n.º 74/2004](https://diariodare
 
 Provas de equivalência à frequência - Júri nas provas P e EP
 
-[([ver documento original](https://files.diariodarepublica.pt/2s/2007/03/048000000/0622706249.pdf))](https://files.diariodarepublica.pt/2s/2007/03/048000000/0622706249.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/2s/2007/03/048000000/0622706249.pdf)
 
 QUADRO VII
 
@@ -1630,4 +1726,4 @@ Planos de estudo aprovados pelo [Decreto-Lei n.º 74/2004](https://diariodarepub
 
 Exames finais nacionais - Tipo de prova a realizar em cada disciplina e respectiva duração
 
-[([ver documento original](https://files.diariodarepublica.pt/2s/2007/03/048000000/0622706249.pdf))](https://files.diariodarepublica.pt/2s/2007/03/048000000/0622706249.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/2s/2007/03/048000000/0622706249.pdf)

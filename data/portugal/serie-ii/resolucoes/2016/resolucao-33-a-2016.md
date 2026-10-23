@@ -20,12 +20,12 @@ publication:
   reference: Diário da República n.º 229/2016, 2º Suplemento, Série II de 2016-11-29
   number: '229'
   series: II
-  supplement: 2º Suplemento
+  supplement: null
   pages: 35506-(8) a 35506-(9)
   pdf_url: https://files.diariodarepublica.pt/2s/2016/11/229000002/0000800009.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -47,36 +47,64 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/resolucao/33-a-2016-105283919
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2016-11-29T00:00:00Z'
+  retrieved_at: '2026-10-23T15:15:57Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: da9174fdd173ee02dbb61bed5fbc2f20878873d623ba90a910cf9bed5e58dcf7
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: ccbaad407b6d77dd476f5b1ff2a871d8ff2f78ca31b2fc4796f31c93d03c5efb
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:15:57Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
-relationships: []
+subjects:
+- CMVM
+- Conselho de Administração
+- Mandato
+- Nomeação
+- Presidente
+- Vice-presidente
+- Vogal
+relationships:
+- type: amended_by
+  target: pt:dre:123091981:por
+  label: Exonerada Filomena Rocha Oliveira pelo Despacho n.º 6353/2019 - Diário da República n.º 132/2019, Série II de 2019-07-12
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/despacho/6353-2019-123091981
+  date: '2019-07-12'
+- type: cites
+  target: pt:dre:1666138:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:499499:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:66108236:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:67647952:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:15:57Z'
   warnings: []
   errors: []
 ---
@@ -156,3 +184,5 @@ Ingressou no Banco de Portugal em 2008, no Departamento de Supervisão Prudencia
 Entre 2007 e 2008 desempenhou funções de analista de mercado acionista na equipa de Research do Grupo Santander. Anteriormente, e desde 2000, desempenhou funções de analista e gestor de fundos na Caixagest - Caixa Gestão de Ativos.
 
 Professor Auxiliar Convidado na Nova School of Business and Economics - Faculdade de Economia da Universidade Nova de Lisboa.
+
+210059458

@@ -49,18 +49,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/683/2006/07/04/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/683-2006-538041
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2006-07-04T00:00:00Z'
+  retrieved_at: '2026-10-23T15:15:38Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 73d8aaf9807239475b4c1afa5c261b1d78c79c2f34c31a271c202e447d33cbd1
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 896bcb46c69bcc7d0990de17c045a75e6d842a40405a0f61c5050b34ab178025
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:15:38Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -70,33 +70,33 @@ reuse:
 subjects:
 - Aveiro
 - Braga
+- Bragança
+- Castelo Branco
+- Coimbra
 - Contrato Coletivo de Trabalho
-- Indústria de Moagem
+- Guarda
 - Indústria Agrícola
 - Indústria da Cerâmica
+- Indústria de Moagem
 - Indústria Vidreira
-- Castelo Branco
-- Vila Real
-- Coimbra
+- Porto
 - Regulamento de Extensão
-- Bragança
 - Tabela Salarial
 - Trabalhador por Conta de Outrem
-- Porto
-- Guarda
 - Viana do Castelo
+- Vila Real
 - Viseu
 relationships: []
 article_structure:
   article_count: 2
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:15:38Z'
   warnings: []
   errors: []
 ---
@@ -143,4 +143,4 @@ b) Às relações de trabalho entre empresas filiadas nas associações de empre
 
 3 - Os encargos resultantes da retroactividade podem ser satisfeitos em prestações mensais de igual valor, com início no mês seguinte ao da entrada em vigor da presente portaria, correspondendo cada prestação a dois meses de retroactividade ou fracção e até ao limite de seis.
 
-**O Ministro do Trabalho e da Solidariedade Social, José António Fonseca Vieira da Silva, em 14 de Junho de 2006.**
+O Ministro do Trabalho e da Solidariedade Social, José António Fonseca Vieira da Silva, em 14 de Junho de 2006.

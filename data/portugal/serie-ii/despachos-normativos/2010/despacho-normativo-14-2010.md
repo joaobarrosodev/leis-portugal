@@ -26,7 +26,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/2s/2010/05/102000000/2907229073.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -48,25 +48,35 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/despacho-normativo/14-2010-2829411
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2013-02-15T00:00:00Z'
+  retrieved_at: '2026-10-23T15:07:23Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 6bbd897fd20b26f974b6d576563a7bac0f2028fa932118480375e8bd191529ce
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: c603cca70759b60afdb3bfd0dd9992d2cd39d66512b99908025f4456f30ed34c
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:07:23Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Ajuda Comunitária
+- Atividade Agrícola
+- Comissão de Acompanhamento
+- Definição de Competências
+- Delegação de Competências
+- Financiamento
+- IFAP
+- Política Agrícola
+- Política Agrícola Comum
+- Proder
 relationships:
 - type: amended_by
   target: pt:dre:258684:por
@@ -80,21 +90,42 @@ relationships:
   target: celex:32006R0885
   label: null
   source: null
+- type: cites
+  target: pt:dre:241045:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:3411701:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:386778:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:520468:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:258684:por
+  label: "Revogado, a partir de 16.02.2013, pelo DEC LEI.22/2013.15.02.2013.MAMAOT, DR.IS [33] de 15.02.2013\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/22-2013-258684
+  date: '2013-02-15'
 article_structure:
   article_count: 8
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:07:23Z'
   warnings: []
   errors: []
 ---
 
-# Despacho Normativo n.º 14/2010
+# Despacho normativo n.º 14/2010
 
 Nos termos do n.º 6 do artigo 12.º do [Decreto-Lei n.º 37-A/2008](https://diariodarepublica.pt/dr/detalhe/decreto-lei/37-a-2008-241045), de 5 de Março, compete ao Instituto de Financiamento da Agricultura e Pescas, I. P. (IFAP, I. P.), e à autoridade de gestão do PRODER assegurar que os beneficiários recebem os montantes de financiamento público a que têm direito no mais curto prazo possível, devendo os beneficiários apresentar os seus pedidos de pagamento ao IFAP, I. P., na sua qualidade de organismo pagador, nas condições estabelecidas no n.º 8 do mesmo artigo. Tais pagamentos devem satisfazer todas as exigências regulamentares, competindo ao organismo pagador, tal como decorre do artigo 17.º do [Decreto-Lei n.º 2/2008](https://diariodarepublica.pt/dr/detalhe/decreto-lei/2-2008-386778), de 4 de Janeiro, garantir essa conformidade. A função principal de recepção dos pedidos de pagamento e todas as funções conexas constituem tarefas que o IFAP, I. P., na sua qualidade de organismo pagador, está incumbido de realizar. Todas estas tarefas podem ser executadas com vantagem, tanto para a administração como para os beneficiários, em instalações geograficamente próximas das populações agrícolas e da localização física das explorações, de modo a evitar que os novos sistemas de tratamento automático de informação, dificultem o respectivo acesso aos agricultores, bem como o cumprimento das suas obrigações enquanto beneficiários dos apoios do Programa de Desenvolvimento Rural do Continente (PRODER). Ora, tal como estabelecido no Regulamento (CE) n.º 1290/2005, do Conselho, de 21 de Junho, e do Regulamento (CE) n.º 885/2006, da Comissão, de 21 de Junho, o organismo pagador tem a faculdade de delegar estas tarefas noutras entidades, sem prejuízo da necessidade de se assegurar que essas entidades dispõem de sistemas eficazes que garantam o cumprimento das suas responsabilidades de modo adequado, exercendo sobre as mesmas uma supervisão e um acompanhamento que permitam confirmar que as tarefas são desempenhadas de modo rigoroso e em conformidade com os normativos comunitários. Também o n.º 3 do artigo 3.º do [Decreto-Lei n.º 87/2007](https://diariodarepublica.pt/dr/detalhe/decreto-lei/87-2007-520468), de 29 de Março, habilita o IFAP, I. P., a estabelecer relações de colaboração com entidades públicas e privadas para a prossecução das suas atribuições.
 
@@ -175,3 +206,5 @@ O IFAP, I. P., pode suspender ou retirar, total ou parcialmente, o reconheciment
 O presente despacho entra em vigor no dia seguinte ao da sua publicação.
 
 18 de Maio de 2010. - O Ministro da Agricultura, do Desenvolvimento Rural e das Pescas, António Manuel Soares Serrano.
+
+203285663

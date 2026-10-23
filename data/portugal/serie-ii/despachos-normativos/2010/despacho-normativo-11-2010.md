@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/2s/2010/04/076000000/2046020463.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,30 +46,52 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/despacho-normativo/11-2010-2168600
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2015-06-04T00:00:00Z'
+  retrieved_at: '2026-10-23T15:07:20Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: e2165e2cd95f22de30449aa61e66b9b9be2720cd747b629070b260802bd31aa4
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: e19880fa6879e3791c3b789f84e310d5083fe68809bb9ece7cb8e404c5a1b92a
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:07:20Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Agricultura
+- Comércio
+- Direcção Regional de Agricultura e Pescas
+- Organização de Produtores
+- Política Agrícola
+- Produção Agrícola
+- Produto Animal
+- Produtor
+- Vegetais
 relationships:
 - type: amended_by
   target: pt:dre:67401244:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:1044402:por
+  label: "Alterados os arts. 4.º, 5.º, 6.º, 8.º, 16.º e 17.º pelo DN.3/2012.23.02.2012.SEA-MAMAOT, DR.IIS [39] de 23.02.2012\0\
+    \0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/despacho-normativo/3-2012-1044402
+  date: '2012-02-23'
+- type: amended_by
+  target: pt:dre:58958253:por
+  label: Suspensa a admissão de pedidos de reconhecimento e de pedidos de alteração dos títulos de reconhecimento de organizações
+    de produtores, previstos respetivamente nos arts. 8.º e 10.º pelo(a) Despacho n.º 14111/2014 - Diário da República n.º
+    226/2014, Série II de 2014-11-21
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/despacho/14111-2014-58958253
+  date: '2014-11-21'
 - type: cites
   target: celex:31997R0952
   label: null
@@ -86,21 +108,44 @@ relationships:
   target: celex:32007R1234
   label: null
   source: null
+- type: cites
+  target: pt:dre:360106:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:439160:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:568359:por
+  label: null
+  source: null
+- type: corrected_by
+  target: pt:dre:3620234:por
+  label: "Rectificado o art. 18.º do presente diploma [na parte em que revoga o anexo i do DN 23/2005, de 07-Abr - rectificando\
+    \ para anexo ii] pela DECL-RECT.1172/2010.18.06.2010.SG-MADRP, DR.IIS [117] de 18.06.2010\00\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/declaracao-rectificacao/1172-2010-3620234
+  date: '2010-06-18'
+- type: repealed_by
+  target: pt:dre:67401244:por
+  label: Revogado pelo(a) Portaria n.º 169/2015 - Diário da República n.º 108/2015, Série I de 2015-06-04
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/169-2015-67401244
+  date: '2015-06-04'
 article_structure:
   article_count: 19
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:07:20Z'
   warnings: []
   errors: []
 ---
 
-# Despacho Normativo n.º 11/2010
+# Despacho normativo n.º 11/2010
 
 O Regulamento (CE) n.º 1234/2007, do Conselho, de 22 de Outubro, que estabelece uma organização comum dos mercados agrícolas e disposições específicas para certos produtos agrícolas (Regulamento «OCM única»), veio criar um quadro transversal e uniforme de regras de reconhecimento de organizações de produtores.
 
@@ -398,8 +443,10 @@ O presente diploma entra em vigor no dia seguinte ao da sua publicação.
 
 ## ANEXO I — Produções vegetais
 
-[([ver documento original](https://files.diariodarepublica.pt/2s/2010/04/076000000/2046020463.pdf))](https://files.diariodarepublica.pt/2s/2010/04/076000000/2046020463.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/2s/2010/04/076000000/2046020463.pdf)
 
 ## ANEXO II — Produções animais
 
-[([ver documento original](https://files.diariodarepublica.pt/2s/2010/04/076000000/2046020463.pdf))](https://files.diariodarepublica.pt/2s/2010/04/076000000/2046020463.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/2s/2010/04/076000000/2046020463.pdf)
+
+203143289

@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1983/03/05800/08840884.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,40 +46,60 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/5-1983-309958
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1985-05-08T00:00:00Z'
+  retrieved_at: '2026-10-23T15:16:59Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 5030f970d08723e337ed633c625c2bab7ad4a4eaa1f88f722bb4e1be1df0d894
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 2ce81687379eb5b1b042bb396129a433e86559030d54d473506b4541b8c9c8ce
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:16:59Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Açores
+- CAÇA Submarina
+- Pesca
+- Proteção do Ambiente
+- Proteção dos Animais
 relationships:
 - type: amended_by
   target: pt:dre:152370:por
   label: Última alteração registada na importação inicial
   source: null
+- type: corrected_by
+  target: pt:dre:326167:por
+  label: Rectificado pela DECL.DD5751.22.04.1983.PCM, DR.IS [99-Supl] de 30.04.1983
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/declaracao/1983-326167
+  date: '1983-04-22'
+- type: repealed_by
+  target: pt:dre:1945608:por
+  label: "REVOGADO PELO DECRETO LEGISLATIVO REGIONAL NUMERO 5/85/A, PUBLICADO NO DIÁRIO DA REPÚBLICA, I SÉRIE, NUMERO 105,\
+    \ DE 850508.\0 850508.\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/sem-diploma/2000-1945608
+- type: repealed_by
+  target: pt:dre:152370:por
+  label: Revogado pelo(a) Decreto Legislativo Regional n.º 5/85/A - Diário da República n.º 105/1985, Série I de 1985-05-08
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-legislativo-regional/5-1985-152370
+  date: '1985-05-08'
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:16:59Z'
   warnings: []
   errors: []
 ---
@@ -94,22 +114,22 @@ Considerando que, a manter-se a actual situação de inexistência de qualquer m
 
 A Assembleia Regional dos Açores, nos termos da alínea a) de artigo 229.º da Constituição da República, decreta o seguinte:
 
-###### Artigo 1.º É proibida, nas águas territoriais dos Açores, a caça submarina do mero Serranus guaza (L).
+Artigo 1.º É proibida, nas águas territoriais dos Açores, a caça submarina do mero Serranus guaza (L).
 
-###### Art. 2.º - 1 - A infracção ao disposto no artigo anterior é punível com coima de 2500$00 a 10000$00 e acarreta a perda do equipamento utilizado na caça, com excepção do barco.
+Art. 2.º - 1 - A infracção ao disposto no artigo anterior é punível com coima de 2500$00 a 10000$00 e acarreta a perda do equipamento utilizado na caça, com excepção do barco.
 
 2 - O produto da coima e o da venda do equipamento apreendido terá o destino previsto na lei.
 
-###### Art. 3.º Incumbirá à Secretaria Regional de Agricultura e Pescas e às autoridades marítimas competentes a fiscalização do cumprimento do disposto neste diploma.
+Art. 3.º Incumbirá à Secretaria Regional de Agricultura e Pescas e às autoridades marítimas competentes a fiscalização do cumprimento do disposto neste diploma.
 
-###### Art. 4.º Este decreto legislativo regional entra em vigor 30 dias após a sua publicação no Jornal Oficial da Região Autónoma da Madeira.
+Art. 4.º Este decreto legislativo regional entra em vigor 30 dias após a sua publicação no Jornal Oficial da Região Autónoma da Madeira.
 
 Aprovado na Assembleia Regional dos Açores em 25 de Janeiro de 1983.
 
-**O Presidente da Assembleia Regional dos Açores, Álvaro Monjardino.**
+O Presidente da Assembleia Regional dos Açores, Álvaro Monjardino.
 
-**Assinado em Angra do Heroísmo em 21 de Fevereiro de 1983.**
+Assinado em Angra do Heroísmo em 21 de Fevereiro de 1983.
 
-**Publique-se.**
+Publique-se.
 
-**O Ministro da República para a Região Autónoma dos Açores, Tomás George Conceição Silva.**
+O Ministro da República para a Região Autónoma dos Açores, Tomás George Conceição Silva.

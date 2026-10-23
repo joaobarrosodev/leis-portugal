@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/949/2005/09/29/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/949-2005-149396
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2005-09-29T00:00:00Z'
+  retrieved_at: '2026-10-23T15:09:24Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 53e68c4105a92aa2cf0c2970d9edefb5b4c691b2936251d1a95d72d248022524
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: e4c67fe8ac5ceaeba16177803aa52aa75c40e82b0bd157c0d0fa3820cf726cbe
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:09:24Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,13 +66,19 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Plano de Estudos
 - Ensino Particular
+- Ensino Superior
 - Escola Superior de Saúde
 - Licenciatura
-- Ensino Superior
+- Plano de Estudos
 - Universidade Fernando Pessoa
 relationships:
+- type: amends
+  target: pt:numero:portaria:419/2002
+  label: "Altera o anexo à Portaria n.º 419/2002, de 19 de Abril, DR.IS-B [92], alterado pela Portaria n.º 247/2003, de 18\
+    \ de Março\0\0"
+  source: null
+  date: '2002-04-19'
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/107/1996/07/31/p/dre
   label: null
@@ -109,16 +115,52 @@ relationships:
   target: eli:http://data.dre.pt/eli/resolconsmin/116/2002/10/02/p/dre
   label: null
   source: http://data.dre.pt/eli/resolconsmin/116/2002/10/02/p/dre
+- type: cites
+  target: pt:dre:147849:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:150335:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:216157:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:288397:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:406885:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:512030:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:533820:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:581591:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:644708:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:09:24Z'
   warnings: []
   errors: []
 ---
@@ -159,7 +201,7 @@ Aplicação
 
 O disposto no presente diploma aplica-se a partir do ano lectivo de 2005-2006, inclusive.
 
-**O Ministro da Ciência, Tecnologia e Ensino Superior, José Mariano Rebelo Pires Gago, em 13 de Setembro de 2005.**
+O Ministro da Ciência, Tecnologia e Ensino Superior, José Mariano Rebelo Pires Gago, em 13 de Setembro de 2005.
 
 ## ANEXO — ([Portaria n.º 419/2002](https://diariodarepublica.pt/dr/detalhe/portaria/419-2002-288397), de 19 de Abril, alterada pela [Portaria n.º 247/2003](https://diariodarepublica.pt/dr/detalhe/portaria/247-2003-216157), de 18 de Março - Alteração)
 
@@ -175,22 +217,22 @@ QUADRO N.º 1
 
 1.º ano
 
-[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2005/09/188b00/58705872.pdf)
+[[[[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2005/09/188b00/58705872.pdf)](https://files.diariodarepublica.pt/1s/2005/09/188b00/58705872.pdf)](https://files.diariodarepublica.pt/1s/2005/09/188b00/58705872.pdf)](https://files.diariodarepublica.pt/1s/2005/09/188b00/58705872.pdf)
 
 QUADRO N.º 2
 
 2.º ano
 
-[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2005/09/188b00/58705872.pdf)
+[[[[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2005/09/188b00/58705872.pdf)](https://files.diariodarepublica.pt/1s/2005/09/188b00/58705872.pdf)](https://files.diariodarepublica.pt/1s/2005/09/188b00/58705872.pdf)](https://files.diariodarepublica.pt/1s/2005/09/188b00/58705872.pdf)
 
 QUADRO N.º 3
 
 3.º ano
 
-[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2005/09/188b00/58705872.pdf)
+[[[[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2005/09/188b00/58705872.pdf)](https://files.diariodarepublica.pt/1s/2005/09/188b00/58705872.pdf)](https://files.diariodarepublica.pt/1s/2005/09/188b00/58705872.pdf)](https://files.diariodarepublica.pt/1s/2005/09/188b00/58705872.pdf)
 
 QUADRO N.º 4
 
 4.º ano
 
-[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2005/09/188b00/58705872.pdf)
+[[[[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2005/09/188b00/58705872.pdf)](https://files.diariodarepublica.pt/1s/2005/09/188b00/58705872.pdf)](https://files.diariodarepublica.pt/1s/2005/09/188b00/58705872.pdf)](https://files.diariodarepublica.pt/1s/2005/09/188b00/58705872.pdf)

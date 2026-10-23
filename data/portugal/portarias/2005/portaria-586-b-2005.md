@@ -20,12 +20,12 @@ publication:
   reference: Diário da República n.º 131/2005, 1º Suplemento, Série I-B de 2005-07-11
   number: '131'
   series: I
-  supplement: 1º Suplemento
+  supplement: null
   pages: 4232-(2) a 4232-(2)
   pdf_url: https://files.diariodarepublica.pt/1s/2005/07/131b01/00020002.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/586-b/2005/07/11/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/586-b-2005-236913
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2006-05-25T00:00:00Z'
+  retrieved_at: '2026-10-23T15:07:15Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 81bac059949501c6e1b0c297f0e858b892764af63c7ef961a388af6d5a54abce
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 32c0b8a60f8afc6069ed76f23add35d5bd24fd1261df2a304212fb58299bd66a
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:07:15Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,11 +67,11 @@ reuse:
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
 - Aeroporto
-- Navegação Aérea
-- Transporte Aéreo
 - NAV Portugal
+- Navegação Aérea
 - Taxa Aeroportuária
 - Tráfego Aéreo
+- Transporte Aéreo
 relationships:
 - type: amended_by
   target: pt:dre:665961:por
@@ -89,16 +89,37 @@ relationships:
   target: eli:http://data.dre.pt/eli/port/834/2002/07/09/p/dre
   label: null
   source: http://data.dre.pt/eli/port/834/2002/07/09/p/dre
+- type: cites
+  target: pt:dre:199111:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:273190:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:333343:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:353340:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:665961:por
+  label: "Revogada pela PORT.477-A/2006.25.05.2006.MOPTC, DR.IS-B [101-Supl] de 25.05.2006\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/477-a-2006-665961
+  date: '2006-05-25'
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:07:15Z'
   warnings: []
   errors: []
 ---
@@ -129,4 +150,4 @@ Manda o Governo, pelo Ministro das Obras Públicas, Transportes e Comunicações
 
 3.º A presente portaria produz efeitos no dia seguinte ao da sua publicação.
 
-**O Ministro das Obras Públicas, Transportes e Comunicações, Mário Lino Soares Correia, em 30 de Junho de 2005.**
+O Ministro das Obras Públicas, Transportes e Comunicações, Mário Lino Soares Correia, em 30 de Junho de 2005.

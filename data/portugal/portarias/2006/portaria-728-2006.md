@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/728/2006/07/24/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/728-2006-539223
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2006-07-24T00:00:00Z'
+  retrieved_at: '2026-10-23T15:15:55Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 9941c1616a06264ee9916465048453b72f5bdc9dc20e165f8d044a101b94341f
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 238a2e9230fb7a6abff4cceb69ce49eba74b85ddeefe9bca5d391927a7255335
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:15:55Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -70,8 +70,8 @@ subjects:
 - Comparticipação do Estado
 - Declaração de Rendimentos
 - Definição de Competências
-- Medicamento
 - Instituto de Gestão Informática e Financeira da Saúde
+- Medicamento
 - Pensionista
 relationships:
 - type: cites
@@ -94,16 +94,36 @@ relationships:
   target: eli:http://data.dre.pt/eli/port/91/2006/01/27/p/dre
   label: null
   source: http://data.dre.pt/eli/port/91/2006/01/27/p/dre
+- type: cites
+  target: pt:dre:241811:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:302737:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:426077:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:468806:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:545663:por
+  label: null
+  source: null
 article_structure:
   article_count: 8
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:15:55Z'
   warnings: []
   errors: []
 ---
@@ -166,7 +186,7 @@ Até à emissão dos cartões previstos no artigo anterior, o direito ao regime 
 
 O prazo previsto no n.º 2 do artigo 2.º da [Portaria n.º 91/2006](https://diariodarepublica.pt/dr/detalhe/portaria/91-2006-545663), de 27 de Janeiro, é, durante o ano de 2006, prorrogado até 31 de Julho.
 
-**O Ministro de Estado e das Finanças, Fernando Teixeira dos Santos, em 7 de Julho de 2006. - Pelo Ministro da Saúde, Francisco Ventura Ramos, Secretário de Estado da Saúde, em 6 de Julho de 2006.**
+O Ministro de Estado e das Finanças, Fernando Teixeira dos Santos, em 7 de Julho de 2006. - Pelo Ministro da Saúde, Francisco Ventura Ramos, Secretário de Estado da Saúde, em 6 de Julho de 2006.
 
 ## ANEXO — Declaração anual de rendimentos do pensionista
 

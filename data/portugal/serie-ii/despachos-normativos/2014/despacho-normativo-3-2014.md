@@ -47,25 +47,32 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/despacho-normativo/3-2014-3173743
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2014-02-03T00:00:00Z'
+  retrieved_at: '2026-10-23T15:07:53Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 5ddd9697ab74462e124ab184dee347a2d5cff118b19f694a450dbcbeecd25064
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 9bb52f49b4c3cb8e0504f9185a87c4373fe4c1da5dbe5520278aa431d1f8b6b1
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:07:53Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Agricultura
+- Definição de Competências
+- Indicação Geográfica
+- Instituto da Vinha e do Vinho
+- Produto Vitivinícola
+- Vinha
+- Vinho
 relationships:
 - type: cites
   target: celex:32007R1234
@@ -75,21 +82,25 @@ relationships:
   target: celex:32013R1308
   label: null
   source: null
+- type: cites
+  target: pt:dre:618169:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:07:53Z'
   warnings: []
   errors: []
 ---
 
-# Despacho Normativo n.º 3/2014
+# Despacho normativo n.º 3/2014
 
 A Portaria n.º 741/2009, de 10 de julho, constituiu, nos termos do artigo 85.º-J do Regulamento (CE) n.º 1234/2007, do Conselho, de 22 de outubro, mantido em vigor pelo Regulamento (UE) n.º 1308/2013, de 17 de dezembro, uma reserva de direitos de plantação no território do continente, cujas normas complementares de execução, devem ser estabelecidas por Despacho Normativo do membro do Governo responsável pela área da agricultura.
 
@@ -166,3 +177,5 @@ b) Apresentar candidaturas ao regime de arranque caso este regime de apoio venha
 17 - O presente despacho entra em vigor no dia seguinte ao da sua publicação.
 
 28 de janeiro de 2014. - O Secretário de Estado da Agricultura, José Diogo Santiago de Albuquerque.
+
+207579036

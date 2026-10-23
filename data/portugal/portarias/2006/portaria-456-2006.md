@@ -48,18 +48,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/456/2006/05/16/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/456-2006-631650
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2009-06-05T00:00:00Z'
+  retrieved_at: '2026-10-23T15:14:14Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 84e96b17efa1054cad7c59e2149afc58f51f0e8b3b766bf7698d5337ecaa4d62
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 73ddec89cacd63110176c22896f88d835d1304281b3013dc3aa4ade1269caa5a
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:14:14Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,21 +67,28 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Financiamento
-- Silvicultura
-- Arborização
 - Apoio ao Investimento
-- Projeto de Investimento
+- Arborização
 - Exploração Florestal
-- Regulamento de Aplicação das Acções 3.1 e 3.2-apoio à Silvicultura e Restabelecimento do Potencial de Produção Silvícola
+- Financiamento
 - Política Agrícola
-- Programa AGRO
 - Política Florestal
+- Programa AGRO
+- Projeto de Investimento
+- Regulamento de Aplicação das Acções 3.1 e 3.2-apoio à Silvicultura e Restabelecimento do Potencial de Produção Silvícola
+- Silvicultura
 relationships:
 - type: amended_by
   target: pt:dre:592170:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:540024:por
+  label: "Alterado o anexo V do Regulamento de Aplicação das Acções nºs 3.1 e 3.2 \"Apoio à Silvicultura e Restabelecimento\
+    \ do Potencial de Produção Silvícola\" aprovado pela Port 448-A/2001 de 03-Mai, com a redacção constante do presente diploma,\
+    \ pela PORT.953/2006.12.09.2006.MADRP, DR.IS [176] de 12.09.2006\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/953-2006-540024
+  date: '2006-09-12'
 - type: cites
   target: celex:31999L0105
   label: null
@@ -90,16 +97,23 @@ relationships:
   target: eli:http://data.dre.pt/eli/port/448-a/2001/05/03/p/dre
   label: null
   source: http://data.dre.pt/eli/port/448-a/2001/05/03/p/dre
+- type: repealed_by
+  target: pt:dre:592170:por
+  label: "Revogado, a partir de 06.06.2009, o nº 3 do art. 18º do Regulamento de Aplicação das Acções nºs 3.1 e 3.2 aprovado\
+    \ pela Port 448-A/2001 de 03-Mai, e republicado pelo presente diploma, pela PORT.609-A/2009.05.06.2009.MADRP, DR.IS [109-Supl]\
+    \ de 05.06.2009\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/609-a-2009-592170
+  date: '2009-06-05'
 article_structure:
-  article_count: 26
+  article_count: 20
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:14:14Z'
   warnings: []
   errors: []
 ---
@@ -148,7 +162,9 @@ f) [Anterior alínea e).]
 
 3 - ...
 
-###### Artigo 5.º — [...]
+Artigo 5.º
+
+[...]
 
 ...
 
@@ -162,7 +178,9 @@ d) ...
 
 e) ...
 
-###### Artigo 6.º — [...]
+Artigo 6.º
+
+[...]
 
 1 - ...
 
@@ -188,7 +206,9 @@ i) [Anterior alínea h).]
 
 3 - ...
 
-###### Artigo 7.º — [...]
+Artigo 7.º
+
+[...]
 
 1 - ...
 
@@ -208,7 +228,9 @@ e) [Anterior alínea c).]
 
 4 - ...
 
-###### Artigo 9.º — [...]
+Artigo 9.º
+
+[...]
 
 1 - ...
 
@@ -248,7 +270,9 @@ e) Projectos apresentados por empresárias florestais respeitantes a actividades
 
 6 - ...
 
-###### Artigo 10.º — [...]
+Artigo 10.º
+
+[...]
 
 1 - ...
 
@@ -262,7 +286,9 @@ c) Sociedades gestoras de fundos de investimento florestais e entidades gestoras
 
 3 - ...
 
-###### Artigo 16.º — [...]
+Artigo 16.º
+
+[...]
 
 ...
 
@@ -282,7 +308,9 @@ g) ...
 
 h) ...
 
-## ANEXO II — [...]
+ANEXO II
+
+[...]
 
 Espécies elegíveis
 
@@ -290,7 +318,9 @@ Espécies elegíveis
 
 (**) Para os beneficiários não agricultores, apenas quando exploradas em rotações superiores a 20 anos, nos termos previstos no presente Regulamento.
 
-## ANEXO V — [...]
+ANEXO V
+
+[...]
 
 Projectos prioritários
 
@@ -312,7 +342,7 @@ Projectos prioritários
 
 2.º O Regulamento de Aplicação das Acções n.os 3.1 e 3.2, «Apoio à Silvicultura» e «Restabelecimento do Potencial de Produção Silvícola», da medida n.º 3 do Programa AGRO, aprovado pela Portaria n.º 448-A/2001, de 3 de Maio, com as alterações introduzidas pelas Portarias n.os 388/2002, de 11 de Abril, 161/2003, de 19 de Fevereiro, 1391/2003, de 18 de Novembro, e 590/2004, de 2 de Junho, e pela presente portaria, é republicado em anexo ao presente diploma, dele fazendo parte integrante.
 
-**O Ministro da Agricultura, do Desenvolvimento Rural e das Pescas, Jaime de Jesus Lopes Silva, em 2 de Maio de 2006.**
+O Ministro da Agricultura, do Desenvolvimento Rural e das Pescas, Jaime de Jesus Lopes Silva, em 2 de Maio de 2006.
 
 ## ANEXO — (Portaria n.º 448-A/2001, de 3 de Maio)
 
@@ -618,13 +648,13 @@ h) Utilizar o livro de obra para acompanhamento e validação da execução dos 
 
 Densidades mínimas dos povoamentos
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2006/05/094b00/33843394.pdf))](https://files.diariodarepublica.pt/1s/2006/05/094b00/33843394.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2006/05/094b00/33843394.pdf)
 
 ## ANEXO II — (a que se refere o n.º 2 do artigo 4.º)
 
 Espécies elegíveis
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2006/05/094b00/33843394.pdf))](https://files.diariodarepublica.pt/1s/2006/05/094b00/33843394.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2006/05/094b00/33843394.pdf)
 
 1 - Em projectos com menos de 5 ha são elegíveis todas as espécies adaptadas ecologicamente à estação respectiva.
 
@@ -636,7 +666,7 @@ Espécies elegíveis
 
 Espécies de crescimento rápido/áreas máximas contínuas
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2006/05/094b00/33843394.pdf))](https://files.diariodarepublica.pt/1s/2006/05/094b00/33843394.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2006/05/094b00/33843394.pdf)
 
 ## ANEXO IV — (a que se refere o n.º 1 do artigo 8.º)
 
@@ -808,7 +838,7 @@ Instalação de espécies arbóreas e arbustivas de interesse apícola.
 
 Densidades mínimas de estabelecimento do povoamento
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2006/05/094b00/33843394.pdf))](https://files.diariodarepublica.pt/1s/2006/05/094b00/33843394.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2006/05/094b00/33843394.pdf)
 
 Observações
 

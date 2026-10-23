@@ -23,7 +23,7 @@ publication:
   reference: Diário da República n.º 212/2006, 1º Suplemento, Série I de 2006-11-03
   number: '212'
   series: I
-  supplement: 1º Suplemento
+  supplement: null
   pages: 7708-(9) a 7708-(15)
   pdf_url: https://files.diariodarepublica.pt/1s/2006/11/21201/00090015.pdf
 entry_into_force_dates: []
@@ -50,18 +50,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/1192-b/2006/11/03/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/1192-b-2006-152704
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2012-12-31T00:00:00Z'
+  retrieved_at: '2026-10-23T15:10:53Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 7dc05f24ea4f1d1c25ec35c317c0d50d9959671d3f64343331af425045f99cb9
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 76d81054fa4f0619cf9a1054b2496c4eb7658945ef53dcfd33dbba2618504a25
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:10:53Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -70,24 +70,42 @@ reuse:
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
 - Árbitro
-- Modernização Administrativa
+- Arrendamento Urbano não Habitacional
+- Arrendamento Urbano para Habitação
 - Avaliação de Prédios
+- Coeficiente de Conservação
 - Comissão Arbitral
 - Comissão Arbitral Municipal
-- Obras de Conservação e Restauro
-- Arrendamento Urbano não Habitacional
 - Impresso
-- Programa Simplex
-- Coeficiente de Conservação
-- Remuneração
+- Modernização Administrativa
+- Obras de Conservação e Restauro
 - Prédio Urbano
-- Arrendamento Urbano para Habitação
+- Programa Simplex
+- Remuneração
 - Vistoria
 relationships:
 - type: amended_by
   target: pt:dre:632428:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:246475:por
+  label: "Prorrogado, por um ano, o prazo previsto no art. 19º pela PORT.246/2008.27.03.2008.PCM, DR.IS [61] de 27.03.2008\0\
+    8\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/246-2008-246475
+  date: '2008-03-27'
+- type: amended_by
+  target: pt:dre:603196:por
+  label: "Prorrogado, por mais um ano, o prazo previsto no art. 19º, pela PORT.24/2009.15.01.2009.PCM, DR.IS [10] de 15.01.2009\0\
+    9\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/24-2009-603196
+  date: '2009-01-15'
+- type: amended_by
+  target: pt:dre:632428:por
+  label: "Mantida em vigor, pelo DEC LEI.266-B/2012.31.12.2012.MAMAOT, DR.IS [252-2ºSupl] de 31.12.2012, nos termos do seu\
+    \ art. 8º.\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/266-b-2012-632428
+  date: '2012-12-31'
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/156/2006/08/08/p/dre
   label: null
@@ -108,16 +126,44 @@ relationships:
   target: eli:http://data.dre.pt/eli/port/1192-a/2006/11/03/p/dre
   label: null
   source: http://data.dre.pt/eli/port/1192-a/2006/11/03/p/dre
+- type: cites
+  target: pt:dre:152703:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:538614:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:538618:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:538619:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:620954:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:667147:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:693853:por
+  label: null
+  source: null
 article_structure:
   article_count: 20
   section_count: 6
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:10:53Z'
   warnings: []
   errors: []
 ---
@@ -238,7 +284,7 @@ d) Se a anomalia afectar um equipamento ou instalação para o qual exista uma a
 
 3 - O índice de anomalias do locado é classificado segundo a escala constante da seguinte tabela:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2006/11/21201/00090015.pdf))](https://files.diariodarepublica.pt/1s/2006/11/21201/00090015.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2006/11/21201/00090015.pdf)
 
 4 - Não devem existir elementos funcionais de ponderação três, quatro, cinco ou seis cujo estado de conservação, determinado aplicando o respectivo nível de anomalia à escala utilizada na regra prevista no n.º 3, seja inferior em mais de uma unidade ao estado de conservação do locado.
 
@@ -424,4 +470,4 @@ Em 30 de Outubro de 2006.
 
 Pelo Ministro de Estado e da Administração Interna, Eduardo Arménio do Nascimento Cabrita, Secretário de Estado Adjunto e da Administração Local. - O Ministro de Estado e das Finanças, Fernando Teixeira dos Santos. - Pelo Ministro do Ambiente, do Ordenamento do Território e do Desenvolvimento Regional, João Manuel Machado Ferrão, Secretário de Estado do Ordenamento do Território e das Cidades. - O Ministro das Obras Públicas, Transportes e Comunicações, Mário Lino Soares Correia.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2006/11/21201/00090015.pdf))](https://files.diariodarepublica.pt/1s/2006/11/21201/00090015.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2006/11/21201/00090015.pdf)

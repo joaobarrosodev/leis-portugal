@@ -27,7 +27,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2006/02/038b00/14241427.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -49,18 +49,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/177/2006/02/22/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/177-2006-676201
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2015-09-08T00:00:00Z'
+  retrieved_at: '2026-10-23T15:12:30Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 686f88ef34ce2e48c228609bf9b139002d1752653140f915533745940789e3d9
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: be384f894579cea92a59ab9e39d7d11a81070349d4f1e2aed80acd781420a2b0
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:12:30Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -68,24 +68,46 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Leite
+- Açores
+- Agricultura
 - Definição de Competências
-- Projeto de Investimento
-- Instituto Nacional de Intervenção e Garantia Agrícola
+- Ifadap
 - Instituto de Alimentação e Mercados Agrícolas
+- Instituto Nacional de Intervenção e Garantia Agrícola
 - Jovem Agricultor
+- Leite
+- Pecuária
 - Política Agrícola Comum
 - Produção Leiteira
+- Projeto de Investimento
 - Quota de Produção
-- Pecuária
-- Agricultura
-- Ifadap
-- Açores
 relationships:
 - type: amended_by
   target: pt:dre:70215251:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:452219:por
+  label: "Alterados os arts. 4.º, 5.º, 6.º, 8.º, 9.º e 10.º e aditados a al. e) do art. 2.º, o n.º 4 do art. 3.º, o art. 4.º-A\
+    \ e a al. i) do art. 8.º ao presente diploma, bem como determinado que as referências feitas no presente diploma ao IFADAP/INGA\
+    \ devem ser considerar-se feitas IFAP, I. P., e as feitas às direcções regionais de agricultura (DRA) e às direcções regionais\
+    \ do IFAP, I. P., devem considerar-se feitas às direcções regionais de agricultura e pescas (DRAP), pela PORT.1051/2008.17.09.2008.MADRP,\
+    \ DR.IS [180] de 17.09.2008\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/1051-2008-452219
+  date: '2008-09-17'
+- type: amended_by
+  target: pt:dre:333815:por
+  label: "Dada nova redacção aos arts. 7º e 8º (este com a redacção conferida pela Port 1051/2008 de 17-Set), e revogadas\
+    \ as als. c), e) e f) do nº 2 do art. 6º e g) do nº 1 do art. 8º pela PORT.608/2010.03.08.2010.MADRP, DR.IS [149] de 03.08.2010\0\
+    \0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/608-2010-333815
+  date: '2010-08-03'
+- type: amended_by
+  target: pt:dre:634331:por
+  label: "Alterado o art. 8.º do presente diploma, na redacção dada pela Port 1051/2008, de 17-Set e pela Port 608/2010, de\
+    \ 03-Ago, pela PORT.825-A/2010.30.08.2010.MADRP, DR.IS [168-Supl] de 30.08.2010\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/825-a-2010-634331
+  date: '2010-08-30'
 - type: cites
   target: celex:31999R1257
   label: null
@@ -106,16 +128,23 @@ relationships:
   target: eli:http://data.dre.pt/eli/dec-lei/240/2002/11/05/p/dre
   label: null
   source: http://data.dre.pt/eli/dec-lei/240/2002/11/05/p/dre
+- type: repealed_by
+  target: pt:dre:70215251:por
+  label: Revogado, a partir de 13.09.2015, o presente diploma, na redação da Port 1051/2008 de 17-set, da Port 608/2010 de
+    08-ago, e da Port 825-A/2010 de 30-ago, pelo(a) Decreto-Lei n.º 189/2015 - Diário da República n.º 175/2015, Série I de
+    2015-09-08
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/189-2015-70215251
+  date: '2015-09-08'
 article_structure:
   article_count: 14
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:12:30Z'
   warnings: []
   errors: []
 ---
@@ -316,4 +345,4 @@ São revogadas as Portarias n.os 1250/2003, de 31 de Outubro, e 1549/2002, de 26
 
 2 - O artigo 4.º entra em vigor no dia 1 de Abril de 2006.
 
-**O Ministro da Agricultura, do Desenvolvimento Rural e das Pescas, Jaime de Jesus Lopes Silva, em 3 de Fevereiro de 2006.**
+O Ministro da Agricultura, do Desenvolvimento Rural e das Pescas, Jaime de Jesus Lopes Silva, em 3 de Fevereiro de 2006.

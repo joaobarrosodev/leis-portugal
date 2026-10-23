@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/950/2005/09/29/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/950-2005-149401
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2005-09-29T00:00:00Z'
+  retrieved_at: '2026-10-23T15:09:24Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 18c8ac330a923bab1b07092e2ba81e13ecca92f585e13e623ced093c9f90bf32
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 4ef3919573c4def63ae73b55bf475193a9ea1afbcd3a0c8b45f9a483c1246747
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:09:24Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,12 +66,12 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Plano de Estudos
 - Curso de Ciências Químicas e do Ambiente
 - Ensino Cooperativo
 - Ensino Particular
 - Instituto Superior de Estudos Interculturais e Transdisciplinares
 - Licenciatura
+- Plano de Estudos
 - Viseu
 relationships:
 - type: cites
@@ -94,16 +94,36 @@ relationships:
   target: eli:http://data.dre.pt/eli/port/779/1997/08/28/p/dre
   label: null
   source: http://data.dre.pt/eli/port/779/1997/08/28/p/dre
+- type: cites
+  target: pt:dre:150335:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:168996:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:194619:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:512030:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:533820:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:09:24Z'
   warnings: []
   errors: []
 ---
@@ -156,7 +176,7 @@ Aplicação
 
 O disposto na presente portaria aplica-se a partir do ano lectivo de 2005-2006, inclusive.
 
-**O Ministro da Ciência, Tecnologia e Ensino Superior, José Mariano Rebelo Pires Gago, em 13 de Setembro de 2005.**
+O Ministro da Ciência, Tecnologia e Ensino Superior, José Mariano Rebelo Pires Gago, em 13 de Setembro de 2005.
 
 ## ANEXO — ([Portaria n.º 779/97](https://diariodarepublica.pt/dr/detalhe/portaria/779-1997-194619), de 28 de Agosto - Alteração)
 
@@ -170,22 +190,22 @@ QUADRO N.º 1
 
 1.º ano
 
-[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2005/09/188b00/58725873.pdf)
+[[[[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2005/09/188b00/58725873.pdf)](https://files.diariodarepublica.pt/1s/2005/09/188b00/58725873.pdf)](https://files.diariodarepublica.pt/1s/2005/09/188b00/58725873.pdf)](https://files.diariodarepublica.pt/1s/2005/09/188b00/58725873.pdf)
 
 QUADRO N.º 2
 
 2.º ano
 
-[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2005/09/188b00/58725873.pdf)
+[[[[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2005/09/188b00/58725873.pdf)](https://files.diariodarepublica.pt/1s/2005/09/188b00/58725873.pdf)](https://files.diariodarepublica.pt/1s/2005/09/188b00/58725873.pdf)](https://files.diariodarepublica.pt/1s/2005/09/188b00/58725873.pdf)
 
 QUADRO N.º 3
 
 3.º ano
 
-[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2005/09/188b00/58725873.pdf)
+[[[[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2005/09/188b00/58725873.pdf)](https://files.diariodarepublica.pt/1s/2005/09/188b00/58725873.pdf)](https://files.diariodarepublica.pt/1s/2005/09/188b00/58725873.pdf)](https://files.diariodarepublica.pt/1s/2005/09/188b00/58725873.pdf)
 
 QUADRO N.º 4
 
 4.º ano
 
-[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2005/09/188b00/58725873.pdf)
+[[[[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2005/09/188b00/58725873.pdf)](https://files.diariodarepublica.pt/1s/2005/09/188b00/58725873.pdf)](https://files.diariodarepublica.pt/1s/2005/09/188b00/58725873.pdf)](https://files.diariodarepublica.pt/1s/2005/09/188b00/58725873.pdf)

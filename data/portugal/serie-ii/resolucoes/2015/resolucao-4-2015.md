@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/2s/2015/01/009000000/0096000962.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -46,40 +46,84 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/resolucao/4-2015-66147751
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2016-01-07T00:00:00Z'
+  retrieved_at: '2026-10-23T15:15:42Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 7d225184d778291d94c0a4c64006696ca2d2e42427c5be71427876d0fd572696
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 63c00f941a066d63808a80c862cd2a87d472b163e67df7f5cc979cbb9cccd4df
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:15:42Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Carris
+- Conselho de Administração
+- Metropolitano de Lisboa
+- Nomeação
+- Presidente
+- Soflusa-sociedade Fluvial de Transportes
+- Transtejo
+- Vogal
 relationships:
 - type: amended_by
   target: pt:dre:73051063:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:73051063:por
+  label: Dissolvido o Conselho de Administração da Metropolitano de Lisboa, E. P. E., e, consequentemente, os Conselhos de
+    Administração da Companhia de Carris de Ferro de Lisboa, S. A., da Transtejo - Transportes do Tejo, S. A., e da Soflusa
+    - Sociedade Fluvial de Transportes, S. A., cujos membros exerciam tais funções em regime de acumulação, designados pelo
+    presente diploma, pelo(a) Resolução n.º 1-A/2016 - Diário da República n.º 4/2016, 1º Suplemento, Série II de 2016-01-07
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/resolucao/1-a-2016-73051063
+  date: '2016-01-07'
+- type: cites
+  target: pt:dre:1321230:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:500215:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:520259:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:544415:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:553385:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:57701290:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:58644005:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:15:42Z'
   warnings: []
   errors: []
 ---
@@ -273,3 +317,5 @@ Entre junho de 2002 e novembro de 2004: Diretor Financeiro e Administrativo da E
 2002: Formador no Instituto de Formação Bancária.
 
 Entre outubro de 1988 e junho de 2002: Radiodifusão Portuguesa e Televisão de Portugal, S.A.. Desempenhou funções de Especialista, Chefe de Departamento Financeiro, Assessor do Diretor Financeiro, Diretor Financeiro e Coordenador do Gabinete de Auditoria Interna.
+
+208353566

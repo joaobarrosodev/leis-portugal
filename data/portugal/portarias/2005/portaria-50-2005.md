@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/50/2005/01/20/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/50-2005-625797
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2005-01-20T00:00:00Z'
+  retrieved_at: '2026-10-23T15:06:43Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 008bfed51c1fbe87bb44dc971e5f10d2de085fd8fa9b588d90477b6382820dd4
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 0050aeaf235408913a9b8746d2af8fe8828986ec5c66ae5d0c607c277c9b1bd9
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:06:43Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -70,17 +70,17 @@ subjects:
 - ÁGUA Potável
 - ÁGUA Superficial
 - Águas Balneares
+- Águas Residuais
+- Águas Subterrâneas
+- Aquicultura
 - Controlo de Qualidade
-- Recursos Hídricos
 - Controlo Sanitário
 - Meio Aquático
-- Aquicultura
-- Proteção do Ambiente
-- Águas Residuais
 - Poluição da água
 - Poluição Industrial
 - Programa
-- Águas Subterrâneas
+- Proteção do Ambiente
+- Recursos Hídricos
 - Tratamento de ÁGUA
 relationships:
 - type: cites
@@ -114,13 +114,13 @@ relationships:
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:06:43Z'
   warnings: []
   errors: []
 ---
@@ -177,7 +177,7 @@ p) Cianetos.
 
 Em 28 de Dezembro de 2004.
 
-**O Ministro de Estado, das Actividades Económicas e do Trabalho, Álvaro Roque de Pinho Bissaya Barreto. - O Ministro da Agricultura, Pescas e Florestas, Carlos Henrique da Costa Neves. - O Ministro da Saúde, Luís Filipe da Conceição Pereira. - O Ministro do Ambiente e do Ordenamento do Território, Luís José de Mello e Castro Guedes.**
+O Ministro de Estado, das Actividades Económicas e do Trabalho, Álvaro Roque de Pinho Bissaya Barreto. - O Ministro da Agricultura, Pescas e Florestas, Carlos Henrique da Costa Neves. - O Ministro da Saúde, Luís Filipe da Conceição Pereira. - O Ministro do Ambiente e do Ordenamento do Território, Luís José de Mello e Castro Guedes.
 
 ## ANEXO I — Enquadramento geral
 
@@ -211,7 +211,7 @@ Direcção-Geral da Saúde (DGS).
 
 Da consulta resultou o estabelecimento de valores limite de emissão (VLE) na descarga de águas residuais ao nível nacional, que seguidamente se transpõem:
 
-[(ver tabela no documento original)](https://files.diariodarepublica.pt/1s/2005/01/014b00/04620486.pdf)
+[[(ver tabela no documento original)](https://files.diariodarepublica.pt/1s/2005/01/014b00/04620486.pdf)](https://files.diariodarepublica.pt/1s/2005/01/014b00/04620486.pdf)
 
 Nota. - O factor diluição não deve ser considerado aquando do cálculo dos VLE (trata-se de substâncias de elevada persistência).
 
@@ -1985,4 +1985,4 @@ e) O programa será aplicado até 31 de Dezembro de 2008, com excepção da moni
 
 ## ANEXO XVII — Métodos analíticos e limites de detecção das substâncias analisadas na água
 
-[(ver tabela no documento original)](https://files.diariodarepublica.pt/1s/2005/01/014b00/04620486.pdf)
+[[(ver tabela no documento original)](https://files.diariodarepublica.pt/1s/2005/01/014b00/04620486.pdf)](https://files.diariodarepublica.pt/1s/2005/01/014b00/04620486.pdf)

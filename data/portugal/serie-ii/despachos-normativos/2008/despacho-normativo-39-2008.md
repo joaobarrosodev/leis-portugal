@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/2s/2008/08/157000000/3632036330.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,45 +46,69 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/despacho-normativo/39-2008-2932987
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2024-04-15T00:00:00Z'
+  retrieved_at: '2026-10-23T15:06:55Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 3de68a0d69967262b271a8d111f193fda608eaeda5ff59fb210cfca3612ea9fd
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: bab83e36a96d166e43afb1029163be6b07f8cf73dc47611bc1f404a1556f6d2a
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:06:55Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Ensino Oficial
+- Ensino Superior
+- Estatuto
+- Homologação
+- Instituto Politécnico
+- Portalegre
 relationships:
 - type: amended_by
   target: pt:dre:860479515:por
   label: Última alteração registada na importação inicial
   source: null
+- type: cites
+  target: pt:dre:640339:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:74338005:por
+  label: Revogados os Estatutos do Instituto Politécnico de Portalegre homologados pelo presente despacho normativo, pelo(a)
+    Despacho Normativo n.º 3/2016 - Diário da República n.º 85/2016, Série II de 2016-05-03 nos termos do art. 81.º dos seus
+    Estatutos anexos
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/despacho-normativo/3-2016-74338005
+  date: '2016-05-03'
+- type: repealed_by
+  target: pt:dre:860479515:por
+  label: Revogados, a partir de 16 de abril de 2024, sem prejuízo do disposto nos artigos 78.º e 79.º dos presentes estatutos,
+    aprovados, pelo(a) Despacho Normativo n.º 10/2024 - Diário da República n.º 74/2024, Série II de 2024-04-15, nos termos
+    do seu artigo 81.º dos estatutos
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/despacho-normativo/10-2024-860479515
+  date: '2024-04-15'
 article_structure:
   article_count: 65
   section_count: 18
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:06:55Z'
   warnings: []
   errors: []
 ---
 
-# Despacho Normativo n.º 39/2008
+# Despacho normativo n.º 39/2008
 
 Considerando que, nos termos do n.º 1 do artigo 172.º da [Lei n.º 62/2007](https://diariodarepublica.pt/dr/detalhe/lei/62-2007-640339), de 10 de Setembro, as instituições de ensino superior devem proceder à revisão dos seus estatutos, de modo a conformá-los com o novo Regime Jurídico das Instituições de Ensino Superior;
 
@@ -1090,7 +1114,7 @@ Sobre um campo quadrado cinzento (pantone 430), desenvolve-se um conjunto de ele
 
 A designação"INSTITUTO POLITÉCNICO DE PORTALEGRE" é escrita em caracteres avant gard demibold oblic (pantone 430) e pode ser usada à direita do símbolo (em três linhas) ou abaixo do símbolo (numa única linha).
 
-[([ver documento original](https://files.diariodarepublica.pt/2s/2008/08/157000000/3632036330.pdf))](https://files.diariodarepublica.pt/2s/2008/08/157000000/3632036330.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/2s/2008/08/157000000/3632036330.pdf)
 
 Imagem gráfica da Escola Superior de Educação
 
@@ -1104,7 +1128,7 @@ A designação"INSTITUTO POLITÉCNICO DE PORTALEGRE", instituição a que perten
 
 A cor utilizada é o cinzento (pantone 430) idêntico ao usado no símbolo do Instituto Politécnico de Portalegre.
 
-[([ver documento original](https://files.diariodarepublica.pt/2s/2008/08/157000000/3632036330.pdf))](https://files.diariodarepublica.pt/2s/2008/08/157000000/3632036330.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/2s/2008/08/157000000/3632036330.pdf)
 
 Imagem gráfica da Escola Superior de Tecnologia e Gestão
 
@@ -1114,7 +1138,7 @@ Sobre um campo quadrado cinzento (pantone 430), desenvolve-se um conjunto de ele
 
 A designação"ESCOLA SUPERIOR DE TECNOLOGIA E GESTÃO" é escrita em caracteres avant gard demibold oblic e pode ser usada à direita do símbolo (em duas linhas encimadas pela designação do Instituto a que pertence,"INSTITUTO POLITÉCNICO DE PORTALEGRE" ou abaixo do símbolo (numa única linha, sublinhada pela designação do Instituto a que pertence,"INSTITUTO POLITÉCNICO DE PORTALEGRE").
 
-[([ver documento original](https://files.diariodarepublica.pt/2s/2008/08/157000000/3632036330.pdf))](https://files.diariodarepublica.pt/2s/2008/08/157000000/3632036330.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/2s/2008/08/157000000/3632036330.pdf)
 
 Imagem gráfica da Escola Superior Agrária de Elvas
 
@@ -1124,7 +1148,7 @@ Sobre um campo quadrado cinzento (Pantone 430) com dois movimentos de degradaç�
 
 A designação ESCOLA SUPERIOR AGRÁRIA de ELVAS é escrita em caracteres Avant Gard Demibold Oblic e pode ser usada à direita do símbolo (em duas linhas, encimadas pela designação do Instituto a que pertence - INSTITUTO POLITÉCNICO DE PORTALEGRE) ou abaixo do símbolo (numa única linha, sublinhada pela designação do Instituto a que pertence - INSTITUTO POLITÉCNICO DE PORTALEGRE).
 
-[([ver documento original](https://files.diariodarepublica.pt/2s/2008/08/157000000/3632036330.pdf))](https://files.diariodarepublica.pt/2s/2008/08/157000000/3632036330.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/2s/2008/08/157000000/3632036330.pdf)
 
 Imagem gráfica da Escola Superior de Saúde de Portalegre
 
@@ -1132,7 +1156,7 @@ A imagem gráfica da Escola Superior de Saúde de Portalegre é composta por um 
 
 A cor azul na identificação da Escola representa a calma; a cor amarela representa uma ideia de maturidade, tendo ainda relação com as cores do curso, que são o amarelo e o branco, o amarelo do brasão da cidade de Portalegre e as cores do Instituto ao qual pertence a Escola. Esta imagem teve como referência a estilização do símbolo «Enfermeira da Bretanha», obra em mármore da autoria do escultor João Pires Cutileiro. A cor azul é Blue 072 CVC e o Amarelo 100 CVC. A letra é Avant Garde Extra Light e B Avant Garde Demi. A integridade das suas dimensões compreende na largura 50 % do comprimento, respectivamente.
 
-[([ver documento original](https://files.diariodarepublica.pt/2s/2008/08/157000000/3632036330.pdf))](https://files.diariodarepublica.pt/2s/2008/08/157000000/3632036330.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/2s/2008/08/157000000/3632036330.pdf)
 
 Imagem gráfica dos Serviços de Acção Social do Instituto Politécnico de Portalegre
 
@@ -1144,4 +1168,4 @@ Junto ao símbolo, à direita, numa única linha, surge a designação"INSTITUTO
 
 A designação"Serviços de Acção Social" é escrita em duas linhas, abaixo do símbolo, em caracteres avant gard bk bt bold italic, em tons de cinzento (20 % preto).
 
-[([ver documento original](https://files.diariodarepublica.pt/2s/2008/08/157000000/3632036330.pdf))](https://files.diariodarepublica.pt/2s/2008/08/157000000/3632036330.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/2s/2008/08/157000000/3632036330.pdf)

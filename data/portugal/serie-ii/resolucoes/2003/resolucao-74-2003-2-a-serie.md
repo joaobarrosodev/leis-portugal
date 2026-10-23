@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/2s/2003/11/265000000/1716217165.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -46,18 +46,18 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/resolucao/74-2003-3007374
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2003-11-15T00:00:00Z'
+  retrieved_at: '2026-10-23T15:12:01Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: b08afb7ac5d95ad290b274a017d672b18721ab5882a47beeb229f519081ba3a4
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 13d812ef34d6a59222bc6cfb639d25567c583cdeba267edffcd210dc15c0a1de
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:12:01Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -65,17 +65,29 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects: []
-relationships: []
+relationships:
+- type: cites
+  target: pt:dre:168059:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:355494:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:478840:por
+  label: null
+  source: null
 article_structure:
-  article_count: 11
-  section_count: 5
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  article_count: 13
+  section_count: 10
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:12:01Z'
   warnings: []
   errors: []
 ---
@@ -164,7 +176,9 @@ g) Assegurar e supervisionar as actividades e os procedimentos técnicos e opera
 
 h) Assegurar a coordenação e articulação entre as actividades dos ST e as restantes unidades orgânicas da Universidade.
 
-###### Artigo 5.º — Divisão de Planeamento e Gestão de Projectos
+###### Artigo 5.º
+
+##### Divisão de Planeamento e Gestão de Projectos
 
 À Divisão de Planeamento e Gestão de Projectos, sob a responsabilidade de um chefe de divisão, compete, nomeadamente:
 
@@ -202,7 +216,9 @@ p) Colaborar na implementação das acções resultantes da política geral de s
 
 q) Colaborar com a Divisão de Conservação e Manutenção na elaboração de planos e programas para a manutenção e conservação dos edifícios construídos.
 
-###### Artigo 6.º — Divisão de Conservação e Manutenção
+###### Artigo 6.º
+
+##### Divisão de Conservação e Manutenção
 
 À Divisão de Conservação e Manutenção, sob a responsabilidade de um chefe de divisão, compete, nomeadamente:
 
@@ -234,7 +250,9 @@ m) Colaborar com a Divisão de Planeamento e Gestão de Projectos no acompanhame
 
 n) Colaborar com a Divisão para a Qualidade e Segurança na promoção das acções a cargo daquela Divisão.
 
-###### Artigo 7.º — Divisão para a Qualidade e Segurança
+###### Artigo 7.º
+
+##### Divisão para a Qualidade e Segurança
 
 À Divisão para a Qualidade e Segurança, sob a responsabilidade de um chefe de divisão, compete, nomeadamente:
 
@@ -300,7 +318,9 @@ g) Assegurar e organizar o arquivo classificado dos ST, tendo em atenção a ide
 
 h) Assegurar o cumprimento dos procedimentos de gestão administrativa interna, definidos pela Direcção de Serviços, no que se refere ao protocolo de correio e aos procedimentos de comunicação com outras unidades da Universidade do Minho por via electrónica (intranet).
 
-###### Artigo 9.º — Secção de Serviços Administrativos e Operativos
+###### Artigo 9.º
+
+#### Secção de Serviços Administrativos e Operativos
 
 À Secção de Serviços Administrativos e Operativos, sob a responsabilidade de um chefe de secção, compete, nomeadamente:
 
@@ -324,7 +344,9 @@ i) Elaborar os documentos de todas as despesas contraídas pelos ST nos domínio
 
 j) Colaborar com a Secretaria-Geral na organização do arquivo classificado dos ST, tendo em atenção a identificação das várias acções desenvolvidas e, para cada uma delas, toda a documentação que lhes esteve afecta desde o início até à respectiva conclusão.
 
-###### Artigo 10.º — Secção de Serviços Administrativos
+###### Artigo 10.º
+
+#### Secção de Serviços Administrativos
 
 de Apoio ao Planeamento e à Gestão de Projectos
 
@@ -350,9 +372,11 @@ h) Prestar apoio à Secção de Aprovisionamento e Património da Universidade c
 
 ###### Artigo 11.º — Organograma
 
-[([ver documento original](https://files.diariodarepublica.pt/2s/2003/11/265000000/1716217165.pdf))](https://files.diariodarepublica.pt/2s/2003/11/265000000/1716217165.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/2s/2003/11/265000000/1716217165.pdf)
 
-### CAPÍTULO IV — Artigo 12.º
+### CAPÍTULO IV
+
+###### Artigo 12.º
 
 Do quadro
 
@@ -360,7 +384,9 @@ Do quadro
 
 2 - Ao recrutamento e provimento nos lugares previstos no artigo anterior é aplicável o [Decreto-Lei n.º 217/96](https://diariodarepublica.pt/dr/detalhe/decreto-lei/217-1996-168059), de 20 de Novembro, e a lei geral ou especial sobre carreiras.
 
-### CAPÍTULO V — Artigo 13.º
+### CAPÍTULO V
+
+###### Artigo 13.º
 
 Entrada em vigor
 

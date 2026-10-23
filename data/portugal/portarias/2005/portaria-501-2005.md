@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/501/2005/06/02/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/501-2005-220161
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2005-10-04T00:00:00Z'
+  retrieved_at: '2026-10-23T15:06:45Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 6956556ba4c9776d29bd67cd80153474f59dfb510222ccd0adf84693d84468ef
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 254e97a3989d273d24051de68df00fa4db7a5b52ea868cd6eeb285e84f5265f3
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:06:45Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -75,20 +75,31 @@ relationships:
   target: pt:dre:157585:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:157585:por
+  label: "Prorrogado até 15 de Outubro de 2005 o período crítico, no âmbito do Sistema Nacional de Prevenção e Protecção da\
+    \ Florestal contra Incêndios, estabelecido no preswente diploma, pela PORT.977/2005.04.10.2005.MADRP, DR.IS-B [191] de\
+    \ 04.10.2005\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/977-2005-157585
+  date: '2005-10-04'
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/156/2004/06/30/p/dre
   label: null
   source: http://data.dre.pt/eli/dec-lei/156/2004/06/30/p/dre
+- type: cites
+  target: pt:dre:517473:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:06:45Z'
   warnings: []
   errors: []
 ---
@@ -109,4 +120,4 @@ Assim:
 
 Manda o Governo, pelo Ministro da Agricultura, do Desenvolvimento Rural e das Pescas, ao abrigo da alínea f) do artigo 3.º do [Decreto-Lei n.º 156/2004](https://diariodarepublica.pt/dr/detalhe/decreto-lei/156-2004-517473), de 30 de Junho, que, por força de circunstâncias meteorológicas excepcionais, se estabeleça que o período crítico, no âmbito do Sistema Nacional de Prevenção e Protecção da Floresta contra Incêndios, vigore de 15 de Maio a 30 de Setembro, durante o qual se asseguram medidas especiais de prevenção contra incêndios florestais.
 
-**O Ministro da Agricultura, do Desenvolvimento Rural e das Pescas, Jaime de Jesus Lopes Silva, em 10 de Maio de 2005.**
+O Ministro da Agricultura, do Desenvolvimento Rural e das Pescas, Jaime de Jesus Lopes Silva, em 10 de Maio de 2005.

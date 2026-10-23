@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/2s/2008/03/057000000/1242212424.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,30 +46,69 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/despacho-normativo/20-2008-3150612
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2009-01-28T00:00:00Z'
+  retrieved_at: '2026-10-23T15:06:49Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: cf05df539ecbfe7651bf2b4e768f8e9efee7b4c0b31b42f0196e3d6600bc478c
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 91d74cc1070607022a3b51047a6f5008e66be208c1f50586cbffbdf765e1b436
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:06:49Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Abate de Animais
+- Açores
+- Agricultor
+- Agricultura
+- Arroz
+- Banana
+- Beterraba
+- Direcção Regional de Agricultura e Pescas
+- Feaga
+- Financiamento
+- Forragem
+- Fruticultura
+- Gado Bovino
+- Gado Caprino
+- Gado Ovino
+- IFAP
+- Lacticínios
+- Legume de Fruto
+- Madeira.região Autónoma
+- Pastagens
+- Prémio ao Abate
+- Proder
+- Produção Animal
+- Produção Leiteira
+- Produção Vegetal
+- Produto Agrícola
+- Projeto de Investimento
+- Sistema Integrado de Gestão e Controlo
+- Tabaco
+- Tomate
+- Trigo
+- Vinha
 relationships:
 - type: amended_by
   target: pt:dre:2859095:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:3508130:por
+  label: "Alterados a epígrafe e os nºs 4 e 5 do art. 4º e o art. 9º [incluindo na norma revogatória a revogação do DN 18-A/2008\
+    \ de 10-Mar] e aditado o art. 10º [retroacção de efeitos a 10.03.2008] pelo DN.34/2008.17.07.2008.SEAAGP-MADRP, DR.IIS\
+    \ [137] de 17.07.2008\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/despacho-normativo/34-2008-3508130
+  date: '2008-07-17'
 - type: cites
   target: celex:32003R1782
   label: null
@@ -90,21 +129,54 @@ relationships:
   target: celex:32006R1975
   label: null
   source: null
+- type: cites
+  target: pt:dre:1685832:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:234168:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:241045:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:465231:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:539227:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:546872:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:620106:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:2859095:por
+  label: "Revogado, a partir de 02.02.2009, pelo DN.4/2009.28.01.2009.SEAAGP-MADRP, DR.IIS [19] de 28.01.2009\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/despacho-normativo/4-2009-2859095
+  date: '2009-01-28'
 article_structure:
   article_count: 9
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:06:49Z'
   warnings: []
   errors: []
 ---
 
-# Despacho Normativo n.º 20/2008
+# Despacho normativo n.º 20/2008
 
 O Regulamento (CE) n.º 1782/2003, do Conselho, de 29 de Setembro, que estabelece as regras comuns para os regimes de apoio directo no âmbito da política agrícola comum e institui determinados regimes de apoio aos agricultores, financiados pelo Fundo Europeu Agrícola de Garantia (FEAGA) a partir de 2007, obriga à criação de um sistema integrado de gestão e de controlo (SIGC), nos termos do Regulamento (CE) n.º 796/2004, da Comissão, de 21 de Abril.
 

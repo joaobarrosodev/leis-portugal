@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2006/08/15700/58225825.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/816/2006/08/16/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/816-2006-538825
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2006-08-16T00:00:00Z'
+  retrieved_at: '2026-10-23T15:16:28Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 213e1e6594588b3258f05d5f595ab1ab9721d1de9fb77747563ca6d59404ec36
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 899179e8122df3f3271b91efa2064a27483a5241aa82a026b7ba4f2f9f66e512
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:16:28Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,22 +66,22 @@ reuse:
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
 - Acreditação
-- Vinho
-- Indicação Geográfica
-- Denominação de Origem
-- Entidade Certificadora
+- Certificado de Qualidade
+- Comissão Vitivinícola Regional
 - Controlo de Qualidade
 - Controlo Técnico
 - Definição de Competências
-- Região Demarcada
+- Denominação de Origem
+- Entidade Certificadora
 - Etiquetagem
-- Certificado de Qualidade
+- Indicação Geográfica
 - Óbidos
 - Produção
-- Comissão Vitivinícola Regional
-- Qualidade do Produto
 - Produto Vitivinícola
+- Qualidade do Produto
+- Região Demarcada
 - Vinha
+- Vinho
 - ZONA Vitivinícola
 relationships:
 - type: cites
@@ -96,16 +96,41 @@ relationships:
   target: eli:http://data.dre.pt/eli/dec-lei/220/2002/10/22/p/dre
   label: null
   source: http://data.dre.pt/eli/dec-lei/220/2002/10/22/p/dre
+- type: cites
+  target: pt:dre:151875:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:432179:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:479875:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:544612:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:548808:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:159304339:por
+  label: Revogada a presente Portaria, pelo(a) Portaria n.º 57/2021 - Diário da República n.º 50/2021, Série I de 2021-03-12
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/57-2021-159304339
+  date: '2021-03-12'
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:16:28Z'
   warnings: []
   errors: []
 ---
@@ -238,8 +263,8 @@ Pelo Ministro da Agricultura, do Desenvolvimento Rural e das Pescas, Luís Medei
 
 ## ANEXO I — (a que se refere o n.º 2.º)
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2006/08/15700/58225825.pdf))](https://files.diariodarepublica.pt/1s/2006/08/15700/58225825.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2006/08/15700/58225825.pdf)
 
 ## ANEXO II — (a que se refere o n.º 4.º)
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2006/08/15700/58225825.pdf))](https://files.diariodarepublica.pt/1s/2006/08/15700/58225825.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2006/08/15700/58225825.pdf)

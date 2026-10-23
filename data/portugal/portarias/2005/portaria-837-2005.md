@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/837/2005/09/16/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/837-2005-139214
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2006-03-17T00:00:00Z'
+  retrieved_at: '2026-10-23T15:08:42Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 23534d2ebc54645129486693e15852a89d8ca1ffc3cbea6cc1f313a471c7a3e3
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 25a52ee6147964c3d70c9fd643abc152079d707c619d4f1c2b91168941f77abf
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:08:42Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,8 +66,8 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Formação Profissional
 - Curso de Especialização
+- Ensino Superior
 - Ensino Superior Politécnico
 - Escola Superior de Enfermagem de Artur Ravara
 - Escola Superior de Enfermagem de Bissaya Barreto
@@ -77,18 +77,24 @@ subjects:
 - Escola Superior de Enfermagem de são JOÃO
 - Escola Superior de Enfermagem de são JOÃO de DEUS
 - Escola Superior de Enfermagem do DR Angelo da Fonseca
+- Formação Profissional
 - Numerus Clausus
 - Pessoal de Enfermagem
-- Vila Real
 - Qualificação Profissional
-- Ensino Superior
 - Santarém
+- Vila Real
 - Viseu
 relationships:
 - type: amended_by
   target: pt:dre:667158:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:667158:por
+  label: "Alterado na parte que fixa as vagas para o curso de pós-licenciatura de especialização em Enfermagem de Saúde Infantil\
+    \ e Pediatria o anexo ao presente diploma, pelo PORT.267/2006.17.03.2006.MCTES, DR.IS-B [55] de 17.03.2006\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/267-2006-667158
+  date: '2006-03-17'
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/353/1999/09/03/p/dre
   label: null
@@ -97,16 +103,24 @@ relationships:
   target: eli:http://data.dre.pt/eli/resolconsmin/116/2002/10/02/p/dre
   label: null
   source: http://data.dre.pt/eli/resolconsmin/116/2002/10/02/p/dre
+- type: cites
+  target: pt:dre:582195:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:644708:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:08:42Z'
   warnings: []
   errors: []
 ---
@@ -135,7 +149,7 @@ Entrada em vigor
 
 Esta portaria entra em vigor no dia imediato ao da sua publicação.
 
-**O Ministro da Ciência, Tecnologia e Ensino Superior, José Mariano Rebelo Pires Gago, em 29 de Agosto de 2005.**
+O Ministro da Ciência, Tecnologia e Ensino Superior, José Mariano Rebelo Pires Gago, em 29 de Agosto de 2005.
 
 ## ANEXO — Vagas para o ano lectivo de 2005-2006
 

@@ -47,30 +47,73 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/despacho-normativo/12-2009-2123972
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2013-05-24T00:00:00Z'
+  retrieved_at: '2026-10-23T15:07:09Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 07ab9d8071f929b15fc21899f7b27217842738d540c1a812a2396ccd2b0c1f97
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 958395e65868ab36ed45c335f0f4d067fff2871521d028232feb81e221df2911
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:07:09Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Administração Pública
+- Ajuda Comunitária
+- Bolsa de Formação
+- Bolsa de Formação Profissional
+- Feader
+- FEDER
+- Formação Profissional
+- Formador
+- FSE
+- Função Pública
+- QCA III
+- Subsídio de Refeição
 relationships:
 - type: amended_by
   target: pt:dre:1173337:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:2088047:por
+  label: "Alterado o art. 17º do DN 4-A/2008, de 24-Jan, na redacção - com republicação - do presente despacho normativo,\
+    \ pelo DN.12/2010.21.05.2010.MEID, DR.IIS [99] de 21.05.2010\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/despacho-normativo/12-2010-2088047
+  date: '2010-05-21'
+- type: amended_by
+  target: pt:dre:1332327:por
+  label: "Alterados os arts. 1.º, 6.º, 7.º, 8.º, 9.º ( renumerado ), 12.º, 16.º, 17.º, 20.º, 21.º ( renumerado ) , 27.º e\
+    \ o nº 1 do anexo I do DN n.º 4-A/2008, de 24-Jan, na redacção e republicação do presente DN, pelo DN.2/2011.11.02.2011.MEID,\
+    \ DR.IIS [30] de 11.02.2011\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/despacho-normativo/2-2011-1332327
+  date: '2011-02-11'
+- type: amended_by
+  target: pt:dre:2055562:por
+  label: "Alterados os art.s 3º, 8º, 9º, 12º, 16º, 17º, 21º e anexo I do DN 4-A/2008, de 24-jan, na redacção do presente diploma,\
+    \ pelo DN.12/2012.21.05.2012.MEE, DR.IIS [98] de 21.05.2012\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/despacho-normativo/12-2012-2055562
+  date: '2012-05-21'
+- type: amended_by
+  target: pt:dre:2877021:por
+  label: "Alterado o art. 12º do DN 4-A/2008, de 24-jan, na redação do presente diploma, pelo DN.16/2012.02.08.2012.MEE, DR.IIS\
+    \ [149] de 02.08.2012\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/despacho-normativo/16-2012-2877021
+  date: '2012-08-02'
+- type: amended_by
+  target: pt:dre:1173337:por
+  label: "Alterado o art. 3.º do DN 4-A/2008, de 24-jan, na redação do presente diploma, pelo DN.6/2013.24.05.2013.MEE, DR.IIS\
+    \ [100] de 24.05.2013\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/despacho-normativo/6-2013-1173337
+  date: '2013-05-24'
 - type: cites
   target: celex:31985D0368
   label: null
@@ -87,21 +130,41 @@ relationships:
   target: celex:32006R1081
   label: null
   source: null
+- type: cites
+  target: pt:dre:197489:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:239616:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:426483:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:449178:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:544667:por
+  label: null
+  source: null
 article_structure:
-  article_count: 41
+  article_count: 32
   section_count: 6
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:07:09Z'
   warnings: []
   errors: []
 ---
 
-# Despacho Normativo n.º 12/2009
+# Despacho normativo n.º 12/2009
 
 O despacho normativo n.º 4-A/2008, de 24 de Janeiro, veio fixar, para o período de programação 2007-2013, a natureza e os limites máximos dos custos considerados elegíveis para efeitos de co-financiamento pelo FSE, bem como pelo Fundo Europeu do Desenvolvimento Regional (FEDER), pelo Fundo Europeu Agrícola de Desenvolvimento Rural (FEADER) e pelo Fundo Europeu das Pescas (FEP), quando estes últimos desenvolvam acções de natureza idêntica às abrangidas pelo âmbito de aplicação do artigo 3.º do Regulamento (CE) n.º 1081/2006, do Parlamento Europeu e do Conselho, de 31 de Julho.
 
@@ -137,7 +200,9 @@ h) ...
 
 2 - Quando se trate de projectos de especial complexidade ou especificidade, pode ser fixado um ordenamento mais adequado para os encargos definidos no número anterior, assim como uma natureza de despesas mais específica, adequada a esses projectos, através de despacho do Ministro do Trabalho e da Solidariedade Social.
 
-###### Artigo 6.º — [...]
+Artigo 6.º
+
+[...]
 
 a) ...
 
@@ -147,7 +212,9 @@ c) ...
 
 d) ...
 
-###### Artigo 8.º — [...]
+Artigo 8.º
+
+[...]
 
 1 - As bolsas para material de estudo são atribuídas a jovens que frequentem acções de qualificação inicial de dupla certificação, em função do grau de carência económica do formando, aferido pelo escalão de rendimento fixado para efeitos de atribuição de abono de família, regulamentado nos termos do [Decreto-Lei n.º 76/2003](https://diariodarepublica.pt/dr/detalhe/decreto-lei/76-2003-239616), alterado pelo [Decreto-Lei n.º 87/2008](https://diariodarepublica.pt/dr/detalhe/decreto-lei/87-2008-449178), de 28 de Maio.
 
@@ -173,7 +240,9 @@ d) ...
 
 12 - Em situações de especial desfavorecimento dos jovens que frequentem acções de qualificação inicial de dupla certificação e quando não seja exercido o direito ao abono de família, pode a autoridade de gestão, caso a caso, autorizar a atribuição da bolsa de material de estudo pelo valor equivalente ao atribuído aos jovens abrangidos pelo 1.º escalão do abono de família.
 
-###### Artigo 9.º — [...]
+Artigo 9.º
+
+[...]
 
 1 - ...
 
@@ -187,7 +256,9 @@ d) ...
 
 6 - ...
 
-###### Artigo 12.º — [...]
+Artigo 12.º
+
+[...]
 
 1 - É elegível o subsídio de refeição de montante igual ao atribuído aos funcionários e agentes da Administração Pública, nos dias em que o período de formação seja igual ou superior a duas horas e, no caso dos formandos activos empregados, quando esse período de formação, de duração igual ou superior a duas horas, decorra fora do seu período normal de trabalho.
 
@@ -223,7 +294,9 @@ d) ...
 
 17 - No sector da agricultura, aos agricultores não empresários, à mão-de-obra agrícola familiar e aos trabalhadores eventuais do sector agrícola que frequentem acções que lhes são especificamente dirigidas pode ser atribuído um apoio mensal máximo de montante equivalente ao IAS, desde que as acções tenham uma duração mínima de vinte e cinco horas semanais, podendo a formação realizar-se em mais de um período temporal, devendo no seu conjunto perfazer as duzentas horas.
 
-###### Artigo 14.º — [...]
+Artigo 14.º
+
+[...]
 
 1 - Os pagamentos relativos aos formandos do projecto devem ser efectuados mensalmente, sem prejuízo do número seguinte e do disposto nos n.os 8 e 10 do artigo 8.º
 
@@ -233,7 +306,9 @@ d) ...
 
 4 - No caso de formandos menores de idade inactivos, a transferência bancária poderá ser efectuada para a conta bancária do encarregado de educação e, em situações específicas devidamente fundamentadas, pode o gestor, caso a caso, autorizar outra forma de pagamento.
 
-###### Artigo 16.º — [...]
+Artigo 16.º
+
+[...]
 
 1 - ...
 
@@ -251,7 +326,9 @@ d) ...
 
 8 - No caso das acções realizadas por instituições inseridas no sistema educativo, são elegíveis as horas de formação efectivamente ministradas (hora do plano curricular e desdobramentos autorizados), bem como as que resultam do exercício de funções docentes não lectivas (designadamente coordenação de curso, delegado de grupo, responsável pela área artística e director de turma).
 
-###### Artigo 17.º — [...]
+Artigo 17.º
+
+[...]
 
 1 - ...
 
@@ -269,7 +346,9 @@ d) ...
 
 8 - No caso das escolas públicas de ensino básico ou secundário, os encargos com docentes recrutados no âmbito do [Decreto-Lei n.º 20/2006](https://diariodarepublica.pt/dr/detalhe/decreto-lei/20-2006-544667), de 31 de Janeiro, apenas são elegíveis a título de contrapartida pública nacional.
 
-###### Artigo 19.º — [...]
+Artigo 19.º
+
+[...]
 
 1 - Nos custos máximos co-financiáveis respeitantes a formadores estão abrangidos os encargos com a preparação das sessões de formação e com a preparação, a correcção e a análise dos instrumentos de avaliação dos formandos, considerando-se estas actividades incluídas nos valores previstos nos artigos 16.º, 17.º e 18.º do presente despacho.
 
@@ -277,7 +356,9 @@ d) ...
 
 (Eliminou-se o n.º 3.)
 
-###### Artigo 21.º — [...]
+Artigo 21.º
+
+[...]
 
 1 - ...
 
@@ -285,11 +366,11 @@ d) ...
 
 3 - (Actual n.º 2.)
 
-## ANEXO I
+ANEXO I
 
 I - ...
 
-[([ver documento original](https://files.diariodarepublica.pt/2s/2009/03/053000000/1012610134.pdf))](https://files.diariodarepublica.pt/2s/2009/03/053000000/1012610134.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/2s/2009/03/053000000/1012610134.pdf)
 
 II - ...
 
@@ -743,7 +824,7 @@ O presente diploma produz efeitos a partir da data de entrada em vigor do [Decre
 
 I - Custos máximos dos projectos formativos na base real:
 
-[([ver documento original](https://files.diariodarepublica.pt/2s/2009/03/053000000/1012610134.pdf))](https://files.diariodarepublica.pt/2s/2009/03/053000000/1012610134.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/2s/2009/03/053000000/1012610134.pdf)
 
 II - Outras regras de elegibilidade:
 

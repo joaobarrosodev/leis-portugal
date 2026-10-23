@@ -46,40 +46,136 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/resolucao/3-2023-836494090
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2025-04-02T00:00:00Z'
+  retrieved_at: '2026-10-23T15:16:19Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 20b001399564c0106b03035ce6cfa08686d094e4e91fd39fbbe81b60fffd37e4
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 52a659c5f1e034bb66a1f121279208a0f2fc0b3bd56039e226c5e77a0f252ecd
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:16:19Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Administração Central
+- Administração Local
+- Administração Pública
+- Administração Regional
+- Prestação de Contas
+- Setor Empresarial do Estado
+- SUPERVISÃO DE AUDITORIA
+- Supervisão Financeira
 relationships:
 - type: amended_by
   target: pt:dre:913465311:por
   label: Última alteração registada na importação inicial
   source: null
+- type: cites
+  target: pt:dre:105606613:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:114696642:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:115312061:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:116068878:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:120620996:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:123813677:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:140431167:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:163991832:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:174825:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:182727790:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:185224662:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:193663:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:205557192:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:207177836:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:215647905:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:310379:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:328400:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:344407:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:499528:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:640339:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:66689602:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:70262478:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:16:19Z'
   warnings: []
   errors: []
 ---
@@ -252,7 +348,7 @@ Transparência
 
 31 - Com vista a assegurar o princípio da transparência da gestão financeira, orçamental e patrimonial, e sem prejuízo do legalmente estabelecido, designadamente, no artigo 79.º, n.os 1 e 2, da [Lei n.º 73/2013](https://diariodarepublica.pt/dr/detalhe/lei/73-2013-499528), de 3 de setembro(9), e ainda nos artigos 16.º, n.º 3, e 43.º, n.º 2, alínea i) da [Lei n.º 50/2012](https://diariodarepublica.pt/dr/detalhe/lei/50-2012-174825), de 31 de dezembro, o Tribunal incentiva as entidades sujeitas à prestação de contas a divulgar na sua página eletrónica os respetivos documentos de prestação de contas bem como outros documentos relevantes para uma maior clareza e transparência da sua atividade.
 
-**Publique-se na 2.ª série do Diário da República, nos termos do artigo 9.º, n.º 2, alínea d) da LOPTC.**
+Publique-se na 2.ª série do Diário da República, nos termos do artigo 9.º, n.º 2, alínea d) da LOPTC.
 
 7 de dezembro de 2023. - O Presidente, Conselheiro José F. F. Tavares.
 
@@ -276,25 +372,30 @@ Transparência
 
 ## ANEXO - cf. n.º 18 — Demonstração de execução orçamental da receita - versão simplificada
 
-![](https://files.diariodarepublica.pt/images/836494090/836493918.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/836494090/836493918.png) |
+| --- |
 
 Demonstração de execução orçamental da despesa - versão simplificada
 
-![](https://files.diariodarepublica.pt/images/836494090/836493919.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/836494090/836493919.png) |
+| --- |
 
 ## ANEXO - cf. n.º 21 b)
 
-![](https://files.diariodarepublica.pt/images/836494090/836493920.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/836494090/836493920.png) |
+| --- |
 
 ## ANEXO - cf. n.º 22 — Mapa da contratação Administrativa - Setor Empresarial Local (modelo 38 da [Instrução n.º 1/2019](https://diariodarepublica.pt/dr/detalhe/instrucao/1-2019-120620996)-PG)
 
-![](https://files.diariodarepublica.pt/images/836494090/836493921.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/836494090/836493921.png) |
+| --- |
 
 ## ANEXO - cf. n.º 27 — Formulário relativo à Certificação Legal de Contas
 
 Modelo 6 - Certificação Legal de Contas
 
-![](https://files.diariodarepublica.pt/images/836494090/836493922.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/836494090/836493922.png) |
+| --- |
 
 Notas
 
@@ -314,10 +415,14 @@ iii) Na circunstância de a CLC expressar uma opinião de auditoria modificada (
 
 ## ANEXO - cf. n.º 28 — Transações e saldos com entidades integradas nos subsectores da Administração Central e da Segurança Social
 
-|  |  |  |  |
-| --- | --- | --- | --- |
 | Transações e saldos com entidades integradas nos subsectores da Administração Central e da Segurança Social | S | N | N/A |
+| --- | --- | --- | --- |
+|  |  |  |  |
 | 1.Ocorreram, durante o exercício de 2023, transações em referência e/ou existem saldos pendentes a 31.12.2023? |  |  |  |
 | 2.Foi realizada a reconciliação de saldos reportada a 31.12.2023? |  |  |  |
 | 3. Existem saldos por reconciliar a 31.12.2023? |  |  |  |
 | 4. Em caso de resposta afirmativa à questão anterior, encontram-se em curso diligências em ordem a reconciliar os saldos em questão? |  |  |  |
+
+317168772
+
+.Tbl1 { text-align:center; border-bottom-color:transparent; border-right-color:Black; border-top-color:Black; border-bottom-color:Black; background-color:transparent; color:#000000; font-style:Regular; font-size:6.5; vertical-align:center; } .Tbl2 { text-align:center; border-left-color:Black; border-right-color:Black; border-top-color:Black; border-bottom-color:Black; background-color:transparent; color:#000000; font-style:Regular; font-size:6.5; vertical-align:center; } .Tbl3 { text-align:center; border-left-color:Black; border-bottom-color:transparent; border-top-color:Black; border-bottom-color:Black; background-color:transparent; color:#000000; font-style:Regular; font-size:6.5; vertical-align:center; } .Tbl4 { text-align:justify; border-bottom-color:transparent; border-right-color:Black; border-top-color:Black; border-bottom-color:transparent; background-color:transparent; color:#000000; font-style:Regular; font-size:8.5; vertical-align:top; } .Tbl5 { text-align:justify; border-left-color:Black; border-right-color:Black; border-top-color:Black; border-bottom-color:transparent; background-color:transparent; color:#000000; font-style:Regular; font-size:8.5; vertical-align:top; } .Tbl6 { text-align:justify; border-left-color:Black; border-bottom-color:transparent; border-top-color:Black; border-bottom-color:transparent; background-color:transparent; color:#000000; font-style:Regular; font-size:8.5; vertical-align:top; } .Tbl7 { text-align:justify; border-bottom-color:transparent; border-right-color:Black; border-bottom-color:transparent; border-bottom-color:transparent; background-color:transparent; color:#000000; font-style:Regular; font-size:8.5; vertical-align:top; } .Tbl8 { text-align:justify; border-left-color:Black; border-right-color:Black; border-bottom-color:transparent; border-bottom-color:transparent; background-color:transparent; color:#000000; font-style:Regular; font-size:8.5; vertical-align:top; } .Tbl9 { text-align:justify; border-left-color:Black; border-bottom-color:transparent; border-bottom-color:transparent; border-bottom-color:transparent; background-color:transparent; color:#000000; font-style:Regular; font-size:8.5; vertical-align:top; } .Tbl10 { text-align:justify; border-bottom-color:transparent; border-right-color:Black; border-bottom-color:transparent; border-bottom-color:Black; background-color:transparent; color:#000000; font-style:Regular; font-size:8.5; vertical-align:top; } .Tbl11 { text-align:justify; border-left-color:Black; border-right-color:Black; border-bottom-color:transparent; border-bottom-color:Black; background-color:transparent; color:#000000; font-style:Regular; font-size:8.5; vertical-align:top; } .Tbl12 { text-align:justify; border-left-color:Black; border-bottom-color:transparent; border-bottom-color:transparent; border-bottom-color:Black; background-color:transparent; color:#000000; font-style:Regular; font-size:8.5; vertical-align:top; }

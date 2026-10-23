@@ -21,12 +21,12 @@ publication:
   reference: Diário da República n.º 249/2016, 2º Suplemento, Série II de 2016-12-29
   number: '249'
   series: II
-  supplement: 2º Suplemento
+  supplement: null
   pages: 37704-(30) a 37704-(32)
   pdf_url: https://files.diariodarepublica.pt/2s/2016/12/249000002/0003000032.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -48,30 +48,47 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/despacho-normativo/15-b-2016-105658698
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2019-01-18T00:00:00Z'
+  retrieved_at: '2026-10-23T15:08:10Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: b7437bea45d76d86097e1442f771c16af313497720f021c4f7b5544bf7752b30
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 49cf174ddeb71f16f110694aff71c4c65b98d7a47a0615d8f4d2f5ec660d11f7
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:08:10Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Agricultura
+- IFAP
+- Política Agrícola Comum
+- Regulamento CE
 relationships:
 - type: amended_by
   target: pt:dre:118010891:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:114541492:por
+  label: Alterados o art. 2.º e os anexos I, II, III e V do DN 6/2015, de 20-fev, na redação do presente diploma pelo(a) Despacho
+    Normativo n.º 3/2018 - Diário da República n.º 13/2018, Série II de 2018-01-18
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/despacho-normativo/3-2018-114541492
+  date: '2018-01-18'
+- type: amended_by
+  target: pt:dre:118010891:por
+  label: Alterados, com efeitos a 19.01.2019 e com aplicação a partir de 01.01.2015 o art. 2.º e os respetivos anexos II e
+    III DN 6/2015, de 20-fev, na redação do presente diploma, pelo(a) Despacho Normativo n.º 1/2019 - Diário da República
+    n.º 13/2019, Série II de 2019-01-18
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/despacho-normativo/1-2019-118010891
+  date: '2019-01-18'
 - type: cites
   target: celex:31992L0043
   label: null
@@ -88,21 +105,57 @@ relationships:
   target: celex:32013R1306
   label: null
   source: null
+- type: cites
+  target: pt:dre:174836:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:358491:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:397360:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:531828:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:536213:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:608175:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:70086440:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:73576679:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:74385175:por
+  label: null
+  source: null
 article_structure:
   article_count: 5
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:08:10Z'
   warnings: []
   errors: []
 ---
 
-# Despacho Normativo n.º 15-B/2016
+# Despacho normativo n.º 15-B/2016
 
 O Despacho normativo n.º 6/2015, de 20 de fevereiro, estabeleceu, no seu Anexo II, os requisitos legais de gestão (RLG) e no seu Anexo III, as normas mínimas para as boas condições agrícolas e ambientais das terras (BCAA), no âmbito da condicionalidade, nos termos do Regulamento (UE) n.º 1306/2013, do Parlamento Europeu e do Conselho, de 17 de dezembro de 2013.
 
@@ -198,7 +251,9 @@ Os anexos I, II, III e V do despacho normativo n.º 6/2015, de 20 de fevereiro, 
 
 3 - [...]
 
-## ANEXO II — [...]
+ANEXO II
+
+[...]
 
 I - [...]
 
@@ -368,7 +423,9 @@ II - Outros requisitos que se aplicam apenas aos beneficiários de pagamentos pr
 
 RLG 14 - [...]
 
-## ANEXO III — [...]
+ANEXO III
+
+[...]
 
 A - [...]
 
@@ -410,7 +467,9 @@ b) As operações de limpeza conducentes à manutenção e preservação dos ele
 
 [...]
 
-## ANEXO V — [...]
+ANEXO V
+
+[...]
 
 1 - [...]
 
@@ -469,3 +528,5 @@ d) O indicador 2. e 2.1. do requisito legal de gestão n.º 12, previsto no Anex
 O presente despacho normativo entra em vigor no dia seguinte ao da sua publicação e produz efeitos a 1 de janeiro de 2017.
 
 29 de dezembro de 2016. - O Ministro da Agricultura, Florestas e Desenvolvimento Rural, Luís Manuel Capoulas Santos.
+
+210135954

@@ -1,7 +1,7 @@
 ---
 schema_version: '1.0'
 id: pt:dre:2204616:por
-title: Resolução n.º 32/2001(2.ªsérie)
+title: Resolução n.º 32/2001 (2.ª série)
 short_title: null
 summary: null
 jurisdiction: portugal
@@ -46,25 +46,34 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/resolucao/32-2001-2204616
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2001-03-02T00:00:00Z'
+  retrieved_at: '2026-10-23T15:10:47Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: e43c3088de4027fd2894cdd3826c3c61bf9be63755abd5a8d51ba496d1c85a10
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: f996cf9279ed76d522cbf7f2797c47dcdc0581a9a231ef20264d16b06918a95f
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:10:47Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Administração Pública
+- Aquisição de Bens e Serviços
+- Comércio Eletrónico
+- Iniciativa Nacional para o Comércio Electrónico
+- Internet
+- Publicitação
+- Relatório
+- Sociedade da Informação
+- Tecnologia da Informação
 relationships:
 - type: cites
   target: celex:31969R1191
@@ -74,21 +83,53 @@ relationships:
   target: celex:32000L0031
   label: null
   source: null
+- type: cites
+  target: pt:dre:218957:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:241800:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:311259:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:428858:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:445741:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:484672:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:522379:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:559630:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 4
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:10:47Z'
   warnings: []
   errors: []
 ---
 
-# Resolução n.º 32/2001(2.ªsérie)
+# Resolução n.º 32/2001 (2.ª série)
 
 Resolução n.º 32/2001 (2.ª série). - As novas tecnologias de informação e comunicação contribuem decisivamente para o aumento de eficácia e eficiência da Administração Pública nas múltiplas vertentes da sua actividade.
 
@@ -800,7 +841,7 @@ Por fim, a concessão de serviços incide normalmente sobre actividades que, pel
 
 (nota 41) Note-se que estas vantagens se perderiam se os vários gestores do sistema repartissem entre si o mercado, por razões ligadas à natureza dos bens ou à geografia, por exemplo.
 
-## ANEXO I — [([ver documento original](https://files.diariodarepublica.pt/2s/2001/03/052000000/0402704040.pdf))](https://files.diariodarepublica.pt/2s/2001/03/052000000/0402704040.pdf)
+## ANEXO I — [(ver documento original)](https://files.diariodarepublica.pt/2s/2001/03/052000000/0402704040.pdf)
 
 ## ANEXO II
 
@@ -936,4 +977,4 @@ Notas
 
 (nota 20) Consagra-se solução especial em relação ao disposto nos artigos 180.º a 188.º do [Decreto-Lei n.º 197/99](https://diariodarepublica.pt/dr/detalhe/decreto-lei/197-1999-311259).
 
-## ANEXO III — [([ver documento original](https://files.diariodarepublica.pt/2s/2001/03/052000000/0402704040.pdf))](https://files.diariodarepublica.pt/2s/2001/03/052000000/0402704040.pdf)
+## ANEXO III — [(ver documento original)](https://files.diariodarepublica.pt/2s/2001/03/052000000/0402704040.pdf)

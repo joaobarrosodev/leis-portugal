@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/2s/2026/02/030000000/0011600150.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -46,36 +46,77 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/despacho-normativo/2-2026-1047219765
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2026-02-12T00:00:00Z'
+  retrieved_at: '2026-10-23T15:09:15Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 96046864996be1cc2a47a6b7c7fc8435e2689a81034686e81a9d1d211a743c17
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: a3797ef9d65cb66cc5c6b0a26dd21d138c51374ec8b5d1d9f4304656e0cc473b
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:09:15Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
-relationships: []
+subjects:
+- Estatuto
+- Homologação
+- Universidade de Coimbra
+relationships:
+- type: amends
+  target: pt:numero:despacho-normativo:43/2008
+  label: Homologa as alterações aos Estatutos da Universidade de Coimbra, homologados pelo Despacho Normativo n.º 43/2008,
+    de 1 de setembro, Diário da República n.º 168/2008, Série II
+  source: null
+  date: '2008-09-01'
+- type: cites
+  target: pt:dre:121246168:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:1782382:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:355494:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:556606:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:603476:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:640339:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:860479516:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:913051908:por
+  label: null
+  source: null
 article_structure:
-  article_count: 83
+  article_count: 84
   section_count: 22
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:09:15Z'
   warnings: []
   errors: []
 ---
@@ -748,7 +789,7 @@ a) A segunda votação, se necessária, incide apenas sobre os dois mais votados
 
 b) A terceira votação, se necessária, incide apenas sobre o candidato mais votado na votação anterior.
 
-11 - Se não houver candidatos ou se não tiver sido apurado um vencedor pelo processo referido nos n.<sup>os</sup> 8 a 10, o Conselho Geral abre, uma única vez, um novo prazo para apresentação de candidaturas, que não pode ser superior a um mês.
+11 - Se não houver candidatos ou se não tiver sido apurado um vencedor pelo processo referido nos n.os 8 a 10, o Conselho Geral abre, uma única vez, um novo prazo para apresentação de candidaturas, que não pode ser superior a um mês.
 
 12 - Se no final do novo processo a situação se mantiver, o Conselho Geral escolhe um professor catedrático da Universidade de Coimbra de entre aqueles que previamente não tiverem recusado a designação para o cargo.
 
@@ -792,7 +833,7 @@ b) A terceira votação, se necessária, incide apenas sobre o candidato mais vo
 
 2 - Após procedimento administrativo e com fundamento em causa devidamente justificada, o Conselho Geral, ouvido o Senado, pode destituir o Reitor, mediante deliberação aprovada por maioria de dois terços dos seus membros em efetividade de funções.
 
-3 - As deliberações referidas nos n.<sup>os</sup>1 e 2 só podem ser votadas em reuniões convocadas especificamente para o efeito.
+3 - As deliberações referidas nos n.os1 e 2 só podem ser votadas em reuniões convocadas especificamente para o efeito.
 
 ###### Artigo 51.º — Competência
 
@@ -918,7 +959,7 @@ e) O Curador do Património e o Provedor do Estudante, sem direito de voto.
 
 a) A alteração dos Estatutos da Universidade, nos termos do disposto na alínea h) do n.º 1 do artigo 41.º;
 
-b) O exercício pelo Reitor das competências referidas nas alíneas p, q) e u) do n.º 1 do artigo 51.º, nos termos do disposto nos n.<sup>os</sup>3 e 4 desse mesmo artigo.
+b) O exercício pelo Reitor das competências referidas nas alíneas p, q) e u) do n.º 1 do artigo 51.º, nos termos do disposto nos n.os3 e 4 desse mesmo artigo.
 
 2 - Para coadjuvar o Reitor no exercício do poder disciplinar, nomeadamente quando se trate da aplicação das sanções disciplinares previstas nas alíneas c), d) e e) do n.º 5 do artigo 75.º da [Lei n.º 62/2007](https://diariodarepublica.pt/dr/detalhe/lei/62-2007-640339), de 10 de setembro, é constituída uma comissão especializada do Senado presidida pelo Reitor e composta por um docente ou investigador, um estudante e um membro do corpo técnico, eleitos pelos respetivos pares no Senado.
 
@@ -1338,19 +1379,24 @@ Os presentes Estatutos entram em vigor cinco dias úteis após a sua publicaçã
 
 ## ANEXO I
 
-![](https://files.diariodarepublica.pt/images/1047219765/1047287829.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/1047219765/1047287829.png) |
+| --- |
 
 Selo da Universidade de Coimbra.
 
-![](https://files.diariodarepublica.pt/images/1047219765/1047287830.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/1047219765/1047287830.png) |
+| --- |
 
 Bandeira da Universidade de Coimbra.
 
-![](https://files.diariodarepublica.pt/images/1047219765/1047287831.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/1047219765/1047287831.png) |
+| --- |
 
 Hino da Universidade de Coimbra
 
-## ANEXO II — Artigo 1.º
+## ANEXO II
+
+###### Artigo 1.º
 
 Qualificação dos cargos dirigentes das unidades e serviços centrais
 
@@ -1379,3 +1425,5 @@ d) O cargo de Chefe de Gabinete do Reitor é qualificado como cargo de direção
 4 - Para além dos cargos referidos nos números anteriores, podem ser criados, nos termos de regulamento a aprovar pelo Reitor, outros cargos de direção intermédia nas Unidades Orgânicas de Ensino e Investigação e nas Unidades Orgânicas de Investigação.
 
 5 - As competências e demais critérios aplicáveis aos cargos previstos no presente artigo são expressamente fixadas no Regulamento dos Cargos Dirigentes da Universidade de Coimbra, a aprovar pelo Reitor.
+
+319960687

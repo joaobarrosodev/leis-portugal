@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/379/2006/04/18/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/379-2006-650174
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2009-08-12T00:00:00Z'
+  retrieved_at: '2026-10-23T15:13:43Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: a117cdcb1f48d199eea97146530061da2f17e0deb79541ae8fa074390a69677f
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 2e5e6bce6cc37c7e0323b63b69c25736e44e9aac35b7e42732103cb42ff46278
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:13:43Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -74,6 +74,19 @@ relationships:
   target: pt:dre:493518:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:519423:por
+  label: "Renovada por doze anos a concessão da zona de caça atribuída pela Port 454/95 de 13-Mai, com a alteração constante\
+    \ do presente diploma, pela PORT.469/2007.18.04.2007.MADRP, DR.IS [76] de 18.04.2007\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/469-2007-519423
+  date: '2007-04-18'
+- type: amended_by
+  target: pt:dre:493518:por
+  label: "Transferida para a Casa Agrícola Trigo Dourado, Lda., a zona de caça atribuída pela Port 454/95, de 13-Maio, alterada\
+    \ pelo presente diploma e pela Port 469/2007, de 18-Abr, pela PORT.861/2009.12.08.2009.MADRP, DR.IS [155] de 12.08.2009\0\
+    \0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/861-2009-493518
+  date: '2009-08-12'
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/201/2005/11/24/p/dre
   label: null
@@ -86,16 +99,28 @@ relationships:
   target: eli:http://data.dre.pt/eli/port/454/1995/05/13/p/dre
   label: null
   source: http://data.dre.pt/eli/port/454/1995/05/13/p/dre
+- type: cites
+  target: pt:dre:480704:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:481498:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:507602:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:13:43Z'
   warnings: []
   errors: []
 ---

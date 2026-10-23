@@ -20,12 +20,12 @@ publication:
   reference: Diário da República n.º 185/2015, 1º Suplemento, Série II de 2015-09-22
   number: '185'
   series: II
-  supplement: 1º Suplemento
+  supplement: null
   pages: 27380-(2) a 27380-(10)
   pdf_url: https://files.diariodarepublica.pt/2s/2015/09/185000001/0000200010.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -47,45 +47,103 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/despacho-normativo/17-a-2015-70361634
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2016-04-05T00:00:00Z'
+  retrieved_at: '2026-10-23T15:07:59Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 1ddda40ea4a4213b415679260007b4ef606e1b30e1794726222fc2c1364372d4
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: d6ead80b0a193aee00f6f1620c0b063eec4a20c010910433b20a2fe290d8d556
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:07:59Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Agrupamento de Escolas
+- Aprendizagem
+- Avaliação de Conhecimentos
+- Currículo Nacional
+- Diploma
+- Disciplina de Educação Moral e Religiosa
+- Ensino Básico
+- Ensino Cooperativo
+- Ensino Oficial
+- Ensino Particular
+- Estabelecimento de Ensino
+- Estatuto do Ensino Particular e Cooperativo
+- Estudante
+- Insucesso Escolar
+- Língua Estrangeira
+- Língua Portuguesa
+- Matemática
+- Plano de Estudos
+- Regulamentação de Atos Legislativos
+- Sistema Educativo
 relationships:
 - type: amended_by
   target: pt:dre:74059570:por
   label: Última alteração registada na importação inicial
   source: null
+- type: cites
+  target: pt:dre:174840:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:178548:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:249230:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:386871:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:497860:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:504756:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:587624:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:64297587:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:74059570:por
+  label: Revogado, a partir de 06.04.2016, pelo(a) Despacho Normativo n.º 1-F/2016 - Diário da República n.º 66/2016, 1º Suplemento,
+    Série II de 2016-04-05, com salvaguarda no disposto no art. 34.º daquele Despacho Normativo
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/despacho-normativo/1-f-2016-74059570
+  date: '2016-04-05'
 article_structure:
   article_count: 29
   section_count: 7
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:07:59Z'
   warnings: []
   errors: []
 ---
 
-# Despacho Normativo n.º 17-A/2015
+# Despacho normativo n.º 17-A/2015
 
 O [Decreto-Lei n.º 139/2012](https://diariodarepublica.pt/dr/detalhe/decreto-lei/139-2012-178548), de 5 de julho, alterado pelo [Decreto-Lei n.º 91/2013](https://diariodarepublica.pt/dr/detalhe/decreto-lei/91-2013-497860), de 10 de julho e pelo [Decreto-Lei n.º 176/2014](https://diariodarepublica.pt/dr/detalhe/decreto-lei/176-2014-64297587), de 12 de dezembro, estabeleceu os princípios orientadores da organização, da gestão e do desenvolvimento dos currículos dos ensinos básico e secundário, bem como da avaliação e certificação dos conhecimentos adquiridos e capacidades desenvolvidas pelos alunos, aplicáveis às diversas ofertas curriculares do ensino básico e do ensino secundário, ministradas em estabelecimentos do ensino público, particular e cooperativo. Com a publicação do [Decreto-Lei n.º 91/2013](https://diariodarepublica.pt/dr/detalhe/decreto-lei/91-2013-497860), de 10 de julho, e do [Decreto-Lei n.º 176/2014](https://diariodarepublica.pt/dr/detalhe/decreto-lei/176-2014-64297587), de 12 de dezembro, procedeu-se a alguns ajustamentos naquele Decreto-Lei de modo a integrar no currículo componentes que reforcem o desempenho dos alunos e que proporcionem um maior desenvolvimento das suas capacidades, designadamente neste último a introdução do ensino da língua inglesa, com caráter obrigatório a partir do 3.º ano de escolaridade e ao longo de sete anos consecutivos.
 
@@ -671,7 +729,7 @@ ANEXOS
 
 Prova em cada disciplina e respetiva duração
 
-[([ver documento original](https://files.diariodarepublica.pt/2s/2015/09/185000001/0000200010.pdf))](https://files.diariodarepublica.pt/2s/2015/09/185000001/0000200010.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/2s/2015/09/185000001/0000200010.pdf)
 
 ## ANEXO II — Provas de equivalência à frequência dos 2.º e 3.º ciclos
 
@@ -679,19 +737,19 @@ Prova em cada disciplina e respetiva duração
 
 Prova em cada disciplina e respetiva duração
 
-[([ver documento original](https://files.diariodarepublica.pt/2s/2015/09/185000001/0000200010.pdf))](https://files.diariodarepublica.pt/2s/2015/09/185000001/0000200010.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/2s/2015/09/185000001/0000200010.pdf)
 
 3.º ciclo do ensino básico
 
 Prova em cada disciplina e respetiva duração
 
-[([ver documento original](https://files.diariodarepublica.pt/2s/2015/09/185000001/0000200010.pdf))](https://files.diariodarepublica.pt/2s/2015/09/185000001/0000200010.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/2s/2015/09/185000001/0000200010.pdf)
 
 ## ANEXO III — Provas finais dos 1.º, 2.º e 3.º ciclos do ensino básico (*)
 
 Prova em cada disciplina e respetiva duração
 
-[([ver documento original](https://files.diariodarepublica.pt/2s/2015/09/185000001/0000200010.pdf))](https://files.diariodarepublica.pt/2s/2015/09/185000001/0000200010.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/2s/2015/09/185000001/0000200010.pdf)
 
 Nota. - Os alunos dos 1.º, 2.º e 3.º ciclos do ensino básico referidos nas alíneas a) a e) do n.º 3 do artigo 9.º são submetidos, obrigatoriamente, a uma prova oral na disciplina de Português ou de Português Língua Não Materna.
 
@@ -699,9 +757,9 @@ Nota. - Os alunos dos 1.º, 2.º e 3.º ciclos do ensino básico referidos nas a
 
 e o n.º 14 do artigo 10.º
 
-[([ver documento original](https://files.diariodarepublica.pt/2s/2015/09/185000001/0000200010.pdf))](https://files.diariodarepublica.pt/2s/2015/09/185000001/0000200010.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/2s/2015/09/185000001/0000200010.pdf)
 
-## ANEXO V — [([ver documento original](https://files.diariodarepublica.pt/2s/2015/09/185000001/0000200010.pdf))](https://files.diariodarepublica.pt/2s/2015/09/185000001/0000200010.pdf)
+## ANEXO V — [(ver documento original)](https://files.diariodarepublica.pt/2s/2015/09/185000001/0000200010.pdf)
 
 ## ANEXO VI — Procedimentos Específicos a observar no Desenvolvimento da Prova Extraordinária de Avaliação (PEA)
 
@@ -720,3 +778,5 @@ e o n.º 14 do artigo 10.º
 7 - Caso o aluno não compareça à prestação da prova extraordinária de avaliação, não lhe poderá ser atribuída qualquer classificação na disciplina em causa, devendo o conselho de turma avaliar a situação, tendo em conta o percurso global do aluno.
 
 8 - Após a realização da PEA, é necessário proceder-se a uma reunião extraordinária do conselho de turma para ratificação das classificações do aluno.
+
+208964103

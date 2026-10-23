@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/2s/2026/06/121000000/0011900119.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -46,18 +46,18 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/resolucao/6-2026-1138363969
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2026-06-25T00:00:00Z'
+  retrieved_at: '2026-10-23T15:16:28Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 3e6ccd56b5d934ba11deed9a9928d357c9a1027719489a2afee08881ab05a3ea
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 48fb3ee5bf2033bc259fa2e73d2806e0f62226aa6dc10490ef58a753eb4152d7
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:16:28Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -65,17 +65,29 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects: []
-relationships: []
+relationships:
+- type: cites
+  target: pt:dre:275619:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:70508971:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:910323298:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:16:28Z'
   warnings: []
   errors: []
 ---
@@ -99,3 +111,5 @@ c) Capitão-Tenente da classe de Marinha Rui Miguel Aleixo Miguel Cândido a com
 3 - O presente despacho produz efeitos a partir de 12 de maio de 2026, ficando por este meio ratificados todos os atos, entretanto praticados pelos responsáveis do Fundo de Maneio e Fundo de Viagens e Alojamento desde aquela data, que se incluam no âmbito desta delegação de competências.
 
 12 de maio de 2026. - O Presidente, João Paulo Ramalho Marreiros, Contra-Almirante. - O Vogal, Paulo Miguel da Silva Brandão Correia, Capitão-de-Mar-e-Guerra. - O Vogal, Nuno Sacchetti Viana Machado, Capitão-de-Mar-e-Guerra. - O Secretário, João Pedro Mendes Lousa, Primeiro-Tenente.
+
+320014751

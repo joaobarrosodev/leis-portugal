@@ -20,7 +20,7 @@ publication:
   reference: Diário da República n.º 135/2006, 1º Suplemento, Série I de 2006-07-14
   number: '135'
   series: I
-  supplement: 1º Suplemento
+  supplement: null
   pages: 4932-(2) a 4932-(3)
   pdf_url: https://files.diariodarepublica.pt/1s/2006/07/13501/00020003.pdf
 entry_into_force_dates: []
@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/714-a/2006/07/14/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/714-a-2006-230717
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2006-07-14T00:00:00Z'
+  retrieved_at: '2026-10-23T15:15:50Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 025cf75cc36d3d8fa2fe73770c47dd323f412d67925fd92ab9196de36597ef13
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 4bc9998c1455d9553bcf192691cc369b66e25a72e1582e82cea74955fd3ea3af
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:15:50Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,23 +66,23 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Plano de Estudos
+- Beja
+- Bragança
+- Castelo Branco
+- Coimbra
 - Ensino Oficial
 - Ensino Superior Politécnico
+- Estabelecimento de Ensino
 - Instituto Politécnico
 - Instituto Politécnico do Cávado e do AVE
 - Leiria
 - Licenciatura
-- Setúbal
-- Beja
-- Castelo Branco
-- Coimbra
+- Plano de Estudos
 - Portalegre
-- Estabelecimento de Ensino
-- Santarém
-- Bragança
-- Tomar
 - Porto
+- Santarém
+- Setúbal
+- Tomar
 - Viana do Castelo
 - Viseu
 relationships:
@@ -102,16 +102,40 @@ relationships:
   target: eli:http://data.dre.pt/eli/lei/71/1993/11/26/p/dre
   label: null
   source: http://data.dre.pt/eli/lei/71/1993/11/26/p/dre
+- type: cites
+  target: pt:dre:283353:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:453184:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:556606:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:593710:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:606304:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:671387:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:15:50Z'
   warnings: []
   errors: []
 ---
@@ -158,7 +182,7 @@ Entrada em vigor
 
 Esta portaria entra em vigor no dia imediato ao da sua publicação.
 
-**O Ministro da Ciência, Tecnologia e Ensino Superior, José Mariano Rebelo Pires Gago, em 12 de Julho de 2006.**
+O Ministro da Ciência, Tecnologia e Ensino Superior, José Mariano Rebelo Pires Gago, em 12 de Julho de 2006.
 
 ## ANEXO
 
@@ -174,4 +198,4 @@ Esta portaria entra em vigor no dia imediato ao da sua publicação.
 
 6 - A coluna «ECTS» indica o número de ECTS atribuído ao ciclo de estudos.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2006/07/13501/00020003.pdf))](https://files.diariodarepublica.pt/1s/2006/07/13501/00020003.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2006/07/13501/00020003.pdf)

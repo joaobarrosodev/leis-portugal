@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/2s/2006/09/188000000/2033620336.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,45 +46,71 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/despacho-normativo/10-2006-1595879
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2014-11-07T00:00:00Z'
+  retrieved_at: '2026-10-23T15:06:24Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: f15684ece30561ca76a29d343c592dcf7b63347f3a68e14f62713e30a0d1df36
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 627e42e5623633bca13f5eca1b868b7b41eef1d65a92c6d135b8512657e1498a
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:06:24Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Controlo Sanitário
+- Direcção Geral de Protecção das Culturas
+- Direcção Regional de Agricultura
+- Doença Vegetal
+- Financiamento
+- Fruticultura
+- Produção Vegetal
+- Proteção Fitossanitária
+- Vegetais
 relationships:
 - type: amended_by
   target: pt:dre:58801094:por
   label: Última alteração registada na importação inicial
   source: null
+- type: cites
+  target: pt:dre:141854:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:273663:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:684844:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:58801094:por
+  label: Revogado pelo(a) Decreto-Lei n.º 170/2014 - Diário da República n.º 216/2014, Série I de 2014-11-07
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/170-2014-58801094
+  date: '2014-11-07'
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:06:24Z'
   warnings: []
   errors: []
 ---
 
-# Despacho Normativo n.º 10/2006
+# Despacho normativo n.º 10/2006
 
 O [Decreto-Lei n.º 154/2005](https://diariodarepublica.pt/dr/detalhe/decreto-lei/154-2005-141854), de 6 de Setembro, que actualizou o regime fitossanitário que cria e define as medidas de protecção fitossanitária destinadas a evitar a introdução e dispersão no território nacional e comunitário, incluindo nas zonas protegidas, de organismos prejudiciais aos vegetais e produtos vegetais, qualquer que seja a sua origem ou proveniência, dispõe no seu artigo 20.º que, quando no decurso das inspecções fitossanitárias, os serviços de inspecção verificarem a presença de organismos prejudiciais aos vegetais e produtos vegetais, não em consequência do incumprimento por parte dos operadores económicos das exigências fitossanitárias legalmente estabelecidas mas por outras causas, poderão aqueles operadores beneficiar de ajudas financeiras.
 
@@ -110,7 +136,7 @@ b) Tenham cumprido todas as medidas fitossanitárias determinadas pela Direcçã
 
 Tabela de cálculo
 
-[([ver documento original](https://files.diariodarepublica.pt/2s/2006/09/188000000/2033620336.pdf))](https://files.diariodarepublica.pt/2s/2006/09/188000000/2033620336.pdf) 5.º Compete às direcções regionais de agricultura zelar pela aplicação das medidas de protecção fitossanitária estabelecidas, proceder à recolha dos elementos necessários à elaboração dos processos de ajuda financeira e à apresentação dos mesmos à DGPC, no prazo máximo de cinco dias após a verificação das medidas atrás referidas.
+[(ver documento original)](https://files.diariodarepublica.pt/2s/2006/09/188000000/2033620336.pdf) 5.º Compete às direcções regionais de agricultura zelar pela aplicação das medidas de protecção fitossanitária estabelecidas, proceder à recolha dos elementos necessários à elaboração dos processos de ajuda financeira e à apresentação dos mesmos à DGPC, no prazo máximo de cinco dias após a verificação das medidas atrás referidas.
 
 6.º A DGPC, após a recepção dos processos referidos no número anterior, procederá à sua conferência no prazo máximo de 15 dias, efectuando o pagamento das quantias devidas nos 15 dias subsequentes.
 

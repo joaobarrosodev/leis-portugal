@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/2s/2020/04/078000000/0007900097.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -47,36 +47,112 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/despacho-normativo/5-2020-132136109
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2020-04-21T00:00:00Z'
+  retrieved_at: '2026-10-23T15:08:39Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: eab021eae0dfff3ebe853817cdd9d501ac406372f22145d66183e9248f44deec
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: cac127bbc01ec77f519d5b4093f98e4cfa6822faf502cfef2114a5ba65c62c92
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:08:39Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
-relationships: []
+subjects:
+- Chave Móvel Digital
+- Definição de Competências
+- Direção Geral dos Estabelecimentos Escolares
+- Ensino Básico
+- Ensino Cooperativo
+- Ensino Oficial
+- Ensino Particular
+- Ensino Secundário
+- Estabelecimento de Ensino
+- Fiscalização
+- Gestão Escolar
+- Inspecção Geral da Educação e Ciência
+- Matrícula
+- Ministério da Educação e Ciência
+- Prazo
+- REDE Escolar
+relationships:
+- type: cites
+  target: pt:dre:107516544:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:107791610:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:115093805:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:115652961:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:115811903:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:124680588:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:128154291:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:128154292:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:131393158:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:179057:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:469001:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:516044:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:561219:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:66041468:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:69927755:por
+  label: null
+  source: null
 article_structure:
-  article_count: 37
+  article_count: 22
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:08:39Z'
   warnings: []
   errors: []
 ---
@@ -139,7 +215,9 @@ h) 'Crianças/alunos beneficiários de Ação Social Escolar (ASE)' - todos aque
 
 4 - As prioridades estabelecidas em 3.ª do n.º 2 do artigo 10.º, em 3.ª do n.º 1 do artigo 11.º e em 2.ª do n.º 1 do artigo 12.º só são operativas se se demonstrar, nos termos do número anterior, que os irmãos e as outras crianças ou jovens pertencem ao mesmo agregado familiar.
 
-###### Artigo 4.º — [...]
+Artigo 4.º
+
+[...]
 
 1 - [...].
 
@@ -163,7 +241,9 @@ h) 'Crianças/alunos beneficiários de Ação Social Escolar (ASE)' - todos aque
 
 11 - [...].
 
-###### Artigo 5.º — [...]
+Artigo 5.º
+
+[...]
 
 1 - [...]:
 
@@ -207,7 +287,9 @@ b) Ao ensino presencial para a itinerância.
 
 13 - [...].
 
-###### Artigo 6.º — [...]
+Artigo 6.º
+
+[...]
 
 1 - [...]
 
@@ -223,7 +305,9 @@ b) Ao ensino presencial para a itinerância.
 
 7 - O previsto no número anterior aplica-se, com as necessárias adaptações, ao ensino individual, ao ensino doméstico e ao ensino a distância para efeitos, respetivamente, do disposto no n.º 2 do artigo 19.º da Portaria n.º 69/2019, de 26 de fevereiro, e no n.º 2 do artigo 24.º da Portaria n.º 359/2019, de 8 de outubro.
 
-###### Artigo 7.º — [...]
+Artigo 7.º
+
+[...]
 
 1 - O pedido de matrícula é apresentado, preferencialmente, via Internet na aplicação Portal das Matrículas (portaldasmatriculas.edu.gov.pt), com o recurso a uma das seguintes formas de autenticação: cartão de cidadão, chave móvel digital ou credenciais de acesso ao Portal das Finanças.
 
@@ -261,7 +345,9 @@ b) Ao ensino presencial para a itinerância.
 
 18 - O disposto no número anterior está sujeito aos limites constitucionais e legais, designadamente ao previsto na legislação sobre proteção de dados pessoais, no que diz respeito ao acesso e tratamento desses dados.
 
-###### Artigo 8.º — [...]
+Artigo 8.º
+
+[...]
 
 1 - [...].
 
@@ -273,7 +359,9 @@ b) Ao ensino presencial para a itinerância.
 
 5 - A renovação de matrícula na educação pré-escolar é efetuada eletronicamente, entre 15 de abril e 15 de junho, aplicando-se-lhe o disposto nos n.os 1 e 2 do artigo 7.º e no n.º 8 do artigo 9.º, bem como o disposto n.os 1 e 2 do mesmo artigo, quando ocorra transferência de estabelecimento.
 
-###### Artigo 9.º — [...]
+Artigo 9.º
+
+[...]
 
 1 - A renovação de matrícula para cada início de ciclo e a renovação de matrícula que implique transferência de estabelecimento de educação e de ensino devem ser efetuadas nos termos dos n.os 1 a 5 do artigo 7.º e no prazo previsto no n.º 3 do artigo 8.º, sem prejuízo do disposto no número seguinte.
 
@@ -301,7 +389,9 @@ d) O NISS das crianças e alunos beneficiários da prestação social de abono d
 
 e) Os dados relativos à composição do agregado familiar por último validados pela Autoridade Tributária, nos casos em que a matrícula se processa ao abrigo do previsto na subalínea iv) da alínea a) do n.º 1 do artigo 2.º ou que se pretendam mobilizar como critérios de seriação as prioridades 3.ª do n.º 2 do artigo 10.º, 3.ª do n.º 1 do artigo 11.º e a 2.ª do n.º 1 do artigo 12.º
 
-###### Artigo 10.º — [...]
+Artigo 10.º
+
+[...]
 
 1 - [...].
 
@@ -327,7 +417,9 @@ e) Os dados relativos à composição do agregado familiar por último validados
 
 3 - Na renovação de matrícula na educação pré-escolar é dada prioridade às crianças que no ano anterior frequentaram o estabelecimento de educação e de ensino que pretendem frequentar, aplicando-se sucessivamente as prioridades definidas nos números anteriores.
 
-###### Artigo 11.º — [...]
+Artigo 11.º
+
+[...]
 
 1 - No ensino básico, as vagas existentes em cada estabelecimento de educação e de ensino para matrícula ou renovação de matrícula são preenchidas dando-se prioridade, sucessivamente, aos alunos:
 
@@ -351,7 +443,9 @@ e) Os dados relativos à composição do agregado familiar por último validados
 
 2 - [...].
 
-###### Artigo 12.º — [...]
+Artigo 12.º
+
+[...]
 
 1 - No ensino secundário, as vagas existentes em cada estabelecimento de educação e de ensino para matrícula ou renovação de matrícula são preenchidas dando-se prioridade, sucessivamente, aos alunos:
 
@@ -373,11 +467,15 @@ e) Os dados relativos à composição do agregado familiar por último validados
 
 2 - [...].
 
-###### Artigo 13.º — [...]
+Artigo 13.º
+
+[...]
 
 Sem prejuízo do previsto nos artigos 27.º e 36.º do [Decreto-Lei n.º 54/2018](https://diariodarepublica.pt/dr/detalhe/decreto-lei/54-2018-115652961), na redação conferida pela [Lei n.º 116/2019](https://diariodarepublica.pt/dr/detalhe/lei/116-2019-124680588), de 13 de setembro, aos candidatos à matrícula ou renovação de matrícula pela primeira vez no 10.º ano de escolaridade, nos cursos de ensino artístico especializado nas áreas das artes visuais e dos audiovisuais, é dada prioridade aos alunos com melhor classificação final na disciplina de Educação Visual, aplicando-se, em caso de igualdade de classificações, as prioridades referidas no n.º 2 do artigo anterior.
 
-###### Artigo 14.º — [...]
+Artigo 14.º
+
+[...]
 
 [...]:
 
@@ -387,7 +485,9 @@ b) [...];
 
 c) [...].
 
-###### Artigo 15.º — [...]
+Artigo 15.º
+
+[...]
 
 1 - Em cada estabelecimento de educação e de ensino são elaboradas e afixadas as listas de crianças e alunos que requereram matrícula naquele estabelecimento de educação e de ensino em 1.ª preferência ou a quem foi renovada a matrícula, de acordo com os seguintes prazos:
 
@@ -401,7 +501,9 @@ a) No dia 21 de julho, no caso da educação pré-escolar e no ensino básico;
 
 b) No dia 29 de julho, no caso do ensino secundário, com indicação do curso em que cada aluno foi admitido.
 
-###### Artigo 16.º — [...]
+Artigo 16.º
+
+[...]
 
 1 - [...].
 
@@ -413,7 +515,9 @@ b) No dia 29 de julho, no caso do ensino secundário, com indicação do curso e
 
 5 - [...].
 
-###### Artigo 17.º — [...]
+Artigo 17.º
+
+[...]
 
 1 - [...].
 
@@ -433,7 +537,9 @@ b) No dia 29 de julho, no caso do ensino secundário, com indicação do curso e
 
 9 - Os pedidos de transferência de estabelecimento de educação e ensino que ocorram durante o ano letivo são apresentados nos termos do n.º 1 do artigo 7.º ou, não sendo possível, presencialmente no estabelecimento de educação e de ensino de frequência.
 
-###### Artigo 18.º — [...]
+Artigo 18.º
+
+[...]
 
 1 - O serviço do Ministério da Educação responsável pela gestão do Portal das Matrículas disponibiliza, no referido portal (portaldasmatriculas.edu.gov.pt), um manual de utilização para os efeitos previstos no presente despacho normativo no qual constará, também, o endereço eletrónico de contacto preferencial e a linha direta de helpdesk.
 
@@ -848,3 +954,5 @@ V - Disposições finais e transitórias
 1 - O serviço do Ministério da Educação responsável pela gestão do Portal das Matrículas disponibiliza, no referido portal [portaldasmatriculas.edu.gov.pt], um manual de utilização para os efeitos previstos no presente despacho normativo no qual constará, também, o endereço eletrónico de contacto preferencial e a linha direta de helpdesk.
 
 2 - As competências atribuídas ao diretor do agrupamento de escolas ou escola não agrupada no presente despacho normativo podem ser delegadas e subdelegadas no subdiretor e nos adjuntos.
+
+313185378

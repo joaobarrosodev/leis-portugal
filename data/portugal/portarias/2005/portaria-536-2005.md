@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2005/06/118b00/39073923.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/536/2005/06/22/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/536-2005-226448
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2012-07-05T00:00:00Z'
+  retrieved_at: '2026-10-23T15:06:57Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 9dab0d601e37e6078182158a0b52b309b13611f37e22fdfa9ef634b2b66f53d8
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 1a88a2c5e32e522964aea6094b2de8b47e73c540822710a04c45dd58e0165f34
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:06:57Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -65,16 +65,16 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Deficiente
-- Exame de Condução
-- Direcção Geral de Viação
 - Centro de Exame
-- Especificação Técnica
-- Instrutor de Condução
-- Veículo
 - Condutor
+- Deficiente
+- Direcção Geral de Viação
+- Especificação Técnica
+- Exame de Condução
+- Instrutor de Condução
 - Reclamação
 - Regulamento
+- Veículo
 relationships:
 - type: amended_by
   target: pt:dre:178550:por
@@ -84,16 +84,26 @@ relationships:
   target: eli:http://data.dre.pt/eli/dec-lei/45/2005/02/23/p/dre
   label: null
   source: http://data.dre.pt/eli/dec-lei/45/2005/02/23/p/dre
+- type: cites
+  target: pt:dre:608744:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:178550:por
+  label: Revogada, a partir de 02.11.2012, com exceção do disposto no nº 4 do art. 25º - que se mantém em vigor até 02.01.2013
+    -, pelo DEC LEI.138/2012.05.07.2012.MEE, DR.IS [129] de 05.07.2012
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/138-2012-178550
+  date: '2012-07-05'
 article_structure:
   article_count: 27
   section_count: 17
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:06:57Z'
   warnings: []
   errors: []
 ---
@@ -112,7 +122,7 @@ Manda o Governo, pelo Ministro de Estado e da Administração Interna, nos termo
 
 2.º A presente portaria entra em vigor 30 dias após a sua publicação.
 
-**O Ministro de Estado e da Administração Interna, António Luís Santos Costa, em 23 de Maio de 2005.**
+O Ministro de Estado e da Administração Interna, António Luís Santos Costa, em 23 de Maio de 2005.
 
 ## ANEXO — Regulamento das Provas de Exame
 

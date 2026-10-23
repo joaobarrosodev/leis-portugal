@@ -46,40 +46,86 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/resolucao/58-2000-1203350
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2012-01-17T00:00:00Z'
+  retrieved_at: '2026-10-23T15:10:09Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 41a4142df0913a1516f9ea242b0f570cec3cb30089d39af4e57508b547adf0ed
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 71aea373bb57272e0056d76df9e7a4547b3303cad696c6ca28785b372acc2062
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:10:09Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Coordenador
+- Nomeação
+- Orgânica
+- Programa Polis
+- QCA III
+- Renovação Urbana
 relationships:
 - type: amended_by
   target: pt:dre:544386:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:544386:por
+  label: "Deteminada a reestruturação do Programa POLIS - Programa de Requalificação Urbana e Valorização Ambiental das Cidades\
+    \ (aprovado pela Res 26/2000 de 15-Mai da PCM), cuja estrutura orgânica consta da Res 58/2000(2º série) de 16-Mai da PCM\
+    \ DR.IIS [113], alterada pelas Res 17/2004(2ªsérie) de 16-Mar e 25/2005(2ªsérie) de 28-Abr, pelo DEC LEI.7/2012.17.01.2012.MAMAOT,\
+    \ DR.IS [12] de 17.01.2012, nos termos do disposto no nº 4 do seu art. 34º; passando a funcionar junto da Direcção-Geral\
+    \ do Território, criada naquele diploma.\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/7-2012-544386
+  date: '2012-01-17'
+- type: cites
+  target: pt:dre:274224:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:367673:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:367855:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:391578:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:662339:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:1139499:por
+  label: "Revogados os nºs 1, 2, 3 e 4 pela RES.17/2004(2ªSérie).22.01.2004.PCM, DR.IIS [64] de 16.03.2004\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/resolucao/17-2004-1139499
+  date: '2004-01-22'
+- type: repealed_by
+  target: pt:dre:2243552:por
+  label: "Revogado o nº 9º pela RES.25/2005(2.ª Série).28.04.2005.PCM, DR.IIS [95] de 17.05.2005, na parte em que contraria\
+    \ o disposto no nº 3 do daquele diploma.\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/resolucao/25-2005-2243552
+  date: '2005-04-28'
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:10:09Z'
   warnings: []
   errors: []
 ---

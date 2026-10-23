@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1984/01/00500/00310032.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes:
 - Há desconformidade entre o nome do diploma que consta no sumário e o que consta no texto respectivo.
 language: por
@@ -47,18 +47,18 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/1-1984-531816
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1984-01-06T00:00:00Z'
+  retrieved_at: '2026-10-23T15:16:59Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 36ab728e8d421710d73334e6e264816cf100cc389e295d0f899c2838ed57e3a2
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: ace7920f4d52ac3b5205fd73b40e14cff3ca5ad2889df5fa5088466f558dd038
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:16:59Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -68,15 +68,15 @@ reuse:
 subjects: []
 relationships: []
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:16:59Z'
   warnings: []
   errors: []
 ---
@@ -95,7 +95,7 @@ Assim:
 
 A Assembleia Regional dos Açores decreta, nos termos da alínea a) do artigo 229.º da Constituição, o seguinte:
 
-###### Artigo 1.º As áreas destinadas à implantação de unidades industriais classificam-se em:
+Artigo 1.º As áreas destinadas à implantação de unidades industriais classificam-se em:
 
 a) Parques industriais;
 
@@ -103,27 +103,27 @@ b) Zonas industriais;
 
 c) Polígonos industriais.
 
-###### Art. 2.º - 1 - Considera-se parque industrial a área destinada à construção e montagem de unidades industriais e respectivas infra-estruturas que para tal for reservada por resolução do Governo Regional e cuja organização e administração seja da responsabilidade da Empresa Regional de Parques Industriais, E. P.
+Art. 2.º - 1 - Considera-se parque industrial a área destinada à construção e montagem de unidades industriais e respectivas infra-estruturas que para tal for reservada por resolução do Governo Regional e cuja organização e administração seja da responsabilidade da Empresa Regional de Parques Industriais, E. P.
 
 2 - A utilização de qualquer área dos parques industriais pelos particulares poderá ser cedida a título de locação de edifícios, nos termos da legislação em vigor, ou por constituição de direito de superfície para construção de instalações próprias.
 
-###### Art. 3.º - 1 - A zona industrial é a área demarcada pela câmara municipal do concelho, ouvidos os departamentos do Governo Regional que sobre a matéria superintendem.
+Art. 3.º - 1 - A zona industrial é a área demarcada pela câmara municipal do concelho, ouvidos os departamentos do Governo Regional que sobre a matéria superintendem.
 
 2 - Compete à câmara municipal respectiva fixar as condições do loteamento e utilização, e bem assim a execução das infra-estruturas necessárias.
 
-###### Art. 4.º As autarquias podem recorrer à Empresa Regional de Parques Industriais, E. P., para o serviço de apoio técnico, no que respeita ao projecto de implantação de unidades e à sua interligação com as infra-estruturas.
+Art. 4.º As autarquias podem recorrer à Empresa Regional de Parques Industriais, E. P., para o serviço de apoio técnico, no que respeita ao projecto de implantação de unidades e à sua interligação com as infra-estruturas.
 
-###### Art. 5.º - 1 - Se em resultado do desenvolvimento acelerado da zona industrial forem criadas dificuldades de meios humanos e técnicos que não permitam à autarquia atingir, por si só, os objectivos propostos, poderá ela celebrar contratos de gestão com a Empresa Regional de Parques Industriais, E. P., nos níveis de actuação que forem julgados convenientes por ambas as partes.
+Art. 5.º - 1 - Se em resultado do desenvolvimento acelerado da zona industrial forem criadas dificuldades de meios humanos e técnicos que não permitam à autarquia atingir, por si só, os objectivos propostos, poderá ela celebrar contratos de gestão com a Empresa Regional de Parques Industriais, E. P., nos níveis de actuação que forem julgados convenientes por ambas as partes.
 
 2 - Em qualquer altura ou desde que o grau de desenvolvimento atingido pela zona industrial o aconselhe e a autarquia assim o entenda, poderá a Empresa Regional de Parques Industriais, E. P., assumir, em condições a acordar, a gestão da zona industrial e transformá-la em parque industrial.
 
-###### Art. 6.º - 1 - Constituem polígonos industriais as áreas destinadas à construção e montagem de unidades industriais, incluindo as respectivas infra-estruturas, e que sejam da responsabilidade de entidades privadas.
+Art. 6.º - 1 - Constituem polígonos industriais as áreas destinadas à construção e montagem de unidades industriais, incluindo as respectivas infra-estruturas, e que sejam da responsabilidade de entidades privadas.
 
 2 - As áreas a que se refere o número anterior serão delimitadas pelo Governo Regional, ouvida a câmara municipal do respectivo concelho e a Empresa Regional de Parques Industriais, E. P.
 
-###### Art. 7.º A utilização, cessão ou transmissão das áreas dos polígonos industriais por quaisquer empresas regula-se pela legislação em vigor, nomeadamente sobre contratos de compra e venda e de locação.
+Art. 7.º A utilização, cessão ou transmissão das áreas dos polígonos industriais por quaisquer empresas regula-se pela legislação em vigor, nomeadamente sobre contratos de compra e venda e de locação.
 
-###### Art. 8.º Não será autorizada a laboração de qualquer unidade industrial nos polígonos industriais sem que a entidade proprietária dos mesmos demonstre:
+Art. 8.º Não será autorizada a laboração de qualquer unidade industrial nos polígonos industriais sem que a entidade proprietária dos mesmos demonstre:
 
 a) Ter aprovada a rede geral de esgotos;
 
@@ -131,14 +131,14 @@ b) Ter em carga a rede geral de água e electricidade;
 
 c) Ter em condições de trânsito, aprovadas pelas entidades competentes, as vias de acesso entre a unidade industrial em causa e a rede viária pública.
 
-###### Art. 9.º As câmaras municipais podem determinar medidas de recuperação dos pólos industriais criados através da iniciativa privada e já em regime de utilização anterior ao presente decreto, com vista a serem transformados pelos seus proprietários em polígonos industriais, conforme o estipulado no artigo 6.º
+Art. 9.º As câmaras municipais podem determinar medidas de recuperação dos pólos industriais criados através da iniciativa privada e já em regime de utilização anterior ao presente decreto, com vista a serem transformados pelos seus proprietários em polígonos industriais, conforme o estipulado no artigo 6.º
 
 Aprovado pela Assembleia Regional dos Açores em 22 de Setembro de 1983.
 
-**O Presidente da Assembleia Regional dos Açores, Álvaro Monjardino.**
+O Presidente da Assembleia Regional dos Açores, Álvaro Monjardino.
 
-**Assinado em Angra do Heroísmo em 15 de Dezembro de 1983.**
+Assinado em Angra do Heroísmo em 15 de Dezembro de 1983.
 
-**Publique-se.**
+Publique-se.
 
-**O Ministro da República para a Região Autónoma dos Açores, Tomás George Conceição Silva.**
+O Ministro da República para a Região Autónoma dos Açores, Tomás George Conceição Silva.

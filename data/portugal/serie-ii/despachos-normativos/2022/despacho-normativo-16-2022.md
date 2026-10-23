@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/2s/2022/12/251000000/0001300021.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -46,40 +46,101 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/despacho-normativo/16-2022-205457496
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2026-08-21T00:00:00Z'
+  retrieved_at: '2026-10-23T15:08:58Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: d7608b73399d17132c93936c01d4fe84fda0ed52febd95efc80412f9cb6611a6
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 8177ad9da5a3ccf43a2c6e3e9e3e11d5c99903e97e8580f97bf067875ea32ede
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:08:58Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Assinatura Digital
+- Certificação Electrónica
+- Definição de Competências
+- Diário da República
+- Diploma Legal
+- Documento Eletrónico
+- Imprensa Nacional-Casa da Moeda
+- Jornal Oficial
+- Legística
+- Pagamento
+- Página na Internet
+- Plataforma Eletrónica
+- Publicação Electrónica
+- Publicitação
+- Regulamentação de Atos Legislativos
+- Regulamento
+- Serviço Público
 relationships:
 - type: amended_by
   target: pt:dre:1160676992:por
   label: Última alteração registada na importação inicial
   source: null
+- type: cites
+  target: pt:dre:105371771:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:105579672:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:107752584:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:122747583:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:128663043:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:156848060:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:159432383:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:234316:por
+  label: null
+  source: null
+- type: repeals
+  target: pt:numero:despacho-normativo:15/2016
+  label: Revoga, a partir de 1 de janeiro de 2023, nos termos do n.º 3 do presente diploma, o Despacho Normativo n.º 15/2016,
+    de 21 de dezembro, Diário da República n.º 243/2016, Série II
+  source: null
+  date: '2016-12-21'
+- type: repeals
+  target: pt:numero:despacho-normativo:5/2017
+  label: Revoga, a partir de 1 de janeiro de 2023, nos termos do n.º 3 do presente diploma, o Despacho Normativo n.º 5/2017,
+    de 26 de julho, Diário da República n.º 143/2017, Série II
+  source: null
+  date: '2017-07-26'
 article_structure:
   article_count: 18
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:08:58Z'
   warnings: []
   errors: []
 ---
@@ -454,11 +515,11 @@ Logótipo do Diário da República
 
 1 - Versão principal:
 
-[([ver documento original](https://files.diariodarepublica.pt/2s/2022/12/251000000/0001300021.pdf))](https://files.diariodarepublica.pt/2s/2022/12/251000000/0001300021.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/2s/2022/12/251000000/0001300021.pdf)
 
 2 - Versão secundária:
 
-[([ver documento original](https://files.diariodarepublica.pt/2s/2022/12/251000000/0001300021.pdf))](https://files.diariodarepublica.pt/2s/2022/12/251000000/0001300021.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/2s/2022/12/251000000/0001300021.pdf)
 
 3 - Cores:
 
@@ -467,3 +528,5 @@ Bronze: CMYK 23 28 64 8, Pantone 871 C, RGB 196 170 106, #c4aa6a;
 Verde: CMYK 90 34 100 27, Pantone 7483 C, RGB 6 100 46, #06642e;
 
 Vermelho: CMYK 23 28 64 8, Pantone 185 C, RGB 230 45 41, #e62d29.
+
+316008008

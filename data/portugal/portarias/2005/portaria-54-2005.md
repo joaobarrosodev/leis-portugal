@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/54/2005/01/20/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/54-2005-625794
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2005-01-20T00:00:00Z'
+  retrieved_at: '2026-10-23T15:06:57Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 96e2df2bafbfd12766649dc5ea0707ae5cb5c7eed4a3e8b73a4ca5e10b4e973f
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 45ec5c8fac24ebbf4bcff18090577facc097153cb948093e39af759b6cfeed4e
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:06:57Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,9 +66,9 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Plano de Estudos
 - Escola Superior de Saúde JEAN Piaget-nordeste
 - Licenciatura
+- Plano de Estudos
 relationships:
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/16/1994/01/22/p/dre
@@ -110,16 +110,76 @@ relationships:
   target: eli:http://data.dre.pt/eli/resolconsmin/116/2002/10/02/p/dre
   label: null
   source: http://data.dre.pt/eli/resolconsmin/116/2002/10/02/p/dre
+- type: cites
+  target: pt:dre:138571:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:142113:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:150335:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:173481:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:199778:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:210421:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:268055:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:423057:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:429596:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:510269:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:512030:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:517468:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:533820:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:618546:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:644708:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:06:57Z'
   warnings: []
   errors: []
 ---
@@ -222,7 +282,7 @@ Disposição revogatória
 
 2 - Findo o processo de transição fixado nos termos do número anterior, caduca a autorização de funcionamento do curso de bacharelato em Fisioterapia da Escola Superior de Saúde Jean Piaget/Nordeste.
 
-**A Ministra da Ciência, Inovação e Ensino Superior, Maria da Graça Martins da Silva Carvalho, em 28 de Dezembro de 2004.**
+A Ministra da Ciência, Inovação e Ensino Superior, Maria da Graça Martins da Silva Carvalho, em 28 de Dezembro de 2004.
 
 ## ANEXO — Escola Superior de Saúde Jean Piaget/Nordeste
 
@@ -236,19 +296,19 @@ QUADRO N.º 1
 
 1.º ano
 
-[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2005/01/014b00/04910494.pdf)
+[[[[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2005/01/014b00/04910494.pdf)](https://files.diariodarepublica.pt/1s/2005/01/014b00/04910494.pdf)](https://files.diariodarepublica.pt/1s/2005/01/014b00/04910494.pdf)](https://files.diariodarepublica.pt/1s/2005/01/014b00/04910494.pdf)
 
 QUADRO N.º 2
 
 2.º ano
 
-[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2005/01/014b00/04910494.pdf)
+[[[[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2005/01/014b00/04910494.pdf)](https://files.diariodarepublica.pt/1s/2005/01/014b00/04910494.pdf)](https://files.diariodarepublica.pt/1s/2005/01/014b00/04910494.pdf)](https://files.diariodarepublica.pt/1s/2005/01/014b00/04910494.pdf)
 
 QUADRO N.º 3
 
 3.º ano
 
-[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2005/01/014b00/04910494.pdf)
+[[[[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2005/01/014b00/04910494.pdf)](https://files.diariodarepublica.pt/1s/2005/01/014b00/04910494.pdf)](https://files.diariodarepublica.pt/1s/2005/01/014b00/04910494.pdf)](https://files.diariodarepublica.pt/1s/2005/01/014b00/04910494.pdf)
 
 Grau de licenciado
 
@@ -258,4 +318,4 @@ QUADRO N.º 4
 
 1.º ano
 
-[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2005/01/014b00/04910494.pdf)
+[[[[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2005/01/014b00/04910494.pdf)](https://files.diariodarepublica.pt/1s/2005/01/014b00/04910494.pdf)](https://files.diariodarepublica.pt/1s/2005/01/014b00/04910494.pdf)](https://files.diariodarepublica.pt/1s/2005/01/014b00/04910494.pdf)

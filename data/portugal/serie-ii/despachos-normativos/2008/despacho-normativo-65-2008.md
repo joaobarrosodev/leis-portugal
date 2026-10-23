@@ -46,41 +46,62 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/despacho-normativo/65-2008-3374676
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2008-12-22T00:00:00Z'
+  retrieved_at: '2026-10-23T15:07:05Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 0144e8bad1c9855555e8ef69793d45e7acf2491fa5590a91ca4e59685adddde5
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 213dfc9ad2510fa09d63e95247c4b677034167b3265cea99fb0269e710960add
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:07:05Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
-relationships: []
+subjects:
+- Ensino Superior
+- Estatuto
+- Universidade do Algarve
+relationships:
+- type: amended_by
+  target: pt:dre:176498647:por
+  label: Homologadas as alterações aos Estatutos da Universidade do Algarve pelo(a) Despacho Normativo n.º 28/2021 - Diário
+    da República n.º 249/2021, Série II de 2021-12-27
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/despacho-normativo/28-2021-176498647
+  date: '2021-12-27'
+- type: cites
+  target: pt:dre:217698:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:382868:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:640339:por
+  label: null
+  source: null
 article_structure:
-  article_count: 71
+  article_count: 72
   section_count: 23
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:07:05Z'
   warnings: []
   errors: []
 ---
 
-# Despacho Normativo n.º 65/2008
+# Despacho normativo n.º 65/2008
 
 Considerando que, nos termos do n.º 1 do artigo 172.º da [Lei n.º 62/2007](https://diariodarepublica.pt/dr/detalhe/lei/62-2007-640339), de 10 de Setembro, as instituições de ensino superior devem proceder à revisão dos seus estatutos, de modo a conformá-los com o novo Regime Jurídico das Instituições de Ensino Superior;
 
@@ -822,7 +843,9 @@ d) Contribuir para a ligação e articulação entre a Universidade e a região.
 
 ## Título III — Unidades Orgânicas
 
-### Capítulo I — Artigo 44.º
+### Capítulo I
+
+###### Artigo 44.º
 
 Estatutos
 

@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/438/2005/04/21/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/438-2005-549472
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2005-04-21T00:00:00Z'
+  retrieved_at: '2026-10-23T15:06:22Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: afa47fe92fcd5b268dc2e0f087ac3d402c1954508f08c2829440571fa9ad2e4a
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: df723c7b4089be33279969a93acc4073c3c03832d8b0b68c2e67fba0b1423149
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:06:22Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,10 +66,10 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Plano de Estudos
+- Ensino Superior
 - Instituto Superior de Ciências Empresariais e do Turismo
 - Licenciatura
-- Ensino Superior
+- Plano de Estudos
 - Porto
 relationships:
 - type: cites
@@ -108,16 +108,60 @@ relationships:
   target: eli:http://data.dre.pt/eli/port/974/2000/10/10/p/dre
   label: null
   source: http://data.dre.pt/eli/port/974/2000/10/10/p/dre
+- type: cites
+  target: pt:dre:147873:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:150335:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:300227:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:429596:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:480301:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:512030:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:533820:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:544125:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:554844:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:561983:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:618546:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:06:22Z'
   warnings: []
   errors: []
 ---
@@ -186,7 +230,7 @@ Aplicação
 
 O disposto na presente portaria aplica-se a partir do ano lectivo de 2005-2006, inclusive.
 
-**A Ministra da Ciência, Inovação e Ensino Superior, Maria da Graça Martins da Silva Carvalho, em 10 de Março de 2005.**
+A Ministra da Ciência, Inovação e Ensino Superior, Maria da Graça Martins da Silva Carvalho, em 10 de Março de 2005.
 
 ## ANEXO — ([Portaria n.º 2/2003](https://diariodarepublica.pt/dr/detalhe/portaria/2-2003-480301), de 2 de Janeiro - alteração)
 
@@ -200,19 +244,19 @@ QUADRO N.º 1
 
 1.º ano
 
-[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2005/04/078b00/31523154.pdf)
+[[[[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2005/04/078b00/31523154.pdf)](https://files.diariodarepublica.pt/1s/2005/04/078b00/31523154.pdf)](https://files.diariodarepublica.pt/1s/2005/04/078b00/31523154.pdf)](https://files.diariodarepublica.pt/1s/2005/04/078b00/31523154.pdf)
 
 QUADRO N.º 2
 
 2.º ano
 
-[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2005/04/078b00/31523154.pdf)
+[[[[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2005/04/078b00/31523154.pdf)](https://files.diariodarepublica.pt/1s/2005/04/078b00/31523154.pdf)](https://files.diariodarepublica.pt/1s/2005/04/078b00/31523154.pdf)](https://files.diariodarepublica.pt/1s/2005/04/078b00/31523154.pdf)
 
 QUADRO N.º 3
 
 3.º ano
 
-[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2005/04/078b00/31523154.pdf)
+[[[[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2005/04/078b00/31523154.pdf)](https://files.diariodarepublica.pt/1s/2005/04/078b00/31523154.pdf)](https://files.diariodarepublica.pt/1s/2005/04/078b00/31523154.pdf)](https://files.diariodarepublica.pt/1s/2005/04/078b00/31523154.pdf)
 
 Grau de licenciado - 2.º ciclo
 
@@ -220,4 +264,4 @@ QUADRO N.º 4
 
 1.º ano
 
-[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2005/04/078b00/31523154.pdf)
+[[[[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2005/04/078b00/31523154.pdf)](https://files.diariodarepublica.pt/1s/2005/04/078b00/31523154.pdf)](https://files.diariodarepublica.pt/1s/2005/04/078b00/31523154.pdf)](https://files.diariodarepublica.pt/1s/2005/04/078b00/31523154.pdf)

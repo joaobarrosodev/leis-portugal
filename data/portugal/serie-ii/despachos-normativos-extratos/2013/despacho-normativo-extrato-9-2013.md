@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/2s/2013/08/164000000/2665626656.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -46,18 +46,18 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/despacho-normativo-extrato/9-2013-1499929
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2013-08-27T00:00:00Z'
+  retrieved_at: '2026-10-23T15:09:20Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 4bd079f5698c07f470b69197a52b0cc2d0ecf7a84f5552385a5bdafc4209bb7e
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 6b90c33241432d6426621024e2fc8fd2e1e54b270d23d926733d1646c88024df
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:09:20Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -65,22 +65,26 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects: []
-relationships: []
+relationships:
+- type: cites
+  target: pt:dre:399178:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:09:20Z'
   warnings: []
   errors: []
 ---
 
-# Despacho Normativo (extrato) n.º 9/2013
+# Despacho normativo (extrato) n.º 9/2013
 
 Considerando que os funcionários diplomáticos colocados nos serviços periféricos externos ou transferidos destes para os serviços internos do Ministério dos Negócios Estrangeiros têm direito ao pagamento de despesas com transporte de bens pessoais, conforme previsto no [Decreto-Lei n.º 40-A/98](https://diariodarepublica.pt/dr/detalhe/decreto-lei/40-a-1998-399178), de 27 de fevereiro, com a redação atualmente em vigor;
 
@@ -123,3 +127,5 @@ i) Em caso de regresso aos serviços internos, e para efeitos de cálculo do val
 2 - O referido despacho produz efeitos a 1 de fevereiro de 2013.
 
 5 de agosto de 2013. - O Diretor do Departamento Geral de Administração, Francisco Vaz Patto.
+
+207184411

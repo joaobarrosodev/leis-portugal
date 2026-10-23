@@ -46,36 +46,86 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/resolucao/3-2014-1856738
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2014-01-24T00:00:00Z'
+  retrieved_at: '2026-10-23T15:15:23Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 0d935920e6f66062e95557262d32bee7941d0691604c44b5114d96fd5921ecfc
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: d488c100033835b9e60a221f7a61e080a112fa4c61ac0a11cde066d018bd50b0
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:15:23Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
-relationships: []
+subjects:
+- Comissão de Recrutamento e Selecção para a Administração Pública
+- Conselho de Administração
+- Matosinhos
+- Nomeação
+- Presidente
+- Saúde
+- Setor Empresarial do Estado
+- Unidade Local de Saúde de Matosinhos
+- Vogal
+relationships:
+- type: cites
+  target: pt:dre:191077:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:469067:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:498125:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:498720:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:500215:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:520259:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:542993:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:544415:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:553924:por
+  label: null
+  source: null
+- type: corrected_by
+  target: pt:dre:25690246:por
+  label: "Retificado o nº 2, pela DECL-RECT.353/2014.01.04.2014.SG-PCM, DR.IIS [64] de 01.04.2014\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/declaracao-retificacao/353-2014-25690246
+  date: '2014-04-01'
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:15:23Z'
   warnings: []
   errors: []
 ---
@@ -241,3 +291,5 @@ Setembro de 2001 a abril de 2002, assessora no Gabinete do Ministro da Saúde pa
 Junho de 1996 a março 2001 - Vogal CA da ARS/Norte;
 
 Início funções 07/01/85 no Centro de Saúde do Sabugal, tendo mais tarde trabalhado como enfermeira especialista em Saúde materna e obstétrica no Hospital Sousa Martins, no Hospital de S. João e no Hospital de Matosinhos.
+
+207550823

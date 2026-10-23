@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/34/2006/01/05/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/34-2006-203782
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2006-01-05T00:00:00Z'
+  retrieved_at: '2026-10-23T15:13:27Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 393f551e8012b79a5e4b8b2389bbaff01e197ad49a856afa4f8682b7ce0e6db0
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 4255310cbbaa02670663251baacd6b38ba10319b86d5d970378446b0d8b41ffc
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:13:27Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,13 +67,13 @@ reuse:
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
 - Bacharelato
-- Plano de Estudos
+- Beja
+- Ensino Superior
 - Ensino Superior Politécnico
 - Escola Superior de Tecnologia e Gestão
 - Instituto Politécnico
 - Licenciatura
-- Beja
-- Ensino Superior
+- Plano de Estudos
 relationships:
 - type: cites
   target: eli:http://data.dre.pt/eli/lei/20/1992/08/14/p/dre
@@ -107,16 +107,56 @@ relationships:
   target: eli:http://data.dre.pt/eli/port/692/2002/06/21/p/dre
   label: null
   source: http://data.dre.pt/eli/port/692/2002/06/21/p/dre
+- type: cites
+  target: pt:dre:139209:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:147873:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:203474:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:238375:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:283353:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:429596:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:453184:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:556606:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:561983:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:593710:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:13:27Z'
   warnings: []
   errors: []
 ---
@@ -159,7 +199,7 @@ Aplicação
 
 O disposto no presente diploma aplica-se a partir do ano lectivo de 2005-2006, inclusive.
 
-**O Ministro da Ciência, Tecnologia e Ensino Superior, José Mariano Rebelo Pires Gago, em 14 de Dezembro de 2005.**
+O Ministro da Ciência, Tecnologia e Ensino Superior, José Mariano Rebelo Pires Gago, em 14 de Dezembro de 2005.
 
 ## ANEXO — Instituto Politécnico de Beja
 
@@ -173,19 +213,19 @@ QUADRO N.º 1
 
 1.º ano
 
-[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2006/01/004b00/01070109.pdf)
+[[[[[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2006/01/004b00/01070109.pdf)](https://files.diariodarepublica.pt/1s/2006/01/004b00/01070109.pdf)](https://files.diariodarepublica.pt/1s/2006/01/004b00/01070109.pdf)](https://files.diariodarepublica.pt/1s/2006/01/004b00/01070109.pdf)](https://files.diariodarepublica.pt/1s/2006/01/004b00/01070109.pdf)
 
 QUADRO N.º 2
 
 2.º ano
 
-[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2006/01/004b00/01070109.pdf)
+[[[[[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2006/01/004b00/01070109.pdf)](https://files.diariodarepublica.pt/1s/2006/01/004b00/01070109.pdf)](https://files.diariodarepublica.pt/1s/2006/01/004b00/01070109.pdf)](https://files.diariodarepublica.pt/1s/2006/01/004b00/01070109.pdf)](https://files.diariodarepublica.pt/1s/2006/01/004b00/01070109.pdf)
 
 QUADRO N.º 3
 
 3.º ano
 
-[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2006/01/004b00/01070109.pdf)
+[[[[[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2006/01/004b00/01070109.pdf)](https://files.diariodarepublica.pt/1s/2006/01/004b00/01070109.pdf)](https://files.diariodarepublica.pt/1s/2006/01/004b00/01070109.pdf)](https://files.diariodarepublica.pt/1s/2006/01/004b00/01070109.pdf)](https://files.diariodarepublica.pt/1s/2006/01/004b00/01070109.pdf)
 
 2.º ciclo - Grau de licenciado
 
@@ -193,10 +233,10 @@ QUADRO N.º 4
 
 1.º ano
 
-[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2006/01/004b00/01070109.pdf)
+[[[[[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2006/01/004b00/01070109.pdf)](https://files.diariodarepublica.pt/1s/2006/01/004b00/01070109.pdf)](https://files.diariodarepublica.pt/1s/2006/01/004b00/01070109.pdf)](https://files.diariodarepublica.pt/1s/2006/01/004b00/01070109.pdf)](https://files.diariodarepublica.pt/1s/2006/01/004b00/01070109.pdf)
 
 QUADRO N.º 5
 
 2.º ano
 
-[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2006/01/004b00/01070109.pdf)
+[[[[[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2006/01/004b00/01070109.pdf)](https://files.diariodarepublica.pt/1s/2006/01/004b00/01070109.pdf)](https://files.diariodarepublica.pt/1s/2006/01/004b00/01070109.pdf)](https://files.diariodarepublica.pt/1s/2006/01/004b00/01070109.pdf)](https://files.diariodarepublica.pt/1s/2006/01/004b00/01070109.pdf)

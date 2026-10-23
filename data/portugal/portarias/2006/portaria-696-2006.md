@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/696/2006/07/10/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/696-2006-537253
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2006-07-10T00:00:00Z'
+  retrieved_at: '2026-10-23T15:15:42Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: b0c49d484f760da73721b5dff949403f9544a206bc874b1e34784f25415122c8
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: c02e0dee4197411706f2bf776fc4cbdde9822c0f88ba0218f815cfc0d38fe285
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:15:42Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,20 +66,20 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Aquisição de Imóveis
-- Financiamento
-- Comparticipação do Estado
-- Realojamento
-- Equipamento Social
-- Habitação Social
-- Instituto Nacional de Habitação
-- Preço Máximo
-- Madeira.região Autónoma
-- Regime de Apoio à Recuperação Habitacional em Áreas Urbanas Antigas
-- Habitação
 - Açores
+- Aquisição de Imóveis
 - Arrendamento Urbano para Habitação
 - Autarquia Local
+- Comparticipação do Estado
+- Equipamento Social
+- Financiamento
+- Habitação
+- Habitação Social
+- Instituto Nacional de Habitação
+- Madeira.região Autónoma
+- Preço Máximo
+- Realojamento
+- Regime de Apoio à Recuperação Habitacional em Áreas Urbanas Antigas
 relationships:
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/105/1996/07/31/p/dre
@@ -113,16 +113,56 @@ relationships:
   target: eli:http://data.dre.pt/eli/port/70-a/2004/01/16/p/dre
   label: null
   source: http://data.dre.pt/eli/port/70-a/2004/01/16/p/dre
+- type: cites
+  target: pt:dre:274242:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:281201:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:289214:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:361888:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:406886:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:418827:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:431037:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:466834:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:484576:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:521597:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:15:42Z'
   warnings: []
   errors: []
 ---
@@ -203,16 +243,16 @@ b) «Equipamento social» as áreas construídas do empreendimento, integradas n
 
 Em 16 de Março de 2006.
 
-**O Ministro de Estado e das Finanças, Fernando Teixeira dos Santos. - O Ministro do Ambiente, do Ordenamento do Território e do Desenvolvimento Regional, Francisco Carlos da Graça Nunes Correia.**
+O Ministro de Estado e das Finanças, Fernando Teixeira dos Santos. - O Ministro do Ambiente, do Ordenamento do Território e do Desenvolvimento Regional, Francisco Carlos da Graça Nunes Correia.
 
 QUADRO I
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2006/07/13100/48094811.pdf))](https://files.diariodarepublica.pt/1s/2006/07/13100/48094811.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2006/07/13100/48094811.pdf)
 
 QUADRO II
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2006/07/13100/48094811.pdf))](https://files.diariodarepublica.pt/1s/2006/07/13100/48094811.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2006/07/13100/48094811.pdf)
 
 QUADRO III
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2006/07/13100/48094811.pdf))](https://files.diariodarepublica.pt/1s/2006/07/13100/48094811.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2006/07/13100/48094811.pdf)

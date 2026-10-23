@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/814/2006/08/14/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/814-2006-538837
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2006-08-14T00:00:00Z'
+  retrieved_at: '2026-10-23T15:16:28Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 7064f182eb799133d71b59738dbfc18f2ad2ac73b7da29613a93d10cc052ad0f
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 8fbc9a0038996adc1d3135a79d0cebea7b521b8ae6a065d8ebba35f4d577bff3
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:16:28Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,10 +66,16 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Plano de Estudos
 - Curso de Especialização
 - Escola Superior de Enfermagem do DR Angelo da Fonseca
+- Plano de Estudos
 relationships:
+- type: amended_by
+  target: pt:dre:75222130:por
+  label: Alterado o plano de estudos do curso de pós-licenciatura de especialização em Enfermagem de Saúde Infantil e Pediatria
+    pelo(a) Portaria n.º 234/2016 - Diário da República n.º 166/2016, Série I de 2016-08-30
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/234-2016-75222130
+  date: '2016-08-30'
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/353/1999/09/03/p/dre
   label: null
@@ -82,16 +88,28 @@ relationships:
   target: eli:http://data.dre.pt/eli/resolconsmin/116/2002/10/02/p/dre
   label: null
   source: http://data.dre.pt/eli/resolconsmin/116/2002/10/02/p/dre
+- type: cites
+  target: pt:dre:265299:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:582195:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:644708:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:16:28Z'
   warnings: []
   errors: []
 ---
@@ -150,10 +168,10 @@ Início de funcionamento do curso
 
 O curso pode iniciar o seu funcionamento a partir do ano lectivo de 2006-2007, inclusive.
 
-**O Ministro da Ciência, Tecnologia e Ensino Superior, José Mariano Rebelo Pires Gago, em 28 de Julho de 2006.**
+O Ministro da Ciência, Tecnologia e Ensino Superior, José Mariano Rebelo Pires Gago, em 28 de Julho de 2006.
 
 ## ANEXO — Escola Superior de Enfermagem do Dr. Ângelo da Fonseca
 
 Curso de pós-licenciatura de especialização em Enfermagem de Saúde Infantil e Pediatria
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2006/08/15600/58135814.pdf))](https://files.diariodarepublica.pt/1s/2006/08/15600/58135814.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2006/08/15600/58135814.pdf)

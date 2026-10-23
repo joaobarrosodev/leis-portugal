@@ -46,30 +46,52 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/despacho-normativo/23-2008-3048923
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2010-06-18T00:00:00Z'
+  retrieved_at: '2026-10-23T15:06:50Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 6faa546006badecb485e0cb0efb187d4991aff214acd77843bb84f8c5384a763
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 5b2bf6d1dcd87a62c7205d488cf3b80a5ea9f5ceff571426f6aec5a4b865e5e0
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:06:50Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Apicultura
+- Comissão de Acompanhamento
+- Direcção Regional de Agricultura e Pescas
+- Financiamento
+- IFAP
+- MEL
+- Programa Apicola Nacional
+- Transferência de Verbas
 relationships:
 - type: amended_by
   target: pt:dre:3620234:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:3485374:por
+  label: "Alterado e substituído o anexo i pelo DN.9/2009.19.02.2009.MADRP, DR.IIS [35] de 19.02.2009\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/despacho-normativo/9-2009-3485374
+  date: '2009-02-19'
+- type: amended_by
+  target: pt:dre:1929758:por
+  label: "Alterados a al. a) do art. 8º, os nºs 2 e 3 do art. 18º (esta alteração com produção de efeitos desde o início da\
+    \ campanha de 2009), a al. a) do nº 1 do art. 21º e a al. g) do nº 2 do art. 22º, assim como são alterados e substituídos\
+    \ os anexos I (este com a redacção conferida no DN 9/2009 de 19-Fev) e III, e revogado o nº 4 do art. 5º, todos do presente\
+    \ diploma, ao qual é aditada uma al. j) ao nº 2 do referido art. 22º pelo DN.24/2009.03.07.2009.MADRP, DR.IIS [127] de\
+    \ 03.07.2009\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/despacho-normativo/24-2009-1929758
+  date: '2009-07-03'
 - type: cites
   target: celex:32004R0797
   label: null
@@ -82,21 +104,38 @@ relationships:
   target: celex:32005R1698
   label: null
   source: null
+- type: cites
+  target: pt:dre:481729:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:534992:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:568359:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:2168600:por
+  label: "Revogado o art. 16.º pelo DN.11/2010.20.04.2010.MADRP, DR.IIS [76] de 20.04.2010\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/despacho-normativo/11-2010-2168600
+  date: '2010-04-20'
 article_structure:
   article_count: 26
   section_count: 7
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:06:50Z'
   warnings: []
   errors: []
 ---
 
-# Despacho Normativo n.º 23/2008
+# Despacho normativo n.º 23/2008
 
 No âmbito do Regulamento (CE) n.º 797/2004, do Conselho, de 26 de Abril, relativo a acções de melhoria das condições de produção e comercialização dos produtos da apicultura e do Regulamento (CE) n.º 917/2004, da Comissão, de 29 de Abril, que estabelece as respectivas normas de execução, incumbe à Comissão aprovar os programas apícolas nacionais estabelecidos por cada Estado-membro por um período de 3 anos. O Programa Apícola Nacional aprovado pela Comissão para o triénio anterior para Portugal, foi complementarmente regulamentado através do [Despacho Normativo n.º 30/2005](https://diariodarepublica.pt/dr/detalhe/despacho-normativo/30-2005-534992), publicado no Diário da República, 1.ª série-B, de 6 de Maio, e terminou a sua execução. Para o triénio 2008-2010, a Decisão da Comissão C (2007) 3803 final, de 10 de Agosto de 2007, aprovou um novo Programa Apícola Nacional relativamente ao qual se torna agora necessário estabelecer algumas novas regras de aplicação. Impõe-se também estruturar de modo diverso a regulamentação nacional, com vista a alcançar uma maior eficácia na execução do programa e a contribuir para a melhoria da produção e comercialização dos produtos da apicultura através da profissionalização do sector e de novos incentivos à concentração da oferta. Foram reformuladas as acções e respectivas medidas, dando especial atenção à experiência adquirida com a execução do Programa Apícola Nacional ao longo do triénio de 2005-2007, bem como à simplificação processual, à preocupação com a relação custo/benefício, à selectividade na concessão dos apoios e à flexibilidade na apreciação de candidaturas agrupadas ou de impacto sectorial relevante. Assim, ao abrigo do disposto no Regulamento (CE) n.º 797/2004, do Conselho, de 26 de Abril, e do Regulamento (CE) n.º 917/2004, da Comissão, de 29 de Abril, determino o seguinte:
 
@@ -476,12 +515,12 @@ O presente diploma entra em vigor no dia seguinte ao da sua publicação.
 
 ## ANEXO I — (a que se refere os artigos 3.º e 6.º)
 
-[([ver documento original](https://files.diariodarepublica.pt/2s/2008/04/077000000/1786417871.pdf))](https://files.diariodarepublica.pt/2s/2008/04/077000000/1786417871.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/2s/2008/04/077000000/1786417871.pdf)
 
 ## ANEXO II — Montantes das ajudas a que se refere o artigo 13.º (euros)
 
-[([ver documento original](https://files.diariodarepublica.pt/2s/2008/04/077000000/1786417871.pdf))](https://files.diariodarepublica.pt/2s/2008/04/077000000/1786417871.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/2s/2008/04/077000000/1786417871.pdf)
 
 ## ANEXO III — Critérios a que se refere o artigo 12.º
 
-[([ver documento original](https://files.diariodarepublica.pt/2s/2008/04/077000000/1786417871.pdf))](https://files.diariodarepublica.pt/2s/2008/04/077000000/1786417871.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/2s/2008/04/077000000/1786417871.pdf)

@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/2s/2019/01/013000000/0255702568.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -46,30 +46,46 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/despacho-normativo/1-2019-118010891
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2021-02-03T00:00:00Z'
+  retrieved_at: '2026-10-23T15:08:27Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 15c55e4d7ff85b884d1675f1cdfa55d7586fe594e91bc2cad784efe087aa6c14
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 01eb9527112eaefebc304a7709b7ee851859ebc2dc5c62382a2e61d08dc65ca7
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:08:27Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Agricultura
+- IFAP
+- Política Agrícola Comum
+- Regulamento CE
 relationships:
 - type: amended_by
   target: pt:dre:156295911:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:128571990:por
+  label: Alterado, com efeitos a partir de 01.01.2020, o anexo II do DN 6/2015 de 20-fev, na versão republicada pelo presente,
+    pelo(a) Despacho Normativo n.º 2/2020 - Diário da República n.º 19/2020, Série II de 2020-01-28
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/despacho-normativo/2-2020-128571990
+  date: '2020-01-28'
+- type: amended_by
+  target: pt:dre:156295911:por
+  label: Alterado, com efeitos a partir de 01.01.2021, o anexo II do DN 6/2015 de 20-fev, na versão republicada pelo presente,
+    pelo(a) Despacho Normativo n.º 4/2021 - Diário da República n.º 23/2021, Série II de 2021-02-03
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/despacho-normativo/4-2021-156295911
+  date: '2021-02-03'
 - type: cites
   target: celex:31980L0068
   label: null
@@ -174,16 +190,132 @@ relationships:
   target: celex:32014R0640
   label: null
   source: null
+- type: cites
+  target: pt:dre:105658698:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:114541492:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:148432:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:174836:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:178512:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:1852624:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:226977:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:320080:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:340237:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:358491:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:397360:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:454810:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:469068:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:490409:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:522981:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:531828:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:536213:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:539227:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:559021:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:583786:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:608175:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:626229:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:629400:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:66547565:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:693250:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:70086440:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:72991304:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:73576679:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:74385175:por
+  label: null
+  source: null
 article_structure:
   article_count: 11
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:08:27Z'
   warnings: []
   errors: []
 ---
@@ -354,7 +486,9 @@ As superfícies ocupadas com árvores florestais, sem aproveitamento do sob cobe
 
 Incluem-se as superfícies ocupadas com culturas semeadas ou plantadas ao ar livre ou em qualquer tipo de forçagem, em que não existe interação direta entre a raiz da planta e o solo, nomeadamente as plantas cultivadas em vasos e as culturas em hidroponia.
 
-## ANEXO II — I - [...]
+ANEXO II
+
+I - [...]
 
 A - [...]
 
@@ -510,7 +644,9 @@ II - [...]
 
 RLG 14 - [...]
 
-## ANEXO III — [...]
+ANEXO III
+
+[...]
 
 A - [...]
 
@@ -1570,11 +1706,15 @@ b) As operações de limpeza conducentes à manutenção e preservação dos ele
 
 (1) Vegetação arbustiva - vegetação lenhosa espontânea com altura superior a 50 cm, com exceção nas superfícies com «Sobreiros destinados à produção de cortiça» onde deve ser considerada a altura de 100 cm.
 
-## ANEXO IV — (a que se refere o n.º 3 do artigo 3.º)
+ANEXO IV
+
+(a que se refere o n.º 3 do artigo 3.º)
 
 (Revogado pelo [Despacho Normativo n.º 16/2015](https://diariodarepublica.pt/dr/detalhe/despacho-normativo/16-2015-70086440), de 18 de agosto.)
 
-## ANEXO V — [a que se refere a alínea x) do artigo 2.º]
+ANEXO V
+
+[a que se refere a alínea x) do artigo 2.º]
 
 Elementos lineares e ou de paisagem
 
@@ -1633,3 +1773,5 @@ b) A largura da galeria ripícola pode atingir até um máximo de 24 metros, qua
 6 - Elementos lineares e ou de paisagem a integrar na área útil da parcela sem limite:
 
 6.1 - Arvoredo de interesse público, de acordo com a alínea s) do artigo 2.º do presente despacho normativo.
+
+311979053

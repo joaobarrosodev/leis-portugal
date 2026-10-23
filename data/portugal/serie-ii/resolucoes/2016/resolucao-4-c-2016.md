@@ -19,12 +19,12 @@ publication:
   reference: Diário da República n.º 25/2016, 1º Suplemento, Série II de 2016-02-05
   number: '25'
   series: II
-  supplement: 1º Suplemento
+  supplement: null
   pages: 4554-(2) a 4554-(3)
   pdf_url: https://files.diariodarepublica.pt/2s/2016/02/025000001/0000200003.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -46,40 +46,109 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/resolucao/4-c-2016-73448589
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2017-10-03T00:00:00Z'
+  retrieved_at: '2026-10-23T15:15:59Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 0c75105899cd3b4f355926c4d94561b4040267102680728dbeb5d36663192037
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 006b7c325267b9dce3c73c73ec0488b4443275203d442f0f2d36cb1b0d0077eb
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:15:59Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Conselho Diretivo
+- Fundação para a Ciência e a Tecnologia
+- Nomeação
+- Presidente
+- Vice-presidente
+- Vogal
 relationships:
 - type: amended_by
   target: pt:dre:108250523:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:108250523:por
+  label: Exonerado, a seu pedido, Miguel Rico Botas Castanho do cargo de vice-presidente e Maria Isabel Lobato de Faria Ribeiro
+    do cargo de vogal (esta com efeitos a partir do dia 01.09.2017) do conselho diretivo da Fundação para a Ciência e a Tecnologia,
+    I. P., pelo(a) Resolução do Conselho de Ministros n.º 154/2017 - Diário da República n.º 191/2017, Série I de 2017-10-03
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/resolucao-conselho-ministros/154-2017-108250523
+  date: '2017-10-03'
+- type: cites
+  target: pt:dre:145045:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:25676932:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:260419:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:3160891:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:498124:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:499502:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:520259:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:543034:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:544415:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:603476:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:66016527:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:67084319:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:70179157:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:72909765:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:15:59Z'
   warnings: []
   errors: []
 ---
@@ -173,3 +242,5 @@ Nome: Ana Maria Beirão Reis de la Fuente Sanchez
 Nasceu em Lisboa, em 1972. É coordenadora do Gabinete de Comunicação e Divulgação de Ciência do Instituto de Tecnologia Química e Biológica da Universidade NOVA de Lisboa. Exerce também funções de docente na área da comunicação de ciência e é membro da Unidade de Investigação MOSTMICRO.
 
 Licenciou-se em Biologia em 1995 pela Faculdade de Ciências da Universidade de Lisboa. Através do Programa Gulbenkian de Doutoramento em Biologia e Medicina (PGDM), fez o seu Doutoramento em Biologia na Katholieke Universiteit Nijmegen, Holanda (2001). De regresso a Portugal, dedicou-se à investigação como bolseira de pós-doutoramento no Instituto de Tecnologia Química e Biológica (ITQB), coordenando um projeto de investigação. É autora de uma dezena de artigos científicos. Em 2005, aceitou o desafio de criar o gabinete de comunicação do ITQB, que tem vindo a coordenar. Nestas funções desenvolveu a vertente de comunicação institucional do ITQB, implementou um programa de divulgação de ciência envolvendo os investigadores e exerceu funções de assessoria da direção em muitos domínios. Tem coordenado e participado em projetos de difusão do conhecimento científico promovidos pela Agência Nacional Ciência Viva e pela União Europeia e é um membro ativo da comunidade portuguesa de comunicadores de ciência, tendo estado envolvida na criação da Associação SciCom.Pt, de que é Presidente da Mesa da Assembleia Geral. Da atividade docente, destaca-se a criação e coordenação do Mestrado em Comunicação de Ciência da Universidade Nova de Lisboa. É responsável pelas unidades curriculares de comunicação de ciência em três Programas Doutorais financiados pela FCT e por dois cursos de comunicação de ciência da NOVA Doctoral School.
+
+209334873

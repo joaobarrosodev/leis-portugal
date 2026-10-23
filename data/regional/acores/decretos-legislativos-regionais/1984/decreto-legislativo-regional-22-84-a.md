@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1984/08/19400/25872588.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -47,40 +47,48 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/22-1984-381089
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1987-11-30T00:00:00Z'
+  retrieved_at: '2026-10-23T15:17:04Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 70dca9bbde134c1e408ae7b1751bf85e2b4dcb3a3e27d6778911deb5af8f39d0
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 0faad02e4d17ae4790c58bbe0ba543b03719f1a16fc15b9d90e91222d6f93300
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:17:04Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Açores
+- Financiamento
+- Transporte Marítimo
 relationships:
 - type: amended_by
   target: pt:dre:498694:por
   label: Última alteração registada na importação inicial
   source: null
+- type: repealed_by
+  target: pt:dre:498694:por
+  label: "Revogado pelo DLR.20/87/A.30.11.1987.ARA, DR.IS [276] de 30.11.1987\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-legislativo-regional/20-1987-498694
+  date: '1987-11-30'
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:17:04Z'
   warnings: []
   errors: []
 ---
@@ -99,7 +107,7 @@ Assim:
 
 A Assembleia Regional dos Açores decreta, nos termos da alínea a) do artigo 229.º da Constituição, o seguinte:
 
-###### Artigo 1.º - 1 - O Governo Regional poderá prestar apoio financeiro a projectos considerados de interesse regional, de modo a assegurar e incrementar o tráfego marítimo de pessoas e bens.
+Artigo 1.º - 1 - O Governo Regional poderá prestar apoio financeiro a projectos considerados de interesse regional, de modo a assegurar e incrementar o tráfego marítimo de pessoas e bens.
 
 2 - Para efeitos do disposto no número anterior consideram-se de interesse regional os seguintes projectos:
 
@@ -109,38 +117,38 @@ b) Modificação ou reparação de embarcações destinadas ao tráfego menciona
 
 c) Aquisição da maquinaria e equipamentos destinados a embarcações de passageiros e ou carga que operem ao serviço da Região.
 
-###### Art. 2.º As embarcações a que respeitam os projectos de investimento referidos no presente diploma deverão ser, obrigatoriamente:
+Art. 2.º As embarcações a que respeitam os projectos de investimento referidos no presente diploma deverão ser, obrigatoriamente:
 
 a) Propriedade de empresas armadoras com sede na Região Autónoma dos Açores;
 
 b) Registadas em porto da Região Autónoma dos Açores.
 
-###### Art. 3.º Aos projectos de investimento mencionados no artigo 1.º do presente diploma o Governo Regional poderá conceder auxílios financeiros, nas seguintes modalidades:
+Art. 3.º Aos projectos de investimento mencionados no artigo 1.º do presente diploma o Governo Regional poderá conceder auxílios financeiros, nas seguintes modalidades:
 
 a) Compensação de juros do financiamento dos projectos mencionados na alínea a);
 
 b) Subsídio reembolsável sem juros ou compensação de juros de financiamento dos projectos referidos nas alíneas b) e c).
 
-###### Art. 4.º - 1 - O valor do subsídio reembolsável a que se refere a alínea b) do artigo 2.º não poderá ultrapassar 30% do valor total do investimento, devendo ser reembolsado no prazo de 10 anos, com um período de carência de 2 anos.
+Art. 4.º - 1 - O valor do subsídio reembolsável a que se refere a alínea b) do artigo 2.º não poderá ultrapassar 30% do valor total do investimento, devendo ser reembolsado no prazo de 10 anos, com um período de carência de 2 anos.
 
 2 - A taxa de juro anual a suportar pelos beneficiários dos apoios que se traduzem pela compensação de juros não poderá ser superior a 20%.
 
 3 - Os apoios financeiros previstos no presente diploma não são acumuláveis relativamente a cada projecto de investimento.
 
-###### Art. 5.º - 1 - O Governo Regional poderá, em casos devidamente fundamentados e no sentido de garantir a realização do serviço público de transporte de passageiros, promover a construção ou aquisição de embarcações.
+Art. 5.º - 1 - O Governo Regional poderá, em casos devidamente fundamentados e no sentido de garantir a realização do serviço público de transporte de passageiros, promover a construção ou aquisição de embarcações.
 
 2 - A exploração das embarcações construídas ou adquiridas ao abrigo do número anterior será concedida mediante concurso público, em termos a regulamentar.
 
-###### Art. 6.º - 1 - A manutenção dos incentivos mencionados no presente diploma fica condicionada à realização dos objectivos constantes do projecto de investimento aprovado.
+Art. 6.º - 1 - A manutenção dos incentivos mencionados no presente diploma fica condicionada à realização dos objectivos constantes do projecto de investimento aprovado.
 
 2 - O incumprimento culposo pelo beneficiário do disposto neste diploma acarreta caducidade de todos os benefícios concedidos e a obrigação por parte daquele de reembolsar o Governo Regional das importâncias já concedidas.
 
 Aprovado pela Assembleia Regional dos Açores em 19 de Junho de 1984.
 
-**O Presidente da Assembleia Regional dos Açores, Álvaro Monjardino.**
+O Presidente da Assembleia Regional dos Açores, Álvaro Monjardino.
 
-**Assinado em Angra do Heroísmo em 7 de Agosto de 1984.**
+Assinado em Angra do Heroísmo em 7 de Agosto de 1984.
 
-**Publique-se.**
+Publique-se.
 
-**O Ministro da República para a Região Autónoma dos Açores, Tomás George Conceição Silva.**
+O Ministro da República para a Região Autónoma dos Açores, Tomás George Conceição Silva.

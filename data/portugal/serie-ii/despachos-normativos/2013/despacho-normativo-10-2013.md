@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/2s/2013/10/201000000/3117531175.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -47,25 +47,32 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/despacho-normativo/10-2013-2774095
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2013-10-17T00:00:00Z'
+  retrieved_at: '2026-10-23T15:07:45Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 886aa6335ff01d0cf692467d1a2d02bbf9df85439e0ce39ff69e279b5445ac1a
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: f93cd7e6fa66ec4e31104d2d81546f2dfdce1725743df397f4b67059bb2e04bb
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:07:45Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Agricultura
+- Exploração Agrícola
+- Financiamento
+- Política Agrícola Comum
+- Proder
+- Programa de Desenvolvimento Rural
+- Regulamento CE
 relationships:
 - type: cites
   target: celex:32009R0073
@@ -79,21 +86,30 @@ relationships:
   target: celex:32011R0065
   label: null
   source: null
+- type: cites
+  target: pt:dre:2727523:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:106522768:por
+  label: Revogado pela Portaria n.º 87/2017 - Diário da República n.º 41/2017, Série I de 2017-02-27
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/87-2017-106522768
+  date: '2017-02-27'
 article_structure:
-  article_count: 3
+  article_count: 1
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:07:45Z'
   warnings: []
   errors: []
 ---
 
-# Despacho Normativo n.º 10/2013
+# Despacho normativo n.º 10/2013
 
 O [Despacho Normativo n.º 13/2010](https://diariodarepublica.pt/dr/detalhe/despacho-normativo/13-2010-2727523), de 13 de maio, publicado no DR, 2.ª série, de 25 de maio, estabeleceu os termos da aplicação da redução do montante total dos pagamentos de apoios, prevista no artigo 55º do Regulamento (CE) n.º 1122/2009, da Comissão, de 30 de novembro, que estabelece regras de execução do Regulamento (CE) n.º 73/2009, do Conselho, de 19 de janeiro.
 
@@ -121,12 +137,18 @@ c) Medida 2.3 «Gestão do Espaço Florestal e Agroflorestal», na subação 2.3
 
 d) Medida 2.4 - «Intervenções Territoriais Integradas», todas as componentes agroambientais e silvoambientais.
 
-###### Artigo 2.º — Produção de efeitos
+Artigo 2.º
+
+Produção de efeitos
 
 O presente diploma é aplicável a partir da campanha de 2013, inclusive.
 
-###### Artigo 3.º — Entrada em vigor
+Artigo 3.º
+
+Entrada em vigor
 
 O presente diploma entra em vigor no dia seguinte ao da sua publicação.
 
 11 de outubro de 2013. - O Secretário de Estado da Agricultura, José Diogo Santiago de Albuquerque.
+
+207316214

@@ -21,7 +21,7 @@ publication:
   reference: Diário da República n.º 251/2007, 1º Suplemento, Série II de 2007-12-31
   number: '251'
   series: II
-  supplement: 1º Suplemento
+  supplement: null
   pages: 38322-(2) a 38322-(4)
   pdf_url: https://files.diariodarepublica.pt/2s/2007/12/251000001/0000200004.pdf
 entry_into_force_dates: []
@@ -48,41 +48,103 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/despacho-normativo/41-a-2007-1932758
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2007-12-31T00:00:00Z'
+  retrieved_at: '2026-10-23T15:06:44Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: a03c8e5bdf5a93a5a0820182b09c5bad71a3974f9b21ebcfe21bbfab09c384bb
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: cf0d18a65fad96f1ae0a8877e8b27b78674b88b07981d201f0f0030a1608997c
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:06:44Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
-relationships: []
+subjects:
+- ACTO Administrativo
+- Assinatura Digital
+- Assinatura Reconhecida
+- Cejur
+- Certificação Electrónica
+- Definição de Competências
+- Diário da República
+- Diploma Legal
+- Diretor
+- Imprensa Nacional-Casa da Moeda
+- Internet
+- Pagamento
+- Presidência do Conselho de Ministros
+- Publicação Electrónica
+- Publicitação
+- SELO Branco
+- Serviço Público
+- Sistema de Certificação Electrónica do Estado-Infraestrutura de Chaves Públicas
+relationships:
+- type: cites
+  target: pt:dre:229520:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:234316:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:308572:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:323949:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:357350:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:408511:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:537586:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:548239:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:548241:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:623841:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:640909:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:06:44Z'
   warnings: []
   errors: []
 ---
 
-# Despacho Normativo n.º 41-A/2007
+# Despacho normativo n.º 41-A/2007
 
 O despacho normativo n.º 38/2006, de 30 de Junho, publicado no Diário da República, 2.ª série, n.º 124, de 30 de Junho de 2006, alterado pelo despacho normativo n.º 2/2007, de 4 de Janeiro, publicado no Diário da República, 2.ª série, n.º 3, de 4 de Janeiro de 2007, e pelo despacho normativo n.º 19/2007, de 18 de Abril, publicado no Diário da República, 2.ª série, n.º 76, de 18 de Abril de 2007, veio estabelecer orientações para a desmaterialização do processo de envio de actos para publicação nas 1.ª e 2.ª séries do Diário da República e fixar as regras de organização e publicação de actos na 2.ª série;
 

@@ -47,36 +47,71 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/resolucao/7-2012-2705162
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2012-02-09T00:00:00Z'
+  retrieved_at: '2026-10-23T15:15:03Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: d973a831fbf0c6dba31db741f1d77179124341af33686c8a07eba049571ddd5a
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 90b0f24361d3258beed2bde26f606eefed336e9bec7e544ef91399fe0833f6d7
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:15:03Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
-relationships: []
+subjects:
+- Conselho de Administração
+- Entidade Gestora de Reservas Estratégicas de Produtos Petrolíferos
+- Nomeação
+- Presidente
+- Vogal
+relationships:
+- type: amended_by
+  target: pt:dre:496748:por
+  label: "Exonerado, com efeitos a 06.06.2013, João Pedro Costa do Vale Teixeira, do cargo de presidente do conselho de administração\
+    \ da EGREP, E.P.E. pela RES.40/2013.18.06.2013.PCM, DR.IS [115] de 18.06.2013\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/resolucao-conselho-ministros/40-2013-496748
+  date: '2013-06-18'
+- type: cites
+  target: pt:dre:243747:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:344942:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:421437:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:443897:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:640899:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:655312:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:15:03Z'
   warnings: []
   errors: []
 ---
@@ -198,3 +233,5 @@ Membro da Ordem dos Técnicos Oficiais de Contas n.º 18966, desde 1988.
 Cursos Liderança - Equipaz (Tracy Human Capital - 2004/05), Goal -Developing Leaders - 2001/2002, ALVO - 2000.
 
 Certificado de Aptidão Profissional - CAP - 2008.
+
+2102012

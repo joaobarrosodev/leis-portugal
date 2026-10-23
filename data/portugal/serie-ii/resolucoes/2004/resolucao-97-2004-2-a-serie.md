@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/2s/2004/09/230000000/1451114514.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -46,18 +46,18 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/resolucao/97-2004-2005173
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2004-09-29T00:00:00Z'
+  retrieved_at: '2026-10-23T15:12:41Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 3ddae51ef901dff48b5b665a46835556a32e985fbc06a92722e8bcb3ffeb344a
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 4a71611a8c5ec0b3289e9b2d897afc658dfed558b4bb16f3d77dda47933e3d83
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:12:41Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -69,13 +69,13 @@ relationships: []
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:12:41Z'
   warnings: []
   errors: []
 ---
@@ -104,11 +104,11 @@ c) A tabela de equivalências entre disciplinas do anterior e as do novo curso (
 
 1 - Plano de estudos:
 
-[([ver documento original](https://files.diariodarepublica.pt/2s/2004/09/230000000/1451114514.pdf))](https://files.diariodarepublica.pt/2s/2004/09/230000000/1451114514.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/2s/2004/09/230000000/1451114514.pdf)
 
 2 - Síntese por áreas científicas:
 
-[([ver documento original](https://files.diariodarepublica.pt/2s/2004/09/230000000/1451114514.pdf))](https://files.diariodarepublica.pt/2s/2004/09/230000000/1451114514.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/2s/2004/09/230000000/1451114514.pdf)
 
 3 - Estágio - o estágio é obrigatório e rege-se pelo actual regulamento.
 
@@ -116,7 +116,7 @@ c) A tabela de equivalências entre disciplinas do anterior e as do novo curso (
 
 5 - Classificação final - a classificação final obtém-se a partir das classificações de cada disciplina e do peso relativo do respectivo crédito ECTS:
 
-[([ver documento original](https://files.diariodarepublica.pt/2s/2004/09/230000000/1451114514.pdf))](https://files.diariodarepublica.pt/2s/2004/09/230000000/1451114514.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/2s/2004/09/230000000/1451114514.pdf)
 
 ## ANEXO II — Licenciatura em Matemática e Ciências da Computação
 
@@ -124,7 +124,7 @@ Plano de transição
 
 O mapa tipo dos planos de transição entre os dois cursos será o seguinte:
 
-[([ver documento original](https://files.diariodarepublica.pt/2s/2004/09/230000000/1451114514.pdf))](https://files.diariodarepublica.pt/2s/2004/09/230000000/1451114514.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/2s/2004/09/230000000/1451114514.pdf)
 
 ## ANEXO III — Licenciatura em Matemática e Ciências da Computação
 

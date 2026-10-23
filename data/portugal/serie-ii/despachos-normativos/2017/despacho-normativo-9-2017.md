@@ -27,7 +27,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/2s/2017/08/153000000/1697416975.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -49,40 +49,94 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/despacho-normativo/9-2017-107981323
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2018-09-25T00:00:00Z'
+  retrieved_at: '2026-10-23T15:08:20Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: e9ba04a81da126b7b0cffd08dfa74b86364c17dcc864fe587c9f4913b02dc052
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: b2660dd0ee883608c41ad52081f736c7481386be0bba0551607f667d794c52f8
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:08:20Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Alvaiázere
+- Ansião
+- Apoio ao Investimento
+- Aquisição de Bens e Serviços
+- Arganil
+- Castanheira de PÊRA
+- Desenvolvimento Local
+- Desenvolvimento Regional
+- Dotação Orçamental
+- Figueiró dos Vinhos
+- Financiamento
+- Góis
+- Oleiros
+- Pampilhosa da Serra
+- Pedrógão Grande
+- Penela
+- Programa Valorizar
+- Sertã
+- Turismo
 relationships:
 - type: amended_by
   target: pt:dre:116490434:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:114152844:por
+  label: Alterado o art. 2.º e revogado o art. 3.º pelo(a) Despacho Normativo n.º 19/2017 - Diário da República n.º 214/2017,
+    Série II de 2017-11-07
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/despacho-normativo/19-2017-114152844
+  date: '2017-11-07'
+- type: amended_by
+  target: pt:dre:114311007:por
+  label: Aditado o regulamento do Programa de Apoio a Congressos e Eventos nos Concelhos afetados pelos Incêndios de 2017,
+    como Anexo I e parte integrante do presente, pelo(a) Despacho Normativo n.º 21/2017 - Diário da República n.º 234/2017,
+    Série II de 2017-12-06
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/despacho-normativo/21-2017-114311007
+  date: '2017-12-06'
+- type: amended_by
+  target: pt:dre:116490434:por
+  label: Alterado o art. 2.º do Regulamento do Programa de Apoio a Congressos e Eventos pelo(a) Despacho Normativo n.º 12/2018
+    - Diário da República n.º 185/2018, Série II de 2018-09-25
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/despacho-normativo/12-2018-116490434
+  date: '2018-09-25'
+- type: cites
+  target: pt:dre:105652694:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:72991353:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:73716774:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:75619707:por
+  label: null
+  source: null
 article_structure:
   article_count: 5
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:08:20Z'
   warnings: []
   errors: []
 ---
@@ -136,3 +190,5 @@ Em tudo o que não esteja especialmente previsto no presente despacho, nomeadame
 O presente diploma entra em vigor na data da sua assinatura.
 
 20 de julho de 2017. - A Secretária de Estado do Turismo, Ana Manuel Jerónimo Lopes Correia Mendes Godinho.
+
+310656282

@@ -46,36 +46,55 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/3-1988-283145
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1988-02-13T00:00:00Z'
+  retrieved_at: '2026-10-23T15:17:45Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: f9130b6f5a81cdbb73c80e5378f974b5cf2327d5724100a86986e07c91d7e7c4
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: c1a2205e0f8da1a09b8d42c7b83793aafe0df413e929f54beab722b4b7307830
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:17:45Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
-relationships: []
+subjects:
+- Açores
+- Orçamento Regional
+relationships:
+- type: cites
+  target: pt:dre:406155:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:447894:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:660174:por
+  label: null
+  source: null
+- type: corrected_by
+  target: pt:dre:219539:por
+  label: Rectificado pela DECL.DD2171.1988.03.11.PCM,DR.IS [76]2º Supl de 31/Mar/1988
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/declaracao/1988-219539
+  date: '1988-03-11'
 article_structure:
   article_count: 30
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:17:45Z'
   warnings: []
   errors: []
 ---
@@ -382,7 +401,7 @@ Só poderão celebrar-se contratos ou, de qualquer outra forma, contrair encargo
 
 ###### Artigo 29.º — Regulamentação
 
-**O Secretário Regional das Finanças emitirá os regulamentos que se mostrem necessários à execução do presente diploma.**
+O Secretário Regional das Finanças emitirá os regulamentos que se mostrem necessários à execução do presente diploma.
 
 ###### Artigo 30.º — Entrada em vigor
 
@@ -390,10 +409,10 @@ O presente diploma produz efeitos a partir do dia 1 de Janeiro de 1988.
 
 Aprovado pela Assembleia Regional dos Açores, na Horta, em 29 de Janeiro de 1988.
 
-**O Presidente da Assembleia Regional, José Guilherme Reis Leite.**
+O Presidente da Assembleia Regional, José Guilherme Reis Leite.
 
-**Assinado em Angra do Heroísmo em 5 de Fevereiro de 1988.**
+Assinado em Angra do Heroísmo em 5 de Fevereiro de 1988.
 
-**Publique-se.**
+Publique-se.
 
-**O Ministro da República para a Região Autónoma dos Açores, Vasco Joaquim Rocha Vieira.**
+O Ministro da República para a Região Autónoma dos Açores, Vasco Joaquim Rocha Vieira.

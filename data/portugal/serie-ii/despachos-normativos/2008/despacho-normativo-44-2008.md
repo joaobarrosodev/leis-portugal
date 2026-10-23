@@ -46,45 +46,66 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/despacho-normativo/44-2008-1782383
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2021-05-06T00:00:00Z'
+  retrieved_at: '2026-10-23T15:06:58Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 2ee62c80f65104d24dca524c41fb9ee243c0fa0cf617ed0867786353ca264cf0
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: af3d88aac47268daf83b75c0929b6b5b09f18b4a81250e0fea758c890ddde7e6
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:06:58Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Escola Superior de Hotelaria e Turismo do Estoril
+- Estatuto
+- Homologação
 relationships:
 - type: amended_by
   target: pt:dre:162825338:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:162825338:por
+  label: Homologada a revisão dos Estatutos da Escola Superior de Hotelaria e Turismo do Estoril, pelo(a) Despacho Normativo
+    n.º 13/2021 - Diário da República n.º 88/2021, Série II de 2021-05-06
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/despacho-normativo/13-2021-162825338
+  date: '2021-05-06'
+- type: cites
+  target: pt:dre:540661:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:556606:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:640339:por
+  label: null
+  source: null
 article_structure:
   article_count: 131
-  section_count: 25
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  section_count: 20
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:06:58Z'
   warnings: []
   errors: []
 ---
 
-# Despacho Normativo n.º 44/2008
+# Despacho normativo n.º 44/2008
 
 Considerando que, nos termos do n.º 1 do artigo 172.º da [Lei n.º 62/2007](https://diariodarepublica.pt/dr/detalhe/lei/62-2007-640339), de 10 de Setembro, as instituições de ensino superior devem proceder à revisão dos seus estatutos, de modo a conformá-los com o novo Regime Jurídico das Instituições de Ensino Superior;
 
@@ -498,7 +519,7 @@ Dos resultados eleitorais cabe reclamação, dentro do prazo legal, para o Presi
 
 ###### Artigo 38.º — (Natureza)
 
-**O Presidente da ESHTE é o órgão superior de governo e de representação externa da Escola, cabendo-lhe a condução política da mesma.**
+O Presidente da ESHTE é o órgão superior de governo e de representação externa da Escola, cabendo-lhe a condução política da mesma.
 
 ###### Artigo 39.º — (Eleição)
 
@@ -1200,7 +1221,7 @@ O Centro de Recursos Educativos destina-se ao apoio da missão científica, téc
 
 O regulamento de cada unidade funcional será elaborado pela mesma, sendo ouvido o Conselho Técnico-Científico nas disposições que envolvam serviço docente.
 
-## TITULO III
+TITULO III
 
 (Qualificação, valorização pessoal e profissional)
 
@@ -1242,7 +1263,7 @@ O regulamento de cada unidade funcional será elaborado pela mesma, sendo ouvido
 
 3 - Na medida em que tal seja possível, a ESHTE poderá estender ao corpo não docente e não investigador os apoios previstos na secção anterior para o pessoal docente e investigador.
 
-## TITULO IV
+TITULO IV
 
 (Dos serviços)
 
@@ -1380,7 +1401,7 @@ b) Pelo Código do Trabalho e pela lei do regime jurídico do contrato de trabal
 
 3 - O poder disciplinar pertence ao Presidente.
 
-## TITULO V
+TITULO V
 
 (Gestão patrimonial, administrativa e financeira)
 
@@ -1536,7 +1557,7 @@ A gestão patrimonial e financeira da ESHTE é controlada por um fiscal único, 
 
 3 - Os relatórios das auditorias referidas nos números anteriores, bem como os relatórios anuais do fiscal único, são remetidos ao ministro responsável pela área das finanças e ao ministro da tutela.
 
-## TITULO VI
+TITULO VI
 
 (Estatuto disciplinar dos estudantes)
 
@@ -1682,7 +1703,7 @@ A requerimento do instrutor do processo, o Presidente da ESHTE pode suspender pr
 
 ###### Artigo 119.º — (Decisão disciplinar)
 
-**O Presidente aprecia o relatório elaborado pelo instrutor e a resposta do estudante, no prazo máximo de um mês, a contar da data da recepção desta ou da data em que esta já não pode ser recebida e, observadas as demais formalidades legais, procede à aplicação da sanção disciplinar.**
+O Presidente aprecia o relatório elaborado pelo instrutor e a resposta do estudante, no prazo máximo de um mês, a contar da data da recepção desta ou da data em que esta já não pode ser recebida e, observadas as demais formalidades legais, procede à aplicação da sanção disciplinar.
 
 ###### Artigo 120.º — (Garantias de defesa do estudante)
 
@@ -1758,7 +1779,7 @@ b) Três meses sobre a data do conhecimento da infracção pelo órgão da insti
 
 Em tudo o que não estiver regulado no presente Estatuto são aplicáveis as disposições do Estatuto Disciplinar dos Funcionários e Agentes da Administração Central, Regional e Local, assim como as normas gerais em matéria de direito administrativo sancionatório e sobre garantias dos administrados.
 
-## TITULO VII
+TITULO VII
 
 (Disposições finais e transitórias)
 
@@ -1782,7 +1803,7 @@ O novo sistema de órgãos entra em funcionamento com a tomada de posse do novo 
 
 ###### Artigo 129.º — Instalação do novo sistema de órgãos
 
-**O Presidente da ESHTE deverá promover as eleições para os novos órgãos da Escola no prazo de 10 dias contados da data da entrada em funcionamento do novo sistema de órgãos, salvo se se verificarem as situações previstas no número 2 do artigo 30.º e ou do número 2 do artigo 39.º, caso em se aplicará o regime neles previsto.**
+O Presidente da ESHTE deverá promover as eleições para os novos órgãos da Escola no prazo de 10 dias contados da data da entrada em funcionamento do novo sistema de órgãos, salvo se se verificarem as situações previstas no número 2 do artigo 30.º e ou do número 2 do artigo 39.º, caso em se aplicará o regime neles previsto.
 
 ###### Artigo 130.º — Regime transitório
 

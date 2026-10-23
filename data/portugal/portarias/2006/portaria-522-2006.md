@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/522/2006/06/06/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/522-2006-353942
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2006-06-06T00:00:00Z'
+  retrieved_at: '2026-10-23T15:14:38Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 229c0a715d30b8e1ef4314a3904fcde14fa1ddc55913f2cc17d7df78529e2277
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 5290a7cfc0a304727be424538dd186e57650bd4ff70255c7c3fc6c3003866402
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:14:38Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -70,9 +70,9 @@ subjects:
 - Aquisição de Bens e Serviços
 - Concurso Público Internacional
 - Contrato
-- Serviço Nacional de Saúde
 - Homologação
 - Instituto de Gestão Informática e Financeira da Saúde
+- Serviço Nacional de Saúde
 relationships:
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/197/1999/06/08/p/dre
@@ -86,16 +86,28 @@ relationships:
   target: eli:http://data.dre.pt/eli/port/1176-a/2000/12/14/p/dre
   label: null
   source: http://data.dre.pt/eli/port/1176-a/2000/12/14/p/dre
+- type: cites
+  target: pt:dre:311259:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:321520:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:347964:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:14:38Z'
   warnings: []
   errors: []
 ---
@@ -152,4 +164,4 @@ Manda o Governo, pelo Ministro da Saúde, atento o disposto na alínea c) do art
 
 Pelo Ministro da Saúde, Francisco Ventura Ramos, Secretário de Estado da Saúde, em 18 de Maio de 2006.
 
-## ANEXO — [([ver documento original](https://files.diariodarepublica.pt/1s/2006/06/109b00/39254023.pdf))](https://files.diariodarepublica.pt/1s/2006/06/109b00/39254023.pdf)
+## ANEXO — [(ver documento original)](https://files.diariodarepublica.pt/1s/2006/06/109b00/39254023.pdf)

@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/2s/2020/08/150000000/0005100052.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -46,36 +46,55 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/despacho-normativo/8-2020-139459994
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2020-08-04T00:00:00Z'
+  retrieved_at: '2026-10-23T15:08:40Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: b111f0e419aa7f4c69c454954eb331846340fd7a39125fcdb8985d1bdc9506cb
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 5111b96c90307fbb024471b1328917e0f9ea919715a741ac77a169d08159fd0b
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:08:40Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
-relationships: []
+subjects:
+- Estatuto
+- Homologação
+- Universidade de Lisboa
+relationships:
+- type: cites
+  target: pt:dre:115312061:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:122278100:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:1864678:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:640339:por
+  label: null
+  source: null
 article_structure:
-  article_count: 3
+  article_count: 1
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:08:40Z'
   warnings: []
   errors: []
 ---
@@ -114,7 +133,9 @@ Os artigos 1.º, 5.º e 6.º do Anexo I aos Estatutos da Universidade de Lisboa 
 
 O presente anexo define a qualificação, o grau, a designação dos cargos dirigentes, dos serviços da Universidade de Lisboa e das suas escolas, que compreendem cargos de direção superior de 1.º e 2.º graus e cargos de direção intermédia de 1.º, 2.º, 3.º, 4.º e 5.º graus.
 
-###### Artigo 5.º — [...]
+Artigo 5.º
+
+[...]
 
 1 - [...].
 
@@ -134,7 +155,9 @@ e) O cargo de presidente do Estádio Universitário de Lisboa qualificado como c
 
 4 - [...].
 
-###### Artigo 6.º — [...]
+Artigo 6.º
+
+[...]
 
 Os serviços das escolas são coordenados por dirigentes de acordo com a seguinte tipologia, devendo a sua organização concreta, designadamente a qualificação do cargo que detém ou a que é equiparado o pessoal dirigente, nos termos das alíneas seguintes, ser especificada nos estatutos a que alude o artigo 3.º:
 
@@ -151,3 +174,5 @@ b) [...];
 c) [...];
 
 d) [...]»
+
+313412614

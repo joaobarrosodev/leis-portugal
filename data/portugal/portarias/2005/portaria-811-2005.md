@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/811/2005/09/12/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/811-2005-143077
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2005-09-12T00:00:00Z'
+  retrieved_at: '2026-10-23T15:08:33Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: d4414be084af7b3fdc5df278f61861431999eda3b4da7929e1381bdc3979ce7d
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: e67c598c41b23570e9a76b1a2a4fef73d8f6c0b953eefaa796f2e55c760d013a
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:08:33Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -68,20 +68,30 @@ subjects:
 - Empresa na HORA
 - Período Experimental
 relationships:
+- type: amended_by
+  target: pt:dre:2963834:por
+  label: "Alargado os locais de funcionamento do regime especial \"empresa na hora, pelo DC.1034/2005.11.11.2005.MJ, DR.IIS\
+    \ [229] de 29.11.2005\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/despacho-conjunto/1034-2005-2963834
+  date: '2005-11-11'
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/111/2005/07/08/p/dre
   label: null
   source: http://data.dre.pt/eli/dec-lei/111/2005/07/08/p/dre
+- type: cites
+  target: pt:dre:235906:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:08:33Z'
   warnings: []
   errors: []
 ---
@@ -98,4 +108,4 @@ Assim:
 
 Manda o Governo, pelos Ministros de Estado e da Administração Interna, da Justiça e da Economia e da Inovação, ao abrigo do n.º 1 do artigo 27.º do [Decreto-Lei n.º 111/2005](https://diariodarepublica.pt/dr/detalhe/decreto-lei/111-2005-235906), de 8 de Julho, que o período experimental previsto nessa disposição decorra de 13 de Julho a 31 de Dezembro de 2005.
 
-**O Ministro de Estado e da Administração Interna, António Luís Santos Costa, em 17 de Agosto de 2005. - O Ministro da Justiça, Alberto Bernardes Costa, em 29 de Julho de 2005. - Pelo Ministro da Economia e da Inovação, Fernando Pereira Serrasqueiro, Secretário de Estado do Comércio, Serviços e Defesa do Consumidor, em 3 de Agosto de 2005.**
+O Ministro de Estado e da Administração Interna, António Luís Santos Costa, em 17 de Agosto de 2005. - O Ministro da Justiça, Alberto Bernardes Costa, em 29 de Julho de 2005. - Pelo Ministro da Economia e da Inovação, Fernando Pereira Serrasqueiro, Secretário de Estado do Comércio, Serviços e Defesa do Consumidor, em 3 de Agosto de 2005.

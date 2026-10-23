@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/161/2006/02/20/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/161-2006-676833
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2006-02-20T00:00:00Z'
+  retrieved_at: '2026-10-23T15:12:23Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 44db77925ef7ac82623a59549b7283e89e12e4534c5e17c1f56ec4d2dda9ea08
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 176f2d474db3e2165493ec6c7e4b2c4bb6407373913bbfa6c9765ead371d757f
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:12:23Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,10 +66,10 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Plano de Estudos
 - Instituto Politécnico
 - Instituto Superior de Contabilidade e Administração
 - Licenciatura
+- Plano de Estudos
 - Porto
 relationships:
 - type: cites
@@ -96,16 +96,48 @@ relationships:
   target: eli:http://data.dre.pt/eli/port/595/2005/07/15/p/dre
   label: null
   source: http://data.dre.pt/eli/port/595/2005/07/15/p/dre
+- type: cites
+  target: pt:dre:147873:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:238375:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:283353:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:429596:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:453184:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:556606:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:561983:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:593710:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:12:23Z'
   warnings: []
   errors: []
 ---
@@ -136,7 +168,7 @@ Aplicação
 
 O disposto no presente diploma aplica-se a partir do ano lectivo de 2005-2006, inclusive.
 
-**O Ministro da Ciência, Tecnologia e Ensino Superior, José Mariano Rebelo Pires Gago, em 5 de Fevereiro de 2006.**
+O Ministro da Ciência, Tecnologia e Ensino Superior, José Mariano Rebelo Pires Gago, em 5 de Fevereiro de 2006.
 
 ## ANEXO — Instituto Politécnico do Porto
 
@@ -150,19 +182,19 @@ QUADRO N.º 1
 
 1.º ano
 
-[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2006/02/036b00/13351339.pdf)
+[[[[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2006/02/036b00/13351339.pdf)](https://files.diariodarepublica.pt/1s/2006/02/036b00/13351339.pdf)](https://files.diariodarepublica.pt/1s/2006/02/036b00/13351339.pdf)](https://files.diariodarepublica.pt/1s/2006/02/036b00/13351339.pdf)
 
 QUADRO N.º 2
 
 2.º ano
 
-[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2006/02/036b00/13351339.pdf)
+[[[[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2006/02/036b00/13351339.pdf)](https://files.diariodarepublica.pt/1s/2006/02/036b00/13351339.pdf)](https://files.diariodarepublica.pt/1s/2006/02/036b00/13351339.pdf)](https://files.diariodarepublica.pt/1s/2006/02/036b00/13351339.pdf)
 
 QUADRO N.º 3
 
 3.º ano
 
-[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2006/02/036b00/13351339.pdf)
+[[[[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2006/02/036b00/13351339.pdf)](https://files.diariodarepublica.pt/1s/2006/02/036b00/13351339.pdf)](https://files.diariodarepublica.pt/1s/2006/02/036b00/13351339.pdf)](https://files.diariodarepublica.pt/1s/2006/02/036b00/13351339.pdf)
 
 2.º ciclo - Grau de licenciado
 
@@ -170,4 +202,4 @@ QUADRO N.º 4
 
 1.º ano
 
-[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2006/02/036b00/13351339.pdf)
+[[[[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2006/02/036b00/13351339.pdf)](https://files.diariodarepublica.pt/1s/2006/02/036b00/13351339.pdf)](https://files.diariodarepublica.pt/1s/2006/02/036b00/13351339.pdf)](https://files.diariodarepublica.pt/1s/2006/02/036b00/13351339.pdf)

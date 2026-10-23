@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/2s/2023/05/095000000/0003900045.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,40 +46,96 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/despacho-normativo/7-2023-213132360
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2025-02-20T00:00:00Z'
+  retrieved_at: '2026-10-23T15:09:04Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 83bdefb5d703de223f138fa12deb218047a44007e290f67ed70c2daed52dc7a8
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 33bbc387b992a2e3191724dcf7642a123246ed51ebcbbc1630b98611b127f914
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:09:04Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Descentralização
+- Desenvolvimento Local
+- Financiamento
+- Linha de financiamento
+- Projeto de Investimento
+- Subsídio não Reembolsável
+- Turismo
+- Turismo de Portugal
 relationships:
 - type: amended_by
   target: pt:dre:908074086:por
   label: Última alteração registada na importação inicial
   source: null
+- type: cites
+  target: pt:dre:108219721:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:130776793:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:165228578:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:177307815:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:178510:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:183159328:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:205312555:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:75619707:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:75796596:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:908074086:por
+  label: Revogado, a partir de 21 de fevereiro de 2025, pelo(a) Portaria n.º 50/2025/1 - Diário da República n.º 36/2025,
+    Série I de 2025-02-20
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/50-2025-908074086
+  date: '2025-02-20'
+- type: repeals
+  target: pt:numero:despacho:1-A/2022
+  label: Revoga, a partir de 18 de maio de 2023, nos termos do n.º 2 do artigo 2.º, o Despacho n.º 1-A/2022, de 7 de janeiro,
+    Diário da República n.º 5/2022, 1º Suplemento, Série II
+  source: null
+  date: '2022-01-07'
 article_structure:
   article_count: 18
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:09:04Z'
   warnings: []
   errors: []
 ---
@@ -313,3 +369,5 @@ b) Verificação física do projeto e do respetivo desempenho, nomeadamente com 
 3 - A função de controlo e auditoria visa assegurar que os recursos financeiros são utilizados de acordo com os seus objetivos, devendo o Turismo de Portugal, I. P., desencadear todas as ações que, neste contexto, se revelem adequadas, numa base amostral de controlo e de auditoria sobre as operações.
 
 4 - Para efeitos de acompanhamento da execução dos projetos, o Turismo de Portugal, I. P., pode estabelecer um protocolo de colaboração com as entidades regionais de turismo, cuja minuta é homologada pelo membro do governo com tutela sobre o turismo.
+
+316463789

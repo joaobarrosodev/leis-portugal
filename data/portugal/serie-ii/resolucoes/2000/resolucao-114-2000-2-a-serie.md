@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/2s/2000/08/190000000/1360113602.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,36 +46,72 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/resolucao/114-2000-2083307
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2000-08-18T00:00:00Z'
+  retrieved_at: '2026-10-23T15:09:35Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 927cc340cab6a00540d71cd3cf94824edf1d42d4ab838b763d69a56e1ad5f553
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: dc3b176218939129fa460c5890e056914970aecd66db6c59d4995eed7515fec6
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:09:35Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
-relationships: []
+subjects:
+- Acesso à Informação
+- Administração Pública
+- Comissão de Acompanhamento
+- Comissão Interministerial
+- Comissão Interministerial para a Sociedade da Informação
+- Definição de Competências
+- Iniciativa Nacional para o Comércio Electrónico
+- Iniciativa Nacional para os Cidadãos com Necessidades Especiais na Sociedade da Informação
+- Instituto das Comunicações de Portugal
+- Instituto Nacional de Estatística
+- Internet
+- Ministro da Ciência e da Tecnologia
+- Modernização Administrativa
+- Mudança Tecnológica
+- Observatório das Ciências e das Tecnologias
+- Plano de Acção Europe 2002
+- QCA III
+- Sistema de Informação
+- Sociedade da Informação
+- Tecnologia da Informação
+- União Europeia
+relationships:
+- type: amended_by
+  target: pt:dre:451783:por
+  label: "Determinada a sucessão para a Comissão Interministerial para a Inovação e Conhecimento, da competência prevista\
+    \ no nº 1 da Res 3/2001 de 08-Jan, pela RES.135/2002.2002.10.26.PCM, DR.IS-B [268] de 20/11/2002\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/resolucao-conselho-ministros/135-2002-451783
+  date: '2002-10-26'
+- type: cites
+  target: pt:dre:391578:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:451783:por
+  label: "Revogada pela RES.135/2002.2002.10.26.PCM, DR.IS-B [268], de 20/11/2002\02\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/resolucao-conselho-ministros/135-2002-451783
+  date: '2002-10-26'
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:09:35Z'
   warnings: []
   errors: []
 ---
@@ -126,7 +162,7 @@ No exercício das funções que lhe são cometidas em matéria de sociedade da i
 
 3.º
 
-**O Ministro da Ciência e da Tecnologia apresentará trimestralmente ao Conselho de Ministros relatórios circunstanciados da actividade desenvolvida em cumprimento do mandato que lhe é conferido pelo n.º 1**
+O Ministro da Ciência e da Tecnologia apresentará trimestralmente ao Conselho de Ministros relatórios circunstanciados da actividade desenvolvida em cumprimento do mandato que lhe é conferido pelo n.º 1
 
 4.º
 
@@ -182,7 +218,7 @@ c) Reflectir sobre a execução da política do Governo e das iniciativas com or
 
 9.º
 
-**O Ministro da Ciência e da Tecnologia promoverá, na sequência do estabelecido no programa operacional da Sociedade da Informação do Quadro Comunitário de Apoio III, a criação de uma agência de desenvolvimento para a concretização de objectivos de missão definidos pelo Governo para a área da sociedade da informação.**
+O Ministro da Ciência e da Tecnologia promoverá, na sequência do estabelecido no programa operacional da Sociedade da Informação do Quadro Comunitário de Apoio III, a criação de uma agência de desenvolvimento para a concretização de objectivos de missão definidos pelo Governo para a área da sociedade da informação.
 
 10.º
 

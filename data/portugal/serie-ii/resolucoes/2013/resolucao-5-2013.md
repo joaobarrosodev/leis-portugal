@@ -47,36 +47,88 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/resolucao/5-2013-2914847
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2013-02-08T00:00:00Z'
+  retrieved_at: '2026-10-23T15:15:13Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: cd9a2ac58c3ef014060aa44c174a70ba6ccf0a59ea8bda8d0e9282f1792ab36b
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 8810e75cd05fe87493fea87ff678bb12d4246505234aac97611f5484f5462783
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:15:13Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
-relationships: []
+subjects:
+- Conselho de Administração
+- Director Clínico
+- Hospital do Professor Doutor Fernando da Fonseca
+- Nomeação
+relationships:
+- type: cites
+  target: pt:dre:191077:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:191998:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:243747:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:344942:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:452762:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:469067:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:520259:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:542993:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:544415:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:553924:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:640899:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:655312:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:15:13Z'
   warnings: []
   errors: []
 ---
@@ -112,3 +164,5 @@ Nuno Afonso da Costa Alves. Data de nascimento 18 de dezembro de 1957. Inscrito 
 É Licenciado em Medicina pela Faculdade de Medicina da Universidade Católica de Lovaina e pela Faculdade de Medicina de Lisboa, desde Junho de 1982. Especialista em Medicina Interna em 31 de agosto 1987, pela Universidade Católica de Lovaina, em Bruxelas e Assistente Hospitalar em Medicina Interna, da Carreira Médica Hospitalar; Especialista em Gastrenterologia desde 4 de junho de 1989, pela mesma Universidade e Assistente da Carreira Médica Hospitalar em Gastrenterologia. Admissão no Colégio da Especialidade de Gastrenterologia da Ordem dos Médicos, a 17 de dezembro de 1994. É Assistente Graduado em Gastrenterologia da Carreira Médica Hospitalar, do Hospital Prof. Dr. Fernando Fonseca desde 2005 e Consultor de Gastrenterologia da Carreira Médica Hospitalar desde 2006. Em 1982 iniciou funções no Serviço de Medicina Interna do Hospital Universitário de S. Luc da Universidade Católica de Lovaina, em Bruxelas. Exerceu as funções de Assistente Hospitalar desde 1 de setembro 1987 até 31 de agosto 1989, nos Hospitais Universitários de S. Luc, no serviço de Gastrenterologia das Clínicas Universitárias de St. Luc da U.C. Lovaina; de 29 de março 1991 até junho 1995 no Serviço de Gastrenterologia do Hospital Militar Principal, e desde julho 1995, no Serviço de Gastrenterologia do Hospital Fernando Fonseca. Atualmente é Assistente Hospitalar Graduado de Gastrenterologia do Serviço de Gastrenterologia do Hospital Fernando Fonseca, desde 2005. Foi vogal do Júri do Exame Nacional dos Internos da Especialidade de Gastrenterologia em janeiro 2009, Docente livre convidado pela Escola Nacional de Saúde Pública, no Mestrado da Segurança do Doente, em 3 novembro 2011. Participou em 2011, na elaboração do questionário do estudo piloto da incidência de eventos adversos nos hospitais, em colaboração com a Escola de Saúde Pública. Estagiou em 1998 no Laboratório da Gastrenterologia, de Cirurgia Experimental e de Física Nuclear, da Universidade Católica de Lovaina, onde participou no estudo da regeneração hepática, através da tomografia de emissão de positrões na vigilância dos transplantes hepáticos.
 
 Foi Vogal do Júri do Exame Nacional do Internato da Especialidade de Gastrenterologia em janeiro 2009 e Gestor do Risco Clínico desde fevereiro 2009.
+
+2952013
