@@ -26,7 +26,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2005/01/011b00/02910293.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -48,18 +48,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/36/2005/01/17/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/36-2005-626229
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2016-02-11T00:00:00Z'
+  retrieved_at: '2026-10-23T15:05:55Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 34a360a02c9219976db1a323e7704bcdd02c30baa72f3620be52b0303b7a1f1b
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: fb4e45be12a1ad2942c4c4c1e3685ebd2dee6d8dad7bf5541e0c5fc1b88a86d6
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:05:55Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,37 +67,48 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Instituto da ÁGUA
-- Financiamento
-- Comissão Consultiva da Condicionalidade
+- Açores
+- Agricultor
 - Comissão Consultiva
+- Comissão Consultiva da Condicionalidade
 - Comissão de Acompanhamento
-- Direção Geral de Veterinária
+- Comissão de Coordenação e Acompanhamento Permanente do Controlo da Condicionalidade
+- Controlo Sanitário
 - Criação de Serviços
 - Definição de Competências
-- Controlo Sanitário
-- Saúde Pública
+- Direção Geral de Veterinária
+- Exploração Agrícola
+- Financiamento
 - Fiscalização
 - Gabinete de Planeamento e Política Agro-alimentar
-- Instituto Nacional de Intervenção e Garantia Agrícola
+- Instituto da ÁGUA
 - Instituto da Conservação da Natureza
 - Instituto de Desenvolvimento Rural e Hidráulica
-- Comissão de Coordenação e Acompanhamento Permanente do Controlo da Condicionalidade
-- Exploração Agrícola
-- Proteção do Ambiente
-- Política Agrícola Comum
-- Proteção Fitossanitária
-- Agricultor
+- Instituto Nacional de Intervenção e Garantia Agrícola
 - Madeira.região Autónoma
-- Regulamento CE
 - Pecuária
-- Açores
+- Política Agrícola Comum
+- Proteção do Ambiente
+- Proteção Fitossanitária
+- Regulamento CE
+- Saúde Pública
 - Subsídio
 relationships:
 - type: amended_by
   target: pt:dre:73576679:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:659154:por
+  label: "Alterado o anexo pela PORT.438/2006.08.05.2006.MAOTDR, DR.IS-B [88] de 08.05.2006\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/438-2006-659154
+  date: '2006-05-08'
+- type: amended_by
+  target: pt:dre:258085:por
+  label: "Alterados os art.s 1.º, 2.º, 3.º, 6.º, 7.º e 8.º , pela PORT.46/2013.04.02.2013.MAMAOT, DR.IS [24] de 04.02.2013\
+    \ \0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/46-2013-258085
+  date: '2013-02-04'
 - type: cites
   target: celex:32003R1782
   label: null
@@ -106,16 +117,21 @@ relationships:
   target: celex:32004R0796
   label: null
   source: http://data.europa.eu/eli/reg/2004/796/oj
+- type: repealed_by
+  target: pt:dre:66902699:por
+  label: Revogada, a partir de 07.04.2015, pelo(a) Portaria n.º 101/2015 - Diário da República n.º 65/2015, Série I de 2015-04-02
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/101-2015-66902699
+  date: '2015-04-02'
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:05:55Z'
   warnings: []
   errors: []
 ---
@@ -280,7 +296,7 @@ Entrada em vigor
 
 Em 17 de Dezembro de 2004.
 
-**O Ministro da Agricultura, Pescas e Florestas, Carlos Henrique da Costa Neves. - O Ministro do Ambiente e do Ordenamento do Território, Luís José de Mello e Castro Guedes.**
+O Ministro da Agricultura, Pescas e Florestas, Carlos Henrique da Costa Neves. - O Ministro do Ambiente e do Ordenamento do Território, Luís José de Mello e Castro Guedes.
 
 ## ANEXO — Organismos especializados de controlo e entidades nacionais responsáveis no âmbito da condicionalidade
 

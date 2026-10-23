@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/2s/2025/05/090000000/0050200502.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -46,18 +46,18 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/declaracao-retificacao/463-2025-917591430
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2025-05-12T00:00:00Z'
+  retrieved_at: '2026-10-23T14:59:22Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: f7b2306f5e2561ff5390a252b8abb250704229d44740603222cb3d983c1c8afa
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 28724fac12d3fd31082ac243db35c538e205c43622be14f8dc5455c168a03f77
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T14:59:22Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -65,17 +65,21 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects: []
-relationships: []
+relationships:
+- type: cites
+  target: pt:dre:901693782:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T14:59:22Z'
   warnings: []
   errors: []
 ---
@@ -87,3 +91,5 @@ Por ter saído com inexatidão no Diário da República, 2.ª série, n.º 1, de
 No uso das competências que me foram delegadas pelo Despacho n.º 88/PCM/2023, de 26 de julho, torna-se público que na sequência do despacho do Senhor Presidente da Câmara Municipal, de 22 de abril de 2025, é concedido novo prazo de candidaturas (10 dias úteis), no âmbito do procedimento concursal comum para constituição de reserva de recrutamento, para a carreira/categoria de assistente técnico, animador sociocultural, na modalidade de contrato de trabalho em funções públicas por tempo indeterminado, para o exercício de funções nos estabelecimentos de ensino dos Agrupamentos de Escolas do Município de Vila Nova de Gaia, proc.15/2024.
 
 24 de abril de 2025. - A Vereadora, Dr.ª Célia Correia.
+
+318984428

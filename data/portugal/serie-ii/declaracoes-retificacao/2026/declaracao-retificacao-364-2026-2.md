@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/2s/2026/04/083000000/0037200375.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -46,18 +46,18 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/declaracao-retificacao/364-2026-1095311400
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2026-04-29T00:00:00Z'
+  retrieved_at: '2026-10-23T15:04:04Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: adb71fe8eca1438ce15b54c02ca22a24adf5db69ee57e2fd9f0dee935237655f
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: d9ba38454f0b5a61087ef98a75914306b79ea5aa1464d7fa6417643711a7a85d
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:04:04Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -65,17 +65,21 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects: []
-relationships: []
+relationships:
+- type: cites
+  target: pt:dre:1088525745:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:04:04Z'
   warnings: []
   errors: []
 ---
@@ -244,9 +248,9 @@ Formação profissional:
 
 Experiência profissional:
 
-1999 - Arquiteto estagiário no Atelier Carlos Castanheira e Clara Bastai Arquitetos, L.<sup>da</sup>;
+1999 - Arquiteto estagiário no Atelier Carlos Castanheira e Clara Bastai Arquitetos, L.da;
 
-2004 - Arquiteto - sócio e fundador da empresa Traço Alternativo Arquitetos Associados, L.<sup>da</sup>;
+2004 - Arquiteto - sócio e fundador da empresa Traço Alternativo Arquitetos Associados, L.da;
 
 2006 - Coordenador do GTL (Gabinete Técnico Local) de Mondim de Basto;
 
@@ -257,3 +261,5 @@ Experiência profissional:
 2020 - Chefe da Divisão de Planeamento e Reabilitação Urbana na Câmara Municipal de Vila Nova de Gaia.»
 
 23 de abril de 2026. - A Vereadora, Dr.ª Carla Maria Rodrigues Costa.
+
+319991032

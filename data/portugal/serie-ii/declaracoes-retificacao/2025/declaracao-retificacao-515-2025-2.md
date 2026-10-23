@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/2s/2025/05/101000000/0016300163.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -47,18 +47,18 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/declaracao-retificacao/515-2025-919521039
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2025-05-27T00:00:00Z'
+  retrieved_at: '2026-10-23T14:59:39Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 6d0ec975783d9e18ea6f6d0bf2deccf5438587301d5a9f325cef6284e60519bf
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 2ec6a1f653fbf9b0318c637004142ad2e0852c83c3787870bfe1b8e931126c12
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T14:59:39Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -70,13 +70,13 @@ relationships: []
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T14:59:39Z'
   warnings: []
   errors: []
 ---
@@ -94,3 +94,5 @@ deve ler-se:
 «O presente procedimento concursal corresponde à candidatura ao programa FCT-Tenure aprovada com a referência 2023.15623.TENURE.041, no domínio científico de Ciências da Engenharia e da Tecnologia, na área científica Engenharia Mecânica, subárea científica Engenharia Mecânica (outro), e visa recrutar um candidato/a para desenvolver trabalho na área de Mecânica computacional; Processos de Fabrico; Robustez e otimização na modelação mecânica; Caracterização do comportamento tribológico e mecânico de materiais, no Centro de Engenharia Mecânica, Materiais e Processos - CEMMPRE.»
 
 21 de maio de 2025. - A Diretora do Serviço de Gestão de Recursos Humanos, Maria Helena Matos.
+
+319088715

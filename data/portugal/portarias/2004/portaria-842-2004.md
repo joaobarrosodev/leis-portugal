@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/842/2004/07/16/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/842-2004-527583
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2004-07-16T00:00:00Z'
+  retrieved_at: '2026-10-23T15:01:38Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: a9cd881cb7a1ee19ab3d6ca78c99e867f6817e7d22fc415bf78c76dbfa984e78
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 2a17d2ffc81e112c568d79428c16d441a9a2f2441a7ccea05a7808bb3ebaa31b
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:01:38Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,13 +66,20 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Plano de Estudos
+- Castelo Branco
 - Ensino Superior Politécnico
 - Escola Superior de Educação
 - Instituto Politécnico
 - Licenciatura
-- Castelo Branco
+- Plano de Estudos
 relationships:
+- type: amends
+  target: pt:numero:portaria:466-G/2000
+  label: "Altera a denominação do curso bietápico de licenciatura em Tradução e Secretariado ministrado pela Escola Superior\
+    \ de Educação do Instituto Politécnico de Castelo Branco, criado pela Portaria n.º 466-G/2000, de 21-Jul DR.IS-B [167]Supl\
+    \ e cujo plano de estudos foi aprovado pela Portaria n.º 728/2002, de 27-Jun\0\0"
+  source: null
+  date: '2000-07-21'
 - type: cites
   target: eli:http://data.dre.pt/eli/lei/115/1997/09/19/p/dre
   label: null
@@ -101,16 +108,56 @@ relationships:
   target: eli:http://data.dre.pt/eli/port/728/2002/06/27/p/dre
   label: null
   source: http://data.dre.pt/eli/port/728/2002/06/27/p/dre
+- type: cites
+  target: pt:dre:140120:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:147873:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:203474:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:222418:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:283353:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:429596:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:453184:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:556606:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:593710:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:653145:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:01:38Z'
   warnings: []
   errors: []
 ---
@@ -151,4 +198,4 @@ Entrada em vigor
 
 Esta portaria entra em vigor no dia imediato ao da sua publicação.
 
-**A Ministra da Ciência e do Ensino Superior, Maria da Graça Martins da Silva Carvalho, em 30 de Junho de 2004.**
+A Ministra da Ciência e do Ensino Superior, Maria da Graça Martins da Silva Carvalho, em 30 de Junho de 2004.

@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/2s/2026/03/063000000/0040300403.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -46,18 +46,18 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/declaracao-retificacao/262-2026-1080168121
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2026-03-31T00:00:00Z'
+  retrieved_at: '2026-10-23T15:03:28Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 2ba90ea3051db6bd33891658bbde0458e0d04b32a240891867c5f37de248d923
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: b694a7c47348c156d14570559d254017ca4db186485f9004ca80772445913e37
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:03:28Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -65,17 +65,25 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects: []
-relationships: []
+relationships:
+- type: cites
+  target: pt:dre:1070761749:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:490412:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:03:28Z'
   warnings: []
   errors: []
 ---
@@ -109,3 +117,5 @@ O local de trabalho é no Serviço de Medicina Intensiva Polivalente da Unidade 
 3 - Mantêm-se válidas todas as candidaturas apresentadas, podendo os candidatos, se assim o entenderem, entregar documentação complementar que eventualmente atualize ou acrescente elementos considerados relevantes para a apreciação das suas candidaturas.
 
 20 de março de 2026. - O Presidente do Conselho de Administração, Dr. Luís Filipe Ferreira da Cruz Matos.
+
+319980817

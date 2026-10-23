@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2004/05/119b00/32353236.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/541/2004/05/21/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/541-2004-270787
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2014-04-11T00:00:00Z'
+  retrieved_at: '2026-10-23T14:59:46Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 996870003651e5b5e3462dd6c5f1519b5d4ef473603635a44aa14dbcdbd6c3c2
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 79f30ab0c45132b8aa3b7f7e3672707817a54864fb3649638419ddddbeee3259
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T14:59:46Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,16 +66,29 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Transporte Aéreo
-- Instituto Nacional de Aviação Civil
 - Aviação Civil
+- Instituto Nacional de Aviação Civil
 - Segurança Aérea
 - Taxa Aeroportuária
+- Transporte Aéreo
 relationships:
 - type: amended_by
   target: pt:dre:25344032:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:483127:por
+  label: "Alterado o nº1, aditado um novo nº5 e renumerados os nºs 5 e 6, passando a constituir, respectivamente, os nºs 6\
+    \ e 7, pela PORT.1360/2009.27.10.2009.MFAP, DR.IS [208] de 27.10.2009\009\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/1360-2009-483127
+  date: '2009-10-27'
+- type: amended_by
+  target: pt:dre:673445:por
+  label: "Dada nova redacção, a partir de 29.07.2011, aos nºs 1, 5 e 6 (respectivamente, alterado, aditado e renumerado pela\
+    \ Port 1360/2009 de 27-Out); e renumerados, a partir daquela data, para nºs 7 e 8, os actuais nºs 5 e 6 do presente diploma\
+    \ pela PORT.213/2011.30.05.2011.MFAP, DR.IS [104] de 30.05.2011\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/213-2011-673445
+  date: '2011-05-30'
 - type: cites
   target: celex:32002R2320
   label: null
@@ -84,16 +97,22 @@ relationships:
   target: eli:http://data.dre.pt/eli/port/63/2003/01/20/p/dre
   label: null
   source: http://data.dre.pt/eli/port/63/2003/01/20/p/dre
+- type: repealed_by
+  target: pt:dre:25344032:por
+  label: "Revogada a presente Portaria, na redacção da Port 1360/2009, de 27-out, e Port 213/2011, de 30-maio, pela PORT.83/2014.11.04.2014.MAI,\
+    \ DR.IS [72] de 11.04.2014\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/83-2014-25344032
+  date: '2014-04-11'
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T14:59:46Z'
   warnings: []
   errors: []
 ---

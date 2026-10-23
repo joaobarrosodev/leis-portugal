@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2005/02/032b00/11161117.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/182/2005/02/15/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/182-2005-604201
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2005-09-23T00:00:00Z'
+  retrieved_at: '2026-10-23T15:04:46Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 86e6ca0b9ac06cd50bd5a3d81415bded4b59cb0e69f119ed1b2cda56c0f06174
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 0d018626fcb9b6a0e82e744a4822491f4993c44e8632aa10aed749823af53e21
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:04:46Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,9 +67,9 @@ reuse:
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
 - Assistência Médica
+- Doença
 - Forças Armadas
 - Militar
-- Doença
 relationships:
 - type: amended_by
   target: pt:dre:147854:por
@@ -107,16 +107,77 @@ relationships:
   target: eli:http://data.dre.pt/eli/leiorg/3/2001/08/29/p/dre
   label: null
   source: http://data.dre.pt/eli/leiorg/3/2001/08/29/p/dre
+- type: cites
+  target: pt:dre:243516:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:301668:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:311787:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:314194:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:348520:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:358115:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:374609:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:379327:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:393000:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:393396:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:401475:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:426744:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:631605:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:693590:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:147854:por
+  label: "Revogada pelo DEC LEI.167/2005.23.09.2005.MDN, DR.IS-A [184] de 23.09.2005\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/167-2005-147854
+  date: '2005-09-23'
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:04:46Z'
   warnings: []
   errors: []
 ---

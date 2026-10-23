@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/605/2004/06/03/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/605-2004-281185
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2004-06-03T00:00:00Z'
+  retrieved_at: '2026-10-23T15:00:10Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 4f077203ebcc67af8e172430378091977a1efb0922f0813be46a157e8ac37a4a
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 3cef4aab19242670aa26400439706b092481604f8337a9dd57ff8604e852ee2a
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:00:10Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,9 +66,9 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Ministério da Educação
 - Definição de Competências
 - Gabinete de Gestão Financeira
+- Ministério da Educação
 - Orgânica
 relationships:
 - type: cites
@@ -83,16 +83,28 @@ relationships:
   target: eli:http://data.dre.pt/eli/lei/4/2004/01/15/p/dre
   label: null
   source: http://data.dre.pt/eli/lei/4/2004/01/15/p/dre
+- type: cites
+  target: pt:dre:264678:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:432449:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:603475:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:00:10Z'
   warnings: []
   errors: []
 ---
@@ -139,4 +151,4 @@ b) Assegurar a correcta execução de salvaguarda de dados da gestão financeira
 
 Em 20 de Maio de 2004.
 
-**A Ministra de Estado e das Finanças, Maria Manuela Dias Ferreira Leite. - O Ministro da Educação, José David Gomes Justino.**
+A Ministra de Estado e das Finanças, Maria Manuela Dias Ferreira Leite. - O Ministro da Educação, José David Gomes Justino.

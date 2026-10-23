@@ -21,12 +21,12 @@ publication:
   reference: Diário da República n.º 146/2004, 1º Suplemento, Série I-B de 2004-06-23
   number: '146'
   series: I
-  supplement: 1º Suplemento
+  supplement: null
   pages: 3842-(2) a 3842-(3)
   pdf_url: https://files.diariodarepublica.pt/1s/2004/06/146b01/00020003.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -48,18 +48,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/691-a/2004/06/23/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/691-a-2004-145976
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2016-09-07T00:00:00Z'
+  retrieved_at: '2026-10-23T15:00:40Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 8c95439c97fa60f7b3f2e068210fc038357f80027d8c81f94af90350ae6ff44b
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 1b73936f38c2d8063330385471439c58f8e44ceec7d0951eab9e3f0308bb22d2
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:00:40Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,12 +67,12 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- PSP
+- Avaliação de Conhecimentos
+- Estatuto
 - Formação Profissional
 - Pessoal Dirigente
-- Estatuto
+- PSP
 - Qualificação Profissional
-- Avaliação de Conhecimentos
 relationships:
 - type: amended_by
   target: pt:dre:75272773:por
@@ -102,16 +102,45 @@ relationships:
   target: eli:http://data.dre.pt/eli/port/619/2004/06/04/p/dre
   label: null
   source: http://data.dre.pt/eli/port/619/2004/06/04/p/dre
+- type: cites
+  target: pt:dre:278033:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:280555:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:314192:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:493702:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:578727:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:643086:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:75272773:por
+  label: Revogada pelo(a) Portaria n.º 245/2016 - Diário da República n.º 172/2016, Série I de 2016-09-07
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/245-2016-75272773
+  date: '2016-09-07'
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:00:40Z'
   warnings: []
   errors: []
 ---
@@ -252,7 +281,7 @@ Revogação
 
 É revogada a [Portaria n.º 619/2004](https://diariodarepublica.pt/dr/detalhe/portaria/619-2004-280555), de 4 de Junho.
 
-**O Ministro da Administração Interna, António Jorge de Figueiredo Lopes, em 8 de Junho de 2004.**
+O Ministro da Administração Interna, António Jorge de Figueiredo Lopes, em 8 de Junho de 2004.
 
 ## ANEXO — (a que se refere o n.º 5.º)
 

@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/2s/2025/08/160000001/0000200003.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -46,18 +46,18 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/declaracao-retificacao/791-a-2025-933008866
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2025-08-21T00:00:00Z'
+  retrieved_at: '2026-10-23T15:01:21Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: d0eb1011983437ea2f7c2338ee0fb6d1cce9bb3483a7a88745a1ffcc5915e115
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 7734e30d62aeccfc9339927ef48165bc2be982e5cb51b2b25ef30b3e884dc512
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:01:21Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -65,17 +65,21 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects: []
-relationships: []
+relationships:
+- type: cites
+  target: pt:dre:932716820:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:01:21Z'
   warnings: []
   errors: []
 ---
@@ -155,3 +159,5 @@ Referência A8 a Referência A10: Dr.ª Paula Felgueiras, Diretora Clínica para
 Mais se torna público que o prazo concedido de 10 dias úteis para a apresentação de candidaturas, no âmbito dos referidos procedimentos concursais, inicia a sua contagem a partir da data da publicitação na Bolsa de Emprego Público (BEP) da presente declaração de retificação, após nova publicação no Diário da República.
 
 20 de agosto de 2025. - A Vogal Executiva do Conselho de Administração, Lúcia Cerqueira.
+
+319452648

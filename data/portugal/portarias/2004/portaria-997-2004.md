@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/997/2004/08/09/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/997-2004-515408
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2009-09-09T00:00:00Z'
+  retrieved_at: '2026-10-23T15:02:30Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: b638eb498122e65757ae7454612bbbb9f429bbd73c49d1e7a2b67a059fa94ea2
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 9ca6f1e70487393faa1d6e123be9f82a72cb67d6d68ca029951f8fbd4916b494
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:02:30Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -74,6 +74,19 @@ relationships:
   target: pt:dre:489985:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:518610:por
+  label: "Anexados vários prédios rústicos à zona de caça atribuída pela Port 1011/2003 de 18-Set, com a redacção dada no\
+    \ presente diploma, pela PORT.290/2007.16.03.2007.MADRP, DR.IS [54] de 16.03.2007\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/290-2007-518610
+  date: '2007-03-16'
+- type: amended_by
+  target: pt:dre:489985:por
+  label: "Renovadas, por um período de seis anos, a partir de 19.09.2009, a concessão da zona de caça e respectiva transferência\
+    \ de gestão atribuídas pela Port 1011/2003 de 18-Set, com as alterações constantes deste diploma, pela PORT.1015/2009.09.09.2009.MADRP,\
+    \ DR.IS [175] de 09.09.2009\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/1015-2009-489985
+  date: '2009-09-09'
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/227-b/2000/09/15/p/dre
   label: null
@@ -86,16 +99,28 @@ relationships:
   target: eli:http://data.dre.pt/eli/port/1011/2003/09/18/p/dre
   label: null
   source: http://data.dre.pt/eli/port/1011/2003/09/18/p/dre
+- type: cites
+  target: pt:dre:496963:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:534644:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:536243:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:02:30Z'
   warnings: []
   errors: []
 ---

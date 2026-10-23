@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/314/2005/03/28/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/314-2005-566044
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2005-03-28T00:00:00Z'
+  retrieved_at: '2026-10-23T15:05:37Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: ffef2efd0806664aca41f80c4110844a3a242a48fe12f67ef804a9823a904a8f
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 9b4450cc56cfad4570abaa1e810b129612857545788a30f365fde6e296268ce4
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:05:37Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,16 +66,16 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
+- Agricultura
+- Exploração Agrícola
 - Financiamento
-- Projeto de Investimento
 - Jovem Agricultor
 - Lisboa e Vale do Tejo
-- Exploração Agrícola
+- Programa AGRO
+- Projeto de Investimento
 - QCA III
 - Região Agrária
 - Regime de Apoio
-- Programa AGRO
-- Agricultura
 relationships:
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/163-a/2000/07/27/p/dre
@@ -89,16 +89,28 @@ relationships:
   target: eli:http://data.dre.pt/eli/port/811/2004/07/15/p/dre
   label: null
   source: http://data.dre.pt/eli/port/811/2004/07/15/p/dre
+- type: cites
+  target: pt:dre:220892:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:527201:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:619751:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:05:37Z'
   warnings: []
   errors: []
 ---
@@ -121,4 +133,4 @@ a) Às candidaturas apresentadas no âmbito do convite a que se refere o artigo 
 
 b) Às candidaturas aos apoios previstos no mesmo Regulamento para investimentos nas explorações agrícolas e instalação de jovens agricultores desde que os respectivos investimentos sejam desenvolvidos nas áreas abrangidas pelos projectos aprovados no âmbito do convite referido na alínea anterior.
 
-**O Ministro da Agricultura, Pescas e Florestas, Carlos Henrique da Costa Neves, em 22 de Fevereiro de 2005.**
+O Ministro da Agricultura, Pescas e Florestas, Carlos Henrique da Costa Neves, em 22 de Fevereiro de 2005.

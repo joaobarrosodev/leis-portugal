@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/2s/2025/01/014000000/0057000570.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -46,18 +46,18 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/declaracao-retificacao/56-2025-904363745
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2025-01-21T00:00:00Z'
+  retrieved_at: '2026-10-23T14:59:56Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 8ac57af73f0875b041d8f7955f7f20c0f8da77cd6e7f7c40f0ac859ce0853966
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: d185130de6bb38fe72be49c0bbb907843400d8fc58187ba1a5788784fd2c9c94
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T14:59:56Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -69,13 +69,13 @@ relationships: []
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T14:59:56Z'
   warnings: []
   errors: []
 ---
@@ -87,3 +87,5 @@ Retificação ao Edital n.º 63/2025, inserto no Diário da República, 2.ª sé
 Por ter saído com inexatidão o Edital n.º 63/2025, publicado no Diário da República, 2.ª série, n.º 8, de 13 de janeiro de 2025, referente à aprovação da tabela de taxas e outras receitas - ano 2025, retifica-se que onde se lê «pelo INE (1.020 %) deve ler-se «pelo INE (1.020)».
 
 14 de janeiro de 2025. - A Presidente da Câmara Municipal, Dr.ª Cristina Vieira.
+
+318566646

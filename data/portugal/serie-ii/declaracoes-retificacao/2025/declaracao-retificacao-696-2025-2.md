@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/2s/2025/07/145000000/0063600636.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -46,18 +46,18 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/declaracao-retificacao/696-2025-927098248
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2025-07-30T00:00:00Z'
+  retrieved_at: '2026-10-23T15:00:48Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 3441f5f3f9b54911439657c06e71b4b281f48233dad08bd54e7a1bfa28c3a99c
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 0f804a029b106843752977cf35481f939a3afa44b884ef2b76d7569337472c87
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:00:48Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -65,17 +65,21 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects: []
-relationships: []
+relationships:
+- type: cites
+  target: pt:dre:925222831:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:00:48Z'
   warnings: []
   errors: []
 ---
@@ -85,3 +89,5 @@ validation:
 António Rui de Sousa Godinho Sampaio, presidente da Câmara Municipal de Góis, torna público que, por ter saído com inexatidão o [Aviso n.º 17726/2025/2](https://diariodarepublica.pt/dr/detalhe/aviso/17726-2025-925222831) no Diário da República, 2.ª série, n.º 136, de 17 de julho de 2025, referente à aprovação do Plano Municipal de Emergência de Proteção Civil de Góis, retifica-se o 3.º parágrafo, que, onde se lê «O Plano Municipal de Emergência de Emergência de Proteção Civil de Góis,» deve ler-se «O Plano Municipal de Emergência de Proteção Civil de Góis,».
 
 18 de julho de 2025. - O Presidente da Câmara Municipal, António Rui de Sousa Godinho Sampaio.
+
+319328726

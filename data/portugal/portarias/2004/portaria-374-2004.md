@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/374/2004/04/13/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/374-2004-219092
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2004-04-13T00:00:00Z'
+  retrieved_at: '2026-10-23T14:58:50Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 3d910946d65663bb0e3551c22b92b928fd1508e53a503ecd77f6d6f41dfeadd4
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 90497e122b4d9341501c7be82ceb9a17d86f41f23579446992643d29171fb5f0
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T14:58:50Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -76,16 +76,20 @@ relationships:
   target: eli:http://data.dre.pt/eli/dec-lei/304/2003/12/09/p/dre
   label: null
   source: http://data.dre.pt/eli/dec-lei/304/2003/12/09/p/dre
+- type: cites
+  target: pt:dre:429175:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T14:58:50Z'
   warnings: []
   errors: []
 ---
@@ -116,7 +120,7 @@ Manda o Governo, pelo Ministro Adjunto do Primeiro-Ministro, o seguinte:
 
 7.º A presente portaria entra em vigor no dia imediatamente seguinte ao da sua publicação.
 
-**O Ministro Adjunto do Primeiro-Ministro, José Luís Fazenda Arnaut Duarte, em 26 de Março de 2004.**
+O Ministro Adjunto do Primeiro-Ministro, José Luís Fazenda Arnaut Duarte, em 26 de Março de 2004.
 
 ## ANEXO — Presidência do Conselho de Ministros
 
@@ -138,6 +142,6 @@ Lisboa, ... de ... de ...
 
 Pela Comissão Executiva,
 
-**O Presidente, ...**
+O Presidente, ...
 
 (selo branco)

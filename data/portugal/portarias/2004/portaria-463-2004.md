@@ -48,18 +48,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/463/2004/05/04/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/463-2004-302102
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2023-10-02T00:00:00Z'
+  retrieved_at: '2026-10-23T14:59:20Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: cea50eb9838b4d8724784b349520ca9538b139275c5985c3c4fbc09e613960ec
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 51faf9e8643075835f5864a164a1cc31f648b229e3d4540ab39eb6e633383afc
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T14:59:20Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -68,11 +68,11 @@ reuse:
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
 - Código dos Impostos Especiais de Consumo
-- Política Fiscal
-- Decisão CE
-- Produto Petrolífero
 - Combustível
+- Decisão CE
 - Gasóleo
+- Política Fiscal
+- Produto Petrolífero
 relationships:
 - type: amended_by
   target: pt:dre:222283514:por
@@ -93,13 +93,13 @@ relationships:
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T14:59:20Z'
   warnings: []
   errors: []
 ---
@@ -124,4 +124,4 @@ Manda o Governo, pela Ministra de Estado e das Finanças, ao abrigo do n.º 1 do
 
 3.º A marcação e a coloração do petróleo, classificado pelo código NC 2710 19 25, previstas no n.º 1 do artigo 74.º do Código dos Impostos Especiais de Consumo, serão feitas, por cada 1000 l de produto, com um mínimo de 6 g e um máximo de 9 g do marcador N-etil-N-[2-(1-isobutoxietoxi)etil]-4-(fenilazo)anilina (identificação no Colour Index: solvent yellow 124; número CAS 34432-92-3) e com um mínimo de 4 g de um corante vermelho que origine no petróleo uma cor avermelhada.»
 
-**A Ministra de Estado e das Finanças, Maria Manuela Dias Ferreira Leite, em 15 de Abril de 2004.**
+A Ministra de Estado e das Finanças, Maria Manuela Dias Ferreira Leite, em 15 de Abril de 2004.

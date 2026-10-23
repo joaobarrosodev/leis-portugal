@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/492/2004/05/05/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/492-2004-301817
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2010-08-16T00:00:00Z'
+  retrieved_at: '2026-10-23T14:59:30Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 2ad005a4cd56ba73404ff324df88088e1a7adee6b4ae56f2bda8f02d5fafeb8f
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: ecbbc497240fc4a28ec156edb15f5bb03edae50cfaf4d4bcc5e392ab2866e06b
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T14:59:30Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -74,6 +74,18 @@ relationships:
   target: pt:dre:343155:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:540404:por
+  label: "Anexados vários prédios rústicos à zona de caça concessionada pela Port 537/91 de 22-Jun, alterada pelo presente\
+    \ diploma, pela Port.888/2006.01.09.2006.MADRP, DR.IS [169] de 01.09.2006\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/888-2006-540404
+  date: '2006-09-01'
+- type: amended_by
+  target: pt:dre:343155:por
+  label: "Renovada por dez anos a concessão da zona de caça atribuída pela Port 537/91, de 22-Jun, na redacção do presente\
+    \ diploma, pela PORT.696/2010.16.08.2010.MADRP, DR.IS [158] de 16.08.2010\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/696-2010-343155
+  date: '2010-08-16'
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/227-b/2000/09/15/p/dre
   label: null
@@ -94,16 +106,36 @@ relationships:
   target: eli:http://data.dre.pt/eli/port/45/2004/01/14/p/dre
   label: null
   source: http://data.dre.pt/eli/port/45/2004/01/14/p/dre
+- type: cites
+  target: pt:dre:407560:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:434640:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:534644:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:536243:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:603031:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T14:59:30Z'
   warnings: []
   errors: []
 ---

@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/2s/2026/02/029000000/0022200222.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -47,18 +47,18 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/declaracao-retificacao/114-2026-1045579716
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2026-02-11T00:00:00Z'
+  retrieved_at: '2026-10-23T15:02:38Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 5b405456bca0a47a8900afda815498d7ff79dc51012f88bd94223155f8e8beda
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 659d096741a8e4cafd8cd9096ce431403a1e3618ca3169b8b60916a08e878ac7
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:02:38Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,17 +66,21 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects: []
-relationships: []
+relationships:
+- type: cites
+  target: pt:dre:603476:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:02:38Z'
   warnings: []
   errors: []
 ---
@@ -92,3 +96,5 @@ deve ler-se:
 «Nos termos e para os efeitos do disposto no artigo 23.º do Estatuto do Pessoal Dirigente dos Serviços e Organismos da Administração Pública, aprovada pela [Lei n.º 2/2004](https://diariodarepublica.pt/dr/detalhe/lei/2-2004-603476), de 15 de janeiro, na sua redação atual, e ao abrigo da alínea j) do n.º 1 do artigo 38.º dos Estatutos do Instituto Politécnico de Viseu, torna-se público que o presidente do Instituto Politécnico de Viseu, por despacho de 20 de outubro de 2025, autorizou a renovação da comissão de serviço do licenciado Carlos Alberto Vieira da Silva, como dirigente intermédio de 1.º grau, no cargo de diretor de serviços dos Serviços Técnicos da Escola Superior de Tecnologia e Gestão de Viseu, do Instituto Politécnico de Viseu, pelo período de três anos, com efeitos a 4 de novembro de 2025.»
 
 26 de janeiro de 2026. - A Administradora do Instituto Politécnico de Viseu, Carla Arminda Resende Coimbra.
+
+319958416

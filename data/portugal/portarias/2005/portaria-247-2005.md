@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/247/2005/03/09/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/247-2005-591742
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2008-07-11T00:00:00Z'
+  retrieved_at: '2026-10-23T15:05:14Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 7b06d6551b1813e5e21faa1afabd007d57a6b3a009a7d00bb051e8ea978342f0
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: f4f970c6949f97fbfce33ef9cf593f537cec3c4b0b9169f0c6ceb0ae4939e692
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:05:14Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,15 +66,15 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Ensino Artístico
-- Formação Profissional
 - Definição de Competências
 - Direcção Geral dos Recursos Humanos da Educação
+- Ensino Artístico
+- Ensino Superior
 - Ensino Superior Politécnico
+- Formação Profissional
+- Ministro da Educação
 - Pessoal Docente
 - Qualificação Profissional
-- Ensino Superior
-- Ministro da Educação
 relationships:
 - type: amended_by
   target: pt:dre:456559:por
@@ -92,16 +92,32 @@ relationships:
   target: eli:http://data.dre.pt/eli/lei/16-a/2002/05/31/p/dre
   label: null
   source: http://data.dre.pt/eli/lei/16-a/2002/05/31/p/dre
+- type: cites
+  target: pt:dre:309481:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:432449:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:452686:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:533809:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:05:14Z'
   warnings: []
   errors: []
 ---
@@ -170,4 +186,4 @@ c) As unidades de crédito referidas na alínea anterior deverão estar obrigato
 
 11.º A presente portaria entra em vigor no dia imediato ao da sua publicação.
 
-**A Ministra da Educação, Maria do Carmo Félix da Costa Seabra, em 18 de Fevereiro de 2005.**
+A Ministra da Educação, Maria do Carmo Félix da Costa Seabra, em 18 de Fevereiro de 2005.

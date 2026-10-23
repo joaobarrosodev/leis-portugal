@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2004/01/017b00/03900391.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/80/2004/01/21/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/80-2004-607078
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2010-12-03T00:00:00Z'
+  retrieved_at: '2026-10-23T15:01:24Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: c5be4cf5bf7506af9c4da9686d20941691c093ffcbc220a791377cf9cb945405
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 12a28b5f3decb3efc8b535ab5f6ff332a657295184104039af7f04732824d569
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:01:24Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -73,6 +73,31 @@ relationships:
   target: pt:dre:306641:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:306641:por
+  label: "Alterados os arts. 8.º-A e 13.º do Regulamento da Pesca no Rio Lima, aprovado pela Port 561/90, de 19-Jul, na redacção\
+    \ do presente diploma, republicado pela PORT.1220/2010.03.12.2010.MADRP, DR.IS [234] de 03.12.2010\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/1220-2010-306641
+  date: '2010-12-03'
+- type: amended_by
+  target: pt:dre:105750648:por
+  label: Alterado o art. 13.º do Regulamento da Pesca no Rio Lima, aprovado pela Port 561/90, de 19-jul, na redação do presente
+    diploma, pelo(a) Portaria n.º 23/2017 - Diário da República n.º 9/2017, Série I de 2017-01-12
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/23-2017-105750648
+  date: '2017-01-12'
+- type: amended_by
+  target: pt:dre:114908240:por
+  label: Alterado o art. 13.º do Regulamento da Pesca no Rio Lima, aprovado pela Port 561/90, de 19-jul, na redação do presente
+    diploma, pelo(a) Portaria n.º 82/2018 - Diário da República n.º 59/2018, Série I de 2018-03-23
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/82-2018-114908240
+  date: '2018-03-23'
+- type: amended_by
+  target: pt:dre:117506444:por
+  label: Alterados as als. a) e b) do n.º 1 e os n.ºs 2, 3 e 4 do art. 13.º do Regulamento da Pesca no Rio Lima, aprovado
+    pela Port 561/90 de 19-jul, com a redação dada pelo presente diploma, pelo(a) Portaria n.º 1/2019 - Diário da República
+    n.º 1/2019, Série I de 2019-01-02
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/1-2019-117506444
+  date: '2019-01-02'
 - type: cites
   target: eli:http://data.dre.pt/eli/decregul/7/2000/05/30/p/dre
   label: null
@@ -85,16 +110,36 @@ relationships:
   target: eli:http://data.dre.pt/eli/port/38-b/2001/01/17/p/dre
   label: null
   source: http://data.dre.pt/eli/port/38-b/2001/01/17/p/dre
+- type: cites
+  target: pt:dre:213796:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:292958:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:420460:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:431465:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:572897:por
+  label: null
+  source: null
 article_structure:
-  article_count: 4
+  article_count: 2
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:01:24Z'
   warnings: []
   errors: []
 ---
@@ -125,13 +170,17 @@ Pesca do sável com tresmalho
 
 2 - A utilização desta arte apenas é permitida entre a linha norte-sul que passa pelo cais da Barca do Porto (estrada de acesso ao restaurante «Quinta de São Miguel», em Serraleis) e a linha norte-sul que passa pela estradinha do Deão.
 
-###### Artigo 8.º-A — Pesca de lampreia com tresmalho
+Artigo 8.º-A
+
+Pesca de lampreia com tresmalho
 
 1 - A utilização de tresmalho de lampreia apenas é permitida a montante da linha que passa pela marina nova e é paralela à Ponte Velha.
 
 ...
 
-###### Artigo 11.º-A — Funcionamento dos turnos de tresmalho de lampreia
+Artigo 11.º-A
+
+Funcionamento dos turnos de tresmalho de lampreia
 
 O exercício da pesca com tresmalho para a captura de lampreia, no sistema de turnos, fica sujeito aos seguintes condicionalismos:
 
@@ -181,7 +230,7 @@ Artes de pesca autorizadas
 
 n) Botilhão (para a captura de enguia).
 
-## ANEXO I
+ANEXO I
 
 ...
 

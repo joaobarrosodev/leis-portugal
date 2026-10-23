@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/2s/2025/05/097000000/0046600467.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -46,18 +46,18 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/declaracao-retificacao/496-2025-918822942
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2025-05-21T00:00:00Z'
+  retrieved_at: '2026-10-23T14:59:32Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: f4fceaa680943829a6b776bec2c7fe8d9eef0d18363cb32659acd9f5c39584a1
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: a5a1758145a270d4cba71db9b75fa70993e0487b02350922c96a1fdab8fbade1
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T14:59:32Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -65,17 +65,21 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects: []
-relationships: []
+relationships:
+- type: cites
+  target: pt:dre:836222484:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T14:59:32Z'
   warnings: []
   errors: []
 ---
@@ -102,7 +106,7 @@ No n.º 2.4 da secção v do capítulo ix do anexo vii/1 do Código Regulamentar
 
 No n.º 1.3 da secção vi do capítulo ix do anexo vii/1 do Código Regulamentar do Município de Amarante - Tabela Geral de Taxas, onde se lê «Resposta à comunicação, para utilização após operação urbanística sujeita a controlo prévio, para pedido de elementos» deve ler-se «Resposta à comunicação, para utilização após operação urbanística sujeita a controlo prévio»;
 
-No n.º 5.1.4 da secção xiii do capítulo ix do anexo vii/1 do Código Regulamentar do Município de Amarante - Tabela Geral de Taxas, onde se lê «Acresce, na legalização de obras de construção, reconstrução e ampliação, por m² de área destinada a:» deve ler-se «Acresce, na legalização de obras de construção, reconstrução e ampliação, quando sujeita a licença, pela apreciação ou reapreciação do pedido e os valores indicados nas alíneas infra, sendo que, quando sujeita a comunicação prévia, em face da comunicação, apenas o valor constante das alíneas seguintes, por m<sup>2</sup> de área destinada a:»;
+No n.º 5.1.4 da secção xiii do capítulo ix do anexo vii/1 do Código Regulamentar do Município de Amarante - Tabela Geral de Taxas, onde se lê «Acresce, na legalização de obras de construção, reconstrução e ampliação, por m² de área destinada a:» deve ler-se «Acresce, na legalização de obras de construção, reconstrução e ampliação, quando sujeita a licença, pela apreciação ou reapreciação do pedido e os valores indicados nas alíneas infra, sendo que, quando sujeita a comunicação prévia, em face da comunicação, apenas o valor constante das alíneas seguintes, por m2 de área destinada a:»;
 
 No n.º 5.2 da secção xiii do capítulo ix do anexo vii/1 do Código Regulamentar do Município de Amarante - Tabela Geral de Taxas, onde se lê «Acresce ao montante previsto 5.1.4 nas obras de alteração ou conservação:» deve ler-se «Acresce ao montante previsto no n.º 5.1.4 nas obras de alteração, de demolição ou de conservação e ainda legalização de remodelação de terrenos:».
 
@@ -111,3 +115,5 @@ A tabela de taxas com as correções agora efetuadas encontra-se disponível no 
 https://www.cm-amarante.pt/municipio/camara-municipal/impostos-e-taxas/.
 
 5 de maio de 2025. - O Presidente da Câmara Municipal, António Jorge Vieira Ricardo.
+
+319008249

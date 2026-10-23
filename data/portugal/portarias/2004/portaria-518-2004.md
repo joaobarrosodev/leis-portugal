@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2004/05/118b00/31703171.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/518/2004/05/20/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/518-2004-270426
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2009-01-19T00:00:00Z'
+  retrieved_at: '2026-10-23T14:59:40Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 550139aade336bcb5a3bef1c7203f98aaba9da7bd675f23ad7acb422fa28198a
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 84910bdbe6ebf9925f538b3c8f407f7c7f867d17638af38b263a5c41a5162e9a
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T14:59:40Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,15 +67,15 @@ reuse:
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
 - Associação de Consumidores
-- Estabelecimento Comercial
+- Comércio
 - Comércio a Retalho
 - Comércio por Grosso
-- Definição de Competências
 - Comissão
+- Definição de Competências
+- Estabelecimento Comercial
 - Instalação de Serviços
 - Instituto do Consumidor
 - Licenciamento
-- Comércio
 relationships:
 - type: amended_by
   target: pt:dre:602685:por
@@ -85,16 +85,26 @@ relationships:
   target: eli:http://data.dre.pt/eli/lei/12/2004/03/30/p/dre
   label: null
   source: http://data.dre.pt/eli/lei/12/2004/03/30/p/dre
+- type: cites
+  target: pt:dre:217164:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:602685:por
+  label: "Revogada, a partir de 19.04.2009, pelo DEC LEI.21/2009.19.01.2009.MEI, DR.IS [12] de 19.01.2009, nos termos do n.º\
+    \ 2 do seu artigo 27.º \0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/21-2009-602685
+  date: '2009-01-19'
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T14:59:40Z'
   warnings: []
   errors: []
 ---
@@ -191,4 +201,4 @@ Entrada em vigor
 
 A presente portaria entra em vigor no dia seguinte ao da sua publicação.
 
-**O Ministro da Economia, Carlos Manuel Tavares da Silva, em 26 de Abril de 2004.**
+O Ministro da Economia, Carlos Manuel Tavares da Silva, em 26 de Abril de 2004.

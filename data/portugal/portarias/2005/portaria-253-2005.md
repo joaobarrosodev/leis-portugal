@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/253/2005/03/14/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/253-2005-575306
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2005-03-14T00:00:00Z'
+  retrieved_at: '2026-10-23T15:05:16Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 50ee4a09ddb930a80620e8f50af7f7c1a965a2ed28a34cc49826f2b975ec3e0c
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 853142be69bc649abf33ac1d405dcdd3d091f2120cdb9df7a8a9e0dda41618d9
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:05:16Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -65,14 +65,14 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Meteorologia
+- Açores
 - Definição de Competências
 - Delegação Regional
 - Instituto de Meteorologia
 - Instituto Público
 - Madeira.região Autónoma
+- Meteorologia
 - Regulamento Interno
-- Açores
 relationships:
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/125/1999/04/20/p/dre
@@ -86,16 +86,28 @@ relationships:
   target: eli:http://data.dre.pt/eli/lei/3/2004/01/15/p/dre
   label: null
   source: http://data.dre.pt/eli/lei/3/2004/01/15/p/dre
+- type: cites
+  target: pt:dre:500054:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:534998:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:603478:por
+  label: null
+  source: null
 article_structure:
   article_count: 29
-  section_count: 6
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  section_count: 11
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:05:16Z'
   warnings: []
   errors: []
 ---
@@ -118,7 +130,7 @@ Manda o Governo, pelos Ministros das Finanças e da Administração Pública e d
 
 Em 10 de Fevereiro de 2005.
 
-**O Ministro das Finanças e da Administração Pública, António José de Castro Bagão Félix. - A Ministra da Ciência, Inovação e Ensino Superior, Maria da Graça Martins da Silva Carvalho.**
+O Ministro das Finanças e da Administração Pública, António José de Castro Bagão Félix. - A Ministra da Ciência, Inovação e Ensino Superior, Maria da Graça Martins da Silva Carvalho.
 
 ## ANEXO — REGULAMENTO INTERNO DO INSTITUTO DE METEOROLOGIA, I. P.
 
@@ -364,7 +376,9 @@ i) Elaborar estudos nos domínios de geomagnetismo, paleomagnetismo, gravimetria
 
 j) Colaborar na formação especializada na área da geofísica.
 
-###### Artigo 14.º — Divisão de Planeamento e Gestão Financeira
+###### Artigo 14.º
+
+##### Divisão de Planeamento e Gestão Financeira
 
 A Divisão de Planeamento e Gestão Financeira (PLGF) é dirigida por um chefe de divisão, a quem compete coordenar a actividade dos núcleos que a constituem:
 
@@ -414,7 +428,9 @@ l) Organizar e manter actualizados o cadastro e o inventário dos meios móveis;
 
 m) Proceder ao arquivo de toda a documentação.
 
-###### Artigo 17.º — Divisão de Recursos Humanos
+###### Artigo 17.º
+
+##### Divisão de Recursos Humanos
 
 A Divisão de Recursos Humanos (REHM) é dirigida por um chefe de divisão, a quem compete:
 
@@ -442,7 +458,9 @@ l) Promover a divulgação pelos departamentos, serviços e delegações regiona
 
 m) Organizar e manter actualizado o arquivo geral, os processos individuais e o registo dos cartões de identificação do pessoal do IM.
 
-###### Artigo 18.º — Divisão de Gestão do Equipamento
+###### Artigo 18.º
+
+##### Divisão de Gestão do Equipamento
 
 1 - A Divisão de Gestão do Equipamento (GEQM) é dirigida por um chefe de divisão, a quem compete coordenar a actividade dos núcleos que a constituem:
 
@@ -482,7 +500,9 @@ g) Executar todas as acções decorrentes da aplicação da política das tecnol
 
 h) Colaborar na elaboração do plano de informática e de comunicações do IM.
 
-###### Artigo 19.º — Divisão de Relações Externas
+###### Artigo 19.º
+
+##### Divisão de Relações Externas
 
 A Divisão de Relações Externas (REXT) é dirigida por um chefe de divisão, a quem compete:
 
@@ -508,7 +528,9 @@ j) Promover e assegurar o relacionamento do IM com os meios de comunicação soc
 
 l) Gerir a comunicação institucional do IM através do respectivo portal.
 
-###### Artigo 20.º — Divisão de Gestão Comercial
+###### Artigo 20.º
+
+##### Divisão de Gestão Comercial
 
 À Divisão de Gestão Comercial (GECO), dirigida por um chefe de divisão, compete:
 

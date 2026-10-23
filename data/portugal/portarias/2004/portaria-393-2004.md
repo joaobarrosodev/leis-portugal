@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2004/04/090b00/23202324.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/393/2004/04/16/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/393-2004-223825
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2010-06-14T00:00:00Z'
+  retrieved_at: '2026-10-23T14:58:55Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: d7d20acb0c2e9ce11b3c4b46584ed70b519ecc2626a0e43fc8dc9b1d1e870b91
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: c11fbb937125c445aea632d2cedf06968043ff26ddc706f6a314b3ce657ceb6a
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T14:58:55Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -74,20 +74,41 @@ relationships:
   target: pt:dre:335414:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:507230:por
+  label: "Aditado o nº 2º-A pela PORT.944/2004.27.07.2004.MCOTA, DR.IS-B [175] de 27.07.2004\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/944-2004-507230
+  date: '2004-07-27'
+- type: amended_by
+  target: pt:dre:522659:por
+  label: "Aditado um nº 6 ao ponto III do anexo \"Tabela de taxas\" do presente diploma pela PORT.107/2007.23.01.2007.MAOTDR,\
+    \ DR.IS [16] de 23.01.2007\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/107-2007-522659
+  date: '2007-01-23'
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/104/2003/05/23/p/dre
   label: null
   source: http://data.dre.pt/eli/dec-lei/104/2003/05/23/p/dre
+- type: cites
+  target: pt:dre:540841:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:335414:por
+  label: "Revogado o presente diploma, a partir de 01.07.2010, na redacção da Port 944/2004, de 27-Jul, pela PORT.314/2010.14.06.2010.MAOT,\
+    \ DR.IS [113] de 14.06.2010\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/314-2010-335414
+  date: '2010-06-14'
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T14:58:55Z'
   warnings: []
   errors: []
 ---
@@ -144,7 +165,7 @@ d) A classificação do empreendimento, a superfície total do terreno, as área
 
 12.º A presente portaria entra em vigor no dia seguinte ao da data da sua publicação.
 
-**O Ministro das Cidades, Ordenamento do Território e Ambiente, Amílcar Augusto Contel Martins Theias, em 9 de Março de 2004.**
+O Ministro das Cidades, Ordenamento do Território e Ambiente, Amílcar Augusto Contel Martins Theias, em 9 de Março de 2004.
 
 ## ANEXO — Tabela de taxas
 

@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/2s/2025/06/116000000/0007900080.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -46,36 +46,61 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/declaracao-retificacao/564-2025-921730222
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2025-06-18T00:00:00Z'
+  retrieved_at: '2026-10-23T14:59:57Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: d0673f4b273ff1074452bc29266859d8b29d75639bab1ac449c3e09dbd1d67c9
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 4191ed365581634d47794550af4d798aedfe6d29a3e42280e4e14c148568993e
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T14:59:57Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
-relationships: []
+subjects:
+- Admissão de Estrangeiros
+- Cidadão Estrangeiro
+- Comissão Nacional de Acesso ao Ensino Superior
+- Ensino no Estrangeiro
+- Ensino Secundário
+- Ensino Superior
+- Equivalência de Habilitações Literárias
+relationships:
+- type: cites
+  target: pt:dre:173481:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:910331589:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:918884641:por
+  label: null
+  source: null
+- type: corrects
+  target: pt:numero:deliberacao:674/2025
+  label: Retifica as páginas 10, 17 e 18 da Deliberação n.º 674/2025, de 22 de maio, Diário da República n.º 98/2025, Série
+    II
+  source: null
+  date: '2025-05-22'
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T14:59:57Z'
   warnings: []
   errors: []
 ---
@@ -98,13 +123,13 @@ deve ler-se:
 
 | 19 MATEMÁTICA A | ESPANHA | MATEMÁTICAS II | Todas as Instituições de Ensino Superior Público e Estabelecimentos de Ensino Superior Privado |
 | --- | --- | --- | --- |
-| 19 MATEMÁTICA A | ESPANHA | MATEMÁTICAS APLICADAS A LAS CIENCIAS SOCIALES II (e aprovação na disciplina de AMPLIACIÓN DE LAS MATEMÁTICAS APLICADAS A LAS CIENCIAS SOCIALES II) | Todas as Instituições de Ensino Superior Público e Estabelecimentos de Ensino Superior Privado |
+| MATEMÁTICAS APLICADAS A LAS CIENCIAS SOCIALES II (e aprovação na disciplina de AMPLIACIÓN DE LAS MATEMÁTICAS APLICADAS A LAS CIENCIAS SOCIALES II) |  |  |  |
 
 deve ler-se:
 
 | 19 MATEMÁTICA A | ESPANHA | MATEMÁTICAS II | Todas as Instituições de Ensino Superior Público e Estabelecimentos de Ensino Superior Privado |
 | --- | --- | --- | --- |
-| 19 MATEMÁTICA A | ESPANHA | MATEMÁTICAS APLICADAS A LAS CIENCIAS SOCIALES II | Todas as Instituições de Ensino Superior Público e Estabelecimentos de Ensino Superior Privado |
+| MATEMÁTICAS APLICADAS A LAS CIENCIAS SOCIALES II |  |  |  |
 
 3 - Na página 18 (anexo) da [Deliberação n.º 674/2025](https://diariodarepublica.pt/dr/detalhe/deliberacao/674-2025-918884641), da Comissão Nacional de Acesso ao Ensino Superior, publicada no Diário da República, 2.ª série, n.º 98, de 22 de maio de 2025, onde se lê:
 
@@ -125,3 +150,7 @@ deve ler-se:
 3 - À semelhança do que se encontra previsto na [Deliberação n.º 349/2025](https://diariodarepublica.pt/dr/detalhe/deliberacao/349-2025-910331589), de 11 de março, que estabelece a correspondência entre os exames nacionais do ensino secundário e as provas de ingresso na candidatura ao ensino superior 2025-2026, os exames estrangeiros que substituam as provas de ingresso 16 Matemática e 19 Matemática A, são igualmente válidos para substituir a prova de ingresso 17 Matemática Aplicada às Ciências Sociais, não obstante não se inserirem no artigo 1.º nem no anexo da presente Deliberação.»
 
 5 de junho de 2025. - O Presidente da Comissão Nacional de Acesso ao Ensino Superior, António Fontainhas Fernandes.
+
+319151051
+
+.Tbl1 { border-collapse:collapse; border-width:0px; border-style:none; } .Tbl2 { min-height:43px; } .Tbl3 { border-bottom-color:rgb(0,0,0); border-top-color:rgb(0,0,0); border-left-width:0px; border-top-width:1px; border-right-width:1px; border-top-style:solid; border-left-color:rgb(0,0,0); border-bottom-width:1px; border-bottom-style:solid; border-right-style:solid; border-right-color:rgb(0,0,0); border-left-style:solid; vertical-align:top; } .Tbl5 { border-bottom-color:rgb(0,0,0); border-top-color:rgb(0,0,0); border-left-width:1px; border-top-width:1px; border-right-width:1px; border-top-style:solid; border-left-color:rgb(0,0,0); border-bottom-width:1px; border-bottom-style:solid; border-right-style:solid; border-right-color:rgb(0,0,0); border-left-style:solid; vertical-align:top; } .Tbl6 { border-bottom-color:rgb(0,0,0); border-top-color:rgb(0,0,0); border-left-width:1px; border-top-width:1px; border-right-width:0px; border-top-style:solid; border-left-color:rgb(0,0,0); border-bottom-width:1px; border-bottom-style:solid; border-right-style:solid; border-right-color:rgb(0,0,0); border-left-style:solid; vertical-align:top; } .Tbl7 { min-height:37px; } .Tbl8 { min-height:23px; } .Tbl9 { min-height:57px; } .Tbl10 { min-height:21px; } .Tbl11 { min-height:28px; }

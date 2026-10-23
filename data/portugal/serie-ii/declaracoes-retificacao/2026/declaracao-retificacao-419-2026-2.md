@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/2s/2026/05/097000000/0004600046.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -46,18 +46,18 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/declaracao-retificacao/419-2026-1124492484
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2026-05-20T00:00:00Z'
+  retrieved_at: '2026-10-23T15:04:24Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 6a65661a43a578d69a5d08e9802797841e2d52f6372523da70352dabb4c18591
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: fa6d7b7b398aa1075593642d49a0c37d41db9ac92ae0d304bc58ea8c81be56a7
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:04:24Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -69,13 +69,13 @@ relationships: []
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:04:24Z'
   warnings: []
   errors: []
 ---
@@ -85,3 +85,5 @@ validation:
 Por ter saído com inexatidão o Aviso n.º 10281/2026/2, publicado no Diário da República, 2.ª série, n.º 87, de 6 de maio de 2026, retifica-se que onde se lê «Realizar as atividades inerentes à Divisão de Indústria e Mercados» deve ler-se «Realizar as atividades inerentes à Divisão de Mercados e Estatística».
 
 11 de maio de 2026. - A Diretora de Serviços de Administração Geral, Fernanda Bernardo.
+
+319998143

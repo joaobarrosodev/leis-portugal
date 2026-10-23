@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/2s/2026/03/051000000/0048000480.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -46,18 +46,18 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/declaracao-retificacao/209-2026-1071585551
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2026-03-13T00:00:00Z'
+  retrieved_at: '2026-10-23T15:03:12Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: c68034f9a748341c3764345f095c3ae754f07ee1141746d2b4de1cb1b74f433b
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 57e90177e8fe0acb0588f24ab1bd64534411a14df4f77f63949e1ff1077bdb17
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:03:12Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -65,17 +65,21 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects: []
-relationships: []
+relationships:
+- type: cites
+  target: pt:dre:1058500586:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:03:12Z'
   warnings: []
   errors: []
 ---
@@ -99,7 +103,7 @@ Onde se lê:
 | Às taxas devidas pela emissão dos alvarás previstos no presente número acrescem os custos de publicação obrigatória por lei, no âmbito da discussão pública de operação de loteamento. |  |  |
 | 1 - Informação prévia ou revalidação de informação prévia de operação de loteamento sem obras de urbanização | 259,76 € |  |
 | Acresce: |  |  |
-| a) Por m<sup>2</sup> de área de construção | 1,04 € |  |
+| a) Por m2 de área de construção | 1,04 € |  |
 | Taxa de preparos - componente fixa acrescida de 20 % da componente variável |  |  |
 | 1.1 - Comunicação prévia de operação de loteamento sem obras de urbanização | 21,86 € | » |
 
@@ -111,7 +115,7 @@ deve ler-se:
 | --- | --- | --- |
 | [...] | [...] |  |
 | CAPÍTULO VIURBANISMO |  |  |
-| CAPÍTULO VIURBANISMO |  |  |
+|  |  |  |
 | N.º 3 - Operação de loteamento |  |  |
 | Às taxas devidas pela emissão dos alvarás previstos no presente número acrescem os custos de publicação obrigatória por lei, no âmbito da discussão pública de operação de loteamento. |  |  |
 | 1 - [...] | [...] |  |
@@ -121,3 +125,7 @@ deve ler-se:
 | 1.1 - Comunicação prévia de operação de loteamento sem obras de urbanização | 99,39 € | » |
 
 3 de março de 2026. - O Presidente da Câmara Municipal, Paulo Alexandre da Conceição Silva.
+
+319971264
+
+.Tbl1 { border-collapse:collapse; border-width:1px; margin-left:auto; margin-right:auto; } .Tbl2 { min-height:23px; } .Tbl4 { text-align:center; } .Tbl5 { border-left-width:0px; border-top-width:0px; border-right-width:0px; border-top-style:solid; border-bottom-width:0px; border-bottom-style:solid; border-right-style:solid; border-left-style:solid; vertical-align:middle; } .Tbl6 { min-height:18px; } .Tbl7 { border-bottom-color:rgb(0,0,0); border-top-color:rgb(0,0,0); border-left-width:0px; border-top-width:1px; border-right-width:1px; border-top-style:solid; border-bottom-width:1px; border-bottom-style:solid; border-right-style:solid; border-right-color:rgb(0,0,0); border-left-style:solid; vertical-align:top; } .Tbl8 { border-bottom-color:rgb(0,0,0); border-top-color:rgb(0,0,0); border-left-width:1px; border-top-width:1px; border-right-width:0px; border-top-style:solid; border-left-color:rgb(0,0,0); border-bottom-width:1px; border-bottom-style:solid; border-right-style:solid; border-left-style:solid; vertical-align:top; } .Tbl9 { text-align:right; } .Tbl10 { border-left-width:0px; border-top-width:0px; border-right-width:0px; border-top-style:solid; border-bottom-width:0px; border-bottom-style:solid; border-right-style:solid; border-left-style:solid; vertical-align:top; } .Tbl11 { min-height:21px; } .Tbl12 { border-top-color:rgb(0,0,0); border-left-width:0px; border-top-width:1px; border-right-width:1px; border-top-style:solid; border-bottom-width:0px; border-bottom-style:solid; border-right-style:solid; border-right-color:rgb(0,0,0); border-left-style:solid; vertical-align:top; } .Tbl13 { STYLE=} .Tbl14 { border-top-color:rgb(0,0,0); border-left-width:1px; border-top-width:1px; border-right-width:0px; border-top-style:solid; border-left-color:rgb(0,0,0); border-bottom-width:0px; border-bottom-style:solid; border-right-style:solid; border-left-style:solid; vertical-align:top; } .Tbl15 { min-height:19px; } .Tbl16 { border-bottom-color:rgb(0,0,0); border-left-width:0px; border-top-width:0px; border-right-width:1px; border-top-style:solid; border-bottom-width:1px; border-bottom-style:solid; border-right-style:solid; border-right-color:rgb(0,0,0); border-left-style:solid; vertical-align:top; } .Tbl17 { border-bottom-color:rgb(0,0,0); border-left-width:1px; border-top-width:0px; border-right-width:0px; border-top-style:solid; border-left-color:rgb(0,0,0); border-bottom-width:1px; border-bottom-style:solid; border-right-style:solid; border-left-style:solid; vertical-align:top; } .Tbl18 { min-height:28px; } .Tbl19 { border-collapse:collapse; border-width:1px; } .Tbl20 { min-height:22px; }

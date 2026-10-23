@@ -20,7 +20,7 @@ publication:
   reference: Diário da República n.º 59/2005, 2º Suplemento, Série I-B de 2005-03-24
   number: '59'
   series: I
-  supplement: 2º Suplemento
+  supplement: null
   pages: 2614-(13) a 2614-(13)
   pdf_url: https://files.diariodarepublica.pt/1s/2005/03/059b02/00130013.pdf
 entry_into_force_dates: []
@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/311-d/2005/03/24/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/311-d-2005-383018
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2005-03-24T00:00:00Z'
+  retrieved_at: '2026-10-23T15:05:37Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 9d330d19a3106e0fa54b327b68b891abc184d23b79da036420ce8961f4b77f7b
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 1daf9a7ae8fb7fa0638bec6e041614dc07679a088c9e375037a74d92203aca9e
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:05:37Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,9 +67,9 @@ reuse:
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
 - Código da Estrada
-- Segurança Rodoviária
-- Normas de Segurança
 - Equipamento de Veículo
+- Normas de Segurança
+- Segurança Rodoviária
 relationships:
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/114/1994/05/03/p/dre
@@ -87,16 +87,32 @@ relationships:
   target: eli:http://data.dre.pt/eli/port/1131/1993/11/04/p/dre
   label: null
   source: http://data.dre.pt/eli/port/1131/1993/11/04/p/dre
+- type: cites
+  target: pt:dre:250659:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:608743:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:665722:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:692647:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:05:37Z'
   warnings: []
   errors: []
 ---
@@ -125,4 +141,4 @@ b) NP EN 1150 - vestuário de protecção/vestuário de visibilidade para uso n�
 
 4.º O presente diploma entra em vigor 90 dias após publicação.
 
-**O Ministro de Estado e da Administração Interna, António Luís Santos Costa, em 22 de Março de 2005.**
+O Ministro de Estado e da Administração Interna, António Luís Santos Costa, em 22 de Março de 2005.

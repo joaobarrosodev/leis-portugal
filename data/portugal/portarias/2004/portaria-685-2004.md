@@ -25,9 +25,7 @@ publication:
 entry_into_force_dates: []
 end_of_validity_date: null
 legal_status: in_force
-notes:
-- 'Fonte sem texto: o DRE lista este diploma como consolidado mas não tem texto consolidado em nenhuma data (verificado em
-  2026-10-22).'
+notes: []
 language: por
 version:
   kind: original
@@ -48,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/685/2004/06/19/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/685-2004-272615
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2004-07-19T00:00:00Z'
+  retrieved_at: '2026-10-23T15:00:38Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 11b0ee24b8b6764eb5c1507688bd3c51238c0b0c41f7be704151ee0522d3bb87
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: f0ddbadbe19a3f77532d1ac1b59ac4d7cba15753e502dc3a7cba70e617885c44
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:00:38Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,26 +65,43 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
+- Arrendamento Urbano para Habitação
 - Habitação
 - Renda Apoiada
 - Renda Limite
 - Subsídio de Renda de CASA
-- Arrendamento Urbano para Habitação
 relationships:
 - type: amended_by
   target: pt:dre:501218:por
   label: Última alteração registada na importação inicial
   source: null
+- type: cites
+  target: pt:dre:177451:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:196194:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:667147:por
+  label: null
+  source: null
+- type: corrected_by
+  target: pt:dre:501218:por
+  label: "Rectificada pela DECL-RECT.65/2004.19.07.2004.PCM, DR.IS-B [179] de 31.07.2004\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/declaracao-rectificacao/65-2004-501218
+  date: '2004-07-19'
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:00:38Z'
   warnings: []
   errors: []
 ---
@@ -109,10 +124,10 @@ Manda o Governo, pelas Secretárias de Estado da Segurança Social e da Habitaç
 
 Em 17 de Maio de 2004.
 
-**A Secretária de Estado da Segurança Social, Teresa Margarida Figueiredo Vasconcelos Caeiro. - A Secretária de Estado da Habitação, Maria do Rosário Cardoso Águas.**
+A Secretária de Estado da Segurança Social, Teresa Margarida Figueiredo Vasconcelos Caeiro. - A Secretária de Estado da Habitação, Maria do Rosário Cardoso Águas.
 
-## ANEXO I — [(ver tabela no documento original)](https://files.diariodarepublica.pt/1s/2004/06/143b00/37793780.pdf)
+## ANEXO I — [[(ver tabela no documento original)](https://files.diariodarepublica.pt/1s/2004/06/143b00/37793780.pdf)](https://files.diariodarepublica.pt/1s/2004/06/143b00/37793780.pdf)
 
 ## ANEXO II — Tabela de rendas limite para 2004
 
-[(ver tabela no documento original)](https://files.diariodarepublica.pt/1s/2004/06/143b00/37793780.pdf)
+[[(ver tabela no documento original)](https://files.diariodarepublica.pt/1s/2004/06/143b00/37793780.pdf)](https://files.diariodarepublica.pt/1s/2004/06/143b00/37793780.pdf)

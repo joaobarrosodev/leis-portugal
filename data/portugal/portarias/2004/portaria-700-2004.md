@@ -48,18 +48,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/700/2004/06/24/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/700-2004-271265
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2010-06-16T00:00:00Z'
+  retrieved_at: '2026-10-23T15:00:44Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 8b12e3e7a8b4b1b15ce54a94848ca563d538480ce8d261c87b02db582fe76bd6
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: a9cee26f07faf146ffeb47cfeb512010795df4c4a6f0f466106e7b67c658c992
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:00:44Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -75,6 +75,18 @@ relationships:
   target: pt:dre:335687:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:248018:por
+  label: "Anexados vários prédios rústicos à zona de caça associativa concessionada pela Port 168/98, de 16-Mar, alterada\
+    \ pelo presente diploma, pela PORT.148/2008.14.02.2008.MADRP, DR.IS [32] de 14.02.2008\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/148-2008-248018
+  date: '2008-02-14'
+- type: amended_by
+  target: pt:dre:335687:por
+  label: "Renovada, por um período de seis anos, a concessão da zona de caça associativa concessionada pela Port 168/98 de\
+    \ 16-Mar, renovada pelo presente diploma, pela PORT.327/2010.16.06.2010.MADRP, DR.IS [115] de 16.06.2010\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/327-2010-335687
+  date: '2010-06-16'
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/227-b/2000/09/15/p/dre
   label: null
@@ -99,16 +111,40 @@ relationships:
   target: eli:http://data.dre.pt/eli/port/861/2002/07/19/p/dre
   label: null
   source: http://data.dre.pt/eli/port/861/2002/07/19/p/dre
+- type: cites
+  target: pt:dre:186561:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:187701:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:209623:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:355156:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:534644:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:536243:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:00:44Z'
   warnings: []
   errors: []
 ---

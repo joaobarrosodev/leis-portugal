@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2004/07/174b00/46994711.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/907/2004/07/26/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/907-2004-506985
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2011-12-30T00:00:00Z'
+  retrieved_at: '2026-10-23T15:02:00Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: bb6eae44e050934bc1f7d7e8e2413140a1721ba44e37034bf78a4ac4eaab97a9
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: e6d336724df0cc8fae6193d54e945bc4f7dff861b16e191b45100d823298be47
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:02:00Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -65,21 +65,27 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Sipac
-- Contrato de Seguro
+- Agricultura
+- Apoio ao Investimento
 - Bonificação dos Prémios de Seguro
 - Catástrofe
-- Apoio ao Investimento
+- Contrato de Seguro
 - Indemnização
 - Regulamento
-- Agricultura
 - Seguro Agrícola
+- Sipac
 - Situação de Calamidade
 relationships:
 - type: amended_by
   target: pt:dre:145008:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:568360:por
+  label: "Alterado o nº 8 da secção I do cap. I e a subalínea i) da al. a) do nº 2 do cap. III do presente Regulamento, pela\
+    \ PORT.395/2005.07.04.2005.MFAP, DR.IS-B [68] de 07.04.2005\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/395-2005-568360
+  date: '2005-04-07'
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/20/1996/03/19/p/dre
   label: null
@@ -100,16 +106,42 @@ relationships:
   target: eli:http://data.dre.pt/eli/port/388/1999/05/27/p/dre
   label: null
   source: http://data.dre.pt/eli/port/388/1999/05/27/p/dre
+- type: cites
+  target: pt:dre:157647:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:316922:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:408475:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:474478:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:535012:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:145008:por
+  label: "Revogada, a partir de 01.01.2012, com as alterações que lhe foram introduzidas pela Port 395/2005 de 07-Abr, pela\
+    \ PORT.318/2011.30.12.2011.MF, DR.IS [250] de 30.12.2011\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/318-2011-145008
+  date: '2011-12-30'
 article_structure:
   article_count: 0
   section_count: 10
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:02:00Z'
   warnings: []
   errors: []
 ---
@@ -134,7 +166,7 @@ Manda o Governo, pelos Ministros de Estado e das Finanças e da Agricultura, Des
 
 Em 2 de Julho de 2004.
 
-**A Ministra de Estado e das Finanças, Maria Manuela Dias Ferreira Leite. - O Ministro da Agricultura, Desenvolvimento Rural e Pescas, Armando José Cordeiro Sevinate Pinto.**
+A Ministra de Estado e das Finanças, Maria Manuela Dias Ferreira Leite. - O Ministro da Agricultura, Desenvolvimento Rural e Pescas, Armando José Cordeiro Sevinate Pinto.
 
 ## ANEXO — REGULAMENTO DO SISTEMA INTEGRADO DE PROTECÇÃO CONTRA AS ALEATORIEDADES CLIMÁTICAS
 

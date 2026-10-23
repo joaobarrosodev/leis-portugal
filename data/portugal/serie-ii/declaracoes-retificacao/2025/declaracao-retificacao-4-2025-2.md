@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/2s/2025/01/003000000/0006300064.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -47,36 +47,52 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/declaracao-retificacao/4-2025-902111957
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2025-01-06T00:00:00Z'
+  retrieved_at: '2026-10-23T14:58:57Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: e0bdbad25a00bcc7156246faa1550bfaaf43f5038a959e8b8de1fd88cda1f6f0
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 4703b46497f6b82df5d7e6d5f8a140a786926dc7f169ea575bcc78c534d64d93
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T14:58:57Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
-relationships: []
+subjects:
+- Administração Central do Sistema de Saúde
+- Exame Médico
+- Instituto de Oncologia
+- Meios Complementares de Diagnóstico
+- Serviço Nacional de Saúde
+- Serviços Partilhados do Ministério da Saúde
+- Unidade Local de Saúde
+relationships:
+- type: cites
+  target: pt:dre:205457496:por
+  label: null
+  source: null
+- type: corrects
+  target: pt:numero:despacho:12876-C/2024
+  label: Retifica o Despacho n.º 12876-C/2024, de 29 de outubro, Diário da República n.º 210/2024, Suplemento, Série II
+  source: null
+  date: '2024-10-29'
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T14:58:57Z'
   warnings: []
   errors: []
 ---
@@ -87,50 +103,52 @@ Nos termos do disposto no n.º 2 do artigo 11.º do Regulamento de Publicação 
 
 1 - No anexo iv, Tabela da Área C - Cardiologia, onde se lê:
 
-| [...] | [...] | [...] | [...] |
+| [...] | [...] | [...] |  |
 | --- | --- | --- | --- |
-| [...] | [...] | [...] | [...] |
+| [...] | [...] |  |  |
 | 40560 | 1530.4 | Ecocardiograma transtorácico bidimensional (sem doppler) | 38,80 |
 | 40550 | 1541.3 | Ecocardiograma transtorácico bidimensional (com doppler) | 53,20 |
 
 deve ler-se:
 
-| [...] | [...] | [...] | [...] |
+| [...] | [...] | [...] |  |
 | --- | --- | --- | --- |
-| [...] | [...] | [...] | [...] |
+| [...] | [...] |  |  |
 | 40560 | 1541.3 | Ecocardiograma transtorácico bidimensional (sem doppler) | 38,80 |
 | 40550 | 1530.4 | Ecocardiograma transtorácico bidimensional (com doppler) | 53,20 |
 
 2 - No anexo iv, Tabela da Área M - Radiologia, onde se lê:
 
-| [...] | [...] | [...] | [...] |
+| [...] | [...] | [...] |  |
 | --- | --- | --- | --- |
-| [...] | [...] | [...] | [...] |
+| [...] | [...] |  |  |
 |  |  | Ecocardiograma transtorácico bidimensional (sem doppler) (ver tabela de Cardiologia, código 1530.4) | 38,80 |
 |  |  | Ecocardiograma transtorácico bidimensional (com doppler) (ver tabela de Cardiologia, código 1541.3) | 53,20 |
 
 deve ler-se:
 
-| [...] | [...] | [...] | [...] |
+| [...] | [...] | [...] |  |
 | --- | --- | --- | --- |
-| [...] | [...] | [...] | [...] |
+| [...] | [...] |  |  |
 |  |  | Ecocardiograma transtorácico bidimensional (sem doppler) (ver tabela de Cardiologia, código 1541.3) | 38,80 |
 |  |  | Ecocardiograma transtorácico bidimensional (com doppler) (ver tabela de Cardiologia, código 1530.4) | 53,20 |
 
 3 - No anexo iv, Tabela da Área Z - Exames comuns, onde se lê:
 
-| [...] | [...] | [...] | [...] |
+| [...] | [...] | [...] |  |
 | --- | --- | --- | --- |
-| [...] | [...] | [...] | [...] |
+| [...] | [...] |  |  |
 | 40560 | 1530.4 | Ecocardiograma transtorácico bidimensional (sem doppler) | 38,80 |
 | 40550 | 1541.3 | Ecocardiograma transtorácico bidimensional (com doppler) | 53,20 |
 
 deve ler-se:
 
-| [...] | [...] | [...] | [...] |
+| [...] | [...] | [...] |  |
 | --- | --- | --- | --- |
-| [...] | [...] | [...] | [...] |
+| [...] | [...] |  |  |
 | 40560 | 1541.3 | Ecocardiograma transtorácico bidimensional (sem doppler) | 38,80 |
 | 40550 | 1530.4 | Ecocardiograma transtorácico bidimensional (com doppler) | 53,20 |
 
 30 de dezembro de 2024. - A Secretária-Geral do Ministério da Saúde, Ana Pedroso.
+
+318518329

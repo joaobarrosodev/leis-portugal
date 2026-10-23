@@ -26,7 +26,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2005/03/054b00/24092411.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -48,18 +48,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/263/2005/03/17/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/263-2005-574363
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2005-05-05T00:00:00Z'
+  retrieved_at: '2026-10-23T15:05:19Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: f4661dfe6bfdfdc661917b3c4ec00c83411356097458ab994fd3663827467b02
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: c73045e7bed02322abe57536bcfd067110ab8fef03d09a43646a7b303b8b5f78
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:05:19Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -70,8 +70,8 @@ subjects:
 - Chaminé
 - Especificação Técnica
 - Normas de Construção
-- Urbanismo
 - Poluição
+- Urbanismo
 relationships:
 - type: amended_by
   target: pt:dre:693194:por
@@ -81,16 +81,31 @@ relationships:
   target: eli:http://data.dre.pt/eli/dec-lei/78/2004/04/03/p/dre
   label: null
   source: http://data.dre.pt/eli/dec-lei/78/2004/04/03/p/dre
+- type: cites
+  target: pt:dre:218329:por
+  label: null
+  source: null
+- type: corrected_by
+  target: pt:dre:693194:por
+  label: "Rectificada pela DECL-RECT.38/2005.05.05.2005.PCM, DR.IS-B [94] de 16.05.2005\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/declaracao-rectificacao/38-2005-693194
+  date: '2005-05-05'
+- type: repealed_by
+  target: pt:dre:115631553:por
+  label: Revogada, a partir de 07.07.2018 e com efeitos a 01.07.2018, o presente diploma retificado pela Decl-Ret 38/2005
+    de 16-maio, pelo (a) Portaria n.º 190-A/2018 - Diário da República n.º 125/2018, 1º Suplemento, Série I de 2018-07-02
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/190-a-2018-115631553
+  date: '2018-07-02'
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:05:19Z'
   warnings: []
   errors: []
 ---
@@ -149,7 +164,7 @@ L - largura do obstáculo, expressa em metros;
 
 2.1.1 - Determinação de H(índice p) nas condições de emissão do efluente gasoso. - O valor de H(índice p), expresso em metros, deve ser, pelo menos, igual ao valor numérico calculado através da seguinte equação:
 
-[(ver fórmula no documento original)](https://files.diariodarepublica.pt/1s/2005/03/054b00/24092411.pdf)
+[[(ver fórmula no documento original)](https://files.diariodarepublica.pt/1s/2005/03/054b00/24092411.pdf)](https://files.diariodarepublica.pt/1s/2005/03/054b00/24092411.pdf)
 
 Sempre que se verifique a emissão de mais de um poluente, determinam-se valores de S para cada um dos poluentes presentes no efluente. A altura H(índice p) será determinada tomando o maior valor de S obtido.
 
@@ -171,7 +186,7 @@ b) Determinação de H(índice p) corrigido. - Caso se verifique existência de 
 
 2.2 - Determinação de H(índice c). - Se na vizinhança de uma determinada chaminé existirem obstáculos próximos, a altura H(índice c) deve ser calculada do seguinte modo:
 
-[(ver fórmula no documento original)](https://files.diariodarepublica.pt/1s/2005/03/054b00/24092411.pdf)
+[[(ver fórmula no documento original)](https://files.diariodarepublica.pt/1s/2005/03/054b00/24092411.pdf)](https://files.diariodarepublica.pt/1s/2005/03/054b00/24092411.pdf)
 
 2.3 - Determinação de H. - O valor de H é obtido considerando o maior valor entre H(índice p) e H(índice c).
 

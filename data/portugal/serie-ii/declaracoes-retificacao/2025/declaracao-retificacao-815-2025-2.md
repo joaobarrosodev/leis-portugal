@@ -26,7 +26,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/2s/2025/08/166000000/0007600081.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -48,36 +48,46 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/declaracao-retificacao/815-2025-933551315
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2025-08-29T00:00:00Z'
+  retrieved_at: '2026-10-23T15:01:28Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 27c15c52c28d5d842b3a003d22bac93bc1470e55e3142a962fde69e59497472b
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: c544b99f1af2e3acbbb2a0ecf96a738558dc892c652472979cba3726c12acec0
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:01:28Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
-relationships: []
+subjects:
+- Código do IRS
+- IRS
+- Pensão de Aposentação
+- Tabela de Retenção
+- Trabalhador por Conta de Outrem
+relationships:
+- type: corrects
+  target: pt:numero:despacho:8464-A/2025
+  label: Retifica o Despacho n.º 8464-A/2025 de 22 de julho, DR.IIS[139]Supl
+  source: null
+  date: '2025-07-22'
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:01:28Z'
   warnings: []
   errors: []
 ---
@@ -88,27 +98,33 @@ Por ter sido publicado com inexatidão no Diário da República, 2.ª série, n.
 
 Onde se lê:
 
-![](https://files.diariodarepublica.pt/images/933551315/933552381.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/933551315/933552381.png) |
+| --- |
 
 deve ler-se:
 
-![](https://files.diariodarepublica.pt/images/933551315/933552382.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/933551315/933552382.png) |
+| --- |
 
 Onde se lê:
 
-![](https://files.diariodarepublica.pt/images/933551315/933552383.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/933551315/933552383.png) |
+| --- |
 
 deve ler-se:
 
-![](https://files.diariodarepublica.pt/images/933551315/933552384.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/933551315/933552384.png) |
+| --- |
 
 Onde se lê:
 
-![](https://files.diariodarepublica.pt/images/933551315/933552385.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/933551315/933552385.png) |
+| --- |
 
 deve ler-se:
 
-![](https://files.diariodarepublica.pt/images/933551315/933552386.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/933551315/933552386.png) |
+| --- |
 
 26 de agosto de 2025. - A Secretária de Estado dos Assuntos Fiscais, Cláudia Maria dos Reis Duarte Melo de Carvalho.
 
@@ -118,64 +134,77 @@ TABELA I - Trabalho dependente
 
 Não casado sem dependentes ou casado dois titulares
 
-![](https://files.diariodarepublica.pt/images/933551315/933552387.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/933551315/933552387.png) |
+| --- |
 
 TABELA II - Trabalho dependente
 
 Não casado com um ou mais dependentes
 
-![](https://files.diariodarepublica.pt/images/933551315/933552388.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/933551315/933552388.png) |
+| --- |
 
 TABELA III - Trabalho dependente
 
 Casado, único titular
 
-![](https://files.diariodarepublica.pt/images/933551315/933552389.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/933551315/933552389.png) |
+| --- |
 
 TABELA IV - Trabalho dependente
 
 Não casado ou casado dois titulares sem dependentes - Pessoa com deficiência
 
-![](https://files.diariodarepublica.pt/images/933551315/933552390.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/933551315/933552390.png) |
+| --- |
 
 TABELA V - Trabalho dependente
 
 Não casado, com um ou mais dependentes - Pessoa com deficiência
 
-![](https://files.diariodarepublica.pt/images/933551315/933552391.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/933551315/933552391.png) |
+| --- |
 
 TABELA VI - Trabalho dependente
 
 Casado dois titulares, com um ou mais dependentes - Pessoa com deficiência
 
-![](https://files.diariodarepublica.pt/images/933551315/933552392.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/933551315/933552392.png) |
+| --- |
 
 TABELA VII - Trabalho dependente
 
 Casado, único titular - Pessoa com deficiência
 
-![](https://files.diariodarepublica.pt/images/933551315/933552393.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/933551315/933552393.png) |
+| --- |
 
 TABELA VIII - Pensões
 
 Não casado ou casado dois titulares
 
-![](https://files.diariodarepublica.pt/images/933551315/933552394.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/933551315/933552394.png) |
+| --- |
 
 TABELA IX - Pensões
 
 Casado, único titular
 
-![](https://files.diariodarepublica.pt/images/933551315/933552395.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/933551315/933552395.png) |
+| --- |
 
 TABELA X - Pensões
 
 Não casado ou casado dois titulares - Pessoa com deficiência
 
-![](https://files.diariodarepublica.pt/images/933551315/933552396.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/933551315/933552396.png) |
+| --- |
 
 TABELA XI - Pensões
 
 Casado único titular - Pessoa com deficiência
 
-![](https://files.diariodarepublica.pt/images/933551315/933552397.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/933551315/933552397.png) |
+| --- |
+
+319470768

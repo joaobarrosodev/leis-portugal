@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/893/2004/07/21/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/893-2004-505659
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2006-01-02T00:00:00Z'
+  retrieved_at: '2026-10-23T15:01:55Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 1c6ffad351ecc8993d33ab4dd36869dd98991a8a6ec1b14f56dbb52f8102b927
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 3fb9139ad9730704f21c44d1f0eecee873dfe7b40fb2ee8a913b7a50b423c4bc
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:01:55Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,16 +66,22 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Plano de Estudos
 - Ensino Cooperativo
 - Ensino Particular
 - Instituto Superior de Ciências da Informação e da Administração
 - Licenciatura
+- Plano de Estudos
 relationships:
 - type: amended_by
   target: pt:dre:202669:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:202669:por
+  label: "Alterado o plano de estudos anexo à Port 2/2000, de 04-Jan, na redacção do presente diploma, pela PORT.2/2006.02.01.2006.MCTES,\
+    \ DR.IS-B [1] de 02.01.2006\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/2-2006-202669
+  date: '2006-01-02'
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/16/1994/01/22/p/dre
   label: null
@@ -108,16 +114,56 @@ relationships:
   target: eli:http://data.dre.pt/eli/port/680-a/1998/08/31/p/dre
   label: null
   source: http://data.dre.pt/eli/port/680-a/1998/08/31/p/dre
+- type: cites
+  target: pt:dre:147873:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:150335:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:273989:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:300227:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:429596:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:510270:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:512030:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:533820:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:554467:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:618546:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:01:55Z'
   warnings: []
   errors: []
 ---
@@ -172,7 +218,7 @@ Aplicação
 
 O disposto na presente portaria aplica-se a partir do ano lectivo de 2003-2004, inclusive.
 
-**A Ministra da Ciência e do Ensino Superior, Maria da Graça Martins da Silva Carvalho, em 29 de Junho de 2004.**
+A Ministra da Ciência e do Ensino Superior, Maria da Graça Martins da Silva Carvalho, em 29 de Junho de 2004.
 
 ## ANEXO — ([Portaria n.º 2/2000](https://diariodarepublica.pt/dr/detalhe/portaria/2-2000-510270), de 4 de Janeiro - alteração)
 
@@ -186,19 +232,19 @@ QUADRO N.º 1
 
 1.º ano
 
-[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2004/07/170b00/45474549.pdf)
+[[[[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2004/07/170b00/45474549.pdf)](https://files.diariodarepublica.pt/1s/2004/07/170b00/45474549.pdf)](https://files.diariodarepublica.pt/1s/2004/07/170b00/45474549.pdf)](https://files.diariodarepublica.pt/1s/2004/07/170b00/45474549.pdf)
 
 QUADRO N.º 2
 
 2.º ano
 
-[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2004/07/170b00/45474549.pdf)
+[[[[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2004/07/170b00/45474549.pdf)](https://files.diariodarepublica.pt/1s/2004/07/170b00/45474549.pdf)](https://files.diariodarepublica.pt/1s/2004/07/170b00/45474549.pdf)](https://files.diariodarepublica.pt/1s/2004/07/170b00/45474549.pdf)
 
 QUADRO N.º 3
 
 3.º ano
 
-[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2004/07/170b00/45474549.pdf)
+[[[[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2004/07/170b00/45474549.pdf)](https://files.diariodarepublica.pt/1s/2004/07/170b00/45474549.pdf)](https://files.diariodarepublica.pt/1s/2004/07/170b00/45474549.pdf)](https://files.diariodarepublica.pt/1s/2004/07/170b00/45474549.pdf)
 
 2.º ciclo - Grau de licenciado
 
@@ -206,4 +252,4 @@ QUADRO N.º 4
 
 1.º ano
 
-[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2004/07/170b00/45474549.pdf)
+[[[[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2004/07/170b00/45474549.pdf)](https://files.diariodarepublica.pt/1s/2004/07/170b00/45474549.pdf)](https://files.diariodarepublica.pt/1s/2004/07/170b00/45474549.pdf)](https://files.diariodarepublica.pt/1s/2004/07/170b00/45474549.pdf)

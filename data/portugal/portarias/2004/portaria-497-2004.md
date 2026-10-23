@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/497/2004/05/06/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/497-2004-301794
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2004-05-06T00:00:00Z'
+  retrieved_at: '2026-10-23T14:59:30Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 6eb3c6ff696b3cdaf39c9c1378b946b674392c278234f6c4ab3f7c0f89530945
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 5c0d0d7d526cab3ee5b6035fd18a18737e2f26c4018aacf55f7a87f6e624e419
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T14:59:30Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,8 +66,8 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Cartão de Identificação
 - Bombeiro
+- Cartão de Identificação
 - Regulamento Geral dos Corpos dos Bombeiros
 relationships:
 - type: cites
@@ -86,16 +86,32 @@ relationships:
   target: eli:http://data.dre.pt/eli/port/963/2001/08/13/p/dre
   label: null
   source: http://data.dre.pt/eli/port/963/2001/08/13/p/dre
+- type: cites
+  target: pt:dre:231117:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:377892:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:524398:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:616186:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T14:59:30Z'
   warnings: []
   errors: []
 ---
@@ -134,6 +150,6 @@ Manda o Governo, pelo Ministro da Administração Interna, o seguinte:
 
 9.º É revogada a [Portaria n.º 963/2001](https://diariodarepublica.pt/dr/detalhe/portaria/963-2001-524398), de 13 de Agosto.
 
-**O Ministro da Administração Interna, António Jorge de Figueiredo Lopes, em 8 de Abril de 2004.**
+O Ministro da Administração Interna, António Jorge de Figueiredo Lopes, em 8 de Abril de 2004.
 
 [(ver modelo no documento original)](https://files.diariodarepublica.pt/1s/2004/05/106b00/28982898.pdf)

@@ -26,7 +26,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/2s/2026/04/077000000/0068700687.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -48,18 +48,18 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/declaracao-retificacao/322-2026-1087366272
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2026-04-21T00:00:00Z'
+  retrieved_at: '2026-10-23T15:03:49Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: d3648cb68f0838f6770ae6590b759ccc16218c15ee66dd33227fa8f7b1e45eb5
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 65aa44b29230b524baeca8bb490bd756d1f5e9bb84a28dfa423d74034a6c37a4
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:03:49Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,17 +67,33 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects: []
-relationships: []
+relationships:
+- type: cites
+  target: pt:dre:1082860565:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:205457496:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:25676932:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:912464323:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:03:49Z'
   warnings: []
   errors: []
 ---
@@ -95,3 +111,5 @@ deve ler-se:
 «Em cumprimento do disposto na alínea b) do n.º 1 do artigo 4.º da [Lei n.º 35/2014](https://diariodarepublica.pt/dr/detalhe/lei/35-2014-25676932), de 20 de junho, torna-se público que na sequência de procedimento concursal comum para preenchimento de um posto de trabalho, em regime de contrato de trabalho em funções públicas por tempo indeterminado, publicitado através do [Aviso (extrato) n.º 8072/2025/2](https://diariodarepublica.pt/dr/detalhe/aviso-extrato/8072-2025-912464323), publicado no Diário da República, 2.ª série, n.º 60, de 26 de março de 2025, foi celebrado contrato de trabalho em funções públicas por tempo indeterminado, com Lurdes da Conceição Bento Ferreiro, com início a 2 de fevereiro de 2026, na carreira/categoria de técnica superior - área de psicologia, ficando posicionada na 1.ª posição remuneratória da carreira geral de técnico superior, correspondente ao nível 16 da TRU, iniciando-se nessa data o período experimental de 180 dias.»
 
 13 de abril de 2026. - O Presidente da Câmara, Artur Jorge Ribeiro Fresco, prof.
+
+319986973

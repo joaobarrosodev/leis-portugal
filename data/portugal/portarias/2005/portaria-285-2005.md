@@ -48,18 +48,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/285/2005/03/21/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/285-2005-578556
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2005-03-21T00:00:00Z'
+  retrieved_at: '2026-10-23T15:05:27Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 1894764921adc7a6d0cf7b4bcbbaf09d544671d35044cd074e99fcf1fea9c18e
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: b4cccbff8b272ab8d9b013effa57d4aa66cecaa40f0ae764d9167d63a4c99c68
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:05:27Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -68,23 +68,31 @@ reuse:
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
 - Água Mineral
-- Recursos Hídricos
 - Junta de Turismo
 - Lamego
 - Mesão FRIO
 - PESO da Régua
+- Recursos Hídricos
 - Zona de Proteção
-relationships: []
+relationships:
+- type: cites
+  target: pt:dre:333159:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:333160:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:05:27Z'
   warnings: []
   errors: []
 ---
@@ -105,19 +113,19 @@ Manda o Governo, pelos Ministros de Estado, das Actividades Económicas e do Tra
 
 Zona imediata. - Definida por dois círculos de 3 m de raio com centro nas captações AC1 e AC2, cujas coordenadas são as seguintes:
 
-[(ver tabela no documento original)](https://files.diariodarepublica.pt/1s/2005/03/056b00/24752476.pdf)
+[[[(ver tabela no documento original)](https://files.diariodarepublica.pt/1s/2005/03/056b00/24752476.pdf)](https://files.diariodarepublica.pt/1s/2005/03/056b00/24752476.pdf)](https://files.diariodarepublica.pt/1s/2005/03/056b00/24752476.pdf)
 
 Zona intermédia. - Delimitada pelo polígono 1-2-3-4, cujos vértices têm as seguintes coordenadas:
 
-[(ver tabela no documento original)](https://files.diariodarepublica.pt/1s/2005/03/056b00/24752476.pdf)
+[[[(ver tabela no documento original)](https://files.diariodarepublica.pt/1s/2005/03/056b00/24752476.pdf)](https://files.diariodarepublica.pt/1s/2005/03/056b00/24752476.pdf)](https://files.diariodarepublica.pt/1s/2005/03/056b00/24752476.pdf)
 
 Zona alargada. - Esta zona é definida pelo polígono 5-6-7-8-9, cujos vértices têm as seguintes coordenadas:
 
-[(ver tabela no documento original)](https://files.diariodarepublica.pt/1s/2005/03/056b00/24752476.pdf)
+[[[(ver tabela no documento original)](https://files.diariodarepublica.pt/1s/2005/03/056b00/24752476.pdf)](https://files.diariodarepublica.pt/1s/2005/03/056b00/24752476.pdf)](https://files.diariodarepublica.pt/1s/2005/03/056b00/24752476.pdf)
 
 Em 27 de Janeiro de 2005.
 
-**O Ministro de Estado, das Actividades Económicas e do Trabalho, Álvaro Roque de Pinho Bissaya Barreto. - O Ministro das Cidades, Administração Local, Habitação e Desenvolvimento Regional, José Luís Fazenda Arnaut Duarte. - O Ministro do Ambiente e do Ordenamento do Território, Luís José de Mello e Castro Guedes.**
+O Ministro de Estado, das Actividades Económicas e do Trabalho, Álvaro Roque de Pinho Bissaya Barreto. - O Ministro das Cidades, Administração Local, Habitação e Desenvolvimento Regional, José Luís Fazenda Arnaut Duarte. - O Ministro do Ambiente e do Ordenamento do Território, Luís José de Mello e Castro Guedes.
 
 Zonas do perímetro de protecção para a concessão hidromineral denominada «Caldas de Moledo»
 

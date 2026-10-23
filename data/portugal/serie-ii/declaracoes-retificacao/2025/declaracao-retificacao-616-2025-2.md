@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/2s/2025/07/128000000/0014000140.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -46,18 +46,18 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/declaracao-retificacao/616-2025-923848052
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2025-07-07T00:00:00Z'
+  retrieved_at: '2026-10-23T15:00:17Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 7ed9333d2f07c49885114c59e4f8032546b769182286f835557923b3cdaed34b
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: ee61435584ec583d0a78beabd2568ac3444bb171f3a519404722ccfec4a0ad26
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:00:17Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -69,13 +69,13 @@ relationships: []
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:00:17Z'
   warnings: []
   errors: []
 ---
@@ -88,19 +88,19 @@ Por ter sido detetada uma inexatidão no que se refere ao Despacho n.º 9641/202
 
 Onde se lê:
 
-| « | Caraterização do posto de trabalho | Nome | Carreira | Categoria | Nível remuneratório | Observações | Observações |
-| --- | --- | --- | --- | --- | --- | --- | --- |
-| Funções de natureza executiva, de caráter manual ou mecânico, enquadradas em diretivas gerais bem definidas e com graus de complexidade variáveis;Execução de tarefas de apoio elementares, indispensáveis ao funcionamento dos órgãos e serviços, podendo comportar esforço físico;Responsabilidade pelos equipamentos sob sua guarda e pela sua correta utilização, procedendo, quando necessário, à manutenção e reparação dos mesmos. | Funções de natureza executiva, de caráter manual ou mecânico, enquadradas em diretivas gerais bem definidas e com graus de complexidade variáveis;Execução de tarefas de apoio elementares, indispensáveis ao funcionamento dos órgãos e serviços, podendo comportar esforço físico;Responsabilidade pelos equipamentos sob sua guarda e pela sua correta utilização, procedendo, quando necessário, à manutenção e reparação dos mesmos. | Albino Cruz Baptista Ferreira | Assistente operacional | Assistente operacional | 5 | a) | a) |
-| Funções de natureza executiva, de caráter manual ou mecânico, enquadradas em diretivas gerais bem definidas e com graus de complexidade variáveis;Execução de tarefas de apoio elementares, indispensáveis ao funcionamento dos órgãos e serviços, podendo comportar esforço físico;Responsabilidade pelos equipamentos sob sua guarda e pela sua correta utilização, procedendo, quando necessário, à manutenção e reparação dos mesmos. | Funções de natureza executiva, de caráter manual ou mecânico, enquadradas em diretivas gerais bem definidas e com graus de complexidade variáveis;Execução de tarefas de apoio elementares, indispensáveis ao funcionamento dos órgãos e serviços, podendo comportar esforço físico;Responsabilidade pelos equipamentos sob sua guarda e pela sua correta utilização, procedendo, quando necessário, à manutenção e reparação dos mesmos. | […] | […] | […] | - | - | - |
-| Funções de natureza executiva, de caráter manual ou mecânico, enquadradas em diretivas gerais bem definidas e com graus de complexidade variáveis;Execução de tarefas de apoio elementares, indispensáveis ao funcionamento dos órgãos e serviços, podendo comportar esforço físico;Responsabilidade pelos equipamentos sob sua guarda e pela sua correta utilização, procedendo, quando necessário, à manutenção e reparação dos mesmos. | Funções de natureza executiva, de caráter manual ou mecânico, enquadradas em diretivas gerais bem definidas e com graus de complexidade variáveis;Execução de tarefas de apoio elementares, indispensáveis ao funcionamento dos órgãos e serviços, podendo comportar esforço físico;Responsabilidade pelos equipamentos sob sua guarda e pela sua correta utilização, procedendo, quando necessário, à manutenção e reparação dos mesmos. | Lídia Maria Teixeira Dias Pereira Barbosa | Assistente operacional | Assistente operacional | 5 | a) | » |
+| « | Caraterização do posto de trabalho | Nome | Carreira | Categoria | Nível remuneratório | Observações |
+| --- | --- | --- | --- | --- | --- | --- |
+| Funções de natureza executiva, de caráter manual ou mecânico, enquadradas em diretivas gerais bem definidas e com graus de complexidade variáveis;Execução de tarefas de apoio elementares, indispensáveis ao funcionamento dos órgãos e serviços, podendo comportar esforço físico;Responsabilidade pelos equipamentos sob sua guarda e pela sua correta utilização, procedendo, quando necessário, à manutenção e reparação dos mesmos. | Albino Cruz Baptista Ferreira | Assistente operacional | Assistente operacional | 5 | a) |  |
+| […] | […] | […] | - | - |  |  |
+| Lídia Maria Teixeira Dias Pereira Barbosa | Assistente operacional | Assistente operacional | 5 | a) | » |  |
 
 deve ler-se:
 
 | « | Caraterização do posto de trabalho | Nome | Carreira | Categoria | Nível remuneratório | Observações |
 | --- | --- | --- | --- | --- | --- | --- |
-| Funções de natureza executiva, de caráter manual ou mecânico, enquadradas em diretivas gerais bem definidas e com graus de complexidade variáveis;Execução de tarefas de apoio elementares, indispensáveis ao funcionamento dos órgãos e serviços, podendo comportar esforço físico;Responsabilidade pelos equipamentos sob sua guarda e pela sua correta utilização, procedendo, quando necessário, à manutenção e reparação dos mesmos. | Funções de natureza executiva, de caráter manual ou mecânico, enquadradas em diretivas gerais bem definidas e com graus de complexidade variáveis;Execução de tarefas de apoio elementares, indispensáveis ao funcionamento dos órgãos e serviços, podendo comportar esforço físico;Responsabilidade pelos equipamentos sob sua guarda e pela sua correta utilização, procedendo, quando necessário, à manutenção e reparação dos mesmos. | Albino Cruz Baptista Ferreira | Assistente operacional | Assistente operacional | 5 | d) |
-| Funções de natureza executiva, de caráter manual ou mecânico, enquadradas em diretivas gerais bem definidas e com graus de complexidade variáveis;Execução de tarefas de apoio elementares, indispensáveis ao funcionamento dos órgãos e serviços, podendo comportar esforço físico;Responsabilidade pelos equipamentos sob sua guarda e pela sua correta utilização, procedendo, quando necessário, à manutenção e reparação dos mesmos. | Funções de natureza executiva, de caráter manual ou mecânico, enquadradas em diretivas gerais bem definidas e com graus de complexidade variáveis;Execução de tarefas de apoio elementares, indispensáveis ao funcionamento dos órgãos e serviços, podendo comportar esforço físico;Responsabilidade pelos equipamentos sob sua guarda e pela sua correta utilização, procedendo, quando necessário, à manutenção e reparação dos mesmos. | […] | […] | […] | - | - |
-| Funções de natureza executiva, de caráter manual ou mecânico, enquadradas em diretivas gerais bem definidas e com graus de complexidade variáveis;Execução de tarefas de apoio elementares, indispensáveis ao funcionamento dos órgãos e serviços, podendo comportar esforço físico;Responsabilidade pelos equipamentos sob sua guarda e pela sua correta utilização, procedendo, quando necessário, à manutenção e reparação dos mesmos. | Funções de natureza executiva, de caráter manual ou mecânico, enquadradas em diretivas gerais bem definidas e com graus de complexidade variáveis;Execução de tarefas de apoio elementares, indispensáveis ao funcionamento dos órgãos e serviços, podendo comportar esforço físico;Responsabilidade pelos equipamentos sob sua guarda e pela sua correta utilização, procedendo, quando necessário, à manutenção e reparação dos mesmos. | Lídia Maria Teixeira Dias Pereira Barbosa | Assistente operacional | Assistente operacional | 5 | d) |
+| Funções de natureza executiva, de caráter manual ou mecânico, enquadradas em diretivas gerais bem definidas e com graus de complexidade variáveis;Execução de tarefas de apoio elementares, indispensáveis ao funcionamento dos órgãos e serviços, podendo comportar esforço físico;Responsabilidade pelos equipamentos sob sua guarda e pela sua correta utilização, procedendo, quando necessário, à manutenção e reparação dos mesmos. | Albino Cruz Baptista Ferreira | Assistente operacional | Assistente operacional | 5 | d) |  |
+| […] | […] | […] | - | - |  |  |
+| Lídia Maria Teixeira Dias Pereira Barbosa | Assistente operacional | Assistente operacional | 5 | d) |  |  |
 
 [...]
 
@@ -109,3 +109,7 @@ d) Trabalhador(a) em mobilidade interna com contrato de trabalho em funções p�
 Nos termos e ao abrigo dos poderes e competências conferidas pela Secretária de Estado da Gestão da Saúde, através do Despacho n.º 3517/2025, publicado no Diário da República, 2.ª série, n.º 56, de 20 de março de 2025, procedo à publicitação do presente ato.
 
 26 de junho de 2025. - O Dirigente Máximo, André Filipe de Sousa da Trindade Ferreira.
+
+319228861
+
+.Tbl1 { border-collapse:collapse; border-width:0px; border-style:none; } .Tbl2 { height:26px; } .Tbl3 { border-bottom-color:rgb(0,0,0); border-left-width:0px; border-top-width:0px; border-right-width:0px; border-top-style:solid; border-bottom-width:1px; border-bottom-style:solid; border-right-style:solid; border-left-style:solid; vertical-align:middle; } .Tbl4 { text-indent:0px; } .Tbl5 { border-bottom-color:rgb(0,0,0); border-top-color:rgb(0,0,0); border-left-width:0px; border-top-width:1px; border-right-width:1px; border-top-style:solid; border-bottom-width:1px; border-bottom-style:solid; border-right-style:solid; border-right-color:rgb(0,0,0); border-left-style:solid; vertical-align:middle; } .Tbl6 { text-align:center; } .Tbl7 { border-bottom-color:rgb(0,0,0); border-top-color:rgb(0,0,0); border-left-width:1px; border-top-width:1px; border-right-width:1px; border-top-style:solid; border-left-color:rgb(0,0,0); border-bottom-width:1px; border-bottom-style:solid; border-right-style:solid; border-right-color:rgb(0,0,0); border-left-style:solid; vertical-align:middle; } .Tbl8 { border-bottom-color:rgb(0,0,0); border-top-color:rgb(0,0,0); border-left-width:1px; border-top-width:1px; border-right-width:0px; border-top-style:solid; border-left-color:rgb(0,0,0); border-bottom-width:1px; border-bottom-style:solid; border-right-style:solid; border-left-style:solid; vertical-align:middle; } .Tbl9 { height:28px; } .Tbl10 { border-bottom-color:rgb(0,0,0); border-top-color:rgb(0,0,0); border-left-width:0px; border-top-width:1px; border-right-width:1px; border-top-style:solid; border-bottom-width:1px; border-bottom-style:solid; border-right-style:solid; border-right-color:rgb(0,0,0); border-left-style:solid; vertical-align:top; } .Tbl12 { border-bottom-color:rgb(0,0,0); border-top-color:rgb(0,0,0); border-left-width:1px; border-top-width:1px; border-right-width:1px; border-top-style:solid; border-left-color:rgb(0,0,0); border-bottom-width:1px; border-bottom-style:solid; border-right-style:solid; border-right-color:rgb(0,0,0); border-left-style:solid; vertical-align:top; } .Tbl13 { border-bottom-color:rgb(0,0,0); border-top-color:rgb(0,0,0); border-left-width:1px; border-top-width:1px; border-right-width:0px; border-top-style:solid; border-left-color:rgb(0,0,0); border-bottom-width:1px; border-bottom-style:solid; border-right-style:solid; border-left-style:solid; vertical-align:top; } .Tbl14 { height:18px; } .Tbl15 { height:108px; } .Tbl16 { border-top-color:rgb(0,0,0); border-left-width:0px; border-top-width:1px; border-right-width:0px; border-top-style:solid; border-bottom-width:1px; border-bottom-style:solid; border-right-style:solid; border-left-style:solid; vertical-align:bottom; } .Tbl17 { min-height:28px; } .Tbl18 { min-height:18px; } .Tbl19 { min-height:108px; }

@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/2s/2025/06/105000000/0034600346.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -46,18 +46,18 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/declaracao-retificacao/536-2025-920033320
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2025-06-02T00:00:00Z'
+  retrieved_at: '2026-10-23T14:59:47Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: a8a9e21cecf4ae50d838baab1353c221e985fd42d18f61bf35ce3f3babe404c0
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 6471c5e558c53d6dea6c94bd9eca0967fe81d25438f99a4dc52e99a9f138cf15
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T14:59:47Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -65,17 +65,25 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects: []
-relationships: []
+relationships:
+- type: cites
+  target: pt:dre:303237:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:918366119:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T14:59:47Z'
   warnings: []
   errors: []
 ---
@@ -93,3 +101,5 @@ deve ler-se:
 «[…] da carreira técnica superior ou da carreira de bombeiro sapador licenciados, com experiência de pelo menos quatro anos na carreira, conforme determina o n.º 4 do artigo 7.º do [Decreto-Lei n.º 106/2002](https://diariodarepublica.pt/dr/detalhe/decreto-lei/106-2002-303237), de 13 de abril, na sua redação atual.»
 
 21 de maio de 2025. - A Vereadora, Marilyn Zacarias.
+
+319103578

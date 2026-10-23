@@ -26,7 +26,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2005/02/037b00/15431550.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -48,18 +48,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/206/2005/02/22/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/206-2005-606289
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2010-02-03T00:00:00Z'
+  retrieved_at: '2026-10-23T15:04:55Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 9859764e32354040a61b53f9d309833f15056ea8198b261905d37bbfa9e5000f
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 7534814a7812a1755ad5944b1518eac439a59d2dc2f222872c4388f1ea44f72b
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:04:55Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,22 +67,61 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
+- Agricultor
+- Agricultura
 - Ajuda Comunitária
 - Desenvolvimento Rural
-- Pagamento
+- Ifadap
 - Instituto Nacional de Intervenção e Garantia Agrícola
 - Orientação Agrícola
+- Pagamento
 - Política Agrícola Comum
-- Agricultor
 - Produção Agrícola
 - Regulamento CE
-- Agricultura
-- Ifadap
 relationships:
 - type: amended_by
   target: pt:dre:617116:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:240210:por
+  label: "Dada nova redacção à al. i) do n.º 2 e n.ºs 3.º e 6.º da Port 1202/2004, de 17-Set, na redacção do presente diploma\
+    \ (republicada), pela PORT.616/2005.27.07.2005.MADRP, DR.IS-B [143] de 27.07.2005\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/616-2005-240210
+  date: '2005-07-27'
+- type: amended_by
+  target: pt:dre:169054:por
+  label: "Alterados o nº 1 do nº 4º, nº 4º-A, nºs 3, 4 e 6 do nº 10º (na redacção da Port 206/2005, de 22-Fev), nº 13º da\
+    \ Portaria n.º 1202/2004, de 17-Set, na redacção do presente diploma, pela PORT.42/2006.12.01.2006.MADRP, DR.IS-B [9]\
+    \ de 12.01.2006\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/42-2006-169054
+  date: '2006-01-12'
+- type: amended_by
+  target: pt:dre:659942:por
+  label: "Alterado o n.º 4, a al. c) do n.º 3 do n.º 10.º da Port 1202/2004, de 17-Set, na redacção do presente diploma, pela\
+    \ PORT.424/2006.02.05.2006.MADRP, DR.IS-B [84] de 02.05.2006\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/424-2006-659942
+  date: '2006-05-02'
+- type: amended_by
+  target: pt:dre:386600:por
+  label: "Alterados o n.º2 do n.º4, o n.º4-A, o n.º 10 e o n.º 17 da Port 1202/2004, de 17-Set, na redacção do presente diploma,\
+    \ pela PORT 36/2008.11.01.2008.MADRP, DR.IS [8] de 11.01.2008\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/36-2008-386600
+  date: '2008-01-11'
+- type: amended_by
+  target: pt:dre:449472:por
+  label: "Alterados os nos. 1 e 2 do nº 4, os nos. 1 e 8 do nº 4-A, o nº 1 do nº 9, o nº 7 do nº 10, as als. a) e c) do nº\
+    \ 1 do nº 13, o nº 1 do nº 16, a al. b) do nº 2 do nº 17 e o nº 3 do nº 18º da Port 1202/2004, de 17-Set, na redacção\
+    \ do presente diploma, pela PORT.410/2008.09.06.2008.MADRP, DR.IS [110] de 09.06.2008\008\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/410-2008-449472
+  date: '2008-06-09'
+- type: amended_by
+  target: pt:dre:418663:por
+  label: "Alterados o n.º 1 e a al. a) do n.º 2 do n.º 4.º, a al. c) do n.º 1 do n.º 13.º, os n.ºs 2 e n.º 3 do n.ºs 16.º,\
+    \ da Port 1202/2004, de 17-Set, na redacção do presente diploma, pela PORT.353-D/2009.03.04.2009.MADRP, DR.IS [66-Supl]\
+    \ de 03.04.2009\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/353-d-2009-418663
+  date: '2009-04-03'
 - type: cites
   target: celex:31994R1017
   label: null
@@ -111,16 +150,21 @@ relationships:
   target: celex:32004R1973
   label: null
   source: http://data.europa.eu/eli/reg/2004/1973/oj
+- type: repealed_by
+  target: pt:dre:617116:por
+  label: "Revogada, a partir de 04.02.2010,pela PORT.68/2010.03.02.2010.MADRP, DR.IS [23] de 03.02.2010\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/68-2010-617116
+  date: '2010-02-03'
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:04:55Z'
   warnings: []
   errors: []
 ---
@@ -323,7 +367,7 @@ Republicação
 
 A Portaria n.º 1202/2004, de 17 de Setembro, na versão resultante das alterações introduzidas pela presente portaria, é republicada em anexo, dela fazendo parte integrante.
 
-**O Ministro da Agricultura, Pescas e Florestas, Carlos Henrique da Costa Neves, em 31 de Janeiro de 2005.**
+O Ministro da Agricultura, Pescas e Florestas, Carlos Henrique da Costa Neves, em 31 de Janeiro de 2005.
 
 ## ANEXO — Portaria n.º 1202/2004, de 17 de Setembro
 

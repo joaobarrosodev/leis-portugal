@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2005/01/021b00/07530789.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/121/2005/01/31/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/121-2005-620477
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2006-03-24T00:00:00Z'
+  retrieved_at: '2026-10-23T15:03:45Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 2e11801f3c6649d64fcdb4b3805ab6f646f43c105fa283f2565f2a2f9ba3d8f3
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: dc90d583a537c7c1b75242cae89e64e71c2774b26faeec7ca963e10ab5c98e9d
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:03:45Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,11 +66,11 @@ reuse:
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
 - Efeito de Estufa
-- Licença de Emissão
-- União Europeia
 - Instituto do Ambiente
-- Proteção do Ambiente
+- Licença de Emissão
 - Poluição
+- Proteção do Ambiente
+- União Europeia
 relationships:
 - type: amended_by
   target: pt:dre:671384:por
@@ -124,16 +124,21 @@ relationships:
   target: eli:http://data.europa.eu/eli/dec/200
   label: null
   source: http://data.europa.eu/eli/dec/200
+- type: repealed_by
+  target: pt:dre:671384:por
+  label: "Revogada pelo DEC LEI.72/2006.24.03.2006.MAOTDR, DR.IS-A [60] de 24.03.2006\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/72-2006-671384
+  date: '2006-03-24'
 article_structure:
   article_count: 0
   section_count: 11
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:03:45Z'
   warnings: []
   errors: []
 ---
@@ -162,7 +167,7 @@ Manda o Governo, pelos Ministros de Estado, das Actividades Económicas e do Tra
 
 Em 30 de Dezembro de 2004.
 
-**O Ministro de Estado, das Actividades Económicas e do Trabalho, Álvaro Roque de Pinho Bissaya Barreto. - Pelo Ministro do Ambiente e do Ordenamento do Território, Jorge Manuel Lopes Moreira da Silva, Secretário de Estado Adjunto do Ministro do Ambiente e do Ordenamento do Território.**
+O Ministro de Estado, das Actividades Económicas e do Trabalho, Álvaro Roque de Pinho Bissaya Barreto. - Pelo Ministro do Ambiente e do Ordenamento do Território, Jorge Manuel Lopes Moreira da Silva, Secretário de Estado Adjunto do Ministro do Ambiente e do Ordenamento do Território.
 
 ## ANEXO I
 
@@ -366,7 +371,7 @@ Por conseguinte, o nível seleccionado deve reflectir o mais elevado grau de rig
 
 No período 2005-2007 são aplicados, no mínimo, os níveis indicados no quadro n.º 1, desde que tal seja tecnicamente viável. As colunas A apresentam valores de níveis metodológicos para as principais fontes de instalações com emissões anuais totais iguais ou inferiores a 50 kt. As colunas B apresentam valores de níveis metodológicos para as principais fontes de instalações com emissões anuais totais superiores a 50 kt, mas iguais ou inferiores a 500 kt. As colunas C apresentam valores de níveis metodológicos para as principais fontes de instalações com emissões anuais totais superiores a 500 kt. Os limiares indicados no quadro referem-se às emissões anuais totais de toda a instalação.
 
-[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2005/01/021b00/07530789.pdf)
+[[[[[[[[[[[[[[[[[[[[[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2005/01/021b00/07530789.pdf)](https://files.diariodarepublica.pt/1s/2005/01/021b00/07530789.pdf)](https://files.diariodarepublica.pt/1s/2005/01/021b00/07530789.pdf)](https://files.diariodarepublica.pt/1s/2005/01/021b00/07530789.pdf)](https://files.diariodarepublica.pt/1s/2005/01/021b00/07530789.pdf)](https://files.diariodarepublica.pt/1s/2005/01/021b00/07530789.pdf)](https://files.diariodarepublica.pt/1s/2005/01/021b00/07530789.pdf)](https://files.diariodarepublica.pt/1s/2005/01/021b00/07530789.pdf)](https://files.diariodarepublica.pt/1s/2005/01/021b00/07530789.pdf)](https://files.diariodarepublica.pt/1s/2005/01/021b00/07530789.pdf)](https://files.diariodarepublica.pt/1s/2005/01/021b00/07530789.pdf)](https://files.diariodarepublica.pt/1s/2005/01/021b00/07530789.pdf)](https://files.diariodarepublica.pt/1s/2005/01/021b00/07530789.pdf)](https://files.diariodarepublica.pt/1s/2005/01/021b00/07530789.pdf)](https://files.diariodarepublica.pt/1s/2005/01/021b00/07530789.pdf)](https://files.diariodarepublica.pt/1s/2005/01/021b00/07530789.pdf)](https://files.diariodarepublica.pt/1s/2005/01/021b00/07530789.pdf)](https://files.diariodarepublica.pt/1s/2005/01/021b00/07530789.pdf)](https://files.diariodarepublica.pt/1s/2005/01/021b00/07530789.pdf)](https://files.diariodarepublica.pt/1s/2005/01/021b00/07530789.pdf)](https://files.diariodarepublica.pt/1s/2005/01/021b00/07530789.pdf)
 
 Para as variáveis utilizadas no cálculo das emissões de fontes menores, incluindo fluxos menores de combustíveis ou materiais, o operador pode aplicar, após aprovação do Instituto do Ambiente, níveis metodológicos menos elevados do que os aplicados para as variáveis utilizadas no cálculo das emissões de fontes ou de fluxos de combustíveis ou materiais mais importantes de uma mesma instalação. Consideram-se fontes importantes, nomeadamente fluxos de combustíveis e materiais importantes, aquelas que, classificadas por ordem decrescente de magnitude, representam, cumulativamente, 95%, no mínimo, das emissões anuais totais da instalação. Em consequência, as fontes menores são as que emitem 2,5 kt ou menos por ano e representam, no máximo, 5% das emissões totais anuais da instalação, independentemente da fonte que contribui com a maior quantidade de emissões, em termos absolutos. Em relação às fontes menores que, no seu conjunto, emitem anualmente 0,5 kt ou menos e representam menos de 1% das emissões totais da instalação, independentemente da fonte que contribui com a maior quantidade de emissões, os operadores podem, mediante autorização do Instituto do Ambiente, adoptar uma abordagem «de mínimos» para efeitos de monitorização e comunicação de informações, utilizando o seu próprio método de estimativa, não incluído nos níveis metodológicos. Em relação aos biocombustíveis puros, podem ser aplicados níveis inferiores, excepto se as emissões calculadas correspondentes forem utilizadas na subtracção do carbono da biomassa de emissões de dióxido de carbono determinadas através de medição contínua da emissão.
 
@@ -406,7 +411,7 @@ Caso não seja tecnicamente viável ou implique custos excessivos determinar o �
 
 A fim de apoiar a selecção dos níveis adequados para os dados da actividade, o quadro n.º 2 apresenta uma panorâmica das diferentes categorias de incertezas comuns identificadas para os diversos tipos de dispositivos de medição utilizados para determinar os fluxos maciços de combustíveis, o fluxo material, os materiais utilizados ou a produção. O quadro pode ser utilizado para informar as autoridades competentes e os operadores sobre as possibilidades e limitações de aplicação do nível adequado para a determinação dos dados da actividade.
 
-[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2005/01/021b00/07530789.pdf)
+[[[[[[[[[[[[[[[[[[[[[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2005/01/021b00/07530789.pdf)](https://files.diariodarepublica.pt/1s/2005/01/021b00/07530789.pdf)](https://files.diariodarepublica.pt/1s/2005/01/021b00/07530789.pdf)](https://files.diariodarepublica.pt/1s/2005/01/021b00/07530789.pdf)](https://files.diariodarepublica.pt/1s/2005/01/021b00/07530789.pdf)](https://files.diariodarepublica.pt/1s/2005/01/021b00/07530789.pdf)](https://files.diariodarepublica.pt/1s/2005/01/021b00/07530789.pdf)](https://files.diariodarepublica.pt/1s/2005/01/021b00/07530789.pdf)](https://files.diariodarepublica.pt/1s/2005/01/021b00/07530789.pdf)](https://files.diariodarepublica.pt/1s/2005/01/021b00/07530789.pdf)](https://files.diariodarepublica.pt/1s/2005/01/021b00/07530789.pdf)](https://files.diariodarepublica.pt/1s/2005/01/021b00/07530789.pdf)](https://files.diariodarepublica.pt/1s/2005/01/021b00/07530789.pdf)](https://files.diariodarepublica.pt/1s/2005/01/021b00/07530789.pdf)](https://files.diariodarepublica.pt/1s/2005/01/021b00/07530789.pdf)](https://files.diariodarepublica.pt/1s/2005/01/021b00/07530789.pdf)](https://files.diariodarepublica.pt/1s/2005/01/021b00/07530789.pdf)](https://files.diariodarepublica.pt/1s/2005/01/021b00/07530789.pdf)](https://files.diariodarepublica.pt/1s/2005/01/021b00/07530789.pdf)](https://files.diariodarepublica.pt/1s/2005/01/021b00/07530789.pdf)](https://files.diariodarepublica.pt/1s/2005/01/021b00/07530789.pdf)
 
 4.2.2.1.6 - Factores de emissão. - Os factores de emissão baseiam-se no teor de carbono dos combustíveis ou dos materiais utilizados e são expressos em tCO(índice 2)/TJ (emissões de combustão) ou tCO(índice 2)/t ou tCO(índice 2)/m3 (emissões de processo). Os factores de emissão e as disposições para o desenvolvimento de factores de emissão específicos às actividades são apresentados nos n.os 8 e 10 do presente capítulo. Um operador pode utilizar para um combustível um factor de emissão expresso em teor de carbono (tCO(índice 2)/t) e não em tCO(índice 2)/TJ para as emissões de combustão, se demonstrar ao Instituto do Ambiente que tal assegurará, em permanência, um grau de rigor mais elevado. Nesse caso, o operador deve, não obstante, determinar periodicamente o teor de energia, a fim de se conformar aos requisitos de comunicação de informações constantes do n.º 5 do presente capítulo.
 
@@ -504,7 +509,7 @@ O operador, através do processo de garantia e de controlo da qualidade, deve ge
 
 4.3.3 - Valores ilustrativos da incerteza. - O quadro n.º 3 apresenta uma panorâmica da incerteza global frequente na determinação das emissões de CO(índice 2) de instalações com níveis de emissões de diferentes magnitudes. As informações constantes deste quadro devem ser tidas em conta pelo Instituto do Ambiente na avaliação ou na aprovação da metodologia de monitorização de uma instalação que utilize métodos de cálculo ou sistemas de medição contínua.
 
-[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2005/01/021b00/07530789.pdf)
+[[[[[[[[[[[[[[[[[[[[[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2005/01/021b00/07530789.pdf)](https://files.diariodarepublica.pt/1s/2005/01/021b00/07530789.pdf)](https://files.diariodarepublica.pt/1s/2005/01/021b00/07530789.pdf)](https://files.diariodarepublica.pt/1s/2005/01/021b00/07530789.pdf)](https://files.diariodarepublica.pt/1s/2005/01/021b00/07530789.pdf)](https://files.diariodarepublica.pt/1s/2005/01/021b00/07530789.pdf)](https://files.diariodarepublica.pt/1s/2005/01/021b00/07530789.pdf)](https://files.diariodarepublica.pt/1s/2005/01/021b00/07530789.pdf)](https://files.diariodarepublica.pt/1s/2005/01/021b00/07530789.pdf)](https://files.diariodarepublica.pt/1s/2005/01/021b00/07530789.pdf)](https://files.diariodarepublica.pt/1s/2005/01/021b00/07530789.pdf)](https://files.diariodarepublica.pt/1s/2005/01/021b00/07530789.pdf)](https://files.diariodarepublica.pt/1s/2005/01/021b00/07530789.pdf)](https://files.diariodarepublica.pt/1s/2005/01/021b00/07530789.pdf)](https://files.diariodarepublica.pt/1s/2005/01/021b00/07530789.pdf)](https://files.diariodarepublica.pt/1s/2005/01/021b00/07530789.pdf)](https://files.diariodarepublica.pt/1s/2005/01/021b00/07530789.pdf)](https://files.diariodarepublica.pt/1s/2005/01/021b00/07530789.pdf)](https://files.diariodarepublica.pt/1s/2005/01/021b00/07530789.pdf)](https://files.diariodarepublica.pt/1s/2005/01/021b00/07530789.pdf)](https://files.diariodarepublica.pt/1s/2005/01/021b00/07530789.pdf)
 
 5 - Comunicação de informações. - O anexo IV do decreto-lei estabelece os requisitos em matéria de comunicação de informações a observar pelas instalações. O modelo de relatório constante do n.º 11 do presente capítulo deverá ser utilizado como base para a comunicação dos dados quantitativos. O relatório será verificado em conformidade com as normas a estabelecer na portaria referida no n.º 2 do artigo 23.º do decreto-lei, nos termos do seu anexo V. O operador deve apresentar o relatório verificado ao Instituto do Ambiente até 31 de Março de cada ano, relativamente às emissões do ano anterior.
 
@@ -678,7 +683,7 @@ Deverá garantir-se que eventuais divergências de opiniões entre operadores, v
 
 8 - Factores de emissão. - O presente ponto contém factores de emissão de referência para o nível metodológico 1 que permitem a utilização de factores não específicos da actividade para a queima de combustíveis. No caso de um combustível que não pertença a uma categoria de combustíveis existente, o operador deve recorrer à sua experiência para incluir o combustível numa categoria de combustíveis conexa, sob reserva da aprovação do Instituto do Ambiente.
 
-[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2005/01/021b00/07530789.pdf)
+[[[[[[[[[[[[[[[[[[[[[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2005/01/021b00/07530789.pdf)](https://files.diariodarepublica.pt/1s/2005/01/021b00/07530789.pdf)](https://files.diariodarepublica.pt/1s/2005/01/021b00/07530789.pdf)](https://files.diariodarepublica.pt/1s/2005/01/021b00/07530789.pdf)](https://files.diariodarepublica.pt/1s/2005/01/021b00/07530789.pdf)](https://files.diariodarepublica.pt/1s/2005/01/021b00/07530789.pdf)](https://files.diariodarepublica.pt/1s/2005/01/021b00/07530789.pdf)](https://files.diariodarepublica.pt/1s/2005/01/021b00/07530789.pdf)](https://files.diariodarepublica.pt/1s/2005/01/021b00/07530789.pdf)](https://files.diariodarepublica.pt/1s/2005/01/021b00/07530789.pdf)](https://files.diariodarepublica.pt/1s/2005/01/021b00/07530789.pdf)](https://files.diariodarepublica.pt/1s/2005/01/021b00/07530789.pdf)](https://files.diariodarepublica.pt/1s/2005/01/021b00/07530789.pdf)](https://files.diariodarepublica.pt/1s/2005/01/021b00/07530789.pdf)](https://files.diariodarepublica.pt/1s/2005/01/021b00/07530789.pdf)](https://files.diariodarepublica.pt/1s/2005/01/021b00/07530789.pdf)](https://files.diariodarepublica.pt/1s/2005/01/021b00/07530789.pdf)](https://files.diariodarepublica.pt/1s/2005/01/021b00/07530789.pdf)](https://files.diariodarepublica.pt/1s/2005/01/021b00/07530789.pdf)](https://files.diariodarepublica.pt/1s/2005/01/021b00/07530789.pdf)](https://files.diariodarepublica.pt/1s/2005/01/021b00/07530789.pdf)
 
 9 - Lista de biomassa neutra em termos de CO(índice 2). - A presente lista exemplificativa, mas não exaustiva, inclui diversas matérias consideradas biomassa para efeitos da aplicação das presentes orientações e às quais deve ser atribuído um factor de emissão igual a 0 [tCO(índice 2)/TJ ou t ou m3]. A turfa e as fracções fósseis das matérias a seguir enumeradas não devem ser consideradas biomassa.
 
@@ -836,19 +841,19 @@ Se a determinação da fracção de biomassa de uma mistura de combustíveis nã
 
 11.1 - Identificação da instalação:
 
-[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2005/01/021b00/07530789.pdf)
+[[[[[[[[[[[[[[[[[[[[[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2005/01/021b00/07530789.pdf)](https://files.diariodarepublica.pt/1s/2005/01/021b00/07530789.pdf)](https://files.diariodarepublica.pt/1s/2005/01/021b00/07530789.pdf)](https://files.diariodarepublica.pt/1s/2005/01/021b00/07530789.pdf)](https://files.diariodarepublica.pt/1s/2005/01/021b00/07530789.pdf)](https://files.diariodarepublica.pt/1s/2005/01/021b00/07530789.pdf)](https://files.diariodarepublica.pt/1s/2005/01/021b00/07530789.pdf)](https://files.diariodarepublica.pt/1s/2005/01/021b00/07530789.pdf)](https://files.diariodarepublica.pt/1s/2005/01/021b00/07530789.pdf)](https://files.diariodarepublica.pt/1s/2005/01/021b00/07530789.pdf)](https://files.diariodarepublica.pt/1s/2005/01/021b00/07530789.pdf)](https://files.diariodarepublica.pt/1s/2005/01/021b00/07530789.pdf)](https://files.diariodarepublica.pt/1s/2005/01/021b00/07530789.pdf)](https://files.diariodarepublica.pt/1s/2005/01/021b00/07530789.pdf)](https://files.diariodarepublica.pt/1s/2005/01/021b00/07530789.pdf)](https://files.diariodarepublica.pt/1s/2005/01/021b00/07530789.pdf)](https://files.diariodarepublica.pt/1s/2005/01/021b00/07530789.pdf)](https://files.diariodarepublica.pt/1s/2005/01/021b00/07530789.pdf)](https://files.diariodarepublica.pt/1s/2005/01/021b00/07530789.pdf)](https://files.diariodarepublica.pt/1s/2005/01/021b00/07530789.pdf)](https://files.diariodarepublica.pt/1s/2005/01/021b00/07530789.pdf)
 
 11.2 - Conjunto das actividades e emissões da instalação (ver nota 18):
 
-[(ver quadros no documento original)](https://files.diariodarepublica.pt/1s/2005/01/021b00/07530789.pdf)
+[[(ver quadros no documento original)](https://files.diariodarepublica.pt/1s/2005/01/021b00/07530789.pdf)](https://files.diariodarepublica.pt/1s/2005/01/021b00/07530789.pdf)
 
 11.3 - Emissões de combustão (cálculo):
 
-[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2005/01/021b00/07530789.pdf)
+[[[[[[[[[[[[[[[[[[[[[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2005/01/021b00/07530789.pdf)](https://files.diariodarepublica.pt/1s/2005/01/021b00/07530789.pdf)](https://files.diariodarepublica.pt/1s/2005/01/021b00/07530789.pdf)](https://files.diariodarepublica.pt/1s/2005/01/021b00/07530789.pdf)](https://files.diariodarepublica.pt/1s/2005/01/021b00/07530789.pdf)](https://files.diariodarepublica.pt/1s/2005/01/021b00/07530789.pdf)](https://files.diariodarepublica.pt/1s/2005/01/021b00/07530789.pdf)](https://files.diariodarepublica.pt/1s/2005/01/021b00/07530789.pdf)](https://files.diariodarepublica.pt/1s/2005/01/021b00/07530789.pdf)](https://files.diariodarepublica.pt/1s/2005/01/021b00/07530789.pdf)](https://files.diariodarepublica.pt/1s/2005/01/021b00/07530789.pdf)](https://files.diariodarepublica.pt/1s/2005/01/021b00/07530789.pdf)](https://files.diariodarepublica.pt/1s/2005/01/021b00/07530789.pdf)](https://files.diariodarepublica.pt/1s/2005/01/021b00/07530789.pdf)](https://files.diariodarepublica.pt/1s/2005/01/021b00/07530789.pdf)](https://files.diariodarepublica.pt/1s/2005/01/021b00/07530789.pdf)](https://files.diariodarepublica.pt/1s/2005/01/021b00/07530789.pdf)](https://files.diariodarepublica.pt/1s/2005/01/021b00/07530789.pdf)](https://files.diariodarepublica.pt/1s/2005/01/021b00/07530789.pdf)](https://files.diariodarepublica.pt/1s/2005/01/021b00/07530789.pdf)](https://files.diariodarepublica.pt/1s/2005/01/021b00/07530789.pdf)
 
 11.4 - Emissões de processo (cálculo):
 
-[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2005/01/021b00/07530789.pdf)
+[[[[[[[[[[[[[[[[[[[[[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2005/01/021b00/07530789.pdf)](https://files.diariodarepublica.pt/1s/2005/01/021b00/07530789.pdf)](https://files.diariodarepublica.pt/1s/2005/01/021b00/07530789.pdf)](https://files.diariodarepublica.pt/1s/2005/01/021b00/07530789.pdf)](https://files.diariodarepublica.pt/1s/2005/01/021b00/07530789.pdf)](https://files.diariodarepublica.pt/1s/2005/01/021b00/07530789.pdf)](https://files.diariodarepublica.pt/1s/2005/01/021b00/07530789.pdf)](https://files.diariodarepublica.pt/1s/2005/01/021b00/07530789.pdf)](https://files.diariodarepublica.pt/1s/2005/01/021b00/07530789.pdf)](https://files.diariodarepublica.pt/1s/2005/01/021b00/07530789.pdf)](https://files.diariodarepublica.pt/1s/2005/01/021b00/07530789.pdf)](https://files.diariodarepublica.pt/1s/2005/01/021b00/07530789.pdf)](https://files.diariodarepublica.pt/1s/2005/01/021b00/07530789.pdf)](https://files.diariodarepublica.pt/1s/2005/01/021b00/07530789.pdf)](https://files.diariodarepublica.pt/1s/2005/01/021b00/07530789.pdf)](https://files.diariodarepublica.pt/1s/2005/01/021b00/07530789.pdf)](https://files.diariodarepublica.pt/1s/2005/01/021b00/07530789.pdf)](https://files.diariodarepublica.pt/1s/2005/01/021b00/07530789.pdf)](https://files.diariodarepublica.pt/1s/2005/01/021b00/07530789.pdf)](https://files.diariodarepublica.pt/1s/2005/01/021b00/07530789.pdf)](https://files.diariodarepublica.pt/1s/2005/01/021b00/07530789.pdf)
 
 12 - Categorias a incluir na comunicação de informações. - As emissões devem ser comunicadas de acordo com as categorias do modelo de relatório do IPCC e com o código IPPC constante do anexo A3 da decisão EPER (v. n.º 12.2 do presente capítulo). As categorias especificadas de ambos os modelos de relatórios são apresentadas em seguida. No caso de uma actividade poder ser incluída em duas ou mais categorias, a classificação seleccionada deve reflectir o principal objectivo da actividade.
 
@@ -870,11 +875,11 @@ Outras.
 
 As categorias 1, 2 e 6 do quadro seguinte, bem como as respectivas subcategorias pertinentes, são reproduzidas a seguir:
 
-[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2005/01/021b00/07530789.pdf)
+[[[[[[[[[[[[[[[[[[[[[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2005/01/021b00/07530789.pdf)](https://files.diariodarepublica.pt/1s/2005/01/021b00/07530789.pdf)](https://files.diariodarepublica.pt/1s/2005/01/021b00/07530789.pdf)](https://files.diariodarepublica.pt/1s/2005/01/021b00/07530789.pdf)](https://files.diariodarepublica.pt/1s/2005/01/021b00/07530789.pdf)](https://files.diariodarepublica.pt/1s/2005/01/021b00/07530789.pdf)](https://files.diariodarepublica.pt/1s/2005/01/021b00/07530789.pdf)](https://files.diariodarepublica.pt/1s/2005/01/021b00/07530789.pdf)](https://files.diariodarepublica.pt/1s/2005/01/021b00/07530789.pdf)](https://files.diariodarepublica.pt/1s/2005/01/021b00/07530789.pdf)](https://files.diariodarepublica.pt/1s/2005/01/021b00/07530789.pdf)](https://files.diariodarepublica.pt/1s/2005/01/021b00/07530789.pdf)](https://files.diariodarepublica.pt/1s/2005/01/021b00/07530789.pdf)](https://files.diariodarepublica.pt/1s/2005/01/021b00/07530789.pdf)](https://files.diariodarepublica.pt/1s/2005/01/021b00/07530789.pdf)](https://files.diariodarepublica.pt/1s/2005/01/021b00/07530789.pdf)](https://files.diariodarepublica.pt/1s/2005/01/021b00/07530789.pdf)](https://files.diariodarepublica.pt/1s/2005/01/021b00/07530789.pdf)](https://files.diariodarepublica.pt/1s/2005/01/021b00/07530789.pdf)](https://files.diariodarepublica.pt/1s/2005/01/021b00/07530789.pdf)](https://files.diariodarepublica.pt/1s/2005/01/021b00/07530789.pdf)
 
 12.2 - Código IPPC das categorias de fontes da decisão EPER. - O quadro seguinte foi extraído do anexo A3 da Decisão n.º [2000/479/CE](http://data.europa.eu/eli/dec/2000/479/oj?locale=pt), da Comissão, de 17 de Julho, relativa à criação de um registo europeu das emissões de poluentes (EPER) nos termos do artigo 15.º da Directiva n.º [96/61/CE](http://data.europa.eu/eli/dir/1996/61/oj?locale=pt), do Conselho, relativa à prevenção e controlo integrados da poluição (ver nota 22):
 
-[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2005/01/021b00/07530789.pdf)
+[[[[[[[[[[[[[[[[[[[[[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2005/01/021b00/07530789.pdf)](https://files.diariodarepublica.pt/1s/2005/01/021b00/07530789.pdf)](https://files.diariodarepublica.pt/1s/2005/01/021b00/07530789.pdf)](https://files.diariodarepublica.pt/1s/2005/01/021b00/07530789.pdf)](https://files.diariodarepublica.pt/1s/2005/01/021b00/07530789.pdf)](https://files.diariodarepublica.pt/1s/2005/01/021b00/07530789.pdf)](https://files.diariodarepublica.pt/1s/2005/01/021b00/07530789.pdf)](https://files.diariodarepublica.pt/1s/2005/01/021b00/07530789.pdf)](https://files.diariodarepublica.pt/1s/2005/01/021b00/07530789.pdf)](https://files.diariodarepublica.pt/1s/2005/01/021b00/07530789.pdf)](https://files.diariodarepublica.pt/1s/2005/01/021b00/07530789.pdf)](https://files.diariodarepublica.pt/1s/2005/01/021b00/07530789.pdf)](https://files.diariodarepublica.pt/1s/2005/01/021b00/07530789.pdf)](https://files.diariodarepublica.pt/1s/2005/01/021b00/07530789.pdf)](https://files.diariodarepublica.pt/1s/2005/01/021b00/07530789.pdf)](https://files.diariodarepublica.pt/1s/2005/01/021b00/07530789.pdf)](https://files.diariodarepublica.pt/1s/2005/01/021b00/07530789.pdf)](https://files.diariodarepublica.pt/1s/2005/01/021b00/07530789.pdf)](https://files.diariodarepublica.pt/1s/2005/01/021b00/07530789.pdf)](https://files.diariodarepublica.pt/1s/2005/01/021b00/07530789.pdf)](https://files.diariodarepublica.pt/1s/2005/01/021b00/07530789.pdf)
 
 ### CAPÍTULO II — Orientações para as emissões de combustão das actividades enunciadas no anexo I do decreto-lei
 
@@ -1058,7 +1063,7 @@ b) Factor de emissão:
 
 Nível 1 - utilização de rácios estequiométricos de conversão de carbonatos [tCO(índice 2)/t carbonato seco], em conformidade com o quadro n.º 1. Este valor deve ser ajustado ao teor de humidade e de ganga do carbonato utilizado.
 
-[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2005/01/021b00/07530789.pdf)
+[[[[[[[[[[[[[[[[[[[[[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2005/01/021b00/07530789.pdf)](https://files.diariodarepublica.pt/1s/2005/01/021b00/07530789.pdf)](https://files.diariodarepublica.pt/1s/2005/01/021b00/07530789.pdf)](https://files.diariodarepublica.pt/1s/2005/01/021b00/07530789.pdf)](https://files.diariodarepublica.pt/1s/2005/01/021b00/07530789.pdf)](https://files.diariodarepublica.pt/1s/2005/01/021b00/07530789.pdf)](https://files.diariodarepublica.pt/1s/2005/01/021b00/07530789.pdf)](https://files.diariodarepublica.pt/1s/2005/01/021b00/07530789.pdf)](https://files.diariodarepublica.pt/1s/2005/01/021b00/07530789.pdf)](https://files.diariodarepublica.pt/1s/2005/01/021b00/07530789.pdf)](https://files.diariodarepublica.pt/1s/2005/01/021b00/07530789.pdf)](https://files.diariodarepublica.pt/1s/2005/01/021b00/07530789.pdf)](https://files.diariodarepublica.pt/1s/2005/01/021b00/07530789.pdf)](https://files.diariodarepublica.pt/1s/2005/01/021b00/07530789.pdf)](https://files.diariodarepublica.pt/1s/2005/01/021b00/07530789.pdf)](https://files.diariodarepublica.pt/1s/2005/01/021b00/07530789.pdf)](https://files.diariodarepublica.pt/1s/2005/01/021b00/07530789.pdf)](https://files.diariodarepublica.pt/1s/2005/01/021b00/07530789.pdf)](https://files.diariodarepublica.pt/1s/2005/01/021b00/07530789.pdf)](https://files.diariodarepublica.pt/1s/2005/01/021b00/07530789.pdf)](https://files.diariodarepublica.pt/1s/2005/01/021b00/07530789.pdf)
 
 c) Factor de conversão:
 
@@ -1142,7 +1147,7 @@ Alterações das existências [tC]: aumento das existências de carbono nos limi
 
 O cálculo deve obedecer à seguinte fórmula:
 
-[(ver fórmula no documento original)](https://files.diariodarepublica.pt/1s/2005/01/021b00/07530789.pdf)
+[[[[[[[[[[[[[[(ver fórmula no documento original)](https://files.diariodarepublica.pt/1s/2005/01/021b00/07530789.pdf)](https://files.diariodarepublica.pt/1s/2005/01/021b00/07530789.pdf)](https://files.diariodarepublica.pt/1s/2005/01/021b00/07530789.pdf)](https://files.diariodarepublica.pt/1s/2005/01/021b00/07530789.pdf)](https://files.diariodarepublica.pt/1s/2005/01/021b00/07530789.pdf)](https://files.diariodarepublica.pt/1s/2005/01/021b00/07530789.pdf)](https://files.diariodarepublica.pt/1s/2005/01/021b00/07530789.pdf)](https://files.diariodarepublica.pt/1s/2005/01/021b00/07530789.pdf)](https://files.diariodarepublica.pt/1s/2005/01/021b00/07530789.pdf)](https://files.diariodarepublica.pt/1s/2005/01/021b00/07530789.pdf)](https://files.diariodarepublica.pt/1s/2005/01/021b00/07530789.pdf)](https://files.diariodarepublica.pt/1s/2005/01/021b00/07530789.pdf)](https://files.diariodarepublica.pt/1s/2005/01/021b00/07530789.pdf)](https://files.diariodarepublica.pt/1s/2005/01/021b00/07530789.pdf)
 
 em que:
 
@@ -1270,7 +1275,7 @@ Alterações das existências [tC]: aumentos das existências de carbono nos lim
 
 O cálculo deve obedecer à seguinte fórmula:
 
-[(ver fórmula no documento original)](https://files.diariodarepublica.pt/1s/2005/01/021b00/07530789.pdf)
+[[[[[[[[[[[[[[(ver fórmula no documento original)](https://files.diariodarepublica.pt/1s/2005/01/021b00/07530789.pdf)](https://files.diariodarepublica.pt/1s/2005/01/021b00/07530789.pdf)](https://files.diariodarepublica.pt/1s/2005/01/021b00/07530789.pdf)](https://files.diariodarepublica.pt/1s/2005/01/021b00/07530789.pdf)](https://files.diariodarepublica.pt/1s/2005/01/021b00/07530789.pdf)](https://files.diariodarepublica.pt/1s/2005/01/021b00/07530789.pdf)](https://files.diariodarepublica.pt/1s/2005/01/021b00/07530789.pdf)](https://files.diariodarepublica.pt/1s/2005/01/021b00/07530789.pdf)](https://files.diariodarepublica.pt/1s/2005/01/021b00/07530789.pdf)](https://files.diariodarepublica.pt/1s/2005/01/021b00/07530789.pdf)](https://files.diariodarepublica.pt/1s/2005/01/021b00/07530789.pdf)](https://files.diariodarepublica.pt/1s/2005/01/021b00/07530789.pdf)](https://files.diariodarepublica.pt/1s/2005/01/021b00/07530789.pdf)](https://files.diariodarepublica.pt/1s/2005/01/021b00/07530789.pdf)
 
 em que:
 
@@ -1298,7 +1303,7 @@ Nível 1 - tendo em vista a coerência das informações comunicadas, deve ser c
 
 A emissão total de CO(índice 2) dos fornos de coque deve ser calculada segundo a seguinte fórmula:
 
-[(ver fórmula no documento original)](https://files.diariodarepublica.pt/1s/2005/01/021b00/07530789.pdf)
+[[[[[[[[[[[[[[(ver fórmula no documento original)](https://files.diariodarepublica.pt/1s/2005/01/021b00/07530789.pdf)](https://files.diariodarepublica.pt/1s/2005/01/021b00/07530789.pdf)](https://files.diariodarepublica.pt/1s/2005/01/021b00/07530789.pdf)](https://files.diariodarepublica.pt/1s/2005/01/021b00/07530789.pdf)](https://files.diariodarepublica.pt/1s/2005/01/021b00/07530789.pdf)](https://files.diariodarepublica.pt/1s/2005/01/021b00/07530789.pdf)](https://files.diariodarepublica.pt/1s/2005/01/021b00/07530789.pdf)](https://files.diariodarepublica.pt/1s/2005/01/021b00/07530789.pdf)](https://files.diariodarepublica.pt/1s/2005/01/021b00/07530789.pdf)](https://files.diariodarepublica.pt/1s/2005/01/021b00/07530789.pdf)](https://files.diariodarepublica.pt/1s/2005/01/021b00/07530789.pdf)](https://files.diariodarepublica.pt/1s/2005/01/021b00/07530789.pdf)](https://files.diariodarepublica.pt/1s/2005/01/021b00/07530789.pdf)](https://files.diariodarepublica.pt/1s/2005/01/021b00/07530789.pdf)
 
 em que:
 
@@ -1326,7 +1331,7 @@ b) Factor de emissão:
 
 Nível 1 - utilização dos factores de referência do quadro infra ou do n.º 8 do capítulo I:
 
-[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2005/01/021b00/07530789.pdf)
+[[[[[[[[[[[[[[[[[[[[[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2005/01/021b00/07530789.pdf)](https://files.diariodarepublica.pt/1s/2005/01/021b00/07530789.pdf)](https://files.diariodarepublica.pt/1s/2005/01/021b00/07530789.pdf)](https://files.diariodarepublica.pt/1s/2005/01/021b00/07530789.pdf)](https://files.diariodarepublica.pt/1s/2005/01/021b00/07530789.pdf)](https://files.diariodarepublica.pt/1s/2005/01/021b00/07530789.pdf)](https://files.diariodarepublica.pt/1s/2005/01/021b00/07530789.pdf)](https://files.diariodarepublica.pt/1s/2005/01/021b00/07530789.pdf)](https://files.diariodarepublica.pt/1s/2005/01/021b00/07530789.pdf)](https://files.diariodarepublica.pt/1s/2005/01/021b00/07530789.pdf)](https://files.diariodarepublica.pt/1s/2005/01/021b00/07530789.pdf)](https://files.diariodarepublica.pt/1s/2005/01/021b00/07530789.pdf)](https://files.diariodarepublica.pt/1s/2005/01/021b00/07530789.pdf)](https://files.diariodarepublica.pt/1s/2005/01/021b00/07530789.pdf)](https://files.diariodarepublica.pt/1s/2005/01/021b00/07530789.pdf)](https://files.diariodarepublica.pt/1s/2005/01/021b00/07530789.pdf)](https://files.diariodarepublica.pt/1s/2005/01/021b00/07530789.pdf)](https://files.diariodarepublica.pt/1s/2005/01/021b00/07530789.pdf)](https://files.diariodarepublica.pt/1s/2005/01/021b00/07530789.pdf)](https://files.diariodarepublica.pt/1s/2005/01/021b00/07530789.pdf)](https://files.diariodarepublica.pt/1s/2005/01/021b00/07530789.pdf)
 
 Nível 2 - os factores de emissão específicos são determinados em conformidade com o disposto no n.º 10 do capítulo I.
 
@@ -1374,7 +1379,7 @@ Alterações das existências [tC]: aumentos das existências de carbono nos lim
 
 O cálculo deve obedecer à seguinte fórmula:
 
-[(ver fórmula no documento original)](https://files.diariodarepublica.pt/1s/2005/01/021b00/07530789.pdf)
+[[[[[[[[[[[[[[(ver fórmula no documento original)](https://files.diariodarepublica.pt/1s/2005/01/021b00/07530789.pdf)](https://files.diariodarepublica.pt/1s/2005/01/021b00/07530789.pdf)](https://files.diariodarepublica.pt/1s/2005/01/021b00/07530789.pdf)](https://files.diariodarepublica.pt/1s/2005/01/021b00/07530789.pdf)](https://files.diariodarepublica.pt/1s/2005/01/021b00/07530789.pdf)](https://files.diariodarepublica.pt/1s/2005/01/021b00/07530789.pdf)](https://files.diariodarepublica.pt/1s/2005/01/021b00/07530789.pdf)](https://files.diariodarepublica.pt/1s/2005/01/021b00/07530789.pdf)](https://files.diariodarepublica.pt/1s/2005/01/021b00/07530789.pdf)](https://files.diariodarepublica.pt/1s/2005/01/021b00/07530789.pdf)](https://files.diariodarepublica.pt/1s/2005/01/021b00/07530789.pdf)](https://files.diariodarepublica.pt/1s/2005/01/021b00/07530789.pdf)](https://files.diariodarepublica.pt/1s/2005/01/021b00/07530789.pdf)](https://files.diariodarepublica.pt/1s/2005/01/021b00/07530789.pdf)
 
 em que:
 
@@ -1396,7 +1401,7 @@ c) Teor energético - tendo em vista a coerência das informações comunicadas,
 
 2.1.3 - Emissões de processo. - Durante a calcinação na grelha, é libertado CO(índice 2) dos factores de produção, isto é, das várias matérias-primas (normalmente à base de carbonato de cálcio) e dos resíduos de processo reutilizados. Para cada factor de produção utilizado, a quantidade de CO(índice 2) deve ser calculada do seguinte modo:
 
-[(ver fórmula no documento original)](https://files.diariodarepublica.pt/1s/2005/01/021b00/07530789.pdf)
+[[[[[[[[[[[[[[(ver fórmula no documento original)](https://files.diariodarepublica.pt/1s/2005/01/021b00/07530789.pdf)](https://files.diariodarepublica.pt/1s/2005/01/021b00/07530789.pdf)](https://files.diariodarepublica.pt/1s/2005/01/021b00/07530789.pdf)](https://files.diariodarepublica.pt/1s/2005/01/021b00/07530789.pdf)](https://files.diariodarepublica.pt/1s/2005/01/021b00/07530789.pdf)](https://files.diariodarepublica.pt/1s/2005/01/021b00/07530789.pdf)](https://files.diariodarepublica.pt/1s/2005/01/021b00/07530789.pdf)](https://files.diariodarepublica.pt/1s/2005/01/021b00/07530789.pdf)](https://files.diariodarepublica.pt/1s/2005/01/021b00/07530789.pdf)](https://files.diariodarepublica.pt/1s/2005/01/021b00/07530789.pdf)](https://files.diariodarepublica.pt/1s/2005/01/021b00/07530789.pdf)](https://files.diariodarepublica.pt/1s/2005/01/021b00/07530789.pdf)](https://files.diariodarepublica.pt/1s/2005/01/021b00/07530789.pdf)](https://files.diariodarepublica.pt/1s/2005/01/021b00/07530789.pdf)
 
 a) Dados da actividade:
 
@@ -1408,7 +1413,7 @@ b) Factor de emissão:
 
 Nível 1 - para carbonatos: utilizar os rácios estequiométricos constantes do quadro n.º 1:
 
-[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2005/01/021b00/07530789.pdf)
+[[[[[[[[[[[[[[[[[[[[[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2005/01/021b00/07530789.pdf)](https://files.diariodarepublica.pt/1s/2005/01/021b00/07530789.pdf)](https://files.diariodarepublica.pt/1s/2005/01/021b00/07530789.pdf)](https://files.diariodarepublica.pt/1s/2005/01/021b00/07530789.pdf)](https://files.diariodarepublica.pt/1s/2005/01/021b00/07530789.pdf)](https://files.diariodarepublica.pt/1s/2005/01/021b00/07530789.pdf)](https://files.diariodarepublica.pt/1s/2005/01/021b00/07530789.pdf)](https://files.diariodarepublica.pt/1s/2005/01/021b00/07530789.pdf)](https://files.diariodarepublica.pt/1s/2005/01/021b00/07530789.pdf)](https://files.diariodarepublica.pt/1s/2005/01/021b00/07530789.pdf)](https://files.diariodarepublica.pt/1s/2005/01/021b00/07530789.pdf)](https://files.diariodarepublica.pt/1s/2005/01/021b00/07530789.pdf)](https://files.diariodarepublica.pt/1s/2005/01/021b00/07530789.pdf)](https://files.diariodarepublica.pt/1s/2005/01/021b00/07530789.pdf)](https://files.diariodarepublica.pt/1s/2005/01/021b00/07530789.pdf)](https://files.diariodarepublica.pt/1s/2005/01/021b00/07530789.pdf)](https://files.diariodarepublica.pt/1s/2005/01/021b00/07530789.pdf)](https://files.diariodarepublica.pt/1s/2005/01/021b00/07530789.pdf)](https://files.diariodarepublica.pt/1s/2005/01/021b00/07530789.pdf)](https://files.diariodarepublica.pt/1s/2005/01/021b00/07530789.pdf)](https://files.diariodarepublica.pt/1s/2005/01/021b00/07530789.pdf)
 
 Estes valores devem ser ajustados ao teor de humidade e de ganga do carbonato utilizado.
 
@@ -1468,7 +1473,7 @@ Alterações das existências [tC]: aumento das existências de carbono nos limi
 
 O cálculo deve obedecer à seguinte fórmula:
 
-[(ver fórmula no documento original)](https://files.diariodarepublica.pt/1s/2005/01/021b00/07530789.pdf)
+[[[[[[[[[[[[[[(ver fórmula no documento original)](https://files.diariodarepublica.pt/1s/2005/01/021b00/07530789.pdf)](https://files.diariodarepublica.pt/1s/2005/01/021b00/07530789.pdf)](https://files.diariodarepublica.pt/1s/2005/01/021b00/07530789.pdf)](https://files.diariodarepublica.pt/1s/2005/01/021b00/07530789.pdf)](https://files.diariodarepublica.pt/1s/2005/01/021b00/07530789.pdf)](https://files.diariodarepublica.pt/1s/2005/01/021b00/07530789.pdf)](https://files.diariodarepublica.pt/1s/2005/01/021b00/07530789.pdf)](https://files.diariodarepublica.pt/1s/2005/01/021b00/07530789.pdf)](https://files.diariodarepublica.pt/1s/2005/01/021b00/07530789.pdf)](https://files.diariodarepublica.pt/1s/2005/01/021b00/07530789.pdf)](https://files.diariodarepublica.pt/1s/2005/01/021b00/07530789.pdf)](https://files.diariodarepublica.pt/1s/2005/01/021b00/07530789.pdf)](https://files.diariodarepublica.pt/1s/2005/01/021b00/07530789.pdf)](https://files.diariodarepublica.pt/1s/2005/01/021b00/07530789.pdf)
 
 em que:
 
@@ -1496,7 +1501,7 @@ Nível 1 - tendo em vista a coerência das informações comunicadas, deve ser c
 
 As emissões totais de CO(índice 2) das instalações para a produção de gusa e aço, incluindo vazamento contínuo, são calculadas do seguinte modo:
 
-[(ver fórmula no documento original)](https://files.diariodarepublica.pt/1s/2005/01/021b00/07530789.pdf)
+[[[[[[[[[[[[[[(ver fórmula no documento original)](https://files.diariodarepublica.pt/1s/2005/01/021b00/07530789.pdf)](https://files.diariodarepublica.pt/1s/2005/01/021b00/07530789.pdf)](https://files.diariodarepublica.pt/1s/2005/01/021b00/07530789.pdf)](https://files.diariodarepublica.pt/1s/2005/01/021b00/07530789.pdf)](https://files.diariodarepublica.pt/1s/2005/01/021b00/07530789.pdf)](https://files.diariodarepublica.pt/1s/2005/01/021b00/07530789.pdf)](https://files.diariodarepublica.pt/1s/2005/01/021b00/07530789.pdf)](https://files.diariodarepublica.pt/1s/2005/01/021b00/07530789.pdf)](https://files.diariodarepublica.pt/1s/2005/01/021b00/07530789.pdf)](https://files.diariodarepublica.pt/1s/2005/01/021b00/07530789.pdf)](https://files.diariodarepublica.pt/1s/2005/01/021b00/07530789.pdf)](https://files.diariodarepublica.pt/1s/2005/01/021b00/07530789.pdf)](https://files.diariodarepublica.pt/1s/2005/01/021b00/07530789.pdf)](https://files.diariodarepublica.pt/1s/2005/01/021b00/07530789.pdf)
 
 em que:
 
@@ -1524,7 +1529,7 @@ b) Factor de emissão - o factor de emissão para os dados da actividade(índice
 
 Nível 1 - sobre os factores de emissão de referência para os factores de produção e a produção, v. quadros n.os 1 e 2 infra e n.º 8 do capítulo I.
 
-[(ver quadros no documento original)](https://files.diariodarepublica.pt/1s/2005/01/021b00/07530789.pdf)
+[[(ver quadros no documento original)](https://files.diariodarepublica.pt/1s/2005/01/021b00/07530789.pdf)](https://files.diariodarepublica.pt/1s/2005/01/021b00/07530789.pdf)
 
 Nível 2 - factores de emissão específicos [tCO(índice 2)/t(índice (factores de produção)) ou tCO(índice 2)/t(índice (produção))] dos materiais utilizados e produzido, determinados em conformidade com o disposto no n.º 10 do capítulo I.
 
@@ -1580,7 +1585,7 @@ b) Factor de emissão:
 
 Nível 1 - os rácios estequiométricos dos carbonatos que entram no processo, em conformidade com o quadro n.º 1 infra.
 
-[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2005/01/021b00/07530789.pdf)
+[[[[[[[[[[[[[[[[[[[[[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2005/01/021b00/07530789.pdf)](https://files.diariodarepublica.pt/1s/2005/01/021b00/07530789.pdf)](https://files.diariodarepublica.pt/1s/2005/01/021b00/07530789.pdf)](https://files.diariodarepublica.pt/1s/2005/01/021b00/07530789.pdf)](https://files.diariodarepublica.pt/1s/2005/01/021b00/07530789.pdf)](https://files.diariodarepublica.pt/1s/2005/01/021b00/07530789.pdf)](https://files.diariodarepublica.pt/1s/2005/01/021b00/07530789.pdf)](https://files.diariodarepublica.pt/1s/2005/01/021b00/07530789.pdf)](https://files.diariodarepublica.pt/1s/2005/01/021b00/07530789.pdf)](https://files.diariodarepublica.pt/1s/2005/01/021b00/07530789.pdf)](https://files.diariodarepublica.pt/1s/2005/01/021b00/07530789.pdf)](https://files.diariodarepublica.pt/1s/2005/01/021b00/07530789.pdf)](https://files.diariodarepublica.pt/1s/2005/01/021b00/07530789.pdf)](https://files.diariodarepublica.pt/1s/2005/01/021b00/07530789.pdf)](https://files.diariodarepublica.pt/1s/2005/01/021b00/07530789.pdf)](https://files.diariodarepublica.pt/1s/2005/01/021b00/07530789.pdf)](https://files.diariodarepublica.pt/1s/2005/01/021b00/07530789.pdf)](https://files.diariodarepublica.pt/1s/2005/01/021b00/07530789.pdf)](https://files.diariodarepublica.pt/1s/2005/01/021b00/07530789.pdf)](https://files.diariodarepublica.pt/1s/2005/01/021b00/07530789.pdf)](https://files.diariodarepublica.pt/1s/2005/01/021b00/07530789.pdf)
 
 c) Factor de conversão:
 
@@ -1620,7 +1625,7 @@ Factor de emissão [t CO(índice 2)/t clínquer] = 0,785 * (produção CaO [t Ca
 
 Esta equação utiliza a fracção estequiométrica de CO(índice 2)/CaO e CO(índice 2)/MgO constante do quadro n.º 2.
 
-[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2005/01/021b00/07530789.pdf)
+[[[[[[[[[[[[[[[[[[[[[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2005/01/021b00/07530789.pdf)](https://files.diariodarepublica.pt/1s/2005/01/021b00/07530789.pdf)](https://files.diariodarepublica.pt/1s/2005/01/021b00/07530789.pdf)](https://files.diariodarepublica.pt/1s/2005/01/021b00/07530789.pdf)](https://files.diariodarepublica.pt/1s/2005/01/021b00/07530789.pdf)](https://files.diariodarepublica.pt/1s/2005/01/021b00/07530789.pdf)](https://files.diariodarepublica.pt/1s/2005/01/021b00/07530789.pdf)](https://files.diariodarepublica.pt/1s/2005/01/021b00/07530789.pdf)](https://files.diariodarepublica.pt/1s/2005/01/021b00/07530789.pdf)](https://files.diariodarepublica.pt/1s/2005/01/021b00/07530789.pdf)](https://files.diariodarepublica.pt/1s/2005/01/021b00/07530789.pdf)](https://files.diariodarepublica.pt/1s/2005/01/021b00/07530789.pdf)](https://files.diariodarepublica.pt/1s/2005/01/021b00/07530789.pdf)](https://files.diariodarepublica.pt/1s/2005/01/021b00/07530789.pdf)](https://files.diariodarepublica.pt/1s/2005/01/021b00/07530789.pdf)](https://files.diariodarepublica.pt/1s/2005/01/021b00/07530789.pdf)](https://files.diariodarepublica.pt/1s/2005/01/021b00/07530789.pdf)](https://files.diariodarepublica.pt/1s/2005/01/021b00/07530789.pdf)](https://files.diariodarepublica.pt/1s/2005/01/021b00/07530789.pdf)](https://files.diariodarepublica.pt/1s/2005/01/021b00/07530789.pdf)](https://files.diariodarepublica.pt/1s/2005/01/021b00/07530789.pdf)
 
 c) Factor de conversão:
 
@@ -1690,7 +1695,7 @@ Depuração de fumos.
 
 Método de cálculo A: carbonatos - o cálculo deve basear-se na quantidade de carbonatos utilizada. Deve ser utilizada a seguinte fórmula:
 
-[(ver fórmula no documento original)](https://files.diariodarepublica.pt/1s/2005/01/021b00/07530789.pdf)
+[[[[[[[[[[[[[[(ver fórmula no documento original)](https://files.diariodarepublica.pt/1s/2005/01/021b00/07530789.pdf)](https://files.diariodarepublica.pt/1s/2005/01/021b00/07530789.pdf)](https://files.diariodarepublica.pt/1s/2005/01/021b00/07530789.pdf)](https://files.diariodarepublica.pt/1s/2005/01/021b00/07530789.pdf)](https://files.diariodarepublica.pt/1s/2005/01/021b00/07530789.pdf)](https://files.diariodarepublica.pt/1s/2005/01/021b00/07530789.pdf)](https://files.diariodarepublica.pt/1s/2005/01/021b00/07530789.pdf)](https://files.diariodarepublica.pt/1s/2005/01/021b00/07530789.pdf)](https://files.diariodarepublica.pt/1s/2005/01/021b00/07530789.pdf)](https://files.diariodarepublica.pt/1s/2005/01/021b00/07530789.pdf)](https://files.diariodarepublica.pt/1s/2005/01/021b00/07530789.pdf)](https://files.diariodarepublica.pt/1s/2005/01/021b00/07530789.pdf)](https://files.diariodarepublica.pt/1s/2005/01/021b00/07530789.pdf)](https://files.diariodarepublica.pt/1s/2005/01/021b00/07530789.pdf)
 
 em que:
 
@@ -1704,7 +1709,7 @@ b) Factor de emissão:
 
 Nível 1 - os rácios estequiométricos dos carbonatos dos factores de produção e da produção, em conformidade com o quadro n.º 1.
 
-[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2005/01/021b00/07530789.pdf)
+[[[[[[[[[[[[[[[[[[[[[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2005/01/021b00/07530789.pdf)](https://files.diariodarepublica.pt/1s/2005/01/021b00/07530789.pdf)](https://files.diariodarepublica.pt/1s/2005/01/021b00/07530789.pdf)](https://files.diariodarepublica.pt/1s/2005/01/021b00/07530789.pdf)](https://files.diariodarepublica.pt/1s/2005/01/021b00/07530789.pdf)](https://files.diariodarepublica.pt/1s/2005/01/021b00/07530789.pdf)](https://files.diariodarepublica.pt/1s/2005/01/021b00/07530789.pdf)](https://files.diariodarepublica.pt/1s/2005/01/021b00/07530789.pdf)](https://files.diariodarepublica.pt/1s/2005/01/021b00/07530789.pdf)](https://files.diariodarepublica.pt/1s/2005/01/021b00/07530789.pdf)](https://files.diariodarepublica.pt/1s/2005/01/021b00/07530789.pdf)](https://files.diariodarepublica.pt/1s/2005/01/021b00/07530789.pdf)](https://files.diariodarepublica.pt/1s/2005/01/021b00/07530789.pdf)](https://files.diariodarepublica.pt/1s/2005/01/021b00/07530789.pdf)](https://files.diariodarepublica.pt/1s/2005/01/021b00/07530789.pdf)](https://files.diariodarepublica.pt/1s/2005/01/021b00/07530789.pdf)](https://files.diariodarepublica.pt/1s/2005/01/021b00/07530789.pdf)](https://files.diariodarepublica.pt/1s/2005/01/021b00/07530789.pdf)](https://files.diariodarepublica.pt/1s/2005/01/021b00/07530789.pdf)](https://files.diariodarepublica.pt/1s/2005/01/021b00/07530789.pdf)](https://files.diariodarepublica.pt/1s/2005/01/021b00/07530789.pdf)
 
 c) Factor de conversão:
 
@@ -1714,7 +1719,7 @@ Método de cálculo B: óxidos alcalino-terrosos - o CO(índice 2) deve ser calc
 
 Deve ser utilizada a seguinte fórmula de cálculo:
 
-[(ver fórmula no documento original)](https://files.diariodarepublica.pt/1s/2005/01/021b00/07530789.pdf)
+[[[[[[[[[[[[[[(ver fórmula no documento original)](https://files.diariodarepublica.pt/1s/2005/01/021b00/07530789.pdf)](https://files.diariodarepublica.pt/1s/2005/01/021b00/07530789.pdf)](https://files.diariodarepublica.pt/1s/2005/01/021b00/07530789.pdf)](https://files.diariodarepublica.pt/1s/2005/01/021b00/07530789.pdf)](https://files.diariodarepublica.pt/1s/2005/01/021b00/07530789.pdf)](https://files.diariodarepublica.pt/1s/2005/01/021b00/07530789.pdf)](https://files.diariodarepublica.pt/1s/2005/01/021b00/07530789.pdf)](https://files.diariodarepublica.pt/1s/2005/01/021b00/07530789.pdf)](https://files.diariodarepublica.pt/1s/2005/01/021b00/07530789.pdf)](https://files.diariodarepublica.pt/1s/2005/01/021b00/07530789.pdf)](https://files.diariodarepublica.pt/1s/2005/01/021b00/07530789.pdf)](https://files.diariodarepublica.pt/1s/2005/01/021b00/07530789.pdf)](https://files.diariodarepublica.pt/1s/2005/01/021b00/07530789.pdf)](https://files.diariodarepublica.pt/1s/2005/01/021b00/07530789.pdf)
 
 em que:
 
@@ -1728,7 +1733,7 @@ b) Factor de emissão:
 
 Nível 1 - os rácios estequiométricos dos óxidos dos factores de produção e da produção, em conformidade com o quadro n.º 2.
 
-[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2005/01/021b00/07530789.pdf)
+[[[[[[[[[[[[[[[[[[[[[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2005/01/021b00/07530789.pdf)](https://files.diariodarepublica.pt/1s/2005/01/021b00/07530789.pdf)](https://files.diariodarepublica.pt/1s/2005/01/021b00/07530789.pdf)](https://files.diariodarepublica.pt/1s/2005/01/021b00/07530789.pdf)](https://files.diariodarepublica.pt/1s/2005/01/021b00/07530789.pdf)](https://files.diariodarepublica.pt/1s/2005/01/021b00/07530789.pdf)](https://files.diariodarepublica.pt/1s/2005/01/021b00/07530789.pdf)](https://files.diariodarepublica.pt/1s/2005/01/021b00/07530789.pdf)](https://files.diariodarepublica.pt/1s/2005/01/021b00/07530789.pdf)](https://files.diariodarepublica.pt/1s/2005/01/021b00/07530789.pdf)](https://files.diariodarepublica.pt/1s/2005/01/021b00/07530789.pdf)](https://files.diariodarepublica.pt/1s/2005/01/021b00/07530789.pdf)](https://files.diariodarepublica.pt/1s/2005/01/021b00/07530789.pdf)](https://files.diariodarepublica.pt/1s/2005/01/021b00/07530789.pdf)](https://files.diariodarepublica.pt/1s/2005/01/021b00/07530789.pdf)](https://files.diariodarepublica.pt/1s/2005/01/021b00/07530789.pdf)](https://files.diariodarepublica.pt/1s/2005/01/021b00/07530789.pdf)](https://files.diariodarepublica.pt/1s/2005/01/021b00/07530789.pdf)](https://files.diariodarepublica.pt/1s/2005/01/021b00/07530789.pdf)](https://files.diariodarepublica.pt/1s/2005/01/021b00/07530789.pdf)](https://files.diariodarepublica.pt/1s/2005/01/021b00/07530789.pdf)
 
 c) Factor de conversão:
 
@@ -1770,7 +1775,7 @@ O CO(índice 2) libertado pelos carbonatos das matérias-primas durante a fusão
 
 Método de cálculo A: carbonatos - o cálculo deve basear-se na quantidade de carbonatos utilizada. Deve ser utilizada a seguinte fórmula:
 
-[(ver fórmula no documento original)](https://files.diariodarepublica.pt/1s/2005/01/021b00/07530789.pdf)
+[[[[[[[[[[[[[[(ver fórmula no documento original)](https://files.diariodarepublica.pt/1s/2005/01/021b00/07530789.pdf)](https://files.diariodarepublica.pt/1s/2005/01/021b00/07530789.pdf)](https://files.diariodarepublica.pt/1s/2005/01/021b00/07530789.pdf)](https://files.diariodarepublica.pt/1s/2005/01/021b00/07530789.pdf)](https://files.diariodarepublica.pt/1s/2005/01/021b00/07530789.pdf)](https://files.diariodarepublica.pt/1s/2005/01/021b00/07530789.pdf)](https://files.diariodarepublica.pt/1s/2005/01/021b00/07530789.pdf)](https://files.diariodarepublica.pt/1s/2005/01/021b00/07530789.pdf)](https://files.diariodarepublica.pt/1s/2005/01/021b00/07530789.pdf)](https://files.diariodarepublica.pt/1s/2005/01/021b00/07530789.pdf)](https://files.diariodarepublica.pt/1s/2005/01/021b00/07530789.pdf)](https://files.diariodarepublica.pt/1s/2005/01/021b00/07530789.pdf)](https://files.diariodarepublica.pt/1s/2005/01/021b00/07530789.pdf)](https://files.diariodarepublica.pt/1s/2005/01/021b00/07530789.pdf)
 
 em que:
 
@@ -1786,7 +1791,7 @@ Nível 1 - os rácios estequiométricos dos carbonatos dos factores de produçã
 
 ## ANEXO N.º 1 — Factores de emissão estequiométricos
 
-[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2005/01/021b00/07530789.pdf)
+[[[[[[[[[[[[[[[[[[[[[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2005/01/021b00/07530789.pdf)](https://files.diariodarepublica.pt/1s/2005/01/021b00/07530789.pdf)](https://files.diariodarepublica.pt/1s/2005/01/021b00/07530789.pdf)](https://files.diariodarepublica.pt/1s/2005/01/021b00/07530789.pdf)](https://files.diariodarepublica.pt/1s/2005/01/021b00/07530789.pdf)](https://files.diariodarepublica.pt/1s/2005/01/021b00/07530789.pdf)](https://files.diariodarepublica.pt/1s/2005/01/021b00/07530789.pdf)](https://files.diariodarepublica.pt/1s/2005/01/021b00/07530789.pdf)](https://files.diariodarepublica.pt/1s/2005/01/021b00/07530789.pdf)](https://files.diariodarepublica.pt/1s/2005/01/021b00/07530789.pdf)](https://files.diariodarepublica.pt/1s/2005/01/021b00/07530789.pdf)](https://files.diariodarepublica.pt/1s/2005/01/021b00/07530789.pdf)](https://files.diariodarepublica.pt/1s/2005/01/021b00/07530789.pdf)](https://files.diariodarepublica.pt/1s/2005/01/021b00/07530789.pdf)](https://files.diariodarepublica.pt/1s/2005/01/021b00/07530789.pdf)](https://files.diariodarepublica.pt/1s/2005/01/021b00/07530789.pdf)](https://files.diariodarepublica.pt/1s/2005/01/021b00/07530789.pdf)](https://files.diariodarepublica.pt/1s/2005/01/021b00/07530789.pdf)](https://files.diariodarepublica.pt/1s/2005/01/021b00/07530789.pdf)](https://files.diariodarepublica.pt/1s/2005/01/021b00/07530789.pdf)](https://files.diariodarepublica.pt/1s/2005/01/021b00/07530789.pdf)
 
 Estes valores devem ser ajustados em função do teor de humidade e de ganga do carbonato utilizado.
 
@@ -1800,7 +1805,7 @@ Método de cálculo B: óxidos alcalinos - as emissões de CO(índice 2) devem s
 
 Deve ser utilizada a seguinte fórmula de cálculo:
 
-[(ver fórmula no documento original)](https://files.diariodarepublica.pt/1s/2005/01/021b00/07530789.pdf)
+[[[[[[[[[[[[[[(ver fórmula no documento original)](https://files.diariodarepublica.pt/1s/2005/01/021b00/07530789.pdf)](https://files.diariodarepublica.pt/1s/2005/01/021b00/07530789.pdf)](https://files.diariodarepublica.pt/1s/2005/01/021b00/07530789.pdf)](https://files.diariodarepublica.pt/1s/2005/01/021b00/07530789.pdf)](https://files.diariodarepublica.pt/1s/2005/01/021b00/07530789.pdf)](https://files.diariodarepublica.pt/1s/2005/01/021b00/07530789.pdf)](https://files.diariodarepublica.pt/1s/2005/01/021b00/07530789.pdf)](https://files.diariodarepublica.pt/1s/2005/01/021b00/07530789.pdf)](https://files.diariodarepublica.pt/1s/2005/01/021b00/07530789.pdf)](https://files.diariodarepublica.pt/1s/2005/01/021b00/07530789.pdf)](https://files.diariodarepublica.pt/1s/2005/01/021b00/07530789.pdf)](https://files.diariodarepublica.pt/1s/2005/01/021b00/07530789.pdf)](https://files.diariodarepublica.pt/1s/2005/01/021b00/07530789.pdf)](https://files.diariodarepublica.pt/1s/2005/01/021b00/07530789.pdf)
 
 em que:
 
@@ -1814,7 +1819,7 @@ b) Factor de emissão:
 
 Nível 1 - carbonatos: os rácios estequiométricos dos óxidos dos factores de produção e da produção, em conformidade com o quadro n.º 2.
 
-[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2005/01/021b00/07530789.pdf)
+[[[[[[[[[[[[[[[[[[[[[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2005/01/021b00/07530789.pdf)](https://files.diariodarepublica.pt/1s/2005/01/021b00/07530789.pdf)](https://files.diariodarepublica.pt/1s/2005/01/021b00/07530789.pdf)](https://files.diariodarepublica.pt/1s/2005/01/021b00/07530789.pdf)](https://files.diariodarepublica.pt/1s/2005/01/021b00/07530789.pdf)](https://files.diariodarepublica.pt/1s/2005/01/021b00/07530789.pdf)](https://files.diariodarepublica.pt/1s/2005/01/021b00/07530789.pdf)](https://files.diariodarepublica.pt/1s/2005/01/021b00/07530789.pdf)](https://files.diariodarepublica.pt/1s/2005/01/021b00/07530789.pdf)](https://files.diariodarepublica.pt/1s/2005/01/021b00/07530789.pdf)](https://files.diariodarepublica.pt/1s/2005/01/021b00/07530789.pdf)](https://files.diariodarepublica.pt/1s/2005/01/021b00/07530789.pdf)](https://files.diariodarepublica.pt/1s/2005/01/021b00/07530789.pdf)](https://files.diariodarepublica.pt/1s/2005/01/021b00/07530789.pdf)](https://files.diariodarepublica.pt/1s/2005/01/021b00/07530789.pdf)](https://files.diariodarepublica.pt/1s/2005/01/021b00/07530789.pdf)](https://files.diariodarepublica.pt/1s/2005/01/021b00/07530789.pdf)](https://files.diariodarepublica.pt/1s/2005/01/021b00/07530789.pdf)](https://files.diariodarepublica.pt/1s/2005/01/021b00/07530789.pdf)](https://files.diariodarepublica.pt/1s/2005/01/021b00/07530789.pdf)](https://files.diariodarepublica.pt/1s/2005/01/021b00/07530789.pdf)
 
 Aditivos - factores de emissão específicos, determinados em conformidade com o disposto no n.º 10 do capítulo I.
 
@@ -1866,7 +1871,7 @@ Método de cálculo A: carbonatos - o cálculo baseia-se nos carbonatos utilizad
 
 Deve ser utilizada a seguinte fórmula de cálculo:
 
-[(ver fórmula no documento original)](https://files.diariodarepublica.pt/1s/2005/01/021b00/07530789.pdf)
+[[[[[[[[[[[[[[(ver fórmula no documento original)](https://files.diariodarepublica.pt/1s/2005/01/021b00/07530789.pdf)](https://files.diariodarepublica.pt/1s/2005/01/021b00/07530789.pdf)](https://files.diariodarepublica.pt/1s/2005/01/021b00/07530789.pdf)](https://files.diariodarepublica.pt/1s/2005/01/021b00/07530789.pdf)](https://files.diariodarepublica.pt/1s/2005/01/021b00/07530789.pdf)](https://files.diariodarepublica.pt/1s/2005/01/021b00/07530789.pdf)](https://files.diariodarepublica.pt/1s/2005/01/021b00/07530789.pdf)](https://files.diariodarepublica.pt/1s/2005/01/021b00/07530789.pdf)](https://files.diariodarepublica.pt/1s/2005/01/021b00/07530789.pdf)](https://files.diariodarepublica.pt/1s/2005/01/021b00/07530789.pdf)](https://files.diariodarepublica.pt/1s/2005/01/021b00/07530789.pdf)](https://files.diariodarepublica.pt/1s/2005/01/021b00/07530789.pdf)](https://files.diariodarepublica.pt/1s/2005/01/021b00/07530789.pdf)](https://files.diariodarepublica.pt/1s/2005/01/021b00/07530789.pdf)
 
 em que:
 
@@ -1880,7 +1885,7 @@ b) Factor de emissão:
 
 Nível 1 - carbonatos - os rácios estequiométricos dos carbonatos dos factores de produção e da produção, em conformidade com o quadro n.º 1.
 
-[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2005/01/021b00/07530789.pdf)
+[[[[[[[[[[[[[[[[[[[[[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2005/01/021b00/07530789.pdf)](https://files.diariodarepublica.pt/1s/2005/01/021b00/07530789.pdf)](https://files.diariodarepublica.pt/1s/2005/01/021b00/07530789.pdf)](https://files.diariodarepublica.pt/1s/2005/01/021b00/07530789.pdf)](https://files.diariodarepublica.pt/1s/2005/01/021b00/07530789.pdf)](https://files.diariodarepublica.pt/1s/2005/01/021b00/07530789.pdf)](https://files.diariodarepublica.pt/1s/2005/01/021b00/07530789.pdf)](https://files.diariodarepublica.pt/1s/2005/01/021b00/07530789.pdf)](https://files.diariodarepublica.pt/1s/2005/01/021b00/07530789.pdf)](https://files.diariodarepublica.pt/1s/2005/01/021b00/07530789.pdf)](https://files.diariodarepublica.pt/1s/2005/01/021b00/07530789.pdf)](https://files.diariodarepublica.pt/1s/2005/01/021b00/07530789.pdf)](https://files.diariodarepublica.pt/1s/2005/01/021b00/07530789.pdf)](https://files.diariodarepublica.pt/1s/2005/01/021b00/07530789.pdf)](https://files.diariodarepublica.pt/1s/2005/01/021b00/07530789.pdf)](https://files.diariodarepublica.pt/1s/2005/01/021b00/07530789.pdf)](https://files.diariodarepublica.pt/1s/2005/01/021b00/07530789.pdf)](https://files.diariodarepublica.pt/1s/2005/01/021b00/07530789.pdf)](https://files.diariodarepublica.pt/1s/2005/01/021b00/07530789.pdf)](https://files.diariodarepublica.pt/1s/2005/01/021b00/07530789.pdf)](https://files.diariodarepublica.pt/1s/2005/01/021b00/07530789.pdf)
 
 Estes valores devem ser ajustados em função do teor de humidade e de ganga do carbonato utilizado.
 
@@ -1894,7 +1899,7 @@ Método de cálculo B: óxidos alcalinos - o CO(índice 2) da calcinação é ca
 
 Deve ser utilizada a seguinte fórmula de cálculo:
 
-[(ver fórmula no documento original)](https://files.diariodarepublica.pt/1s/2005/01/021b00/07530789.pdf)
+[[[[[[[[[[[[[[(ver fórmula no documento original)](https://files.diariodarepublica.pt/1s/2005/01/021b00/07530789.pdf)](https://files.diariodarepublica.pt/1s/2005/01/021b00/07530789.pdf)](https://files.diariodarepublica.pt/1s/2005/01/021b00/07530789.pdf)](https://files.diariodarepublica.pt/1s/2005/01/021b00/07530789.pdf)](https://files.diariodarepublica.pt/1s/2005/01/021b00/07530789.pdf)](https://files.diariodarepublica.pt/1s/2005/01/021b00/07530789.pdf)](https://files.diariodarepublica.pt/1s/2005/01/021b00/07530789.pdf)](https://files.diariodarepublica.pt/1s/2005/01/021b00/07530789.pdf)](https://files.diariodarepublica.pt/1s/2005/01/021b00/07530789.pdf)](https://files.diariodarepublica.pt/1s/2005/01/021b00/07530789.pdf)](https://files.diariodarepublica.pt/1s/2005/01/021b00/07530789.pdf)](https://files.diariodarepublica.pt/1s/2005/01/021b00/07530789.pdf)](https://files.diariodarepublica.pt/1s/2005/01/021b00/07530789.pdf)](https://files.diariodarepublica.pt/1s/2005/01/021b00/07530789.pdf)
 
 em que:
 
@@ -1908,7 +1913,7 @@ b) Factor de emissão:
 
 Nível 1 - devem ser utilizados os rácios estequiométricos dos óxidos dos factores de produção e da produção (v. quadro n.º 2).
 
-[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2005/01/021b00/07530789.pdf)
+[[[[[[[[[[[[[[[[[[[[[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2005/01/021b00/07530789.pdf)](https://files.diariodarepublica.pt/1s/2005/01/021b00/07530789.pdf)](https://files.diariodarepublica.pt/1s/2005/01/021b00/07530789.pdf)](https://files.diariodarepublica.pt/1s/2005/01/021b00/07530789.pdf)](https://files.diariodarepublica.pt/1s/2005/01/021b00/07530789.pdf)](https://files.diariodarepublica.pt/1s/2005/01/021b00/07530789.pdf)](https://files.diariodarepublica.pt/1s/2005/01/021b00/07530789.pdf)](https://files.diariodarepublica.pt/1s/2005/01/021b00/07530789.pdf)](https://files.diariodarepublica.pt/1s/2005/01/021b00/07530789.pdf)](https://files.diariodarepublica.pt/1s/2005/01/021b00/07530789.pdf)](https://files.diariodarepublica.pt/1s/2005/01/021b00/07530789.pdf)](https://files.diariodarepublica.pt/1s/2005/01/021b00/07530789.pdf)](https://files.diariodarepublica.pt/1s/2005/01/021b00/07530789.pdf)](https://files.diariodarepublica.pt/1s/2005/01/021b00/07530789.pdf)](https://files.diariodarepublica.pt/1s/2005/01/021b00/07530789.pdf)](https://files.diariodarepublica.pt/1s/2005/01/021b00/07530789.pdf)](https://files.diariodarepublica.pt/1s/2005/01/021b00/07530789.pdf)](https://files.diariodarepublica.pt/1s/2005/01/021b00/07530789.pdf)](https://files.diariodarepublica.pt/1s/2005/01/021b00/07530789.pdf)](https://files.diariodarepublica.pt/1s/2005/01/021b00/07530789.pdf)](https://files.diariodarepublica.pt/1s/2005/01/021b00/07530789.pdf)
 
 c) Factor de conversão:
 
@@ -1970,13 +1975,13 @@ O tratamento de águas residuais e os aterros sanitários, incluindo as operaç�
 
 2.1.2 - Emissões de processo. - As emissões resultam da utilização de carbonatos como produtos químicos de reposição em instalações de fabrico de pasta de papel. Embora as perdas de sódio e de cálcio do sistema de recuperação e na zona de causticação sejam, normalmente, compensadas com produtos químicos sem carbonato, são por vezes utilizadas pequenas quantidades de carbonato de cálcio (CaCO(índice 3)) e de carbonato de sódio (Na(índice 2)CO(índice 3)), de que resultam emissões de CO(índice 2). Em geral, o carbono contido nestes produtos químicos é de origem fóssil, embora em alguns casos (por exemplo, Na(índice 2)CO(índice 3) comprado a fábricas de produtos semiquímicos de base sódica) possa ter sido produzido a partir de biomassa.
 
-# Parte-se do princípio de que o carbono contido nestes produtos químicos é emitido como CO(índice 2) pelo forno de cal ou pelo forno de recuperação. Estas emissões são determinadas partindo-se do pressuposto de que a totalidade do carbono contido no CaCO(índice 3) e no Na(índice 2)CO(índice 3) utilizados nas zonas de recuperação e de causticação é libertada na atmosfera.
+Parte-se do princípio de que o carbono contido nestes produtos químicos é emitido como CO(índice 2) pelo forno de cal ou pelo forno de recuperação. Estas emissões são determinadas partindo-se do pressuposto de que a totalidade do carbono contido no CaCO(índice 3) e no Na(índice 2)CO(índice 3) utilizados nas zonas de recuperação e de causticação é libertada na atmosfera.
 
 A reposição do cálcio é necessária devido às perdas na zona de causticação, a maior parte das quais sob a forma de carbonato de cálcio.
 
 As emissões de CO(índice 2) devem ser calculadas do seguinte modo:
 
-[(ver fórmula no documento original)](https://files.diariodarepublica.pt/1s/2005/01/021b00/07530789.pdf)
+[[[[[[[[[[[[[[(ver fórmula no documento original)](https://files.diariodarepublica.pt/1s/2005/01/021b00/07530789.pdf)](https://files.diariodarepublica.pt/1s/2005/01/021b00/07530789.pdf)](https://files.diariodarepublica.pt/1s/2005/01/021b00/07530789.pdf)](https://files.diariodarepublica.pt/1s/2005/01/021b00/07530789.pdf)](https://files.diariodarepublica.pt/1s/2005/01/021b00/07530789.pdf)](https://files.diariodarepublica.pt/1s/2005/01/021b00/07530789.pdf)](https://files.diariodarepublica.pt/1s/2005/01/021b00/07530789.pdf)](https://files.diariodarepublica.pt/1s/2005/01/021b00/07530789.pdf)](https://files.diariodarepublica.pt/1s/2005/01/021b00/07530789.pdf)](https://files.diariodarepublica.pt/1s/2005/01/021b00/07530789.pdf)](https://files.diariodarepublica.pt/1s/2005/01/021b00/07530789.pdf)](https://files.diariodarepublica.pt/1s/2005/01/021b00/07530789.pdf)](https://files.diariodarepublica.pt/1s/2005/01/021b00/07530789.pdf)](https://files.diariodarepublica.pt/1s/2005/01/021b00/07530789.pdf)
 
 em que:
 
@@ -1990,7 +1995,7 @@ b) Factor de emissão:
 
 Nível 1 - os rácios estequiométricos [tCO(índice 2)/tCaCO(índice 3)] e [tCO(índice 2)/tNa(índice 2)CO(índice 3)] dos carbonatos não obtidos a partir de biomassa, tal como indicado no quadro n.º 1. Os carbonatos obtidos a partir da biomassa são ponderados com um factor de emissão de 0 [tCO(índice 2)/t carbonato].
 
-[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2005/01/021b00/07530789.pdf)
+[[[[[[[[[[[[[[[[[[[[[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2005/01/021b00/07530789.pdf)](https://files.diariodarepublica.pt/1s/2005/01/021b00/07530789.pdf)](https://files.diariodarepublica.pt/1s/2005/01/021b00/07530789.pdf)](https://files.diariodarepublica.pt/1s/2005/01/021b00/07530789.pdf)](https://files.diariodarepublica.pt/1s/2005/01/021b00/07530789.pdf)](https://files.diariodarepublica.pt/1s/2005/01/021b00/07530789.pdf)](https://files.diariodarepublica.pt/1s/2005/01/021b00/07530789.pdf)](https://files.diariodarepublica.pt/1s/2005/01/021b00/07530789.pdf)](https://files.diariodarepublica.pt/1s/2005/01/021b00/07530789.pdf)](https://files.diariodarepublica.pt/1s/2005/01/021b00/07530789.pdf)](https://files.diariodarepublica.pt/1s/2005/01/021b00/07530789.pdf)](https://files.diariodarepublica.pt/1s/2005/01/021b00/07530789.pdf)](https://files.diariodarepublica.pt/1s/2005/01/021b00/07530789.pdf)](https://files.diariodarepublica.pt/1s/2005/01/021b00/07530789.pdf)](https://files.diariodarepublica.pt/1s/2005/01/021b00/07530789.pdf)](https://files.diariodarepublica.pt/1s/2005/01/021b00/07530789.pdf)](https://files.diariodarepublica.pt/1s/2005/01/021b00/07530789.pdf)](https://files.diariodarepublica.pt/1s/2005/01/021b00/07530789.pdf)](https://files.diariodarepublica.pt/1s/2005/01/021b00/07530789.pdf)](https://files.diariodarepublica.pt/1s/2005/01/021b00/07530789.pdf)](https://files.diariodarepublica.pt/1s/2005/01/021b00/07530789.pdf)
 
 Estes valores devem ser ajustados em função do teor de humidade e de ganga do carbonato utilizado.
 

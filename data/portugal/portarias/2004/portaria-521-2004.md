@@ -48,18 +48,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/521/2004/05/20/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/521-2004-270430
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2011-01-06T00:00:00Z'
+  retrieved_at: '2026-10-23T14:59:40Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: c4559767520ef62a414bcbb9e3c2ba271e5ddfc780e4886ccb1091f2ca3b91fe
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: f80ee14ab7eb537f6d9b7089c22022233eb9d73bc90b0a7627f29fc2bd6a63fd
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T14:59:40Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -75,6 +75,25 @@ relationships:
   target: pt:dre:485608:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:539829:por
+  label: "Anexados vários prédios rústicos à zona de caça concessionada pelo presente diploma, pela PORT.962/2006.14.09.2006.MADRP,\
+    \ DR.IS [178] de 14.09.2006\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/962-2006-539829
+  date: '2006-09-14'
+- type: amended_by
+  target: pt:dre:309313:por
+  label: "Desanexados e anexados vários prédios rústicos à zona de caça atribuída pelo presente diploma, alterada pela Port\
+    \ 962/2006, de 14-Set, pela PORT.1120/2010.29.10.2010.MADRP, DR.IS [211] de 29.10.2010\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/1120-2010-309313
+  date: '2010-10-29'
+- type: amended_by
+  target: pt:dre:485608:por
+  label: "Substituída a planta anexa à Port 1120/2010 de 29-Out, que desanexou vários prédios rústicos da zona de caça turística\
+    \ da Perna do Arneiro, criada pelo presente diploma, e posteriormente alterada pela Port 962/2006 de 14-Set, pela PORT.9/2011.06.01.2011.MADRP,\
+    \ DR.IS [4] de 06.01.2011\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/9-2011-485608
+  date: '2011-01-06'
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/227-b/2000/09/15/p/dre
   label: null
@@ -91,16 +110,32 @@ relationships:
   target: eli:http://data.dre.pt/eli/port/45/2004/01/14/p/dre
   label: null
   source: http://data.dre.pt/eli/port/45/2004/01/14/p/dre
+- type: cites
+  target: pt:dre:434640:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:534644:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:536243:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:603031:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T14:59:40Z'
   warnings: []
   errors: []
 ---

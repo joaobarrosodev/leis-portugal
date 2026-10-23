@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/2s/2025/08/158000000/0043500501.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -47,18 +47,18 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/declaracao-retificacao/779-2025-932559322
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2025-08-19T00:00:00Z'
+  retrieved_at: '2026-10-23T15:01:17Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 734c810963b84a38593e8f6bf90c59f3091484bc33a13e2b3923e1937dc81a86
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: c7bb471a961eb4f907d680c7c87ebd9b57a4c7454a11a5f1e1ad98e8fda53897
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:01:17Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,17 +66,97 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects: []
-relationships: []
+relationships:
+- type: cites
+  target: pt:dre:124457181:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:125009062:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:172745163:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:180032095:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:2279804:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:272626:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:303136:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:353346:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:394557:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:424689:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:468652:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:500198:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:649774:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:660297:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:67212743:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:70055492:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:75701996:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:858631718:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:862566384:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:908735128:por
+  label: null
+  source: null
 article_structure:
   article_count: 107
   section_count: 43
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:01:17Z'
   warnings: []
   errors: []
 ---
@@ -889,9 +969,9 @@ a) No caso de o local estar sujeito a servidões administrativas ou a restriçõ
 
 b) Possam cumprir-se os condicionamentos à edificação para defesa contra incêndios rurais;
 
-c) A área de construção total resultante da ampliação, incluindo a área de construção preexistente e eventuais anexos preexistentes ou a construir, não exceda 300 m<sup>2</sup>;
+c) A área de construção total resultante da ampliação, incluindo a área de construção preexistente e eventuais anexos preexistentes ou a construir, não exceda 300 m2;
 
-d) A área de implantação relativa à ampliação não exceda 150 m<sup>2</sup>.
+d) A área de implantação relativa à ampliação não exceda 150 m2.
 
 8 - Em caso de sucessivas operações urbanísticas de ampliação, a área de construção preexistente a considerar, no âmbito do procedimento de controlo administrativo das correspondentes operações urbanísticas, para efeitos de verificação do cumprimento dos limites estabelecidos na alínea d) do n.º 6 ou na alínea c) do n.º 7, é a área de construção do edifício ou edifícios na sua configuração antes de terem sido objeto de qualquer ampliação na vigência do presente Plano.
 
@@ -1165,10 +1245,10 @@ i) Ampliação de edifícios existentes de e para turismo de habitação e turis
 
 Quadro 1. Parâmetros de edificabilidade dos Espaços Agrícolas de Produção
 
-| Usos | Dimensão mínima da parcela (m<sup>2</sup>) | Altura máxima da fachada (m) e número de pisos (<sup>1</sup>) | Área total de construção (m<sup>2</sup>) | Índice de impermeabilização do solo (%) | Índice de Ocupação do solo (%) |
+| Usos | Dimensão mínima da parcela (m2) | Altura máxima da fachada (m) e número de pisos (1) | Área total de construção (m2) | Índice de impermeabilização do solo (%) | Índice de Ocupação do solo (%) |
 | --- | --- | --- | --- | --- | --- |
 | Edificações para habitação, incluindo anexos | 32 500 | 7 m e 2 pisos | 500 | 3 | 2 |
-| Edifício de apoio às atividades agrícolas, pecuárias e florestais | A necessária para cumprir o PMDFCI | 7 m e 1 piso | – | 25 (<sup>2</sup>) | 20 |
+| Edifício de apoio às atividades agrícolas, pecuárias e florestais | A necessária para cumprir o PMDFCI | 7 m e 1 piso | – | 25 (2) | 20 |
 | Detenção caseira de espécies pecuárias | A necessária para cumprir o PMDFCI | 10 m e 2 pisos | 500 | 25 | 20 |
 | Instalações pecuárias | A necessária para cumprir o PMDFCI | 10 m e 2 pisos | – | 30 | 25 |
 | Estabelecimentos de comércio, serviços e industriais | A necessária para cumprir o PMDFCI | 10 m e 2 pisos | – | 30 | 25 |
@@ -1176,9 +1256,9 @@ Quadro 1. Parâmetros de edificabilidade dos Espaços Agrícolas de Produção
 | Estufas | A existente | 4,5 e 1 piso | – | – |  |
 | Equipamentos de utilização coletiva, de instalações e mobiliário de recreio e lazer | A necessária para cumprir o PMDFCI | 12 m e 3 pisos | – | 25 | 20 |
 
-(<sup>1</sup>) Excetuam-se silos, depósitos de água e instalações especiais tecnicamente justificáveis.
+(1) Excetuam-se silos, depósitos de água e instalações especiais tecnicamente justificáveis.
 
-(<sup>2</sup>) No caso das explorações hortofrutícolas, florícolas, pecuárias, olivícolas e vitivinícolas pode exceder estes limites, desde que devidamente justificada, com base em elementos técnico económicos a apresentar à entidade competente pelo licenciamento da atividade.
+(2) No caso das explorações hortofrutícolas, florícolas, pecuárias, olivícolas e vitivinícolas pode exceder estes limites, desde que devidamente justificada, com base em elementos técnico económicos a apresentar à entidade competente pelo licenciamento da atividade.
 
 2 - A ampliação de edifícios para os usos previstos no n.º 5 do artigo anterior fica sujeita aos parâmetros constantes no quadro anterior, exceto para a dimensão mínima da parcela que é a existente para todos os usos.
 
@@ -1290,19 +1370,19 @@ xii) Unidades de recolha, tratamento, eliminação, desmantelamento e valorizaç
 
 Quadro 2. Parâmetros de edificabilidade dos Espaços Florestais de Proteção
 
-| Usos | Dimensão mínima da parcela (m<sup>2</sup>) | Altura máxima da fachada (m) e número de pisos (<sup>1</sup>) | Área total de construção (m<sup>2</sup>) | Índice de impermeabilização do solo (%) | Índice de Ocupação do solo (%) |
+| Usos | Dimensão mínima da parcela (m2) | Altura máxima da fachada (m) e número de pisos (1) | Área total de construção (m2) | Índice de impermeabilização do solo (%) | Índice de Ocupação do solo (%) |
 | --- | --- | --- | --- | --- | --- |
 | Edifício de apoio às atividades agrícolas e florestais | A necessária para cumprir o PMDFCI | 7 m e 1 piso | – | 20 | 15 |
 | Detenção caseira de espécies pecuárias | A necessária para cumprir o PMDFCI | 10 m e 2 pisos | 500 | 25 | 20 |
 | Estabelecimentos de comércio de produtos agroflorestais | A necessária para cumprir o PMDFCI | 7 m e 2 pisos | – | 30 | 25 |
 | Instalações de apoio a atividades ambientais | A necessária para cumprir o PMDFCI | 4,5 m e 1 pisos | 200 | 2 | 10 |
 | Hotéis rurais construídos de raiz | A necessária para cumprir o PMDFCI | 8 m e 2 pisos | 3 000 | 20 | 15 |
-| Equipamentos de utilização coletiva, instalações e mobiliário urbano de recreio e lazer e de apoio a atividades de animação turística | A necessária para cumprir o PMDFCI | 12 m e 3 pisos | - | 25 (<sup>2</sup>) | 20 (<sup>2</sup>) |
-| Equipamentos ligados à Proteção Civil | A necessária para cumprir o PMDFCI | 12 m e 3 pisos | - | 25 (<sup>2</sup>) | 20 (<sup>2</sup>) |
+| Equipamentos de utilização coletiva, instalações e mobiliário urbano de recreio e lazer e de apoio a atividades de animação turística | A necessária para cumprir o PMDFCI | 12 m e 3 pisos | - | 25 (2) | 20 (2) |
+| Equipamentos ligados à Proteção Civil | A necessária para cumprir o PMDFCI | 12 m e 3 pisos | - | 25 (2) | 20 (2) |
 
-(<sup>1</sup>) Excetuam-se silos, depósitos de água e instalações especiais tecnicamente justificáveis.
+(1) Excetuam-se silos, depósitos de água e instalações especiais tecnicamente justificáveis.
 
-(<sup>2</sup>) Pode exceder estes limites, desde que devidamente justificado, com base em elementos técnico-económicos a apresentar e mediante deliberação da Câmara Municipal.
+(2) Pode exceder estes limites, desde que devidamente justificado, com base em elementos técnico-económicos a apresentar e mediante deliberação da Câmara Municipal.
 
 a) A ampliação de edifícios para os usos previstos no n.º 1 do artigo anterior fica sujeita aos parâmetros constantes no quadro anterior, exceto para a dimensão mínima da parcela que é a existente para todos os usos;
 
@@ -1314,26 +1394,26 @@ c) Nos casos referidos no número anterior admite-se que a edificabilidade resul
 
 Quadro 3. Parâmetros de edificabilidade dos Espaços Florestais Mistos de Uso Silvícola e Agrícola
 
-| Usos | Dimensão mínima da parcela (m<sup>2</sup>) | Altura máxima da fachada (m) e número de pisos (<sup>1</sup>) | Área total de construção (m<sup>2</sup>) | Índice de impermeabilização do solo (%) | Índice de Ocupação do solo (%) |
+| Usos | Dimensão mínima da parcela (m2) | Altura máxima da fachada (m) e número de pisos (1) | Área total de construção (m2) | Índice de impermeabilização do solo (%) | Índice de Ocupação do solo (%) |
 | --- | --- | --- | --- | --- | --- |
 | Edificações para habitação, incluindo anexos | 32 500 | 7 m e 2 pisos | 500 | 3 | 2 |
-| Edifício de apoio às atividades agrícolas e florestais | A necessária para cumprir o PMDFCI | 7 m e 1 piso | – | 25 (<sup>2</sup>) | 20 (<sup>2</sup>) |
-| Instalação pecuária | A necessária para cumprir o PMDFCI | 10 m e 2 pisos | – | 30 (<sup>2</sup>) | 25 (<sup>2</sup>) |
+| Edifício de apoio às atividades agrícolas e florestais | A necessária para cumprir o PMDFCI | 7 m e 1 piso | – | 25 (2) | 20 (2) |
+| Instalação pecuária | A necessária para cumprir o PMDFCI | 10 m e 2 pisos | – | 30 (2) | 25 (2) |
 | Detenção caseira de espécies pecuárias | A necessária para cumprir o PMDFCI | 10 m e 2 pisos | 500 | 25 | 20 |
 | Estabelecimentos de comércio, serviços e industriais | A necessária para cumprir o PMDFCI | 10 m e 2 pisos | – | 30 | 25 |
-| Empreendimentos turísticos isolados (<sup>3</sup>) | A necessária para cumprir o PMDFCI | 12 m e 3 pisos | – | 20 (<sup>2</sup>) | 15 (<sup>2</sup>) |
-| Parques de campismo e caravanismo | A necessária para cumprir o PMDFCI | 7 m e 2 pisos | 1000 | 20 (<sup>2</sup>) | 15 (<sup>2</sup>) |
-| Empreendimentos integrados em Núcleos de desenvolvimento turístico | A necessária para cumprir o PMDFCI | 12 m e 3 pisos | – | 20 (<sup>2</sup>) | 10 (<sup>2</sup>) |
-| Equipamentos de utilização coletiva, instalações e mobiliário de recreio e lazer e de apoio a atividades de animação turística | A necessária para cumprir o PMDFCI | 12 m e 3 pisos | – | 25 (<sup>2</sup>) | 20 (<sup>2</sup>) |
+| Empreendimentos turísticos isolados (3) | A necessária para cumprir o PMDFCI | 12 m e 3 pisos | – | 20 (2) | 15 (2) |
+| Parques de campismo e caravanismo | A necessária para cumprir o PMDFCI | 7 m e 2 pisos | 1000 | 20 (2) | 15 (2) |
+| Empreendimentos integrados em Núcleos de desenvolvimento turístico | A necessária para cumprir o PMDFCI | 12 m e 3 pisos | – | 20 (2) | 10 (2) |
+| Equipamentos de utilização coletiva, instalações e mobiliário de recreio e lazer e de apoio a atividades de animação turística | A necessária para cumprir o PMDFCI | 12 m e 3 pisos | – | 25 (2) | 20 (2) |
 | Estufas | A existente | 4,5 m e 1 piso | – | – | – |
-| Equipamentos ligados à Proteção Civil | A necessária para cumprir o PMDFCI | 12 m e 3 pisos | – | 25 (<sup>2</sup>) | 20 (<sup>2</sup>) |
-| Unidades de recolha, tratamento, eliminação, desmantelamento e valorização de resíduos | – | 7 m e 2 pisos | – | 25 (<sup>2</sup>) | 15 (<sup>2</sup>) |
+| Equipamentos ligados à Proteção Civil | A necessária para cumprir o PMDFCI | 12 m e 3 pisos | – | 25 (2) | 20 (2) |
+| Unidades de recolha, tratamento, eliminação, desmantelamento e valorização de resíduos | – | 7 m e 2 pisos | – | 25 (2) | 15 (2) |
 
-(<sup>1</sup>) Excetuam-se silos, depósitos de água e instalações especiais tecnicamente justificáveis.
+(1) Excetuam-se silos, depósitos de água e instalações especiais tecnicamente justificáveis.
 
-(<sup>2</sup>) Pode exceder estes limites, desde que devidamente justificado, com base em elementos técnico-económicos a apresentar e mediante deliberação da Câmara Municipal.
+(2) Pode exceder estes limites, desde que devidamente justificado, com base em elementos técnico-económicos a apresentar e mediante deliberação da Câmara Municipal.
 
-(<sup>3</sup>) Com exceção dos Parques de Campismo e de Caravanismo.
+(3) Com exceção dos Parques de Campismo e de Caravanismo.
 
 a) A ampliação de edifícios para os usos previstos no n.º 2 do artigo anterior fica sujeita aos parâmetros constantes no quadro anterior, exceto para a dimensão mínima da parcela que é a existente para todos os usos;
 
@@ -1485,7 +1565,7 @@ Nos espaços naturais de moderada sensibilidade ecológica, a edificabilidade fi
 
 a) Nas obras de ampliação de edifícios já existentes o aumento da área de implantação tem de ser inferior a 20 %;
 
-b) A construção de edifícios de apoio a atividades agroflorestais deve utilizar materiais tradicionais e não exceder uma área máxima de construção de 10m<sup>2</sup> e uma altura máxima 3,5 m;
+b) A construção de edifícios de apoio a atividades agroflorestais deve utilizar materiais tradicionais e não exceder uma área máxima de construção de 10m2 e uma altura máxima 3,5 m;
 
 c) Na área do Paul do Taipal a construção de edifícios de apoio a atividades ambientais deverá ter uma área máxima de construção de 200m2 e um máximo de 1 piso acima da cota de soleira.
 
@@ -1529,13 +1609,13 @@ i) O tratamento das áreas não impermeabilizadas como espaços verdes, preferen
 
 Quadro 4. Parâmetros de edificabilidade dos espaços destinados a equipamentos e infraestruturas
 
-| Usos | Dimensão mínima da parcela (m<sup>2</sup>) | Altura máxima da fachada (m) e número de pisos (<sup>1</sup>) | Área total de construção (m<sup>2</sup>) | Índice de impermeabilização do solo (%) | Índice de Ocupação do solo (%) |
+| Usos | Dimensão mínima da parcela (m2) | Altura máxima da fachada (m) e número de pisos (1) | Área total de construção (m2) | Índice de impermeabilização do solo (%) | Índice de Ocupação do solo (%) |
 | --- | --- | --- | --- | --- | --- |
 | Edifício de apoio às atividades agrícolas e pecuárias | A existente | 5 m e 1 piso | – | 30 | 25 |
 | Instalações e mobiliário de apoio às atividades de recreio e lazer e de animação turística | A existente | 5 m e 1 piso | 500 | 10 | 10 |
 | Equipamentos de utilização coletiva | A existente | 8 m e 2 pisos | – | 25 | 20 |
 
-(<sup>1</sup>) Excetuam-se os casos tecnicamente justificados e em que o funcionamento da atividade obrigue a alturas superiores.
+(1) Excetuam-se os casos tecnicamente justificados e em que o funcionamento da atividade obrigue a alturas superiores.
 
 2 - A ampliação de edifícios com ocupações e utilizações permitidas fica sujeita aos parâmetros constantes no quadro anterior.
 
@@ -1609,7 +1689,7 @@ g) Equipamentos de utilização coletiva, de instalações e mobiliário de recr
 
 Quadro 5. Parâmetros de edificabilidade dos aglomerados rurais
 
-| Usos | Dimensão mínima da parcela (m<sup>2</sup>) | Altura máxima da fachada (m) e n.º de pisos (<sup>1</sup>) | Índice de impermeabilização do solo (%) | Índice de Utilização do solo |
+| Usos | Dimensão mínima da parcela (m2) | Altura máxima da fachada (m) e n.º de pisos (1) | Índice de impermeabilização do solo (%) | Índice de Utilização do solo |
 | --- | --- | --- | --- | --- |
 | Edificações para habitação, incluindo anexos e piscinas, comércio e serviços | A existente | 7 m e 2 pisos | 60 | 0,5 |
 | Estabelecimentos industriais | A existente | 5 m e 1 piso | 60 | 0,4 |
@@ -1619,7 +1699,7 @@ Quadro 5. Parâmetros de edificabilidade dos aglomerados rurais
 | Hotéis rurais construídos de raiz | A existente | 8 m e 2 pisos | 60 | 0,7 |
 | Equipamentos de utilização coletiva, de instalações e mobiliário de recreio e lazer e de apoio a atividades de animação turística | A existente | 8 m e 2 pisos | 60 | 0,5 |
 
-(<sup>1</sup>) Excetuam-se os casos tecnicamente justificados e em que o funcionamento da atividade obrigue a alturas superiores.
+(1) Excetuam-se os casos tecnicamente justificados e em que o funcionamento da atividade obrigue a alturas superiores.
 
 2 - A ampliação de edifícios com as ocupações e utilizações permitidas, fica sujeita aos parâmetros constantes no Quadro 5.
 
@@ -1795,7 +1875,7 @@ a) O número máximo de pisos acima da cota de soleira é 2;
 
 b) A altura máxima da fachada é de 7 m;
 
-c) A área de construção máxima é de 250m<sup>2</sup> podendo ser acrescida de até 50m<sup>2</sup> para anexos.
+c) A área de construção máxima é de 250m2 podendo ser acrescida de até 50m2 para anexos.
 
 3 - Na área integrada na ZPE do Paul do Taipal, o regime de edificabilidade é o seguinte:
 
@@ -1803,7 +1883,7 @@ a) O número máximo de pisos acima da cota de soleira é 2;
 
 b) A altura máxima da fachada é de 7 m;
 
-c) A área de construção máxima é de 250m<sup>2</sup> podendo ser acrescida de até 50m<sup>2</sup> para anexos.
+c) A área de construção máxima é de 250m2 podendo ser acrescida de até 50m2 para anexos.
 
 ### CAPÍTULO IV — ESPAÇOS URBANOS DE BAIXA DENSIDADE
 
@@ -1905,7 +1985,7 @@ c) Altura máxima da fachada não deve exceder os 15 m, exceto nos casos tecnica
 
 a) Sem prejuízo do disposto no n.º 4 do artigo anterior, a construção de instalações de apoio ao pessoal de vigilância ou segurança não podem ultrapassar os 150 m2 de área de construção, 2 pisos, altura máxima da fachada de 7 m e afastamento às estremas do lote ou parcela de 10 m, a não ser em casos tecnicamente justificados relacionados com os requisitos específicos de exercício da atividade.
 
-b) A construção de portarias e edifícios de apoio ligados às infraestruturas com uma área total máxima de construção de 25m<sup>2</sup>, 1 piso e uma altura máxima da fachada de 3 m, parâmetros que apenas podem ser excedidos em casos tecnicamente justificados relacionados com os requisitos específicos de exercício da atividade.
+b) A construção de portarias e edifícios de apoio ligados às infraestruturas com uma área total máxima de construção de 25m2, 1 piso e uma altura máxima da fachada de 3 m, parâmetros que apenas podem ser excedidos em casos tecnicamente justificados relacionados com os requisitos específicos de exercício da atividade.
 
 3 - A ampliação das atividades existentes à data de entrada em vigor do presente plano é admitida nos termos definidos no n.º 1 do presente artigo, beneficiando de uma majoração de 10 % nos índices aplicáveis, não podendo exceder o índice máximo de ocupação do solo de 90 %.
 
@@ -1945,9 +2025,9 @@ b) Infraestruturas, desde que não ponham em causa os valores que se pretendem d
 
 a) Quiosques/esplanadas;
 
-b) Estabelecimentos de restauração e bebidas, com 1 piso, 5 m de altura máxima da fachada e uma área máxima de construção de 300 m<sup>2</sup>;
+b) Estabelecimentos de restauração e bebidas, com 1 piso, 5 m de altura máxima da fachada e uma área máxima de construção de 300 m2;
 
-c) Equipamentos de lazer ao ar livre, ou equipamentos de apoio a atividades de lazer, com 1 piso, 5 m de altura máxima da fachada e uma área máxima de construção de 300 m<sup>2</sup>;
+c) Equipamentos de lazer ao ar livre, ou equipamentos de apoio a atividades de lazer, com 1 piso, 5 m de altura máxima da fachada e uma área máxima de construção de 300 m2;
 
 d) Elementos escultóricos e elementos relacionados com água, designadamente tanques, fontes e repuxos.
 
@@ -2065,15 +2145,15 @@ Parâmetros de Dimensionamento da Rede Rodoviária Municipal para Projetos de Lo
 
 Quadro 6. Parâmetros de dimensionamento da rede rodoviária municipal
 
-| Tipo de ocupação | Infraestruturas - Arruamentos<sup>(1)</sup> |
+| Tipo de ocupação | Infraestruturas - Arruamentos(1) |
 | --- | --- |
 | Habitação a.c.hab. ≥ 80 % a.c. | Perfil Tipo > 9,7 mFaixa de Rodagem = 6,5 mPasseio = 1,6 m × 2Estacionamento = 2,50 m × 2 (opcional).Caldeiras para árvores = 1,0 m × 2 (opcional) |
 | Habitação (se a.c.hab. < 80 %), comércio e ou serviços | Perfil Tipo > 12 mFaixa de Rodagem = 7,5 mPasseio = 2,25 m × 2Estacionamento = 2,25 m × 2 (opcional).Caldeiras para árvores = 1,0 m × 2 (opcional) |
 | Indústria e ou armazéns | Perfil Tipo > 12,2 mFaixa de Rodagem = 9 mPasseio = 1,6 m × 2Estacionamento = 2,25 m × 2 (opcional).Caldeiras para árvores = 1,0 m × 2 (opcional) |
 
-Nota: a. c. - área de construção (valor expresso em m<sup>2</sup>).
+Nota: a. c. - área de construção (valor expresso em m2).
 
-(<sup>1</sup>) o perfil tipo inclui a faixa de rodagem e os passeios.
+(1) o perfil tipo inclui a faixa de rodagem e os passeios.
 
 2 - Para garantir uma correta integração na envolvente ou para proteção e promoção dos valores arquitetónicos, ambientais e paisagísticos, a Câmara Municipal pode impor alteração ao perfil tipo proposto caso se considere que existe manifesta insuficiência da capacidade da infraestrutura.
 
@@ -2091,15 +2171,15 @@ Quadro 7. Parâmetros de dimensionamento do estacionamento
 
 | Tipo de ocupação | Estacionamento |
 | --- | --- |
-| Habitação unifamiliar | 1 lugar/fogo com a.c. < 120m<sup>2</sup>;2 lugares/fogo com a.c. entre 120m<sup>2</sup> e 300m<sup>2</sup>;3 lugares/fogo com a. c. > 300m<sup>2</sup>.O número total de lugares resultante da aplicação dos critérios anteriores é acrescido de 20 % para estacionamento público quando se trate de uma operação de loteamento. |
-| Habitação coletiva | Habitação com indicação de tipologia:1 lugar/fogo T0 e T1;1,5 lugares/fogo T2 e T3;2 lugares/fogo T4, T5 e T6;3 lugares/fogo > T6.Habitação sem indicação de tipologia:1 lugar/fogo para a.m.f. <90m<sup>2</sup>;1,5 lugares/fogo para a.m.f. entre 90m<sup>2</sup> a 120m<sup>2</sup> (inclusive);2 lugares/fogo para a.m.f. entre 120m<sup>2</sup> a 300m<sup>2</sup> (inclusive);3 lugares/fogo com a. m. f. > 300m<sup>2</sup>.O número total de lugares resultante da aplicação dos critérios anteriores é acrescido de 20 % para estacionamento público quando se trate de uma operação de loteamento. |
-| Comércio | 1 lugar/30m<sup>2</sup> com a. c. < 1000m<sup>2</sup>;1 lugar/25m<sup>2</sup> com a. c. entre 1000m<sup>2</sup> e 2500m<sup>2</sup>;1 lugar/15m<sup>2</sup> com a. c. > 2500m<sup>2</sup> e cumulativamente 1 lugar de pesado/200 m<sup>2</sup> de a.c.O número total de lugares resultante da aplicação dos critérios anteriores é acrescido de 30 % para estacionamento público. |
-| Serviços | 3 lugares/100m<sup>2</sup> com a. c. < ou = 500m<sup>2</sup>; 5 lugares/100m<sup>2</sup> com a. c. > 500m<sup>2</sup>.O número total de lugares resultante da aplicação dos critérios anteriores é acrescido de 30 % para estacionamento público. |
-| Indústria, armazéns, oficinas e espaços de gestão de resíduos | Ligeiros: 1 lugar/75 m<sup>2</sup> de a. c.;Pesados: 1 lugar/500m<sup>2</sup> de a. c. com um mínimo de 1 lugar/parcela.O número total de lugares resultante da aplicação dos critérios anteriores é acrescido de 20 % para estacionamento público. |
+| Habitação unifamiliar | 1 lugar/fogo com a.c. < 120m2;2 lugares/fogo com a.c. entre 120m2 e 300m2;3 lugares/fogo com a. c. > 300m2.O número total de lugares resultante da aplicação dos critérios anteriores é acrescido de 20 % para estacionamento público quando se trate de uma operação de loteamento. |
+| Habitação coletiva | Habitação com indicação de tipologia:1 lugar/fogo T0 e T1;1,5 lugares/fogo T2 e T3;2 lugares/fogo T4, T5 e T6;3 lugares/fogo > T6.Habitação sem indicação de tipologia:1 lugar/fogo para a.m.f. <90m2;1,5 lugares/fogo para a.m.f. entre 90m2 a 120m2 (inclusive);2 lugares/fogo para a.m.f. entre 120m2 a 300m2 (inclusive);3 lugares/fogo com a. m. f. > 300m2.O número total de lugares resultante da aplicação dos critérios anteriores é acrescido de 20 % para estacionamento público quando se trate de uma operação de loteamento. |
+| Comércio | 1 lugar/30m2 com a. c. < 1000m2;1 lugar/25m2 com a. c. entre 1000m2 e 2500m2;1 lugar/15m2 com a. c. > 2500m2 e cumulativamente 1 lugar de pesado/200 m2 de a.c.O número total de lugares resultante da aplicação dos critérios anteriores é acrescido de 30 % para estacionamento público. |
+| Serviços | 3 lugares/100m2 com a. c. < ou = 500m2; 5 lugares/100m2 com a. c. > 500m2.O número total de lugares resultante da aplicação dos critérios anteriores é acrescido de 30 % para estacionamento público. |
+| Indústria, armazéns, oficinas e espaços de gestão de resíduos | Ligeiros: 1 lugar/75 m2 de a. c.;Pesados: 1 lugar/500m2 de a. c. com um mínimo de 1 lugar/parcela.O número total de lugares resultante da aplicação dos critérios anteriores é acrescido de 20 % para estacionamento público. |
 | Empreendimentos Turísticos | Para os Estabelecimentos Hoteleiros1 lugar de estacionamento por cada 3 unidades de alojamento para categoria 4 e 5 estrelas;1 lugar de estacionamento por cada 5 unidades de alojamento para categoria inferior a 4 estrelas.Para os demais casos:1 lugar de estacionamento por cada 5 unidades de alojamento.A dotação de estacionamento em parques de campismo e de caravanismo é de 1 lugar por 3 campistas. |
 | Equipamentos de utilização coletiva e infraestruturas | A definição das condições de acessibilidade e necessidade de estacionamento é casuística em função da natureza e função do equipamento e do tipo de infraestrutura.Deve ser dimensionado e justificado em estudo próprio, devendo maximizar-se a integração do mesmo dentro da parcela.A dotação exigida para o estacionamento tanto pode ser cumprida em lugares de estacionamento localizados dentro do lote e/ou parcela como em áreas a ceder ao domínio público. |
 
-a.c. - área de construção (valor expresso em m<sup>2</sup>)
+a.c. - área de construção (valor expresso em m2)
 
 a.m.f. - (área média do fogo) - quociente entre a área de construção para habitação e o número de fogos.
 
@@ -2107,7 +2187,7 @@ a.m.f. - (área média do fogo) - quociente entre a área de construção para h
 
 3 - A localização do estacionamento não deve provocar conflitos quanto à circulação na via pública, acesso de transportes públicos e ações de cargas e descargas.
 
-4 - Quanto à área total de construção para comércio, indústria, armazéns e oficinas, se for superior a 2500 m<sup>2</sup>, é obrigatória a apresentação de um estudo de tráfego que contenha elementos que permitam avaliar designadamente:
+4 - Quanto à área total de construção para comércio, indústria, armazéns e oficinas, se for superior a 2500 m2, é obrigatória a apresentação de um estudo de tráfego que contenha elementos que permitam avaliar designadamente:
 
 a) A acessibilidade ao local em relação ao transporte individual;
 
@@ -2249,9 +2329,9 @@ b) Possuam acesso direto a espaço ou via pública e a sua localização e confi
 
 3 - A cedência média assume os seguintes valores:
 
-a) 0,35m<sup>2</sup>/m<sup>2</sup> de área de construção em espaços de atividades económicas;
+a) 0,35m2/m2 de área de construção em espaços de atividades económicas;
 
-b) 0,50m<sup>2</sup>/m<sup>2</sup> de área de construção nas restantes categorias de solo urbano.
+b) 0,50m2/m2 de área de construção nas restantes categorias de solo urbano.
 
 4 - Sem prejuízo do disposto no n.º 4 do artigo 178.º do RJIGT, nas situações em que ocorrem diferentes usos ou tipologias, pode a edificabilidade ser afetada de coeficiente de homogeneização, função da relação entre o valor do custo de construção e o valor de venda verificados na área geográfica em apreço.
 
@@ -2261,7 +2341,7 @@ b) 0,50m<sup>2</sup>/m<sup>2</sup> de área de construção nas restantes catego
 
 ###### Artigo 100.º — Constituição de Mais Valias
 
-1 - Para efeitos do disposto nos n.<sup>os</sup>5 e 6 do artigo 64.º da LBPPSOTU, será desenvolvido em regulamento próprio a taxação das mais valias urbanísticas decorrentes de operações de reclassificação de solo rústico em urbano, a qual deverá assumir um valor entre 10 a 20 %.
+1 - Para efeitos do disposto nos n.os5 e 6 do artigo 64.º da LBPPSOTU, será desenvolvido em regulamento próprio a taxação das mais valias urbanísticas decorrentes de operações de reclassificação de solo rústico em urbano, a qual deverá assumir um valor entre 10 a 20 %.
 
 2 - A mais-valia criada reverte para o Fundo Municipal de Sustentabilidade Ambiental e Urbanística, a regulamentar.
 
@@ -2682,3 +2762,7 @@ Identificadores das imagens e respetivos endereços do sítio do SNIT
 83001 - [https://ssaigt.dgterritorio.pt/i/PCond_83001_0610_CO_RIRRD..jpg](https://ssaigt.dgterritorio.pt/i/PCond_83001_0610_CO_RIRRD..jpg)
 
 83001 - [https://ssaigt.dgterritorio.pt/i/PCond_83001_0610_CO_RN_PC..jpg](https://ssaigt.dgterritorio.pt/i/PCond_83001_0610_CO_RN_PC..jpg)
+
+619430218
+
+.Tbl1 { border-collapse:collapse; border-width:1px; border-color:rgb(128,128,128); } .Tbl2 { min-height:34px; } .Tbl3 { border-bottom-color:rgb(0,0,0); border-top-color:rgb(0,0,0); border-left-width:0px; border-top-width:1px; border-right-width:1px; border-top-style:solid; border-bottom-width:1px; border-bottom-style:solid; border-right-style:solid; border-right-color:rgb(0,0,0); border-left-style:solid; vertical-align:middle; } .Tbl4 { text-align:center; } .Tbl5 { border-bottom-color:rgb(0,0,0); border-top-color:rgb(0,0,0); border-left-width:1px; border-top-width:1px; border-right-width:1px; border-top-style:solid; border-left-color:rgb(0,0,0); border-bottom-width:1px; border-bottom-style:solid; border-right-style:solid; border-right-color:rgb(0,0,0); border-left-style:solid; vertical-align:middle; } .Tbl6 { border-bottom-color:rgb(0,0,0); border-top-color:rgb(0,0,0); border-left-width:1px; border-top-width:1px; border-right-width:0px; border-top-style:solid; border-left-color:rgb(0,0,0); border-bottom-width:1px; border-bottom-style:solid; border-right-style:solid; border-left-style:solid; vertical-align:middle; } .Tbl7 { min-height:17px; } .Tbl8 { border-bottom-color:rgb(0,0,0); border-top-color:rgb(0,0,0); border-left-width:0px; border-top-width:1px; border-right-width:1px; border-top-style:solid; border-bottom-width:1px; border-bottom-style:solid; border-right-style:solid; border-right-color:rgb(0,0,0); border-left-style:solid; vertical-align:top; } .Tbl10 { border-bottom-color:rgb(0,0,0); border-top-color:rgb(0,0,0); border-left-width:1px; border-top-width:1px; border-right-width:1px; border-top-style:solid; border-left-color:rgb(0,0,0); border-bottom-width:1px; border-bottom-style:solid; border-right-style:solid; border-right-color:rgb(0,0,0); border-left-style:solid; vertical-align:top; } .Tbl11 { border-bottom-color:rgb(0,0,0); border-top-color:rgb(0,0,0); border-left-width:1px; border-top-width:1px; border-right-width:0px; border-top-style:solid; border-left-color:rgb(0,0,0); border-bottom-width:1px; border-bottom-style:solid; border-right-style:solid; border-left-style:solid; vertical-align:top; } .Tbl12 { min-height:25px; } .Tbl13 { min-height:26px; } .Tbl14 { min-height:28px; } .Tbl15 { min-height:18px; } .Tbl16 { border-collapse:collapse; border-width:1px; border-color:rgb(166,166,166); } .Tbl17 { min-height:79px; } .Tbl18 { height:26px; } .Tbl19 { min-height:87px; } .Tbl20 { margin-top:6px; } .Tbl21 { min-height:201px; } .Tbl22 { min-height:55px; } .Tbl23 { min-height:61px; } .Tbl24 { min-height:123px; } .Tbl25 { min-height:97px; }

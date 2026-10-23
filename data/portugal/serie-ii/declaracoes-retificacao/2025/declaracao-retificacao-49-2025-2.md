@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/2s/2025/01/013000000/0012100123.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -46,36 +46,60 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/declaracao-retificacao/49-2025-904258898
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2025-01-20T00:00:00Z'
+  retrieved_at: '2026-10-23T14:59:31Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 583cf92db3fb20aabb0e071f590d22a33204532cd8c7db808d596ef883ddac9b
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 9cf0eefe585fcf4496884a92609c0b220cc9c60042b5c478e28c04bae334c937
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T14:59:31Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
-relationships: []
+subjects:
+- Autoridade da Mobilidade e dos Transportes
+- Instituto da Mobilidade e dos Transportes
+- Terminal Rodoviario
+- Transporte de Passageiros
+- Transporte Público
+relationships:
+- type: cites
+  target: pt:dre:124793102:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:205457496:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:901997671:por
+  label: null
+  source: null
+- type: corrects
+  target: pt:numero:regulamento:3/2025
+  label: Dá sem efeito o 1.º parágrafo e retifica o 2.º parágrafo e a alínea e) do preâmbulo, a alínea p) do artigo 3.º, o
+    n.º 3 do artigo 16.º, os n.ºs 2 e 5 do artigo 17.º, o n.º 3 do artigo 19.º, o artigo 20.º e os n.ºs 3 e 4 do artigo 23.º
+    do Regulamento n.º 3/2025, de 3 de janeiro, Diário da República n.º 2/2025, Série II
+  source: null
+  date: '2025-01-03'
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T14:59:31Z'
   warnings: []
   errors: []
 ---
@@ -167,3 +191,5 @@ deve ler-se:
 «Em caso de esgotamento da capacidade do terminal ou interface, o Operador deve proceder à divulgação dessa informação no respetivo sítio da internet, no prazo de 10 (dez) dias úteis, e comunicá-la à AMT e ao IMT, acompanhada da respetiva prova documental, para efeitos de consideração na autorização de novos pedidos de autorização de serviços e monitorização do mercado.»
 
 13 de janeiro de 2025. - A Presidente do Conselho de Administração, Ana Paula Vitorino.
+
+318560287

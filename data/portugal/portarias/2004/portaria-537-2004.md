@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/537/2004/05/20/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/537-2004-270439
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2004-10-07T00:00:00Z'
+  retrieved_at: '2026-10-23T14:59:45Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 832eff6a3fb84f3131579c48d765076ff674edbc98c65fccf99161d73d8229b3
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 48630e30d185207a6bbef474d31a17c0f43ee1be574bf80a0760515318581e27
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T14:59:45Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,11 +66,11 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Plano de Estudos
 - Ensino Particular
+- Ensino Superior
 - Escola Superior de Saúde da Cruz Vermelha Portuguesa
 - Licenciatura
-- Ensino Superior
+- Plano de Estudos
 relationships:
 - type: amended_by
   target: pt:dre:590481:por
@@ -116,16 +116,60 @@ relationships:
   target: eli:http://data.dre.pt/eli/port/819/2003/08/13/p/dre
   label: null
   source: http://data.dre.pt/eli/port/819/2003/08/13/p/dre
+- type: cites
+  target: pt:dre:147873:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:150335:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:215079:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:283692:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:423057:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:429596:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:510269:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:512030:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:533820:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:618546:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:660111:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T14:59:45Z'
   warnings: []
   errors: []
 ---
@@ -160,7 +204,7 @@ Produção de efeitos
 
 O disposto na presente portaria produz efeitos desde a data de entrada em vigor da [Portaria n.º 819/2003](https://diariodarepublica.pt/dr/detalhe/portaria/819-2003-660111).
 
-**A Ministra da Ciência e do Ensino Superior, Maria da Graça Martins da Silva Carvalho, em 22 de Abril de 2004.**
+A Ministra da Ciência e do Ensino Superior, Maria da Graça Martins da Silva Carvalho, em 22 de Abril de 2004.
 
 ## ANEXO — ([Portaria n.º 819/2003](https://diariodarepublica.pt/dr/detalhe/portaria/819-2003-660111), de 13 de Agosto - alteração)
 

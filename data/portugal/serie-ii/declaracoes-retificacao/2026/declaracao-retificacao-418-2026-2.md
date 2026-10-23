@@ -26,7 +26,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/2s/2026/05/096000000/0042000420.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -48,18 +48,18 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/declaracao-retificacao/418-2026-1124024931
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2026-05-19T00:00:00Z'
+  retrieved_at: '2026-10-23T15:04:23Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: f635912d26ea1c61c137cad51fd4e7951306d6550c0a63c158aad20090a26162
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 849ff1de3ca553278c5777564c4dbfe70b40e4587504989be3f791e00c02468e
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:04:23Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,17 +67,29 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects: []
-relationships: []
+relationships:
+- type: cites
+  target: pt:dre:222935042:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:25676932:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:940449332:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:04:23Z'
   warnings: []
   errors: []
 ---
@@ -97,3 +109,5 @@ deve ler-se:
 «Para os efeitos previstos na alínea b) do n.º 1 do artigo 4.º da [Lei n.º 35/2014](https://diariodarepublica.pt/dr/detalhe/lei/35-2014-25676932), de 20/06, se faz público que, na sequência do procedimento concursal comum aberto pelo [Aviso (extrato) n.º 19991/2023](https://diariodarepublica.pt/dr/detalhe/aviso-extrato/19991-2023-222935042), publicado no Diário da República, 2.ª série, n.º 227, de 18 de outubro 2023, o Município das Caldas da Rainha celebrou contrato de trabalho em funções publicas por tempo indeterminado, para a carreira e categoria de assistente técnico, na 1.ª posição, nível 7, a que corresponde o valor de 922,47€ da Tabela Remuneratória Única, com as candidatas: Ana Paula Gingão Amaral colocada em 1.º lugar, Linda Inês Ruivo França colocada em 2.º lugar, Sónia Cristina Milhanas Henriques colocada em 3.º lugar, Filipa Alexandra da Costa Dionísio colocada em 5.º lugar, por escusa da candidata colocada em 4.º lugar, Mafalda Filipa Lourenço da Silva; Marlene Filipa Varandas Neto colocada em 6.º lugar, todas com efeitos a 04 de abril e Maria Ana Elias Castro, colocada em 7.º lugar, com efeitos a 08 de abril de 2024. Mais informo que o júri do período experimental mantém-se o do procedimento concursal.»
 
 7 de maio de 2026. - O Presidente da Câmara, Vítor Manuel Calisto Marques.
+
+319997973

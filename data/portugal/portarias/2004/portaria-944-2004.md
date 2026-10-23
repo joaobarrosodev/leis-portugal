@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2004/07/175b00/47614762.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/944/2004/07/27/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/944-2004-507230
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2010-06-14T00:00:00Z'
+  retrieved_at: '2026-10-23T15:02:11Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: a47c01c64fa6419e1c7df49f74dfe57f0d2f1be8772790c3e8bac4951738b0a7
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 921d33bc37e89aadfb929a3aaf25f2be762dca2ccad8451f64ac6eaa97547c20
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:02:11Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -65,10 +65,10 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Cooperação Técnica
-- Comissão de Coordenação e Desenvolvimento Regional
-- Prestação de Serviços
 - Administração Local
+- Comissão de Coordenação e Desenvolvimento Regional
+- Cooperação Técnica
+- Prestação de Serviços
 - TAXA de Prestação de Serviços
 relationships:
 - type: amended_by
@@ -83,16 +83,30 @@ relationships:
   target: eli:http://data.dre.pt/eli/port/393/2004/04/16/p/dre
   label: null
   source: http://data.dre.pt/eli/port/393/2004/04/16/p/dre
+- type: cites
+  target: pt:dre:223825:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:540841:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:335414:por
+  label: "Revogada, a partir de 01.07.2010, a Port 393/2004, de 16-Abr, na redacção do presente diploma, pela PORT.314/2010.14.06.2010.MAOT,\
+    \ DR.IS [113] de 14.06.2010\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/314-2010-335414
+  date: '2010-06-14'
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:02:11Z'
   warnings: []
   errors: []
 ---
@@ -121,4 +135,4 @@ b) Os pedidos de parecer sejam acompanhados de informação elaborada pelos serv
 
 c) Não se encontre disponibilizado, em qualquer suporte, seja digital ou documental, parecer sobre a mesma questão ou temática afim àquele que é objecto de consulta.»
 
-**O Ministro das Cidades, Ordenamento do Território e Ambiente, Arlindo Marques da Cunha, em 30 de Junho de 2004.**
+O Ministro das Cidades, Ordenamento do Território e Ambiente, Arlindo Marques da Cunha, em 30 de Junho de 2004.

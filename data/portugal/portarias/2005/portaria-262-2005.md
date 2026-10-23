@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/262/2005/03/17/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/262-2005-574349
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2005-03-17T00:00:00Z'
+  retrieved_at: '2026-10-23T15:05:21Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: dac121accf6fe6211db8a41a1004307c8e779575c33f3c0b2d9fb5f6f3427a98
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: e786e9748ff47ebbc6ae359ba0f8078f44f067085689920c436f545b816c1bbe
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:05:21Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,20 +66,20 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Financiamento
-- Investigação Científica e Tecnológica
-- Infarmed
 - Definição de Competências
+- Financiamento
+- Infarmed
+- Instituto Nacional da Propriedade Industrial
+- Invenção
+- Investigação Científica e Tecnológica
 - Marca
 - Mudança Tecnológica
-- Projeto de Investimento
-- Instituto Nacional da Propriedade Industrial
 - Patente
+- Prime
+- Projeto de Investimento
 - Propriedade Industrial
 - QCA III
 - Regulamento
-- Prime
-- Invenção
 relationships:
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/182/1993/05/14/p/dre
@@ -113,16 +113,48 @@ relationships:
   target: eli:http://data.dre.pt/eli/resolconsmin/60/1998/05/06/p/dre
   label: null
   source: http://data.dre.pt/eli/resolconsmin/60/1998/05/06/p/dre
+- type: cites
+  target: pt:dre:172510:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:197496:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:275862:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:329019:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:510266:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:516912:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:632905:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:647110:por
+  label: null
+  source: null
 article_structure:
   article_count: 21
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:05:21Z'
   warnings: []
   errors: []
 ---
@@ -153,7 +185,7 @@ Ao abrigo do artigo 20.º e nos termos da alínea b) do artigo 6.º, ambos do [D
 
 Em 16 de Fevereiro de 2004.
 
-**O Ministro de Estado, das Actividades Económicas e do Trabalho, Álvaro Roque de Pinho Bissaya Barreto. - O Ministro das Finanças e da Administração Pública, António José de Castro Bagão Félix. - O Ministro do Turismo, Telmo Augusto Gomes de Noronha Correia.**
+O Ministro de Estado, das Actividades Económicas e do Trabalho, Álvaro Roque de Pinho Bissaya Barreto. - O Ministro das Finanças e da Administração Pública, António José de Castro Bagão Félix. - O Ministro do Turismo, Telmo Augusto Gomes de Noronha Correia.
 
 ## ANEXO — Regulamento de Execução do Sistema de Incentivos à Utilização da Propriedade Industrial
 

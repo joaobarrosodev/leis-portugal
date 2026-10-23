@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/25/2005/01/11/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/25-2005-457034
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2008-08-13T00:00:00Z'
+  retrieved_at: '2026-10-23T15:05:15Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: aa665a44ee9b8a164aa02b987566122a3fabea630d06559239c183df35787a89
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 4ac30bb2af8c5b04dff0c6e722752e2f34a714844007181d25b615925da46a27
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:05:15Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -74,6 +74,12 @@ relationships:
   target: pt:dre:455583:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:455583:por
+  label: "Anexado um prédio rústico à zona de caça criada pela Portaria n.º 596/94, de 13-Jul., na redacção do presente diploma,\
+    \ pela PORT.868/2008.13.08.2008.MADRP, DR.IS [156] de 13.08.2008\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/868-2008-455583
+  date: '2008-08-13'
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/202/2004/08/18/p/dre
   label: null
@@ -94,16 +100,36 @@ relationships:
   target: eli:http://data.dre.pt/eli/port/596/1994/07/13/p/dre
   label: null
   source: http://data.dre.pt/eli/port/596/1994/07/13/p/dre
+- type: cites
+  target: pt:dre:300251:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:480704:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:515432:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:534644:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:536243:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:05:15Z'
   warnings: []
   errors: []
 ---

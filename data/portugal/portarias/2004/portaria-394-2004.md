@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/394/2004/04/19/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/394-2004-223462
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2005-05-02T00:00:00Z'
+  retrieved_at: '2026-10-23T14:58:55Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: ab56d73aa7428ca6306ebdb139a31684bfa81e151cb6af51dbf79a7ee9f9a796
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 42b5ba185e05293d0d6678a435dd14775693f1fc53c4ac8ef2b704ce0256c76c
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T14:58:55Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,27 +66,34 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Gás Natural
+- Apoio ao Investimento
 - Beiragás
-- Energia não Poluente
 - Direcção Regional de Economia
+- Energia não Poluente
 - Energia Renovável
 - Fiscalização
-- Apoio ao Investimento
-- Projeto de Investimento
+- Gás Natural
+- IAPMEI
 - Medida de Apoio ao Aproveitamento do Potencial Energético e Racionalização de Consumos
+- Prime
 - Produção de Energia Elétrica
+- Projeto de Investimento
 - Recursos Energéticos
 - Regulamento
 - Sistema de Incentivos a Modernização Empresarial
-- Prime
-- IAPMEI
 - Tagusgás
 relationships:
 - type: amended_by
   target: pt:dre:534445:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:534445:por
+  label: "Alterado o n.º 2 do art. 3.º, o art. 12.º, os n.os 3, 11 e 12 do anexo A e o n.º 2 do anexo D do Regulamento de\
+    \ Execução da Medida de Apoio ao Aproveitamento do Potencial Energético e Racionalização de Consumos, aprovado pelo presente\
+    \ diploma, pela PORT.455/2005.02.05.2005.MAET, DR.IS-B [84] de 02.05.2005\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/455-2005-534445
+  date: '2005-05-02'
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/118/1998/05/07/p/dre
   label: null
@@ -119,16 +126,57 @@ relationships:
   target: eli:http://data.dre.pt/eli/resolconsmin/103/2002/07/26/p/dre
   label: null
   source: http://data.dre.pt/eli/resolconsmin/103/2002/07/26/p/dre
+- type: cites
+  target: pt:dre:197496:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:303264:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:334611:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:390226:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:409701:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:510266:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:517194:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:576277:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:647110:por
+  label: null
+  source: null
+- type: corrected_by
+  target: pt:dre:277120:por
+  label: "Rectificada pela DECL-RECT.46/2004.27.05.2004.PCM, DR.IS-B [133] de 07.06.2004\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/declaracao-rectificacao/46-2004-277120
+  date: '2004-05-27'
 article_structure:
   article_count: 23
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T14:58:55Z'
   warnings: []
   errors: []
 ---
@@ -159,7 +207,7 @@ Manda o Governo, pelos Ministros de Estado e das Finanças, da Economia e das Ci
 
 Em 19 de Julho de 2003.
 
-**A Ministra de Estado e das Finanças, Maria Manuela Dias Ferreira Leite. - O Ministro da Economia, Carlos Manuel Tavares da Silva. - O Ministro das Cidades, Ordenamento do Território e Ambiente, Amílcar Augusto Contel Martins Theias.**
+A Ministra de Estado e das Finanças, Maria Manuela Dias Ferreira Leite. - O Ministro da Economia, Carlos Manuel Tavares da Silva. - O Ministro das Cidades, Ordenamento do Território e Ambiente, Amílcar Augusto Contel Martins Theias.
 
 ## ANEXO
 

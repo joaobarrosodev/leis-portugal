@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/2s/2026/07/129000000/0013300133.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -46,18 +46,18 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/declaracao-retificacao/574-2026-1144687330
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2026-07-07T00:00:00Z'
+  retrieved_at: '2026-10-23T15:05:23Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 8a3dc1d5cd7e724f73e05cc7a834efb71ad1855a4e041c74468ffe373457f311
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 8126a2e34cc602213252215af098e3c61b4f6bc02174d0e932ece12abaf5bce7
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:05:23Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -69,13 +69,13 @@ relationships: []
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:05:23Z'
   warnings: []
   errors: []
 ---
@@ -107,3 +107,5 @@ deve ler-se:
 3 - O presente despacho produz efeitos desde a data de entrada em vigor do Despacho n.º 7547/2026, de 7 de junho, publicado no Diário da República, 2.ª série, n.º 115, de 17 de junho de 2026, ficando ratificados todos os atos entretanto praticados no âmbito dos poderes ora subdelegados, nos termos do preceituado no artigo 164.º do Código do Procedimento Administrativo, desde 8 de abril de 2026.
 
 19 de junho de 2026. - A Vogal do Conselho Diretivo do Instituto de Gestão Financeira da Segurança Social, I. P., Sara Ribeiro.
+
+320014691

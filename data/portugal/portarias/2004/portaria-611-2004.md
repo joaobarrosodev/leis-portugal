@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/611/2004/06/03/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/611-2004-281176
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2004-06-03T00:00:00Z'
+  retrieved_at: '2026-10-23T15:00:13Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: b3fc50bf50d1b58bd787037bbfdc7860ff3b8fc301de658297b83c7ea07d33b9
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 483d2c8ecbfa1000d0c2c0911fbfdb87083a23e595da2298b0180293fdd01aad
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:00:13Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,9 +66,9 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Ministério da Educação
 - Definição de Competências
 - Direcção Regional de Educação do Algarve
+- Ministério da Educação
 - Orgânica
 relationships:
 - type: cites
@@ -87,16 +87,36 @@ relationships:
   target: eli:http://data.dre.pt/eli/lei/4/2004/01/15/p/dre
   label: null
   source: http://data.dre.pt/eli/lei/4/2004/01/15/p/dre
+- type: cites
+  target: pt:dre:138777:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:302353:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:432449:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:564850:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:603475:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:00:13Z'
   warnings: []
   errors: []
 ---
@@ -155,4 +175,4 @@ d) Direcção de Serviços Administrativos e Financeiros (DSAF).
 
 Em 20 de Maio de 2004.
 
-**A Ministra de Estado e das Finanças, Maria Manuela Dias Ferreira Leite. - O Ministro da Educação, José David Gomes Justino. - O Ministro da Saúde, Luís Filipe Pereira.**
+A Ministra de Estado e das Finanças, Maria Manuela Dias Ferreira Leite. - O Ministro da Educação, José David Gomes Justino. - O Ministro da Saúde, Luís Filipe Pereira.

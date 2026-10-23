@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2004/07/178b00/49544954.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/972/2004/07/30/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/972-2004-500467
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2004-11-25T00:00:00Z'
+  retrieved_at: '2026-10-23T15:02:21Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: d00c1ecd506872ac17a81351282458e6de287acc18a61b9b766cb933a6e7ddd0
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: d6ebe5ec5e17362f7002c7bb84c8b0348620be9633e32f0ed40a729c4124f061
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:02:21Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -86,16 +86,33 @@ relationships:
   target: eli:http://data.dre.pt/eli/port/722-s4/1992/07/15/p/dre
   label: null
   source: http://data.dre.pt/eli/port/722-s4/1992/07/15/p/dre
+- type: cites
+  target: pt:dre:534644:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:536243:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:617949:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:534436:por
+  label: "Revogada pela PORT.1432/2004.25.11.2004.MAPF, DR.IS-B [277] de 25.11.2004\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/1432-2004-534436
+  date: '2004-11-25'
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:02:21Z'
   warnings: []
   errors: []
 ---

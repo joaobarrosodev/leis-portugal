@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2004/01/017b00/03910392.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/81/2004/01/21/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/81-2004-606970
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2004-01-21T00:00:00Z'
+  retrieved_at: '2026-10-23T15:01:26Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: bcf120daae1ffcf15072e9a50d09619fb931d6c668eaaddf57ff0483c766a61e
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: df72ae2d6f5a0bb67a09b65d17ab0adb4303feded49a4eb42963af69548b0915
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:01:26Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -76,16 +76,32 @@ relationships:
   target: eli:http://data.dre.pt/eli/port/353/2001/04/09/p/dre
   label: null
   source: http://data.dre.pt/eli/port/353/2001/04/09/p/dre
+- type: cites
+  target: pt:dre:292958:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:354548:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:420460:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:572891:por
+  label: null
+  source: null
 article_structure:
-  article_count: 2
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:01:26Z'
   warnings: []
   errors: []
 ---
@@ -116,7 +132,9 @@ a) É proibida a utilização de redes a jusante do ponto de encontro entre a ra
 
 ...
 
-###### Artigo 10.º-B — Funcionamento dos turnos de lampreeira
+Artigo 10.º-B
+
+Funcionamento dos turnos de lampreeira
 
 O exercício da pesca com lampreeira no sistema de turnos fica sujeito aos seguintes condicionalismos:
 
@@ -130,7 +148,9 @@ d) A pesca é proibida entre o pôr do Sol de quarta-feira e o pôr do Sol de qu
 
 ...
 
-###### Artigo 12.º — Períodos de defeso
+Artigo 12.º
+
+Períodos de defeso
 
 1 - Nos períodos a seguir mencionados, não é permitido pescar, manter a bordo, transbordar, desembarcar, reter, transportar, armazenar, expor ou colocar à venda as seguintes espécies:
 

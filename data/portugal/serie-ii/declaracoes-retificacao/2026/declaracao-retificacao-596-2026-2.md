@@ -26,7 +26,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/2s/2026/07/133000000/0029400311.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -48,18 +48,18 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/declaracao-retificacao/596-2026-1146592086
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2026-07-13T00:00:00Z'
+  retrieved_at: '2026-10-23T15:05:29Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 7266946a50b7a007ab27a5d3b445631c44f89c5a1450e952e2992691adc8b1e0
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: fa7d50f57de8276f102edea7b52f3cf1c8a3d3110d569f6e4d66c5e826063f84
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:05:29Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,17 +67,53 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects: []
-relationships: []
+relationships:
+- type: cites
+  target: pt:dre:125468543:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:150570704:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:179275:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:182213906:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:2009170:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:25697804:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:494551:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:500023:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:66229856:por
+  label: null
+  source: null
 article_structure:
   article_count: 1
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:05:29Z'
   warnings: []
   errors: []
 ---
@@ -92,7 +128,8 @@ O artigo 24.º do Regulamento Urbanístico estabelece atualmente que o valor da 
 
 Passando a constar a seguinte fórmula:
 
-![](https://files.diariodarepublica.pt/images/1146592086/1146592187.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/1146592086/1146592187.png) |
+| --- |
 
 Ac - área bruta de construção;
 
@@ -163,7 +200,7 @@ Utilização
 | 1.9. 4. Recintos de espetáculos e de divertimentos públicos | 100,00 € |
 | 1.10.5. Indústrias do Tipo 1, 2 ou 3 | 80,00 € |
 | 1.11.6. Campo de férias | 60,00 € |
-| Por m<sup>2</sup>, acresce | Parte variável (m<sup>2</sup>) |
+| Por m2, acresce | Parte variável (m2) |
 | 1.1. Fogo - habitação coletiva | 1,25 € |
 | 1.2. Moradia unifamiliar ou bifamiliar | 1,25 € |
 | 1.3. Varandas, alpendres, áreas técnicas e terraços | 0,50 € |
@@ -188,7 +225,8 @@ Utilização
 
 1 - O valor em numerário, da compensação a pagar ao município, será determinado de acordo com a seguinte fórmula:
 
-![](https://files.diariodarepublica.pt/images/1146592086/1146592188.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/1146592086/1146592188.png) |
+| --- |
 
 C - Valor em euros, do montante total da compensação devida ao município.
 
@@ -200,9 +238,9 @@ Aced - área de cedência efetiva para espaços verdes, equipamentos de utiliza�
 
 Aexig - área de cedência legalmente exigível para espaços verdes, equipamentos de utilização coletiva e habitação legalmente exigível.
 
-| Nível geográfico | Habitação | Comércio/Serviços/Turismo/ Indústria/outras atividades |
+| Nível geográfico | Valor de Vu |  |
 | --- | --- | --- |
-| Nível geográfico | Valor de Vu | Valor de Vu |
+| Habitação | Comércio/Serviços/Turismo/ Indústria/outras atividades |  |
 | I | 40 | 45 |
 | II | 36 | 40 |
 | III | 32 | 36 |
@@ -263,8 +301,8 @@ Aexig - área de cedência legalmente exigível para espaços verdes, equipament
 | 2.3.3 - Rede de gás | 0,50 €/ml |
 | 2.3.4 - Rede elétrica | 0,50 €/ml |
 | 2.3.5 - Rede de telecomunicações | 0,50 €/ml |
-| 2.3.6 - Arranjos exteriores | 0,10 €/m<sup>2</sup> |
-| 2.3.7 - Arruamentos | 0,10 €/m<sup>2</sup> |
+| 2.3.6 - Arranjos exteriores | 0,10 €/m2 |
+| 2.3.7 - Arruamentos | 0,10 €/m2 |
 | 3 - Junção de elementos para suprimento de deficiências/incumprimentos na sequência de resposta emitida pelo Município para aperfeiçoamento do pedido ou apresentação de novos elementos por iniciativa do requerente (por cada junção) acrescem, se aplicável, as taxas respetivas em função das alterações | 100,00 € |
 | 4 - Emissão da licença ou outro título legalmente fixado; | 30,00 € |
 | 5 - Resposta à comunicação prévia | 25,00 € |
@@ -318,32 +356,32 @@ Aexig - área de cedência legalmente exigível para espaços verdes, equipament
 | 2.1.3 - Nível III | 75,00 € |
 | 2.1.4 - Nível IV | 50,00 € |
 | 2.2 - Taxa variável por natureza |  |
-| 2.2.1 - Habitação (m<sup>2</sup>) |  |
+| 2.2.1 - Habitação (m2) |  |
 | 2.2.1.1 - Nível I | 7,50 € |
 | 2.2.1.2 - Nível II | 5,50 € |
 | 2.2.1.3 - Nível III | 3,50 € |
 | 2.2.1.4 - Nível IV | 2,50 € |
-| 2.2.2 - Comércio, Serviços e Empreendimentos turísticos (m<sup>2</sup>) |  |
+| 2.2.2 - Comércio, Serviços e Empreendimentos turísticos (m2) |  |
 | 2.2.2.1 - Nível I | 9,50 € |
 | 2.2.2.2 - Nível II | 7,50 € |
 | 2.2.2.3 - Nível III | 5,50 € |
 | 2.2.2.4 - Nível IV | 4,50 € |
-| 2.2.3 - Indústria e Construções afetas (m<sup>2</sup>) |  |
+| 2.2.3 - Indústria e Construções afetas (m2) |  |
 | 2.2.3.1 - Nível I | 3,00 € |
 | 2.2.3.2 - Nível II | 2,00 € |
 | 2.2.3.3 - Nível III | 1,50 € |
 | 2.2.3.4 - Nível IV | 1,00 € |
-| 2.2.4 - Arrumos, Armazéns, Garagens, Parqueamentos e Similares (m<sup>2</sup>) |  |
+| 2.2.4 - Arrumos, Armazéns, Garagens, Parqueamentos e Similares (m2) |  |
 | 2.2.4.1 - Nível I | 4,50 € |
 | 2.2.4.2 - Nível II | 3,50 € |
 | 2.2.4.3 - Nível III | 2,50 € |
 | 2.2.4.4 - Nível IV | 1,50 € |
-| 2.2.5 - Obras Acessórias a) (m<sup>2</sup>) |  |
+| 2.2.5 - Obras Acessórias a) (m2) |  |
 | 2.2.5.1 - Nível I | 2,50 € |
 | 2.2.5.2 - Nível II | 2,00 € |
 | 2.2.5.3 - Nível III | 1,50 € |
 | 2.2.5.4 - Nível IV | 1,00 € |
-| 2.2.6 - Obras de demolição (m<sup>2</sup>) | 2,50 € |
+| 2.2.6 - Obras de demolição (m2) | 2,50 € |
 | 2.2.7 - Alterações que não envolvem aumento de área bruta de construção | 50,00 € |
 | 3 - Junção de elementos para suprimento de deficiências/incumprimentos na sequência de resposta emitida pelo Município para aperfeiçoamento do pedido ou apresentação de novos elementos por iniciativa do requerente (por cada junção), acrescem, se aplicável, as taxas respetivas em função das alterações | 100,00 € |
 | 4 - Emissão da licença ou outro título legalmente fixado; | 30,00 € |
@@ -354,7 +392,7 @@ Aexig - área de cedência legalmente exigível para espaços verdes, equipament
 | 7.1 - Acrescem os valores previstos em 2 do presente quadro |  |
 | Observações: |  |
 | a) - Varandas, alpendres, telheiros, terraços, sótãos não habitáveis e áreas técnicas |  |
-| (m<sup>2</sup>) - área bruta de construção |  |
+| (m2) - área bruta de construção |  |
 | Único: a emissão de licença parcial, no caso de construção da estrutura prevista no n.º 6 do artigo 23.º do RJUE, está sujeita ao pagamento de uma taxa de valor igual a 60 % do valor calculado para a emissão da licença definitiva. |  |
 | QUADRO V |  |
 | Conclusão de obras inacabadas |  |
@@ -371,8 +409,8 @@ Aexig - área de cedência legalmente exigível para espaços verdes, equipament
 | 1 - Entrada do pedido | 15,00 € |
 | 2 - Apreciação técnica |  |
 | 2.1 - Muros e outro tipo de vedação (ml) | 1,00 € |
-| 2.2 - Piscinas (m<sup>2</sup>) | 7,50 € |
-| 2.3 - Telheiros, tanques, depósitos, impermeabilização do solo para assentamento dos depósitos de gás, combustíveis ou outros (m<sup>2</sup>/abc) | 5,00 € |
+| 2.2 - Piscinas (m2) | 7,50 € |
+| 2.3 - Telheiros, tanques, depósitos, impermeabilização do solo para assentamento dos depósitos de gás, combustíveis ou outros (m2/abc) | 5,00 € |
 | 3 - Emissão do título ou resposta |  |
 | 3.1 - Prazo (mês ou fração) | 10,00 € |
 | QUADRO VII |  |
@@ -383,13 +421,13 @@ Aexig - área de cedência legalmente exigível para espaços verdes, equipament
 | Trabalhos de remodelação de terrenos |  |
 | 1 - Entrada do pedido | 15,00 € |
 | 2 - Apreciação técnica | 37,50 € |
-| 2.1 - Área (m<sup>2</sup>) | 0,60 € |
+| 2.1 - Área (m2) | 0,60 € |
 | 3 - Emissão do título ou resposta |  |
 | 3.1 - Prazo (mês ou fração) | 50,00 € |
 | QUADRO IX |  |
 | Taxa pela ocupação do espaço público por motivo de obras |  |
 | 1 - Pela receção e apreciação do pedido | 50,00 € |
-| 1.1. - Acresce por área (m<sup>2</sup>) | 5,00 € |
+| 1.1. - Acresce por área (m2) | 5,00 € |
 | 1.2 - Acresce pelo prazo (dia) | 1,00 € |
 | 2 - Em caso de prorrogação da licença de ocupação do espaço público aplicam-se novamente todas as taxas previstas para a parte variável. |  |
 | QUADRO X |  |
@@ -442,7 +480,7 @@ Aexig - área de cedência legalmente exigível para espaços verdes, equipament
 | 1.9 - Recintos de espetáculos e de divertimentos públicos | 100,00 € |
 | 1.10 - Indústrias do Tipo 1, 2 ou 3 | 80,00 € |
 | 1.11 - Campo de férias | 60,00 € |
-| Por m<sup>2</sup>, acresce | Parte variável (m<sup>2</sup>) |
+| Por m2, acresce | Parte variável (m2) |
 | 1.1 - Fogo - habitação coletiva | 1,25 € |
 | 1.2 - Moradia unifamiliar ou bifamiliar | 1,25 € |
 | 1.3 - Varandas, alpendres, áreas técnicas e terraços | 0,50 € |
@@ -475,7 +513,7 @@ Aexig - área de cedência legalmente exigível para espaços verdes, equipament
 | QUADRO XVIII |  |
 | Taxas relativas a explorações de recursos geológicos |  |
 | 1 - Parecer prévio de localização/PIP | 150,00 € |
-| 2 - Emissão de licença de exploração | 250,00€ + 0,60€/m<sup>2</sup> + 100,00€/ (ano ou fração) |
+| 2 - Emissão de licença de exploração | 250,00€ + 0,60€/m2 + 100,00€/ (ano ou fração) |
 | 3 - Transmissão da licença de exploração | 150,00 € |
 | 4 - Pedido de suspensão de exploração ou declaração de abandono | 370,00 € |
 | 5 - Vistoria à exploração | 350,00 € |
@@ -486,13 +524,13 @@ Aexig - área de cedência legalmente exigível para espaços verdes, equipament
 | 3 - Repetição da vistoria para verificação das condições impostas | 185,00 € |
 | 4 - Averbamentos | 125,00 € |
 | 5 - Emissão de alvarás de construção ampliação ou alteração: |  |
-| 5.1 - Parque de garrafas e armazenamento de combustíveis: C <100m<sup>3</sup> | 130,00 € |
-| 5.2 - Reservatórios GPL: C ≥ 150m<sup>3</sup> e armazenamento de outros combustíveis: C ≥ 100m<sup>3</sup> | 300,00 € |
+| 5.1 - Parque de garrafas e armazenamento de combustíveis: C <100m3 | 130,00 € |
+| 5.2 - Reservatórios GPL: C ≥ 150m3 e armazenamento de outros combustíveis: C ≥ 100m3 | 300,00 € |
 | 5.3 - Postos de abastecimento de combustíveis de consumo próprio e/ou cooperativo | 300,00 € |
 | 5.4 - Postos de abastecimento de combustíveis de venda ao público/área de serviço | 500,00 € |
 | 6 - Emissão de alvará de autorização de utilização/exploração: |  |
-| 6.1 - Parque de garrafas e armazenamento de combustíveis: C <100m<sup>3</sup> | 130,00 € |
-| 6.2 - Reservatórios GPL: C ≥ 150m<sup>3</sup> e armazenamento de outros combustíveis: C ≥ 100m<sup>3</sup> | 500,00 € |
+| 6.1 - Parque de garrafas e armazenamento de combustíveis: C <100m3 | 130,00 € |
+| 6.2 - Reservatórios GPL: C ≥ 150m3 e armazenamento de outros combustíveis: C ≥ 100m3 | 500,00 € |
 | 6.3 - Postos de abastecimento de combustíveis de consumo próprio e/ou cooperativo | 5 000,00 € |
 | 6.4 - Postos de abastecimento de combustíveis de venda ao público/área de serviços - a) | 20000 + 5000,00€/ /Mangueira e/ou tomada de abastecimento |
 | a) Sempre que o alvará de utilização for emitido com prazo nos termos legalmente admissíveis, considerar-se-á o valor de 1.000,00€/ano para o posto e 250,00€/ano por cada mangueira e/ou tomada de abastecimento. |  |
@@ -556,12 +594,12 @@ Aexig - área de cedência legalmente exigível para espaços verdes, equipament
 | 5.3 - Outros formatos | 2,00 € |
 | 5.4 - Suporte digital | 0,25 € |
 | 6 - Publicitações em jornais, o valor da publicação acrescido de 50 % |  |
-| 7 - Verificação de implantação de edificação, por m<sup>2</sup> de implantação, por iniciativa do requerente | 5,00 € |
+| 7 - Verificação de implantação de edificação, por m2 de implantação, por iniciativa do requerente | 5,00 € |
 | 8 - Verificação de implantação de loteamento por lote, por iniciativa do requerente | 20,00 € |
 | 9 - Cópias simples, escritas ou desenhadas, por cada lauda ou face: |  |
 | 9.1 - Formato A4 | 0,28 € |
 | 9.2 - Formato A3 | 0,50 € |
-| 9.3 - Outros formatos por m<sup>2</sup> | 6,00 € |
+| 9.3 - Outros formatos por m2 | 6,00 € |
 | 10 - Cópia autenticada, em acumulação com o montante referido no número anterior | 5,50 € |
 | 10.1 - Por cada folha, acresce ao montante referido no número anterior | 0,05 € |
 | 11 - Plantas topográficas em formato analógico (papel) |  |
@@ -575,8 +613,8 @@ Aexig - área de cedência legalmente exigível para espaços verdes, equipament
 | Por cada folha A4 | 5,00 € |
 | Por cada folha A1, em papel normal | 25,00 € |
 | 11.3 - Cartografia em formatos não standarizados |  |
-| Por m<sup>2</sup>, em fotocópia | 6,00€ |
-| Por m<sup>2</sup>, em Plotter, papel normal | 12,00 € |
+| Por m2, em fotocópia | 6,00€ |
+| Por m2, em Plotter, papel normal | 12,00 € |
 | 11.4 - Pela autenticação de qualquer dos formatos, incluindo formato digital, acresce | 5,00 € |
 | 12 - Formato Digital |  |
 | 12.1 - Processos urbanísticos |  |
@@ -585,7 +623,7 @@ Aexig - área de cedência legalmente exigível para espaços verdes, equipament
 | 12.2 - Formato raster (imagem) |  |
 | Raster A4 até A3 | 15,00 € |
 | Raster A2 até A0 | 30,00 € |
-| Raster outros formatos por m<sup>2</sup> | 45,00 € |
+| Raster outros formatos por m2 | 45,00 € |
 | Cartografia 1/5.000, a abranger 6,25 km2 | 75,00 € |
 | Cartografia 1/2.000, por carta | 100,00€ |
 | Cartografia 1/10.000, por carta | 100,00€ |
@@ -595,13 +633,13 @@ Aexig - área de cedência legalmente exigível para espaços verdes, equipament
 | 12.3 - Formato Vetorial |  |
 | Cartografia 1/2.000 Planimetrias, por carta | 350,00€ |
 | Cartografia 1/2.000 Altimetrias, por carta | 175,00€ |
-| Cartografia 1/5.000 Planimetrias com 6,25 km<sup>2</sup> de abrangência | 200,00 € |
-| Cartografia 1/5.000 Altimetrias com 6,25 km<sup>2</sup> de abrangência | 100,00 € |
+| Cartografia 1/5.000 Planimetrias com 6,25 km2 de abrangência | 200,00 € |
+| Cartografia 1/5.000 Altimetrias com 6,25 km2 de abrangência | 100,00 € |
 | Cartografia 1/10.000 Planimetrias, por carta | 960,00 € |
 | Cartografia 1/10.000 Altimetrias, por carta | 480,00 € |
 | Extrato de cartografia de zonas urbanas para georreferenciação com 50 m de abrangência (nos serviços) | 2,50€ |
 | Extrato de cartografia de zonas rurais para georreferenciação com 75 m de abrangência (nos serviços) | 4,00€ |
-| Outros formatos vetoriais com mínimo 1,00 km<sup>2</sup>/km<sup>2</sup> | 10,00 € |
+| Outros formatos vetoriais com mínimo 1,00 km2/km2 | 10,00 € |
 | Estudos | 10,00 € |
 | Instrumentos Gestão Territorial (planos) | 25,00 € |
 | Observações: |  |
@@ -649,22 +687,26 @@ Aexig - área de cedência legalmente exigível para espaços verdes, equipament
 | UT XII - Industriais oficinas e armazéns. |  |
 | 2 - Emissão de pareceres sobre as condições/projeto de especialidade de SCIE e emissão de pareceres sobre medidas de autoproteção |  |
 | a) VU - valor unitário dos serviços de SCIE prestados (euros/metros quadrados): |  |
-| i) Utilização-tipo I (euros/m<sup>2</sup>) | 0,02 € |
-| ii) Utilização-tipo II e XII (euros/m<sup>2</sup>) | 0,08 € |
-| iii) Utilização-tipo III a XI (euros/m<sup>2</sup>) | 0,11 € |
+| i) Utilização-tipo I (euros/m2) | 0,02 € |
+| ii) Utilização-tipo II e XII (euros/m2) | 0,08 € |
+| iii) Utilização-tipo III a XI (euros/m2) | 0,11 € |
 | b) Taxa mínima | 114,76 € |
 | 3 - A realização de vistorias sobre as condições de SCIE |  |
 | a) VU - valor unitário dos serviços de SCIE prestados (euros/metros quadrados): |  |
-| i) Utilização-tipo I (euros/m<sup>2</sup>) | 0,04 € |
-| ii) Utilização-tipo II e XII (euros/m<sup>2</sup>) | 0,17 € |
-| iii) Utilização-tipo III a XI (euros/m<sup>2</sup>) | 0,23 € |
+| i) Utilização-tipo I (euros/m2) | 0,04 € |
+| ii) Utilização-tipo II e XII (euros/m2) | 0,17 € |
+| iii) Utilização-tipo III a XI (euros/m2) | 0,23 € |
 | b) Taxa mínima | 229,51 € |
 | 4 - A realização de inspeções regulares sobre as condições de SCIE |  |
 | a) VU - valor unitário dos serviços de SCIE prestados (euros/metros quadrados): |  |
-| i) Utilização-tipo I (euros/m<sup>2</sup>) | 0,03 € |
-| ii) Utilização-tipo II e XII (euros/m<sup>2</sup>) | 0,13 € |
-| iii) Utilização-tipo III a XI (euros/m<sup>2</sup>) | 0,17 € |
+| i) Utilização-tipo I (euros/m2) | 0,03 € |
+| ii) Utilização-tipo II e XII (euros/m2) | 0,13 € |
+| iii) Utilização-tipo III a XI (euros/m2) | 0,17 € |
 | b) Taxa mínima | 172,15 € |
 | 5 - Nas situações em que o valor da taxa apurada nos termos do presente artigo for inferior à taxa mínima correspondente fixada nas alíneas b) dos números anteriores, é cobrada a taxa mínima respetiva |  |
 | 6 - Cada reapreciação ou repetição de consultas prévias, de vistorias e de inspeções no âmbito da SCIE, por razões imputáveis aos destinatários dos serviços, está sujeita a uma taxa correspondente a 50 % do valor das taxas fixadas no presente artigo. |  |
 | Observações: A atualização dos valores das referidas taxas é efetuada por aplicação do índice de preços no consumidor, excluindo a habitação, publicado pelo Instituto Nacional de Estatística, arredondando-se os resultados obtidos à centésima casa decimal e será efetuado com base na Portaria que atualize os valores das taxas devidas pelos serviços prestados pela Autoridade Nacional de Emergência e Proteção Civil (ANEPC), no âmbito da segurança contra incêndio em edifícios (SCIE). |  |
+
+320019216
+
+.Tbl1 { border-collapse:collapse; border-width:1px; } .Tbl2 { min-height:28px; } .Tbl3 { border-bottom-width:1px; border-left-width:0px; border-top-width:1px; border-right-width:1px; } .Tbl5 { border-bottom-width:1px; border-left-width:1px; border-top-width:1px; border-right-width:0px; } .Tbl6 { text-align:center; } .Tbl7 { min-height:18px; } .Tbl8 { min-height:26px; } .Tbl9 { border-bottom-color:rgb(0,0,0); border-bottom-width:1px; border-bottom-style:solid; border-left-width:0px; border-top-width:1px; border-right-width:1px; } .Tbl10 { border-bottom-color:rgb(0,0,0); border-bottom-width:1px; border-bottom-style:solid; border-left-width:1px; border-top-width:1px; border-right-width:0px; } .Tbl11 { height:26px; } .Tbl12 { border-bottom-color:rgb(0,0,0); border-top-color:rgb(0,0,0); border-left-width:0px; border-top-width:1px; border-right-width:1px; border-top-style:solid; border-bottom-width:1px; border-bottom-style:solid; border-right-style:solid; border-right-color:rgb(0,0,0); border-left-style:solid; vertical-align:middle; } .Tbl13 { border-bottom-color:rgb(0,0,0); border-top-color:rgb(0,0,0); border-left-width:1px; border-top-width:1px; border-right-width:0px; border-top-style:solid; border-left-color:rgb(0,0,0); border-bottom-width:1px; border-bottom-style:solid; border-right-style:solid; border-left-style:solid; vertical-align:middle; } .Tbl14 { min-height:17px; } .Tbl15 { border-bottom-width:1px; border-top-color:rgb(0,0,0); border-left-width:0px; border-top-width:1px; border-right-width:1px; border-top-style:solid; } .Tbl16 { border-bottom-width:1px; border-top-color:rgb(0,0,0); border-left-width:1px; border-top-width:1px; border-right-width:0px; border-top-style:solid; } .Tbl17 { border-bottom-color:rgb(0,0,0); border-top-color:rgb(0,0,0); border-left-width:0px; border-top-width:1px; border-right-width:1px; border-top-style:solid; border-bottom-width:1px; border-bottom-style:solid; border-right-style:solid; border-right-color:rgb(0,0,0); border-left-style:solid; } .Tbl18 { border-bottom-color:rgb(0,0,0); border-top-color:rgb(0,0,0); border-left-width:1px; border-top-width:1px; border-right-width:0px; border-top-style:solid; border-left-color:rgb(0,0,0); border-bottom-width:1px; border-bottom-style:solid; border-right-style:solid; border-left-style:solid; } .Tbl19 { min-height:35px; } .Tbl20 { border-bottom-color:rgb(0,0,0); border-bottom-width:1px; border-bottom-style:solid; border-top-color:rgb(0,0,0); border-left-width:0px; border-top-width:1px; border-right-width:1px; border-top-style:solid; } .Tbl21 { border-bottom-color:rgb(0,0,0); border-bottom-width:1px; border-bottom-style:solid; border-top-color:rgb(0,0,0); border-left-width:1px; border-top-width:1px; border-right-width:0px; border-top-style:solid; } .Tbl22 { border-bottom-width:1px; border-left-width:0px; border-top-width:1px; border-right-width:1px; vertical-align:top; } .Tbl23 { border-bottom-width:1px; border-left-width:1px; border-top-width:1px; border-right-width:0px; vertical-align:top; } .Tbl24 { height:17px; } .Tbl25 { min-height:14px; } .Tbl26 { border-bottom-width:1px; border-left-width:1px; border-top-width:1px; border-right-width:1px; } .Tbl27 { margin-top:0px; text-align:center; } .Tbl28 { text-indent:0px; margin-top:0px; text-align:center; } .Tbl29 { border-top-color:rgb(0,0,0); border-left-width:0px; border-top-width:1px; border-right-width:1px; border-top-style:solid; border-bottom-width:0px; border-bottom-style:none; border-right-style:solid; border-right-color:rgb(0,0,0); border-left-style:solid; vertical-align:top; } .Tbl30 { border-top-color:rgb(0,0,0); border-left-width:1px; border-top-width:1px; border-right-width:0px; border-top-style:solid; border-left-color:rgb(0,0,0); border-bottom-width:0px; border-bottom-style:none; border-right-style:solid; border-left-style:solid; vertical-align:top; } .Tbl31 { border-left-width:0px; border-top-width:0px; border-right-width:1px; border-top-style:none; border-bottom-width:0px; border-bottom-style:none; border-right-style:solid; border-right-color:rgb(0,0,0); border-left-style:solid; vertical-align:top; } .Tbl32 { STYLE=} .Tbl33 { border-left-width:1px; border-top-width:0px; border-right-width:0px; border-top-style:none; border-left-color:rgb(0,0,0); border-bottom-width:0px; border-bottom-style:none; border-right-style:solid; border-left-style:solid; vertical-align:top; } .Tbl34 { min-height:21px; } .Tbl35 { border-bottom-color:rgb(0,0,0); border-left-width:0px; border-top-width:0px; border-right-width:1px; border-top-style:none; border-bottom-width:1px; border-bottom-style:solid; border-right-style:solid; border-right-color:rgb(0,0,0); border-left-style:solid; vertical-align:top; } .Tbl36 { border-bottom-color:rgb(0,0,0); border-left-width:1px; border-top-width:0px; border-right-width:0px; border-top-style:none; border-left-color:rgb(0,0,0); border-bottom-width:1px; border-bottom-style:solid; border-right-style:solid; border-left-style:solid; vertical-align:top; } .Tbl37 { border-bottom-width:1px; border-top-color:rgb(0,0,0); border-left-width:0px; border-top-width:1px; border-right-width:1px; border-top-style:solid; vertical-align:top; } .Tbl38 { border-bottom-width:1px; border-top-color:rgb(0,0,0); border-left-width:1px; border-top-width:1px; border-right-width:0px; border-top-style:solid; vertical-align:top; } .Tbl39 { min-height:37px; } .Tbl40 { text-align:justify; text-align-last:justify; } .Tbl41 { border-bottom-color:rgb(0,0,0); border-bottom-width:1px; border-bottom-style:solid; border-left-width:0px; border-top-width:1px; border-right-width:1px; vertical-align:top; } .Tbl42 { border-bottom-color:rgb(0,0,0); border-bottom-width:1px; border-bottom-style:solid; border-left-width:1px; border-top-width:1px; border-right-width:0px; vertical-align:top; } .Tbl43 { min-height:27px; } .Tbl44 { min-height:36px; } .Tbl45 { min-height:22px; } .Tbl46 { border-top-color:rgb(0,0,0); border-left-width:0px; border-top-width:1px; border-right-width:1px; border-top-style:solid; border-bottom-width:0px; border-bottom-style:none; border-right-style:solid; border-right-color:rgb(0,0,0); border-left-style:solid; } .Tbl47 { border-top-color:rgb(0,0,0); border-left-width:1px; border-top-width:1px; border-right-width:0px; border-top-style:solid; border-left-color:rgb(0,0,0); border-bottom-width:0px; border-bottom-style:none; border-right-style:solid; border-left-style:solid; } .Tbl48 { border-bottom-color:rgb(0,0,0); border-left-width:0px; border-top-width:0px; border-right-width:1px; border-top-style:none; border-bottom-width:1px; border-bottom-style:solid; border-right-style:solid; border-right-color:rgb(0,0,0); border-left-style:solid; } .Tbl49 { border-bottom-color:rgb(0,0,0); border-left-width:1px; border-top-width:0px; border-right-width:0px; border-top-style:none; border-left-color:rgb(0,0,0); border-bottom-width:1px; border-bottom-style:solid; border-right-style:solid; border-left-style:solid; } .Tbl50 { border-top-color:rgb(0,0,0); border-left-width:0px; border-top-width:1px; border-top-style:solid; } .Tbl51 { border-top-color:rgb(0,0,0); border-top-width:1px; border-right-width:0px; border-top-style:solid; } .Tbl52 { border-left-width:0px; } .Tbl53 { border-right-width:0px; } .Tbl54 { border-left-width:0px; vertical-align:top; } .Tbl55 { border-right-width:0px; vertical-align:top; } .Tbl56 { border-bottom-color:rgb(0,0,0); border-bottom-width:1px; border-bottom-style:solid; border-left-width:0px; vertical-align:top; } .Tbl57 { border-bottom-color:rgb(0,0,0); border-bottom-width:1px; border-bottom-style:solid; border-right-width:0px; vertical-align:top; } .Tbl58 { border-top-color:rgb(0,0,0); border-left-width:0px; border-top-width:1px; border-top-style:solid; vertical-align:top; } .Tbl59 { border-top-color:rgb(0,0,0); border-top-width:1px; border-right-width:0px; border-top-style:solid; vertical-align:top; } .Tbl60 { border-bottom-color:rgb(0,0,0); border-top-color:rgb(0,0,0); border-left-width:0px; border-top-width:1px; border-right-width:1px; border-top-style:solid; border-bottom-width:1px; border-bottom-style:solid; border-right-style:solid; border-right-color:rgb(0,0,0); border-left-style:solid; vertical-align:top; } .Tbl61 { border-bottom-color:rgb(0,0,0); border-top-color:rgb(0,0,0); border-left-width:1px; border-top-width:1px; border-right-width:0px; border-top-style:solid; border-left-color:rgb(0,0,0); border-bottom-width:1px; border-bottom-style:solid; border-right-style:solid; border-left-style:solid; vertical-align:top; } .Tbl62 { border-bottom-color:rgb(0,0,0); border-bottom-width:1px; border-bottom-style:solid; border-top-color:rgb(0,0,0); border-left-width:0px; border-top-width:1px; border-top-style:solid; vertical-align:top; } .Tbl63 { border-bottom-color:rgb(0,0,0); border-bottom-width:1px; border-bottom-style:solid; border-top-color:rgb(0,0,0); border-top-width:1px; border-right-width:0px; border-top-style:solid; vertical-align:top; } .Tbl64 { border-bottom-color:rgb(0,0,0); border-bottom-width:1px; border-bottom-style:solid; border-left-width:0px; } .Tbl65 { border-bottom-color:rgb(0,0,0); border-bottom-width:1px; border-bottom-style:solid; border-right-width:0px; } .Tbl66 { min-height:47px; } .Tbl67 { min-height:20px; } .Tbl68 { border-bottom-color:rgb(0,0,0); border-top-color:rgb(0,0,0); border-left-width:0px; border-top-width:1px; border-right-width:1px; border-top-style:solid; border-bottom-width:0px; border-bottom-style:none; border-right-style:solid; border-right-color:rgb(0,0,0); border-left-style:solid; } .Tbl69 { border-bottom-color:rgb(0,0,0); border-top-color:rgb(0,0,0); border-left-width:1px; border-top-width:1px; border-right-width:0px; border-top-style:solid; border-left-color:rgb(0,0,0); border-bottom-width:0px; border-bottom-style:none; border-right-style:solid; border-left-style:solid; } .Tbl70 { border-bottom-color:rgb(0,0,0); border-top-color:rgb(0,0,0); border-left-width:0px; border-top-width:0px; border-right-width:1px; border-top-style:none; border-bottom-width:1px; border-bottom-style:solid; border-right-style:solid; border-right-color:rgb(0,0,0); border-left-style:solid; } .Tbl71 { border-bottom-color:rgb(0,0,0); border-top-color:rgb(0,0,0); border-left-width:1px; border-top-width:0px; border-right-width:0px; border-top-style:none; border-left-color:rgb(0,0,0); border-bottom-width:1px; border-bottom-style:solid; border-right-style:solid; border-left-style:solid; } .Tbl72 { min-height:23px; } .Tbl73 { min-height:48px; } .Tbl74 { min-height:38px; } .Tbl75 { min-height:34px; } .Tbl76 { min-height:45px; } .Tbl77 { min-height:24px; } .Tbl78 { min-height:56px; } .Tbl79 { min-height:66px; }

@@ -50,18 +50,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/927/2004/07/27/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/927-2004-507243
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2004-07-27T00:00:00Z'
+  retrieved_at: '2026-10-23T15:02:06Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 6afa7d19142e6e4faf08c26c1f35f7780ea0fc5ce227930e97ed612dd8cab4d8
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: cd983f231ad78f9a7db7fc4659b951986397cf0269ade5273c54c60d3aba53b1
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:02:06Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -69,24 +69,24 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Sociedade Anónima
-- Energia Elétrica
 - Contrato
+- Energia Elétrica
 - Mercado de Futuros e Opções
 - Mercado de Valores
 - Mibel
 - OMI Clear
+- Sociedade Anónima
 relationships: []
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:02:06Z'
   warnings: []
   errors: []
 ---
@@ -119,4 +119,4 @@ Ao abrigo da alínea c) do n.º 2 e da alínea c) do n.º 3 do artigo 268.º do 
 
 Em 8 de Junho de 2004.
 
-**A Ministra de Estado e das Finanças, Maria Manuela Dias Ferreira Leite. - O Ministro da Economia, Carlos Manuel Tavares da Silva.**
+A Ministra de Estado e das Finanças, Maria Manuela Dias Ferreira Leite. - O Ministro da Economia, Carlos Manuel Tavares da Silva.

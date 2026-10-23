@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/845/2004/07/16/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/845-2004-527586
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2004-09-16T00:00:00Z'
+  retrieved_at: '2026-10-23T15:01:39Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: cd987a3d741fa80c530b63dc54ac4c41d6b9663345ac1fd5385593aa074bca7d
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 15e00759ff4c549af721b5ac084730e05dea2d02ce232db27f6c2a87e8cf6758
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:01:39Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,17 +67,24 @@ reuse:
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
 - Concurso
-- Ensino Oficial
 - Concurso Nacional de Acesso e Ingresso
+- Ensino Oficial
+- Ensino Superior
 - Ensino Superior Politécnico
 - Regulamento
-- Ensino Superior
 - Tabela de Conversão
 relationships:
 - type: amended_by
   target: pt:dre:406346:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:406346:por
+  label: "Alterado o art 43º e o Anexo I do Regulamento do Concurso Nacional de Acesso e Ingresso no Ensino Superior Público\
+    \ para a matrícula e inscrição no ano lectivo de 2004-2005, aprovado pelo presente diploma, pela PORT.1198-A/2004.16.09.2004.MCIES,\
+    \ DR.IS-B [219-Supl] de 16.09.2004\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/1198-a-2004-406346
+  date: '2004-09-16'
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/118/2004/05/21/p/dre
   label: null
@@ -114,16 +121,64 @@ relationships:
   target: eli:http://data.dre.pt/eli/dec-lei/99/1999/03/30/p/dre
   label: null
   source: http://data.dre.pt/eli/dec-lei/99/1999/03/30/p/dre
+- type: cites
+  target: pt:dre:138571:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:159115:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:173481:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:199778:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:210421:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:270806:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:393396:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:517468:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:609609:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:618310:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:628044:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:661731:por
+  label: null
+  source: null
 article_structure:
   article_count: 57
   section_count: 7
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:01:39Z'
   warnings: []
   errors: []
 ---
@@ -178,7 +233,7 @@ Entrada em vigor
 
 Esta portaria entra em vigor no dia imediato ao da sua publicação.
 
-**A Ministra da Ciência e do Ensino Superior, Maria da Graça Martins da Silva Carvalho, em 30 de Junho de 2004.**
+A Ministra da Ciência e do Ensino Superior, Maria da Graça Martins da Silva Carvalho, em 30 de Junho de 2004.
 
 REGULAMENTO DO CONCURSO NACIONAL DE ACESSO E INGRESSO NO ENSINO SUPERIOR PÚBLICO PARA A MATRÍCULA E INSCRIÇÃO NO ANO LECTIVO DE 2004-2005.
 

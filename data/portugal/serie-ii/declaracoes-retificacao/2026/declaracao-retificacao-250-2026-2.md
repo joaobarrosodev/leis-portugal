@@ -26,7 +26,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/2s/2026/03/061000000/0073600738.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -48,18 +48,18 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/declaracao-retificacao/250-2026-1078476427
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2026-03-27T00:00:00Z'
+  retrieved_at: '2026-10-23T15:03:23Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: dd367eb291ab96bf28d7cb8fd9d7e38aeb135e9f1077f9824f6cf57ffc2614af
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: c23abf2968131bb793b6570d62e85b12516282b42da12d56f2c479818a68d338
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:03:23Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,17 +67,25 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects: []
-relationships: []
+relationships:
+- type: cites
+  target: pt:dre:1072578767:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:25676932:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:03:23Z'
   warnings: []
   errors: []
 ---
@@ -88,11 +96,11 @@ Na sequência da publicação do [Aviso n.º 5836/2026/2](https://diariodarepubl
 
 Onde se lê:
 
-«Para cumprimento do disposto na alínea b) do n.º 1, do artigo 4.º, da [Lei n.º 35/2014](https://diariodarepublica.pt/dr/detalhe/lei/35-2014-25676932), de 20 de junho, na sua atual redação, e nos termos dos n.<sup>os</sup>3 a 5, do artigo 99.º e 99.º-A da referida Lei, [...] por despacho do signatário [...] com efeitos a 1 de novembro de 2025.»
+«Para cumprimento do disposto na alínea b) do n.º 1, do artigo 4.º, da [Lei n.º 35/2014](https://diariodarepublica.pt/dr/detalhe/lei/35-2014-25676932), de 20 de junho, na sua atual redação, e nos termos dos n.os3 a 5, do artigo 99.º e 99.º-A da referida Lei, [...] por despacho do signatário [...] com efeitos a 1 de novembro de 2025.»
 
 deve ler-se:
 
-«Para cumprimento do disposto na alínea b) do n.º 1 do artigo 4.º da [Lei n.º 35/2014](https://diariodarepublica.pt/dr/detalhe/lei/35-2014-25676932), de 20 de junho, na sua atual redação, e nos termos dos n.<sup>os</sup>3 a 5 do artigo 99.º e do artigo 99.º-A da referida lei, [...] por despacho do vereador cessante Nelson Aniceto [...] com efeitos a 1 de novembro de 2025 e por despacho do signatário: Sara Eloísa Teles Serzedelo do Nascimento Silva, na 2.ª posição remuneratória, no nível remuneratório 8, da categoria de fiscal da mesma carreira, com efeitos a 1 de janeiro de 2026.»
+«Para cumprimento do disposto na alínea b) do n.º 1 do artigo 4.º da [Lei n.º 35/2014](https://diariodarepublica.pt/dr/detalhe/lei/35-2014-25676932), de 20 de junho, na sua atual redação, e nos termos dos n.os3 a 5 do artigo 99.º e do artigo 99.º-A da referida lei, [...] por despacho do vereador cessante Nelson Aniceto [...] com efeitos a 1 de novembro de 2025 e por despacho do signatário: Sara Eloísa Teles Serzedelo do Nascimento Silva, na 2.ª posição remuneratória, no nível remuneratório 8, da categoria de fiscal da mesma carreira, com efeitos a 1 de janeiro de 2026.»
 
 Onde se lê:
 
@@ -139,3 +147,5 @@ Por aposentação, Amílcar [...], com efeitos a 1 de julho de 2025 e Vasco Augu
 Por cessação do contrato de trabalho em funções públicas por tempo indeterminado, Eduardo Jorge Ferreira Rocha Pontes, na 1.ª posição remuneratória, no nível remuneratório 16, da categoria de técnico superior da mesma carreira, com efeitos a 20 de janeiro de 2026; Paulo Alexandre Silva Ramos, na 4.ª posição remuneratória, no nível remuneratório 4, da categoria de assistente operacional da mesma carreira, com efeitos a 1 de julho de 2025; Maria Clara Alves Miranda Figueiredo, na 1.ª posição remuneratória, no nível remuneratório 5, da categoria de assistente operacional da mesma carreira, com efeitos a 15 de junho de 2025; Diogo Miguel Raimundo Manso, na 1.ª posição remuneratória, no nível remuneratório 5, da categoria de assistente operacional da mesma carreira, com efeitos a 3 de junho de 2025, Elena Meteciuc, na 1.ª posição remuneratória, no nível remuneratório 5, da categoria de assistente operacional da mesma carreira, com efeitos a 12 de setembro de 2025, e Joana Filipa Henriques Milheiro Cruchinho Gerardo, na 1.ª posição remuneratória, no nível remuneratório 5, da categoria de assistente operacional da mesma carreira, com efeitos a 28 de janeiro de 2026.»
 
 19 de março de 2026. - O Presidente da Câmara Municipal, Sérgio Paulo Matias Galvão.
+
+319978505

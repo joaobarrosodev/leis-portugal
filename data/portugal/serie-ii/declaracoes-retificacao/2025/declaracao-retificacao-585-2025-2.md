@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/2s/2025/06/121000000/0031900319.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -46,18 +46,18 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/declaracao-retificacao/585-2025-922535540
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2025-06-26T00:00:00Z'
+  retrieved_at: '2026-10-23T15:00:03Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 4a9d419850b95d1d8c6efec48a983d0012bc32a6d490ad68f4e3332b10780c50
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: f8f4b84c00403b02c99ba818081f6e39cc555e89bb3d3184cab553e9cef8b59e
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:00:03Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -69,13 +69,13 @@ relationships: []
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:00:03Z'
   warnings: []
   errors: []
 ---
@@ -93,3 +93,5 @@ deve ler-se:
 «Autorizada a contratação, precedendo concurso documental, da Doutora Ana Salomé Rocha do Nascimento Veiga mediante a celebração de contrato de trabalho em funções públicas por tempo indeterminado, em regime de tenure, para o mapa de pessoal docente da Faculdade de Medicina da Universidade de Lisboa, na categoria de professor associado, escalão 2, índice 230, da tabela aplicável aos docentes universitários, em regime de exclusividade, com efeitos a partir de 1 de junho de 2025.»
 
 18 de junho de 2025. - O Diretor, Prof. Doutor João Eurico Cabral da Fonseca.
+
+319199345

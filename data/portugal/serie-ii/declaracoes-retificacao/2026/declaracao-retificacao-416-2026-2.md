@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/2s/2026/05/096000000/0015600156.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -47,18 +47,18 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/declaracao-retificacao/416-2026-1124024608
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2026-05-19T00:00:00Z'
+  retrieved_at: '2026-10-23T15:04:23Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 2085207af2b12c491b7c395d098437c15055d69e8c2f7fe1c65bbf5741739fd8
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 9c45d5e7366a4882b67962eb88a54f8c0f49de9d8cedbc99b60bcdbcbd1d274e
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:04:23Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,17 +66,21 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects: []
-relationships: []
+relationships:
+- type: cites
+  target: pt:dre:1118662538:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:04:23Z'
   warnings: []
   errors: []
 ---
@@ -86,3 +90,5 @@ validation:
 Por ter saído com inexatidão o sumário referente ao [Aviso n.º 10690/2026/2](https://diariodarepublica.pt/dr/detalhe/aviso/10690-2026-1118662538), publicado no Diário da República, 2.ª série, n.º 90, de 11 de maio de 2026, retifica-se que onde se lê «na carreira especial de Técnico de Sistemas e Tecnologias de Informação» deve ler-se «na categoria de Técnico Superior - Psicólogo».
 
 11 de maio de 2026. - A Diretora, Isabel Maria Jorge Ribeiro da Silva.
+
+319997713

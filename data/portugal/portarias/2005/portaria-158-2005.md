@@ -48,18 +48,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/158/2005/02/09/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/158-2005-618147
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2005-02-09T00:00:00Z'
+  retrieved_at: '2026-10-23T15:04:36Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: cfe3db75a677286cab04418d59f30ac892139a766fd670324a3470fbceb7c501
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 189f6fb056f0b4398560c507c11297c0928cf4acde6aaf8f126cd8e4a4bf7ed5
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:04:36Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -68,30 +68,36 @@ reuse:
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
 - Acesso ao Emprego
-- Financiamento
-- Formação Profissional
 - Comissão de Acompanhamento
 - Comunicação Social
-- Empresa Jornalística
-- Instituto da Comunicação Social
-- Incentivo Profissional
-- Criação de Emprego
-- Radiodifusão
-- Economia Social
-- Desemprego
-- Programa de Promoção de Mercado Social de Emprego
-- Emprego
-- Programa de Emprego
-- Promoção de Emprego
-- Política de Emprego
-- Reembolso
 - Contrato de Trabalho
+- Criação de Emprego
+- Desemprego
+- Economia Social
+- Emprego
+- Empresa Jornalística
+- Financiamento
+- Formação Profissional
+- Incentivo Profissional
+- Instituto da Comunicação Social
 - Mobilidade de Pessoal
+- Política de Emprego
+- Programa de Emprego
+- Programa de Promoção de Mercado Social de Emprego
+- Promoção de Emprego
+- Radiodifusão
+- Reembolso
 - Subsídio de Deslocação
 - Subsídio de Fixação
 - Subsídio de Residência
 - Subsídio não Reembolsável
 relationships:
+- type: amended_by
+  target: pt:dre:2024502:por
+  label: "Prorrogados por 12 meses os efeitos do presente diploma pelo DESP.1474/2007.20.12.2006.PCM, DR.IIS [22] de 31.01.2007\0\
+    7\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/despacho/1474-2007-2024502
+  date: '2006-12-20'
 - type: cites
   target: celex:32001R0069
   label: null
@@ -99,13 +105,13 @@ relationships:
 article_structure:
   article_count: 0
   section_count: 7
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:04:36Z'
   warnings: []
   errors: []
 ---
@@ -270,7 +276,7 @@ A presente portaria entra em vigor no dia seguinte ao da sua publicação e vigo
 
 Em 13 de Janeiro de 2005.
 
-**O Secretário de Estado Adjunto e do Trabalho, Luís Miguel Pais Antunes. - O Secretário de Estado Adjunto do Ministro Adjunto do Primeiro-Ministro, Feliciano José Barreiras Duarte.**
+O Secretário de Estado Adjunto e do Trabalho, Luís Miguel Pais Antunes. - O Secretário de Estado Adjunto do Ministro Adjunto do Primeiro-Ministro, Feliciano José Barreiras Duarte.
 
 ## ANEXO — Lista de concelhos PRASD a que se refere o n.º 8.º da presente portaria
 

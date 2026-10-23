@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/230/2005/03/01/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/230-2005-583980
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2006-12-04T00:00:00Z'
+  retrieved_at: '2026-10-23T15:05:05Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 8fb6d8d0d768262e1250c70889ca01379983bd179c205ba4cf067f89a5f97f57
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: d567d41ee0b9a2eae9c8c505a2f92172b83a4391cb720f2a4704303ad891faa9
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:05:05Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -68,26 +68,34 @@ reuse:
 subjects:
 - Agência de Inovação
 - Ajuda Comunitária
-- Financiamento
 - Centro Tecnológico
 - Comissão de Análise
 - Definição de Competências
-- Mudança Tecnológica
 - Direcção Regional de Economia
+- Financiamento
 - Gabinete de Coordenação de Parcerias e Formação Profissional
+- IAPMEI
 - Instituto Português da Qualidade
 - Modernização Tecnológica
+- Mudança Tecnológica
 - Nova Tecnologia
+- Prime
 - Regime de Apoio
 - Regulamento de Execução da Medida de Apoio à Criação de Novas Infra-estruturas Tecnológicas e as Actuais Infra-estruturas
   Tecnológicas da Formação e da Qualidade
-- Prime
-- IAPMEI
 relationships:
 - type: amended_by
   target: pt:dre:545431:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:545431:por
+  label: "Remetidas para o Ministro da Economia e da Inovação as referências feitas ao Ministro da Economia e ao Ministro\
+    \ de Estado, das Actividades Económicas e do Trabalho constantes do Regulamento aprovado pela Port 919/2003 de 03-Set,\
+    \ com as alterações constantes deste diploma, e alterado o anexo B do mesmo Regulamento pela PORT.1358/2006.04.12.2006.MFAP,\
+    \ DR.IS [232] de 04.12.2006 \0 \0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/1358-2006-545431
+  date: '2006-12-04'
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/70-b/2000/05/05/p/dre
   label: null
@@ -100,16 +108,33 @@ relationships:
   target: eli:http://data.dre.pt/eli/port/919/2003/09/03/p/dre
   label: null
   source: http://data.dre.pt/eli/port/919/2003/09/03/p/dre
+- type: cites
+  target: pt:dre:251634:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:509236:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:510266:por
+  label: null
+  source: null
+- type: corrected_by
+  target: pt:dre:569119:por
+  label: "Rectificada pela DECL-RECT.28/2005.29.03.2005.PCM, DR.IS-B [69] de 08.04.2005\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/declaracao-rectificacao/28-2005-569119
+  date: '2005-03-29'
 article_structure:
-  article_count: 18
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:05:05Z'
   warnings: []
   errors: []
 ---
@@ -136,7 +161,9 @@ Manda o Governo, pelos Ministros de Estado, das Actividades Económicas e do Tra
 
 O presente Regulamento define as regras aplicáveis à execução da Medida de Apoio à Criação de Novas Infra-Estruturas Tecnológicas e às Actuais Infra-Estruturas Tecnológicas, da Formação e da Qualidade.
 
-###### Artigo 2.º — [...]
+Artigo 2.º
+
+[...]
 
 ...
 
@@ -146,7 +173,9 @@ b) ...
 
 c) ...
 
-###### Artigo 3.º — [...]
+Artigo 3.º
+
+[...]
 
 1 - ...
 
@@ -168,7 +197,9 @@ d) Acção D - criação de novas infra-estruturas do sistema tecnológico.
 
 6 - Para efeitos do presente Regulamento, os projectos de criação de novas infra-estruturas no continente inseridos na alínea d) do n.º 1 serão considerados projectos regionalmente desconcentrados, sendo os restantes considerados nacionais.
 
-###### Artigo 5.º — [...]
+Artigo 5.º
+
+[...]
 
 1 - ...
 
@@ -194,7 +225,9 @@ c) ...
 
 9 - (Anterior n.º 8.)
 
-###### Artigo 6.º — [...]
+Artigo 6.º
+
+[...]
 
 1 - ...
 
@@ -204,7 +237,9 @@ c) ...
 
 4 - (Anterior n.º 3.)
 
-###### Artigo 6.º-A — Proposta de ideia
+Artigo 6.º-A
+
+Proposta de ideia
 
 1 - Os projectos referentes à criação de novas infra-estruturas previstos na alínea d) do n.º 1 do artigo 3.º desenvolvem-se mediante uma fase prévia, destinada a seleccionar ideias que satisfaçam os objectivos deste tipo de projectos.
 
@@ -224,7 +259,9 @@ c) ...
 
 9 - Tendo em conta as disponibilidades orçamentais, as propostas de ideia poderão vir a ser hierarquizadas com base em critérios a definir através de despacho do Ministro de Estado, das Actividades Económicas e do Trabalho.
 
-###### Artigo 7.º — [...]
+Artigo 7.º
+
+[...]
 
 1 - ...
 
@@ -262,7 +299,9 @@ c) ...
 
 5 - (Anterior n.º 4.)
 
-###### Artigo 8.º — [...]
+Artigo 8.º
+
+[...]
 
 1 - ...
 
@@ -316,7 +355,9 @@ b) ...
 
 c) ...
 
-###### Artigo 9.º — [...]
+Artigo 9.º
+
+[...]
 
 1 - Os projectos das acções A, B e D são apreciados e seleccionados com base nos seguintes critérios:
 
@@ -342,7 +383,9 @@ e) ...
 
 4 - ...
 
-###### Artigo 12.º — [...]
+Artigo 12.º
+
+[...]
 
 1 - ...
 
@@ -366,11 +409,13 @@ c) ...
 
 4 - No caso da acção C, as despesas elegíveis previstas no âmbito da alínea o) do anexo B e que respeitem exclusivamente à realização de sessões públicas de demonstração podem ser financiadas a 100%.
 
-###### Artigo 13.º — [...]
+Artigo 13.º
+
+[...]
 
 1 - Os limites de incentivo a atribuir por projecto são os seguintes:
 
-[(ver tabela no documento original)](https://files.diariodarepublica.pt/1s/2005/03/042b00/18451849.pdf)
+[[(ver tabela no documento original)](https://files.diariodarepublica.pt/1s/2005/03/042b00/18451849.pdf)](https://files.diariodarepublica.pt/1s/2005/03/042b00/18451849.pdf)
 
 2 - ...
 
@@ -382,17 +427,23 @@ b) ...
 
 4 - ...
 
-###### Artigo 15.º — Entidades gestoras e organismos especializados
+Artigo 15.º
+
+Entidades gestoras e organismos especializados
 
 1 - As entidades gestoras responsáveis pela operacionalização da presente Medida são a Agência de Inovação (AdI), o Instituto de Apoio às Pequenas e Médias Empresas e ao Investimento (IAPMEI), o Gabinete de Coordenação de Parcerias e Formação Profissional (GPF) e a direcção regional da economia (DRE) territorialmente competente.
 
 2 - ...
 
-###### Artigo 15.º-A — Articulação com os programas regionais
+Artigo 15.º-A
+
+Articulação com os programas regionais
 
 A tramitação dos apoios relativa aos projectos regionalmente desconcentrados resultará de uma articulação a estabelecer mediante protocolo entre o gestor do PRIME e os gestores dos programas regionais.
 
-###### Artigo 16.º — [...]
+Artigo 16.º
+
+[...]
 
 1 - ...
 
@@ -402,13 +453,17 @@ A tramitação dos apoios relativa aos projectos regionalmente desconcentrados r
 
 4 - (Anterior n.º 3.)
 
-###### Artigo 16.º-A — Comissão de apreciação das propostas de ideia
+Artigo 16.º-A
+
+Comissão de apreciação das propostas de ideia
 
 1 - A comissão de apreciação das propostas de ideia previstas no artigo 6.º-A é o órgão de concertação onde se analisarão as necessidades de criação de novas infra-estruturas no âmbito do sistema tecnológico face aos objectivos da presente Medida de Apoio.
 
 2 - A comissão de apreciação será presidida pelo gestor do PRIME e integrará o director regional da economia territorialmente competente, um representante da AdI, um representante do IPQ, o coordenador do GPF e representantes de outros organismos do Ministério da Economia, face ao conteúdo da proposta de ideia.
 
-###### Artigo 17.º — [...]
+Artigo 17.º
+
+[...]
 
 1 - A entidade gestora enviará à unidade de gestão competente propostas de decisão relativas às candidaturas, integrando os pareceres das outras entidades intervenientes, no prazo máximo de 75 dias úteis contados a partir da data das candidaturas.
 
@@ -416,7 +471,9 @@ A tramitação dos apoios relativa aos projectos regionalmente desconcentrados r
 
 3 - Os prazos referidos nos n.os 1 e 2 do presente artigo suspendem-se sempre que sejam solicitados, nos termos do n.º 4 do artigo 16.º, esclarecimentos complementares aos promotores.
 
-###### Artigo 18.º — [...]
+Artigo 18.º
+
+[...]
 
 1 - Cabe à unidade de gestão do PRIME para os projectos nacionais emitir, no prazo de 15 dias úteis, uma proposta de decisão sobre os projectos apresentados no âmbito do presente Regulamento, a submeter pelo gestor do PRIME ao Ministro de Estado, das Actividades Económicas e do Trabalho.
 
@@ -426,11 +483,15 @@ A tramitação dos apoios relativa aos projectos regionalmente desconcentrados r
 
 4 - Os promotores de projectos que sejam considerados não elegíveis na unidade de gestão competente poderão apresentar alegações contrárias no prazo de 20 dias úteis contados a partir da data da notificação, devendo estas ser dirigidas à entidade que procedeu à notificação.
 
-###### Artigo 21.º — [...]
+Artigo 21.º
+
+[...]
 
 O pagamento do incentivo às entidades beneficiárias será efectuado de acordo com as cláusulas contratuais, mediante a emissão de ordens de pagamento, pela AdI ou pela DRE territorialmente competente quando se trate de projectos regionalmente desconcentrados, pelo IAPMEI, no caso de projectos do SPQ, competindo ao GPF a emissão de ordens de pagamento para a componente de formação profissional, sendo os pagamentos dos incentivos assegurados pelo IAPMEI.
 
-###### Artigo 22.º — [...]
+Artigo 22.º
+
+[...]
 
 1 - ...
 
@@ -448,14 +509,16 @@ d) ...
 
 4 - ...
 
-## ANEXO B — Limites e condições específicas de aplicação das despesas elegíveis e limites específicos de incentivo por acção e tipo de beneficiário
+ANEXO B
+
+Limites e condições específicas de aplicação das despesas elegíveis e limites específicos de incentivo por acção e tipo de beneficiário
 
 (infra-estruturas dos sistemas tecnológico e da formação)
 
 Os limites e condições específicas à aplicação das despesas elegíveis por acção e tipo de beneficiário são os seguintes:
 
-[(ver tabela no documento original)](https://files.diariodarepublica.pt/1s/2005/03/042b00/18451849.pdf)
+[[(ver tabela no documento original)](https://files.diariodarepublica.pt/1s/2005/03/042b00/18451849.pdf)](https://files.diariodarepublica.pt/1s/2005/03/042b00/18451849.pdf)
 
 Em 29 de Dezembro de 2004.
 
-**O Ministro de Estado, das Actividades Económicas e do Trabalho, Álvaro Roque de Pinho Bissaya Barreto. - O Ministro das Finanças e da Administração Pública, António José de Castro Bagão Félix.**
+O Ministro de Estado, das Actividades Económicas e do Trabalho, Álvaro Roque de Pinho Bissaya Barreto. - O Ministro das Finanças e da Administração Pública, António José de Castro Bagão Félix.

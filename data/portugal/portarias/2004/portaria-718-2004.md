@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2004/06/147b00/38603861.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/718/2004/06/24/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/718-2004-271261
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2004-08-10T00:00:00Z'
+  retrieved_at: '2026-10-23T15:00:50Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 977bb8dcaa856670af51292d0c37d0dbbcb06bc6950dec5e3fb176e2d4422852
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 0849cd08699789873c73794ac7a81bf1e03302a41b5626d1248a8b2e395695e9
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:00:50Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -90,16 +90,37 @@ relationships:
   target: eli:http://data.dre.pt/eli/port/897/2001/07/30/p/dre
   label: null
   source: http://data.dre.pt/eli/port/897/2001/07/30/p/dre
+- type: cites
+  target: pt:dre:303447:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:378941:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:534644:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:536243:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:284112:por
+  label: "Revogada pela PORT.1033-L/2004.10.08.2004.MECO, DR.IS-B [187-Supl] de 10.08.2004\04\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/1033-l-2004-284112
+  date: '2004-08-10'
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:00:50Z'
   warnings: []
   errors: []
 ---

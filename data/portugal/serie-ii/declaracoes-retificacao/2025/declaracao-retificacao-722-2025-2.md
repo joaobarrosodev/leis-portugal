@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/2s/2025/08/148000000/0030600306.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -47,18 +47,18 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/declaracao-retificacao/722-2025-927634888
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2025-08-04T00:00:00Z'
+  retrieved_at: '2026-10-23T15:00:57Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 984a477f40d8ec45db35bcf8024ccd49c6807288c9316b865354a193de7e5706
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: f436f1a367d2bb619bd2674475c3ac0b850dbcb73eb1153828d1c85f3c96fa70
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:00:57Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,17 +66,29 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects: []
-relationships: []
+relationships:
+- type: cites
+  target: pt:dre:917839574:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:918124988:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:926142991:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:00:57Z'
   warnings: []
   errors: []
 ---
@@ -94,3 +106,5 @@ deve ler-se:
 «[...] [Aviso (extrato) n.º 12185/2025/2](https://diariodarepublica.pt/dr/detalhe/aviso-extrato/12185-2025-917839574), publicado no Diário da República, 2.ª série, n.º 91 de 13.05 [...]»
 
 28 de julho de 2025. - O Responsável do Serviço de Recursos Humanos da ULSCB, EPE, Dr. José António Basílio.
+
+319364196

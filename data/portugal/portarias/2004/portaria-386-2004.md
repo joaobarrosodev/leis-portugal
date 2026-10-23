@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/386/2004/04/16/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/386-2004-223829
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2010-09-15T00:00:00Z'
+  retrieved_at: '2026-10-23T14:58:53Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: bd434a2c5be6ab014f1f4e9e24b08c53ed5d658692a296b944c1ff3fc5e14213
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: cde9dac4450c9ae29841f6126bdad8db98d5132819a9062d2607a1b758e4e656
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T14:58:53Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -74,6 +74,13 @@ relationships:
   target: pt:dre:341818:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:341818:por
+  label: "Renovada pelo período de doze anos, com efeitos a 28.09.2010, a concessão (cuja área é reduzida) da zona de caça\
+    \ atribuída pela Port 890/2000 de 27-Set, e alterada no presente diploma, pela PORT.906/2010.15.09.2010.MADRP, DR.IS [180]\
+    \ de 15.09.2010\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/906-2010-341818
+  date: '2010-09-15'
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/227-b/2000/09/15/p/dre
   label: null
@@ -102,16 +109,44 @@ relationships:
   target: eli:http://data.dre.pt/eli/port/890/2000/09/27/p/dre
   label: null
   source: http://data.dre.pt/eli/port/890/2000/09/27/p/dre
+- type: cites
+  target: pt:dre:143306:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:216162:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:434640:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:534644:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:536243:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:561248:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:603031:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T14:58:53Z'
   warnings: []
   errors: []
 ---

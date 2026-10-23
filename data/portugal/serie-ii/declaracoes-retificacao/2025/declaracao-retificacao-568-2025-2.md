@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/2s/2025/06/117000000/0006200087.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -46,36 +46,78 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/declaracao-retificacao/568-2025-921943738
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2025-06-20T00:00:00Z'
+  retrieved_at: '2026-10-23T14:59:58Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 649fd1b7c6ec225d6a3541a70ff5ccf588624ac700c5966fd4cf2e4b1a2c7094
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 42aac382cf579ed7bfd0426e7f8d186f9cc3887f5b8f31e96d5793bf28486945
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T14:59:58Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
-relationships: []
+subjects:
+- Deficiente
+- Instituto do Emprego e Formação Profissional
+- Programa de Emprego e Apoio à Qualificação das Pessoas com Deficiências e Incapacidades
+- Regulamento
+- Subsídio
+relationships:
+- type: cites
+  target: pt:dre:117663335:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:123815982:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:205457496:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:491685:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:66325237:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:669997:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:673471:por
+  label: null
+  source: null
+- type: corrects
+  target: pt:numero:despacho:4519/2025
+  label: Retifica o Despacho n.º 4519/2025, de 11 de abril, que altera (segunda alteração) o Despacho n.º 8376-B/2015, de
+    30 de julho, que aprova os regulamentos do Programa de Emprego e Apoio à Qualificação das Pessoas com Deficiência e Incapacidade,
+    criado pelo Decreto-Lei n.º 290/2009 e republica o anexo III do Despacho n.º 8376-B/2015, de 30 de julho - Regulamento
+    de Credenciação e de Concessão de Apoios Financeiros às Entidades da Rede de Centros de Recursos para a Qualificação e
+    o Emprego do IEFP, I. P.
+  source: null
+  date: '2025-04-11'
 article_structure:
   article_count: 58
   section_count: 17
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T14:59:58Z'
   warnings: []
   errors: []
 ---
@@ -232,7 +274,7 @@ Republicação do anexo iii do Despacho n.º 8376-B/2015, de 30 de julho - Regul
 
 ###### Artigo 1.º — Objeto
 
-O presente regulamento define o regime de credenciação e de concessão de apoios à rede de centros de recursos para a qualificação e o emprego do IEFP, I. P., nos termos do n.º 1 do artigo 94.º do [Decreto-Lei n.º 290/2009](https://diariodarepublica.pt/dr/detalhe/decreto-lei/290-2009-491685), de 12 de outubro, alterado pela [Lei n.º 24/2011](https://diariodarepublica.pt/dr/detalhe/lei/24-2011-669997), de 16 de junho, pelos Decretos-Leis n.<sup>os</sup>131/2013, de 11 de setembro, e 108/2015, de 17 de junho, adiante designado decreto-lei, que cria o Programa de Emprego e Apoio à Qualificação das Pessoas com Deficiência e Incapacidade.
+O presente regulamento define o regime de credenciação e de concessão de apoios à rede de centros de recursos para a qualificação e o emprego do IEFP, I. P., nos termos do n.º 1 do artigo 94.º do [Decreto-Lei n.º 290/2009](https://diariodarepublica.pt/dr/detalhe/decreto-lei/290-2009-491685), de 12 de outubro, alterado pela [Lei n.º 24/2011](https://diariodarepublica.pt/dr/detalhe/lei/24-2011-669997), de 16 de junho, pelos Decretos-Leis n.os131/2013, de 11 de setembro, e 108/2015, de 17 de junho, adiante designado decreto-lei, que cria o Programa de Emprego e Apoio à Qualificação das Pessoas com Deficiência e Incapacidade.
 
 ###### Artigo 2.º — Conceitos
 
@@ -702,7 +744,7 @@ d) Lista das despesas pagas aos destinatários das ações, nos termos do artigo
 
 3 - O valor previsto no número anterior não é contabilizado para efeitos do disposto nas alíneas a) e b) do n.º 1 do artigo 32.º, sendo pago integralmente no respetivo pedido de reembolso trimestral.
 
-4 - É aplicável ao apoio previsto no n.º 2 o disposto nos n.<sup>os</sup>1, 2 e 9 do artigo 25.º
+4 - É aplicável ao apoio previsto no n.º 2 o disposto nos n.os1, 2 e 9 do artigo 25.º
 
 ### CAPÍTULO III — CREDENCIAÇÃO DE CENTROS DE RECURSOS
 
@@ -945,3 +987,5 @@ Ao incumprimento das obrigações decorrentes dos apoios previstos no presente r
 2 - A atividade da rede de centros de recursos em funcionamento à data da entrada em vigor do presente despacho, continua a reger-se pelo Regulamento de Credenciação e de Concessão de Apoios Financeiros às Entidades da Rede de Centros de Recursos do IEFP, I. P., constante do anexo iii do Despacho n.º 8376-B/2015, de 30 de julho, publicado no Diário da República, 2.ª série, n.º 147, na redação dada pelo Despacho n.º 9251/2016, de 20 de julho, publicado no Diário da República, 2.ª série, n.º 138.
 
 3 - (Revogado.)
+
+319152307

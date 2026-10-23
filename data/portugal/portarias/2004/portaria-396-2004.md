@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/396/2004/04/19/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/396-2004-223459
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2007-09-28T00:00:00Z'
+  retrieved_at: '2026-10-23T14:58:55Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 32a01d8f3aaf8b965dea11a433308ad0f4c429bfdc30dbb658a24fd63b3de582
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 8a225fb9745684051b5b762913a39badf7debfed2171e0c0371d57143bf18d39
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T14:58:55Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -74,6 +74,18 @@ relationships:
   target: pt:dre:642513:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:348920:por
+  label: "Renovada, por um período de 12 anos, a concessão da zona de caça concessionada pela Port 130/99, de 22-Fev, alterada\
+    \ pelo presente diploma, pela PORT.1498/2004.28.12.2004.MAPF, DR.IS-B [302] de 28.12.2004\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/1498-2004-348920
+  date: '2004-12-28'
+- type: amended_by
+  target: pt:dre:642513:por
+  label: "Anexados vários prédios rústicos à zona de caça concessionada pela Port 130/99, de 22 de Fevereiro, alterada pelo\
+    \ presente diploma, pela PORT.1294/2007.28.09.2007.MADRP, DR.IS [188] de 28.09.2007\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/1294-2007-642513
+  date: '2007-09-28'
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/227-b/2000/09/15/p/dre
   label: null
@@ -94,16 +106,36 @@ relationships:
   target: eli:http://data.dre.pt/eli/port/45/2004/01/14/p/dre
   label: null
   source: http://data.dre.pt/eli/port/45/2004/01/14/p/dre
+- type: cites
+  target: pt:dre:165459:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:434640:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:534644:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:536243:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:603031:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T14:58:55Z'
   warnings: []
   errors: []
 ---

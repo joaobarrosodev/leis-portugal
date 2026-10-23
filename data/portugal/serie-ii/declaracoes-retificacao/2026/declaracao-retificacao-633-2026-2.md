@@ -26,7 +26,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/2s/2026/07/139000000/0033400335.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -48,18 +48,18 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/declaracao-retificacao/633-2026-1149747940
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2026-07-21T00:00:00Z'
+  retrieved_at: '2026-10-23T15:05:44Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 1e77df60797e08a474278a29faf018f97b36a5b6733ccc94786628134d641f46
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 949f76420b969319f98e65c6ca0a55da1a7e5543d4ba7dd7e383521e4e166060
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:05:44Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -71,13 +71,13 @@ relationships: []
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:05:44Z'
   warnings: []
   errors: []
 ---
@@ -92,21 +92,25 @@ Fundamentação económico-financeira relativa ao valor das taxas
 
 Demonstração da fundamentação (indexante) por taxa
 
-|  | Descrição/designação da prestação tributável | Taxa |  | Total indexante (I ou II + III + IV) fundamentação econó- mico financeira (limite superior em conf. com o art.º 4.º da lei n.º 53-E /2006 de 29 de dezembro) | Base legal | Base legal | Valor | Em valor | Em valor | Fator de majoração do custo | Em valor | Em valor | Fator de majoração do custo | IV - Custo da atividade pública local (CAPL) = (A)+(B)+(C) | Total custos diretos (A) = (1)+(2)+(3)+ (4)+(5) | Mão-de-obra direta (1) | Reintegrações de bens móveis e imóveis (2) | Terceiros (3) (avenças, prestações de serviços, ...) | Outros custos diretos (4) (expediente, custos de liquidação e cobrança, deslocações,…) | Custos específicos taxas tipo II (5) | Total custos indiretos (B) = (4)+..+(10) | % | Valor | % | Valor | % | Valor | % | Valor | % | Valor | % | Valor | % | Valor | Futuros investimentos (c) |
+|  | **Descrição/designação da prestação tributável** | **Taxa** |  | Total indexante (I ou II + III + IV) fundamentação econó- mico financeira (limite superior em conf. com o art.º 4.º da lei n.º 53-E /2006 de 29 de dezembro) | I - Fixada por diploma legal | II - Benefício Auferido pelo Particular (BAP) | III - Desincentivo (elemento regulador, em conformidade com o n.º 2 do art.º 4.º do RGTAL) | IV - Custo da atividade pública local (CAPL) = (A)+(B)+(C) | Custos diretos | Custos indiretos | Futuros investimentos (c) |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-|  | Descrição/designação da prestação tributável | Taxa |  | Total indexante (I ou II + III + IV) fundamentação econó- mico financeira (limite superior em conf. com o art.º 4.º da lei n.º 53-E /2006 de 29 de dezembro) | I - Fixada por diploma legal | I - Fixada por diploma legal | I - Fixada por diploma legal | II - Benefício Auferido pelo Particular (BAP) | II - Benefício Auferido pelo Particular (BAP) | II - Benefício Auferido pelo Particular (BAP) | III - Desincentivo (elemento regulador, em conformidade com o n.º 2 do art.º 4.º do RGTAL) | III - Desincentivo (elemento regulador, em conformidade com o n.º 2 do art.º 4.º do RGTAL) | III - Desincentivo (elemento regulador, em conformidade com o n.º 2 do art.º 4.º do RGTAL) | IV - Custo da atividade pública local (CAPL) = (A)+(B)+(C) | Custos diretos | Custos diretos | Custos diretos | Custos diretos | Custos diretos | Custos diretos | Custos indiretos | Custos indiretos | Custos indiretos | Custos indiretos | Custos indiretos | Custos indiretos | Custos indiretos | Custos indiretos | Custos indiretos | Custos indiretos | Custos indiretos | Custos indiretos | Custos indiretos | Custos indiretos | Custos indiretos | Futuros investimentos (c) |
-|  | Descrição/designação da prestação tributável | Taxa |  | Total indexante (I ou II + III + IV) fundamentação econó- mico financeira (limite superior em conf. com o art.º 4.º da lei n.º 53-E /2006 de 29 de dezembro) | I - Fixada por diploma legal | I - Fixada por diploma legal | I - Fixada por diploma legal | II - Benefício Auferido pelo Particular (BAP) | II - Benefício Auferido pelo Particular (BAP) | II - Benefício Auferido pelo Particular (BAP) | III - Desincentivo (elemento regulador, em conformidade com o n.º 2 do art.º 4.º do RGTAL) | III - Desincentivo (elemento regulador, em conformidade com o n.º 2 do art.º 4.º do RGTAL) | III - Desincentivo (elemento regulador, em conformidade com o n.º 2 do art.º 4.º do RGTAL) | IV - Custo da atividade pública local (CAPL) = (A)+(B)+(C) | Total custos diretos (A) = (1)+(2)+(3)+ (4)+(5) | Mão-de-obra direta (1) | Reintegrações de bens móveis e imóveis (2) | Terceiros (3) (avenças, prestações de serviços, ...) | Outros custos diretos (4) (expediente, custos de liquidação e cobrança, deslocações,…) | Custos específicos taxas tipo II (5) | Total custos indiretos (B) = (4)+..+(10) | Mão-de-obra indireta (4) | Mão-de-obra indireta (4) | Aplicações de suporte (5) | Aplicações de suporte (5) | Reintegrações e encargos das instalações (6) (bens imóveis) | Reintegrações e encargos das instalações (6) (bens imóveis) | Atendimento (7) | Atendimento (7) | Arquivo (8) | Arquivo (8) | Instrumentos de gestão do território (9) (SIG, PDM, PU, PP, …) | Instrumentos de gestão do território (9) (SIG, PDM, PU, PP, …) | Outros custos indiretos (10) | Outros custos indiretos (10) | Futuros investimentos (c) |
-|  | QUADRO V |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
-|  | Venda Ambulante e Mercados Municipais |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
-|  | Descritivo da prestação tributável |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+|  | Total custos diretos (A) = (1)+(2)+(3)+ (4)+(5) | Mão-de-obra direta (1) | Reintegrações de bens móveis e imóveis (2) | Terceiros (3) (avenças, prestações de serviços, ...) | Outros custos diretos (4) (expediente, custos de liquidação e cobrança, deslocações,…) | Custos específicos taxas tipo II (5) | Total custos indiretos (B) = (4)+..+(10) | Mão-de-obra indireta (4) | Aplicações de suporte (5) | Reintegrações e encargos das instalações (6) (bens imóveis) | Atendimento (7) | Arquivo (8) | Instrumentos de gestão do território (9) (SIG, PDM, PU, PP, …) | Outros custos indiretos (10) |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+|  | Base legal | Valor | Em valor | Fator de majoração do custo | Em valor | Fator de majoração do custo | % | Valor | % | Valor | % | Valor | % | Valor | % | Valor | % | Valor | % | Valor |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+|  | **QUADRO V** |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+|  | **Venda Ambulante****e****Mercados Municipais** |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+|  | **Descritivo da prestação tributável** |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
 | 1. | Mercados e Venda Ambulante |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
 | 3. | Venda Ambulante e Mercados Municipais aplicável exclusivamente ao período das Festas Concelhias e de São Bartolomeu |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
-| 3.1. | Zona Central \\| Rua de Camões (do Lugar 2 ao 45 do mapa infra) por metro quadrado e por dia |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+| 3.1. | Zona Central \| Rua de Camões (do Lugar 2 ao 45 do mapa infra) por metro quadrado e por dia |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
 | 3.1.1. | Atividades de Restauração e Bebidas | 2,00 € |  | 3,300 € |  |  |  |  |  |  |  |  |  | 3,300 € | 2,633 € | 1,544 € | 0,030 € |  | 1,059 € |  | 0,67 € |  |  |  | 0,17 € |  | 0,04 € |  | 0,04 € |  | 0,00 € |  | 0,41 € |  | 0,00 € |  |
 | 3.1.2. | Outras atividades não mencionadas no ponto anterior | 1,50 € |  | 1,650 € |  |  |  |  |  |  |  |  |  | 1,650 € | 1,317 € | 0,772 € | 0,015 € |  | 0,530 € |  | 0,33 € |  |  |  | 0,08 € |  | 0,02 € |  | 0,02 € |  | 0,00 € |  | 0,21 € |  | 0,00 € |  |
 | 3.1.3. | Itinerantes | 1,50 € |  | 1,650 € |  |  |  |  |  |  |  |  |  | 1,650 € | 1,317 € | 0,772 € | 0,015 € |  | 0,530 € |  | 0,33 € |  |  |  | 0,08 € |  | 0,02 € |  | 0,02 € |  | 0,00 € |  | 0,21 € |  | 0,00 € |  |
-| 3.2. | Zona Adjacente \\| Praça D. Manuel de Castro (do Lugar 46 ao 48 do mapa infra), por metro quadrado e por dia | 0,90 € |  | 1,397 € |  |  |  |  |  |  |  |  |  | 1,397 € | 1,115 € | 0,654 € | 0,013 € |  | 0,448 € |  | 0,28 € |  |  |  | 0,07 € |  | 0,02 € |  | 0,02 € |  | 0,00 € |  | 0,17 € |  | 0,00 € |  |
+| 3.2. | Zona Adjacente \| Praça D. Manuel de Castro (do Lugar 46 ao 48 do mapa infra), por metro quadrado e por dia | 0,90 € |  | 1,397 € |  |  |  |  |  |  |  |  |  | 1,397 € | 1,115 € | 0,654 € | 0,013 € |  | 0,448 € |  | 0,28 € |  |  |  | 0,07 € |  | 0,02 € |  | 0,02 € |  | 0,00 € |  | 0,17 € |  | 0,00 € |  |
 | 3.3. | Zona de Divertimentos (Lugares 1, 10 e do 49 ao 58 do mapa infra), por metro quadrado e por dia | 0,75 € |  | 1,397 € |  |  |  |  |  |  |  |  |  | 1,397 € | 1,115 € | 0,654 € | 0,013 € |  | 0,448 € |  | 0,28 € |  |  |  | 0,07 € |  | 0,02 € |  | 0,02 € |  | 0,00 € |  | 0,17 € |  | 0,00 € |  |
 | 3.4. | Zona do Tijelinho no dia da Feira de São Bartolomeu, por fração | 25,00 € |  | 27,808 € |  |  |  |  |  |  |  |  |  | 27,808 € | 22,191 € | 13,014 € | 0,250 € |  | 8,926 € |  | 5,62 € |  |  |  | 1,42 € |  | 0,36 € |  | 0,31 € |  | 0,30 € |  | 3,48 € |  | 0,03 € |  |
 
 13 de julho de 2026. - A Presidente da Câmara Municipal de Baião, Ana Raquel Coelho Azevedo.
+
+320023020
+
+.Tbl2 { min-height:17px; } .Tbl3 { text-align:center; } .Tbl4 { border-left-width:1px; border-top-width:0px; border-right-width:1px; border-top-style:solid; border-left-color:rgb(0,0,0); border-bottom-width:0px; border-bottom-style:solid; border-right-style:solid; border-right-color:rgb(0,0,0); border-left-style:solid; vertical-align:middle; } .Tbl5 { min-height:35px; } .Tbl6 { min-height:36px; } .Tbl7 { min-height:16px; } .Tbl8 { border-bottom-color:rgb(0,0,0); border-top-color:rgb(0,0,0); border-left-width:0px; border-top-width:1px; border-right-width:1px; border-top-style:solid; border-bottom-width:1px; border-bottom-style:solid; border-right-style:solid; border-right-color:rgb(0,0,0); border-left-style:solid; vertical-align:top; } .Tbl9 { border-bottom-color:rgb(0,0,0); border-top-color:rgb(0,0,0); border-left-width:1px; border-top-width:1px; border-right-width:1px; border-top-style:solid; border-left-color:rgb(0,0,0); border-bottom-width:1px; border-bottom-style:solid; border-right-style:solid; border-right-color:rgb(0,0,0); border-left-style:solid; vertical-align:top; } .Tbl10 { border-left-width:1px; border-top-width:0px; border-right-width:1px; border-top-style:solid; border-left-color:rgb(0,0,0); border-bottom-width:0px; border-bottom-style:solid; border-right-style:solid; border-right-color:rgb(0,0,0); border-left-style:solid; vertical-align:top; } .Tbl11 { border-bottom-color:rgb(0,0,0); border-top-color:rgb(0,0,0); border-left-width:1px; border-top-width:1px; border-right-width:0px; border-top-style:solid; border-left-color:rgb(0,0,0); border-bottom-width:1px; border-bottom-style:solid; border-right-style:solid; border-left-style:solid; vertical-align:top; } .Tbl12 { min-height:30px; } .Tbl13 { min-height:23px; } .Tbl14 { min-height:59px; } .Tbl15 { min-height:52px; } .Tbl16 { border-top-color:rgb(0,0,0); border-left-width:0px; border-top-width:1px; border-right-width:1px; border-top-style:solid; border-bottom-width:0px; border-bottom-style:solid; border-right-style:solid; border-right-color:rgb(0,0,0); border-left-style:solid; vertical-align:top; } .Tbl17 { border-left-width:0px; border-top-width:0px; border-right-width:1px; border-top-style:solid; border-bottom-width:0px; border-bottom-style:solid; border-right-style:solid; border-right-color:rgb(0,0,0); border-left-style:solid; vertical-align:top; } .Tbl18 { border-bottom-color:rgb(0,0,0); border-left-width:0px; border-top-width:0px; border-right-width:1px; border-top-style:solid; border-bottom-width:1px; border-bottom-style:solid; border-right-style:solid; border-right-color:rgb(0,0,0); border-left-style:solid; vertical-align:top; } .Tbl19 { min-height:40px; }

@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/504/2004/05/14/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/504-2004-269021
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2004-05-14T00:00:00Z'
+  retrieved_at: '2026-10-23T14:59:35Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 41bff5030b4a85dd24d6a8d5cffd3a441188f76d6d10a15f1fa05d3b9ead274e
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: b1297888d1401efa0099524706483429d8b272d676bad1d4b2c1d3de73e6c21b
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T14:59:35Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -65,11 +65,11 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Definição de Competências
-- ÁREA de Jurisdição
-- Serviço de Finanças
-- Direcção Geral das Contribuições e Impostos
 - Amadora
+- ÁREA de Jurisdição
+- Definição de Competências
+- Direcção Geral das Contribuições e Impostos
+- Serviço de Finanças
 relationships:
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/366/1999/09/18/p/dre
@@ -79,16 +79,24 @@ relationships:
   target: eli:http://data.dre.pt/eli/lei/37/1997/07/12/p/dre
   label: null
   source: http://data.dre.pt/eli/lei/37/1997/07/12/p/dre
+- type: cites
+  target: pt:dre:153560:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:569887:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T14:59:35Z'
   warnings: []
   errors: []
 ---
@@ -111,4 +119,4 @@ Serviço de Finanças da Amadora 2: Alfornelos, Brandoa, Falagueira e Venda Nova
 
 Serviço de Finanças da Amadora 3: Alfragide, Buraca, Damaia e Reboleira.
 
-**O Secretário de Estado dos Assuntos Fiscais, Vasco Jorge Valdez Ferreira Matias, em 22 de Abril de 2004.**
+O Secretário de Estado dos Assuntos Fiscais, Vasco Jorge Valdez Ferreira Matias, em 22 de Abril de 2004.

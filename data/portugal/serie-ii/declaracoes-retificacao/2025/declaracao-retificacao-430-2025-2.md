@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/2s/2025/04/082000000/0003500035.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -47,18 +47,18 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/declaracao-retificacao/430-2025-916178219
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2025-04-29T00:00:00Z'
+  retrieved_at: '2026-10-23T14:59:11Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: a71b6fa40ceb27a99905a4daed938ef080c258463009e0d43bbabfe30b207d31
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 14db322c2faff4ec60c02da52b3f71f1dab714fa6383dd3be1e0e6cbead151a8
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T14:59:11Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,17 +66,21 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects: []
-relationships: []
+relationships:
+- type: cites
+  target: pt:dre:915631576:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T14:59:11Z'
   warnings: []
   errors: []
 ---
@@ -86,3 +90,5 @@ validation:
 Por ter saído com inexatidão o [Aviso (extrato) n.º 10567/2025/2](https://diariodarepublica.pt/dr/detalhe/aviso-extrato/10567-2025-915631576), publicado no Diário da República, 2.ª série, n.º 78, de 22 de abril de 2025, retifica-se que onde se lê «que se encontra afixada em local visível e público das instalações da Secretaria-Geral do Ministério da Defesa Nacional, bem como na respetiva página eletrónica» deve ler-se «que se encontra afixada em local visível e público das instalações do Instituto da Defesa Nacional, bem como na respetiva página eletrónica».
 
 23 de abril de 2025. - A Diretora-Geral, Isabel Alexandra Ribeiro Nunes Van Nieuwburg.
+
+318979211

@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/865/2004/07/19/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/865-2004-525202
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2007-11-02T00:00:00Z'
+  retrieved_at: '2026-10-23T15:01:46Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 25647bab53684983583941660d10bc055b1fbae0fea0c7c17e8aeea18ff78181
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 93a88a00f7320aadfafc711c055feed8d7721bd7f6fa8736596066df1d3aab37
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:01:46Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,9 +67,9 @@ reuse:
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
 - Alvará
-- Infarmed
 - Concurso Público
 - Farmacêutico
+- Infarmed
 - Instalação de Serviços
 - Transferência de Serviços
 relationships:
@@ -89,16 +89,42 @@ relationships:
   target: eli:http://data.dre.pt/eli/port/936-a/1999/10/22/p/dre
   label: null
   source: http://data.dre.pt/eli/port/936-a/1999/10/22/p/dre
+- type: cites
+  target: pt:dre:238264:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:265130:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:432188:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:451591:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:486284:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:629419:por
+  label: "Revogada a partir de 07.11.2007 a Port 936-A/99 de 22-Out, com as alterações constantes do presente diploma, pela\
+    \ PORT.1430/2007.02.11.2007.MS, DR.IS [211] de 02.11.2007\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/1430-2007-629419
+  date: '2007-11-02'
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:01:46Z'
   warnings: []
   errors: []
 ---

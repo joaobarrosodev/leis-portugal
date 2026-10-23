@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2004/06/131b00/35533555.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/619/2004/06/04/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/619-2004-280555
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2004-06-23T00:00:00Z'
+  retrieved_at: '2026-10-23T15:00:15Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: d2c99fcf0a597a98b8ed889a05b28e85122c76c2480f1d08c90ed4ea32bc3b73
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: f704863d7e57f5866be0446bd0a2c6b0757ce30c3b11ad9d38135a30cd53196d
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:00:15Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,10 +67,10 @@ reuse:
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
 - Acção de Formação
-- PSP
 - Formação Profissional
-- Pessoal Dirigente
 - Instituto Superior de Ciências Policiais e Segurança Interna
+- Pessoal Dirigente
+- PSP
 relationships:
 - type: amended_by
   target: pt:dre:145976:por
@@ -96,16 +96,41 @@ relationships:
   target: eli:http://data.dre.pt/eli/lei/14/2002/02/19/p/dre
   label: null
   source: http://data.dre.pt/eli/lei/14/2002/02/19/p/dre
+- type: cites
+  target: pt:dre:278033:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:314192:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:493702:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:578727:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:643086:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:145976:por
+  label: "Revogada pela PORT.691-A/2004.23.06.2004.MAI, DR.IS-B [146-Supl] de 23.06.2004 \0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/691-a-2004-145976
+  date: '2004-06-23'
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:00:15Z'
   warnings: []
   errors: []
 ---
@@ -236,7 +261,7 @@ Eliminação
 
 São eliminados os formandos que faltem a 10% da duração total em horas do curso ou não obtenham aproveitamento na componente escolar ou no trabalho inédito, nos termos dos n.os 6.º e 7.º
 
-**O Ministro da Administração Interna, António Jorge de Figueiredo Lopes, em 26 de Maio de 2004.**
+O Ministro da Administração Interna, António Jorge de Figueiredo Lopes, em 26 de Maio de 2004.
 
 ## ANEXO — (a que se refere o n.º 5.º)
 

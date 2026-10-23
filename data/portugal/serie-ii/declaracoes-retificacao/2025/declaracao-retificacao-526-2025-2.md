@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/2s/2025/05/103000000/0023600236.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -46,18 +46,18 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/declaracao-retificacao/526-2025-919711495
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2025-05-29T00:00:00Z'
+  retrieved_at: '2026-10-23T14:59:43Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: c5dcfc515507b8fe0478e385061e5682e8142df5fdcfcbcfb7ef668b9890ad8e
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: ac0cfea2d8e0bbbcbcdec6676b65e237346cb4fc39dbca1cb78cd4a6e57b3f2e
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T14:59:43Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -65,17 +65,21 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects: []
-relationships: []
+relationships:
+- type: cites
+  target: pt:dre:918555164:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T14:59:43Z'
   warnings: []
   errors: []
 ---
@@ -87,3 +91,5 @@ Para os devidos efeitos, torna-se público que se retifica o [Aviso n.º 12848/2
 Assim onde se lê «Anexo I da supracitada Lei, o Código de Conduta e Ética do Município de Caminha elaborado ao abrigo da Lei n.º 109-E/2021, de 9 de dezembro» deve ler-se «Anexo I da supracitada Lei, o Código de Conduta e Ética do Município de Castro Daire elaborado ao abrigo da Lei n.º 109-E/2021, de 9 de dezembro» e onde se lê «estabelece o Regime Geral de Prevenção de Corrupção. O Código de Conduta e Ética do Município de Caminha vai ser publicado na 2.ª série do Diário da República» deve ler-se «estabelece o Regime Geral de Prevenção de Corrupção. O Código de Conduta e Ética do Município de Castro Daire vai ser publicado na 2.ª série do Diário da República».
 
 20 de maio de 2025. - O Presidente da Câmara Municipal, Paulo Martins de Almeida.
+
+319096272

@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/2s/2026/03/060000000/0046900469.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -46,18 +46,18 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/declaracao-retificacao/241-2026-1077638785
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2026-03-26T00:00:00Z'
+  retrieved_at: '2026-10-23T15:03:22Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 576be5a723261566cbbd07329a3b44e6e2231658e6b92467cc71c0490829906b
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 2b475e10cc10e3a43482166cff90c6b760a5014538ccd220921ec95e88c9a2c3
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:03:22Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -69,13 +69,13 @@ relationships: []
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:03:22Z'
   warnings: []
   errors: []
 ---
@@ -87,3 +87,5 @@ Retificação do Despacho n.º 3082/2026, de 10 de março
 Por ter sido publicado com inexatidão o Despacho n.º 3082/2026, deste Município, no Diário da República, 2.ª série, n.º 48, de 10 de março de 2026, retifica-se que onde se lê «no Chefe da Divisão de Administração e Finanças em regime de substituição, Dr. Luís Filipe Godinho Poço» deve ler-se «no chefe da Divisão de Administração e Finanças, em regime de substituição, Dr. Luís Filipe Poço Godinho».
 
 16 de março de 2026. - O Presidente da Câmara Municipal, Nuno Jorge Lino Mira, Dr.
+
+319976807

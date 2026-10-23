@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/788/2004/07/09/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/788-2004-528384
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2004-07-09T00:00:00Z'
+  retrieved_at: '2026-10-23T15:01:20Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: e1a7adfc349508fe2051443c09697e12b515d99fcf13794bddcab2063bbaa203
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 923a8f31985a21c75586c1b2e3ddd3383e2bc92675c8c944252064cf38115f41
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:01:20Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -68,9 +68,9 @@ reuse:
 subjects:
 - Bacharelato
 - Formação Profissional
-- Recrutamento de Pessoal
 - Licenciatura
 - Profissão Independente
+- Recrutamento de Pessoal
 relationships:
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/120/2002/05/03/p/dre
@@ -96,16 +96,40 @@ relationships:
   target: eli:http://data.dre.pt/eli/lei/168/1999/09/18/p/dre
   label: null
   source: http://data.dre.pt/eli/lei/168/1999/09/18/p/dre
+- type: cites
+  target: pt:dre:368661:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:371035:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:389641:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:485444:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:516033:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:569885:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:01:20Z'
   warnings: []
   errors: []
 ---
@@ -286,4 +310,4 @@ r) Produção Florestal.
 
 Em 24 de Junho de 2004.
 
-**A Ministra da Justiça, Maria Celeste Ferreira Lopes Cardona. - A Ministra da Ciência e do Ensino Superior, Maria da Graça Martins da Silva Carvalho. - O Ministro das Obras Públicas, Transportes e Habitação, António Pedro de Nobre Carmona Rodrigues.**
+A Ministra da Justiça, Maria Celeste Ferreira Lopes Cardona. - A Ministra da Ciência e do Ensino Superior, Maria da Graça Martins da Silva Carvalho. - O Ministro das Obras Públicas, Transportes e Habitação, António Pedro de Nobre Carmona Rodrigues.

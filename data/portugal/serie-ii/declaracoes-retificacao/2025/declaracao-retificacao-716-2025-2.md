@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/2s/2025/08/148000000/0006000061.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -46,18 +46,18 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/declaracao-retificacao/716-2025-927624555
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2025-08-04T00:00:00Z'
+  retrieved_at: '2026-10-23T15:00:53Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 1da117f259669dd8f4388a06e8dfd25b88af3aff5e12cf6ab4676639e3c64e06
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 832a250f160da1d8705ce6a9214d77f690dc1e9d0c6c87bbac0c2e6f19e2168b
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:00:53Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -65,17 +65,21 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects: []
-relationships: []
+relationships:
+- type: cites
+  target: pt:dre:925409789:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:00:53Z'
   warnings: []
   errors: []
 ---
@@ -111,3 +115,5 @@ c) Núcleo de Arquitetura de Negócio de Finanças, abreviadamente designado por
 d) Núcleo de Serviços Especializados de Finanças abreviadamente designado por NSEF, ao qual compete, em especial, assegurar a execução de atividades de apoio técnico especializado suportando a Direção de Processos e Serviços de Suporte de Finanças (DPRF), assegurar o contacto com entidades normativas, como a Comissão de Normalização Contabilística, no âmbito da definição de processos, proceder a análise e verificação de informação de execução, com vista a garantir aderência às melhores práticas, executar procedimentos de controlo de qualidade de informação, designadamente, em complemento às funções de prestação de contas desenvolvidas pela Direção de Processos e Serviços de Suporte de Finanças (DPRF), assegurar a emissão de orientações operacionais, recomendações e sua monitorização, no âmbito das suas atribuições, assegurar, em colaboração com o NANF, a realização ações de capacitação, no âmbito das suas atribuições, assegurar, em colaboração com o NANF, a expansão e disseminação das soluções e serviços partilhados de finanças nas entidades cliente.»
 
 28 de julho de 2025. - O Presidente do Conselho Diretivo, César Augusto Gundersen Rodrigues Pestana.
+
+319367728

@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/531/2004/05/20/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/531-2004-270415
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2008-08-18T00:00:00Z'
+  retrieved_at: '2026-10-23T14:59:44Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: d6c37149abbc3140b91ee07e2b299309cb3864f16eb75b97ab2844bdb582f8fb
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: a2bda48da10f56c50aab50ecb7fcfa89c96b341c72eddfb948f5b085956738bc
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T14:59:44Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -74,6 +74,18 @@ relationships:
   target: pt:dre:455456:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:676197:por
+  label: "Anexado um prédio rústico à zona de caça concessionada pela Port 125/2002 de 09-Fev, com a redacção constante do\
+    \ presente diploma, pela PORT.165/2006.22.02.2006.MAOTDR, DR.IS-B [38] de 22.02.2006\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/165-2006-676197
+  date: '2006-02-22'
+- type: amended_by
+  target: pt:dre:455456:por
+  label: "Desanexados vários prédios rústicos da zona de caça concessionada pela Port 135/2002, de 09-Fev, alterado pelo presente\
+    \ diploma e pela Port 165/2006, de 22-Fev, pela PORT.898/2008.18.08.2008.MAOTDR, DR.IS [158] de 18.08.2008\08\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/898-2008-455456
+  date: '2008-08-18'
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/227-b/2000/09/15/p/dre
   label: null
@@ -94,16 +106,36 @@ relationships:
   target: eli:http://data.dre.pt/eli/port/45/2004/01/14/p/dre
   label: null
   source: http://data.dre.pt/eli/port/45/2004/01/14/p/dre
+- type: cites
+  target: pt:dre:273672:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:434640:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:534644:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:536243:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:603031:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T14:59:44Z'
   warnings: []
   errors: []
 ---

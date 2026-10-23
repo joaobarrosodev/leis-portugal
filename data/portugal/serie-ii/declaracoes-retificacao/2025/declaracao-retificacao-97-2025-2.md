@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/2s/2025/01/020000000/0030000307.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -47,18 +47,18 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/declaracao-retificacao/97-2025-905324325
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2025-01-29T00:00:00Z'
+  retrieved_at: '2026-10-23T15:02:23Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 4c47a90ec91aa7bdb5417894e820df9934ebc172849170d09a1a46abe6488695
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: d4d0f31affd56dd89d59c4279aca2b47f80d5802f73d0ce17c6e56fb0339a73f
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:02:23Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -68,15 +68,15 @@ reuse:
 subjects: []
 relationships: []
 article_structure:
-  article_count: 20
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:02:23Z'
   warnings: []
   errors: []
 ---
@@ -97,7 +97,9 @@ As bolsas de estudo objeto do presente regulamento são atribuídas, em cada ano
 
 Podem candidatar-se à bolsa de estudo prevista no presente regulamento mais de um elemento do mesmo agregado familiar.
 
-###### Artigo 2.º — Condições de Acesso
+Artigo 2.º
+
+Condições de Acesso
 
 Só podem beneficiar da bolsa de estudo prevista neste regulamento os estudantes que reúnam, cumulativamente, as seguintes condições:
 
@@ -115,7 +117,9 @@ Para efeitos do disposto na alínea c) do número anterior, considera-se aprovei
 
 A Câmara pode alargar a concessão dos benefícios previstos no n.º 1 a situações excecionais devidamente justificadas, não enquadráveis no n.º 2 deste artigo.
 
-###### Artigo 3.º — Processo de Candidatura
+Artigo 3.º
+
+Processo de Candidatura
 
 Pode candidatar-se à bolsa de estudo:
 
@@ -155,11 +159,15 @@ Sempre que se mostre conveniente à mais adequada ponderação da candidatura, p
 
 Quando por motivos não imputáveis ao candidato, o mesmo não consiga entregar todos os documentos previstos no presente artigo, dentro do prazo de candidatura, a mesma poderá ser admitida condicionalmente, na condição de que os documentos em falta sejam apresentados no prazo fixado pela autarquia, sob pena de indeferimento liminar da respetiva candidatura.
 
-###### Artigo 4.º — Prazo de Entrega
+Artigo 4.º
+
+Prazo de Entrega
 
 O processo de candidatura a que se refere o artigo anterior, terá de ser entregue entre o dia 1 de outubro e o dia 30 de novembro do ano letivo correspondente.
 
-###### Artigo 5.º — Critérios de atribuição das bolsas de estudo
+Artigo 5.º
+
+Critérios de atribuição das bolsas de estudo
 
 A análise das candidaturas e a atribuição do respetivo valor caberá a uma comissão de análise constituída por três elementos designados pela Câmara Municipal, tendo em conta relatório social circunstanciado dos respetivos serviços de Ação Social.
 
@@ -189,7 +197,9 @@ A seleção dos candidatos/as será efetuada mediante a análise do rendimento f
 
 * Aplicável ao valor máximo de bolsa previsto no n.º 1, do artigo 8
 
-###### Artigo 6.º — Decisão
+Artigo 6.º
+
+Decisão
 
 A atribuição de bolsas de estudo previstas neste regulamento é da competência da Câmara Municipal.
 
@@ -197,23 +207,31 @@ Serão indeferidos os pedidos que não venham acompanhados de todos os documento
 
 Após terminado o prazo de candidatura, a Câmara Municipal tem 90 dias para proceder à decisão.
 
-###### Artigo 7.º — Lista definitiva
+Artigo 7.º
+
+Lista definitiva
 
 A lista definitiva dos beneficiários da bolsa é aprovada pela Câmara Municipal.
 
-###### Artigo 8.º — Montante da Bolsa
+Artigo 8.º
+
+Montante da Bolsa
 
 O montante anual de cada bolsa será fixado pela Câmara Municipal, caso a caso, até ao valor de 1.347.50€, em função da situação económica definida no n.º 2, do artigo 5.º
 
 Sempre que razões supervenientes, designadamente o aumento do custo de vida, o justifiquem, poderá a Câmara Municipal atualizar o montante fixado no número anterior.
 
-###### Artigo 9.º — Pagamento
+Artigo 9.º
+
+Pagamento
 
 O montante que venha a ser fixado por aplicação do disposto no n.º 1 do artigo anterior, será pago em prestação única.
 
 O pagamento far-se-á por transferência bancária, após deliberação.
 
-###### Artigo 10.º — Obrigações do Bolseiro
+Artigo 10.º
+
+Obrigações do Bolseiro
 
 O bolseiro é obrigado a comunicar à Câmara Municipal:
 
@@ -223,7 +241,9 @@ A anulação da matrícula ou inscrição ou a desistência do curso;
 
 Quaisquer outros factos que alterem as condições que tenham servido de pressuposto à atribuição da bolsa de estudo.
 
-###### Artigo 11.º — Cessação do Direito
+Artigo 11.º
+
+Cessação do Direito
 
 Constitui causa da cessação do direito à bolsa de estudo:
 
@@ -247,7 +267,9 @@ Objeto
 
 3 - Podem candidatar-se à bolsa de estudo prevista no presente regulamento mais de um elemento do mesmo agregado familiar.
 
-###### Artigo 2.º — Condições de acesso
+Artigo 2.º
+
+Condições de acesso
 
 1 - Só podem beneficiar da bolsa de estudo prevista neste regulamento os estudantes que reúnam, cumulativamente, as seguintes condições:
 
@@ -265,7 +287,9 @@ e) Integrem um agregado familiar com um rendimento anual ilíquido igual ou infe
 
 3 - A Câmara pode alargar a concessão dos benefícios previstos no n.º 1 a situações excecionais devidamente justificadas, não enquadráveis no n.º 2 deste artigo.
 
-###### Artigo 3.º — Processo de candidatura
+Artigo 3.º
+
+Processo de candidatura
 
 1 - Pode candidatar-se à bolsa de estudo:
 
@@ -305,11 +329,15 @@ h) Fotocópia do IBAN.
 
 6 - Quando por motivos não imputáveis ao candidato, o mesmo não consiga entregar todos os documentos previstos no presente artigo, dentro do prazo de candidatura, a mesma poderá ser admitida condicionalmente, na condição de que os documentos em falta sejam apresentados no prazo fixado pela autarquia, sob pena de indeferimento liminar da respetiva candidatura.
 
-###### Artigo 4.º — Prazo de entrega
+Artigo 4.º
+
+Prazo de entrega
 
 O processo de candidatura a que se refere o artigo anterior, terá de ser entregue entre o dia 1 de outubro e o dia 30 de novembro do ano letivo correspondente.
 
-###### Artigo 5.º — Critérios de atribuição das bolsas de estudo
+Artigo 5.º
+
+Critérios de atribuição das bolsas de estudo
 
 1 - A análise das candidaturas e a atribuição do respetivo valor caberá a uma comissão de análise constituída por três elementos designados pela Câmara Municipal, tendo em conta relatório social circunstanciado dos respetivos serviços de Ação Social.
 
@@ -339,7 +367,9 @@ A seleção dos candidatos/as será efetuada mediante a análise do rendimento f
 
 * Aplicável ao valor máximo de bolsa previsto no n.º 1, do artigo 8.º
 
-###### Artigo 6.º — Decisão
+Artigo 6.º
+
+Decisão
 
 1 - A atribuição de bolsas de estudo previstas neste regulamento é da competência da Câmara Municipal.
 
@@ -347,23 +377,31 @@ A seleção dos candidatos/as será efetuada mediante a análise do rendimento f
 
 3 - Após terminado o prazo de candidatura, a Câmara Municipal tem 90 dias para proceder à decisão.
 
-###### Artigo 7.º — Lista definitiva
+Artigo 7.º
+
+Lista definitiva
 
 A lista definitiva dos beneficiários da bolsa é aprovada pela Câmara Municipal.
 
-###### Artigo 8.º — Montante da bolsa
+Artigo 8.º
+
+Montante da bolsa
 
 1 - O montante anual de cada bolsa será fixado pela Câmara Municipal, caso a caso, até ao valor de 1 347,50 €, em função da situação económica definida no n.º 2, do artigo 5.º
 
 2 - Sempre que razões supervenientes, designadamente o aumento do custo de vida, o justifiquem, poderá a Câmara Municipal atualizar o montante fixado no número anterior.
 
-###### Artigo 9.º — Pagamento
+Artigo 9.º
+
+Pagamento
 
 1 - O montante que venha a ser fixado por aplicação do disposto no n.º 1 do artigo anterior, será pago em prestação única.
 
 2 - O pagamento far-se-á por transferência bancária, após deliberação.
 
-###### Artigo 10.º — Obrigações do bolseiro
+Artigo 10.º
+
+Obrigações do bolseiro
 
 1 - O bolseiro é obrigado a comunicar à Câmara Municipal:
 
@@ -373,7 +411,9 @@ b) A anulação da matrícula ou inscrição ou a desistência do curso;
 
 c) Quaisquer outros factos que alterem as condições que tenham servido de pressuposto à atribuição da bolsa de estudo.
 
-###### Artigo 11.º — Cessação do direito
+Artigo 11.º
+
+Cessação do direito
 
 1 - Constitui causa da cessação do direito à bolsa de estudo:
 
@@ -386,3 +426,5 @@ c) Alteração relevante das circunstâncias que tenham servido de pressuposto �
 2 - Nos casos previstos no número anterior o bolseiro fica obrigado, neste caso, a repor a importância que tenha recebido.»
 
 16 de janeiro de 2025. - A Presidente da Câmara, Margarida Belém.
+
+318573514

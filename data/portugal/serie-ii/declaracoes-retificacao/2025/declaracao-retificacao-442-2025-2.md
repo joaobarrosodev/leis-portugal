@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/2s/2025/05/085000000/0020500205.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -46,18 +46,18 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/declaracao-retificacao/442-2025-916749702
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2025-05-05T00:00:00Z'
+  retrieved_at: '2026-10-23T14:59:14Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: ecdba66c4a419b5d3f4ebdd1369e1526e1290ce089432fed8bde241555d36a47
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: bc0d2a2e05fe12021deb5e457eaa3c10df8c9acfc68237a74708b074318392cc
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T14:59:14Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -65,17 +65,29 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects: []
-relationships: []
+relationships:
+- type: cites
+  target: pt:dre:488490:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:578678:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:911926189:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T14:59:14Z'
   warnings: []
   errors: []
 ---
@@ -93,3 +105,5 @@ deve ler-se:
 «Foi autorizada a celebração do contrato de trabalho em funções públicas por tempo indeterminado, em período experimental de cinco anos, com o Doutor Ricardo João Luís Marques Correia, como Professor Adjunto, ao abrigo do n.º 1 do artigo 10B, do [Decreto-Lei n.º 185/81](https://diariodarepublica.pt/dr/detalhe/decreto-lei/185-1981-578678) de 01 de julho, e [Decreto-Lei n.º 207/2009](https://diariodarepublica.pt/dr/detalhe/decreto-lei/207-2009-488490) de 31 de agosto, para o exercício de funções na Escola Superior de Tecnologia e Gestão de Viseu, com efeitos à data de 17-02-2025 posicionada no escalão 1, índice 185 da tabela remuneratória do pessoal docente do ensino superior politécnico, em regime de tempo integral e sem exclusividade.»
 
 31 de março de 2025. - A Administradora, Carla Arminda Resende Coimbra.
+
+318895377

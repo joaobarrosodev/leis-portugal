@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/2s/2025/09/174000000/0027300273.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -46,18 +46,18 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/declaracao-retificacao/844-2025-934747046
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2025-09-10T00:00:00Z'
+  retrieved_at: '2026-10-23T15:01:38Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 13d0429ac79738e48b13be1385b300241afc704496ae93d24298277f0b8413c2
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 38a9c06fa023d2d9da6438bb6ca96bf67725ef26d555a8b8dfa77f2ca1545763
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:01:38Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -69,13 +69,13 @@ relationships: []
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:01:38Z'
   warnings: []
   errors: []
 ---
@@ -97,3 +97,5 @@ deve ler-se:
 O presente concurso é aberto no âmbito do Programa FCT-Tenure - 1.ª Edição, publicado através do Aviso de Abertura de Concurso (AAC) com a referência PRR n.º 02/CO6-iO6/2024 (candidatura com a referência 2023.14305.TENURE.011).»
 
 2 de setembro de 2025. - A Vice-Reitora, Prof.ª Doutora Maria Joana Mesquita Cruz Barbosa de Carvalho.
+
+319495798

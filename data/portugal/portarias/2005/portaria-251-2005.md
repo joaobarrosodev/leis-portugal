@@ -27,7 +27,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2005/03/051b00/21842188.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -49,18 +49,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/251/2005/03/14/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/251-2005-575309
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2011-07-27T00:00:00Z'
+  retrieved_at: '2026-10-23T15:05:15Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: d743ac1b93824dd4b119c37a520ff03ee5735d8de575902d3388d621b89f6deb
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: abf379aa81defc4d89bff7b324c0e0d3a4a1f416720f389b6087ef735ba2dd96
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:05:15Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -68,13 +68,13 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Certificado de Aptidão Profissional
-- Instituto do Emprego e Formação Profissional
-- Formação Profissional
-- Formação Complementar
-- Homologação
-- Qualificação Profissional
 - Avaliação do Pessoal
+- Certificado de Aptidão Profissional
+- Formação Complementar
+- Formação Profissional
+- Homologação
+- Instituto do Emprego e Formação Profissional
+- Qualificação Profissional
 - Sistema Nacional de Certificação Profissional
 relationships:
 - type: amended_by
@@ -93,16 +93,34 @@ relationships:
   target: eli:http://data.dre.pt/eli/decregul/68/1994/11/26/p/dre
   label: null
   source: http://data.dre.pt/eli/decregul/68/1994/11/26/p/dre
+- type: cites
+  target: pt:dre:289058:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:523412:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:547021:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:669541:por
+  label: "Revogada, com produção de efeitos a 30.10.2011, pelo DEC LEI.92/2011.27.07.2011.MTSSO, DR.IS [143] de 27.07.2011\0\
+    \0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/92-2011-669541
+  date: '2011-07-27'
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:05:15Z'
   warnings: []
   errors: []
 ---
@@ -511,6 +529,6 @@ Entrada em vigor
 
 A presente portaria entra em vigor decorridos 90 dias após a data da sua publicação.
 
-**O Secretário de Estado Adjunto e do Trabalho, Luís Miguel Pais Antunes, em 31 de Janeiro de 2005.**
+O Secretário de Estado Adjunto e do Trabalho, Luís Miguel Pais Antunes, em 31 de Janeiro de 2005.
 
 ## ANEXO — [(ver modelo no documento original)](https://files.diariodarepublica.pt/1s/2005/03/051b00/21842188.pdf)

@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/375/2005/04/04/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/375-2005-563247
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2005-11-25T00:00:00Z'
+  retrieved_at: '2026-10-23T15:06:00Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 84380775a33acb030fcd698e32642756bf59417cb8014d75aa68227260a014ad
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 232c3a6ce31206c779b59be7c9c5b7240d144f16c613af04f962503c03574872
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:06:00Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,15 +66,21 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Plano de Estudos
 - Curso de Especialização
 - Ensino Superior Politécnico
 - Escola de Enfermagem do DR Angelo da Fonseca
+- Plano de Estudos
 relationships:
 - type: amended_by
   target: pt:dre:481685:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:481685:por
+  label: "Alterado o quadro nº 2 do anexo ao presente diploma, pela PORT.1205/2005.25.11.2005.MCTES, DR.IS-B [227] de 25.11.2005\0\
+    \0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/1205-2005-481685
+  date: '2005-11-25'
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/353/1999/09/03/p/dre
   label: null
@@ -83,16 +89,24 @@ relationships:
   target: eli:http://data.dre.pt/eli/port/268/2002/03/13/p/dre
   label: null
   source: http://data.dre.pt/eli/port/268/2002/03/13/p/dre
+- type: cites
+  target: pt:dre:265299:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:582195:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:06:00Z'
   warnings: []
   errors: []
 ---
@@ -143,7 +157,7 @@ Início de funcionamento do curso
 
 O curso pode iniciar o seu funcionamento a partir do ano lectivo de 2005-2006, um ano curricular em cada ano lectivo.
 
-**A Ministra da Ciência, Inovação e Ensino Superior, Maria da Graça Martins da Silva Carvalho, em 3 de Março de 2005.**
+A Ministra da Ciência, Inovação e Ensino Superior, Maria da Graça Martins da Silva Carvalho, em 3 de Março de 2005.
 
 ## ANEXO — Escola Superior de Enfermagem do Dr. Ângelo da Fonseca
 
@@ -153,10 +167,10 @@ QUADRO N.º 1
 
 1.º ano
 
-[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2005/04/065b00/28342835.pdf)
+[[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2005/04/065b00/28342835.pdf)](https://files.diariodarepublica.pt/1s/2005/04/065b00/28342835.pdf)
 
 QUADRO N.º 2
 
 2.º ano
 
-[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2005/04/065b00/28342835.pdf)
+[[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2005/04/065b00/28342835.pdf)](https://files.diariodarepublica.pt/1s/2005/04/065b00/28342835.pdf)

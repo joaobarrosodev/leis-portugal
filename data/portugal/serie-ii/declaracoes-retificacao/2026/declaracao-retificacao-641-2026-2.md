@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/2s/2026/07/142000000/0006500065.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -46,18 +46,18 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/declaracao-retificacao/641-2026-1151491220
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2026-07-24T00:00:00Z'
+  retrieved_at: '2026-10-23T15:05:46Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: ae88e30549018fb700f72f2127ee29c0a9ef65f965932152324911e3b6fb5857
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 75762aebe7503d4418ac762cfcd119e1277fb7d7de6bdadfbab6272679ac071b
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:05:46Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -69,13 +69,13 @@ relationships: []
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:05:46Z'
   warnings: []
   errors: []
 ---
@@ -87,3 +87,5 @@ Na sequência do Despacho n.º 8858/2026, de 8 de julho, publicado no Diário da
 Considerando que o referido Despacho n.º 8858/2026 foi publicado com inexatidão relativamente à data de nascimento da nomeada Ana Mafalda Ferreira Mendes da Conceição Cotovio, retifica-se o mesmo nos seguintes termos: onde se lê «Data de nascimento: 4 de outubro de 1998» deve ler-se «Data de nascimento: 4 de outubro de 1968».
 
 17 de julho de 2026. - A Inspetora-Geral da ACT, Maria Fernanda Ferreira Campos.
+
+320025404

@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/2s/2026/02/041000000/0029200335.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -46,40 +46,79 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/declaracao-retificacao/164-2026-1062753127
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2026-02-27T00:00:00Z'
+  retrieved_at: '2026-10-23T15:02:57Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: a4ef97362f6aee2b36b4b175dc107674a7d37489efe099ab34debdb9a449f5ea
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 7b3a1c715e92a923b2a4f23489cbf10c06f43f7b2d5e6b094775742f70bbe29d
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:02:57Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Consumo de Energia
+- Distribuição de Energia Elétrica
+- Mobilidade Elétrica
+- Preço
+- Regulamento da Mobilidade Eléctrica
+- Veículo Elétrico
 relationships:
 - type: cites
   target: celex:32023R1804
   label: null
   source: null
+- type: cites
+  target: pt:dre:106938487:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:125874308:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:303200:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:614137:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:910517158:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:928937303:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:994000576:por
+  label: null
+  source: null
+- type: corrects
+  target: pt:numero:regulamento:7/2026
+  label: Retifica e republica o Regulamento n.º 7/2026, de 6 de janeiro, Diário da República n.º 3/2026, Série II
+  source: null
+  date: '2026-01-06'
 article_structure:
   article_count: 107
   section_count: 36
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:02:57Z'
   warnings: []
   errors: []
 ---
@@ -114,7 +153,7 @@ Para os pontos de carregamento que não se encontrem ligados à plataforma de ge
 
 No essencial, o RME agora reformulado mantém as disposições do anterior regulamento publicado em 2019, aplicáveis durante o período transitório aos CEME e aos OPC com pontos de carregamento ligados à plataforma de gestão da mobilidade elétrica.
 
-O procedimento regulamentar desenvolveu-se nos termos dos n.<sup>os</sup>1 a 4 do artigo 10.º dos Estatutos da ERSE, aprovados pelo [Decreto-Lei n.º 97/2002](https://diariodarepublica.pt/dr/detalhe/decreto-lei/97-2002-303200), de 12 de abril, na redação vigente. A proposta regulamentar, acompanhada do documento justificativo, foi submetida em outubro de 2025 a parecer do Conselho Consultivo e do Conselho Tarifário da ERSE e a consulta pública. Os pareceres e os contributos recebidos na consulta são disponibilizados na página da internet da ERSE, bem como o relatório da consulta pública.
+O procedimento regulamentar desenvolveu-se nos termos dos n.os1 a 4 do artigo 10.º dos Estatutos da ERSE, aprovados pelo [Decreto-Lei n.º 97/2002](https://diariodarepublica.pt/dr/detalhe/decreto-lei/97-2002-303200), de 12 de abril, na redação vigente. A proposta regulamentar, acompanhada do documento justificativo, foi submetida em outubro de 2025 a parecer do Conselho Consultivo e do Conselho Tarifário da ERSE e a consulta pública. Os pareceres e os contributos recebidos na consulta são disponibilizados na página da internet da ERSE, bem como o relatório da consulta pública.
 
 Assim, ao abrigo das disposições do artigo 31.º, 41.º e 44.º do [Decreto-Lei n.º 93/2025](https://diariodarepublica.pt/dr/detalhe/decreto-lei/93-2025-928937303), de 14 de agosto, bem como, do disposto no n.º 1 do artigo 9.º, artigo 10.º e da alínea c) do n.º 2 do artigo 31.º, dos Estatutos da ERSE, aprovados pelo [Decreto-Lei n.º 97/2002](https://diariodarepublica.pt/dr/detalhe/decreto-lei/97-2002-303200), de 12 de abril, na redação atual, o Conselho de Administração da ERSE aprovou, por deliberação de 22 de dezembro de 2025, o seguinte regulamento:
 
@@ -438,13 +477,13 @@ c) A informação prevista no n.º 4.
 
 a) Mix da oferta do CEME;
 
-b) Valor das emissões totais de dióxido de carbono (CO<sub>2</sub>) associadas ao consumo do UVE.
+b) Valor das emissões totais de dióxido de carbono (CO2) associadas ao consumo do UVE.
 
 3 - Nos casos em que o CEME opte por realizar o aprovisionamento de energia elétrica através da modalidade de contratação com CSE, de acordo com o disposto na alínea a), b) e c) do n.º 2 do Artigo 26.º, aplicam-se os seguintes princípios:
 
 a) Se o aprovisionamento de energia por parte do CEME se realizar através da contratação com apenas um CSE, o CEME deve utilizar a informação de rotulagem de energia elétrica referente à oferta desse CSE;
 
-b) Se o aprovisionamento de energia por parte do CEME se realizar através da contratação com vários CSE, o CEME deve ponderar os respetivos mix e as emissões específicas de CO<sub>2</sub> pelo volume de energia elétrica imputável a cada oferta comercial dos CSE.
+b) Se o aprovisionamento de energia por parte do CEME se realizar através da contratação com vários CSE, o CEME deve ponderar os respetivos mix e as emissões específicas de CO2 pelo volume de energia elétrica imputável a cada oferta comercial dos CSE.
 
 4 - Nas situações não previstas no número anterior, é aplicável a Diretiva ERSE n.º 16/2018, de 13 de dezembro, ou outra regulamentação que a substitua, sobre rotulagem de energia elétrica, em condições semelhantes às aplicáveis aos CSE.
 
@@ -708,11 +747,14 @@ c) Informar a ERSE.
 
 1 - Os proveitos permitidos da atividade de Gestão de Operações da Rede de Mobilidade Elétrica, a recuperar por aplicação das tarifas da EGME no ano t, são dados pelas seguintes expressões:
 
-![](https://files.diariodarepublica.pt/images/1062753127/1062753224.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/1062753127/1062753224.png) |
+| --- |
 
-![](https://files.diariodarepublica.pt/images/1062753127/1062753225.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/1062753127/1062753225.png) |
+| --- |
 
-![](https://files.diariodarepublica.pt/images/1062753127/1062753226.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/1062753127/1062753226.png) |
+| --- |
 
 9 - Os ajustamentos devem ser calculados de acordo com o disposto no Regulamento da Mobilidade Elétrica vigente à data a que reportam os proveitos a ser ajustados.
 
@@ -754,7 +796,8 @@ A tarifa da EGME aplicável aos DPC é composta por um termo tarifário fixo, cu
 
 1 - Os preços das tarifas da EGME, aplicáveis aos CEME, aos OPC e aos DPC, são calculados por forma a que o seu produto pelas respetivas quantidades de faturação proporcione o montante de proveitos a recuperar da atividade de Gestão de Operações da Rede de Mobilidade Elétrica definidos no Artigo 39.º, de acordo com a seguinte expressão:
 
-![](https://files.diariodarepublica.pt/images/1062753127/1062753227.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/1062753127/1062753227.png) |
+| --- |
 
 2 - A estrutura dos preços definidos no número anterior deve ser orientada pela estrutura dos custos incrementais por número de carregamentos.
 
@@ -810,7 +853,7 @@ b) Dispor de memória local para todos os dados recolhidos, por um período mín
 
 2 - A responsabilidade pela leitura dos equipamentos de medição nos pontos de carregamento integrados na rede de mobilidade elétrica é da EGME.
 
-3 - A leitura dos equipamentos de medição referidos nos n.<sup>os</sup>1 - e 2 - deve, sempre que possível, ser feita de forma remota.
+3 - A leitura dos equipamentos de medição referidos nos n.os1 - e 2 - deve, sempre que possível, ser feita de forma remota.
 
 4 - A periodicidade de leitura dos equipamentos de medição referidos no n.º 1 é a estabelecida no GMLDD.
 
@@ -1537,3 +1580,5 @@ c) Ações de cliente mistério.
 1 - O presente regulamento entra em vigor no dia seguinte ao da sua publicação.
 
 2 - O presente regulamento produz efeitos na data de entrada em vigor, com exceção das matérias relativas às instalações de consumo não exclusivas para a mobilidade elétrica com pontos de entrega internos no Capítulo II do Título III e o Artigo 103.º, as quais produzem efeitos 6 meses após a publicação do presente regulamento no Diário da República.
+
+319966614

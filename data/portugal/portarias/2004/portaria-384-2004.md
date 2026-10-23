@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/384/2004/04/16/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/384-2004-223826
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2004-04-16T00:00:00Z'
+  retrieved_at: '2026-10-23T14:58:53Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 0886e9d23109e29efb80feda744263e4e7a130e2c17f4a96b65c3d11fc79827a
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 38dc7bd7b859002737568f2353ed84085f1a57375839ca8404c65921e3ccec88
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T14:58:53Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -84,16 +84,32 @@ relationships:
   target: eli:http://data.dre.pt/eli/lei/16-a/2002/05/31/p/dre
   label: null
   source: http://data.dre.pt/eli/lei/16-a/2002/05/31/p/dre
+- type: cites
+  target: pt:dre:474696:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:481161:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:533809:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:621125:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T14:58:53Z'
   warnings: []
   errors: []
 ---
@@ -118,6 +134,6 @@ Manda o Governo, pela Ministra de Estado e das Finanças e pelo Secretário de E
 
 Em 15 de Outubro de 2003.
 
-**A Ministra de Estado e das Finanças, Maria Manuela Dias Ferreira Leite. - O Secretário de Estado do Trabalho, Luís Miguel Pais Antunes.**
+A Ministra de Estado e das Finanças, Maria Manuela Dias Ferreira Leite. - O Secretário de Estado do Trabalho, Luís Miguel Pais Antunes.
 
 ## ANEXO — [(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2004/04/090b00/23112312.pdf)

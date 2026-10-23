@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/2s/2025/05/089000000/0015600156.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -46,18 +46,18 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/declaracao-retificacao/457-2025-917311865
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2025-05-09T00:00:00Z'
+  retrieved_at: '2026-10-23T14:59:19Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: ffc029364518783436e61bbd108d4ad99eeb1022e7a373b2b4a182660daf0ee4
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: b644dd1055f2d529734cb00edf3d26aed1733b590100a32c08fdaa2ba7bf5947
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T14:59:19Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -69,13 +69,13 @@ relationships: []
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T14:59:19Z'
   warnings: []
   errors: []
 ---
@@ -93,3 +93,5 @@ deve ler-se:
 «b) Um exemplar em suporte digital de um documento que compile até 50 trabalhos selecionados pelo candidato, de entre o seu portefólio de publicações, como os mais representativos no que respeita à sua contribuição para a geração de novo conhecimento baseado em novas ideias e hipóteses e a relevância e impacto das mesmas na área disciplinar do concurso, com a indicação da data e local (editora) em que cada trabalho foi originalmente publicado. Para cada um dos trabalhos selecionados o documento deve apresentar a justificação para a seleção efetuada pelo candidato tendo explicitamente em conta a contribuição para a área disciplinar do concurso. Não estando disponível o suporte digital, este poderá ser substituído pela entrega em papel de um número de exemplares correspondente ao número de membros do júri;»
 
 30 de abril de 2025. - O Reitor, Doutor Rui Manuel Costa Vieira de Castro.
+
+319011075

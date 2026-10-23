@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/205/2005/02/21/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/205-2005-607101
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2005-04-15T00:00:00Z'
+  retrieved_at: '2026-10-23T15:04:54Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: c5ac75b967f390dc70858f2886ce461a71f688a81b8c1b8c711677984b7955a7
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 0d223d0987d0772dcee4a6843c4fb3c485f5063cf8aab179048f59961888271c
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:04:54Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -73,6 +73,16 @@ relationships:
   target: pt:dre:547070:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:547070:por
+  label: "Determinada a transição para o Ministério da Ciência, Tecnologia e Ensino Superior da UMIC (integrada na Presidência\
+    \ do Conselho de Ministros), criada pelo Dec Lei 16/2005, de 18-Jan, e cujos estatutos foram aprovados no presente diploma,\
+    \ sendo acompetência relativa à definição das orientações estratégicas, bem como o acompanhamento da sua execução, exercida\
+    \ pelo Ministro da Ciência, Tecnologia e Ensino Superior em articulação com o Ministro de Estado e da Administração Interna,\
+    \ com o Ministro da Economia e da Inovação e com o Ministro das Obras Públicas, Transportes e Comunicações, pelo DEC LEI.79/2005.15.04.2005.PCM,\
+    \ DR.IS-A [74] de 15.04.2005\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/79-2005-547070
+  date: '2005-04-15'
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/16/2005/01/18/p/dre
   label: null
@@ -81,16 +91,24 @@ relationships:
   target: eli:http://data.dre.pt/eli/lei/3/2004/01/15/p/dre
   label: null
   source: http://data.dre.pt/eli/lei/3/2004/01/15/p/dre
+- type: cites
+  target: pt:dre:603478:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:624976:por
+  label: null
+  source: null
 article_structure:
   article_count: 24
   section_count: 6
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:04:54Z'
   warnings: []
   errors: []
 ---
@@ -113,7 +131,7 @@ Manda o Governo, pelos Ministros de Estado e da Presidência e das Finanças e d
 
 Em 11 de Fevereiro de 2005.
 
-**O Ministro de Estado e da Presidência, Nuno Albuquerque Morais Sarmento. - O Ministro das Finanças e da Administração Pública, António José de Castro Bagão Félix.**
+O Ministro de Estado e da Presidência, Nuno Albuquerque Morais Sarmento. - O Ministro das Finanças e da Administração Pública, António José de Castro Bagão Félix.
 
 ## ANEXO — ESTATUTOS DA UMIC - AGÊNCIA PARA A SOCIEDADE DO CONHECIMENTO, I. P.
 

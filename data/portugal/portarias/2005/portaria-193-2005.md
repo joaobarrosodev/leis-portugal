@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/193/2005/02/17/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/193-2005-605333
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2005-02-17T00:00:00Z'
+  retrieved_at: '2026-10-23T15:04:50Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 93e7ee23e3a12dd2f0570261d82215777b38f683050d482a883af54f2b6520cb
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: f7d3593fa32cf84481fec8f49da3d2d70ebe3f46d5f08b3371ebe94e8d1fdae0
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:04:50Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,12 +67,12 @@ reuse:
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
 - Construção Civil
-- Obras Particulares
-- Normas de Construção
-- Obras Públicas
-- Urbanismo
-- Projeto
 - Diploma Legal
+- Normas de Construção
+- Obras Particulares
+- Obras Públicas
+- Projeto
+- Urbanismo
 relationships:
 - type: cites
   target: celex:31993L0068
@@ -81,13 +81,13 @@ relationships:
 article_structure:
   article_count: 0
   section_count: 154
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:04:50Z'
   warnings: []
   errors: []
 ---
@@ -110,7 +110,7 @@ Manda o Governo, pelos Ministros das Obras Públicas, Transportes e Comunicaçõ
 
 Em 22 de Dezembro de 2004.
 
-**O Ministro das Obras Públicas, Transportes e Comunicações, António Luís Guerra Nunes Mexia. - O Ministro do Ambiente e do Ordenamento do Território, Luís José de Mello e Castro Guedes.**
+O Ministro das Obras Públicas, Transportes e Comunicações, António Luís Guerra Nunes Mexia. - O Ministro do Ambiente e do Ordenamento do Território, Luís José de Mello e Castro Guedes.
 
 ## ANEXO — Disposições legais aplicáveis ao projecto e à execução de obras
 

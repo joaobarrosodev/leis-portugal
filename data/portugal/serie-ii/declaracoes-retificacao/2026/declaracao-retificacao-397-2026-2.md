@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/2s/2026/05/092000000/0006000060.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -47,18 +47,18 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/declaracao-retificacao/397-2026-1119832662
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2026-05-13T00:00:00Z'
+  retrieved_at: '2026-10-23T15:04:14Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 75e15c8bf716ef1830cb8b18c0143112bcc7fc0a9160a8f975cbea2a6944e164
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: e02a61987d19cb1182973174303d731e7ad123d32acbe0c98cb97cc084e48f50
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:04:14Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,17 +66,25 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects: []
-relationships: []
+relationships:
+- type: cites
+  target: pt:dre:234316:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:251979:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:04:14Z'
   warnings: []
   errors: []
 ---
@@ -87,10 +95,12 @@ Para os devidos efeitos, observando o disposto no artigo 5.º da [Lei n.º 74/98
 
 Onde se lê:
 
-«5 - Nos termos do estabelecido nas alíneas b), c), e), g) e h), do n.º 4 do Despacho do Almirante Autoridade Marítima Nacional n.º 1472/2026, de 14 de janeiro de 2026, publicado no Diário da República (2.ª série) n.º 26, de 6 de fevereiro de 2026, no n.º 3, do artigo 8.º e n.º 1, do artigo 9.º do [Decreto-Lei n.º 44/2002](https://diariodarepublica.pt/dr/detalhe/decreto-lei/44-2002-251979), de 02 de março, alterado pelos Decretos-Leis n.<sup>os</sup>235/2012, de 31 de outubro, e 121/2014, de 7 de agosto, subdelego nos Chefes dos Departamentos Marítimos dos Açores, Comodoro Paulo Jorge da Conceição Lopes até dia 21 de novembro de 2025 e Comodoro Luís Nicholson Lavrador a partir daquela data; do Norte, Capitão-de-mar-e-guerra Rui Pedro Gomes Fernando da Silva Lampreia; do Centro, Capitão-de-mar-e-guerra Paulo Alexandre Rodrigues Vicente, até dia 26 de fevereiro de 2026, e Capitão-de-mar-e-guerra Paulo Alexandre Rafael da Silva, a partir dessa data; do Sul, Capitão-de-mar-e-guerra Vítor Jorge da Conceição Dias, e da Madeira, Capitão-de-mar-e-guerra Bruno António Teixeira Rodrigues Ferreira Teles, a competência para, no âmbito dos respetivos Departamentos Marítimos e órgãos de si dependentes:»
+«5 - Nos termos do estabelecido nas alíneas b), c), e), g) e h), do n.º 4 do Despacho do Almirante Autoridade Marítima Nacional n.º 1472/2026, de 14 de janeiro de 2026, publicado no Diário da República (2.ª série) n.º 26, de 6 de fevereiro de 2026, no n.º 3, do artigo 8.º e n.º 1, do artigo 9.º do [Decreto-Lei n.º 44/2002](https://diariodarepublica.pt/dr/detalhe/decreto-lei/44-2002-251979), de 02 de março, alterado pelos Decretos-Leis n.os235/2012, de 31 de outubro, e 121/2014, de 7 de agosto, subdelego nos Chefes dos Departamentos Marítimos dos Açores, Comodoro Paulo Jorge da Conceição Lopes até dia 21 de novembro de 2025 e Comodoro Luís Nicholson Lavrador a partir daquela data; do Norte, Capitão-de-mar-e-guerra Rui Pedro Gomes Fernando da Silva Lampreia; do Centro, Capitão-de-mar-e-guerra Paulo Alexandre Rodrigues Vicente, até dia 26 de fevereiro de 2026, e Capitão-de-mar-e-guerra Paulo Alexandre Rafael da Silva, a partir dessa data; do Sul, Capitão-de-mar-e-guerra Vítor Jorge da Conceição Dias, e da Madeira, Capitão-de-mar-e-guerra Bruno António Teixeira Rodrigues Ferreira Teles, a competência para, no âmbito dos respetivos Departamentos Marítimos e órgãos de si dependentes:»
 
 deve ler-se:
 
-«5 - Nos termos do estabelecido nas alíneas b), c), e), g) e h), do n.º 4 do Despacho do Almirante Autoridade Marítima Nacional n.º 1472/2026, de 14 de janeiro de 2026, publicado no Diário da República (2.ª série) n.º 26, de 6 de fevereiro de 2026, no n.º 3, do artigo 8.º e n.º 1, do artigo 9.º do [Decreto-Lei n.º 44/2002](https://diariodarepublica.pt/dr/detalhe/decreto-lei/44-2002-251979), de 02 de março, alterado pelos Decretos-Leis n.<sup>os</sup>235/2012, de 31 de outubro, e 121/2014, de 7 de agosto, subdelego nos Chefes dos Departamentos Marítimos dos Açores, Comodoro Paulo Jorge da Conceição Lopes até dia 21 de novembro de 2025 e Comodoro Luís Nicholson Lavrador a partir daquela data; do Norte, Capitão-de-mar-e-guerra Rui Pedro Gomes Fernando da Silva Lampreia; do Centro, Capitão-de-mar-e-guerra Paulo Alexandre Rodrigues Vicente, até dia 26 de fevereiro de 2026, e Capitão-de-mar-e-guerra Paulo Alexandre Rafael da Silva, a partir dessa data; do Sul, Capitão-de-mar-e-guerra Vítor Jorge da Conceição Dias, e da Madeira, Capitão-de-mar-e-guerra Bruno António Teixeira Rodrigues Ferreira Teles, a competência para, no âmbito dos respetivos Departamentos Marítimos e órgãos de si dependentes, com faculdade de subdelegar nos Capitães dos Portos de si dependentes:»
+«5 - Nos termos do estabelecido nas alíneas b), c), e), g) e h), do n.º 4 do Despacho do Almirante Autoridade Marítima Nacional n.º 1472/2026, de 14 de janeiro de 2026, publicado no Diário da República (2.ª série) n.º 26, de 6 de fevereiro de 2026, no n.º 3, do artigo 8.º e n.º 1, do artigo 9.º do [Decreto-Lei n.º 44/2002](https://diariodarepublica.pt/dr/detalhe/decreto-lei/44-2002-251979), de 02 de março, alterado pelos Decretos-Leis n.os235/2012, de 31 de outubro, e 121/2014, de 7 de agosto, subdelego nos Chefes dos Departamentos Marítimos dos Açores, Comodoro Paulo Jorge da Conceição Lopes até dia 21 de novembro de 2025 e Comodoro Luís Nicholson Lavrador a partir daquela data; do Norte, Capitão-de-mar-e-guerra Rui Pedro Gomes Fernando da Silva Lampreia; do Centro, Capitão-de-mar-e-guerra Paulo Alexandre Rodrigues Vicente, até dia 26 de fevereiro de 2026, e Capitão-de-mar-e-guerra Paulo Alexandre Rafael da Silva, a partir dessa data; do Sul, Capitão-de-mar-e-guerra Vítor Jorge da Conceição Dias, e da Madeira, Capitão-de-mar-e-guerra Bruno António Teixeira Rodrigues Ferreira Teles, a competência para, no âmbito dos respetivos Departamentos Marítimos e órgãos de si dependentes, com faculdade de subdelegar nos Capitães dos Portos de si dependentes:»
 
 30 de abril de 2026. - O Diretor-Geral da Autoridade Marítima, Nuno Chaves Ferreira, Vice-Almirante.
+
+319995487

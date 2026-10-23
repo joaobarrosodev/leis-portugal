@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/624/2004/06/07/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/624-2004-277119
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2004-06-07T00:00:00Z'
+  retrieved_at: '2026-10-23T15:00:17Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: dc18f971e58ac2fdc348563f1f826984c0dff02c808d45b2d9d4823cf1d21e0a
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 32457194c9a6f7533eb6e20266fa5950cf1fa408463aeca1d041fdfeb707d3c1
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:00:17Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,10 +67,10 @@ reuse:
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
 - Bacharelato
-- Plano de Estudos
 - Ensino Superior Politécnico
 - Escola Superior Agrária
 - Instituto Politécnico
+- Plano de Estudos
 - Santarém
 relationships:
 - type: cites
@@ -101,16 +101,52 @@ relationships:
   target: eli:http://data.dre.pt/eli/port/540/2004/05/20/p/dre
   label: null
   source: http://data.dre.pt/eli/port/540/2004/05/20/p/dre
+- type: cites
+  target: pt:dre:147873:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:203470:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:270436:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:283353:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:368775:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:429596:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:453184:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:556606:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:593710:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:00:17Z'
   warnings: []
   errors: []
 ---
@@ -143,7 +179,7 @@ Produção de efeitos
 
 O disposto no n.º 1.º produz efeitos a partir da data da entrada em vigor da [Portaria n.º 466-C/2000](https://diariodarepublica.pt/dr/detalhe/portaria/466-c-2000-203470).
 
-**A Ministra da Ciência e do Ensino Superior, Maria da Graça Martins da Silva Carvalho, em 20 de Maio de 2004.**
+A Ministra da Ciência e do Ensino Superior, Maria da Graça Martins da Silva Carvalho, em 20 de Maio de 2004.
 
 ## ANEXO III — ([Portaria n.º 540/2004](https://diariodarepublica.pt/dr/detalhe/portaria/540-2004-270436), de 20 de Maio - alteração)
 

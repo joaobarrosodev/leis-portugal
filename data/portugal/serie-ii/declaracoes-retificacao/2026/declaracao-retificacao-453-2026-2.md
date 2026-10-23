@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/2s/2026/06/105000000/0003100031.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -46,18 +46,18 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/declaracao-retificacao/453-2026-1128419940
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2026-06-01T00:00:00Z'
+  retrieved_at: '2026-10-23T15:04:39Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: b7cb4bca8e394011bf611e73d807f3f2592c99676944a6745afd622ad93ca821
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 0779fb7b0a03c0333d52746d55dd7929b03001fcb9a5ca7d01ef13a7254a2295
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:04:39Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -69,13 +69,13 @@ relationships: []
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:04:39Z'
   warnings: []
   errors: []
 ---
@@ -84,10 +84,12 @@ validation:
 
 Por ter sido publicado com inexatidão no Diário da República, 2.ª série, n.º 82, de 28 de abril de 2026, o Despacho n.º 5521/2026, de 22 de abril, retifica-se que onde se lê:
 
-«nomeio como consultora da Casa Civil a licenciada Rita Isabel Teixeira Cerqueira, com efeitos a 2 de maio de 2026, fixando-lhe os abonos previstos nos n.<sup>os</sup>1 e 2 do artigo 20.º do referido diploma em 80 % dos abonos de idêntica natureza estabelecidos para o cargo de assessor»
+«nomeio como consultora da Casa Civil a licenciada Rita Isabel Teixeira Cerqueira, com efeitos a 2 de maio de 2026, fixando-lhe os abonos previstos nos n.os1 e 2 do artigo 20.º do referido diploma em 80 % dos abonos de idêntica natureza estabelecidos para o cargo de assessor»
 
 deve ler-se:
 
-«nomeio como consultora da Casa Civil a licenciada Rita Isabel Teixeira Cerqueira, com efeitos a 1 de junho de 2026, fixando-lhe os abonos previstos nos n.<sup>os</sup>1 e 2 do artigo 20.º do referido diploma em 100 % dos abonos de idêntica natureza estabelecidos para o cargo de assessor».
+«nomeio como consultora da Casa Civil a licenciada Rita Isabel Teixeira Cerqueira, com efeitos a 1 de junho de 2026, fixando-lhe os abonos previstos nos n.os1 e 2 do artigo 20.º do referido diploma em 100 % dos abonos de idêntica natureza estabelecidos para o cargo de assessor».
 
 20 de maio de 2026. - A Secretária-Geral, Ana Cristina Baptista.
+
+320004939

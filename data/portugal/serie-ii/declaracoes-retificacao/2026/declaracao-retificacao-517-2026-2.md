@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/2s/2026/06/113000000/0036000360.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -47,18 +47,18 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/declaracao-retificacao/517-2026-1132294308
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2026-06-15T00:00:00Z'
+  retrieved_at: '2026-10-23T15:05:03Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: c3a9592130fe609fb860d929634e9a81af41961798e1f38bea5dd7110efb2487
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: c6c7392cf13ca1f162de6e6a42b93ae025d581f7cfee388fcdd615b68318edf5
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:05:03Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,17 +66,25 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects: []
-relationships: []
+relationships:
+- type: cites
+  target: pt:dre:1093636539:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:205457496:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:05:03Z'
   warnings: []
   errors: []
 ---
@@ -98,3 +106,5 @@ deve ler-se:
 Com observância das normas aplicáveis e sem prejuízo dos limites e demais pressupostos legalmente estabelecidos, constituem competências do Presidente do Conselho de Administração, Vogal da área financeira e do Vogal da área de Recursos Humanos, em matéria de realização de despesa:»
 
 5 de junho de 2026. - A Diretora do Serviço de Gestão de Recursos Humanos da Unidade Local de Saúde do Alentejo Central, E. P. E., Dr.ª Carmen Sofia Pardelha Alfaiate.
+
+320010270

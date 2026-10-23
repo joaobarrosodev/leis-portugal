@@ -26,7 +26,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2004/07/174b00/47174722.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -48,18 +48,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/924/2004/07/26/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/924-2004-506981
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2012-08-09T00:00:00Z'
+  retrieved_at: '2026-10-23T15:02:05Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: d429b71a5e125df16d962ad91c56c86cd887d1df620161deb1d95a3e7ccdc397
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 363c23166b52649fc1f583c6792e77423f19318565bb0e351239e2b468cddbfd
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:02:05Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -68,21 +68,27 @@ reuse:
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
 - Bebida Alcoólica
-- Vinho
 - Denominação de Origem
-- Região Demarcada
-- Etiquetagem
 - Embalagem
+- Etiquetagem
 - Organização Comum de Mercado
+- Produto Vitivinícola
+- Região Demarcada
 - Regulamento CE
 - Vinagre
-- Produto Vitivinícola
 - Vinha
+- Vinho
 relationships:
 - type: amended_by
   target: pt:dre:175287:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:343092:por
+  label: "Alteradas as als. h), l) e m) do nº 2º do anexo I da presente portaria, pela PORT.669/2010.11.08.2010.MADRP, DR.IS\
+    \ [155] de 11.08.2010\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/669-2010-343092
+  date: '2010-08-11'
 - type: cites
   target: celex:32002R0753
   label: null
@@ -91,16 +97,21 @@ relationships:
   target: eli:http://data.dre.pt/eli/port/1070/1998/12/30/p/dre
   label: null
   source: http://data.dre.pt/eli/port/1070/1998/12/30/p/dre
+- type: repealed_by
+  target: pt:dre:175287:por
+  label: "Revogada pela PORT.239/2012.09.08.2012.MAMAOT, DR.IS [154] de 09.08.2012\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/239-2012-175287
+  date: '2012-08-09'
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:02:05Z'
   warnings: []
   errors: []
 ---
@@ -151,7 +162,7 @@ g) «Lote» o conjunto de unidades de venda de um produto acondicionado em circu
 
 6.º É revogada a Portaria n.º 1070/98, de 30 de Dezembro.
 
-**O Ministro da Agricultura, Desenvolvimento Rural e Pescas, Armando José Cordeiro Sevinate Pinto, em 5 de Julho de 2004.**
+O Ministro da Agricultura, Desenvolvimento Rural e Pescas, Armando José Cordeiro Sevinate Pinto, em 5 de Julho de 2004.
 
 ## ANEXO I — (a que se refere o n.º 4.º)
 

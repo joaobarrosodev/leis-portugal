@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2005/04/065b00/28142815.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/363/2005/04/04/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/363-2005-563253
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2006-05-22T00:00:00Z'
+  retrieved_at: '2026-10-23T15:05:55Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 363a24575352f919b17dd1472f029c367129645d1776f134246f7b69ede344df
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 6c3037513e7ab7d6385f05219eeede09338e4c8ed07241c0b7e4ce02fcbc0e99
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:05:55Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -105,16 +105,57 @@ relationships:
   target: eli:http://data.dre.pt/eli/port/439/2004/04/30/p/dre
   label: null
   source: http://data.dre.pt/eli/port/439/2004/04/30/p/dre
+- type: cites
+  target: pt:dre:278032:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:302284:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:405483:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:502399:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:565458:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:591693:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:610416:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:653127:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:654925:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:632892:por
+  label: "Revogada pela PORT.464/2006.22.05.2006.MFAP, DR.IS-B [98] de 22.05.2006\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/464-2006-632892
+  date: '2006-05-22'
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:05:55Z'
   warnings: []
   errors: []
 ---
@@ -159,16 +200,16 @@ d) Situações de restituição de contribuições legalmente previstas.
 
 Em 18 de Fevereiro de 2005.
 
-**O Ministro das Finanças e da Administração Pública, António José de Castro Bagão Félix. - O Ministro da Segurança Social, da Família e da Criança, Fernando Mimoso Negrão.**
+O Ministro das Finanças e da Administração Pública, António José de Castro Bagão Félix. - O Ministro da Segurança Social, da Família e da Criança, Fernando Mimoso Negrão.
 
 ## ANEXO I — Tabela aplicável em 2005
 
 (artigo 35.º do [Decreto-Lei n.º 329/93](https://diariodarepublica.pt/dr/detalhe/decreto-lei/329-1993-653127), de 25 de Setembro, e n.º 1 do artigo 5.º do [Decreto-Lei n.º 35/2002](https://diariodarepublica.pt/dr/detalhe/decreto-lei/35-2002-278032), de 19 de Fevereiro)
 
-[(ver tabela no documento original)](https://files.diariodarepublica.pt/1s/2005/04/065b00/28142815.pdf)
+[[(ver tabela no documento original)](https://files.diariodarepublica.pt/1s/2005/04/065b00/28142815.pdf)](https://files.diariodarepublica.pt/1s/2005/04/065b00/28142815.pdf)
 
 ## ANEXO II — Tabela aplicável em 2005
 
 (n.os 2 e 3 do artigo 5.º do [Decreto-Lei n.º 35/2002](https://diariodarepublica.pt/dr/detalhe/decreto-lei/35-2002-278032), de 19 de Fevereiro)
 
-[(ver tabela no documento original)](https://files.diariodarepublica.pt/1s/2005/04/065b00/28142815.pdf)
+[[(ver tabela no documento original)](https://files.diariodarepublica.pt/1s/2005/04/065b00/28142815.pdf)](https://files.diariodarepublica.pt/1s/2005/04/065b00/28142815.pdf)

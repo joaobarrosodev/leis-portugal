@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/816/2004/07/15/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/816-2004-527198
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2004-08-17T00:00:00Z'
+  retrieved_at: '2026-10-23T15:01:30Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: ae484f58f2359dc16f9ac4d6eff5dcda758e87d123f2cf70caa1c8462fd2349e
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 3b98a66b9666b691e6cbbd6728c644284a15de4349eeb801c853eb4b8718badd
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:01:30Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,16 +67,16 @@ reuse:
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
 - Assistência Médica
-- Saúde
-- Política de Saúde
-- Serviço Nacional de Saúde
-- Lista de Espera
-- Preço
-- Cuidados Médicos
 - Cirurgia
+- Cuidados Médicos
+- Lista de Espera
+- Política de Saúde
+- Preço
+- Programa Especial de Combate as Listas de Espera Cirurgicas
+- Saúde
+- Serviço Nacional de Saúde
 - Setor Privado
 - Setor Público
-- Programa Especial de Combate as Listas de Espera Cirurgicas
 - Tabela de Cuidados de Saúde
 relationships:
 - type: amended_by
@@ -103,16 +103,41 @@ relationships:
   target: eli:http://data.dre.pt/eli/resolconsmin/100/2002/05/25/p/dre
   label: null
   source: http://data.dre.pt/eli/resolconsmin/100/2002/05/25/p/dre
+- type: cites
+  target: pt:dre:152712:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:353351:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:434650:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:476736:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:586006:por
+  label: null
+  source: null
+- type: corrected_by
+  target: pt:dre:622591:por
+  label: "Rectificada pela DECL-RECT.80/2004.17.08.2004.PCM, DR.IS-B [206] de 01.09.2004\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/declaracao-rectificacao/80-2004-622591
+  date: '2004-08-17'
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:01:30Z'
   warnings: []
   errors: []
 ---
@@ -141,11 +166,11 @@ Manda o Governo, pelo Ministro da Saúde, o seguinte:
 
 5.º São republicados, com as alterações constantes dos n.os 1.º e 2.º, os anexos I e II das Portarias n.os [1397/2002](https://diariodarepublica.pt/dr/detalhe/portaria/1397-2002-434650) e [1234/2003](https://diariodarepublica.pt/dr/detalhe/portaria/1234-2003-476736), respectivamente de 26 de Outubro e de 22 de Outubro.
 
-**O Ministro da Saúde, Luís Filipe Pereira, em 18 de Junho de 2004.**
+O Ministro da Saúde, Luís Filipe Pereira, em 18 de Junho de 2004.
 
 ## ANEXO I — Tabela de preços - Programa Especial de Combate às Listas de Espera Cirúrgicas - Hospitais do Serviço Nacional de Saúde
 
-[(ver tabela no documento original)](https://files.diariodarepublica.pt/1s/2004/07/165b00/43064316.pdf)
+[[[(ver tabela no documento original)](https://files.diariodarepublica.pt/1s/2004/07/165b00/43064316.pdf)](https://files.diariodarepublica.pt/1s/2004/07/165b00/43064316.pdf)](https://files.diariodarepublica.pt/1s/2004/07/165b00/43064316.pdf)
 
 Notas
 
@@ -155,10 +180,10 @@ Em caso de simultaniedade, a intervenção mais barata será paga a 60% do valor
 
 ## ANEXO II — Tabela de preços - Programa Especial de Combate às Listas de Espera Cirúrgicas - Estabelecimentos de saúde privados e do sector social
 
-[(ver tabela no documento original)](https://files.diariodarepublica.pt/1s/2004/07/165b00/43064316.pdf)
+[[[(ver tabela no documento original)](https://files.diariodarepublica.pt/1s/2004/07/165b00/43064316.pdf)](https://files.diariodarepublica.pt/1s/2004/07/165b00/43064316.pdf)](https://files.diariodarepublica.pt/1s/2004/07/165b00/43064316.pdf)
 
 Nota. - Em caso de simultaneidade, a intervenção mais barata será paga a 60% do valor tabelado.
 
 ## ANEXO III — Tabela de preços - Programa Especial de Combate às Listas de Espera Cirúrgicas
 
-[(ver tabela no documento original)](https://files.diariodarepublica.pt/1s/2004/07/165b00/43064316.pdf)
+[[[(ver tabela no documento original)](https://files.diariodarepublica.pt/1s/2004/07/165b00/43064316.pdf)](https://files.diariodarepublica.pt/1s/2004/07/165b00/43064316.pdf)](https://files.diariodarepublica.pt/1s/2004/07/165b00/43064316.pdf)

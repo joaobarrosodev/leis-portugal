@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/2s/2026/04/072000000/0017600210.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -47,18 +47,18 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/declaracao-retificacao/300-2026-1084805769
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2026-04-14T00:00:00Z'
+  retrieved_at: '2026-10-23T15:03:43Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 859c986109ef6cb50863998d9351b7a03c5dbb89107dc5d6c50fb538a8673c47
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 9bcb487dd3256e283a88a77dde06a463bb16b67a40572b056245a75df3b33d70
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:03:43Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,17 +66,37 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects: []
-relationships: []
+relationships:
+- type: cites
+  target: pt:dre:205457496:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:258535:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:534998:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:75216371:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:916177977:por
+  label: null
+  source: null
 article_structure:
   article_count: 83
   section_count: 24
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:03:43Z'
   warnings: []
   errors: []
 ---
@@ -85,7 +105,7 @@ validation:
 
 Por ter saído com inexatidão o Despacho n.º 6458/2025, de 2 de junho, publicado no Diário da República, 2.ª série, n.º 110, de 9 de junho de 2025, procede-se à sua retificação nos termos seguintes:
 
-1 - Nos n.<sup>os</sup>3 e 5 do artigo 39.º:
+1 - Nos n.os3 e 5 do artigo 39.º:
 
 Onde se lê:
 
@@ -107,13 +127,13 @@ deve ler-se:
 
 Onde se lê:
 
-«4 - O pagamento do prémio de desempenho referido nos n.<sup>os</sup>3 e 4 é de publicidade obrigatória no relatório e contas da instituição, especificando os montantes e beneficiários.»
+«4 - O pagamento do prémio de desempenho referido nos n.os3 e 4 é de publicidade obrigatória no relatório e contas da instituição, especificando os montantes e beneficiários.»
 
 deve ler-se:
 
-«4 - O pagamento do prémio de desempenho referido nos n.<sup>os</sup>2 e 3 é de publicidade obrigatória no relatório e contas da instituição, especificando os montantes e beneficiários.»
+«4 - O pagamento do prémio de desempenho referido nos n.os2 e 3 é de publicidade obrigatória no relatório e contas da instituição, especificando os montantes e beneficiários.»
 
-3 - Nos n.<sup>os</sup>2 e 3 do artigo 64.º:
+3 - Nos n.os2 e 3 do artigo 64.º:
 
 Onde se lê:
 
@@ -833,7 +853,7 @@ c) As funções a acumular não sejam desenvolvidas em horário sobreposto ao ho
 
 3 - O prémio pode ser pago por receitas próprias da entidade contratante ou através de verbas imputadas a financiamentos dos projetos de investigação científica garantidos pelo investigador, desde que elegíveis, não podendo, em caso algum, ser diretamente financiado por transferências do Orçamento do Estado.
 
-4 - O pagamento do prémio de desempenho referido nos n.<sup>os</sup>2 e 3 é de publicidade obrigatória no relatório e contas da instituição, especificando os montantes e beneficiários.
+4 - O pagamento do prémio de desempenho referido nos n.os2 e 3 é de publicidade obrigatória no relatório e contas da instituição, especificando os montantes e beneficiários.
 
 #### SECÇÃO V — DA CESSAÇÃO DO CONTRATO DE TRABALHO
 
@@ -1384,3 +1404,5 @@ As remissões para a legislação aplicável, designadamente no que respeita ao 
 ###### Artigo 83.º — Entrada em vigor
 
 O presente Regulamento entra em vigor no dia seguinte ao da sua publicação no Diário da República.
+
+319985505

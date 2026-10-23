@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/995/2004/08/09/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/995-2004-515406
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2004-08-09T00:00:00Z'
+  retrieved_at: '2026-10-23T15:02:29Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: b41c0fd38baa8ba82efc536ad5eda1929cff63d1cc2c40ae9b2dcc5649355379
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: e332d591ea0d9cc26c0ed9e9c80a25c915745b3a5719c5dad28d2c121445948a
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:02:29Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -65,17 +65,17 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Registo Nacional de Menores Estrangeiros
+- Admissão de Estrangeiros
 - ALTO Comissariado para a Imigração e Minorias Étnicas
 - Assistência Médica
 - Cidadão Estrangeiro
 - Comissão Nacional de Protecção de Dados
 - Definição de Competências
-- Política de Saúde
 - Menoridade
 - Política de Educação
+- Política de Saúde
 - Política Social
-- Admissão de Estrangeiros
+- Registo Nacional de Menores Estrangeiros
 relationships:
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/244/1998/08/08/p/dre
@@ -93,16 +93,32 @@ relationships:
   target: eli:http://data.dre.pt/eli/lei/67/1998/10/26/p/dre
   label: null
   source: http://data.dre.pt/eli/lei/67/1998/10/26/p/dre
+- type: cites
+  target: pt:dre:188557:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:211033:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:239857:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:434982:por
+  label: null
+  source: null
 article_structure:
   article_count: 2
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:02:29Z'
   warnings: []
   errors: []
 ---
@@ -217,7 +233,7 @@ Cooperação com os serviços públicos
 
 O Alto-Comissariado para a Imigração e Minorias Étnicas acompanha a aplicação do [Decreto-Lei n.º 67/2004](https://diariodarepublica.pt/dr/detalhe/decreto-lei/67-2004-211033), de 25 de Março, sensibilizando os serviços públicos com atribuições nas áreas da saúde ou da educação e prestando aos mesmos o apoio e esclarecimento necessários.
 
-**O Ministro da Presidência, Nuno Albuquerque Morais Sarmento, em 13 de Julho de 2004.**
+O Ministro da Presidência, Nuno Albuquerque Morais Sarmento, em 13 de Julho de 2004.
 
 ## ANEXO — (frente da folha)
 

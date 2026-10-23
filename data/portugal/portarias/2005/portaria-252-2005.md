@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/252/2005/03/14/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/252-2005-575304
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2005-03-14T00:00:00Z'
+  retrieved_at: '2026-10-23T15:05:16Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: ab98b1de3314ae423b95241daf543bf36f6351f4619904729d646390f8650be6
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: a22a09def125f06b45d800891925dc59514bdb089e371a860ee18056eb51fd63
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:05:16Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,16 +66,16 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Produção Animal
 - Aprendizagem Profissional
-- Formação Profissional
-- Silvicultura
 - CAÇA
 - Floricultura
+- Formação Profissional
 - Gestão dos Recursos
 - Jovem Trabalhador
 - Política de Emprego
 - Produção Agrícola
+- Produção Animal
+- Silvicultura
 relationships:
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/205/1996/10/25/p/dre
@@ -105,16 +105,52 @@ relationships:
   target: eli:http://data.dre.pt/eli/port/989/1999/11/03/p/dre
   label: null
   source: http://data.dre.pt/eli/port/989/1999/11/03/p/dre
+- type: cites
+  target: pt:dre:226416:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:283169:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:288401:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:303187:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:357329:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:523412:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:547021:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:661731:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:694187:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:05:16Z'
   warnings: []
   errors: []
 ---
@@ -453,7 +489,7 @@ Referencial curricular
 
 Itinerário referência n.º 1 - Práticas agro-florestais (nível 1)
 
-[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2005/03/051b00/21892227.pdf)
+[[[[[[[[[[[[[[[[[[[[[[[[[[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2005/03/051b00/21892227.pdf)](https://files.diariodarepublica.pt/1s/2005/03/051b00/21892227.pdf)](https://files.diariodarepublica.pt/1s/2005/03/051b00/21892227.pdf)](https://files.diariodarepublica.pt/1s/2005/03/051b00/21892227.pdf)](https://files.diariodarepublica.pt/1s/2005/03/051b00/21892227.pdf)](https://files.diariodarepublica.pt/1s/2005/03/051b00/21892227.pdf)](https://files.diariodarepublica.pt/1s/2005/03/051b00/21892227.pdf)](https://files.diariodarepublica.pt/1s/2005/03/051b00/21892227.pdf)](https://files.diariodarepublica.pt/1s/2005/03/051b00/21892227.pdf)](https://files.diariodarepublica.pt/1s/2005/03/051b00/21892227.pdf)](https://files.diariodarepublica.pt/1s/2005/03/051b00/21892227.pdf)](https://files.diariodarepublica.pt/1s/2005/03/051b00/21892227.pdf)](https://files.diariodarepublica.pt/1s/2005/03/051b00/21892227.pdf)](https://files.diariodarepublica.pt/1s/2005/03/051b00/21892227.pdf)](https://files.diariodarepublica.pt/1s/2005/03/051b00/21892227.pdf)](https://files.diariodarepublica.pt/1s/2005/03/051b00/21892227.pdf)](https://files.diariodarepublica.pt/1s/2005/03/051b00/21892227.pdf)](https://files.diariodarepublica.pt/1s/2005/03/051b00/21892227.pdf)](https://files.diariodarepublica.pt/1s/2005/03/051b00/21892227.pdf)](https://files.diariodarepublica.pt/1s/2005/03/051b00/21892227.pdf)](https://files.diariodarepublica.pt/1s/2005/03/051b00/21892227.pdf)](https://files.diariodarepublica.pt/1s/2005/03/051b00/21892227.pdf)](https://files.diariodarepublica.pt/1s/2005/03/051b00/21892227.pdf)](https://files.diariodarepublica.pt/1s/2005/03/051b00/21892227.pdf)](https://files.diariodarepublica.pt/1s/2005/03/051b00/21892227.pdf)](https://files.diariodarepublica.pt/1s/2005/03/051b00/21892227.pdf)
 
 ## ANEXO N.º 3 — Itinerário referência n.º 2 - Produção agrícola (1) (nível 2)
 
@@ -489,7 +525,7 @@ Itinerário referência n.º 2 - Produção agrícola (1) (nível 2)
 
 Saída profissional - Operador(a) agrícola
 
-[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2005/03/051b00/21892227.pdf)
+[[[[[[[[[[[[[[[[[[[[[[[[[[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2005/03/051b00/21892227.pdf)](https://files.diariodarepublica.pt/1s/2005/03/051b00/21892227.pdf)](https://files.diariodarepublica.pt/1s/2005/03/051b00/21892227.pdf)](https://files.diariodarepublica.pt/1s/2005/03/051b00/21892227.pdf)](https://files.diariodarepublica.pt/1s/2005/03/051b00/21892227.pdf)](https://files.diariodarepublica.pt/1s/2005/03/051b00/21892227.pdf)](https://files.diariodarepublica.pt/1s/2005/03/051b00/21892227.pdf)](https://files.diariodarepublica.pt/1s/2005/03/051b00/21892227.pdf)](https://files.diariodarepublica.pt/1s/2005/03/051b00/21892227.pdf)](https://files.diariodarepublica.pt/1s/2005/03/051b00/21892227.pdf)](https://files.diariodarepublica.pt/1s/2005/03/051b00/21892227.pdf)](https://files.diariodarepublica.pt/1s/2005/03/051b00/21892227.pdf)](https://files.diariodarepublica.pt/1s/2005/03/051b00/21892227.pdf)](https://files.diariodarepublica.pt/1s/2005/03/051b00/21892227.pdf)](https://files.diariodarepublica.pt/1s/2005/03/051b00/21892227.pdf)](https://files.diariodarepublica.pt/1s/2005/03/051b00/21892227.pdf)](https://files.diariodarepublica.pt/1s/2005/03/051b00/21892227.pdf)](https://files.diariodarepublica.pt/1s/2005/03/051b00/21892227.pdf)](https://files.diariodarepublica.pt/1s/2005/03/051b00/21892227.pdf)](https://files.diariodarepublica.pt/1s/2005/03/051b00/21892227.pdf)](https://files.diariodarepublica.pt/1s/2005/03/051b00/21892227.pdf)](https://files.diariodarepublica.pt/1s/2005/03/051b00/21892227.pdf)](https://files.diariodarepublica.pt/1s/2005/03/051b00/21892227.pdf)](https://files.diariodarepublica.pt/1s/2005/03/051b00/21892227.pdf)](https://files.diariodarepublica.pt/1s/2005/03/051b00/21892227.pdf)](https://files.diariodarepublica.pt/1s/2005/03/051b00/21892227.pdf)
 
 ## ANEXO N.º 4 — Itinerário referência n.º 3 - Produção agrícola (2) (nível 2)
 
@@ -523,7 +559,7 @@ Itinerário referência n.º 3 - Produção agrícola (2) (nível 2)
 
 Saída profissional - Operador(a) agrícola
 
-[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2005/03/051b00/21892227.pdf)
+[[[[[[[[[[[[[[[[[[[[[[[[[[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2005/03/051b00/21892227.pdf)](https://files.diariodarepublica.pt/1s/2005/03/051b00/21892227.pdf)](https://files.diariodarepublica.pt/1s/2005/03/051b00/21892227.pdf)](https://files.diariodarepublica.pt/1s/2005/03/051b00/21892227.pdf)](https://files.diariodarepublica.pt/1s/2005/03/051b00/21892227.pdf)](https://files.diariodarepublica.pt/1s/2005/03/051b00/21892227.pdf)](https://files.diariodarepublica.pt/1s/2005/03/051b00/21892227.pdf)](https://files.diariodarepublica.pt/1s/2005/03/051b00/21892227.pdf)](https://files.diariodarepublica.pt/1s/2005/03/051b00/21892227.pdf)](https://files.diariodarepublica.pt/1s/2005/03/051b00/21892227.pdf)](https://files.diariodarepublica.pt/1s/2005/03/051b00/21892227.pdf)](https://files.diariodarepublica.pt/1s/2005/03/051b00/21892227.pdf)](https://files.diariodarepublica.pt/1s/2005/03/051b00/21892227.pdf)](https://files.diariodarepublica.pt/1s/2005/03/051b00/21892227.pdf)](https://files.diariodarepublica.pt/1s/2005/03/051b00/21892227.pdf)](https://files.diariodarepublica.pt/1s/2005/03/051b00/21892227.pdf)](https://files.diariodarepublica.pt/1s/2005/03/051b00/21892227.pdf)](https://files.diariodarepublica.pt/1s/2005/03/051b00/21892227.pdf)](https://files.diariodarepublica.pt/1s/2005/03/051b00/21892227.pdf)](https://files.diariodarepublica.pt/1s/2005/03/051b00/21892227.pdf)](https://files.diariodarepublica.pt/1s/2005/03/051b00/21892227.pdf)](https://files.diariodarepublica.pt/1s/2005/03/051b00/21892227.pdf)](https://files.diariodarepublica.pt/1s/2005/03/051b00/21892227.pdf)](https://files.diariodarepublica.pt/1s/2005/03/051b00/21892227.pdf)](https://files.diariodarepublica.pt/1s/2005/03/051b00/21892227.pdf)](https://files.diariodarepublica.pt/1s/2005/03/051b00/21892227.pdf)
 
 ## ANEXO N.º 5 — Itinerário referência n.º 4 - Produção pecuária (1) (nível 2)
 
@@ -563,7 +599,7 @@ Itinerário referência n.º 4 - Produção pecuária (1) (nível 2)
 
 Saída profissional - Operador(a) de pecuária
 
-[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2005/03/051b00/21892227.pdf)
+[[[[[[[[[[[[[[[[[[[[[[[[[[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2005/03/051b00/21892227.pdf)](https://files.diariodarepublica.pt/1s/2005/03/051b00/21892227.pdf)](https://files.diariodarepublica.pt/1s/2005/03/051b00/21892227.pdf)](https://files.diariodarepublica.pt/1s/2005/03/051b00/21892227.pdf)](https://files.diariodarepublica.pt/1s/2005/03/051b00/21892227.pdf)](https://files.diariodarepublica.pt/1s/2005/03/051b00/21892227.pdf)](https://files.diariodarepublica.pt/1s/2005/03/051b00/21892227.pdf)](https://files.diariodarepublica.pt/1s/2005/03/051b00/21892227.pdf)](https://files.diariodarepublica.pt/1s/2005/03/051b00/21892227.pdf)](https://files.diariodarepublica.pt/1s/2005/03/051b00/21892227.pdf)](https://files.diariodarepublica.pt/1s/2005/03/051b00/21892227.pdf)](https://files.diariodarepublica.pt/1s/2005/03/051b00/21892227.pdf)](https://files.diariodarepublica.pt/1s/2005/03/051b00/21892227.pdf)](https://files.diariodarepublica.pt/1s/2005/03/051b00/21892227.pdf)](https://files.diariodarepublica.pt/1s/2005/03/051b00/21892227.pdf)](https://files.diariodarepublica.pt/1s/2005/03/051b00/21892227.pdf)](https://files.diariodarepublica.pt/1s/2005/03/051b00/21892227.pdf)](https://files.diariodarepublica.pt/1s/2005/03/051b00/21892227.pdf)](https://files.diariodarepublica.pt/1s/2005/03/051b00/21892227.pdf)](https://files.diariodarepublica.pt/1s/2005/03/051b00/21892227.pdf)](https://files.diariodarepublica.pt/1s/2005/03/051b00/21892227.pdf)](https://files.diariodarepublica.pt/1s/2005/03/051b00/21892227.pdf)](https://files.diariodarepublica.pt/1s/2005/03/051b00/21892227.pdf)](https://files.diariodarepublica.pt/1s/2005/03/051b00/21892227.pdf)](https://files.diariodarepublica.pt/1s/2005/03/051b00/21892227.pdf)](https://files.diariodarepublica.pt/1s/2005/03/051b00/21892227.pdf)
 
 ## ANEXO N.º 6 — Itinerário referência n.º 5 - Produção pecuária (2) (nível 2)
 
@@ -601,7 +637,7 @@ Itinerário refererência n.º 5 - Produção pecuária (2) (nível 2)
 
 Saída profissional: Operador(a) de pecuária
 
-[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2005/03/051b00/21892227.pdf)
+[[[[[[[[[[[[[[[[[[[[[[[[[[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2005/03/051b00/21892227.pdf)](https://files.diariodarepublica.pt/1s/2005/03/051b00/21892227.pdf)](https://files.diariodarepublica.pt/1s/2005/03/051b00/21892227.pdf)](https://files.diariodarepublica.pt/1s/2005/03/051b00/21892227.pdf)](https://files.diariodarepublica.pt/1s/2005/03/051b00/21892227.pdf)](https://files.diariodarepublica.pt/1s/2005/03/051b00/21892227.pdf)](https://files.diariodarepublica.pt/1s/2005/03/051b00/21892227.pdf)](https://files.diariodarepublica.pt/1s/2005/03/051b00/21892227.pdf)](https://files.diariodarepublica.pt/1s/2005/03/051b00/21892227.pdf)](https://files.diariodarepublica.pt/1s/2005/03/051b00/21892227.pdf)](https://files.diariodarepublica.pt/1s/2005/03/051b00/21892227.pdf)](https://files.diariodarepublica.pt/1s/2005/03/051b00/21892227.pdf)](https://files.diariodarepublica.pt/1s/2005/03/051b00/21892227.pdf)](https://files.diariodarepublica.pt/1s/2005/03/051b00/21892227.pdf)](https://files.diariodarepublica.pt/1s/2005/03/051b00/21892227.pdf)](https://files.diariodarepublica.pt/1s/2005/03/051b00/21892227.pdf)](https://files.diariodarepublica.pt/1s/2005/03/051b00/21892227.pdf)](https://files.diariodarepublica.pt/1s/2005/03/051b00/21892227.pdf)](https://files.diariodarepublica.pt/1s/2005/03/051b00/21892227.pdf)](https://files.diariodarepublica.pt/1s/2005/03/051b00/21892227.pdf)](https://files.diariodarepublica.pt/1s/2005/03/051b00/21892227.pdf)](https://files.diariodarepublica.pt/1s/2005/03/051b00/21892227.pdf)](https://files.diariodarepublica.pt/1s/2005/03/051b00/21892227.pdf)](https://files.diariodarepublica.pt/1s/2005/03/051b00/21892227.pdf)](https://files.diariodarepublica.pt/1s/2005/03/051b00/21892227.pdf)](https://files.diariodarepublica.pt/1s/2005/03/051b00/21892227.pdf)
 
 ## ANEXO N.º 7 — Itinerário referência n.º 6 - Mecanização agrícola (1) (nível 2)
 
@@ -635,7 +671,7 @@ Itinerário referência n.º 6 - Mecanização agrícola (1) (nível 2)
 
 Saída profissional - Operador(a) de máquinas agrícolas
 
-[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2005/03/051b00/21892227.pdf)
+[[[[[[[[[[[[[[[[[[[[[[[[[[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2005/03/051b00/21892227.pdf)](https://files.diariodarepublica.pt/1s/2005/03/051b00/21892227.pdf)](https://files.diariodarepublica.pt/1s/2005/03/051b00/21892227.pdf)](https://files.diariodarepublica.pt/1s/2005/03/051b00/21892227.pdf)](https://files.diariodarepublica.pt/1s/2005/03/051b00/21892227.pdf)](https://files.diariodarepublica.pt/1s/2005/03/051b00/21892227.pdf)](https://files.diariodarepublica.pt/1s/2005/03/051b00/21892227.pdf)](https://files.diariodarepublica.pt/1s/2005/03/051b00/21892227.pdf)](https://files.diariodarepublica.pt/1s/2005/03/051b00/21892227.pdf)](https://files.diariodarepublica.pt/1s/2005/03/051b00/21892227.pdf)](https://files.diariodarepublica.pt/1s/2005/03/051b00/21892227.pdf)](https://files.diariodarepublica.pt/1s/2005/03/051b00/21892227.pdf)](https://files.diariodarepublica.pt/1s/2005/03/051b00/21892227.pdf)](https://files.diariodarepublica.pt/1s/2005/03/051b00/21892227.pdf)](https://files.diariodarepublica.pt/1s/2005/03/051b00/21892227.pdf)](https://files.diariodarepublica.pt/1s/2005/03/051b00/21892227.pdf)](https://files.diariodarepublica.pt/1s/2005/03/051b00/21892227.pdf)](https://files.diariodarepublica.pt/1s/2005/03/051b00/21892227.pdf)](https://files.diariodarepublica.pt/1s/2005/03/051b00/21892227.pdf)](https://files.diariodarepublica.pt/1s/2005/03/051b00/21892227.pdf)](https://files.diariodarepublica.pt/1s/2005/03/051b00/21892227.pdf)](https://files.diariodarepublica.pt/1s/2005/03/051b00/21892227.pdf)](https://files.diariodarepublica.pt/1s/2005/03/051b00/21892227.pdf)](https://files.diariodarepublica.pt/1s/2005/03/051b00/21892227.pdf)](https://files.diariodarepublica.pt/1s/2005/03/051b00/21892227.pdf)](https://files.diariodarepublica.pt/1s/2005/03/051b00/21892227.pdf)
 
 ## ANEXO N.º 8 — Itinerário referência n.º 7 - Mecanização agrícola (2) (nível 2)
 
@@ -667,7 +703,7 @@ Itinerário referência n.º 7 - Mecanização agrícola (2) (nível 2)
 
 Saída profissional - Operador(a) de máquinas agrícolas
 
-[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2005/03/051b00/21892227.pdf)
+[[[[[[[[[[[[[[[[[[[[[[[[[[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2005/03/051b00/21892227.pdf)](https://files.diariodarepublica.pt/1s/2005/03/051b00/21892227.pdf)](https://files.diariodarepublica.pt/1s/2005/03/051b00/21892227.pdf)](https://files.diariodarepublica.pt/1s/2005/03/051b00/21892227.pdf)](https://files.diariodarepublica.pt/1s/2005/03/051b00/21892227.pdf)](https://files.diariodarepublica.pt/1s/2005/03/051b00/21892227.pdf)](https://files.diariodarepublica.pt/1s/2005/03/051b00/21892227.pdf)](https://files.diariodarepublica.pt/1s/2005/03/051b00/21892227.pdf)](https://files.diariodarepublica.pt/1s/2005/03/051b00/21892227.pdf)](https://files.diariodarepublica.pt/1s/2005/03/051b00/21892227.pdf)](https://files.diariodarepublica.pt/1s/2005/03/051b00/21892227.pdf)](https://files.diariodarepublica.pt/1s/2005/03/051b00/21892227.pdf)](https://files.diariodarepublica.pt/1s/2005/03/051b00/21892227.pdf)](https://files.diariodarepublica.pt/1s/2005/03/051b00/21892227.pdf)](https://files.diariodarepublica.pt/1s/2005/03/051b00/21892227.pdf)](https://files.diariodarepublica.pt/1s/2005/03/051b00/21892227.pdf)](https://files.diariodarepublica.pt/1s/2005/03/051b00/21892227.pdf)](https://files.diariodarepublica.pt/1s/2005/03/051b00/21892227.pdf)](https://files.diariodarepublica.pt/1s/2005/03/051b00/21892227.pdf)](https://files.diariodarepublica.pt/1s/2005/03/051b00/21892227.pdf)](https://files.diariodarepublica.pt/1s/2005/03/051b00/21892227.pdf)](https://files.diariodarepublica.pt/1s/2005/03/051b00/21892227.pdf)](https://files.diariodarepublica.pt/1s/2005/03/051b00/21892227.pdf)](https://files.diariodarepublica.pt/1s/2005/03/051b00/21892227.pdf)](https://files.diariodarepublica.pt/1s/2005/03/051b00/21892227.pdf)](https://files.diariodarepublica.pt/1s/2005/03/051b00/21892227.pdf)
 
 ## ANEXO N.º 9 — Itinerário referência n.º 8 - Maneio de equinos (1) (nível 2)
 
@@ -709,7 +745,7 @@ Saída profissional - Operador(a) em equinicultura [tratador(a) de gado equino] 
 
 (nota *) Abrange as competências comuns às quatro saídas profissionais do operador de pecuária e competências específicas na área equinicultura (nível 2)
 
-[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2005/03/051b00/21892227.pdf)
+[[[[[[[[[[[[[[[[[[[[[[[[[[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2005/03/051b00/21892227.pdf)](https://files.diariodarepublica.pt/1s/2005/03/051b00/21892227.pdf)](https://files.diariodarepublica.pt/1s/2005/03/051b00/21892227.pdf)](https://files.diariodarepublica.pt/1s/2005/03/051b00/21892227.pdf)](https://files.diariodarepublica.pt/1s/2005/03/051b00/21892227.pdf)](https://files.diariodarepublica.pt/1s/2005/03/051b00/21892227.pdf)](https://files.diariodarepublica.pt/1s/2005/03/051b00/21892227.pdf)](https://files.diariodarepublica.pt/1s/2005/03/051b00/21892227.pdf)](https://files.diariodarepublica.pt/1s/2005/03/051b00/21892227.pdf)](https://files.diariodarepublica.pt/1s/2005/03/051b00/21892227.pdf)](https://files.diariodarepublica.pt/1s/2005/03/051b00/21892227.pdf)](https://files.diariodarepublica.pt/1s/2005/03/051b00/21892227.pdf)](https://files.diariodarepublica.pt/1s/2005/03/051b00/21892227.pdf)](https://files.diariodarepublica.pt/1s/2005/03/051b00/21892227.pdf)](https://files.diariodarepublica.pt/1s/2005/03/051b00/21892227.pdf)](https://files.diariodarepublica.pt/1s/2005/03/051b00/21892227.pdf)](https://files.diariodarepublica.pt/1s/2005/03/051b00/21892227.pdf)](https://files.diariodarepublica.pt/1s/2005/03/051b00/21892227.pdf)](https://files.diariodarepublica.pt/1s/2005/03/051b00/21892227.pdf)](https://files.diariodarepublica.pt/1s/2005/03/051b00/21892227.pdf)](https://files.diariodarepublica.pt/1s/2005/03/051b00/21892227.pdf)](https://files.diariodarepublica.pt/1s/2005/03/051b00/21892227.pdf)](https://files.diariodarepublica.pt/1s/2005/03/051b00/21892227.pdf)](https://files.diariodarepublica.pt/1s/2005/03/051b00/21892227.pdf)](https://files.diariodarepublica.pt/1s/2005/03/051b00/21892227.pdf)](https://files.diariodarepublica.pt/1s/2005/03/051b00/21892227.pdf)
 
 ## ANEXO N.º 10 — Itinerário referência n.º 9 - Maneio de equinos (2) (nível 2)
 
@@ -749,7 +785,7 @@ Saída profissional - Operador(a) em equinicultura [tratador(a) de gado equino] 
 
 (nota *) Abrange as competências comuns às quatro saídas profissionais do operador de pecuária e competências específicas na área da equinicultura (nível 2).
 
-[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2005/03/051b00/21892227.pdf)
+[[[[[[[[[[[[[[[[[[[[[[[[[[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2005/03/051b00/21892227.pdf)](https://files.diariodarepublica.pt/1s/2005/03/051b00/21892227.pdf)](https://files.diariodarepublica.pt/1s/2005/03/051b00/21892227.pdf)](https://files.diariodarepublica.pt/1s/2005/03/051b00/21892227.pdf)](https://files.diariodarepublica.pt/1s/2005/03/051b00/21892227.pdf)](https://files.diariodarepublica.pt/1s/2005/03/051b00/21892227.pdf)](https://files.diariodarepublica.pt/1s/2005/03/051b00/21892227.pdf)](https://files.diariodarepublica.pt/1s/2005/03/051b00/21892227.pdf)](https://files.diariodarepublica.pt/1s/2005/03/051b00/21892227.pdf)](https://files.diariodarepublica.pt/1s/2005/03/051b00/21892227.pdf)](https://files.diariodarepublica.pt/1s/2005/03/051b00/21892227.pdf)](https://files.diariodarepublica.pt/1s/2005/03/051b00/21892227.pdf)](https://files.diariodarepublica.pt/1s/2005/03/051b00/21892227.pdf)](https://files.diariodarepublica.pt/1s/2005/03/051b00/21892227.pdf)](https://files.diariodarepublica.pt/1s/2005/03/051b00/21892227.pdf)](https://files.diariodarepublica.pt/1s/2005/03/051b00/21892227.pdf)](https://files.diariodarepublica.pt/1s/2005/03/051b00/21892227.pdf)](https://files.diariodarepublica.pt/1s/2005/03/051b00/21892227.pdf)](https://files.diariodarepublica.pt/1s/2005/03/051b00/21892227.pdf)](https://files.diariodarepublica.pt/1s/2005/03/051b00/21892227.pdf)](https://files.diariodarepublica.pt/1s/2005/03/051b00/21892227.pdf)](https://files.diariodarepublica.pt/1s/2005/03/051b00/21892227.pdf)](https://files.diariodarepublica.pt/1s/2005/03/051b00/21892227.pdf)](https://files.diariodarepublica.pt/1s/2005/03/051b00/21892227.pdf)](https://files.diariodarepublica.pt/1s/2005/03/051b00/21892227.pdf)](https://files.diariodarepublica.pt/1s/2005/03/051b00/21892227.pdf)
 
 ## ANEXO N.º 11 — Itinerário referência n.º 10 - Técnicas de produção agrícola (1) (nível 3)
 
@@ -785,7 +821,7 @@ Itinerário referência n.º 10 - Técnicas de produção agrícola (1) (nível 
 
 Saída profissional - Técnico(a) agrícola
 
-[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2005/03/051b00/21892227.pdf)
+[[[[[[[[[[[[[[[[[[[[[[[[[[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2005/03/051b00/21892227.pdf)](https://files.diariodarepublica.pt/1s/2005/03/051b00/21892227.pdf)](https://files.diariodarepublica.pt/1s/2005/03/051b00/21892227.pdf)](https://files.diariodarepublica.pt/1s/2005/03/051b00/21892227.pdf)](https://files.diariodarepublica.pt/1s/2005/03/051b00/21892227.pdf)](https://files.diariodarepublica.pt/1s/2005/03/051b00/21892227.pdf)](https://files.diariodarepublica.pt/1s/2005/03/051b00/21892227.pdf)](https://files.diariodarepublica.pt/1s/2005/03/051b00/21892227.pdf)](https://files.diariodarepublica.pt/1s/2005/03/051b00/21892227.pdf)](https://files.diariodarepublica.pt/1s/2005/03/051b00/21892227.pdf)](https://files.diariodarepublica.pt/1s/2005/03/051b00/21892227.pdf)](https://files.diariodarepublica.pt/1s/2005/03/051b00/21892227.pdf)](https://files.diariodarepublica.pt/1s/2005/03/051b00/21892227.pdf)](https://files.diariodarepublica.pt/1s/2005/03/051b00/21892227.pdf)](https://files.diariodarepublica.pt/1s/2005/03/051b00/21892227.pdf)](https://files.diariodarepublica.pt/1s/2005/03/051b00/21892227.pdf)](https://files.diariodarepublica.pt/1s/2005/03/051b00/21892227.pdf)](https://files.diariodarepublica.pt/1s/2005/03/051b00/21892227.pdf)](https://files.diariodarepublica.pt/1s/2005/03/051b00/21892227.pdf)](https://files.diariodarepublica.pt/1s/2005/03/051b00/21892227.pdf)](https://files.diariodarepublica.pt/1s/2005/03/051b00/21892227.pdf)](https://files.diariodarepublica.pt/1s/2005/03/051b00/21892227.pdf)](https://files.diariodarepublica.pt/1s/2005/03/051b00/21892227.pdf)](https://files.diariodarepublica.pt/1s/2005/03/051b00/21892227.pdf)](https://files.diariodarepublica.pt/1s/2005/03/051b00/21892227.pdf)](https://files.diariodarepublica.pt/1s/2005/03/051b00/21892227.pdf)
 
 ## ANEXO N.º 12 — Itinerário referência n.º 11 - Técnicas de produção agrícola (2) (nível 3)
 
@@ -819,7 +855,7 @@ Itinerário referência n.º 11 - Técnicas de produção agrícola (2) (nível 
 
 Saída profissional - Técnico(a) agrícola
 
-[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2005/03/051b00/21892227.pdf)
+[[[[[[[[[[[[[[[[[[[[[[[[[[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2005/03/051b00/21892227.pdf)](https://files.diariodarepublica.pt/1s/2005/03/051b00/21892227.pdf)](https://files.diariodarepublica.pt/1s/2005/03/051b00/21892227.pdf)](https://files.diariodarepublica.pt/1s/2005/03/051b00/21892227.pdf)](https://files.diariodarepublica.pt/1s/2005/03/051b00/21892227.pdf)](https://files.diariodarepublica.pt/1s/2005/03/051b00/21892227.pdf)](https://files.diariodarepublica.pt/1s/2005/03/051b00/21892227.pdf)](https://files.diariodarepublica.pt/1s/2005/03/051b00/21892227.pdf)](https://files.diariodarepublica.pt/1s/2005/03/051b00/21892227.pdf)](https://files.diariodarepublica.pt/1s/2005/03/051b00/21892227.pdf)](https://files.diariodarepublica.pt/1s/2005/03/051b00/21892227.pdf)](https://files.diariodarepublica.pt/1s/2005/03/051b00/21892227.pdf)](https://files.diariodarepublica.pt/1s/2005/03/051b00/21892227.pdf)](https://files.diariodarepublica.pt/1s/2005/03/051b00/21892227.pdf)](https://files.diariodarepublica.pt/1s/2005/03/051b00/21892227.pdf)](https://files.diariodarepublica.pt/1s/2005/03/051b00/21892227.pdf)](https://files.diariodarepublica.pt/1s/2005/03/051b00/21892227.pdf)](https://files.diariodarepublica.pt/1s/2005/03/051b00/21892227.pdf)](https://files.diariodarepublica.pt/1s/2005/03/051b00/21892227.pdf)](https://files.diariodarepublica.pt/1s/2005/03/051b00/21892227.pdf)](https://files.diariodarepublica.pt/1s/2005/03/051b00/21892227.pdf)](https://files.diariodarepublica.pt/1s/2005/03/051b00/21892227.pdf)](https://files.diariodarepublica.pt/1s/2005/03/051b00/21892227.pdf)](https://files.diariodarepublica.pt/1s/2005/03/051b00/21892227.pdf)](https://files.diariodarepublica.pt/1s/2005/03/051b00/21892227.pdf)](https://files.diariodarepublica.pt/1s/2005/03/051b00/21892227.pdf)
 
 ## ANEXO N.º 13 — Itinerário referência n.º 12 - Técnicas de produção vitivinícola (1) (nível 3)
 
@@ -857,7 +893,7 @@ Itinerário referência n.º 12 - Técnicas de produção vitivinícola (1) (ní
 
 Saída profissional - Técnico(a) vitivinícola
 
-[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2005/03/051b00/21892227.pdf)
+[[[[[[[[[[[[[[[[[[[[[[[[[[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2005/03/051b00/21892227.pdf)](https://files.diariodarepublica.pt/1s/2005/03/051b00/21892227.pdf)](https://files.diariodarepublica.pt/1s/2005/03/051b00/21892227.pdf)](https://files.diariodarepublica.pt/1s/2005/03/051b00/21892227.pdf)](https://files.diariodarepublica.pt/1s/2005/03/051b00/21892227.pdf)](https://files.diariodarepublica.pt/1s/2005/03/051b00/21892227.pdf)](https://files.diariodarepublica.pt/1s/2005/03/051b00/21892227.pdf)](https://files.diariodarepublica.pt/1s/2005/03/051b00/21892227.pdf)](https://files.diariodarepublica.pt/1s/2005/03/051b00/21892227.pdf)](https://files.diariodarepublica.pt/1s/2005/03/051b00/21892227.pdf)](https://files.diariodarepublica.pt/1s/2005/03/051b00/21892227.pdf)](https://files.diariodarepublica.pt/1s/2005/03/051b00/21892227.pdf)](https://files.diariodarepublica.pt/1s/2005/03/051b00/21892227.pdf)](https://files.diariodarepublica.pt/1s/2005/03/051b00/21892227.pdf)](https://files.diariodarepublica.pt/1s/2005/03/051b00/21892227.pdf)](https://files.diariodarepublica.pt/1s/2005/03/051b00/21892227.pdf)](https://files.diariodarepublica.pt/1s/2005/03/051b00/21892227.pdf)](https://files.diariodarepublica.pt/1s/2005/03/051b00/21892227.pdf)](https://files.diariodarepublica.pt/1s/2005/03/051b00/21892227.pdf)](https://files.diariodarepublica.pt/1s/2005/03/051b00/21892227.pdf)](https://files.diariodarepublica.pt/1s/2005/03/051b00/21892227.pdf)](https://files.diariodarepublica.pt/1s/2005/03/051b00/21892227.pdf)](https://files.diariodarepublica.pt/1s/2005/03/051b00/21892227.pdf)](https://files.diariodarepublica.pt/1s/2005/03/051b00/21892227.pdf)](https://files.diariodarepublica.pt/1s/2005/03/051b00/21892227.pdf)](https://files.diariodarepublica.pt/1s/2005/03/051b00/21892227.pdf)
 
 ## ANEXO N.º 14 — Itinerário referência n.º 13 - Técnicas de produção vitivinícola (2) (nível 3)
 
@@ -893,7 +929,7 @@ Itinerário referência n.º 13 - Técnicas de produção vitivinícola (2) (ní
 
 Saída profissional - Técnico(a) vitivinícola
 
-[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2005/03/051b00/21892227.pdf)
+[[[[[[[[[[[[[[[[[[[[[[[[[[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2005/03/051b00/21892227.pdf)](https://files.diariodarepublica.pt/1s/2005/03/051b00/21892227.pdf)](https://files.diariodarepublica.pt/1s/2005/03/051b00/21892227.pdf)](https://files.diariodarepublica.pt/1s/2005/03/051b00/21892227.pdf)](https://files.diariodarepublica.pt/1s/2005/03/051b00/21892227.pdf)](https://files.diariodarepublica.pt/1s/2005/03/051b00/21892227.pdf)](https://files.diariodarepublica.pt/1s/2005/03/051b00/21892227.pdf)](https://files.diariodarepublica.pt/1s/2005/03/051b00/21892227.pdf)](https://files.diariodarepublica.pt/1s/2005/03/051b00/21892227.pdf)](https://files.diariodarepublica.pt/1s/2005/03/051b00/21892227.pdf)](https://files.diariodarepublica.pt/1s/2005/03/051b00/21892227.pdf)](https://files.diariodarepublica.pt/1s/2005/03/051b00/21892227.pdf)](https://files.diariodarepublica.pt/1s/2005/03/051b00/21892227.pdf)](https://files.diariodarepublica.pt/1s/2005/03/051b00/21892227.pdf)](https://files.diariodarepublica.pt/1s/2005/03/051b00/21892227.pdf)](https://files.diariodarepublica.pt/1s/2005/03/051b00/21892227.pdf)](https://files.diariodarepublica.pt/1s/2005/03/051b00/21892227.pdf)](https://files.diariodarepublica.pt/1s/2005/03/051b00/21892227.pdf)](https://files.diariodarepublica.pt/1s/2005/03/051b00/21892227.pdf)](https://files.diariodarepublica.pt/1s/2005/03/051b00/21892227.pdf)](https://files.diariodarepublica.pt/1s/2005/03/051b00/21892227.pdf)](https://files.diariodarepublica.pt/1s/2005/03/051b00/21892227.pdf)](https://files.diariodarepublica.pt/1s/2005/03/051b00/21892227.pdf)](https://files.diariodarepublica.pt/1s/2005/03/051b00/21892227.pdf)](https://files.diariodarepublica.pt/1s/2005/03/051b00/21892227.pdf)](https://files.diariodarepublica.pt/1s/2005/03/051b00/21892227.pdf)
 
 ## ANEXO N.º 15 — Itinerário referência n.º 14 - Técnicas de produção pecuária (1) (nível 3)
 
@@ -929,7 +965,7 @@ Itinerário referência n.º 14 - Técnicas de produção pecuária (1) (nível 
 
 Saída profissional - Técnico(a) de pecuária
 
-[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2005/03/051b00/21892227.pdf)
+[[[[[[[[[[[[[[[[[[[[[[[[[[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2005/03/051b00/21892227.pdf)](https://files.diariodarepublica.pt/1s/2005/03/051b00/21892227.pdf)](https://files.diariodarepublica.pt/1s/2005/03/051b00/21892227.pdf)](https://files.diariodarepublica.pt/1s/2005/03/051b00/21892227.pdf)](https://files.diariodarepublica.pt/1s/2005/03/051b00/21892227.pdf)](https://files.diariodarepublica.pt/1s/2005/03/051b00/21892227.pdf)](https://files.diariodarepublica.pt/1s/2005/03/051b00/21892227.pdf)](https://files.diariodarepublica.pt/1s/2005/03/051b00/21892227.pdf)](https://files.diariodarepublica.pt/1s/2005/03/051b00/21892227.pdf)](https://files.diariodarepublica.pt/1s/2005/03/051b00/21892227.pdf)](https://files.diariodarepublica.pt/1s/2005/03/051b00/21892227.pdf)](https://files.diariodarepublica.pt/1s/2005/03/051b00/21892227.pdf)](https://files.diariodarepublica.pt/1s/2005/03/051b00/21892227.pdf)](https://files.diariodarepublica.pt/1s/2005/03/051b00/21892227.pdf)](https://files.diariodarepublica.pt/1s/2005/03/051b00/21892227.pdf)](https://files.diariodarepublica.pt/1s/2005/03/051b00/21892227.pdf)](https://files.diariodarepublica.pt/1s/2005/03/051b00/21892227.pdf)](https://files.diariodarepublica.pt/1s/2005/03/051b00/21892227.pdf)](https://files.diariodarepublica.pt/1s/2005/03/051b00/21892227.pdf)](https://files.diariodarepublica.pt/1s/2005/03/051b00/21892227.pdf)](https://files.diariodarepublica.pt/1s/2005/03/051b00/21892227.pdf)](https://files.diariodarepublica.pt/1s/2005/03/051b00/21892227.pdf)](https://files.diariodarepublica.pt/1s/2005/03/051b00/21892227.pdf)](https://files.diariodarepublica.pt/1s/2005/03/051b00/21892227.pdf)](https://files.diariodarepublica.pt/1s/2005/03/051b00/21892227.pdf)](https://files.diariodarepublica.pt/1s/2005/03/051b00/21892227.pdf)
 
 ## ANEXO N.º 16 — Itinerário referência n.º 15 - Técnicas de produção pecuária (2) (nível 3)
 
@@ -963,7 +999,7 @@ Itinerário referência n.º 15 - Técnicas de produção pecuária (2) (nível 
 
 Saída profissional - Técnico(a) de pecuária
 
-[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2005/03/051b00/21892227.pdf)
+[[[[[[[[[[[[[[[[[[[[[[[[[[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2005/03/051b00/21892227.pdf)](https://files.diariodarepublica.pt/1s/2005/03/051b00/21892227.pdf)](https://files.diariodarepublica.pt/1s/2005/03/051b00/21892227.pdf)](https://files.diariodarepublica.pt/1s/2005/03/051b00/21892227.pdf)](https://files.diariodarepublica.pt/1s/2005/03/051b00/21892227.pdf)](https://files.diariodarepublica.pt/1s/2005/03/051b00/21892227.pdf)](https://files.diariodarepublica.pt/1s/2005/03/051b00/21892227.pdf)](https://files.diariodarepublica.pt/1s/2005/03/051b00/21892227.pdf)](https://files.diariodarepublica.pt/1s/2005/03/051b00/21892227.pdf)](https://files.diariodarepublica.pt/1s/2005/03/051b00/21892227.pdf)](https://files.diariodarepublica.pt/1s/2005/03/051b00/21892227.pdf)](https://files.diariodarepublica.pt/1s/2005/03/051b00/21892227.pdf)](https://files.diariodarepublica.pt/1s/2005/03/051b00/21892227.pdf)](https://files.diariodarepublica.pt/1s/2005/03/051b00/21892227.pdf)](https://files.diariodarepublica.pt/1s/2005/03/051b00/21892227.pdf)](https://files.diariodarepublica.pt/1s/2005/03/051b00/21892227.pdf)](https://files.diariodarepublica.pt/1s/2005/03/051b00/21892227.pdf)](https://files.diariodarepublica.pt/1s/2005/03/051b00/21892227.pdf)](https://files.diariodarepublica.pt/1s/2005/03/051b00/21892227.pdf)](https://files.diariodarepublica.pt/1s/2005/03/051b00/21892227.pdf)](https://files.diariodarepublica.pt/1s/2005/03/051b00/21892227.pdf)](https://files.diariodarepublica.pt/1s/2005/03/051b00/21892227.pdf)](https://files.diariodarepublica.pt/1s/2005/03/051b00/21892227.pdf)](https://files.diariodarepublica.pt/1s/2005/03/051b00/21892227.pdf)](https://files.diariodarepublica.pt/1s/2005/03/051b00/21892227.pdf)](https://files.diariodarepublica.pt/1s/2005/03/051b00/21892227.pdf)
 
 ## ANEXO N.º 17 — Itinerário referência n.º 16 - Gestão da empresa agrícola (nível 4)
 
@@ -999,7 +1035,7 @@ Itinerário referência n.º 16 - Gestão da empresa agrícola (nível 4)
 
 Saída profissional - Técnico(a) especializado(a) em gestão agrícola
 
-[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2005/03/051b00/21892227.pdf)
+[[[[[[[[[[[[[[[[[[[[[[[[[[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2005/03/051b00/21892227.pdf)](https://files.diariodarepublica.pt/1s/2005/03/051b00/21892227.pdf)](https://files.diariodarepublica.pt/1s/2005/03/051b00/21892227.pdf)](https://files.diariodarepublica.pt/1s/2005/03/051b00/21892227.pdf)](https://files.diariodarepublica.pt/1s/2005/03/051b00/21892227.pdf)](https://files.diariodarepublica.pt/1s/2005/03/051b00/21892227.pdf)](https://files.diariodarepublica.pt/1s/2005/03/051b00/21892227.pdf)](https://files.diariodarepublica.pt/1s/2005/03/051b00/21892227.pdf)](https://files.diariodarepublica.pt/1s/2005/03/051b00/21892227.pdf)](https://files.diariodarepublica.pt/1s/2005/03/051b00/21892227.pdf)](https://files.diariodarepublica.pt/1s/2005/03/051b00/21892227.pdf)](https://files.diariodarepublica.pt/1s/2005/03/051b00/21892227.pdf)](https://files.diariodarepublica.pt/1s/2005/03/051b00/21892227.pdf)](https://files.diariodarepublica.pt/1s/2005/03/051b00/21892227.pdf)](https://files.diariodarepublica.pt/1s/2005/03/051b00/21892227.pdf)](https://files.diariodarepublica.pt/1s/2005/03/051b00/21892227.pdf)](https://files.diariodarepublica.pt/1s/2005/03/051b00/21892227.pdf)](https://files.diariodarepublica.pt/1s/2005/03/051b00/21892227.pdf)](https://files.diariodarepublica.pt/1s/2005/03/051b00/21892227.pdf)](https://files.diariodarepublica.pt/1s/2005/03/051b00/21892227.pdf)](https://files.diariodarepublica.pt/1s/2005/03/051b00/21892227.pdf)](https://files.diariodarepublica.pt/1s/2005/03/051b00/21892227.pdf)](https://files.diariodarepublica.pt/1s/2005/03/051b00/21892227.pdf)](https://files.diariodarepublica.pt/1s/2005/03/051b00/21892227.pdf)](https://files.diariodarepublica.pt/1s/2005/03/051b00/21892227.pdf)](https://files.diariodarepublica.pt/1s/2005/03/051b00/21892227.pdf)
 
 ## ANEXO N.º 18 — Itinerário referência n.º 17 - Práticas de jardinagem e floricultura (nível 1)
 
@@ -1031,7 +1067,7 @@ Referencial Curricular
 
 Itinerário referência n.º 17 - Práticas de jardinagem e floricultura (nível 1)
 
-[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2005/03/051b00/21892227.pdf)
+[[[[[[[[[[[[[[[[[[[[[[[[[[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2005/03/051b00/21892227.pdf)](https://files.diariodarepublica.pt/1s/2005/03/051b00/21892227.pdf)](https://files.diariodarepublica.pt/1s/2005/03/051b00/21892227.pdf)](https://files.diariodarepublica.pt/1s/2005/03/051b00/21892227.pdf)](https://files.diariodarepublica.pt/1s/2005/03/051b00/21892227.pdf)](https://files.diariodarepublica.pt/1s/2005/03/051b00/21892227.pdf)](https://files.diariodarepublica.pt/1s/2005/03/051b00/21892227.pdf)](https://files.diariodarepublica.pt/1s/2005/03/051b00/21892227.pdf)](https://files.diariodarepublica.pt/1s/2005/03/051b00/21892227.pdf)](https://files.diariodarepublica.pt/1s/2005/03/051b00/21892227.pdf)](https://files.diariodarepublica.pt/1s/2005/03/051b00/21892227.pdf)](https://files.diariodarepublica.pt/1s/2005/03/051b00/21892227.pdf)](https://files.diariodarepublica.pt/1s/2005/03/051b00/21892227.pdf)](https://files.diariodarepublica.pt/1s/2005/03/051b00/21892227.pdf)](https://files.diariodarepublica.pt/1s/2005/03/051b00/21892227.pdf)](https://files.diariodarepublica.pt/1s/2005/03/051b00/21892227.pdf)](https://files.diariodarepublica.pt/1s/2005/03/051b00/21892227.pdf)](https://files.diariodarepublica.pt/1s/2005/03/051b00/21892227.pdf)](https://files.diariodarepublica.pt/1s/2005/03/051b00/21892227.pdf)](https://files.diariodarepublica.pt/1s/2005/03/051b00/21892227.pdf)](https://files.diariodarepublica.pt/1s/2005/03/051b00/21892227.pdf)](https://files.diariodarepublica.pt/1s/2005/03/051b00/21892227.pdf)](https://files.diariodarepublica.pt/1s/2005/03/051b00/21892227.pdf)](https://files.diariodarepublica.pt/1s/2005/03/051b00/21892227.pdf)](https://files.diariodarepublica.pt/1s/2005/03/051b00/21892227.pdf)](https://files.diariodarepublica.pt/1s/2005/03/051b00/21892227.pdf)
 
 ## ANEXO N.º 19 — Itinerário referência n.º 18 - Jardinagem e floricultura (1) (nível 2)
 
@@ -1069,7 +1105,7 @@ Itinerário referência n.º 18 - Jardinagem e floricultura (1) (nível 2)
 
 Saída profissional - Operador(a) de jardinagem e floricultura
 
-[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2005/03/051b00/21892227.pdf)
+[[[[[[[[[[[[[[[[[[[[[[[[[[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2005/03/051b00/21892227.pdf)](https://files.diariodarepublica.pt/1s/2005/03/051b00/21892227.pdf)](https://files.diariodarepublica.pt/1s/2005/03/051b00/21892227.pdf)](https://files.diariodarepublica.pt/1s/2005/03/051b00/21892227.pdf)](https://files.diariodarepublica.pt/1s/2005/03/051b00/21892227.pdf)](https://files.diariodarepublica.pt/1s/2005/03/051b00/21892227.pdf)](https://files.diariodarepublica.pt/1s/2005/03/051b00/21892227.pdf)](https://files.diariodarepublica.pt/1s/2005/03/051b00/21892227.pdf)](https://files.diariodarepublica.pt/1s/2005/03/051b00/21892227.pdf)](https://files.diariodarepublica.pt/1s/2005/03/051b00/21892227.pdf)](https://files.diariodarepublica.pt/1s/2005/03/051b00/21892227.pdf)](https://files.diariodarepublica.pt/1s/2005/03/051b00/21892227.pdf)](https://files.diariodarepublica.pt/1s/2005/03/051b00/21892227.pdf)](https://files.diariodarepublica.pt/1s/2005/03/051b00/21892227.pdf)](https://files.diariodarepublica.pt/1s/2005/03/051b00/21892227.pdf)](https://files.diariodarepublica.pt/1s/2005/03/051b00/21892227.pdf)](https://files.diariodarepublica.pt/1s/2005/03/051b00/21892227.pdf)](https://files.diariodarepublica.pt/1s/2005/03/051b00/21892227.pdf)](https://files.diariodarepublica.pt/1s/2005/03/051b00/21892227.pdf)](https://files.diariodarepublica.pt/1s/2005/03/051b00/21892227.pdf)](https://files.diariodarepublica.pt/1s/2005/03/051b00/21892227.pdf)](https://files.diariodarepublica.pt/1s/2005/03/051b00/21892227.pdf)](https://files.diariodarepublica.pt/1s/2005/03/051b00/21892227.pdf)](https://files.diariodarepublica.pt/1s/2005/03/051b00/21892227.pdf)](https://files.diariodarepublica.pt/1s/2005/03/051b00/21892227.pdf)](https://files.diariodarepublica.pt/1s/2005/03/051b00/21892227.pdf)
 
 ## ANEXO N.º 20 — Itinerário referência n.º 19 - Jardinagem e floricultura (2) (nível 2)
 
@@ -1105,7 +1141,7 @@ Itinerário referência n.º 19 - Jardinagem e floricultura (2) (nível 2)
 
 Saída profissional: Operador(a) de jardinagem e floricultura
 
-[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2005/03/051b00/21892227.pdf)
+[[[[[[[[[[[[[[[[[[[[[[[[[[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2005/03/051b00/21892227.pdf)](https://files.diariodarepublica.pt/1s/2005/03/051b00/21892227.pdf)](https://files.diariodarepublica.pt/1s/2005/03/051b00/21892227.pdf)](https://files.diariodarepublica.pt/1s/2005/03/051b00/21892227.pdf)](https://files.diariodarepublica.pt/1s/2005/03/051b00/21892227.pdf)](https://files.diariodarepublica.pt/1s/2005/03/051b00/21892227.pdf)](https://files.diariodarepublica.pt/1s/2005/03/051b00/21892227.pdf)](https://files.diariodarepublica.pt/1s/2005/03/051b00/21892227.pdf)](https://files.diariodarepublica.pt/1s/2005/03/051b00/21892227.pdf)](https://files.diariodarepublica.pt/1s/2005/03/051b00/21892227.pdf)](https://files.diariodarepublica.pt/1s/2005/03/051b00/21892227.pdf)](https://files.diariodarepublica.pt/1s/2005/03/051b00/21892227.pdf)](https://files.diariodarepublica.pt/1s/2005/03/051b00/21892227.pdf)](https://files.diariodarepublica.pt/1s/2005/03/051b00/21892227.pdf)](https://files.diariodarepublica.pt/1s/2005/03/051b00/21892227.pdf)](https://files.diariodarepublica.pt/1s/2005/03/051b00/21892227.pdf)](https://files.diariodarepublica.pt/1s/2005/03/051b00/21892227.pdf)](https://files.diariodarepublica.pt/1s/2005/03/051b00/21892227.pdf)](https://files.diariodarepublica.pt/1s/2005/03/051b00/21892227.pdf)](https://files.diariodarepublica.pt/1s/2005/03/051b00/21892227.pdf)](https://files.diariodarepublica.pt/1s/2005/03/051b00/21892227.pdf)](https://files.diariodarepublica.pt/1s/2005/03/051b00/21892227.pdf)](https://files.diariodarepublica.pt/1s/2005/03/051b00/21892227.pdf)](https://files.diariodarepublica.pt/1s/2005/03/051b00/21892227.pdf)](https://files.diariodarepublica.pt/1s/2005/03/051b00/21892227.pdf)](https://files.diariodarepublica.pt/1s/2005/03/051b00/21892227.pdf)
 
 ## ANEXO N.º 21 — Itinerário referência n.º 20 - Produção florestal (1) (nível 2)
 
@@ -1139,7 +1175,7 @@ Itinerário referência n.º 20 - Produção florestal (1) (nível 2)
 
 Saída profissional: Operador(a) florestal
 
-[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2005/03/051b00/21892227.pdf)
+[[[[[[[[[[[[[[[[[[[[[[[[[[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2005/03/051b00/21892227.pdf)](https://files.diariodarepublica.pt/1s/2005/03/051b00/21892227.pdf)](https://files.diariodarepublica.pt/1s/2005/03/051b00/21892227.pdf)](https://files.diariodarepublica.pt/1s/2005/03/051b00/21892227.pdf)](https://files.diariodarepublica.pt/1s/2005/03/051b00/21892227.pdf)](https://files.diariodarepublica.pt/1s/2005/03/051b00/21892227.pdf)](https://files.diariodarepublica.pt/1s/2005/03/051b00/21892227.pdf)](https://files.diariodarepublica.pt/1s/2005/03/051b00/21892227.pdf)](https://files.diariodarepublica.pt/1s/2005/03/051b00/21892227.pdf)](https://files.diariodarepublica.pt/1s/2005/03/051b00/21892227.pdf)](https://files.diariodarepublica.pt/1s/2005/03/051b00/21892227.pdf)](https://files.diariodarepublica.pt/1s/2005/03/051b00/21892227.pdf)](https://files.diariodarepublica.pt/1s/2005/03/051b00/21892227.pdf)](https://files.diariodarepublica.pt/1s/2005/03/051b00/21892227.pdf)](https://files.diariodarepublica.pt/1s/2005/03/051b00/21892227.pdf)](https://files.diariodarepublica.pt/1s/2005/03/051b00/21892227.pdf)](https://files.diariodarepublica.pt/1s/2005/03/051b00/21892227.pdf)](https://files.diariodarepublica.pt/1s/2005/03/051b00/21892227.pdf)](https://files.diariodarepublica.pt/1s/2005/03/051b00/21892227.pdf)](https://files.diariodarepublica.pt/1s/2005/03/051b00/21892227.pdf)](https://files.diariodarepublica.pt/1s/2005/03/051b00/21892227.pdf)](https://files.diariodarepublica.pt/1s/2005/03/051b00/21892227.pdf)](https://files.diariodarepublica.pt/1s/2005/03/051b00/21892227.pdf)](https://files.diariodarepublica.pt/1s/2005/03/051b00/21892227.pdf)](https://files.diariodarepublica.pt/1s/2005/03/051b00/21892227.pdf)](https://files.diariodarepublica.pt/1s/2005/03/051b00/21892227.pdf)
 
 ## ANEXO N.º 22 — Itinerário referência n.º 21 - Produção florestal (2) (nível 2)
 
@@ -1171,7 +1207,7 @@ Itinerário referência n.º 21 - Produção florestal (2) (nível 2)
 
 Saída profissional - Operador(a) florestal
 
-[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2005/03/051b00/21892227.pdf)
+[[[[[[[[[[[[[[[[[[[[[[[[[[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2005/03/051b00/21892227.pdf)](https://files.diariodarepublica.pt/1s/2005/03/051b00/21892227.pdf)](https://files.diariodarepublica.pt/1s/2005/03/051b00/21892227.pdf)](https://files.diariodarepublica.pt/1s/2005/03/051b00/21892227.pdf)](https://files.diariodarepublica.pt/1s/2005/03/051b00/21892227.pdf)](https://files.diariodarepublica.pt/1s/2005/03/051b00/21892227.pdf)](https://files.diariodarepublica.pt/1s/2005/03/051b00/21892227.pdf)](https://files.diariodarepublica.pt/1s/2005/03/051b00/21892227.pdf)](https://files.diariodarepublica.pt/1s/2005/03/051b00/21892227.pdf)](https://files.diariodarepublica.pt/1s/2005/03/051b00/21892227.pdf)](https://files.diariodarepublica.pt/1s/2005/03/051b00/21892227.pdf)](https://files.diariodarepublica.pt/1s/2005/03/051b00/21892227.pdf)](https://files.diariodarepublica.pt/1s/2005/03/051b00/21892227.pdf)](https://files.diariodarepublica.pt/1s/2005/03/051b00/21892227.pdf)](https://files.diariodarepublica.pt/1s/2005/03/051b00/21892227.pdf)](https://files.diariodarepublica.pt/1s/2005/03/051b00/21892227.pdf)](https://files.diariodarepublica.pt/1s/2005/03/051b00/21892227.pdf)](https://files.diariodarepublica.pt/1s/2005/03/051b00/21892227.pdf)](https://files.diariodarepublica.pt/1s/2005/03/051b00/21892227.pdf)](https://files.diariodarepublica.pt/1s/2005/03/051b00/21892227.pdf)](https://files.diariodarepublica.pt/1s/2005/03/051b00/21892227.pdf)](https://files.diariodarepublica.pt/1s/2005/03/051b00/21892227.pdf)](https://files.diariodarepublica.pt/1s/2005/03/051b00/21892227.pdf)](https://files.diariodarepublica.pt/1s/2005/03/051b00/21892227.pdf)](https://files.diariodarepublica.pt/1s/2005/03/051b00/21892227.pdf)](https://files.diariodarepublica.pt/1s/2005/03/051b00/21892227.pdf)
 
 ## ANEXO N.º 23 — Itinerário referência n.º 22 - Técnicas florestais (1) (nível 3)
 
@@ -1207,7 +1243,7 @@ Itinerário referência n.º 22 - Técnicas florestais (1) (nível 3)
 
 Saída profissional - Técnico(a) florestal
 
-[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2005/03/051b00/21892227.pdf)
+[[[[[[[[[[[[[[[[[[[[[[[[[[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2005/03/051b00/21892227.pdf)](https://files.diariodarepublica.pt/1s/2005/03/051b00/21892227.pdf)](https://files.diariodarepublica.pt/1s/2005/03/051b00/21892227.pdf)](https://files.diariodarepublica.pt/1s/2005/03/051b00/21892227.pdf)](https://files.diariodarepublica.pt/1s/2005/03/051b00/21892227.pdf)](https://files.diariodarepublica.pt/1s/2005/03/051b00/21892227.pdf)](https://files.diariodarepublica.pt/1s/2005/03/051b00/21892227.pdf)](https://files.diariodarepublica.pt/1s/2005/03/051b00/21892227.pdf)](https://files.diariodarepublica.pt/1s/2005/03/051b00/21892227.pdf)](https://files.diariodarepublica.pt/1s/2005/03/051b00/21892227.pdf)](https://files.diariodarepublica.pt/1s/2005/03/051b00/21892227.pdf)](https://files.diariodarepublica.pt/1s/2005/03/051b00/21892227.pdf)](https://files.diariodarepublica.pt/1s/2005/03/051b00/21892227.pdf)](https://files.diariodarepublica.pt/1s/2005/03/051b00/21892227.pdf)](https://files.diariodarepublica.pt/1s/2005/03/051b00/21892227.pdf)](https://files.diariodarepublica.pt/1s/2005/03/051b00/21892227.pdf)](https://files.diariodarepublica.pt/1s/2005/03/051b00/21892227.pdf)](https://files.diariodarepublica.pt/1s/2005/03/051b00/21892227.pdf)](https://files.diariodarepublica.pt/1s/2005/03/051b00/21892227.pdf)](https://files.diariodarepublica.pt/1s/2005/03/051b00/21892227.pdf)](https://files.diariodarepublica.pt/1s/2005/03/051b00/21892227.pdf)](https://files.diariodarepublica.pt/1s/2005/03/051b00/21892227.pdf)](https://files.diariodarepublica.pt/1s/2005/03/051b00/21892227.pdf)](https://files.diariodarepublica.pt/1s/2005/03/051b00/21892227.pdf)](https://files.diariodarepublica.pt/1s/2005/03/051b00/21892227.pdf)](https://files.diariodarepublica.pt/1s/2005/03/051b00/21892227.pdf)
 
 ## ANEXO N.º 24 — Itinerário referência n.º 23 - Técnicas florestais (2) (nível 3)
 
@@ -1241,7 +1277,7 @@ Itinerário referência n.º 23 - Técnicas florestais (2) (nível 3)
 
 Saída profissional - Técnico(a) florestal
 
-[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2005/03/051b00/21892227.pdf)
+[[[[[[[[[[[[[[[[[[[[[[[[[[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2005/03/051b00/21892227.pdf)](https://files.diariodarepublica.pt/1s/2005/03/051b00/21892227.pdf)](https://files.diariodarepublica.pt/1s/2005/03/051b00/21892227.pdf)](https://files.diariodarepublica.pt/1s/2005/03/051b00/21892227.pdf)](https://files.diariodarepublica.pt/1s/2005/03/051b00/21892227.pdf)](https://files.diariodarepublica.pt/1s/2005/03/051b00/21892227.pdf)](https://files.diariodarepublica.pt/1s/2005/03/051b00/21892227.pdf)](https://files.diariodarepublica.pt/1s/2005/03/051b00/21892227.pdf)](https://files.diariodarepublica.pt/1s/2005/03/051b00/21892227.pdf)](https://files.diariodarepublica.pt/1s/2005/03/051b00/21892227.pdf)](https://files.diariodarepublica.pt/1s/2005/03/051b00/21892227.pdf)](https://files.diariodarepublica.pt/1s/2005/03/051b00/21892227.pdf)](https://files.diariodarepublica.pt/1s/2005/03/051b00/21892227.pdf)](https://files.diariodarepublica.pt/1s/2005/03/051b00/21892227.pdf)](https://files.diariodarepublica.pt/1s/2005/03/051b00/21892227.pdf)](https://files.diariodarepublica.pt/1s/2005/03/051b00/21892227.pdf)](https://files.diariodarepublica.pt/1s/2005/03/051b00/21892227.pdf)](https://files.diariodarepublica.pt/1s/2005/03/051b00/21892227.pdf)](https://files.diariodarepublica.pt/1s/2005/03/051b00/21892227.pdf)](https://files.diariodarepublica.pt/1s/2005/03/051b00/21892227.pdf)](https://files.diariodarepublica.pt/1s/2005/03/051b00/21892227.pdf)](https://files.diariodarepublica.pt/1s/2005/03/051b00/21892227.pdf)](https://files.diariodarepublica.pt/1s/2005/03/051b00/21892227.pdf)](https://files.diariodarepublica.pt/1s/2005/03/051b00/21892227.pdf)](https://files.diariodarepublica.pt/1s/2005/03/051b00/21892227.pdf)](https://files.diariodarepublica.pt/1s/2005/03/051b00/21892227.pdf)
 
 ## ANEXO N.º 25 — Itinerário referência n.º 24 - Técnicas de ordenamento de recursos cinegéticos e aquícolas (1) (nível 3)
 
@@ -1279,7 +1315,7 @@ Itinerário referência n.º 24 - Técnicas de ordenamento de recursos cinegéti
 
 Saída profissional - Técnico(a) de ordenamento de recursos cinegéticos e aquícolas
 
-[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2005/03/051b00/21892227.pdf)
+[[[[[[[[[[[[[[[[[[[[[[[[[[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2005/03/051b00/21892227.pdf)](https://files.diariodarepublica.pt/1s/2005/03/051b00/21892227.pdf)](https://files.diariodarepublica.pt/1s/2005/03/051b00/21892227.pdf)](https://files.diariodarepublica.pt/1s/2005/03/051b00/21892227.pdf)](https://files.diariodarepublica.pt/1s/2005/03/051b00/21892227.pdf)](https://files.diariodarepublica.pt/1s/2005/03/051b00/21892227.pdf)](https://files.diariodarepublica.pt/1s/2005/03/051b00/21892227.pdf)](https://files.diariodarepublica.pt/1s/2005/03/051b00/21892227.pdf)](https://files.diariodarepublica.pt/1s/2005/03/051b00/21892227.pdf)](https://files.diariodarepublica.pt/1s/2005/03/051b00/21892227.pdf)](https://files.diariodarepublica.pt/1s/2005/03/051b00/21892227.pdf)](https://files.diariodarepublica.pt/1s/2005/03/051b00/21892227.pdf)](https://files.diariodarepublica.pt/1s/2005/03/051b00/21892227.pdf)](https://files.diariodarepublica.pt/1s/2005/03/051b00/21892227.pdf)](https://files.diariodarepublica.pt/1s/2005/03/051b00/21892227.pdf)](https://files.diariodarepublica.pt/1s/2005/03/051b00/21892227.pdf)](https://files.diariodarepublica.pt/1s/2005/03/051b00/21892227.pdf)](https://files.diariodarepublica.pt/1s/2005/03/051b00/21892227.pdf)](https://files.diariodarepublica.pt/1s/2005/03/051b00/21892227.pdf)](https://files.diariodarepublica.pt/1s/2005/03/051b00/21892227.pdf)](https://files.diariodarepublica.pt/1s/2005/03/051b00/21892227.pdf)](https://files.diariodarepublica.pt/1s/2005/03/051b00/21892227.pdf)](https://files.diariodarepublica.pt/1s/2005/03/051b00/21892227.pdf)](https://files.diariodarepublica.pt/1s/2005/03/051b00/21892227.pdf)](https://files.diariodarepublica.pt/1s/2005/03/051b00/21892227.pdf)](https://files.diariodarepublica.pt/1s/2005/03/051b00/21892227.pdf)
 
 ## ANEXO N.º 26 — Itinerário referência n.º 25 - Técnicas de ordenamento de recursos cinegéticos e aquícolas (2) (nível 3)
 
@@ -1315,7 +1351,7 @@ Itinerário referência n.º 25 - Técnicas de ordenamento de recursos cinegéti
 
 Saída profissional - Técnico(a) de ordenamento de recursos cinegéticos e aquícolas
 
-[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2005/03/051b00/21892227.pdf)
+[[[[[[[[[[[[[[[[[[[[[[[[[[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2005/03/051b00/21892227.pdf)](https://files.diariodarepublica.pt/1s/2005/03/051b00/21892227.pdf)](https://files.diariodarepublica.pt/1s/2005/03/051b00/21892227.pdf)](https://files.diariodarepublica.pt/1s/2005/03/051b00/21892227.pdf)](https://files.diariodarepublica.pt/1s/2005/03/051b00/21892227.pdf)](https://files.diariodarepublica.pt/1s/2005/03/051b00/21892227.pdf)](https://files.diariodarepublica.pt/1s/2005/03/051b00/21892227.pdf)](https://files.diariodarepublica.pt/1s/2005/03/051b00/21892227.pdf)](https://files.diariodarepublica.pt/1s/2005/03/051b00/21892227.pdf)](https://files.diariodarepublica.pt/1s/2005/03/051b00/21892227.pdf)](https://files.diariodarepublica.pt/1s/2005/03/051b00/21892227.pdf)](https://files.diariodarepublica.pt/1s/2005/03/051b00/21892227.pdf)](https://files.diariodarepublica.pt/1s/2005/03/051b00/21892227.pdf)](https://files.diariodarepublica.pt/1s/2005/03/051b00/21892227.pdf)](https://files.diariodarepublica.pt/1s/2005/03/051b00/21892227.pdf)](https://files.diariodarepublica.pt/1s/2005/03/051b00/21892227.pdf)](https://files.diariodarepublica.pt/1s/2005/03/051b00/21892227.pdf)](https://files.diariodarepublica.pt/1s/2005/03/051b00/21892227.pdf)](https://files.diariodarepublica.pt/1s/2005/03/051b00/21892227.pdf)](https://files.diariodarepublica.pt/1s/2005/03/051b00/21892227.pdf)](https://files.diariodarepublica.pt/1s/2005/03/051b00/21892227.pdf)](https://files.diariodarepublica.pt/1s/2005/03/051b00/21892227.pdf)](https://files.diariodarepublica.pt/1s/2005/03/051b00/21892227.pdf)](https://files.diariodarepublica.pt/1s/2005/03/051b00/21892227.pdf)](https://files.diariodarepublica.pt/1s/2005/03/051b00/21892227.pdf)](https://files.diariodarepublica.pt/1s/2005/03/051b00/21892227.pdf)
 
 ## ANEXO N.º 27 — Itinerário referência n.º 26 - Gestão de recursos cinegéticos e aquícolas (nível 4)
 
@@ -1351,4 +1387,4 @@ Itinerário referência n.º 26 - Gestão de recursos cinegéticos e aquícolas 
 
 Saída profissional - Técnico(a) especializado(a) em recursos cinegéticos e aquícolas
 
-[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2005/03/051b00/21892227.pdf)
+[[[[[[[[[[[[[[[[[[[[[[[[[[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2005/03/051b00/21892227.pdf)](https://files.diariodarepublica.pt/1s/2005/03/051b00/21892227.pdf)](https://files.diariodarepublica.pt/1s/2005/03/051b00/21892227.pdf)](https://files.diariodarepublica.pt/1s/2005/03/051b00/21892227.pdf)](https://files.diariodarepublica.pt/1s/2005/03/051b00/21892227.pdf)](https://files.diariodarepublica.pt/1s/2005/03/051b00/21892227.pdf)](https://files.diariodarepublica.pt/1s/2005/03/051b00/21892227.pdf)](https://files.diariodarepublica.pt/1s/2005/03/051b00/21892227.pdf)](https://files.diariodarepublica.pt/1s/2005/03/051b00/21892227.pdf)](https://files.diariodarepublica.pt/1s/2005/03/051b00/21892227.pdf)](https://files.diariodarepublica.pt/1s/2005/03/051b00/21892227.pdf)](https://files.diariodarepublica.pt/1s/2005/03/051b00/21892227.pdf)](https://files.diariodarepublica.pt/1s/2005/03/051b00/21892227.pdf)](https://files.diariodarepublica.pt/1s/2005/03/051b00/21892227.pdf)](https://files.diariodarepublica.pt/1s/2005/03/051b00/21892227.pdf)](https://files.diariodarepublica.pt/1s/2005/03/051b00/21892227.pdf)](https://files.diariodarepublica.pt/1s/2005/03/051b00/21892227.pdf)](https://files.diariodarepublica.pt/1s/2005/03/051b00/21892227.pdf)](https://files.diariodarepublica.pt/1s/2005/03/051b00/21892227.pdf)](https://files.diariodarepublica.pt/1s/2005/03/051b00/21892227.pdf)](https://files.diariodarepublica.pt/1s/2005/03/051b00/21892227.pdf)](https://files.diariodarepublica.pt/1s/2005/03/051b00/21892227.pdf)](https://files.diariodarepublica.pt/1s/2005/03/051b00/21892227.pdf)](https://files.diariodarepublica.pt/1s/2005/03/051b00/21892227.pdf)](https://files.diariodarepublica.pt/1s/2005/03/051b00/21892227.pdf)](https://files.diariodarepublica.pt/1s/2005/03/051b00/21892227.pdf)

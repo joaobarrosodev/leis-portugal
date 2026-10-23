@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/2s/2025/08/158000000/0002700029.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -47,18 +47,18 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/declaracao-retificacao/768-2025-932537226
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2025-08-19T00:00:00Z'
+  retrieved_at: '2026-10-23T15:01:12Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 7640baacce1142a43c2c3072551e49b47caef86c18c3e9c6eb81a3f26f4e52dd
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 570e06373ceee8f2c092ff4ec0cdaf94d31a1ad1947eefb53e142f7f93c781ec
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:01:12Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,24 +66,36 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects: []
-relationships: []
+relationships:
+- type: cites
+  target: pt:dre:544376:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:651724:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:921943715:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:01:12Z'
   warnings: []
   errors: []
 ---
 
 # Declaração de Retificação n.º 768/2025/2
 
-Nos termos dos n.<sup>os</sup>5 e 6 do artigo 46.º da Lei de Organização e Funcionamento dos Serviços da Assembleia da República (LOFAR), republicada pela [Lei n.º 28/2003](https://diariodarepublica.pt/dr/detalhe/lei/28-2003-651724), de 30 de julho, na sua atual redação, por despacho, datado de 16 de julho de 2025, do Presidente do Grupo Parlamentar do Partido Social Democrata, deputado Hugo Soares, retifica-se o [Despacho (extrato) n.º 6710/2025](https://diariodarepublica.pt/dr/detalhe/despacho-extrato/6710-2025-921943715), publicado no Diário da República, 2.ª série, n.º 117, de 20 de junho de 2025:
+Nos termos dos n.os5 e 6 do artigo 46.º da Lei de Organização e Funcionamento dos Serviços da Assembleia da República (LOFAR), republicada pela [Lei n.º 28/2003](https://diariodarepublica.pt/dr/detalhe/lei/28-2003-651724), de 30 de julho, na sua atual redação, por despacho, datado de 16 de julho de 2025, do Presidente do Grupo Parlamentar do Partido Social Democrata, deputado Hugo Soares, retifica-se o [Despacho (extrato) n.º 6710/2025](https://diariodarepublica.pt/dr/detalhe/despacho-extrato/6710-2025-921943715), publicado no Diário da República, 2.ª série, n.º 117, de 20 de junho de 2025:
 
 «São nomeados, com efeitos a partir de 3 de junho de 2025:
 
@@ -246,3 +258,5 @@ Carlos Manuel Maurício Cristina Pinho.
 Os nomeados, com exceção dos motoristas, estão autorizados a exercer atividades de docência em instituições de ensino superior, bem como a exercer atividades compreendidas na respetiva especialidade profissional, nos termos das alíneas a) e b) do n.º 3 do artigo 7.º do [Decreto-Lei n.º 11/2012](https://diariodarepublica.pt/dr/detalhe/decreto-lei/11-2012-544376), de 20 de janeiro. Ficam ainda autorizados a exercer as suas funções em regime de teletrabalho, se assim lhes for determinado e impuserem as necessidades de serviço.»
 
 17 de julho de 2025. - A Secretária-Geral, Anabela Cabral Ferreira.
+
+319413127

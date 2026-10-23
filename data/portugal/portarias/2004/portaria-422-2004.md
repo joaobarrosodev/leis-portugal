@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/422/2004/04/24/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/422-2004-222996
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2010-06-24T00:00:00Z'
+  retrieved_at: '2026-10-23T14:59:05Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 9e09c506a9f7d9cd94bdad5ec8461bd91dac56d53db69f5f805026afd8324912
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 2dc623966b0024e958c10ec798dfe76a1f1efffa4a9a00176d3f30ac7700a0a8
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T14:59:05Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -77,16 +77,26 @@ relationships:
   target: eli:http://data.dre.pt/eli/dec-lei/312/2003/12/17/p/dre
   label: null
   source: http://data.dre.pt/eli/dec-lei/312/2003/12/17/p/dre
+- type: cites
+  target: pt:dre:432861:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:483402:por
+  label: "Revogada, na data de entrada em vigor dos correspondentes diplomas regulamentares, pelo DEC LEI.315/2009.29.10.2009.MADRP,\
+    \ DR.IS [210] de 29.10.2009\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/315-2009-483402
+  date: '2009-10-29'
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T14:59:05Z'
   warnings: []
   errors: []
 ---
@@ -105,7 +115,7 @@ Assim:
 
 Manda o Governo, pelo Ministro da Agricultura, Desenvolvimento Rural e Pescas, ao abrigo do disposto na alínea b) do artigo 2.º do [Decreto-Lei n.º 312/2003](https://diariodarepublica.pt/dr/detalhe/decreto-lei/312-2003-432861), de 17 de Dezembro, que as raças de cães e os cruzamentos de raças potencialmente perigosos sejam os que constam do anexo à presente portaria, que dela faz parte integrante.
 
-**O Ministro da Agricultura, Desenvolvimento Rural e Pescas, Armando José Cordeiro Sevinate Pinto, em 22 de Dezembro de 2003.**
+O Ministro da Agricultura, Desenvolvimento Rural e Pescas, Armando José Cordeiro Sevinate Pinto, em 22 de Dezembro de 2003.
 
 ## ANEXO — Lista a que se refere a alínea b) do artigo 2.º do [Decreto-Lei n.º 312/2003](https://diariodarepublica.pt/dr/detalhe/decreto-lei/312-2003-432861), de 17 de Dezembro
 

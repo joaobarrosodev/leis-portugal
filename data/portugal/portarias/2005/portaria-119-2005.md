@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2005/01/021b00/07460747.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/119/2005/01/31/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/119-2005-620369
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2005-01-31T00:00:00Z'
+  retrieved_at: '2026-10-23T15:03:36Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: f2db82e77be1ad2a5e934aa781be7cfb092324cfc8c44a846bf2f0dfcb7ee278
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: af87c9b6ea5d70aa9ce5995714d4488a9725ae90d958fb9e02e1e0cd0182043f
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:03:36Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -65,30 +65,35 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Efeito de Estufa
-- Licença de Emissão
 - Definição de Competências
-- União Europeia
+- Efeito de Estufa
 - Formulário Eletrónico
 - Impresso
 - Instituto do Ambiente
+- Licença de Emissão
 - Parque Industrial
 - Proteção do Ambiente
+- União Europeia
 relationships:
 - type: cites
   target: celex:32003L0087
   label: null
   source: http://data.europa.eu/eli/dir/2003/87/oj
+- type: repealed_by
+  target: pt:dre:67590380:por
+  label: Revogada, a partir de 26.06.2015, pelo(a) Portaria n.º 188/2015 - Diário da República n.º 122/2015, Série I de 2015-06-25
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/188-2015-67590380
+  date: '2015-06-25'
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:03:36Z'
   warnings: []
   errors: []
 ---
@@ -119,7 +124,7 @@ Manda o Governo, pelo Ministro de Estado, das Actividades Económicas e do Traba
 
 Em 30 de Dezembro de 2004.
 
-**O Ministro de Estado, das Actividades Económicas e do Trabalho, Álvaro Roque de Pinho Bissaya Barreto. - Pelo Ministro do Ambiente e do Ordenamento do Território, Jorge Manuel Lopes Moreira da Silva, Secretário de Estado Adjunto do Ministro do Ambiente e do Ordenamento do Território.**
+O Ministro de Estado, das Actividades Económicas e do Trabalho, Álvaro Roque de Pinho Bissaya Barreto. - Pelo Ministro do Ambiente e do Ordenamento do Território, Jorge Manuel Lopes Moreira da Silva, Secretário de Estado Adjunto do Ministro do Ambiente e do Ordenamento do Território.
 
 ## ANEXO — Modelo do pedido de constituição de agrupamento de instalações
 

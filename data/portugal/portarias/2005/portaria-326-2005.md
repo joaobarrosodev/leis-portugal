@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/326/2005/03/29/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/326-2005-565400
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2005-03-29T00:00:00Z'
+  retrieved_at: '2026-10-23T15:05:42Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 0fb72290914ff9d32046a84cddfb61f9439d7827a9e7d920f89023d3dfe6e3d6
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 0db6a25a270d8cb19cfb474cf540168e544f3a9f02fd5b0f9481bf1f3e9bd8b3
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:05:42Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,8 +66,8 @@ reuse:
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
 - Aprendizagem Profissional
-- Formação Profissional
 - Construção Civil
+- Formação Profissional
 - Jovem Trabalhador
 - Política de Emprego
 relationships:
@@ -99,16 +99,52 @@ relationships:
   target: eli:http://data.dre.pt/eli/port/989/1999/11/03/p/dre
   label: null
   source: http://data.dre.pt/eli/port/989/1999/11/03/p/dre
+- type: cites
+  target: pt:dre:226416:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:288401:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:303187:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:357329:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:374848:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:523412:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:547021:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:661731:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:694187:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:05:42Z'
   warnings: []
   errors: []
 ---
@@ -449,7 +485,7 @@ XI - Disposições finais
 
 ## ANEXO 1 — Quadro dos itinerários da área da construção civil
 
-[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2005/03/061b00/26582686.pdf)
+[[[[[[[[[[[[[[[[[[[[[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2005/03/061b00/26582686.pdf)](https://files.diariodarepublica.pt/1s/2005/03/061b00/26582686.pdf)](https://files.diariodarepublica.pt/1s/2005/03/061b00/26582686.pdf)](https://files.diariodarepublica.pt/1s/2005/03/061b00/26582686.pdf)](https://files.diariodarepublica.pt/1s/2005/03/061b00/26582686.pdf)](https://files.diariodarepublica.pt/1s/2005/03/061b00/26582686.pdf)](https://files.diariodarepublica.pt/1s/2005/03/061b00/26582686.pdf)](https://files.diariodarepublica.pt/1s/2005/03/061b00/26582686.pdf)](https://files.diariodarepublica.pt/1s/2005/03/061b00/26582686.pdf)](https://files.diariodarepublica.pt/1s/2005/03/061b00/26582686.pdf)](https://files.diariodarepublica.pt/1s/2005/03/061b00/26582686.pdf)](https://files.diariodarepublica.pt/1s/2005/03/061b00/26582686.pdf)](https://files.diariodarepublica.pt/1s/2005/03/061b00/26582686.pdf)](https://files.diariodarepublica.pt/1s/2005/03/061b00/26582686.pdf)](https://files.diariodarepublica.pt/1s/2005/03/061b00/26582686.pdf)](https://files.diariodarepublica.pt/1s/2005/03/061b00/26582686.pdf)](https://files.diariodarepublica.pt/1s/2005/03/061b00/26582686.pdf)](https://files.diariodarepublica.pt/1s/2005/03/061b00/26582686.pdf)](https://files.diariodarepublica.pt/1s/2005/03/061b00/26582686.pdf)](https://files.diariodarepublica.pt/1s/2005/03/061b00/26582686.pdf)](https://files.diariodarepublica.pt/1s/2005/03/061b00/26582686.pdf)
 
 Na concepção dos diferentes itinerários que integram esta área, foi tida em conta a Resolução ResAP (2001) 1 - sobre a introdução dos princípios de desenho universal nos programas de formação do conjunto das profissões relacionadas com o meio edificado.
 
@@ -481,7 +517,7 @@ Referencial curricular
 
 Itinerário referência n.º 1 - Práticas de cofragens, armaduras, betões, alvenarias e revestimentos (nível 1)
 
-[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2005/03/061b00/26582686.pdf)
+[[[[[[[[[[[[[[[[[[[[[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2005/03/061b00/26582686.pdf)](https://files.diariodarepublica.pt/1s/2005/03/061b00/26582686.pdf)](https://files.diariodarepublica.pt/1s/2005/03/061b00/26582686.pdf)](https://files.diariodarepublica.pt/1s/2005/03/061b00/26582686.pdf)](https://files.diariodarepublica.pt/1s/2005/03/061b00/26582686.pdf)](https://files.diariodarepublica.pt/1s/2005/03/061b00/26582686.pdf)](https://files.diariodarepublica.pt/1s/2005/03/061b00/26582686.pdf)](https://files.diariodarepublica.pt/1s/2005/03/061b00/26582686.pdf)](https://files.diariodarepublica.pt/1s/2005/03/061b00/26582686.pdf)](https://files.diariodarepublica.pt/1s/2005/03/061b00/26582686.pdf)](https://files.diariodarepublica.pt/1s/2005/03/061b00/26582686.pdf)](https://files.diariodarepublica.pt/1s/2005/03/061b00/26582686.pdf)](https://files.diariodarepublica.pt/1s/2005/03/061b00/26582686.pdf)](https://files.diariodarepublica.pt/1s/2005/03/061b00/26582686.pdf)](https://files.diariodarepublica.pt/1s/2005/03/061b00/26582686.pdf)](https://files.diariodarepublica.pt/1s/2005/03/061b00/26582686.pdf)](https://files.diariodarepublica.pt/1s/2005/03/061b00/26582686.pdf)](https://files.diariodarepublica.pt/1s/2005/03/061b00/26582686.pdf)](https://files.diariodarepublica.pt/1s/2005/03/061b00/26582686.pdf)](https://files.diariodarepublica.pt/1s/2005/03/061b00/26582686.pdf)](https://files.diariodarepublica.pt/1s/2005/03/061b00/26582686.pdf)
 
 ## ANEXO N.º 3 — Itinerário referência n.º 2 - Execução de cofragens, armaduras, betões, alvenarias e revestimentos (nível 2)
 
@@ -517,7 +553,7 @@ Itinerário referência n.º 2 - Execução de cofragens, armaduras, betões, al
 
 Saída profissional: operador de construção civil (cofrador, armador de ferro, pedreiro, ladrilhador).
 
-[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2005/03/061b00/26582686.pdf)
+[[[[[[[[[[[[[[[[[[[[[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2005/03/061b00/26582686.pdf)](https://files.diariodarepublica.pt/1s/2005/03/061b00/26582686.pdf)](https://files.diariodarepublica.pt/1s/2005/03/061b00/26582686.pdf)](https://files.diariodarepublica.pt/1s/2005/03/061b00/26582686.pdf)](https://files.diariodarepublica.pt/1s/2005/03/061b00/26582686.pdf)](https://files.diariodarepublica.pt/1s/2005/03/061b00/26582686.pdf)](https://files.diariodarepublica.pt/1s/2005/03/061b00/26582686.pdf)](https://files.diariodarepublica.pt/1s/2005/03/061b00/26582686.pdf)](https://files.diariodarepublica.pt/1s/2005/03/061b00/26582686.pdf)](https://files.diariodarepublica.pt/1s/2005/03/061b00/26582686.pdf)](https://files.diariodarepublica.pt/1s/2005/03/061b00/26582686.pdf)](https://files.diariodarepublica.pt/1s/2005/03/061b00/26582686.pdf)](https://files.diariodarepublica.pt/1s/2005/03/061b00/26582686.pdf)](https://files.diariodarepublica.pt/1s/2005/03/061b00/26582686.pdf)](https://files.diariodarepublica.pt/1s/2005/03/061b00/26582686.pdf)](https://files.diariodarepublica.pt/1s/2005/03/061b00/26582686.pdf)](https://files.diariodarepublica.pt/1s/2005/03/061b00/26582686.pdf)](https://files.diariodarepublica.pt/1s/2005/03/061b00/26582686.pdf)](https://files.diariodarepublica.pt/1s/2005/03/061b00/26582686.pdf)](https://files.diariodarepublica.pt/1s/2005/03/061b00/26582686.pdf)](https://files.diariodarepublica.pt/1s/2005/03/061b00/26582686.pdf)
 
 ## ANEXO N.º 4
 
@@ -561,7 +597,7 @@ Itinerário referência n.º 3 - Condução e manobra de equipamento de moviment
 
 Saída profissional: condutor manobrador de equipamento de movimentação de terras e de elevação.
 
-[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2005/03/061b00/26582686.pdf)
+[[[[[[[[[[[[[[[[[[[[[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2005/03/061b00/26582686.pdf)](https://files.diariodarepublica.pt/1s/2005/03/061b00/26582686.pdf)](https://files.diariodarepublica.pt/1s/2005/03/061b00/26582686.pdf)](https://files.diariodarepublica.pt/1s/2005/03/061b00/26582686.pdf)](https://files.diariodarepublica.pt/1s/2005/03/061b00/26582686.pdf)](https://files.diariodarepublica.pt/1s/2005/03/061b00/26582686.pdf)](https://files.diariodarepublica.pt/1s/2005/03/061b00/26582686.pdf)](https://files.diariodarepublica.pt/1s/2005/03/061b00/26582686.pdf)](https://files.diariodarepublica.pt/1s/2005/03/061b00/26582686.pdf)](https://files.diariodarepublica.pt/1s/2005/03/061b00/26582686.pdf)](https://files.diariodarepublica.pt/1s/2005/03/061b00/26582686.pdf)](https://files.diariodarepublica.pt/1s/2005/03/061b00/26582686.pdf)](https://files.diariodarepublica.pt/1s/2005/03/061b00/26582686.pdf)](https://files.diariodarepublica.pt/1s/2005/03/061b00/26582686.pdf)](https://files.diariodarepublica.pt/1s/2005/03/061b00/26582686.pdf)](https://files.diariodarepublica.pt/1s/2005/03/061b00/26582686.pdf)](https://files.diariodarepublica.pt/1s/2005/03/061b00/26582686.pdf)](https://files.diariodarepublica.pt/1s/2005/03/061b00/26582686.pdf)](https://files.diariodarepublica.pt/1s/2005/03/061b00/26582686.pdf)](https://files.diariodarepublica.pt/1s/2005/03/061b00/26582686.pdf)](https://files.diariodarepublica.pt/1s/2005/03/061b00/26582686.pdf)
 
 ## ANEXO N.º 5 — Itinerário referência n.º 4 - Condução e manobra de equipamento de movimentação de terras e de elevação 2 (nível 2)
 
@@ -601,7 +637,7 @@ Itinerário referência n.º 4 - Condução e manobra de equipamento de moviment
 
 Saída profissional: condutor manobrador de equipamento de movimentação de terras e de elevação.
 
-[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2005/03/061b00/26582686.pdf)
+[[[[[[[[[[[[[[[[[[[[[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2005/03/061b00/26582686.pdf)](https://files.diariodarepublica.pt/1s/2005/03/061b00/26582686.pdf)](https://files.diariodarepublica.pt/1s/2005/03/061b00/26582686.pdf)](https://files.diariodarepublica.pt/1s/2005/03/061b00/26582686.pdf)](https://files.diariodarepublica.pt/1s/2005/03/061b00/26582686.pdf)](https://files.diariodarepublica.pt/1s/2005/03/061b00/26582686.pdf)](https://files.diariodarepublica.pt/1s/2005/03/061b00/26582686.pdf)](https://files.diariodarepublica.pt/1s/2005/03/061b00/26582686.pdf)](https://files.diariodarepublica.pt/1s/2005/03/061b00/26582686.pdf)](https://files.diariodarepublica.pt/1s/2005/03/061b00/26582686.pdf)](https://files.diariodarepublica.pt/1s/2005/03/061b00/26582686.pdf)](https://files.diariodarepublica.pt/1s/2005/03/061b00/26582686.pdf)](https://files.diariodarepublica.pt/1s/2005/03/061b00/26582686.pdf)](https://files.diariodarepublica.pt/1s/2005/03/061b00/26582686.pdf)](https://files.diariodarepublica.pt/1s/2005/03/061b00/26582686.pdf)](https://files.diariodarepublica.pt/1s/2005/03/061b00/26582686.pdf)](https://files.diariodarepublica.pt/1s/2005/03/061b00/26582686.pdf)](https://files.diariodarepublica.pt/1s/2005/03/061b00/26582686.pdf)](https://files.diariodarepublica.pt/1s/2005/03/061b00/26582686.pdf)](https://files.diariodarepublica.pt/1s/2005/03/061b00/26582686.pdf)](https://files.diariodarepublica.pt/1s/2005/03/061b00/26582686.pdf)
 
 ## ANEXO N.º 6 — Itinerário referência n.º 5 - Estuque e pintura (nível 2)
 
@@ -633,7 +669,7 @@ Itinerário referência n.º 5 - Estuque e pintura 1 (nível 2)
 
 Saída profissional: estucador/pintor de construção civil.
 
-[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2005/03/061b00/26582686.pdf)
+[[[[[[[[[[[[[[[[[[[[[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2005/03/061b00/26582686.pdf)](https://files.diariodarepublica.pt/1s/2005/03/061b00/26582686.pdf)](https://files.diariodarepublica.pt/1s/2005/03/061b00/26582686.pdf)](https://files.diariodarepublica.pt/1s/2005/03/061b00/26582686.pdf)](https://files.diariodarepublica.pt/1s/2005/03/061b00/26582686.pdf)](https://files.diariodarepublica.pt/1s/2005/03/061b00/26582686.pdf)](https://files.diariodarepublica.pt/1s/2005/03/061b00/26582686.pdf)](https://files.diariodarepublica.pt/1s/2005/03/061b00/26582686.pdf)](https://files.diariodarepublica.pt/1s/2005/03/061b00/26582686.pdf)](https://files.diariodarepublica.pt/1s/2005/03/061b00/26582686.pdf)](https://files.diariodarepublica.pt/1s/2005/03/061b00/26582686.pdf)](https://files.diariodarepublica.pt/1s/2005/03/061b00/26582686.pdf)](https://files.diariodarepublica.pt/1s/2005/03/061b00/26582686.pdf)](https://files.diariodarepublica.pt/1s/2005/03/061b00/26582686.pdf)](https://files.diariodarepublica.pt/1s/2005/03/061b00/26582686.pdf)](https://files.diariodarepublica.pt/1s/2005/03/061b00/26582686.pdf)](https://files.diariodarepublica.pt/1s/2005/03/061b00/26582686.pdf)](https://files.diariodarepublica.pt/1s/2005/03/061b00/26582686.pdf)](https://files.diariodarepublica.pt/1s/2005/03/061b00/26582686.pdf)](https://files.diariodarepublica.pt/1s/2005/03/061b00/26582686.pdf)](https://files.diariodarepublica.pt/1s/2005/03/061b00/26582686.pdf)
 
 ## ANEXO N.º 7 — Itinerário referência n.º 6 - Estuque e pintura 2 (nível 2)
 
@@ -663,7 +699,7 @@ Itinerário referência n.º 6 - Estuque e pintura 2 (nível 2)
 
 Saída profissional: estucador/pintor de construção civil.
 
-[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2005/03/061b00/26582686.pdf)
+[[[[[[[[[[[[[[[[[[[[[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2005/03/061b00/26582686.pdf)](https://files.diariodarepublica.pt/1s/2005/03/061b00/26582686.pdf)](https://files.diariodarepublica.pt/1s/2005/03/061b00/26582686.pdf)](https://files.diariodarepublica.pt/1s/2005/03/061b00/26582686.pdf)](https://files.diariodarepublica.pt/1s/2005/03/061b00/26582686.pdf)](https://files.diariodarepublica.pt/1s/2005/03/061b00/26582686.pdf)](https://files.diariodarepublica.pt/1s/2005/03/061b00/26582686.pdf)](https://files.diariodarepublica.pt/1s/2005/03/061b00/26582686.pdf)](https://files.diariodarepublica.pt/1s/2005/03/061b00/26582686.pdf)](https://files.diariodarepublica.pt/1s/2005/03/061b00/26582686.pdf)](https://files.diariodarepublica.pt/1s/2005/03/061b00/26582686.pdf)](https://files.diariodarepublica.pt/1s/2005/03/061b00/26582686.pdf)](https://files.diariodarepublica.pt/1s/2005/03/061b00/26582686.pdf)](https://files.diariodarepublica.pt/1s/2005/03/061b00/26582686.pdf)](https://files.diariodarepublica.pt/1s/2005/03/061b00/26582686.pdf)](https://files.diariodarepublica.pt/1s/2005/03/061b00/26582686.pdf)](https://files.diariodarepublica.pt/1s/2005/03/061b00/26582686.pdf)](https://files.diariodarepublica.pt/1s/2005/03/061b00/26582686.pdf)](https://files.diariodarepublica.pt/1s/2005/03/061b00/26582686.pdf)](https://files.diariodarepublica.pt/1s/2005/03/061b00/26582686.pdf)](https://files.diariodarepublica.pt/1s/2005/03/061b00/26582686.pdf)
 
 ## ANEXO N.º 8 — Itinerário referência n.º 7 - Instalação de redes de abastecimento de água, saneamento e gás 1 (nível 2)
 
@@ -697,7 +733,7 @@ Itinerário referência n.º 7 - Instalação de redes de abastecimento de água
 
 Saída profissional: instalador de sistemas de fluidos em edifícios.
 
-[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2005/03/061b00/26582686.pdf)
+[[[[[[[[[[[[[[[[[[[[[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2005/03/061b00/26582686.pdf)](https://files.diariodarepublica.pt/1s/2005/03/061b00/26582686.pdf)](https://files.diariodarepublica.pt/1s/2005/03/061b00/26582686.pdf)](https://files.diariodarepublica.pt/1s/2005/03/061b00/26582686.pdf)](https://files.diariodarepublica.pt/1s/2005/03/061b00/26582686.pdf)](https://files.diariodarepublica.pt/1s/2005/03/061b00/26582686.pdf)](https://files.diariodarepublica.pt/1s/2005/03/061b00/26582686.pdf)](https://files.diariodarepublica.pt/1s/2005/03/061b00/26582686.pdf)](https://files.diariodarepublica.pt/1s/2005/03/061b00/26582686.pdf)](https://files.diariodarepublica.pt/1s/2005/03/061b00/26582686.pdf)](https://files.diariodarepublica.pt/1s/2005/03/061b00/26582686.pdf)](https://files.diariodarepublica.pt/1s/2005/03/061b00/26582686.pdf)](https://files.diariodarepublica.pt/1s/2005/03/061b00/26582686.pdf)](https://files.diariodarepublica.pt/1s/2005/03/061b00/26582686.pdf)](https://files.diariodarepublica.pt/1s/2005/03/061b00/26582686.pdf)](https://files.diariodarepublica.pt/1s/2005/03/061b00/26582686.pdf)](https://files.diariodarepublica.pt/1s/2005/03/061b00/26582686.pdf)](https://files.diariodarepublica.pt/1s/2005/03/061b00/26582686.pdf)](https://files.diariodarepublica.pt/1s/2005/03/061b00/26582686.pdf)](https://files.diariodarepublica.pt/1s/2005/03/061b00/26582686.pdf)](https://files.diariodarepublica.pt/1s/2005/03/061b00/26582686.pdf)
 
 ## ANEXO N.º 9 — Itinerário referência n.º 8 - Instalação de redes de abastecimento de água, saneamento e gás 2 (nível 2)
 
@@ -729,7 +765,7 @@ Itinerário referência n.º 8 - Instalação de redes de abastecimento de água
 
 Saída profissional: instalador de sistemas de fluidos (canalizador, instalador-soldador de redes de gás).
 
-[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2005/03/061b00/26582686.pdf)
+[[[[[[[[[[[[[[[[[[[[[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2005/03/061b00/26582686.pdf)](https://files.diariodarepublica.pt/1s/2005/03/061b00/26582686.pdf)](https://files.diariodarepublica.pt/1s/2005/03/061b00/26582686.pdf)](https://files.diariodarepublica.pt/1s/2005/03/061b00/26582686.pdf)](https://files.diariodarepublica.pt/1s/2005/03/061b00/26582686.pdf)](https://files.diariodarepublica.pt/1s/2005/03/061b00/26582686.pdf)](https://files.diariodarepublica.pt/1s/2005/03/061b00/26582686.pdf)](https://files.diariodarepublica.pt/1s/2005/03/061b00/26582686.pdf)](https://files.diariodarepublica.pt/1s/2005/03/061b00/26582686.pdf)](https://files.diariodarepublica.pt/1s/2005/03/061b00/26582686.pdf)](https://files.diariodarepublica.pt/1s/2005/03/061b00/26582686.pdf)](https://files.diariodarepublica.pt/1s/2005/03/061b00/26582686.pdf)](https://files.diariodarepublica.pt/1s/2005/03/061b00/26582686.pdf)](https://files.diariodarepublica.pt/1s/2005/03/061b00/26582686.pdf)](https://files.diariodarepublica.pt/1s/2005/03/061b00/26582686.pdf)](https://files.diariodarepublica.pt/1s/2005/03/061b00/26582686.pdf)](https://files.diariodarepublica.pt/1s/2005/03/061b00/26582686.pdf)](https://files.diariodarepublica.pt/1s/2005/03/061b00/26582686.pdf)](https://files.diariodarepublica.pt/1s/2005/03/061b00/26582686.pdf)](https://files.diariodarepublica.pt/1s/2005/03/061b00/26582686.pdf)](https://files.diariodarepublica.pt/1s/2005/03/061b00/26582686.pdf)
 
 ## ANEXO N.º 10 — Itinerário referência n.º 9 - Cantaria e revestimento em pedra 1 (nível 2)
 
@@ -795,7 +831,7 @@ Itinerário referência n.º 10 - Cantaria e revestimento em pedra 2 (nível 2)
 
 Saída profissional: canteiro de construção civil.
 
-[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2005/03/061b00/26582686.pdf)
+[[[[[[[[[[[[[[[[[[[[[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2005/03/061b00/26582686.pdf)](https://files.diariodarepublica.pt/1s/2005/03/061b00/26582686.pdf)](https://files.diariodarepublica.pt/1s/2005/03/061b00/26582686.pdf)](https://files.diariodarepublica.pt/1s/2005/03/061b00/26582686.pdf)](https://files.diariodarepublica.pt/1s/2005/03/061b00/26582686.pdf)](https://files.diariodarepublica.pt/1s/2005/03/061b00/26582686.pdf)](https://files.diariodarepublica.pt/1s/2005/03/061b00/26582686.pdf)](https://files.diariodarepublica.pt/1s/2005/03/061b00/26582686.pdf)](https://files.diariodarepublica.pt/1s/2005/03/061b00/26582686.pdf)](https://files.diariodarepublica.pt/1s/2005/03/061b00/26582686.pdf)](https://files.diariodarepublica.pt/1s/2005/03/061b00/26582686.pdf)](https://files.diariodarepublica.pt/1s/2005/03/061b00/26582686.pdf)](https://files.diariodarepublica.pt/1s/2005/03/061b00/26582686.pdf)](https://files.diariodarepublica.pt/1s/2005/03/061b00/26582686.pdf)](https://files.diariodarepublica.pt/1s/2005/03/061b00/26582686.pdf)](https://files.diariodarepublica.pt/1s/2005/03/061b00/26582686.pdf)](https://files.diariodarepublica.pt/1s/2005/03/061b00/26582686.pdf)](https://files.diariodarepublica.pt/1s/2005/03/061b00/26582686.pdf)](https://files.diariodarepublica.pt/1s/2005/03/061b00/26582686.pdf)](https://files.diariodarepublica.pt/1s/2005/03/061b00/26582686.pdf)](https://files.diariodarepublica.pt/1s/2005/03/061b00/26582686.pdf)
 
 ## ANEXO N.º 12 — Itinerário referência n.º 11 - Desenho, medição e preparação de obra 1 (nível 3)
 
@@ -831,7 +867,7 @@ Itinerário referência n.º 11 - Desenho, medição e preparação de obra 1 (n
 
 Saída profissional: técnico de desenho/preparador de obra.
 
-[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2005/03/061b00/26582686.pdf)
+[[[[[[[[[[[[[[[[[[[[[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2005/03/061b00/26582686.pdf)](https://files.diariodarepublica.pt/1s/2005/03/061b00/26582686.pdf)](https://files.diariodarepublica.pt/1s/2005/03/061b00/26582686.pdf)](https://files.diariodarepublica.pt/1s/2005/03/061b00/26582686.pdf)](https://files.diariodarepublica.pt/1s/2005/03/061b00/26582686.pdf)](https://files.diariodarepublica.pt/1s/2005/03/061b00/26582686.pdf)](https://files.diariodarepublica.pt/1s/2005/03/061b00/26582686.pdf)](https://files.diariodarepublica.pt/1s/2005/03/061b00/26582686.pdf)](https://files.diariodarepublica.pt/1s/2005/03/061b00/26582686.pdf)](https://files.diariodarepublica.pt/1s/2005/03/061b00/26582686.pdf)](https://files.diariodarepublica.pt/1s/2005/03/061b00/26582686.pdf)](https://files.diariodarepublica.pt/1s/2005/03/061b00/26582686.pdf)](https://files.diariodarepublica.pt/1s/2005/03/061b00/26582686.pdf)](https://files.diariodarepublica.pt/1s/2005/03/061b00/26582686.pdf)](https://files.diariodarepublica.pt/1s/2005/03/061b00/26582686.pdf)](https://files.diariodarepublica.pt/1s/2005/03/061b00/26582686.pdf)](https://files.diariodarepublica.pt/1s/2005/03/061b00/26582686.pdf)](https://files.diariodarepublica.pt/1s/2005/03/061b00/26582686.pdf)](https://files.diariodarepublica.pt/1s/2005/03/061b00/26582686.pdf)](https://files.diariodarepublica.pt/1s/2005/03/061b00/26582686.pdf)](https://files.diariodarepublica.pt/1s/2005/03/061b00/26582686.pdf)
 
 ## ANEXO N.º 13 — Itinerário referência n.º 12 - Desenho, medição e preparação de obra 2 (nível 3)
 
@@ -865,7 +901,7 @@ Itinerário referência n.º 12 - Desenho, medição e preparação de obra 2 (n
 
 Saída profissional: técnico de desenho/preparador de obra.
 
-[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2005/03/061b00/26582686.pdf)
+[[[[[[[[[[[[[[[[[[[[[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2005/03/061b00/26582686.pdf)](https://files.diariodarepublica.pt/1s/2005/03/061b00/26582686.pdf)](https://files.diariodarepublica.pt/1s/2005/03/061b00/26582686.pdf)](https://files.diariodarepublica.pt/1s/2005/03/061b00/26582686.pdf)](https://files.diariodarepublica.pt/1s/2005/03/061b00/26582686.pdf)](https://files.diariodarepublica.pt/1s/2005/03/061b00/26582686.pdf)](https://files.diariodarepublica.pt/1s/2005/03/061b00/26582686.pdf)](https://files.diariodarepublica.pt/1s/2005/03/061b00/26582686.pdf)](https://files.diariodarepublica.pt/1s/2005/03/061b00/26582686.pdf)](https://files.diariodarepublica.pt/1s/2005/03/061b00/26582686.pdf)](https://files.diariodarepublica.pt/1s/2005/03/061b00/26582686.pdf)](https://files.diariodarepublica.pt/1s/2005/03/061b00/26582686.pdf)](https://files.diariodarepublica.pt/1s/2005/03/061b00/26582686.pdf)](https://files.diariodarepublica.pt/1s/2005/03/061b00/26582686.pdf)](https://files.diariodarepublica.pt/1s/2005/03/061b00/26582686.pdf)](https://files.diariodarepublica.pt/1s/2005/03/061b00/26582686.pdf)](https://files.diariodarepublica.pt/1s/2005/03/061b00/26582686.pdf)](https://files.diariodarepublica.pt/1s/2005/03/061b00/26582686.pdf)](https://files.diariodarepublica.pt/1s/2005/03/061b00/26582686.pdf)](https://files.diariodarepublica.pt/1s/2005/03/061b00/26582686.pdf)](https://files.diariodarepublica.pt/1s/2005/03/061b00/26582686.pdf)
 
 ## ANEXO N.º 14
 
@@ -925,7 +961,7 @@ Carpinteiro de limpos (nível 2) - no final do 2.º período;
 
 Técnico preparador de carpintaria (nível 3) - no final do itinerário.
 
-[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2005/03/061b00/26582686.pdf)
+[[[[[[[[[[[[[[[[[[[[[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2005/03/061b00/26582686.pdf)](https://files.diariodarepublica.pt/1s/2005/03/061b00/26582686.pdf)](https://files.diariodarepublica.pt/1s/2005/03/061b00/26582686.pdf)](https://files.diariodarepublica.pt/1s/2005/03/061b00/26582686.pdf)](https://files.diariodarepublica.pt/1s/2005/03/061b00/26582686.pdf)](https://files.diariodarepublica.pt/1s/2005/03/061b00/26582686.pdf)](https://files.diariodarepublica.pt/1s/2005/03/061b00/26582686.pdf)](https://files.diariodarepublica.pt/1s/2005/03/061b00/26582686.pdf)](https://files.diariodarepublica.pt/1s/2005/03/061b00/26582686.pdf)](https://files.diariodarepublica.pt/1s/2005/03/061b00/26582686.pdf)](https://files.diariodarepublica.pt/1s/2005/03/061b00/26582686.pdf)](https://files.diariodarepublica.pt/1s/2005/03/061b00/26582686.pdf)](https://files.diariodarepublica.pt/1s/2005/03/061b00/26582686.pdf)](https://files.diariodarepublica.pt/1s/2005/03/061b00/26582686.pdf)](https://files.diariodarepublica.pt/1s/2005/03/061b00/26582686.pdf)](https://files.diariodarepublica.pt/1s/2005/03/061b00/26582686.pdf)](https://files.diariodarepublica.pt/1s/2005/03/061b00/26582686.pdf)](https://files.diariodarepublica.pt/1s/2005/03/061b00/26582686.pdf)](https://files.diariodarepublica.pt/1s/2005/03/061b00/26582686.pdf)](https://files.diariodarepublica.pt/1s/2005/03/061b00/26582686.pdf)](https://files.diariodarepublica.pt/1s/2005/03/061b00/26582686.pdf)
 
 ## ANEXO N.º 15 — Itinerário referência n.º 14 - Preparação e execução de obra 1 (nível 3)
 
@@ -963,7 +999,7 @@ Itinerário referência n.º 14 - Preparação e execução de obra 1 (nível 3)
 
 Saída profissional. - Técnico de obra/condutor de obra.
 
-[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2005/03/061b00/26582686.pdf)
+[[[[[[[[[[[[[[[[[[[[[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2005/03/061b00/26582686.pdf)](https://files.diariodarepublica.pt/1s/2005/03/061b00/26582686.pdf)](https://files.diariodarepublica.pt/1s/2005/03/061b00/26582686.pdf)](https://files.diariodarepublica.pt/1s/2005/03/061b00/26582686.pdf)](https://files.diariodarepublica.pt/1s/2005/03/061b00/26582686.pdf)](https://files.diariodarepublica.pt/1s/2005/03/061b00/26582686.pdf)](https://files.diariodarepublica.pt/1s/2005/03/061b00/26582686.pdf)](https://files.diariodarepublica.pt/1s/2005/03/061b00/26582686.pdf)](https://files.diariodarepublica.pt/1s/2005/03/061b00/26582686.pdf)](https://files.diariodarepublica.pt/1s/2005/03/061b00/26582686.pdf)](https://files.diariodarepublica.pt/1s/2005/03/061b00/26582686.pdf)](https://files.diariodarepublica.pt/1s/2005/03/061b00/26582686.pdf)](https://files.diariodarepublica.pt/1s/2005/03/061b00/26582686.pdf)](https://files.diariodarepublica.pt/1s/2005/03/061b00/26582686.pdf)](https://files.diariodarepublica.pt/1s/2005/03/061b00/26582686.pdf)](https://files.diariodarepublica.pt/1s/2005/03/061b00/26582686.pdf)](https://files.diariodarepublica.pt/1s/2005/03/061b00/26582686.pdf)](https://files.diariodarepublica.pt/1s/2005/03/061b00/26582686.pdf)](https://files.diariodarepublica.pt/1s/2005/03/061b00/26582686.pdf)](https://files.diariodarepublica.pt/1s/2005/03/061b00/26582686.pdf)](https://files.diariodarepublica.pt/1s/2005/03/061b00/26582686.pdf)
 
 ## ANEXO N.º 16 — Itinerário referência n.º 15 - Preparação e execução de obra 2 (nível 3)
 
@@ -1025,7 +1061,7 @@ Itinerário referência n.º 16 - Medição e orçamentação de obra 1 (nível 
 
 Saída profissional. - Técnico de medições e orçamentos.
 
-[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2005/03/061b00/26582686.pdf)
+[[[[[[[[[[[[[[[[[[[[[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2005/03/061b00/26582686.pdf)](https://files.diariodarepublica.pt/1s/2005/03/061b00/26582686.pdf)](https://files.diariodarepublica.pt/1s/2005/03/061b00/26582686.pdf)](https://files.diariodarepublica.pt/1s/2005/03/061b00/26582686.pdf)](https://files.diariodarepublica.pt/1s/2005/03/061b00/26582686.pdf)](https://files.diariodarepublica.pt/1s/2005/03/061b00/26582686.pdf)](https://files.diariodarepublica.pt/1s/2005/03/061b00/26582686.pdf)](https://files.diariodarepublica.pt/1s/2005/03/061b00/26582686.pdf)](https://files.diariodarepublica.pt/1s/2005/03/061b00/26582686.pdf)](https://files.diariodarepublica.pt/1s/2005/03/061b00/26582686.pdf)](https://files.diariodarepublica.pt/1s/2005/03/061b00/26582686.pdf)](https://files.diariodarepublica.pt/1s/2005/03/061b00/26582686.pdf)](https://files.diariodarepublica.pt/1s/2005/03/061b00/26582686.pdf)](https://files.diariodarepublica.pt/1s/2005/03/061b00/26582686.pdf)](https://files.diariodarepublica.pt/1s/2005/03/061b00/26582686.pdf)](https://files.diariodarepublica.pt/1s/2005/03/061b00/26582686.pdf)](https://files.diariodarepublica.pt/1s/2005/03/061b00/26582686.pdf)](https://files.diariodarepublica.pt/1s/2005/03/061b00/26582686.pdf)](https://files.diariodarepublica.pt/1s/2005/03/061b00/26582686.pdf)](https://files.diariodarepublica.pt/1s/2005/03/061b00/26582686.pdf)](https://files.diariodarepublica.pt/1s/2005/03/061b00/26582686.pdf)
 
 ## ANEXO N.º 18 — Itinerário referência n.º 17 - Medição e orçamentação de obra 2 (nível 3)
 
@@ -1057,7 +1093,7 @@ Itinerário referência n.º 17 - Medição e orçamento de obra 2 (nível 3)
 
 Saída profissional. - Técnico de medições e orçamentos.
 
-[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2005/03/061b00/26582686.pdf)
+[[[[[[[[[[[[[[[[[[[[[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2005/03/061b00/26582686.pdf)](https://files.diariodarepublica.pt/1s/2005/03/061b00/26582686.pdf)](https://files.diariodarepublica.pt/1s/2005/03/061b00/26582686.pdf)](https://files.diariodarepublica.pt/1s/2005/03/061b00/26582686.pdf)](https://files.diariodarepublica.pt/1s/2005/03/061b00/26582686.pdf)](https://files.diariodarepublica.pt/1s/2005/03/061b00/26582686.pdf)](https://files.diariodarepublica.pt/1s/2005/03/061b00/26582686.pdf)](https://files.diariodarepublica.pt/1s/2005/03/061b00/26582686.pdf)](https://files.diariodarepublica.pt/1s/2005/03/061b00/26582686.pdf)](https://files.diariodarepublica.pt/1s/2005/03/061b00/26582686.pdf)](https://files.diariodarepublica.pt/1s/2005/03/061b00/26582686.pdf)](https://files.diariodarepublica.pt/1s/2005/03/061b00/26582686.pdf)](https://files.diariodarepublica.pt/1s/2005/03/061b00/26582686.pdf)](https://files.diariodarepublica.pt/1s/2005/03/061b00/26582686.pdf)](https://files.diariodarepublica.pt/1s/2005/03/061b00/26582686.pdf)](https://files.diariodarepublica.pt/1s/2005/03/061b00/26582686.pdf)](https://files.diariodarepublica.pt/1s/2005/03/061b00/26582686.pdf)](https://files.diariodarepublica.pt/1s/2005/03/061b00/26582686.pdf)](https://files.diariodarepublica.pt/1s/2005/03/061b00/26582686.pdf)](https://files.diariodarepublica.pt/1s/2005/03/061b00/26582686.pdf)](https://files.diariodarepublica.pt/1s/2005/03/061b00/26582686.pdf)
 
 ## ANEXO N.º 19 — Itinerário referência n.º 18 - Prevenção e segurança - construção 1 (nível 3)
 
@@ -1099,7 +1135,7 @@ Itinerário referência n.º 18 - Prevenção e segurança - construção 1 (ní
 
 Saída profissional. - Técnico de segurança e higiene no trabalho - construção.
 
-[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2005/03/061b00/26582686.pdf)
+[[[[[[[[[[[[[[[[[[[[[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2005/03/061b00/26582686.pdf)](https://files.diariodarepublica.pt/1s/2005/03/061b00/26582686.pdf)](https://files.diariodarepublica.pt/1s/2005/03/061b00/26582686.pdf)](https://files.diariodarepublica.pt/1s/2005/03/061b00/26582686.pdf)](https://files.diariodarepublica.pt/1s/2005/03/061b00/26582686.pdf)](https://files.diariodarepublica.pt/1s/2005/03/061b00/26582686.pdf)](https://files.diariodarepublica.pt/1s/2005/03/061b00/26582686.pdf)](https://files.diariodarepublica.pt/1s/2005/03/061b00/26582686.pdf)](https://files.diariodarepublica.pt/1s/2005/03/061b00/26582686.pdf)](https://files.diariodarepublica.pt/1s/2005/03/061b00/26582686.pdf)](https://files.diariodarepublica.pt/1s/2005/03/061b00/26582686.pdf)](https://files.diariodarepublica.pt/1s/2005/03/061b00/26582686.pdf)](https://files.diariodarepublica.pt/1s/2005/03/061b00/26582686.pdf)](https://files.diariodarepublica.pt/1s/2005/03/061b00/26582686.pdf)](https://files.diariodarepublica.pt/1s/2005/03/061b00/26582686.pdf)](https://files.diariodarepublica.pt/1s/2005/03/061b00/26582686.pdf)](https://files.diariodarepublica.pt/1s/2005/03/061b00/26582686.pdf)](https://files.diariodarepublica.pt/1s/2005/03/061b00/26582686.pdf)](https://files.diariodarepublica.pt/1s/2005/03/061b00/26582686.pdf)](https://files.diariodarepublica.pt/1s/2005/03/061b00/26582686.pdf)](https://files.diariodarepublica.pt/1s/2005/03/061b00/26582686.pdf)
 
 Nota. - Itinerário de formação homologado pelo ISHST.
 
@@ -1171,7 +1207,7 @@ Itinerário referência n.º 20 - Topografia 1 (nível 3)
 
 Saída profissional. - Técnico de topografia.
 
-[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2005/03/061b00/26582686.pdf)
+[[[[[[[[[[[[[[[[[[[[[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2005/03/061b00/26582686.pdf)](https://files.diariodarepublica.pt/1s/2005/03/061b00/26582686.pdf)](https://files.diariodarepublica.pt/1s/2005/03/061b00/26582686.pdf)](https://files.diariodarepublica.pt/1s/2005/03/061b00/26582686.pdf)](https://files.diariodarepublica.pt/1s/2005/03/061b00/26582686.pdf)](https://files.diariodarepublica.pt/1s/2005/03/061b00/26582686.pdf)](https://files.diariodarepublica.pt/1s/2005/03/061b00/26582686.pdf)](https://files.diariodarepublica.pt/1s/2005/03/061b00/26582686.pdf)](https://files.diariodarepublica.pt/1s/2005/03/061b00/26582686.pdf)](https://files.diariodarepublica.pt/1s/2005/03/061b00/26582686.pdf)](https://files.diariodarepublica.pt/1s/2005/03/061b00/26582686.pdf)](https://files.diariodarepublica.pt/1s/2005/03/061b00/26582686.pdf)](https://files.diariodarepublica.pt/1s/2005/03/061b00/26582686.pdf)](https://files.diariodarepublica.pt/1s/2005/03/061b00/26582686.pdf)](https://files.diariodarepublica.pt/1s/2005/03/061b00/26582686.pdf)](https://files.diariodarepublica.pt/1s/2005/03/061b00/26582686.pdf)](https://files.diariodarepublica.pt/1s/2005/03/061b00/26582686.pdf)](https://files.diariodarepublica.pt/1s/2005/03/061b00/26582686.pdf)](https://files.diariodarepublica.pt/1s/2005/03/061b00/26582686.pdf)](https://files.diariodarepublica.pt/1s/2005/03/061b00/26582686.pdf)](https://files.diariodarepublica.pt/1s/2005/03/061b00/26582686.pdf)
 
 ## ANEXO N.º 22 — Itinerário referência n.º 21 - Topografia 2 (nível 3)
 
@@ -1205,7 +1241,7 @@ Itinerário referência n.º 21 - Topografia 2 (nível 3)
 
 Saída profissional. - Técnico de topografia.
 
-[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2005/03/061b00/26582686.pdf)
+[[[[[[[[[[[[[[[[[[[[[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2005/03/061b00/26582686.pdf)](https://files.diariodarepublica.pt/1s/2005/03/061b00/26582686.pdf)](https://files.diariodarepublica.pt/1s/2005/03/061b00/26582686.pdf)](https://files.diariodarepublica.pt/1s/2005/03/061b00/26582686.pdf)](https://files.diariodarepublica.pt/1s/2005/03/061b00/26582686.pdf)](https://files.diariodarepublica.pt/1s/2005/03/061b00/26582686.pdf)](https://files.diariodarepublica.pt/1s/2005/03/061b00/26582686.pdf)](https://files.diariodarepublica.pt/1s/2005/03/061b00/26582686.pdf)](https://files.diariodarepublica.pt/1s/2005/03/061b00/26582686.pdf)](https://files.diariodarepublica.pt/1s/2005/03/061b00/26582686.pdf)](https://files.diariodarepublica.pt/1s/2005/03/061b00/26582686.pdf)](https://files.diariodarepublica.pt/1s/2005/03/061b00/26582686.pdf)](https://files.diariodarepublica.pt/1s/2005/03/061b00/26582686.pdf)](https://files.diariodarepublica.pt/1s/2005/03/061b00/26582686.pdf)](https://files.diariodarepublica.pt/1s/2005/03/061b00/26582686.pdf)](https://files.diariodarepublica.pt/1s/2005/03/061b00/26582686.pdf)](https://files.diariodarepublica.pt/1s/2005/03/061b00/26582686.pdf)](https://files.diariodarepublica.pt/1s/2005/03/061b00/26582686.pdf)](https://files.diariodarepublica.pt/1s/2005/03/061b00/26582686.pdf)](https://files.diariodarepublica.pt/1s/2005/03/061b00/26582686.pdf)](https://files.diariodarepublica.pt/1s/2005/03/061b00/26582686.pdf)
 
 ## ANEXO N.º 23 — Itinerário referência n.º 22 - Especialização em topografia da construção (nível 4)
 
@@ -1247,7 +1283,7 @@ Itinerário referência n.º 22 - Especialização em topografia da construção
 
 Saída profissional. - geómetra.
 
-[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2005/03/061b00/26582686.pdf)
+[[[[[[[[[[[[[[[[[[[[[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2005/03/061b00/26582686.pdf)](https://files.diariodarepublica.pt/1s/2005/03/061b00/26582686.pdf)](https://files.diariodarepublica.pt/1s/2005/03/061b00/26582686.pdf)](https://files.diariodarepublica.pt/1s/2005/03/061b00/26582686.pdf)](https://files.diariodarepublica.pt/1s/2005/03/061b00/26582686.pdf)](https://files.diariodarepublica.pt/1s/2005/03/061b00/26582686.pdf)](https://files.diariodarepublica.pt/1s/2005/03/061b00/26582686.pdf)](https://files.diariodarepublica.pt/1s/2005/03/061b00/26582686.pdf)](https://files.diariodarepublica.pt/1s/2005/03/061b00/26582686.pdf)](https://files.diariodarepublica.pt/1s/2005/03/061b00/26582686.pdf)](https://files.diariodarepublica.pt/1s/2005/03/061b00/26582686.pdf)](https://files.diariodarepublica.pt/1s/2005/03/061b00/26582686.pdf)](https://files.diariodarepublica.pt/1s/2005/03/061b00/26582686.pdf)](https://files.diariodarepublica.pt/1s/2005/03/061b00/26582686.pdf)](https://files.diariodarepublica.pt/1s/2005/03/061b00/26582686.pdf)](https://files.diariodarepublica.pt/1s/2005/03/061b00/26582686.pdf)](https://files.diariodarepublica.pt/1s/2005/03/061b00/26582686.pdf)](https://files.diariodarepublica.pt/1s/2005/03/061b00/26582686.pdf)](https://files.diariodarepublica.pt/1s/2005/03/061b00/26582686.pdf)](https://files.diariodarepublica.pt/1s/2005/03/061b00/26582686.pdf)](https://files.diariodarepublica.pt/1s/2005/03/061b00/26582686.pdf)
 
 ## ANEXO N.º 24 — Itinerário referência n.º 23 - Especialização em conservação e reabilitação de edificações (nível 4)
 
@@ -1289,4 +1325,4 @@ Itinerário referência n.º 23 - Especialização em conservação e reabilita�
 
 Saída profissional. - técnico de conservação e reabilitação de edificações.
 
-[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2005/03/061b00/26582686.pdf)
+[[[[[[[[[[[[[[[[[[[[[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2005/03/061b00/26582686.pdf)](https://files.diariodarepublica.pt/1s/2005/03/061b00/26582686.pdf)](https://files.diariodarepublica.pt/1s/2005/03/061b00/26582686.pdf)](https://files.diariodarepublica.pt/1s/2005/03/061b00/26582686.pdf)](https://files.diariodarepublica.pt/1s/2005/03/061b00/26582686.pdf)](https://files.diariodarepublica.pt/1s/2005/03/061b00/26582686.pdf)](https://files.diariodarepublica.pt/1s/2005/03/061b00/26582686.pdf)](https://files.diariodarepublica.pt/1s/2005/03/061b00/26582686.pdf)](https://files.diariodarepublica.pt/1s/2005/03/061b00/26582686.pdf)](https://files.diariodarepublica.pt/1s/2005/03/061b00/26582686.pdf)](https://files.diariodarepublica.pt/1s/2005/03/061b00/26582686.pdf)](https://files.diariodarepublica.pt/1s/2005/03/061b00/26582686.pdf)](https://files.diariodarepublica.pt/1s/2005/03/061b00/26582686.pdf)](https://files.diariodarepublica.pt/1s/2005/03/061b00/26582686.pdf)](https://files.diariodarepublica.pt/1s/2005/03/061b00/26582686.pdf)](https://files.diariodarepublica.pt/1s/2005/03/061b00/26582686.pdf)](https://files.diariodarepublica.pt/1s/2005/03/061b00/26582686.pdf)](https://files.diariodarepublica.pt/1s/2005/03/061b00/26582686.pdf)](https://files.diariodarepublica.pt/1s/2005/03/061b00/26582686.pdf)](https://files.diariodarepublica.pt/1s/2005/03/061b00/26582686.pdf)](https://files.diariodarepublica.pt/1s/2005/03/061b00/26582686.pdf)

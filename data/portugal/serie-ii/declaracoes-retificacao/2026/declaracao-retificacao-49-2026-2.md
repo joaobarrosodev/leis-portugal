@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/2s/2026/01/014000000/0020600206.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -47,18 +47,18 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/declaracao-retificacao/49-2026-1016754133
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2026-01-21T00:00:00Z'
+  retrieved_at: '2026-10-23T15:04:53Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 6bb697f6e50e6c72e1500d75740817fd4bb1303ffebda7d834098bd00dfc0be1
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 6f6851f9842efd27bf1967353247d0d44fe22bec062961d2db54d3e6e6e6a451
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:04:53Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -70,13 +70,13 @@ relationships: []
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:04:53Z'
   warnings: []
   errors: []
 ---
@@ -98,3 +98,5 @@ deve ler-se:
 Doutor José Joaquim Costa Branco de Oliveira Pedro - autorizado o contrato de trabalho em funções públicas por tempo indeterminado, em regime de tenure em tempo integral, na categoria de professor associado, na área disciplinar de Mecânica Estrutural e Estruturas do Departamento de Engenharia Civil, Arquitetura e Ambiente, do mapa de pessoal do Instituto Superior Técnico, na sequência de procedimento concursal, com direito à remuneração correspondente ao 2.º escalão e ao nível remuneratório entre o 64 e o 65 da tabela remuneratória única.»
 
 13 de janeiro de 2026. - O Administrador, Doutor Nuno Alexandre de Brito Pedroso.
+
+319951847

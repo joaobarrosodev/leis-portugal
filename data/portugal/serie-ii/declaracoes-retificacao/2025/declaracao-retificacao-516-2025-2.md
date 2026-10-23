@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/2s/2025/05/101000000/0019000190.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -47,18 +47,18 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/declaracao-retificacao/516-2025-919521044
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2025-05-27T00:00:00Z'
+  retrieved_at: '2026-10-23T14:59:41Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: b76ed88c0c77b5958dcaa513de810f032ecf4265d8be72b3e8c7de7d478a3f92
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: d08af41acdda283dcb0dd2fb0664552b85782609626cbec13eb9477aa04e82be
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T14:59:41Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -70,13 +70,13 @@ relationships: []
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T14:59:41Z'
   warnings: []
   errors: []
 ---
@@ -87,7 +87,7 @@ Declaração de retificação do Despacho n.º 3554/2025, de 13 de março
 
 Ao abrigo do artigo 19.º dos Estatutos da NOVA FCSH, publicados em anexo ao Despacho n.º 7424/2023, de 2 de junho, no Diário da República, 2.ª série, n.º 136, de 14 de julho de 2023, considerando que o Despacho n.º 3554/2025, de 13 de março, publicado no Diário da República, 2.ª série, n.º 56, de 20 de março de 2025, saiu com a seguinte inexatidão, procede-se à retificação do mesmo.
 
-Assim, nos n.<sup>os</sup>1, 3 e 4, onde se lê:
+Assim, nos n.os1, 3 e 4, onde se lê:
 
 «1 - Nomeio Subdiretor para o Planeamento, Qualidade e Transformação Digital o Prof. Doutor Daniel Ribeiro Alves, nele delegando as competências para coordenar, dirigir e praticar os atos e decisões referentes à Divisão de Planeamento e Qualidade e à Divisão de Informática e Transformação Digital.
 
@@ -104,3 +104,5 @@ deve ler-se:
 4 - O presente despacho entra em vigor à data da sua publicação, produzindo efeitos a 12 de março de 2025, considerando-se ratificados todos os atos que, no âmbito dos poderes agora delegados, tenham sido praticados pelo subdiretor para o Planeamento, Qualidade e Transformação Digital, durante o período de 12 de março de 2025 até à vigência do presente ato.»
 
 10 de abril de 2025. - O Diretor, Prof. Doutor Luís Baptista.
+
+318940939

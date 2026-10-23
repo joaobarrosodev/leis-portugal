@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/552/2004/05/22/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/552-2004-253265
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2004-05-22T00:00:00Z'
+  retrieved_at: '2026-10-23T14:59:53Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 90c6187ab86d1a68fe766b5e818d7cce851a2b19839ab040783ba775f9d59f96
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: e3863b1163e52a0b0b0a01a202b3f853b59cd07e0106fa56ea44d75cde176ceb
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T14:59:53Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -74,16 +74,20 @@ relationships:
   target: eli:http://data.dre.pt/eli/port/24/2001/01/12/p/dre
   label: null
   source: http://data.dre.pt/eli/port/24/2001/01/12/p/dre
+- type: cites
+  target: pt:dre:340816:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T14:59:53Z'
   warnings: []
   errors: []
 ---
@@ -96,4 +100,4 @@ Considerando que, no preâmbulo da [Portaria n.º 24/2001](https://diariodarepub
 
 Manda o Governo, pelo Ministro de Estado e da Defesa Nacional, que seja alterado o preâmbulo da [Portaria n.º 24/2001](https://diariodarepublica.pt/dr/detalhe/portaria/24-2001-340816), de 12 de Janeiro, por forma que onde se lê «académico a quem se deve, aliás, a iniciativa da fundação da Academia de Marinha, de que foi o primeiro presidente:» passe a ler-se «académico que muito contribuiu ainda para o prestígio da Academia de Marinha, de que foi presidente:».
 
-**O Ministro de Estado e da Defesa Nacional, Paulo Sacadura Cabral Portas, em 6 de Maio de 2004.**
+O Ministro de Estado e da Defesa Nacional, Paulo Sacadura Cabral Portas, em 6 de Maio de 2004.

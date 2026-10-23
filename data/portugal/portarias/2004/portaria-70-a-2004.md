@@ -19,7 +19,7 @@ publication:
   reference: Diário da República n.º 13/2004, 2º Suplemento, Série I-B de 2004-01-16
   number: '13'
   series: I
-  supplement: 2º Suplemento
+  supplement: null
   pages: 338-(134) a 338-(135)
   pdf_url: https://files.diariodarepublica.pt/1s/2004/01/013b02/01340135.pdf
 entry_into_force_dates: []
@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/70-a/2004/01/16/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/70-a-2004-521597
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2004-01-16T00:00:00Z'
+  retrieved_at: '2026-10-23T15:00:44Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 07775261c87b4258680a6f672baf52ce349cd00bb7bb4adc7576a5da66c69d96
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: e6afd5535b73552d31dfd4a7bcb49d6be11b13639561b0208f984763ae822f29
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:00:44Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -65,13 +65,13 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Aquisição de Imóveis
-- Realojamento
-- Instituto Nacional de Habitação
-- Preço Máximo
-- PER
-- Madeira.região Autónoma
 - Açores
+- Aquisição de Imóveis
+- Instituto Nacional de Habitação
+- Madeira.região Autónoma
+- PER
+- Preço Máximo
+- Realojamento
 relationships:
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/105/1996/07/31/p/dre
@@ -93,16 +93,44 @@ relationships:
   target: eli:http://data.dre.pt/eli/dec-lei/79/1996/06/20/p/dre
   label: null
   source: http://data.dre.pt/eli/dec-lei/79/1996/06/20/p/dre
+- type: cites
+  target: pt:dre:274242:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:289214:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:406886:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:418827:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:431037:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:484576:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:516974:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:00:44Z'
   warnings: []
   errors: []
 ---
@@ -157,12 +185,12 @@ b) A aquisição de fogos ao abrigo do regime do [Decreto-Lei n.º 79/96](https:
 
 Em 30 de Dezembro de 2003.
 
-**O Secretário de Estado do Tesouro e Finanças, Francisco Adelino Gusmão Esteves de Carvalho. - A Secretária de Estado da Habitação, Maria do Rosário Cardoso Águas.**
+O Secretário de Estado do Tesouro e Finanças, Francisco Adelino Gusmão Esteves de Carvalho. - A Secretária de Estado da Habitação, Maria do Rosário Cardoso Águas.
 
 QUADRO I
 
-[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2004/01/013b02/01340135.pdf)
+[[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2004/01/013b02/01340135.pdf)](https://files.diariodarepublica.pt/1s/2004/01/013b02/01340135.pdf)
 
 QUADRO II
 
-[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2004/01/013b02/01340135.pdf)
+[[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2004/01/013b02/01340135.pdf)](https://files.diariodarepublica.pt/1s/2004/01/013b02/01340135.pdf)

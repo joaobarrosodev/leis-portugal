@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/113/2005/01/28/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/113-2005-620929
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2005-08-23T00:00:00Z'
+  retrieved_at: '2026-10-23T15:03:16Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: bc0bff28d3273ba72dc56f63c078981626d2657f8bd15be4bebced88161fc26b
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: c8a64b7a502c2ef9f15da883c4319eb8d2de4e23af3b437ff491e1452ee571d1
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:03:16Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,29 +66,29 @@ reuse:
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
 - Acesso ao Emprego
-- Financiamento
-- Instituto do Emprego e Formação Profissional
-- Formação Profissional
+- Apoio ao Investimento
+- Bolsa de Estudos
 - Certificação Profissional
+- Criação de Emprego
 - Definição de Competências
 - Desenvolvimento Social
-- FAFE
-- Apoio ao Investimento
-- Projeto de Investimento
-- Guimarães
-- Criação de Emprego
-- Plano de Intervenção para o VALE do AVE
-- VALE do AVE
-- Póvoa de Lanhoso
-- Qualificação Profissional
 - Estágio de Formação
-- Política de Emprego
+- FAFE
+- Financiamento
+- Formação Profissional
+- Guimarães
+- Instituto do Emprego e Formação Profissional
 - Microempresa
-- Bolsa de Estudos
 - Mobilidade de Pessoal
+- Plano de Intervenção para o VALE do AVE
+- Política de Emprego
+- Póvoa de Lanhoso
+- Projeto de Investimento
+- Qualificação Profissional
 - Santo Tirso
 - Subsídio
 - Trofa
+- VALE do AVE
 - Vieira do Minho
 - VILA NOVA de Famalicão
 - Vizela
@@ -97,6 +97,19 @@ relationships:
   target: pt:dre:246124:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:605332:por
+  label: "Alargado o âmbito de aplicação geográfica do Plano de Intervenção para o Vale do Ave (PIAVE), aprovado pelo presente\
+    \ diploma, pela PORT.190/2005.17.02.2005.MAET, DR.IS-B [34] de 17.02.2005\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/190-2005-605332
+  date: '2005-02-17'
+- type: amended_by
+  target: pt:dre:246124:por
+  label: "Alargado o âmbito de aplicação do Plano de Intervenção para o Vale do Ave(PIAVE) aprovado pelo presente diploma,\
+    \ aos concelhos de Cabeceiras de Basto e Celorico de Basto pela PORT.698/2005.23.08.2005.MTSSO, DR.IS-B [161] de 23.08.2005\0\
+    \0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/698-2005-246124
+  date: '2005-08-23'
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/132/1999/04/21/p/dre
   label: null
@@ -133,16 +146,61 @@ relationships:
   target: eli:http://data.dre.pt/eli/port/814/1998/09/24/p/dre
   label: null
   source: http://data.dre.pt/eli/port/814/1998/09/24/p/dre
+- type: cites
+  target: pt:dre:246113:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:264679:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:265528:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:300651:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:325295:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:421385:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:444876:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:469608:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:534598:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:644358:por
+  label: null
+  source: null
+- type: corrected_by
+  target: pt:dre:578557:por
+  label: "Rectificada pela DECL-RECT.16/2005.08.03.2005.PCM, DR.IS-B [56] de 21.03.2005\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/declaracao-rectificacao/16-2005-578557
+  date: '2005-03-08'
 article_structure:
   article_count: 0
   section_count: 12
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:03:16Z'
   warnings: []
   errors: []
 ---
@@ -1017,4 +1075,4 @@ Centro de reconhecimento, validação e certificação de competências académi
 
 Com o objectivo de combater o baixo nível de escolaridade, aliado a outros factores como o género e a idade, e de aumentar a empregabilidade, será criado um centro de reconhecimento, validação e certificação de competências académicas no Centro de Formação Profissional de Braga.
 
-**O Secretário de Estado Adjunto e do Trabalho, Luís Miguel Pais Antunes, em 22 de Dezembro de 2004.**
+O Secretário de Estado Adjunto e do Trabalho, Luís Miguel Pais Antunes, em 22 de Dezembro de 2004.

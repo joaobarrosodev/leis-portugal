@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/2s/2026/04/067000000/0025900259.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -46,18 +46,18 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/declaracao-retificacao/274-2026-1082603753
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2026-04-07T00:00:00Z'
+  retrieved_at: '2026-10-23T15:03:33Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 61bc8c0ad033db9013485171f73bae109be15f61fcf94bd029992f770284a0b0
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: c77606379c6c2f75e6d82b62d64c30562e2cec0d0790c0be3dcf92dc6512bcdf
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:03:33Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -65,17 +65,21 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects: []
-relationships: []
+relationships:
+- type: cites
+  target: pt:dre:1001066498:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:03:33Z'
   warnings: []
   errors: []
 ---
@@ -87,3 +91,5 @@ No número do Diário da República a seguir indicado deve ser considerada a seg
 Por ter saído com inexatidão o [Aviso n.º 549/2026/2](https://diariodarepublica.pt/dr/detalhe/aviso/549-2026-1001066498) (Diário da República, 2.ª série, n.º 5, de 8 de janeiro de 2026), retifica-se que, na publicação constante na p. 5, onde se lê «Fernando César Gonçalves Esperança, Agente Principal» deve ler-se «Fernando César Gonçalves Esperança, Agente Coordenador».
 
 31 de março de 2026. - O Diretor Central, Vasco Sérgio Costa.
+
+319983639

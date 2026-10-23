@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/644/2004/06/16/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/644-2004-273192
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2004-06-16T00:00:00Z'
+  retrieved_at: '2026-10-23T15:00:24Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: ab68c127e3f991e80da53e294658e661e5276994fb7ad35e29307776ddf1213f
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 4f7f036ab7b2e5f472be39aa15e3c5e0f2d4f68b29a0828f6fa0d7629fac4e7f
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:00:24Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -68,8 +68,8 @@ reuse:
 subjects:
 - Castro Daire
 - Comissão de Protecção de Crianças e Jovens
-- Instituto de Solidariedade e Segurança Social
 - Criação de Serviços
+- Instituto de Solidariedade e Segurança Social
 - Jovem
 - Menoridade
 - Tutela de Menores
@@ -86,16 +86,28 @@ relationships:
   target: eli:http://data.dre.pt/eli/lei/147/1999/09/01/p/dre
   label: null
   source: http://data.dre.pt/eli/lei/147/1999/09/01/p/dre
+- type: cites
+  target: pt:dre:315502:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:347167:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:581619:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:00:24Z'
   warnings: []
   errors: []
 ---
@@ -148,7 +160,7 @@ m) Os técnicos que venham a ser cooptados pela Comissão.
 
 3.º
 
-**O presidente da Comissão de Protecção é eleito pela comissão alargada, de entre todos os seus membros, na primeira reunião plenária, por um período de dois anos, renovável por duas vezes. As funções de secretário são desempenhadas por um membro da Comissão designado pelo presidente.**
+O presidente da Comissão de Protecção é eleito pela comissão alargada, de entre todos os seus membros, na primeira reunião plenária, por um período de dois anos, renovável por duas vezes. As funções de secretário são desempenhadas por um membro da Comissão designado pelo presidente.
 
 4.º
 
@@ -176,4 +188,4 @@ O disposto na presente portaria produz efeitos a partir de 26 de Abril de 2004, 
 
 Em 19 de Maio de 2004.
 
-**A Ministra da Justiça, Maria Celeste Ferreira Lopes Cardona. - O Ministro da Segurança Social e do Trabalho, António José de Castro Bagão Félix.**
+A Ministra da Justiça, Maria Celeste Ferreira Lopes Cardona. - O Ministro da Segurança Social e do Trabalho, António José de Castro Bagão Félix.

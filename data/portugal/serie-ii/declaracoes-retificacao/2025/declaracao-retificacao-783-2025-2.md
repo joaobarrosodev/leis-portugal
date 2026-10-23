@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/2s/2025/08/158000000/0053200532.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -46,18 +46,18 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/declaracao-retificacao/783-2025-932559346
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2025-08-19T00:00:00Z'
+  retrieved_at: '2026-10-23T15:01:18Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 58263e5fe5efe1968237bbe036da346a303d4a4560c497898f984a79bdbf3643
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: d3e20f92c7c6b4eec872684d55f18bd9cbadbd399007af07b91c6ffd7fcbd252
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:01:18Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -65,17 +65,21 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects: []
-relationships: []
+relationships:
+- type: cites
+  target: pt:dre:681597:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:01:18Z'
   warnings: []
   errors: []
 ---
@@ -87,3 +91,5 @@ Declaração de retificação do Edital n.º 1393/2025
 Por ter saído com inexatidão o Edital n.º 1393/2025, publicado no Diário da República, 2.ª série, n.º 145, de 30 de julho de 2025, respeitante à ordenação heráldica do brasão, bandeira e selo da Freguesia de Almancil, retifica-se que onde se lê «tendo em conta o parecer emitido a 20 de maio de 2025» deve ler-se «tendo em conta o parecer emitido a 15 de abril de 2025», onde se lê «em sessão da Assembleia de Freguesia de 26 de junho de 2025» deve ler-se «em sessão da Assembleia de Freguesia de 25 de junho de 2025» e onde se lê «Nos termos da [Lei n.º 53/91](https://diariodarepublica.pt/dr/detalhe/lei/53-1991-681597), com a legenda: ‘Junta de Freguesia de Almancil - Concelho de Loulé’ deve ler-se «Nos termos da [Lei n.º 53/91](https://diariodarepublica.pt/dr/detalhe/lei/53-1991-681597), com a legenda: ‘Junta de Freguesia de Almancil’».
 
 6 de agosto de 2025. - O Presidente, Joaquim João Pinheiro Pinto.
+
+319427651

@@ -48,18 +48,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/284/2005/03/21/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/284-2005-578551
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2005-04-27T00:00:00Z'
+  retrieved_at: '2026-10-23T15:05:27Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 886ac576a541c47438382becea73306ffc0afcf1fc531a1d77bae479d1d003af
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 5c209238a67e88d603defb130b35f71ab96f64016d81fd2bf2f5ce84b6ff6b4c
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:05:27Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -68,9 +68,9 @@ reuse:
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
 - Água Mineral
+- Águas Subterrâneas
 - Recursos Hídricos
 - Recursos Naturais
-- Águas Subterrâneas
 - Termalismo
 - Termas de são Vicente
 relationships:
@@ -78,16 +78,29 @@ relationships:
   target: pt:dre:693869:por
   label: Última alteração registada na importação inicial
   source: null
+- type: cites
+  target: pt:dre:333159:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:333160:por
+  label: null
+  source: null
+- type: corrected_by
+  target: pt:dre:693869:por
+  label: "Rectificada pela DECL-RECT.35/2005.27.04.2005.PCM, DR.IS-B [90] de 10.05.2005\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/declaracao-rectificacao/35-2005-693869
+  date: '2005-04-27'
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:05:27Z'
   warnings: []
   errors: []
 ---
@@ -108,19 +121,19 @@ Manda o Governo, pelos Ministros de Estado, das Actividades Económicas e do Tra
 
 Zona imediata. - Definida por dois círculos, um com raio de 5 m (centro na captação furo de Santo Agostinho) e outro com 10 m de raio (centro na captação nascente termal), cujas coordenadas são as seguintes:
 
-[(ver tabela no documento original)](https://files.diariodarepublica.pt/1s/2005/03/056b00/24742475.pdf)
+[[[(ver tabela no documento original)](https://files.diariodarepublica.pt/1s/2005/03/056b00/24742475.pdf)](https://files.diariodarepublica.pt/1s/2005/03/056b00/24742475.pdf)](https://files.diariodarepublica.pt/1s/2005/03/056b00/24742475.pdf)
 
 Zona intermédia. - Delimitada pelo polígono ABCD, cujos vértices têm as seguintes coordenadas:
 
-[(ver tabela no documento original)](https://files.diariodarepublica.pt/1s/2005/03/056b00/24742475.pdf)
+[[[(ver tabela no documento original)](https://files.diariodarepublica.pt/1s/2005/03/056b00/24742475.pdf)](https://files.diariodarepublica.pt/1s/2005/03/056b00/24742475.pdf)](https://files.diariodarepublica.pt/1s/2005/03/056b00/24742475.pdf)
 
 Zona alargada. - Delimitada pelo polígono EFGCBADH, cujos vértices têm as seguintes coordenadas:
 
-[(ver tabela no documento original)](https://files.diariodarepublica.pt/1s/2005/03/056b00/24742475.pdf)
+[[[(ver tabela no documento original)](https://files.diariodarepublica.pt/1s/2005/03/056b00/24742475.pdf)](https://files.diariodarepublica.pt/1s/2005/03/056b00/24742475.pdf)](https://files.diariodarepublica.pt/1s/2005/03/056b00/24742475.pdf)
 
 Em 27 de Janeiro de 2005.
 
-**O Ministro de Estado, das Actividades Económicas e do Trabalho, Álvaro Roque de Pinho Bissaya Barreto. - O Ministro das Cidades, Administração Local, Habitação e Desenvolvimento Regional, José Luís Fazenda Arnaut Duarte. - O Ministro do Ambiente e do Ordenamento do Território, Luís José de Mello e Castro Guedes.**
+O Ministro de Estado, das Actividades Económicas e do Trabalho, Álvaro Roque de Pinho Bissaya Barreto. - O Ministro das Cidades, Administração Local, Habitação e Desenvolvimento Regional, José Luís Fazenda Arnaut Duarte. - O Ministro do Ambiente e do Ordenamento do Território, Luís José de Mello e Castro Guedes.
 
 Zonas do perímetro de protecção para a concessão hidromineral denominada «Termas de São Vicente»
 

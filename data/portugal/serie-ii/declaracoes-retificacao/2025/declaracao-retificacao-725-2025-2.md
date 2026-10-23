@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/2s/2025/08/149000000/0024300243.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -46,18 +46,18 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/declaracao-retificacao/725-2025-927728207
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2025-08-05T00:00:00Z'
+  retrieved_at: '2026-10-23T15:00:58Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: b07fea9cac2980f0438a1568a6ef8150e40fad3f0db7cd840ec401d6175b3654
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 49fad609731c97ac058b08fc6b39a26ee8ef802244875efbe28fe240c0030b43
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:00:58Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -69,13 +69,13 @@ relationships: []
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:00:58Z'
   warnings: []
   errors: []
 ---
@@ -113,3 +113,5 @@ Torna-se público que, por meu despacho de 24 de julho de 2025, foi determinada 
 Estão dispensados de formalizar nova candidatura os/as candidatos/as que já o tenham feito na sequência da publicação do Edital n.º 1017/2025, no Diário da República, sem prejuízo da faculdade de juntarem ou substituírem documentos à candidatura, dentro do novo prazo.
 
 24 de julho de 2025. - O Diretor, Prof. Doutor Luís Manuel Pinto da Rocha Afonso Carriço.
+
+319365524

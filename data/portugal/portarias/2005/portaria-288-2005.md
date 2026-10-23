@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/288/2005/03/21/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/288-2005-578540
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2005-03-21T00:00:00Z'
+  retrieved_at: '2026-10-23T15:05:27Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: b5be1b2abb1ab421852b32300cf26cd26f54cd9a2aee5f9d301beee3c05d3fca
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 7ffe429c22c04fa0c600ba795092b3ea051b769f88014d174a98cab955048779
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:05:27Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -68,11 +68,11 @@ reuse:
 subjects:
 - Acesso ao Direito
 - Ajuda Judicial
-- Direito de Acesso
 - Declaração de Rendimentos
 - Direito à Justiça
-- IRS
+- Direito de Acesso
 - Insuficiência Económica
+- IRS
 relationships:
 - type: cites
   target: eli:http://data.dre.pt/eli/lei/34/2004/07/29/p/dre
@@ -82,16 +82,24 @@ relationships:
   target: eli:http://data.dre.pt/eli/port/1085-a/2004/08/31/p/dre
   label: null
   source: http://data.dre.pt/eli/port/1085-a/2004/08/31/p/dre
+- type: cites
+  target: pt:dre:216759:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:502394:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:05:27Z'
   warnings: []
   errors: []
 ---
@@ -130,11 +138,15 @@ Os artigos 1.º e 9.º e o anexo III da [Portaria n.º 1085-A/2004](https://diar
 
 3 - ...
 
-###### Artigo 9.º — Cálculo do valor do rendimento relevante para efeitos de protecção jurídica
+Artigo 9.º
+
+Cálculo do valor do rendimento relevante para efeitos de protecção jurídica
 
 O valor do rendimento relevante para efeitos de protecção jurídica, especificado nos artigos anteriores, é calculado através da fórmula prevista no anexo III desta portaria.
 
-## ANEXO III — Fórmula a que se refere o artigo 9.º
+ANEXO III
+
+Fórmula a que se refere o artigo 9.º
 
 A fórmula de cálculo do valor do rendimento relevante para efeitos de protecção jurídica é a seguinte:
 
@@ -142,11 +154,11 @@ A fórmula de cálculo do valor do rendimento relevante para efeitos de protecç
 
 A fórmula de cálculo resulta das seguintes identidades algébricas:
 
-[(ver fórmulas no documento original)](https://files.diariodarepublica.pt/1s/2005/03/056b00/25162517.pdf)
+[[(ver fórmulas no documento original)](https://files.diariodarepublica.pt/1s/2005/03/056b00/25162517.pdf)](https://files.diariodarepublica.pt/1s/2005/03/056b00/25162517.pdf)
 
 Portanto, por operações aritméticas elementares:
 
-[(ver fórmulas no documento original)](https://files.diariodarepublica.pt/1s/2005/03/056b00/25162517.pdf)
+[[(ver fórmulas no documento original)](https://files.diariodarepublica.pt/1s/2005/03/056b00/25162517.pdf)](https://files.diariodarepublica.pt/1s/2005/03/056b00/25162517.pdf)
 
 2.º
 
@@ -174,4 +186,4 @@ A presente portaria entra em vigor no dia seguinte ao da sua publicação.
 
 Em 18 de Fevereiro de 2005.
 
-**O Ministro da Justiça, José Pedro Aguiar Branco. - O Ministro da Segurança Social, da Família e da Criança, Fernando Mimoso Negrão.**
+O Ministro da Justiça, José Pedro Aguiar Branco. - O Ministro da Segurança Social, da Família e da Criança, Fernando Mimoso Negrão.

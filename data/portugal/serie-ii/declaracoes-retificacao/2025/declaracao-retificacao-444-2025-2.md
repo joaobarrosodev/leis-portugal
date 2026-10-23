@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/2s/2025/05/085000000/0034000340.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -47,18 +47,18 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/declaracao-retificacao/444-2025-916749773
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2025-05-05T00:00:00Z'
+  retrieved_at: '2026-10-23T14:59:16Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: bbc6ac0d9e9314a6d119d8445c34880278429181208555152637009c9929a1ce
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 938c1958fb0d91afc0f5c99743db87143aff7b6a4c269e178dcd1e12967a8f96
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T14:59:16Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,17 +66,25 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects: []
-relationships: []
+relationships:
+- type: cites
+  target: pt:dre:25676932:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:916175662:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T14:59:16Z'
   warnings: []
   errors: []
 ---
@@ -96,3 +104,5 @@ deve ler-se:
 «2 - Caracterização do posto de trabalho: Conteúdo funcional inerente à carreira geral e categoria de técnico superior, conforme o previsto no anexo à Lei do Trabalho em Funções Públicas, aprovada pela [Lei n.º 35/2014](https://diariodarepublica.pt/dr/detalhe/lei/35-2014-25676932), de 20 de junho, na sua redação atual, a que se refere o n.º 2 do artigo 88.º da mesma, a que acrescem as funções constantes no Mapa de Pessoal do Município, cabendo ainda: lecionação de aulas de natação, hidroginástica, hidrobike, hidrogeriatria e ginástica geriátrica; planeamento, organização, acompanhamento técnico e monitorização das ações, programas e eventos desportivos que integram o plano de atividades do setor do desporto; aplicação de programas e projetos de desenvolvimento desportivo, formação desportiva e ocupação de tempos livres que visem a melhoria da qualidade de vida para os diferentes grupos etários da população; planificação, preparação, operacionalização e monitorização de campanhas de informação e divulgação de ações, aulas, programas e eventos desportivos; promoção, lecionação e monitorização de aulas de educação especial, expressão física e motora, atividade física para seniores, e atividades aquáticas nas vertentes utilitária, educativa, competitiva, recreativa e de promoção da saúde; colaboração no apoio e atendimento aos alunos, utilizadores dos equipamentos desportivos ou participantes dos programas e eventos desportivos; participação na elaboração e implementação de regulamentos de utilização de equipamentos e instalações desportivas e programas municipais da área do desporto; desenvolvimento de projetos e ações ao nível da intervenção com as associações, instituições, coletividades e entidades que dinamizem a prática desportiva.»
 
 28 de abril de 2025. - O Presidente da Câmara Municipal, Rui Miguel Rio Tinto Lages, Dr.
+
+318989978

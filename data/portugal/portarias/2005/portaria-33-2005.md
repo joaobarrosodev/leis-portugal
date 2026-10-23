@@ -26,7 +26,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2005/01/010b00/02760277.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -48,18 +48,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/33/2005/01/14/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/33-2005-626381
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2009-07-28T00:00:00Z'
+  retrieved_at: '2026-10-23T15:05:43Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 1deb7541969d51476a573d1436b6603b361ab745268d4a66a78064311aff6b67
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 7bd9c6c03c499d92510aadf0afa62812e1fb5ec59eccfea6cc00a39617035373
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:05:43Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -68,10 +68,10 @@ reuse:
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
 - Colégio dos Órfãos
-- Plano de Estudos
 - Ensino Cooperativo
 - Ensino Particular
 - Ensino Secundário
+- Plano de Estudos
 - Porto
 relationships:
 - type: amended_by
@@ -82,16 +82,33 @@ relationships:
   target: eli:http://data.dre.pt/eli/dec-lei/74/2004/03/26/p/dre
   label: null
   source: http://data.dre.pt/eli/dec-lei/74/2004/03/26/p/dre
+- type: cites
+  target: pt:dre:210801:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:458182:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:503611:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:492767:por
+  label: "Revogada pela PORT.815/2009.28.07.2009.ME, DR.IS [144] de 28.07.2009\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/815-2009-492767
+  date: '2009-07-28'
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:05:43Z'
   warnings: []
   errors: []
 ---
@@ -144,7 +161,7 @@ Manda o Governo, pela Ministra da Educação, ao abrigo do disposto no artigo 5.
 
 12.º É revogado o despacho n.º 183/ME/96, de 11 de Setembro.
 
-**A Ministra da Educação, Maria do Carmo Félix da Costa Seabra, em 10 de Dezembro de 2004.**
+A Ministra da Educação, Maria do Carmo Félix da Costa Seabra, em 10 de Dezembro de 2004.
 
 ## ANEXO — Colégio dos Órfãos do Porto
 

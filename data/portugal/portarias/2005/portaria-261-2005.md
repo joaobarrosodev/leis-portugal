@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2005/03/054b00/23992403.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/261/2005/03/17/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/261-2005-574348
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2007-04-30T00:00:00Z'
+  retrieved_at: '2026-10-23T15:05:20Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 6f1be16045b36f097a2d4a9edd4090c80aa1c1e9a03a5641156be320191619a0
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: adfc3bc536ea863312b37822cef4fa0e0e75d0718388ec150b50b190370d8cff
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:05:20Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -82,16 +82,29 @@ relationships:
   target: eli:http://data.dre.pt/eli/lei/3/2004/01/15/p/dre
   label: null
   source: http://data.dre.pt/eli/lei/3/2004/01/15/p/dre
+- type: cites
+  target: pt:dre:278973:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:603478:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:521222:por
+  label: "Revogada pela PORT.540/2007.30.04.2007.MFAP, DR.IS [83] de 30.04.2007\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/540-2007-521222
+  date: '2007-04-30'
 article_structure:
   article_count: 16
   section_count: 6
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:05:20Z'
   warnings: []
   errors: []
 ---
@@ -116,7 +129,7 @@ São aprovados os Estatutos e definidos os órgãos e estrutura do Instituto Por
 
 Em 14 de Fevereiro de 2005.
 
-**O Ministro de Estado, das Actividades Económicas e do Trabalho, Álvaro Roque de Pinho Bissaya Barreto. - O Ministro das Finanças e da Administração Pública, António José de Castro Bagão Félix.**
+O Ministro de Estado, das Actividades Económicas e do Trabalho, Álvaro Roque de Pinho Bissaya Barreto. - O Ministro das Finanças e da Administração Pública, António José de Castro Bagão Félix.
 
 ## ANEXO — ESTATUTOS DO INSTITUTO PORTUGUÊS DA QUALIDADE, I. P.
 

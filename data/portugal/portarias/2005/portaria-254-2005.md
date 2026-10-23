@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/254/2005/03/14/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/254-2005-575307
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2006-09-11T00:00:00Z'
+  retrieved_at: '2026-10-23T15:05:17Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 3f863a58d67112f16b465865585c308def57315fa85a22f9c1dcdf410aef5378
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: e71abd618b89e7914f211fd27f0e715b42f53b2f39b126f3554d0bb9665a493f
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:05:17Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,19 +66,41 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Financiamento
+- Agricultura
 - Apoio ao Investimento
-- Projeto de Investimento
-- Ruris
+- Financiamento
 - Política Agrícola
 - Produção Agrícola
+- Projeto de Investimento
 - Regulamento de Aplicação da Intervenção Medidas Agro-ambientais
-- Agricultura
+- Ruris
 relationships:
 - type: amended_by
   target: pt:dre:540048:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:220160:por
+  label: "Alterados os artigos 3.º, 8º, 10.º, 13.º, 14.º, 17.º, 24.º, 25º, 34.º, 41º, 58º, 65.º, 75º, 90.º, 91.º e 92.º e\
+    \ Anexo III do Regulamento de Aplicação da Intervenção Medidas Agro-Ambientais, aprovado pela Portaria n.º 1212/2003,\
+    \ de 16-Out, alterado pelo presente diploma, pela PORT.500/2005.02.06.2005.MADRP, DR.IS-B [106] de 02.06.2005 \0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/500-2005-220160
+  date: '2005-06-02'
+- type: amended_by
+  target: pt:dre:676839:por
+  label: "Permitida a prorrogação por mais um ano das candidaturas, cujo termo tenha ocorrido em 2005, aos beneficiários com\
+    \ candidaturas à ajudas previstas no Regulamento de Aplicação da Intervenção \"Medidas Agro-Ambientais\", aprovado pela\
+    \ Port 1212/2003 de 16-Out, com a redacção constante do presente diploma, pela PORT.143/2006.20.02.2006.MADRP, DR.IS-B\
+    \ [36] de 20.02.2006 \0 \0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/143-2006-676839
+  date: '2006-02-20'
+- type: amended_by
+  target: pt:dre:540048:por
+  label: "Permitida a transferência para os herdeiros dos beneficiários falecidos em 2005 ou em 2006 das ajudas previstas\
+    \ no Regulamento de Aplicação aprovado pela Port 1212/003 de 16-Out, com a redacção do presente diploma, pela PORT.949/2006.11.09.2006.MADRP,\
+    \ DR.IS [175] de 11.09.2006\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/949-2006-540048
+  date: '2006-09-11'
 - type: cites
   target: celex:31999R0528
   label: null
@@ -90,13 +112,13 @@ relationships:
 article_structure:
   article_count: 46
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:05:17Z'
   warnings: []
   errors: []
 ---
@@ -1395,15 +1417,15 @@ m) ...
 
 ## ANEXO I — [...]
 
-[(ver tabela no documento original)](https://files.diariodarepublica.pt/1s/2005/03/051b00/22332255.pdf)
+[[[[[[(ver tabela no documento original)](https://files.diariodarepublica.pt/1s/2005/03/051b00/22332255.pdf)](https://files.diariodarepublica.pt/1s/2005/03/051b00/22332255.pdf)](https://files.diariodarepublica.pt/1s/2005/03/051b00/22332255.pdf)](https://files.diariodarepublica.pt/1s/2005/03/051b00/22332255.pdf)](https://files.diariodarepublica.pt/1s/2005/03/051b00/22332255.pdf)](https://files.diariodarepublica.pt/1s/2005/03/051b00/22332255.pdf)
 
 ## ANEXO III — [...]
 
-[(ver tabela no documento original)](https://files.diariodarepublica.pt/1s/2005/03/051b00/22332255.pdf)
+[[[[[[(ver tabela no documento original)](https://files.diariodarepublica.pt/1s/2005/03/051b00/22332255.pdf)](https://files.diariodarepublica.pt/1s/2005/03/051b00/22332255.pdf)](https://files.diariodarepublica.pt/1s/2005/03/051b00/22332255.pdf)](https://files.diariodarepublica.pt/1s/2005/03/051b00/22332255.pdf)](https://files.diariodarepublica.pt/1s/2005/03/051b00/22332255.pdf)](https://files.diariodarepublica.pt/1s/2005/03/051b00/22332255.pdf)
 
 ## ANEXO V — [...]
 
-[(ver tabela no documento original)](https://files.diariodarepublica.pt/1s/2005/03/051b00/22332255.pdf)
+[[[[[[(ver tabela no documento original)](https://files.diariodarepublica.pt/1s/2005/03/051b00/22332255.pdf)](https://files.diariodarepublica.pt/1s/2005/03/051b00/22332255.pdf)](https://files.diariodarepublica.pt/1s/2005/03/051b00/22332255.pdf)](https://files.diariodarepublica.pt/1s/2005/03/051b00/22332255.pdf)](https://files.diariodarepublica.pt/1s/2005/03/051b00/22332255.pdf)](https://files.diariodarepublica.pt/1s/2005/03/051b00/22332255.pdf)
 
 A ajuda é atribuída a uma área calculada em função do número de animais declarados anualmente e inscritos em modo de produção biológico na relação:
 
@@ -1421,13 +1443,13 @@ Codornizes - 500 bicos - 1 ha;
 
 ## ANEXO VI — [...]
 
-[(ver tabela no documento original)](https://files.diariodarepublica.pt/1s/2005/03/051b00/22332255.pdf)
+[[[[[[(ver tabela no documento original)](https://files.diariodarepublica.pt/1s/2005/03/051b00/22332255.pdf)](https://files.diariodarepublica.pt/1s/2005/03/051b00/22332255.pdf)](https://files.diariodarepublica.pt/1s/2005/03/051b00/22332255.pdf)](https://files.diariodarepublica.pt/1s/2005/03/051b00/22332255.pdf)](https://files.diariodarepublica.pt/1s/2005/03/051b00/22332255.pdf)](https://files.diariodarepublica.pt/1s/2005/03/051b00/22332255.pdf)
 
 Nota. - As raças bovinas Alentejana e Mertolenga mantêm elegíveis apenas no que respeita a candidaturas já apresentadas.
 
 ## ANEXO VII — [...]
 
-[(ver tabela no documento original)](https://files.diariodarepublica.pt/1s/2005/03/051b00/22332255.pdf)
+[[[[[[(ver tabela no documento original)](https://files.diariodarepublica.pt/1s/2005/03/051b00/22332255.pdf)](https://files.diariodarepublica.pt/1s/2005/03/051b00/22332255.pdf)](https://files.diariodarepublica.pt/1s/2005/03/051b00/22332255.pdf)](https://files.diariodarepublica.pt/1s/2005/03/051b00/22332255.pdf)](https://files.diariodarepublica.pt/1s/2005/03/051b00/22332255.pdf)](https://files.diariodarepublica.pt/1s/2005/03/051b00/22332255.pdf)
 
 ## ANEXO VIII — [...]
 
@@ -1479,7 +1501,7 @@ B) [...]
 
 ## ANEXO X — [...]
 
-[(ver tabela no documento original)](https://files.diariodarepublica.pt/1s/2005/03/051b00/22332255.pdf)
+[[[[[[(ver tabela no documento original)](https://files.diariodarepublica.pt/1s/2005/03/051b00/22332255.pdf)](https://files.diariodarepublica.pt/1s/2005/03/051b00/22332255.pdf)](https://files.diariodarepublica.pt/1s/2005/03/051b00/22332255.pdf)](https://files.diariodarepublica.pt/1s/2005/03/051b00/22332255.pdf)](https://files.diariodarepublica.pt/1s/2005/03/051b00/22332255.pdf)](https://files.diariodarepublica.pt/1s/2005/03/051b00/22332255.pdf)
 
 2.º É aditado ao Regulamento de Aplicação da Intervenção «Medidas Agro-Ambientais», aprovado pela Portaria n.º 1212/2003, de 16 de Outubro, com as alterações que lhe foram introduzidas pelas Portarias n.os 360/2004, de 7 de Abril, e 1043/2004, de 14 de Agosto, o artigo 96.º e o anexo V-A, com a seguinte redacção:
 
@@ -1489,7 +1511,9 @@ Culturas anuais elegíveis
 
 Para efeitos do presente Regulamento apenas são elegíveis as culturas anuais que obedeçam às condições previstas no Despacho Normativo n.º 37/2001, de 2 de Outubro, excepto no que se refere à medida «Agricultura biológica» e à submedida «Arrozal» da medida «Conservação de zonas húmidas e respectivas envolventes agrícolas».
 
-## ANEXO V-A — [a que se referem a alínea b) do n.º 1 do artigo 71.º e a alínea b) do n.º 1 do artigo 72.º]
+ANEXO V-A
+
+[a que se referem a alínea b) do n.º 1 do artigo 71.º e a alínea b) do n.º 1 do artigo 72.º]
 
 Alqueive: 10%-20% - cereal: 10%-20% - cereal secundário: 10%-20% - pousio: 20%-35% - pousio: 20%-35%.
 
@@ -1501,4 +1525,4 @@ Alqueive revestido: 10%-25% - cereal: 10%-25% - cereal secundário: 10%-25% - po
 
 3.º São revogados os artigos 42.º, 43.º e 44.º do Regulamento de Aplicação da Intervenção «Medidas Agro-Ambientais», aprovado pela Portaria n.º 1212/2003, de 16 de Outubro, com as alterações que lhe foram introduzidas pelas Portarias n.os 360/2004, de 7 de Abril, e 1043/2004, de 14 de Agosto, sem prejuízo de se manterem em vigor no que respeita às candidaturas já apresentadas e pelo período remanescente.
 
-**O Ministro da Agricultura, Pescas e Florestas, Carlos Henrique da Costa Neves, em 21 de Janeiro de 2005.**
+O Ministro da Agricultura, Pescas e Florestas, Carlos Henrique da Costa Neves, em 21 de Janeiro de 2005.

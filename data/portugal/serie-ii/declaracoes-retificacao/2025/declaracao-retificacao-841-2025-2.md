@@ -3,7 +3,7 @@ schema_version: '1.0'
 id: pt:dre:934744232:por
 title: Declaração de Retificação n.º 841/2025/2
 short_title: null
-summary: Retifica o Despacho n.º 10439/2025, publicado no Diário da República, 2.ª série, n.º 170, de 4 de setembro de 2025.
+summary: Retifica o Despacho n.º 10439/2025, publicado no  Diário da República, 2.ª série, n.º 170, de 4 de setembro de 2025.
 jurisdiction: portugal
 territory: null
 document_type: declaracao-retificacao
@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/2s/2025/09/174000000/0005300053.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -46,18 +46,18 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/declaracao-retificacao/841-2025-934744232
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2025-09-10T00:00:00Z'
+  retrieved_at: '2026-10-23T15:01:38Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 1e846ba3442d4031cce4a366535368796f29f3af75e3a9a77e8525073b821dcc
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 6bfb7669c349e67077ca6ed2aeb90016686da756ddf0ff82ca32ae44c7cd4d69
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:01:38Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -65,17 +65,21 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects: []
-relationships: []
+relationships:
+- type: cites
+  target: pt:dre:912820660:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:01:38Z'
   warnings: []
   errors: []
 ---
@@ -96,18 +100,22 @@ deve ler-se:
 
 «Em funções noutro serviço
 
-| Serviço/entidade em que exerce funções | Trabalhadores | Cargo/Carreira | Vínculo | Atribuição principal | Serviço/Entidade integrador | Serviço/Entidade integrador |
+| Serviço/entidade em que exerce funções | Trabalhadores | Cargo/Carreira | Vínculo | Atribuição principal | Serviço/Entidade integrador |  |
 | --- | --- | --- | --- | --- | --- | --- |
-| Gabinete do Ministro da Economia | João Marcos da Fonseca | Técnico Superior | CTFP por tempo indeterminado | Apoio à Direção | GEE | GEE |
+| Gabinete do Ministro da Economia | João Marcos da Fonseca | Técnico Superior | CTFP por tempo indeterminado | Apoio à Direção | GEE |  |
 | Câmara Municipal do Montijo | João Manuel Cebolas Batista Barreta | Técnico Superior | CTFP por tempo indeterminado | Promover o planeamento das atividades do Ministério, bem como o acompanhamento da programação da | GEE | » |
 
 deve ler-se:
 
 «Em funções noutro serviço
 
-| Serviço/entidade em que exerce funções | Trabalhadores | Cargo/Carreira | Vínculo | Atribuição principal | Serviço/Entidade integrador | Serviço/Entidade integrador |
+| Serviço/entidade em que exerce funções | Trabalhadores | Cargo/Carreira | Vínculo | Atribuição principal | Serviço/Entidade integrador |  |
 | --- | --- | --- | --- | --- | --- | --- |
-| Gabinete do Ministro da Economia | João Marcos da Fonseca | Técnico Superior | CTFP por tempo indeterminado | Apoio à Direção | DGE | DGE |
+| Gabinete do Ministro da Economia | João Marcos da Fonseca | Técnico Superior | CTFP por tempo indeterminado | Apoio à Direção | DGE |  |
 | Câmara Municipal do Montijo | João Manuel Cebolas Batista Barreta | Técnico Superior | CTFP por tempo indeterminado | Promover o planeamento das atividades do Ministério, bem como o acompanhamento da programação da atividade dos seus serviços e organismos; | DGE | » |
 
 5 de setembro de 2025. - A Diretora-Geral, Maria Helena do Carmo Sanches.
+
+319508635
+
+.Tbl1 { border-collapse:collapse; border-width:0px; border-style:none; } .Tbl2 { min-height:26px; } .Tbl3 { border-bottom-color:rgb(0,0,0); border-top-color:rgb(0,0,0); border-left-width:0px; border-top-width:1px; border-right-width:1px; border-top-style:solid; border-left-color:rgb(0,0,0); border-bottom-width:1px; border-bottom-style:solid; border-right-style:solid; border-right-color:rgb(0,0,0); border-left-style:solid; vertical-align:middle; } .Tbl4 { text-indent:0px; margin-top:0px; text-align:center; } .Tbl5 { border-bottom-color:rgb(0,0,0); border-top-color:rgb(0,0,0); border-left-width:1px; border-top-width:1px; border-right-width:1px; border-top-style:solid; border-left-color:rgb(0,0,0); border-bottom-width:1px; border-bottom-style:solid; border-right-style:solid; border-right-color:rgb(0,0,0); border-left-style:solid; vertical-align:middle; } .Tbl6 { border-bottom-color:rgb(0,0,0); border-top-color:rgb(0,0,0); border-left-width:1px; border-top-width:1px; border-right-width:0px; border-top-style:solid; border-left-color:rgb(0,0,0); border-bottom-width:1px; border-bottom-style:solid; border-right-style:solid; border-right-color:rgb(0,0,0); border-left-style:solid; vertical-align:middle; } .Tbl7 { min-height:28px; } .Tbl8 { border-bottom-color:rgb(0,0,0); border-top-color:rgb(0,0,0); border-left-width:0px; border-top-width:1px; border-right-width:1px; border-top-style:solid; border-left-color:rgb(0,0,0); border-bottom-width:1px; border-bottom-style:solid; border-right-style:solid; border-right-color:rgb(0,0,0); border-left-style:solid; vertical-align:top; } .Tbl9 { text-indent:0px; margin-top:0px; } .Tbl10 { border-bottom-color:rgb(0,0,0); border-top-color:rgb(0,0,0); border-left-width:1px; border-top-width:1px; border-right-width:1px; border-top-style:solid; border-left-color:rgb(0,0,0); border-bottom-width:1px; border-bottom-style:solid; border-right-style:solid; border-right-color:rgb(0,0,0); border-left-style:solid; vertical-align:top; } .Tbl11 { border-bottom-color:rgb(0,0,0); border-top-color:rgb(0,0,0); border-left-width:1px; border-top-width:1px; border-right-width:0px; border-top-style:solid; border-left-color:rgb(0,0,0); border-bottom-width:1px; border-bottom-style:solid; border-right-style:solid; border-right-color:rgb(0,0,0); border-left-style:solid; vertical-align:top; } .Tbl12 { min-height:47px; } .Tbl13 { text-indent:0px; margin-top:0px; text-align:center; margin-left:9px; } .Tbl14 { border-bottom-color:rgb(0,0,0); border-top-color:rgb(0,0,0); border-left-width:0px; border-top-width:1px; border-right-width:0px; border-top-style:solid; border-left-color:rgb(0,0,0); border-bottom-width:0px; border-bottom-style:solid; border-right-style:solid; border-right-color:rgb(0,0,0); border-left-style:solid; vertical-align:bottom; } .Tbl15 { text-indent:0px; margin-top:0px; text-align:right; } .Tbl16 { min-height:57px; } .Tbl17 { text-indent:9px; margin-top:0px; text-align:center; }

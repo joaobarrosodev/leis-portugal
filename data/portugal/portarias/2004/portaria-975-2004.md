@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/975/2004/08/03/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/975-2004-514996
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2004-08-03T00:00:00Z'
+  retrieved_at: '2026-10-23T15:02:21Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: aece5e4fe9c7e81a937b9d499df910f89abf2dd1b0445ae1a47ce5dba84ce85d
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 36d2c40f22a58a8049b71adc439dcb28fb3d04ca2e7597093b2011d4a40c2d82
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:02:21Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -68,12 +68,12 @@ reuse:
 subjects:
 - Código do IRS
 - Conservador
+- Documento Eletrónico
 - Formulário Eletrónico
 - Impresso
-- Pessoal de Justiça
 - IRS
-- Documento Eletrónico
 - Notário
+- Pessoal de Justiça
 relationships:
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/287/2003/11/12/p/dre
@@ -87,16 +87,28 @@ relationships:
   target: eli:http://data.dre.pt/eli/port/761/2002/07/01/p/dre
   label: null
   source: http://data.dre.pt/eli/port/761/2002/07/01/p/dre
+- type: cites
+  target: pt:dre:141470:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:447325:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:518992:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:02:21Z'
   warnings: []
   errors: []
 ---
@@ -153,6 +165,6 @@ d) A declaração considera-se apresentada na data em que é submetida, sob cond
 
 7.º É revogada a [Portaria n.º 761/2002](https://diariodarepublica.pt/dr/detalhe/portaria/761-2002-141470), de 1 de Julho.
 
-**O Secretário de Estado dos Assuntos Fiscais, Vasco Jorge Valdez Ferreira Matias, em 6 de Julho de 2004.**
+O Secretário de Estado dos Assuntos Fiscais, Vasco Jorge Valdez Ferreira Matias, em 6 de Julho de 2004.
 
 [(ver modelo n.º 11, tabelas I e II e instruções de preenchimento no documento original)](https://files.diariodarepublica.pt/1s/2004/08/181b00/50545061.pdf)

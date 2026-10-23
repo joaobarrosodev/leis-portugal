@@ -27,7 +27,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2005/02/033b00/11611169.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -49,18 +49,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/189/2005/02/16/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/189-2005-603267
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2009-08-20T00:00:00Z'
+  retrieved_at: '2026-10-23T15:04:46Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 5b2f5eeb2e768ebf85ac8fea80491b4be1916d6a58a05fce23d04e393a289785
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 28cdee92faa603ef52c628b195cfad39af79e9d9fa3b744122f798de291b0ddc
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:04:46Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -68,12 +68,12 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Formação Profissional
 - Colégio Internato dos Carvalhos
-- Plano de Estudos
 - Ensino Particular
 - Ensino Profissional
+- Formação Profissional
 - Pedagogia Moderna
+- Plano de Estudos
 - Qualificação Profissional
 relationships:
 - type: amended_by
@@ -88,16 +88,43 @@ relationships:
   target: eli:http://data.dre.pt/eli/port/861/2004/07/19/p/dre
   label: null
   source: http://data.dre.pt/eli/port/861/2004/07/19/p/dre
+- type: cites
+  target: pt:dre:210801:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:458182:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:503611:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:525190:por
+  label: null
+  source: null
+- type: corrected_by
+  target: pt:dre:579098:por
+  label: "Rectificada pela DECL-RECT.24/2005.10.03.2005.PCM, DR.IS-B [57] de 22.03.2005\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/declaracao-rectificacao/24-2005-579098
+  date: '2005-03-10'
+- type: repealed_by
+  target: pt:dre:488138:por
+  label: "Revogado o presente diploma, a partir de 25.08.2009, rectificado pela Decl Rect 24/2005, de 22-Mar, pela PORT.941/2009.20.08.2009.ME,\
+    \ DR.IS [161] de 20.08.2009\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/941-2009-488138
+  date: '2009-08-20'
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:04:46Z'
   warnings: []
   errors: []
 ---
@@ -148,56 +175,56 @@ Manda o Governo, pela Ministra da Educação, ao abrigo do disposto no artigo 5.
 
 11.º É revogada a [Portaria n.º 861/2004](https://diariodarepublica.pt/dr/detalhe/portaria/861-2004-525190), de 19 de Julho, produzindo a presente portaria efeitos à data da anterior.
 
-**A Ministra da Educação, Maria do Carmo Félix da Costa Seabra, em 26 de Janeiro de 2005.**
+A Ministra da Educação, Maria do Carmo Félix da Costa Seabra, em 26 de Janeiro de 2005.
 
 ## ANEXO — Plano de estudos do curso secundário científico-tecnológico de Química, Ambiente e Qualidade
 
-[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2005/02/033b00/11611169.pdf)
+[[[[[[[[[[[[[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2005/02/033b00/11611169.pdf)](https://files.diariodarepublica.pt/1s/2005/02/033b00/11611169.pdf)](https://files.diariodarepublica.pt/1s/2005/02/033b00/11611169.pdf)](https://files.diariodarepublica.pt/1s/2005/02/033b00/11611169.pdf)](https://files.diariodarepublica.pt/1s/2005/02/033b00/11611169.pdf)](https://files.diariodarepublica.pt/1s/2005/02/033b00/11611169.pdf)](https://files.diariodarepublica.pt/1s/2005/02/033b00/11611169.pdf)](https://files.diariodarepublica.pt/1s/2005/02/033b00/11611169.pdf)](https://files.diariodarepublica.pt/1s/2005/02/033b00/11611169.pdf)](https://files.diariodarepublica.pt/1s/2005/02/033b00/11611169.pdf)](https://files.diariodarepublica.pt/1s/2005/02/033b00/11611169.pdf)](https://files.diariodarepublica.pt/1s/2005/02/033b00/11611169.pdf)](https://files.diariodarepublica.pt/1s/2005/02/033b00/11611169.pdf)
 
 Plano de estudos do curso secundário científico-tecnológico de Biotecnologia
 
-[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2005/02/033b00/11611169.pdf)
+[[[[[[[[[[[[[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2005/02/033b00/11611169.pdf)](https://files.diariodarepublica.pt/1s/2005/02/033b00/11611169.pdf)](https://files.diariodarepublica.pt/1s/2005/02/033b00/11611169.pdf)](https://files.diariodarepublica.pt/1s/2005/02/033b00/11611169.pdf)](https://files.diariodarepublica.pt/1s/2005/02/033b00/11611169.pdf)](https://files.diariodarepublica.pt/1s/2005/02/033b00/11611169.pdf)](https://files.diariodarepublica.pt/1s/2005/02/033b00/11611169.pdf)](https://files.diariodarepublica.pt/1s/2005/02/033b00/11611169.pdf)](https://files.diariodarepublica.pt/1s/2005/02/033b00/11611169.pdf)](https://files.diariodarepublica.pt/1s/2005/02/033b00/11611169.pdf)](https://files.diariodarepublica.pt/1s/2005/02/033b00/11611169.pdf)](https://files.diariodarepublica.pt/1s/2005/02/033b00/11611169.pdf)](https://files.diariodarepublica.pt/1s/2005/02/033b00/11611169.pdf)
 
 Plano de estudos do curso secundário científico-tecnológico de Animação Sócio-Desportiva
 
-[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2005/02/033b00/11611169.pdf)
+[[[[[[[[[[[[[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2005/02/033b00/11611169.pdf)](https://files.diariodarepublica.pt/1s/2005/02/033b00/11611169.pdf)](https://files.diariodarepublica.pt/1s/2005/02/033b00/11611169.pdf)](https://files.diariodarepublica.pt/1s/2005/02/033b00/11611169.pdf)](https://files.diariodarepublica.pt/1s/2005/02/033b00/11611169.pdf)](https://files.diariodarepublica.pt/1s/2005/02/033b00/11611169.pdf)](https://files.diariodarepublica.pt/1s/2005/02/033b00/11611169.pdf)](https://files.diariodarepublica.pt/1s/2005/02/033b00/11611169.pdf)](https://files.diariodarepublica.pt/1s/2005/02/033b00/11611169.pdf)](https://files.diariodarepublica.pt/1s/2005/02/033b00/11611169.pdf)](https://files.diariodarepublica.pt/1s/2005/02/033b00/11611169.pdf)](https://files.diariodarepublica.pt/1s/2005/02/033b00/11611169.pdf)](https://files.diariodarepublica.pt/1s/2005/02/033b00/11611169.pdf)
 
 Plano de estudos do curso secundário científico-tecnológico de Electrotecnia e Automação
 
-[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2005/02/033b00/11611169.pdf)
+[[[[[[[[[[[[[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2005/02/033b00/11611169.pdf)](https://files.diariodarepublica.pt/1s/2005/02/033b00/11611169.pdf)](https://files.diariodarepublica.pt/1s/2005/02/033b00/11611169.pdf)](https://files.diariodarepublica.pt/1s/2005/02/033b00/11611169.pdf)](https://files.diariodarepublica.pt/1s/2005/02/033b00/11611169.pdf)](https://files.diariodarepublica.pt/1s/2005/02/033b00/11611169.pdf)](https://files.diariodarepublica.pt/1s/2005/02/033b00/11611169.pdf)](https://files.diariodarepublica.pt/1s/2005/02/033b00/11611169.pdf)](https://files.diariodarepublica.pt/1s/2005/02/033b00/11611169.pdf)](https://files.diariodarepublica.pt/1s/2005/02/033b00/11611169.pdf)](https://files.diariodarepublica.pt/1s/2005/02/033b00/11611169.pdf)](https://files.diariodarepublica.pt/1s/2005/02/033b00/11611169.pdf)](https://files.diariodarepublica.pt/1s/2005/02/033b00/11611169.pdf)
 
 Plano de estudos do curso secundário científico-tecnológico de Electrónica e Telecomunicações
 
-[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2005/02/033b00/11611169.pdf)
+[[[[[[[[[[[[[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2005/02/033b00/11611169.pdf)](https://files.diariodarepublica.pt/1s/2005/02/033b00/11611169.pdf)](https://files.diariodarepublica.pt/1s/2005/02/033b00/11611169.pdf)](https://files.diariodarepublica.pt/1s/2005/02/033b00/11611169.pdf)](https://files.diariodarepublica.pt/1s/2005/02/033b00/11611169.pdf)](https://files.diariodarepublica.pt/1s/2005/02/033b00/11611169.pdf)](https://files.diariodarepublica.pt/1s/2005/02/033b00/11611169.pdf)](https://files.diariodarepublica.pt/1s/2005/02/033b00/11611169.pdf)](https://files.diariodarepublica.pt/1s/2005/02/033b00/11611169.pdf)](https://files.diariodarepublica.pt/1s/2005/02/033b00/11611169.pdf)](https://files.diariodarepublica.pt/1s/2005/02/033b00/11611169.pdf)](https://files.diariodarepublica.pt/1s/2005/02/033b00/11611169.pdf)](https://files.diariodarepublica.pt/1s/2005/02/033b00/11611169.pdf)
 
 Plano de estudos do curso secundário científico-tecnológico de Informática
 
-[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2005/02/033b00/11611169.pdf)
+[[[[[[[[[[[[[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2005/02/033b00/11611169.pdf)](https://files.diariodarepublica.pt/1s/2005/02/033b00/11611169.pdf)](https://files.diariodarepublica.pt/1s/2005/02/033b00/11611169.pdf)](https://files.diariodarepublica.pt/1s/2005/02/033b00/11611169.pdf)](https://files.diariodarepublica.pt/1s/2005/02/033b00/11611169.pdf)](https://files.diariodarepublica.pt/1s/2005/02/033b00/11611169.pdf)](https://files.diariodarepublica.pt/1s/2005/02/033b00/11611169.pdf)](https://files.diariodarepublica.pt/1s/2005/02/033b00/11611169.pdf)](https://files.diariodarepublica.pt/1s/2005/02/033b00/11611169.pdf)](https://files.diariodarepublica.pt/1s/2005/02/033b00/11611169.pdf)](https://files.diariodarepublica.pt/1s/2005/02/033b00/11611169.pdf)](https://files.diariodarepublica.pt/1s/2005/02/033b00/11611169.pdf)](https://files.diariodarepublica.pt/1s/2005/02/033b00/11611169.pdf)
 
 Plano de estudos do curso secundário científico-tecnológico de Contabilidade e Gestão
 
-[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2005/02/033b00/11611169.pdf)
+[[[[[[[[[[[[[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2005/02/033b00/11611169.pdf)](https://files.diariodarepublica.pt/1s/2005/02/033b00/11611169.pdf)](https://files.diariodarepublica.pt/1s/2005/02/033b00/11611169.pdf)](https://files.diariodarepublica.pt/1s/2005/02/033b00/11611169.pdf)](https://files.diariodarepublica.pt/1s/2005/02/033b00/11611169.pdf)](https://files.diariodarepublica.pt/1s/2005/02/033b00/11611169.pdf)](https://files.diariodarepublica.pt/1s/2005/02/033b00/11611169.pdf)](https://files.diariodarepublica.pt/1s/2005/02/033b00/11611169.pdf)](https://files.diariodarepublica.pt/1s/2005/02/033b00/11611169.pdf)](https://files.diariodarepublica.pt/1s/2005/02/033b00/11611169.pdf)](https://files.diariodarepublica.pt/1s/2005/02/033b00/11611169.pdf)](https://files.diariodarepublica.pt/1s/2005/02/033b00/11611169.pdf)](https://files.diariodarepublica.pt/1s/2005/02/033b00/11611169.pdf)
 
 Plano de estudos do curso secundário científico-tecnológico de Informática de Gestão
 
-[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2005/02/033b00/11611169.pdf)
+[[[[[[[[[[[[[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2005/02/033b00/11611169.pdf)](https://files.diariodarepublica.pt/1s/2005/02/033b00/11611169.pdf)](https://files.diariodarepublica.pt/1s/2005/02/033b00/11611169.pdf)](https://files.diariodarepublica.pt/1s/2005/02/033b00/11611169.pdf)](https://files.diariodarepublica.pt/1s/2005/02/033b00/11611169.pdf)](https://files.diariodarepublica.pt/1s/2005/02/033b00/11611169.pdf)](https://files.diariodarepublica.pt/1s/2005/02/033b00/11611169.pdf)](https://files.diariodarepublica.pt/1s/2005/02/033b00/11611169.pdf)](https://files.diariodarepublica.pt/1s/2005/02/033b00/11611169.pdf)](https://files.diariodarepublica.pt/1s/2005/02/033b00/11611169.pdf)](https://files.diariodarepublica.pt/1s/2005/02/033b00/11611169.pdf)](https://files.diariodarepublica.pt/1s/2005/02/033b00/11611169.pdf)](https://files.diariodarepublica.pt/1s/2005/02/033b00/11611169.pdf)
 
 Plano de estudos do curso secundário científico-tecnológico de Marketing e Estratégia Empresarial
 
-[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2005/02/033b00/11611169.pdf)
+[[[[[[[[[[[[[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2005/02/033b00/11611169.pdf)](https://files.diariodarepublica.pt/1s/2005/02/033b00/11611169.pdf)](https://files.diariodarepublica.pt/1s/2005/02/033b00/11611169.pdf)](https://files.diariodarepublica.pt/1s/2005/02/033b00/11611169.pdf)](https://files.diariodarepublica.pt/1s/2005/02/033b00/11611169.pdf)](https://files.diariodarepublica.pt/1s/2005/02/033b00/11611169.pdf)](https://files.diariodarepublica.pt/1s/2005/02/033b00/11611169.pdf)](https://files.diariodarepublica.pt/1s/2005/02/033b00/11611169.pdf)](https://files.diariodarepublica.pt/1s/2005/02/033b00/11611169.pdf)](https://files.diariodarepublica.pt/1s/2005/02/033b00/11611169.pdf)](https://files.diariodarepublica.pt/1s/2005/02/033b00/11611169.pdf)](https://files.diariodarepublica.pt/1s/2005/02/033b00/11611169.pdf)](https://files.diariodarepublica.pt/1s/2005/02/033b00/11611169.pdf)
 
 Plano de estudos do curso secundário científico-tecnológico de Línguas e Relações Empresariais
 
-[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2005/02/033b00/11611169.pdf)
+[[[[[[[[[[[[[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2005/02/033b00/11611169.pdf)](https://files.diariodarepublica.pt/1s/2005/02/033b00/11611169.pdf)](https://files.diariodarepublica.pt/1s/2005/02/033b00/11611169.pdf)](https://files.diariodarepublica.pt/1s/2005/02/033b00/11611169.pdf)](https://files.diariodarepublica.pt/1s/2005/02/033b00/11611169.pdf)](https://files.diariodarepublica.pt/1s/2005/02/033b00/11611169.pdf)](https://files.diariodarepublica.pt/1s/2005/02/033b00/11611169.pdf)](https://files.diariodarepublica.pt/1s/2005/02/033b00/11611169.pdf)](https://files.diariodarepublica.pt/1s/2005/02/033b00/11611169.pdf)](https://files.diariodarepublica.pt/1s/2005/02/033b00/11611169.pdf)](https://files.diariodarepublica.pt/1s/2005/02/033b00/11611169.pdf)](https://files.diariodarepublica.pt/1s/2005/02/033b00/11611169.pdf)](https://files.diariodarepublica.pt/1s/2005/02/033b00/11611169.pdf)
 
 Plano de estudos do curso secundário científico-tecnológico de Assessoria Jurídica e Documentação
 
-[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2005/02/033b00/11611169.pdf)
+[[[[[[[[[[[[[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2005/02/033b00/11611169.pdf)](https://files.diariodarepublica.pt/1s/2005/02/033b00/11611169.pdf)](https://files.diariodarepublica.pt/1s/2005/02/033b00/11611169.pdf)](https://files.diariodarepublica.pt/1s/2005/02/033b00/11611169.pdf)](https://files.diariodarepublica.pt/1s/2005/02/033b00/11611169.pdf)](https://files.diariodarepublica.pt/1s/2005/02/033b00/11611169.pdf)](https://files.diariodarepublica.pt/1s/2005/02/033b00/11611169.pdf)](https://files.diariodarepublica.pt/1s/2005/02/033b00/11611169.pdf)](https://files.diariodarepublica.pt/1s/2005/02/033b00/11611169.pdf)](https://files.diariodarepublica.pt/1s/2005/02/033b00/11611169.pdf)](https://files.diariodarepublica.pt/1s/2005/02/033b00/11611169.pdf)](https://files.diariodarepublica.pt/1s/2005/02/033b00/11611169.pdf)](https://files.diariodarepublica.pt/1s/2005/02/033b00/11611169.pdf)
 
 Plano de estudos do curso secundário científico-tecnológico de Património e Turismo
 
-[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2005/02/033b00/11611169.pdf)
+[[[[[[[[[[[[[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2005/02/033b00/11611169.pdf)](https://files.diariodarepublica.pt/1s/2005/02/033b00/11611169.pdf)](https://files.diariodarepublica.pt/1s/2005/02/033b00/11611169.pdf)](https://files.diariodarepublica.pt/1s/2005/02/033b00/11611169.pdf)](https://files.diariodarepublica.pt/1s/2005/02/033b00/11611169.pdf)](https://files.diariodarepublica.pt/1s/2005/02/033b00/11611169.pdf)](https://files.diariodarepublica.pt/1s/2005/02/033b00/11611169.pdf)](https://files.diariodarepublica.pt/1s/2005/02/033b00/11611169.pdf)](https://files.diariodarepublica.pt/1s/2005/02/033b00/11611169.pdf)](https://files.diariodarepublica.pt/1s/2005/02/033b00/11611169.pdf)](https://files.diariodarepublica.pt/1s/2005/02/033b00/11611169.pdf)](https://files.diariodarepublica.pt/1s/2005/02/033b00/11611169.pdf)](https://files.diariodarepublica.pt/1s/2005/02/033b00/11611169.pdf)
 
 Plano de estudos do curso secundário científico-tecnológico de Artes e Indústrias Gráficas
 
-[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2005/02/033b00/11611169.pdf)
+[[[[[[[[[[[[[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2005/02/033b00/11611169.pdf)](https://files.diariodarepublica.pt/1s/2005/02/033b00/11611169.pdf)](https://files.diariodarepublica.pt/1s/2005/02/033b00/11611169.pdf)](https://files.diariodarepublica.pt/1s/2005/02/033b00/11611169.pdf)](https://files.diariodarepublica.pt/1s/2005/02/033b00/11611169.pdf)](https://files.diariodarepublica.pt/1s/2005/02/033b00/11611169.pdf)](https://files.diariodarepublica.pt/1s/2005/02/033b00/11611169.pdf)](https://files.diariodarepublica.pt/1s/2005/02/033b00/11611169.pdf)](https://files.diariodarepublica.pt/1s/2005/02/033b00/11611169.pdf)](https://files.diariodarepublica.pt/1s/2005/02/033b00/11611169.pdf)](https://files.diariodarepublica.pt/1s/2005/02/033b00/11611169.pdf)](https://files.diariodarepublica.pt/1s/2005/02/033b00/11611169.pdf)](https://files.diariodarepublica.pt/1s/2005/02/033b00/11611169.pdf)

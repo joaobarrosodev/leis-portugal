@@ -19,12 +19,12 @@ publication:
   reference: Diário da República n.º 59/2005, 2º Suplemento, Série I-B de 2005-03-24
   number: '59'
   series: I
-  supplement: 2º Suplemento
+  supplement: null
   pages: 2614-(7) a 2614-(9)
   pdf_url: https://files.diariodarepublica.pt/1s/2005/03/059b02/00070009.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/311-a/2005/03/24/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/311-a-2005-383015
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2014-11-07T00:00:00Z'
+  retrieved_at: '2026-10-23T15:05:37Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: b704b53aa5ef821ccdaa5e4f4b4f0b882f3e18010c267f8c1db44cd8f73365ac
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 7795544128d05264a55debf0d6239991a9561266fff7507e426c9f808ed0a663
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:05:37Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -65,16 +65,16 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Regulamento de Homologação dos Cintos de Segurança e dos Sistemas de Retenção dos Automóveis
+- Cinto de Segurança
 - Código da Estrada
 - Criança
 - Direcção Geral de Viação
-- Veículo
-- Normas de Segurança
 - Equipamento de Veículo
+- Normas de Segurança
 - Regulamento
-- Cinto de Segurança
+- Regulamento de Homologação dos Cintos de Segurança e dos Sistemas de Retenção dos Automóveis
 - Regulamento de Utilização de Acessórios de Segurança
+- Veículo
 relationships:
 - type: amended_by
   target: pt:dre:58815310:por
@@ -96,16 +96,38 @@ relationships:
   target: eli:http://data.dre.pt/eli/port/849/1994/09/22/p/dre
   label: null
   source: http://data.dre.pt/eli/port/849/1994/09/22/p/dre
+- type: cites
+  target: pt:dre:250659:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:524038:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:604462:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:608743:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:58815310:por
+  label: Revogada, a partir de 08.11.2014, pelo(a) Decreto-Lei n.º 170-A/2014 - Diário da República n.º 216/2014, 1º Suplemento,
+    Série I de 2014-11-07
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/170-a-2014-58815310
+  date: '2014-11-07'
 article_structure:
   article_count: 10
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:05:37Z'
   warnings: []
   errors: []
 ---
@@ -126,7 +148,7 @@ Manda o Governo, pelo Ministro de Estado e da Administração Interna, nos termo
 
 3.º A presente portaria entra em vigor 90 dias após a sua publicação.
 
-**O Ministro de Estado e da Administração Interna, António Luís Santos Costa, em 22 de Março de 2005.**
+O Ministro de Estado e da Administração Interna, António Luís Santos Costa, em 22 de Março de 2005.
 
 ## ANEXO — REGULAMENTO DE UTILIZAÇÃO DE ACESSÓRIOS DE SEGURANÇA
 

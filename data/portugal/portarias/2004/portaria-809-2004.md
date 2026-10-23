@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/809/2004/07/13/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/809-2004-526802
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2004-07-13T00:00:00Z'
+  retrieved_at: '2026-10-23T15:01:25Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 246326fd44ce39befa70ef2489ee6de30fe5376ff438053b813622ec9fcb0f08
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: af5a08d73b2af6a415d142e645c84dd592af5b43dc8ceb3d0224a8373d4e157c
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:01:25Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,11 +67,11 @@ reuse:
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
 - Bacharelato
-- Plano de Estudos
 - Ensino Particular
+- Ensino Superior
 - Instituto Superior de Espinho
 - Numerus Clausus
-- Ensino Superior
+- Plano de Estudos
 relationships:
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/16/1994/01/22/p/dre
@@ -89,16 +89,32 @@ relationships:
   target: eli:http://data.dre.pt/eli/lei/37/1994/11/11/p/dre
   label: null
   source: http://data.dre.pt/eli/lei/37/1994/11/11/p/dre
+- type: cites
+  target: pt:dre:145621:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:150335:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:512030:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:533820:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:01:25Z'
   warnings: []
   errors: []
 ---
@@ -179,7 +195,7 @@ Condicionamento
 
 A autorização e o reconhecimento operados pelo presente diploma não prejudicam, sob pena de revogação do mesmo, a obrigação dos órgãos responsáveis da entidade instituidora e do estabelecimento de ensino do cumprimento de eventuais adaptações ou correcções que sejam determinadas pelo Ministério da Ciência e do Ensino Superior, quer por não cumprimento dos pressupostos de autorização e reconhecimento quer em consequência das acções previstas no artigo 75.º do Estatuto do Ensino Superior Particular e Cooperativo, ou das auditorias científico-pedagógicas a que se refere o artigo 9.º do [Decreto-Lei n.º 89/99](https://diariodarepublica.pt/dr/detalhe/decreto-lei/89-1999-145621), de 19 de Março.
 
-**A Ministra da Ciência e do Ensino Superior, Maria da Graça Martins da Silva Carvalho, em 28 de Junho de 2004.**
+A Ministra da Ciência e do Ensino Superior, Maria da Graça Martins da Silva Carvalho, em 28 de Junho de 2004.
 
 ## ANEXO — Instituto Superior de Espinho
 
@@ -191,16 +207,16 @@ QUADRO N.º 1
 
 1.º ano
 
-[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2004/07/163b00/42504251.pdf)
+[[[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2004/07/163b00/42504251.pdf)](https://files.diariodarepublica.pt/1s/2004/07/163b00/42504251.pdf)](https://files.diariodarepublica.pt/1s/2004/07/163b00/42504251.pdf)
 
 QUADRO N.º 2
 
 2.º ano
 
-[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2004/07/163b00/42504251.pdf)
+[[[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2004/07/163b00/42504251.pdf)](https://files.diariodarepublica.pt/1s/2004/07/163b00/42504251.pdf)](https://files.diariodarepublica.pt/1s/2004/07/163b00/42504251.pdf)
 
 QUADRO N.º 3
 
 3.º ano
 
-[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2004/07/163b00/42504251.pdf)
+[[[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2004/07/163b00/42504251.pdf)](https://files.diariodarepublica.pt/1s/2004/07/163b00/42504251.pdf)](https://files.diariodarepublica.pt/1s/2004/07/163b00/42504251.pdf)

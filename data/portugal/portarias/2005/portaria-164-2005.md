@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2005/02/030b00/09440951.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/164/2005/02/11/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/164-2005-595745
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2009-05-15T00:00:00Z'
+  retrieved_at: '2026-10-23T15:04:40Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 97c4626fb3ce18ac9f72897cbf35cc8f6c3052c0687da50e0e3c11d59326a343
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 0b2b7c16d6be64a40b1509a15fdbbb518afe9bbc2e2fc0bedf1bd6f500bbfa45
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:04:40Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,11 +67,11 @@ reuse:
 subjects:
 - Animação Ambiental
 - Desporto de Natureza
-- Turismo de Natureza
 - Instituto da Conservação da Natureza
 - Licenciamento
-- Zona de Proteção
 - Taxa
+- Turismo de Natureza
+- Zona de Proteção
 relationships:
 - type: amended_by
   target: pt:dre:608703:por
@@ -93,16 +93,42 @@ relationships:
   target: eli:http://data.dre.pt/eli/resolconsmin/112/1998/08/25/p/dre
   label: null
   source: http://data.dre.pt/eli/resolconsmin/112/1998/08/25/p/dre
+- type: cites
+  target: pt:dre:422861:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:448093:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:481939:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:533800:por
+  label: null
+  source: null
+- type: corrected_by
+  target: pt:dre:572667:por
+  label: "Rectificada pela DECL-RECT.12/2005.01.03.2005.PCM, DR.IS-B [53] de 16.03.2005\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/declaracao-rectificacao/12-2005-572667
+  date: '2005-03-01'
+- type: repealed_by
+  target: pt:dre:608703:por
+  label: "Revogada, a partir de 14.06.2009, pelo DEC LEI.108/2009.15.05.2009.MEI, DR.IS [94] de 15.05.2009\009\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/108-2009-608703
+  date: '2009-05-15'
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:04:40Z'
   warnings: []
   errors: []
 ---
@@ -185,7 +211,7 @@ Ci, para cada uma das actividades, serviços e instalações, assume os valores 
 
 Em 30 de Dezembro de 2004.
 
-**O Ministro das Finanças e da Administração Pública, António José de Castro Bagão Félix. - Pelo Ministro do Ambiente e do Ordenamento do Território, Jorge Manuel Lopes Moreira da Silva, Secretário de Estado Adjunto do Ministro do Ambiente e do Ordenamento do Território.**
+O Ministro das Finanças e da Administração Pública, António José de Castro Bagão Félix. - Pelo Ministro do Ambiente e do Ordenamento do Território, Jorge Manuel Lopes Moreira da Silva, Secretário de Estado Adjunto do Ministro do Ambiente e do Ordenamento do Território.
 
 TABELA I
 

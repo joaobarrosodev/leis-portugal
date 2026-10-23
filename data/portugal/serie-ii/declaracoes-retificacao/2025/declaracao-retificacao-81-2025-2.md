@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/2s/2025/01/019000000/0003600036.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -46,36 +46,53 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/declaracao-retificacao/81-2025-905121100
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2025-01-28T00:00:00Z'
+  retrieved_at: '2026-10-23T15:01:28Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 64612bf7620d22e2c878ad504245af4fd14f4a6788229ae7cc00798470dcfb26
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: c3d2b10b729ce79c6929ab3b77c28c731c2ebcf1fb6038dfc44c56efc85b5a3a
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:01:28Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
-relationships: []
+subjects:
+- Delegação de Competências
+- Governo XXIV
+- Ministro da Juventude e Modernização
+- Secretário de Estado Adjunto e da Igualdade
+relationships:
+- type: cites
+  target: pt:dre:205457496:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:870757938:por
+  label: null
+  source: null
+- type: corrects
+  target: pt:numero:despacho:144/2025
+  label: Retifica o Despacho n.º 144/2025, de 3 de janeiro, Diário da República n.º 2/2025, Série II
+  source: null
+  date: '2025-01-03'
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:01:28Z'
   warnings: []
   errors: []
 ---
@@ -93,3 +110,5 @@ deve ler-se:
 «Com a aprovação da Agenda Nacional da Juventude em 2025»
 
 21 de janeiro de 2025. - A Secretária-Geral Adjunta, Fátima Costa Ferreira.
+
+318598974

@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/2s/2026/06/118000000/0014400144.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -46,18 +46,18 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/declaracao-retificacao/532-2026-1134399064
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2026-06-22T00:00:00Z'
+  retrieved_at: '2026-10-23T15:05:08Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: b3e8432484cc39f00e63a71036a6f4455c6b39d4ea701f239daeb410684c2788
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: c09b4cc43e3f90ac53358a8ad582231aa663e4c42506978b263ecd1351111882
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:05:08Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -69,13 +69,13 @@ relationships: []
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:05:08Z'
   warnings: []
   errors: []
 ---
@@ -85,3 +85,5 @@ validation:
 Por ter saído com inexatidão o Aviso n.º 10821/2026/2, publicado no Diário da República, 2.ª série, n.º 91, de 12 de maio de 2026, retifica-se que onde se lê «com início de efeitos a 01.06.2026.» deve ler-se «com início de efeitos a 01.07.2026.».
 
 15 de junho de 2026. - A Subdiretora-Geral da Área de Recursos Humanos e Formação, Ângela Santos.
+
+320012420

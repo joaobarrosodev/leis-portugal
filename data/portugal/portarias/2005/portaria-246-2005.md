@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2005/03/048b00/20642066.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/246/2005/03/09/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/246-2005-591741
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2007-01-08T00:00:00Z'
+  retrieved_at: '2026-10-23T15:05:13Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: c2f17e61a9de20232eb9b82f59442322b26dd3423472f8a2e59235abceea1596
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 2dfda41b0e5e82516ca340a663db1483ee08f3b9dcf4b5ff8d2ecbc89306397b
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:05:13Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,13 +66,13 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Financiamento
 - Bolsa de Formação Profissional
 - Bolsa de Frequência
 - Certificação Profissional
 - Ensino Particular
 - Ensino Profissional
 - Escola Profissional
+- Financiamento
 - Regulamento
 relationships:
 - type: amended_by
@@ -95,16 +95,37 @@ relationships:
   target: eli:http://data.dre.pt/eli/port/550-c/2004/05/21/p/dre
   label: null
   source: http://data.dre.pt/eli/port/550-c/2004/05/21/p/dre
+- type: cites
+  target: pt:dre:210801:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:224851:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:238849:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:432449:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:262088:por
+  label: "Revogada a partir de 09.01.2007 pela PORT.49/2007.08.01.2007.MTSSO, DR.IS [5] de 08.01.2007\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/49-2007-262088
+  date: '2007-01-08'
 article_structure:
   article_count: 7
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:05:13Z'
   warnings: []
   errors: []
 ---
@@ -143,7 +164,7 @@ Manda o Governo, pelos Ministros de Estado, das Actividades Económicas e do Tra
 
 Em 18 de Fevereiro de 2005.
 
-**O Ministro de Estado, das Actividades Económicas e do Trabalho, Álvaro Roque de Pinho Bissaya Barreto. - A Ministra da Educação, Maria do Carmo Félix da Costa Seabra.**
+O Ministro de Estado, das Actividades Económicas e do Trabalho, Álvaro Roque de Pinho Bissaya Barreto. - A Ministra da Educação, Maria do Carmo Félix da Costa Seabra.
 
 ## ANEXO
 

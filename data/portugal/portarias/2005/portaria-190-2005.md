@@ -48,18 +48,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/190/2005/02/17/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/190-2005-605332
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2005-02-17T00:00:00Z'
+  retrieved_at: '2026-10-23T15:04:49Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 700be8098c211961de52fa09a39f4ec502f6846abf7a30cac713171538c64aeb
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 298cd178398341398424acf9807b6ce6cd274a2c6740b3257dc11264d46a83c5
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:04:49Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -69,44 +69,48 @@ reuse:
 subjects:
 - Acesso ao Emprego
 - Amares
-- Financiamento
+- Apoio ao Investimento
 - Barcelos
+- Bolsa de Estudos
 - Braga
-- Instituto do Emprego e Formação Profissional
-- Formação Profissional
 - Certificação Profissional
+- Criação de Emprego
 - Definição de Competências
 - Desenvolvimento Social
 - Esposende
-- Apoio ao Investimento
-- Projeto de Investimento
-- Criação de Emprego
-- Plano de Intervenção para o VALE do AVE
-- VALE do AVE
-- Qualificação Profissional
 - Estágio de Formação
-- Política de Emprego
+- Financiamento
+- Formação Profissional
+- Instituto do Emprego e Formação Profissional
 - Microempresa
-- Bolsa de Estudos
 - Mobilidade de Pessoal
+- Plano de Intervenção para o VALE do AVE
+- Política de Emprego
+- Projeto de Investimento
+- Qualificação Profissional
 - Subsídio
 - Terras de Bouro
+- VALE do AVE
 - VILA Verde
 relationships:
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/132/1999/04/21/p/dre
   label: null
   source: http://data.dre.pt/eli/dec-lei/132/1999/04/21/p/dre
+- type: cites
+  target: pt:dre:534598:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:04:49Z'
   warnings: []
   errors: []
 ---
@@ -141,4 +145,4 @@ Entrada em vigor e duração
 
 O presente diploma entra em vigor no dia imediato ao da sua publicação e vigora até 31 de Dezembro de 2006.
 
-**O Secretário de Estado Adjunto e do Trabalho, Luís Miguel Pais Antunes, em 21 de Janeiro de 2005.**
+O Secretário de Estado Adjunto e do Trabalho, Luís Miguel Pais Antunes, em 21 de Janeiro de 2005.

@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/176/2005/02/14/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/176-2005-596290
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2006-02-20T00:00:00Z'
+  retrieved_at: '2026-10-23T15:04:44Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: bffc74ace0791ba1dd5d69a3a1abf4f2a8c61797bc5814fab56b5b49a026dc39
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 0e040ebd2faea824b8a6f6a06cbb616075a94a22467250b746c67535ca743e81
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:04:44Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,10 +66,10 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Financiamento
+- Agricultura
 - Apoio ao Investimento
-- Projeto de Investimento
 - Exploração Agrícola
+- Financiamento
 - Parque Nacional da Peneda-Gerês
 - Parque Natural da Serra da Estrela
 - Parque Natural das Serras de Aire e Candeeiros
@@ -77,7 +77,6 @@ subjects:
 - Parque Natural do Douro Internacional
 - Parque Natural do Sudoeste Alentejano e Costa Vicentina
 - Parque Natural do Tejo Internacional
-- Ruris
 - Plano Zonal do Douro Vinhateiro
 - Plano Zonal do Parque Nacional da Peneda Gerês
 - Plano Zonal do Parque Natural das Serras de Aire e Candeeiros
@@ -86,15 +85,23 @@ subjects:
 - Plano Zonal do Parque Natural do Sudoeste Alentejano e Costa Vicentina
 - Plano Zonal do Parque Natural do Tejo Internacional
 - Política Agrícola
+- Projeto de Investimento
 - Região Agrária
 - Regime de Apoio
 - Regulamento de Aplicação dos Planos Zonais
-- Agricultura
+- Ruris
 relationships:
 - type: amended_by
   target: pt:dre:676839:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:220366:por
+  label: "Alterados os arts. 4º, 8º, 11º, 12º, 14º, 17º, 18º, 20º, 23º, 24º, 25º e 26º, os anexos I, IV e V, todos do Regulamento\
+    \ de Aplicação dos Planos Zonais na intervenção \"Medidas Agro-Ambientais\", do RURIS, aprovado pelo presente diploma,\
+    \ pela PORT.503/2005.06.06.2005.MADRP, DR.IS-B [108] de 06.06.2005\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/503-2005-220366
+  date: '2005-06-06'
 - type: cites
   target: celex:31992R3508
   label: null
@@ -106,13 +113,13 @@ relationships:
 article_structure:
   article_count: 45
   section_count: 12
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:04:44Z'
   warnings: []
   errors: []
 ---
@@ -129,7 +136,7 @@ Assim, ao abrigo do disposto no n.º 2 do artigo 3.º do Decreto-Lei n.º 64/200
 
 Manda o Governo, pelo Ministro da Agricultura, Pescas e Florestas, que seja aprovado o Regulamento de Aplicação dos Planos Zonais integrados na intervenção «Medidas agro-ambientais», do Plano de Desenvolvimento Rural, abreviadamente designado por RURIS, em anexo ao presente diploma e do qual faz parte integrante.
 
-**O Ministro da Agricultura, Pescas e Florestas, Carlos Henrique da Costa Neves, em 21 de Janeiro de 2005.**
+O Ministro da Agricultura, Pescas e Florestas, Carlos Henrique da Costa Neves, em 21 de Janeiro de 2005.
 
 ## ANEXO — REGULAMENTO DE APLICAÇÃO DOS PLANOS ZONAIS
 

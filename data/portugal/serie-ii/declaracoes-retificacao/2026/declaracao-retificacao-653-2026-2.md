@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/2s/2026/07/144000000/0012800128.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -47,18 +47,18 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/declaracao-retificacao/653-2026-1152682658
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2026-07-28T00:00:00Z'
+  retrieved_at: '2026-10-23T15:05:49Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 108b9442df7018bcd5516c7a443d4fd1777f12cc2a48342c4232bf495240b6ef
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: ad1079d038965b9f4e750303c8c3e3b801b6cddbe1aac1170a091b7e3824f8b9
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:05:49Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,23 +66,29 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects: []
-relationships: []
+relationships:
+- type: cites
+  target: pt:dre:205457496:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:05:49Z'
   warnings: []
   errors: []
 ---
 
 # Declaração de Retificação n.º 653/2026/2
 
-Para os devidos efeitos, observado o disposto nos n.<sup>os</sup>2, 5, 6 e 7 do artigo 11.º do Regulamento de Publicação de Atos no Diário da República, aprovado pelo [Despacho Normativo n.º 16/2022](https://diariodarepublica.pt/dr/detalhe/despacho-normativo/16-2022-205457496), de 30 de dezembro, no uso de competência delegada pelo conselho de administração da Imprensa Nacional-Casa da Moeda, SA, em 16 de julho de 2026, e obtido parecer favorável da entidade emitente, declara-se sem efeito o Despacho n.º 8630/2026, publicado no Diário da República, 2.ª série, n.º 130, de 8 de julho de 2026, referente à delegação e subdelegação de competências do diretor da Direção Regional da Conservação da Natureza e Florestas do Alentejo nos dirigentes intermédios, decorrente de ter sido publicado em duplicado o teor deste ato.
+Para os devidos efeitos, observado o disposto nos n.os2, 5, 6 e 7 do artigo 11.º do Regulamento de Publicação de Atos no Diário da República, aprovado pelo [Despacho Normativo n.º 16/2022](https://diariodarepublica.pt/dr/detalhe/despacho-normativo/16-2022-205457496), de 30 de dezembro, no uso de competência delegada pelo conselho de administração da Imprensa Nacional-Casa da Moeda, SA, em 16 de julho de 2026, e obtido parecer favorável da entidade emitente, declara-se sem efeito o Despacho n.º 8630/2026, publicado no Diário da República, 2.ª série, n.º 130, de 8 de julho de 2026, referente à delegação e subdelegação de competências do diretor da Direção Regional da Conservação da Natureza e Florestas do Alentejo nos dirigentes intermédios, decorrente de ter sido publicado em duplicado o teor deste ato.
 
 24 de julho de 2026. - O Diretor-Adjunto da Unidade do Diário da República da Imprensa Nacional-Casa da Moeda, S. A., Vítor Hugo Faria.
+
+100000463

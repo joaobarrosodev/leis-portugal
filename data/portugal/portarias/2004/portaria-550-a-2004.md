@@ -19,7 +19,7 @@ publication:
   reference: Diário da República n.º 119/2004, 1º Suplemento, Série I-B de 2004-05-21
   number: '119'
   series: I
-  supplement: 1º Suplemento
+  supplement: null
   pages: 3254-(2) a 3254-(17)
   pdf_url: https://files.diariodarepublica.pt/1s/2004/05/119b01/00020017.pdf
 entry_into_force_dates: []
@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/550-a/2004/05/21/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/550-a-2004-238847
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2023-10-11T00:00:00Z'
+  retrieved_at: '2026-10-23T14:59:50Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 90ddc0fe0f1b1a68bdf3caf59e6311a5d36eb35d456a721440f7d3d765267a46
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 040bc4384cae0500df5f3e3f0b2dffd3227576ae244bf2215ec3f2aa7ed352fc
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T14:59:50Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -65,16 +65,16 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
+- Avaliação de Conhecimentos
 - Certificação Profissional
-- Plano de Estudos
 - Diploma
 - Ensino Cooperativo
 - Ensino Oficial
 - Ensino Particular
 - Ensino Tecnológico
-- Exame
 - Estágio de Formação
-- Avaliação de Conhecimentos
+- Exame
+- Plano de Estudos
 - Regulamento
 - Regulamento de Estágio
 relationships:
@@ -82,6 +82,19 @@ relationships:
   target: pt:dre:222645050:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:667477:por
+  label: "Alterados os artigos 3.º, 11.º, 13.º, 15.º, 17.º, 19.º, 20.º, 21.º, 24.º, 25.º, 31.º, 32.º e 34.º bem como os n.ºs\
+    \ 2, 8 e 9 do anexo II, o anexo III e revogado o anexo IV, pela PORT.260/2006.14.03.2006.ME, DR.IS-B [52] de 14.03.2006\0\
+    \0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/260-2006-667477
+  date: '2006-03-14'
+- type: amended_by
+  target: pt:dre:247710:por
+  label: "Alterados os arts. 19.º e 21.º (ambos na redacção dada pela Port 260/2006, de 14-Mar) e 29.º e 33.º pela PORT.207/2008.25.02.2008.ME,\
+    \ DR.IS [39] de 25.02.2008\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/207-2008-247710
+  date: '2008-02-25'
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/74/2004/03/26/p/dre
   label: null
@@ -94,16 +107,32 @@ relationships:
   target: eli:http://data.dre.pt/eli/lei/30/2002/12/20/p/dre
   label: null
   source: http://data.dre.pt/eli/lei/30/2002/12/20/p/dre
+- type: cites
+  target: pt:dre:210801:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:353971:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:405481:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:587624:por
+  label: null
+  source: null
 article_structure:
   article_count: 34
   section_count: 7
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T14:59:50Z'
   warnings: []
   errors: []
 ---
@@ -734,7 +763,7 @@ e) Se a classificação interna final, calculada nos termos da alínea anterior,
 
 As decisões referentes às provas de equivalência à frequência e aos exames finais nacionais são passíveis de impugnação administrativa nos termos legais.
 
-**O Ministro da Educação, José David Gomes Justino, em 17 de Maio de 2004.**
+O Ministro da Educação, José David Gomes Justino, em 17 de Maio de 2004.
 
 ## ANEXO I — Regulamento de Estágio dos Cursos Tecnológicos
 
@@ -968,11 +997,11 @@ g) Uma personalidade de reconhecido mérito na área de formação profissional 
 
 ## ANEXO III — Provas de equivalência à frequência: tipos de provas a realizar em cada disciplina e área não disciplinar e respectiva duração
 
-[(ver tabela no documento original)](https://files.diariodarepublica.pt/1s/2004/05/119b01/00020017.pdf)
+[[(ver tabela no documento original)](https://files.diariodarepublica.pt/1s/2004/05/119b01/00020017.pdf)](https://files.diariodarepublica.pt/1s/2004/05/119b01/00020017.pdf)
 
 ## ANEXO IV — Exames finais nacionais: tipo de prova a realizar em cada disciplina e respectiva duração
 
-[(ver tabela no documento original)](https://files.diariodarepublica.pt/1s/2004/05/119b01/00020017.pdf)
+[[(ver tabela no documento original)](https://files.diariodarepublica.pt/1s/2004/05/119b01/00020017.pdf)](https://files.diariodarepublica.pt/1s/2004/05/119b01/00020017.pdf)
 
 ## ANEXO V — Procedimentos específicos a observar no desenvolvimento da prova extraordinária de avaliação
 

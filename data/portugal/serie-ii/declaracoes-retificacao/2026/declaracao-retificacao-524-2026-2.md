@@ -26,7 +26,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/2s/2026/06/116000000/0006100061.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -48,18 +48,18 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/declaracao-retificacao/524-2026-1133518856
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2026-06-18T00:00:00Z'
+  retrieved_at: '2026-10-23T15:05:04Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 0017fcf56de8526deebc8a5ee4074fd2e7050697f41cd0703a15eccdf1886fe6
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: eae9c0b0a70cb5051643a2f030a1a84d919de51a165e3608098883d7be521817
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:05:04Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,17 +67,25 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects: []
-relationships: []
+relationships:
+- type: cites
+  target: pt:dre:205457496:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:870757938:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:05:04Z'
   warnings: []
   errors: []
 ---
@@ -95,3 +103,5 @@ deve ler-se:
 «III - António Aníbal Borges d’Almeida, António Carlos Carvalho Nogueira Leitão, Domingos António de Sousa Coutinho, Raimundo, Fernando António Cerqueira da Silva Paes, Francisco Manuel Vieira Rebelo de Andrade, Francisco Valadas Jr., Frederico da Cunha Paredes, Hélder de Sousa Martins, Henrique de Sampaio e Castro Pereira da Cunha da Silveira, João Vicente de Freitas Branco Sassetti, Joaquim Mascarenhas de Fiúza, Jorge de Paiva, Jorge Ivayr Rodrigues da Fonseca, José Gil de Gouveia Beltrão, José Mouzinho d’Albuquerque, Luís Cardoso de Menezes, Luís Falcão de Mena e Silva, Mário López da Vasa César Alves de Noronha e Paulo Vicente Pereira d’Eça Albuquerque Leal.»
 
 9 de junho de 2026. - O Secretário-Geral Adjunto, Joaquim Cruz.
+
+320011205

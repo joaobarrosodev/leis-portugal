@@ -48,18 +48,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/507/2004/05/14/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/507-2004-269016
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2004-05-14T00:00:00Z'
+  retrieved_at: '2026-10-23T14:59:35Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: b44b5653c765bb17c77d066fdd6d8b735b933407392149edb937cd6ad9a51fb7
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 7d54ded78dab12d5cf14bdf0ab28d1e12513a25c682f490b1edf2a63b6b0fd69
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T14:59:35Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -68,13 +68,13 @@ reuse:
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
 - Autoridade da Concorrência
-- Instituto Nacional de Aviação Civil
+- Entidade Reguladora dos Serviços Energéticos
+- Imoppi
 - Instituto das Comunicações de Portugal
 - Instituto de Seguros de Portugal
-- Imoppi
+- Instituto Nacional de Aviação Civil
 - Instituto Nacional do Transporte Ferroviário
 - Instituto Regulador de Águas e Resíduos
-- Entidade Reguladora dos Serviços Energéticos
 - Receita Própria
 - Taxa
 relationships:
@@ -118,16 +118,56 @@ relationships:
   target: eli:http://data.dre.pt/eli/dec-lei/97/2002/04/12/p/dre
   label: null
   source: http://data.dre.pt/eli/dec-lei/97/2002/04/12/p/dre
+- type: cites
+  target: pt:dre:152530:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:158618:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:185570:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:303200:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:349923:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:466832:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:522380:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:576886:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:582013:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:603511:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T14:59:35Z'
   warnings: []
   errors: []
 ---
@@ -168,4 +208,4 @@ d) No caso do INAC, no início de Junho e de Setembro, até ao dia 15 de cada m�
 
 Em 7 de Abril de 2004.
 
-**A Ministra de Estado e das Finanças, Maria Manuela Dias Ferreira Leite. - O Ministro da Economia, Carlos Manuel Tavares da Silva. - O Ministro das Obras Públicas, Transportes e Habitação, António Pedro de Nobre Carmona Rodrigues. - O Ministro das Cidades, Ordenamento do Território e Ambiente, Amílcar Augusto Contel Martins Theias.**
+A Ministra de Estado e das Finanças, Maria Manuela Dias Ferreira Leite. - O Ministro da Economia, Carlos Manuel Tavares da Silva. - O Ministro das Obras Públicas, Transportes e Habitação, António Pedro de Nobre Carmona Rodrigues. - O Ministro das Cidades, Ordenamento do Território e Ambiente, Amílcar Augusto Contel Martins Theias.

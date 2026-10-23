@@ -48,18 +48,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/179/2005/02/15/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/179-2005-604205
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2005-02-15T00:00:00Z'
+  retrieved_at: '2026-10-23T15:04:45Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 935fa005d58ec699da02fffca8392d599d4763904026c480885d6c76af24c452
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 18b778043cd11ed014aca8eff804a3b2f93e6aefad560a2983b6af1209fcfe50
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:04:45Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,10 +67,10 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Contrato Coletivo de Trabalho
 - Associação Patronal
-- Contrato de Trabalho
 - Condições de Higiene e Segurança no Trabalho
+- Contrato Coletivo de Trabalho
+- Contrato de Trabalho
 - Regulamento de Extensão
 - Trabalhador por Conta de Outrem
 relationships:
@@ -78,16 +78,20 @@ relationships:
   target: eli:http://data.dre.pt/eli/dec-lei/218/1997/08/20/p/dre
   label: null
   source: http://data.dre.pt/eli/dec-lei/218/1997/08/20/p/dre
+- type: cites
+  target: pt:dre:195799:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:04:45Z'
   warnings: []
   errors: []
 ---
@@ -126,4 +130,4 @@ b) Às relações de trabalho entre empregadores filiados nas associações de e
 
 2.º A presente portaria entra em vigor no 5.º dia após a sua publicação no Diário da República.
 
-**O Secretário de Estado Adjunto e do Trabalho, Luís Miguel Pais Antunes, em 17 de Janeiro de 2005.**
+O Secretário de Estado Adjunto e do Trabalho, Luís Miguel Pais Antunes, em 17 de Janeiro de 2005.

@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/2s/2025/10/199000000/0045100451.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -47,18 +47,18 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/declaracao-retificacao/948-2025-939941344
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2025-10-15T00:00:00Z'
+  retrieved_at: '2026-10-23T15:02:15Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 32848bcc8316b4e4476c72cb262bba8467e6c1e54fac579c5d34db17065fd213
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: b5ce52576d2cb8735da5d577279f10376da1876dc37cc9a0a384b794ac7b2af4
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:02:15Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,17 +66,25 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects: []
-relationships: []
+relationships:
+- type: cites
+  target: pt:dre:911344368:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:937071490:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:02:15Z'
   warnings: []
   errors: []
 ---
@@ -94,3 +102,5 @@ deve ler-se:
 «1 - Nos termos e para os efeitos previstos no n.º 4 do artigo 25.º da Portaria n.º 233/2022, de 9 de setembro, torna-se público que as listas unitárias de ordenação final dos candidatos aprovados no procedimento concursal comum para ocupação de um posto de trabalho previsto e não ocupado, da carreira/categoria de Assistente Operacional, do mapa de pessoal da Freguesia de Pontével, visando o exercício de funções em regime de contrato de trabalho em funções públicas por Tempo Indeterminado, cujo aviso de abertura foi publicado no Diário da República, 2.ª série, [Aviso (extrato) n.º 7268/2025/2](https://diariodarepublica.pt/dr/detalhe/aviso-extrato/7268-2025-911344368), de 18/03/2025, bem como na Bolsa de Emprego Público com as referências OE202503/0782, foi homologada pela Junta de Freguesia de Pontével, em 25/09/2025, encontrando-se a mesma disponibilizada na página eletrónica em, https://www.jf-pontevel.pt/, e no lugar de estilo da Freguesia de Pontével, sita na Rua Mateus Peixoto Barreto n.º 1, 2070-430 Pontével.»
 
 2 de outubro de 2025. - O Presidente da Junta de Freguesia, Jorge Lúcio.
+
+319624213

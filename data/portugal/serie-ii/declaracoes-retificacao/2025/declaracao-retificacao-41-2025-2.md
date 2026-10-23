@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/2s/2025/01/011000000/0037400375.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -46,18 +46,18 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/declaracao-retificacao/41-2025-903773592
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2025-01-16T00:00:00Z'
+  retrieved_at: '2026-10-23T14:59:02Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 347e0d72f0a64e3fb064f1523fda98c56a12d482c8edb95500f00662176cf70e
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: f25ee55f8a129bcfbfd266168bdb43875abcfa3d66683cce5493c3e0e5650f85
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T14:59:02Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -65,17 +65,21 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects: []
-relationships: []
+relationships:
+- type: cites
+  target: pt:dre:902932980:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T14:59:02Z'
   warnings: []
   errors: []
 ---
@@ -94,37 +98,39 @@ Em anexo à presente declaração de retificação, procede-se à publicação i
 
 [Os titulares dos cargos abaixo elencados podem, se assim o entenderem, declinar receber qualquer um dos montantes abaixo previstos (devendo fazê-lo por escrito). Em caso de acumulação de cargos, o titular deve optar por uma das remunerações/subsídios, não sendo os mesmos acumuláveis.]
 
-| Órgão | Em exclusividade (1) | Sem exclusividade (2) (8) | Subsídio de representação | Subsídio de representação (por reunião) (presencial ou videoconferência) (5). | Subsídio de representação em deslocações oficiais ao estrangeiro (diário). | Subsídio de comunicação (mensal) |
+| Órgão | Remuneração mensal | Subsídio de representação | Subsídio de representação (por reunião) (presencial ou videoconferência) (5). | Subsídio de representação em deslocações oficiais ao estrangeiro (diário). | Subsídio de comunicação (mensal) |  |
 | --- | --- | --- | --- | --- | --- | --- |
-| Órgão | Remuneração mensal | Remuneração mensal | Subsídio de representação | Subsídio de representação (por reunião) (presencial ou videoconferência) (5). | Subsídio de representação em deslocações oficiais ao estrangeiro (diário). | Subsídio de comunicação (mensal) |
+| Em exclusividade (1) | Sem exclusividade (2) (8) |  |  |  |  |  |
 | Bastonário | 4.959,50 € | 2.975,70 € | 800 (3) | 40 (7) | 75 | 300 |
-| Vice-presidentes nacionais | 0 | 0 | 720 (3) | 40 | 75 | 270 |
-| Presidente da Secção Regional | 0 | 0 | 640 (3) | 40 | 75 | 120 |
-| Vice-presidente da Secção Regional | 0 | 0 | 400 (3) | 40 | 75 | 120 |
+| Vice-presidentes nacionais | 0 | 720 (3) | 40 | 75 | 270 |  |
+| Presidente da Secção Regional | 0 | 640 (3) | 40 | 75 | 120 |  |
+| Vice-presidente da Secção Regional | 0 | 400 (3) | 40 | 75 | 120 |  |
 | Assembleia geral |  |  |  |  |  |  |
-| Presidente | 0 | 0 | 100 (4) | 40 | 75 | 0 |
-| Restantes membros | 0 | 0 | 0 | 40 | 75 | 0 |
+| Presidente | 0 | 100 (4) | 40 | 75 | 0 |  |
+| Restantes membros | 0 | 0 | 40 | 75 | 0 |  |
 | Conselho Fiscal Nacional |  |  |  |  |  |  |
-| Presidente | 0 | 0 | 100 (4) | 40 | 75 | 0 |
-| Restantes membros | 0 | 0 | 0 | 40 | 75 | 0 |
+| Presidente | 0 | 100 (4) | 40 | 75 | 0 |  |
+| Restantes membros | 0 | 0 | 40 | 75 | 0 |  |
 | Conselho de Supervisão |  |  |  |  |  |  |
-| Presidente | 0 | 0 | 100 | 40 | 75 | 0 |
-| Restantes membros | 0 | 0 | 50 | 40 | 75 | 0 |
+| Presidente | 0 | 100 | 40 | 75 | 0 |  |
+| Restantes membros | 0 | 50 | 40 | 75 | 0 |  |
 | Conselho Jurisdicional |  |  |  |  |  |  |
-| Presidente | 0 | 0 | 100 (4) | 40 | 75 | 0 |
-| Restantes membros | 0 | 0 | 0 | 40 | 75 | 0 |
+| Presidente | 0 | 100 (4) | 40 | 75 | 0 |  |
+| Restantes membros | 0 | 0 | 40 | 75 | 0 |  |
 | Conselho Disciplinar Nacional |  |  |  |  |  |  |
-| Presidente | 0 | 0 | 100 | 40 | 75 | 0 |
-| Restantes membros | 0 | 0 | 50 | 40 | 75 | 0 |
+| Presidente | 0 | 100 | 40 | 75 | 0 |  |
+| Restantes membros | 0 | 50 | 40 | 75 | 0 |  |
 | Conselho da Profissão (6) |  |  |  |  |  |  |
-| Presidente | 0 | 0 | 720 (3) | 40 | 75 | 120 |
-| Vice-presidentes | 0 | 0 | 0 | 40 | 75 | 0 |
-| Presidentes dos colégios da especialidade | 0 | 0 | 0 | 40 | 75 | 0 |
+| Presidente | 0 | 720 (3) | 40 | 75 | 120 |  |
+| Vice-presidentes | 0 | 0 | 40 | 75 | 0 |  |
+| Presidentes dos colégios da especialidade | 0 | 0 | 40 | 75 | 0 |  |
 | Assembleia de Representantes |  |  |  |  |  |  |
-| Presidente | 0 | 0 | 720 (3) | 40 | 75 | 270 |
-| Restantes membros | 0 | 0 | 0 | 40 | 75 | 0 |
-| Coordenador do Gabinete Técnico | 0 | 0 | 350 (3) | 40 | 75 | 120 |
-| Provedor | 0 | 0 | 100 | 40 | 0 | 0 |
-| Secretário-geral | 2.975,70 € | 2.975,70 € | 300 (3) | 40 | 75 | 120 |
+| Presidente | 0 | 720 (3) | 40 | 75 | 270 |  |
+| Restantes membros | 0 | 0 | 40 | 75 | 0 |  |
+| Coordenador do Gabinete Técnico | 0 | 350 (3) | 40 | 75 | 120 |  |
+| Provedor | 0 | 100 | 40 | 0 | 0 |  |
+| Secretário-geral | 2.975,70 € | 300 (3) | 40 | 75 | 120 |  |
 
 10 de janeiro de 2025. - O Bastonário e Presidente do Conselho Diretivo Nacional, Augusto Ferreira Guedes.
+
+318552713

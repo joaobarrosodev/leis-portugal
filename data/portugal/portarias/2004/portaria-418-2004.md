@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/418/2004/04/22/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/418-2004-223241
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2004-04-22T00:00:00Z'
+  retrieved_at: '2026-10-23T14:59:04Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: dddba3e999325eea594c1209317f0a853036576427de60fd965d49668b1c3160
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 799c62a78ffe7ee0777da38e643a669b437dc04b9f5af6f913a3a5008d462ac3
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T14:59:04Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,10 +66,10 @@ reuse:
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
 - Aprendizagem
-- Formação Profissional
-- Plano de Estudos
 - Ensino Profissional
+- Formação Profissional
 - Jovem Trabalhador
+- Plano de Estudos
 relationships:
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/205/1996/10/25/p/dre
@@ -99,16 +99,52 @@ relationships:
   target: eli:http://data.dre.pt/eli/port/989/1999/11/03/p/dre
   label: null
   source: http://data.dre.pt/eli/port/989/1999/11/03/p/dre
+- type: cites
+  target: pt:dre:226416:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:288401:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:303187:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:357329:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:515592:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:523412:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:547021:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:661731:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:694187:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T14:59:04Z'
   warnings: []
   errors: []
 ---
@@ -159,7 +195,7 @@ f) Técnicas de análise de riscos.
 
 Em 23 de Março de 2004.
 
-**O Ministro da Educação, José David Gomes Justino. - O Secretário de Estado do Trabalho, Luís Miguel Pais Antunes.**
+O Ministro da Educação, José David Gomes Justino. - O Secretário de Estado do Trabalho, Luís Miguel Pais Antunes.
 
 Normas regulamentares da formação profissional de jovens em regime de alternância nas saídas profissionais da área de finanças, banca e seguros.
 

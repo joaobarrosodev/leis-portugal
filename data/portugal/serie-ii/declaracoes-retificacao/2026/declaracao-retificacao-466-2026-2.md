@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/2s/2026/06/105000000/0075000750.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -46,18 +46,18 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/declaracao-retificacao/466-2026-1128499961
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2026-06-01T00:00:00Z'
+  retrieved_at: '2026-10-23T15:04:44Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: efbf99043c256df5ac2b98c2b578a52f86a73984a7ad84ffab9733d415830665
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: d7e9b2cbe560951778d93cbb3a79131cc0fa59fddde8ef93bca0a9be3d836a70
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:04:44Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -65,17 +65,21 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects: []
-relationships: []
+relationships:
+- type: cites
+  target: pt:dre:1124912728:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:04:44Z'
   warnings: []
   errors: []
 ---
@@ -85,3 +89,5 @@ validation:
 Por ter saído com inexatidão o [Aviso n.º 12107/2026/2](https://diariodarepublica.pt/dr/detalhe/aviso/12107-2026-1124912728), publicado no Diário da República, 2.ª série, n.º 98, de 21 de maio de 2026, retifica-se que onde se lê «pelo período de 10 dias úteis a contar da data da publicação do presente aviso no Diário da República» deve ler-se «pelo período de 10 dias úteis a contar da data da publicação da BEP - Bolsa de Emprego Público».
 
 26 de maio de 2026. - O Secretário Executivo Intermunicipal, José Paulo Queiroz.
+
+320005256

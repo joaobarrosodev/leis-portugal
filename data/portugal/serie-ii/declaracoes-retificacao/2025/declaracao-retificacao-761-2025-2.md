@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/2s/2025/08/157000000/0027000270.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -46,18 +46,18 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/declaracao-retificacao/761-2025-932271257
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2025-08-18T00:00:00Z'
+  retrieved_at: '2026-10-23T15:01:11Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 4ae64551d150bf1a2210b1ec38d19cf256252209d24b6ddbac62f704c69174e2
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: c39abc98d72b50829659b4cf63738b047763d1cd88a27305f1a94359af98b363
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:01:11Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -69,13 +69,13 @@ relationships: []
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:01:11Z'
   warnings: []
   errors: []
 ---
@@ -93,3 +93,5 @@ deve ler-se:
 Mais se torna público que o prazo concedido de 10 dias úteis para apresentação de candidaturas no âmbito da manifestação de interesse individual para nomeação de técnico superior diretor dos técnicos superiores de diagnóstico e terapêutica inicia a sua contagem após a publicação desta declaração de retificação no Diário da República.
 
 5 de agosto de 2025. - O Presidente do Conselho de Administração, Tiago Jorge Carvalho Gonçalves.
+
+319403212

@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/745/2004/06/30/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/745-2004-517598
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2006-07-25T00:00:00Z'
+  retrieved_at: '2026-10-23T15:01:05Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 29a93a204494fa99a476d1475ba0186a758e49b53daa1d673d4d811a06d662be
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 3e699b90ebccef6f7fa892503bfb08ea7c8fb3b724eab13e43daa62095beb97d
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:01:05Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -74,6 +74,18 @@ relationships:
   target: pt:dre:539220:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:481349:por
+  label: "Alterado o quadro de pessoal aprovado pela Port 1/98 de 05-Jan, na redacção do presente diploma, pela PORT.1040/2004.14.08.2004.MF,\
+    \ DR.IS-B [191] de 14.08.2004\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/1040-2004-481349
+  date: '2004-08-14'
+- type: amended_by
+  target: pt:dre:539220:por
+  label: "Alterado o quadro de pessoal do Hospital Distrital de Águeda fixado na Port 1/98 de 05-Jan, com a redacção conferida\
+    \ no presente diploma, pela PORT.729/2006.25.07.2006.MFAP, DR.IS [142] de 25.07.2006\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/729-2006-539220
+  date: '2006-07-25'
 - type: cites
   target: eli:http://data.dre.pt/eli/port/1/1998/01/05/p/dre
   label: null
@@ -82,16 +94,28 @@ relationships:
   target: eli:http://data.dre.pt/eli/port/506/1999/07/16/p/dre
   label: null
   source: http://data.dre.pt/eli/port/506/1999/07/16/p/dre
+- type: cites
+  target: pt:dre:223592:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:356685:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:505986:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:01:05Z'
   warnings: []
   errors: []
 ---
@@ -108,7 +132,7 @@ Ao abrigo do disposto no n.º 2 do artigo 1.º do [Decreto-Lei n.º 59/76](https
 
 Manda o Governo, pelos Ministros de Estado e das Finanças e da Saúde, que o quadro de pessoal do Hospital Distrital de Águeda, aprovado pela [Portaria n.º 1/98](https://diariodarepublica.pt/dr/detalhe/portaria/1-1998-223592), de 5 de Janeiro, e posteriormente alterado pela [Portaria n.º 506/99](https://diariodarepublica.pt/dr/detalhe/portaria/506-1999-356685), de 16 de Julho, seja alterado de acordo com o mapa anexo à presente portaria, da qual faz parte integrante.
 
-**A Ministra de Estado e das Finanças, Maria Manuela Dias Ferreira Leite, em 27 de Maio de 2004. - Pelo Ministro da Saúde, Adão José Fonseca Silva, Secretário de Estado Adjunto do Ministro da Saúde, em 17 de Março de 2003.**
+A Ministra de Estado e das Finanças, Maria Manuela Dias Ferreira Leite, em 27 de Maio de 2004. - Pelo Ministro da Saúde, Adão José Fonseca Silva, Secretário de Estado Adjunto do Ministro da Saúde, em 17 de Março de 2003.
 
 MAPA ANEXO
 

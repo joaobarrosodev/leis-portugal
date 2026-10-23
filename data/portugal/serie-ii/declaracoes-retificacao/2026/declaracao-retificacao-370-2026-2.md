@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/2s/2026/04/084000000/0031500315.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -46,18 +46,18 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/declaracao-retificacao/370-2026-1101710026
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2026-04-30T00:00:00Z'
+  retrieved_at: '2026-10-23T15:04:07Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: b86b4909347b71483a5c4523c5fb241a2767cee7e4e9a5e061db1bdc1af21dd8
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: df48b8bba30ace0de26397e01e005b7e2f8d4e8223e60d07f82f12a807c7c70b
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:04:07Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -65,17 +65,21 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects: []
-relationships: []
+relationships:
+- type: cites
+  target: pt:dre:1086390681:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:04:07Z'
   warnings: []
   errors: []
 ---
@@ -87,3 +91,5 @@ Retifica o [Aviso n.º 8786/2026/2](https://diariodarepublica.pt/dr/detalhe/avis
 Por ter saído com inexatidão o [Aviso n.º 8786/2026/2](https://diariodarepublica.pt/dr/detalhe/aviso/8786-2026-1086390681), publicado no Diário da República, 2.ª série, n.º 75, de 17 de abril de 2026, retifica-se que onde se lê «com efeitos a 27 de fevereiro de 2027» deve ler-se «com efeitos a 27 de fevereiro de 2026».
 
 20 de abril de 2026. - O Presidente da Câmara, João Noronha.
+
+319989534

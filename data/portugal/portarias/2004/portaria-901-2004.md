@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2004/07/172b00/46374637.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/901/2004/07/23/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/901-2004-507780
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2005-06-15T00:00:00Z'
+  retrieved_at: '2026-10-23T15:01:58Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: c2b8123144c4c5e253504bbbccbd72782c063f567a40af3441053f9eaab11536
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 9bfc9dd6f3aa843c91238a98c695828cf4b4e362d614dd583c54b6061b3d2cfd
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:01:58Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -94,16 +94,41 @@ relationships:
   target: eli:http://data.dre.pt/eli/port/722-n/1992/07/15/p/dre
   label: null
   source: http://data.dre.pt/eli/port/722-n/1992/07/15/p/dre
+- type: cites
+  target: pt:dre:434674:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:534644:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:536243:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:617771:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:684390:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:226835:por
+  label: "Revogada pela PORT.519/2005.15.06.2005.MADRP, DR.IS-B [113] de 15.06.2005\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/519-2005-226835
+  date: '2005-06-15'
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:01:58Z'
   warnings: []
   errors: []
 ---

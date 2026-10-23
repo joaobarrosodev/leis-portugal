@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2004/05/118b00/31713172.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/519/2004/05/20/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/519-2004-270427
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2009-01-19T00:00:00Z'
+  retrieved_at: '2026-10-23T14:59:40Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 26f6e54afdf4623d4fbc71d8c92b43eacf2f24eb3e591e489deb6e31951dbff8
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 464b0924c5fc3f349e54db0a2ec25bf66cd7ad8ad4e3e549ec94fa9f850d4cc4
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T14:59:40Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,12 +66,12 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Estabelecimento Comercial
+- Comércio
 - Comércio a Retalho
-- Projeto de Investimento
+- Estabelecimento Comercial
 - Instalação de Serviços
 - Licenciamento
-- Comércio
+- Projeto de Investimento
 relationships:
 - type: amended_by
   target: pt:dre:602685:por
@@ -81,16 +81,26 @@ relationships:
   target: eli:http://data.dre.pt/eli/lei/12/2004/03/30/p/dre
   label: null
   source: http://data.dre.pt/eli/lei/12/2004/03/30/p/dre
+- type: cites
+  target: pt:dre:217164:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:602685:por
+  label: "Revogada, a partir de 19.04.2009, pelo DEC LEI.21/2009.19.01.2009.MEI, DR.IS [12] de 19.01.2009, nos termos do n.º\
+    \ 2 do seu artigo 27.º \0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/21-2009-602685
+  date: '2009-01-19'
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T14:59:40Z'
   warnings: []
   errors: []
 ---
@@ -141,4 +151,4 @@ d) Os prazos referidos nas alíneas anteriores são contínuos e contam-se nos t
 
 3.º A presente portaria entra em vigor no dia seguinte ao da sua publicação.
 
-**O Ministro da Economia, Carlos Manuel Tavares da Silva, em 26 de Abril de 2004.**
+O Ministro da Economia, Carlos Manuel Tavares da Silva, em 26 de Abril de 2004.

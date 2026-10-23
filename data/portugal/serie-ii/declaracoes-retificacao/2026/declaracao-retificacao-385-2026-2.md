@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/2s/2026/05/089000000/0026100261.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -47,18 +47,18 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/declaracao-retificacao/385-2026-1114075464
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2026-05-08T00:00:00Z'
+  retrieved_at: '2026-10-23T15:04:12Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 9667ac849c8a03d01c58e46e96de40a16ac177767bfac4100d03b816ed10d1f2
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: cd1b36dc4fbd9709f333ec44dcf1b4f64b81f591952d6cad3a8dc381e219fe85
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:04:12Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,17 +66,25 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects: []
-relationships: []
+relationships:
+- type: cites
+  target: pt:dre:916177977:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:933653647:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:04:12Z'
   warnings: []
   errors: []
 ---
@@ -110,3 +118,5 @@ Assim, acrescenta-se ao edital:
 «Considerando a especificidade da área científica do concurso - Sociologia, Estudos Culturais e Gestão das Atividades Físicas e do Desporto (SEG) - que não encontra correspondência direta no panorama internacional, e atendendo à exiguidade do prazo legalmente fixado pela [Portaria n.º 485-A/2025/2](https://diariodarepublica.pt/dr/detalhe/portaria/485-a-2025-933653647), que determina a abertura dos concursos no prazo máximo de três meses após a entrada em vigor da [Lei n.º 55/2025](https://diariodarepublica.pt/dr/detalhe/lei/55-2025-916177977), não foi possível assegurar, em tempo útil, a participação de especialistas internacionais com perfil adequado. Assim, a constituição do júri exclusivamente com membros de instituições nacionais encontra-se devidamente fundamentada e conforme com a legislação aplicável.»
 
 24 de abril de 2026. - O Presidente da FMH, Pedro José Madaleno Passos.
+
+319992003

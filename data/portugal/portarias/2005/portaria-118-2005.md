@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2005/01/021b00/07460746.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/118/2005/01/31/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/118-2005-620475
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2005-01-31T00:00:00Z'
+  retrieved_at: '2026-10-23T15:03:34Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 031ad825491a212439a558f965179d42c7b67169fed08d861f5533d05ddb4d43
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 6c3d739ce3f8056d7cb4f721204241862b7e12ebaf20130ae5b2b4a8e7064d62
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:03:34Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,26 +67,31 @@ reuse:
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
 - Efeito de Estufa
-- Licença de Emissão
 - Emolumento
-- União Europeia
 - Instituto do Ambiente
+- Licença de Emissão
 - Proteção do Ambiente
+- União Europeia
 relationships:
 - type: cites
   target: celex:32003L0087
   label: null
   source: http://data.europa.eu/eli/dir/2003/87/oj
+- type: repealed_by
+  target: pt:dre:67590380:por
+  label: Revogada, a partir de 26.06.2015, pelo(a) Portaria n.º 188/2015 - Diário da República n.º 122/2015, Série I de 2015-06-25
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/188-2015-67590380
+  date: '2015-06-25'
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:03:34Z'
   warnings: []
   errors: []
 ---
@@ -117,4 +122,4 @@ Manda o Governo, pelo Ministro de Estado, das Actividades Económicas e do Traba
 
 Em 30 de Dezembro de 2004.
 
-**O Ministro de Estado, das Actividades Económicas e do Trabalho, Álvaro Roque de Pinho Bissaya Barreto. - Pelo Ministro do Ambiente e do Ordenamento do Território, Jorge Manuel Lopes Moreira da Silva, Secretário de Estado Adjunto do Ministro do Ambiente e do Ordenamento do Território.**
+O Ministro de Estado, das Actividades Económicas e do Trabalho, Álvaro Roque de Pinho Bissaya Barreto. - Pelo Ministro do Ambiente e do Ordenamento do Território, Jorge Manuel Lopes Moreira da Silva, Secretário de Estado Adjunto do Ministro do Ambiente e do Ordenamento do Território.

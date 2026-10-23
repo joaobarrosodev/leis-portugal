@@ -19,12 +19,12 @@ publication:
   reference: Diário da República n.º 21/2005, 1º Suplemento, Série I-B de 2005-01-31
   number: '21'
   series: I
-  supplement: 1º Suplemento
+  supplement: null
   pages: 836-(2) a 836-(9)
   pdf_url: https://files.diariodarepublica.pt/1s/2005/01/021b01/00020009.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/126-a/2005/01/31/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/126-a-2005-595125
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2008-12-17T00:00:00Z'
+  retrieved_at: '2026-10-23T15:04:01Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: ebdd95e0c9b3536465ec9bf47049f42e33e64412021c079fca8b957b07e8b325
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 3eb4c40a20ccb4522bfbd61879e46de38ae0b4ff5634c8115d3e0fccb1cefac9
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:04:01Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -65,11 +65,11 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Radiocomunicações
-- Licenciamento
-- Radiodifusão
-- Preço
 - Comunicações
+- Licenciamento
+- Preço
+- Radiocomunicações
+- Radiodifusão
 - Serviços de Radiocomunicações
 - Taxa
 - TAXA de Prestação de Serviços
@@ -79,6 +79,12 @@ relationships:
   target: pt:dre:198753:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:650364:por
+  label: "Alterados e substituídos os valores constantes das taxas radioeléctricas previstas no quadro anexo ao presente diploma,\
+    \ pela PORT.386/2006.19.04.2006.MOPTC, DR.IS-B [77] de 19.04.2006\06\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/386-2006-650364
+  date: '2006-04-19'
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/151-a/2000/07/20/p/dre
   label: null
@@ -107,16 +113,54 @@ relationships:
   target: eli:http://data.dre.pt/eli/port/667-a/2001/07/02/p/dre
   label: null
   source: http://data.dre.pt/eli/port/667-a/2001/07/02/p/dre
+- type: cites
+  target: pt:dre:154585:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:288056:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:429823:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:481170:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:484829:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:514399:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:625179:por
+  label: null
+  source: null
+- type: corrected_by
+  target: pt:dre:572669:por
+  label: "Rectificada pela DECL-RECT.13/2005.01.03.2005.PCM, DR.IS-B [53] de 16.03.2005\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/declaracao-rectificacao/13-2005-572669
+  date: '2005-03-01'
+- type: repealed_by
+  target: pt:dre:198753:por
+  label: "Revogada, a partir de 01.01.2009, pela PORT.1473-B/2008.17.12.2008.MOPTC, DR.IS [243]Supl de 17.12.2008\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/1473-b-2008-198753
+  date: '2008-12-17'
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:04:01Z'
   warnings: []
   errors: []
 ---
@@ -177,7 +221,7 @@ Pelo Ministro das Obras Públicas, Transportes e Comunicações, Jorge Manuel Ma
 
 Taxas administrativas
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2005/01/021b01/00020009.pdf))](https://files.diariodarepublica.pt/1s/2005/01/021b01/00020009.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2005/01/021b01/00020009.pdf)
 
 Taxas de utilização
 
@@ -185,17 +229,17 @@ Taxas de utilização
 
 1.1 - Serviço móvel terrestre:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2005/01/021b01/00020009.pdf))](https://files.diariodarepublica.pt/1s/2005/01/021b01/00020009.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2005/01/021b01/00020009.pdf)
 
 1.1.1 - Serviço móvel terrestre - canais partilhados:
 
 1.1.1.1 - Canais de âmbito nacional - a taxa de utilização aplicável a cada uma das redes que partilha um canal nacional depende do correspondente número de estações móveis, de acordo com o seguinte escalonamento:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2005/01/021b01/00020009.pdf))](https://files.diariodarepublica.pt/1s/2005/01/021b01/00020009.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2005/01/021b01/00020009.pdf)
 
 1.1.1.2 - Canais celulares - a taxa de utilização aplicável a cada uma das redes que partilha um canal celular depende do correspondente número de estações móveis, de acordo com o seguinte escalonamento:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2005/01/021b01/00020009.pdf))](https://files.diariodarepublica.pt/1s/2005/01/021b01/00020009.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2005/01/021b01/00020009.pdf)
 
 1.2 - Serviço móvel marítimo:
 
@@ -203,13 +247,13 @@ Taxas de utilização
 
 Por cada estação costeira:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2005/01/021b01/00020009.pdf))](https://files.diariodarepublica.pt/1s/2005/01/021b01/00020009.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2005/01/021b01/00020009.pdf)
 
 1.2.2 - Faixas em MF (ondas hectométricas) e HF (ondas decamétricas):
 
 Por cada estação costeira:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2005/01/021b01/00020009.pdf))](https://files.diariodarepublica.pt/1s/2005/01/021b01/00020009.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2005/01/021b01/00020009.pdf)
 
 1.3 - Serviço móvel aeronáutico:
 
@@ -217,35 +261,35 @@ Por cada estação costeira:
 
 Por cada estação aeronáutica:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2005/01/021b01/00020009.pdf))](https://files.diariodarepublica.pt/1s/2005/01/021b01/00020009.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2005/01/021b01/00020009.pdf)
 
 1.4 - Serviço fixo:
 
 1.4.1 - Ligações hertzianas monovia:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2005/01/021b01/00020009.pdf))](https://files.diariodarepublica.pt/1s/2005/01/021b01/00020009.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2005/01/021b01/00020009.pdf)
 
 1.4.2 - Ligações hertzianas multivia:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2005/01/021b01/00020009.pdf))](https://files.diariodarepublica.pt/1s/2005/01/021b01/00020009.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2005/01/021b01/00020009.pdf)
 
 1.5 - Radiodeterminação:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2005/01/021b01/00020009.pdf))](https://files.diariodarepublica.pt/1s/2005/01/021b01/00020009.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2005/01/021b01/00020009.pdf)
 
 1.6 - Instalações diversas:
 
 1.6.1 - Serviços auxiliares de produção de programas/serviços auxiliares de radiodifusão (aplicações SAP/SAB):
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2005/01/021b01/00020009.pdf))](https://files.diariodarepublica.pt/1s/2005/01/021b01/00020009.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2005/01/021b01/00020009.pdf)
 
 1.6.2 - Estações para fins utilitários e recreativos:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2005/01/021b01/00020009.pdf))](https://files.diariodarepublica.pt/1s/2005/01/021b01/00020009.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2005/01/021b01/00020009.pdf)
 
 1.6.3 - Estações para telecomando:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2005/01/021b01/00020009.pdf))](https://files.diariodarepublica.pt/1s/2005/01/021b01/00020009.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2005/01/021b01/00020009.pdf)
 
 1.7 - Serviços móveis por satélite:
 
@@ -253,7 +297,7 @@ Por cada estação aeronáutica:
 
 Ligações ao segmento espacial-satélite (por cada estação terrena fixa):
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2005/01/021b01/00020009.pdf))](https://files.diariodarepublica.pt/1s/2005/01/021b01/00020009.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2005/01/021b01/00020009.pdf)
 
 1.8 - Serviço fixo por satélite (SFS/ET):
 
@@ -263,11 +307,11 @@ Faixas em SHF (ondas centimétricas) e EHF (ondas milimétricas):
 
 Ligações ao segmento espacial-satélite (por cada estação terrena):
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2005/01/021b01/00020009.pdf))](https://files.diariodarepublica.pt/1s/2005/01/021b01/00020009.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2005/01/021b01/00020009.pdf)
 
 1.8.2 - Estações terrenas do serviço fixo (SFS/VSAT) (VSAT - very small aperture terminal):
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2005/01/021b01/00020009.pdf))](https://files.diariodarepublica.pt/1s/2005/01/021b01/00020009.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2005/01/021b01/00020009.pdf)
 
 1.8.3 - Estações terrenas do serviço fixo (SFS/SNG) (SNG - satellite news gathering):
 
@@ -275,13 +319,13 @@ Cobertura de eventos
 
 1.8.3.1 - Licenciamento permanente:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2005/01/021b01/00020009.pdf))](https://files.diariodarepublica.pt/1s/2005/01/021b01/00020009.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2005/01/021b01/00020009.pdf)
 
 1.8.3.2 - Licenciamento temporário:
 
 Por cada estação terrena SNG:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2005/01/021b01/00020009.pdf))](https://files.diariodarepublica.pt/1s/2005/01/021b01/00020009.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2005/01/021b01/00020009.pdf)
 
 2 - Radiocomunicações públicas:
 
@@ -291,7 +335,7 @@ Por cada estação terrena SNG:
 
 Por cada estação base:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2005/01/021b01/00020009.pdf))](https://files.diariodarepublica.pt/1s/2005/01/021b01/00020009.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2005/01/021b01/00020009.pdf)
 
 2.2 - Serviço móvel com recursos partilhados:
 
@@ -299,7 +343,7 @@ Por cada estação base:
 
 Por cada estação base:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2005/01/021b01/00020009.pdf))](https://files.diariodarepublica.pt/1s/2005/01/021b01/00020009.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2005/01/021b01/00020009.pdf)
 
 2.4 - Serviço móvel marítimo:
 
@@ -307,31 +351,31 @@ Por cada estação base:
 
 Por cada estação costeira:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2005/01/021b01/00020009.pdf))](https://files.diariodarepublica.pt/1s/2005/01/021b01/00020009.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2005/01/021b01/00020009.pdf)
 
 2.4.2 - Faixas em MF (ondas hectométricas) e HF (ondas decamétricas):
 
 Por cada estação costeira:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2005/01/021b01/00020009.pdf))](https://files.diariodarepublica.pt/1s/2005/01/021b01/00020009.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2005/01/021b01/00020009.pdf)
 
 2.6 - Serviço fixo:
 
 2.6.1 - Ligações hertzianas multivia:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2005/01/021b01/00020009.pdf))](https://files.diariodarepublica.pt/1s/2005/01/021b01/00020009.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2005/01/021b01/00020009.pdf)
 
 2.6.2 - Ligações hertzianas monovia:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2005/01/021b01/00020009.pdf))](https://files.diariodarepublica.pt/1s/2005/01/021b01/00020009.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2005/01/021b01/00020009.pdf)
 
 2.6.3 - Ligações hertzianas ponto-multiponto (sistema MMDS - multipoint microwave distribution system):
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2005/01/021b01/00020009.pdf))](https://files.diariodarepublica.pt/1s/2005/01/021b01/00020009.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2005/01/021b01/00020009.pdf)
 
 2.6.4 - Ligações hertzianas ponto-multiponto (sistema FWA - acesso fixo via rádio):
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2005/01/021b01/00020009.pdf))](https://files.diariodarepublica.pt/1s/2005/01/021b01/00020009.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2005/01/021b01/00020009.pdf)
 
 2.7 - Serviço fixo por satélite:
 
@@ -339,7 +383,7 @@ Por cada estação costeira:
 
 Ligações ao segmento espacial-satélite (por cada estação terrena):
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2005/01/021b01/00020009.pdf))](https://files.diariodarepublica.pt/1s/2005/01/021b01/00020009.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2005/01/021b01/00020009.pdf)
 
 2.7.2 - Estações terrenas (SFS/VSAT) (VSAT - very small aperture terminal):
 
@@ -347,7 +391,7 @@ Ligações ao segmento espacial-satélite:
 
 Por rede de estações VSAT:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2005/01/021b01/00020009.pdf))](https://files.diariodarepublica.pt/1s/2005/01/021b01/00020009.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2005/01/021b01/00020009.pdf)
 
 2.7.3 - Estações terrenas (SFS/SNG) (SNG - satellite news Gathering):
 
@@ -355,13 +399,13 @@ Cobertura de eventos
 
 2.7.3.1 - Licenciamento permanente:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2005/01/021b01/00020009.pdf))](https://files.diariodarepublica.pt/1s/2005/01/021b01/00020009.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2005/01/021b01/00020009.pdf)
 
 2.7.3.2 - Licenciamento temporário.
 
 2.7.3.3 - Por cada estação terrena SNG:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2005/01/021b01/00020009.pdf))](https://files.diariodarepublica.pt/1s/2005/01/021b01/00020009.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2005/01/021b01/00020009.pdf)
 
 2.8 - Radiodifusão sonora:
 
@@ -369,13 +413,13 @@ Cobertura de eventos
 
 Por cada estação operando em modulação de frequência (FM):
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2005/01/021b01/00020009.pdf))](https://files.diariodarepublica.pt/1s/2005/01/021b01/00020009.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2005/01/021b01/00020009.pdf)
 
 2.8.2 - Faixas de LF (onda longa), MF (onda média) e HF (onda curta):
 
 Por cada estação operando em modulação de amplitude (AM):
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2005/01/021b01/00020009.pdf))](https://files.diariodarepublica.pt/1s/2005/01/021b01/00020009.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2005/01/021b01/00020009.pdf)
 
 2.9 - Radiodifusão televisiva:
 
@@ -385,7 +429,7 @@ Por cada estação operando em modulação de amplitude (AM):
 
 Por cada estação:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2005/01/021b01/00020009.pdf))](https://files.diariodarepublica.pt/1s/2005/01/021b01/00020009.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2005/01/021b01/00020009.pdf)
 
 2.10 - Serviços móveis por satélite:
 
@@ -393,7 +437,7 @@ Por cada estação:
 
 Ligações ao segmento espacial-satélite (por cada estação terrena fixa):
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2005/01/021b01/00020009.pdf))](https://files.diariodarepublica.pt/1s/2005/01/021b01/00020009.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2005/01/021b01/00020009.pdf)
 
 2.11 - Radiodifusão sonora digital por via terrestre:
 
@@ -401,13 +445,13 @@ Ligações ao segmento espacial-satélite (por cada estação terrena fixa):
 
 Por cada estação:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2005/01/021b01/00020009.pdf))](https://files.diariodarepublica.pt/1s/2005/01/021b01/00020009.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2005/01/021b01/00020009.pdf)
 
 2.11.2 - Faixas de LF (onda longa), MF (onda média) e HF (onda curta):
 
 Por cada estação:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2005/01/021b01/00020009.pdf))](https://files.diariodarepublica.pt/1s/2005/01/021b01/00020009.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2005/01/021b01/00020009.pdf)
 
 Notas explicativas
 

@@ -26,7 +26,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2004/06/147b00/38573858.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -48,18 +48,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/710/2004/06/24/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/710-2004-271273
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2010-12-17T00:00:00Z'
+  retrieved_at: '2026-10-23T15:00:51Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: b656d72fc10528a8ddacfb5152f2538c15b73d3d2b378a5eaa48ddd592371bd0
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: af0101f1964ef16ae2e5886a9c6600f4e2a045d716c25a3d116c2682eac97d41
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:00:51Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -75,6 +75,12 @@ relationships:
   target: pt:dre:306430:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:603193:por
+  label: "Anexado, um prédio rústico, à zona de caça Associativa criada pelo presente diploma, pela PORT.30/2009.15.01.2009.MADRP,\
+    \ DR.IS [10] de 15.01.2009\09\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/30-2009-603193
+  date: '2009-01-15'
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/227-b/2000/09/15/p/dre
   label: null
@@ -91,16 +97,38 @@ relationships:
   target: eli:http://data.dre.pt/eli/port/45/2004/01/14/p/dre
   label: null
   source: http://data.dre.pt/eli/port/45/2004/01/14/p/dre
+- type: cites
+  target: pt:dre:434640:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:534644:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:536243:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:603031:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:306430:por
+  label: "Revogada a partir de 22.12.2010 e extinta a zona de caça associativa do Pinheiro e Cavaleiro, na redacção da Port.\
+    \ 30/2009, de 15-Jan, pela PORT.1288/2010.17.12.2010.MADRP, DR.IS [243] de 17.12.2010\00\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/1288-2010-306430
+  date: '2010-12-17'
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:00:51Z'
   warnings: []
   errors: []
 ---

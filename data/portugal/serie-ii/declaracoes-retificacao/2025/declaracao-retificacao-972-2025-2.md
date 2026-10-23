@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/2s/2025/10/205000000/0024300250.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -47,18 +47,18 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/declaracao-retificacao/972-2025-941702494
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2025-10-23T00:00:00Z'
+  retrieved_at: '2026-10-23T15:02:23Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 9b2916cfcb4fa61114db76b6566c789ea6aef0a03ee0782870a5150f1d8cf9c8
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 91e69ba3fcad19b3226debecc53fdee8647cf673cb7db33df434ae099b4b7b11
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:02:23Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,17 +66,25 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects: []
-relationships: []
+relationships:
+- type: cites
+  target: pt:dre:500023:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:66041468:por
+  label: null
+  source: null
 article_structure:
-  article_count: 17
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:02:23Z'
   warnings: []
   errors: []
 ---
@@ -103,19 +111,27 @@ Acreditamos que esta alteração não apenas beneficiará os bombeiros voluntár
 
 Deste modo, ao abrigo do disposto na alínea j) do artigo 23.º e das alíneas k) e u) do artigo 33.º do anexo à [Lei n.º 75/2013](https://diariodarepublica.pt/dr/detalhe/lei/75-2013-500023), de 12 de setembro, é efetuada a alteração ao Regulamento de Concessão de Regalias Sociais aos Bombeiros Voluntários.
 
-###### Artigo 1.º — Objeto
+Artigo 1.º
+
+Objeto
 
 O presente regulamento procede à primeira alteração do Regulamento de Concessão de Regalias Sociais aos Bombeiros Voluntários.
 
-###### Artigo 2.º — Alteração ao Regulamento
+Artigo 2.º
+
+Alteração ao Regulamento
 
 Os artºs 3.º, 4.º e 6.º, 7.º, 8.º, 9.º do Regulamento de Concessão de Regalias Sociais aos Bombeiros Voluntários passam a ter a seguinte redação:
 
-###### Artigo 3.º — [...]
+Artigo 3.º
+
+[...]
 
 Para efeitos do presente regulamento, consideram-se bombeiros voluntários os indivíduos que, integrados de forma voluntária no Corpo de Bombeiros Voluntários de Arouca, têm por atividade cumprir as missões afetas ao referido Corpo de Bombeiros, nomeadamente a proteção de pessoas e bens, nos termos dos regulamentos internos e demais legislação aplicável, estando inseridos em quadro de pessoal, homologados pela Autoridade Nacional de Emergência e Proteção Civil.
 
-###### Artigo 4.º — [...]
+Artigo 4.º
+
+[...]
 
 O presente regulamento aplica-se a todos os elementos pertencentes ao Corpo de Bombeiros de Arouca que preencham cumulativamente os seguintes requisitos:
 
@@ -127,7 +143,9 @@ c) Não se encontrem suspensos por ação disciplinar.
 
 2) Os cônjuges, unidos de facto e descendentes até aos 18 anos dos bombeiros que reúnam os requisitos mencionados no número anterior, bem como os bombeiros que façam parte do quadro de honra, poderão beneficiar dos direitos previstos nas alíneas e) e f) do artigo 6.º, desde que possuam o cartão de identificação mencionado no artigo 9.º, beneficiando, ainda, estes últimos, do seguro de acidentes pessoais previsto no artigo 6.º, alínea a).
 
-###### Artigo 6.º — [...]
+Artigo 6.º
+
+[...]
 
 [...]
 
@@ -149,7 +167,9 @@ Beneficiar da redução em 60 % de pagamento da taxa de IMI, para os bombeiros c
 
 Subsídio anual de apoio à manutenção do voluntariado por parte do bombeiro de acordo com a Tabela - I, anexa ao presente regulamento.
 
-###### Artigo 7.º — [...]
+Artigo 7.º
+
+[...]
 
 [...]
 
@@ -183,7 +203,9 @@ A mesma deve ser entregue na Câmara Municipal no prazo de 30 dias após a respe
 
 A transferência do valor que se reporta ao ano anterior será efetuada até ao fim do mês de abril de cada ano, pela Câmara Municipal para a associação Humanitária de Bombeiros Voluntários, a qual efetuará a distribuição do valor a que cada beneficiário tenha direito, em função do cálculo efetuado com base na Tabela - I, anexa ao presente regulamento.
 
-###### Artigo 8.º — [...]
+Artigo 8.º
+
+[...]
 
 Os pedidos apresentados serão alvo de apreciação por parte da Divisão de Administração Geral e Recursos Humanos, que instruirá a competente informação, devidamente fundamentada, a submeter a deliberação da Câmara Municipal de Arouca.
 
@@ -193,7 +215,9 @@ Os pedidos apresentados serão alvo de apreciação por parte da Divisão de Adm
 
 Caso o interessado se pronuncie dentro do prazo que lhe for concedido, deverá a Divisão de Administração Geral e Recursos Humanos elaborar informação que consubstancie, de forma fundamentada, a manutenção ou a alteração do sentido do projeto de decisão, a submeter à decisão final da Câmara Municipal de Arouca.
 
-###### Artigo 9.º — [...]
+Artigo 9.º
+
+[...]
 
 1 - Os beneficiários do regime do presente regulamento serão titulares de Cartão de Identificação a emitir pelo Município de Arouca e que só será válido quando apresentado conjuntamente com o cartão de cidadão do beneficiário.
 
@@ -213,11 +237,15 @@ b) Declaração do Comandante do Corpo de Bombeiros comprovativa de que o bombei
 
 7 - [...]
 
-###### Artigo 3.º — (Entrada em vigor)
+Artigo 3.º
+
+(Entrada em vigor)
 
 A presente alteração ao Regulamento de Concessão de Regalias Sociais aos Bombeiros Voluntários entra em vigor no dia seguinte ao da sua publicação no Diário da República.
 
-## ANEXO — Tabela I
+ANEXO
+
+Tabela I
 
 | Anos de Serviço | Percentagem |
 | --- | --- |
@@ -247,11 +275,15 @@ Acreditamos que esta alteração não apenas beneficiará os bombeiros voluntár
 
 Deste modo, ao abrigo do disposto na alínea j) do artigo 23.º e das alíneas k) e u) do artigo 33.º do anexo à [Lei n.º 75/2013](https://diariodarepublica.pt/dr/detalhe/lei/75-2013-500023), de 12 de setembro, é efetuada a alteração ao Regulamento de Concessão de Regalias Sociais aos Bombeiros Voluntários.
 
-###### Artigo 1.º — Objeto
+Artigo 1.º
+
+Objeto
 
 O presente regulamento procede à primeira alteração do Regulamento de Concessão de Regalias Sociais aos Bombeiros Voluntários.
 
-###### Artigo 2.º — Alteração ao Regulamento
+Artigo 2.º
+
+Alteração ao Regulamento
 
 Os artigos 3.º, 4.º e 6.º, 7.º, 8.º, 9.º do Regulamento de Concessão de Regalias Sociais aos Bombeiros Voluntários passam a ter a seguinte redação:
 
@@ -261,7 +293,9 @@ Os artigos 3.º, 4.º e 6.º, 7.º, 8.º, 9.º do Regulamento de Concessão de R
 
 Para efeitos do presente regulamento, consideram-se bombeiros voluntários os indivíduos que, integrados de forma voluntária no Corpo de Bombeiros Voluntários de Arouca, têm por atividade cumprir as missões afetas ao referido Corpo de Bombeiros, nomeadamente a proteção de pessoas e bens, nos termos dos regulamentos internos e demais legislação aplicável, estando inseridos em quadro de pessoal, homologados pela Autoridade Nacional de Emergência e Proteção Civil.
 
-###### Artigo 4.º — [...]
+Artigo 4.º
+
+[...]
 
 1) O presente regulamento aplica-se a todos os elementos pertencentes ao Corpo de Bombeiros de Arouca que preencham cumulativamente os seguintes requisitos:
 
@@ -273,7 +307,9 @@ c) Não se encontrem suspensos por ação disciplinar.
 
 2) Os cônjuges, unidos de facto e descendentes até aos 18 anos dos bombeiros que reúnam os requisitos mencionados no número anterior, bem como os bombeiros que façam parte do quadro de honra, poderão beneficiar dos direitos previstos nas alíneas e) e f) do artigo 6.º, desde que possuam o cartão de identificação mencionado no artigo 9.º, beneficiando, ainda, estes últimos, do seguro de acidentes pessoais previsto no artigo 6.º, alínea a).
 
-###### Artigo 6.º — [...]
+Artigo 6.º
+
+[...]
 
 [...]
 
@@ -295,7 +331,9 @@ h) Beneficiar da redução em 60 % de pagamento da taxa de IMI, para os bombeiro
 
 i) Subsídio anual de apoio à manutenção do voluntariado por parte do bombeiro de acordo com a tabela i, anexa ao presente regulamento.
 
-###### Artigo 7.º — [...]
+Artigo 7.º
+
+[...]
 
 1 - [...]
 
@@ -329,7 +367,9 @@ c) A mesma deve ser entregue na Câmara Municipal no prazo de 30 dias após a re
 
 d) A transferência do valor que se reporta ao ano anterior será efetuada até ao fim do mês de abril de cada ano, pela Câmara Municipal para a associação Humanitária de Bombeiros Voluntários, a qual efetuará a distribuição do valor a que cada beneficiário tenha direito, em função do cálculo efetuado com base na tabela i, anexa ao presente regulamento.
 
-###### Artigo 8.º — [...]
+Artigo 8.º
+
+[...]
 
 1 - Os pedidos apresentados serão alvo de apreciação por parte da Divisão de Administração Geral e Recursos Humanos, que instruirá a competente informação, devidamente fundamentada, a submeter a deliberação da Câmara Municipal de Arouca.
 
@@ -339,7 +379,9 @@ d) A transferência do valor que se reporta ao ano anterior será efetuada até 
 
 4 - Caso o interessado se pronuncie dentro do prazo que lhe for concedido, deverá a Divisão de Administração Geral e Recursos Humanos elaborar informação que consubstancie, de forma fundamentada, a manutenção ou a alteração do sentido do projeto de decisão, a submeter à decisão final da Câmara Municipal de Arouca.
 
-###### Artigo 9.º — [...]
+Artigo 9.º
+
+[...]
 
 1 - Os beneficiários do regime do presente regulamento serão titulares de Cartão de Identificação a emitir pelo Município de Arouca e que só será válido quando apresentado conjuntamente com o cartão de cidadão do beneficiário.
 
@@ -359,11 +401,15 @@ b) Declaração do Comandante do Corpo de Bombeiros comprovativa de que o bombei
 
 7 - [...]
 
-###### Artigo 3.º — Entrada em vigor
+Artigo 3.º
+
+Entrada em vigor
 
 A presente alteração ao Regulamento de Concessão de Regalias Sociais aos Bombeiros Voluntários entra em vigor no dia seguinte ao da sua publicação no Diário da República.
 
-## ANEXO — Tabela I
+ANEXO
+
+Tabela I
 
 | Anos de Serviço | Percentagem |
 | --- | --- |
@@ -376,3 +422,7 @@ A presente alteração ao Regulamento de Concessão de Regalias Sociais aos Bomb
 A percentagem prevista na tabela i incide sobre o valor de referência de 150,00€.»
 
 16 de outubro de 2025. - A Presidente da Câmara, Margarida Belém.
+
+319665402
+
+.Tbl2 { height:26px; } .Tbl3 { border-bottom-color:rgb(0,0,0); border-top-color:rgb(0,0,0); border-left-width:1px; border-top-width:1px; border-right-width:1px; border-top-style:solid; border-bottom-width:1px; border-bottom-style:solid; border-right-style:solid; border-right-color:rgb(0,0,0); border-left-style:none; vertical-align:middle; } .Tbl4 { text-align:center; } .Tbl5 { border-bottom-color:rgb(0,0,0); border-top-color:rgb(0,0,0); border-left-width:1px; border-top-width:1px; border-right-width:1px; border-top-style:solid; border-left-color:rgb(0,0,0); border-bottom-width:1px; border-bottom-style:solid; border-right-style:none; border-left-style:solid; vertical-align:middle; } .Tbl6 { min-height:18px; } .Tbl7 { border-bottom-color:rgb(0,0,0); border-top-color:rgb(0,0,0); border-left-width:1px; border-top-width:1px; border-right-width:1px; border-top-style:solid; border-bottom-width:1px; border-bottom-style:solid; border-right-style:solid; border-right-color:rgb(0,0,0); border-left-style:none; } .Tbl8 { border-bottom-color:rgb(0,0,0); border-top-color:rgb(0,0,0); border-left-width:1px; border-top-width:1px; border-right-width:1px; border-top-style:solid; border-left-color:rgb(0,0,0); border-bottom-width:1px; border-bottom-style:solid; border-right-style:none; border-left-style:solid; }

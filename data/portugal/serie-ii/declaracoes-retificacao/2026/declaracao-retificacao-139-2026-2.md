@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/2s/2026/02/035000000/0012800128.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -46,18 +46,18 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/declaracao-retificacao/139-2026-1051704519
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2026-02-19T00:00:00Z'
+  retrieved_at: '2026-10-23T15:02:48Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: d72fa8662f966e243733f00c82db3e30ce7b304723fa70d6713cf3c33b2a6e53
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: c6f4accb9d42f1a6f1b95785d39ece8fc87c2b894154c6c978f88c6991629748
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:02:48Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -65,17 +65,29 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects: []
-relationships: []
+relationships:
+- type: cites
+  target: pt:dre:534996:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:569881:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:908501550:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:02:48Z'
   warnings: []
   errors: []
 ---
@@ -85,3 +97,5 @@ validation:
 Por ter sido publicado com inexatidão no Diário da República, 2.ª série, n.º 38, de 24 de abril de 2025, o [Aviso n.º 5113/2025/2](https://diariodarepublica.pt/dr/detalhe/aviso/5113-2025-908501550), retifica-se que onde se lê: «A trabalhadora fica sujeita a um período experimental de 240 dias, de acordo com a duração prevista na alínea c), do n.º 1 do artigo 49.º da LTFP» deve ler-se: «A trabalhadora fica sujeita a um período experimental de três anos, nos termos do n.º 2 do artigo 38.º do [Decreto-Lei n.º 124/99](https://diariodarepublica.pt/dr/detalhe/decreto-lei/124-1999-534996), de 20 de abril, que aprovou o Estatuto da Carreira de Investigação Científica, na última redação conferida pelo [Decreto-Lei n.º 373/99](https://diariodarepublica.pt/dr/detalhe/decreto-lei/373-1999-569881), de 18 de setembro».
 
 12 de fevereiro de 2026. - A Presidente, Carmen Amado Mendes.
+
+319964044

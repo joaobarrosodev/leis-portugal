@@ -26,7 +26,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/2s/2025/08/150000000/0034200352.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -48,18 +48,18 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/declaracao-retificacao/728-2025-927905463
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2025-08-06T00:00:00Z'
+  retrieved_at: '2026-10-23T15:00:58Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: ceb08adfe9efd5402150fbcaef031fe07460c0c417f9d838e8b1a0d4b2760e75
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: dfc0c8ecc7cec0aeb3f6a94523b0de264537aa7d38c0f6c18433980d7adcb521
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:00:58Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,17 +67,33 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects: []
-relationships: []
+relationships:
+- type: cites
+  target: pt:dre:197489:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:3226335:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:500023:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:927098249:por
+  label: null
+  source: null
 article_structure:
   article_count: 22
-  section_count: 3
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  section_count: 6
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:00:58Z'
   warnings: []
   errors: []
 ---
@@ -166,7 +182,7 @@ O Município de Golegã concretizando as suas competências na área da educaç�
 
 É, neste contexto, que foi elaborado o presente regulamento, que se pretende seja mais equitativo e permita o acesso a todos estudantes com residência permanente no Concelho, que ingressem ou frequentem cursos superiores e que preencham os requisitos de elegibilidade.
 
-# PARTE I — DISPOSIÇÕES GERAIS
+## PARTE I — DISPOSIÇÕES GERAIS
 
 ### CAPÍTULO I — PRINCÍPIOS DE ATRIBUIÇÃO DAS BOLSAS
 
@@ -214,7 +230,7 @@ j) Situação tributária e contributiva regularizada - diz respeito ao agregado
 
 k) Aproveitamento excecional - considera-se, para efeitos do presente documento, que teve aproveitamento excecional o aluno que, no ano letivo anterior, tenha tido aproveitamento em todas as unidades curriculares que integraram o plano de estudos do ano curricular em que se encontrava inscrito e que a média das classificações dessas unidades não tenha sido inferior a Muito Bom (16,00 valores), à exceção dos candidatos que frequentem o 1.º ano, para os quais releva a média das classificações constante na ficha ENES, ou outro documento que a venha a substituir no acesso ao Ensino Superior, e que esta não tenha sido inferior a Muito Bom (16,00 valores).
 
-# PARTE II — DISPOSIÇÕES ESPECÍFICAS
+## PARTE II — DISPOSIÇÕES ESPECÍFICAS
 
 ### CAPÍTULO I — BOLSAS DE ESTUDO
 
@@ -418,7 +434,7 @@ No caso das alíneas d), e) e f) do artigo anterior, o Município da Golegã res
 
 2 - As exceções referidas no número anterior serão apreciadas caso a caso, cabendo à Câmara Municipal decidir a aceitação ou não da candidatura.
 
-# PARTE III — DISPOSIÇÕES FINAIS
+## PARTE III — DISPOSIÇÕES FINAIS
 
 ###### Artigo 16.º — Proteção de dados pessoais
 
@@ -465,3 +481,7 @@ Com a entrada em vigor do presente Regulamento é revogado o Regulamento para At
 ###### Artigo 22.º — Entrada em vigor
 
 O presente regulamento entrará em vigor no dia útil após a sua publicação pelos meios legalmente definidos, e produzirá efeitos a partir do ano letivo de 2025/2026.
+
+319382801
+
+.Tbl2 { height:26px; } .Tbl3 { border-bottom-color:rgb(0,0,0); border-top-color:rgb(0,0,0); border-left-width:1px; border-top-width:1px; border-right-width:1px; border-top-style:solid; border-bottom-width:1px; border-bottom-style:solid; border-right-style:solid; border-right-color:rgb(0,0,0); border-left-style:none; vertical-align:middle; } .Tbl4 { text-align:center; } .Tbl5 { border-bottom-color:rgb(0,0,0); border-top-color:rgb(0,0,0); border-left-width:1px; border-top-width:1px; border-right-width:1px; border-top-style:solid; border-left-color:rgb(0,0,0); border-bottom-width:1px; border-bottom-style:solid; border-right-style:none; border-left-style:solid; vertical-align:middle; } .Tbl6 { min-height:18px; } .Tbl7 { border-bottom-color:rgb(0,0,0); border-top-color:rgb(0,0,0); border-left-width:1px; border-top-width:1px; border-right-width:1px; border-top-style:solid; border-bottom-width:1px; border-bottom-style:solid; border-right-style:solid; border-right-color:rgb(0,0,0); border-left-style:none; } .Tbl8 { border-bottom-color:rgb(0,0,0); border-top-color:rgb(0,0,0); border-left-width:1px; border-top-width:1px; border-right-width:1px; border-top-style:solid; border-left-color:rgb(0,0,0); border-bottom-width:1px; border-bottom-style:solid; border-right-style:none; border-left-style:solid; }

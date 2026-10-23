@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/2s/2026/07/143000000/0039100391.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -46,18 +46,18 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/declaracao-retificacao/650-2026-1152437336
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2026-07-27T00:00:00Z'
+  retrieved_at: '2026-10-23T15:05:49Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 1284f515d1e1343b55c416b6924f1421f79ae6bd4af68c97fe46149f23930f8d
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: bf4cbab35880e1c6ee79ddaf6384d0a2e2b182ea8dcb7b47191dce5d115acb63
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:05:49Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -69,13 +69,13 @@ relationships: []
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:05:49Z'
   warnings: []
   errors: []
 ---
@@ -86,10 +86,14 @@ Para os devidos efeitos, declara-se que no Despacho n.º 8600/2026, publicado no
 
 Onde se lê:
 
-![](https://files.diariodarepublica.pt/images/1152437336/1152437265.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/1152437336/1152437265.png) |
+| --- |
 
 deve ler-se:
 
-![](https://files.diariodarepublica.pt/images/1152437336/1152437266.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/1152437336/1152437266.png) |
+| --- |
 
 16 de julho de 2026. - O Presidente da Câmara, Dr. Filipe Alexandre Soares de Oliveira.
+
+320023948

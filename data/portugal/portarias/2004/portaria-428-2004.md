@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/428/2004/04/26/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/428-2004-222812
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2004-04-26T00:00:00Z'
+  retrieved_at: '2026-10-23T14:59:08Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: f9165efa2b79742536d29467ee751b2606926621ab497938e9bff3e72f3e45a8
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 3d6faedd75a22aba3309c726b400fdd6c28da821ef256a6a12291975fd15b1ae
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T14:59:08Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,10 +67,10 @@ reuse:
 subjects:
 - Criação de Lugares
 - Extinção de Lugares
-- Pessoal Operário
-- Pessoal Auxiliar
-- Pessoal Técnico Profissional
 - Instituto Nacional de Saúde Dr Ricardo Jorge
+- Pessoal Auxiliar
+- Pessoal Operário
+- Pessoal Técnico Profissional
 - Quadro de Pessoal
 relationships:
 - type: cites
@@ -93,16 +93,40 @@ relationships:
   target: eli:http://data.dre.pt/eli/port/918/2000/10/02/p/dre
   label: null
   source: http://data.dre.pt/eli/port/918/2000/10/02/p/dre
+- type: cites
+  target: pt:dre:413216:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:505986:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:529050:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:552845:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:567695:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:668319:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T14:59:08Z'
   warnings: []
   errors: []
 ---
@@ -125,7 +149,7 @@ Manda o Governo, pelos Secretários de Estado do Orçamento, da Administração 
 
 Em 25 de Novembro de 2003.
 
-**O Secretário de Estado do Orçamento, Norberto Emílio Sequeira da Rosa. - A Secretária de Estado da Administração Pública, Suzana Maria de Moura Alves da Silva Toscano. - O Secretário de Estado Adjunto do Ministro da Saúde, Adão José Fonseca Silva.**
+O Secretário de Estado do Orçamento, Norberto Emílio Sequeira da Rosa. - A Secretária de Estado da Administração Pública, Suzana Maria de Moura Alves da Silva Toscano. - O Secretário de Estado Adjunto do Ministro da Saúde, Adão José Fonseca Silva.
 
 MAPA ANEXO
 

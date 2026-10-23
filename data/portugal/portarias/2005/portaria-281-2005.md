@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2005/03/054b00/24302431.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/281/2005/03/17/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/281-2005-574337
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2006-06-12T00:00:00Z'
+  retrieved_at: '2026-10-23T15:05:26Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: d5d7d41a6a43d5d47d8fac85109b4f05fa45c10dd392824f1d98b567dd01678a
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 1cf3da8571514be8c9a8788a0d416e5d2dd8f6c2fd09348108f6ae11ef2499f1
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:05:26Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -70,13 +70,13 @@ subjects:
 - Classificação dos Estabelecimentos Hospitalares
 - Comparticipação do Estado
 - Cuidados de Enfermagem
-- Serviço Nacional de Saúde
+- Cuidados Médicos
+- Estabelecimento Hospitalar
 - Medicamento
 - Preço
 - Prestação de Serviços
-- Cuidados Médicos
 - Regulamento
-- Estabelecimento Hospitalar
+- Serviço Nacional de Saúde
 - Subsistemas de Saúde
 - Tabela de Cuidados de Saúde
 relationships:
@@ -92,16 +92,29 @@ relationships:
   target: eli:http://data.dre.pt/eli/port/132/2003/02/05/p/dre
   label: null
   source: http://data.dre.pt/eli/port/132/2003/02/05/p/dre
+- type: cites
+  target: pt:dre:200421:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:618562:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:346716:por
+  label: "Revogada pela PORT.567/2006.12.06.2006.MS, DR.IS-B [113] de 12.06.2006\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/567-2006-346716
+  date: '2006-06-12'
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:05:26Z'
   warnings: []
   errors: []
 ---

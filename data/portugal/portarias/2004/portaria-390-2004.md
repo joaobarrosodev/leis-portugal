@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2004/04/090b00/23192319.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/390/2004/04/16/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/390-2004-223830
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2008-08-11T00:00:00Z'
+  retrieved_at: '2026-10-23T14:58:54Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 0f28122e1f223c68e16250f4c318187096da717939ea36517cfd14f75807c54c
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: db8296f981deba8c68fe89470c7a99ccb621d270d0ad8958d558d8e9b508bfc8
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T14:58:54Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -73,20 +73,37 @@ relationships:
   target: pt:dre:455638:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:676648:por
+  label: "Anexados vários prédios rústicos à zona de caça criada pela Port 1062/2003, de 25-Set, com a redacção do presente\
+    \ diploma, pela PORT.189/2006.23.02.2006.MADRP, DR.IS-B [39] de 23.02.2006\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/189-2006-676648
+  date: '2006-02-23'
+- type: amended_by
+  target: pt:dre:455638:por
+  label: "Extinta a zona de caça municipal de Vale da Teja, concessionada pela Port 1062/2003, de 25-Set, alterada pelo presente\
+    \ diploma e pela Port 189/2006, de 23-Fev (revogadas a partir de 16.08.2008) e concessionada, pelo período de 12 anos,\
+    \ a zona de caça associativa de Vale da Teja, pela PORT.838/2008.11.08.2008.MADRP, DR.IS [154] de 11.08.2008\08\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/838-2008-455638
+  date: '2008-08-11'
 - type: cites
   target: eli:http://data.dre.pt/eli/port/1062/2003/09/25/p/dre
   label: null
   source: http://data.dre.pt/eli/port/1062/2003/09/25/p/dre
+- type: cites
+  target: pt:dre:492435:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T14:58:54Z'
   warnings: []
   errors: []
 ---

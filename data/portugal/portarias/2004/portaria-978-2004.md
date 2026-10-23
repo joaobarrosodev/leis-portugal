@@ -48,18 +48,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/978/2004/08/03/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/978-2004-514999
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2006-04-24T00:00:00Z'
+  retrieved_at: '2026-10-23T15:02:24Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: fbbe3e7cbf4256262d90bfcb937e448017cf172499686426c80dd31fa008c9ea
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 340a813f8490e806a9c17b2b34ac2032d12bcf02f25686584d6304c15f1adf93
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:02:24Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -69,18 +69,24 @@ reuse:
 subjects:
 - Ajuda Comunitária
 - Financiamento
+- Ifadap
+- Medida Agris
+- Programa AGRO
 - QCA III
 - Regime de Ajudas a Preservação e Melhoramento Genético das Raças Autóctones Raças Exoticas e RAÇA Bovina Frisia
 - Regulamento
-- Programa AGRO
-- Medida Agris
 - Regulamento de Aplicação da Subacção Nº4.2-desenvolvimento de outros Serviços a Agricultura
-- Ifadap
 relationships:
 - type: amended_by
   target: pt:dre:661557:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:661557:por
+  label: "Alterado o art. 3º do Regulamento aprovado pela Port 1109-A/2000 de 27-Nov, com a redacção do presente diploma,\
+    \ pela PORT.391/2006.24.04.2006.MAOTDR, DR.IS-B [80] de 24.04.2006\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/391-2006-661557
+  date: '2006-04-24'
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/163-a/2000/07/27/p/dre
   label: null
@@ -93,16 +99,28 @@ relationships:
   target: eli:http://data.dre.pt/eli/port/49/2001/01/26/p/dre
   label: null
   source: http://data.dre.pt/eli/port/49/2001/01/26/p/dre
+- type: cites
+  target: pt:dre:220892:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:313403:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:554462:por
+  label: null
+  source: null
 article_structure:
-  article_count: 9
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:02:24Z'
   warnings: []
   errors: []
 ---
@@ -143,7 +161,9 @@ e) ...
 
 3 - No caso da apresentação de candidaturas em parceria, deverá ser designada a entidade administrativa e financeiramente responsável pela execução do projecto.
 
-###### Artigo 20.º — [...]
+Artigo 20.º
+
+[...]
 
 Podem ser apoiados os serviços especializados prestados no quadro de um contrato de prestação de serviços que se enquadrem nos seguintes domínios:
 
@@ -153,7 +173,9 @@ b) Assistência e apoio técnico no âmbito da qualidade e respectiva certifica�
 
 c) Difusão de informação técnica, designadamente no âmbito da divulgação de novas tecnologias, de âmbito e aplicabilidade local ou regional, da diversificação de actividades, da protecção ambiental e paisagística, da organização e segurança no trabalho e das normas do bem-estar animal.
 
-###### Artigo 22.º — [...]
+Artigo 22.º
+
+[...]
 
 1 - Os beneficiários devem reunir as seguintes condições:
 
@@ -179,7 +201,9 @@ e) Custo estimado por acção e por rubrica de despesa e, se for caso disso, mon
 
 f) Cronograma com a sequência e calendarização das acções a executar, considerando o período temporal da prestação de serviços.
 
-###### Artigo 23.º — [...]
+Artigo 23.º
+
+[...]
 
 1 - ...
 
@@ -191,7 +215,9 @@ f) Cronograma com a sequência e calendarização das acções a executar, consi
 
 5 - A elegibilidade das despesas é reportada à data da sua efectiva concretização e não às datas de referência contabilística.
 
-###### Artigo 24.º — [...]
+Artigo 24.º
+
+[...]
 
 1 - ...
 
@@ -201,11 +227,15 @@ f) Cronograma com a sequência e calendarização das acções a executar, consi
 
 4 - ...
 
-###### Artigo 26.º — [...]
+Artigo 26.º
+
+[...]
 
 As candidaturas são entregues nas direcções regionais de agricultura ao longo de todo o ano, em formulário próprio e acompanhadas dos elementos indicados nas respectivas instruções.
 
-###### Artigo 29.º — [...]
+Artigo 29.º
+
+[...]
 
 1 - ...
 
@@ -229,7 +259,9 @@ e) Domínios considerados prioritários regionalmente.
 
 6 - São recusadas as candidaturas que não sejam aprovadas por insuficiência orçamental em três períodos de decisão consecutivos.
 
-###### Artigo 32.º — [...]
+Artigo 32.º
+
+[...]
 
 1 - Sem prejuízo do disposto nos números seguintes, os pagamentos serão efectuados em até seis prestações anuais, com base nas acções efectivamente realizadas, mediante a identificação e comprovação do serviço prestado e dos respectivos custos.
 
@@ -265,13 +297,17 @@ Execução do projecto
 
 2 - No âmbito do presente Regulamento pode ser apoiada a prestação contratualizada de serviços aos criadores de raças autóctones, raças exóticas e raça bovina Frísia, no domínio da preservação e melhoramento genético, nomeadamente através da manutenção dos livros genealógicos ou registos zootécnicos, bem como pela realização de controlos de performance, contrastes leiteiros, exames de paternidade e classificações morfológicas.
 
-###### Artigo 3.º — [...]
+Artigo 3.º
+
+[...]
 
 1 - Só poderão ser aceites as candidaturas das quais constem programas anuais de execução, sob a forma de prestação de serviços, das acções elegíveis constantes do anexo I ao presente Regulamento, nos casos das raças autóctones e das raças exóticas, e do anexo II ao mesmo Regulamento, no caso da raça bovina Frísia, devendo tais programas ser previamente homologados pela DGV.
 
 2 - Os requisitos dos programas anuais são os constantes do presente Regulamento e do despacho a que se refere o artigo 11.º
 
-###### Artigo 8.º — [...]
+Artigo 8.º
+
+[...]
 
 1 - ...
 
@@ -295,4 +331,4 @@ Os beneficiários ficam obrigados a prestar os serviços a todos os interessados
 
 Em 30 de Maio de 2004.
 
-**O Ministro da Agricultura, Desenvolvimento Rural e Pescas, Armando José Cordeiro Sevinate Pinto. - O Ministro das Cidades, Ordenamento do Território e Ambiente, Arlindo Marques da Cunha.**
+O Ministro da Agricultura, Desenvolvimento Rural e Pescas, Armando José Cordeiro Sevinate Pinto. - O Ministro das Cidades, Ordenamento do Território e Ambiente, Arlindo Marques da Cunha.

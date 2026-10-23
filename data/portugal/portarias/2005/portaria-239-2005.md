@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/239/2005/03/07/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/239-2005-589289
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2005-03-07T00:00:00Z'
+  retrieved_at: '2026-10-23T15:05:06Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: fd0e80b41af171d95f49af944adade2176ebeafd85a3cb37d2624e089c9d2bd2
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 62a49b2b4fe34c65574714380704723ae5aa89dd0aa1e0f1994c822b26aa9125
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:05:06Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,12 +66,12 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Pessoal Dirigente
 - Coordenador
 - Definição de Competências
-- Instituto de Gestão do Fundo Social Europeu
 - FSE
+- Instituto de Gestão do Fundo Social Europeu
 - Orgânica
+- Pessoal Dirigente
 - Sistema de Informação
 relationships:
 - type: cites
@@ -94,16 +94,36 @@ relationships:
   target: eli:http://data.dre.pt/eli/port/1110/2000/11/28/p/dre
   label: null
   source: http://data.dre.pt/eli/port/1110/2000/11/28/p/dre
+- type: cites
+  target: pt:dre:481161:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:592736:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:603476:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:603478:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:621125:por
+  label: null
+  source: null
 article_structure:
-  article_count: 20
+  article_count: 12
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:05:06Z'
   warnings: []
   errors: []
 ---
@@ -134,7 +154,7 @@ Manda o Governo, pelos Ministros de Estado, das Actividades Económicas e do Tra
 
 Em 18 de Fevereiro de 2005.
 
-**O Ministro de Estado, das Actividades Económicas e do Trabalho, Álvaro Roque de Pinho Bissaya Barreto. - O Ministro das Finanças e da Administração Pública, António José de Castro Bagão Félix.**
+O Ministro de Estado, das Actividades Económicas e do Trabalho, Álvaro Roque de Pinho Bissaya Barreto. - O Ministro das Finanças e da Administração Pública, António José de Castro Bagão Félix.
 
 ## ANEXO I — Alterações à estrutura orgânica do Instituto de Gestão do Fundo Social Europeu
 
@@ -152,7 +172,9 @@ Em 18 de Fevereiro de 2005.
 
 4 - Os coordenadores de núcleo regem-se, com as necessárias adaptações, pelas disposições constantes do regulamento interno do IGFSE, aprovado pelo despacho n.º 8149/2002, publicado no Diário da República, 2.ª série, n.º 93, de 20 de Abril de 2002, anteriormente aplicáveis aos coordenadores de subunidade.
 
-###### Artigo 2.º — [...]
+Artigo 2.º
+
+[...]
 
 ...
 
@@ -172,7 +194,9 @@ g) Sistemas de Informação;
 
 h) Auditoria Interna.
 
-###### Artigo 3.º — [...]
+Artigo 3.º
+
+[...]
 
 ...
 
@@ -194,7 +218,9 @@ h) ...
 
 i) Desenvolver e manter actualizados os indicadores que permitam acompanhar e interpretar o progresso físico e financeiro das medidas apoiadas pelo FSE.
 
-###### Artigo 4.º — [...]
+Artigo 4.º
+
+[...]
 
 ...
 
@@ -212,7 +238,9 @@ f) ...
 
 g) Assegurar e manter um sistema de contabilidade adequado para as transacções abrangidas pelas intervenções operacionais.
 
-###### Artigo 6.º — [...]
+Artigo 6.º
+
+[...]
 
 ...
 
@@ -240,7 +268,9 @@ l) Desenvolver e acompanhar projectos, missões e estágios nos planos comunitá
 
 m) Conceber e gerir dispositivos de comunicação interna do IGFSE, bem como assessorar, organizar e dirigir o apoio técnico-administrativo ao conselho directivo.
 
-###### Artigo 7.º — [...]
+Artigo 7.º
+
+[...]
 
 ...
 
@@ -256,7 +286,9 @@ e) ...
 
 f) ...
 
-###### Artigo 8.º — [...]
+Artigo 8.º
+
+[...]
 
 ...
 
@@ -282,7 +314,9 @@ j) [Anterior alínea l).]
 
 l) [Anterior alínea n).]
 
-###### Artigo 10.º — Flexibilidade estrutural
+Artigo 10.º
+
+Flexibilidade estrutural
 
 1 - Em função dos objectivos e da optimização e racionalização dos recursos, o conselho directivo do IGFSE pode criar, modificar ou extinguir os núcleos orgânicos a que se refere o artigo 1.º, cujas competências são definidas e aprovadas pelo mesmo órgão.
 
@@ -332,7 +366,9 @@ e) Prestar apoio técnico à exploração dos sistemas, bem como colaborar na fo
 
 f) Elaborar os pareceres necessários à selecção de equipamentos informáticos, de comunicações e sistemas lógicos de suporte ao desenvolvimento e exploração dos sistemas de informação do IGFSE.
 
-###### Artigo 8.º-B — Unidade de Auditoria Interna
+Artigo 8.º-B
+
+Unidade de Auditoria Interna
 
 A Unidade de Auditoria Interna tem por missão:
 

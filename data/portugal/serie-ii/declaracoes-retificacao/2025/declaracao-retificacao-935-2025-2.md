@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/2s/2025/10/197000000/0027900279.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -47,18 +47,18 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/declaracao-retificacao/935-2025-939529222
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2025-10-13T00:00:00Z'
+  retrieved_at: '2026-10-23T15:02:12Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 648cb614d416d669534085b3edd0a117bae9ab82529e1382e15d1c045d3fe127
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 7521e96ead2e7294407f9b714b092f3af42ecf66ad8173953c85729df0d0390c
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:02:12Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,17 +66,21 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects: []
-relationships: []
+relationships:
+- type: cites
+  target: pt:dre:923681723:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:02:12Z'
   warnings: []
   errors: []
 ---
@@ -86,3 +90,5 @@ validation:
 Por ter saído com inexatidão no Diário da República, 2.ª série, n.º 127, de 4 de julho de 2025, o [Despacho (extrato) n.º 7546/2025](https://diariodarepublica.pt/dr/detalhe/despacho-extrato/7546-2025-923681723), referente ao docente João Antero Gonçalves Ferreira, retifica-se que onde se lê «Por despachos de 27.10.2022 e 22.07.2022, do Reitor da Universidade do Minho e da Sr.ª Subdiretora-Geral da Administração Escolar, […]» deve ler-se «Por despachos de 20.06.2022 e 22.07.2022, do Reitor da Universidade do Minho e da Sr.ª Subdiretora-Geral da Administração Escolar, […]».
 
 2 de outubro de 2025. - A Diretora de Serviços, Aleida Lopes Vaz Carvalho.
+
+319608298

@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/2s/2026/05/100000000/0002600026.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -47,18 +47,18 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/declaracao-retificacao/432-2026-1125591104
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2026-05-25T00:00:00Z'
+  retrieved_at: '2026-10-23T15:04:32Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 443801c0d5a575781e9a30f8e50282c14c2c8ff9d9b10de18f484f99a7ed41c2
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: ffd33880d644c6d96bf07a65639623784c3c82bfab25ad657a9f19083d8c87c6
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:04:32Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,17 +66,21 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects: []
-relationships: []
+relationships:
+- type: cites
+  target: pt:dre:1086825291:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:04:32Z'
   warnings: []
   errors: []
 ---
@@ -86,3 +90,5 @@ validation:
 Na [Declaração (extrato) n.º 27/2026/2](https://diariodarepublica.pt/dr/detalhe/declaracao-extrato/27-2026-1086825291), publicada no Diário da República, 2.ª série, n.º 76, de 20 de abril de 2026, por ter saído com inexatidão, retifica-se que onde se lê «[...] renova-se a nomeação da Dr.ª Sofia Ferreira Lopes de Campos Coelho, como juíza de paz no Julgado de Paz de Sintra [...]» deve ler-se «[...] renova-se a nomeação da Dr.ª Sofia Ferreira Lopes de Campos Coelho, como juíza de paz no Julgado de Paz de Lisboa [...]».
 
 27 de abril de 2026. - O Presidente do Conselho dos Julgados de Paz, Vítor Gomes, juiz conselheiro.
+
+319997389

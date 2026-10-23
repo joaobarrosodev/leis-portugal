@@ -49,18 +49,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/561/2004/05/26/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/561-2004-251636
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2004-05-26T00:00:00Z'
+  retrieved_at: '2026-10-23T14:59:55Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 103cddc11dacc2987b7b866a1e7b632d52a850222cbde02506b69f4add7adef4
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: d6f6fbb9509ff0a040978cb08c5ad82b3fb8e114d829128d2ebde66d5168bcf8
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T14:59:55Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -68,13 +68,13 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- PSP
+- ADMG
 - Assistência Médica
 - Assistência Medicamentosa
 - Comparticipação do Estado
-- ADMG
 - GNR
 - Proteção Social
+- PSP
 - Regime Jurídico
 - Serviço de Assistência na Doença da Polícia de Segurança Pública
 - Subsistemas de Saúde
@@ -99,16 +99,36 @@ relationships:
   target: eli:http://data.dre.pt/eli/port/1501/2002/12/12/p/dre
   label: null
   source: http://data.dre.pt/eli/port/1501/2002/12/12/p/dre
+- type: cites
+  target: pt:dre:336155:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:406690:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:441098:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:441099:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:493701:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T14:59:55Z'
   warnings: []
   errors: []
 ---
@@ -139,4 +159,4 @@ b) Para efeitos do disposto na alínea anterior, ficam a Guarda Nacional Republi
 
 Em 12 de Março de 2004.
 
-**O Ministro da Administração Interna, António Jorge de Figueiredo Lopes. - O Ministro da Saúde, Luís Filipe Pereira.**
+O Ministro da Administração Interna, António Jorge de Figueiredo Lopes. - O Ministro da Saúde, Luís Filipe Pereira.

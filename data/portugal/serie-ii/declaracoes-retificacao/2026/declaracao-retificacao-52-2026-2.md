@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/2s/2026/01/015000000/0002700027.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -47,18 +47,18 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/declaracao-retificacao/52-2026-1019913955
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2026-01-22T00:00:00Z'
+  retrieved_at: '2026-10-23T15:05:03Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: d1b1ed2731e56813befa054d52974e6fb02e847b07b60f16377f1825e5095d55
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 00bbd294713dcbf35e0c8dbd3ff8857a457bfceb9fccbf0e7f2e97409309e729
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:05:03Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,17 +66,25 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects: []
-relationships: []
+relationships:
+- type: cites
+  target: pt:dre:1009135863:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:25676932:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:05:03Z'
   warnings: []
   errors: []
 ---
@@ -94,3 +102,5 @@ deve ler-se:
 «Para efeitos do disposto no artigo 11.º da Portaria n.º 233/2022, de 9 de setembro, conjugado com o disposto nos n.os 1 e 3 do artigo 30.º da Lei Geral de Trabalho em Funções Públicas (LTFP), aprovada em anexo à [Lei n.º 35/2014](https://diariodarepublica.pt/dr/detalhe/lei/35-2014-25676932), de 20 de junho, torna-se público que por deliberação do conselho diretivo de 28 de novembro de 2025, se encontra aberto pelo prazo de 10 dias úteis, a contar da data da publicação do presente aviso na bolsa de emprego público (BEP), procedimento concursal comum, para preenchimento de um posto de trabalho da carreira de técnico superior especialista em estatística (TSEE), do mapa de pessoal do Instituto Nacional de Estatística, I. P. (INE, IP), na modalidade de contrato de trabalho em funções públicas por tempo indeterminado.»
 
 19 de janeiro de 2026. - O Presidente do Conselho Diretivo, António Rua.
+
+319953301

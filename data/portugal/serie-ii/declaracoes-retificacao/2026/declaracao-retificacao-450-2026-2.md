@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/2s/2026/05/103000000/0095000952.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -46,18 +46,18 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/declaracao-retificacao/450-2026-1127525359
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2026-05-28T00:00:00Z'
+  retrieved_at: '2026-10-23T15:04:39Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: b9e0720b5d556c9c968aeb81649281107b6899700e1bb85027101923dff8f327
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 752da633e6061b4770111e09dd16be2cc63de06b8fb582990b4cc911bace4bb9
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:04:39Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -65,17 +65,21 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects: []
-relationships: []
+relationships:
+- type: cites
+  target: pt:dre:1122042082:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:04:39Z'
   warnings: []
   errors: []
 ---
@@ -88,13 +92,15 @@ Onde se lê:
 
 «ANEXO I
 
-# PARTE I — Prestação de Serviços Diversos e Concessão de Documentos
+PARTE I
 
-| Serviços Administrativos | Serviços Administrativos | Serviços Administrativos |
+Prestação de Serviços Diversos e Concessão de Documentos
+
+| Serviços Administrativos |  |  |
 | --- | --- | --- |
-| Atestados; declarações; certidões e documentos análogos | Atestados; declarações; certidões e documentos análogos | 2,00 € |
-| Provas de Vida | Provas de Vida | Isento |
-| Certificações | Certificações | Certificações |
+| Atestados; declarações; certidões e documentos análogos | 2,00 € |  |
+| Provas de Vida | Isento |  |
+| Certificações |  |  |
 | 1. | Certificação por cada documento, fotocópias e respetiva conferência até 10 páginas * | 5,00 € |
 |  | a) Por cada folha para além da 10.ª | 0,50 € |
 
@@ -102,11 +108,13 @@ Onde se lê:
 
 i) Estão isentas de qualquer pagamento as fotocópias indispensáveis ao ato administrativo.
 
-# PARTE II — Canídeos e Gatídeos
+PARTE II
+
+Canídeos e Gatídeos
 
 | 1. | Registo (cão/gato) | 2,00 € |
 | --- | --- | --- |
-| 2. | Licenciamento Anual | Licenciamento Anual |
+| 2. | Licenciamento Anual |  |
 |  | Categoria A - Animais de companhia | 5,00 € |
 |  | Categoria B - Cão com fins económicos | 5,00 € |
 |  | Categoria C - Animais para fins militares | Isento |
@@ -121,43 +129,49 @@ Taxa NdPM - Taxa Normal de Profilaxia Médica
 
 A taxa devida pelo registo e licenciamento de canídeos é aprovada pela Assembleia da Freguesia e cobrada pela respetiva Junta de Freguesia, devendo ter por referência o valor da taxa N de profilaxia médica para esse ano, não podendo em regra exceder o triplo daquele valor e variando de acordo com a categoria do animal. O valor da taxa N de profilaxia médica é de 5,00 € (cinco euros).
 
-# PARTE III — Cemitério
+PARTE III
 
-| Concessões | Concessões | Concessões |
+Cemitério
+
+| Concessões |  |  |
 | --- | --- | --- |
-| 1. | Concessão para Sepulturas | Concessão para Sepulturas |
+| 1. | Concessão para Sepulturas |  |
 |  | 1.1) Concessão de terreno para Sepulturas | 850,00 € |
 |  | 1.2) Concessão de jazigo | 12.500,00 € |
 |  | 1.3) Construção de Ossário | 250,00 € |
-| Transladações | Transladações | 30,00 € |
+| Transladações | 30,00 € |  |
 
 a) Inclui emissão de alvará de concessão
 
-| Averbamentos de Sepulturas/Capelas | Averbamentos de Sepulturas/Capelas | Averbamentos de Sepulturas/Capelas |
+| Averbamentos de Sepulturas/Capelas |  |  |
 | --- | --- | --- |
 | 1. | Averbamento para Familiares em 1.º grau | 30,00 € |
 | 2. | Averbamento para Outros | 100,00 € |
 | 3. | Segunda Via de Alvará | 10,00 € |
 
-# PARTE IV — Utilização de Infraestruturas e Equipamentos
+PARTE IV
 
-| Junta de Freguesia | Junta de Freguesia | Junta de Freguesia | Junta de Freguesia |
+Utilização de Infraestruturas e Equipamentos
+
+| Junta de Freguesia |  |  |  |
 | --- | --- | --- | --- |
 | 1. | Utilização da Sala de reuniões da Junta de Freguesia | 5,00 €/h |  |
-| Capela Mortuária | Capela Mortuária | Capela Mortuária | Capela Mortuária |
+| Capela Mortuária |  |  |  |
 | 1. | Utilização da Casa Mortuária | 30,00 € | » |
 
 deve ler-se:
 
 «ANEXO I
 
-# PARTE I — Prestação de Serviços Diversos e Concessão de Documentos
+PARTE I
 
-| Serviços Administrativos | Serviços Administrativos | Serviços Administrativos |
+Prestação de Serviços Diversos e Concessão de Documentos
+
+| Serviços Administrativos |  |  |
 | --- | --- | --- |
-| Atestados; declarações; certidões e documentos análogos | Atestados; declarações; certidões e documentos análogos | 2,00 € |
-| Provas de Vida | Provas de Vida | Isento |
-| Certificações | Certificações | Certificações |
+| Atestados; declarações; certidões e documentos análogos | 2,00 € |  |
+| Provas de Vida | Isento |  |
+| Certificações |  |  |
 | 2. | Certificação por cada documento, fotocópias e respetiva conferência até 10 páginas * | 5,00 € |
 |  | b) Por cada folha para além da 10.ª | 0,50 € |
 
@@ -165,11 +179,13 @@ deve ler-se:
 
 ii) Estão isentas de qualquer pagamento as fotocópias indispensáveis ao ato administrativo.
 
-# PARTE II — Canídeos e Gatídeos
+PARTE II
+
+Canídeos e Gatídeos
 
 | 3. | Registo (cão/gato) | 2,00 € |
 | --- | --- | --- |
-| 4. | Licenciamento Anual | Licenciamento Anual |
+| 4. | Licenciamento Anual |  |
 |  | Categoria A - Animais de companhia | 5,00 € |
 |  | Categoria B - Cão com fins económicos | 5,00 € |
 |  | Categoria C - Animais para fins militares | Isento |
@@ -184,30 +200,38 @@ Taxa NdPM - Taxa Normal de Profilaxia Médica
 
 A taxa devida pelo registo e licenciamento de canídeos é aprovada pela Assembleia da Freguesia e cobrada pela respetiva Junta de Freguesia, devendo ter por referência o valor da taxa N de profilaxia médica para esse ano, não podendo em regra exceder o triplo daquele valor e variando de acordo com a categoria do animal. O valor da taxa N de profilaxia médica é de 5,00 € (cinco euros).
 
-# PARTE III — Cemitério
+PARTE III
 
-| Concessões | Concessões | Concessões |
+Cemitério
+
+| Concessões |  |  |
 | --- | --- | --- |
-| 1. | Concessão para Sepulturas | Concessão para Sepulturas |
+| 1. | Concessão para Sepulturas |  |
 |  | 1.1) Concessão de terreno para Sepulturas | 850,00 € |
 |  | 1.2) Concessão de jazigo | 12.000,00 € |
 |  | 1.3) Construção de Ossário | 250,00 € |
-| Transladações | Transladações | 30,00 € |
+| Transladações | 30,00 € |  |
 
 b) Inclui emissão de alvará de concessão
 
-| Averbamentos de Sepulturas/Capelas | Averbamentos de Sepulturas/Capelas | Averbamentos de Sepulturas/Capelas |
+| Averbamentos de Sepulturas/Capelas |  |  |
 | --- | --- | --- |
 | 1. | Averbamento para Familiares em 1.º grau | 30,00 € |
 | 2. | Averbamento para Outros | 100,00 € |
 | 3. | Segunda Via de Alvará | 10,00 € |
 
-# PARTE IV — Utilização de Infraestruturas e Equipamentos
+PARTE IV
 
-| Junta de Freguesia | Junta de Freguesia | Junta de Freguesia | Junta de Freguesia |
+Utilização de Infraestruturas e Equipamentos
+
+| Junta de Freguesia |  |  |  |
 | --- | --- | --- | --- |
 | 1. | Utilização da Sala de reuniões da Junta de Freguesia | 5,00 €/h |  |
-| Capela Mortuária | Capela Mortuária | Capela Mortuária | Capela Mortuária |
+| Capela Mortuária |  |  |  |
 | 1. | Utilização da Casa Mortuária | 30,00 € | » |
 
 20 de maio de 2026. - O Presidente da Junta de Freguesia de Vila Frescainha São Martinho, Luís Miguel da Silva Pereira.
+
+320002612
+
+.Tbl2 { min-height:15px; } .Tbl3 { border-bottom-color:rgb(0,0,0); border-top-color:rgb(0,0,0); border-left-width:0px; border-top-width:1px; border-right-width:0px; border-top-style:solid; border-left-color:rgb(0,0,0); border-bottom-width:1px; border-bottom-style:solid; border-right-style:solid; border-right-color:rgb(0,0,0); border-left-style:solid; vertical-align:top; } .Tbl4 { border-bottom-color:rgb(0,0,0); border-top-color:rgb(0,0,0); border-left-width:0px; border-top-width:1px; border-right-width:1px; border-top-style:solid; border-left-color:rgb(0,0,0); border-bottom-width:1px; border-bottom-style:solid; border-right-style:solid; border-right-color:rgb(0,0,0); border-left-style:solid; vertical-align:top; } .Tbl5 { border-bottom-color:rgb(0,0,0); border-top-color:rgb(0,0,0); border-left-width:1px; border-top-width:1px; border-right-width:0px; border-top-style:solid; border-left-color:rgb(0,0,0); border-bottom-width:1px; border-bottom-style:solid; border-right-style:solid; border-right-color:rgb(0,0,0); border-left-style:solid; vertical-align:top; } .Tbl6 { text-align:center; } .Tbl7 { border-bottom-color:rgb(0,0,0); border-top-color:rgb(0,0,0); border-left-width:1px; border-top-width:1px; border-right-width:1px; border-top-style:solid; border-left-color:rgb(0,0,0); border-bottom-width:1px; border-bottom-style:solid; border-right-style:solid; border-right-color:rgb(0,0,0); border-left-style:solid; vertical-align:top; } .Tbl8 { min-height:18px; } .Tbl9 { border-bottom-color:rgb(0,0,0); border-top-color:rgb(0,0,0); border-left-width:0px; border-top-width:1px; border-right-width:0px; border-top-style:solid; border-left-color:rgb(0,0,0); border-bottom-width:0px; border-bottom-style:solid; border-right-style:solid; border-right-color:rgb(0,0,0); border-left-style:solid; vertical-align:top; } .Tbl10 { margin-left:11px; }

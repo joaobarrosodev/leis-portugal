@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/2s/2025/09/174000000/0018700188.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -47,18 +47,18 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/declaracao-retificacao/843-2025-934746998
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2025-12-23T00:00:00Z'
+  retrieved_at: '2026-10-23T15:01:38Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 4a6951ee951ef44384e5a48c213cb28786168b849a3d4ec82dd62c1f373c540c
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 5a1641f492a39f35580f9c8086d920e6d4d297382ca4313312822581720954dc
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:01:38Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -71,16 +71,20 @@ relationships:
   target: pt:dre:992394068:por
   label: Última alteração registada na importação inicial
   source: null
+- type: cites
+  target: pt:dre:205457496:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:01:38Z'
   warnings: []
   errors: []
 ---
@@ -148,3 +152,5 @@ i) Escolhida/o a/o candidata/o para o 1.º lugar, este sai das votações e inic
 3 - Concluída a aplicação do método de seriação previsto nos números anteriores do presente artigo, o júri procede à elaboração de uma lista de ordenação final do/as candidatos/as.»
 
 3 de setembro de 2025. - A Presidente, Patrícia Silva Pereira.
+
+319500242

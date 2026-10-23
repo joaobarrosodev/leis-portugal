@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2005/01/001b00/00150015.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/1/2005/01/03/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/1-2005-457193
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2006-03-21T00:00:00Z'
+  retrieved_at: '2026-10-23T15:02:31Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: d5cd54c95283d85323a681a4670093dc742ba905b00940377642495c06ce6f49
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: b016a2e3e92d03f03c6ce5b04bba0a162c1e6765b9536302c01fc4673a113efe
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:02:31Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,10 +66,10 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Exame AD HOC
 - Avaliação de Conhecimentos
-- Regulamento
 - Ensino Superior
+- Exame AD HOC
+- Regulamento
 relationships:
 - type: amended_by
   target: pt:dre:667773:por
@@ -83,16 +83,35 @@ relationships:
   target: eli:http://data.dre.pt/eli/port/106/2002/02/01/p/dre
   label: null
   source: http://data.dre.pt/eli/port/106/2002/02/01/p/dre
+- type: cites
+  target: pt:dre:276455:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:381171:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:657470:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:667773:por
+  label: "Revogado o Regulamento do Exame Extraordinário de Avaliação de Capacidade para Acesso ao Ensino Superior, aprovado\
+    \ pela Port 106/2002 de 01-Fev, alterada pelo presente diploma, pelo DEC LEI.64/2006.21.03.2006.MCTES, DR.IS-A [57] de\
+    \ 21.03.2006, sem prejuízo do disposto no art. 19º\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/64-2006-667773
+  date: '2006-03-21'
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:02:31Z'
   warnings: []
   errors: []
 ---
@@ -183,4 +202,4 @@ Recurso
 
 Sem prejuízo do disposto no n.º 12 do artigo 15.º, das deliberações do júri referido no artigo 13.º não cabe recurso.»
 
-**A Ministra da Ciência, Inovação e Ensino Superior, Maria da Graça Martins da Silva Carvalho, em 9 de Dezembro de 2004.**
+A Ministra da Ciência, Inovação e Ensino Superior, Maria da Graça Martins da Silva Carvalho, em 9 de Dezembro de 2004.

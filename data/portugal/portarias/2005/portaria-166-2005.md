@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2005/02/030b00/09550959.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/166/2005/02/11/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/166-2005-595742
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2011-06-16T00:00:00Z'
+  retrieved_at: '2026-10-23T15:04:40Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 87ed62c05dcf85b6f6b72c582968d53b893fb5bf592d44c745ae2b0c45d4ed27
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 69e9fd3d3b8d3c1f74c80d087f3bb4a73989596822594a9d891ac59b6742a935
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:04:40Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,25 +66,25 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Vinho
-- Indicação Geográfica
-- Denominação de Origem
-- Entidade Certificadora
+- Certificado de Qualidade
+- Comércio
+- Conselho Vitivinícola Regional das Beiras
 - Controlo de Qualidade
 - Controlo Técnico
 - Definição de Competências
-- Região Demarcada
+- Denominação de Origem
+- Entidade Certificadora
 - Etiquetagem
-- Certificado de Qualidade
+- Indicação Geográfica
 - Marca Registada
 - Produção
-- Vinho Regional Beiras
-- Regulamento
-- Comércio
 - Produto Vitivinícola
-- Vinho Espumante
-- Conselho Vitivinícola Regional das Beiras
+- Região Demarcada
+- Regulamento
 - Vinha
+- Vinho
+- Vinho Espumante
+- Vinho Regional Beiras
 - ZONA Vitivinícola
 relationships:
 - type: amended_by
@@ -103,16 +103,42 @@ relationships:
   target: eli:http://data.dre.pt/eli/port/158/1993/02/11/p/dre
   label: null
   source: http://data.dre.pt/eli/port/158/1993/02/11/p/dre
+- type: cites
+  target: pt:dre:479875:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:648732:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:674426:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:333871:por
+  label: "Revogadas, no que respeita à área geográfica de produção de vinho e vinho espumante com direito à IG \"Terras do\
+    \ Dão\", todas as normas constantes do presente diploma que incidam sobre a matéria disciplinada pela PORT.593/2010.29.07.2010.MADRP,\
+    \ DR.IS [146] de 29.07.2010\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/593-2010-333871
+  date: '2010-07-29'
+- type: repealed_by
+  target: pt:dre:475947:por
+  label: "Revogadas, no que respeita à área geográfica de produção dos produtos vitivinícolas com direito à IG «Beira Atlântico»,\
+    \ todas as normas constantes do presente diploma, que incidam sobre a matéria disciplinada pela PORT.238-A/2011.16.06.2011.MADRP,\
+    \ DR.IS [115-1ºSupl] de 16.06.2011\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/238-a-2011-475947
+  date: '2011-06-16'
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:04:40Z'
   warnings: []
   errors: []
 ---
@@ -335,16 +361,16 @@ Pelo Ministro da Agricultura, Pescas e Florestas, Carlos Manuel Duarte de Olivei
 
 ## ANEXO II — Castas aptas à produção de vinho regional Beiras e vinho espumante com indicação geográfica Beiras
 
-[(ver tabela no documento original)](https://files.diariodarepublica.pt/1s/2005/02/030b00/09550959.pdf)
+[[[[(ver tabela no documento original)](https://files.diariodarepublica.pt/1s/2005/02/030b00/09550959.pdf)](https://files.diariodarepublica.pt/1s/2005/02/030b00/09550959.pdf)](https://files.diariodarepublica.pt/1s/2005/02/030b00/09550959.pdf)](https://files.diariodarepublica.pt/1s/2005/02/030b00/09550959.pdf)
 
 Sub-Região da Beira Alta
 
-[(ver tabela no documento original)](https://files.diariodarepublica.pt/1s/2005/02/030b00/09550959.pdf)
+[[[[(ver tabela no documento original)](https://files.diariodarepublica.pt/1s/2005/02/030b00/09550959.pdf)](https://files.diariodarepublica.pt/1s/2005/02/030b00/09550959.pdf)](https://files.diariodarepublica.pt/1s/2005/02/030b00/09550959.pdf)](https://files.diariodarepublica.pt/1s/2005/02/030b00/09550959.pdf)
 
 Sub-Região da Beira Litoral
 
-[(ver tabela no documento original)](https://files.diariodarepublica.pt/1s/2005/02/030b00/09550959.pdf)
+[[[[(ver tabela no documento original)](https://files.diariodarepublica.pt/1s/2005/02/030b00/09550959.pdf)](https://files.diariodarepublica.pt/1s/2005/02/030b00/09550959.pdf)](https://files.diariodarepublica.pt/1s/2005/02/030b00/09550959.pdf)](https://files.diariodarepublica.pt/1s/2005/02/030b00/09550959.pdf)
 
 Sub-Região de Terras de Sicó
 
-[(ver tabela no documento original)](https://files.diariodarepublica.pt/1s/2005/02/030b00/09550959.pdf)
+[[[[(ver tabela no documento original)](https://files.diariodarepublica.pt/1s/2005/02/030b00/09550959.pdf)](https://files.diariodarepublica.pt/1s/2005/02/030b00/09550959.pdf)](https://files.diariodarepublica.pt/1s/2005/02/030b00/09550959.pdf)](https://files.diariodarepublica.pt/1s/2005/02/030b00/09550959.pdf)

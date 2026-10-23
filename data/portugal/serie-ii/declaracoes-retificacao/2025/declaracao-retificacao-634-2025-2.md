@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/2s/2025/07/132000000/0029000311.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -47,18 +47,18 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/declaracao-retificacao/634-2025-924486245
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2025-07-11T00:00:00Z'
+  retrieved_at: '2026-10-23T15:00:26Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 0dbb14bbe836edb71f5e53c1551ffa60866596d3a4a2808328d1a67f74451394
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: f909a42cef760a6e9402fadcd1e0592121b58411b22b8c87280d8b8beb87da13
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:00:26Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,17 +66,41 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects: []
-relationships: []
+relationships:
+- type: cites
+  target: pt:dre:116068880:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:122317422:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:165201923:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:165604886:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:480705:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:671387:por
+  label: null
+  source: null
 article_structure:
   article_count: 40
   section_count: 9
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:00:26Z'
   warnings: []
   errors: []
 ---
@@ -87,7 +111,7 @@ Por ter sido divulgado com inexatidão o Despacho n.º 4998/2025, que aprova o R
 
 Assim:
 
-a) No artigo 3.º, alínea c), onde se lê «desde que desenvolvidos em associação ou cooperação entre a UMinho e uma ou várias unidades de I&D;» deve ler-se «desde que integrados no projeto educativo de uma instituição de ensino superior, desenvolvidos em associação ou cooperação com uma ou várias unidades de I&D»;
+a) No artigo 3.º, alínea c), onde se lê «desde que desenvolvidos em associação ou cooperação entre a UMinho e uma ou várias unidades de I&D» deve ler-se «desde que integrados no projeto educativo de uma instituição de ensino superior, desenvolvidos em associação ou cooperação com uma ou várias unidades de I&D»;
 
 b) No artigo 25.º, onde se lê «artigo 29.º» deve ler-se «artigo 28.º»;
 
@@ -97,7 +121,7 @@ d) No artigo 28.º, n.º 2, onde se lê «artigo 26.º, n.º 1» deve ler-se «n
 
 e) No artigo 35.º, n.º 2, onde se lê «alínea c) do n.º 3 do artigo 16.º» deve ler-se «alínea c) do n.º 3 do artigo 15.º» e onde se lê «artigo 26.º» deve ler-se «artigo 25.º».
 
-**Publique-se no Diário da República.**
+Publique-se no Diário da República.
 
 27 de junho de 2025. - O Reitor, Prof. Doutor Rui Manuel Costa Vieira de Castro.
 
@@ -137,11 +161,11 @@ Assim, após aprovação pelo Conselho Diretivo da Fundação para a Ciência e 
 
 a) Desempenho de trabalho científico e técnico no âmbito de projeto I&D (instalação e realização de experiências e questionários; construção de protótipos, etc.);
 
-b) Planeamento e gestão de projetos de I&D;
+b) Planeamento e gestão de projetos de I&D
 
-c) Preparação de relatórios interinos e relatórios finais de projetos de I&D;
+c) Preparação de relatórios interinos e relatórios finais de projetos de I&D
 
-d) Prestação de serviços internos de I&D;
+d) Prestação de serviços internos de I&D
 
 e) Apoio à gestão dos aspetos financeiros e de pessoal dos projetos de I&D.
 
@@ -153,7 +177,7 @@ a) «Bolseiro» o beneficiário do respetivo estatuto, nos termos do Estatuto do
 
 b) «Bolsas» os subsídios destinados a apoiar o desenvolvimento de atividades de I&D pelos seus beneficiários nos termos previstos no presente regulamento, incluindo o prosseguimento de finalidades como o aprofundamento da articulação entre ciência e ensino superior, o estímulo da formação avançada em associação com atividades de I&D, a atração de estudantes para atividades de I&D e de difusão e promoção da educação científica e tecnológica em instituições científicas, e o estímulo das atividades de I&D por diplomados do ensino superior, através da atribuição de bolsas de investigação em instituições científicas que facilitem a sua inserção no mercado de trabalho especializado, sempre tendo como condição regra para a sua atribuição a inserção efetiva dos seus beneficiários em ciclos de estudos conducentes à atribuição de graus académicos ou em cursos não conferentes de grau académico;
 
-c) «Cursos não conferentes de grau académico» os cursos a que se refere a alínea e) do n.º 3 do artigo 4.º do [Decreto-Lei n.º 74/2006](https://diariodarepublica.pt/dr/detalhe/decreto-lei/74-2006-671387), de 24 de março, na sua redação atual, desde que integrados no projeto educativo de uma instituição de ensino superior, desenvolvidos em associação ou cooperação com uma ou várias unidades de I&D;
+c) «Cursos não conferentes de grau académico» os cursos a que se refere a alínea e) do n.º 3 do artigo 4.º do [Decreto-Lei n.º 74/2006](https://diariodarepublica.pt/dr/detalhe/decreto-lei/74-2006-671387), de 24 de março, na sua redação atual, desde que integrados no projeto educativo de uma instituição de ensino superior, desenvolvidos em associação ou cooperação com uma ou várias unidades de I&D
 
 d) «Entidade financiadora» qualquer entidade que assuma, no contrato de bolsa, a obrigação de conceder, no todo ou em parte, a bolsa;
 
@@ -719,7 +743,8 @@ Com a entrada em vigor do presente Regulamento é revogado o Regulamento de Bols
 
 ## ANEXO I — Modelo de relatório final de avaliação das atividades a elaborar pelo bolseiro e pelo orientador científico
 
-![](https://files.diariodarepublica.pt/images/924486245/924486155.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/924486245/924486155.png) |
+| --- |
 
 ## ANEXO II — Modelo de contrato de bolsa
 
@@ -839,3 +864,7 @@ Universidade do Minho, Braga, «Celebração_do_contrato».
 
 | A Primeira Outorgante,___(«M_1.º_Outorgante») | O Segundo Outorgante,___(«Nome») |
 | --- | --- |
+
+319239326
+
+.Tbl2 { min-height:91px; } .Tbl3 { border-bottom-width:0px; border-bottom-style:solid; border-right-style:solid; border-left-width:0px; border-top-width:0px; border-left-style:solid; border-right-width:0px; border-top-style:solid; } .Tbl4 { text-align:center; }

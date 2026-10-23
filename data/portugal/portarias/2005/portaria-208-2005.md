@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/208/2005/02/24/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/208-2005-608028
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2005-02-24T00:00:00Z'
+  retrieved_at: '2026-10-23T15:04:55Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 7041f767e7fb1974820562ea1297ff9b7a2eeda0bc84471568004de63d8ff9a0
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 21c00a1a8cd48fc0812fc06de58d633a032b7da9b475330fb27f0caf059fa4a5
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:04:55Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -68,11 +68,11 @@ reuse:
 subjects:
 - Assistência Medicamentosa
 - Comparticipação do Estado
-- Medicamento
 - Forças Armadas
+- Medicamento
+- Militar
 - Preço
 - Regime Jurídico
-- Militar
 - Subsistemas de Saúde
 relationships:
 - type: cites
@@ -95,16 +95,36 @@ relationships:
   target: eli:http://data.dre.pt/eli/port/1501/2002/12/12/p/dre
   label: null
   source: http://data.dre.pt/eli/port/1501/2002/12/12/p/dre
+- type: cites
+  target: pt:dre:336155:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:406690:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:441098:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:441099:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:493701:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:04:55Z'
   warnings: []
   errors: []
 ---

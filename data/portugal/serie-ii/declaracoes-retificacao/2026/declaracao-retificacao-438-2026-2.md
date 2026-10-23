@@ -26,7 +26,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/2s/2026/05/101000000/0024100242.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -48,18 +48,18 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/declaracao-retificacao/438-2026-1126582102
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2026-05-26T00:00:00Z'
+  retrieved_at: '2026-10-23T15:04:32Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 90f58ed7677ae860c574ba63ce7045969b1b94d66ecb234fa3481fc944b270ab
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 07997a0083d38deb402fbe19b733cb2e60e9ce9cb5343de71461806c1d113acd
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:04:32Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -71,13 +71,13 @@ relationships: []
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:04:32Z'
   warnings: []
   errors: []
 ---
@@ -96,32 +96,36 @@ deve ler-se:
 
 2 - No n.º 11 - grelha de avaliação do edital, no critério B.2. Regência e Lecionação de Unidades Curriculares de Ciclos de Estudos em Instituições de Ensino Superior, referente à dimensão B. Capacidade Pedagógica, onde se lê:
 
-| Critérios | Critérios | Pontuação por item | Pontuação máxima |
+| Critérios | Pontuação por item | Pontuação máxima |  |
 | --- | --- | --- | --- |
-| Capacidade Pedagógica | Capacidade Pedagógica | Capacidade Pedagógica | Capacidade Pedagógica |
-| B.2 - Regência e Lecionação de Unidades Curriculares de Ciclos de Estudos em Instituições de Ensino Superior | B.2 - Regência e Lecionação de Unidades Curriculares de Ciclos de Estudos em Instituições de Ensino Superior | B.2 - Regência e Lecionação de Unidades Curriculares de Ciclos de Estudos em Instituições de Ensino Superior | 30 |
-| a) Unidades curriculares lecionadas e as modalidades de aulas ministradas, nos diversos ciclos de estudo | 0,2 pontos/UC | 2 | 30 |
-| a) Unidades curriculares lecionadas e as modalidades de aulas ministradas, nos diversos ciclos de estudo | 0,02 pontos/aulas teóricas | 2 | 30 |
-| a) Unidades curriculares lecionadas e as modalidades de aulas ministradas, nos diversos ciclos de estudo | 0,02 pontos/Problem-based learning, seminários | 2 | 30 |
-| a) Unidades curriculares lecionadas e as modalidades de aulas ministradas, nos diversos ciclos de estudo | 0,02 pontos/aulas OT | 2 | 30 |
-| a) Unidades curriculares lecionadas e as modalidades de aulas ministradas, nos diversos ciclos de estudo | 0,01 pontos/aulas TP e P | 2 | 30 |
+| Capacidade Pedagógica |  |  |  |
+| B.2 - Regência e Lecionação de Unidades Curriculares de Ciclos de Estudos em Instituições de Ensino Superior | 30 |  |  |
+| a) Unidades curriculares lecionadas e as modalidades de aulas ministradas, nos diversos ciclos de estudo | 0,2 pontos/UC | 2 |  |
+| 0,02 pontos/aulas teóricas | 2 |  |  |
+| 0,02 pontos/Problem-based learning, seminários | 2 |  |  |
+| 0,02 pontos/aulas OT | 2 |  |  |
+| 0,01 pontos/aulas TP e P | 2 |  |  |
 | b) Responsabilidade de unidades curriculares | 0,25 pontos/UC ≤ 8 ECTS | 3 |  |
-| b) Responsabilidade de unidades curriculares | 0,5 pontos/UC> 8 ECTS/ano | 2 |  |
+| 0,5 pontos/UC> 8 ECTS/ano | 2 |  |  |
 
 deve ler-se:
 
-| Critérios | Critérios | Pontuação por item | Pontuação máxima |
-| --- | --- | --- | --- |
-| Capacidade Pedagógica | Capacidade Pedagógica | Capacidade Pedagógica | Capacidade Pedagógica |
-| B.2 - Regência e Lecionação de Unidades Curriculares de Ciclos de Estudos em Instituições de Ensino Superior | B.2 - Regência e Lecionação de Unidades Curriculares de Ciclos de Estudos em Instituições de Ensino Superior | B.2 - Regência e Lecionação de Unidades Curriculares de Ciclos de Estudos em Instituições de Ensino Superior | 30 |
-| a) Unidades curriculares lecionadas e as modalidades de aulas ministradas, nos diversos ciclos de estudo | 0,2 pontos/UC | 4 | 30 |
-| a) Unidades curriculares lecionadas e as modalidades de aulas ministradas, nos diversos ciclos de estudo | 0,02 pontos/aulas teóricas | 4 | 30 |
-| a) Unidades curriculares lecionadas e as modalidades de aulas ministradas, nos diversos ciclos de estudo | 0,02 pontos/Problem-based learning, seminários | 4 | 30 |
-| a) Unidades curriculares lecionadas e as modalidades de aulas ministradas, nos diversos ciclos de estudo | 0,02 pontos/aulas OT | 4 | 30 |
-| a) Unidades curriculares lecionadas e as modalidades de aulas ministradas, nos diversos ciclos de estudo | 0,01 pontos/aulas TP e P | 4 | 30 |
-| b) Responsabilidade de unidades curriculares | 0,25 pontos/UC ≤ 8 ECTS | 6 | 30 |
-| b) Responsabilidade de unidades curriculares | 0,5 pontos/UC> 8 ECTS/ano | 4 | 30 |
+| Critérios | Pontuação por item | Pontuação máxima |
+| --- | --- | --- |
+| Capacidade Pedagógica |  |  |
+| B.2 - Regência e Lecionação de Unidades Curriculares de Ciclos de Estudos em Instituições de Ensino Superior | 30 |  |
+| a) Unidades curriculares lecionadas e as modalidades de aulas ministradas, nos diversos ciclos de estudo | 0,2 pontos/UC | 4 |
+| 0,02 pontos/aulas teóricas | 4 |  |
+| 0,02 pontos/Problem-based learning, seminários | 4 |  |
+| 0,02 pontos/aulas OT | 4 |  |
+| 0,01 pontos/aulas TP e P | 4 |  |
+| b) Responsabilidade de unidades curriculares | 0,25 pontos/UC ≤ 8 ECTS | 6 |
+| 0,5 pontos/UC> 8 ECTS/ano | 4 |  |
 
 Atendendo à natureza da presente retificação, o período de candidaturas mantém-se até ao dia 2 de junho de 2026, considerando-se válidas todas as candidaturas já submetidas e tramitadas no âmbito do presente procedimento, desde que observados os requisitos legalmente aplicáveis.
 
 19 de maio de 2026. - A Administradora, Dr.ª Célia Costa.
+
+320002039
+
+.Tbl1 { border-collapse:collapse; } .Tbl2 { min-height:26px; } .Tbl4 { text-align:center; } .Tbl5 { min-height:27px; } .Tbl6 { border-bottom-color:rgb(0,0,0); border-top-color:rgb(0,0,0); border-left-width:1px; border-top-width:1px; border-right-width:1px; border-top-style:solid; border-bottom-width:1px; border-bottom-style:solid; border-right-style:solid; border-right-color:rgb(0,0,0); border-left-style:solid; vertical-align:top; } .Tbl7 { min-height:32px; } .Tbl8 { border-bottom-color:rgb(0,0,0); border-top-color:rgb(0,0,0); border-left-width:1px; border-top-width:1px; border-right-width:0px; border-top-style:solid; border-left-color:rgb(0,0,0); border-bottom-width:0px; border-bottom-style:solid; border-right-style:solid; border-left-style:solid; vertical-align:top; } .Tbl9 { min-height:18px; } .Tbl10 { border-bottom-color:rgb(0,0,0); border-top-color:rgb(0,0,0); border-left-width:1px; border-top-width:1px; border-right-width:1px; border-top-style:solid; border-left-color:rgb(0,0,0); border-bottom-width:1px; border-bottom-style:solid; border-right-style:solid; border-right-color:rgb(0,0,0); border-left-style:solid; vertical-align:top; } .Tbl11 { min-height:28px; } .Tbl12 { border-bottom-color:rgb(0,0,0); border-left-width:1px; border-top-width:0px; border-right-width:1px; border-top-style:solid; border-left-color:rgb(0,0,0); border-bottom-width:1px; border-bottom-style:solid; border-right-style:solid; border-left-style:solid; vertical-align:top; } .Tbl13 { border-bottom-color:rgb(0,0,0); border-top-color:rgb(0,0,0); border-left-width:1px; border-top-width:1px; border-right-width:1px; border-top-style:solid; border-left-color:rgb(0,0,0); border-bottom-width:1px; border-bottom-style:solid; border-right-style:solid; border-left-style:solid; vertical-align:top; }

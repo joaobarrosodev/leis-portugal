@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/2s/2025/06/119000000/0030500305.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -47,18 +47,18 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/declaracao-retificacao/578-2025-922231418
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2025-06-24T00:00:00Z'
+  retrieved_at: '2026-10-23T15:00:02Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 628cfd024f10e4f9849077011e1283214302791748f05b5858be4227df4af4bf
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 31ae4c0d577c0cfb2e251b9058712928a249cedca1d2b4f62d24630de57056bc
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:00:02Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,17 +66,21 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects: []
-relationships: []
+relationships:
+- type: cites
+  target: pt:dre:915279231:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:00:02Z'
   warnings: []
   errors: []
 ---
@@ -94,3 +98,5 @@ deve ler-se:
 «1 - Enquadramento: faz-se público que, por Deliberação n.º 1812/2025 do Conselho de Administração da Unidade Local de Saúde de Santo António, EPE, (doravante denominada ULSSA), se encontra aberto, pelo prazo de 15 (quinze) dias úteis, um processo de acolhimento de manifestações de interesse individual conducente ao recrutamento para o cargo de Diretor/a de Serviço de Genética Médica do Centro de Genética Médica Jacinto de Magalhães da Clínica de Genética e Patologia.»
 
 8 de maio de 2025. - A Diretora da Direção de Pessoas e Bem-Estar da Unidade Local de Saúde de Santo António, EPE, Ilda Maria Correia de Magalhães.
+
+319031609

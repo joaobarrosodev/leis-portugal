@@ -48,18 +48,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/590/2004/06/02/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/590-2004-261879
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2006-05-16T00:00:00Z'
+  retrieved_at: '2026-10-23T15:00:05Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: b7751708f04aa60d1934f613f8f820221c6ed444ab43608055754c06b4d334da
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 0d20372ae26b6fd6def6de5f22f1bca36b9de635a81647906e51c5bd5fb1d88e
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:00:05Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,21 +67,27 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Financiamento
-- Silvicultura
-- Arborização
 - Apoio ao Investimento
+- Arborização
 - Diversidade Biológica
 - Exploração Florestal
-- Regulamento de Aplicação das Acções 3.1 e 3.2-apoio à Silvicultura e Restabelecimento do Potencial de Produção Silvícola
+- Financiamento
 - Política Agrícola
-- Regulamento
 - Programa AGRO
+- Regulamento
+- Regulamento de Aplicação das Acções 3.1 e 3.2-apoio à Silvicultura e Restabelecimento do Potencial de Produção Silvícola
+- Silvicultura
 relationships:
 - type: amended_by
   target: pt:dre:631650:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:631650:por
+  label: "Alterados os arts. 6º, 7º, 9º e 10º do Regulamento aprovado pela Port 448-A/2001 de 03-Mai, com a redacção constante\
+    \ do presente diploma, pela PORT.456/2006.16.05.2006.MADRP, DR.IS-B [94] de 16.05.2006\06\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/456-2006-631650
+  date: '2006-05-16'
 - type: cites
   target: celex:31999L0105
   label: null
@@ -91,15 +97,15 @@ relationships:
   label: null
   source: http://data.dre.pt/eli/port/448-a/2001/05/03/p/dre
 article_structure:
-  article_count: 26
+  article_count: 20
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:00:05Z'
   warnings: []
   errors: []
 ---
@@ -148,7 +154,9 @@ e) ...
 
 4 - ...
 
-###### Artigo 5.º — [...]
+Artigo 5.º
+
+[...]
 
 1 - ...
 
@@ -170,7 +178,9 @@ i) Restabelecimento do potencial de produção silvícola afectado por desastres
 
 ii) Melhoramento significativo do valor ecológico e social das florestas.
 
-###### Artigo 6.º — [...]
+Artigo 6.º
+
+[...]
 
 1 - ...
 
@@ -178,7 +188,9 @@ ii) Melhoramento significativo do valor ecológico e social das florestas.
 
 3 - ...
 
-###### Artigo 7.º — [...]
+Artigo 7.º
+
+[...]
 
 1 - Os projectos de investimento devem reunir as seguintes condições:
 
@@ -194,7 +206,9 @@ c) ...
 
 4 - Em caso de calamidade declarada como tal nos termos da lei, podem ser admitidas excepcionalmente no âmbito da acção n.º 3.2 despesas realizadas anteriormente à entrega da candidatura, desde que sejam passíveis de ser comprovadas no terreno e se trate de intervenções urgentes do ponto de vista florestal.
 
-###### Artigo 9.º — Forma e valores das ajudas
+Artigo 9.º
+
+Forma e valores das ajudas
 
 1 - As ajudas previstas neste Regulamento são atribuídas sob a forma de incentivo não reembolsável nos seguintes casos e com os valores a seguir indicados:
 
@@ -218,7 +232,9 @@ e) ...
 
 6 - (Anterior n.º 7.)
 
-###### Artigo 10.º — [...]
+Artigo 10.º
+
+[...]
 
 1 - Sem prejuízo do disposto no número seguinte, as ajudas previstas neste Regulamento para a acção n.º 3.1 incidem sobre um montante máximo de (euro) 600000 de investimento elegível por beneficiário, excepto nos seguintes casos:
 
@@ -236,7 +252,9 @@ c) ...
 
 5 - ...
 
-###### Artigo 17.º — Execução do projecto
+Artigo 17.º
+
+Execução do projecto
 
 1 - ...
 
@@ -244,7 +262,9 @@ c) ...
 
 3 - Em casos excepcionais e devidamente justificados, o IFADAP pode autorizar a prorrogação dos prazos referidos no n.º 1.
 
-## ANEXO IV — [...]
+ANEXO IV
+
+[...]
 
 1 - ...
 
@@ -290,7 +310,7 @@ f) ...
 
 5 - ...»
 
-**O Ministro da Agricultura, Desenvolvimento Rural e Pescas, Armando José Cordeiro Sevinate Pinto, em 27 de Abril de 2004.**
+O Ministro da Agricultura, Desenvolvimento Rural e Pescas, Armando José Cordeiro Sevinate Pinto, em 27 de Abril de 2004.
 
 ## ANEXO — (Portaria n.º 448-A/2001, de 3 de Maio)
 
@@ -586,13 +606,13 @@ h) Utilizar o livro de obra para acompanhamento e validação da execução dos 
 
 Densidades mínimas dos povoamentos
 
-[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2004/06/129b00/34293438.pdf)
+[[[[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2004/06/129b00/34293438.pdf)](https://files.diariodarepublica.pt/1s/2004/06/129b00/34293438.pdf)](https://files.diariodarepublica.pt/1s/2004/06/129b00/34293438.pdf)](https://files.diariodarepublica.pt/1s/2004/06/129b00/34293438.pdf)
 
 ## ANEXO II — (a que se refere o n.º 2 do artigo 4.º)
 
 Espécies elegíveis
 
-[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2004/06/129b00/34293438.pdf)
+[[[[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2004/06/129b00/34293438.pdf)](https://files.diariodarepublica.pt/1s/2004/06/129b00/34293438.pdf)](https://files.diariodarepublica.pt/1s/2004/06/129b00/34293438.pdf)](https://files.diariodarepublica.pt/1s/2004/06/129b00/34293438.pdf)
 
 1 - Em projectos com menos de 5 ha são elegíveis todas as espécies adaptadas ecologicamente à estação respectiva.
 
@@ -604,7 +624,7 @@ Espécies elegíveis
 
 Espécies de crescimento rápido/áreas máximas contínuas
 
-[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2004/06/129b00/34293438.pdf)
+[[[[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2004/06/129b00/34293438.pdf)](https://files.diariodarepublica.pt/1s/2004/06/129b00/34293438.pdf)](https://files.diariodarepublica.pt/1s/2004/06/129b00/34293438.pdf)](https://files.diariodarepublica.pt/1s/2004/06/129b00/34293438.pdf)
 
 ## ANEXO IV — (a que se refere o n.º 1 do artigo 8.º)
 
@@ -768,7 +788,7 @@ Nota. - As pontuações apresentadas no n.º 4 são cumulativas.
 
 Densidades mínimas de estabelecimento do povoamento
 
-[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2004/06/129b00/34293438.pdf)
+[[[[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2004/06/129b00/34293438.pdf)](https://files.diariodarepublica.pt/1s/2004/06/129b00/34293438.pdf)](https://files.diariodarepublica.pt/1s/2004/06/129b00/34293438.pdf)](https://files.diariodarepublica.pt/1s/2004/06/129b00/34293438.pdf)
 
 Observações
 

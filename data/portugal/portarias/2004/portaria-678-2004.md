@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/678/2004/06/19/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/678-2004-272609
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2004-12-15T00:00:00Z'
+  retrieved_at: '2026-10-23T15:00:35Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: d51d63b25604b154558443d8d10f02050a120d19f1ca1418af0dc6612d5e4b9b
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 804c9af941e0c2954e45c2fabb34ae8d8b460bbbffd9c0affdc2a987eea6b7fb
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:00:35Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,24 +66,31 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
+- Agricultor
+- Agricultura
 - Ajuda Comunitária
-- Financiamento
-- Fundo de Contragarantia Mútuo
 - Apoio ao Investimento
-- Jovem
 - Exploração Agrícola
 - Exploração Florestal
-- Agricultor
+- Financiamento
+- Fundo de Contragarantia Mútuo
+- Investimento Privado
+- Jovem
+- Programa AGRO
 - QCA III
 - Regulamento
-- Programa AGRO
-- Agricultura
-- Investimento Privado
 relationships:
 - type: amended_by
   target: pt:dre:218301:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:218301:por
+  label: "Alterados os arts. 2º, 4º, 6º, 7º e 8º do Regulamento aprovado pela Port 936/2003 de 04-Set, com a redacção do presente\
+    \ diploma, pela PORT.1463/2004.15.12.2004.MAPF, DR.IS-A [292] de 15.12.2004, que procede à sua republicação com todas\
+    \ as alterações\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/1463-2004-218301
+  date: '2004-12-15'
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/163-a/2000/07/27/p/dre
   label: null
@@ -92,16 +99,24 @@ relationships:
   target: eli:http://data.dre.pt/eli/port/936/2003/09/04/p/dre
   label: null
   source: http://data.dre.pt/eli/port/936/2003/09/04/p/dre
+- type: cites
+  target: pt:dre:220892:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:510436:por
+  label: null
+  source: null
 article_structure:
-  article_count: 2
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:00:35Z'
   warnings: []
   errors: []
 ---
@@ -142,7 +157,9 @@ e) Projectos do tipo F - sociedade gestora do Fundo de Contragarantia Mútuo.
 
 2 - ...
 
-###### Artigo 9.º — [...]
+Artigo 9.º
+
+[...]
 
 ...
 
@@ -162,7 +179,9 @@ c) ...
 
 d) ...
 
-###### Artigo 11.º — [...]
+Artigo 11.º
+
+[...]
 
 ...
 
@@ -178,4 +197,4 @@ e) Tipo F - 15 milhões de euros.»
 
 2.º Com a entrada em vigor do presente diploma cessa a possibilidade, no âmbito do Regulamento referido no número anterior, de apresentação de candidaturas de projectos dos tipos C e E, bem como, no caso de projectos do tipo D, de apresentação de candidaturas de micro, pequenas e médias empresas e respectivas associações empresariais.
 
-**O Ministro da Agricultura, Desenvolvimento Rural e Pescas, Armando José Cordeiro Sevinate Pinto, em 31 de Maio de 2004.**
+O Ministro da Agricultura, Desenvolvimento Rural e Pescas, Armando José Cordeiro Sevinate Pinto, em 31 de Maio de 2004.

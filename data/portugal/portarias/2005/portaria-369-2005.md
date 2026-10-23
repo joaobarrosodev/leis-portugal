@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/369/2005/04/04/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/369-2005-563258
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2005-04-04T00:00:00Z'
+  retrieved_at: '2026-10-23T15:05:57Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: c7809be76c75cd6dd2f9f6deda3a7aa78417315dc120180cc3c682de66e5b112
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 485e174169f60488f9e4c5669409cf80da6a116ba6d6e2ad12fb045f5e0060b7
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:05:57Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -65,10 +65,10 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Plano de Estudos
 - Ensino Particular
-- Licenciatura
 - Ensino Superior
+- Licenciatura
+- Plano de Estudos
 - Universidade Fernando Pessoa
 relationships:
 - type: cites
@@ -99,16 +99,44 @@ relationships:
   target: eli:http://data.dre.pt/eli/resolconsmin/116/2002/10/02/p/dre
   label: null
   source: http://data.dre.pt/eli/resolconsmin/116/2002/10/02/p/dre
+- type: cites
+  target: pt:dre:150335:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:197153:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:391647:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:406885:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:512030:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:533820:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:644708:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:05:57Z'
   warnings: []
   errors: []
 ---
@@ -153,7 +181,7 @@ Aplicação
 
 O disposto na presente portaria aplica-se a partir do ano lectivo de 2004-2005, inclusive.
 
-**A Ministra da Ciência, Inovação e Ensino Superior, Maria da Graça Martins da Silva Carvalho, em 18 de Fevereiro de 2005.**
+A Ministra da Ciência, Inovação e Ensino Superior, Maria da Graça Martins da Silva Carvalho, em 18 de Fevereiro de 2005.
 
 ## ANEXO — ([Portaria n.º 1556/2002](https://diariodarepublica.pt/dr/detalhe/portaria/1556-2002-391647), de 30 de Dezembro - alteração)
 
@@ -167,34 +195,34 @@ QUADRO N.º 1
 
 1.º ano
 
-[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2005/04/065b00/28252827.pdf)
+[[[[[[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2005/04/065b00/28252827.pdf)](https://files.diariodarepublica.pt/1s/2005/04/065b00/28252827.pdf)](https://files.diariodarepublica.pt/1s/2005/04/065b00/28252827.pdf)](https://files.diariodarepublica.pt/1s/2005/04/065b00/28252827.pdf)](https://files.diariodarepublica.pt/1s/2005/04/065b00/28252827.pdf)](https://files.diariodarepublica.pt/1s/2005/04/065b00/28252827.pdf)
 
 QUADRO N.º 2
 
 2.º ano
 
-[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2005/04/065b00/28252827.pdf)
+[[[[[[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2005/04/065b00/28252827.pdf)](https://files.diariodarepublica.pt/1s/2005/04/065b00/28252827.pdf)](https://files.diariodarepublica.pt/1s/2005/04/065b00/28252827.pdf)](https://files.diariodarepublica.pt/1s/2005/04/065b00/28252827.pdf)](https://files.diariodarepublica.pt/1s/2005/04/065b00/28252827.pdf)](https://files.diariodarepublica.pt/1s/2005/04/065b00/28252827.pdf)
 
 QUADRO N.º 3
 
 3.º ano
 
-[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2005/04/065b00/28252827.pdf)
+[[[[[[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2005/04/065b00/28252827.pdf)](https://files.diariodarepublica.pt/1s/2005/04/065b00/28252827.pdf)](https://files.diariodarepublica.pt/1s/2005/04/065b00/28252827.pdf)](https://files.diariodarepublica.pt/1s/2005/04/065b00/28252827.pdf)](https://files.diariodarepublica.pt/1s/2005/04/065b00/28252827.pdf)](https://files.diariodarepublica.pt/1s/2005/04/065b00/28252827.pdf)
 
 QUADRO N.º 4
 
 4.º ano
 
-[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2005/04/065b00/28252827.pdf)
+[[[[[[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2005/04/065b00/28252827.pdf)](https://files.diariodarepublica.pt/1s/2005/04/065b00/28252827.pdf)](https://files.diariodarepublica.pt/1s/2005/04/065b00/28252827.pdf)](https://files.diariodarepublica.pt/1s/2005/04/065b00/28252827.pdf)](https://files.diariodarepublica.pt/1s/2005/04/065b00/28252827.pdf)](https://files.diariodarepublica.pt/1s/2005/04/065b00/28252827.pdf)
 
 QUADRO N.º 5
 
 5.º ano
 
-[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2005/04/065b00/28252827.pdf)
+[[[[[[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2005/04/065b00/28252827.pdf)](https://files.diariodarepublica.pt/1s/2005/04/065b00/28252827.pdf)](https://files.diariodarepublica.pt/1s/2005/04/065b00/28252827.pdf)](https://files.diariodarepublica.pt/1s/2005/04/065b00/28252827.pdf)](https://files.diariodarepublica.pt/1s/2005/04/065b00/28252827.pdf)](https://files.diariodarepublica.pt/1s/2005/04/065b00/28252827.pdf)
 
 QUADRO N.º 6
 
 6.º ano
 
-[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2005/04/065b00/28252827.pdf)
+[[[[[[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2005/04/065b00/28252827.pdf)](https://files.diariodarepublica.pt/1s/2005/04/065b00/28252827.pdf)](https://files.diariodarepublica.pt/1s/2005/04/065b00/28252827.pdf)](https://files.diariodarepublica.pt/1s/2005/04/065b00/28252827.pdf)](https://files.diariodarepublica.pt/1s/2005/04/065b00/28252827.pdf)](https://files.diariodarepublica.pt/1s/2005/04/065b00/28252827.pdf)

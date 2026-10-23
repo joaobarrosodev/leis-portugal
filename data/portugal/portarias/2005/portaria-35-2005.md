@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2005/01/011b00/02900291.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/35/2005/01/17/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/35-2005-626224
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2005-12-29T00:00:00Z'
+  retrieved_at: '2026-10-23T15:05:51Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 7b62fcb83853c3fd2d1492e3e9b97b3aee8c3538c795790f549275c51a8232bb
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: bc92b0d456147ff4d74f0d4749539a70c0e17d69200e1a0b602464740712a2dc
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:05:51Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -68,20 +68,26 @@ reuse:
 subjects:
 - Batata
 - Certificado Fitossanitário
-- Doença Vegetal
+- Circulação de Mercadorias
+- Comércio
 - Decisão CE
+- Doença Vegetal
 - Egipto
+- Embalagem
 - Etiquetagem
 - Importação
-- Embalagem
-- Circulação de Mercadorias
 - Proteção Fitossanitária
-- Comércio
 relationships:
 - type: amended_by
   target: pt:dre:469029:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:141854:por
+  label: "Mantida em vigor a Port 125/2004 de 06-Fev, na redacção do presente diploma, pelo DEC LEI.154/2005.06.09.2005.MADRP,\
+    \ DR.IS-A [171] de 06.09.2005\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/154-2005-141854
+  date: '2005-09-06'
 - type: cites
   target: celex:32004D0004
   label: null
@@ -94,16 +100,21 @@ relationships:
   target: eli:http://data.dre.pt/eli/port/125/2004/02/06/p/dre
   label: null
   source: http://data.dre.pt/eli/port/125/2004/02/06/p/dre
+- type: repealed_by
+  target: pt:dre:469029:por
+  label: "Revogada pela PORT.1332/2005.29.12.2005.MADRP, DR.IS-B [249] de 29.12.2005\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/1332-2005-469029
+  date: '2005-12-29'
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:05:51Z'
   warnings: []
   errors: []
 ---
@@ -126,4 +137,4 @@ Manda o Governo, pelo Ministro da Agricultura, Pescas e Florestas, que o n.º 2.
 
 «2.º Os tubérculos de Solanum tuberosum L., com excepção dos destinados à plantação, originários do Egipto só podem ser introduzidos no território nacional desde que se observem as condições estabelecidas na Decisão n.º [2004/4/CE](http://data.europa.eu/eli/dec/2004/4/oj?locale=pt), da Comissão, de 22 de Dezembro de 2003, na redacção que lhe foi dada pela Decisão n.º [2004/836/CE](http://data.europa.eu/eli/dec/2004/836/oj?locale=pt), da Comissão, de 6 de Dezembro.»
 
-**O Ministro da Agricultura, Pescas e Florestas, Carlos Henrique da Costa Neves, em 23 de Dezembro de 2004.**
+O Ministro da Agricultura, Pescas e Florestas, Carlos Henrique da Costa Neves, em 23 de Dezembro de 2004.

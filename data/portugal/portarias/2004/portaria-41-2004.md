@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/41/2004/01/14/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/41-2004-603035
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2004-01-14T00:00:00Z'
+  retrieved_at: '2026-10-23T14:59:00Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 2df4de60ae6a29bd7172f2610c58264501ab5400c95d4c1b06cd546cee0a0629
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 3709303f5d8dd40cefee58cfb8aca1a85a9b4e15763ed8f9e8656861d544cfe2
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T14:59:00Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -68,24 +68,28 @@ subjects:
 - Alvará
 - Equipamento Desportivo
 - Espetáculos e Divertimentos Públicos
-- Licenciamento
 - Licença de Utilização
 - Licença Municipal
+- Licenciamento
 relationships:
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/309/2002/12/16/p/dre
   label: null
   source: http://data.dre.pt/eli/dec-lei/309/2002/12/16/p/dre
+- type: cites
+  target: pt:dre:405759:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T14:59:00Z'
   warnings: []
   errors: []
 ---
@@ -106,6 +110,6 @@ Manda o Governo, pelos Ministros da Administração Interna e das Cidades, Orden
 
 Em 17 de Novembro de 2003.
 
-**O Ministro da Administração Interna, António Jorge de Figueiredo Lopes. - O Ministro das Cidades, Ordenamento do Território e Ambiente, Amílcar Augusto Contel Martins Theias.**
+O Ministro da Administração Interna, António Jorge de Figueiredo Lopes. - O Ministro das Cidades, Ordenamento do Território e Ambiente, Amílcar Augusto Contel Martins Theias.
 
 [(ver modelo no documento original)](https://files.diariodarepublica.pt/1s/2004/01/011b00/02710271.pdf)

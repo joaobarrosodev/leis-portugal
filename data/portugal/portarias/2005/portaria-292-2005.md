@@ -48,18 +48,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/292/2005/03/22/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/292-2005-579104
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2005-03-22T00:00:00Z'
+  retrieved_at: '2026-10-23T15:05:30Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 994cd38a6cfacec51e789cb78fad1b7111e291029ccb62ac31402c89cd45431e
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: ec2e007a61493c03afac5d2ddba3a6981f688bcd9088ed5ff6210cda5c608497
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:05:30Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -68,21 +68,29 @@ reuse:
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
 - Água Mineral
-- Recursos Hídricos
-- Zona de Proteção
 - Câmara Municipal
+- Recursos Hídricos
 - Santa Maria da Feira
-relationships: []
+- Zona de Proteção
+relationships:
+- type: cites
+  target: pt:dre:333159:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:333160:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:05:30Z'
   warnings: []
   errors: []
 ---
@@ -103,19 +111,19 @@ Manda o Governo, pelos Ministros de Estado, das Actividades Económicas e do Tra
 
 Zona imediata. - Delimitada pelo polígono L-M-N-O, cujos vértices têm as seguintes coordenadas:
 
-[(ver tabela no documento original)](https://files.diariodarepublica.pt/1s/2005/03/057b00/25352536.pdf)
+[[[(ver tabela no documento original)](https://files.diariodarepublica.pt/1s/2005/03/057b00/25352536.pdf)](https://files.diariodarepublica.pt/1s/2005/03/057b00/25352536.pdf)](https://files.diariodarepublica.pt/1s/2005/03/057b00/25352536.pdf)
 
 Zona intermédia. - Delimitada pelo polígono H-I-J-K, cujos vértices têm as seguintes coordenadas:
 
-[(ver tabela no documento original)](https://files.diariodarepublica.pt/1s/2005/03/057b00/25352536.pdf)
+[[[(ver tabela no documento original)](https://files.diariodarepublica.pt/1s/2005/03/057b00/25352536.pdf)](https://files.diariodarepublica.pt/1s/2005/03/057b00/25352536.pdf)](https://files.diariodarepublica.pt/1s/2005/03/057b00/25352536.pdf)
 
 Zona alargada. - Esta zona é definida pelo polígono A-B-C-D-E-F-G, cujos vértices têm as seguintes coordenadas:
 
-[(ver tabela no documento original)](https://files.diariodarepublica.pt/1s/2005/03/057b00/25352536.pdf)
+[[[(ver tabela no documento original)](https://files.diariodarepublica.pt/1s/2005/03/057b00/25352536.pdf)](https://files.diariodarepublica.pt/1s/2005/03/057b00/25352536.pdf)](https://files.diariodarepublica.pt/1s/2005/03/057b00/25352536.pdf)
 
 Em 27 de Janeiro de 2005.
 
-**O Ministro de Estado, das Actividades Económicas e do Trabalho, Álvaro Roque de Pinho Bissaya Barreto. - O Ministro das Cidades, Administração Local, Habitação e Desenvolvimento Regional, José Luís Fazenda Arnaut Duarte. - O Ministro do Ambiente e do Ordenamento do Território, Luís José de Mello e Castro Guedes.**
+O Ministro de Estado, das Actividades Económicas e do Trabalho, Álvaro Roque de Pinho Bissaya Barreto. - O Ministro das Cidades, Administração Local, Habitação e Desenvolvimento Regional, José Luís Fazenda Arnaut Duarte. - O Ministro do Ambiente e do Ordenamento do Território, Luís José de Mello e Castro Guedes.
 
 Zonas do perímetro de protecção para a concessão hidromineral denominada «Caldas de São Jorge»
 

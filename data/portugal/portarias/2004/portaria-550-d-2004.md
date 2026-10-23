@@ -20,12 +20,12 @@ publication:
   reference: Diário da República n.º 119/2004, 1º Suplemento, Série I-B de 2004-05-21
   number: '119'
   series: I
-  supplement: 1º Suplemento
+  supplement: null
   pages: 3254-(38) a 3254-(49)
   pdf_url: https://files.diariodarepublica.pt/1s/2004/05/119b01/00380049.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/550-d/2004/05/21/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/550-d-2004-238850
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2012-08-10T00:00:00Z'
+  retrieved_at: '2026-10-23T14:59:50Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: d52e8b784ef7cb40c60c3a1489d08191303ccd4f1cac2824c473c933b897bc91
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: b0efd6657c2871a5a75d896bd6233765ff6a5ae507572b473af9a4eb4b975ff6
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T14:59:50Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,20 +66,65 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
+- Avaliação de Conhecimentos
 - Certidão
-- Plano de Estudos
 - Diploma
 - Ensino Cooperativo
 - Ensino Oficial
 - Ensino Particular
 - Exame
 - Habilitações Literárias
-- Avaliação de Conhecimentos
+- Plano de Estudos
 relationships:
 - type: amended_by
   target: pt:dre:175162:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:667373:por
+  label: "Alterados os artigos 3.º, 9.º, 11.º, 16.º, 17.º, 18.º e 29.º, bem como os anexos I, II e IV, pela PORT.259/2006.14.03.2006.ME,\
+    \ DR.IS-B [52] de 14.03.2006\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/259-2006-667373
+  date: '2006-03-14'
+- type: amended_by
+  target: pt:dre:638711:por
+  label: "Alterado o tipo de prova a efectuar no exame final nacional da disciplina de Aplicações Informáticas B constante\
+    \ do anexo II do presente diploma, com a redacção que lhe foi introduzida pela Port 259/2006 de 14-Mar, pela PORT.673/2007.04.06.2007.ME,\
+    \ DR.IS [107] de 04.06.2007\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/673-2007-638711
+  date: '2007-06-04'
+- type: amended_by
+  target: pt:dre:641762:por
+  label: "Alterados os arts. 3º, 9º, 11º, 16º, 17º e 18º (na redacção da Port 259/2006, de 14-Mar)e os arts. 2º, 4º, 8º, 23º,\
+    \ 26º e 30º, e aditado o art. 32º ao presente diploma, pela PORT.1322/2007.04.10.2007.ME, DR.IS [192] de 04.10.2007 e\
+    \ republicado\0do\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/1322-2007-641762
+  date: '2007-10-04'
+- type: amended_by
+  target: pt:dre:616797:por
+  label: "Alterada a al. h) do nº5 e o nº6 do art. 32º (aditado pela Port 1322/2007, de 04-Out, que republica o diploma) e\
+    \ aditado o anexo V ao presente diploma, pela PORT.56/2010.21.01.2010.ME, DR.IS [14] de 21.01.2010\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/56-2010-616797
+  date: '2010-01-21'
+- type: amended_by
+  target: pt:dre:670284:por
+  label: "Dada nova redacção aos arts. 2º, 4º (alterado pela Port 1322/2007 de 04-Out) , 5º, 8º (alterado pela Port 1322/2007\
+    \ de 04-Out), 9º, 11º (ambos alterados pelas Port 259/2006 de 14-Mar e 1322/2007 de 04-Out), 13º, 14º, 15º, 16º, 17º (os\
+    \ últimos dois alterados pelas Port 259/2006 de 14-Mar e 1322/2007 de 04-Out) , 20º, 21º, 22º, 23º, 24º, 25º, 28º, 29º\
+    \ (alterado pela Port 259/2006 de 14-Mar), 30º (alterado pela Port 1322/2007 de 04-Out), e 32º (alterado pelas Port 1322/2007\
+    \ de 04-Out e 56/2010 de 21-Jan), assim como aos anexos I (alterado pela Port 259/2006 de 14-Mar) e II (alterado pelas\
+    \ Port 259/2006 de 14-Mar e 673/2007 de 04-Jun); aditado o art. 16º-A; e revogados a al. e) do nº 3 do art. 9º, os nºs\
+    \ 8, 11 e 16 do art. 16º, a al. c) do art. 20º, os nºs 1, 4, 5, 6, 7 e 8 do art. 32º, e o anexo V, todos do presente diploma,\
+    \ pela Port 244/2011.21.06.2011.ME.DR.IS [118], que o republicou em anexo, na sua redacção actual.\0.\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/244-2011-670284
+  date: '2011-06-21'
+- type: amended_by
+  target: pt:dre:552788:por
+  label: "Dada nova redação aos arts. 9º, 16º e 17º (os três alterados pelas Port 259/2006 de 14-mar, 1322/2007 de 04-out\
+    \ e 244/2011 de 21-jun) e art. 28º (alterado pela Port 244/2011 de 21-jun), pela PORT.105/2012.17.04.2012.MECI, DR.IS\
+    \ [76] de 17.04.2012\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/105-2012-552788
+  date: '2012-04-17'
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/74/2004/03/26/p/dre
   label: null
@@ -88,16 +133,35 @@ relationships:
   target: eli:http://data.dre.pt/eli/lei/30/2002/12/20/p/dre
   label: null
   source: http://data.dre.pt/eli/lei/30/2002/12/20/p/dre
+- type: cites
+  target: pt:dre:210801:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:405481:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:587624:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:175162:por
+  label: "Revogado, a partir de 15.08.2012, o presente diploma, na redação da Port 259/2006, de 14-mar, da Port 673/2007,\
+    \ de 04-jun, da Port 1322/2007, de 04-out, da Port 56/2010, de 21-jan, da Port 244/2011, de 21-jun e da Port 105/2012,\
+    \ de 17-abr, pela PORT.243/2012.10.08.2012.MECI, DR.IS [155] de 10.08.2012\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/243-2012-175162
+  date: '2012-08-10'
 article_structure:
-  article_count: 30
+  article_count: 31
   section_count: 7
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T14:59:50Z'
   warnings: []
   errors: []
 ---
@@ -570,7 +634,9 @@ f) Ficha de avaliação do aluno relativa aos três períodos lectivos.
 
 2 - Quando, ao abrigo das situações previstas no número anterior, se tenha realizado a prova extraordinária de avaliação (PEA), proceder-se-á à realização de uma reunião extraordinária do conselho de turma, para ratificação das classificações do aluno.
 
-### CAPÍTULO III — Artigo 28.º
+### CAPÍTULO III
+
+###### Artigo 28.º
 
 Conclusão e certificação
 
@@ -668,15 +734,15 @@ e) Se a classificação interna final, calculada nos termos da alínea anterior,
 
 As decisões referentes às provas de equivalência à frequência e aos exames finais nacionais são passíveis de impugnação administrativa nos termos legais.
 
-**O Ministro da Educação, José David Gomes Justino, em 17 de Maio de 2004.**
+O Ministro da Educação, José David Gomes Justino, em 17 de Maio de 2004.
 
 ## ANEXO I — Provas de equivalência à frequência: Tipos de provas a realizar em cada disciplina e área não disciplinar e respectiva duração
 
-[(ver tabela no documento original)](https://files.diariodarepublica.pt/1s/2004/05/119b01/00380049.pdf)
+[[[(ver tabela no documento original)](https://files.diariodarepublica.pt/1s/2004/05/119b01/00380049.pdf)](https://files.diariodarepublica.pt/1s/2004/05/119b01/00380049.pdf)](https://files.diariodarepublica.pt/1s/2004/05/119b01/00380049.pdf)
 
 ## ANEXO II — Exames finais nacionais: Tipo de prova a realizar em cada disciplina e respectiva duração
 
-[(ver tabela no documento original)](https://files.diariodarepublica.pt/1s/2004/05/119b01/00380049.pdf)
+[[[(ver tabela no documento original)](https://files.diariodarepublica.pt/1s/2004/05/119b01/00380049.pdf)](https://files.diariodarepublica.pt/1s/2004/05/119b01/00380049.pdf)](https://files.diariodarepublica.pt/1s/2004/05/119b01/00380049.pdf)
 
 ## ANEXO III — Procedimentos específicos a observar no desenvolvimento da prova extraordinária de avaliação (PEA)
 
@@ -700,4 +766,4 @@ As decisões referentes às provas de equivalência à frequência e aos exames 
 
 Tabela de precedências
 
-[(ver tabela no documento original)](https://files.diariodarepublica.pt/1s/2004/05/119b01/00380049.pdf)
+[[[(ver tabela no documento original)](https://files.diariodarepublica.pt/1s/2004/05/119b01/00380049.pdf)](https://files.diariodarepublica.pt/1s/2004/05/119b01/00380049.pdf)](https://files.diariodarepublica.pt/1s/2004/05/119b01/00380049.pdf)

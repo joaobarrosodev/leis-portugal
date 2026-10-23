@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/2s/2026/06/107000000/0004600047.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -46,18 +46,18 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/declaracao-retificacao/480-2026-1129302347
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2026-06-03T00:00:00Z'
+  retrieved_at: '2026-10-23T15:04:49Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 7716cb67f65dd225a011e9e11f60cc71fffc4e88fea2f55645a08706c3dd75a6
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 46e03e6f43daa6d7f0ffdf68ea86e348f7d5fc8be362dff2118b332361171da1
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:04:49Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -65,17 +65,25 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects: []
-relationships: []
+relationships:
+- type: cites
+  target: pt:dre:124256708:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:453518:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:04:49Z'
   warnings: []
   errors: []
 ---
@@ -88,7 +96,8 @@ Por ter sido publicada com inexatidão a carta de delimitação da Reserva Ecol�
 
 27 de maio de 2026. - O Vice-Presidente, Aníbal Reis Costa.
 
-![](https://files.diariodarepublica.pt/images/1129302347/1129302138.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/1129302347/1129302138.png) |
+| --- |
 
 86808 - [https://ssaigt.dgterritorio.pt/ir/Carta_de_Delimitação_86808_REN_1.jpg](https://ssaigt.dgterritorio.pt/ir/Carta_de_Delimitação_86808_REN_1.jpg)
 
@@ -119,3 +128,5 @@ Por ter sido publicada com inexatidão a carta de delimitação da Reserva Ecol�
 86808 - [https://ssaigt.dgterritorio.pt/ir/Carta_de_Delimitação_86808_REN_14.jpg](https://ssaigt.dgterritorio.pt/ir/Carta_de_Delimitação_86808_REN_14.jpg)
 
 86808 - [https://ssaigt.dgterritorio.pt/ir/Carta_de_Delimitação_86808_REN_15.jpg](https://ssaigt.dgterritorio.pt/ir/Carta_de_Delimitação_86808_REN_15.jpg)
+
+619943392

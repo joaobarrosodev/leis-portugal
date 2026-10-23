@@ -3,7 +3,7 @@ schema_version: '1.0'
 id: pt:dre:915788439:por
 title: Declaração de Retificação n.º 417/2025/2
 short_title: null
-summary: Retifica o Despacho n.º 3930/2025, publicado no Diário da República, 2.ª série, n.º 62, de 28 de março de 2025.
+summary: Retifica o Despacho n.º 3930/2025, publicado no  Diário da República, 2.ª série, n.º 62, de 28 de março de 2025.
 jurisdiction: portugal
 territory: null
 document_type: declaracao-retificacao
@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/2s/2025/04/079000000/0028600286.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -46,18 +46,18 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/declaracao-retificacao/417-2025-915788439
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2025-04-23T00:00:00Z'
+  retrieved_at: '2026-10-23T14:59:06Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: c52789dda1cfdeb885a5afc0832c08aa1873fdafba200d554138b9ed347ef01f
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 73526976eb29385ab7da6514fb1aea06af0ae84b35769bb703db0dcf92be5030
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T14:59:06Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -69,13 +69,13 @@ relationships: []
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T14:59:06Z'
   warnings: []
   errors: []
 ---
@@ -91,3 +91,5 @@ deve ler-se:
 «Sumário: Homologação da lista definitiva de ordenação final do concurso documental de promoção à categoria de professor coordenador para a área disciplinar de Gestão.»
 
 8 de abril de 2025. - O Presidente do Instituto Politécnico de Lisboa, Prof. Doutor António José da Cruz Belo.
+
+318960751

@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/2s/2026/02/035000000/0012600126.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -47,18 +47,18 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/declaracao-retificacao/138-2026-1051704517
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2026-02-19T00:00:00Z'
+  retrieved_at: '2026-10-23T15:02:47Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: c53fe86ef0dc594a9f540c8fc5a56bc26a0d3c0d0b2281fdd1cfa211f0cd490c
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: f5365cc828f6f25a23c2854cdd226ecf3d248f21a71d6c186978cc92b05300c7
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:02:47Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -70,13 +70,13 @@ relationships: []
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:02:47Z'
   warnings: []
   errors: []
 ---
@@ -88,3 +88,5 @@ Retifica o Despacho n.º 1361/2026, de 30 de janeiro, publicado no Diário da Re
 Por ter sido publicado com lapso de escrita o Despacho n.º 1361/2026, de 30 de janeiro, no Diário da República, 2.ª série, n.º 25, de 5 de fevereiro de 2026, referente à aprovação do equipamento leitor de matrículas, marca Tattile, modelo Vega 53, para uso no controlo do trânsito, retifica-se que, no último parágrafo do referido despacho, onde se lê «Veja 53» deve ler-se «Vega 53».
 
 12 de fevereiro de 2026. - O Presidente da Autoridade Nacional de Segurança Rodoviária, Pedro José Lopes Clemente.
+
+319964425

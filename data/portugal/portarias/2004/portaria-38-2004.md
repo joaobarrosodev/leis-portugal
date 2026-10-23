@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/38/2004/01/12/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/38-2004-240993
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2004-09-02T00:00:00Z'
+  retrieved_at: '2026-10-23T14:58:50Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 4c8ab328adf975deac741d8c2445dd487ff0dc0e3d7c831f90651e10f0b47e45
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: af9184af92bac9f5f9a50b5b20ac57c0a3c5cb3b346b60b546ff1ea43b02b8f4
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T14:58:50Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,19 +67,25 @@ reuse:
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
 - Bacharelato
-- Plano de Estudos
+- Castelo Branco
+- Ensino Superior
 - Ensino Superior Politécnico
 - Escola Superior de Gestão
 - Idanha-a-nova
 - Instituto Politécnico
 - Licenciatura
-- Castelo Branco
-- Ensino Superior
+- Plano de Estudos
 relationships:
 - type: amended_by
   target: pt:dre:623446:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:623446:por
+  label: "Alterado o quadro nº 5 do anexo da Port 1182/2003 de 08-Out , com a redacção dada pelo presente diploma, pela PORT.1099/2004.02.09.2004.MCIES,\
+    \ DR.IS-B [207] de 02.09.2004\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/1099-2004-623446
+  date: '2004-09-02'
 - type: cites
   target: eli:http://data.dre.pt/eli/lei/115/1997/09/19/p/dre
   label: null
@@ -108,16 +114,56 @@ relationships:
   target: eli:http://data.dre.pt/eli/port/863-b/2002/07/20/p/dre
   label: null
   source: http://data.dre.pt/eli/port/863-b/2002/07/20/p/dre
+- type: cites
+  target: pt:dre:147873:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:222418:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:283353:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:429596:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:453184:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:482468:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:556606:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:593710:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:645502:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:653145:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T14:58:50Z'
   warnings: []
   errors: []
 ---
@@ -166,7 +212,7 @@ Aplicação
 
 O disposto no presente diploma aplica-se a partir do ano lectivo de 2003-2004, inclusive.
 
-**A Ministra da Ciência e do Ensino Superior, Maria da Graça Martins da Silva Carvalho, em 12 de Dezembro de 2003.**
+A Ministra da Ciência e do Ensino Superior, Maria da Graça Martins da Silva Carvalho, em 12 de Dezembro de 2003.
 
 ## ANEXO — ([Portaria n.º 1182/2003](https://diariodarepublica.pt/dr/detalhe/portaria/1182-2003-482468), de 8 de Outubro - alteração)
 
@@ -182,37 +228,37 @@ QUADRO N.º 1
 
 1.º semestre
 
-[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2004/01/009b00/02070209.pdf)
+[[[[[[[[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2004/01/009b00/02070209.pdf)](https://files.diariodarepublica.pt/1s/2004/01/009b00/02070209.pdf)](https://files.diariodarepublica.pt/1s/2004/01/009b00/02070209.pdf)](https://files.diariodarepublica.pt/1s/2004/01/009b00/02070209.pdf)](https://files.diariodarepublica.pt/1s/2004/01/009b00/02070209.pdf)](https://files.diariodarepublica.pt/1s/2004/01/009b00/02070209.pdf)](https://files.diariodarepublica.pt/1s/2004/01/009b00/02070209.pdf)](https://files.diariodarepublica.pt/1s/2004/01/009b00/02070209.pdf)
 
 QUADRO N.º 2
 
 2.º semestre
 
-[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2004/01/009b00/02070209.pdf)
+[[[[[[[[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2004/01/009b00/02070209.pdf)](https://files.diariodarepublica.pt/1s/2004/01/009b00/02070209.pdf)](https://files.diariodarepublica.pt/1s/2004/01/009b00/02070209.pdf)](https://files.diariodarepublica.pt/1s/2004/01/009b00/02070209.pdf)](https://files.diariodarepublica.pt/1s/2004/01/009b00/02070209.pdf)](https://files.diariodarepublica.pt/1s/2004/01/009b00/02070209.pdf)](https://files.diariodarepublica.pt/1s/2004/01/009b00/02070209.pdf)](https://files.diariodarepublica.pt/1s/2004/01/009b00/02070209.pdf)
 
 QUADRO N.º 3
 
 3.º semestre
 
-[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2004/01/009b00/02070209.pdf)
+[[[[[[[[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2004/01/009b00/02070209.pdf)](https://files.diariodarepublica.pt/1s/2004/01/009b00/02070209.pdf)](https://files.diariodarepublica.pt/1s/2004/01/009b00/02070209.pdf)](https://files.diariodarepublica.pt/1s/2004/01/009b00/02070209.pdf)](https://files.diariodarepublica.pt/1s/2004/01/009b00/02070209.pdf)](https://files.diariodarepublica.pt/1s/2004/01/009b00/02070209.pdf)](https://files.diariodarepublica.pt/1s/2004/01/009b00/02070209.pdf)](https://files.diariodarepublica.pt/1s/2004/01/009b00/02070209.pdf)
 
 QUADRO N.º 4
 
 4.º semestre
 
-[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2004/01/009b00/02070209.pdf)
+[[[[[[[[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2004/01/009b00/02070209.pdf)](https://files.diariodarepublica.pt/1s/2004/01/009b00/02070209.pdf)](https://files.diariodarepublica.pt/1s/2004/01/009b00/02070209.pdf)](https://files.diariodarepublica.pt/1s/2004/01/009b00/02070209.pdf)](https://files.diariodarepublica.pt/1s/2004/01/009b00/02070209.pdf)](https://files.diariodarepublica.pt/1s/2004/01/009b00/02070209.pdf)](https://files.diariodarepublica.pt/1s/2004/01/009b00/02070209.pdf)](https://files.diariodarepublica.pt/1s/2004/01/009b00/02070209.pdf)
 
 QUADRO N.º 5
 
 5.º semestre
 
-[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2004/01/009b00/02070209.pdf)
+[[[[[[[[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2004/01/009b00/02070209.pdf)](https://files.diariodarepublica.pt/1s/2004/01/009b00/02070209.pdf)](https://files.diariodarepublica.pt/1s/2004/01/009b00/02070209.pdf)](https://files.diariodarepublica.pt/1s/2004/01/009b00/02070209.pdf)](https://files.diariodarepublica.pt/1s/2004/01/009b00/02070209.pdf)](https://files.diariodarepublica.pt/1s/2004/01/009b00/02070209.pdf)](https://files.diariodarepublica.pt/1s/2004/01/009b00/02070209.pdf)](https://files.diariodarepublica.pt/1s/2004/01/009b00/02070209.pdf)
 
 QUADRO N.º 6
 
 6.º semestre
 
-[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2004/01/009b00/02070209.pdf)
+[[[[[[[[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2004/01/009b00/02070209.pdf)](https://files.diariodarepublica.pt/1s/2004/01/009b00/02070209.pdf)](https://files.diariodarepublica.pt/1s/2004/01/009b00/02070209.pdf)](https://files.diariodarepublica.pt/1s/2004/01/009b00/02070209.pdf)](https://files.diariodarepublica.pt/1s/2004/01/009b00/02070209.pdf)](https://files.diariodarepublica.pt/1s/2004/01/009b00/02070209.pdf)](https://files.diariodarepublica.pt/1s/2004/01/009b00/02070209.pdf)](https://files.diariodarepublica.pt/1s/2004/01/009b00/02070209.pdf)
 
 2.º ciclo - Grau de licenciado
 
@@ -220,10 +266,10 @@ QUADRO N.º 7
 
 1.º semestre
 
-[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2004/01/009b00/02070209.pdf)
+[[[[[[[[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2004/01/009b00/02070209.pdf)](https://files.diariodarepublica.pt/1s/2004/01/009b00/02070209.pdf)](https://files.diariodarepublica.pt/1s/2004/01/009b00/02070209.pdf)](https://files.diariodarepublica.pt/1s/2004/01/009b00/02070209.pdf)](https://files.diariodarepublica.pt/1s/2004/01/009b00/02070209.pdf)](https://files.diariodarepublica.pt/1s/2004/01/009b00/02070209.pdf)](https://files.diariodarepublica.pt/1s/2004/01/009b00/02070209.pdf)](https://files.diariodarepublica.pt/1s/2004/01/009b00/02070209.pdf)
 
 QUADRO N.º 8
 
 2.º semestre
 
-[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2004/01/009b00/02070209.pdf)
+[[[[[[[[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2004/01/009b00/02070209.pdf)](https://files.diariodarepublica.pt/1s/2004/01/009b00/02070209.pdf)](https://files.diariodarepublica.pt/1s/2004/01/009b00/02070209.pdf)](https://files.diariodarepublica.pt/1s/2004/01/009b00/02070209.pdf)](https://files.diariodarepublica.pt/1s/2004/01/009b00/02070209.pdf)](https://files.diariodarepublica.pt/1s/2004/01/009b00/02070209.pdf)](https://files.diariodarepublica.pt/1s/2004/01/009b00/02070209.pdf)](https://files.diariodarepublica.pt/1s/2004/01/009b00/02070209.pdf)

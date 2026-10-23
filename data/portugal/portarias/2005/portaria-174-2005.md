@@ -48,18 +48,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/174/2005/02/14/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/174-2005-596287
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2005-02-14T00:00:00Z'
+  retrieved_at: '2026-10-23T15:04:41Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 8ea1eca3140fa2a4ec571b8933776fb0c6e5b167ac5eb6a420fb79b184a3cdda
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 2ddaa1ccd823338652bf7738166be08e656de7f9197d6e5de63abc98f9ba1c7e
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:04:41Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -69,26 +69,30 @@ reuse:
 subjects:
 - Aquisição de Bens e Serviços
 - Autorização de Despesas
-- Instituto do Emprego e Formação Profissional
-- Formação Profissional
 - Concurso Internacional
 - Concurso Público
+- Formação Profissional
+- Instituto do Emprego e Formação Profissional
 - Política de Emprego
 relationships:
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/197/1999/06/08/p/dre
   label: null
   source: http://data.dre.pt/eli/dec-lei/197/1999/06/08/p/dre
+- type: cites
+  target: pt:dre:311259:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:04:41Z'
   warnings: []
   errors: []
 ---

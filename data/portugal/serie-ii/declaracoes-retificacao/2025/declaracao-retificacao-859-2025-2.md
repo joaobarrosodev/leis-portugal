@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/2s/2025/09/177000000/0018600194.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -46,18 +46,18 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/declaracao-retificacao/859-2025-935306780
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2025-09-15T00:00:00Z'
+  retrieved_at: '2026-10-23T15:01:43Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 55c0236126108638febc9c6c5be89a3a1e2019162382c254548c634e1bff855e
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: f62f3187c1a6dc468ba26c8fe805326338a6038de1473b677eefff91b37c49a8
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:01:43Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -65,17 +65,29 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects: []
-relationships: []
+relationships:
+- type: cites
+  target: pt:dre:116068880:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:671387:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:928163024:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:01:43Z'
   warnings: []
   errors: []
 ---
@@ -216,11 +228,11 @@ Onde se lê:
 
 Nota. - Os casos omissos, não previstos ou excecionais são resolvidos mediante deliberação do Conselho de Gestão.
 
-(<sup>1</sup>) Exemplo: Se o dia da avaliação for 14/02, o estudante poderá inscrever-se até ao final do dia 11/02 (sem pagar taxa adicional).
+(1) Exemplo: Se o dia da avaliação for 14/02, o estudante poderá inscrever-se até ao final do dia 11/02 (sem pagar taxa adicional).
 
-(<sup>2</sup>) Ao abrigo do artigo 17.º e do artigo 30.º do [Decreto-Lei n.º 74/2006](https://diariodarepublica.pt/dr/detalhe/decreto-lei/74-2006-671387), de 24 de março, na atual redação.
+(2) Ao abrigo do artigo 17.º e do artigo 30.º do [Decreto-Lei n.º 74/2006](https://diariodarepublica.pt/dr/detalhe/decreto-lei/74-2006-671387), de 24 de março, na atual redação.
 
-(<sup>3</sup>) Em caso de provimento da reclamação/recurso/revisão será devolvida a taxa correspondente à última impugnação.»
+(3) Em caso de provimento da reclamação/recurso/revisão será devolvida a taxa correspondente à última impugnação.»
 
 deve ler-se:
 
@@ -288,7 +300,7 @@ deve ler-se:
 | 5 | Pedido de creditação: |  |
 | 5.1 | Pedido de creditação de unidades curriculares (pago no ato do pedido) | 35,00 € |
 | 5.2 | Por cada unidade curricular creditada, até ao limite total de 150 € | 15,00 € |
-| 5.3 | Pedido de reconhecimento curricular para candidatura a curso de Mestrado e Doutoramento (<sup>b</sup>) | 80,00 € |
+| 5.3 | Pedido de reconhecimento curricular para candidatura a curso de Mestrado e Doutoramento (b) | 80,00 € |
 | 5.4 | Pedido de reconhecimento curricular para candidatura a curso de pós-doutoramento | 80,00 € |
 | 6 | Pedido de definição prévia para efeito de prosseguimento de estudos: |  |
 | 6.1 | Do curriculum | 220,00 € |
@@ -297,7 +309,7 @@ deve ler-se:
 | 7.1. | Taxa de candidatura às provas para a atribuição do título de especialista: |  |
 | a) | No ato de entrega do requerimento de candidatura | 110,00 € |
 | b) | O valor restante, 48 horas após notificação da composição do júri ao candidato | 990,00 € |
-| 8 | Reclamações e recursos (<sup>c</sup>): |  |
+| 8 | Reclamações e recursos (c): |  |
 | 8.1 | Reclamação/revisão de prova | 35,00 € |
 | 8.2 | Recurso/revisão de prova | 55,00 € |
 | 8.3 | Outras reclamações e recursos previstos regulamentarmente | 35,00 € |
@@ -354,10 +366,14 @@ deve ler-se:
 
 Nota. - Os casos omissos, não previstos ou excecionais, são resolvidos mediante deliberação do Conselho de Gestão.
 
-(<sup>a</sup>) Exemplo: Se o dia da avaliação for 14/02, o estudante poderá inscrever-se até ao final do dia 11/02 (sem pagar taxa adicional).
+(a) Exemplo: Se o dia da avaliação for 14/02, o estudante poderá inscrever-se até ao final do dia 11/02 (sem pagar taxa adicional).
 
-(<sup>b</sup>) Ao abrigo do artigo 17.º e do artigo 30.º do [Decreto-Lei n.º 74/2006](https://diariodarepublica.pt/dr/detalhe/decreto-lei/74-2006-671387), de 24 de março, na atual redação.
+(b) Ao abrigo do artigo 17.º e do artigo 30.º do [Decreto-Lei n.º 74/2006](https://diariodarepublica.pt/dr/detalhe/decreto-lei/74-2006-671387), de 24 de março, na atual redação.
 
-(<sup>c</sup>) Em caso de provimento da reclamação/recurso/revisão será devolvida a taxa correspondente à última impugnação.»
+(c) Em caso de provimento da reclamação/recurso/revisão será devolvida a taxa correspondente à última impugnação.»
 
 1 de setembro de 2025. - O Presidente do Instituto Politécnico de Viseu, José dos Santos Costa.
+
+319503548
+
+.Tbl2 { height:26px; } .Tbl3 { border-bottom-color:rgb(0,0,0); border-top-color:rgb(0,0,0); border-left-width:0px; border-top-width:1px; border-right-width:1px; border-top-style:solid; border-bottom-width:1px; border-bottom-style:solid; border-right-style:solid; border-right-color:rgb(0,0,0); border-left-style:solid; vertical-align:middle; } .Tbl4 { text-indent:0px; text-align:center; } .Tbl5 { border-bottom-color:rgb(0,0,0); border-top-color:rgb(0,0,0); border-left-width:1px; border-top-width:1px; border-right-width:1px; border-top-style:solid; border-left-color:rgb(0,0,0); border-bottom-width:1px; border-bottom-style:solid; border-right-style:solid; border-right-color:rgb(0,0,0); border-left-style:solid; vertical-align:middle; } .Tbl6 { border-bottom-color:rgb(0,0,0); border-top-color:rgb(0,0,0); border-left-width:1px; border-top-width:1px; border-right-width:0px; border-top-style:solid; border-left-color:rgb(0,0,0); border-bottom-width:1px; border-bottom-style:solid; border-right-style:solid; border-left-style:solid; vertical-align:middle; } .Tbl7 { min-height:18px; } .Tbl8 { border-bottom-color:rgb(0,0,0); border-top-color:rgb(0,0,0); border-left-width:0px; border-top-width:1px; border-right-width:1px; border-top-style:solid; border-bottom-width:1px; border-bottom-style:solid; border-right-style:solid; border-right-color:rgb(0,0,0); border-left-style:solid; } .Tbl9 { text-indent:0px; } .Tbl10 { border-bottom-color:rgb(0,0,0); border-top-color:rgb(0,0,0); border-left-width:1px; border-top-width:1px; border-right-width:1px; border-top-style:solid; border-left-color:rgb(0,0,0); border-bottom-width:1px; border-bottom-style:solid; border-right-style:solid; border-right-color:rgb(0,0,0); border-left-style:solid; } .Tbl11 { border-bottom-color:rgb(0,0,0); border-top-color:rgb(0,0,0); border-left-width:1px; border-top-width:1px; border-right-width:0px; border-top-style:solid; border-left-color:rgb(0,0,0); border-bottom-width:1px; border-bottom-style:solid; border-right-style:solid; border-left-style:solid; } .Tbl12 { min-height:27px; } .Tbl13 { min-height:36px; } .Tbl14 { min-height:19px; } .Tbl15 { min-height:30px; } .Tbl16 { min-height:37px; } .Tbl17 { min-height:46px; } .Tbl18 { min-height:66px; } .Tbl19 { min-height:28px; } .Tbl20 { min-height:39px; } .Tbl21 { min-height:29px; } .Tbl22 { min-height:38px; } .Tbl23 { min-height:48px; }

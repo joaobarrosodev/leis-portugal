@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2005/02/023b00/08580860.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/131/2005/02/02/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/131-2005-619753
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2023-02-27T00:00:00Z'
+  retrieved_at: '2026-10-23T15:04:19Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: fdfa2c6e46e5eab8c52caa779df21be92de41907be935f60dadf45302a05ba85
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 1f7f76f170c59adeb71ba9d31fa00ecafeef8ceab599d83bc8a3971e1eb21f80
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:04:19Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,33 +66,48 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Produto Alimentar
 - Controlo de Qualidade
 - Direcção Geral de Protecção das Culturas
 - Fiscalização
 - Instituto de Desenvolvimento Rural e Hidráulica
+- Produto Agrícola
+- Produto Alimentar
 - Protecção Integrada das Culturas
 - Regulamento
-- Produto Agrícola
 relationships:
 - type: amended_by
   target: pt:dre:207942909:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:490451:por
+  label: "Mantida em vigor, pelo DEC LEI.256/2009.24.09.2009.MADRP, DR.IS [186] de 24.09.2009\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/256-2009-490451
+  date: '2009-09-24'
 - type: cites
   target: celex:31991R2092
   label: null
   source: http://data.europa.eu/eli/reg/1991/2092/oj
+- type: corrected_by
+  target: pt:dre:568363:por
+  label: "Rectificada pela DECL-RECT.27/2005.24.03.2005.PCM, DR.IS-B [68] de 07.04.2005\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/declaracao-rectificacao/27-2005-568363
+  date: '2005-03-24'
+- type: repealed_by
+  target: pt:dre:207942909:por
+  label: Revogada pelo(a) Portaria n.º 54-O/2023 - Diário da República n.º 41/2023, 1º Suplemento, Série I de 2023-02-27
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/54-o-2023-207942909
+  date: '2023-02-27'
 article_structure:
   article_count: 7
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:04:19Z'
   warnings: []
   errors: []
 ---
@@ -137,7 +152,7 @@ Norma revogatória
 
 São revogadas a portaria n.º 731/98 (2.ª série), de 3 de Agosto, e a Portaria n.º 61/2001, de 30 de Janeiro.
 
-**O Ministro da Agricultura, Pescas e Florestas, Carlos Henrique da Costa Neves, em 10 de Janeiro de 2005.**
+O Ministro da Agricultura, Pescas e Florestas, Carlos Henrique da Costa Neves, em 10 de Janeiro de 2005.
 
 ## ANEXO
 

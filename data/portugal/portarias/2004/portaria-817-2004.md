@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/817/2004/07/16/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/817-2004-527458
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2004-07-16T00:00:00Z'
+  retrieved_at: '2026-10-23T15:01:30Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: bc50e28c7e25eb94c82034021e003abae9e39829978e3e5b754d7863f1eaca72
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: d892d039404abe43bea48cf080ba5890a8bc200775ac35088a186df12cc2c42f
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:01:30Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -65,30 +65,34 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Publicidade
-- Instituto do Consumidor
-- Imoppi
-- LNEC
-- Laboratório Nacional de Engenharia Civil
-- Informação do Consumidor
-- Proteção do Consumidor
 - Habitação
+- Imoppi
+- Informação do Consumidor
+- Instituto do Consumidor
+- Laboratório Nacional de Engenharia Civil
+- LNEC
 - Prédio Urbano
+- Proteção do Consumidor
+- Publicidade
 relationships:
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/68/2004/03/25/p/dre
   label: null
   source: http://data.dre.pt/eli/dec-lei/68/2004/03/25/p/dre
+- type: cites
+  target: pt:dre:211028:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:01:30Z'
   warnings: []
   errors: []
 ---
@@ -127,6 +131,6 @@ Manda o Governo, pelos Ministros Adjunto do Primeiro-Ministro, da Economia e das
 
 Em 5 de Julho de 2004.
 
-**O Ministro Adjunto do Primeiro-Ministro, José Luís Fazenda Arnaut Duarte. - O Ministro da Economia, Carlos Manuel Tavares da Silva. - O Ministro das Obras Públicas, Transportes e Habitação, António Pedro de Nobre Carmona Rodrigues.**
+O Ministro Adjunto do Primeiro-Ministro, José Luís Fazenda Arnaut Duarte. - O Ministro da Economia, Carlos Manuel Tavares da Silva. - O Ministro das Obras Públicas, Transportes e Habitação, António Pedro de Nobre Carmona Rodrigues.
 
 ## ANEXO — [(ver modelo no documento original)](https://files.diariodarepublica.pt/1s/2004/07/166b00/43474357.pdf)

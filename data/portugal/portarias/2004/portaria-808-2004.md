@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/808/2004/07/13/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/808-2004-526801
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2004-07-13T00:00:00Z'
+  retrieved_at: '2026-10-23T15:01:25Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 7c3d8c249492da662bd5a0b979a6309b7542ec7b9a56ba0e2ec9b80b924bb719
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: fed408db21a5c31de1fcf7cd9b332a5679ff11b7ee451d29965131c01e371920
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:01:25Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -68,15 +68,15 @@ reuse:
 subjects:
 - Almada
 - Educação Especial
-- Formação Profissional
-- Plano de Estudos
-- Formação de Professores
 - Ensino Particular
+- Ensino Superior
 - Escola Superior de Educação JEAN Piaget
 - Formação Complementar
+- Formação de Professores
+- Formação Profissional
 - Licenciatura
 - Numerus Clausus
-- Ensino Superior
+- Plano de Estudos
 relationships:
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/16/1994/01/22/p/dre
@@ -102,16 +102,48 @@ relationships:
   target: eli:http://data.dre.pt/eli/port/760-a/1998/09/14/p/dre
   label: null
   source: http://data.dre.pt/eli/port/760-a/1998/09/14/p/dre
+- type: cites
+  target: pt:dre:150335:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:180474:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:187955:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:302098:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:356477:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:438070:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:512030:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:533820:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:01:25Z'
   warnings: []
   errors: []
 ---
@@ -176,7 +208,7 @@ Condicionamento
 
 A autorização e o reconhecimento operados pelo presente diploma não prejudicam, sob pena de revogação do mesmo, a obrigação dos órgãos responsáveis da entidade instituidora e do estabelecimento de ensino do cumprimento de eventuais adaptações ou correcções que sejam determinadas pelo Ministério da Ciência e do Ensino Superior, quer por não cumprimento dos pressupostos de autorização e reconhecimento quer em consequência das acções previstas no artigo 75.º do referido Estatuto do Ensino Superior Particular e Cooperativo.
 
-**A Ministra da Ciência e do Ensino Superior, Maria da Graça Martins da Silva Carvalho, em 25 de Junho de 2004.**
+A Ministra da Ciência e do Ensino Superior, Maria da Graça Martins da Silva Carvalho, em 25 de Junho de 2004.
 
 ## ANEXO — Escola Superior de Educação Jean Piaget de Almada
 

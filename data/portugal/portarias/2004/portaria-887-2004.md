@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/887/2004/07/21/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/887-2004-505653
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2005-09-26T00:00:00Z'
+  retrieved_at: '2026-10-23T15:01:53Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: c0c025b9fbcc606dc3236098219a9c41c8cc7e83092fa9870c8581c4774e3327
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: eb5e26cbbe75d07943fc4dbd8cd56124fabaf642405145ee2da19599889a9513
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:01:53Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -71,6 +71,13 @@ relationships:
   target: pt:dre:147615:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:147615:por
+  label: "Extinto a partir de 27.09.2005 o curso profissional de Técnico de Gás, criado pelo presente diploma, que é revogado\
+    \ pela PORT.902/2005.26.09.2005.ME, DR.IS-B [185] de 26.09.2005, sem prejuízo do disposto no nº 8º da citada portaria\0\
+    \0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/902-2005-147615
+  date: '2005-09-26'
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/74/2004/03/26/p/dre
   label: null
@@ -87,16 +94,32 @@ relationships:
   target: eli:http://data.dre.pt/eli/port/550-c/2004/05/21/p/dre
   label: null
   source: http://data.dre.pt/eli/port/550-c/2004/05/21/p/dre
+- type: cites
+  target: pt:dre:179795:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:210801:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:238849:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:345920:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:01:53Z'
   warnings: []
   errors: []
 ---
@@ -135,7 +158,7 @@ Manda o Governo, pelo Ministro da Educação, o seguinte:
 
 8.º Aos alunos que concluírem com aproveitamento o presente curso profissional será atribuído um diploma de conclusão do nível secundário de educação e um certificado de qualificação profissional de nível 3, de acordo com o previsto no artigo 15.º do [Decreto-Lei n.º 74/2004](https://diariodarepublica.pt/dr/detalhe/decreto-lei/74-2004-210801), de 26 de Março, e no artigo 33.º da [Portaria n.º 550-C/2004](https://diariodarepublica.pt/dr/detalhe/portaria/550-c-2004-238849), de 21 de Maio.
 
-**O Ministro da Educação, José David Gomes Justino, em 30 de Junho de 2004.**
+O Ministro da Educação, José David Gomes Justino, em 30 de Junho de 2004.
 
 ## ANEXO N.º 1 — Plano de estudos do curso profissional de técnico de gás
 

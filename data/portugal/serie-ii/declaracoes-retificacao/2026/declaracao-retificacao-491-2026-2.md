@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/2s/2026/06/108000000/0049800502.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -47,18 +47,18 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/declaracao-retificacao/491-2026-1129893557
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2026-06-05T00:00:00Z'
+  retrieved_at: '2026-10-23T15:04:54Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 83161d60961eb56c7c90829788d500d983960520aca9a8fffe1f105fff7ce160
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 51964c10e992aace863b6ac510509699cac0cacad314a9482faae28c001c1eb7
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:04:54Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,24 +66,40 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects: []
-relationships: []
+relationships:
+- type: cites
+  target: pt:dre:1093636539:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:204734601:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:205457496:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:684065:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:04:54Z'
   warnings: []
   errors: []
 ---
 
 # Declaração de Retificação n.º 491/2026/2
 
-Para os devidos efeitos, observado o disposto nos n.<sup>os</sup>2, 3, 4, 6 e 7 do artigo 11.º do Regulamento de Publicação de Atos no Diário da República, aprovado pelo [Despacho Normativo n.º 16/2022](https://diariodarepublica.pt/dr/detalhe/despacho-normativo/16-2022-205457496), de 30 de dezembro, no uso de competência delegada pelo conselho de administração da Imprensa Nacional-Casa da Moeda, SA, em 30 de abril de 2026, e obtido parecer favorável da entidade emitente, declara-se que a [Deliberação n.º 502/2026](https://diariodarepublica.pt/dr/detalhe/deliberacao/502-2026-1093636539), publicada no Diário da República, 2.ª série, n.º 81, de 27 de abril de 2026, referente à delegação de competências nos membros do conselho de administração da Unidade Local de Saúde do Alentejo Central, E. P. E., saiu com inexatidões no texto, pelo que se procede à sua retificação nos seguintes termos:
+Para os devidos efeitos, observado o disposto nos n.os2, 3, 4, 6 e 7 do artigo 11.º do Regulamento de Publicação de Atos no Diário da República, aprovado pelo [Despacho Normativo n.º 16/2022](https://diariodarepublica.pt/dr/detalhe/despacho-normativo/16-2022-205457496), de 30 de dezembro, no uso de competência delegada pelo conselho de administração da Imprensa Nacional-Casa da Moeda, SA, em 30 de abril de 2026, e obtido parecer favorável da entidade emitente, declara-se que a [Deliberação n.º 502/2026](https://diariodarepublica.pt/dr/detalhe/deliberacao/502-2026-1093636539), publicada no Diário da República, 2.ª série, n.º 81, de 27 de abril de 2026, referente à delegação de competências nos membros do conselho de administração da Unidade Local de Saúde do Alentejo Central, E. P. E., saiu com inexatidões no texto, pelo que se procede à sua retificação nos seguintes termos:
 
 Onde se lê:
 
@@ -223,7 +239,7 @@ d) Assinar ou visar a correspondência relacionada com a atividade corrente do S
 
 e) Promover a adequada gestão do parque de viaturas oficiais de acordo com o Regulamento em vigor, assegurando a existência de um registo atualizado de utilização e controlo dos encargos (nomeadamente, combustíveis, portagens e manutenções) de modo a garantir a sua permanente operacionalização e resposta às necessidades da ULS do Alentejo Central;
 
-f) Autorizar, em casos devidamente justificados e mediante adequada fundamentação, a condução de viaturas oficiais em serviço por parte dos trabalhadores, de acordo com o regime previsto nos n.<sup>os</sup> 1 e 2 do artigo 2.º do [Decreto-Lei n.º 490/99](https://diariodarepublica.pt/dr/detalhe/decreto-lei/490-1999-684065), de 17 de novembro, na redação conferida pelo [Decreto-Lei n.º 84-E/2022](https://diariodarepublica.pt/dr/detalhe/decreto-lei/84-e-2022-204734601), de 14 de dezembro.»
+f) Autorizar, em casos devidamente justificados e mediante adequada fundamentação, a condução de viaturas oficiais em serviço por parte dos trabalhadores, de acordo com o regime previsto nos n.os 1 e 2 do artigo 2.º do [Decreto-Lei n.º 490/99](https://diariodarepublica.pt/dr/detalhe/decreto-lei/490-1999-684065), de 17 de novembro, na redação conferida pelo [Decreto-Lei n.º 84-E/2022](https://diariodarepublica.pt/dr/detalhe/decreto-lei/84-e-2022-204734601), de 14 de dezembro.»
 
 Onde se lê:
 
@@ -286,3 +302,5 @@ c) Acompanhar a execução dos projetos financiados, assegurando os trâmites ap
 d) Assinar ou visar a correspondência relacionada com a atividade do Serviço de Instalações e Equipamentos que seja necessária submeter a entidades e organismos públicos, com exceção da endereçada aos órgãos da Tutela e gabinetes ministeriais.»
 
 28 de maio de 2026. - O Diretor da Unidade do Diário da República da Imprensa Nacional-Casa da Moeda, SA, Bruno Pereira.
+
+100000453

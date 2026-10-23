@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/2s/2026/01/004000000/0018300185.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -46,36 +46,52 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/declaracao-retificacao/17-2026-998612387
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2026-01-07T00:00:00Z'
+  retrieved_at: '2026-10-23T15:02:58Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: d1b7386054a00963035d55a71d072bfe10663f9a0fa70ffafa1a222f48909d27
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: ac0417afb22e2c18ef017ed7859d5ffa87d87d18fbdf80fca4adbba513d3ad52
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:02:58Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
-relationships: []
+subjects:
+- Distribuição de Energia Elétrica
+- Energia
+- Energia Elétrica
+- Entidade Reguladora dos Serviços Energéticos
+- Preço
+- Regulamento Tarifário
+relationships:
+- type: cites
+  target: pt:dre:944873898:por
+  label: null
+  source: null
+- type: corrects
+  target: pt:numero:regulamento:1218/2025
+  label: Retifica o artigo 152.º, 154.º e n.º 1 do artigo 161.º do Regulamento n.º 1218/2025, de 7 de novembro, Diário da
+    República n.º 216/2025, Série II
+  source: null
+  date: '2025-11-07'
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:02:58Z'
   warnings: []
   errors: []
 ---
@@ -86,74 +102,82 @@ Para os devidos efeitos, declara-se que o [Regulamento n.º 1218/2025](https://d
 
 No artigo 152.º, onde se lê:
 
-«O incentivo à atribuição de capacidade de injeção na RND, na modalidade de acesso com restrições (I<sub>ACR_inj URD</sub>) é determinado da seguinte forma:
+«O incentivo à atribuição de capacidade de injeção na RND, na modalidade de acesso com restrições (IACR_inj URD) é determinado da seguinte forma:
 
-![](https://files.diariodarepublica.pt/images/998612387/998612265.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/998612387/998612265.png) |
+| --- |
 
 em que:
 
-DT<sub>ACRinj, t-2</sub> Indicador Desempenho Técnico da RND, que reflete a performance da RND em termos de atribuição de capacidade de injeção na RND, na modalidade de acesso com restrições, referente ao ano t-2.
+DTACRinj, t-2 Indicador Desempenho Técnico da RND, que reflete a performance da RND em termos de atribuição de capacidade de injeção na RND, na modalidade de acesso com restrições, referente ao ano t-2.
 
-I<sub>ACR_inj URD, t-2</sub>Incentivo à atribuição de capacidade de injeção na RND, atribuída pelo ORD na modalidade de acesso com restrições, no ano t-2, mas cujas restrições, impostas pelo ORD ou pelo ORT, não excedam o limite máximo anual de horas (h<sub>t-2,max</sub>), em euros.»
+IACR_inj URD, t-2Incentivo à atribuição de capacidade de injeção na RND, atribuída pelo ORD na modalidade de acesso com restrições, no ano t-2, mas cujas restrições, impostas pelo ORD ou pelo ORT, não excedam o limite máximo anual de horas (ht-2,max), em euros.»
 
 deve ler-se:
 
-«O incentivo à atribuição de capacidade de injeção na RND, na modalidade de acesso com restrições (I<sub>ACR_inj URD, t-2</sub>) é determinado da seguinte forma:
+«O incentivo à atribuição de capacidade de injeção na RND, na modalidade de acesso com restrições (IACR_inj URD, t-2) é determinado da seguinte forma:
 
-![](https://files.diariodarepublica.pt/images/998612387/998612266.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/998612387/998612266.png) |
+| --- |
 
 em que:
 
-DT<sub>ACRinj, t-2</sub> Indicador Desempenho Técnico da RND, que reflete a performance da RND em termos de atribuição de capacidade de injeção na RND, na modalidade de acesso com restrições, referente ao ano t-2.
+DTACRinj, t-2 Indicador Desempenho Técnico da RND, que reflete a performance da RND em termos de atribuição de capacidade de injeção na RND, na modalidade de acesso com restrições, referente ao ano t-2.
 
-I<sub>ACR_inj URD max, t-2</sub>Valor máximo do incentivo à atribuição de capacidade de injeção na RND, atribuída pelo ORD na modalidade de acesso com restrições, no ano t-2, mas cujas restrições, impostas pelo ORD ou pelo ORT, não excedam o limite máximo anual de horas (h<sub>t-2, max</sub>), em euros.
+IACR_inj URD max, t-2Valor máximo do incentivo à atribuição de capacidade de injeção na RND, atribuída pelo ORD na modalidade de acesso com restrições, no ano t-2, mas cujas restrições, impostas pelo ORD ou pelo ORT, não excedam o limite máximo anual de horas (ht-2, max), em euros.
 
-I<sub>ACR_inj URD, t-2</sub>Incentivo à atribuição de capacidade de injeção na RND, atribuída pelo ORD na modalidade de acesso com restrições, no ano t-2, mas cujas restrições, impostas pelo ORD ou pelo ORT, não excedam o limite máximo anual de horas (h<sub>t-2, max</sub>), em euros.»
+IACR_inj URD, t-2Incentivo à atribuição de capacidade de injeção na RND, atribuída pelo ORD na modalidade de acesso com restrições, no ano t-2, mas cujas restrições, impostas pelo ORD ou pelo ORT, não excedam o limite máximo anual de horas (ht-2, max), em euros.»
 
 No artigo 154.º, onde se lê:
 
-«O incentivo à atribuição de capacidade da RND, na modalidade de acesso com restrições (I<sub>ACR_cons, t-2</sub>) é determinado da seguinte forma:
+«O incentivo à atribuição de capacidade da RND, na modalidade de acesso com restrições (IACR_cons, t-2) é determinado da seguinte forma:
 
-![](https://files.diariodarepublica.pt/images/998612387/998612267.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/998612387/998612267.png) |
+| --- |
 
 em que:
 
-DT<sub>ACR_cons, t-2</sub>Indicador Desempenho Técnico da RND, que reflete a performance da RND em termos de atribuição de capacidade para alimentação de consumos ligados à RND, na modalidade de acesso com restrições, referente ao ano t-2.
+DTACR_cons, t-2Indicador Desempenho Técnico da RND, que reflete a performance da RND em termos de atribuição de capacidade para alimentação de consumos ligados à RND, na modalidade de acesso com restrições, referente ao ano t-2.
 
-I<sub>ACR_cons URD, t-2</sub>Incentivo à atribuição de capacidade de alimentação de consumos ligados à RND, atribuída pelo ORD, no ano t-2, na modalidade de acesso com restrições, mas cujas restrições impostas pelo ORD ou pelo ORT, não excedam o limite máximo anual de horas (h<sub>t-2, max</sub>), em euros.»
+IACR_cons URD, t-2Incentivo à atribuição de capacidade de alimentação de consumos ligados à RND, atribuída pelo ORD, no ano t-2, na modalidade de acesso com restrições, mas cujas restrições impostas pelo ORD ou pelo ORT, não excedam o limite máximo anual de horas (ht-2, max), em euros.»
 
 deve ler-se:
 
-«O incentivo à atribuição de capacidade da RND, na modalidade de acesso com restrições (I<sub>ACR_cons, t-2</sub>) é determinado da seguinte forma:
+«O incentivo à atribuição de capacidade da RND, na modalidade de acesso com restrições (IACR_cons, t-2) é determinado da seguinte forma:
 
-![](https://files.diariodarepublica.pt/images/998612387/998612268.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/998612387/998612268.png) |
+| --- |
 
 em que:
 
-DT<sub>ACRcons, t-2</sub>Indicador Desempenho Técnico da RND, que reflete a performance da RND em termos de atribuição de capacidade para alimentação de consumos ligados à RND, na modalidade de acesso com restrições, referente ao ano t-2.
+DTACRcons, t-2Indicador Desempenho Técnico da RND, que reflete a performance da RND em termos de atribuição de capacidade para alimentação de consumos ligados à RND, na modalidade de acesso com restrições, referente ao ano t-2.
 
-I<sub>ACR_cons URD max, t-2</sub>Valor máximo do Incentivo à atribuição de capacidade de alimentação de consumos ligados à RND, atribuída pelo ORD, no ano t-2, na modalidade de acesso com restrições, mas cujas restrições impostas pelo ORD ou pelo ORT, não excedam o limite máximo anual de horas (h<sub>t-2, max</sub>), em euros.
+IACR_cons URD max, t-2Valor máximo do Incentivo à atribuição de capacidade de alimentação de consumos ligados à RND, atribuída pelo ORD, no ano t-2, na modalidade de acesso com restrições, mas cujas restrições impostas pelo ORD ou pelo ORT, não excedam o limite máximo anual de horas (ht-2, max), em euros.
 
-I<sub>ACR_cons URD, t-2</sub>Incentivo à atribuição de capacidade de alimentação de consumos ligados à RND, atribuída pelo ORD, no ano t-2, na modalidade de acesso com restrições, mas cujas restrições impostas pelo ORD ou pelo ORT, não excedam o limite máximo anual de horas (h<sub>t-2, max</sub>), em euros.»
+IACR_cons URD, t-2Incentivo à atribuição de capacidade de alimentação de consumos ligados à RND, atribuída pelo ORD, no ano t-2, na modalidade de acesso com restrições, mas cujas restrições impostas pelo ORD ou pelo ORT, não excedam o limite máximo anual de horas (ht-2, max), em euros.»
 
 No n.º 1 do artigo 161.º, onde se lê:
 
 «1 - O incentivo à melhoria do desempenho técnico da RNT para o ano t-2, é dado pelas seguintes expressões:
 
-![](https://files.diariodarepublica.pt/images/998612387/998612269.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/998612387/998612269.png) |
+| --- |
 
 em que:
 
-α<sub>i</sub>Peso relativo do indicador I<sub>i</sub>.»
+αiPeso relativo do indicador Ii.»
 
 deve ler-se:
 
 «1 - O incentivo à melhoria do desempenho técnico da RNT para o ano t-2, é dado pelas seguintes expressões:
 
-![](https://files.diariodarepublica.pt/images/998612387/998612270.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/998612387/998612270.png) |
+| --- |
 
 em que:
 
-<sub>α</sub><sub>i, t-2</sub>Peso relativo do indicador I<sub>i</sub>, relativo ao ano t-2.»
+αi, t-2Peso relativo do indicador Ii, relativo ao ano t-2.»
 
 23 de dezembro de 2025. - O Conselho de Administração: Pedro Verdelho, presidente - Ricardo Loureiro, vogal - Isabel Apolinário, vogal.
+
+319932079

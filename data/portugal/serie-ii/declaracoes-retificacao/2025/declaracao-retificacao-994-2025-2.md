@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/2s/2025/10/209000000/0025400254.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -47,18 +47,18 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/declaracao-retificacao/994-2025-942959402
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2025-10-29T00:00:00Z'
+  retrieved_at: '2026-10-23T15:02:32Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: c09825e89a2d49ace8a844eea186aec436f57ba236b0a910c526f7cf0a80e76f
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: c69296ea131da67a83c063e37eb6f7b5fa0f28f285220e79312efe8a0ff87cbb
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:02:32Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -70,13 +70,13 @@ relationships: []
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:02:32Z'
   warnings: []
   errors: []
 ---
@@ -87,12 +87,14 @@ Por ter sido publicado com inexatidão o Despacho n.º 12250/2025, no Diário da
 
 1) Onde se lê:
 
-«Considerando que o Instituto Superior de Ciências Sociais e Políticas da Universidade de Lisboa (ISCSP-ULisboa) pretende adquirir Serviços Informáticos, Inteligência Artificial e CCTV, com a empresa Pixeldecade Unipessoal, L.<sup>da</sup>, NIPC 515 885 487, num montante global EUR 398 988,00 (Trezentos e noventa e oito mil e novecentos e oitenta e oito euros), acrescido de IVA à taxa legal em vigor;»
+«Considerando que o Instituto Superior de Ciências Sociais e Políticas da Universidade de Lisboa (ISCSP-ULisboa) pretende adquirir Serviços Informáticos, Inteligência Artificial e CCTV, com a empresa Pixeldecade Unipessoal, L.da, NIPC 515 885 487, num montante global EUR 398 988,00 (Trezentos e noventa e oito mil e novecentos e oitenta e oito euros), acrescido de IVA à taxa legal em vigor;»
 
 deve ler-se:
 
-«Considerando que o Instituto Superior de Ciências Sociais e Políticas da Universidade de Lisboa (ISCSP-ULisboa) pretende adquirir Serviços Informáticos, Inteligência Artificial e CCTV, com a empresa Atelierlogico Sistemas Informáticos, L.<sup>da</sup>, NIPC 506346862, num montante global EUR 398 988,00 (Trezentos e noventa e oito mil e novecentos e oitenta e oito euros), acrescido de IVA à taxa legal em vigor;»
+«Considerando que o Instituto Superior de Ciências Sociais e Políticas da Universidade de Lisboa (ISCSP-ULisboa) pretende adquirir Serviços Informáticos, Inteligência Artificial e CCTV, com a empresa Atelierlogico Sistemas Informáticos, L.da, NIPC 506346862, num montante global EUR 398 988,00 (Trezentos e noventa e oito mil e novecentos e oitenta e oito euros), acrescido de IVA à taxa legal em vigor;»
 
 O presente despacho produz efeitos à data da sua assinatura.
 
 22 de outubro de 2025. - O Presidente, Ricardo João Magro Ramos Pinto.
+
+319695819

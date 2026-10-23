@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2004/07/153b00/40174018.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/771/2004/07/01/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/771-2004-517639
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2007-12-11T00:00:00Z'
+  retrieved_at: '2026-10-23T15:01:14Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: a9b32713e7358babbac26b77f253198bba43814969a40bd292e82b3299704974
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: caac800d28aa52d590229cc454317a4d0226b53b763fa979650411ac078fed58
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:01:14Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -74,6 +74,13 @@ relationships:
   target: pt:dre:628804:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:628804:por
+  label: "Extinta a zona de caça municipal da Herdade do Pinheiro do Mato, criada pela Port 1343/2001 de 05-Dez, alterada\
+    \ pelo presente diploma, ora revogada e concessionada a zona de caça associativa da Giesteira, pela PORT.1569/2007.11.12.2007.MAOTDR,\
+    \ DR.IS [238] de 11.12.2007\07\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/1569-2007-628804
+  date: '2007-12-11'
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/227-b/2000/09/15/p/dre
   label: null
@@ -86,16 +93,28 @@ relationships:
   target: eli:http://data.dre.pt/eli/port/1343/2001/12/05/p/dre
   label: null
   source: http://data.dre.pt/eli/port/1343/2001/12/05/p/dre
+- type: cites
+  target: pt:dre:534644:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:536243:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:582442:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:01:14Z'
   warnings: []
   errors: []
 ---

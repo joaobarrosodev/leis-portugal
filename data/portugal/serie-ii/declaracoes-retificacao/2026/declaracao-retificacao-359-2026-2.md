@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/2s/2026/04/083000000/0002200022.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -46,18 +46,18 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/declaracao-retificacao/359-2026-1095232829
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2026-04-29T00:00:00Z'
+  retrieved_at: '2026-10-23T15:04:03Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: f13798b98d94ed8f255e058a72dcbef0eaa291583976e3ef19c60503cca0ccc7
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 5171178cdd65ac9ea1740c26f0c7c2e9ce31f266ad19bce2c9c43ca18d940358
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:04:03Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -69,13 +69,13 @@ relationships: []
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:04:03Z'
   warnings: []
   errors: []
 ---
@@ -84,10 +84,12 @@ validation:
 
 Por ter sido publicado com inexatidão no Diário da República, 2.ª série, n.º 67, de 7 de abril de 2026, o Despacho n.º 4473/2026, de 9 de março, retifica-se que onde se lê:
 
-«fixando-lhe os abonos previstos nos n.<sup>os</sup>1 e 2 do artigo 20.º do referido diploma em 33 % dos abonos de idêntica natureza estabelecidos para o cargo de assessor»
+«fixando-lhe os abonos previstos nos n.os1 e 2 do artigo 20.º do referido diploma em 33 % dos abonos de idêntica natureza estabelecidos para o cargo de assessor»
 
 deve ler-se:
 
-«fixando-lhe os abonos previstos nos n.<sup>os</sup>1 e 2 do artigo 20.º do referido diploma em 50 % dos abonos de idêntica natureza estabelecidos para o cargo de assessor»
+«fixando-lhe os abonos previstos nos n.os1 e 2 do artigo 20.º do referido diploma em 50 % dos abonos de idêntica natureza estabelecidos para o cargo de assessor»
 
 20 de abril de 2026. - A Secretária-Geral, Ana Cristina Baptista.
+
+319991396

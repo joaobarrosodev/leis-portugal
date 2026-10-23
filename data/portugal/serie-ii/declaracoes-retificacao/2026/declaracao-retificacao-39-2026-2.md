@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/2s/2026/01/012000000/0011900119.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -46,18 +46,18 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/declaracao-retificacao/39-2026-1014142358
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2026-01-19T00:00:00Z'
+  retrieved_at: '2026-10-23T15:04:13Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: c49f517219a9fa6cdfde6f12e5cd3f84e355637443c9eb9fc2593cffa14d8603
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: a709cca6d7683b5cc00aad1348d2e9ee1e5c09d5d53f1f6ed1a920a392da2a0e
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:04:13Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -69,13 +69,13 @@ relationships: []
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:04:13Z'
   warnings: []
   errors: []
 ---
@@ -85,3 +85,5 @@ validation:
 Por ter sido publicado com inexatidão no Diário da República, 2.ª série, n.º 2, de 5 de janeiro de 2026, o Edital n.º 8/2026, retifica-se que onde se lê «processo disciplinar n.º 477/2019-L/D» deve ler-se «processo disciplinar n.º 477/2018-L/D».
 
 9 de janeiro de 2026. - A Presidente do Conselho de Deontologia de Lisboa, Alexandra Bordalo Gonçalves.
+
+319949670

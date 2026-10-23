@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/2s/2025/05/092000000/0046700479.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -46,18 +46,18 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/declaracao-retificacao/475-2025-918014372
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2025-05-14T00:00:00Z'
+  retrieved_at: '2026-10-23T14:59:26Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 18505fd6f00b67f1193eec756737d476282d7750f3421f5e85eefbaa9cf7a5b0
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 0dc7e66f46809a4552cc5d18ac87825f61a7a6a581e1e93f43f5f1888e1c3e2f
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T14:59:26Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -65,17 +65,29 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects: []
-relationships: []
+relationships:
+- type: cites
+  target: pt:dre:641166:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:65949853:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:906405153:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T14:59:26Z'
   warnings: []
   errors: []
 ---
@@ -132,43 +144,43 @@ Adequação da tipologia
 
 (Conforme o constante no Anexo II à [Lei n.º 81/2014](https://diariodarepublica.pt/dr/detalhe/lei/81-2014-65949853), de 19 de dezembro, na redação atual)
 
-|  | Critérios de Valorização | Critérios de Valorização | Pontuação | Coeficiente | Ponderação |  |
+|  | Critérios de Valorização | Pontuação | Coeficiente | Ponderação |  |  |
 | --- | --- | --- | --- | --- | --- | --- |
-| Carência Habitacional [A] | [A1] Sem alojamento | [A1] Sem alojamento | 15 | 100 | 15 % |  |
-| Carência Habitacional [A] | [A2] Alojamento sem condições de habitabilidade | Risco de ruína e incêndio elevado | 11,4 | 60 | 19 % |  |
-| Carência Habitacional [A] | [A2] Alojamento sem condições de habitabilidade | S/ abastecimento de luz da rede pública | 2,85 | 15 | 19 % |  |
-| Carência Habitacional [A] | [A2] Alojamento sem condições de habitabilidade | S/ abastecimento de água da rede pública | 2,85 | 15 | 19 % |  |
-| Carência Habitacional [A] | [A2] Alojamento sem condições de habitabilidade | Ausência de WC no interior do fogo | 3,8 | 20 | 19 % |  |
-| Carência Habitacional [A] | [A2] Alojamento sem condições de habitabilidade | Ausência de cozinha no interior do fogo | 3,8 | 20 | 19 % |  |
-| Carência Habitacional [A] | [A2] Alojamento sem condições de habitabilidade | Sobreocupação | 1,9 | 10 | 19 % |  |
-| Carência Habitacional [A] | [A2] Alojamento sem condições de habitabilidade | Ausência de acessibilidade/mobilidade à/na casa | 3,8 | 20 | 19 % |  |
-| Carência Habitacional [A] | [A3] Risco iminente de despejo | [A3] Risco iminente de despejo | 8 | 100 | 8 % |  |
-| Carência Habitacional [A] | [A4] Alojamento temporário | [A4] Alojamento temporário | 4,8 | 80 | 6 % |  |
-| Carência Habitacional [A] | [A5] Parte de edificação | [A5] Parte de edificação | 0,6 | 15 | 4 % |  |
-| Carência Habitacional [A] | [A6] Alojamento de familiares ou amigos | [A6] Alojamento de familiares ou amigos | 0,3 | 10 | 3 % |  |
+| Carência Habitacional [A] | [A1] Sem alojamento | 15 | 100 | 15 % |  |  |
+| [A2] Alojamento sem condições de habitabilidade | Risco de ruína e incêndio elevado | 11,4 | 60 | 19 % |  |  |
+| S/ abastecimento de luz da rede pública | 2,85 | 15 |  |  |  |  |
+| S/ abastecimento de água da rede pública | 2,85 | 15 |  |  |  |  |
+| Ausência de WC no interior do fogo | 3,8 | 20 |  |  |  |  |
+| Ausência de cozinha no interior do fogo | 3,8 | 20 |  |  |  |  |
+| Sobreocupação | 1,9 | 10 |  |  |  |  |
+| Ausência de acessibilidade/mobilidade à/na casa | 3,8 | 20 |  |  |  |  |
+| [A3] Risco iminente de despejo | 8 | 100 | 8 % |  |  |  |
+| [A4] Alojamento temporário | 4,8 | 80 | 6 % |  |  |  |
+| [A5] Parte de edificação | 0,6 | 15 | 4 % |  |  |  |
+| [A6] Alojamento de familiares ou amigos | 0,3 | 10 | 3 % |  |  |  |
 | Carência Socioeconómica [B] | [B1] Taxa de esforço | Até 25 % | 1,25 | 25 | 5 % |  |
-|  | [B1] Taxa de esforço | 26 % a 50 % | 2,5 | 50 | 5 % |  |
-|  | [B1] Taxa de esforço | 51 % a 75 % | 3,75 | 75 | 5 % |  |
-|  | [B1] Taxa de esforço | > 76 % | 5 | 100 | 5 % |  |
+|  | 26 % a 50 % | 2,5 | 50 |  |  |  |
+|  | 51 % a 75 % | 3,75 | 75 |  |  |  |
+|  | > 76 % | 5 | 100 |  |  |  |
 |  | [B2] Escalão de rendimentos | Escalão 1 | 3,75 | 75 | 5 % |  |
-|  | [B2] Escalão de rendimentos | Escalão 2 | 2,5 | 50 | 5 % |  |
-|  | [B2] Escalão de rendimentos | Escalão 3 | 1,25 | 25 | 5 % |  |
-|  | [B2] Escalão de rendimentos | Escalão 4 | 0,75 | 15 | 5 % |  |
+|  | Escalão 2 | 2,5 | 50 |  |  |  |
+|  | Escalão 3 | 1,25 | 25 |  |  |  |
+|  | Escalão 4 | 0,75 | 15 |  |  |  |
 |  | [B3] Fonte de rendimento | Trabalho | 2,5 | 50 | 5 % |  |
-|  | [B3] Fonte de rendimento | Pensão | 1,5 | 30 | 5 % |  |
+|  | Pensão | 1,5 | 30 |  |  |  |
 |  | [B4] Elementos com deficiência | Multideficiência | 10 | 100 | 10 % |  |
 |  |  | Deficiência mental | 5 | 50 |  |  |
 |  |  | Deficiência motora permanente | 5 | 50 |  |  |
 |  |  | Deficiência motora temporária | 3 | 30 |  |  |
 |  |  | Outras deficiências | 3 | 30 |  |  |
-|  | [B5] Dependências funcionais graves | [B5] Dependências funcionais graves | 2,5 | 50 | 5 % |  |
-|  | [B6] Doença mental | [B6] Doença mental | 1,8 | 60 | 3 % |  |
+|  | [B5] Dependências funcionais graves | 2,5 | 50 | 5 % |  |  |
+|  | [B6] Doença mental | 1,8 | 60 | 3 % |  |  |
 |  | [B7] Composição do agregado familiar | N.º de elementos com idade > 65 anos | 0,4 | 20 | 2 % |  |
-|  | [B7] Composição do agregado familiar | Monoparental | 0,3 | 15 | 2 % |  |
-|  | [B7] Composição do agregado familiar | Numerosa | 0,5 | 25 | 2 % |  |
-|  | [B8] Elemento vítima de violência doméstica | [B8] Elemento vítima de violência doméstica | 6 | 100 | 6 % |  |
-|  | [B9] Criança/Jovem em risco | [B9] Criança/Jovem em risco | 1,6 | 80 | 2 % |  |
-| Tempo de residência e/ou trabalho no Concelho [C] | Sim | Sim | 2 | 100 | 2 % | » |
+|  | Monoparental | 0,3 | 15 |  |  |  |
+|  | Numerosa | 0,5 | 25 |  |  |  |
+|  | [B8] Elemento vítima de violência doméstica | 6 | 100 | 6 % |  |  |
+|  | [B9] Criança/Jovem em risco | 1,6 | 80 | 2 % |  |  |
+| Tempo de residência e/ou trabalho no Concelho [C] | Sim | 2 | 100 | 2 % | » |  |
 
 deve ler-se:
 
@@ -178,9 +190,9 @@ Adequação da tipologia
 
 (Conforme o constante no Anexo II à [Lei n.º 81/2014](https://diariodarepublica.pt/dr/detalhe/lei/81-2014-65949853), de 19 de dezembro, na redação atual)
 
-| Composição do agregado número de pessoas | Mínima | Máxima |  |
+| Composição do agregado número de pessoas | Tipologia de habitação |  |  |
 | --- | --- | --- | --- |
-| Composição do agregado número de pessoas | Tipologia de habitação | Tipologia de habitação |  |
+| Mínima | Máxima |  |  |
 | 1 | T0 | T1/2 |  |
 | 2 | T1/2 | T2/4 |  |
 | 3 | T2/3 | T3/6 |  |
@@ -200,13 +212,13 @@ Arrendamento Apoiado - Matriz de Análise de Vulnerabilidade
 | Situação do Agregado | Critérios | Pontuação |  |
 | --- | --- | --- | --- |
 | Violência doméstica com medida de afastamento | Agregado sem dependentes | 8 |  |
-| Violência doméstica com medida de afastamento | Agregado com dependentes | 10 |  |
+| Agregado com dependentes | 10 |  |  |
 | Alojamento em edificado classificado com “Risco Muito elevado” | Agregado sem dependentes | 8 |  |
-| Alojamento em edificado classificado com “Risco Muito elevado” | Agregado com dependentes | 10 |  |
+| Agregado com dependentes | 10 |  |  |
 | Sem alojamento ou com despejo iminente de agregado com pessoa portadora de multideficiência | Agregado sem dependentes | 5 |  |
-| Sem alojamento ou com despejo iminente de agregado com pessoa portadora de multideficiência | Agregado com dependentes | 10 |  |
+| Agregado com dependentes | 10 |  |  |
 | Sem alojamento ou despejo iminente de um agregado que seja constituído por pessoa com dependência funcional grave | Agregado sem dependentes | 5 |  |
-| Sem alojamento ou despejo iminente de um agregado que seja constituído por pessoa com dependência funcional grave | Agregado com dependentes | 10 | » |
+| Agregado com dependentes | 10 | » |  |
 
 deve ler-se:
 
@@ -214,43 +226,43 @@ deve ler-se:
 
 Arrendamento Apoiado - Matriz de Análise de Vulnerabilidade
 
-|  | Critérios de Valorização | Critérios de Valorização | Pontuação | Coeficiente | Ponderação |  |
+|  | Critérios de Valorização | Pontuação | Coeficiente | Ponderação |  |  |
 | --- | --- | --- | --- | --- | --- | --- |
-| Carência Habitacional [A] | [A1] Sem alojamento | [A1] Sem alojamento | 15 | 100 | 15 % |  |
-| Carência Habitacional [A] | [A2] Alojamento sem condições de habitabilidade | Risco de ruína e incêndio elevado | 11,4 | 60 | 19 % |  |
-| Carência Habitacional [A] | [A2] Alojamento sem condições de habitabilidade | S/ abastecimento de luz da rede pública | 2,85 | 15 | 19 % |  |
-| Carência Habitacional [A] | [A2] Alojamento sem condições de habitabilidade | S/ abastecimento de água da rede pública | 2,85 | 15 | 19 % |  |
-| Carência Habitacional [A] | [A2] Alojamento sem condições de habitabilidade | Ausência de WC no interior do fogo | 3,8 | 20 | 19 % |  |
-| Carência Habitacional [A] | [A2] Alojamento sem condições de habitabilidade | Ausência de cozinha no interior do fogo | 3,8 | 20 | 19 % |  |
-| Carência Habitacional [A] | [A2] Alojamento sem condições de habitabilidade | Sobreocupação | 1,9 | 10 | 19 % |  |
-| Carência Habitacional [A] | [A2] Alojamento sem condições de habitabilidade | Ausência de acessibilidade/mobilidade à/na casa | 3,8 | 20 | 19 % |  |
-| Carência Habitacional [A] | [A3] Risco iminente de despejo | [A3] Risco iminente de despejo | 8 | 100 | 8 % |  |
-| Carência Habitacional [A] | [A4] Alojamento temporário | [A4] Alojamento temporário | 4,8 | 80 | 6 % |  |
-| Carência Habitacional [A] | [A5] Parte de edificação | [A5] Parte de edificação | 0,6 | 15 | 4 % |  |
-| Carência Habitacional [A] | [A6] Alojamento de familiares ou amigos | [A6] Alojamento de familiares ou amigos | 0,3 | 10 | 3 % |  |
+| Carência Habitacional [A] | [A1] Sem alojamento | 15 | 100 | 15 % |  |  |
+| [A2] Alojamento sem condições de habitabilidade | Risco de ruína e incêndio elevado | 11,4 | 60 | 19 % |  |  |
+| S/ abastecimento de luz da rede pública | 2,85 | 15 |  |  |  |  |
+| S/ abastecimento de água da rede pública | 2,85 | 15 |  |  |  |  |
+| Ausência de WC no interior do fogo | 3,8 | 20 |  |  |  |  |
+| Ausência de cozinha no interior do fogo | 3,8 | 20 |  |  |  |  |
+| Sobreocupação | 1,9 | 10 |  |  |  |  |
+| Ausência de acessibilidade/mobilidade à/na casa | 3,8 | 20 |  |  |  |  |
+| [A3] Risco iminente de despejo | 8 | 100 | 8 % |  |  |  |
+| [A4] Alojamento temporário | 4,8 | 80 | 6 % |  |  |  |
+| [A5] Parte de edificação | 0,6 | 15 | 4 % |  |  |  |
+| [A6] Alojamento de familiares ou amigos | 0,3 | 10 | 3 % |  |  |  |
 | Carência Socioeconómica [B] | [B1] Taxa de esforço | Até 25 % | 1,25 | 25 | 5 % |  |
-|  | [B1] Taxa de esforço | 26 % a 50 % | 2,5 | 50 | 5 % |  |
-|  | [B1] Taxa de esforço | 51 % a 75 % | 3,75 | 75 | 5 % |  |
-|  | [B1] Taxa de esforço | > 76 % | 5 | 100 | 5 % |  |
+|  | 26 % a 50 % | 2,5 | 50 |  |  |  |
+|  | 51 % a 75 % | 3,75 | 75 |  |  |  |
+|  | > 76 % | 5 | 100 |  |  |  |
 |  | [B2] Escalão de rendimentos | Escalão 1 | 3,75 | 75 | 5 % |  |
-|  | [B2] Escalão de rendimentos | Escalão 2 | 2,5 | 50 | 5 % |  |
-|  | [B2] Escalão de rendimentos | Escalão 3 | 1,25 | 25 | 5 % |  |
-|  | [B2] Escalão de rendimentos | Escalão 4 | 0,75 | 15 | 5 % |  |
+|  | Escalão 2 | 2,5 | 50 |  |  |  |
+|  | Escalão 3 | 1,25 | 25 |  |  |  |
+|  | Escalão 4 | 0,75 | 15 |  |  |  |
 |  | [B3] Fonte de rendimento | Trabalho | 2,5 | 50 | 5 % |  |
-|  | [B3] Fonte de rendimento | Pensão | 1,5 | 30 | 5 % |  |
+|  | Pensão | 1,5 | 30 |  |  |  |
 |  | [B4] Elementos com deficiência | Multideficiência | 10 | 100 | 10 % |  |
-|  | [B4] Elementos com deficiência | Deficiência mental | 5 | 50 | 10 % |  |
-|  | [B4] Elementos com deficiência | Deficiência motora permanente | 5 | 50 | 10 % |  |
-|  | [B4] Elementos com deficiência | Deficiência motora temporária | 3 | 30 | 10 % |  |
-|  | [B4] Elementos com deficiência | Outras deficiências | 3 | 30 | 10 % |  |
-|  | [B5] Dependências funcionais graves | [B5] Dependências funcionais graves | 2,5 | 50 | 5 % |  |
-|  | [B6] Doença mental | [B6] Doença mental | 1,8 | 60 | 3 % |  |
+|  | Deficiência mental | 5 | 50 |  |  |  |
+|  | Deficiência motora permanente | 5 | 50 |  |  |  |
+|  | Deficiência motora temporária | 3 | 30 |  |  |  |
+|  | Outras deficiências | 3 | 30 |  |  |  |
+|  | [B5] Dependências funcionais graves | 2,5 | 50 | 5 % |  |  |
+|  | [B6] Doença mental | 1,8 | 60 | 3 % |  |  |
 |  | [B7] Composição do agregado familiar | N.º de elementos com idade > 65 anos | 0,4 | 20 | 2 % |  |
-|  | [B7] Composição do agregado familiar | Monoparental | 0,3 | 15 | 2 % |  |
-|  | [B7] Composição do agregado familiar | Numerosa | 0,5 | 25 | 2 % |  |
-|  | [B8] Elemento vítima de violência doméstica | [B8] Elemento vítima de violência doméstica | 6 | 100 | 6 % |  |
-|  | [B9] Criança/Jovem em risco | [B9] Criança/Jovem em risco | 1,6 | 80 | 2 % |  |
-| Tempo de residência e/ou trabalho no Concelho [C] | Sim | Sim | 2 | 100 | 2 % | » |
+|  | Monoparental | 0,3 | 15 |  |  |  |
+|  | Numerosa | 0,5 | 25 |  |  |  |
+|  | [B8] Elemento vítima de violência doméstica | 6 | 100 | 6 % |  |  |
+|  | [B9] Criança/Jovem em risco | 1,6 | 80 | 2 % |  |  |
+| Tempo de residência e/ou trabalho no Concelho [C] | Sim | 2 | 100 | 2 % | » |  |
 
 Onde se lê:
 
@@ -258,9 +270,11 @@ Onde se lê:
 
 Arrendamento Apoiado - Matriz de Análise de Vulnerabilidade Agravada
 
-![](https://files.diariodarepublica.pt/images/918014372/918014567.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/918014372/918014567.png) |
+| --- |
 
-![](https://files.diariodarepublica.pt/images/918014372/918014568.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/918014372/918014568.png) |
+| --- |
 
 Definição de Conceitos da Matriz de Pontuação:
 
@@ -351,13 +365,13 @@ Arrendamento Apoiado - Matriz de Análise de Vulnerabilidade Agravada
 | Situação do Agregado | Critérios | Pontuação |
 | --- | --- | --- |
 | Violência doméstica com medida de afastamento | Agregado sem dependentes | 8 |
-| Violência doméstica com medida de afastamento | Agregado com dependentes | 10 |
+| Agregado com dependentes | 10 |  |
 | Alojamento em edificado classificado com “Risco Muito elevado” | Agregado sem dependentes | 8 |
-| Alojamento em edificado classificado com “Risco Muito elevado” | Agregado com dependentes | 10 |
+| Agregado com dependentes | 10 |  |
 | Sem alojamento ou com despejo iminente de agregado com pessoa portadora de multideficiência | Agregado sem dependentes | 5 |
-| Sem alojamento ou com despejo iminente de agregado com pessoa portadora de multideficiência | Agregado com dependentes | 10 |
+| Agregado com dependentes | 10 |  |
 | Sem alojamento ou despejo iminente de um agregado que seja constituído por pessoa com dependência funcional grave | Agregado sem dependentes | 5 |
-| Sem alojamento ou despejo iminente de um agregado que seja constituído por pessoa com dependência funcional grave | Agregado com dependentes | 10 |
+| Agregado com dependentes | 10 |  |
 
 Definição de Conceitos da Matriz de Pontuação:
 
@@ -445,9 +459,9 @@ Onde se lê:
 
 Adequação da tipologia ao agregado habitacional
 
-| Composição do agregado habitacional (elementos) | Mínima | Máxima |  |
+| Composição do agregado habitacional (elementos) | Tipologia de habitação |  |  |
 | --- | --- | --- | --- |
-| Composição do agregado habitacional (elementos) | Tipologia de habitação | Tipologia de habitação |  |
+| Mínima | Máxima |  |  |
 | 1 | T0 | T1 |  |
 | 2 | T1 | T2 |  |
 | 3 | T2 | T3 |  |
@@ -460,9 +474,9 @@ deve ler-se:
 
 Adequação da tipologia ao agregado habitacional
 
-| Composição do agregado habitacional (elementos) | Mínima | Máxima |  |
+| Composição do agregado habitacional (elementos) | Tipologia de habitação |  |  |
 | --- | --- | --- | --- |
-| Composição do agregado habitacional (elementos) | Tipologia de habitação | Tipologia de habitação |  |
+| Mínima | Máxima |  |  |
 | 1 | T0 | T1 |  |
 | 2 | T1 | T2 |  |
 | 3 | T2 | T3 |  |
@@ -477,18 +491,18 @@ Subsídio Municipal de Apoio ao Arrendamento - Tabela de Critérios de Hierarqui
 
 | Critérios de hierarquização (fórmula de cálculo) | Resultado (após aplicação da fórmula) | Pontos |
 | --- | --- | --- |
-| A - Dimensão e Composição do AgregadoA = 1 + 0,7 × (n.º elementos -1) + 0,25 × (n.º dependentes) + 0,25 × (n.º portadores de deficiência ?60 %) + 0,25 × (n.º dependentes em situação de monoparentalidade) (1) | A - Dimensão e Composição do AgregadoA = 1 + 0,7 × (n.º elementos -1) + 0,25 × (n.º dependentes) + 0,25 × (n.º portadores de deficiência ?60 %) + 0,25 × (n.º dependentes em situação de monoparentalidade) (1) | A - Dimensão e Composição do AgregadoA = 1 + 0,7 × (n.º elementos -1) + 0,25 × (n.º dependentes) + 0,25 × (n.º portadores de deficiência ?60 %) + 0,25 × (n.º dependentes em situação de monoparentalidade) (1) |
+| A - Dimensão e Composição do AgregadoA = 1 + 0,7 × (n.º elementos -1) + 0,25 × (n.º dependentes) + 0,25 × (n.º portadores de deficiência ?60 %) + 0,25 × (n.º dependentes em situação de monoparentalidade) (1) |  |  |
 | A > 3 | 90 | 90 |
 | A < 3 então X = A × 30 | > 30 e < 90 | Valor de X |
-| A < 3 então X = A × 30 | Valor X |  |
-| B - Proporcionalidade da taxa de esforço (2) - Taxa de esforço real/taxa de esforço máxima (TER/TEM) | B - Proporcionalidade da taxa de esforço (2) - Taxa de esforço real/taxa de esforço máxima (TER/TEM) | B - Proporcionalidade da taxa de esforço (2) - Taxa de esforço real/taxa de esforço máxima (TER/TEM) |
+| Valor X |  |  |
+| B - Proporcionalidade da taxa de esforço (2) - Taxa de esforço real/taxa de esforço máxima (TER/TEM) |  |  |
 | (TER/TEM) × 90 = Y | < 90 | < 90 |
-| (TER/TEM) × 90 = Y | Valor de Y | Valor de Y |
-| C - Proporcionalidade da renda (3) - Valor da renda mensal/renda máxima admitida (VRRM/RMA) | C - Proporcionalidade da renda (3) - Valor da renda mensal/renda máxima admitida (VRRM/RMA) | C - Proporcionalidade da renda (3) - Valor da renda mensal/renda máxima admitida (VRRM/RMA) |
+| Valor de Y | Valor de Y |  |
+| C - Proporcionalidade da renda (3) - Valor da renda mensal/renda máxima admitida (VRRM/RMA) |  |  |
 | < 50 % | 30 | 30 |
 | > 50 % = [1 - (VRRM/RMA)] × 30 × 2 = Z | < 30 | < 30 |
-| > 50 % = [1 - (VRRM/RMA)] × 30 × 2 = Z | Valor de Z | Valor de Z |
-| D - Ascendentes com mais de 65 anos | D - Ascendentes com mais de 65 anos | D - Ascendentes com mais de 65 anos |
+| Valor de Z | Valor de Z |  |
+| D - Ascendentes com mais de 65 anos |  |  |
 | 1 ou mais ascendentes | 20 | 20 |
 
 (1) Na fórmula são consideradas as majorações consoante o n.º de elementos do agregado habitacional, o n.º de dependentes, portadores de deficiência e n.º de dependentes em situação monoparental.
@@ -505,18 +519,18 @@ Subsídio Municipal de Apoio ao Arrendamento - Tabela de Critérios de Hierarqui
 
 | Critérios de hierarquização (fórmula de cálculo) | Resultado (após aplicação da fórmula) | Pontos |
 | --- | --- | --- |
-| A - Dimensão e Composição do AgregadoA = 1 + 0,7 × (n.º elementos -1) + 0,25 × (n.º dependentes) + 0,25 × (n.º portadores de deficiência ≥ 60 %) + 0,25 × (n.º dependentes em situação de monoparentalidade) (<sup>1</sup>) | A - Dimensão e Composição do AgregadoA = 1 + 0,7 × (n.º elementos -1) + 0,25 × (n.º dependentes) + 0,25 × (n.º portadores de deficiência ≥ 60 %) + 0,25 × (n.º dependentes em situação de monoparentalidade) (<sup>1</sup>) | A - Dimensão e Composição do AgregadoA = 1 + 0,7 × (n.º elementos -1) + 0,25 × (n.º dependentes) + 0,25 × (n.º portadores de deficiência ≥ 60 %) + 0,25 × (n.º dependentes em situação de monoparentalidade) (<sup>1</sup>) |
+| A - Dimensão e Composição do AgregadoA = 1 + 0,7 × (n.º elementos -1) + 0,25 × (n.º dependentes) + 0,25 × (n.º portadores de deficiência ≥ 60 %) + 0,25 × (n.º dependentes em situação de monoparentalidade) (1) |  |  |
 | A ≥ 3 | 90 | 90 |
 | A < 3 então X = A x 30 | ≥ 30 e < 90 | Valor de X |
-| A < 3 então X = A x 30 | Valor X |  |
-| B - Proporcionalidade da taxa de esforço (<sup>2</sup>) - Taxa de esforço real/taxa de esforço máxima (TER/TEM) | B - Proporcionalidade da taxa de esforço (<sup>2</sup>) - Taxa de esforço real/taxa de esforço máxima (TER/TEM) | B - Proporcionalidade da taxa de esforço (<sup>2</sup>) - Taxa de esforço real/taxa de esforço máxima (TER/TEM) |
+| Valor X |  |  |
+| B - Proporcionalidade da taxa de esforço (2) - Taxa de esforço real/taxa de esforço máxima (TER/TEM) |  |  |
 | (TER/TEM) × 90 = Y | ≤ 90 | ≤ 90 |
-| (TER/TEM) × 90 = Y | Valor de Y | Valor de Y |
-| C - Proporcionalidade da renda (<sup>3</sup>) - Valor da renda mensal/renda máxima admitida (VRRM/RMA) | C - Proporcionalidade da renda (<sup>3</sup>) - Valor da renda mensal/renda máxima admitida (VRRM/RMA) | C - Proporcionalidade da renda (<sup>3</sup>) - Valor da renda mensal/renda máxima admitida (VRRM/RMA) |
+| Valor de Y | Valor de Y |  |
+| C - Proporcionalidade da renda (3) - Valor da renda mensal/renda máxima admitida (VRRM/RMA) |  |  |
 | ≤ 50 % | 30 | 30 |
 | > 50 % = [1 - (VRRM/RMA)] × 30 × 2 = Z | < 30 | < 30 |
-| > 50 % = [1 - (VRRM/RMA)] × 30 × 2 = Z | Valor de Z | Valor de Z |
-| D - Ascendentes com mais de 65 anos | D - Ascendentes com mais de 65 anos | D - Ascendentes com mais de 65 anos |
+| Valor de Z | Valor de Z |  |
+| D - Ascendentes com mais de 65 anos |  |  |
 | 1 ou mais ascendentes | 20 | 20 |
 
 (1) Na fórmula são consideradas as majorações consoante o n.º de elementos do agregado habitacional, o n.º de dependentes, portadores de deficiência e n.º de dependentes em situação monoparental.
@@ -533,7 +547,7 @@ Subsídio Municipal de Apoio ao Arrendamento
 
 Apoio Financeiro à Renda por Escalão de Rendimento (em %)
 
-| Tipologia/Valor máximo de renda | Tipologia/Valor máximo de renda | Tipologia/Valor máximo de renda | Tipologia/Valor máximo de renda | Tipologia/Valor máximo de renda | Tipologia/Valor máximo de renda |  |
+| Tipologia/Valor máximo de renda |  |  |  |  |  |  |
 | --- | --- | --- | --- | --- | --- | --- |
 | T0 | T1 | T2 | T3 | T4 | T5 |  |
 | 1050 € | 1345 € | 1750 € | 2155 € | 2360 € | 2765 € | » |
@@ -556,3 +570,7 @@ Apoio Financeiro à Renda por Escalão de Rendimento (em %)
 | 6.º Escalão | 10 | » |
 
 9 de maio de 2025. - O Presidente da Câmara Municipal de Cascais, Dr. Carlos Manuel Lavrador de Jesus Carreiras.
+
+319033578
+
+.Tbl2 { min-height:26px; } .Tbl3 { border-bottom-color:rgb(0,0,0); border-top-color:rgb(0,0,0); border-left-width:0px; border-top-width:1px; border-right-width:1px; border-top-style:solid; border-bottom-width:1px; border-bottom-style:solid; border-right-style:solid; border-right-color:rgb(0,0,0); border-left-style:solid; vertical-align:middle; } .Tbl4 { border-bottom-color:rgb(0,0,0); border-top-color:rgb(0,0,0); border-left-width:1px; border-top-width:1px; border-right-width:1px; border-top-style:solid; border-left-color:rgb(0,0,0); border-bottom-width:1px; border-bottom-style:solid; border-right-style:solid; border-right-color:rgb(0,0,0); border-left-style:solid; vertical-align:middle; } .Tbl5 { text-align:center; } .Tbl6 { border-bottom-color:rgb(0,0,0); border-top-color:rgb(0,0,0); border-left-width:1px; border-top-width:1px; border-right-width:0px; border-top-style:solid; border-left-color:rgb(0,0,0); border-bottom-width:1px; border-bottom-style:solid; border-right-style:solid; border-left-style:solid; vertical-align:middle; } .Tbl7 { border-bottom-color:rgb(0,0,0); border-top-color:rgb(0,0,0); border-left-width:0px; border-top-width:0px; border-right-width:0px; border-top-style:solid; border-bottom-width:0px; border-bottom-style:solid; border-right-style:solid; border-left-style:solid; vertical-align:middle; } .Tbl8 { min-height:18px; } .Tbl9 { border-bottom-color:rgb(0,0,0); border-top-color:rgb(0,0,0); border-left-width:0px; border-top-width:1px; border-right-width:1px; border-top-style:solid; border-bottom-width:1px; border-bottom-style:solid; border-right-style:solid; border-right-color:rgb(0,0,0); border-left-style:solid; vertical-align:top; } .Tbl10 { border-bottom-color:rgb(0,0,0); border-top-color:rgb(0,0,0); border-left-width:1px; border-top-width:1px; border-right-width:1px; border-top-style:solid; border-left-color:rgb(0,0,0); border-bottom-width:1px; border-bottom-style:solid; border-right-style:solid; border-right-color:rgb(0,0,0); border-left-style:solid; vertical-align:top; } .Tbl11 { border-bottom-color:rgb(0,0,0); border-top-color:rgb(0,0,0); border-left-width:1px; border-top-width:1px; border-right-width:0px; border-top-style:solid; border-left-color:rgb(0,0,0); border-bottom-width:1px; border-bottom-style:solid; border-right-style:solid; border-left-style:solid; vertical-align:top; } .Tbl12 { border-bottom-color:rgb(0,0,0); border-top-color:rgb(0,0,0); border-left-width:0px; border-top-width:0px; border-right-width:0px; border-top-style:solid; border-bottom-width:0px; border-bottom-style:solid; border-right-style:solid; border-left-style:solid; vertical-align:top; } .Tbl13 { min-height:28px; } .Tbl14 { border-bottom-color:rgb(0,0,0); border-top-color:rgb(0,0,0); border-left-width:0px; border-top-width:1px; border-right-width:1px; border-top-style:solid; border-bottom-width:0px; border-bottom-style:solid; border-right-style:solid; border-right-color:rgb(0,0,0); border-left-style:solid; vertical-align:top; } .Tbl15 { border-bottom-color:rgb(0,0,0); border-top-color:rgb(0,0,0); border-left-width:0px; border-top-width:0px; border-right-width:1px; border-top-style:solid; border-bottom-width:0px; border-bottom-style:solid; border-right-style:solid; border-right-color:rgb(0,0,0); border-left-style:solid; vertical-align:top; } .Tbl16 { border-bottom-color:rgb(0,0,0); border-top-color:rgb(0,0,0); border-left-width:1px; border-top-width:1px; border-right-width:1px; border-top-style:solid; border-left-color:rgb(0,0,0); border-bottom-width:0px; border-bottom-style:solid; border-right-style:solid; border-right-color:rgb(0,0,0); border-left-style:solid; vertical-align:top; } .Tbl17 { border-bottom-color:rgb(0,0,0); border-top-color:rgb(0,0,0); border-left-width:1px; border-top-width:1px; border-right-width:0px; border-top-style:solid; border-left-color:rgb(0,0,0); border-bottom-width:0px; border-bottom-style:solid; border-right-style:solid; border-left-style:solid; vertical-align:top; } .Tbl18 { border-bottom-color:rgb(0,0,0); border-top-color:rgb(0,0,0); border-left-width:1px; border-top-width:0px; border-right-width:1px; border-top-style:solid; border-left-color:rgb(0,0,0); border-bottom-width:0px; border-bottom-style:solid; border-right-style:solid; border-right-color:rgb(0,0,0); border-left-style:solid; vertical-align:top; } .Tbl19 { border-bottom-color:rgb(0,0,0); border-top-color:rgb(0,0,0); border-left-width:1px; border-top-width:0px; border-right-width:0px; border-top-style:solid; border-left-color:rgb(0,0,0); border-bottom-width:0px; border-bottom-style:solid; border-right-style:solid; border-left-style:solid; vertical-align:top; } .Tbl20 { border-bottom-color:rgb(0,0,0); border-top-color:rgb(0,0,0); border-left-width:1px; border-top-width:0px; border-right-width:1px; border-top-style:solid; border-left-color:rgb(0,0,0); border-bottom-width:1px; border-bottom-style:solid; border-right-style:solid; border-right-color:rgb(0,0,0); border-left-style:solid; vertical-align:top; } .Tbl21 { border-bottom-color:rgb(0,0,0); border-top-color:rgb(0,0,0); border-left-width:1px; border-top-width:0px; border-right-width:0px; border-top-style:solid; border-left-color:rgb(0,0,0); border-bottom-width:1px; border-bottom-style:solid; border-right-style:solid; border-left-style:solid; vertical-align:top; } .Tbl22 { border-bottom-color:rgb(0,0,0); border-top-color:rgb(0,0,0); border-left-width:0px; border-top-width:0px; border-right-width:1px; border-top-style:solid; border-bottom-width:1px; border-bottom-style:solid; border-right-style:solid; border-right-color:rgb(0,0,0); border-left-style:solid; vertical-align:top; } .Tbl23 { border-bottom-color:rgb(0,0,0); border-top-color:rgb(0,0,0); border-left-width:0px; border-top-width:0px; border-right-width:0px; border-top-style:solid; border-bottom-width:0px; border-bottom-style:solid; border-right-style:solid; border-left-style:solid; vertical-align:bottom; } .Tbl24 { border-collapse:collapse; border-width:1px; } .Tbl25 { min-height:17px; } .Tbl26 { border-bottom-color:rgb(0,0,0); border-top-color:rgb(0,0,0); border-left-width:1px; border-top-width:1px; border-right-width:0px; border-top-style:solid; border-left-color:rgb(0,0,0); border-bottom-width:1px; border-bottom-style:solid; border-right-style:solid; border-right-color:rgb(0,0,0); border-left-style:solid; vertical-align:middle; } .Tbl27 { min-height:21px; } .Tbl28 { min-height:31px; } .Tbl29 { min-height:19px; } .Tbl30 { min-height:43px; } .Tbl31 { border-bottom-color:rgb(0,0,0); border-top-color:rgb(0,0,0); border-left-width:0px; border-top-width:1px; border-right-width:0px; border-top-style:solid; border-bottom-width:1px; border-bottom-style:solid; border-right-style:solid; border-right-color:rgb(0,0,0); border-left-style:solid; vertical-align:top; } .Tbl32 { border-bottom-color:rgb(0,0,0); border-top-color:rgb(0,0,0); border-left-width:0px; border-top-width:1px; border-right-width:0px; border-top-style:solid; border-bottom-width:1px; border-bottom-style:solid; border-right-style:solid; border-right-color:rgb(0,0,0); border-left-style:solid; vertical-align:middle; }

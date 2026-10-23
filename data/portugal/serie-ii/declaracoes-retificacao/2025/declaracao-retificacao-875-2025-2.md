@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/2s/2025/09/183000000/0026800268.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -47,18 +47,18 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/declaracao-retificacao/875-2025-935996574
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2025-09-23T00:00:00Z'
+  retrieved_at: '2026-10-23T15:01:51Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: a76aa9587bca463e945a4bc71c1278fc733789ed0520a57ec2138152670379c8
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: c4bd5a7cb897ed1b123c9456fdbf92a00e02265daff22a3b6789c48b9071983a
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:01:51Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -70,13 +70,13 @@ relationships: []
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:01:51Z'
   warnings: []
   errors: []
 ---
@@ -92,3 +92,5 @@ deve ler-se:
 «Ao abrigo das disposições conjugadas dos artigos 20.º e 27.º do Estatuto do Pessoal Dirigente, nomeio a licenciada Inês Cóias Correia, coordenadora da Área de Projetos e Obras do Instituto Superior Técnico, em regime de substituição, com efeitos a partir de 2 de janeiro de 2025.»
 
 18 de setembro de 2025. - O Presidente do Instituto Superior Técnico, Rogério Anacleto Cordeiro Colaço.
+
+319551735
